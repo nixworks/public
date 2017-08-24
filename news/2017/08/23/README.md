@@ -24,5 +24,6 @@ Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ru
 ### [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md)
 The Gulf Coast landfall will only be part of the danger.
 
+### [Qatar has introduced a new "Domestic Employment Law" that will provide legal protection for domestic workers, giving them more rights and control over their contracts. [http://www.bestcurrentaffairs.com/qatar-approves-domestic-employment-law/]](/news/2017/08/23/qatar-has-introduced-a-new-adomestic-employment-lawa-that-will-provide-legal-protection-for-domestic-workers-giving-them-more-rights-an.md)
 ## [Previous Day...](/news/2017/08/22/index.md)
 
