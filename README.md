@@ -9,9 +9,6 @@ Divers found the remains of missing sailors in a search of the Navy destroyer Jo
 ### [A passenger train collided with a dump truck on the line at Auraiya, India, and was derailed. Twenty-five people were injured. ](/news/2017/08/23/a-passenger-train-collided-with-a-dump-truck-on-the-line-at-auraiya-india-and-was-derailed-twenty-five-people-were-injured.md)
 At least one out of 10 derailed coaches capsized causing injuries to passengers
 
-### [China rejects claims that it is escalating disputes in the South China Sea when its ships sailed near a Philippines sandbar. ](/news/2017/08/23/china-rejects-claims-that-it-is-escalating-disputes-in-the-south-china-sea-when-its-ships-sailed-near-a-philippines-sandbar.md)
-Beijing has noted remarks accusing them of invading the territory of the Philippines, which President Rodrigo Duterte already denied. 
-
 ### [An impeachment complaint has been filed in the House of Representatives against Commission on Elections chairman Andres D. Bautista for betrayal of public trust and culpable violation of the Constitution, over recent allegations of ill-gotten wealth & graft and corruption related to the recent elections. ](/news/2017/08/23/an-impeachment-complaint-has-been-filed-in-the-house-of-representatives-against-commission-on-elections-chairman-andres-d-bautista-for-betr.md)
 _Context: Andres D. Bautista, Commission on Elections, Constitution, House of Representatives, Impeachment in the Philippines, recent elections_
 
@@ -20,6 +17,9 @@ A Danish inventor is accused of the negligent manslaughter of a Swedish journali
 
 ### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
+
+### [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md)
+The Gulf Coast landfall will only be part of the danger.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

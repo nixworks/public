@@ -7,8 +7,7 @@ AT least 25 suspected criminals were killed in simultaneous police operations in
 
 ### Source:
 
-1. [GMA News](http://www.gmanetwork.com/news/news/metro/622230/grade-11-student-killed-during-anti-drug-op-in-caloocan/story/)
-2. [Manila Times](http://www.manilatimes.net/25-dead-over-24-hours-one-time-big-time-police-operations-manila/344991/)
+1. [Manila Times](http://www.manilatimes.net/25-dead-over-24-hours-one-time-big-time-police-operations-manila/344991/)
 
 ### Related:
 

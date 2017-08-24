@@ -1,0 +1,21 @@
+### [2017-08-23](/news/2017/08/23/index.md)
+
+# Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. 
+
+The Gulf Coast landfall will only be part of the danger.
+
+
+### Source:
+
+1. [The Weather Channel](https://weather.com/storms/hurricane/news/tropical-storm-hurricane-harvey-gulf-of-mexico-forecast)
+
+### Related:
+
+1. [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's  Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is  expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-m.md) _Context: 2017 Atlantic hurricane season_
+2. [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md) _Context: 2017 Atlantic hurricane season_
+3. [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md) _Context: 2017 Atlantic hurricane season_
+4. [The U.S.  National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and  a weak or nonexistent El Nino. ](/news/2017/05/25/the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-atlantic-hurricane-season-the-f.md) _Context: 2017 Atlantic hurricane season_
+5. [ 2007 Atlantic hurricane season: Tropical Storm Ingrid weakens to a tropical depression. ](/news/2007/09/15/2007-atlantic-hurricane-season-tropical-storm-ingrid-weakens-to-a-tropical-depression.md) _Context: tropical depression_
+6. [ Hurricane Dean is downgraded to a tropical depression over Mexico after killing 20 people in the Caribbean. ](/news/2007/08/23/hurricane-dean-is-downgraded-to-a-tropical-depression-over-mexico-after-killing-20-people-in-the-caribbean.md) _Context: tropical depression_
+7. [ Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas.  ](/news/2007/08/15/tropical-depression-five-strengthens-into-tropical-storm-erin-causing-tropical-storm-warnings-to-be-issued-for-parts-of-texas-and-tamaulip.md) _Context: tropical depression_
+8. [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md) _Context: tropical depression_
