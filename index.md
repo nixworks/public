@@ -1,10 +1,13 @@
 ## [News](/news/2017/08/24/index.md)
 
-### [At least 12 people have died in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people died in neighbouring Guangdong province. ](/news/2017/08/24/at-least-12-people-have-died-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-four-more-people-died-in.md)
+### [At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-four-more-people-die-in-neighbo.md)
  HONG KONG (AP) — The most powerful typhoon to hit the southern Chinese region in more than half a century left at least 12 dead as a sudden deluge swamped the gambling hub of Maca
 
 ### [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md)
 _Context: Iran, Iran-Qatar relations, Qatar_
+
+### [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels, Caracol Television and RCN Television, off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md)
+Colombian TV channels Caracol and RCN are the latest foreign media to be pulled from the airwaves.
 
 ### [The Philippine senate investigates the alleged shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/the-philippine-senate-investigates-the-alleged-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-war.md)
 Watch the hearing live on Rappler on Thursday, August 24, at 2 pm
@@ -32,14 +35,14 @@ At least one out of 10 derailed coaches capsized causing injuries to passengers
 ### [Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.md)
 Aftershocks are expected from the quake; no injuries or damage yet reported.
 
+### [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md)
+The Gulf Coast landfall will only be part of the danger.
+
 ### [Disappearence of A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated and had metal attached to it so that it would not float. ](/news/2017/08/23/disappearence-of-a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-polic.md)
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
 
 ### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
-
-### [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md)
-The Gulf Coast landfall will only be part of the danger.
 
 ---
 
