@@ -16,7 +16,7 @@ It features a Chinese actor in a turban and fake beard, mockingly assuming an In
 _Context: First Lady of Zimbabwe, Grace Mugabe, Johannesburg, South Africa-Zimbabwe relations, South African Police Service_
 
 ### [At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. ](/news/2017/08/17/at-least-25-people-are-killed-and-48-are-arrested-by-the-philippine-national-police-manila-police-district-in-consecutive-anti-drug-operatio.md)
-AT least 25 suspected criminals were killed in simultaneous police operations in Manila over 24 hours, an official said Thursday. Chief Superintendent Joel Napoleon Coronel, director of the Manila Police District (MPD), clarified that in the 40 separate operations that started at 7 a.m. on Wednesday until 7 a.m. on Thursday, 14 of the 25
+AT least 25 suspected criminals were killed in simultaneous police operations in Manila over 24 hours, an official said Thursday. Chief Superintendent Joel Napoleon Coronel, director of the Manila Police District (MPD), clarified that in the 40 separate operations that started at 7 a.m. on Wednesday...
 
 ### [Hong Kong opposition activists Alex Chow, Joshua Wong, and Nathan Law are sentenced between six to eight months in prison and barred from holding office until 2022 as the Hong Kong government imposes harsher punishments on the individuals for their role in the Umbrella Movement. ](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.md)
 _Context: Alex Chow, Joshua Wong, Nathan Law, Politics of Hong Kong, Umbrella Movement_
