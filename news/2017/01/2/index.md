@@ -24,5 +24,14 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md)
 _Context: 2017 Manaus prison riot, Brazil, Manaus, prison riot_
 
+### [ In New Haven Connecticut, two men are suspected of approaching a man claiming to have a gun, took his cellphone and wallet. Then they stole his SUV and apparently lost control as they were killed when their stolen SUV accidentally crashed into and seriously damaged a synagogue ](/news/2017/01/2/in-new-haven-connecticut-two-men-are-suspected-of-approaching-a-man-claiming-to-have-a-gun-took-his-cellphone-and-wallet-then-they-stole.md)
+NEW HAVEN — Two men suspected of a carjacking in New Haven were killed when the stolen car crashed into a synagogue following a police chase. Ne
+
+### [ In Dearborn Michigan the driver and passenger of a minivan being pursued by police for missing plates were killed when they struck a car, lost control and hit several parked vehicles. ](/news/2017/01/2/in-dearborn-michigan-the-driver-and-passenger-of-a-minivan-being-pursued-by-police-for-missing-plates-were-killed-when-they-struck-a-car-l.md)
+### [ In Detroit, Michigan an African American man was shot in the head driving a car which crashed, police are searching for two men who ran from the car after the crash ](/news/2017/01/2/in-detroit-michigan-an-african-american-man-was-shot-in-the-head-driving-a-car-which-crashed-police-are-searching-for-two-men-who-ran-fro.md)
+### [ A first-year New Rochelle Police officer crashed his Jeep into a tree, killing passenger Isaac "Hooshie" Ward. He will be charged with vehicular manslaughter as his Blood Alcohol Content was above the legal limit ](/news/2017/01/2/a-first-year-new-rochelle-police-officer-crashed-his-jeep-into-a-tree-killing-passenger-isaac-hooshie-ward-he-will-be-charged-with-vehi.md)
+### [ Huzaifa Shafeeq was arraigned on burglary charges after police say the stole from a Long Island mosque charity box on Christmas and New Years Day.  Islamic Center board member said the amount taken wasn't large, but called police as the thief needed help. ](/news/2017/01/2/huzaifa-shafeeq-was-arraigned-on-burglary-charges-after-police-say-the-stole-from-a-long-island-mosque-charity-box-on-christmas-and-new-yea.md)
+A man is under arrest on Long Island after police say he broke into an Islamic center and stole money out of the charity box. 
+
 ## [Previous Day...](/news/2017/01/1/index.md)
 

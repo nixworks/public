@@ -12,6 +12,9 @@ Maryland authorities took down a statue on Friday of a 19th century chief justic
 ### [Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. ](/news/2017/08/18/two-joseon-dynasty-era-royal-seals-which-were-repatriated-last-july-from-the-u-s-after-being-illegally-taken-out-by-an-american-soldier-dur.md)
 _Context: Joseon Dynasty-era, Korean War, National Palace Museum of Korea, Repatriation of cultural heritage, illegally taken out, repatriated, royal seals_
 
+### [Workers at two British McDonald's restaurants overwhelmingly vote to authorize a strike  over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. ](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-co.md)
+Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain
+
 ### [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md)
 The Red Cross says the floods are becoming one of the worst regional humanitarian crises in years.
 
