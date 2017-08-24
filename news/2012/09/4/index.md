@@ -22,7 +22,7 @@ _Context: Airbus, civil aircraft_
 _Context: German, Lufthansa_
 
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: Amritsar, McDonald's restaurants, Vaishno Devi, vegetarian_
+_Context: Amritsar, McDonald's, Vaishno Devi, vegetarian_
 
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
 _Context: Marrakesh, Morocco, Ouarzazate_

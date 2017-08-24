@@ -7,7 +7,7 @@ More than 400 people fleeing Libya and Tunisia arrived overnight in an Italian i
 At least four people killed after troops open fire near Lebanese border, as thousands attend funeral of shot protester.
 
 ### [2011 Yemeni protests:Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-ppro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-kil.md)
-_Context: 2011 Yemeni protests, Sana'a_
+_Context: 2011 Yemeni protests, Sanaa_
 
 ### [2011 Egyptian revolution:Two protesters are shot and 60 injured in clashes in Cairo in opposing Coptic and Muslim demonstrations, while a large explosion is reported near the tomb of a Muslim sheikh on the Sinai Peninsula. ](/news/2011/05/14/2011-egyptian-revolution-ptwo-protesters-are-shot-and-60-injured-in-clashes-in-cairo-in-opposing-coptic-and-muslim-demonstrations-while-a-l.md)
 Violence erupted in the Cairo neighborhood of Maspero when pro-Coptic protesters clashed with unidentified men, leaving at least two people dead and 60 injured, state TV reported early Sunday.

@@ -1,7 +1,7 @@
 ## [2016-10-23](/news/2016/10/23/index.md)
 
 ### [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md)
-_Context: Sana'a, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
+_Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
 
 ### [Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md)
 Police in India say they have killed at least 24 Maoist rebels in the eastern state of Orissa.

@@ -19,7 +19,7 @@ Official figures show that there was a dramatic contraction in the economy in th
 _Context: Italian, Viareggio, liquified petroleum gas, subsequent explosion_
 
 ### [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. ](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen.md)
-_Context: Airbus A310, Comoros, Moroni, Sana'a, Yemen, Yemenia Flight 626_
+_Context: Airbus A310, Comoros, Moroni, Sanaa, Yemen, Yemenia Flight 626_
 
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)
 In one neighborhood, results of the American “surge” are evident but sectarian tensions remain.

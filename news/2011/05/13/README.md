@@ -4,7 +4,7 @@
 _Context: 2011 Bahraini uprising, Bahrain, King of Bahrain_
 
 ### [2011 Yemeni uprising:3 people are killed and 18 others are wounded as troops shoot at medics, witnesses and people protesting against the Saleh regime in Ibb, Ta'izz and Sana'a, though Saleh remains defiant. Qatar withdraws from mediation efforts, saying Saleh has been full of "indecision and delays". ](/news/2011/05/13/2011-yemeni-uprising-p3-people-are-killed-and-18-others-are-wounded-as-troops-shoot-at-medics-witnesses-and-people-protesting-against-the-s.md)
-_Context: 2011 Yemeni uprising, Ibb, Qatar, Saleh, Sana'a, Ta'izz_
+_Context: 2011 Yemeni uprising, Ibb, Qatar, Saleh, Sanaa, Ta'izz_
 
 ### [2011 Syrian uprising:Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/2011-syrian-uprising-psoldiers-are-reportedly-ordered-not-to-fire-on-protesters.md)
 Syrian President Bashar al-Assad has ordered troops not to fire on pro-democracy demonstrators, a rights campaigner said, ahead of Friday prayers that have become a rallying point for protesters in an eight-week uprising.

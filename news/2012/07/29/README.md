@@ -4,7 +4,7 @@
 _Context: Aleppo, Syria, Syrian Civil War_
 
 ### [A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. ](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.md)
-_Context: Sana'a, Yemen_
+_Context: Sanaa, Yemen_
 
 ### [Tropical Storm Khanun kills 88 people and leaves 60,000 homeless in North Korea, according to state media. ](/news/2012/07/29/tropical-storm-khanun-kills-88-people-and-leaves-60-000-homeless-in-north-korea-according-to-state-media.md)
 _Context: North Korea, Tropical Storm Khanun_

@@ -7,7 +7,7 @@ Egypt says its army will continue its offensive in the Sinai Peninsula until it 
 Islamists from Boko Haram killed 145 people in attacks on two Nigerian villages in recent days, according to residents.
 
 ### [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md)
-_Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
+_Context: Houthi, Sanaa, Saudi Arabian-led intervention in Yemen_
 
 ### [An attack on a convoy in northern Mali kills six UN Peacekeepers. ](/news/2015/07/2/an-attack-on-a-convoy-in-northern-mali-kills-six-un-peacekeepers.md)
 _Context: Mali, UN peacekeepers_

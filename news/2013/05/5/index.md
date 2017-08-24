@@ -28,7 +28,7 @@ _Context: Madrid, Spain, air show_
 _Context: 2013 Savar building collapse, Bangladesh_
 
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: California, East Palo Alto, McDonald's restaurants, United States, drive-by shooting_
+_Context: California, East Palo Alto, McDonald's, United States, drive-by shooting_
 
 ### [Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. ](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.md)
 _Context: Barisan Nasional, Malaysia, general election_

@@ -4,7 +4,7 @@
 Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill &quot;dozens&quot; more of those being held captive.
 
 ### [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md)
-_Context: Sana'a, Shiite, Yemeni Crisis, suicide bombing_
+_Context: Sanaa, Shiite, Yemeni Crisis, suicide bombing_
 
 ### [An ambush on Mexican police in Ocotlan, Jalisco state kills ten with none of the gunmen apprehended. ](/news/2015/03/20/an-ambush-on-mexican-police-in-ocotlan-jalisco-state-kills-ten-with-none-of-the-gunmen-apprehended.md)
 Ten people were killed in a gunfight in western Mexico when suspected gang members ambushed a police convoy in one of the deadliest attacks on security forces since Mexican President Enrique Pena Nieto took office in December 2012.

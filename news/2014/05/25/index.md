@@ -1,7 +1,7 @@
 ## [2014-05-25](/news/2014/05/25/index.md)
 
 ### [Al-Qaeda insurgency in Yemen:The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-pthe-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
-_Context: Al-Qaeda insurgency in Yemen, Sana'a, Yemeni, al-Qaeda_
+_Context: Al-Qaeda insurgency in Yemen, Sanaa, Yemeni, al-Qaeda_
 
 ### [Syrian Civil War:3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-p3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
 _Context: Homs, Syria, Syrian Civil War_

@@ -13,7 +13,7 @@ Rio de Janeiro (AFP) - Brazil&amp;#39;s government on Thursday declared an end t
 High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
 
 ### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
-_Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
+_Context: Islam, Supreme Court of India, Triple talaq in India, oral divorce_
 
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.

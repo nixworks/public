@@ -4,7 +4,7 @@
 _Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
 
 ### [The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-houses-and-killing-five-people.md)
-_Context: Sana'a, Saudi Arabian-led intervention in Yemen, World Heritage List_
+_Context: Sanaa, Saudi Arabian-led intervention in Yemen, World Heritage List_
 
 ### [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
 _Context: Libya, Libyan Civil War (2014-present), Tunisia_

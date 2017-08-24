@@ -19,7 +19,7 @@ _Context: Holcim, LaFarge, Merger_
 _Context: Mazda, Mazda6_
 
 ### [2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-pmcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md)
-_Context: 2014 Crimean crisis, McDonald's restaurants_
+_Context: 2014 Crimean crisis, McDonald's_
 
 ### [Heavy rainfall from a tropical low causes flooding at Honiara, Solomon Islands, leading to at least 16 deaths and thousands of people being evacuated. ](/news/2014/04/4/heavy-rainfall-from-a-tropical-low-causes-flooding-at-honiara-solomon-islands-leading-to-at-least-16-deaths-and-thousands-of-people-being.md)
 Government officials have said the death toll from severe flooding in the Solomon Islands has risen.

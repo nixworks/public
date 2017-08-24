@@ -31,7 +31,7 @@ _Context: 2015 Parramatta shooting, NSW Police, Parramatta, Sydney, terrorist at
 Hackers target credit agency Experian to steal the personal information of about 15 million T-Mobile customers and applicants for contracts in the US.
 
 ### [Longtime FIFA corporate sponsors -- Coca-Cola Co., McDonald's, Visa Inc., and Budweiser owner Anheuser-Busch InBev -- demand FIFA President Sepp Blatter step down immediately following last week's announcement of his criminal investigation by the Swiss attorney general. Blatter refused. ](/news/2015/10/2/longtime-fifa-corporate-sponsors-coca-cola-co-mcdonald-s-visa-inc-and-budweiser-owner-anheuser-busch-inbev-demand-fifa-president.md)
-_Context: 2015 FIFA corruption case, Anheuser-Busch InBev, Budweiser, FIFA, FIFA President, McDonald's restaurants, Sepp Blatter, Switzerland, The Coca-Cola Company, Visa Inc., attorney general_
+_Context: 2015 FIFA corruption case, Anheuser-Busch InBev, Budweiser, FIFA, FIFA President, McDonald's, Sepp Blatter, Switzerland, The Coca-Cola Company, Visa Inc., attorney general_
 
 ## [Previous Day...](/news/2015/10/1/index.md)
 

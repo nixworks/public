@@ -4,7 +4,7 @@
 Two Arab newspapers and alJazeera television said on Monday Libyan leader Muammar Gaddafiwas looking for an agreement allowing him to step down, butthere was no official confirmation of the reports.
 
 ### [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md)
-_Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen_
+_Context: 2011 Yemeni protests, Saleh, Sanaa, Yemen_
 
 ### [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
 _Context: 2010-2011 Ivorian crisis, Ivory Coast_

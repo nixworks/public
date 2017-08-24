@@ -22,7 +22,7 @@ _Context: Christopher Speight, United States, Virginia, first-degree murder_
 _Context: United States, overturns campaign spending limits_
 
 ### [The Parliament of Angola approves a new constitution that abolishes direct presidential elections. ](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.md)
-_Context: Angola, Parliament, President of Angola, constitution, elections_
+_Context: Angola, Parliament, President, constitution, elections_
 
 ### [Nigerian authorities relax a 24 hour curfew put in place in Jos due to recent religious violence. ](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.md)
 _Context: Jos, Nigeria, curfew, events earlier this year_

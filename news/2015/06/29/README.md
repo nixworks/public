@@ -19,7 +19,7 @@ _Context: Cairo, Egypt, Hisham Barakat_
 Hundreds of insurgents pledging allegiance to Islamic State pushed out the Taliban.
 
 ### [A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility.  ](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-state-has-claimed-responsibility.md)
-_Context: Sana'a, Yemen, Yemeni Crisis (2011-present), car bomb_
+_Context: Sanaa, Yemen, Yemeni Crisis (2011-present), car bomb_
 
 ### [ The Israeli Navy intercepts and takes control of the lone ship still involved in Freedom Flotilla III and pilots it to Ashdod. The other three ships involved had already turned back after being intercepted. Israel offered all ships to unload their humanitarian aid cargo in Israeli ports and transport it into Gaza for free but the ships refused. ](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.md)
 Contact lost with Swedish-registered &#8216;Marianne&#8217; making its way to Palestinian enclave alone; Israeli Navy boats said to be nearby

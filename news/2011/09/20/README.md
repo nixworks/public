@@ -1,7 +1,7 @@
 ## [2011-09-20](/news/2011/09/20/index.md)
 
 ### [2011 Yemeni uprising: Rockets hit a protest camp in the Yemeni capital, Sanaa, killing at least two people. ](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.md)
-_Context: 2011 Yemeni uprising, Sana'a, Yemen_
+_Context: 2011 Yemeni uprising, Sanaa, Yemen_
 
 ### [Burhanuddin Rabbani, the former President of Afghanistan, is killed in a suicide bombing at his home in Kabul while meeting with a Taliban delegation to discuss a possible peace deal. ](/news/2011/09/20/burhanuddin-rabbani-the-former-president-of-afghanistan-is-killed-in-a-suicide-bombing-at-his-home-in-kabul-while-meeting-with-a-taliban-d.md)
 Burhanuddin Rabbani, who headed team tasked with negotiating with Taliban, killed in suicide attack in his home.

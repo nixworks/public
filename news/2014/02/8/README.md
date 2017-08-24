@@ -1,7 +1,7 @@
 ## [2014-02-8](/news/2014/02/8/index.md)
 
 ### [McDonald's opens their first restaurant within Vietnam in Ho Chi Minh City. ](/news/2014/02/8/mcdonald-s-opens-their-first-restaurant-within-vietnam-in-ho-chi-minh-city.md)
-_Context: Ho Chi Minh City, McDonald's restaurants, Vietnam_
+_Context: Ho Chi Minh City, McDonald's, Vietnam_
 
 ### [A rockslide strikes and derails a passing train near Annot, Alpes-de-Haute-Provence, France, causing two deaths. ](/news/2014/02/8/a-rockslide-strikes-and-derails-a-passing-train-near-annot-alpes-de-haute-provence-france-causing-two-deaths.md)
 Two people die and at least nine are injured when a falling boulder derails a tourist train in the southern French Alps.
