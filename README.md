@@ -32,13 +32,12 @@ Aftershocks are expected from the quake; no injuries or damage yet reported.
 ### [Disappearence of A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated, and had metal attached to it so that it would not float. ](/news/2017/08/23/disappearence-of-a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-polic.md)
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
 
-### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jose Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
+### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
 
 ### [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md)
 The Gulf Coast landfall will only be part of the danger.
 
-### [Qatar has introduced a new "Domestic Employment Law" that will provide legal protection for domestic workers, giving them more rights and control over their contracts. [http://www.bestcurrentaffairs.com/qatar-approves-domestic-employment-law/]](/news/2017/08/23/qatar-has-introduced-a-new-adomestic-employment-lawa-that-will-provide-legal-protection-for-domestic-workers-giving-them-more-rights-an.md)
 ---
 
 ## [Day Before Yesterday](/news/2017/08/22/index.md)
