@@ -1,6 +1,6 @@
 ### [2017-08-18](/news/2017/08/18/index.md)
 
-# Repatriation of cultural heritage. Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. 
+# Repatriation of cultural heritage: Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Korean border incidents. The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/korean-border-incidents-the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in.md) _Context: Korean War_
+1. [Korean border incidents: The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/korean-border-incidents-the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in.md) _Context: Korean War_
 2. [North and South Korea are to hold reunions for families divided by the Korean War from October 20 to October 26. ](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.md) _Context: Korean War_
 3. [South Korea announces that it will repatriate the remains of Chinese Peoples Liberation Army soldiers killed in the Korean War. ](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.md) _Context: Korean War_
 4. [South Korea sends the remains of 437 Chinese soldiers that fought during the Korean War back to be buried in China as a gesture of friendship and healing between the two countries. ](/news/2014/03/28/south-korea-sends-the-remains-of-437-chinese-soldiers-that-fought-during-the-korean-war-back-to-be-buried-in-china-as-a-gesture-of-friendshi.md) _Context: Korean War_

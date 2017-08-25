@@ -1,6 +1,6 @@
 ### [2017-08-23](/news/2017/08/23/index.md)
 
-# Nuclear weapons and the United States. The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. 
+# Nuclear weapons and the United States: The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. 
 
 The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $900 million contracts to continue work on a replacement for the AGM-86B air-launched nuclear cruise missile, the Pentagon said on Wednesday.
 
@@ -11,7 +11,7 @@ The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $90
 
 ### Related:
 
-1. [Raytheon. Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-gove.md) _Context: Raytheon_
+1. [Raytheon: Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-gove.md) _Context: Raytheon_
 2. [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md) _Context: Lockheed_
 3. [Northrop Grumman, the developer of the Air Force's current bomber, the B-2, beats out the Boeing-Lockheed Martin team and is awarded the Pentagon contract to build a fleet of stealthy planes known as the Long Range Strike Bomber (LRS-B). ](/news/2015/10/27/northrop-grumman-the-developer-of-the-air-force-s-current-bomber-the-b-2-beats-out-the-boeing-lockheed-martin-team-and-is-awarded-the-pen.md) _Context: Lockheed_
 4. [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to "The Korea Times". The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md) _Context: Lockheed_

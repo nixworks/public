@@ -1,6 +1,6 @@
 ### [2017-08-20](/news/2017/08/20/index.md)
 
-# Deaths in August 2017. American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. 
+# Deaths in August 2017: American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. 
 
 Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, from the light Martin-and-Lewis fare of &quot;Artists and Models&quot; to Martin Scorsese&#x27;s darkly funny &quot;The King of Comedy.&quot;
 

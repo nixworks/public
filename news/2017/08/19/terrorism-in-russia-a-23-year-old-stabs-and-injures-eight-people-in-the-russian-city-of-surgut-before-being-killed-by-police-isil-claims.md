@@ -1,6 +1,6 @@
 ### [2017-08-19](/news/2017/08/19/index.md)
 
-# Terrorism in Russia. A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. 
+# Terrorism in Russia: A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. 
 
 ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut. Earlier today, a 23-year-old local resident with a...
 

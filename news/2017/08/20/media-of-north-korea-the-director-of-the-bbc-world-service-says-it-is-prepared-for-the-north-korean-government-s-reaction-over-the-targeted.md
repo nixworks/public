@@ -1,6 +1,6 @@
 ### [2017-08-20](/news/2017/08/20/index.md)
 
-# Media of North Korea. The director of the BBC World Service says it is prepared for the North Korean government's reaction over the targeted launch of a radio service on North Korea in September, despite the recent international tensions. The North Korean embassy in London has already told the BBC "in no uncertain terms" that Pyongyang does not want any such service. 
+# Media of North Korea: The director of the BBC World Service says it is prepared for the North Korean government's reaction over the targeted launch of a radio service on North Korea in September, despite the recent international tensions. The North Korean embassy in London has already told the BBC "in no uncertain terms" that Pyongyang does not want any such service. 
 
 Director of BBC World Service says tensions over North Korea’s nuclear tests vindicate the launch of a targeted service
 
@@ -11,8 +11,8 @@ Director of BBC World Service says tensions over North Korea’s nuclear tests v
 
 ### Related:
 
-1. [2017 North Korea crisis. U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/2017-north-korea-crisis-u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-uni.md) _Context: recent international tensions_
-2. [2017 North Korea crisis. The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/2017-north-korea-crisis-the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-pe.md) _Context: recent international tensions_
+1. [2017 North Korea crisis: U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/2017-north-korea-crisis-u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-uni.md) _Context: recent international tensions_
+2. [2017 North Korea crisis: The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/2017-north-korea-crisis-the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-pe.md) _Context: recent international tensions_
 3. [A study by BBC World Service and King's College London finds the death toll from jihadist attacks during the month of November surpassed 5,000. ](/news/2014/12/11/a-study-by-bbc-world-service-and-king-s-college-london-finds-the-death-toll-from-jihadist-attacks-during-the-month-of-november-surpassed-5-0.md) _Context: BBC World Service_
 4. [North Korea acknowledges that Kim Jong-un is suffering from "discomfort", after a three-week absence from state media photographs. ](/news/2014/09/26/north-korea-acknowledges-that-kim-jong-un-is-suffering-from-discomfort-after-a-three-week-absence-from-state-media-photographs.md) _Context: Media of North Korea_
 5. [A joint New Year editorial by North Korean media calls for "human shields" to protect new Supreme Leader Kim Jong-un. ](/news/2012/01/1/a-joint-new-year-editorial-by-north-korean-media-calls-for-human-shields-to-protect-new-supreme-leader-kim-jong-un.md) _Context: Media of North Korea_

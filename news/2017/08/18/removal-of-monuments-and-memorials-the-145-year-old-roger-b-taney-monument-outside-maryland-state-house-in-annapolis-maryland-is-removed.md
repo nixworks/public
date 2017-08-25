@@ -1,6 +1,6 @@
 ### [2017-08-18](/news/2017/08/18/index.md)
 
-# Removal of monuments and memorials. The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. 
+# Removal of monuments and memorials: The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. 
 
 Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
 

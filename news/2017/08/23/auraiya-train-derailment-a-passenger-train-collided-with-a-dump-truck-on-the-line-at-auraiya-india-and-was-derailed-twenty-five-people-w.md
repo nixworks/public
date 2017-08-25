@@ -1,6 +1,6 @@
 ### [2017-08-23](/news/2017/08/23/index.md)
 
-# Auraiya train derailment. A passenger train collided with a dump truck on the line at Auraiya, India, and was derailed. Twenty-five people were injured. 
+# Auraiya train derailment: A passenger train collided with a dump truck on the line at Auraiya, India, and was derailed. Twenty-five people were injured. 
 
 At least one out of 10 derailed coaches capsized causing injuries to passengers
 
