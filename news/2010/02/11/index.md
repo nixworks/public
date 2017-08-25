@@ -28,7 +28,7 @@ _Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, United Sta
 _Context: Haiti, United States_
 
 ### [A large eruption occurs at the Soufriere Hills volcano in Montserrat after a partial lava dome collapse, sending ash to a height of 50,000 feet. ](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.md)
-The Government of Montserrat, the Disaster Management Coordinating Agency (DMCA) and the MVO have adopted a Hazard Level System which has been used at the Soufrière Hills Volcano, Montserrat since August 1, 2008. The purpose of the system is to improve management of the ongoing eruption and to provide important infomation to the residents of &hellip;
+The Government of Montserrat, the Disaster Management Coordinating Agency (DMCA) and the MVO have adopted a Hazard Level System which has been used at the Soufrière Hills Volcano, Montserrat since August 1, 2008. The purpose of the system is to improve management of the ongoing eruption and to prov...
 
 ## [Previous Day...](/news/2010/02/10/index.md)
 

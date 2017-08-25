@@ -28,7 +28,7 @@ The United Nations Security Council voted Tuesday to impose an arms embargo on Y
 _Context: Fukui Prefecture, Japan, Takahama Nuclear Power Plant_
 
 ### [SpaceX's latest attempt at recycling its Falcon 9 rocket by landing it on an ocean platform fails. ](/news/2015/04/14/spacex-s-latest-attempt-at-recycling-its-falcon-9-rocket-by-landing-it-on-an-ocean-platform-fails.md)
-SpaceX&#x27;s latest attempt at recycling its Falcon 9 rocket by landing it upright on an ocean platform failed Tuesday, after a successful launch of its cargo mission to space. Rocket landed on droneship, but too hard for survival,&quot; SpaceX chief Elon Musk said on Twitter, after the rocket and Dragon
+SpaceX&#x27;s latest attempt at recycling its Falcon 9 rocket by landing it upright on an ocean platform failed Tuesday, after a successful launch of its cargo mission to space. Rocket landed on droneship, but too hard for survival,&quot; SpaceX chief Elon Musk said on Twitter, after the rocket and ...
 
 ### [Stone tools found at Lomekwi 3 are dated to 3.3 million years ago, which, if confirmed, would represent the oldest known stone tools. ](/news/2015/04/14/stone-tools-found-at-lomekwi-3-are-dated-to-3-3-million-years-ago-which-if-confirmed-would-represent-the-oldest-known-stone-tools.md)
 _Context: Lomekwi 3_

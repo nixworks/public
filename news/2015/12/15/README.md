@@ -7,7 +7,7 @@ Aid agencies warn of dire humanitarian conditions as bombings knock out civilian
 _Context: Scott H. Swift, South China Sea, Territorial disputes in the South China Sea, United States Pacific Fleet_
 
 ### [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md)
-Brutal weekend attacks on three villages by Boko Haram Islamists in the restive northeast of Nigeria have left 30 dead and 20 others wounded, a vigilante told AFP. &quot;Most of the victims were slaughtered and most of the wounded (had suffered) machete cuts,&quot; Mustapha Karimbe, a civilian helping
+Brutal weekend attacks on three villages by Boko Haram Islamists in the restive northeast of Nigeria have left 30 dead and 20 others wounded, a vigilante told AFP. &quot;Most of the victims were slaughtered and most of the wounded (had suffered) machete cuts,&quot; Mustapha Karimbe, a civilian helpi...
 
 ### [France's Air Force carries out their first cruise-missile strikes targeting Islamic State of Iraq and the Levant installations in Iraq, including "a training center and logistical depot," according to the French defence ministry. ](/news/2015/12/15/france-s-air-force-carries-out-their-first-cruise-missile-strikes-targeting-islamic-state-of-iraq-and-the-levant-installations-in-iraq-incl.md)
 The French air force used its first cruise missiles against Islamic State group targets in Iraq on Tuesday, the defence ministry said.

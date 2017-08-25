@@ -22,7 +22,7 @@ _Context: Oman, Saudi Arabia, wadi_
 _Context: Lo Cai Province, northern Vietnam_
 
 ### [The UN Human Rights Office says that the force-feeding of hunger-strikers at the U.S. Guantnamo Bay Prison is a violation of international law. ](/news/2013/05/1/the-un-human-rights-office-says-that-the-force-feeding-of-hunger-strikers-at-the-u-s-guantanamo-bay-prison-is-a-violation-of-international.md)
-Force-feeding&#x20;is&#x20;&quot;torture&quot;&#x20;and&#x20;breaks&#x20;international&#x20;law,&#x20;the&#x20;UN&#x27;s&#x20;human&#x20;rights&#x20;office&#x20;said&#x20;Wednesday,&#x20;as&#x20;100&#x20;of&#x20;the&#x20;166&#x20;detainees&#x20;at&#x20;Guantanamo&#x20;Bay&#x20;continue&#x20;a&#x20;months-long&#x20;hunger&#x20;strike.&#x20;Twenty-one&#x20;inmates&#x20;are&#x20;being&#x20;force-fed&#x20;through&#x20;nasal&#x20;tubes.
+Force-feeding&#x20;is&#x20;&quot;torture&quot;&#x20;and&#x20;breaks&#x20;international&#x20;law,&#x20;the&#x20;UN&#x27;s&#x20;human&#x20;rights&#x20;office&#x20;said&#x20;Wednesday,&#x20;as&#x20;100&#x20;of&#x20;the&#x20;166&#x20;detainees&#x20;at&#x20;Guantanamo&#x20;Bay&#x20;continue&#x20;a&#x20;m...
 
 ### [Several British Overseas Territories, including Bermuda and the Cayman Islands, sign agreements to share tax information with UK and other EU members. ](/news/2013/05/1/several-british-overseas-territories-including-bermuda-and-the-cayman-islands-sign-agreements-to-share-tax-information-with-uk-and-other-e.md)
 Bermuda and other British overseas territories with financial centres have signed agreements on sharing tax information, the Treasury announces.

@@ -1,7 +1,7 @@
 ## [2015-09-21](/news/2015/09/21/index.md)
 
 ### [Government forces target al-Shaar neighborhood in eastern Aleppo city with surface-to-surface missiles, hitting a crowded public market, killing more than 30 civilians and dozens wounded. ](/news/2015/09/21/government-forces-target-al-shaar-neighborhood-in-eastern-aleppo-city-with-surface-to-surface-missiles-hitting-a-crowded-public-market-kil.md)
-ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the northern Syrian city of Aleppo amid heavy bombardment by forces loyal to President Bashar al-Assad, activists reported on Monday. Pro-Assad forces targeted al-Shaar neighborhood in eastern Aleppo with surface-to-surface missiles on Monday afternoon. &#8220;The missiles hit a crowded public market in al-Shaar, causing dozens &hellip;
+ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the northern Syrian city of Aleppo amid heavy bombardment by forces loyal to President Bashar al-Assad, activists reported on Monday. Pro-Assad forces targeted al-Shaar neighborhood in eastern Aleppo with surface-to-surface ...
 
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
 _Context: Mogadishu, President of Somalia, Somalia, War in Somalia (2009-present), car bomb_

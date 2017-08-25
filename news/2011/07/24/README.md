@@ -13,7 +13,7 @@ _Context: Japanese television, digital television_
 Treasury Secretary Timothy Geithner said on Sunday that after careful review it was not an option for President Barack Obama to raise the debt ceiling on his own by invoking constitutional authority.
 
 ### [Democratic Party leaders call for the United States House Committee on Ethics to investigate claims that Rep David Wu of Oregon had sexually assaulted a teenager. ](/news/2011/07/24/democratic-party-leaders-call-for-the-united-states-house-committee-on-ethics-to-investigate-claims-that-rep-david-wu-of-oregon-had-sexually.md)
-Oregon Rep. David Wu&rsquo;s, accused of an unwanted sexual encounter late last year, is rapidly watching his political problems mount.THE FIX | Ore. legislator with history of allegedly bizarre behavior faces charge of sexual misconduct.THE FIX | Accused of an unwanted sexual encounter, lawmaker watches his problems mount.
+Oregon Rep. David Wu&rsquo;s, accused of an unwanted sexual encounter late last year, is rapidly watching his political problems mount.THE FIX | Ore. legislator with history of allegedly bizarre behavior faces charge of sexual misconduct.THE FIX | Accused of an unwanted sexual encounter, lawmaker wa...
 
 ## [Previous Day...](/news/2011/07/23/index.md)
 

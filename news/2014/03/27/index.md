@@ -19,7 +19,7 @@ _Context:  Moscow-based, High Court, London Metal Exchange, Rusal_
 Powerful blizzards have blasted across Canada&#039;s Atlantic coast as high winds and snowfall kept many residents indoors.
 
 ### [Holy See-United States relations:President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-seeaunited-states-relations-ppresident-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugur.md)
-VATICAN CITY -- Greeting a man he has called an “inspiration,” President Obama paid his first visit to Pope Francis on Thursday, opening a meeting the White House hopes will highlight the leaders’ shared views on economic inequality and poverty and perhaps drown out the president’s conflicts with the Catholic Church hierarchy at home.
+VATICAN CITY -- Greeting a man he has called an “inspiration,” President Obama paid his first visit to Pope Francis on Thursday, opening a meeting the White House hopes will highlight the leaders’ shared views on economic inequality and poverty and perhaps drown out the president’s conflicts...
 
 ### [2014 Crimean crisis:The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-pthe-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
 _Context: 2014 Crimean crisis, Crimea, General Assembly of the United Nations, Russia_

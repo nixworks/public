@@ -22,7 +22,7 @@ _Context: Apple, Samsung, patent law, valuation_
 _Context: Beijing_
 
 ### [Forest fires in Catalonia, Spain kill four people, with fires also in France, Portugal and Romania. ](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.md)
-A protected forest in Romania&#8217;s Bucegi mountains, at some 1,700 m altitude, has been burning since the middle of July, but it took authorities more than a week to learn about the fire and intervene. Two helicopters from the Interior Minister will try to put out the fire on Monday (July 23), with two more
+A protected forest in Romania&#8217;s Bucegi mountains, at some 1,700 m altitude, has been burning since the middle of July, but it took authorities more than a week to learn about the fire and intervene. Two helicopters from the Interior Minister will try to put out the fire on Monday (July 23), wi...
 
 ### [James Eagan Holmes, the suspect of the 2012 Aurora shooting, makes his first court appearance. ](/news/2012/07/23/james-eagan-holmes-the-suspect-of-the-2012-aurora-shooting-makes-his-first-court-appearance.md)
 The proceeding offered the first public glimpse of James E. Holmes since he was arrested outside the Century 16 multiplex in Aurora early Friday.

@@ -19,7 +19,7 @@ _Context: China, Donald Tsang, Hong Kong_
 _Context: Muslim, Sri Lanka, Tamil_
 
 ### [ China's southern province of Guangdong suffers great damage from the flooding Pearl River. ](/news/2005/06/25/china-s-southern-province-of-guangdong-suffers-great-damage-from-the-flooding-pearl-river.md)
-_Context: China, Guangdong province, Pearl_
+_Context: China, Guangdong, Pearl_
 
 ### [ In Iran, the hardline Mayor of Tehran, Mahmoud Ahmadinejad, wins Friday's run-off election for the nation's presidency with 62% of the vote. ](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.md)
 _Context: Friday's run-off election, Iran, Mahmoud Ahmadinejad, President, Tehran_

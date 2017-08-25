@@ -115,7 +115,7 @@ _Context: Brazil, Brazilian presidential election_
 Hip hop star Wyclef Jean formally registers to stand for president of his native Haiti as it rebuilds after the earthquake.
 
 ### [Pal Schmitt takes office as President of Hungary, succeeding outgoing president Laszlo Solyom. ](/news/2010/08/6/pa-l-schmitt-takes-office-as-president-of-hungary-succeeding-outgoing-president-la-szla3-sa3lyom.md)
-Hungary&#8217;s outgoing President Laszlo Solyom on Thursday handed over his office to President elect Pal Schmitt. Solyom wished much success to the new president and said that he would remain an &#8220;invisible president&#8221; standing next to Schmitt. &#8220;Each president wants to open a new chapter but one should never forget that we are all writing &hellip;
+Hungary&#8217;s outgoing President Laszlo Solyom on Thursday handed over his office to President elect Pal Schmitt. Solyom wished much success to the new president and said that he would remain an &#8220;invisible president&#8221; standing next to Schmitt. &#8220;Each president wants to open a new c...
 
 ### [Bronislaw Komorowski is officially sworn in as President of Poland, following the death of President Lech Kaczynski in a plane crash in April. ](/news/2010/08/6/bronisaaw-komorowski-is-officially-sworn-in-as-president-of-poland-following-the-death-of-president-lech-kaczyaski-in-a-plane-crash-in-ap.md)
 Bronislaw Komorowski pledges to strenghten ties with the European Union.

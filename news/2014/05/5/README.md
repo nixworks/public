@@ -19,7 +19,7 @@ _Context: ARM Holdings, Advanced Micro Devices_
 _Context: Eleven people are missing, Marshall Islands, container ship_
 
 ### [At least two people are dead and 30 missing after two boats carrying illegal immigrants collide in the Aegean Sea off the coast of Greece. ](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.md)
-ATHENS, Greece &#8211; Greece&#8217;s coast guard says it has recovered 14 bodies from inside a capsized migrant smuggling boat, bringing the total number of dead in the incident to 18. The yacht and a dinghy crammed with dozens of immigrants trying to enter Greece illegally capsized before dawn Monday off the coast of the island &hellip;
+ATHENS, Greece &#8211; Greece&#8217;s coast guard says it has recovered 14 bodies from inside a capsized migrant smuggling boat, bringing the total number of dead in the incident to 18. The yacht and a dinghy crammed with dozens of immigrants trying to enter Greece illegally capsized before dawn Mon...
 
 ### [The World Health Organization states that the spread of polio is an international public health emergency. ](/news/2014/05/5/the-world-health-organization-states-that-the-spread-of-polio-is-an-international-public-health-emergency.md)
 The World Health Organization declares the recent spread of polio an international public health emergency.

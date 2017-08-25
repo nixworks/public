@@ -16,7 +16,7 @@ Pyongyang says it has produced more weapons-grade plutonium from spent fuel rods
 _Context: Africa, Barcelona, Spain, United Nations_
 
 ### [ Former Bosnian Serb leader Radovan Karadzic attends his war crimes trial for the first time after boycotting previous sittings. ](/news/2009/11/3/former-bosnian-serb-leader-radovan-karada3-4ia-attends-his-war-crimes-trial-for-the-first-time-after-boycotting-previous-sittings.md)
-Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administrative hearing in his war crimes trial, temporarily giving up his boycott to ask for more time to prepare his case. Karadzic, who is acting as his own attorney, refused to attend the opening of the proceedings before the Yugoslavia war crimes tribunal last week. He has said he needs another 10 months to prepare his defence against 11 war crimes charges, including genocide, related to the 1992-1995 war. (Reporting by Aaron Gray-Block, writing by Ben Berkowitz; editing by David Stamp)
+Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administrative hearing in his war crimes trial, temporarily giving up his boycott to ask for more time to prepare his case. Karadzic, who is acting as his own attorney, refused to attend the opening of the proceedings before the ...
 
 ### [ India's Supreme Court judges disclose their assets online. ](/news/2009/11/3/india-s-supreme-court-judges-disclose-their-assets-online.md)
 _Context: India, Supreme Court of India_

@@ -4,7 +4,7 @@
 Government resigns as part of promised reforms after two weeks of protests, outgoing PM appointed caretaker premier.
 
 ### [2010-2011 Ivorian crisis:Fighters backing internationally recognised president Alassane Ouattara launch a "general offensive" in the west, centre-west and east of Ivory Coast. ](/news/2011/03/29/2010-2011-ivorian-crisis-pfighters-backing-internationally-recognised-president-alassane-ouattara-launch-a-general-offensive-in-the-west.md)
-Fighting&#x20;raged&#x20;in&#x20;a&#x20;key&#x20;town&#x20;in&#x20;western&#x20;Ivory&#x20;Coast&#x20;on&#x20;Monday&#x20;as&#x20;fighters&#x20;loyal&#x20;to&#x20;internationally&#x20;recognised&#x20;president&#x20;Alassane&#x20;Ouattara&#x20;upped&#x20;their&#x20;offensive&#x20;against&#x20;forces&#x20;loyal&#x20;to&#x20;incumbent&#x20;leader&#x20;Laurent&#x20;Gbagbo.
+Fighting&#x20;raged&#x20;in&#x20;a&#x20;key&#x20;town&#x20;in&#x20;western&#x20;Ivory&#x20;Coast&#x20;on&#x20;Monday&#x20;as&#x20;fighters&#x20;loyal&#x20;to&#x20;internationally&#x20;recognised&#x20;president&#x20;Alassane&#x20;Ouattara&#x20;upped&#x20;their&#x20;offensive&#x20;against&#x20;forces&...
 
 ### [The President of the Federal Reserve Bank of St. Louis, James Bullard, says that the continued purchase of U.S. Treasuries by the Federal Reserve is "feeding the fire" of inflation, and should be tapered off. ](/news/2011/03/29/the-president-of-the-federal-reserve-bank-of-st-louis-james-bullard-says-that-the-continued-purchase-of-u-s-treasuries-by-the-federal-re.md)
 St. Louis Federal Reserve chief James Bullard urged the U.S. central bank on Tuesday to begin reversing its campaign of monetary easing, saying it could trim its $600 billion bond-buying program by $100 billion.

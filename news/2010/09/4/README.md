@@ -46,7 +46,7 @@ An Argentine court reopens an investigation into alleged crimes against humanity
 _Context: Iran, Sakineh Mohammadi Ashtiani, Susan Hejrat, Times, adultery_
 
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)
-Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;France&#x20;to&#x20;protest&#x20;the&#x20;government&#x2019;s&#x20;recent&#x20;attempt&#x20;to&#x20;link&#x20;immigration&#x20;and&#x20;crime.&#x20;The&#x20;protests&#x20;are&#x20;being&#x20;viewed&#x20;in&#x20;France&#x20;as&#x20;curtain-raiser&#x20;for&#x20;the&#x20;far&#x20;larger&#x20;nationwide&#x20;labour&#x20;strike&#x20;set&#x20;for&#x20;Tuesday.
+Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;France&#x20;to&#x20;protest&#x20;the&#x20;government&#x2019;s&#x20;recent&#x20;attempt&#x20;to&#x20;link&#x20;immigration&#x20;and&#x20;crime.&#x20;The&#x20;protests&#x20;are&#x20;being&#x20;viewed&#x20;in&#x20;France&#x20;...
 
 ### [Yu Myung-hwan resigns as South Korea's Minister for Foreign Affairs and Trade amid accusations of nepotism after his daughter is hired to a midlevel position in his Ministry. ](/news/2010/09/4/yu-myung-hwan-resigns-as-south-korea-s-minister-for-foreign-affairs-and-trade-amid-accusations-of-nepotism-after-his-daughter-is-hired-to-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

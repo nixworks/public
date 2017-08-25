@@ -19,7 +19,7 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 _Context: Ivan Poddubny, The White Guard, Ukrainian Culture Ministry_
 
 ### [A heatwave in Japan has caused at least 15 deaths with more than 8000 hospitalised in the past week. ](/news/2014/07/29/a-heatwave-in-japan-has-caused-at-least-15-deaths-with-more-than-8000-hospitalised-in-the-past-week.md)
-Sweltering summer heat in Japan has left at least 15 people dead over the past week, while more than 8,000 others were rushed to hospital with heatstroke symptoms, official figures showed Tuesday. At least six people died on Saturday alone, when the state weather agency warned temperatures had topped
+Sweltering summer heat in Japan has left at least 15 people dead over the past week, while more than 8,000 others were rushed to hospital with heatstroke symptoms, official figures showed Tuesday. At least six people died on Saturday alone, when the state weather agency warned temperatures had toppe...
 
 ### [A stampede at a concert in Conakry, the capital of Guinea, to mark the end of Ramadan results in at least 24 deaths with dozens more injured. ](/news/2014/07/29/a-stampede-at-a-concert-in-conakry-the-capital-of-guinea-to-mark-the-end-of-ramadan-results-in-at-least-24-deaths-with-dozens-more-injured.md)
 At least 34 people have reportedly died in a stampede in Guinea, during a concert marking the end of the Muslim holy month of Ramadan.

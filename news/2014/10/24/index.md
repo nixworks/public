@@ -22,7 +22,7 @@ _Context: Chang'e 5-T1, China National Space Administration, spaceflight mission
 _Context: Alan Eustace_
 
 ### [Lockheed Martin announces that it plans to have a functioning prototype fusion reactor operational in 3 years. ](/news/2014/10/24/lockheed-martin-announces-that-it-plans-to-have-a-functioning-prototype-fusion-reactor-operational-in-3-years.md)
-_Context: Lockheed Martin, fusion reactor_
+_Context: Lockheed, fusion reactor_
 
 ## [Previous Day...](/news/2014/10/23/index.md)
 

@@ -7,7 +7,7 @@ The Chinese navy begins artillery exercises in the Yellow Sea, days before the U
 At least 25 people are killed and more than 170 are injured in three bomb blasts during a Shia religious parade in Lahore, Pakistan.
 
 ### [At least 6 people die as Mozambique police fire rubber bullets as a protest in Maputo over rising food prices turns into a riot. ](/news/2010/09/1/at-least-6-people-die-as-mozambique-police-fire-rubber-bullets-as-a-protest-in-maputo-over-rising-food-prices-turns-into-a-riot.md)
-At&#x20;least&#x20;four&#x20;people&#x20;have&#x20;died&#x20;in&#x20;protests&amp;nbsp&#x3B;over&#x20;rising&#x20;prices&#x20;in&#x20;Mozambique&amp;&#x23;039&#x3B;s&#x20;capital&#x20;Maputo.&#x20;Another&#x20;27&#x20;more&#x20;were&#x20;wounded&#x20;when&#x20;police&#x20;opened&#x20;fire&#x20;on&#x20;demonstrators,&#x20;though&#x20;police&#x20;deny&#x20;using&#x20;live&#x20;bullets&#x20;on&#x20;the&#x20;crowds.&#x0A;
+At&#x20;least&#x20;four&#x20;people&#x20;have&#x20;died&#x20;in&#x20;protests&amp;nbsp&#x3B;over&#x20;rising&#x20;prices&#x20;in&#x20;Mozambique&amp;&#x23;039&#x3B;s&#x20;capital&#x20;Maputo.&#x20;Another&#x20;27&#x20;more&#x20;were&#x20;wounded&#x20;when&#x20;police&#x20;opened&#x20;fire&#x20;on&#x...
 
 ### [A border clash between Armenia and Azerbaijan occurs, leaving several soldiers dead and both sides blaming the other for the violence. ](/news/2010/09/1/a-border-clash-between-armenia-and-azerbaijan-occurs-leaving-several-soldiers-dead-and-both-sides-blaming-the-other-for-the-violence.md)
 Clashes between the forces of Azerbaijan and Armenian-backed Nagorno-Karabakh leave several soldiers dead.

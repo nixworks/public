@@ -4,7 +4,7 @@
 _Context: Tehrik-i-Taliban Pakistan, government_
 
 ### [2014 South Korean ferry capsizing:Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/2014-south-korean-ferry-capsizing-prepublic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-f.md)
-By Jungmin Jang and Narae Kim MOKPO/JINDO, South Korea (Reuters) - Rescuers struggled with strong waves and murky waters on Thursday as they searched for hundreds of people, most of them teenagers from the same school, still missing after a South Korean ferry capsized on Wednesday. The vessel, carrying
+By Jungmin Jang and Narae Kim MOKPO/JINDO, South Korea (Reuters) - Rescuers struggled with strong waves and murky waters on Thursday as they searched for hundreds of people, most of them teenagers from the same school, still missing after a South Korean ferry capsized on Wednesday. The vessel, carry...
 
 ### [2014 pro-Russian unrest in Ukraine:Russia and Ukraine together with the United States and the European Union sit down for emergency talks in Geneva. All four agree that "illegal military formations in Ukraine" must be dissolved, and that everyone occupying buildings must be disarmed and leave them. There would be an amnesty for all anti-government protesters under the agreement. ](/news/2014/04/17/2014-pro-russian-unrest-in-ukraine-prussia-and-ukraine-together-with-the-united-states-and-the-european-union-sit-down-for-emergency-talks-i.md)
 US, Russia, Ukraine and EU agree measures including end of violence, disarming of illegal groups and amnesty for protesters

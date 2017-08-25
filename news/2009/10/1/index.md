@@ -4,7 +4,7 @@
 _Context: Organization of American States, Venezuela, hunger strike_
 
 ### [ Ateke Tom, militant leader of the Niger Delta Vigilante in the Niger Delta region, accepts an amnesty by the Nigerian government. ](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.md)
-THREE days to the deadline for militants in the Niger-Delta to lay down their arms and embrace the Presidential Amnesty granted by the Federal Government, President Umaru Yarâ€™Adua yesterday received one of the key militants, leader of the Niger-Delta Vigilante and Patriotic Force (NDVPF), Mr Ateke Tom, with a promise that in the next two to five years, the region will witness massive infrastructural development.
+THREE days to the deadline for militants in the Niger-Delta to lay down their arms and embrace the Presidential Amnesty granted by the Federal Government, President Umaru Yarâ€™Adua yesterday received one of the key militants, leader of the Niger-Delta Vigilante and Patriotic Force (NDVPF), Mr ...
 
 ### [ Treaty of Lisbon: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-p-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md)
 The Vatican has made an unexpected last-minute intervention on the eve of Ireland&#039;s Lisbon Treaty referendum with a warning the European Union threatens the country&#039;s &#034;identity, traditions and history&#034;.

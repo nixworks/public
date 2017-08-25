@@ -7,7 +7,7 @@ The Democratic Party of Japan has promised to reverse the economic decline and r
 With the opposition divided, the son of the late president is expected to take power.
 
 ### [ Brazil's former Environment minister Marina Silva joins the Green Party which wants to field her as a black female candidate for the 2010 Brazilian presidential race when President Lula's two terms comes to an end. ](/news/2009/08/30/brazil-s-former-environment-minister-marina-silva-joins-the-green-party-which-wants-to-field-her-as-a-black-female-candidate-for-the-2010-b.md)
-&ldquo;During the US Democrat party primaries, when Hillary Clinton was running against Barack Obama, a friend of mine said the US would have to choose between a woman and a black person, but if I was to be presidential candidate in Brazil, we wouldn&rsquo;t have that problem, because I&rsquo;m a woman and black&rdquo;.
+&ldquo;During the US Democrat party primaries, when Hillary Clinton was running against Barack Obama, a friend of mine said the US would have to choose between a woman and a black person, but if I was to be presidential candidate in Brazil, we wouldn&rsquo;t have that problem, because I&rsquo;m a wo...
 
 ### [ Israeli jets bomb a building in the Gaza Strip which the military says hides a tunnel that Palestinian militants could use to infiltrate Israel. ](/news/2009/08/30/israeli-jets-bomb-a-building-in-the-gaza-strip-which-the-military-says-hides-a-tunnel-that-palestinian-militants-could-use-to-infiltrate-is.md)
 Tunnel, dug inside building located about 1.5 kilometers from border fence, aimed at smuggling terrorists into Israel. IDF says strike a response to rocket fire; no injuries reported in Strip 

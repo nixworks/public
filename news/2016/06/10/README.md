@@ -25,7 +25,7 @@ The epicenter was around 13 miles north of Borrego Springs, which has a populati
 A shallow magnitude 6.2 earthquake has struck in Solomon Islands.
 
 ### [Israel temporarily bans all Palestinians from entering its territory until Sunday following the June 2016 Tel Aviv shooting. ](/news/2016/06/10/israel-temporarily-bans-all-palestinians-from-entering-its-territory-until-sunday-following-the-june-2016-tel-aviv-shooting.md)
-Israel on Friday temporarily barred Palestinians from entering the country, a step criticised by the UN but which officials said was a response to this week&#x27;s deadly Tel Aviv shooting. Thousands of Palestinians from the occupied West Bank, however, were allowed to attend weekly Muslim prayers at
+Israel on Friday temporarily barred Palestinians from entering the country, a step criticised by the UN but which officials said was a response to this week&#x27;s deadly Tel Aviv shooting. Thousands of Palestinians from the occupied West Bank, however, were allowed to attend weekly Muslim prayers a...
 
 ### [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS ''Porter''. The USS ''Porter'' arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-port.md)
 Moscow objects to beefed-up U.S. presence on the eve of a NATO summit in Poland.

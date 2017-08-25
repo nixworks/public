@@ -16,7 +16,7 @@ _Context: Algeria, Insurgency in the Maghreb (2002-present), Tunisian soldiers, 
 _Context: United Nations War Crimes Commission, United States Holocaust Memorial Museum, World War II_
 
 ### [Microsoft announces deeper-than-expected job cuts as part of its cloud-oriented restructuring, almost halving the newly-purchased Nokia phone business. ](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.md)
-Microsoft Chief Executive Officer Satya Nadella kicked off one of the largest layoffs in tech history on Thursday, hoping to reshape the aging PC industry titan into a nimbler rival to Apple and Google, and jolt a culture at the company that is used to protecting its existing Windows and Office franchises.
+Microsoft Chief Executive Officer Satya Nadella kicked off one of the largest layoffs in tech history on Thursday, hoping to reshape the aging PC industry titan into a nimbler rival to Apple and Google, and jolt a culture at the company that is used to protecting its existing Windows and Office fran...
 
 ### [2014 Pacific typhoon season:Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-ptyphoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the.md)
 The Philippines set to work clearing debris, reconnecting power and rebuilding flattened houses on Thursday after a typhoon swept across the country killing 38 people, with at least eight missing, rescue officials said.
@@ -43,7 +43,7 @@ _Context: Parliament, carbon tax, emissions trading scheme_
 _Context: 2013-14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
 
 ### [Scientists report a video footage of a mysterious giant hole and crater that have suddenly appeared in the Yamal Peninsula, Russia. ](/news/2014/07/17/scientists-report-a-video-footage-of-a-mysterious-giant-hole-and-crater-that-have-suddenly-appeared-in-the-yamal-peninsula-russia.md)
-A mysterious giant hole and crater have suddenly appeared in Siberia, Russia. There are not many details right now, but the video captured from a helicopter shows a weird configuration with debris and signs of combustion around it. What the hell is this? Update: New pictures and video show the interior of the hole in detail.
+A mysterious giant hole and crater have suddenly appeared in Siberia, Russia. There are not many details right now, but the video captured from a helicopter shows a weird configuration with debris and signs of combustion around it. What the hell is this? Update: New pictures and video show the inter...
 
 ## [Previous Day...](/news/2014/07/16/index.md)
 

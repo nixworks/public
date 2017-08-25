@@ -19,7 +19,7 @@ Indonesia has closed Bali airport, one of its busiest international terminals, c
 An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airport shortly after taking off. 41 people have been killed on board and on the ground.
 
 ### [A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. ](/news/2015/11/4/a-building-collapses-in-the-pakistani-city-of-lahore-resulting-in-at-least-18-deaths-at-least-75-injured-and-around-150-people-still-trappe.md)
-At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;a&#x20;number&#x20;of&#x20;industrial&#x20;disasters&#x20;to&#x20;hit&#x20;the&#x20;South&#x20;Asian&#x20;nation.
+At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;...
 
 ### [The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-first-such-meeting-since-the-chinese-communist-re.md)
 _Context: 2015 Ma-Xi Meeting, China, Chinese Communist Revolution, Cross-Strait relations, Singapore, Taiwan_

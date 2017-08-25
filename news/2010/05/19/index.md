@@ -4,7 +4,7 @@
 News network to stop broadcasting from Bahrain after airing story about local poverty
 
 ### [An independent investigation concludes that a North Korean torpedo caused the sinking of the South Korean Cheonan warship Cheonan. ](/news/2010/05/19/an-independent-investigation-concludes-that-a-north-korean-torpedo-caused-the-sinking-of-the-south-korean-cheonan-warship-cheonan.md)
-The independent investigation into the sinking of the Cheonan has concluded that the vessel was sunk by an underwater explosion caused by a North Korean mid-sized torpedo containing 250 kg of high explosives. Yoon Deok Yong, the chief of the joint civilian-military joint investigation team reported the results this morning in a long-awaited Ministry of National Defense press conference, confirming, “Our investigation has arrived at the conclusion that the Cheonan was sunk by an underwater explosion caused by a North Korean torpedo.” Yoon concluded, “There is no other conclusion but to
+The independent investigation into the sinking of the Cheonan has concluded that the vessel was sunk by an underwater explosion caused by a North Korean mid-sized torpedo containing 250 kg of high explosives. Yoon Deok Yong, the chief of the joint civilian-military joint investigation team reported ...
 
 ### [Cyclone Laila approaches landfall in southeastern India, having already caused at least ten deaths and prompting the evacuations of 10,000 people in Tamil Nadu.](/news/2010/05/19/cyclone-laila-approaches-landfall-in-southeastern-india-having-already-caused-at-least-ten-deaths-and-prompting-the-evacuations-of-10-000-p.md)
 _Context: 2010 North Indian Ocean cyclone season, Cyclone Laila, India, Tamil Nadu_

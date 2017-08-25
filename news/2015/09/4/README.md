@@ -7,7 +7,7 @@ Gunmen in military uniform seized 18 Turkish workers on Wednesday from a sports 
 _Context: Egypt-Israel Peace Treaty, Sinai, Sinai insurgency_
 
 ### [An explosion at an arms depot in Yemen kills 45 Emirati soldiers who were part of the Saudi led coalition. ](/news/2015/09/4/an-explosion-at-an-arms-depot-in-yemen-kills-45-emirati-soldiers-who-were-part-of-the-saudi-led-coalition.md)
-UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mourned 45 of their soldiers, who were among dozens killed in the deadliest day yet for the Saudi-led coalition. Media in Riyadh said 10 Saudi soldiers died in Friday&#x27;s missile attack in the battleground eastern oil province
+UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mourned 45 of their soldiers, who were among dozens killed in the deadliest day yet for the Saudi-led coalition. Media in Riyadh said 10 Saudi soldiers died in Friday&#x27;s missile attack in the battleground eastern oil pro...
 
 ### [ Clashes in and around Tajikistan's capital Dushanbe kill at least 17 people. Government representatives blame the attacks against security forces on former Deputy Defense Minister Aduhalim Nazarzoda, who fought against government forces in the Tajikistan Civil War. ](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.md)
 _Context: Dushanbe, Tajikistan, Tajikistan Civil War_

@@ -16,7 +16,7 @@ _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji_
 _Context: Open Skies Treaty, Russia-United States relations, United States_
 
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
-Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for Germany
+Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for G...
 
 ### [Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md)
 Iran negotiated with Russia at the weekend over buying an upgraded version of the S-300 surface-to-air missile defense system, which it requires to meet its military needs, a foreign ministry spokesman in Tehran was quoted as saying.
@@ -46,7 +46,7 @@ Republican presidential candidate Ted Cruz said Monday he’s fired campaign com
 Comoros began counting ballots for its first round of presidential elections as authorities hailed an incident-free vote on the Indian Ocean archipelago that’s been hit by slowing economic growth.
 
 ### [A new study  by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change.  ](/news/2016/02/22/a-new-study-by-scientists-from-14-research-institutions-that-is-published-in-the-march-2016-global-change-biology-journal-finds-all-u-s.md)
-Forests nationwide are feeling the heat from increasing drought and climate change, according to a study by scientists from 14 research institutions. While the effects have been most pronounced in the West, the team found virtually all US forests are now experiencing some degree of change and are vulnerable to future declines.
+Forests nationwide are feeling the heat from increasing drought and climate change, according to a study by scientists from 14 research institutions. While the effects have been most pronounced in the West, the team found virtually all US forests are now experiencing some degree of change and are vu...
 
 ## [Previous Day...](/news/2016/02/21/index.md)
 

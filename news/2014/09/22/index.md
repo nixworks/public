@@ -1,7 +1,7 @@
 ## [2014-09-22](/news/2014/09/22/index.md)
 
 ### [German conglomerate Siemens AG announces plans to acquire American oilfield equipment maker Dresser-Rand Group Inc for US$7.6 billion. ](/news/2014/09/22/german-conglomerate-siemens-ag-announces-plans-to-acquire-american-oilfield-equipment-maker-dresser-rand-group-inc-for-us-7-6-billion.md)
-Germany&#x27;s Siemens AG (SIEGn.DE) has agreed to buy U.S. The acquisition, which ranks among the biggest in the history of the industrial group, will strengthen Siemens&#x27; position in the United States, its weakest region, and bring it nearer catching up with rival General Electric Co (GE.N). Siemens
+Germany&#x27;s Siemens AG (SIEGn.DE) has agreed to buy U.S. The acquisition, which ranks among the biggest in the history of the industrial group, will strengthen Siemens&#x27; position in the United States, its weakest region, and bring it nearer catching up with rival General Electric Co (GE.N). S...
 
 ### [German pharmaceutical company Merck KGaA agrees to buy American chemical company Sigma-Aldrich for US$17 billion. ](/news/2014/09/22/german-pharmaceutical-company-merck-kgaa-agrees-to-buy-american-chemical-company-sigma-aldrich-for-us-17-billion.md)
 German drug company Merck KGaA says it has agreed to buy St. Louis-based chemical maker Sigma-Aldrich for $17 billion.

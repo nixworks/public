@@ -25,7 +25,7 @@ European leaders held an emergency summit Sunday to find ways of easing the plig
 _Context: Russia, United States, undersea cables_
 
 ### [Police have updated information on the casualties from this crash. Four died and 47 were injured; five remain in critical condition. ](/news/2015/10/25/police-have-updated-information-on-the-casualties-from-this-crash-four-died-and-47-were-injured-five-remain-in-critical-condition.md)
-A toddler was among four people killed when an allegedly inebriated woman drove a car into crowds at an Oklahoma State University parade, Stillwater police said. The Saturday crash also injured dozens of people, including 11 victims younger than 13. The car&#039;s driver has been arrested on suspicion of driving under the influence.
+A toddler was among four people killed when an allegedly inebriated woman drove a car into crowds at an Oklahoma State University parade, Stillwater police said. The Saturday crash also injured dozens of people, including 11 victims younger than 13. The car&#039;s driver has been arrested on suspici...
 
 ### [More than 200 black bears are killed in a single day in the U.S. state of Florida after state officials allow the hunting of the animals for the first time in 21 years; supporters say the aim is to cut down on the animals' surging population, but animal rights activists have criticized the hunts as cruel and ineffective. ](/news/2015/10/25/more-than-200-black-bears-are-killed-in-a-single-day-in-the-u-s-state-of-florida-after-state-officials-allow-the-hunting-of-the-animals-for.md)
 Supporters say the aim of the hunt is to cut down on the surging population but opponents think the move is cruel and ineffective.

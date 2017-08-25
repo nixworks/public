@@ -28,7 +28,7 @@ _Context: Dallas, Jeep Cherokee_
 _Context: Guatemala, Guatemalan general election, 2015_
 
 ### [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions.  This result dissolves the NRC, continues  military rule for at least 7 months, and delays the scheduled January 2016  referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-th.md)
-Thailand&#039;s junta-appointed National Reform Council (NRC) yesterday rejected the Constitution proposed by the regime by a vote of 135 to 105 with a few abstentions.The outcome in effect guarantees that Thailand will remain under military rule for at least another seven months, and most probably much longer, as it restarts the process of drafting a new Constitution.
+Thailand&#039;s junta-appointed National Reform Council (NRC) yesterday rejected the Constitution proposed by the regime by a vote of 135 to 105 with a few abstentions.The outcome in effect guarantees that Thailand will remain under military rule for at least another seven months, and most probably ...
 
 ## [Previous Day...](/news/2015/09/5/index.md)
 

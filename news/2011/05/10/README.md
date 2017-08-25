@@ -40,7 +40,7 @@ _Context: Treasurer of Australia, Wayne Swan_
 _Context: Google, Google Music, cloud computing_
 
 ### [Microsoft announces that it is purchasing Internet phone service Skype for US$8.5 billion. ](/news/2011/05/10/microsoft-announces-that-it-is-purchasing-internet-phone-service-skype-for-us-8-5-billion.md)
-The Wall Street Journal reported earlier tonight that Microsoft--in what would be its most aggressive acquisition in the digital space--was zeroing in on buying Skype for $8.5 billion all in. Sources told BoomTown tonight that the deal for the online telephony and video communications giant is actually done and will be announced early tomorrow morning.
+The Wall Street Journal reported earlier tonight that Microsoft--in what would be its most aggressive acquisition in the digital space--was zeroing in on buying Skype for $8.5 billion all in. Sources told BoomTown tonight that the deal for the online telephony and video communications giant is actua...
 
 ### [Chineseexports for April reach a record level, attaining a total monthly value of US$155.69 billion. ](/news/2011/05/10/chineseexports-for-april-reach-a-record-level-attaining-a-total-monthly-value-of-us-155-69-billion.md)
 Chinese factories appear to have passed on rising costs to buyers who are finding that they have few alternatives in other countries.

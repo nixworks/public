@@ -13,7 +13,7 @@ It became the first mainstream automaker to sound the death knell of the traditi
 Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
 
 ### [A truck overloaded with passengers crashes near Bambari, Central African Republic, killing at least 78 people and leaving dozens more injured. ](/news/2017/07/5/a-truck-overloaded-with-passengers-crashes-near-bambari-central-african-republic-killing-at-least-78-people-and-leaving-dozens-more-injure.md)
-Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of Maloum. &quot;At the moment, we have counted 78 dead and 72 wounded. Some wounded were taken directly to their homes from the accident scene and died there some time after, but most died here,&quot; said Chamberlain Bama, chief doctor at the university hospital in Bambari.
+Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of...
 
 ### [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md)
 Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory in France.

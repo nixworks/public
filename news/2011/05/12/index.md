@@ -40,7 +40,7 @@ The High Court in Auckland has ordered Qantas Airways to pay a $6.5 million pena
 _Context: One World Trade Center_
 
 ### [Flooding along the Mississippi River in the United States threatens $2-4 billion estimated damages. ](/news/2011/05/12/flooding-along-the-mississippi-river-in-the-united-states-threatens-2-4-billion-estimated-damages.md)
-As the Mississippi River continues to rise and more bays are opened in the Bonnet Carre&amp;#8217; Spillway, elected officials across the River Parishes are fielding more questions about what will happen next. &amp;#8220;It&amp;#8217;s a part of everybody&amp;#8217;s conversation,&amp;#8221; said St....
+As the Mississippi River continues to rise and more bays are opened in the Bonnet Carre&amp;#8217; Spillway, elected officials across the River Parishes are fielding more questions about what will happen next. &amp;#8220;It&amp;#8217;s a part of everybody&amp;#8217;s conversation,&amp;#8221; said St...
 
 ### [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md)
 _Context: Djibouti, International Criminal Court, Omar al-Bashir, Sudan, United Nations Security Council, war crime_

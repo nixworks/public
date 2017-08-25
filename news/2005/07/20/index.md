@@ -7,7 +7,7 @@ _Context: Islamist, Pakistan_
 _Context: Canada_
 
 ### [ In mainland China, authorities evacuate more than a million people from Fujian and Zhejiang provinces due to Typhoon Haitang. In Taiwan, death toll rises to 7 with one missing and 31 injured. The typhoon also causes significant agricultural damage ](/news/2005/07/20/in-mainland-china-authorities-evacuate-more-than-a-million-people-from-fujian-and-zhejiang-provinces-due-to-typhoon-haitang-in-taiwan-de.md)
-Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualties in Taiwan, yesterday was downgraded into a less-devastating tropical storm. However, the Central Weather Bureau (CWB) reminded people of the danger of potential flooding, because torrential rainfall is expected to continue over the next few days.
+Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualties in Taiwan, yesterday was downgraded into a less-devastating tropical storm. However, the Central Weather Bureau (CWB) reminded people of the danger of potential flooding, because torrential rainfall is expected to con...
 
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)
 _Context: Thailand, censorship, curfew_

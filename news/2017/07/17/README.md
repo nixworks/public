@@ -22,7 +22,7 @@ The United States on Monday launched the first salvo in the renegotiation of the
 Most of the 100,000 refugees and migrants who crossed the Mediterranean Sea this year arrived in Italy from Libya.
 
 ### [The White House tells U.S. Congress that Iran is complying with its nuclear deal, and promises to impose new sanctions on Iran's ballistic missile program. ](/news/2017/07/17/the-white-house-tells-u-s-congress-that-iran-is-complying-with-its-nuclear-deal-and-promises-to-impose-new-sanctions-on-iran-s-ballistic-m.md)
-The U.S. has certified with Congress that Iran is legally in compliance on the nuclear deal, but senior Trump administration officials said both Secretary of State Rex Tillerson and President Donald Trump will couch that certification with an accusation that Iran is &ldquo;unquestionably in default of the...
+The U.S. has certified with Congress that Iran is legally in compliance on the nuclear deal, but senior Trump administration officials said both Secretary of State Rex Tillerson and President Donald Trump will couch that certification with an accusation that Iran is &ldquo;unquestionably in default ...
 
 ### [President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. ](/news/2017/07/17/president-of-the-philippines-rodrigo-duterte-plans-to-appeal-to-the-congress-of-the-philippines-to-extend-proclamation-no-216-martial-law.md)
 To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.

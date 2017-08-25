@@ -49,7 +49,7 @@ Dharamsala, March 20 (IANS) Even as Tibetan spiritual leader the Dalai Lama reje
 UN official describes vote as peaceful but several polling sites delayed opening because they lacked voting materials.
 
 ### [More than 80 per cent of votes in the Egyptian constitutional referendum support liberal reforms. ](/news/2011/03/20/more-than-80-per-cent-of-votes-in-the-egyptian-constitutional-referendum-support-liberal-reforms.md)
-According&#x20;to&#x20;partial&#x20;results,&#x20;a&#x20;third&#x20;of&#x20;the&#x20;country&#x20;approved&#x20;constitutional&#x20;changes&#x20;which&#x20;include&#x20;increasing&#x20;civil&#x20;liberties.&#x20;The&#x20;early&#x20;results&#x20;also&#x20;showed&#x20;turnout&#x20;as&#x20;high&#x20;as&#x20;70&#x25;&#x20;at&#x20;some&#x20;polling&#x20;centres.
+According&#x20;to&#x20;partial&#x20;results,&#x20;a&#x20;third&#x20;of&#x20;the&#x20;country&#x20;approved&#x20;constitutional&#x20;changes&#x20;which&#x20;include&#x20;increasing&#x20;civil&#x20;liberties.&#x20;The&#x20;early&#x20;results&#x20;also&#x20;showed&#x20;turnout&#x20;as&#x20;high&#x20;as...
 
 ### [The President of Yemen Ali Abdullah Saleh fires the government as the protests continue. ](/news/2011/03/20/the-president-of-yemen-ali-abdullah-saleh-fires-the-government-as-the-protests-continue.md)
 Yemeni President Ali Abdullah Saleh fires his cabinet amid continuing protests against his rule and a string of resignations.

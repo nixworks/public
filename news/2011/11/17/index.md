@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Damascus, Syria_
 _Context: Kenya, Nairobi, Operation Linda Nchi, Somalia, Uganda, al-Qaeda, al-Shabaab militants_
 
 ### [Swedish divers find the wreckage of the warship ''Svardet'', sunk in 1676 during the Battle of Oland. ](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.md)
-Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have discovered the wreck of one of the largest 17th century warships.Found off the coast of the Baltic island of Öland at a depth of between 160 and 320 feet, the wooden wreck is believed to be that of the royal warship Svärdet...
+Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have discovered the wreck of one of the largest 17th century warships.Found off the coast of the Baltic island of Öland at a depth of between 160 and 320 feet, the wooden wreck is believed to be that of the royal warship Svä...
 
 ### [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for PS747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-aps747m.md)
 Northern Rock bank, nationalised at the height of the credit crunch, is being sold to Virgin Money for £747m, the government says.

@@ -1,7 +1,7 @@
 ## [2014-10-15](/news/2014/10/15/index.md)
 
 ### [At least eight people are killed as villagers clash with construction workers and riot police over land disputes in Yunnan province, China. ](/news/2014/10/15/at-least-eight-people-are-killed-as-villagers-clash-with-construction-workers-and-riot-police-over-land-disputes-in-yunnan-province-china.md)
-BEIJING - Eight people were killed when villagers clashed with construction workers over a building project in southwestern China, officials said Wednesday, in the latest land dispute to turn violent.Six construction workers and two villagers were killed on Tuesday in Jinning, a rural county in Yunnan province, with a further 18 injured, the local government said on a verified microblog.
+BEIJING - Eight people were killed when villagers clashed with construction workers over a building project in southwestern China, officials said Wednesday, in the latest land dispute to turn violent.Six construction workers and two villagers were killed on Tuesday in Jinning, a rural county in Yunn...
 
 ### [Shia insurgency in Yemen and Shia Houthi rebels and suspected al-Qaeda militants clash near the town of Radaa in Al Bayda' Governorate province resulting in at least 10 deaths. ](/news/2014/10/15/shia-insurgency-in-yemen-and-shia-houthi-rebels-and-suspected-al-qaeda-militants-clash-near-the-town-of-radaa-in-al-bayda-governorate-provi.md)
 Shia Houthi rebels and al-Qaeda militants engage in heavy fighting in southern Yemen, as the rebels seek to expand the territory under their control.

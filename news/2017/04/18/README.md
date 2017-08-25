@@ -37,7 +37,7 @@ _Context: Emmanuel Macron, France, Jean-Luc Mlenchon, Marine Le Pen, National Fr
 UK PM Theresa May announces plan to call snap general election on 8 June
 
 ### [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md)
- Democrat Jon Ossoff is making a final push to try to win Tuesday&#039;s special election to represent a suburban Atlanta district, though he&#039;s tempering expectations in case he falls short of the majority of the vote he needs to avoid a runoff. &quot;I think I can win, but whether I do is up to turnout and the voters,&quot; he said in an interview....
+ Democrat Jon Ossoff is making a final push to try to win Tuesday&#039;s special election to represent a suburban Atlanta district, though he&#039;s tempering expectations in case he falls short of the majority of the vote he needs to avoid a runoff. &quot;I think I can win, but whether I do is up t...
 
 ### [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md)
 _Context: Hakainde Hichilema, Zambia, treason_

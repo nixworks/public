@@ -58,7 +58,7 @@ A gay couple whose jailing in Malawi sparked an international furore have split,
 Figures show Liberal and Labour parties taking 31 seats with far-right Freedom Party on 23.
 
 ### [The results of the Philippine presidential election are certified and Noynoy Aquino and Jejomar Binay are proclaimed as President-elect and Vice President-elect at the Batasang Pambansa in a joint session of the Congress of the Philippines. ](/news/2010/06/9/the-results-of-the-philippine-presidential-election-are-certified-and-noynoy-aquino-and-jejomar-binay-are-proclaimed-as-president-elect-and.md)
-MANILA, Philippines &ndash; After over a week of wrangling over &ldquo;null votes&rdquo; and other alleged irregularities in the conduct of the May 10 elections, the joint session of Congress on Wednesday finally convened to proclaim Benigno &quot;Noynoy&quot; Aquino III and Jejomar &quot;Jojo&quot; Binay as president-elect and vice-president-elect, respectively.
+MANILA, Philippines &ndash; After over a week of wrangling over &ldquo;null votes&rdquo; and other alleged irregularities in the conduct of the May 10 elections, the joint session of Congress on Wednesday finally convened to proclaim Benigno &quot;Noynoy&quot; Aquino III and Jejomar &quot;Jojo&quot;...
 
 ### [Dozens of workers in China are hurt during labour strikes, with at least 2,000 workers clashing with police in the city of Kunshan. ](/news/2010/06/9/dozens-of-workers-in-china-are-hurt-during-labour-strikes-with-at-least-2-000-workers-clashing-with-police-in-the-city-of-kunshan.md)
 _Context: Kunshan_
@@ -73,7 +73,7 @@ The inventor of a low-cost solar cell that could create electricity generating w
 Scientists shed light on Jewish heritage with an in-depth genetic study from communities across the world.
 
 ### [Researchers find that many species of snakes are in decline.  The causes are unknown.](/news/2010/06/9/researchers-find-that-many-species-of-snakes-are-in-decline-the-causes-are-unknown.md)
-Long-term studies have revealed population declines in fishes, amphibians, reptiles, birds and mammals. In birds, and particularly amphibians, these declines are a global phenomenon whose causes are often unclear. Among reptiles, snakes are top predators and therefore a decline in their numbers may have serious consequences for the functioning of many ecosystems. Our results show that, of 17 snake populations (eight species) from the UK, France, Italy, Nigeria and Australia, 11 have declined sharply over the same relatively short period of time with five remaining stable and one showing signs of a marginal increase. Although the causes of these declines are currently unknown, we suspect that they are multi-faceted (such as habitat quality deterioration, prey availability), and with a common cause, e.g. global climate change, at their root.
+Long-term studies have revealed population declines in fishes, amphibians, reptiles, birds and mammals. In birds, and particularly amphibians, these declines are a global phenomenon whose causes are often unclear. Among reptiles, snakes are top predators and therefore a decline in their numbers may ...
 
 ### [The world's oldest leather shoe was found in Vayots Dzor, Armenia by a team of international archeologists. ](/news/2010/06/9/the-world-s-oldest-leather-shoe-was-found-in-vayots-dzor-armenia-by-a-team-of-international-archeologists.md)
 _Context: Armenia, Vayots Dzor, world's oldest leather shoe_

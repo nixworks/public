@@ -1,7 +1,7 @@
 ## [2012-12-8](/news/2012/12/8/index.md)
 
 ### [Syrian civil war:Russia arms Syria with Iskander missiles in response to NATO's stationing of Patriot missile defense systems in Turkey. ](/news/2012/12/8/syrian-civil-war-prussia-arms-syria-with-iskander-missiles-in-response-to-nato-s-stationing-of-patriot-missile-defense-systems-in-turkey.md)
-Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of the crisis in Syria, Russia delivered its first shipment of Iskander missiles to Syria. The superior Iskander can travel at hypersonic speed of over 1.3 miles per second (Mach 6-7) and has a range of over 280 miles with pinpoint accuracy [&hellip;]
+Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of the crisis in Syria, Russia delivered its first shipment of Iskander missiles to Syria. The superior Iskander can travel at hypersonic speed of over 1.3 miles per second (Mach 6-7) and has a range of over 280 miles with...
 
 ### [2012 Egyptian protests:Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-ptens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md)
 The Egyptian opposition maintains protests outside the presidential palace in Cairo, as it rejects a call for dialogue by President Mohammed Morsi.

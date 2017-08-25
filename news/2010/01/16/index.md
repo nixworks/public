@@ -25,7 +25,7 @@ _Context: India, M K Narayanan, National Security Advisor_
 China on Saturday announced a sharp increase in the number of internet users. The announcement suggests Beijing is trying to persuade Google to give up plans to pull out its Chinese version from the country.
 
 ### [Authorities in Cuba are investigating the death of 26 patients at a psychiatric hospital after a spell of unusually cold weather. ](/news/2010/01/16/authorities-in-cuba-are-investigating-the-death-of-26-patients-at-a-psychiatric-hospital-after-a-spell-of-unusually-cold-weather.md)
-A tragedy has occurred at the main Havana Psychiatric Hospital with 26 patients dying, possibly from hypothermia during one digit cold this past week, informed the Cuban Public Health Ministry on Friday. The ministry said the exact cause of the deaths at the 2,500 patient facility is still under investigation and that “deficiencies were found in measures taken at the hospital.”
+A tragedy has occurred at the main Havana Psychiatric Hospital with 26 patients dying, possibly from hypothermia during one digit cold this past week, informed the Cuban Public Health Ministry on Friday. The ministry said the exact cause of the deaths at the 2,500 patient facility is still under inv...
 
 ### [Another church is attacked in Malaysia and a mosque also targeted for the first time in a row over the use of the word "Allah" by non-Muslims. ](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.md)
 _Context: Allah, Malaysia, Muslim, in a row_

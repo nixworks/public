@@ -16,7 +16,7 @@ Seoul (AFP) - North Korea fired short-range projectiles into the sea off its eas
 _Context: Islamabad, Pakistan, Sartaj Aziz, Taliban, Taliban insurgency_
 
 ### [The United States extends sanctions against Russia over its military intervention in Ukraine. ](/news/2016/03/3/the-united-states-extends-sanctions-against-russia-over-its-military-intervention-in-ukraine.md)
-President Obama has extended for another year U.S. sanctions imposed on Russia over its military intervention in Ukraine, according to a White House statement. Obama signed an executive order to prolong the raft of measures that target senior Russian officials and businessmen connected to President...
+President Obama has extended for another year U.S. sanctions imposed on Russia over its military intervention in Ukraine, according to a White House statement. Obama signed an executive order to prolong the raft of measures that target senior Russian officials and businessmen connected to President....
 
 ### [The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL.  ](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces-defend-the-country-from-the-threa.md)
 _Context: Islamic State of Iraq and the Levant, Jordan, Jordan-United States relations, Jordanian military, UH-60 Black Hawk, United States_

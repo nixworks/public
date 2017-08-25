@@ -31,7 +31,7 @@ _Context: Royal Dutch Shell, floating liquefied natural gas_
 BHP Billiton has unveiled a $US12b friendly takeover of US gas producer Petrohawk Energy, marking the miner&#039;s biggest step into the booming shale-gas industry.
 
 ### [News International phone hacking scandal:Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-prebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internatio.md)
-News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;Friday&#x20;morning&#x20;amidst&#x20;the&#x20;ongoing&#x20;controversy&#x20;over&#x20;phone&#x20;hacking&#x20;and&#x20;allegations&#x20;of&#x20;police&#x20;bribery&#x20;at&#x20;former&#x20;British&#x20;tabloid&#x20;News&#x20;of&#x20;the&#x20;World.
+News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;Friday&#x20;morning&#x20;amidst&#x20;the&#x20;ongoing&#x20;controversy&#x20;over&#x20;phone&#x20;hacking&#x20;and&#x20;allegations&#x20;of&#x20;police&#x20;bribery&#x20;at&#x20;former&#x20;British&#x20;tabloid&#x20;News&#...
 
 ### [2011 Horn of Africa drought:Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-pdrought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md)
 People who have fled the drought in Somalia to camps near the capital Mogadishu are now being hit by days of cold, heavy rain.

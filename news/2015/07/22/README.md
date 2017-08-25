@@ -10,7 +10,7 @@ At least 29 people died and 60 were wounded in multiple bomb blasts at two bus s
 Scientists in the UK say they have found fragments of one of the world&#39;s oldest surviving Koran parchments. Radiocarbon analysis dated the pages of the Muslim holy book close to the time of Muhammad.
 
 ### [ The European Central Bank provides an extra 900 million euros to the Greek banks. ](/news/2015/07/22/the-european-central-bank-provides-an-extra-900-million-euros-to-the-greek-banks.md)
-European Central Bank (ECB) on Wednesday decided to once again raise the amount of funds for the loans that are under urgent procedure for the Greek banks. &quot;The Governing Council of the ECB on Wednesday in a teleconference increased the level of the amount of funds for loans under the emergency procedure to EUR 900 million&quot;, anonymous sources said. 
+European Central Bank (ECB) on Wednesday decided to once again raise the amount of funds for the loans that are under urgent procedure for the Greek banks. &quot;The Governing Council of the ECB on Wednesday in a teleconference increased the level of the amount of funds for loans under the emergency...
 
 ### [  Three people die in a collision between a Pendolino train and a lorry that occurred near Studenka, north Moravia, in the Czech Republic. ](/news/2015/07/22/three-people-die-in-a-collision-between-a-pendolino-train-and-a-lorry-that-occurred-near-studa-c-nka-north-moravia-in-the-czech-republic.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

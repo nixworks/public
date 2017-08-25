@@ -10,7 +10,7 @@ Voyagers 1 and 2 discover that key layer of solar system is flattened on one sid
 _Context: Colombia, Ingrid Betancourt, Revolutionary Armed Forces of Colombia_
 
 ### [ Admiral Michael Mullen, the current Chairman of the Joint Chiefs of Staff in the United States, warns Israel of the dangers of an attack on Iran. ](/news/2008/07/2/admiral-michael-mullen-the-current-chairman-of-the-joint-chiefs-of-staff-in-the-united-states-warns-israel-of-the-dangers-of-an-attack-on.md)
-Joint Chiefs of Staff Chairman Adm. Mike Mullen, who was in Israel over the weekend, issued a strong warning today about the dangers of a military attack on Iran. At a Pentagon press conference, Mullen was asked, &quot;How concerned are you ... that Israel may undertake a unilateral strike against Iran...
+Joint Chiefs of Staff Chairman Adm. Mike Mullen, who was in Israel over the weekend, issued a strong warning today about the dangers of a military attack on Iran. At a Pentagon press conference, Mullen was asked, &quot;How concerned are you ... that Israel may undertake a unilateral strike against I...
 
 ### [ The President of Zambia Levy Mwanawasa is flown to Paris for treatment after suffering a stroke at the African Union summit in Sharm el-Sheikh, Egypt. ](/news/2008/07/2/the-president-of-zambia-levy-mwanawasa-is-flown-to-paris-for-treatment-after-suffering-a-stroke-at-the-african-union-summit-in-sharm-el-she.md)
 _Context: African Union, Egypt, Levy Mwanawasa, Paris, President, Sharm el-Sheikh, stroke_

@@ -1,7 +1,7 @@
 ## [2011-03-10](/news/2011/03/10/index.md)
 
 ### [2011 Libyan civil war:France recognizes the National Transitional Council as the sole legitimate representative of the Libyan people. ](/news/2011/03/10/2011-libyan-civil-war-pfrance-recognizes-the-national-transitional-council-as-the-sole-legitimate-representative-of-the-libyan-people.md)
-In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&#x20;opposition,&#x20;France&#x20;has&#x20;become&#x20;the&#x20;first&#x20;country&#x20;to&#x20;formally&#x20;recognise&#x20;Libya&#x2019;s&#x20;rebel&#x20;leadership,&#x20;pledging&#x20;to&#x20;exchange&#x20;ambassadors&#x20;between&#x20;Paris&#x20;and&#x20;the&#x20;Libyan&#x20;opposition&#x20;stronghold&#x20;of&#x20;Benghazi.
+In&#x20;a&#x20;major&#x20;diplomatic&#x20;victory&#x20;for&#x20;the&#x20;Libyan&#x20;opposition,&#x20;France&#x20;has&#x20;become&#x20;the&#x20;first&#x20;country&#x20;to&#x20;formally&#x20;recognise&#x20;Libya&#x2019;s&#x20;rebel&#x20;leadership,&#x20;pledging&#x20;to&#x20;exchange&#x20;ambassadors...
 
 ### [Philippine Army forces attack Abu Sayyaf fighters in a mangrove in Sacol Island in Zamboanga City. ](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.md)
 _Context: Abu Sayyaf, Sacol Island, Zamboanga City, army, mangrove_

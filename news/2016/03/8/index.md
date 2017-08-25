@@ -7,7 +7,7 @@ A young child and another person were killed on Tuesday when rocket fire hit the
 A West Point graduate from Lubbock died after he was stabbed while on a trip to Israel in an attack that wounded at least 10 others.
 
 ### [Spillover of the Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/spillover-of-the-tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md)
-The swoop by the army and security forces came after 17 suspects were arrested earlier in a manhunt following Monday&#x27;s dawn attacks in the border town of Ben Guerdane, which left dozens of jihadists dead. &quot;As part of the continuing operation at Ben Guerdane, security forces and the army were
+The swoop by the army and security forces came after 17 suspects were arrested earlier in a manhunt following Monday&#x27;s dawn attacks in the border town of Ben Guerdane, which left dozens of jihadists dead. &quot;As part of the continuing operation at Ben Guerdane, security forces and the army we...
 
 ### [The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayumurazovich-batirashvili-appears-to.md)
 _Context: Al-Shaddadah, Islamic State of Iraq and the Levant, Military intervention against ISIL, Omar al-Shishani, Pentagon officials, Syria, airstrike_

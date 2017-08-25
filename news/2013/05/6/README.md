@@ -34,7 +34,7 @@ The FBI says it believes &quot;a terror attack was disrupted&quot; when authorit
 An Air Force officer in charge of the Sexual Assault Prevention and Response Office was arrested and charged with sexual battery over the weekend in a D.C. suburb.
 
 ### [A stolen dinosaur skeleton is returned to Mongolia. ](/news/2013/05/6/a-stolen-dinosaur-skeleton-is-returned-to-mongolia.md)
-It&apos;s bad enough to go from roaming the earth as a fearsome predator to being uprooted and dragged across three continents, but to end up in a basement in Queens? No wonder the Tyrannosaurus Bataar was broken up. Literally. But not for long. Prosecutors and customs officials Monday loaded up boxes containing chunks of the 70-million-year-old dinosaur to ship him home to Mongolia, ending an odyssey driven by greedy fossil hunters whose attempt to sell the skeleton led to their downfall and Tyrannosaurus Bataar&apos;s resurrection.
+It&apos;s bad enough to go from roaming the earth as a fearsome predator to being uprooted and dragged across three continents, but to end up in a basement in Queens? No wonder the Tyrannosaurus Bataar was broken up. Literally. But not for long. Prosecutors and customs officials Monday loaded up box...
 
 ### [Three women missing for more than a decade are found alive in the U.S. city of Cleveland, Ohio, while a 52-year-old man, Ariel Castro, is taken into custody. ](/news/2013/05/6/three-women-missing-for-more-than-a-decade-are-found-alive-in-the-u-s-city-of-cleveland-ohio-while-a-52-year-old-man-ariel-castro-is-ta.md)
 THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent years in captivity.

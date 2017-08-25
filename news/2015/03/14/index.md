@@ -4,7 +4,7 @@
 _Context: Cyclone Pam, United Nations, Vanuatu_
 
 ### [A bus crash in the southern Brazilian state of Santa Catarina kills at least 51 people. ](/news/2015/03/14/a-bus-crash-in-the-southern-brazilian-state-of-santa-catarina-kills-at-least-51-people.md)
-The death toll from a tour bus&#x27;s horrific plunge into a densely wooded ravine in southern Brazil rose to 54 on Sunday, as President Dilma Rousseff expressed her sadness over the news. Firefighters pulled the victims from the wreckage despite the difficult terrain and the bodies were taken to a morgue
+The death toll from a tour bus&#x27;s horrific plunge into a densely wooded ravine in southern Brazil rose to 54 on Sunday, as President Dilma Rousseff expressed her sadness over the news. Firefighters pulled the victims from the wreckage despite the difficult terrain and the bodies were taken to a ...
 
 ### [Prime Minister of India Narendra Modi visits Sri Lanka's Jaffna District to hand over 27,000 homes to Tamil survivors of the Sri Lankan Civil War. ](/news/2015/03/14/prime-minister-of-india-narendra-modi-visits-sri-lanka-s-jaffna-district-to-hand-over-27-000-homes-to-tamil-survivors-of-the-sri-lankan-civi.md)
 Narendra Modi to hand over at least 27,000 new homes as part of efforts to promote ethnic reconciliation.

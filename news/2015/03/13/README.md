@@ -16,7 +16,7 @@ At least eight people are dead in Vanuatu, a senior aid official says, after one
 _Context: Gageodo, Ministry of Public Safety and Security, South Korea_
 
 ### [Chile declares a state of emergency and preliminary evacuation of 16,000 as a forest fire threatens the city of Valparaiso. ](/news/2015/03/13/chile-declares-a-state-of-emergency-and-preliminary-evacuation-of-16-000-as-a-forest-fire-threatens-the-city-of-valparaiso.md)
-Firefighters have contained a huge forest blaze that had threatened the picturesque Chilean port city of Valparaiso, officials said Sunday, adding the government plans to charge those responsible for the fire. One person died and thousands were evacuated on Friday from around the UNESCO World Heritage
+Firefighters have contained a huge forest blaze that had threatened the picturesque Chilean port city of Valparaiso, officials said Sunday, adding the government plans to charge those responsible for the fire. One person died and thousands were evacuated on Friday from around the UNESCO World Herita...
 
 ### [The Aung Takon passenger ferry sinks off the coast of Myanmar with 21 dead and 26 people missing. ](/news/2015/03/13/the-aung-takon-passenger-ferry-sinks-off-the-coast-of-myanmar-with-21-dead-and-26-people-missing.md)
 YANGON - A passenger ferry has sunk off the coast of western Myanmar, leaving at least 21 people dead and 26 missing, police said on Saturday.. Read more at straitstimes.com.

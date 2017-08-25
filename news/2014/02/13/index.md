@@ -58,7 +58,7 @@ A federal judge in Virginia has struck down the state&#39;s prohibition on same-
 _Context: Moon, Yutu_
 
 ### [The remains of an infant boy from the Clovis culture is determined to be Native American. ](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.md)
-The mysterious Clovis culture, which appeared in North America about 13,000 years ago, appears to be the forerunner of Native Americans throughout the Americas, a study of DNA evidence suggests. Remains from an infant buried more than 12,000 years ago at a Clovis site in modern Montana held the genetic key.
+The mysterious Clovis culture, which appeared in North America about 13,000 years ago, appears to be the forerunner of Native Americans throughout the Americas, a study of DNA evidence suggests. Remains from an infant buried more than 12,000 years ago at a Clovis site in modern Montana held the gene...
 
 ## [Previous Day...](/news/2014/02/12/index.md)
 

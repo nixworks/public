@@ -13,7 +13,7 @@ _Context: Ingushetia, Russia, civil war, radical Islamists, republic_
 _Context: African Party for the Independence of Guinea and Cape Verde, Guinea-Bissau, the parliamentary election_
 
 ### [ The government of Burundi abolishes capital punishment and bans homosexuality. Genocide and war crimes are now recognized as illegal activities. ](/news/2008/11/23/the-government-of-burundi-abolishes-capital-punishment-and-bans-homosexuality-genocide-and-war-crimes-are-now-recognized-as-illegal-activi.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ Scientists led by the University of Calgary are searching for the remains of a meteorite that is believed to have struck northern Canada, around the border of Alberta and Saskatchewan, overnight. ](/news/2008/11/23/scientists-led-by-the-university-of-calgary-are-searching-for-the-remains-of-a-meteorite-that-is-believed-to-have-struck-northern-canada-a.md)
 _Context: Alberta, Canada, Saskatchewan, University of Calgary, a meteorite_

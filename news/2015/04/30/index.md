@@ -31,7 +31,7 @@ In September last year, militants behind the attack on Malala and two other scho
 _Context: Police Department, death of Freddie Gray_
 
 ### [A woman, identified Friday morning as Alexia Christian, 25, who had earlier stolen a car, fires a handgun at two Atlanta Police Department officers, barely missing them. She is subsequently shot and killed. ](/news/2015/04/30/a-woman-identified-friday-morning-as-alexia-christian-25-who-had-earlier-stolen-a-car-fires-a-handgun-at-two-atlanta-police-department-o.md)
-»The latest on the fatal Atlanta police shootout»A look at some recent officer-involved shootings in metro AtlantaDespite being handcuffed and in the back of a patrol car, a 26-year-old woman managed to get one hand free and use a stolen gun to fire three shots at two officers, Atlanta police Chief George Turner said Friday.
+»The latest on the fatal Atlanta police shootout»A look at some recent officer-involved shootings in metro AtlantaDespite being handcuffed and in the back of a patrol car, a 26-year-old woman managed to get one hand free and use a stolen gun to fire three shots at two officers, Atlanta police Chie...
 
 ### [NASA's MESSENGER spacecraft crashes into Mercury after surpassing its one year primary mission by three years. ](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.md)
 The team for NASA&#x27;s Messenger mission to Mercury reported that the spacecraft smashed into the planet&#x27;s surface as expected on Thursday.

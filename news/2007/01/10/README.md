@@ -34,7 +34,7 @@ _Context: European Commission, European Union, carbon dioxide emissions, mitigat
 _Context: 2006 general election, Daniel Ortega, Enrique Bolanos, Nicaraguan President_
 
 ### [ The Social Democratic Party of Austria, the future majority partner in the grand coalition government that will be sworn in in Austria on January 11, 2007, announces its future ministers. ](/news/2007/01/10/the-social-democratic-party-of-austria-the-future-majority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-j.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ Start of the 12th ASEAN Summit and 2nd East Asia Summit in Metro Cebu, Philippines. Meetings involve heads of the 10 member states and 6 dialogue partners with major discussions on relevance, diplomacy, security, economy and free trade and other important global issues. ](/news/2007/01/10/start-of-the-12th-asean-summit-and-2nd-east-asia-summit-in-metro-cebu-philippines-meetings-involve-heads-of-the-10-member-states-and-6-di.md)
 _Context: ASEAN Summit, East Asia Summit_

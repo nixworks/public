@@ -1,7 +1,7 @@
 ## [2010-03-22](/news/2010/03/22/index.md)
 
 ### [A Pakistani Christian dies after being burned alive for refusing a conversion to Islam. ](/news/2010/03/22/a-pakistani-christian-dies-after-being-burned-alive-for-refusing-a-conversion-to-islam.md)
-Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 from his very serious injuries. The family requests that an autopsy is performed before the funeral. Christian associations and human rights activists demonstrate outside the hospital. Catholic leaders: the federal and provincial government do not punish the guilty. 
+Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 from his very serious injuries. The family requests that an autopsy is performed before the funeral. Christian associations and human rights activists demonstrate outside the hospital. Catholic leaders: the federal and p...
 
 ### [United States health care reformThe United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reformpthe-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md)
 _Context: Health Care and Education Reconciliation Act of 2010, United States, United States House of Representatives_

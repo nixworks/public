@@ -19,7 +19,7 @@ _Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin, Russian eco
 _Context: Sarath Fonseka, Sri Lanka, armed forces_
 
 ### [ U.S.-based rights group Human Rights Watch accuses Chinese authorities of running illegal "black jails" where Chinese citizens are detained for bringing up local complaints. ](/news/2009/11/12/u-s-based-rights-group-human-rights-watch-accuses-chinese-authorities-of-running-illegal-black-jails-where-chinese-citizens-are-detained.md)
-They travel thousands of miles to Beijing to bring their problems – land-grabbing, bullying, eviction or abuse by local officials – to the government&#039;s attention. But instead of obtaining justice, a shocking new report reveals that many are thrown into sordid and illegal &quot;black jails&quot; where they may be abused, beaten, tortured, raped, robbed, and deprived of food, sleep and medical care.
+They travel thousands of miles to Beijing to bring their problems – land-grabbing, bullying, eviction or abuse by local officials – to the government&#039;s attention. But instead of obtaining justice, a shocking new report reveals that many are thrown into sordid and illegal &quot;black jails&q...
 
 ### [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md)
 _Context: Islam, Puntland, Sheikh, Somali pirates, Somalia_

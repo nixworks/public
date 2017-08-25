@@ -1,7 +1,7 @@
 ## [2016-10-9](/news/2016/10/9/index.md)
 
 ### [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md)
-Kurdish militants detonated a car bomb Sunday outside a military checkpoint in southeast Turkey, killing nine soldiers and eight civilians, the local governor said. Cuneyit Orhan Toprak, governor of Hakkari province where the attack took place, gave the death toll to the private news channel NTV and said 27 other people were wounded in the attack and were rushed to nearby hospitals for treatment. Eleven of the wounded were soldiers, the Turkish military said. 
+Kurdish militants detonated a car bomb Sunday outside a military checkpoint in southeast Turkey, killing nine soldiers and eight civilians, the local governor said. Cuneyit Orhan Toprak, governor of Hakkari province where the attack took place, gave the death toll to the private news channel NTV and...
 
 ### [A Palestinian gunman opens fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem, killing at least two people, including a police officer, and injuring six others. Israeli police kill the gunman. ](/news/2016/10/9/a-palestinian-gunman-opens-fire-from-a-vehicle-on-people-waiting-at-a-train-station-and-then-the-nearby-police-headquarters-in-jerusalem-ki.md)
 _Context: Israeli police, Israeli-Palestinian conflict (2015-present), Jerusalem, Palestinians_

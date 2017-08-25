@@ -40,7 +40,7 @@ _Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gu
 Ministers announced women from Northern Ireland CAN now have free NHS abortions in England - a massive victory for a Labour MP
 
 ### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
-Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
+Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; hav...
 
 ### [ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
 GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 

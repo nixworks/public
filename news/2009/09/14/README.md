@@ -4,7 +4,7 @@
 _Context: Norway, parliamentary election_
 
 ### [ France's political "trial of the century" into the Clearstream affair&mdash;former Prime Minister Dominique de Villepin versus President Nicolas Sarkozy&mdash;opens at the Palais de Justice. ](/news/2009/09/14/france-s-political-trial-of-the-century-into-the-clearstream-affair-mdash-former-prime-minister-dominique-de-villepin-versus-president-ni.md)
-FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of intrigue and skulduggery that sets a former prime minister, Dominique de Villepin, against the President, Nicolas Sarkozy - and details the sexual peccadilloes of a stellar array of politicians - will open at the Palais de Justice this week.
+FRANCE&#039;S political &#039;&#039;trial of the century&#039;&#039;, a case of intrigue and skulduggery that sets a former prime minister, Dominique de Villepin, against the President, Nicolas Sarkozy - and details the sexual peccadilloes of a stellar array of politicians - will open at the Palais ...
 
 ### [ U.S. special forces launch an attack on Islamist militants from Al-Shabab in Somalia. ](/news/2009/09/14/u-s-special-forces-launch-an-attack-on-islamist-militants-from-al-shabab-in-somalia.md)
 _Context: Al-Shabaab, Islam, Somalia, U.S. special forces launch an attack_

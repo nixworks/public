@@ -1,7 +1,7 @@
 ## [2015-08-8](/news/2015/08/8/index.md)
 
 ### [An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight-support-staff-and-two-taliban-insurge.md)
-One member of Afghanistan&#x27;s NATO force and two insurgents were killed in an overnight battle at a base used by special forces in Kabul, a U.S. official said on Saturday. Authorities were still gathering information about the attack on the Camp Integrity facility, which followed suicide bomb attacks
+One member of Afghanistan&#x27;s NATO force and two insurgents were killed in an overnight battle at a base used by special forces in Kabul, a U.S. official said on Saturday. Authorities were still gathering information about the attack on the Camp Integrity facility, which followed suicide bomb att...
 
 ### [A hostage rescue operation in central Mali is successfully performed by British SAS forces after gunmen attack a hotel with at least seven people dead. ](/news/2015/08/8/a-hostage-rescue-operation-in-central-mali-is-successfully-performed-by-british-sas-forces-after-gunmen-attack-a-hotel-with-at-least-seven-p.md)
 Five foreigners and several other hostages were freed overnight after they were held by gunmen who raided a hotel in central Mali in an attack that left at least seven people dead, military sources said early Saturday.

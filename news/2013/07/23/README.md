@@ -13,7 +13,7 @@ Crowds greet Pope Francis in Rio on his first foreign trip as head of the Cathol
 At least 19 people are killed when a bus collides with a lorry in central Thailand and bursts into flames, reports say.
 
 ### [The ''Cyclospora'' parasite sickens more than 250 people in the Midwestern United States as the result of contamination of fresh produce shipped across state lines. The CDC report that eight people have been hospitalized with cyclosporiasis. ](/news/2013/07/23/the-cyclospora-parasite-sickens-more-than-250-people-in-the-midwestern-united-states-as-the-result-of-contamination-of-fresh-produce-shi.md)
-More than 250 people have been sickened, mostly in the Midwest, by a rare parasite that may have contaminated fresh produce shipped across state lines, said federal health officials, who’ve stepped in to help coordinate the growing outbreak. At least 118 cases of cyclospora infection have been reported in Iowa, another 65 in Texas and 68 in Nebraska, state officials said.
+More than 250 people have been sickened, mostly in the Midwest, by a rare parasite that may have contaminated fresh produce shipped across state lines, said federal health officials, who’ve stepped in to help coordinate the growing outbreak. At least 118 cases of cyclospora infection have been rep...
 
 ### [Japan begins a renewed effort to halt the leak of radioactive material from the tsunami-damaged Fukushima Daiichi nuclear power plant. ](/news/2013/07/23/japan-begins-a-renewed-effort-to-halt-the-leak-of-radioactive-material-from-the-tsunami-damaged-fukushima-daiichi-nuclear-power-plant.md)
 Japan says it is taking steps to prevent contaminated water from the crippled Fukushima nuclear plant leaking into the sea.

@@ -1,7 +1,7 @@
 ## [2015-09-14](/news/2015/09/14/index.md)
 
 ### [Five Saudi troops are killed following clashes with Houthi militants in the southern Najran region near the border with Yemen. ](/news/2015/09/14/five-saudi-troops-are-killed-following-clashes-with-houthi-militants-in-the-southern-najran-region-near-the-border-with-yemen.md)
-Five Saudi soldiers have died on the border with Yemen, the Saudi-led coalition said late on Sunday as forces inside Yemen began a major offensive against rebels. A coalition statement did not say how the army soldier and four Border Guard troops died in the kingdom&#x27;s southern Najran region. The
+Five Saudi soldiers have died on the border with Yemen, the Saudi-led coalition said late on Sunday as forces inside Yemen began a major offensive against rebels. A coalition statement did not say how the army soldier and four Border Guard troops died in the kingdom&#x27;s southern Najran region. Th...
 
 ### [Taliban insurgents storm a prison in the central Afghan province of Ghazni killing at least four prison officers and freeing about 350 prisoners. The deputy provincial governor of the Ghazni province says the attackers were well-organised and wearing military uniforms. ](/news/2015/09/14/taliban-insurgents-storm-a-prison-in-the-central-afghan-province-of-ghazni-killing-at-least-four-prison-officers-and-freeing-about-350-priso.md)
 Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least four police officers and freeing more than 350 prisoners.
@@ -10,7 +10,7 @@ Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least 
 _Context: Pentagon officials, Russia, Russia's role in the Syrian Civil War, Russian Armed Forces, Soviet, Syria, Syrian Civil War, collapse of the USSR_
 
 ### [Brazil announces a $17 billion austerity package after Standard and Poors further downgrades its credit rating. ](/news/2015/09/14/brazil-announces-a-17-billion-austerity-package-after-standard-and-poors-further-downgrades-its-credit-rating.md)
-Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monday in a bid to boost its ailing economy amid a deepening crisis that already caused a downgrade of the country&#x27;s credit rating. The package -- announced at a news conference by Planning Minister Nelson Barbosa -- includes
+Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monday in a bid to boost its ailing economy amid a deepening crisis that already caused a downgrade of the country&#x27;s credit rating. The package -- announced at a news conference by Planning Minister Nelson Barbosa -- inc...
 
 ### [A University of Notre Dame study finds significant correlation between substantial executive stock options and future product recalls. CEOs with abundant stock options get a huge payoff when the company performs well but endure minute consequences when it doesn't. ](/news/2015/09/14/a-university-of-notre-dame-study-finds-significant-correlation-between-substantial-executive-stock-options-and-future-product-recalls-ceos.md)
 _Context: University of Notre Dame, recall, stock options_

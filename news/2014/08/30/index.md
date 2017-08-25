@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Five miners are still missing but 20 have been saved after a cave-in at an unlicensed gold mine in Nicaragua.
 
 ### [A Ukrainian Antonov An-12 aircraft with seven people on board crashes in the Sahara Desert in Algeria. ](/news/2014/08/30/a-ukrainian-antonov-an-12-aircraft-with-seven-people-on-board-crashes-in-the-sahara-desert-in-algeria.md)
-A Ukrainian cargo plane crashed in the Sahara desert early on Saturday, killing all seven people on board, Algeria&#x27;s transport ministry said. The Antonov 12, which had come from Glasgow in Scotland and was bound for Equatorial Guinea, came down near Tamanrasset airport at around 2:40 am (0140 GMT
+A Ukrainian cargo plane crashed in the Sahara desert early on Saturday, killing all seven people on board, Algeria&#x27;s transport ministry said. The Antonov 12, which had come from Glasgow in Scotland and was bound for Equatorial Guinea, came down near Tamanrasset airport at around 2:40 am (0140 G...
 
 ### [Six people are found dead after a fire in a mobile home in the American town of Clinton, North Carolina. ](/news/2014/08/30/six-people-are-found-dead-after-a-fire-in-a-mobile-home-in-the-american-town-of-clinton-north-carolina.md)
 _Context: Clinton, North Carolina, mobile home_

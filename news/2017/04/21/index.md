@@ -25,10 +25,10 @@ A 28-year-old allegedly attacked the bus, injuring one footballer, to earn from 
 _Context: Brussels, Chad, Guinea-Bissau, Iran, Libya, Pakistan, arms trafficking, court_
 
 ### [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md)
-With the motives of the Champs-Elys&eacute;es gunman considered terror-related, the timing just three days before the first round of the French presidential elections and during a prime time TV &quot;debate&quot; between all 11 official candidates clearly suggests that extremists are seeking to influence the tone of the debate - and perhaps its outcome.
+With the motives of the Champs-Elys&eacute;es gunman considered terror-related, the timing just three days before the first round of the French presidential elections and during a prime time TV &quot;debate&quot; between all 11 official candidates clearly suggests that extremists are seeking to infl...
 
 ### [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md)
-The death toll in three weeks of violence at anti-government protests in Venezuela jumped to 20 people after a night of clashes and pillaging left 12 people dead in Caracas. Riot police and pro-government vigilantes fought running battles with protesters demanding the ouster of President Nicolas Maduro
+The death toll in three weeks of violence at anti-government protests in Venezuela jumped to 20 people after a night of clashes and pillaging left 12 people dead in Caracas. Riot police and pro-government vigilantes fought running battles with protesters demanding the ouster of President Nicolas Mad...
 
 ### [The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md)
 _Context: Hassan Rouhani, re-elected_

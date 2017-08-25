@@ -16,7 +16,7 @@ Get the latest BBC News from the Middle East: breaking news, features, analysis 
 Two suicide car bombs explode in the Iraqi capital, Baghdad, killing nine people and wounding 25.
 
 ### [Storms in Guangdong, southern China, kill at least 18 people and leave 150 injured. ](/news/2011/04/18/storms-in-guangdong-southern-china-kill-at-least-18-people-and-leave-150-injured.md)
-_Context: China, Guangdong province_
+_Context: China, Guangdong_
 
 ### [A landslide kills 10 people in Indonesia's East Java province. ](/news/2011/04/18/a-landslide-kills-10-people-in-indonesia-s-east-java-province.md)
 A landslide killed at least 10 people and injured seven in Indonesia’s East Java province, state-run media said Monday. A steep cliff collapsed Sunday in the hamlet of Klangon in Malang district after

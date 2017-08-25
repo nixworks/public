@@ -22,7 +22,7 @@ _Context: Ai Weiwei, yuan_
 Four men are arrested in a major counter terrorism operation in the Sparkhill area of Birmingham, police say.
 
 ### [The first Gas Summit of the Gas Exporting Countries Forum opens in Doha. ](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [Nauru swears in its third President in less than a week, as President Freddie Pitcher, in office for just six days, is ousted in a 9-8 vote of no confidence. Sprent Dabwido is sworn in as the new president. ](/news/2011/11/15/nauru-swears-in-its-third-president-in-less-than-a-week-as-president-freddie-pitcher-in-office-for-just-six-days-is-ousted-in-a-9-8-vote.md)
 _Context: Freddie Pitcher, Nauru, President of Nauru, Sprent Dabwido, vote of no confidence_

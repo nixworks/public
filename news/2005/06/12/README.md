@@ -12,7 +12,7 @@ _Context: Ahwaz, Iran, Tehran_
 _Context: Mike Tyson, Wikinews_
 
 ### [ Lebanese general elections: Results of the third round of the Lebanese parliamentary elections in Mount Lebanon and the Beqaa show the triumph of Michel Aoun's list in the upper part of the region (Metn) and the success of Walid Jumblatt's coalition in the lower part (Chouf). ](/news/2005/06/12/lebanese-general-elections-results-of-the-third-round-of-the-lebanese-parliamentary-elections-in-mount-lebanon-and-the-beqaa-show-the-triu.md)
-The elections in Mount Lebanon&#39;s third electoral district of Baabda-Aley were colored with security clashes as police and army officers struggled to keep the voting stations and surrounding areas secure. Sunday&#39;s polls in central and eastern Lebanon proved to be the fiercest electoral battle yet with anti-Syrian factions squaring off against each other.
+The elections in Mount Lebanon&#39;s third electoral district of Baabda-Aley were colored with security clashes as police and army officers struggled to keep the voting stations and surrounding areas secure. Sunday&#39;s polls in central and eastern Lebanon proved to be the fiercest electoral battle...
 
 ### [ Kuwait appoints first female cabinet minister, Massuma al-Mubarak ](/news/2005/06/12/kuwait-appoints-first-female-cabinet-minister-massuma-al-mubarak.md)
 _Context: Kuwait, Massuma al-Mubarak_

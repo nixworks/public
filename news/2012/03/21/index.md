@@ -16,7 +16,7 @@ _Context: Iraq_
 Islamist group claims responsibility for blast in Somali capital that targeted security forces and injured two people.
 
 ### [French police engage in a shootout with Mohammed Merah, a suspect in recent shootings in Toulouse, with the suspect allegedly linked to al-Qa'ida. ](/news/2012/03/21/french-police-engage-in-a-shootout-with-mohammed-merah-a-suspect-in-recent-shootings-in-toulouse-with-the-suspect-allegedly-linked-to-al-q.md)
-A&#x20;24-year-old&#x20;gunman,&#x20;still&#x20;holed&#x20;up&#x20;in&#x20;his&#x20;besieged&#x20;Toulouse&#x20;apartment,&#x20;has&#x20;admitted&#x20;killing&#x20;seven&#x20;people&#x20;in&#x20;a&#x20;recent&#x20;spate&#x20;of&#x20;attacks&#x20;in&#x20;southwest&#x20;France,&#x20;according&#x20;to&#x20;Paris&#x27;s&#x20;top&#x20;prosecutor.&#x20;Follow&#x20;events&#x20;as&#x20;they&#x20;unfold&#x20;on&#x20;our&#x20;live&#x20;blog.
+A&#x20;24-year-old&#x20;gunman,&#x20;still&#x20;holed&#x20;up&#x20;in&#x20;his&#x20;besieged&#x20;Toulouse&#x20;apartment,&#x20;has&#x20;admitted&#x20;killing&#x20;seven&#x20;people&#x20;in&#x20;a&#x20;recent&#x20;spate&#x20;of&#x20;attacks&#x20;in&#x20;southwest&#x20;France,&#x20;according&#x20;to&...
 
 ### [Nigerian Army soldiers kill nine gunmen suspected of belonging to the Boko Haram Islamist group after they attack a police station and a bank. ](/news/2012/03/21/nigerian-army-soldiers-kill-nine-gunmen-suspected-of-belonging-to-the-boko-haram-islamist-group-after-they-attack-a-police-station-and-a-ban.md)
 _Context: Boko Haram, Islamist, Nigerian Army_

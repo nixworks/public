@@ -34,7 +34,7 @@ _Context: 1Malaysia Development Berhad scandal, Bersih 4 rally, Malaysia, Malays
 _Context: Japan, Tokyo, constitution_
 
 ### [Voters in Egypt will go to the polls for parliamentary elections starting in October 2015. ](/news/2015/08/30/voters-in-egypt-will-go-to-the-polls-for-parliamentary-elections-starting-in-october-2015.md)
-By Ahmed Aboulenein CAIRO (Reuters) - Egypt will hold a long-awaited parliamentary election, starting on Oct. 18-19, the election commission said on Sunday, the final step in a process to bring back democracy that critics say has been tainted by widespread repression. Egypt has been without a parliament since June 2012 when a court dissolved the...
+By Ahmed Aboulenein CAIRO (Reuters) - Egypt will hold a long-awaited parliamentary election, starting on Oct. 18-19, the election commission said on Sunday, the final step in a process to bring back democracy that critics say has been tainted by widespread repression. Egypt has been without a parlia...
 
 ## [Previous Day...](/news/2015/08/29/index.md)
 

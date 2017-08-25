@@ -37,7 +37,7 @@ _Context: L. Ron Hubbard, Moscow, Russia, Scientology_
 EXCLUSIVE: Climax to bribery scandal as Federal Police raid Melbourne homes of former banknote company executives.
 
 ### [Dominique Strauss-Kahn''The New York Times'' reports that the sexual assault case against former International Monetary Fund head Dominique Strauss-Kahn is on the verge of collapse due to concerns over the credibility of the alleged victim's testimony. ](/news/2011/07/1/dominique-strauss-kahnp-the-new-york-times-reports-that-the-sexual-assault-case-against-former-international-monetary-fund-head-dominique.md)
-Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;released&#x20;from&#x20;house&#x20;arrest&#x20;on&#x20;Friday&#x20;after&#x20;prosecutors&#x20;said&#x20;the&#x20;hotel&#x20;maid&#x20;who&#x20;accused&#x20;him&#x20;of&#x20;attempted&#x20;rape&#x20;lied&#x20;about&#x20;her&#x20;actions&#x20;after&#x20;the&#x20;alleged&#x20;attack,&#x20;as&#x20;well&#x20;as&#x20;on&#x20;tax&#x20;and&#x20;immigration&#x20;documents.
+Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;released&#x20;from&#x20;house&#x20;arrest&#x20;on&#x20;Friday&#x20;after&#x20;prosecutors&#x20;said&#x20;the&#x20;hotel&#x20;maid&#x20;who&#x20;accused&#x20;him&#x20;of&#x20;attempted&#x20;rape&#x20;lied&#x20;about&#x20;her&#x...
 
 ### [The ''Chosunilbo'' newspaper in South Korea reports that Kim Pyong-il, the half-brother of current North Korean leader Kim Jong-il, is under house arrest in Pyongyang. ](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-that-kim-pyong-il-the-half-brother-of-current-north-korean-leader-kim-jong-il-is-under.md)
 _Context: Chosunilbo, Kim Jong-il, Kim Pyong-il, North Korea, Pyongyang, South Korea_

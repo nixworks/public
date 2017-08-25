@@ -40,10 +40,10 @@ _Context: Catholic Church, Pope Francis, capital punishment, executions_
 The country has had more than 20 coups or attempts at seizing power since it gained independence from France in 1975
 
 ### [Voters in Niger go to the polls for a general election. ](/news/2016/02/21/voters-in-niger-go-to-the-polls-for-a-general-election.md)
-The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x20;one&#x20;of&#x20;the&#x20;world&#x2019;s&#x20;poorest&#x20;nations,&#x20;heads&#x20;to&#x20;the&#x20;polls&#x20;Sunday&#x20;to&#x20;pick&#x20;a&#x20;new&#x20;leader.&#x20;Whoever&#x20;wins&#x20;the&#x20;ballot&#x20;faces&#x20;the&#x20;dual&#x20;challenge&#x20;of&#x20;fending&#x20;off&#x20;a&#x20;food&#x20;crisis&#x20;alongside&#x20;an&#x20;imminent&#x20;jihadist&#x20;threat.
+The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x20;one&#x20;of&#x20;the&#x20;world&#x2019;s&#x20;poorest&#x20;nations,&#x20;heads&#x20;to&#x20;the&#x20;polls&#x20;Sunday&#x20;to&#x20;pick&#x20;a&#x20;new&#x20;leader.&#x20;Whoever&#x20;wins&#x20;the&#x20;ballot&#x20;fac...
 
 ### [North Korean state media confirms that Ri Myong-su is the new chief of the General Staff Department of the Korean People's Army replacing Ri Yong-gil who was executed. ](/news/2016/02/21/north-korean-state-media-confirms-that-ri-myong-su-is-the-new-chief-of-the-general-staff-department-of-the-korean-people-s-army-replacing-ri.md)
-North Korean state media on Sunday confirmed the country has a new military chief following earlier reports in Seoul that the former holder of the post had been executed. Ri Myong-Su, former People&#x27;s Security Minister, was referred to as &quot;chief of the Korean People&#x27;s Army General Staff&amp;
+North Korean state media on Sunday confirmed the country has a new military chief following earlier reports in Seoul that the former holder of the post had been executed. Ri Myong-Su, former People&#x27;s Security Minister, was referred to as &quot;chief of the Korean People&#x27;s Army General Staf...
 
 ### [In what is seen as a major boost for the "Vote Leave" campaign, Mayor of London Boris Johnson announces he will be campaigning for the United Kingdom to leave the European Union. ](/news/2016/02/21/in-what-is-seen-as-a-major-boost-for-the-vote-leave-campaign-mayor-of-london-boris-johnson-announces-he-will-be-campaigning-for-the-unite.md)
 The London Mayor says he did not want to go against David Cameron but after &quot;a great deal of heartache&quot; felt he had no choice.

@@ -10,7 +10,7 @@ A suspected female suicide attacker kills at least 30 people, most of university
 _Context: Greek government-debt crisis timeline_
 
 ### [Lockheed Martin agrees to buy United Technologies Corp's Sikorsky Aircraft for $9 billion. ](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.md)
-_Context: Lockheed Martin, Sikorsky Aircraft, United Technologies Corp_
+_Context: Lockheed, Sikorsky Aircraft, United Technologies Corp_
 
 ### [Venezuela orders producers to divert supplies to state stores amid a chronic shortage of goods. ](/news/2015/07/20/venezuela-orders-producers-to-divert-supplies-to-state-stores-amid-a-chronic-shortage-of-goods.md)
 _Context: Venezuela_

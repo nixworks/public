@@ -37,7 +37,7 @@ _Context: Asia, India, Jacob Zuma, Mumbai, South Africa_
 Human rights campaigners condemn the Libyan execution of 18 people, mostly foreigners from Nigeria and Egypt.
 
 ### [Archbishop of Freiburg (Germany) Robert Zollitsch is charged with "aiding and abetting child sex abuse", though the archdiocese rejects the charges and coverage of them as "absolutely weak" and "sensationalist". ](/news/2010/06/2/archbishop-of-freiburg-germany-robert-zollitsch-is-charged-with-aiding-and-abetting-child-sex-abuse-though-the-archdiocese-rejects-the.md)
-Robert&#x20;Zollitsch,&#x20;the&#x20;71-year-old&#x20;head&#x20;of&#x20;the&#x20;German&#x20;Bishops&#x27;&#x20;Conference&#x20;and&#x20;archbishop&#x20;of&#x20;Freiburg,&#x20;has&#x20;been&#x20;charged&#x20;with&#x20;aiding&#x20;and&#x20;abetting&#x20;sexual&#x20;abuse,&#x20;Freiberg&#x20;prosecutors&#x20;said&#x20;Wednesday.
+Robert&#x20;Zollitsch,&#x20;the&#x20;71-year-old&#x20;head&#x20;of&#x20;the&#x20;German&#x20;Bishops&#x27;&#x20;Conference&#x20;and&#x20;archbishop&#x20;of&#x20;Freiburg,&#x20;has&#x20;been&#x20;charged&#x20;with&#x20;aiding&#x20;and&#x20;abetting&#x20;sexual&#x20;abuse,&#x20;Freiberg&#x20;prosecuto...
 
 ### [Police in Saudi Arabia investigate three young Saudis, two men and one woman, who spoke critically of the country's laws on the MTV documentary, ''Resist the Power! Saudi Arabia''. ](/news/2010/06/2/police-in-saudi-arabia-investigate-three-young-saudis-two-men-and-one-woman-who-spoke-critically-of-the-country-s-laws-on-the-mtv-document.md)
 Three Saudi youths who appeared in a recent broadcast of the MTV documentary series “True Life” could be brought to court by the Saudi Arabian religious police.

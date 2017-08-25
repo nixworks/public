@@ -16,7 +16,7 @@ _Context: Rigopiano avalanche_
 _Context: Barbara, George H. W. Bush, Houston Methodist Hospital, intensive care, pneumonia, president_
 
 ### [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md)
-Mayor Sadiq Khan today put London on toxic air alert for at least three days. City Hall sent out warnings that air pollution could rise today to “moderate” in 17 boroughs and the City. It is then set to hit a “high” peak in Westminster and the Square Mile tomorrow before reducing to “moderate” in these two areas on Friday.
+Mayor Sadiq Khan today put London on toxic air alert for at least three days. City Hall sent out warnings that air pollution could rise today to “moderate” in 17 boroughs and the City. It is then set to hit a “high” peak in Westminster and the Square Mile tomorrow before reducing to “moder...
 
 ### [At least four people are killed in a shootout between Mexican Police and unknown gunmen after the latter opened fire on the Quintana Roo state attorneys' office in Cancun. ](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.md)
 _Context: Cancun, Mexican Police, Quintana Roo_

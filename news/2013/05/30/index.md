@@ -43,7 +43,7 @@ _Context: banning same-sex marriage_
 Seton Hall University was evacuated Thursday afternoon after police received an anonymous tip that bombs had been placed in several campus buildings.
 
 ### [New analysis suggests that turtles evolved a shell 40 million years earlier than previously thought. ](/news/2013/05/30/new-analysis-suggests-that-turtles-evolved-a-shell-40-million-years-earlier-than-previously-thought.md)
-Ever wondered how a turtle gets its shell? They are one of the most unique animals as they form a shell on the outside of their bodies through a fusion of modified ribs, vertebrae and shoulder girdle bones. However, scientists have been left dumbfounded for more than two centuries as to how and when did the turtle&#039;s shell originated. 
+Ever wondered how a turtle gets its shell? They are one of the most unique animals as they form a shell on the outside of their bodies through a fusion of modified ribs, vertebrae and shoulder girdle bones. However, scientists have been left dumbfounded for more than two centuries as to how and when...
 
 ### [Russian scientists discover a "perfectly preserved" woolly mammoth carcass containing liquid blood. ](/news/2013/05/30/russian-scientists-discover-a-perfectly-preserved-woolly-mammoth-carcass-containing-liquid-blood.md)
 _Context: woolly mammoth_

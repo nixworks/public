@@ -4,7 +4,7 @@
 _Context: Shabwa province, Yemen, Yemeni conflict, al-Qaida_
 
 ### [The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. ](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.md)
-At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and that
+At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and t...
 
 ### [The U.S. President Barack Obama announces a plan to tax crude oil $10 a barrel in order to fund infrastructure spending, according to a White House statement. ](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-to-tax-crude-oil-10-a-barrel-in-order-to-fund-infrastructure-spending-according-to-a-whit.md)
 _Context: Barack Obama, White House, crude oil, infrastructure_

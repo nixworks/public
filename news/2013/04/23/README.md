@@ -34,7 +34,7 @@ _Context: 2013 ricin letters, Barack Obama, US President, ricin_
 The AFP says the self-proclaimed leader of international hacking group LulzSec has been arrested in Sydney.
 
 ### [The French National Assembly passes an amended bill legalizing same-sex marriage, paving the way for President Francois Hollande to promulgate it. ](/news/2013/04/23/the-french-national-assembly-passes-an-amended-bill-legalizing-same-sex-marriage-paving-the-way-for-president-franassois-hollande-to-promulg.md)
-PARIS (AP) — France legalized gay marriage on Tuesday after a wrenching national debate that has exposed deep social conservatism in the nation&#x27;s heartland and triggered huge protests in Paris from both sides of the divide. Legions of officers with water cannon braced outside the National Assembly
+PARIS (AP) — France legalized gay marriage on Tuesday after a wrenching national debate that has exposed deep social conservatism in the nation&#x27;s heartland and triggered huge protests in Paris from both sides of the divide. Legions of officers with water cannon braced outside the National Ass...
 
 ## [Previous Day...](/news/2013/04/22/index.md)
 

@@ -34,7 +34,7 @@ _Context: horizontal, sauropod_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.md)
-Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yesterday that the second phase of constitutional reform that President Chen Shui-bian (陳水扁) has vowed to pursue -- which he says will create a new constitution suited to Taiwan by 2008 -- will commence as soon as the National Assembly approves a first round of constitutional amendments today.
+Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yesterday that the second phase of constitutional reform that President Chen Shui-bian (陳水扁) has vowed to pursue -- which he says will create a new constitution suited to Taiwan by 2008 -- will commence as soon as the ...
 
 ### [ In the Philippines, the government orders the National Bureau of Investigation to investigate a case where opposition tapped the telephone conversation of president Gloria Arroyo. They allegedly used it to create a tape where she is supposedly talking about electoral fraud ](/news/2005/06/7/in-the-philippines-the-government-orders-the-national-bureau-of-investigation-to-investigate-a-case-where-opposition-tapped-the-telephone.md)
 _Context: Gloria Arroyo, Philippines, electoral fraud, phone tapping_

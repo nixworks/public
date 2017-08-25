@@ -19,7 +19,7 @@ _Context: Kentucky, Knox County, United States_
 _Context: California, San Clemente, United States, sailboat_
 
 ### [Three time "Best Restaurant in the World" winner Noma is accused of giving 63 customers food poisoning. ](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.md)
-Regardless of all the &#034;Please wash hands after using the toilet&#034; in most public restrooms in restaurants, many people still chose to overlook this crucial hygiene step. As a consequence, dirty hands have been found to be the culprit in the recent norovirus outbreak at Noma, an exclusive restaurant in Copenhagen, Denmark, according to food inspectors. 
+Regardless of all the &#034;Please wash hands after using the toilet&#034; in most public restrooms in restaurants, many people still chose to overlook this crucial hygiene step. As a consequence, dirty hands have been found to be the culprit in the recent norovirus outbreak at Noma, an exclusive re...
 
 ### [Google will pay a $7 million penalty to settle an investigation into the collection of e-mails, passwords and other sensitive information sent over wireless networks from 2007-2010 in the United States. Google company cars taking street-level photos for its online mapping service also had been vacuuming up personal data transmitted over wireless networks that weren't protected by passwords. ](/news/2013/03/9/google-will-pay-a-7-million-penalty-to-settle-an-investigation-into-the-collection-of-e-mails-passwords-and-other-sensitive-information-se.md)
 _Context: Google, Google Maps, Street View, United States, United States dollars, e-mail, password, personal data, wireless network_

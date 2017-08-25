@@ -16,7 +16,7 @@ Federal investigators hoped Monday to reach the site of a Sunday crash that kill
 Theresa May says she will trigger Brexit by the end of March, telling the Tory party conference it is time to strike a deal with the EU as an independent, sovereign UK.
 
 ### [Authorities arrest a Japanese man for killing as many as 48 elderly patients at the Oguchi Hospital in Yokohama. ](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as-many-as-48-elderly-patients-at-the-oguchi-hospital-in-yokohama.md)
-Police in Japan are investigating whether a serial poisoner is responsible for killing as many as 48 elderly patients by injecting disinfectant into their intravenous drips. Suspicions began after an autopsy showed two elderly patients had been poisoned in Oguchi Hospital, Yokohama. Sozo Nishikawa and Nobuo Yamaki, both 88, died on 18 and 20 September respectively, after having a drip administered.
+Police in Japan are investigating whether a serial poisoner is responsible for killing as many as 48 elderly patients by injecting disinfectant into their intravenous drips. Suspicions began after an autopsy showed two elderly patients had been poisoned in Oguchi Hospital, Yokohama. Sozo Nishikawa a...
 
 ### [Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-quotas-on-relocating-migrants-while-an-ove.md)
 _Context: European Union, Hungarian migrant quota referendum, 2016, Hungary_

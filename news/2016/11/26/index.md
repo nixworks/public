@@ -22,7 +22,7 @@ Seven people were killed and another person was missing after a chartered fishin
 India has reported an outbreak of a highly contagious bird flu virus in the southwestern state of Karnataka, the World Organisation for Animal Health (OIE) said on Friday, citing a report from the Indian agriculture ministry.
 
 ### [Iran arrests three railway officials in connection with yesterday's deadly train crash in Semnan that killed  45 and injured 103 people. ](/news/2016/11/26/iran-arrests-three-railway-officials-in-connection-with-yesterday-s-deadly-train-crash-in-semnan-that-killed-45-and-injured-103-people.md)
-The head of Iranian Railways has resigned after four of his employees were arrested following a collision between two trains that left at least 44 people dead. Mohsen Poor-Seyed Aghaie, a deputy minister in the transport ministry and head of the state-owned railway company, appeared on state television
+The head of Iranian Railways has resigned after four of his employees were arrested following a collision between two trains that left at least 44 people dead. Mohsen Poor-Seyed Aghaie, a deputy minister in the transport ministry and head of the state-owned railway company, appeared on state televis...
 
 ### [The Iraqi parliament passes a law recognizing Shia paramilitary units as a government entity, complete with salaries and pensions that mirror those of the military and the police. ](/news/2016/11/26/the-iraqi-parliament-passes-a-law-recognizing-shia-paramilitary-units-as-a-government-entity-complete-with-salaries-and-pensions-that-mirro.md)
 Iraqi Sunnis say law was proof of Shia &quot;dictatorship&quot; but Prime Minister Abadi says force will defend &quot;all Iraqis&quot;.

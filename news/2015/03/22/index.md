@@ -13,7 +13,7 @@ A Syrian government helicopter crashes in Idlib province, with four crew capture
 _Context: Leicester, Leicester Cathedral, Richard III of England_
 
 ### [A campsite tent fire on Ganghwa Island in the South Korean city of Incheon kills five people and seriously injures two others. ](/news/2015/03/22/a-campsite-tent-fire-on-ganghwa-island-in-the-south-korean-city-of-incheon-kills-five-people-and-seriously-injures-two-others.md)
- Five people including three children died and two others were seriously injured in a tent fire at a camping site in Incheon, a port city west of Seoul, early Sunday, police and fire officials said. The fire broke out around 2:13 a.m. at a tent set up at a camping ground close to a beach on Ganghwa Island of Incheon, according to the officials. Three of the killed were family members, they said.
+ Five people including three children died and two others were seriously injured in a tent fire at a camping site in Incheon, a port city west of Seoul, early Sunday, police and fire officials said. The fire broke out around 2:13 a.m. at a tent set up at a camping ground close to a beach on Ganghwa ...
 
 ### [Cyclone Nathan makes landfall near Nhulunbuy in the Northern Territory as a high end Category 2 cyclone. ](/news/2015/03/22/cyclone-nathan-makes-landfall-near-nhulunbuy-in-the-northern-territory-as-a-high-end-category-2-cyclone.md)
 Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts up to 140km/h in some areas.

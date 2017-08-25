@@ -4,7 +4,7 @@
 Scores are killed when a military jet targets a refugee camp, thinking it was Boko Haram militants.
 
 ### [British American Tobacco agrees to take over the R. J. Reynolds Tobacco Company for $49.4 billion. ](/news/2017/01/17/british-american-tobacco-agrees-to-take-over-the-r-j-reynolds-tobacco-company-for-49-4-billion.md)
-British American Tobacco agreed Tuesday to pay almost $50 billion for control of US peer Reynolds American in a move which targets the lucrative United States market and the fast-growing e-cigarette sector. BAT will purchase the 57.8-percent of Reynolds American that it does not already own, the group
+British American Tobacco agreed Tuesday to pay almost $50 billion for control of US peer Reynolds American in a move which targets the lucrative United States market and the fast-growing e-cigarette sector. BAT will purchase the 57.8-percent of Reynolds American that it does not already own, the gro...
 
 ### [The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md)
 _Context: Malaysia Airlines Flight 370_

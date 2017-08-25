@@ -16,7 +16,7 @@ France calls on former European Commission head, Jose Manuel Barroso, not to tak
 _Context: Donald Trump, Ruth Bader Ginsburg, United States Supreme Court_
 
 ### [Formation of the Elizabeth Truss is named Secretary of State for Justice and first ever female Lord Chancellor of the United Kingdom as former chancellor Michael Gove is ousted from the cabinet. ](/news/2016/07/14/formation-of-the-elizabeth-truss-is-named-secretary-of-state-for-justice-and-first-ever-female-lord-chancellor-of-the-united-kingdom-as-form.md)
-New Prime Minister Theresa May has named Liz Truss&nbsp;as her new Lord Chancellor and Justice Secretary, sacking Michael Gove in the process. Truss&nbsp;became a Member of&nbsp;Parliament at the 2010&nbsp;election, representing South West Norfolk. She was previously&nbsp;Secretary of State for Environment, Food and Rural Affairs. Truss&nbsp;is the first woman to hole the office of Lord Chancellor, [&hellip;]
+New Prime Minister Theresa May has named Liz Truss&nbsp;as her new Lord Chancellor and Justice Secretary, sacking Michael Gove in the process. Truss&nbsp;became a Member of&nbsp;Parliament at the 2010&nbsp;election, representing South West Norfolk. She was previously&nbsp;Secretary of State for Envi...
 
 ## [Previous Day...](/news/2016/07/13/index.md)
 

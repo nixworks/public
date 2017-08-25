@@ -7,7 +7,7 @@ _Context: Amtrak, Carolinian, Charlotte, North Carolina, Halifax, North Carolina
 Two helicopters collide in mid-air over northern Argentina, killing 10 people including gold medalist swimmer Camille Muffat and Olympic boxer Alexis Vastine
 
 ### [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md)
-The lawyer wife of actor George Clooney has asked the United Nations Human Rights Committee (UNHRC) to call on the Philippine government to issue a public apology for violating the rights of former President Gloria Macapagal-Arroyo under the International Covenant on Civil and Political Rights (ICCPR). 
+The lawyer wife of actor George Clooney has asked the United Nations Human Rights Committee (UNHRC) to call on the Philippine government to issue a public apology for violating the rights of former President Gloria Macapagal-Arroyo under the International Covenant on Civil and Political Rights (ICCP...
 
 ### [U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S. ](/news/2015/03/9/u-s-president-barack-obama-signs-an-executive-order-declaring-venezuela-a-national-security-threat-to-the-u-s.md)
 _Context: Barack Obama, Venezuela, executive order, president_

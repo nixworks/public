@@ -1,10 +1,10 @@
 ## [2015-10-4](/news/2015/10/4/index.md)
 
 ### [Stabbing attacks carried out by Palestinians in Jerusalem's Old City kill two Israeli civilians and injures three others. As a result, Israel bans Palestinians from entering the Old City for two days unless they live there. ](/news/2015/10/4/stabbing-attacks-carried-out-by-palestinians-in-jerusalem-s-old-city-kill-two-israeli-civilians-and-injures-three-others-as-a-result-israe.md)
-Israel barred Palestinians from Jerusalem&#x27;s Old City Sunday as violence spread after two Israelis were stabbed to death, and Prime Minister Benjamin Netanyahu spoke of &quot;a fight to the death against Palestinian terror&quot;. Netanyahu convened his top security officials immediately after landing
+Israel barred Palestinians from Jerusalem&#x27;s Old City Sunday as violence spread after two Israelis were stabbed to death, and Prime Minister Benjamin Netanyahu spoke of &quot;a fight to the death against Palestinian terror&quot;. Netanyahu convened his top security officials immediately after la...
 
 ### [Turkey's air force launches a new wave of air-raids bombing PKK positions in northern Iraq and southeastern Turkey. Turkish warplanes destroy PKK fuel and ammunition depots in the Hakkari province on the border with Iraq, as well as, in the eastern Kars province, according to a military statement. ](/news/2015/10/4/turkey-s-air-force-launches-a-new-wave-of-air-raids-bombing-pkk-positions-in-northern-iraq-and-southeastern-turkey-turkish-warplanes-destro.md)
-Turkish warplanes struck Kurdistan Workers&#x27; Party (PKK) targets in northern Iraq and eastern Turkey overnight, in a new air operation against the Kurdish militant group, the army said Sunday. Turkish F-16 fighters hit 17 PKK positions in northern Iraq, destroying shelters used by the militant group
+Turkish warplanes struck Kurdistan Workers&#x27; Party (PKK) targets in northern Iraq and eastern Turkey overnight, in a new air operation against the Kurdish militant group, the army said Sunday. Turkish F-16 fighters hit 17 PKK positions in northern Iraq, destroying shelters used by the militant g...
 
 ### [Syrian President Bashar al-Assad says reforms in Syria are unlikely until all of the government's armed opponents are vanquished. The country will continue to send representatives to peace negotiations sponsored by Moscow, but rule out negotiations with the Western-backed groups opposing his government. ](/news/2015/10/4/syrian-president-bashar-al-assad-says-reforms-in-syria-are-unlikely-until-all-of-the-governmentas-armed-opponents-are-vanquished-the-coun.md)
 A 2,000-year-old Roman arch of triumph in the ancient city of Palmyra in Syria has been blown up by Isis militants, the country’s antiquities chief has said. IS blow up Arch of Triumph Maamoun Abdulkarim told Reuters that local sources had confirmed that the arch had been virtually destroyed.
@@ -28,7 +28,7 @@ Portugal Ahead pro-austerity coalition under Pedro Passos Coelho took 36.8% of t
 _Context: Alexander Lukashenko, Belarus, Minsk_
 
 ### [Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-most-votes-which-will-lead-to-a-pro-russian.md)
-The Social Democratic Party of Kyrgyzstan, linked to pro-Moscow President Almazbek Atambayev, came out on top at Sunday&#x27;s parliamentary election in the ex-Soviet state, with five other pro-Russian parties also winning seats. Results released by the country&#x27;s Central Electoral Commission showed
+The Social Democratic Party of Kyrgyzstan, linked to pro-Moscow President Almazbek Atambayev, came out on top at Sunday&#x27;s parliamentary election in the ex-Soviet state, with five other pro-Russian parties also winning seats. Results released by the country&#x27;s Central Electoral Commission sh...
 
 ## [Previous Day...](/news/2015/10/3/index.md)
 

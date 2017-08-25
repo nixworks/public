@@ -16,7 +16,7 @@ A suspected Taliban suicide bomber in a car detonated a bomb close to minibuses 
 _Context: Chhattisgarh, India, Naxalite raid, Sukma, Vidya Charan Shukla_
 
 ### [Bills banning homosexual "propaganda" pass through Russia's parliament; gay people are hit with eggs by anti-gay extremists and then dragged off by police near the Duma. ](/news/2013/06/11/bills-banning-homosexual-propaganda-pass-through-russia-s-parliament-gay-people-are-hit-with-eggs-by-anti-gay-extremists-and-then-dragged.md)
-Gay activists were attacked and then arrested outside Russia’s parliament as lawmakers overwhelmingly passed a bill that will ban “gay propaganda” aimed at under-18s. The Duma passed the bill, which outlaws the “propaganda of non-traditional sexual relations”, by 436 votes to zero, with one abstention.
+Gay activists were attacked and then arrested outside Russia’s parliament as lawmakers overwhelmingly passed a bill that will ban “gay propaganda” aimed at under-18s. The Duma passed the bill, which outlaws the “propaganda of non-traditional sexual relations”, by 436 votes to zero, with on...
 
 ### [Greek broadcaster ERT is shut as part of austerity measures. ](/news/2013/06/11/greek-broadcaster-ert-is-shut-as-part-of-austerity-measures.md)
 The Greek public broadcaster ERT is to close down almost immediately, the government has announced, causing shockwaves across the country. Three 

@@ -28,7 +28,7 @@ Three women are killed in a stampede at a crowded three-storey nightclub in the 
 _Context: Christmas, Copt, Egypt, a year ago_
 
 ### [Mark Kennedy, the undercover British police officer who posed as an activist, flees to the United States after his cover is blown. ](/news/2011/01/16/mark-kennedy-the-undercover-british-police-officer-who-posed-as-an-activist-flees-to-the-united-states-after-his-cover-is-blown.md)
-The undercover policeman who controversially posed as an environmental activist, last night claimed he had been made a &quot;scapegoat&quot; and was hiding in the US in &quot;genuine fear for [his] life&quot;. Mark Kennedy claimed his undercover policework was highly sensitive and at one time the intelligence he gathered had been passed directly to the then Prime Minister, Tony Blair.
+The undercover policeman who controversially posed as an environmental activist, last night claimed he had been made a &quot;scapegoat&quot; and was hiding in the US in &quot;genuine fear for [his] life&quot;. Mark Kennedy claimed his undercover policework was highly sensitive and at one time the in...
 
 ### [Supporters of the Pirate Party of Canada hold a protest in Calgary for increased freedom of the press and government transparency in defense of Julian Assange and the WikiLeaks website. ](/news/2011/01/16/supporters-of-the-pirate-party-of-canada-hold-a-protest-in-calgary-for-increased-freedom-of-the-press-and-government-transparency-in-defense.md)
 _Context: Calgary, Alberta, Freedom of the press, Julian Assange, Pirate Party of Canada, WikiLeaks, government transparency_

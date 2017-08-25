@@ -13,7 +13,7 @@ Dozens of people including foreign nationals are killed in Laos as a plane crash
 _Context: Japan, Typhoon Wipha_
 
 ### [A Panamanian registered ship sinks off the coast of South Korea, killing 9 sailors and leaving 2 others missing. Coast Guard officials rescue another 8 crew members. ](/news/2013/10/16/a-panamanian-registered-ship-sinks-off-the-coast-of-south-korea-killing-9-sailors-and-leaving-2-others-missing-coast-guard-officials-rescu.md)
-(ATTN: RECASTS headline, lead; UPDATES with more information in 3, 5, 7-9 paras) POHANG, South Korea, Oct. 16 (Yonhap) -- Nine foreign crewmembers were killed and two others remain missing after a Panamanian-registered cargo ship sank off the eastern coast of South Korea, the coast guard said Wednesday.
+(ATTN: RECASTS headline, lead; UPDATES with more information in 3, 5, 7-9 paras) POHANG, South Korea, Oct. 16 (Yonhap) -- Nine foreign crewmembers were killed and two others remain missing after a Panamanian-registered cargo ship sank off the eastern coast of South Korea, the coast guard said Wednes...
 
 ### [Solberg's Cabinet is appointed as the 61st cabinet of Norway by the King following the parliamentary election on 9 September. date=October 2013 ](/news/2013/10/16/solberg-s-cabinet-is-appointed-as-the-61st-cabinet-of-norway-by-the-king-following-the-parliamentary-election-on-9-september-date-october-2.md)
 _Context: King, Norway, Solberg's Cabinet, parliamentary election_

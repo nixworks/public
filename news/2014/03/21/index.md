@@ -22,7 +22,7 @@ _Context: Bernard A. Friedman, Michigan, U.S. District Judge for the Eastern Dis
 Two children died and another 30 were sickened in a mass poisoning at a kindergarten in southwestern China, authorities said Friday.
 
 ### [Thai general election, 2014:The Constitutional Court of Thailand invalidates the general election held on February 2, on the grounds that voting was not held on the same day throughout the country. ](/news/2014/03/21/thai-general-election-2014-pthe-constitutional-court-of-thailand-invalidates-the-general-election-held-on-february-2-on-the-grounds-that-v.md)
-(AFP) - Thailand&#039;s Constitutional Court ruled on Friday that a general election held last month was invalid, deepening a political stalemate following weeks of opposition protests. The February 2 polls, called by Prime Minister Yingluck Shinawatra in an unsuccessful attempt to ease a months-old p
+(AFP) - Thailand&#039;s Constitutional Court ruled on Friday that a general election held last month was invalid, deepening a political stalemate following weeks of opposition protests. The February 2 polls, called by Prime Minister Yingluck Shinawatra in an unsuccessful attempt to ease a months-old...
 
 ## [Previous Day...](/news/2014/03/20/index.md)
 

@@ -13,7 +13,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 Soldier is in critical condition after sustaining stab wounds to his neck in attack at the Damascus Gate in Jerusalem&#39;s Old City.
 
 ### [Prime Minister of Greece Alexis Tsipras makes a new offer for reforms which could signal a late deal in the country's debt talks. ](/news/2015/06/21/prime-minister-of-greece-alexis-tsipras-makes-a-new-offer-for-reforms-which-could-signal-a-late-deal-in-the-country-s-debt-talks.md)
-Greek debt talks are resuming after creditors accused the country&#x27;s Prime Minister Alexis Tsipras of failing to compromise. Greece faces a 1.6 billion euro debt repayment to the International Monetary Fund on Tuesday, and is thought to require a new deal to avoid default and a possible withdrawal from the eurozone.
+Greek debt talks are resuming after creditors accused the country&#x27;s Prime Minister Alexis Tsipras of failing to compromise. Greece faces a 1.6 billion euro debt repayment to the International Monetary Fund on Tuesday, and is thought to require a new deal to avoid default and a possible withdraw...
 
 ## [Previous Day...](/news/2015/06/20/index.md)
 

@@ -13,7 +13,7 @@ Four days of Diamond Jubilee events culminate in an appearance by the Queen on t
 _Context: Starbucks_
 
 ### [Amidst growing diplomatic tensions between Romania and Hungary, ignoring an official request not to, the Speaker of the Hungarian Parliament undergoes a visit in Transylvania triggering protests from Romanian state dignitaries. ](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.md)
-Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to visit Romania on Tuesday. Earlier on Monday, Romanian Senate Speaker Vasile Blaga and House of Representatives Speaker Roberta Anastase asked him to postpone his visit after the country’s upcoming local elections. In a letter of response addressed to the Romanian house speakers, &hellip;
+Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to visit Romania on Tuesday. Earlier on Monday, Romanian Senate Speaker Vasile Blaga and House of Representatives Speaker Roberta Anastase asked him to postpone his visit after the country’s upcoming local elections. In a ...
 
 ### [The President of Russia, Vladimir Putin, begins a three-day visit to China. ](/news/2012/06/5/the-president-of-russia-vladimir-putin-begins-a-three-day-visit-to-china.md)
 _Context: China, Russian President Vladimir Putin, Vladimir Putin_

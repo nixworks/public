@@ -31,7 +31,7 @@ Officials in Pakistan appeal to separatist militant groups to halt attacks in th
 The first part of the 5th Assessment Report of the Intergovernmental Panel on Climate Change will be released in Stockholm, Sweden, later today.
 
 ### [Iran-United States relations:Iranian Foreign Minister Mohammad Javad Zarif meets with U.S. Secretary of State John Kerry during P5+1 and Iran talks, the highest-level direct contact between the United States and Iran in six years. ](/news/2013/09/27/iran-united-states-relations-piranian-foreign-minister-mohammad-javad-zarif-meets-with-u-s-secretary-of-state-john-kerry-during-p5-1-and-ir.md)
-UNITED NATIONS (AP) — U.S. and European diplomats welcomed a &quot;significant shift&quot; in Iran&#x27;s attitude at talks on Thursday aimed at resolving the impasse over Tehran&#x27;s disputed nuclear activities. Iran said it was eager to dispel the notion that it is trying to develop a nuclear weapon
+UNITED NATIONS (AP) — U.S. and European diplomats welcomed a &quot;significant shift&quot; in Iran&#x27;s attitude at talks on Thursday aimed at resolving the impasse over Tehran&#x27;s disputed nuclear activities. Iran said it was eager to dispel the notion that it is trying to develop a nuclear ...
 
 ### [French police arrest six people in Paris over their suspected involvement in an attempt to steal 1.6 million euros worth of gold bars from an Air France plane on September 19. ](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.md)
 _Context: Air France, French police, Paris, gold bar_

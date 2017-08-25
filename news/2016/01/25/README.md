@@ -4,7 +4,7 @@
 _Context: Boko Haram insurgency, Cameroon, Nigeria_
 
 ### [A Saudi-led coalition airstrike kills a senior Yemeni judge and seven members of his family in Sana'a. The judge had previously presided over treason cases against ousted President Abd Rabbuh Mansur Hadi. ](/news/2016/01/25/a-saudi-led-coalition-airstrike-kills-a-senior-yemeni-judge-and-seven-members-of-his-family-in-sana-a-the-judge-had-previously-presided-ove.md)
-A Saudi-led coalition strike killed a senior Yemeni judge and seven members of his family at their home in the rebel-controlled capital Sanaa, a relative said Monday. &quot;Judge Yehia Mohammed Rubaid, his son, three women, and three children where killed when a missile hit their home,&quot; his nephew
+A Saudi-led coalition strike killed a senior Yemeni judge and seven members of his family at their home in the rebel-controlled capital Sanaa, a relative said Monday. &quot;Judge Yehia Mohammed Rubaid, his son, three women, and three children where killed when a missile hit their home,&quot; his nep...
 
 ### [Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as ''American Falls'') within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. ](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.md)
 It would be the second time the famous falls have been shut down as authorities weigh up a $37.3m bill to fix two bridges.

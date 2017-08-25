@@ -31,7 +31,7 @@ Analysts expect a close runoff to be followed by demonstrations and legal manoeu
 Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne Mapp at a Gallipoli ceremony honouring fallen ANZAC and Turkish soldiers.
 
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: Guangdong province, Huang Yizhong, Jiangmen, pornography_
+_Context: Guangdong, Huang Yizhong, Jiangmen, pornography_
 
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)
 Britain is to tighten the rules on immigrants entering Britain on a student visa, the government said Sunday in a clampdown on a system which some security experts say has been exploited by Islamist militants.

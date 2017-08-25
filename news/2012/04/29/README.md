@@ -28,7 +28,7 @@ _Context: Chemical Weapons Convention, chemical weapons_
 _Context: Ban Ki-moon, Burma, United Nations_
 
 ### [2012 Malian coup d'tat: Mali coup leader Amadou Haya Sanogo rejects a decision by the Economic Community of West African States to deploy troops to the country. ](/news/2012/04/29/2012-malian-coup-d-etat-mali-coup-leader-amadou-haya-sanogo-rejects-a-decision-by-the-economic-community-of-west-african-states-to-deploy-t.md)
-Amadou&#x20;Haya&#x20;Sanogo&#x20;&#x28;photo&#x29;,&#x20;the&#x20;army&#x20;captain&#x20;who&#x20;led&#x20;a&#x20;March&#x20;22&#x20;coup&#x20;in&#x20;Mali,&#x20;on&#x20;Saturday&#x20;rejected&#x20;a&#x20;decision&#x20;by&#x20;the&#x20;West&#x20;African&#x20;bloc&#x20;ECOWAS&#x20;to&#x20;send&#x20;troops&#x20;to&#x20;the&#x20;country&#x20;to&#x20;ensure&#x20;an&#x20;agreed&#x20;transition&#x20;to&#x20;civilian&#x20;rule.
+Amadou&#x20;Haya&#x20;Sanogo&#x20;&#x28;photo&#x29;,&#x20;the&#x20;army&#x20;captain&#x20;who&#x20;led&#x20;a&#x20;March&#x20;22&#x20;coup&#x20;in&#x20;Mali,&#x20;on&#x20;Saturday&#x20;rejected&#x20;a&#x20;decision&#x20;by&#x20;the&#x20;West&#x20;African&#x20;bloc&#x20;ECOWAS&#x20;to&#x20;send&#x20;...
 
 ### [Ana Maria Gomes, a Member of the European Parliament, is denied access to Bahrain. ](/news/2012/04/29/ana-maria-gomes-a-member-of-the-european-parliament-is-denied-access-to-bahrain.md)
 A European Union member ofparliament with a diplomatic passport said she was preventedfrom entering Bahrain on Sunday in an application of visa rulesimposed while the government grapples with a pro-democracymovement.

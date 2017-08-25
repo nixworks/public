@@ -13,7 +13,7 @@ With only two months left for Uruguay&rsquo;s October general election President
 Ennis came to a standstill this afternoon with the arrival of Muhammad Ali for a host of events organised in his honour.
 
 ### [ Speaking in Lima's ''El Comercio'' in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez.md)
-Venezuelan President Hugo Chavez said that his country will continue exporting oil to the United States because it is in interest. In a statement published in the Lima daily El Comercio that &ldquo;many people don&rsquo;t know&rdquo; that Venezuelan state oil giant PDVSA, through its Citgo subsidiary, has seven large refineries and more than 10.000 service stations on US soil.
+Venezuelan President Hugo Chavez said that his country will continue exporting oil to the United States because it is in interest. In a statement published in the Lima daily El Comercio that &ldquo;many people don&rsquo;t know&rdquo; that Venezuelan state oil giant PDVSA, through its Citgo subsidiar...
 
 ### [ Fiji is suspended from the Commonwealth of Nations, only the second full suspension in the organization's history. ](/news/2009/09/1/fiji-is-suspended-from-the-commonwealth-of-nations-only-the-second-full-suspension-in-the-organization-s-history.md)
 Military-ruled Fiji was on Tuesday suspended from the Commonwealth of Nations after it ignored a deadline set by the 53-member grouping to take effective steps towards restoration of democracy. 
@@ -25,7 +25,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Eurozone, unemployment rate_
 
 ### [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md)
-The Chilean government will subsidize the purchase of more fuel-efficient trucks for citizens through a program set to start later this year. The program, called &ldquo;Cambia tu Cami&oacute;n,&rdquo; or &ldquo;Change your Truck,&rdquo; will offer a bonus of 4, 8 or 12 million pesos (7.200, 14.500 or 21.700 US dollars respectively), toward the purchase of a new, more fuel efficient car, with the trade-in of a truck over 25 years old.
+The Chilean government will subsidize the purchase of more fuel-efficient trucks for citizens through a program set to start later this year. The program, called &ldquo;Cambia tu Cami&oacute;n,&rdquo; or &ldquo;Change your Truck,&rdquo; will offer a bonus of 4, 8 or 12 million pesos (7.200, 14.500 o...
 
 ### [ The European Union bans the manufacture or import of 100 watt incandescent light bulbs, beginning a phase-out in favour of energy-saving compact fluorescent lamps. ](/news/2009/09/1/the-european-union-bans-the-manufacture-or-import-of-100-watt-incandescent-light-bulbs-beginning-a-phase-out-in-favour-of-energy-saving-co.md)
 _Context: European Union, bans the manufacture or import, compact fluorescent lamp, incandescent light bulb_

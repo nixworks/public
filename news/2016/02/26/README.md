@@ -4,7 +4,7 @@
 Philippine security forces killed as many as 42 Muslim rebels claiming links with Islamic State and captured their stronghold during five days of fighting in the mountains of a southern island, an army spokesman said on Friday.
 
 ### [Al-Shabaab militants storm a Somali Youth League hotel in Mogadishu. At least 14 are reportedly killed.](/news/2016/02/26/al-shabaab-militants-storm-a-somali-youth-league-hotel-in-mogadishu-at-least-14-are-reportedly-killed.md)
-Fighters from the Islamist group al-Shabaab have attacked a hotel in Mogadishu, Somalia. Five militants and at least nine civilians were reported dead as government security forces ended the attack on the Somali Youth League hotel. The SYL hotel is locarted across from the presidential palace and is frequented by government officials and business executives. A suicide bomber rammed a car bomb into the entrance of the hotel, allowing gunmen to fight their way past hotel guards at the first security border, Captain Mohamed Hussein said.
+Fighters from the Islamist group al-Shabaab have attacked a hotel in Mogadishu, Somalia. Five militants and at least nine civilians were reported dead as government security forces ended the attack on the Somali Youth League hotel. The SYL hotel is locarted across from the presidential palace and is...
 
 ### [Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md)
 Seven soldiers were killed on Friday in clashes with Islamist militants in the eastern Libyan city of Benghazi, where military forces are pressing to consolidate recent gains, an army commander said.

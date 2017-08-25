@@ -7,7 +7,7 @@ _Context: Denmark, Libya, Muhammad cartoons, embassy_
 _Context: Al Jazeera, Ayman al-Zawahiri, Jill Carroll, bombing of Damadola_
 
 ### [ ABC World News Tonight co-anchor Bob Woodruff and cameraman Doug Vogt are seriously injured by an improvised explosive device near Taji, Iraq. ](/news/2006/01/29/abc-world-news-tonight-co-anchor-bob-woodruff-and-cameraman-doug-vogt-are-seriously-injured-by-an-improvised-explosive-device-near-taji-ir.md)
-&quot;World News Tonight&quot; co-anchor Bob Woodruff and cameraman Doug Vogt are recovering from injuries suffered when their convoy was hit by an improvised explosive devise in Iraq today. They remain in serious but stable condition following surgery at a U.S. military hospital in Iraq and will be treated...
+&quot;World News Tonight&quot; co-anchor Bob Woodruff and cameraman Doug Vogt are recovering from injuries suffered when their convoy was hit by an improvised explosive devise in Iraq today. They remain in serious but stable condition following surgery at a U.S. military hospital in Iraq and will be...
 
 ### [ Tarja Halonen is re-elected in the second round of the Finnish presidential election with 51.8% of the votes, defeating the other candidate Sauli Niinist. ](/news/2006/01/29/tarja-halonen-is-re-elected-in-the-second-round-of-the-finnish-presidential-election-with-51-8-of-the-votes-defeating-the-other-candidate.md)
 _Context: Finnish presidential election, Sauli Niinisto, Tarja Halonen_

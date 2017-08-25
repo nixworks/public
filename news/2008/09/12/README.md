@@ -10,7 +10,7 @@ _Context: Bolivia, Pando, Unrest in Bolivia, martial law_
 _Context: Britain, XL Leisure Group_
 
 ### [ Twenty Four people die in Chatsworth in Los Angeles, California following a collision between a Metrolink passenger train and a Union Pacific freight train. At least 135 people were also injured in the accident. ](/news/2008/09/12/twenty-four-people-die-in-chatsworth-in-los-angeles-california-following-a-collision-between-a-metrolink-passenger-train-and-a-union-pacif.md)
-Rescue teams worked frantically into this morning after a Metrolink passenger train carrying 225 people collided Friday with a Union Pacific freight train on a sharp curve in Chatsworth, killing at least 17 people and leaving more than 135 injured. It was one of the worst train crashes in Southern California history and Metrolink officials said they could not explain why warning systems failed to prevent such a catastrophic collision.
+Rescue teams worked frantically into this morning after a Metrolink passenger train carrying 225 people collided Friday with a Union Pacific freight train on a sharp curve in Chatsworth, killing at least 17 people and leaving more than 135 injured. It was one of the worst train crashes in Southern C...
 
 ### [ A car bomb in the mainly Shiite town of Dujail in Iraq kills at least 32 people and injures another 43. ](/news/2008/09/12/a-car-bomb-in-the-mainly-shiite-town-of-dujail-in-iraq-kills-at-least-32-people-and-injures-another-43.md)
 _Context: Dujail, Iraq, Shiite, car bomb_

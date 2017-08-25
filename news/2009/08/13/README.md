@@ -4,7 +4,7 @@
 Mexican president Felipe Calder&oacute;n on an official visit to Colombia offered his country&rsquo;s mediation in the conflict between Bogot&aacute; and neighbouring Ecuador and Venezuela.
 
 ### [ Ousted Honduran President Manuel Zelaya praises Chile for its "great image" as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-agreat-imagea-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md)
-Ousted Honduran president Manuel Zelaya said he expects the US administration to take more drastic actions against the de facto government of Roberto Micheletti. Zelaya held a three and a half hour meeting on Thursday with Chilean president Michelle Bachelet in Santiago as part of his round of visits to drum support for his reinstatement.
+Ousted Honduran president Manuel Zelaya said he expects the US administration to take more drastic actions against the de facto government of Roberto Micheletti. Zelaya held a three and a half hour meeting on Thursday with Chilean president Michelle Bachelet in Santiago as part of his round of visit...
 
 ### [ Eleven people, including four policemen, are killed in several separate insurgent attacks in Russia's Republic of Dagestan. ](/news/2009/08/13/eleven-people-including-four-policemen-are-killed-in-several-separate-insurgent-attacks-in-russia-s-republic-of-dagestan.md)
 _Context: Republic of Dagestan, Russia_

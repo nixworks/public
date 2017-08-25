@@ -4,7 +4,7 @@
 _Context: Gaza Strip, Israel Defense Forces, Operation Protective Edge_
 
 ### [Post-civil war violence in Libya:Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/post-civil-war-violence-in-libya-pislamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce.md)
-Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20;militia&#x20;that&#x20;now&#x20;controls&#x20;the&#x20;airport&#x20;in&#x20;Tripoli,&#x20;triggering&#x20;fierce&#x20;clashes&#x20;that&#x20;halted&#x20;flights&#x20;amid&#x20;already&#x20;heightened&#x20;tensions&#x20;as&#x20;Libya&#x20;awaits&#x20;the&#x20;results&#x20;of&#x20;contentious&#x20;elections.
+Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20;militia&#x20;that&#x20;now&#x20;controls&#x20;the&#x20;airport&#x20;in&#x20;Tripoli,&#x20;triggering&#x20;fierce&#x20;clashes&#x20;that&#x20;halted&#x20;flights&#x20;amid&#x20;already&#x20;heightened&#x20;tensions&#x20;...
 
 ### [Syrian Civil War:At least four people are killed as Hezbollah clashes with Syrian rebels on the border between Lebanon and Syria. ](/news/2014/07/13/syrian-civil-war-pat-least-four-people-are-killed-as-hezbollah-clashes-with-syrian-rebels-on-the-border-between-lebanon-and-syria.md)
 _Context: Hezbollah, Lebanon, Syria, Syrian Civil War_

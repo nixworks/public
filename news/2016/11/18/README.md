@@ -25,7 +25,7 @@ Nataliia Karia is accused of intentionally hanging a baby boy at the in-home day
 Sen. Jeff Sessions has been offered the post of attorney general, while Rep. Mike Pompeo and Michael Flynn have been offered the respective positions of CIA chief and national security adviser.
 
 ### [China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md)
-China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of Inner Mongolia on Friday with two astronauts aboard, state media said, completing the country&#x27;s longest manned space mission to date. China Central Television showed images of the craft - whose name translates as &quot;
+China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of Inner Mongolia on Friday with two astronauts aboard, state media said, completing the country&#x27;s longest manned space mission to date. China Central Television showed images of the craft - whose name translates as &qu...
 
 ## [Previous Day...](/news/2016/11/17/index.md)
 

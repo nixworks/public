@@ -16,7 +16,7 @@ _Context: 2017 Romanian protests, Prime Minister, Sorin Grindeanu_
 The move is part of a peace deal paving the way for Gulbuddin Hekmatyar to return to Afghanistan.
 
 ### [U.S. immigration suspension, ''State of Washington v. Trump''The Department of Homeland Security says it has stopped enforcing the executive order per Judge James Robart's ruling in ''State of Washington v. Trump''. The State Department activates visas that had been previously suspended because of this order. ](/news/2017/02/4/u-s-immigration-suspension-state-of-washington-v-trump-pthe-department-of-homeland-security-says-it-has-stopped-enforcing-the-executiv.md)
-Homeland Security announced Saturday it is suspending the implementation of President Donald Trump&#x27;s executive order that bans foreigners from seven Muslim-majority nations from entering the United States. The move comes as the State Department also said it has reinstated visas for those foreigners - backing up a federal judge who blocked Trump&#x27;s order Friday.
+Homeland Security announced Saturday it is suspending the implementation of President Donald Trump&#x27;s executive order that bans foreigners from seven Muslim-majority nations from entering the United States. The move comes as the State Department also said it has reinstated visas for those foreig...
 
 ### [The cave squeaker (''Arthroleptis troglodytes''), a critically endangered species of frog, is located and captured for the first time since 1962. Scientists announce plans to breed. ](/news/2017/02/4/the-cave-squeaker-arthroleptis-troglodytes-a-critically-endangered-species-of-frog-is-located-and-captured-for-the-first-time-since.md)
 _Context: cave squeaker, frog_

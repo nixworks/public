@@ -16,7 +16,7 @@ _Context: Amsterdam, Amsterdam Airport Schiphol, Netherlands, power outage_
 _Context: Germanwings Flight 9525_
 
 ### [A jury in the U.S. state of California votes for the defendant in a sexual discrimination case brought by Ellen Pao against Silicon Valley venture capital firm Kleiner Perkins Caufield & Byers. ](/news/2015/03/27/a-jury-in-the-u-s-state-of-california-votes-for-the-defendant-in-a-sexual-discrimination-case-brought-by-ellen-pao-against-silicon-valley-v.md)
-SAN FRANCISCO — A civil jury on Friday returned a verdict in the high-profile Ellen Pao gender discrimination case, finding that powerful venture capital firm Kleiner Perkins Caufield & Byers did not discriminate against her because of her gender and did not retaliate when she protested her treatment.
+SAN FRANCISCO — A civil jury on Friday returned a verdict in the high-profile Ellen Pao gender discrimination case, finding that powerful venture capital firm Kleiner Perkins Caufield & Byers did not discriminate against her because of her gender and did not retaliate when she protested her treatm...
 
 ### [Italy's highest court acquits American Amanda Knox and Italian Raffaele Sollecito of the murder of Briton Meredith Kercher. ](/news/2015/03/27/italy-s-highest-court-acquits-american-amanda-knox-and-italian-raffaele-sollecito-of-the-murder-of-briton-meredith-kercher.md)
 _Context: Amanda Knox, British people, Italian, Raffaele Sollecito, killing Meredith Kercher_
@@ -25,7 +25,7 @@ _Context: Amanda Knox, British people, Italian, Raffaele Sollecito, killing Mere
 _Context: Democratic, Harry Reid, Nevada, Senate Majority Leader, United States Senate_
 
 ### [Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-and-american-ast.md)
-A Russian Soyuz spacecraft with three crew on board successfully docked at the International Space Station Saturday after blasting off from Kazakhstan, NASA said, launching a year-long mission on the orbiting outpost. The Soyuz-TMA16M spacecraft&#x27;s crew included a US astronaut and a Russian cosmonaut
+A Russian Soyuz spacecraft with three crew on board successfully docked at the International Space Station Saturday after blasting off from Kazakhstan, NASA said, launching a year-long mission on the orbiting outpost. The Soyuz-TMA16M spacecraft&#x27;s crew included a US astronaut and a Russian cosm...
 
 ## [Previous Day...](/news/2015/03/26/index.md)
 

@@ -43,7 +43,7 @@ Selahattin Demirtaş, HDP co-leader known as the ‘Kurdish Obama’, held with 
 The government directed NDTV India to go off air for 24 hours starting November 9 midnight for allegedly jeopardizing national security while covering the terror attack on Pathankot airbase in January. This is the first time that a broadcaster has been penalized over coverage of a terror attack.
 
 ### [A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-trump-s-work-history-shows-that-she-was-an-i.md)
-The company that owns the National Enquirer, a backer of Donald Trump, agreed to pay $150,000 to a former Playboy centerfold model for her story of an affair a decade ago with the Republican presidential nominee, but then didn’t publish it, according to documents reviewed by The Wall Street Journal and people familiar with the matter.
+The company that owns the National Enquirer, a backer of Donald Trump, agreed to pay $150,000 to a former Playboy centerfold model for her story of an affair a decade ago with the Republican presidential nominee, but then didn’t publish it, according to documents reviewed by The Wall Street Journa...
 
 ### [After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.md)
 _Context: Mariano Rajoy, Spanish general election, 2016_

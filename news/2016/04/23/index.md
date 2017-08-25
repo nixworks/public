@@ -16,7 +16,7 @@ At least 12 people were killed on Saturday in two separate car bomb attacks in B
 _Context: Stratford-upon-Avon, William Shakespeare_
 
 ### [Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes. ](/news/2016/04/23/spain-commemorates-the-400th-anniversary-of-the-death-of-its-most-famous-author-miguel-de-cervantes.md)
-Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death&#x20;of&#x20;its&#x20;most&#x20;famous&#x20;author&#x20;Miguel&#x20;de&#x20;Cervantes&#x20;this&#x20;week&#x20;with&#x20;hundreds&#x20;of&#x20;events&#x20;ranging&#x20;from&#x20;cultural&#x20;to&#x20;quirky...and&#x20;a&#x20;bit&#x20;of&#x20;controversy.
+Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death&#x20;of&#x20;its&#x20;most&#x20;famous&#x20;author&#x20;Miguel&#x20;de&#x20;Cervantes&#x20;this&#x20;week&#x20;with&#x20;hundreds&#x20;of&#x20;events&#x20;ranging&#x20;from&#x20;cultural&#x20;to&#x20;quirky...and&#x20;a...
 
 ### [Beyonce releases the best selling album of 2016, Lemonade. The album is a visual album that was released with a film that detailed every song on the album.](/news/2016/04/23/beyonca-c-releases-the-best-selling-album-of-2016-lemonade-the-album-is-a-visual-album-that-was-released-with-a-film-that-detailed-every-so.md)
 _Context: Beyonce, Lemonade_

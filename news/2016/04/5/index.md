@@ -40,7 +40,7 @@ _Context: LGBT rights in the United States, Mississippi Governor, Phil Bryant's,
 Sigmundur Davíð Gunnlaugsson steps aside amid widespread anger over allegations his family attempted to hide millions in offshore account
 
 ### [Voters in the U.S. state of Wisconsin go to the polls for a primary election with Ted Cruz winning the Republican Party contest and Bernie Sanders winning the Democratic Party primary. ](/news/2016/04/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-a-primary-election-with-ted-cruz-winning-the-republican-party-contest-and-bernie-s.md)
-Tuesday&rsquo;s vote in Wisconsin could not only help shore up the momentum for candidates on both sides of the presidential race, but it could also determine whether the Republicans are headed to a contested convention. Neither Donald Trump nor Hillary Clinton, their respective party&rsquo;s front-runner, is...
+Tuesday&rsquo;s vote in Wisconsin could not only help shore up the momentum for candidates on both sides of the presidential race, but it could also determine whether the Republicans are headed to a contested convention. Neither Donald Trump nor Hillary Clinton, their respective party&rsquo;s front-...
 
 ### [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md)
 _Context: Australia, Queensland, Queensland term length referendum, 2016_

@@ -46,7 +46,7 @@ BBC broadcaster Stuart Hall pleads guilty to 14 charges of indecently assaulting
 British fraudster James McCormick is jailed for 10 years for selling fake bomb detectors to security forces around the world.
 
 ### [Convicted Indian spy Sarabjit Singh dies after being attacked by fellow inmates in a Pakistani prison. He is flown home to India where the government of Punjab has declared him a martyr. ](/news/2013/05/2/convicted-indian-spy-sarabjit-singh-dies-after-being-attacked-by-fellow-inmates-in-a-pakistani-prison-he-is-flown-home-to-india-where-the-g.md)
-A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who died at a Lahore hospital today, landed in Amritsar shortly after 7:30 pm tonight. The lack of basic paperwork had delayed the plane&#039;s take-off from Lahore airport by over two hours. India is extremely upset about the delay.
+A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who died at a Lahore hospital today, landed in Amritsar shortly after 7:30 pm tonight. The lack of basic paperwork had delayed the plane&#039;s take-off from Lahore airport by over two hours. India is extremely upset about t...
 
 ### [The U.S. state of Rhode Island becomes the tenth state to legalize same-sex marriage. ](/news/2013/05/2/the-u-s-state-of-rhode-island-becomes-the-tenth-state-to-legalize-same-sex-marriage.md)
 _Context: Rhode Island, U.S., same-sex marriage_

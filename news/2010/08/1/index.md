@@ -1,7 +1,7 @@
 ## [2010-08-1](/news/2010/08/1/index.md)
 
 ### [Netherlands pulls out of Afghanistan. ](/news/2010/08/1/netherlands-pulls-out-of-afghanistan.md)
-Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20;Afghanistan&#x20;Sunday&#x20;thanks&#x20;to&#x20;a&#x20;row&#x20;which&#x20;led&#x20;to&#x20;the&#x20;collapse&#x20;of&#x20;the&#x20;government&#x20;in&#x20;February.&#x20;A&#x20;change&#x20;of&#x20;command&#x20;ceremony&#x20;and&#x20;reception&#x20;was&#x20;held&#x20;at&#x20;their&#x20;base&#x20;in&#x20;Uruzgan&#x20;province,&#x20;where&#x20;most&#x20;of&#x20;the&#x20;Netherlands&amp;rsquo&#x3B;...
+Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20;Afghanistan&#x20;Sunday&#x20;thanks&#x20;to&#x20;a&#x20;row&#x20;which&#x20;led&#x20;to&#x20;the&#x20;collapse&#x20;of&#x20;the&#x20;government&#x20;in&#x20;February.&#x20;A&#x20;change&#x20;of&#x20;command&#x20;ceremon...
 
 ### [Wooden box mines, suspected to come from North Korea, wash ashore on a South Korean beach killing one man and injuring another. ](/news/2010/08/1/wooden-box-mines-suspected-to-come-from-north-korea-wash-ashore-on-a-south-korean-beach-killing-one-man-and-injuring-another.md)
 _Context: North Korea, South Korea, land mine_

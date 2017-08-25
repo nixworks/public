@@ -19,7 +19,7 @@ _Context: Ban Ki-moon, Darfur, Secretary General, Sudan_
 _Context: Air Mauritania, aircraft piracy_
 
 ### [ The Iranian government says members of Jundallah were responsible for yesterday's attack in Zahedan, Iran. An Iranian lawmaker accuses the Pakistani government of harboring Jundallah militants. ](/news/2007/02/15/the-iranian-government-says-members-of-jundallah-were-responsible-for-yesterday-s-attack-in-zahedan-iran-an-iranian-lawmaker-accuses-the.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ The Hamas-led Palestinian government has resigned to make way for a new administration. The Palestinian Prime Minister Ismail Haniyeh remains as caretaker Prime Minister and will select a new cabinet. ](/news/2007/02/15/the-hamas-led-palestinian-government-has-resigned-to-make-way-for-a-new-administration-the-palestinian-prime-minister-ismail-haniyeh-remai.md)
 _Context: Hamas, Ismail Haniyeh, Palestinian National Authority, Palestinian Prime Minister, forming a government_

@@ -61,7 +61,7 @@ Some 99% of South Sudanese have voted to secede from the north, according to the
 A new parliament opens in Burma for the first time in 22 years following elections last year, but a junta-linked party looks set to dominate proceedings.
 
 ### [Presidential and parliamentary elections are held in Niger following one year of military rule. ](/news/2011/01/31/presidential-and-parliamentary-elections-are-held-in-niger-following-one-year-of-military-rule.md)
-Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;called&#x20;on&#x20;voters&#x20;to&#x20;turn&#x20;out&#x20;massively&#x20;on&#x20;Monday&#x20;to&#x20;elect&#x20;a&#x20;new,&#x20;civilian&#x20;president&#x20;and&#x20;put&#x20;an&#x20;end&#x20;to&#x20;military&#x20;rule.&#x20;The&#x20;new&#x20;president&#x20;will&#x20;be&#x20;tasked&#x20;with&#x20;leading&#x20;one&#x20;of&#x20;the&#x20;world&amp;&#x23;039&#x3B;s&#x20;top&#x20;uranium&#x20;producers...
+Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;called&#x20;on&#x20;voters&#x20;to&#x20;turn&#x20;out&#x20;massively&#x20;on&#x20;Monday&#x20;to&#x20;elect&#x20;a&#x20;new,&#x20;civilian&#x20;president&#x20;and&#x20;put&#x20;an&#x20;end&#x20;to&#x20;military&#x20;rule.&#...
 
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
 _Context: Hillary Clinton, United States, United States Secretary of State, ambassadors_

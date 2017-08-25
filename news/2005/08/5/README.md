@@ -1,7 +1,7 @@
 ## [2005-08-5](/news/2005/08/5/index.md)
 
 ### [ An Israeli archaeologist working in East Jerusalem reports that she has discovered a palace dating from the 10th century BC, which may have belonged to King David. ](/news/2005/08/5/an-israeli-archaeologist-working-in-east-jerusalem-reports-that-she-has-discovered-a-palace-dating-from-the-10th-century-bc-which-may-have.md)
-[...] they acknowledge that what she has uncovered is rare and important: a major public building from around the 10th century B.C., with pottery shards that date to the time of David and Solomon and a government seal of an official mentioned in the book of Jeremiah. The discovery is likely to be a new salvo in a major dispute in biblical archaeology: whether the kingdom of David and Samuel was of some historical magnitude, or whether the men were more like small tribal chieftains, reigning over another dusty hilltop. Hani Nur el-Din, a Palestinian professor of archaeology at Al Quds University, said he and his colleagues considered biblical archaeology an effort by Israelis &quot;to fit historical evidence into a biblical context.&quot;
+[...] they acknowledge that what she has uncovered is rare and important: a major public building from around the 10th century B.C., with pottery shards that date to the time of David and Solomon and a government seal of an official mentioned in the book of Jeremiah. The discovery is likely to be a ...
 
 ### [ Wikimania has started. Audio streams are available on ](/news/2005/08/5/wikimania-has-started-audio-streams-are-available-on.md)
 _Context: Wikimania_

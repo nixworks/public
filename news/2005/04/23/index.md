@@ -7,7 +7,7 @@ Palestinians suspected of attempting to carry out terror attack apparently illeg
 Welcome to Cambridge Core
 
 ### [ Bangladesh accuses the BSF of gunning down two farmers who had strayed into no man's land at Hairharpur on the Indo-Bangla border. Indian officials say the guards had only shot at and injured two Bangladeshis trying to sneak into West Bengal. ](/news/2005/04/23/bangladesh-accuses-the-bsf-of-gunning-down-two-farmers-who-had-strayed-into-no-man-s-land-at-hairharpur-on-the-indo-bangla-border-indian-o.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ The first (and second) video was uploaded to YouTube.](/news/2005/04/23/the-first-and-second-video-was-uploaded-to-youtube.md)
 _Context: YouTube_

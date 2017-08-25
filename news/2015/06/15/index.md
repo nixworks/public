@@ -4,7 +4,7 @@
 _Context: Boko Haram, Chad, N'Djamena_
 
 ### [Over 100 Baloch rebels pledge allegiance to the government after abandoning armed struggle. ](/news/2015/06/15/over-100-baloch-rebels-pledge-allegiance-to-the-government-after-abandoning-armed-struggle.md)
-Over a hundred Baluch militants fighting against Pakistani forces in the separatist-insurgency wracked southwestern Baluchistan province have surrendered and pledged their allegiance to the country, officials said on Sunday. A group of 59 militants including two key commanders appeared before the media
+Over a hundred Baluch militants fighting against Pakistani forces in the separatist-insurgency wracked southwestern Baluchistan province have surrendered and pledged their allegiance to the country, officials said on Sunday. A group of 59 militants including two key commanders appeared before the me...
 
 ### [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md)
 _Context: Al-Raqqah Governorate, Free Syrian Army, Islamic State of Iraq and the Levant, Syrian Civil War, Tell Abyad, YPG_

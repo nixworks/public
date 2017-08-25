@@ -31,7 +31,7 @@ The Philippine Supreme Court dismisses a long-running plunder charge against for
 Lance Hart, 57, is said to have used a shotgun to kill wife Claire, 50, and their 19-year-old daughter Charlotte in the leisure centre car park today
 
 ### [A Kansas City police captain has been shot dead in Kansas City, Kansas. One suspect is in custody and two others are possibly at large. ](/news/2016/07/19/a-kansas-city-police-captain-has-been-shot-dead-in-kansas-city-kansas-one-suspect-is-in-custody-and-two-others-are-possibly-at-large.md)
-KANSAS &#8212; A Kansas City Police Captain has died after being shot in Kansas City, Kansas on Tuesday. The scene is at 22nd and Haskell. KSHB reported: &#8220;According to police, officers responded to a shots fired call. One person was taken into custody. As police pursued two more suspects, more shots were fired, and an officer &hellip;
+KANSAS &#8212; A Kansas City Police Captain has died after being shot in Kansas City, Kansas on Tuesday. The scene is at 22nd and Haskell. KSHB reported: &#8220;According to police, officers responded to a shots fired call. One person was taken into custody. As police pursued two more suspects, more...
 
 ### [United States president Barack Obama and his vice president Joe Biden endorse Kamala Harris over Loretta Sanchez, both of whom are Democrats. ](/news/2016/07/19/united-states-president-barack-obama-and-his-vice-president-joe-biden-endorse-kamala-harris-over-loretta-sanchez-both-of-whom-are-democrats.md)
 Update on &apos;Essential Politics July archives&apos;

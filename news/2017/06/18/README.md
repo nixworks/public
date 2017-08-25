@@ -10,7 +10,7 @@ Troops free 20 hostages, the government says, as the resort is attacked by suspe
 At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
 
 ### [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md)
-American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
+American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold o...
 
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
@@ -22,7 +22,7 @@ Many died in their cars while fleeing the fire, which may have been started by a
 Four people are feared dead after tsunami waves struck the coast of Greenland on Saturday night.
 
 ### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
-Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffing liberals are really getting what’s coming to them!
+Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffi...
 
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.

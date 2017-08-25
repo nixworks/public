@@ -7,7 +7,7 @@ After days of violent protests and a diplomatic crisis with Jordan over the plac
 Washington is reviewing whether to arm those fighting Russian-backed rebels, says a new envoy.
 
 ### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
-Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
+Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made c...
 
 ### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
@@ -19,7 +19,7 @@ The agreement comes as upscale American brands grapple with plummeting sales and
 The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.
 
 ### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
-Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
+Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x...
 
 ### [A study, published in the ''Journal of the American Medical Association'', finds that 99 percent of the brains donated for scientific research by deceased National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who have committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-that-99-percent-of-the-brains-donated-for-scientific-resear.md)
 The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.

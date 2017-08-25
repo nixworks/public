@@ -40,7 +40,7 @@ _Context: Dominican Republic, drugs, military, police_
 Omar al-Bashir, Sudan&#039;s president and an indicted war criminal, said the people of Sudan need &#034;fresh blood and a new impetus to continue their march&#034; as he announced his intention to retire.
 
 ### [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.md)
-Senate Democrats neared approval of their first budget proposal in four years on Friday, calling for almost $1 trillion in tax increases over the coming decade while sheltering safety net programs targeted by House Republicans. The Democrats also would reverse automatic spending cuts that are beginning to strike both the Pentagon and domestic programs.
+Senate Democrats neared approval of their first budget proposal in four years on Friday, calling for almost $1 trillion in tax increases over the coming decade while sheltering safety net programs targeted by House Republicans. The Democrats also would reverse automatic spending cuts that are beginn...
 
 ### [Newly elected Pope Francis meets his predecessor, Pope Emeritus Benedict XVI for lunch at the Papal Palace of Castel Gandolfo, the first time the two are meeting since the change of guard. ](/news/2013/03/23/newly-elected-pope-francis-meets-his-predecessor-pope-emeritus-benedict-xvi-for-lunch-at-the-papal-palace-of-castel-gandolfo-the-first-tim.md)
 _Context: Papal Palace of Castel Gandolfo, Pope Benedict XVI, Pope Francis_

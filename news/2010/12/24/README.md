@@ -43,7 +43,7 @@ _Context: Ecuador_
 Turkish Foreign Minister Ahmet Davutoglu Thursday evening hailed a decision by the US House leadership to forgo a vote of the Armenian Genocide Resolution (H.Res.252) for the final session of the 111th Congress.
 
 ### [Russia's lower house gives preliminary approval the New START treaty signed with the United States; full approval will be decided upon next month. ](/news/2010/12/24/russia-s-lower-house-gives-preliminary-approval-the-new-start-treaty-signed-with-the-united-states-full-approval-will-be-decided-upon-next.md)
-Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x20;to&#x20;a&#x20;landmark&#x20;US-Russian&#x20;nuclear&#x20;arms&#x20;reduction&#x20;pact&#x20;Friday.&#x20;There&#x20;were&#x20;hopes&#x20;the&#x20;Duma&#x20;would&#x20;give&#x20;its&#x20;full&#x20;approval,&#x20;but&#x20;lawmakers&#x20;decided&#x20;to&#x20;delay&#x20;further&#x20;moves&#x20;until&#x20;next&#x20;month.
+Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x20;to&#x20;a&#x20;landmark&#x20;US-Russian&#x20;nuclear&#x20;arms&#x20;reduction&#x20;pact&#x20;Friday.&#x20;There&#x20;were&#x20;hopes&#x20;the&#x20;Duma&#x20;would&#x20;give&#x20;its&#x20;full&#x20;approval,&#x20;but&#x...
 
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)
 Three countries to hold joint military exercises in April, agree to cooperate on anti-narcotics operations.
@@ -58,7 +58,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 _Context: Christmas tree, North Korea, South Korea_
 
 ### [Indian police search for four people in Mumbai suspected of being members of the Lashkar-e-Taiba group responsible for the 2008 Mumbai attacks. ](/news/2010/12/24/indian-police-search-for-four-people-in-mumbai-suspected-of-being-members-of-the-lashkar-e-taiba-group-responsible-for-the-2008-mumbai-attac.md)
-The city will celebrate Christmas and New Year under the shadow of terror . Mumbai police officials issued a high terror alert for the city on Thursday and released a picture of one of the four suspected Lashkar-e-Taiba (LeT) terrorists who have reportedly sneaked into Mumbai to cause destruction on a mega scale.
+The city will celebrate Christmas and New Year under the shadow of terror . Mumbai police officials issued a high terror alert for the city on Thursday and released a picture of one of the four suspected Lashkar-e-Taiba (LeT) terrorists who have reportedly sneaked into Mumbai to cause destruction on...
 
 ### [New laws restricting car purchases in the Chinese capital Beijing come into force, in an attempt to combat serious traffic problems. ](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.md)
 _Context: Beijing, China_

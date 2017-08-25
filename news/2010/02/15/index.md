@@ -4,7 +4,7 @@
 _Context: Economy of the United States, International Monetary Fund, yuan_
 
 ### [The opposition Anguilla United Movement, led by former Chief Minister Hubert Hughes, wins a majority of seats in the 2010 general election, defeating the governing Anguilla United Front. ](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.md)
-(The Valley, Anguilla) The Island of Anguilla, having suffered a serious economic crunch under the Anguilla United Front, under the leadership of former Chief Minister Osbourne Fleming and former Minister of Finance Victor Banks, on February 15, completely rejected the party. The Anguilla United Movement
+(The Valley, Anguilla) The Island of Anguilla, having suffered a serious economic crunch under the Anguilla United Front, under the leadership of former Chief Minister Osbourne Fleming and former Minister of Finance Victor Banks, on February 15, completely rejected the party. The Anguilla United Mov...
 
 ### [Aid flights arrive on the island of Aitutaki, Cook Islands, where 90% of structures were damaged or destroyed by Cyclone Pat last week. ](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.md)
 _Context: Aitutaki, Cook Islands, Cyclone Pat_

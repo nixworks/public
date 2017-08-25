@@ -16,7 +16,7 @@ Mr Justice Nicholas Kearns has been nominated for appointment by the President t
 A Brazilian TV presenter accused of ordering murders to boost the ratings of his hit crime show has fled and remains a fugitive from justice, after a judge order him jailed this week, authorities said.
 
 ### [ Yevgeny Dzhugashvili launches a court action claiming the ''Novaya Gazeta'' newspaper has defamed his grandfather, Joseph Stalin. ](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.md)
-Hearings began today in a libel case brought by the grandson of Joseph Stalin against a prominent Russian newspaper. Yevgeny Dzhugashvili, the Soviet dictator’s grandson, took offence at an article published by the liberal paper Novaya Gazeta that accused Stalin of personally signing death warrants for thousands of people.
+Hearings began today in a libel case brought by the grandson of Joseph Stalin against a prominent Russian newspaper. Yevgeny Dzhugashvili, the Soviet dictator’s grandson, took offence at an article published by the liberal paper Novaya Gazeta that accused Stalin of personally signing death warrant...
 
 ### [ Guinea's military government announces it is setting up a commission to investigate the shooting of protesters last week. ](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.md)
 _Context: Guinea, massacre of opposition protesters_

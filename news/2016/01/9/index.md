@@ -1,7 +1,7 @@
 ## [2016-01-9](/news/2016/01/9/index.md)
 
 ### [Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md)
-Two Egyptian police officers have been shot dead in Cairo as they made their way to work near the Pyramids of Giza. The Interior Ministry published pictures of the two men on its Facebook page, saying they had been travelling through the district in their car. “Immediately after the incident several moving and fixed checkpoints were deployed in the Muneeb area in order to crack down on the attackers and catch them,” a security source was quoted as saying by the state news agency.
+Two Egyptian police officers have been shot dead in Cairo as they made their way to work near the Pyramids of Giza. The Interior Ministry published pictures of the two men on its Facebook page, saying they had been travelling through the district in their car. “Immediately after the incident sever...
 
 ### [A major power station in the eastern Libyan city of Benghazi is shelled by militants. ](/news/2016/01/9/a-major-power-station-in-the-eastern-libyan-city-of-benghazi-is-shelled-by-militants.md)
 A major power plant in the eastern Libyan city of Benghazi has been attacked by militants, an army commander and a plant employee said on Saturday.

@@ -73,7 +73,7 @@ _Context: European Union, International Monetary Fund, Prime Minister, Viktor Or
 Loss-making coal mines across the EU will have to close over the next four years, the European Commission says.
 
 ### [Air traffic controllers in France go on strike in protest at a plan to unify European airspace. ](/news/2010/07/21/air-traffic-controllers-in-france-go-on-strike-in-protest-at-a-plan-to-unify-european-airspace.md)
-French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;strike&#x20;over&#x20;a&#x20;plan&#x20;to&#x20;unify&#x20;European&#x20;airspace.&#x20;The&#x20;strike,&#x20;which&#x20;is&#x20;expected&#x20;to&#x20;cancel&#x20;many&#x20;flights&#x20;in&#x20;and&#x20;out&#x20;of&#x20;France&#x20;on&#x20;Wednesday,&#x20;comes&#x20;as&#x20;many&#x20;in&#x20;France&#x20;are&#x20;leaving&#x20;for&#x20;their&#x20;summer&#x20;holidays.
+French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;strike&#x20;over&#x20;a&#x20;plan&#x20;to&#x20;unify&#x20;European&#x20;airspace.&#x20;The&#x20;strike,&#x20;which&#x20;is&#x20;expected&#x20;to&#x20;cancel&#x20;many&#x20;flights&#x20;in&#x20;and&#x20;out&#x20;of&#x20;Fr...
 
 ### [The United Nations requests more aid to avoid a humanitarian catastrophe in the Sahel. ](/news/2010/07/21/the-united-nations-requests-more-aid-to-avoid-a-humanitarian-catastrophe-in-the-sahel.md)
 Head of humanitarian affairs warns of acute food shortage in north-central Africa.

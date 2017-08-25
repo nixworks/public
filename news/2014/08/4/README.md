@@ -7,7 +7,7 @@ _Context: 2014 pro-Russian unrest in Ukraine, Donetsk, Luhansk, War in Donbass, 
 Mughrabi and Ori Lewis
 
 ### [The Lebanese Army states that 14 soldiers have been killed and 22 are missing after alleged clashes with Islamic State of Iraq and the Levant fighters on the Syrian border. ](/news/2014/08/4/the-lebanese-army-states-that-14-soldiers-have-been-killed-and-22-are-missing-after-alleged-clashes-with-islamic-state-of-iraq-and-the-levan.md)
-BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were missing and another 14 had been killed following clashes with Islamist militants at the Syrian border. In a statement, the army said another 86 soldiers had been injured in the fighting in Arsal, where militant Islamists launched an attack on security forces on Saturday
+BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were missing and another 14 had been killed following clashes with Islamist militants at the Syrian border. In a statement, the army said another 86 soldiers had been injured in the fighting in Arsal, where militant Islamists lau...
 
 ### [The United Kingdom commemorates the 100th anniversary of its declaration of war against Germany in the First World War. ](/news/2014/08/4/the-united-kingdom-commemorates-the-100th-anniversary-of-its-declaration-of-war-against-germany-in-the-first-world-war.md)
 It is a date that marks the start of events that would go on to change the course of millions of lives – tomorrow is the 100th anniversary of the day Britain declared war on Germany and the First World War began.

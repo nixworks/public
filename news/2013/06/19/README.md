@@ -31,7 +31,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 _Context: Domenico Dolce, Stefano Gabbana, tax evasion_
 
 ### [After receiving negative feedback, Microsoft decides to change many features of its upcoming Xbox One. ](/news/2013/06/19/after-receiving-negative-feedback-microsoft-decides-to-change-many-features-of-its-upcoming-xbox-one.md)
-Update on June 19, 2013: As a result of feedback from the Xbox community, we have changed certain policies for Xbox One reflected in this blog. Some of this information is no longer accurate — please check here for the latest. Q: Does Xbox One require an “always on” Internet connection? A: No, it does not have to be always connected, but Xbox One does require a connection to the Internet. We’re designing Xbox One to be your all-in-one entertainment system that is connected to
+Update on June 19, 2013: As a result of feedback from the Xbox community, we have changed certain policies for Xbox One reflected in this blog. Some of this information is no longer accurate — please check here for the latest. Q: Does Xbox One require an “always on” Internet connection? A: No,...
 
 ## [Previous Day...](/news/2013/06/18/index.md)
 

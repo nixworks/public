@@ -43,7 +43,7 @@ _Context: North Korea, United Nations_
 _Context: China, U.S. Arms Export Control Act_
 
 ### [Serial rapist Delroy Grant is convicted of 18 sexual assaults and rapes in London, England, with fears that he may have committed hundreds of offences. ](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.md)
-A British man dubbed the Night Stalker has been convicted of being one of the most prolific and depraved sex attackers in British history. Police apologised for botched chances to stop Delroy Grant, 53, earlier as he was found guilty of preying on the elderly in a campaign of perverted terror lasting 17 years.
+A British man dubbed the Night Stalker has been convicted of being one of the most prolific and depraved sex attackers in British history. Police apologised for botched chances to stop Delroy Grant, 53, earlier as he was found guilty of preying on the elderly in a campaign of perverted terror lastin...
 
 ### [British Police find the body of 22-year-old Sian O'Callaghan in Oxfordshire, five days after she went missing in Swindon, Wiltshire. A 47-year-old man is arrested on suspicion of murder and police are also searching for the body of an unnamed missing woman who is feared to have been murdered. ](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.md)
 _Context: Oxfordshire, Sian O'Callaghan, Swindon, Wiltshire_

@@ -22,7 +22,7 @@ Video of police officers dragging a passenger from an overcrowded United Airline
 _Context: Name change referendum, 2017, South Ossetia, South Ossetian presidential election_
 
 ### [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md)
-Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is Election Day. Over 26 percent of people who are eligible to vote already cast their votes in advance voting, and experts predict total voting percentages may exceed 60 percent. The elections were moved from the autumn to the spring in order to encourage more people to go to the polls.
+Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is Election Day. Over 26 percent of people who are eligible to vote already cast their votes in advance voting, and experts predict total voting percentages may exceed 60 percent. The elections were moved from the autumn t...
 
 ## [Previous Day...](/news/2017/04/8/index.md)
 

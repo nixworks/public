@@ -25,7 +25,7 @@ First IAEA head to visit Tehran since 2009 is expected to seek inspection deal o
 The Surrey town of Staines officially changes its name to Staines-upon-Thames in an attempt to boost its riverside image.
 
 ### [Two women in Jieyang, Guangdong, PRC, are executed for counterfeiting nearly 300 million yuan RMB. ](/news/2012/05/20/two-women-in-jieyang-guangdong-prc-are-executed-for-counterfeiting-nearly-300-million-yuan-rmb.md)
-_Context: China, Guangdong province, Jieyang_
+_Context: China, Guangdong, Jieyang_
 
 ### [Pan-Green protesters pelt eggs at a poster of Ma Ying-jeou as Ma is sworn in for a second term as the President of the Republic of China (Taiwan), after winning the presidential election in January. ](/news/2012/05/20/pan-green-protesters-pelt-eggs-at-a-poster-of-ma-ying-jeou-as-ma-is-sworn-in-for-a-second-term-as-the-president-of-the-republic-of-china-ta.md)
 Ma Ying-jeou begins second term amid protests over living costs and policies seen by critics as too China-friendly.

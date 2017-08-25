@@ -7,7 +7,7 @@ Al-Qaeda mastermind Osama Bin Laden has been killed in a US operation in Pakista
 Syrian soldiers and tanks have been firing in the city of Deraa, a centre of anti-government protests, residents say.
 
 ### [Libyan Civil War:Witnesses report that Gaddafi's forces in Misrata are preparing to use chemical weapons against the civilian and rebel population. ](/news/2011/05/1/libyan-civil-war-pwitnesses-report-that-gaddafi-s-forces-in-misrata-are-preparing-to-use-chemical-weapons-against-the-civilian-and-rebel-pop.md)
-Pro-Gaddaffi forces have been seen roaming the streets of Misurata wearing gas masks, contacts in Libya&#039;s besieged city have reported to timesofmalta.com . Sources at the hospital confirmed that pro regime troops were wearing gas masks. An independent source said there were reports that thousands...
+Pro-Gaddaffi forces have been seen roaming the streets of Misurata wearing gas masks, contacts in Libya&#039;s besieged city have reported to timesofmalta.com . Sources at the hospital confirmed that pro regime troops were wearing gas masks. An independent source said there were reports that thousan...
 
 ### [2011 Saudi Arabian protests:Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-psaudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-co.md)
 _Context: 2011 Saudi Arabian protests, Saudi Arabia_

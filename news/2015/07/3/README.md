@@ -1,7 +1,7 @@
 ## [2015-07-3](/news/2015/07/3/index.md)
 
 ### [Turkey deploys additional troops along its border with Syria as fighting intensifies. ](/news/2015/07/3/turkey-deploys-additional-troops-along-its-border-with-syria-as-fighting-intensifies.md)
-Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipment&#x20;along&#x20;part&#x20;of&#x20;its&#x20;border&#x20;with&#x20;Syria&#x20;as&#x20;fighting&#x20;in&#x20;the&#x20;city&#x20;of&#x20;Aleppo&#x20;intensifies,&#x20;security&#x20;sources&#x20;said,&#x20;but&#x20;Prime&#x20;Minister&#x20;Ahmet&#x20;Davutoglu&#x20;said&#x20;there&#x20;were&#x20;no&#x20;immediate&#x20;plans&#x20;for&#x20;any&#x20;incursion.
+Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipment&#x20;along&#x20;part&#x20;of&#x20;its&#x20;border&#x20;with&#x20;Syria&#x20;as&#x20;fighting&#x20;in&#x20;the&#x20;city&#x20;of&#x20;Aleppo&#x20;intensifies,&#x20;security&#x20;sources&#x20;said,&#x20;but&#x20;Prime&#x...
 
 ### [Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md)
 Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nearly 170 people killed in a wave of attacks that President Muhammadu Buhari has blasted as &quot;inhuman and barbaric&quot;. 
@@ -13,7 +13,7 @@ _Context: 2015 Sousse attacks, Britain, Tunisia_
 _Context: United States, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
-The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Concert Hall. It was an amazing ceremony after two rich weeks of competition which we will remember for a long time! Congratulations to all the talented candidates, and many thanks to the jury members, the Competition&#39;s teams and the wonderful audience!
+The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Concert Hall. It was an amazing ceremony after two rich weeks of competition which we will remember for a long time! Congratulations to all the talented candidates, and many thanks to the jury members, the Competition&#39;s...
 
 ### [American health insurer Aetna agrees to buy competitor Humana in a $37 billion deal. ](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.md)
 _Context: Aetna, Humana, health insurance_

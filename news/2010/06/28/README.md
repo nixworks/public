@@ -4,7 +4,7 @@
 Second day of march for kidnapped soldier comes to end in northern town of Kiryat Motzkin
 
 ### [Five Muslim American students sentenced to serve 10 years in a Pakistani prison for conspiracy to commit attacks and raising funds for terrorism, appeal their conviction. ](/news/2010/06/28/five-muslim-american-students-sentenced-to-serve-10-years-in-a-pakistani-prison-for-conspiracy-to-commit-attacks-and-raising-funds-for-terro.md)
-Five American men sentenced last week to serve 10 years in a Pakistani prison on terrorism charges appealed against their conviction Monday, their defense lawyer said. The five Americans, all students in their 20s, were sentenced Thursday for contacting militants online and plotting attacks by a court in Pakistan, fighting its own battle with Islamist radicals.
+Five American men sentenced last week to serve 10 years in a Pakistani prison on terrorism charges appealed against their conviction Monday, their defense lawyer said. The five Americans, all students in their 20s, were sentenced Thursday for contacting militants online and plotting attacks by a cou...
 
 ### [The European Union and United States sign a five-year agreement on sharing financial data in anti-terrorist investigations for accounts suspected of being used for terrorist financing, after agreeing on limits to protect customer privacy. ](/news/2010/06/28/the-european-union-and-united-states-sign-a-five-year-agreement-on-sharing-financial-data-in-anti-terrorist-investigations-for-accounts-susp.md)
 _Context: European Union, United States, counter-terrorism, customer privacy, terrorist financing_

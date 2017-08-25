@@ -34,7 +34,7 @@ Do you have any photos or video? Contact the Herald here . - New Zealand Herald
 Heavy rains are forecast this week, potentially worsening floods which have killed seven people and forced thousands to seek refuge at temporary shelters
 
 ### [A small plane carrying medics makes a forced landing in a remote mountain area in Transylvania, Romania, and is found after a 4 and a half hour massive search. The accident leaves the pilot and a passenger dead with several others being injured. ](/news/2014/01/20/a-small-plane-carrying-medics-makes-a-forced-landing-in-a-remote-mountain-area-in-transylvania-romania-and-is-found-after-a-4-and-a-half-h.md)
-Two people have died and another is in a critical condition after a plane carrying a medical team to a transplant crashed in Romania&#8217;s Apuseni mountains. Seven passengers were on board the Britten Norman 2 light aircraft, which crashed landed in remote terrain on Monday evening (January 20) while was flying to Oradea to harvest
+Two people have died and another is in a critical condition after a plane carrying a medical team to a transplant crashed in Romania&#8217;s Apuseni mountains. Seven passengers were on board the Britten Norman 2 light aircraft, which crashed landed in remote terrain on Monday evening (January 20) wh...
 
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
 _Context: Iran, Syria, United Nations, United States_

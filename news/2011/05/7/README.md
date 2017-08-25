@@ -10,7 +10,7 @@ _Context: Libyan Civil War, Misrata, its armed forces_
 _Context: Nigeria_
 
 ### [Gunmen attack the compound of the Governor of Afghanistan's Kandahar Province and other facilities in the city of Kandahar with two dead and 29 injured. ](/news/2011/05/7/gunmen-attack-the-compound-of-the-governor-of-afghanistan-s-kandahar-province-and-other-facilities-in-the-city-of-kandahar-with-two-dead-and.md)
-The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20;of&#x20;coordinated&#x20;attacks&#x20;targeting&#x20;government&#x20;buildings&#x20;in&#x20;the&#x20;key&#x20;Afghan&#x20;city&#x20;of&#x20;Kandahar&#x20;on&#x20;Saturday,&#x20;which&#x20;has&#x20;left&#x20;at&#x20;least&#x20;two&#x20;people&#x20;dead&#x20;and&#x20;29&#x20;wounded.
+The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20;of&#x20;coordinated&#x20;attacks&#x20;targeting&#x20;government&#x20;buildings&#x20;in&#x20;the&#x20;key&#x20;Afghan&#x20;city&#x20;of&#x20;Kandahar&#x20;on&#x20;Saturday,&#x20;which&#x20;has&#x20;left&#x20;at&#x20;leas...
 
 ### [Al Qaeda in the Islamic Maghreb denies responsibility for a bomb attack on a Marrakesh cafe that killed 16 people on April 28. ](/news/2011/05/7/al-qaeda-in-the-islamic-maghreb-denies-responsibility-for-a-bomb-attack-on-a-marrakesh-cafe-that-killed-16-people-on-april-28.md)
 Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb attack on a cafe in Marrakesh last week that killed 17 people including eight French nationals.
@@ -22,7 +22,7 @@ Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan
 _Context: Cairo, Imbaba_
 
 ### [The government of Tunisia declares an overnight curfew in the capital Tunis following three days of unrest. ](/news/2011/05/7/the-government-of-tunisia-declares-an-overnight-curfew-in-the-capital-tunis-following-three-days-of-unrest.md)
-Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&#x20;in&#x20;the&#x20;capital&#x20;city&#x20;Tunis&#x20;and&#x20;its&#x20;surrounding&#x20;areas&#x20;Saturday&#x20;following&#x20;three&#x20;days&#x20;of&#x20;unrest&#x20;amid&#x20;fears&#x20;the&#x20;country&#x27;s&#x20;interim&#x20;leaders&#x20;will&#x20;not&#x20;honour&#x20;their&#x20;commitment&#x20;to&#x20;forming&#x20;a&#x20;democracy.
+Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&#x20;in&#x20;the&#x20;capital&#x20;city&#x20;Tunis&#x20;and&#x20;its&#x20;surrounding&#x20;areas&#x20;Saturday&#x20;following&#x20;three&#x20;days&#x20;of&#x20;unrest&#x20;amid&#x20;fears&#x20;the&#x20;country&#x27;s&#x2...
 
 ### [Sony states that it will delay the restart of its PlayStation Network following the PlayStation Network outage, and that it has managed to remove user data that had been posted online by a third party. ](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.md)
 _Context: PlayStation Network, PlayStation Network outage, Sony_

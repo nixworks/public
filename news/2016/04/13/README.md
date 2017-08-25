@@ -40,7 +40,7 @@ Three people arrested in Brussels in connection with the November Paris attacks 
 _Context: Bobby Jindal, John Bel Edwards, LGBT rights in the United States, Louisiana Governor, anti-discrimination, gay and transgender people_
 
 ### [Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losing-seats-in-a-surprise-setback.md)
-Park’s party failed to win a majority in the legislature, undermining chances to enact her economic agenda in her final years in office. With almost all of the ballots counted, the Saenuri Party is projected to win 122 parliamentary seats, South Korean TV broadcaster KBS TV reports. The ruling party currently has 146 lawmakers in the 300-seat National Assembly, South Korea’s unicameral legislature.
+Park’s party failed to win a majority in the legislature, undermining chances to enact her economic agenda in her final years in office. With almost all of the ballots counted, the Saenuri Party is projected to win 122 parliamentary seats, South Korean TV broadcaster KBS TV reports. The ruling par...
 
 ### [Voters in mostly government controlled areas of Syria will head to the polls to elect 250 members to the People's Council of Syria. ](/news/2016/04/13/voters-in-mostly-government-controlled-areas-of-syria-will-head-to-the-polls-to-elect-250-members-to-the-people-s-council-of-syria.md)
 The parliamentary elections in Syria will be held on April 13, 2016, said a statement issued by Syrian President Bashar Assad. 

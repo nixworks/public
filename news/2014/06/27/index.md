@@ -13,7 +13,7 @@ _Context: Prince Carl Philip, Sofia Hellqvist_
 At least 14 people die after a pipeline carrying gas explodes in the southern Indian state of Andhra Pradesh, a minister says.
 
 ### [Pro-Russian separatists agree to release four of eight Organization for Security and Co-operation in Europe observers held hostage since April. ](/news/2014/06/27/pro-russian-separatists-agree-to-release-four-of-eight-organization-for-security-and-co-operation-in-europe-observers-held-hostage-since-apr.md)
-Rebels in southeast Ukraine early on Friday released four out of eight international observers, captured over a month ago, in an apparent goodwill gesture that could help pave the way to a resolution of the conflict that has so far claimed hundreds of lives. Pro-Russian separatists had detained eight
+Rebels in southeast Ukraine early on Friday released four out of eight international observers, captured over a month ago, in an apparent goodwill gesture that could help pave the way to a resolution of the conflict that has so far claimed hundreds of lives. Pro-Russian separatists had detained eigh...
 
 ### [Ukraine-European Union Association Agreement:The European Union signs pacts with Ukraine, Georgia and Moldova in a move strongly opposed by Russia. ](/news/2014/06/27/ukraineaeuropean-union-association-agreement-pthe-european-union-signs-pacts-with-ukraine-georgia-and-moldova-in-a-move-strongly-opposed.md)
 Ukraine, Georgia and Moldova sign partnership agreements with the European Union, a move Russia says will have serious consequences.

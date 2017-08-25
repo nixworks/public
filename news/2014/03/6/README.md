@@ -7,7 +7,7 @@ _Context: Pope Francis, civil union, gay and bisexual men_
 _Context: Getty Images, free use_
 
 ### [Two members of the protest band Pussy Riot are left with chemical burns and head injuries after being attacked by a group of people in a McDonald's. ](/news/2014/03/6/two-members-of-the-protest-band-pussy-riot-are-left-with-chemical-burns-and-head-injuries-after-being-attacked-by-a-group-of-people-in-a-mcd.md)
-_Context: McDonald's, Pussy Riot_
+_Context: McDonald's restaurants, Pussy Riot_
 
 ### [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md)
 The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-year history.

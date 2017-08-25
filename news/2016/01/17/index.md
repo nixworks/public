@@ -4,7 +4,7 @@
 _Context: 2016 Jakarta attacks_
 
 ### [A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md)
-Fourteen people were killed Sunday when a suicide bomber struck a gathering of tribal elders at a prominent politician&#x27;s home in Jalalabad, the second deadly attack in the eastern Afghan city in less than a week. The Taliban denied responsibility for the bombing, which also left 13 people wounded
+Fourteen people were killed Sunday when a suicide bomber struck a gathering of tribal elders at a prominent politician&#x27;s home in Jalalabad, the second deadly attack in the eastern Afghan city in less than a week. The Taliban denied responsibility for the bombing, which also left 13 people wound...
 
 ### [ISIL militants abduct at least 400 civilians from the eastern Syrian city of Deir ez-Zor. ](/news/2016/01/17/isil-militants-abduct-at-least-400-civilians-from-the-eastern-syrian-city-of-deir-ez-zor.md)
 A monitoring group says Islamic State fighters have abducted at least 400 civilians in eastern Syria.

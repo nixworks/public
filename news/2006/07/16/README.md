@@ -10,7 +10,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 Israeli warplanes continue to strike targets all across Lebanon, reportedly killing nine, wounding at least 33
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): Hamas militants launch ten Qassam rockets against Sderot and Ashkelon, causing damage in residential areas but no casualties. Israel Air Force strikes kill five militants and one civilian in the Gaza Strip. ](/news/2006/07/16/israeli-palestinian-conflict-operation-summer-rains-p-hamas-militants-launch-ten-qassam-rockets-against-sderot-and-ashkelon-causing-dama.md)
-(VIDEO) While media attention focuses on northern front, Qassams continue to land in southern communities. Rockets hit Sderot and Kibbutz Nahal Oz Monday morning, two people hurt by shrapnel. On Sunday evening, rocket lands near strategic site in Ashkelon. IDF official: Conflict in north encourages Hamas
+(VIDEO) While media attention focuses on northern front, Qassams continue to land in southern communities. Rockets hit Sderot and Kibbutz Nahal Oz Monday morning, two people hurt by shrapnel. On Sunday evening, rocket lands near strategic site in Ashkelon. IDF official: Conflict in north encourages ...
 
 ## [Previous Day...](/news/2006/07/15/index.md)
 

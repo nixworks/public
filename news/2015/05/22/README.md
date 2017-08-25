@@ -16,7 +16,7 @@ _Context: Li Hejun_
 _Context: Britain, London, Wembley Stadium, World War II, bomb, the Blitz_
 
 ### [The Myanmar Navy rescues two boats carrying 208 migrants as it faces growing international pressure to tackle the Rohingya migration crisis. ](/news/2015/05/22/the-myanmar-navy-rescues-two-boats-carrying-208-migrants-as-it-faces-growing-international-pressure-to-tackle-the-rohingya-migration-crisis.md)
-A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; to the oppressed Rohingya minority to address an ongoing migrant crisis that has hit Southeast Asia, leaving thousands stranded at sea. More than 3,500 migrants have swum to shore or been rescued off the coasts of Malaysia
+A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; to the oppressed Rohingya minority to address an ongoing migrant crisis that has hit Southeast Asia, leaving thousands stranded at sea. More than 3,500 migrants have swum to shore or been rescued off the coasts of Malaysi...
 
 ### [Over 3,000 cases of cholera resulting in at least 31 deaths breaks out in a refugee camp for Burundians fleeing the recent political unrest in their country. ](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-least-31-deaths-breaks-out-in-a-refugee-camp-for-burundians-fleeing-the-recent-political-unrest.md)
 At least 3,000 cases of cholera have been reported in Tanzania since last week and the outbreak has claimed 31 lives.

@@ -13,7 +13,7 @@ Outlook grim for state of Assam, with heavy rain that has buried hundreds of vil
 North Korea has claimed the US &quot;crossed the red line&quot; in taking action against its leader over human rights abuses.
 
 ### [Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md)
-PHILADELPHIA-- The schedule for the final night of the Democratic National Convention has been released. The evening ends with Hillary Clinton&#039;s acceptance of the Democratic Party’s nomination. **Continuing coverage of the DNC** Our LIVE coverage continues with reports from Tracy McCool tonight, along with LIVE speeches**
+PHILADELPHIA-- The schedule for the final night of the Democratic National Convention has been released. The evening ends with Hillary Clinton&#039;s acceptance of the Democratic Party’s nomination. **Continuing coverage of the DNC** Our LIVE coverage continues with reports from Tracy McCool tonig...
 
 ### [Kilauea, a shield volcano on the island of Hawai'i, erupts lava into the ocean for the first time since 2013. ](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.md)
 Lava from Hawaii’s Kilauea volcano makes its way into the ocean for the first time in years.

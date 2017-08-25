@@ -37,7 +37,7 @@ _Context: 2016 Brussels bombings, Belgium, Brussels_
 Protesters in Skopje pelted the Macedonian capital&#8217;s triumphal arch with stones and eggs on the fifth night of protests demanding the resignation of president Gjorge Ivanov and calling for th…
 
 ### [Brazil's Chamber of Deputies votes overwhelmingly (367-137) in favor of impeachment procedures against President Dilma Rousseff. ](/news/2016/04/17/brazil-s-chamber-of-deputies-votes-overwhelmingly-367-137-in-favor-of-impeachment-procedures-against-president-dilma-rousseff.md)
-By Maria Carolina Marcello and Alonso Soto BRASILIA (Reuters) - Brazil&#x27;s leftist President Dilma Rousseff suffered a humiliating loss in a crucial impeachment vote in the lower house of Congress on Sunday and is almost certain to be forced from office months before the nation hosts the Olympics.
+By Maria Carolina Marcello and Alonso Soto BRASILIA (Reuters) - Brazil&#x27;s leftist President Dilma Rousseff suffered a humiliating loss in a crucial impeachment vote in the lower house of Congress on Sunday and is almost certain to be forced from office months before the nation hosts the Olympics...
 
 ### [The ''Los Angeles Times'' reports that close to 500,000 California voters, who wanted to register as an Independent but checked the American Independent Party box instead, may be ineligible to vote in the state's Democratic and Republican primaries. ](/news/2016/04/17/the-los-angeles-times-reports-that-close-to-500-000-california-voters-who-wanted-to-register-as-an-independent-but-checked-the-american.md)
 Voters enrolled in a small right-wing party thinking they were registering as independents.

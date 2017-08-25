@@ -1,7 +1,7 @@
 ## [2015-10-21](/news/2015/10/21/index.md)
 
 ### [The Taliban announced it overran Ghoryan in western Herat, the second district to fall in three days. ](/news/2015/10/21/the-taliban-announced-it-overran-ghoryan-in-western-herat-the-second-district-to-fall-in-three-days.md)
-Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patrick Megahan. Updated to include report of Afghan military retaking the district center. The Afghan Taliban claimed that it overran the district center of Ghoryan in the western province of Herat today. The jihadist group made the claim on Voice of Jihad, its official propaganda website: Mujahideen of Islamic Emirate in Herat province launched coordinated attacks late afternoon hours today on Ghoryan district administration center and police HQ. Officials say that heavy fighting is underway at the moment, more details about which will be updated later. Update: Fresh reports arriving from Herat province say that Ghoryan district administration center, police HQ and all government buildings have been
+Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patric...
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
 _Context: Islamic State of Iraq and the Levant, Raqqa, Syria, Syrian Civil War_
@@ -10,7 +10,7 @@ _Context: Islamic State of Iraq and the Levant, Raqqa, Syria, Syrian Civil War_
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
 
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)
-Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road outside a village in Nigeria&#x27;s northeast Borno state, local sources said. A large group of Boko Haram gunmen fleeing a military offensive on their camp in Nganzai district opened fire on four cars just outside Jingalta
+Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road outside a village in Nigeria&#x27;s northeast Borno state, local sources said. A large group of Boko Haram gunmen fleeing a military offensive on their camp in Nganzai district opened fire on four cars just outside Jinga...
 
 ### [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md)
 _Context: 2015 Pacific typhoon season, Philippines, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
@@ -43,10 +43,10 @@ Fires have been set at the front doors of six churches in St. Louis and Jennings
 The CIA condemns Wikileaks over publication of documents from a private email account of director John Brennan.
 
 ### [A British lawyer and his wife are found dead by their gardener at their home on the Caribbean island of Tobago. The Trinidad and Tobago Police Service believe the couple were murdered during a suspected robbery. ](/news/2015/10/21/a-british-lawyer-and-his-wife-are-found-dead-by-their-gardener-at-their-home-on-the-caribbean-island-of-tobago-the-trinidad-and-tobago-poli.md)
-A British man has been murdered alongside his wife during a suspected robbery at their home on a Caribbean island. Richard Wheeler, 73, and his wife Grace were found dead by their gardener in the village of Carnbee in Tobago. A spokesperson for the Trinidad and Tobago Police Service said Mrs Wheeler’s body was discovered on the lawn with a cut to her neck on Tuesday morning. Officers searching the home said they found Mr Wheeler “face down in a pool of blood with chop wounds to both arms and the back of the head”.
+A British man has been murdered alongside his wife during a suspected robbery at their home on a Caribbean island. Richard Wheeler, 73, and his wife Grace were found dead by their gardener in the village of Carnbee in Tobago. A spokesperson for the Trinidad and Tobago Police Service said Mrs Wheeler...
 
 ### [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md)
-More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave Republicans behind Dec. 10 Donald Trump backs out of his Israel trip Dec. 9 Some U.S. mayors want Donald Trump to stay out of their cities Dec. 8 Hillary Clinton looks to tie GOP candidates to Trump&apos;s rhetoric about...
+More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave Republicans behind Dec. 10 Donald Trump backs out of his Israel trip Dec. 9 Some U.S. mayors want Donald Trump to stay out of their cities Dec. 8 Hillary Clinton looks to tie GOP candidates to Trump&apos;s rhetoric abou...
 
 ## [Previous Day...](/news/2015/10/20/index.md)
 

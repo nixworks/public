@@ -25,7 +25,7 @@ _Context: Belize, strike_
 _Context: Charles Duelfer, Iraq, United States, weapons of mass destruction_
 
 ### [ Military action in Lebanon: After three decades, all Syrian troops leave Lebanon, fulfilling UN Security Council Resolution 1559. ](/news/2005/04/26/military-action-in-lebanon-after-three-decades-all-syrian-troops-leave-lebanon-fulfilling-un-security-council-resolution-1559.md)
-Today, as the last Syrian troops depart from the country they have occupied for 29 years, the Lebanese will likely breathe a sigh of relief. But they won&#39;t have much time to savor the sweetness of their newfound liberty; they are now left with the task of managing their own affairs, and there is an awful lot of work to be done. 
+Today, as the last Syrian troops depart from the country they have occupied for 29 years, the Lebanese will likely breathe a sigh of relief. But they won&#39;t have much time to savor the sweetness of their newfound liberty; they are now left with the task of managing their own affairs, and there is...
 
 ### [ British Labour Party member Brian Sedgemore moves to the Liberal Democrats. ](/news/2005/04/26/british-labour-party-member-brian-sedgemore-moves-to-the-liberal-democrats.md)
 News and opinion from The Times &amp; The Sunday Times

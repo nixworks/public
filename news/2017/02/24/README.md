@@ -31,7 +31,7 @@ _Context: Death of Kim Jong-nam, Kim Jong-nam, Kim Jong-un, Malaysian police, No
 Trump&apos;s press secretary says the administration sees recreational marijuana as dangerous, and signaled the Department of Justice could go after states that have legalized it.
 
 ### [Protesters in South Africa rally against immigration. ](/news/2017/02/24/protesters-in-south-africa-rally-against-immigration.md)
-South&#x20;African&#x20;police&#x20;fired&#x20;rubber&#x20;bullets&#x20;and&#x20;stun&#x20;grenades&#x20;to&#x20;break&#x20;up&#x20;clashes&#x20;between&#x20;local&#x20;protesters&#x20;and&#x20;migrants&#x20;in&#x20;Pretoria&#x20;on&#x20;Friday&#x20;at&#x20;a&#x20;march&#x20;against&#x20;immigration.
+South&#x20;African&#x20;police&#x20;fired&#x20;rubber&#x20;bullets&#x20;and&#x20;stun&#x20;grenades&#x20;to&#x20;break&#x20;up&#x20;clashes&#x20;between&#x20;local&#x20;protesters&#x20;and&#x20;migrants&#x20;in&#x20;Pretoria&#x20;on&#x20;Friday&#x20;at&#x20;a&#x20;march&#x20;against&#x20;immigration...
 
 ### [Philippine vice president Leni Robredo defends her fellow Liberal party-mate Leila de Lima who was arrested for alleged drug trafficking. Robredo calls de Lima's arrest political harassment. ](/news/2017/02/24/philippine-vice-president-leni-robredo-defends-her-fellow-liberal-party-mate-leila-de-lima-who-was-arrested-for-alleged-drug-trafficking-ro.md)
 _Context: Leila de Lima, Leni Robredo, Liberal Party, Philippine, political harassment_

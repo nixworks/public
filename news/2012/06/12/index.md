@@ -22,7 +22,7 @@ _Context: Luanda, Tokyo_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Six flood warnings and 42 flood alerts remain in place in London and South East England. ](/news/2012/06/12/six-flood-warnings-and-42-flood-alerts-remain-in-place-in-london-and-south-east-england.md)
-Six flood warnings and 42 flood alerts remain in place across London and the south east, as the bad weather continues. The Environment Agency says there is a &quot;continued&quot; risk of surface water flooding from drains across parts of London, Surrey and Kent. Here&amp;#39;s Robin with today&amp;#39;s forecast. 
+Six flood warnings and 42 flood alerts remain in place across London and the south east, as the bad weather continues. The Environment Agency says there is a &quot;continued&quot; risk of surface water flooding from drains across parts of London, Surrey and Kent. Here&amp;#39;s Robin with today&amp;...
 
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
 _Context: Gaza flotilla raid, Israel, Mediterranean Sea, Turkey, genocide of Armenians, international waters_

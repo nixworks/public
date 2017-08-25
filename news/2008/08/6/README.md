@@ -1,7 +1,7 @@
 ## [2008-08-6](/news/2008/08/6/index.md)
 
 ### [ At least nine firefighters are missing presumed dead after a Sikorsky S-61 helicopter crashes in northern California. ](/news/2008/08/6/at-least-nine-firefighters-are-missing-presumed-dead-after-a-sikorsky-s-61-helicopter-crashes-in-northern-california.md)
-Forest Service officials are calling it the deadliest air crash involving firefighters in U.S. history&lt;br&gt;&raquo; &lt;a href=&quot;http://blog.oregonlive.com/news_impact/2008/08/8-5-08-heli-crash.mp3 &quot;&gt;Press conference&lt;/a&gt; &lt;img src=&quot;http://www.oregonlive.com/images/audio.gif&quot;/&gt;
+Forest Service officials are calling it the deadliest air crash involving firefighters in U.S. history&lt;br&gt;&raquo; &lt;a href=&quot;http://blog.oregonlive.com/news_impact/2008/08/8-5-08-heli-crash.mp3 &quot;&gt;Press conference&lt;/a&gt; &lt;img src=&quot;http://www.oregonlive.com/images/audio....
 
 ### [ UNICEF releases ](/news/2008/08/6/unicef-releases.md)
 _Context: UNICEF_

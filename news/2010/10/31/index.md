@@ -43,7 +43,7 @@ _Context: New Zealand_
 _Context: Guantanamo Bay, Guantanamo military commission, Omar Khadr, United States_
 
 ### [The Somali parliament approves Mohamed Abdullahi Mohamed as Prime Minister. ](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.md)
-Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x20;favour&#x20;of&#x20;the&#x20;president&amp;&#x23;039&#x3B;s&#x20;nominee,&#x20;who&#x20;is&#x20;a&#x20;US-educated&#x20;former&#x20;diplomat&#x20;from&#x20;the&#x20;Somali&#x20;diaspora.&#x0A;
+Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x2...
 
 ### [Voters in Brazil go to the polls for the second round of the Brazilian presidential election between Dilma Rousseff and Jos Serra. Rousseff won 55% of the vote and will become the first female President of Brazil. ](/news/2010/10/31/voters-in-brazil-go-to-the-polls-for-the-second-round-of-the-brazilian-presidential-election-between-dilma-rousseff-and-jose-serra-rousseff.md)
 _Context: Brazil, Brazilian President, Brazilian presidential election, Dilma Rousseff, Jos Serra_

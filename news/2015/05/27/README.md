@@ -31,7 +31,7 @@ Greenland became the 21st country in the world to legalize gay marriage thanks t
 _Context: British House of Commons, Queen's Speech, State Opening of Parliament, newly elected_
 
 ### [The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. ](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.md)
-COPENHAGEN (REUTERS) - Danish Prime Minister Helle Thorning-Schmidt on Wednesday called an election for June 18 in which her centre-left Social Democrats will face stiff competition from the centre-right Liberals who want more curbs on immigration and limits on state spending.. Read more at straitstimes.com.
+COPENHAGEN (REUTERS) - Danish Prime Minister Helle Thorning-Schmidt on Wednesday called an election for June 18 in which her centre-left Social Democrats will face stiff competition from the centre-right Liberals who want more curbs on immigration and limits on state spending.. Read more at straitst...
 
 ### [Rick Santorum announces he will be seeking the nomination of the Republican Party in the United States presidential election, 2016. ](/news/2015/05/27/rick-santorum-announces-he-will-be-seeking-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2016.md)
 _Context: 2016 U.S. presidential election, Republican Party presidential candidates, 2016, Rick Santorum_

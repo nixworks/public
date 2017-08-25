@@ -58,7 +58,7 @@ Six New Orleans police officers are charged in connection with an inquiry into t
 A Zimbabwe courts frees on bail a human rights activist accused of giving false information about the diamond trade.
 
 ### [Human rights groups express concern that some of the soldiers due to march down the Champs Elysees in Paris tomorrow as part of the Bastille Day celebrations may be war criminals and write an open letter to President of France Nicolas Sarkozy. ](/news/2010/07/13/human-rights-groups-express-concern-that-some-of-the-soldiers-due-to-march-down-the-champs-elysa-c-es-in-paris-tomorrow-as-part-of-the-bastill.md)
-Soldiers&#x20;from&#x20;13&#x20;former&#x20;French&#x20;African&#x20;colonies&#x20;will&#x20;march&#x20;down&#x20;the&#x20;Champs&#x20;Elys&#x00E9;es&#x20;in&#x20;Paris&#x20;on&#x20;July&#x20;14&#x20;as&#x20;part&#x20;of&#x20;France&#x2019;s&#x20;Bastille&#x20;Day&#x20;celebrations.&#x20;However,&#x20;human&#x20;rights&#x20;groups&#x20;are&#x20;concerned&#x20;that&#x20;some&#x20;of&#x20;the&#x20;soldiers&#x20;involved&#x20;may&#x20;be&#x20;war&#x20;criminals.
+Soldiers&#x20;from&#x20;13&#x20;former&#x20;French&#x20;African&#x20;colonies&#x20;will&#x20;march&#x20;down&#x20;the&#x20;Champs&#x20;Elys&#x00E9;es&#x20;in&#x20;Paris&#x20;on&#x20;July&#x20;14&#x20;as&#x20;part&#x20;of&#x20;France&#x2019;s&#x20;Bastille&#x20;Day&#x20;celebrations.&#x20;However,&#x...
 
 ### [The United Kingdom strips Russian spy Anna Chapman of her citizenship after the United States deports her. ](/news/2010/07/13/the-united-kingdom-strips-russian-spy-anna-chapman-of-her-citizenship-after-the-united-states-deports-her.md)
 Britain revokes citizenship of Russian spy following her deportation from US.
@@ -94,7 +94,7 @@ Lower house passes ban on wearing garment in public places by 336 votes to one.
 France is to raise pensions for its African war veterans to the same level as those of their French comrades, Nicolas Sarkozy says.
 
 ### [French Labour Minister Eric Woerth resigns as UMP party treasurer at the request of President Nicolas Sarkozy to focus on pension reform. ](/news/2010/07/13/french-labour-minister-aric-warth-resigns-as-ump-party-treasurer-at-the-request-of-president-nicolas-sarkozy-to-focus-on-pension-reform.md)
-French&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth&#x20;has&#x20;said&#x20;he&#x20;will&#x20;resign&#x20;as&#x20;UMP&#x20;party&#x20;treasurer&#x20;at&#x20;the&#x20;request&#x20;of&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;to&#x20;focus&#x20;on&#x20;pension&#x20;reform.&#x20;Woerth&#x20;has&#x20;been&#x20;the&#x20;focus&#x20;of&#x20;allegations&#x20;involving&#x20;illegal&#x20;donations&#x20;to&#x20;Sarkozy&#x27;s&#x20;2007&#x20;campaign.
+French&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth&#x20;has&#x20;said&#x20;he&#x20;will&#x20;resign&#x20;as&#x20;UMP&#x20;party&#x20;treasurer&#x20;at&#x20;the&#x20;request&#x20;of&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;to&#x20;focus&#x20;on&#x20;pension&#x20;reform.&#x20;Woerth&#x20;has&...
 
 ### [The French government approves a draft law that would raise the retirement age to 62 from the age of 60 that has been enshrined since 1982. ](/news/2010/07/13/the-french-government-approves-a-draft-law-that-would-raise-the-retirement-age-to-62-from-the-age-of-60-that-has-been-enshrined-since-1982.md)
 The French government approves a controversial draft law that would raise the retirement age from 60 to 62.

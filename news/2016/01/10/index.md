@@ -10,7 +10,7 @@ At least five people have been killed in a missile strike on a Medecins Sans Fro
 Afghan security forces have retaken a district in the north of the country, killing 30 Taliban fighters and capturing vehicles and weapons from the insurgents, the defense ministry said on Sunday.
 
 ### [The 73rd Golden Globe Awards are held at the Beverly Hilton in Beverly Hills, California. ](/news/2016/01/10/the-73rd-golden-globe-awards-are-held-at-the-beverly-hilton-in-beverly-hills-california.md)
-The big winners for the 73rd Golden Globes were &quot;The Revenant,&quot; &quot;Mr. Robot&quot; and a myriad of underdogs. If you&apos;re googling &quot;Mozart in the Jungle&quot; don&apos;t worry, we&apos;ve got you covered. Here are all the wins, losses, memorable moments and predictions that didn&apos;t come true.Complete list of winnersPHOTOS:...
+The big winners for the 73rd Golden Globes were &quot;The Revenant,&quot; &quot;Mr. Robot&quot; and a myriad of underdogs. If you&apos;re googling &quot;Mozart in the Jungle&quot; don&apos;t worry, we&apos;ve got you covered. Here are all the wins, losses, memorable moments and predictions that didn...
 
 ### [British musician and actor David Bowie dies from cancer, aged 69. ](/news/2016/01/10/british-musician-and-actor-david-bowie-dies-from-cancer-aged-69.md)
 Tributes are paid to David Bowie, one of the most influential musicians of his era, who has died of cancer at the age of 69.

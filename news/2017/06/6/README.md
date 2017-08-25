@@ -25,7 +25,7 @@ Boy who died went to elementary school blocks from where violence unfolded, poli
 Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of finance and banking, asserting his power above one of two other members of a triumvirate that has ruled since the death last year of leader Islam Karimov.
 
 ### [American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. ](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.md)
-TRENTON, N.J. (AP) — Voters on Tuesday chose a wealthy former Goldman Sachs executive and Republican Gov. Chris Christie&#039;s top deputy to run to replace the unpopular governor. Democrat Phil Murphy and Republican Lt. Gov. Kim Guadagno won in the first statewide primary election since President Donald Trump took office. They will face off Nov. 7 in one of only two governor&#039;s races this year, along with Virginia, with Democrats hopeful their promised anti-Trump agenda and voter registration advantage will propel them to victory and jump-start a 2018 congressional comeback.
+TRENTON, N.J. (AP) — Voters on Tuesday chose a wealthy former Goldman Sachs executive and Republican Gov. Chris Christie&#039;s top deputy to run to replace the unpopular governor. Democrat Phil Murphy and Republican Lt. Gov. Kim Guadagno won in the first statewide primary election since President...
 
 ## [Previous Day...](/news/2017/06/5/index.md)
 

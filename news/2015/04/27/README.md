@@ -1,7 +1,7 @@
 ## [2015-04-27](/news/2015/04/27/index.md)
 
 ### [Hundreds of people have been found dead in the northern Nigerian town of Damasak, most likely killed by Boko Haram. ](/news/2015/04/27/hundreds-of-people-have-been-found-dead-in-the-northern-nigerian-town-of-damasak-most-likely-killed-by-boko-haram.md)
-Hundreds of people have been found dead in the northeast Nigerian town of Damasak, apparently victims of the Boko Haram insurgency, as details emerged on Monday of fresh attacks by the militants. Reports of decomposing bodies littering the streets of Damasak came as president Muhammadu Buhari denounced
+Hundreds of people have been found dead in the northeast Nigerian town of Damasak, apparently victims of the Boko Haram insurgency, as details emerged on Monday of fresh attacks by the militants. Reports of decomposing bodies littering the streets of Damasak came as president Muhammadu Buhari denoun...
 
 ### [Fitch Ratings downgrades Japan's credit rating to A over mounting debts. ](/news/2015/04/27/fitch-ratings-downgrades-japan-s-credit-rating-to-a-over-mounting-debts.md)
 Fitch Ratings downgraded Japan&#039;s credit rating by one notch, the agency said on Monday.

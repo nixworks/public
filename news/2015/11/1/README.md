@@ -1,7 +1,7 @@
 ## [2015-11-1](/news/2015/11/1/index.md)
 
 ### [Islamist al-Shabaab militants attack a hotel in Mogadishu resulting in at least 12 deaths. ](/news/2015/11/1/islamist-al-shabaab-militants-attack-a-hotel-in-mogadishu-resulting-in-at-least-12-deaths.md)
-At least 12 people were killed in the Somali capital of Mogadishu on Sunday after Shebab gunmen used a vehicle packed with explosives to blast their way inside a hotel, police said. After the car bomb ripped a hole in the hotel&#x27;s fortified walls, gunmen stormed the building firing semi-automatic
+At least 12 people were killed in the Somali capital of Mogadishu on Sunday after Shebab gunmen used a vehicle packed with explosives to blast their way inside a hotel, police said. After the car bomb ripped a hole in the hotel&#x27;s fortified walls, gunmen stormed the building firing semi-automati...
 
 ### [Islamic State fighters seize control of Mahin, a town in Syria's central Homs province, following clashes with government forces which left about 50 dead. Fighting was also reported to be taking place on the outskirts of Sadad, a nearby town mostly populated by Christians. ](/news/2015/11/1/islamic-state-fighters-seize-control-of-mahin-a-town-in-syria-s-central-homs-province-following-clashes-with-government-forces-which-left.md)
 Islamic State fighters drove Syrian government forces from a western town on Sunday, a monitoring group reported, as fighting escalated despite a flurry of diplomatic activity and talks between regional rivals.

@@ -31,7 +31,7 @@ _Context: Boeing 787 Dreamliner, Ethiopian Airlines, London Heathrow Airport, Ma
 _Context: 2013 coup d'etat, Egypt, Egyptian Army, Egyptian President, Mohamed Morsi, United States_
 
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
-UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the world stage at the United Nations, defiantly telling Taliban extremists who tried to end her campaign for girls&#x27; education in Pakistan with a bullet that the attack gave her new courage and demanding that world leaders provide
+UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the world stage at the United Nations, defiantly telling Taliban extremists who tried to end her campaign for girls&#x27; education in Pakistan with a bullet that the attack gave her new courage and demanding that world leaders...
 
 ### [Authorities in Indonesia search for 70 prison inmates who escaped from the Tanjung Gusta prison in North Sumatra province after a prison riot last night. Twelve of the escapees were convicted of terrorism related offences. ](/news/2013/07/12/authorities-in-indonesia-search-for-70-prison-inmates-who-escaped-from-the-tanjung-gusta-prison-in-north-sumatra-province-after-a-prison-rio.md)
 _Context: Indonesia, North Sumatra_
@@ -40,7 +40,7 @@ _Context: Indonesia, North Sumatra_
 The Government has passed legislation for the first time allowing for abortion in limited circumstances.
 
 ### [Two people are killed and one person is wounded during a shooting in the South of Market neighborhood of San Francisco, California, United States. A suspect is in custody. ](/news/2013/07/12/two-people-are-killed-and-one-person-is-wounded-during-a-shooting-in-the-south-of-market-neighborhood-of-san-francisco-california-united-s.md)
-Two women were killed and a man was injured Friday at a South of Market jewelry store, with the blood-soaked suspect emptying his revolver at police officers before surrendering, San Francisco police said. After talking to people in the five-story Gift Center and Jewelry Mart at 888 Brannan St. at Eighth Street, police concluded that &quot;this was not the first time (the suspect) had been seen in the building,&quot; the chief said. Esther Ishag, who works in the family-owned Design Jewelers, said she first heard of the shooting when a man passed her store and told them there was a man with a gun in the building. Shoppers have to have invitations from a shop owner because they need passes to get into the building. Besides the revolver, police also recovered a folding knife. Inside the jewelry mart, police found the bodies of two women inside the Victoga jewelry store in the basement, one of more than 100 small shops in the building. Hundreds of people in nearby stores and buildings, including the REI store and Zynga headquarters, were ordered to shelter in place while officers conducted their search of the building.
+Two women were killed and a man was injured Friday at a South of Market jewelry store, with the blood-soaked suspect emptying his revolver at police officers before surrendering, San Francisco police said. After talking to people in the five-story Gift Center and Jewelry Mart at 888 Brannan St. at E...
 
 ### [Romanian Transport minister Relu Fenechiu is sentenced to 5 years imprisonment for complicity in abuse of power but the decision is not final. ](/news/2013/07/12/romanian-transport-minister-relu-fenechiu-is-sentenced-to-5-years-imprisonment-for-complicity-in-abuse-of-power-but-the-decision-is-not-fina.md)
 _Context: Relu Fenechiu, Romanian Transport minister_
@@ -49,7 +49,7 @@ _Context: Relu Fenechiu, Romanian Transport minister_
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [U.S. Homeland Security Secretary Janet Napolitano announces her resignation to become the President of the University of California. ](/news/2013/07/12/u-s-homeland-security-secretary-janet-napolitano-announces-her-resignation-to-become-the-president-of-the-university-of-california.md)
-Janet Napolitano , the U.S. secretary of Homeland Security and former governor of Arizona, is being named as the next president of the University of California system, in an unusual choice that brings a national-level politician to a position usually held by an academic, The Times has learned. Her appointment also means the 10-campus system will be headed by a woman for the first time in its 145-year history.
+Janet Napolitano , the U.S. secretary of Homeland Security and former governor of Arizona, is being named as the next president of the University of California system, in an unusual choice that brings a national-level politician to a position usually held by an academic, The Times has learned. Her a...
 
 ## [Previous Day...](/news/2013/07/11/index.md)
 

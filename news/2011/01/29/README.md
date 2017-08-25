@@ -31,7 +31,7 @@ _Context: Hamilton, Ontario, Stelco, U.S. Steel_
 Head-on collision between passenger and goods trains kills at least eight people in eastern part of country.
 
 ### [The African Union sets up a panel of heads of state to help solve the political crisis in Cote d'Ivoire. ](/news/2011/01/29/the-african-union-sets-up-a-panel-of-heads-of-state-to-help-solve-the-political-crisis-in-ca-te-d-ivoire.md)
-The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&#x20;heads&#x20;of&#x20;state&#x20;within&#x20;a&#x20;month&#x20;to&#x20;solve&#x20;C&amp;ocirc&#x3B;te&#x20;d&amp;&#x23;039&#x3B;Ivoire&amp;rsquo&#x3B;s&#x20;leadership&#x20;crisis.&#x20;The&#x20;panel&amp;rsquo&#x3B;s&#x20;conclusions&#x20;will&#x20;legally&#x20;bind&#x20;the&#x20;main&#x20;players&#x20;in&#x20;the&#x20;debate.&#x20;The&#x20;announcement&#x20;comes&#x20;ahead&#x20;of&#x20;an&#x20;African...
+The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&#x20;heads&#x20;of&#x20;state&#x20;within&#x20;a&#x20;month&#x20;to&#x20;solve&#x20;C&amp;ocirc&#x3B;te&#x20;d&amp;&#x23;039&#x3B;Ivoire&amp;rsquo&#x3B;s&#x20;leadership&#x20;crisis.&#x20;The&#x20;panel&amp;rsquo&#x3B;s&...
 
 ### [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md)
 _Context: David Kato, Uganda, gay activist, lesbian_

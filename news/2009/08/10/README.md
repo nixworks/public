@@ -13,7 +13,7 @@ _Context: Joseph Msika, President of Zimbabwe, Robert Mugabe, Zimbabwe_
 _Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinton, United States, United States Secretary of State_
 
 ### [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md)
-Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowing to deepen his socialist &#147;revolution&#148;. Announcing his vision for a new term, Correa said he sought to fight inequality and invest in projects to help the poor, improve education and improve the lives of long-neglected Andean indigenous groups.
+Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowing to deepen his socialist &#147;revolution&#148;. Announcing his vision for a new term, Correa said he sought to fight inequality and invest in projects to help the poor, improve education and improve the lives of long-...
 
 ### [ The interim government in Honduras agrees to accept a delegation from the Organization of American States to help solve the political crisis in the country. ](/news/2009/08/10/the-interim-government-in-honduras-agrees-to-accept-a-delegation-from-the-organization-of-american-states-to-help-solve-the-political-crisi.md)
 _Context: Honduras, Organization of American States, political crisis in the country_

@@ -52,7 +52,7 @@ Juan Manuel Santos will meet presidential predecessors to discuss peace with the
 _Context: Chief Minister of the Isle of Man, House of Keys, Howard Quayle, Manx general election, 2016_
 
 ### [The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-october-5.md)
-WILLEMSTAD - Prime Minister Dr. Bernhard Whiteman today submitted the resignation of his cabinet to Governor Lucille George-Wout. That is the tradition on the eve of new elections. Until a new government takes office, the government-Whiteman remains in caretaker form. The Cabinet which tendered its resignation this morning is the second cabinet that bore the&hellip;
+WILLEMSTAD - Prime Minister Dr. Bernhard Whiteman today submitted the resignation of his cabinet to Governor Lucille George-Wout. That is the tradition on the eve of new elections. Until a new government takes office, the government-Whiteman remains in caretaker form. The Cabinet which tendered its ...
 
 ### [British scientists, David Thouless, Duncan Haldane, and John M. Kosterlitz, are awarded the 2016 Nobel Prize in Physics "for theoretical discoveries of topological phase transitions and topological phases of matter". ](/news/2016/10/4/british-scientists-david-thouless-duncan-haldane-and-john-m-kosterlitz-are-awarded-the-2016-nobel-prize-in-physics-for-theoretical-dis.md)
 The 2016 Nobel Prize in Physics has been awarded to three British-born scientists for discoveries about strange forms of matter.

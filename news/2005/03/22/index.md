@@ -40,7 +40,7 @@ _Context: India, diclofenac, extinction, vulture_
 Reuters.com for the weird, oddly enough stories.
 
 ### [ In Angola, at least 96 people have died of Marburg virus. ](/news/2005/03/22/in-angola-at-least-96-people-have-died-of-marburg-virus.md)
-(CIDRAP News) – An unidentified hemorrhagic fever appears to be targeting children younger than 5 in an outbreak in the African country of Angola. At least 39 people are believed to have died of the suspected hemorrhagic fever syndrome in the northern province of Uige between January and mid-March, the World Health Organization (WHO) announced on Mar 17.
+(CIDRAP News) – An unidentified hemorrhagic fever appears to be targeting children younger than 5 in an outbreak in the African country of Angola. At least 39 people are believed to have died of the suspected hemorrhagic fever syndrome in the northern province of Uige between January and mid-March...
 
 ## [Previous Day...](/news/2005/03/21/index.md)
 

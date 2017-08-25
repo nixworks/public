@@ -4,7 +4,7 @@
 _Context: India, Varanasi, bomb blast_
 
 ### [A copy of John James Audubon's ''Birds of America'' is sold at auction in London for a record PS7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-aps7-3-million-10-3-million.md)
-A new record was set for the world&#039;s most expensive printed book at an auction yesterday. A four-volume copy of John James Audubon&#039;s Birds of America went for £7,321,250 at Sotheby&#039;s in London, surpassing the previous record of £5,565,110 – held by another copy of the same title – and beating the estimate of £4-£6m. The proud new owner, the London dealer Michael Tollemache, described the work as &quot;priceless&quot;.
+A new record was set for the world&#039;s most expensive printed book at an auction yesterday. A four-volume copy of John James Audubon&#039;s Birds of America went for £7,321,250 at Sotheby&#039;s in London, surpassing the previous record of £5,565,110 – held by another copy of the same title �...
 
 ### [Irish financial crisis:Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-financial-crisis-pirish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md)
 The High Court has ordered the release of a man who was placed in custody this morning following a protest outside Leinster House.

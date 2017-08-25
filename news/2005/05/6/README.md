@@ -16,7 +16,7 @@ _Context: Delhi, India, meningitis_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ A 20-year-old IDF soldier is arrested in Israel after telling military police that he considers himself a "Nazi", and hates Jews, blacks and the State of Israel. ](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.md)
-JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-Nazi groups abroad, the first case of its kind in the Jewish state, which was founded as a haven for victims of the Holocaust. A police spokesman said the suspect, a 20-year-old army conscript who recently immigrated from the former Soviet Union although he does not identify himself as Jewish, was first taken into custody on drug charges. Israel has taken in hundreds of thousands of Russian-speaking immigrants under laws admitting those who have at least one Jewish grandparent or are married to Jews -- criteria the Nazis applied during their World War Two genocide.
+JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-Nazi groups abroad, the first case of its kind in the Jewish state, which was founded as a haven for victims of the Holocaust. A police spokesman said the suspect, a 20-year-old army conscript who recently immigrated from...
 
 ### [ Reports emerge that the United States may be sending detainees to Uzbekistan, a regime notorious for torture. ](/news/2005/05/6/reports-emerge-that-the-united-states-may-be-sending-detainees-to-uzbekistan-a-regime-notorious-for-torture.md)
 _Context: United States, Uzbekistan, detainee, torture_

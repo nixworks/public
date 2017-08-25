@@ -64,7 +64,7 @@ _Context: Metropolitan Police, Pope Benedict XVI, terrorism, visit of Pope Bened
 _Context: Guerrero, Mexican_
 
 ### [Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. ](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.md)
-Copac outreach meetings in Harare were Sunday abandoned after violence and chaos rocked the proceedings as youths — most of whom were apparently Zanu PF supporters — chased away suspected MDC-T supporters from the gatherings. Where the meetings took place, there was tension and high politicisation of talking points resulting in most of the meetings &hellip;
+Copac outreach meetings in Harare were Sunday abandoned after violence and chaos rocked the proceedings as youths — most of whom were apparently Zanu PF supporters — chased away suspected MDC-T supporters from the gatherings. Where the meetings took place, there was tension and high politicisati...
 
 ### [Swedish general electionVoters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/swedish-general-electionpvoters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-mini.md)
 _Context: Fredrik Reinfeldt, Sweden, Swedish general election, The Alliance, prime minister_

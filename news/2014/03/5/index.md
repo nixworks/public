@@ -16,7 +16,7 @@ Big fourth-quarter loss prompts retailer RadioShack to downsize.
 (VOV) - Raging forest fires broke out in Na Hang area, away 3km from Seo My Ty hamlet, Ta Van commune, Sa Pa district in the northern Lao Cai province on March 5.
 
 ### [The U.S. Supreme Court interprets the whistle-blower provisions of Sarbanes-Oxley to protect the employees of privately owned companies that contract with public companies, in a case involving a group of mutual fund entities. ](/news/2014/03/5/the-u-s-supreme-court-interprets-the-whistle-blower-provisions-of-sarbanes-oxley-to-protect-the-employees-of-privately-owned-companies-that.md)
-A divided Supreme Court issued its decision on Tuesday in Lawson v. FMR LLC, ruling that the anti-retaliation protection provided to whistleblowers by the Sarbanes-Oxley Act of 2002 (“SOX”) applies to employees of private companies that contract with public companies. Justice Ginsburg authored the
+A divided Supreme Court issued its decision on Tuesday in Lawson v. FMR LLC, ruling that the anti-retaliation protection provided to whistleblowers by the Sarbanes-Oxley Act of 2002 (“SOX”) applies to employees of private companies that contract with public companies. Justice Ginsburg authored t...
 
 ### [Andrus Ansip resigns after nine years as prime minister of Estonia. ](/news/2014/03/5/andrus-ansip-resigns-after-nine-years-as-prime-minister-of-estonia.md)
 After nine years in office, Estonian PM Andrus Ansip announces his resignation to enable a successor to lead his party into 2015 elections.

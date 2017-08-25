@@ -1,7 +1,7 @@
 ## [2016-04-22](/news/2016/04/22/index.md)
 
 ### [The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and-the-sulu-archi.md)
-THE forthcoming May 9 national and local elections have prompted the Foreign and Commonwealth Office (FCO) of the United Kingdom (UK) to issue a travel advisory to its nationals visiting the Philippines. In its updated Foreign Travel Advisory (Philippines), the FCO reminded British nationals that the national elections in the country is already set to take place on May 9. &quot;You should avoid large crowds and demonstrations and follow the advice of the local authorities,&quot; said the FCO.
+THE forthcoming May 9 national and local elections have prompted the Foreign and Commonwealth Office (FCO) of the United Kingdom (UK) to issue a travel advisory to its nationals visiting the Philippines. In its updated Foreign Travel Advisory (Philippines), the FCO reminded British nationals that th...
 
 ### [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md)
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_

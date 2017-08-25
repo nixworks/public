@@ -16,7 +16,7 @@ _Context: Comfort women_
 Malcolm Turnbull condemns the police shooting of unarmed Australian Justine Damond in a Minneapolis alleyway as a shocking killing, adding the Government is demanding answers on behalf of her family.
 
 ### [Pierre de Villiers resigns as the Chief of the Defence Staff of the French Armed Forces due to disagreements with President Emmanuel Macron over proposed budget cuts. ](/news/2017/07/19/pierre-de-villiers-resigns-as-the-chief-of-the-defence-staff-of-the-french-armed-forces-due-to-disagreements-with-president-emmanuel-macron.md)
-The head of the French armed forces, General Pierre de Villiers, has quit his post after publicly clashing with Emmanuel Macron over proposed budget cuts. In a statement from his office, Mr de Villiers said he had sought to maintain a French defence force able to do an increasingly difficult job within the financial constraints imposed on it.
+The head of the French armed forces, General Pierre de Villiers, has quit his post after publicly clashing with Emmanuel Macron over proposed budget cuts. In a statement from his office, Mr de Villiers said he had sought to maintain a French defence force able to do an increasingly difficult job wit...
 
 ### [U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.md)
 McCain was diagnosed with a tumor called a glioblastoma after the removal of a blood clot above his left eye last week.

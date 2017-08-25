@@ -40,7 +40,7 @@ A deadly blast during the inauguration of a major oil refinery by Iranian Presid
 Many residents cannot contact possible survivors, and officials have not shared names of the dead and missing.
 
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint session of the United States Congress and says he is prepared to make "far-reaching compromises" for a peace deal with Palestinians, but states that Israel will not return to its pre-1967 borders. ](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.md)
-Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congress Tuesday that he is prepared to make &quot;painful compromises&quot; for a peace deal with Palestinians, but reiterated his insistence that Israel will never return to the boundaries that existed before the 1967 Middle East war.
+Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congress Tuesday that he is prepared to make &quot;painful compromises&quot; for a peace deal with Palestinians, but reiterated his insistence that Israel will never return to the boundaries that existed before the 1967 Middl...
 
 ### [A delegation from the United States arrives in the North Korean capital Pyongyang to assess the food shortage in the country. ](/news/2011/05/24/a-delegation-from-the-united-states-arrives-in-the-north-korean-capital-pyongyang-to-assess-the-food-shortage-in-the-country.md)
 A U.S. delegation will travel to North Korea on Tuesday for a four-day trip to assess the food situation in the reclusive nation.

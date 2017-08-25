@@ -7,7 +7,7 @@ A gunman is on the run after at least 39 people were killed in an attack on an I
 TEHRAN (Tasnim) – A car bomb exploded in a district of Iraq’s holy city of Najaf on Sunday, leaving at least six people dead and 22 others wounded.
 
 ### [A gunman shoots dead Burundi's environment minister Emmanuel Niyonkuru in the nation's capital, Bujumbura. ](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.md)
-Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;in&#x20;the&#x20;capital&#x20;Bujumbura&#x20;early&#x20;Sunday,&#x20;police&#x20;said,&#x20;the&#x20;first&#x20;assassination&#x20;of&#x20;its&#x20;kind&#x20;since&#x20;the&#x20;country&#x20;was&#x20;plunged&#x20;into&#x20;political&#x20;turmoil&#x20;in&#x20;2015.
+Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;in&#x20;the&#x20;capital&#x20;Bujumbura&#x20;early&#x20;Sunday,&#x20;police&#x20;said,&#x20;the&#x20;first&#x20;assassination&#x20;of&#x20;its&#x20;kind&#x20;since&#x20;the&#x20;country&#x20;was&#x20;plunged&#x20;into&#x...
 
 ### [A ferry catches fire en route to Indonesia's Thousand Islands, killing at least 23 people and injuring 17 others. ](/news/2017/01/1/a-ferry-catches-fire-en-route-to-indonesia-s-thousand-islands-killing-at-least-23-people-and-injuring-17-others.md)
 Twenty-three people have been killed and 17 injured in a ferry accident off the coast of Jakarta.

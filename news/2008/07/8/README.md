@@ -19,7 +19,7 @@ _Context: Afghan government, Inter-Services Intelligence, Pakistan, Prime Minist
 _Context: Levy Mwanawasa, President, Zambia_
 
 ### [ The UNESCO World Heritage Committee votes in Quebec City and adds 27 new sites to the World Heritage List. ](/news/2008/07/8/the-unesco-world-heritage-committee-votes-in-quebec-city-and-adds-27-new-sites-to-the-world-heritage-list.md)
-The&#x20;World&#x20;Heritage&#x20;Committee,&#x20;meeting&#x20;for&#x20;its&#x20;32nd&#x20;session,&#x20;finished&#x20;inscribing&#x20;new&#x20;sites&#x20;on&#x20;UNESCO&amp;rsquo&#x3b;s&#x20;World&#x20;Heritage&#x20;List&#x20;on&#x20;8&#x20;July&#x20;with&#x20;the&#x20;addition&#x20;of&#x20;19&#x20;cultural&#x20;sites&#x20;and&#x20;eight&#x20;natural&#x20;sites&#x20;to&#x20;the&#x20;&#x20;...
+The&#x20;World&#x20;Heritage&#x20;Committee,&#x20;meeting&#x20;for&#x20;its&#x20;32nd&#x20;session,&#x20;finished&#x20;inscribing&#x20;new&#x20;sites&#x20;on&#x20;UNESCO&amp;rsquo&#x3b;s&#x20;World&#x20;Heritage&#x20;List&#x20;on&#x20;8&#x20;July&#x20;with&#x20;the&#x20;addition&#x20;of&#x20;19&#x20...
 
 ## [Previous Day...](/news/2008/07/7/index.md)
 

@@ -4,7 +4,7 @@
 Islamic State jihadists behead four people and shoot eight dead in the ancient Syrian city, monitors say.
 
 ### [U.S. B-2 stealth bombers strike two ISIL camps, south of the city of Sirte, Libya, killing more than 80 militants, according to United States Secretary of Defense Ash Carter. ](/news/2017/01/19/u-s-b-2-stealth-bombers-strike-two-isil-camps-south-of-the-city-of-sirte-libya-killing-more-than-80-militants-according-to-united-state.md)
-U.S. officials confirm that two Air Force stealth B-2 bombers struck two ISIS camps in Libya 28 miles south of Sirte on Wednesday night. One official called the airstrikes &quot;a huge success,&quot; with more than 80 ISIS fighters killed. The airstrikes targeted 80 to 100 ISIS fighters in multiple camps...
+U.S. officials confirm that two Air Force stealth B-2 bombers struck two ISIS camps in Libya 28 miles south of Sirte on Wednesday night. One official called the airstrikes &quot;a huge success,&quot; with more than 80 ISIS fighters killed. The airstrikes targeted 80 to 100 ISIS fighters in multiple ...
 
 ### [Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the  costs of buying/leasing a car when recruiting new drivers. ](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.md)
 Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to settle claims by the U.S. government that it exaggerated prospective earnings in seeking to recruit drivers and downplayed the costs of buying or leasing a car, documents filed with a federal court on Thursday showed.

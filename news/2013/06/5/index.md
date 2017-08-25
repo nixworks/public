@@ -64,7 +64,7 @@ _Context: Legionnaires' disease_
 _Context: Bradley Manning, United States v Bradley Manning, WikiLeaks_
 
 ### [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-a.md)
-A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot; during his training, but who went on to sell the Sun newspaper front-page secrets including the imminent proposal of Prince William to Kate Middleton, can be named today after legal restrictions were lifted in Southwark Crown Court.
+A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot; during his training, but who went on to sell the Sun newspaper front-page secrets including the imminent proposal of Prince William to Kate Middleton, can be named today after legal restrictions were lifted in Southwar...
 
 ### [Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. ](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.md)
 _Context: Nawaz Sharif, Prime Minister of Pakistan, drones launch_

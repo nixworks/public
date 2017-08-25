@@ -19,7 +19,7 @@ _Context: Alamo, Veracruz, Mexico, tractor-trailer_
 Convicted US killer Marcus Robinson is ordered off death row after a judge determines that racial bias was evident during jury selection in his 1994 trial.
 
 ### [Former Malian President Amadou Toumani Toure arrives in Senegal after being ousted in a military coup. ](/news/2012/04/20/former-malian-president-amadou-toumani-toure-arrives-in-senegal-after-being-ousted-in-a-military-coup.md)
-Mali&#x27;s&#x20;ex-president&#x20;Amadou&#x20;Toumani&#x20;Toure,&#x20;ousted&#x20;by&#x20;the&#x20;military&#x20;junta&#x20;last&#x20;month,&#x20;arrived&#x20;in&#x20;Dakar&#x20;with&#x20;his&#x20;family&#x20;late&#x20;Thursday,&#x20;the&#x20;Senegalese&#x20;president&#x27;s&#x20;office&#x20;said.&#x20;A&#x20;Malian&#x20;military&#x20;source&#x20;said&#x20;Toure&#x20;had&#x20;departed&#x20;with&#x20;agreement&#x20;of&#x20;coup&#x20;leader.
+Mali&#x27;s&#x20;ex-president&#x20;Amadou&#x20;Toumani&#x20;Toure,&#x20;ousted&#x20;by&#x20;the&#x20;military&#x20;junta&#x20;last&#x20;month,&#x20;arrived&#x20;in&#x20;Dakar&#x20;with&#x20;his&#x20;family&#x20;late&#x20;Thursday,&#x20;the&#x20;Senegalese&#x20;president&#x27;s&#x20;office&#x20;said....
 
 ### [The Economic Community of West African States condemns the election plan of the military junta which seized power in Guinea-Bissau. ](/news/2012/04/20/the-economic-community-of-west-african-states-condemns-the-election-plan-of-the-military-junta-which-seized-power-in-guinea-bissau.md)
 _Context: ECOWAS, Guinea-Bissau, which seized power_

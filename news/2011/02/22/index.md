@@ -43,7 +43,7 @@ _Context: Al Jazeera, Arab League, Libya_
 Arizona border vigilante Shawna Forde has been sentenced to death for the 2009 murders of a 9-year-old girl and her father during a robbery to fund her militia.
 
 ### [An Indian court convicts 31 people on murder and conspiracy charges in relation to the Godhra train burning. ](/news/2011/02/22/an-indian-court-convicts-31-people-on-murder-and-conspiracy-charges-in-relation-to-the-godhra-train-burning.md)
-Global National with Dawna Friesen is Canada&#039;s early evening national newscast, and provides a distinctive voice and approach to the day&#039;s top stories. The multiple award-winning Global National has been voted Best Newscast by the Radio and Television News Directors Association (RTNDA) of Canada and by the Academy of Canadian Cinema &amp; Television (Gemini Awards). Following its mission sta
+Global National with Dawna Friesen is Canada&#039;s early evening national newscast, and provides a distinctive voice and approach to the day&#039;s top stories. The multiple award-winning Global National has been voted Best Newscast by the Radio and Television News Directors Association (RTNDA) of ...
 
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa orders the release of political prisoners in response to the 2011 Bahraini protests. ](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.md)
 _Context: 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain_

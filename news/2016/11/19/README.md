@@ -10,7 +10,7 @@ Cairo (AP) -- The Saudi-led military coalition declared a 48-hour ceasefire in Y
 A policeman and three paramilitary soldiers were killed when gunmen opened fire in latest outbreak of violence in restive Balochistan province
 
 ### [  Three soldiers are killed in an ambush in Assam. ](/news/2016/11/19/three-soldiers-are-killed-in-an-ambush-in-assam.md)
-DIBRUGARH/GUWAHATI: In one of the biggest attacks on security forces in Assam in two decades, three Army jawans were killed and four seriously injured when suspected Ulfa (Independent) and NSCN(K) militants ambushed their convoy after triggering an IED blast in Pengeri area in Tinsukia district on Saturday.
+DIBRUGARH/GUWAHATI: In one of the biggest attacks on security forces in Assam in two decades, three Army jawans were killed and four seriously injured when suspected Ulfa (Independent) and NSCN(K) militants ambushed their convoy after triggering an IED blast in Pengeri area in Tinsukia district on S...
 
 ### [After a software error, Mexicans purchase US$2500 Dell Alienware laptops for just US$33 each. ](/news/2016/11/19/after-a-software-error-mexicans-purchase-us-2500-dell-alienware-laptops-for-just-us-33-each.md)
 Mexico tells Dell to honour the sale of laptops mistakenly advertised at their shipping cost.

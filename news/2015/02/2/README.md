@@ -13,7 +13,7 @@ _Context: Lesotho Defence Force, Prime Minister of Lesotho, Tom Thabane_
 A female suicide bomber blows herself up in the north-east Nigerian city of Gombe, minutes after a rally by President Goodluck Jonathan.
 
 ### [The four remaining original copies of the Magna Carta go on public display at the British Library in London to commemorate the 800th anniversary signing of the document in June 1215. ](/news/2015/02/2/the-four-remaining-original-copies-of-the-magna-carta-go-on-public-display-at-the-british-library-in-london-to-commemorate-the-800th-anniver.md)
-LONDON - The four surviving original Magna Carta copies went on display together Monday for the first time as Britain marks the 800th anniversary of a manuscript which has defined rights and liberties around the world.Considered the cornerstone of freedom, modern democracy, justice and the rule of law, the English document forms the basis for legal systems across the globe, the Universal Declaration of Human Rights and the US constitution.
+LONDON - The four surviving original Magna Carta copies went on display together Monday for the first time as Britain marks the 800th anniversary of a manuscript which has defined rights and liberties around the world.Considered the cornerstone of freedom, modern democracy, justice and the rule of l...
 
 ### [File sharing site Pirate Bay returns online after having been shut down by Swedish authorities in December 2014. ](/news/2015/02/2/file-sharing-site-pirate-bay-returns-online-after-having-been-shut-down-by-swedish-authorities-in-december-2014.md)
 It&#039;s up and running again with a few modifications, though some &#034;staff&#034; aren&#039;t exactly happy about it.

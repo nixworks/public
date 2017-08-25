@@ -13,7 +13,7 @@ _Context: David Yau Yau, Jonglei, South Sudan internal conflict (2011-present)_
 Three people, including a girl aged eight, are killed in Egypt as gunmen open fire on a wedding party outside a Coptic Christian church in Cairo.
 
 ### [Toyota Motor Corporation recalls 885,000 vehicles due to electrical problems that could prevent airbags from deploying. ](/news/2013/10/20/toyota-motor-corporation-recalls-885-000-vehicles-due-to-electrical-problems-that-could-prevent-airbags-from-deploying.md)
-Toyota Motor Co. is recalling 885,000 vehicles worldwide over electrical problems that could prevent airbags from deploying in a crash, the latest in a series of major safety-related actions for the carmaker. About 803,000 of the vehicles covered by the latest recall — a mix of sedans and crossovers — were sold in the United States, according to Toyota.
+Toyota Motor Co. is recalling 885,000 vehicles worldwide over electrical problems that could prevent airbags from deploying in a crash, the latest in a series of major safety-related actions for the carmaker. About 803,000 of the vehicles covered by the latest recall — a mix of sedans and crossove...
 
 ### [Barry O'Farrell, the Premier of the Australian state of New South Wales, declares a state of emergency due to bushfires that have already claimed one life and destroyed hundreds of homes. ](/news/2013/10/20/barry-o-farrell-the-premier-of-the-australian-state-of-new-south-wales-declares-a-state-of-emergency-due-to-bushfires-that-have-already-cl.md)
 A state of emergency is declared in New South Wales as Australian firefighters battle bushfires that are expected to worsen in hot and windy weather.

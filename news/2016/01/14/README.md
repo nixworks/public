@@ -28,7 +28,7 @@ The first January Atlantic hurricane in 61 years, hit the Azores as a tropical s
 _Context: Belo Monte Dam, Brazil, Fundacao Nacional do Indio, Government of Brazil, indigenous Brazilians_
 
 ### [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md)
-The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that killed 11,000 and triggered a global health alert was declared over, with Liberia the last country given the all-clear. The deadliest outbreak in the history of the feared tropical virus wrecked the economies and health systems
+The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that killed 11,000 and triggered a global health alert was declared over, with Liberia the last country given the all-clear. The deadliest outbreak in the history of the feared tropical virus wrecked the economies and health s...
 
 ### [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md)
 _Context: China, North Korea, South Korea, nuclear test_

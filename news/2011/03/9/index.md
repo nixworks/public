@@ -34,7 +34,7 @@ _Context: Honshu Island, Japan, earthquake, tsunami_
 _Context: Bound Brook, Chris Christie, Delaware River, New Jersey, New Jersey Governor, Passaic, Somerset County, state of emergency_
 
 ### [Ice loss from Antarctica and Greenland has accelerated over the past 20 years, according to new research, and will soon become the biggest driver of sea level rise. ](/news/2011/03/9/ice-loss-from-antarctica-and-greenland-has-accelerated-over-the-past-20-years-according-to-new-research-and-will-soon-become-the-biggest-d.md)
-Ice loss from Antarctica and Greenland has accelerated over the last 20 years, research shows, and will soon become the biggest driver of sea level rise. From satellite data and climate models, scientists calculate that the two polar ice sheets are losing enough ice to raise sea levels by 1.3mm each year.
+Ice loss from Antarctica and Greenland has accelerated over the last 20 years, research shows, and will soon become the biggest driver of sea level rise. From satellite data and climate models, scientists calculate that the two polar ice sheets are losing enough ice to raise sea levels by 1.3mm each...
 
 ### [North Korea posts a rare interview with the families of defectors urging them to return home. ](/news/2011/03/9/north-korea-posts-a-rare-interview-with-the-families-of-defectors-urging-them-to-return-home.md)
 _Context: North Korea, North Korean defectors_

@@ -10,7 +10,7 @@ _Context: Afghanistan's, Karachi, Pakistan_
 _Context: Elizabeth II, Sapphire Jubilee_
 
 ### [South Korea's Agricultural Ministry confirms a case of foot-and-mouth disease at a dairy farm in Boeun County. This is the first instance of this disease in the country  since March 29, 2016. ](/news/2017/02/6/south-korea-s-agricultural-ministry-confirms-a-case-of-foot-and-mouth-disease-at-a-dairy-farm-in-boeun-county-this-is-the-first-instance-of.md)
-South Korea confirmed a case of foot-and-mouth disease at a dairy farm, the agriculture ministry in Sejong said Monday. The Ministry of Agriculture, Food and Rural Affairs said that 195 cows at the farm in Boeun, 180 kilometers southeast of Seoul, of North Chungcheong Province, tested positive for the animal disease. Foot-and-mouth disease, which does not affect humans, is often fatal for cloven-hoofed animals, such as cows, sheep and pigs. 
+South Korea confirmed a case of foot-and-mouth disease at a dairy farm, the agriculture ministry in Sejong said Monday. The Ministry of Agriculture, Food and Rural Affairs said that 195 cows at the farm in Boeun, 180 kilometers southeast of Seoul, of North Chungcheong Province, tested positive for t...
 
 ### [Brazilian President Michel Temer deploys the Brazilian Army to the southeastern state of Espirito Santo, where a police strike has led to a wave of violence and looting, including dozens of murders in the state capital, Vitoria. ](/news/2017/02/6/brazilian-president-michel-temer-deploys-the-brazilian-army-to-the-southeastern-state-of-esparito-santo-where-a-police-strike-has-led-to-a.md)
 As many as 50 people have died in crimewave, according to local reports, as Espirito Santo police stopped work over pay dispute amid worst recession

@@ -37,7 +37,7 @@ _Context: Iraq, Najaf, Shi'ite, sectarian conflict_
 _Context: Moldova, Tiraspol, Transnistria_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. ](/news/2006/07/6/israeli-palestinian-conflict-operation-summer-rains-p-idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in.md)
-Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they endanger my son and not send Air Force?&#39; An hour before he was killed, Yehuda sends text message to his sister, says &#39;we are still in al-Atara. Everything is okay. We already killed three, but don’t tell anyone&#39;
+Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they endanger my son and not send Air Force?&#39; An hour before he was killed, Yehuda sends text message to his sister, says &#39;we are still in al-Atara. Everything is okay. We already killed three, but don’t tell anyon...
 
 ## [Previous Day...](/news/2006/07/5/index.md)
 

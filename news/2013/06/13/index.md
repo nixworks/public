@@ -4,7 +4,7 @@
 Navi Pillay, the United Nations human rights chief, said the figure was probably understated and called for an end to the violence.
 
 ### [Greek unions call for a general strike following the closure of public broadcaster ERT. ](/news/2013/06/13/greek-unions-call-for-a-general-strike-following-the-closure-of-public-broadcaster-ert.md)
-Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;strike&#x20;on&#x20;Thursday&#x20;after&#x20;the&#x20;government&#x20;closed&#x20;down&#x20;state&#x20;broadcaster&#x20;ERT&#x20;as&#x20;the&#x20;backlash&#x20;to&#x20;the&#x20;sudden&#x20;move&#x20;threatened&#x20;to&#x20;lead&#x20;to&#x20;political&#x20;instability&#x20;in&#x20;the&#x20;debt-weary&#x20;country.
+Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;strike&#x20;on&#x20;Thursday&#x20;after&#x20;the&#x20;government&#x20;closed&#x20;down&#x20;state&#x20;broadcaster&#x20;ERT&#x20;as&#x20;the&#x20;backlash&#x20;to&#x20;the&#x20;sudden&#x20;move&#x20;threatened&#x20;to&#x20;...
 
 ### [A train collision in Buenos Aires, Argentina, results in three deaths and at least 150 injured. ](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.md)
 _Context: Argentina, Buenos Aires_

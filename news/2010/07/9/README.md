@@ -13,7 +13,7 @@ The UN peacekeeping chief in southern Lebanon appeals for calm, after recent inc
 _Context: Britain, Israel, Lebanon, Mohammad Hussein Fadlallah_
 
 ### [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in ''Rolling Stone'', a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attac.md)
-Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChrystal&#x20;over&#x20;comments&#x20;that&#x20;appeared&#x20;in&#x20;a&#x20;magazine&#x20;article,&#x20;a&#x20;top&#x20;French&#x20;general&#x20;is&#x20;under&#x20;fire&#x20;for&#x20;publicly&#x20;criticising&#x20;the&#x20;US-led&#x20;war&#x20;effort&#x20;in&#x20;Afghanistan,&#x20;reviving&#x20;doubts&#x20;about&#x20;the&#x20;overall&#x20;war&#x20;strategy.
+Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChrystal&#x20;over&#x20;comments&#x20;that&#x20;appeared&#x20;in&#x20;a&#x20;magazine&#x20;article,&#x20;a&#x20;top&#x20;French&#x20;general&#x20;is&#x20;under&#x20;fire&#x20;for&#x20;publicly&#x20;criticising&#x20;the&#x20;...
 
 ### [Guinea's presidential run-off is postponed due to allegations of fraud. ](/news/2010/07/9/guinea-s-presidential-run-off-is-postponed-due-to-allegations-of-fraud.md)
 _Context: Guinea, November's presidential poll_
@@ -76,7 +76,7 @@ The Sheriff&#39;s Department says it is investigating Mel Gibson over a possible
 While we&#39;ve been dutifully eating our fruits and vegetables all these years, a strange thing has been happening to our produce. It&#39;s losing its nutrients. 
 
 ### [19-year-old French sprinter Christophe Lemaitre sets a national record of 9.98 seconds and becomes the first genetic European to run 100 metres in less than 10 seconds. ](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.md)
-A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x20;has&#x20;become&#x20;the&#x20;first&#x20;European&#x20;who&#x20;is&#x20;not&#x20;of&#x20;African&#x20;descent&#x20;to&#x20;run&#x20;100&#x20;metres&#x20;in&#x20;less&#x20;than&#x20;10&#x20;seconds,&#x20;covering&#x20;the&#x20;distance&#x20;in&#x20;just&#x20;9.98&#x20;seconds.
+A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x20;has&#x20;become&#x20;the&#x20;first&#x20;European&#x20;who&#x20;is&#x20;not&#x20;of&#x20;African&#x20;descent&#x20;to&#x20;run&#x20;100&#x20;metres&#x20;in&#x20;less&#x20;than&#x20;10&#x20;seconds,&#x20;covering&#x20;t...
 
 ## [Previous Day...](/news/2010/07/8/index.md)
 

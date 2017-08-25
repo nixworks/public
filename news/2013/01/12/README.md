@@ -4,7 +4,7 @@
 _Context: France, Jean-Yves Le Drian, Mali, Minister of Defence, Northern Mali conflict (2012-present)_
 
 ### [War in Somalia (2009-present):One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009apresent-pone-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md)
-A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#x20;captured&#x20;in&#x20;a&#x20;failed&#x20;French&#x20;commando&#x20;raid&#x20;on&#x20;Saturday&#x20;to&#x20;rescue&#x20;French&#x20;hostage&#x20;Denis&#x20;Allex,&#x20;who&#x20;is&#x20;also&#x20;believed&#x20;to&#x20;have&#x20;died&#x20;in&#x20;the&#x20;operation,&#x20;according&#x20;to&#x20;the&#x20;French&#x20;Defence&#x20;Ministry.
+A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#x20;captured&#x20;in&#x20;a&#x20;failed&#x20;French&#x20;commando&#x20;raid&#x20;on&#x20;Saturday&#x20;to&#x20;rescue&#x20;French&#x20;hostage&#x20;Denis&#x20;Allex,&#x20;who&#x20;is&#x20;also&#x20;believed&#x20;to&#x20;...
 
 ### [Belfast City Hall flag protests:Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-pviolent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-pol.md)
 Twenty-nine police officers are injured in rioting in east Belfast following a loyalist protest over the union flag.

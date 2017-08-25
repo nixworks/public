@@ -28,7 +28,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 The Brazilian authorities say they have rescued 95 farm workers who were being kept in slave-like conditions in two south-eastern states, reports say.
 
 ### [2010 San Bruno pipeline explosion:The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-pthe-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-f.md)
-Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents whose houses have sustained moderate damage may only be allowed back to collect some belongings, said City Manager Connie Jackson.
+Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents wh...
 
 ### [2010 Atlantic hurricane season:Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-phurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md)
 _Context: 2010 Atlantic hurricane season, Atlantic Ocean_

@@ -10,7 +10,7 @@ The U.S. military is testing to see if a chemical agent may have been used in a 
 Volkswagen is facing €8.2bn in damages claims from 1,400 German investors over the emissions scandal, a state court has said.
 
 ### [Heavy rainfall, flooding, and landslides in the Indonesian province of West Java kill at least ten people and leave three others missing. ](/news/2016/09/21/heavy-rainfall-flooding-and-landslides-in-the-indonesian-province-of-west-java-kill-at-least-ten-people-and-leave-three-others-missing.md)
-JAKARTA - Ten people have been killed in flash flooding and landslides in Indonesia, an official said Wednesday, with a search ongoing for three others still missing in the disasters on Java island. Torrential downpours triggered flash flooding in Garut in West Java early Wednesday, which quickly rose to around 2 metres (6.5 feet), national disaster agency spokesman Sutopo Purwo Nugroho said in a statement.
+JAKARTA - Ten people have been killed in flash flooding and landslides in Indonesia, an official said Wednesday, with a search ongoing for three others still missing in the disasters on Java island. Torrential downpours triggered flash flooding in Garut in West Java early Wednesday, which quickly ro...
 
 ### [A migrant boat carrying some 600 passengers capsizes off the coast of Kafr el-Sheikh Governorate, Egypt, killing at least 52 people, with hundreds more missing. ](/news/2016/09/21/a-migrant-boat-carrying-some-600-passengers-capsizes-off-the-coast-of-kafr-el-sheikh-governorate-egypt-killing-at-least-52-people-with-hu.md)
 At least 42 people drown after a migrant boat carrying about 600 passengers capsizes off the Egyptian coast, officials say.

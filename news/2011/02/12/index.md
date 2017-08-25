@@ -1,7 +1,7 @@
 ## [2011-02-12](/news/2011/02/12/index.md)
 
 ### [2010-2011 Algerian protests:Thousands of people, inspired by the Egyptian Revolution of 2011, take to the streets of Algiers to protest against their own regime and to call for the removal of President Abdelaziz Bouteflika. ](/news/2011/02/12/2010a2011-algerian-protests-pthousands-of-people-inspired-by-the-egyptian-revolution-of-2011-take-to-the-streets-of-algiers-to-protest-a.md)
-In&#x20;the&#x20;Algerian&#x20;capital&#x20;of&#x20;Algiers&#x20;on&#x20;Saturday,&#x20;riot&#x20;police&#x20;scuffled&#x20;with&#x20;anti-government&#x20;protesters&#x20;who&#x20;were&#x20;defying&#x20;a&#x20;ban&#x20;on&#x20;demonstrations,&#x20;inspired&#x20;by&#x20;recent&#x20;historic&#x20;events&#x20;in&#x20;Tunisia&#x20;and&#x20;Egypt.
+In&#x20;the&#x20;Algerian&#x20;capital&#x20;of&#x20;Algiers&#x20;on&#x20;Saturday,&#x20;riot&#x20;police&#x20;scuffled&#x20;with&#x20;anti-government&#x20;protesters&#x20;who&#x20;were&#x20;defying&#x20;a&#x20;ban&#x20;on&#x20;demonstrations,&#x20;inspired&#x20;by&#x20;recent&#x20;historic&#x20;even...
 
 ### [2011 Yemeni protests:Thousands of anti-government protesters gather in Sana'a calling for the resignation of President Ali Abdullah Saleh, who has ruled the country since 1978. ](/news/2011/02/12/2011-yemeni-protests-pthousands-of-anti-government-protesters-gather-in-sana-a-calling-for-the-resignation-of-president-ali-abdullah-saleh.md)
 Anti-government protesters have taken to the streets of Yemen, calling for an end to the rule of President Ali Abdallah Saleh, who has been in power since 1978.

@@ -28,7 +28,7 @@ American International Group Inc (AIG.N) shareholders won approval on Friday of 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A solar eclipse, a vernal (for those living in the northern hemisphere) and autumnal (for those in the southern hemisphere) equinox, and a Supermoon will all occur today. ](/news/2015/03/20/a-solar-eclipse-a-vernal-for-those-living-in-the-northern-hemisphere-and-autumnal-for-those-in-the-southern-hemisphere-equinox-and-a-s.md)
-A solar eclipse will pass over Britain on Friday, covering the country in darkness as the moon moves in front of the sun. But it’s important to be sure when and how exactly to watch it — getting the wrong time could mean not getting to see the rare celestial phenomenon, but watching it wrongly could damage your eyes permanently.
+A solar eclipse will pass over Britain on Friday, covering the country in darkness as the moon moves in front of the sun. But it’s important to be sure when and how exactly to watch it — getting the wrong time could mean not getting to see the rare celestial phenomenon, but watching it wrongly c...
 
 ### [The United States Food and Drug Administration approves genetically modified potatoes and apples. ](/news/2015/03/20/the-united-states-food-and-drug-administration-approves-genetically-modified-potatoes-and-apples.md)
 Genetically modified apples and potatoes approved by FDA

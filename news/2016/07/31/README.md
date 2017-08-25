@@ -25,7 +25,7 @@ Former environment minister Yuriko Koike of the Liberal Democratic Party was ele
 U.S. Democratic presidential candidate Hillary Clinton said Russian intelligence services hacked into Democratic National Committee computers and she accused Republican contender Donald Trump of showing support for Russian President Vladimir Putin.
 
 ### [Thousands of people protest in the capital Kinshasa after the national electoral commission decides to postpone the election. ](/news/2016/07/31/thousands-of-people-protest-in-the-capital-kinshasa-after-the-national-electoral-commission-decides-to-postpone-the-election.md)
-Congo&#x2019;s&#x20;veteran&#x20;opposition&#x20;chief&#x20;Etienne&#x20;Tshisekedi&#x20;on&#x20;Sunday&#x20;called&#x20;for&#x20;elections&#x20;to&#x20;be&#x20;held&#x20;this&#x20;year&#x20;and&#x20;for&#x20;President&#x20;Joseph&#x20;Kabila&#x20;to&#x20;step&#x20;down&#x20;as&#x20;scheduled&#x20;on&#x20;December&#x20;20.
+Congo&#x2019;s&#x20;veteran&#x20;opposition&#x20;chief&#x20;Etienne&#x20;Tshisekedi&#x20;on&#x20;Sunday&#x20;called&#x20;for&#x20;elections&#x20;to&#x20;be&#x20;held&#x20;this&#x20;year&#x20;and&#x20;for&#x20;President&#x20;Joseph&#x20;Kabila&#x20;to&#x20;step&#x20;down&#x20;as&#x20;scheduled&#x20;o...
 
 ## [Previous Day...](/news/2016/07/30/index.md)
 

@@ -13,7 +13,7 @@ _Context: Dubai International Film Festival_
 Hundreds of small investors throw bricks and march in the streets of the Bangladeshi capital Dhaka, after the stock exchange saw its steepest ever fall in a day.
 
 ### [60 Minutes, an influential news program, runs a segment with Meredith Whitney a bank analyst credited with a timely bearish call in 2008, in which she predicts hundreds of millions of dollars worth of defaults by U.S. municipalities. ](/news/2010/12/19/60-minutes-an-influential-news-program-runs-a-segment-with-meredith-whitney-a-bank-analyst-credited-with-a-timely-bearish-call-in-2008-in.md)
-In an interview broadcast on &ldquo;60 Minutes&rdquo; Sunday night, Whitney, who runs the Meredith Whitney Advisory Group, argued that the $3 trillion municipal bond market faces the immediate threat of hundreds of billions of dollars in defaults. That notion has put the investment community on the defensive Monday, as bankers and analysts scramble to reassure investors and clients that the market isn&rsquo;t about to fall to pieces. 
+In an interview broadcast on &ldquo;60 Minutes&rdquo; Sunday night, Whitney, who runs the Meredith Whitney Advisory Group, argued that the $3 trillion municipal bond market faces the immediate threat of hundreds of billions of dollars in defaults. That notion has put the investment community on the ...
 
 ### [At least 28 people are killed and dozens more are injured following an explosion on a PEMEX oil pipeline in San Martin Texmelucan, Puebla, Mexico. ](/news/2010/12/19/at-least-28-people-are-killed-and-dozens-more-are-injured-following-an-explosion-on-a-pemex-oil-pipeline-in-san-martan-texmelucan-puebla.md)
 At least 28 people have been killed and many injured in an explosion on an oil pipeline in central Mexico, officials say.
@@ -43,7 +43,7 @@ _Context: 250,000 documents, Julian Assange, The Guardian, WikiLeaks, sexual ass
 Venezuela reiterates its opposition to the man likely to become the next US ambassador and vows to send him home.
 
 ### [Cote d'Ivoire:The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-pthe-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the.md)
-UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;President&#x20;Laurent&#x20;Gbagbo&#x27;s&#x20;demand&#x20;to&#x20;withdraw&#x20;peacekeepers&#x20;after&#x20;the&#x20;UN&#x20;backed&#x20;Gbagbo&#x27;s&#x20;rival&#x20;as&#x20;the&#x20;winner&#x20;of&#x20;a&#x20;Nov.&#x20;28&#x20;presidential&#x20;vote.
+UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;President&#x20;Laurent&#x20;Gbagbo&#x27;s&#x20;demand&#x20;to&#x20;withdraw&#x20;peacekeepers&#x20;after&#x20;the&#x20;UN&#x20;backed&#x20;Gbagbo&#x27;s&#x20;rival&#x20;as&#x20;the&#x20;winner&#x20;of&#x20;a&#x20;Nov.&#x20;...
 
 ### [A United Nations Security Council meeting regarding the situation in the Korean Peninsula ends without agreement. ](/news/2010/12/19/a-united-nations-security-council-meeting-regarding-the-situation-in-the-korean-peninsula-ends-without-agreement.md)
 The U.N. Security Council met in emergency session on Sunday to try to cool tensions on the Korean Peninsula, but the five big powers were split on whether to publicly blame North Korea for the crisis.

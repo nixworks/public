@@ -22,7 +22,7 @@ _Context: McGill station, Montreal Metro_
 _Context: Greek, Peloponnese, Wildfire_
 
 ### [ A U.S. circuit judge sentences John Couey to death for the rape and murder of a 9-year-old girl Jessica Lunsford in Citrus County, Florida. ](/news/2007/08/24/a-u-s-circuit-judge-sentences-john-couey-to-death-for-the-rape-and-murder-of-a-9-year-old-girl-jessica-lunsford-in-citrus-county-florida.md)
-A Florida judge this afternoon sentenced sex offender John Evander Couey to die for the brutal 2005 rape and murder of 9-year-old Jessica Lunsford. &quot;Sentencing is about a final accounting, it is a closure, it is a reckoning,&quot; Circuit Judge Richard Howard said at a sentencing hearing this afternoon...
+A Florida judge this afternoon sentenced sex offender John Evander Couey to die for the brutal 2005 rape and murder of 9-year-old Jessica Lunsford. &quot;Sentencing is about a final accounting, it is a closure, it is a reckoning,&quot; Circuit Judge Richard Howard said at a sentencing hearing this a...
 
 ### [ Russia sells Venezuela 98 Ilyushin Il-114 aircraft. ](/news/2007/08/24/russia-sells-venezuela-98-ilyushin-il-114-aircraft.md)
 _Context: Ilyushin Il-114, Russia, Venezuela_

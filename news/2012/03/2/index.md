@@ -37,7 +37,7 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 _Context: Avicii, Ericsson Globe Arena, Stockholm, Sweden_
 
 ### [The Indian Intelligence Bureau launches an inquiry into whether the office of Defence Minister A. K. Antony had been bugged. ](/news/2012/03/2/the-indian-intelligence-bureau-launches-an-inquiry-into-whether-the-office-of-defence-minister-a-k-antony-had-been-bugged.md)
-The Defence Ministry has denied that Defence Minister AK Antony&#039;s office was being bugged, saying an investigation into &quot;inconsistencies&quot; found during a routine sweep has turned up no proof of any bugging device. In a terse press release issued this afternoon, the government said, &quot;Reports of &#039;bugging&#039; in South Block in a section of the media is hereby denied. Routine checks are conducted in the offices of Raksha Mantri and other officers in South Block. Nothing has been found in these checks.&quot;
+The Defence Ministry has denied that Defence Minister AK Antony&#039;s office was being bugged, saying an investigation into &quot;inconsistencies&quot; found during a routine sweep has turned up no proof of any bugging device. In a terse press release issued this afternoon, the government said, &qu...
 
 ### [The International Criminal Court issues an arrest warrant for Abdelrahim Mohamed Hussein, Sudan's Defence Minister, on war crimes charges in connection to Darfur. ](/news/2012/03/2/the-international-criminal-court-issues-an-arrest-warrant-for-abdelrahim-mohamed-hussein-sudan-s-defence-minister-on-war-crimes-charges-in.md)
 _Context: Abdelrahim Mohamed Hussein, Darfur, International Criminal Court, Sudan, war crimes_

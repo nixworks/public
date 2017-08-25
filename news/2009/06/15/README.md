@@ -4,7 +4,7 @@
 Mousavi tells tens of thousands of supporters he will stand if new polls are called.
 
 ### [ Lee Myung-bak, South Korea's president,  meets U.S. President Barack Obama in Washington to talk about North Korea. ](/news/2009/06/15/lee-myung-bak-south-korea-s-president-meets-u-s-president-barack-obama-in-washington-to-talk-about-north-korea.md)
-South Korea&#8217;s president ordered his top security officials Sunday to deal &#8220;resolutely and squarely&#8221; with new North Korean warnings of a nuclear war on the eve of his U.S. visit. In Washington, Vice President Joseph R. Biden Jr. said &#8220;God only knows&#8221; what North Korea wants from the latest showdown.
+South Korea&#8217;s president ordered his top security officials Sunday to deal &#8220;resolutely and squarely&#8221; with new North Korean warnings of a nuclear war on the eve of his U.S. visit. In Washington, Vice President Joseph R. Biden Jr. said &#8220;God only knows&#8221; what North Korea wan...
 
 ### [ Pierre Ngaiohni is elected Vice President of New Caledonia. ](/news/2009/06/15/pierre-ngaiohni-is-elected-vice-president-of-new-caledonia.md)
 _Context: New Caledonia, Pierre Ngaiohni, Vice President_

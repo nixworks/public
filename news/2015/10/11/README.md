@@ -19,7 +19,7 @@ Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in north
 _Context: Abu Bakr al-Baghdadi, Anbar province, Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant, Syria_
 
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
-Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Saudi-led coalition bombed a prison in Yemen&#x27;s al-Bayda province on Sunday, medical sources and witnesses said. The prison which held more than 100 prisoners was controlled by the Shia Houthi group, the sources said, adding
+Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Saudi-led coalition bombed a prison in Yemen&#x27;s al-Bayda province on Sunday, medical sources and witnesses said. The prison which held more than 100 prisoners was controlled by the Shia Houthi group, the sources said, a...
 
 ### [South Africa plans to leave the International Criminal Court (ICC) as the government faces criticism for, earlier this year, ignoring a court order to arrest Sudan's president. ](/news/2015/10/11/south-africa-plans-to-leave-the-international-criminal-court-icc-as-the-government-faces-criticism-for-earlier-this-year-ignoring-a-cour.md)
 _Context: International Criminal Court, South Africa, Sudan_
@@ -31,7 +31,7 @@ A judiciary spokesman gave no other details beyond the terse statement of a ruli
 Two men, including an on-duty police officer, die in a shooting in the Republic of Ireland.
 
 ### [A 15-hour protest about police-related deaths, in Thalang on Thailand's Phuket Island in the Andaman Sea,  turned into a riot when the crowd  attacked the  Thalang Police Station with rocks and fire bombs. Two young men were killed in a motorcycle crash while being chased by police.  Fourteen police were injured, nine cars were torched, 13 others and five motorcycles damaged. While numerous people were inconvenienced by the blockade, a heart attack patient died on his way to Thalang Hospital when the  ambulance couldn't get through the crowd. ](/news/2015/10/11/a-15-hour-protest-about-police-related-deaths-in-thalang-on-thailand-s-phuket-island-in-the-andaman-sea-turned-into-a-riot-when-the-crowd.md)
-Local residents in Phuket have attacked a police station on the island after riots erupted over the deaths of two young men who were killed in a collision with a police car on Saturday. Fox News reports that the recently deceased were on a motorcycle when local authorities initiated the deadly pursuit &#8212; a pursuit [&hellip;]
+Local residents in Phuket have attacked a police station on the island after riots erupted over the deaths of two young men who were killed in a collision with a police car on Saturday. Fox News reports that the recently deceased were on a motorcycle when local authorities initiated the deadly pursu...
 
 ### [Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. ](/news/2015/10/11/belarussian-president-alexander-lukashenko-won-a-fifth-term-by-a-landslide-in-today-s-election.md)
 _Context: Alexander Lukashenko, Belarusian presidential election, 2015, Belarussian President_

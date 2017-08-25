@@ -28,7 +28,7 @@ _Context: North Korea, South Korea, Yonhap, submarine-launched ballistic missile
 Soldiers in Macedonia began erecting a metal fence on Saturday on the country&#039;s southern border with Greece. 
 
 ### [The Commonwealth Heads of Government meeting in Malta calls for an ambitious and legally binding outcome at the 2015 United Nations Climate Change Conference. ](/news/2015/11/28/the-commonwealth-heads-of-government-meeting-in-malta-calls-for-an-ambitious-and-legally-binding-outcome-at-the-2015-united-nations-climate.md)
-The Commonwealth on Saturday pledged itself towards an &quot;ambitious&quot;, legally-binding outcome from the world climate change summit, saying it was &quot;deeply concerned&quot; about the disproportionate threat to its most vulnerable members. Leaders from the 53-country family, which represents
+The Commonwealth on Saturday pledged itself towards an &quot;ambitious&quot;, legally-binding outcome from the world climate change summit, saying it was &quot;deeply concerned&quot; about the disproportionate threat to its most vulnerable members. Leaders from the 53-country family, which represent...
 
 ### [Colorado Springs Police Chief Peter Carey says all nine of the injured - five police officers and four civilians - are listed in good condition at area hospitals. ](/news/2015/11/28/colorado-springs-police-chief-peter-carey-says-all-nine-of-the-injured-a-five-police-officers-and-four-civilians-a-are-listed-in-good-co.md)
 The 57-year-old man with a bushy white beard who is suspected of killing three people in a shooting rampage at a Planned Parenthood clinic in Colorado has a history of brushes with the law, including a &quot;peeping Tom&quot; complaint in his home state of South Carolina.

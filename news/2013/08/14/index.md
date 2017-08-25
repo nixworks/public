@@ -34,7 +34,7 @@ _Context: 2013 Korean crisis, Kaesong area, North Korea, South Korea_
 _Context: San Francisco Police Department, ecstasy_
 
 ### [A group of researchers led by a team at the University of Milan unveils a device which uses a magnetic pulse to stimulate the brain and measure the resulting electrical waves in order to more accurately assess the remaining level of brain function and consciousness in brain-damaged individuals. ](/news/2013/08/14/a-group-of-researchers-led-by-a-team-at-the-university-of-milan-unveils-a-device-which-uses-a-magnetic-pulse-to-stimulate-the-brain-and-meas.md)
-It can be hard for doctors to tell if someone who is severely brain injured and not responding has any lingering awareness. Now researchers have created a tool to peek inside the brain and measure varying levels of consciousness. The work reported Wednesday is highly experimental, not ready for bedside use yet.
+It can be hard for doctors to tell if someone who is severely brain injured and not responding has any lingering awareness. Now researchers have created a tool to peek inside the brain and measure varying levels of consciousness. The work reported Wednesday is highly experimental, not ready for beds...
 
 ### [Nova Delphinus 2013, now visible to the naked eye in dark sky conditions, is reported in the constellation Delphinus by amateur astronomer Koichi Itagaki. ](/news/2013/08/14/nova-delphinus-2013-now-visible-to-the-naked-eye-in-dark-sky-conditions-is-reported-in-the-constellation-delphinus-by-amateur-astronomer-k.md)
 _Context: Delphinus, Nova Delphinus 2013, amateur astronomer_

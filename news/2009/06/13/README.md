@@ -13,7 +13,7 @@ Pyongyang threatens increased nuclear activity and military action after UN vote
 _Context: China, Terracotta Army_
 
 ### [ The planned launch of Space Shuttle ''Endeavour'' is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md)
-NASA.gov brings you images, videos and interactive features from the unique perspective of America&rsquo;s space agency. Get the latest updates on NASA missions, subscribe to blogs, RSS feeds and podcasts, watch NASA TV live, or simply read about our mission to pioneer the future in space exploration, scientific discovery and aeronautics research.
+NASA.gov brings you images, videos and interactive features from the unique perspective of America&rsquo;s space agency. Get the latest updates on NASA missions, subscribe to blogs, RSS feeds and podcasts, watch NASA TV live, or simply read about our mission to pioneer the future in space exploratio...
 
 ### [ Pakistani warplanes strike a stronghold of Taliban leader Baitullah Mehsud in South Waziristan. ](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.md)
 * Aircraft bomb stronghold of Pakistani Taliban leader Mehsud * U.S. officials see Pakistani operation in South Waziristan * President Zardari vow

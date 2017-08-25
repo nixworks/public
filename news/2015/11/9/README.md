@@ -4,7 +4,7 @@
 A Jordanian policeman opens fire at a police training centre outside Amman, killing two Americans, a South African and two Jordanians, officials say.
 
 ### [The government of Chad declares a state of emergency in the Lake Chad area a day after a double suicide bombing that has killed two people. ](/news/2015/11/9/the-government-of-chad-declares-a-state-of-emergency-in-the-lake-chad-area-a-day-after-a-double-suicide-bombing-that-has-killed-two-people.md)
-N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergency in the flashpoint Lake Chad region Monday, which also straddles Nigeria, Cameroon and Niger and is frequently targeted by Boko Haram Islamists. The announcement came as two female suicide bombers staged a fresh attack on
+N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergency in the flashpoint Lake Chad region Monday, which also straddles Nigeria, Cameroon and Niger and is frequently targeted by Boko Haram Islamists. The announcement came as two female suicide bombers staged a fresh attack ...
 
 ### [Using social media, Russian investigative bloggers from the Conflict Intelligence Team photo-geolocate three Russian military personnel outside expected air support operations areas -- evidence of what the group says may be a broader Russian military role in Syria. ](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.md)
 _Context: Russia, Russian military, Russian military intervention in the Syrian Civil War, Syria, Syrian Civil War, air support, blogger, photo-geolocate, social media_
@@ -16,13 +16,13 @@ University of Missouri system president Tim Wolfe resigned Monday amid student p
 _Context: Amedeo Modigliani, Christie's, Nu couche_
 
 ### [The German airline Lufthansa suspends 929 flights leaving 113,000 passengers stranded as a result of a cabin crew strike. ](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.md)
-Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, grounding 113,000 passengers as cabin crew expanded their strike, and the walkout was set to continue despite a new offer from the company. The action, in its third day, is expected to last a week, becoming the longest in Lufthansa
+Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, grounding 113,000 passengers as cabin crew expanded their strike, and the walkout was set to continue despite a new offer from the company. The action, in its third day, is expected to last a week, becoming the longest in Lufth...
 
 ### [Cyclone Megh had sustained winds of 204 km/h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md)
 Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on Sunday.
 
 ### [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md)
-Slovenian government said Monday it would take urgent measures to strengthen control of its Schengen border with Croatia, fearing an expected new wave of migrants would be scarcely manageable. &quot;The government has prepared additional urgent measures to manage the migrants&#x27; flow, including the
+Slovenian government said Monday it would take urgent measures to strengthen control of its Schengen border with Croatia, fearing an expected new wave of migrants would be scarcely manageable. &quot;The government has prepared additional urgent measures to manage the migrants&#x27; flow, including t...
 
 ### [Human Rights Watch releases a report finding, because of  a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the  Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400.md)
 _Context: Human Rights Watch, Syria, Syrian Civil War, Turkey, Turkish government, Turkish schooling system_

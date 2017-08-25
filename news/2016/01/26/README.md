@@ -1,7 +1,7 @@
 ## [2016-01-26](/news/2016/01/26/index.md)
 
 ### [A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-checkpoint-in-the-city-of-homs-kills-at-least-22-people-including-around-a-dozen-soldiers-the.md)
-Syrian pro-government forces captured a strategic southern rebel town close to the Jordanian border after weeks of fighting, a monitor said on Tuesday. The Syrian Observatory for Human Rights said regime troops and allied militia including fighters from Lebanon&#x27;s Hezbollah movement and Iranian officers
+Syrian pro-government forces captured a strategic southern rebel town close to the Jordanian border after weeks of fighting, a monitor said on Tuesday. The Syrian Observatory for Human Rights said regime troops and allied militia including fighters from Lebanon&#x27;s Hezbollah movement and Iranian ...
 
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
 _Context: Afghanistan's, Islamic State of Iraq and the Levant, Nangarhar Province, War in Afghanistan (2015-present)_

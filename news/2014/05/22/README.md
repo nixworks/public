@@ -1,7 +1,7 @@
 ## [2014-05-22](/news/2014/05/22/index.md)
 
 ### [2014 pro-Russian unrest in Ukraine:At least 11 Ukrainian Army soldiers are killed and 30 injured when pro-Russian separatists attack a military checkpoint. ](/news/2014/05/22/2014-pro-russian-unrest-in-ukraine-pat-least-11-ukrainian-army-soldiers-are-killed-and-30-injured-when-pro-russian-separatists-attack-a-mili.md)
-Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhansk declared their independence from Ukraine after holding dubious separatist referendums on the same day. Since then, the Ukrainian military has attempted to wrestle control of Luhansk and Donetsk Oblasts from Kremlin-backed rebels. The Ukrainian government in Kyiv is attempting to stablilize its eastern regions in anticipation of the May 25 presidential election, the country&#039;s first since the EuroMaidan Revolution toppled former President Viktor Yanukovych. &nbsp;
+Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhansk declared their independence from Ukraine after holding dubious separatist referendums on the same day. Since then, the Ukrainian military has attempted to wrestle control of Luhansk and Donetsk Oblasts from Kremlin-bac...
 
 ### [Korean maritime border incidents:South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-psouth-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy-s.md)
 _Context: Korean maritime border incidents, South Korean Navy_

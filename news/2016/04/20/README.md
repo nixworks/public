@@ -46,7 +46,7 @@ _Context: European Council, European Parliament, European Union, Ukraine, Ukrain
 NATO has reopened informal talks with Russia for the first time in nearly two years. Diplomats met for over 90 minutes to discuss Ukraine and the
 
 ### [The United Kingdom's Foreign Office issues a travel advisory for gay people concerning travel to parts of the United States due to new legislation in North Carolina and Mississippi.  ](/news/2016/04/20/the-united-kingdom-s-foreign-office-issues-a-travel-advisory-for-gay-people-concerning-travel-to-parts-of-the-united-states-due-to-new-legis.md)
-The UK Government is warning gay people about travelling to parts of the US after two states introduced anti-gay laws. The Foreign Office ;issued the new advice for the lesbian, gay, bisexual and transgender (LGBT) community in the wake of new legislation in North Carolina and Mississippi. Previously, the Foreign Office had only issued general advice for LGBT people to &quot;take care abroad&quot;, but lacked specific information about the US.
+The UK Government is warning gay people about travelling to parts of the US after two states introduced anti-gay laws. The Foreign Office ;issued the new advice for the lesbian, gay, bisexual and transgender (LGBT) community in the wake of new legislation in North Carolina and Mississippi. Previousl...
 
 ### [A women's rights group files a lawsuit in the Philippine Commission on Human Rights against Rodrigo Duterte for his rape remarks. ](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.md)
 _Context: Commission on Human Rights, Rodrigo Duterte, rape_

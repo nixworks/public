@@ -19,7 +19,7 @@ _Context: Metro-North Railroad, Spuyten Duyvil, derailment, the Bronx_
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
 ### [Comet ISON breaks up into a cloud of debris after skimming the Sun. ](/news/2013/12/1/comet-ison-breaks-up-into-a-cloud-of-debris-after-skimming-the-sun.md)
-Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, but this time it looks like the real thing.Remnants of the object once touted as the &quot;comet of the century&quot; passed through the viewing field of the Solar and Heliospheric Observatory in the wake of Thursday&#x27;s close encounter with the sun — and as it passed, the bright spot that survived grew dimmer and dimmer.
+Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, but this time it looks like the real thing.Remnants of the object once touted as the &quot;comet of the century&quot; passed through the viewing field of the Solar and Heliospheric Observatory in the wake of Thursday&#x2...
 
 ### [China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. ](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.md)
 _Context: Chang'e 3, China, Jade Rabbit, lander, rover_

@@ -7,7 +7,7 @@ _Context: ISIL, Koban, Military intervention against ISIL, YPG_
 Jabhat al-Nusra, al-Qaeda&#039;s Syria branch, shot dead at least 20 members of the minority sect in the north of the country, where it has reportedly forced hundreds to convert to Sunni Islam
 
 ### [Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attacks.md)
-Boko Haram gunmen killed at least 43 people and burnt down three villages in northeast Nigeria, residents told AFP Thursday, the latest in an upsurge of attacks by the Islamist militants. Dozens of rebels on motorcycles stormed Matangale, Buraltima and Dirmanti in restive Borno state on Tuesday, opening
+Boko Haram gunmen killed at least 43 people and burnt down three villages in northeast Nigeria, residents told AFP Thursday, the latest in an upsurge of attacks by the Islamist militants. Dozens of rebels on motorcycles stormed Matangale, Buraltima and Dirmanti in restive Borno state on Tuesday, ope...
 
 ### [A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-with-palestinian-sources-indicating-it.md)
 Sirens heard in southern Israel as missile fire pierces calm for fourth time in recent weeks; IDF says missile may have hit house in Gaza

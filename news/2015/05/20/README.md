@@ -22,7 +22,7 @@ The operator of an underground pipeline that ruptured and released up to 105,000
 _Context: 2015 Colombian landslide, Salgar_
 
 ### [Antigua and Barbuda recognizes the independence of Kosovo. ](/news/2015/05/20/antigua-and-barbuda-recognizes-the-independence-of-kosovo.md)
-The host of the ceremony, the Mayor of Ulqin, Fatmir Gjeka, said that the presence of two prominent figures of Kosovo and Albania is making the day of Ulqin even more glorious, which marks the end of the collection of olives, the emergence of seafarers in the sea and the beginning of the tourist season. \&quot;As a token of appreciation and reverence for the historic role in promoting peace and dialogue among the peoples of the Balkans, close neighborly relations between Kosovo and Montenegro,...
+The host of the ceremony, the Mayor of Ulqin, Fatmir Gjeka, said that the presence of two prominent figures of Kosovo and Albania is making the day of Ulqin even more glorious, which marks the end of the collection of olives, the emergence of seafarers in the sea and the beginning of the tourist sea...
 
 ### [South East Asian migrant crisisThe foreign ministers of Indonesia, Malaysia and Thailand meet in Kuala Lumpur to discuss people smuggling and the migrant crisis. Malaysia and Indonesia agree to accept asylum seekers providing that they can be resettled or repatriated within a year. ](/news/2015/05/20/south-east-asian-migrant-crisispthe-foreign-ministers-of-indonesia-malaysia-and-thailand-meet-in-kuala-lumpur-to-discuss-people-smuggling-a.md)
 PUTRAJAYA - Foreign ministers from Malaysia, Indonesia and Thailand held talks in Kuala Lumpur on Wednesday on human trafficking.. Read more at straitstimes.com.

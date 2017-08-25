@@ -19,7 +19,7 @@ _Context: North Caucasus, Russian Army_
 _Context: Dakar, Senegalese police, elected_
 
 ### [The funeral of American entertainer Whitney Houston is held at the New Hope Baptist Church in Newark, New Jersey. ](/news/2012/02/18/the-funeral-of-american-entertainer-whitney-houston-is-held-at-the-new-hope-baptist-church-in-newark-new-jersey.md)
-The New Hope Baptist Church, where pop star Whitney Houston first sang and family and friends will gather on Saturday to pay her a final tribute, sits in a hardscrabble corner of Newark, New Jersey. Its well-maintained red-brick facade seems at odds with the dusty parking lot and derelict housing projects around it.
+The New Hope Baptist Church, where pop star Whitney Houston first sang and family and friends will gather on Saturday to pay her a final tribute, sits in a hardscrabble corner of Newark, New Jersey. Its well-maintained red-brick facade seems at odds with the dusty parking lot and derelict housing pr...
 
 ### [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md)
 _Context: Cardinal, Pope Benedict XVI, Roman Catholic Church_

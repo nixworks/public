@@ -1,7 +1,7 @@
 ## [2015-12-5](/news/2015/12/5/index.md)
 
 ### [The Government of Iraq calls on Turkey to withdraw its troops from northern Iraq, near the Islamic State-controlled city of Mosul. Iraq's Foreign Ministry said Turkish forces had entered Iraqi territory without the knowledge of the central government in Baghdad. ](/news/2015/12/5/the-government-of-iraq-calls-on-turkey-to-withdraw-its-troops-from-northern-iraq-near-the-islamic-state-controlled-city-of-mosul-iraq-s-fo.md)
-Baghdad demanded Saturday the immediate withdrawal of forces it said Turkey illegally sent into Iraq, which is struggling to assert its sovereignty while receiving foreign assistance against the Islamic State group. Turkish Prime Minister Ahmet Davutoglu played down the military activity as &quot;routine
+Baghdad demanded Saturday the immediate withdrawal of forces it said Turkey illegally sent into Iraq, which is struggling to assert its sovereignty while receiving foreign assistance against the Islamic State group. Turkish Prime Minister Ahmet Davutoglu played down the military activity as &quot;ro...
 
 ### [Three suicide bombers at Lake Chad kill at least 30 people and injure at least 80 others. Three women carried out the attack at a weekly market on an island on the Chadian side of the lake. No group claims responsibility; officials suspect the attacks were carried out by members of the Boko Haram militant group from neighboring Nigeria. ](/news/2015/12/5/three-suicide-bombers-at-lake-chad-kill-at-least-30-people-and-injure-at-least-80-others-three-women-carried-out-the-attack-at-a-weekly-mar.md)
 Three suicide attacks have hit an island on Lake Chad, killing at least 27 people, security sources say.

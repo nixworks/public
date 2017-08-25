@@ -10,7 +10,7 @@ _Context: 2016 Russian Defence Ministry Tupolev Tu-154 crash, Black Sea_
 _Context: China, Sao Tome and Principe, Taiwan_
 
 ### [ CHP MP Ozturk Yilmaz says Turkey has expressed its readiness to work with president Assad of Syria. ](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.md)
-Commenting on the recent trilateral meeting between Russia, Turkey and Iran on the Syrian crisis and the resulting joint statement on reviving the political process to end the conflict, Turkish opposition politician Öztürk Yılmaz noted to Sputnik that it is the first time Turkey has openly voiced its readiness to work with President Assad.
+Commenting on the recent trilateral meeting between Russia, Turkey and Iran on the Syrian crisis and the resulting joint statement on reviving the political process to end the conflict, Turkish opposition politician Öztürk Yılmaz noted to Sputnik that it is the first time Turkey has openly voiced...
 
 ### [Researchers at the SLAC National Accelerator Laboratory find a way to make thinner electrical wires that measure just three atoms wide. ](/news/2016/12/26/researchers-at-the-slac-national-accelerator-laboratory-find-a-way-to-make-thinner-electrical-wires-that-measure-just-three-atoms-wide.md)
 SLAC National Accelerator Laboratory is a U.S. Department of Energy (DOE) Office of Science laboratory operated by Stanford University.

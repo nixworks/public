@@ -25,7 +25,7 @@ Turkey ordered the detention of 42 journalists on Monday, broadcaster NTV report
 Democrats are kicking off their convention with a prime-time lineup of some of the party&apos;s biggest names. At least the biggest names wh...
 
 ### [Opposition leader Sam Rainsy criticizes Cambodian autocrat Hun Sen for trying to split up the Cambodian National Rescue Party, the second largest party in parliament. ](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodian-autocrat-hun-sen-for-trying-to-split-up-the-cambodian-national-rescue-party-the-second-la.md)
-Opposition leader-in-exile Sam Rainsy took to the airwaves over the weekend to detail what he said was Prime Minister Hun Sen’s direct involvement in attempts to split the CNRP. In an interview with Radio Free Asia aired on Saturday, Rainsy said that the premier had at various points courted both himself and his deputy, Kem Sokha.
+Opposition leader-in-exile Sam Rainsy took to the airwaves over the weekend to detail what he said was Prime Minister Hun Sen’s direct involvement in attempts to split the CNRP. In an interview with Radio Free Asia aired on Saturday, Rainsy said that the premier had at various points courted both ...
 
 ## [Previous Day...](/news/2016/07/24/index.md)
 

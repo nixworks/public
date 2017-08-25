@@ -4,7 +4,7 @@
 French-led troops in Mali have entered the historic city of Timbuktu, after capturing the airport from militant Islamists, a French army officer says.
 
 ### [Swedish comedian and television host Petra Mede is announced as presenter for the Eurovision Song Contest 2013 in Malmo. ](/news/2013/01/28/swedish-comedian-and-television-host-petra-mede-is-announced-as-presenter-for-the-eurovision-song-contest-2013-in-malmap.md)
-[cft format=0] SVT, host broadcaster of Eurovision 2013, has announced that Petra Mede will be in charge of hosting the upcoming contest this May which will run over a total of three nights, on May 14th, 16th and 18th. After Loreen&#8217;s Euphoric victory in Baku, SVT won the right to host the 2013 edition of &hellip;
+[cft format=0] SVT, host broadcaster of Eurovision 2013, has announced that Petra Mede will be in charge of hosting the upcoming contest this May which will run over a total of three nights, on May 14th, 16th and 18th. After Loreen&#8217;s Euphoric victory in Baku, SVT won the right to host the 2013...
 
 ### [The Boomtown Rats reform for Isle of Wight festival, their first show since 1986. ](/news/2013/01/28/the-boomtown-rats-reform-for-isle-of-wight-festival-their-first-show-since-1986.md)
 _Context: Isle of Wight, The Boomtown Rats_

@@ -37,7 +37,7 @@ North Korea called on its people to rally behind new leader Kim Jong-un and prot
 Nigerian authorities scrapped fuel subsidies with immediate effect on Sunday, prompting unions to call for a repeat of the strikes and street protests that thwarted previous attempts to end the scheme.
 
 ### [Egypt's military rulers bring forward elections for the Shura Council, the upper house of the Parliament to expedite progress in developing a new constitution. ](/news/2012/01/1/egypt-s-military-rulers-bring-forward-elections-for-the-shura-council-the-upper-house-of-the-parliament-to-expedite-progress-in-developing.md)
-Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&#x20;forward&#x20;the&#x20;date&#x20;of&#x20;final&#x20;run-offs&#x20;for&#x20;elections&#x20;to&#x20;the&#x20;upper&#x20;house,&#x20;in&#x20;the&#x20;face&#x20;of&#x20;pressure&#x20;to&#x20;speed&#x20;up&#x20;the&#x20;handover&#x20;of&#x20;power&#x20;to&#x20;civilian&#x20;control.
+Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&#x20;forward&#x20;the&#x20;date&#x20;of&#x20;final&#x20;run-offs&#x20;for&#x20;elections&#x20;to&#x20;the&#x20;upper&#x20;house,&#x20;in&#x20;the&#x20;face&#x20;of&#x20;pressure&#x20;to&#x20;speed&#x20;up&#x20;the&#x20;h...
 
 ### [The second of NASA's Gravity Recovery and Interior Laboratory spacecraft is in orbit around the moon. ](/news/2012/01/1/the-second-of-nasa-s-gravity-recovery-and-interior-laboratory-spacecraft-is-in-orbit-around-the-moon.md)
 _Context: GRAIL, NASA_

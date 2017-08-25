@@ -25,7 +25,7 @@ People in the Republic of Khakassia in southwest Siberia witnessed a large fireb
 _Context: Amnesty International_
 
 ### [ The U.S. Supreme Court upholds an appeals court decision in an insider trading case, Salman v. U.S., holding that there is no requirement that a tipper receive any pecuniary consideration for a breach of faith in order to predicate the prosecution of the tippee. ](/news/2016/12/6/the-u-s-supreme-court-upholds-an-appeals-court-decision-in-an-insider-trading-case-salman-v-u-s-holding-that-there-is-no-requirement-t.md)
-Bassam Salman, a Chicago grocery wholesaler, received stock tips from a friend, who had in turn received inside information from Salman’s brother-in-law, an investment banker at Citigroup. Salman made hundreds of thousands of dollars from the tips, but he was also charged with insider trading and se
+Bassam Salman, a Chicago grocery wholesaler, received stock tips from a friend, who had in turn received inside information from Salman’s brother-in-law, an investment banker at Citigroup. Salman made hundreds of thousands of dollars from the tips, but he was also charged with insider trading and ...
 
 ### [ Bernard Cazeneuve is announced as the new Prime Minister of France replacing Manuel Valls who is contesting the 2017 French Presidential Election. ](/news/2016/12/6/bernard-cazeneuve-is-announced-as-the-new-prime-minister-of-france-replacing-manuel-valls-who-is-contesting-the-2017-french-presidential-el.md)
 French President Francois Hollande on Tuesday appointed Interior Minister Bernard Cazeneuve as prime minister until a new president is elected next May.

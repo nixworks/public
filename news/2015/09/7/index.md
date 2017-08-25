@@ -16,7 +16,7 @@ Several hundred Arabs, Asians and Africans tired of waiting for buses broke thro
 _Context: Britain, European Union, United Kingdom House of Commons_
 
 ### [Just before the Brooklyn, New York West Indian J'ouvert Labor Day Carnival, lawyer Carey Gabay is shot in the head and critically wounded, caught in crossfire between feuding gangs. Two others are wounded in shootings and one man is stabbed to death. ](/news/2015/09/7/just-before-the-brooklyn-new-york-west-indian-j-ouvert-labor-day-carnival-lawyer-carey-gabay-is-shot-in-the-head-and-critically-wounded-c.md)
-The Harvard-educated first deputy counsel to New York Gov. Andrew Cuomo was shot in the head in Brooklyn this morning, in what the governor called a &quot;random event.&quot; Around 3:45 a.m., Carey Gabay and his brother were walking by an argument where shots were fired, according to ABC station WABC-TV in...
+The Harvard-educated first deputy counsel to New York Gov. Andrew Cuomo was shot in the head in Brooklyn this morning, in what the governor called a &quot;random event.&quot; Around 3:45 a.m., Carey Gabay and his brother were walking by an argument where shots were fired, according to ABC station WA...
 
 ### [In Cass County, Missouri, a family of four is fired upon after they passed a slower vehicle, which then pulls up alongside and opens fire, hitting the father and a 2-year-old girl. Police believe the motive may have been road rage after flashing headlights. ](/news/2015/09/7/in-cass-county-missouri-a-family-of-four-is-fired-upon-after-they-passed-a-slower-vehicle-which-then-pulls-up-alongside-and-opens-fire-h.md)
 _Context: Cass County, Missouri_

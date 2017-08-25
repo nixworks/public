@@ -10,7 +10,7 @@ _Context: Israel, Israeli-Palestinian conflict, Palestinian, police_
 _Context: Alexander Downer, Australia, Australian Foreign Minister, Canberra, Parliament House, police_
 
 ### [ Cedar Revolution: In Lebanon, opposition leaders blame Syria for the death of Samir Qasir and demand resignation of president mile Lahoud ](/news/2005/06/3/cedar-revolution-p-in-lebanon-opposition-leaders-blame-syria-for-the-death-of-samir-qasir-and-demand-resignation-of-president-emile-lahoud.md)
-Lebanon&#39;s opposition blamed &quot;Syria and its allies&quot; for the killing of Lebanese journalist Samir Kassir, one of the Assad regime&#39;s most vocal critics who was murdered in a car bomb while leaving his home. The United States also condemned Kassir&#39;s assassination and hinted Syrian involvement. U.S. Ambassador Jeffrey Feltman said: 
+Lebanon&#39;s opposition blamed &quot;Syria and its allies&quot; for the killing of Lebanese journalist Samir Kassir, one of the Assad regime&#39;s most vocal critics who was murdered in a car bomb while leaving his home. The United States also condemned Kassir&#39;s assassination and hinted Syrian ...
 
 ### [ In Bolivia, president Carlos Mesa calls for a referendum for regional autonomy on October 16 to quell the demonstrations against him. The elections for the constitutional assembly on the same day would reform the constitution in favor of the native majority ](/news/2005/06/3/in-bolivia-president-carlos-mesa-calls-for-a-referendum-for-regional-autonomy-on-october-16-to-quell-the-demonstrations-against-him-the-e.md)
 _Context: Bolivia, Carlos Mesa, October 16, autonomy, constitution, constitutional assembly, referendum_

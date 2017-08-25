@@ -43,7 +43,7 @@ _Context: Mount Bulusan, Philippines, volcanic activity_
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.
 
 ### [Russian Prime Minister Vladimir Putin has arrived in Sofia for talks with his Bulgarian counterpart Boyko Borisov. ](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.md)
-The proposals for an intensification of cultural cooperation that the Russian delegation to Sofia advanced Saturday were met somewhat lukewarmly by the Bulgarian party. This appears from the official transcript of the meeting Saturday headed by Bulgarian and Russian PMs Boyko Borisov and Vladimir Putin. 
+The proposals for an intensification of cultural cooperation that the Russian delegation to Sofia advanced Saturday were met somewhat lukewarmly by the Bulgarian party. This appears from the official transcript of the meeting Saturday headed by Bulgarian and Russian PMs Boyko Borisov and Vladimir Pu...
 
 ### [Nigeria is to question an Iranian citizen over a shipment of arms seized in Lagos, warning that it could report Iran to the United Nations Security Council if sanctions had been breached. ](/news/2010/11/12/nigeria-is-to-question-an-iranian-citizen-over-a-shipment-of-arms-seized-in-lagos-warning-that-it-could-report-iran-to-the-united-nations-s.md)
 Iran allows Nigeria to question one of its citizens inside its embassy, over a weapons shipment seized in Lagos.

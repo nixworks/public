@@ -25,7 +25,7 @@ _Context: Alvaro Uribe, Colombian President, FARC, Ingrid Betancourt_
 _Context: Curlin, Preakness, Triple Crown_
 
 ### [ Starcraft II is announced by Blizzard Entertainment, probably one of the largest announcements to come from them in years. ](/news/2007/05/19/starcraft-ii-is-announced-by-blizzard-entertainment-probably-one-of-the-largest-announcements-to-come-from-them-in-years.md)
-Everyone&#039;s expecting something big from Blizzard&#039;s Worldwide Invitational in Seoul, South Korea this weekend, partially because of what the Team Liquid forums have been up to. What precisely will be said is still unclear, as Blizzard has yet to disclose anything concrete. Of course there&#039;s been plenty of speculation, with StarCraft 2 leading the pack of possible titles to be announced.
+Everyone&#039;s expecting something big from Blizzard&#039;s Worldwide Invitational in Seoul, South Korea this weekend, partially because of what the Team Liquid forums have been up to. What precisely will be said is still unclear, as Blizzard has yet to disclose anything concrete. Of course there&#...
 
 ## [Previous Day...](/news/2007/05/18/index.md)
 

@@ -13,7 +13,7 @@ A passenger coach crashed into the wall of an expressway tunnel in China&#39;s n
 _Context: Canada-Cuba relations, Cuba-United States relations, Cuban Foreign Ministry, Havana_
 
 ### [Reformist candidate Mohammad-Ali Najafi is unanimously elected Mayor of Tehran by the city council, ending the 12-year tenure of Principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/reformist-candidate-mohammad-ali-najafi-is-unanimously-elected-mayor-of-tehran-by-the-city-council-ending-the-12-year-tenure-of-principlist.md)
-August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has unanimously elected a outstanding reformist as town’s mayor, ending hardliners’ 14-year maintain on the Iranian capital’s prime publish. Mohammad-Ali Najaf, a former training minister, replaces Mohammad-Baqer Qalibaf, a former commander of the Revolutionary Guards who contested the presidency in 2005 and 2013. Mr &hellip;
+August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has unanimously elected a outstanding reformist as town’s mayor, ending hardliners’ 14-year maintain on the Iranian capital’s prime publish. Mohammad-Ali Najaf, a former training minister, replaces Mohammad-Baqer Qalibaf...
 
 ## [Previous Day...](/news/2017/08/9/index.md)
 

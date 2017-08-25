@@ -10,7 +10,7 @@ _Context: 2011-2012 conflict in Lebanon, Tripoli, Lebanon_
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
 
 ### [2012 Egyptian protests:Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-pviolent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
-The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitution they say is biased. The president has returned to work at the compound despite the upheaval.
+The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitutio...
 
 ### [American jazz composer and pianist Dave Brubeck dies in Connecticut at the age of 91. ](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.md)
 Dave Brubeck, the US jazz pianist who recorded Take Five and toured with Duke Ellington, dies aged 91, his manager says.

@@ -25,7 +25,7 @@ _Context: Inception, The Social Network, Writers Guild of America_
 Freezing weather and snow paralyse northern Mexico, which is experiencing its lowest temperatures in more than 50 years.
 
 ### [An explosion at the Uricani Coal Mine in southwestern Romania kills five people. ](/news/2011/02/5/an-explosion-at-the-uricani-coal-mine-in-southwestern-romania-kills-five-people.md)
-An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s&#x20;south-west&#x20;Uricani&#x20;mine&#x20;Saturday,&#x20;leaving&#x20;no&#x20;survivors.&#x20;According&#x20;to&#x20;officials,&#x20;the&#x20;five&#x20;had&#x20;been&#x20;finishing&#x20;an&#x20;electrical&#x20;installation&#x20;when&#x20;the&#x20;blast&#x20;happened.
+An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s&#x20;south-west&#x20;Uricani&#x20;mine&#x20;Saturday,&#x20;leaving&#x20;no&#x20;survivors.&#x20;According&#x20;to&#x20;officials,&#x20;the&#x20;five&#x20;had&#x20;been&#x20;finishing&#x20;an&#x20;electrical&#x20;install...
 
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
 _Context: China, Zhejiang province, firefighter_

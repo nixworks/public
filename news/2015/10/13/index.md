@@ -28,7 +28,7 @@ _Context: Iran, Islamic Consultative Assembly, Joint Comprehensive Plan of Actio
 The United States and its Pacific ally Australia warned China on Tuesday that they remain committed to freedom of navigation in the waters of the South China Sea.
 
 ### [Burkina Faso's presidential and parliamentary elections are deferred to November 29 due to a recent coup. ](/news/2015/10/13/burkina-faso-s-presidential-and-parliamentary-elections-are-deferred-to-november-29-due-to-a-recent-coup.md)
-Burkina Faso&#x27;s presidential and parliamentary elections, delayed because of a failed coup, will now take place on November 29, two candidates said Tuesday after a meeting with the country&#x27;s interim authorities. &quot;The date of November 29 has been set by all Burkina Faso&#x27;s political players
+Burkina Faso&#x27;s presidential and parliamentary elections, delayed because of a failed coup, will now take place on November 29, two candidates said Tuesday after a meeting with the country&#x27;s interim authorities. &quot;The date of November 29 has been set by all Burkina Faso&#x27;s political...
 
 ## [Previous Day...](/news/2015/10/12/index.md)
 

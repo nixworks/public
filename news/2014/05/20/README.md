@@ -16,7 +16,7 @@ _Context: General Motors_
 Credit Suisse charged with helping Americans evade taxes; will pay criminal penalties
 
 ### [A truck going from Florida to Maine carrying about 1.5 to 2 million bees crashes.](/news/2014/05/20/a-truck-going-from-florida-to-maine-carrying-about-1-5-to-2-million-bees-crashes.md)
-ELLSWORTH, Maine — A truck hauling millions of honeybees north to blueberry barrens owned by Ellsworth-based Allen’s Blueberry Freezer Inc. overturned and unleashed the swarm on Interstate 95 in Delaware Tuesday evening, according to Maine’s state apiarist. “The bees coming up are strong and healthy, and there’s plenty of bees,” [...]
+ELLSWORTH, Maine — A truck hauling millions of honeybees north to blueberry barrens owned by Ellsworth-based Allen’s Blueberry Freezer Inc. overturned and unleashed the swarm on Interstate 95 in Delaware Tuesday evening, according to Maine’s state apiarist. “The bees coming up are strong and...
 
 ### [At least 17 people are killed and 27 injured after a bus plunges into a gorge in India's Jammu and Kashmir state. ](/news/2014/05/20/at-least-17-people-are-killed-and-27-injured-after-a-bus-plunges-into-a-gorge-in-india-s-jammu-and-kashmir-state.md)
 Seventeen people were killed and 27 injured when a bus going to the Kashmir valley fell into a deep gorge in the Jammu region Tuesday, an official said.

@@ -40,7 +40,7 @@ _Context: Indian police, Kollam temple fire, Puttingal Temple_
 _Context: Israeli-Palestinian conflict (2015-present), Palestinian, West Bank_
 
 ### [Hundreds of arrests are reported in the U.S. Capitol in response to the Democracy Spring protests. ](/news/2016/04/11/hundreds-of-arrests-are-reported-in-the-u-s-capitol-in-response-to-the-democracy-spring-protests.md)
-Democracy Spring is a movement organization committed to winning fundamental reforms to end the corruption of big money in politics and guarantee the right to vote for all Americans. We use campaigns of escalating nonviolent action to achieve this goal and believe in the power of mass civil disobedience to transform our political system.
+Democracy Spring is a movement organization committed to winning fundamental reforms to end the corruption of big money in politics and guarantee the right to vote for all Americans. We use campaigns of escalating nonviolent action to achieve this goal and believe in the power of mass civil disobedi...
 
 ### [The Prime Minister of Kyrgyzstan Temir Sariyev announces he will resign from his post. This comes after several Parliament members accused Sariyev and his cabinet of corruption. The Kyrgyz presidential press service said President Almazbek Atambayev accepted his resignation. ](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.md)
 _Context: Almazbek Atambayev, Kyrgyzstan, Parliament, President, Prime Minister, Temir Sariyev_

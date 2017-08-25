@@ -7,7 +7,7 @@ _Context: Narcoterrorist, Peru, Shining Path_
 _Context: Kosovo, Macedonia, Montenegro, United Nations, officially recognizes_
 
 ### [ The U.S. National Security Agency is accused of listening to Americans' private phone conversations.](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.md)
-Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone...
+Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone....
 
 ### [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md)
 _Context: France, Jean-Marie Gustave Le Clezio, Nobel Prize, Nobel Prize in Literature_

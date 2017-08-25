@@ -7,7 +7,7 @@ _Context: 2016 Kashmir unrest, Hizbul Mujahideen, Indian Army, Insurgency in Jam
 _Context: Juba, SPLM-IO, South Sudanese Civil War, Sudan People's Liberation Army, local clashes_
 
 ### [A Russian Air Force Mi-24 helicopter crashes near Palmyra, Syria, while assisting Syrian Army forces in the area. Russia's Ministry of Defence confirms two Russian pilots, Riafa'at Habibulin and Yevgeny Dolgin, are killed. ](/news/2016/07/9/a-russian-air-force-mi-24-helicopter-crashes-near-palmyra-syria-while-assisting-syrian-army-forces-in-the-area-russia-s-ministry-of-defen.md)
-A Russian military helicopter has been shot down by Isis near Palmyra, Syria, killing both pilots. The men have been named as Ryafagat Khabibulin and Yevgeny Dolgin. The Mi-25 aircraft was reportedly conducting a test flight in the area when it received a request for assistance from the Syrian military, who were under attack from a group of Isis militants to the east of Palmyra.
+A Russian military helicopter has been shot down by Isis near Palmyra, Syria, killing both pilots. The men have been named as Ryafagat Khabibulin and Yevgeny Dolgin. The Mi-25 aircraft was reportedly conducting a test flight in the area when it received a request for assistance from the Syrian milit...
 
 ### [Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. ](/news/2016/07/9/taiwan-is-recovering-after-typhoon-nepartak-hit-yesterday-killing-two-people-and-injuring-72.md)
 Power is being restored in parts of Taiwan after a powerful typhoon slammed into the island&#039;s eastern coast with ferocious winds and torrential rains, killing two people and injuring 72.
@@ -25,7 +25,7 @@ _Context: 2016 Warsaw summit, Afghanistan's, NATO, Polish, Resolute Support, War
 The Bahamas issues a rare travel advisory for its citizens visiting the US, recommending particular care for young men in cities affected by tensions over police shootings.
 
 ### [The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations-conducted-during-its-drug-war.md)
-_Context: Philippine Drug War, Philippines, human rights violations, human rights violations_
+_Context: Philippines, drug war, human rights violations, human rights violations_
 
 ### [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the  ''Msichana Initiative'', a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during  a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiat.md)
 The Gambia and Tanzania, both countries where more than 30% of girls are married by the age of 18, outlaw child marriage and introduce tough penalties.

@@ -22,7 +22,7 @@ _Context: 5th Circuit Court of Appeals, Texas, abortion_
 Fifa has handed over computer data to the Swiss authorities investigating the World Cup bids for 2018 and 2022.
 
 ### [The Turkish cabinet led by current Prime Minister Ahmet Davutoglu submits its resignation, but is asked to stay on until a new government forms after the election. ](/news/2015/06/9/the-turkish-cabinet-led-by-current-prime-minister-ahmet-davutoalu-submits-its-resignation-but-is-asked-to-stay-on-until-a-new-government-f.md)
-Reeling&#x20;from&#x20;shock&#x20;election&#x20;results,&#x20;Turkey&#x27;s&#x20;President&#x20;Recep&#x20;Tayyip&#x20;Erdogan&#x20;on&#x20;Tuesday&#x20;accepted&#x20;the&#x20;resignation&#x20;of&#x20;the&#x20;cabinet&#x20;but&#x20;asked&#x20;the&#x20;prime&#x20;minister&#x20;and&#x20;his&#x20;team&#x20;to&#x20;stay&#x20;on&#x20;until&#x20;a&#x20;new&#x20;government&#x20;is&#x20;formed.
+Reeling&#x20;from&#x20;shock&#x20;election&#x20;results,&#x20;Turkey&#x27;s&#x20;President&#x20;Recep&#x20;Tayyip&#x20;Erdogan&#x20;on&#x20;Tuesday&#x20;accepted&#x20;the&#x20;resignation&#x20;of&#x20;the&#x20;cabinet&#x20;but&#x20;asked&#x20;the&#x20;prime&#x20;minister&#x20;and&#x20;his&#x20;team&...
 
 ## [Previous Day...](/news/2015/06/8/index.md)
 

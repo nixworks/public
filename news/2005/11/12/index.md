@@ -7,7 +7,7 @@ _Context: Amir Peretz, Ariel Sharon, Israeli Labor Party, Israeli Prime Minister
 _Context: Arab League, Iraq, Iraq War, Kofi Annan, Secretary General_
 
 ### [ Tens of thousands of people gather at Rabin Square in Tel Aviv in a rally to mark a decade since the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/12/tens-of-thousands-of-people-gather-at-rabin-square-in-tel-aviv-in-a-rally-to-mark-a-decade-since-the-assassination-of-prime-minister-yitzha.md)
-Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since assassination of Yitzhak Rabin; former President Clinton receives enthusiastic reception from crowd, says &#39;not a week goes by&#39; where he doesn&#39;t think of Rabin. New Labor party leader Peretz calls for &#39;moral road map,&#39; end to occupation
+Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since assassination of Yitzhak Rabin; former President Clinton receives enthusiastic reception from crowd, says &#39;not a week goes by&#39; where he doesn&#39;t think of Rabin. New Labor party leader Peretz calls for &#39;mo...
 
 ### [ ''Harry Potter and the Goblet of Fire'' premieres at the Ziegfeld Theatre in New York City](/news/2005/11/12/harry-potter-and-the-goblet-of-fire-premieres-at-the-ziegfeld-theatre-in-new-york-city.md)
 _Context: Harry Potter and the Goblet of Fire, New York City, Ziegfeld Theatre_

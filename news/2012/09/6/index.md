@@ -25,7 +25,7 @@ Time reports Pentagon radically cuts back number of troops, equipment slated to 
 _Context: Nepalese Maoist Party, terror list_
 
 ### [United States President Barack Obama accepts his party's nomination as candidate for the 2012 presidential election at the Democratic National Convention. ](/news/2012/09/6/united-states-president-barack-obama-accepts-his-party-s-nomination-as-candidate-for-the-2012-presidential-election-at-the-democratic-nation.md)
-President Obama will accept the Democratic nomination for a second term inside the Time Warner Cable Arena here facing a wave of discouraging economic data, a potential bombshell of an August jobs report expected Friday, and a lingering longing for the spirit of the 2008 convention and the promise...
+President Obama will accept the Democratic nomination for a second term inside the Time Warner Cable Arena here facing a wave of discouraging economic data, a potential bombshell of an August jobs report expected Friday, and a lingering longing for the spirit of the 2008 convention and the promise.....
 
 ### [A Christian lobbyist's kin defend him after he claims homosexuality reduces life expectancy more than smoking and should therefore be discouraged. He himself states he "was not comparing homosexuality with smoking at all." ](/news/2012/09/6/a-christian-lobbyist-s-kin-defend-him-after-he-claims-homosexuality-reduces-life-expectancy-more-than-smoking-and-should-therefore-be-discou.md)
 ## [Previous Day...](/news/2012/09/5/index.md)

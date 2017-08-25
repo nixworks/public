@@ -43,7 +43,7 @@ The Sun on Sunday is to publish for the first time next weekend, News Internatio
 Move follows EU decision to stop importing crude from Iran from July 1 over its disputed nuclear programme.
 
 ### [India's Kingfisher Airlines cancels 16 flights from Mumbai and stops operations in Kolkata over the next four days. ](/news/2012/02/19/india-s-kingfisher-airlines-cancels-16-flights-from-mumbai-and-stops-operations-in-kolkata-over-the-next-four-days.md)
-Passengers booked on Kingfisher Airlines are in for some trouble as the country&#039;s third largest airline has announced that its operations will be curtailed over the next four days. On Sunday, Kingfisher Airlines cancelled 16 flights from Mumbai. Several other Kingfisher flights from Mumbai have also been delayed.
+Passengers booked on Kingfisher Airlines are in for some trouble as the country&#039;s third largest airline has announced that its operations will be curtailed over the next four days. On Sunday, Kingfisher Airlines cancelled 16 flights from Mumbai. Several other Kingfisher flights from Mumbai have...
 
 ### [At least 17 people are seriously injured after two gas explosions at a nightclub in the city of Sighetu Marmatiei, Romania. ](/news/2012/02/19/at-least-17-people-are-seriously-injured-after-two-gas-explosions-at-a-nightclub-in-the-city-of-sighetu-marmaeiei-romania.md)
 Two explosions injured 17 people at a nightclub in the northern Romanian town of Sighetu Marmatiei, emergency services said Sunday.

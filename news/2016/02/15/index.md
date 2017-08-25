@@ -1,7 +1,7 @@
 ## [2016-02-15](/news/2016/02/15/index.md)
 
 ### [A Turkish soldier is killed following a clash on the Syria-Turkey border with an armed group trying to enter Turkey illegally. The Turkish military says the clash occurred in the Yayladagi district of the Hatay Province. ](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.md)
-The United Nations and Washington on Monday condemned air strikes on medical facilities and schools in Syria that the world body said killed almost 50 civilians, with the US implicating Russia. Also ahead of a hoped-for ceasefire, Kurdish fighters in northern Syria captured a key town despite Turkish
+The United Nations and Washington on Monday condemned air strikes on medical facilities and schools in Syria that the world body said killed almost 50 civilians, with the US implicating Russia. Also ahead of a hoped-for ceasefire, Kurdish fighters in northern Syria captured a key town despite Turkis...
 
 ### [India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-death-of-two-protester.md)
 _Context: India, Kashmir, Kashmir conflict, curfew, general strike_

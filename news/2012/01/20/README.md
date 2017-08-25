@@ -7,7 +7,7 @@ _Context: 2011-2012 Syrian uprising_
 _Context: AMISOM, Islamist, Mogadishu, Somalia_
 
 ### [Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. ](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.md)
-KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocked the city of Kano on Friday, killing at least two officers, a police source said, with many others feared dead. A senior police source said the suicide blast occurred at a regional police headquarters in Kano, the largest city in mainlyRead More
+KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocked the city of Kano on Friday, killing at least two officers, a police source said, with many others feared dead. A senior police source said the suicide blast occurred at a regional police headquarters in Kano, the large...
 
 ### [The United Nations says 120,000 people in South Sudan required aid amid tribal fighting. ](/news/2012/01/20/the-united-nations-says-120-000-people-in-south-sudan-required-aid-amid-tribal-fighting.md)
 Tribal fighting in South Sudan has left 120,000 people in need of emergency food aid, twice the previous estimate, the United Nations said on Friday.

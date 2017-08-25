@@ -25,7 +25,7 @@ The latest spill may have polluted drinking water in Montana but is not expected
 Still not clear why man shot cardiac surgeon, then himself.
 
 ### [Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumbent-president-michael-sata-defence-m.md)
-Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a close-fought presidential election was under way to replace Michael Sata, who died in office last year. &quot;A number of polling stations will start tomorrow (Wednesday),&quot; elections director Priscilla Isaacs said late
+Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a close-fought presidential election was under way to replace Michael Sata, who died in office last year. &quot;A number of polling stations will start tomorrow (Wednesday),&quot; elections director Priscilla Isaacs said la...
 
 ### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
 _Context: 2015 State of the Union Address, Barack Obama, State of the Union, United States Congress, president_

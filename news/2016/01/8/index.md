@@ -10,7 +10,7 @@ _Context: 2016 shooting of Philadelphia police officer, Islamic State of Iraq an
 At least 95 homes have been razed by a bushfire burning south of Perth, while three people are feared missing.
 
 ### [The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.md)
-The head of Cologne’s police force has been suspended from his post as anger continues to mount over the handling of mass sexual assaults in the city on New Year’s Eve. Wolfgang Albers, 60, was ordered to temporarily step down on Friday by Ralf Jäger, the interior minister for North Rhine-Westphalia (NRW).
+The head of Cologne’s police force has been suspended from his post as anger continues to mount over the handling of mass sexual assaults in the city on New Year’s Eve. Wolfgang Albers, 60, was ordered to temporarily step down on Friday by Ralf Jäger, the interior minister for North Rhine-Westp...
 
 ### [The Mexican Navy recaptures escaped drug lord Joaquin Guzman, also known as "El Chapo", in Los Mochis, Sinaloa. ](/news/2016/01/8/the-mexican-navy-recaptures-escaped-drug-lord-joaquan-guzma-n-also-known-as-el-chapo-in-los-mochis-sinaloa.md)
 The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested after his scandalous prison break last year, the Mexican president announced, praising the success of a months-long criminal and intelligence investigation.

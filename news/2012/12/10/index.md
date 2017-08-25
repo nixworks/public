@@ -46,7 +46,7 @@ Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with
 _Context: MP, Prime Minister, Romania, Social Liberal Union, Victor Ponta, landslide, parliamentary election_
 
 ### [The government of Malta loses a budget vote, causing early elections to be called. ](/news/2012/12/10/the-government-of-malta-loses-a-budget-vote-causing-early-elections-to-be-called.md)
-The Budget was defeated this evening, with Franco Debono, as promised, joining the Opposition to vote &#039;no&#039;. Prime Minister Lawrence Gonzi said he will tomorrow call on the President to advise him when to dissolve Parliament and when to call a general election. MPs were asked to stand when the...
+The Budget was defeated this evening, with Franco Debono, as promised, joining the Opposition to vote &#039;no&#039;. Prime Minister Lawrence Gonzi said he will tomorrow call on the President to advise him when to dissolve Parliament and when to call a general election. MPs were asked to stand when ...
 
 ### [Specialists from Thales Alenia Space carry out some maneuvers to bring the Russian Yamal-402 satellite into its designated orbit after a premature separation from Briz-M, the upper stage of a Proton-M carrier rocket, during the launch on 8 December. ](/news/2012/12/10/specialists-from-thales-alenia-space-carry-out-some-maneuvers-to-bring-the-russian-yamal-402-satellite-into-its-designated-orbit-after-a-pre.md)
 _Context: Briz-M, Proton-M, Russia, Thales Alenia Space, Yamal-402, carrier rocket, orbit, released an object into orbit, successfully_

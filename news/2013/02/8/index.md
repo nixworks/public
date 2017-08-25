@@ -7,7 +7,7 @@ _Context: Syria, Syrian Army, Syrian Civil War_
 At least 31 people killed and dozens wounded in car bombings in Shia-dominated areas.
 
 ### [Northern Mali conflict (2012-present):The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012apresent-pthe-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier-i.md)
-GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a military checkpoint Friday on the outskirts of Gao in the first suicide bombing attack since the French-led mission began, fueling fears of a looming insurgency by the jihadists who fled into the nearby desert just two weeks
+GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a military checkpoint Friday on the outskirts of Gao in the first suicide bombing attack since the French-led mission began, fueling fears of a looming insurgency by the jihadists who fled into the nearby desert just two we...
 
 ### [War in North-West Pakistan:A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-pa-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md)
 _Context: Kalaya, Orakzai Tribal Area, Pakistan, War in North-West Pakistan_

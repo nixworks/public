@@ -1,7 +1,7 @@
 ## [2017-01-25](/news/2017/01/25/index.md)
 
 ### [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md)
-Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a popular Mogadishu hotel, setting off two car bombs and opening fire on security guards, according to the city&#x27;s main ambulance service. The attack, claimed by the Al-Qaeda-aligned Shabaab insurgents, began when a car loaded
+Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a popular Mogadishu hotel, setting off two car bombs and opening fire on security guards, according to the city&#x27;s main ambulance service. The attack, claimed by the Al-Qaeda-aligned Shabaab insurgents, began when a car ...
 
 ### [The Dow Jones Industrial Average breaks 20,000 for the first time ever. ](/news/2017/01/25/the-dow-jones-industrial-average-breaks-20-000-for-the-first-time-ever.md)
 Stocks closed at all-time highs after a series of executive orders from President Donald Trump increased bullish sentiment on Wall Street.

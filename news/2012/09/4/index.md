@@ -22,7 +22,7 @@ _Context: Airbus, civil aircraft_
 _Context: German, Lufthansa_
 
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: Amritsar, McDonald's, Vaishno Devi, vegetarian_
+_Context: Amritsar, McDonald's restaurants, Vaishno Devi, vegetarian_
 
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
 _Context: Marrakesh, Morocco, Ouarzazate_
@@ -53,7 +53,7 @@ _Context: Arab Spring, Bahrain, Bahraini uprising (2011-present), Western-allied
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;
 
 ### [Quebec general election, 2012:The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-pthe-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-paulin.md)
-Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female premier after her sovereigntist party won a minority government and ended nearly a decade of Liberal rule in a tense election. But as she delivered her victory speech late Tuesday night, Marois was suddenly whisked off stage due to a shooting outside PQ headquarters.
+Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female premier after her sovereigntist party won a minority government and ended nearly a decade of Liberal rule in a tense election. But as she delivered her victory speech late Tuesday night, Marois was suddenly whisked off sta...
 
 ### [David Cameron reshuffles the United Kingdom government for the first time since 2010. ](/news/2012/09/4/david-cameron-reshuffles-the-united-kingdom-government-for-the-first-time-since-2010.md)
 All the moves, the sackings, the promotions, rumours and analysis as Prime Minister David Cameron reshuffled his government team.

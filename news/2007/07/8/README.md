@@ -7,7 +7,7 @@ _Context: 2007 Western North American heat wave, I-15, I-70, I-80_
 _Context: Nigeria, toddler_
 
 ### [The Boeing Company unveils its newest airplane, the Boeing 787 "Dreamliner" at its facility in Everett, Washington, USA. The 787 is an alternative to Airbus's A350. ](/news/2007/07/8/the-boeing-company-unveils-its-newest-airplane-the-boeing-787-dreamliner-at-its-facility-in-everett-washington-usa-the-787-is-an-alter.md)
-For a few, high-profile hours on Sunday, Boeing&#8217;s new 787 Dreamliner captured the world&#8217;s attention as it was unveiled during a multimedia extravaganza. But there is still a lot of work to be done. Boeing is under tremendous pressure to get its airplane ready for first flight in late August.
+For a few, high-profile hours on Sunday, Boeing&#8217;s new 787 Dreamliner captured the world&#8217;s attention as it was unveiled during a multimedia extravaganza. But there is still a lot of work to be done. Boeing is under tremendous pressure to get its airplane ready for first flight in late Aug...
 
 ### [Valdis Zatlers is sworn in as the third President of Latvia. ](/news/2007/07/8/valdis-zatlers-is-sworn-in-as-the-third-president-of-latvia.md)
 _Context: President of Latvia, Valdis Zatlers_

@@ -43,7 +43,7 @@ Tens of thousands of people are evacuated as wildfires sweep into the Israeli ci
 A strong quake shook Central America&#x27;s Pacific coast as a hurricane barreled into Nicaragua and Costa Rica, but there were no reports of damage.
 
 ### [An Iraqi court has issued arrest warrants for two correspondents with a London-based pan-Arab newspaper ''Asharq al-Awsat'' over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. ](/news/2016/11/24/an-iraqi-court-has-issued-arrest-warrants-for-two-correspondents-with-a-london-based-pan-arab-newspaper-asharq-al-awsat-over-a-false-new.md)
-A Baghdad court has issued arrest warrants for two correspondents with a Saudi newspaper over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. A senior source in Iraq&#039;s judiciary said Wednesday that the warrants, based on the penal code&#039;s article 372 on religious hate crimes, were issued against the Asharq al-Awsat daily&#039;s two Baghdad-based Iraqi journalists.
+A Baghdad court has issued arrest warrants for two correspondents with a Saudi newspaper over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. A senior source in Iraq&#039;s judiciary said Wednesday that the warrants, based on the penal code&#039;s article 372 on reli...
 
 ### [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md)
 It’s a reminder to her supporters that more Americans voted the way they did than voted for her opponent.

@@ -1,7 +1,7 @@
 ## [2013-02-24](/news/2013/02/24/index.md)
 
 ### [Syrian civil war:French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/syrian-civil-war-pfrench-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after-s.md)
-French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANCE24&#x20;on&#x20;Sunday.
+French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANC...
 
 ### [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md)
 _Context: Adrar des Ifoghas, Chad, Islamist, Mali, Northern Mali conflict (2012-present)_

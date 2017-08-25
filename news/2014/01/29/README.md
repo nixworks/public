@@ -25,7 +25,7 @@ _Context: embryo, stem cells_
 _Context: Canadian, Justin Bieber, Toronto Police_
 
 ### [In the Czech Republic a new coalition government is sworn in, led by Bohuslav Sobotka and consisting of the Social Democrats, the liberalist ANO 2011 and the Christian Democrats. ](/news/2014/01/29/in-the-czech-republic-a-new-coalition-government-is-sworn-in-led-by-bohuslav-sobotka-and-consisting-of-the-social-democrats-the-liberalist.md)
-A new Czech coalition government has assumed office after being sworn in by President Miloš Zeman at Prague Castle on Wednesday. The centre-left cabinet, formed by the Social Democrats, ANO and the Christian Democrats, comes to power 95 days after the general election, promising to ease austerity, boost economic growth, and return the country to the EU mainstream.
+A new Czech coalition government has assumed office after being sworn in by President Miloš Zeman at Prague Castle on Wednesday. The centre-left cabinet, formed by the Social Democrats, ANO and the Christian Democrats, comes to power 95 days after the general election, promising to ease austerity, ...
 
 ### [Largest Russian TV providers disconnected leading independent Dozhd TV channel. The previous days the channel was criticised by Vladimir Putin's press secretary and Russian parliament members. ](/news/2014/01/29/largest-russian-tv-providers-disconnected-leading-independent-dozhd-tv-channel-the-previous-days-the-channel-was-criticised-by-vladimir-put.md)
 Backlash over online poll on Leningrad siege leads to channel being axed from networks amid claims of Kremlin interference

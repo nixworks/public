@@ -22,7 +22,7 @@ _Context: 2013 North India floods, Uttarakhand_
 _Context: Las Vegas, Nevada_
 
 ### [Vice President of the United States Joe Biden asks Ecuador to reject an asylum request by Edward Snowden. ](/news/2013/06/29/vice-president-of-the-united-states-joe-biden-asks-ecuador-to-reject-an-asylum-request-by-edward-snowden.md)
-US Vice President Joe Biden has asked Ecuador to turn down an asylum request from National Security Agency leaker Edward Snowden, the country&#039;s president said last night. Rafael Correa said he had a &quot;friendly and very cordial&quot; conversation with Mr Biden, and told the Vice President that Ecuador hadn&#039;t sought to be put in the situation of deciding whether to harbour an American fugitive.
+US Vice President Joe Biden has asked Ecuador to turn down an asylum request from National Security Agency leaker Edward Snowden, the country&#039;s president said last night. Rafael Correa said he had a &quot;friendly and very cordial&quot; conversation with Mr Biden, and told the Vice President th...
 
 ### [Large crowds gather in Cairo, Egypt to protest against the presidency of Mohammed Morsi ](/news/2013/06/29/large-crowds-gather-in-cairo-egypt-to-protest-against-the-presidency-of-mohammed-morsi.md)
 Cairo and other Egyptian cities see huge rallies for and against President Morsi a year after he took power, with five people killed in violence.

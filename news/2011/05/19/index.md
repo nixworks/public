@@ -64,7 +64,7 @@ _Context: 2011 Egyptian revolution, Egypt_
 An order granting anonymity to ex-Royal Bank of Scotland boss Sir Fred Goodwin has been lifted at the High Court.
 
 ### [The Supreme Court of British Columbia rules that anonymity for sperm donors and egg donors is unconstitutional in Canada. ](/news/2011/05/19/the-supreme-court-of-british-columbia-rules-that-anonymity-for-sperm-donors-and-egg-donors-is-unconstitutional-in-canada.md)
-Global National with Dawna Friesen is Canada&#039;s early evening national newscast, and provides a distinctive voice and approach to the day&#039;s top stories. The multiple award-winning Global National has been voted Best Newscast by the Radio and Television News Directors Association (RTNDA) of Canada and by the Academy of Canadian Cinema &amp; Television (Gemini Awards). Following its mission sta
+Global National with Dawna Friesen is Canada&#039;s early evening national newscast, and provides a distinctive voice and approach to the day&#039;s top stories. The multiple award-winning Global National has been voted Best Newscast by the Radio and Television News Directors Association (RTNDA) of ...
 
 ### [Voters in the Seychelles begin voting in the country's presidential election. ](/news/2011/05/19/voters-in-the-seychelles-begin-voting-in-the-country-s-presidential-election.md)
 _Context: Seychelles, three day presidential election_

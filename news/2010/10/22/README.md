@@ -13,7 +13,7 @@ Indonesia admits that the men seen torturing Papuan villagers in a video uploade
 _Context: Orakzai, Pakistan_
 
 ### [At least two people are killed following a blast near a mosque in Peshawar, Pakistan. ](/news/2010/10/22/at-least-two-people-are-killed-following-a-blast-near-a-mosque-in-peshawar-pakistan.md)
-At least 3 people were killed and 22 others sustained severe injuries when a home-made bomb exploded on Friday inside a mosque in Pushta Kharra area of Peshawar. According to the details, the blast occurred shortly after the Juma Prayer killing three people on the spot and causing damages to the mosque building. Police and [&hellip;]
+At least 3 people were killed and 22 others sustained severe injuries when a home-made bomb exploded on Friday inside a mosque in Pushta Kharra area of Peshawar. According to the details, the blast occurred shortly after the Juma Prayer killing three people on the spot and causing damages to the mos...
 
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
 _Context: Beled-Hawa, Islam, Kenya, Somalia_

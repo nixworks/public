@@ -34,7 +34,7 @@ _Context: May 2010 Siberia mine explosion_
 A senior U.S. diplomat met with Daw Aung San Suu Kyi, three days after her party disbanded in defiance of election laws established by the ruling military junta.
 
 ### [Severe rainstorms have killed at least 70 people since a powerful tornado hit Chongqing municipality in south-western China in Dianjiang and Liangping counties. Inclement weather in the next two days will affect Guangdong, Fujian, Hunan, Jiangxi, Zhejiang, Guizhou and Yunnan provinces. ](/news/2010/05/10/severe-rainstorms-have-killed-at-least-70-people-since-a-powerful-tornado-hit-chongqing-municipality-in-south-western-china-in-dianjiang-and.md)
-_Context: Chongqing, Dianjiang, Fujian, Guangdong province, Guizhou, Hunan, Jiangxi, Liangping, Yunnan, Zhejiang, southwest China, tornado_
+_Context: Chongqing, Dianjiang, Fujian, Guangdong, Guizhou, Hunan, Jiangxi, Liangping, Yunnan, Zhejiang, southwest China, tornado_
 
 ### [Multiple tornadoes across Oklahoma and Kansas result in at least 5 deaths and 58 injuries.  Twisters hit a truck stop near Midwest City and locations in Oklahoma City. ](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-result-in-at-least-5-deaths-and-58-injuries-twisters-hit-a-truck-stop-near-midwest-city-and.md)
 _Context: Kansas, Midwest City, Oklahoma City, Oklahoma!, tornadoes_

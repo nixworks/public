@@ -40,7 +40,7 @@ Turrialba Volcano, located 50 kilometers east of Costa Rica&#039;s capital, erup
 ISRAEL-PALESTINIANS/ (TV, PIX, UPDATE 1):UPDATE 1-Jordan proposes TV cameras to defuse Jerusalem tensions - Kerry
 
 ### [Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. ](/news/2015/10/24/thousands-protest-and-clash-with-police-in-montenegro-s-capital-podgorica-demanding-the-immediate-resignation-of-prime-minister-milo-aukan.md)
-Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night to disperse several thousand people who rallied demanding the resignation of Prime Minister Milo Djukanovic, the third such clash in a week. Fifteen police officers were injured in the clash, including one seriously, while
+Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night to disperse several thousand people who rallied demanding the resignation of Prime Minister Milo Djukanovic, the third such clash in a week. Fifteen police officers were injured in the clash, including one seriously, whil...
 
 ### [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md)
 _Context: Abdulla Yameen, Ahmed Adeeb, President, the Maldives_

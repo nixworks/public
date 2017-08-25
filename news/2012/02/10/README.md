@@ -46,7 +46,7 @@ Google Inc (GOOG.O) is expected to win approval next week from European regulato
 Search crewsrecovered 22 more bodies from the sea off the coast of theDominican Republic on Wednesday, bringing the death toll to 47after an overloaded migrant smuggling vessel capsized.
 
 ### [Argentina's foreign minister Hector Timerman issues a formal complaint to the United Nations about British "militarisation" of seas around the Falkland Islands. ](/news/2012/02/10/argentina-s-foreign-minister-ha-c-ctor-timerman-issues-a-formal-complaint-to-the-united-nations-about-british-militarisation-of-seas-around.md)
-Argentine president Cristina Fernandez gave instructions for the formal complaint before the United Nations accusing the United Kingdom of &lsquo;militarization&rsquo; of the South Atlantic and Malvinas Islands be presented on Friday, according to a release from the Argentine Ministry of Foreign Affairs.
+Argentine president Cristina Fernandez gave instructions for the formal complaint before the United Nations accusing the United Kingdom of &lsquo;militarization&rsquo; of the South Atlantic and Malvinas Islands be presented on Friday, according to a release from the Argentine Ministry of Foreign Aff...
 
 ### [A group of South Korean lawmakers make a rare visit to North Korea's Kaesong Industrial Region. ](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.md)
 _Context: Kaesong area, North Korea, South Korea_

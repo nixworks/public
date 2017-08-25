@@ -4,7 +4,7 @@
 _Context: Damascus, Syrian Army, Syrian Civil War_
 
 ### [Nigerian Sharia conflict:In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-pin-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md)
-BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extremists killed at least 185 people in a fishing community in the nation&#39;s far northeast, officials said Sunday, an attack that saw insurgents fire rocket-propelled grenades and soldiers spray machine-gun fire into neighborhoods filled with civilians.
+BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extremists killed at least 185 people in a fishing community in the nation&#39;s far northeast, officials said Sunday, an attack that saw insurgents fire rocket-propelled grenades and soldiers spray machine-gun fire into neig...
 
 ### [War in Somalia (2009-present):A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009apresent-pa-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md)
 Mohamed Ibrahim Rageh had fled Mogadishu, the Somali capital, in 2009 after a spate of killings, but returned to continue his career.

@@ -25,7 +25,7 @@ Some 70 people are lost at sea after their boat capsized off Sicily, survivors s
 Health ministers from 11 African countries are meeting in Accra, Ghana, in an attempt to &quot;get a grip&quot; on the deadly and worsening Ebola outbreak.
 
 ### [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md)
-On this occasion, Minister Hoxhaj met with Turkey&#39;s Ambassador in Kosovo, Songul Ozan, to whom he expressed condolences for more than 200 workers who lost their lives in this tragedy. Minister Enver Hoxhaj was the first representative of Kosovo that wrote in the book of condolences at the Embassy of Turkey, for this tragic event. Ambassador of the Republic of Turkey, Songul Ozan, thanked Minister Hoxhaj for provison of support. &nbsp;
+On this occasion, Minister Hoxhaj met with Turkey&#39;s Ambassador in Kosovo, Songul Ozan, to whom he expressed condolences for more than 200 workers who lost their lives in this tragedy. Minister Enver Hoxhaj was the first representative of Kosovo that wrote in the book of condolences at the Embass...
 
 ### [Former British Prime Minister Tony Blair agrees to become Egyptian President Abdel Fattah el-Sisi's economic adviser as part of a program funded by the United Arab Emirates. ](/news/2014/07/2/former-british-prime-minister-tony-blair-agrees-to-become-egyptian-president-abdel-fattah-el-sisi-s-economic-adviser-as-part-of-a-program-fu.md)
 Former PM criticised over link to United Arab Emirates-funded programme that promises lucrative &#x27;business opportunities&#x27;

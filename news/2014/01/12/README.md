@@ -10,7 +10,7 @@ A MORTAR attack has killed at least 19 people in the central Syrian city of Homs
 _Context: Pope Francis_
 
 ### [The Golden Globe Awards are held in Beverly Hills, California, with ''12 Years a Slave'' winning the Golden Globe Award for Best Motion Picture - Drama and ''American Hustle'' winning the Golden Globe Award for Best Motion Picture - Musical or Comedy. ](/news/2014/01/12/the-golden-globe-awards-are-held-in-beverly-hills-california-with-12-years-a-slave-winning-the-golden-globe-award-for-best-motion-pict.md)
-&quot;12 Years a Slave&quot; went into the 71st Golden Globe Awards on Sunday night with seven nominations but was passed over again and again. That is, until the last award of the evening, and arguably the best of them all. The harrowing portrayal of slavery in America took home the prize for best drama of 2013.
+&quot;12 Years a Slave&quot; went into the 71st Golden Globe Awards on Sunday night with seven nominations but was passed over again and again. That is, until the last award of the evening, and arguably the best of them all. The harrowing portrayal of slavery in America took home the prize for best ...
 
 ## [Previous Day...](/news/2014/01/11/index.md)
 

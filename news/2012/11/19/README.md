@@ -1,7 +1,7 @@
 ## [2012-11-19](/news/2012/11/19/index.md)
 
 ### [Operation Pillar of Defense:Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/operation-pillar-of-defense-pisraeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-over.md)
-Two major Israeli newspapers are reporting that rockets fired from Egypt have hit Israel.&nbsp; Terrorists in the&nbsp;Sinai Peninsula&nbsp;launched rockets into Israel Friday night, reports the Jerusalem Post. The rockets fell near an Israeli village on the southern border, causing some damage, but no injuries. The&nbsp;Israeli daily&nbsp;Haaretz&nbsp;reports,&nbsp;Rockets fired from direction of Egypt toward Eshkol Regional Council. 
+Two major Israeli newspapers are reporting that rockets fired from Egypt have hit Israel.&nbsp; Terrorists in the&nbsp;Sinai Peninsula&nbsp;launched rockets into Israel Friday night, reports the Jerusalem Post. The rockets fell near an Israeli village on the southern border, causing some damage, but...
 
 ### [Syrian civil war:The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-pthe-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md)
 Announcement comes as new video emerges purporting to show opposition fighters announcing their rejection of coalition.

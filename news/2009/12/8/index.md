@@ -4,7 +4,7 @@
 _Context: Japan, yen_
 
 ### [ Anti-government protests in Iran continue at universities for a second day, with over 200 arrests. ](/news/2009/12/8/anti-government-protests-in-iran-continue-at-universities-for-a-second-day-with-over-200-arrests.md)
-&lt;p>Pro-government militiamen assaulted university students demonstrating for a second straight day Tuesday and hardliners on motorcycles harassed the top opposition leader at his office, signs of a possible intensified crackdown after the biggest anti-government demonstrations in months.&nbsp;The new unrest came as Iran&#39;s top prosecutor warned of even.&lt;/p>
+&lt;p>Pro-government militiamen assaulted university students demonstrating for a second straight day Tuesday and hardliners on motorcycles harassed the top opposition leader at his office, signs of a possible intensified crackdown after the biggest anti-government demonstrations in months.&nbsp;The...
 
 ### [ Gunmen in Honduras shoot dead the head of the country's anti-drug trafficking unit, Julian Aristides Gonzalez. ](/news/2009/12/8/gunmen-in-honduras-shoot-dead-the-head-of-the-country-s-anti-drug-trafficking-unit-julian-aristides-gonzalez.md)
 _Context: Honduras, Julian Aristides Gonzalez, drug trafficking_

@@ -4,7 +4,7 @@
 _Context: Darfur, Sudan_
 
 ### [Three people are shot dead and dozens are injured by riot police clashing with at least 20,000 protesters gathered outside the prime minister's office in Tirana, Albania. Deputy prime minister Ilir Meta has resigned after becoming embroiled in a fraud scandal and protesters have called for the rest of the government to resign. ](/news/2011/01/21/three-people-are-shot-dead-and-dozens-are-injured-by-riot-police-clashing-with-at-least-20-000-protesters-gathered-outside-the-prime-ministe.md)
-At&#x20;least&#x20;three&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;dozens&#x20;injured&#x20;during&#x20;police&#x20;clashes&#x20;in&#x20;the&#x20;Albanian&#x20;capital&#x20;Friday&#x20;after&#x20;thousands&#x20;of&#x20;angry&#x20;protesters&#x20;gathered&#x20;outside&#x20;the&#x20;prime&#x20;minister&#x2019;s&#x20;office&#x20;to&#x20;demand&#x20;an&#x20;early&#x20;general&#x20;election.
+At&#x20;least&#x20;three&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;dozens&#x20;injured&#x20;during&#x20;police&#x20;clashes&#x20;in&#x20;the&#x20;Albanian&#x20;capital&#x20;Friday&#x20;after&#x20;thousands&#x20;of&#x20;angry&#x20;protesters&#x20;gathered&#x20;outside&#x20;the&#x20;prime&#x20;m...
 
 ### [A Nigerian general says armies in West Africa are ready to oust Ivorian president Laurent Gbagbo by force. ](/news/2011/01/21/a-nigerian-general-says-armies-in-west-africa-are-ready-to-oust-ivorian-president-laurent-gbagbo-by-force.md)
 _Context: Ivory Coast, Laurent Gbagbo, Nigeria, West Africa_

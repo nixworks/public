@@ -61,7 +61,7 @@ Britain&#39;s Foreign Office has apologised for a memo by a civil servant sugges
 President Jacob Zuma has revealed his HIV status as he launched a scaled-up counselling and testing campaign.
 
 ### [Bollywood superstar Amitabh Bachchan reveals he has cirrhosis of the liver. ](/news/2010/04/25/bollywood-superstar-amitabh-bachchan-reveals-he-has-cirrhosis-of-the-liver.md)
-Mikey Bustos has &quot;a couple million or so,&quot; he says, the result of his growing popularity on YouTube (by the way, the real number is over 47 million!). His parodies, covers, and his impressive handling of a 10-part acappella rendition of &quot;Wake Me Up&quot; by Avicii have only expanded on the love he got from fans of Canadian Idol, where he was one of the runners-up in 2003.
+Mikey Bustos has &quot;a couple million or so,&quot; he says, the result of his growing popularity on YouTube (by the way, the real number is over 47 million!). His parodies, covers, and his impressive handling of a 10-part acappella rendition of &quot;Wake Me Up&quot; by Avicii have only expanded o...
 
 ### [Professor Stephen Hawking warns humans about the dangers of contacting extraterrestrials. ](/news/2010/04/25/professor-stephen-hawking-warns-humans-about-the-dangers-of-contacting-extraterrestrials.md)
 _Context: Stephen Hawking, extraterrestrials_

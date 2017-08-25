@@ -10,7 +10,7 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 _Context: Bahrain, Bani Jamra_
 
 ### [The North Korean government denies the U.S. Federal Bureau of Investigations's (FBI) accusation of involvement in hacking Sony's computers, asking the U.S. for a joint investigation and threatening "serious consequences" if the United States refuses the offer of cooperation. ](/news/2014/12/20/the-north-korean-government-denies-the-u-s-federal-bureau-of-investigations-s-fbi-accusation-of-involvement-in-hacking-sony-s-computers.md)
-Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as an “unfounded rumor,” North Korea on Saturday proposed a “joint investigation” into the hacking that prompted the studio to cancel the theatrical release of the comedy “The Interview,” which centers on a plot to assassinate North Korean leader Kim Jong Un .
+Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as an “unfounded rumor,” North Korea on Saturday proposed a “joint investigation” into the hacking that prompted the studio to cancel the theatrical release of the comedy “The Interview,” which centers on a plot ...
 
 ### [Turkey issues an arrest warrant for Fethullah Gulen, who currently lives in self-imposed exile in the United States. ](/news/2014/12/20/turkey-issues-an-arrest-warrant-for-fethullah-ga1-4len-who-currently-lives-in-self-imposed-exile-in-the-united-states.md)
 _Context: Fethullah Gulen, Turkey, United States_

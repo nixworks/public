@@ -1,7 +1,7 @@
 ## [2016-01-27](/news/2016/01/27/index.md)
 
 ### [Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. ](/news/2016/01/27/suicide-bombers-blow-themselves-up-in-the-northeast-nigerian-town-of-chibok-killing-at-least-13-and-injuring-at-least-30-others.md)
-At least 13 people were killed on Wednesday when three suicide bombers blew themselves up in the northeast Nigerian town of Chibok, where Boko Haram kidnapped more than 200 schoolgirls. The blasts happened at about midday (1100 GMT) as the remote town in Borno state was packed with traders from surrounding
+At least 13 people were killed on Wednesday when three suicide bombers blew themselves up in the northeast Nigerian town of Chibok, where Boko Haram kidnapped more than 200 schoolgirls. The blasts happened at about midday (1100 GMT) as the remote town in Borno state was packed with traders from surr...
 
 ### [Shareholders of Royal Dutch Shell approve that company's acquisition of BG Group, a deal expected to close on February 15. ](/news/2016/01/27/shareholders-of-royal-dutch-shell-approve-that-company-s-acquisition-of-bg-group-a-deal-expected-to-close-on-february-15.md)
 Royal Dutch Shell (RDSa.L) shareholders approved its $50 billion takeover of BG Group BG.L on Wednesday, clearing the last main hurdle to creating the biggest liquefied natural gas (LNG) trader in the world.

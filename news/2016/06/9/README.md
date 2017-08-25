@@ -58,7 +58,7 @@ Clinton has widely been viewed as Obama’s preferred candidate throughout the 2
 The economist Pedro Pablo Kuczynski wins a cliff-hanger presidential election in Peru, but unclear ballots must be settled by electoral court.
 
 ### [Researchers in Iceland report on CarbFix, in the journal ''Science'', that carbon dioxide emissions can be pumped into the earth and changed chemically to stone &nbsp;-- significantly  faster than expected. ](/news/2016/06/9/researchers-in-iceland-report-on-carbfix-in-the-journal-science-that-carbon-dioxide-emissions-can-be-pumped-into-the-earth-and-changed.md)
-Scientists and engineers working at a major power plant in Iceland have shown for the first time that carbon dioxide emissions can be pumped into the earth and changed chemically to a solid within months—radically faster than anyone had predicted. The finding may help address a fear that so far has plagued the idea of capturing and storing CO2 underground: that emissions could seep back into the air or even explode out. A study describing the method appears this week in the leading journal Science.
+Scientists and engineers working at a major power plant in Iceland have shown for the first time that carbon dioxide emissions can be pumped into the earth and changed chemically to a solid within months—radically faster than anyone had predicted. The finding may help address a fear that so far ha...
 
 ## [Previous Day...](/news/2016/06/8/index.md)
 

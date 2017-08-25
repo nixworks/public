@@ -13,7 +13,7 @@ _Context: Lebanese Prime Minister, Lebanon, Margaret Scobey, Rafik Hariri, Syria
 _Context: 2004, China, Fuxin City, Liaoning, mine, province_
 
 ### [ The European Court of Human Rights, deciding about the so-called McLibel case, rules in favour of environmental campaigners Helen Steel and David Morris and their claim that their trial was unfair. The pair said their human rights were violated when their criticism of McDonald's was ruled  libel. The case has taken 15 years. ](/news/2005/02/15/the-european-court-of-human-rights-deciding-about-the-so-called-mclibel-case-rules-in-favour-of-environmental-campaigners-helen-steel-and.md)
-_Context: European Court of Human Rights, Human rights, McDonald's, McLibel case, libel_
+_Context: European Court of Human Rights, Human rights, McDonald's restaurants, McLibel case, libel_
 
 ### [ In South Africa, President Thabo Mbeki announces that the country's elite crime-fighting unit Scorpions will be investigated. There have been claims of political vendettas and mismanagement of funds. ](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.md)
 _Context: President, Scorpions, Thabo Mbeki, management, vendetta_

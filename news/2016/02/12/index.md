@@ -4,7 +4,7 @@
 Five U.N. peacekeepers were killed when their base in northern Mali was hit by mortars, gunfire and a truck bomb on Friday, an attack that a local separatist group blamed on Islamist militants.
 
 ### [A Libyan Air Force MiG-23 is shot down over the city of Benghazi as it conducted airstrikes on Shura Council of Benghazi Revolutionaries positions in the coastal city. A Tobruk-based military source said the pilot survived having parachuted to safety, but his whereabouts were not immediately clear. ](/news/2016/02/12/a-libyan-air-force-mig-23-is-shot-down-over-the-city-of-benghazi-as-it-conducted-airstrikes-on-shura-council-of-benghazi-revolutionaries-pos.md)
-A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot down Friday as it carried out air strikes on opposition positions in the coastal city of Benghazi, the military said. Nasser el-Hassi, spokesman for the government&#x27;s forces, told AFP the plane was &quot;shot down in Qaryunes
+A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot down Friday as it carried out air strikes on opposition positions in the coastal city of Benghazi, the military said. Nasser el-Hassi, spokesman for the government&#x27;s forces, told AFP the plane was &quot;shot down in...
 
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)
 _Context: Aden, Yemeni conflict, policemen_

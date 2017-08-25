@@ -19,7 +19,7 @@ MANILA, Philippines &ndash; More than 10,000 families in Cotabato were evacuated
 _Context: Dallas Love Field, George W. Bush, Gulfstream IV, Louisville International Airport, Philadelphia_
 
 ### [The City of Piedras Negras, Mexico was devastated by the June 14-15, 2013 flood affecting an estimated 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivisions (Colonias) flooded. ](/news/2013/06/15/the-city-of-piedras-negras-mexico-was-devastated-by-the-june-14-15-2013-flood-affecting-an-estimated-40-000-50-000-residents-approximatel.md)
-By: Jose G. Landa An Exclusive Eagle Pass Business Journal News Story/Copyright 2013 The City of Piedras Negras, Coahuila, Mexico was devastated by the June 14-15, 2013 flood affecting between 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivisions flooded, announced Piedras Negras Mayor Oscar...
+By: Jose G. Landa An Exclusive Eagle Pass Business Journal News Story/Copyright 2013 The City of Piedras Negras, Coahuila, Mexico was devastated by the June 14-15, 2013 flood affecting between 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivis...
 
 ### [Egyptian President  Mohamed Morsi cuts diplomatic ties with Syria and orders the Egyptian embassy in Damascus to close. ](/news/2013/06/15/egyptian-president-mohamed-morsi-cuts-diplomatic-ties-with-syria-and-orders-the-egyptian-embassy-in-damascus-to-close.md)
 Egypt has cut diplomatic ties with Syria and has ordered the Damascus Embassy in Cairo to be closed, the Egyptian president says.

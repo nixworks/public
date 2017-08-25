@@ -34,7 +34,7 @@ Duterte won the May 9 election by landslide largely on a pledge to kill tens of 
 The gunman involved in the shooting of 12 police officers in Dallas was a former Army reservist who served in Afghanistan.
 
 ### [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md)
-Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western countries for his government&#x27;s failure to pay its workers on time, which led to a crippling strike by civil servants this week. &quot;We have problems with sanctions, the United States is yet to remove them and the EU has
+Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western countries for his government&#x27;s failure to pay its workers on time, which led to a crippling strike by civil servants this week. &quot;We have problems with sanctions, the United States is yet to remove them and the EU...
 
 ## [Previous Day...](/news/2016/07/7/index.md)
 

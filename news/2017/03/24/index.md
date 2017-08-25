@@ -34,7 +34,7 @@ _Context: Donald Trump, Keystone XL, United States_
 _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Patient Protection and Affordable Care Act_
 
 ### [Gilmar Pisas is sworn in as Prime Minister of Curacao. ](/news/2017/03/24/gilmar-pisas-is-sworn-in-as-prime-minister-of-curaassao.md)
-WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The party of the convicted former Prime Minister Gerrit Schotte returns to power thanks to the appointment of his party colleague as head of the interim government. According to Schotte, Pisas’ appointment is just temporarily. Pisas will have to make way for&hellip;
+WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The party of the convicted former Prime Minister Gerrit Schotte returns to power thanks to the appointment of his party colleague as head of the interim government. According to Schotte, Pisas’ appointment is just temporari...
 
 ### [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md)
 Two astronauts are taking a spacewalk outside the International Space Station today (March 24) to prepare the outpost for a new docking ring among other upgrades.

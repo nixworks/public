@@ -4,7 +4,7 @@
 Hamas says militant chief Mohammed Deif is alive and leading its response to Israeli air strikes that killed 19 people in Gaza, including his wife and child.
 
 ### [Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md)
-DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebels left dozens of civilians dead on Wednesday as Ukrainian troops pushed on with a bloody offensive to break the insurgency in the east of the country.Deadly battles to crush the ailing rebellion appeared to intensify ahead of a fresh round of diplomatic haggling that will see the presidents of Russia and Ukraine sit down next week for their first meeting in months.
+DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebels left dozens of civilians dead on Wednesday as Ukrainian troops pushed on with a bloody offensive to break the insurgency in the east of the country.Deadly battles to crush the ailing rebellion appeared to intensify ah...
 
 ### [Glencore announces a share buyback program returning $1 billion to its investors, while reporting above-expectations first-half profit. ](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.md)
 Commodities group Glencore (GLEN.L) became the first of the large miners to honor promises to return cash to shareholders, announcing a share buyback program of up to $1 billion as it reported forecast-beating first-half profit.

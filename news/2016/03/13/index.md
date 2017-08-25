@@ -1,7 +1,7 @@
 ## [2016-03-13](/news/2016/03/13/index.md)
 
 ### [An explosion occurs in central Ankara, Turkey, with at least 34 people killed and 125 wounded. ](/news/2016/03/13/an-explosion-occurs-in-central-ankara-turkey-with-at-least-34-people-killed-and-125-wounded.md)
-Officials say at least 34 people have been killed and 125 wounded after a suicide bomb attack in the Turkish capital of Ankara. A car bomb was detonated close to busy bus stops near Ankara&#039;s main square in the Kizilay neighbourhood. Health Minister Mehmet Muezzinoglu said around 19 people had been seriously hurt in the incident, which comes just a few weeks after a bomb attack on a military convoy in the city killed 28 people.
+Officials say at least 34 people have been killed and 125 wounded after a suicide bomb attack in the Turkish capital of Ankara. A car bomb was detonated close to busy bus stops near Ankara&#039;s main square in the Kizilay neighbourhood. Health Minister Mehmet Muezzinoglu said around 19 people had b...
 
 ### [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md)
 _Context: Iran, Kurdistan Workers' Party, Turkey, Turkey-PKK conflict (2015-present), Turkish troops, Yuksekova, curfew_

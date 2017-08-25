@@ -34,7 +34,7 @@ _Context: Democratic Party, Ichiro Ozawa_
 Gilani held guilty of contempt but will not be arrested
 
 ### [The Special Court for Sierra Leone at The Hague delivers its verdict in the trial of former President of Liberia Charles Taylor on charges of arming Sierra Leone's rebels in return for "blood diamonds" in the 1990s. He is convicted on charges related to aiding and abetting war crimes but acquitted of charges of ordering them. ](/news/2012/04/26/the-special-court-for-sierra-leone-at-the-hague-delivers-its-verdict-in-the-trial-of-former-president-of-liberia-charles-taylor-on-charges-o.md)
-The&#x20;Special&#x20;Court&#x20;for&#x20;Sierra&#x20;Leone&#x20;found&#x20;Liberia&#x27;s&#x20;former&#x20;president,&#x20;Charles&#x20;Taylor,&#x20;guilty&#x20;of&#x20;aiding&#x20;and&#x20;abetting&#x20;war&#x20;crimes&#x20;and&#x20;crimes&#x20;against&#x20;humanity&#x20;Thursday&#x20;in&#x20;the&#x20;first-ever&#x20;international&#x20;judgment&#x20;against&#x20;a&#x20;former&#x20;head&#x20;of&#x20;state.
+The&#x20;Special&#x20;Court&#x20;for&#x20;Sierra&#x20;Leone&#x20;found&#x20;Liberia&#x27;s&#x20;former&#x20;president,&#x20;Charles&#x20;Taylor,&#x20;guilty&#x20;of&#x20;aiding&#x20;and&#x20;abetting&#x20;war&#x20;crimes&#x20;and&#x20;crimes&#x20;against&#x20;humanity&#x20;Thursday&#x20;in&#x20;the&...
 
 ### [Revelations surface that ousted Chinese official Bo Xilai spied on Chinese President and Communist Party leader Hu Jintao. ](/news/2012/04/26/revelations-surface-that-ousted-chinese-official-bo-xilai-spied-on-chinese-president-and-communist-party-leader-hu-jintao.md)
 Bo Xilai was toppled amid accusations that his wife arranged the killing of a British businessman, but wiretapping may have been another compelling reason party officials turned on him.

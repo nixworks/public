@@ -25,7 +25,7 @@ _Context: 2008-2009 Gaza War, Britain, Israel_
 _Context: Urumqi, Uyghur_
 
 ### [ The Movement for the Emancipation of the Niger Delta claims an attack on a oil depot in Lagos, Nigeria. ](/news/2009/07/13/the-movement-for-the-emancipation-of-the-niger-delta-claims-an-attack-on-a-oil-depot-in-lagos-nigeria.md)
-By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEND) yesterday switched its ongoing offensive, codenamed Hurricane Moses outside the Niger-Delta region, setting ablaze the Atlas Cove Jetty in Lagos state. The groupâ€™s spokesman, Jomo Gbomo who confirmed the unparalleled attack in an online statement on Sunday said, â€œThe depot and loadingRead More
+By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEND) yesterday switched its ongoing offensive, codenamed Hurricane Moses outside the Niger-Delta region, setting ablaze the Atlas Cove Jetty in Lagos state. The groupâ€™s spokesman, Jomo Gbomo who confirmed the unpara...
 
 ### [ Russian President Dmitry Medvedev makes his first visit to South Ossetia. ](/news/2009/07/13/russian-president-dmitry-medvedev-makes-his-first-visit-to-south-ossetia.md)
 _Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin, South Ossetia_

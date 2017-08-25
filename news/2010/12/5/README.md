@@ -59,7 +59,7 @@ _Context: 250,000 documents, Jose Luis Rodriguez Zapatero, Rolls-Royce, United S
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...
 
 ### [Former South African President Thabo Mbeki begins mediation efforts in the Ivory Coast following the disputed presidential election. ](/news/2010/12/5/former-south-african-president-thabo-mbeki-begins-mediation-efforts-in-the-ivory-coast-following-the-disputed-presidential-election.md)
-Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20;meeting&#x20;with&#x20;rival&#x20;contenders&#x20;for&#x20;the&#x20;Ivorian&#x20;presidency&#x20;Laurent&#x20;Gbagbo&#x20;and&#x20;Alassane&#x20;Ouattara&#x20;in&#x20;Abidjan&#x20;on&#x20;Sunday&#x20;in&#x20;an&#x20;attempt&#x20;to&#x20;mediate&#x20;a&#x20;resolution&#x20;to&#x20;the&#x20;current&#x20;political&#x20;crisis.
+Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20;meeting&#x20;with&#x20;rival&#x20;contenders&#x20;for&#x20;the&#x20;Ivorian&#x20;presidency&#x20;Laurent&#x20;Gbagbo&#x20;and&#x20;Alassane&#x20;Ouattara&#x20;in&#x20;Abidjan&#x20;on&#x20;Sunday&#x20;in&#x20;an&#x20;att...
 
 ### [Egypt holds parliamentary runoff elections following alleged electoral fraud in last week's first round. ](/news/2010/12/5/egypt-holds-parliamentary-runoff-elections-following-alleged-electoral-fraud-in-last-week-s-first-round.md)
 Ruling party set to dominate second round of parliamentary polls, hit by withdrawal of two main opposition blocs.

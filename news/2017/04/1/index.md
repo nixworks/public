@@ -13,7 +13,7 @@ _Context: Indonesia, Java_
 Heavy rainfall caused the banks of the Mocoa River and three tributaries to overflow, resulting in the disaster.
 
 ### [An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. ](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-seine-saint-denis-france-injuring-at-least-18-people.md)
-A huge explosion rocked a popular French carnival, injuring at least 18 people. Onlookers were hit by chunks of burning wood and other debris after the fireball erupted from the guy-style figure known as Mr Carnival which was made of straw and wood. &quot;Many are injured in the face, and all are in hospital,&quot; said Nathalie Crespin, a spokeswoman for the Paris fire brigade, adding that five were &quot;in a very bad way.&quot; 
+A huge explosion rocked a popular French carnival, injuring at least 18 people. Onlookers were hit by chunks of burning wood and other debris after the fireball erupted from the guy-style figure known as Mr Carnival which was made of straw and wood. &quot;Many are injured in the face, and all are in...
 
 ### [Authorities cannot contact the South Korean cargo freighter ''Stellar Daisy''. It is believed that the ship sunk off the coast of Uruguay. ](/news/2017/04/1/authorities-cannot-contact-the-south-korean-cargo-freighter-stellar-daisy-it-is-believed-that-the-ship-sunk-off-the-coast-of-uruguay.md)
 More than 20 crew are feared dead after a South Korean cargo vessel went missing in the South Atlantic after making a mayday call.

@@ -1,7 +1,7 @@
 ## [2014-08-19](/news/2014/08/19/index.md)
 
 ### [War in Donbass:An American volunteer in the Donbas Battalion, identified only under his nom de guerre of "Franko", becomes the first officially acknowledged foreign casualty on the Ukrainian side of the military conflict against pro-Russian insurgents in eastern Ukraine. ](/news/2014/08/19/war-in-donbass-pan-american-volunteer-in-the-donbas-battalion-identified-only-under-his-nom-de-guerre-of-franko-becomes-the-first-offici.md)
-Ukrainian government forces have conducted a series of successful offensives in the area of the anti-terrorist operation (ATO), encircling the town of Horlivka in Donetsk region and taking full control of a section of the M-04 highway near Luhansk, the Information Resistance group reports, the coordinator of the group, Dmytro Tymchuk, said on Facebook.
+Ukrainian government forces have conducted a series of successful offensives in the area of the anti-terrorist operation (ATO), encircling the town of Horlivka in Donetsk region and taking full control of a section of the M-04 highway near Luhansk, the Information Resistance group reports, the coord...
 
 ### [Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into-israel-reaching-jerusalem-a.md)
 _Context: 2014 Israel-Gaza conflict, Hamas, Israel, Jerusalem, Tel Aviv_

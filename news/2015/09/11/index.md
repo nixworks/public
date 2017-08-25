@@ -52,7 +52,7 @@ _Context: California State Legislature, assisted suicide_
 Singapore&#039;s ruling party has romped to a substantial election victory and increased its share of the vote and seat tally as it brushed off an opposition challenge in the city state&#039;s most hotly contested polls.
 
 ### [CNN announces the September 16, prime time  presidential debate panel.  Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-d.md)
-Carly Fiorina will join 10 other Republican presidential hopefuls at the next presidential debate at the Ronald Reagan Presidential Library next Wednesday.CNN announced the lineup of candidates invited to participate in the primetime debate. The remaining candidates will participate in a separate debate that afternoon.
+Carly Fiorina will join 10 other Republican presidential hopefuls at the next presidential debate at the Ronald Reagan Presidential Library next Wednesday.CNN announced the lineup of candidates invited to participate in the primetime debate. The remaining candidates will participate in a separate de...
 
 ## [Previous Day...](/news/2015/09/10/index.md)
 

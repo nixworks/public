@@ -13,7 +13,7 @@ The US has issued sanctions against hundreds of Syrian scientists and officials 
 Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters turned city into a battle zone before fleeing in speedboats with about $6m
 
 ### [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md)
-_Context: International Criminal Court, Netherlands, Philippine Drug War, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, mass murder_
+_Context: International Criminal Court, Netherlands, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, drug war, mass murder_
 
 ### [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md)
 Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor health.
@@ -25,7 +25,7 @@ Marine Le Pen says she will be above &quot;partisan considerations&quot; as she 
 _Context: King of Malaysia, Muhammad V_
 
 ### [The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". ](/news/2017/04/24/the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-election-for-the-first-time-since-its-form.md)
-Britain’s Communist party will not field any general election candidates for the first time since its formation in 1920 in order to throw its weight behind Jeremy Corbyn’s Labour party. Declaring its endorsement of Labour’s leader, the Communist Party of Britain said victory for Mr Corbyn at the general election in June would be “the first step towards a formation of left-led government at Westminster”.
+Britain’s Communist party will not field any general election candidates for the first time since its formation in 1920 in order to throw its weight behind Jeremy Corbyn’s Labour party. Declaring its endorsement of Labour’s leader, the Communist Party of Britain said victory for Mr Corbyn at t...
 
 ### [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md)
 She is currently on her third long-duration stay aboard the space station

@@ -25,7 +25,7 @@ _Context: Taiwan, Typhoon Saola_
 _Context: Interstate 55 in Illinois, Litchfield, Megabus_
 
 ### [Tropical Storm Ernesto forms in the Atlantic Ocean with storm warnings issued for Barbados, St. Vincent and the Grenadines, Dominica, St. Lucia, Martinique, and Guadelope. ](/news/2012/08/2/tropical-storm-ernesto-forms-in-the-atlantic-ocean-with-storm-warnings-issued-for-barbados-st-vincent-and-the-grenadines-dominica-st-lu.md)
-After more than a month hiatus, a tropical storm is alive in the Atlantic basin. The National Hurricane Center has upgraded tropical depression number 5 to tropical storm Ernesto. The storm&rsquo;s maximum sustained winds are around 45 mph and gradual strengthening is forecast as it moves across the Windward islands into the Caribbean.
+After more than a month hiatus, a tropical storm is alive in the Atlantic basin. The National Hurricane Center has upgraded tropical depression number 5 to tropical storm Ernesto. The storm&rsquo;s maximum sustained winds are around 45 mph and gradual strengthening is forecast as it moves across the...
 
 ### [20 people are jailed in China on charges of terrorism in the Xinjiang region. ](/news/2012/08/2/20-people-are-jailed-in-china-on-charges-of-terrorism-in-the-xinjiang-region.md)
 Chinese authorities have jailed 20 people in far-western Xinjiang who they said were from five terrorist groups involved in “spreading separatism” through the Internet, amid a “strike hard” campaign t

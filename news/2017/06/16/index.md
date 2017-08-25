@@ -4,7 +4,7 @@
 _Context: Damascus Gate, Hamas, Islamic State of Iraq and the Levant, Israel, Jerusalem, PFLP, Palestinians, two simultaneous attacks_
 
 ### [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md)
-The Russian defence ministry says it believes it may have killed the Isis leader Abu Bakr Al-Baghdadi in an air strike south of Raqqa, Syria. In a statement, the ministry said it was still seeking confirmation following the strike in late May. The air strike targeted a meeting of Isis leaders on 28 May, Russian news agencies cited the defence ministry as saying.
+The Russian defence ministry says it believes it may have killed the Isis leader Abu Bakr Al-Baghdadi in an air strike south of Raqqa, Syria. In a statement, the ministry said it was still seeking confirmation following the strike in late May. The air strike targeted a meeting of Isis leaders on 28 ...
 
 ### [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md)
 The deal marks the biggest push yet by Amazon into traditional bricks and mortar retailing.

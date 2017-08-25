@@ -16,7 +16,7 @@ Mr. Bronfman helped the liquor company acquire other businesses and make a stake
 _Context: Gavle, Sweden, Yule goat_
 
 ### [Two NASA astronauts at the International Space Station begin a series of spacewalks to replace a faulty ammonia coolant pump. ](/news/2013/12/21/two-nasa-astronauts-at-the-international-space-station-begin-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.md)
-Astronauts sailed through the first of a series of urgent repair spacewalks Saturday to revive a crippled cooling line at the International Space Station. Astronauts removed an old space station pump Saturday, sailing through the first of a series of urgent repair spacewalks to revive a crippled cooling line.
+Astronauts sailed through the first of a series of urgent repair spacewalks Saturday to revive a crippled cooling line at the International Space Station. Astronauts removed an old space station pump Saturday, sailing through the first of a series of urgent repair spacewalks to revive a crippled coo...
 
 ## [Previous Day...](/news/2013/12/20/index.md)
 

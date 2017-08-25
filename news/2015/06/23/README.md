@@ -13,7 +13,7 @@ _Context: Australian, Miles Franklin Award, Sofie Laguna, The Eye of the Sheep_
 _Context: Greek_
 
 ### [The death toll from the 2015 Pakistan heatwave rises to 450. ](/news/2015/06/23/the-death-toll-from-the-2015-pakistan-heatwave-rises-to-450.md)
-Nearly 700 people have died in a severe three-day heatwave in Pakistan, officials said Tuesday, with medics battling to treat patients as a state of emergency was declared in hospitals. The majority of people died in government-run hospitals in the port city of Karachi, Pakistan&#x27;s economic hub of
+Nearly 700 people have died in a severe three-day heatwave in Pakistan, officials said Tuesday, with medics battling to treat patients as a state of emergency was declared in hospitals. The majority of people died in government-run hospitals in the port city of Karachi, Pakistan&#x27;s economic hub ...
 
 ### [South Sudan declares a cholera outbreak after 18 people die and 171 are infected. ](/news/2015/06/23/south-sudan-declares-a-cholera-outbreak-after-18-people-die-and-171-are-infected.md)
 _Context: South Sudan, cholera_

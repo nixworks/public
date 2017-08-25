@@ -28,7 +28,7 @@ Rescue teams on Saturday struggled to reach villages devastated by a massive mud
 UNICEF and WHO collaborate in major bid to contain disease that risks spiralling in regional epidemic.
 
 ### [  The WHO declares Sierra Leone free from Ebola transmissions. ](/news/2015/11/7/the-who-declares-sierra-leone-free-from-ebola-transmissions.md)
-The&#x20;World&#x20;Health&#x20;Organization&#x20;declared&#x20;Sierra&#x20;Leone&#x20;free&#x20;from&#x20;Ebola&#x20;transmissions&#x20;on&#x20;Saturday,&#x20;as&#x20;West&#x20;Africa&#x20;battles&#x20;to&#x20;stamp&#x20;out&#x20;the&#x20;deadly&#x20;virus&#x20;which&#x20;continues&#x20;to&#x20;grip&#x20;neighboring&#x20;Guinea.
+The&#x20;World&#x20;Health&#x20;Organization&#x20;declared&#x20;Sierra&#x20;Leone&#x20;free&#x20;from&#x20;Ebola&#x20;transmissions&#x20;on&#x20;Saturday,&#x20;as&#x20;West&#x20;Africa&#x20;battles&#x20;to&#x20;stamp&#x20;out&#x20;the&#x20;deadly&#x20;virus&#x20;which&#x20;continues&#x20;to&#x20;gri...
 
 ### [  Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-first-meeting-between-a-chinese-and-taiwanese-lea.md)
 _Context: 2015 Ma-Xi Meeting, Chinese Communist Revolution, Cross-Strait relations, Ma Ying-jeou, Singapore, Xi Jinping_

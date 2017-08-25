@@ -4,7 +4,7 @@
 _Context: France, Manuel Valls, Prime Minister_
 
 ### [The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-has-killed-american-and-italian-al-qae.md)
-President Obama said today that he takes &quot;full responsibility&quot; for a U.S. government counterterrorism operation that killed two innocent hostages held by al Qaeda. Dr. Warren Weinstein, an American held by the terror group since 2011, and Giovanni Lo Porto, an Italian national who had been an al...
+President Obama said today that he takes &quot;full responsibility&quot; for a U.S. government counterterrorism operation that killed two innocent hostages held by al Qaeda. Dr. Warren Weinstein, an American held by the terror group since 2011, and Giovanni Lo Porto, an Italian national who had been...
 
 ### [Bloomberg News reports that Comcast will walk away from its $45 billion takeover for Time Warner Cable. ](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.md)
 Fourteen months after unveiling a $45.2 billion merger that would create a new Internet and cable giant, Comcast Corp. is planning to walk away from its proposed takeover of Time Warner Cable Inc., people with knowledge of the matter said.

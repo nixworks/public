@@ -7,7 +7,7 @@ Iraqi officials say a suicide blast targeting security forces and subsequent cla
 _Context: Istanbul, Turkish, kills, suicide bomber_
 
 ### [Officials in the American state of Massachusetts open a time capsule left behind by founding fathers Paul Revere and Samuel Adams. ](/news/2015/01/6/officials-in-the-american-state-of-massachusetts-open-a-time-capsule-left-behind-by-founding-fathers-paul-revere-and-samuel-adams.md)
-BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and other artifacts left by U.S. founding fathers Samuel Adams and Paul Revere was opened by Massachusetts officials on Tuesday. &quot;The history of Massachusetts is the history of America,&quot; Secretary of the Commonwealth
+BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and other artifacts left by U.S. founding fathers Samuel Adams and Paul Revere was opened by Massachusetts officials on Tuesday. &quot;The history of Massachusetts is the history of America,&quot; Secretary of the Commonwealt...
 
 ### [American luxury fashion company Coach, Inc. agrees to purchase shoe brand Stuart Weitzman for $574 million. ](/news/2015/01/6/american-luxury-fashion-company-coach-inc-agrees-to-purchase-shoe-brand-stuart-weitzman-for-574-million.md)
 Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued at up to $574 million, a rare acquisition for the purse retailer as it seeks to expand its reach.

@@ -19,7 +19,7 @@ _Context: Galati County, Romania_
 _Context: Boulder County, Colorado, Floods in the United States: 2001-present_
 
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
-HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish suburban garage blew up on Friday evening, killing one man and causing the evacuation of hundreds of residents, police said. They said around 50 houses in the Karihaara suburb of Kemi in northern Finland had been evacuated
+HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish suburban garage blew up on Friday evening, killing one man and causing the evacuation of hundreds of residents, police said. They said around 50 houses in the Karihaara suburb of Kemi in northern Finland had been evacuate...
 
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
 _Context: Crossville, Tennessee, U.S._

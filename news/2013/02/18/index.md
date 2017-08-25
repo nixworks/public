@@ -7,7 +7,7 @@ Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,0
 _Context: English, Kevin Ayers, singer-songwriter_
 
 ### [A fishing vessel capsizes off of Liverpool, Nova Scotia, Canada, leaving 5 fishermen missing in the frigid waters. ](/news/2013/02/18/a-fishing-vessel-capsizes-off-of-liverpool-nova-scotia-canada-leaving-5-fishermen-missing-in-the-frigid-waters.md)
-A massive search was set to continue through Monday night off Liverpool for five fishermen who were aboard a boat that reportedly capsized late Sunday. An emergency beacon was set off just after 11 p.m., after the 14-metre vessel named the Miss Ally went down in heavy seas and near hurricane-force winds.
+A massive search was set to continue through Monday night off Liverpool for five fishermen who were aboard a boat that reportedly capsized late Sunday. An emergency beacon was set off just after 11 p.m., after the 14-metre vessel named the Miss Ally went down in heavy seas and near hurricane-force w...
 
 ### [At least 15 people are killed in Indonesia after flooding and multiple landslides ravage the North Sulawesi province. ](/news/2013/02/18/at-least-15-people-are-killed-in-indonesia-after-flooding-and-multiple-landslides-ravage-the-north-sulawesi-province.md)
 Rescuers found five more bodies in the mud after flooding and landslides in northern Indonesia, bringing the death toll to 15 after the disaster that sent thousands fleeing for safe ground, police and witnesses said Monday.

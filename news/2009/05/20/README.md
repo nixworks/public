@@ -37,7 +37,7 @@ _Context: Baghdad, Iraq, car bomb_
 _Context: Canada, Ontario, Ontario Provincial Police, Victoria Stafford, Woodstock, Ontario, abducting, murder_
 
 ### [ FC Shakhtar Donetsk defeat SV Werder Bremen to win the final UEFA Cup. ](/news/2009/05/20/fc-shakhtar-donetsk-defeat-sv-werder-bremen-to-win-the-final-uefa-cup.md)
-Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc). The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA&#39;s club competitions.
+Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League...
 
 ### [ Kris Allen is crowned the new ''American Idol''.](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.md)
 _Context: American Idol, Kris Allen_

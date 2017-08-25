@@ -4,7 +4,7 @@
 _Context: Internal conflict in Burma, Kokang, Myanmar, Myanmar National Democratic Alliance Army_
 
 ### [The Maltese Navy and Italian Coast Guard are mounting a rescue operation for a boat that capsized between Libya and Italy with up to 700 people aboard. ](/news/2015/04/19/the-maltese-navy-and-italian-coast-guard-are-mounting-a-rescue-operation-for-a-boat-that-capsized-between-libya-and-italy-with-up-to-700-peo.md)
-Boat with up to 700 migrants on board capsizes, only 28 survivors reported&nbsp;&nbsp;&bull;&nbsp;24 corpses to be brought to Malta&nbsp;&nbsp;&bull;&nbsp;&nbsp;EU foreign ministers to convene to discuss Mediterranean migration issue tomorrow&nbsp;&nbsp;&bull; Maltese, Italian, Greek PMs urge EU to take action&nbsp;&nbsp;&bull; EC President says EU has a &amp;#39;moral obligation to act&amp;#39;.&nbsp;
+Boat with up to 700 migrants on board capsizes, only 28 survivors reported&nbsp;&nbsp;&bull;&nbsp;24 corpses to be brought to Malta&nbsp;&nbsp;&bull;&nbsp;&nbsp;EU foreign ministers to convene to discuss Mediterranean migration issue tomorrow&nbsp;&nbsp;&bull; Maltese, Italian, Greek PMs urge EU to ...
 
 ### [Voters in Northern Cyprus go to the polls for an election for a new President to represent them in peace talks with the southern Republic of Cyprus. ](/news/2015/04/19/voters-in-northern-cyprus-go-to-the-polls-for-an-election-for-a-new-president-to-represent-them-in-peace-talks-with-the-southern-republic-of.md)
 _Context: Elections in Northern Cyprus, Republic of Cyprus, northern, president_

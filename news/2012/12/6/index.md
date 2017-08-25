@@ -31,7 +31,7 @@ _Context: China, North Korea, South Korea, Unha_
 _Context: Washington, marijuana, state law_
 
 ### [John Burbine, a level one sex offender from Wakefield, Massachusetts (USA) is charged with Sexual assault of 13 infants and young children under his care. ](/news/2012/12/6/john-burbine-a-level-one-sex-offender-from-wakefield-massachusetts-usa-is-charged-with-sexual-assault-of-13-infants-and-young-children-u.md)
-A convicted sex offender who provided home day-care services to unsuspecting families was indicted Thursday on charges of raping and abusing at least a dozen infants and children — a case prosecutors described as the most disturbing they had ever seen. John Burbine, a 49-year-old from Wakefield who worked in his wife’s child-care service, was accused of assaulting 13 infants and young children who were in his care, many of them repeatedly, over a two-year span beginning in August 2010. 
+A convicted sex offender who provided home day-care services to unsuspecting families was indicted Thursday on charges of raping and abusing at least a dozen infants and children — a case prosecutors described as the most disturbing they had ever seen. John Burbine, a 49-year-old from Wakefield wh...
 
 ### [Republican Jim DeMint announces that he will resign from the Senate of the United States in January to lead the Heritage Foundation. ](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.md)
 _Context: Heritage Foundation, Jim DeMint, Republican, Senator_

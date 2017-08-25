@@ -49,7 +49,7 @@ _Context: Bulawayo, Mahmoud Ahmadinejad, President, President, Robert Mugabe, Zi
 A FRENCH Muslim woman has been fined for driving while wearing a full-face veil, as the government pushes to ban the garment.
 
 ### [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md)
-A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kidnapped&#x20;by&#x20;armed&#x20;men&#x20;Thursday&#x20;near&#x20;Niger&#x27;s&#x20;northern&#x20;town&#x20;of&#x20;Inabangaret,&#x20;close&#x20;to&#x20;the&#x20;Algerian&#x20;border.&#x20;The&#x20;desert&#x20;region&#x20;which&#x20;spans&#x20;between&#x20;Niger,&#x20;Mali&#x20;and&#x20;Algeria&#x20;is&#x20;notorious&#x20;for&#x20;tourist&#x20;abductions.
+A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kidnapped&#x20;by&#x20;armed&#x20;men&#x20;Thursday&#x20;near&#x20;Niger&#x27;s&#x20;northern&#x20;town&#x20;of&#x20;Inabangaret,&#x20;close&#x20;to&#x20;the&#x20;Algerian&#x20;border.&#x20;The&#x20;desert&#x20;region&#x20;...
 
 ### [China requests that Tibetan monks leave Qinghai where an earthquake struck on 14 April. ](/news/2010/04/23/china-requests-that-tibetan-monks-leave-qinghai-where-an-earthquake-struck-on-14-april.md)
 Officials deny decision is political, saying that monks could obstruct relief efforts.

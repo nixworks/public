@@ -13,7 +13,7 @@ _Context: Chinese, May 2014 rmqi attack, Urumqi_
 _Context: 2014 pro-Russian unrest in Ukraine, Russian President Vladimir Putin, Ukrainian presidential election, Vladimir Putin_
 
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
-BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalate attacks in an attempt to disrupt the balloting.
+BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalat...
 
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria.  ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
 _Context: China, International Criminal Court, Russia, United Nations Security Council, mass murders of thousands of political prisoner_

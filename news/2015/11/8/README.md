@@ -1,7 +1,7 @@
 ## [2015-11-8](/news/2015/11/8/index.md)
 
 ### [Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.md)
-Iran-backed rebels retook positions in southern Yemen in a bid to advance on second city Aden, military sources said Sunday as a landmine blast killed 16 soldiers east of Sanaa. The rebels regained the positions they had lost in fighting in recent months, including a hilltop overlooking the strategic
+Iran-backed rebels retook positions in southern Yemen in a bid to advance on second city Aden, military sources said Sunday as a landmine blast killed 16 soldiers east of Sanaa. The rebels regained the positions they had lost in fighting in recent months, including a hilltop overlooking the strategi...
 
 ### [At least nine people are killed after gunmen attack a bar in Burundi's capital, Bujumbura. ](/news/2015/11/8/at-least-nine-people-are-killed-after-gunmen-attack-a-bar-in-burundi-s-capital-bujumbura.md)
 _Context: Bujumbura, Burundi_

@@ -10,7 +10,7 @@ A U.S. judge on Wednesday ordered former Goldman Sachs Group Inc trader Fabrice 
 _Context: International Charter on Space and Major Disasters, Malaysia Airlines Flight 370_
 
 ### [An explosion in the New York City neighbourhood of East Harlem kills 8 and injures over 70. ](/news/2014/03/12/an-explosion-in-the-new-york-city-neighbourhood-of-east-harlem-kills-8-and-injures-over-70.md)
-EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injured after a massive gas explosion leveled two five-story buildings in East Harlem Wednesday morning in a blast that literally jolted a chunk of the city. One of the victims has been identified as 44-year-old Hunter College public safety officer Griselde Camacho. She started working with the school in 2008. Another has been identified as 67-year-old Carmen Tanco.
+EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injured after a massive gas explosion leveled two five-story buildings in East Harlem Wednesday morning in a blast that literally jolted a chunk of the city. One of the victims has been identified as 44-year-old Hunter Colleg...
 
 ### [At least 350 apartments are evacuated due to a fire in San Francisco's Mission Bay neighborhood. ](/news/2014/03/12/at-least-350-apartments-are-evacuated-due-to-a-fire-in-san-francisco-s-mission-bay-neighborhood.md)
 _Context: Mission Bay, San Francisco_

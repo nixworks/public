@@ -10,7 +10,7 @@ _Context: 2013 Savar building collapse, industrial disaster_
 _Context: Sichuan Province, mining accident_
 
 ### [The first group of what is an expected to be more than a trillion 17-year cicadas to emerge in the eastern United States is spotted in North Carolina. ](/news/2013/05/12/the-first-group-of-what-is-an-expected-to-be-more-than-a-trillion-17-year-cicadas-to-emerge-in-the-eastern-united-states-is-spotted-in-north.md)
-The &#034;Swarmagaddon,&#034;-a cicada invasion as many people call, that is expected to engulf much of the United States&#039; Atlantic seaboard over the next few weeks touched off this week in North Carolina. Its bugs number in the billions and will outnumber humans in the affected areas by ratios as high as 600 to 1.
+The &#034;Swarmagaddon,&#034;-a cicada invasion as many people call, that is expected to engulf much of the United States&#039; Atlantic seaboard over the next few weeks touched off this week in North Carolina. Its bugs number in the billions and will outnumber humans in the affected areas by ratios...
 
 ### [WHO says that it appears likely the novel coronavirus can be transmitted from close person-to-person contact. ](/news/2013/05/12/who-says-that-it-appears-likely-the-novel-coronavirus-can-be-transmitted-from-close-person-to-person-contact.md)
 The World Health Organization warns that it appears &quot;increasingly&quot; likely that the new coronavirus can be passed between people in close contact.
@@ -40,7 +40,7 @@ Activists in northern New South Wales, who&#039;ve declared an Aboriginal republ
 _Context: Catholic Church, Martyrs of Otranto, Pope Benedict XVI, Pope Francis_
 
 ### [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md)
-How much of your DNA is constructive? Of the 3 billion letters that make up your genome, only 1.5 percent consists of genes-DNA actually does something useful, which carry the information for protein synthesis. Of the remaining 98.5 percent-the vast majority of the genetic material known as noncoding DNA that does not code for proteins, is not needed for a healthy organism, according to new research.
+How much of your DNA is constructive? Of the 3 billion letters that make up your genome, only 1.5 percent consists of genes-DNA actually does something useful, which carry the information for protein synthesis. Of the remaining 98.5 percent-the vast majority of the genetic material known as noncodin...
 
 ## [Previous Day...](/news/2013/05/11/index.md)
 

@@ -19,7 +19,7 @@ _Context: ExxonMobil Corporation, LNG train, Qatar, Qatar Petroleum, RasGas, liq
 _Context: China, Oxfam_
 
 ### [Sachin Tendulkar becomes the first cricketer in history to score a double century in One Day International cricket. ](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.md)
-Sachin Tendulkar hit the first double century in the history of ODI cricket to lead India to a crushing 153-run victory against South Africa in the second One-Day International, in Gwalior, on Wednesday. Tendulkar was at his vintage best as he blazed his way to 200 from a mere 147 deliveries, inclusive of 25 boundaries and three sixes. In carrying his bat through the innings he propelled India to a mammoth 401 for three in 50 overs. | Tendulkar double ton leads India to series win
+Sachin Tendulkar hit the first double century in the history of ODI cricket to lead India to a crushing 153-run victory against South Africa in the second One-Day International, in Gwalior, on Wednesday. Tendulkar was at his vintage best as he blazed his way to 200 from a mere 147 deliveries, inclus...
 
 ### [The Ministry of Commerce of the People's Republic of China rejects Tengzhong's bid to purchase Hummer from General Motors. ](/news/2010/02/24/the-ministry-of-commerce-of-the-people-s-republic-of-china-rejects-tengzhong-s-bid-to-purchase-hummer-from-general-motors.md)
 A deal to sell Hummer stalled as the companies awaited approval from the Chinese government.

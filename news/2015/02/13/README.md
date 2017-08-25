@@ -34,7 +34,7 @@ On his first day out of a Cairo prison, Canadian journalist Mohamed Fahmy return
 Queensland Labor leader Annastacia Palaszczuk is confirmed as the state&#039;s next Premier at a meeting with the Governor.
 
 ### [Voters elect Wang Rong Chairman of the People's Political Consultative Conference of Guangdong province, in China, replacing Zhu Mingguo, who was dismissed for corruption. ](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.md)
-_Context: Guangdong province, Wang Rong, Zhu Mingguo_
+_Context: Guangdong, Wang Rong, Zhu Mingguo_
 
 ### [The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State.  ](/news/2015/02/13/the-governor-of-oregon-john-kitzhaber-resigns-amid-allegations-his-fiancee-used-taxpayer-resources-to-aid-her-green-energy-consulting-busine.md)
 _Context: Governor of Oregon, John Kitzhaber, Kate Brown, Secretary of State_

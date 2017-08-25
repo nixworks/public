@@ -7,7 +7,7 @@ _Context: Mukalla, Yemen, Yemeni Crisis (2011-present), al-Qaeda_
 _Context: Baghdad, Iraq, Iraqi Civil War (2014-present), Iraqi police, suicide bombing_
 
 ### [Nissan announces that it will buy 34% of fellow Japanese car manufacturer Mitsubishi Motors for 237.4 billion yen ($2.2 billion). ](/news/2016/05/12/nissan-announces-that-it-will-buy-34-of-fellow-japanese-car-manufacturer-mitsubishi-motors-for-237-4-billion-yen-2-2-billion.md)
-Nissan Motor will purchase a 34 per cent stake in Mitsubishi Motors, as Japan’s second-largest automaker comes to the aid of its minicar partner rocked by a fuel-economy testing scandal. Mitsubishi Motors will sell about 237.4 billion yen ($2.2 billion) in shares to Nissan, according to a statement. The purchase is poised to vault Nissan past Mitsubishi group companies to become the single-largest shareholder of one of Japan’s smallest carmakers.
+Nissan Motor will purchase a 34 per cent stake in Mitsubishi Motors, as Japan’s second-largest automaker comes to the aid of its minicar partner rocked by a fuel-economy testing scandal. Mitsubishi Motors will sell about 237.4 billion yen ($2.2 billion) in shares to Nissan, according to a statemen...
 
 ### [ The Bank of England issues an unusually sharp warning about the possible economic consequences of an "Out" vote in the upcoming Brexit referendum. ](/news/2016/05/12/the-bank-of-england-issues-an-unusually-sharp-warning-about-the-possible-economic-consequences-of-an-out-vote-in-the-upcoming-brexit-refe.md)
 _Context: Bank of England, the UK leaves the EU_

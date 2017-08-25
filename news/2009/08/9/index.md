@@ -28,7 +28,7 @@ _Context: Afghanistan's, China, Kam Air, Kandahar, Xinjiang Autonomous Region_
 _Context: France, Garret FitzGerald, Ireland, Taoiseach, swine flu_
 
 ### [ A senior General from the Iranian Revolutionary Guard calls for opposition leaders Mohammad Khatami, Mir Hossein Mousavi and Mehdi Karroubi to stand trial. ](/news/2009/08/9/a-senior-general-from-the-iranian-revolutionary-guard-calls-for-opposition-leaders-mohammad-khatami-mir-hossein-mousavi-and-mehdi-karroubi.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ A same-sex marriage demonstration occurs outside the Department of Justice, Equality and Law Reform in Dublin. ](/news/2009/08/9/a-same-sex-marriage-demonstration-occurs-outside-the-department-of-justice-equality-and-law-reform-in-dublin.md)
 An estimated 5,000 same-sex marriage supporters have marched in Dublin to show their dissatisfaction with the proposed Civil Partnership Bill.

@@ -4,7 +4,7 @@
 The death occurred near the town of Marja.
 
 ### [Violent riots break out in Kaliachak, West Bengal, India, after political activist Kamlesh Tiwari allegedly insulted the Muslim prophet Muhammad. ](/news/2016/01/5/violent-riots-break-out-in-kaliachak-west-bengal-india-after-political-activist-kamlesh-tiwari-allegedly-insulted-the-muslim-prophet-muha.md)
-Infuriated by rumour that BSF personnel opened fire, a mob torched the Kaliachak police station, attacked officers there, damaged the BDO office, set ablaze nearly 20 vehicles stranded on NH-34 and squatted on the railway tracks for hours on Sunday . Police had to open fire and it took them six hours to bring the situation under control.
+Infuriated by rumour that BSF personnel opened fire, a mob torched the Kaliachak police station, attacked officers there, damaged the BDO office, set ablaze nearly 20 vehicles stranded on NH-34 and squatted on the railway tracks for hours on Sunday . Police had to open fire and it took them six hour...
 
 ### [One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md)
 _Context: Al-Awamiyah, Eastern Province, Nimr al-Nimr_

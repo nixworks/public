@@ -1,7 +1,7 @@
 ## [2014-08-1](/news/2014/08/1/index.md)
 
 ### [At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.md)
-Azerbaijan said Friday eight soldiers had been killed in three days of clashes with arch-foe Armenia on the border and near the disputed Nagorny Karabakh region as tensions spiked in the long-running conflict. Azerbaijan&#x27;s defence ministry said Armenian troops had ramped up their activity in the
+Azerbaijan said Friday eight soldiers had been killed in three days of clashes with arch-foe Armenia on the border and near the disputed Nagorny Karabakh region as tensions spiked in the long-running conflict. Azerbaijan&#x27;s defence ministry said Armenian troops had ramped up their activity in th...
 
 ### [2014 pro-Russian unrest in Ukraine: War in Donbass:Vladimir Antyufeyev, a Russian citizen and veteran of the pro-Russian separatist rebellion in Moldova, takes over as head of Donetsk People's Republic rebellion after self-labeled "prime minister" Alexander Borodai reportedly disappeared for Russia. ](/news/2014/08/1/2014-pro-russian-unrest-in-ukraine-war-in-donbass-pvladimir-antyufeyev-a-russian-citizen-and-veteran-of-the-pro-russian-separatist-rebelli.md)
 A Russian police chief who led separatists in Moldova now claims to be commanding the Donetsk rebels fighting Ukrainian forces.

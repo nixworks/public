@@ -13,7 +13,7 @@ One Palestinian reported injured in apparent retaliation for Kassam strike; Neta
 _Context: Christmas, FedEx, UPS_
 
 ### [The Reserve Bank of India warns users of risks involved in virtual currencies such as Bitcoin and Dogecoin. ](/news/2013/12/26/the-reserve-bank-of-india-warns-users-of-risks-involved-in-virtual-currencies-such-as-bitcoin-and-dogecoin.md)
-The Reserve Bank of India has today cautioned the users, holders and traders of Virtual currencies (VCs), including Bitcoins, about the potential financial, operational, legal , customer protection and security related risks that they are exposing themselves to. The Reserve Bank has mentioned that it has been looking at the developments relating to certain electronic [&hellip;]
+The Reserve Bank of India has today cautioned the users, holders and traders of Virtual currencies (VCs), including Bitcoins, about the potential financial, operational, legal , customer protection and security related risks that they are exposing themselves to. The Reserve Bank has mentioned that i...
 
 ### [Thousands of customers are still without power across Michigan, Vermont, Maine, and Southern Ontario after a winter storm earlier this week. ](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.md)
 _Context: Maine, Michigan, Southern Ontario, Vermont_

@@ -58,7 +58,7 @@ _Context: Egypt, Islamist, Shura Council, election_
 _Context: Oscar Luigi Scalfaro, President of Italy_
 
 ### [The President of France Nicolas Sarkozy outlines an economic reform package increasing taxes and proposing a new tax on financial transactions. ](/news/2012/01/29/the-president-of-france-nicolas-sarkozy-outlines-an-economic-reform-package-increasing-taxes-and-proposing-a-new-tax-on-financial-transactio.md)
-French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;unveiled&#x20;economic&#x20;reforms&#x20;aimed&#x20;at&#x20;reviving&#x20;France&#x2019;s&#x20;ailing&#x20;economy&#x20;during&#x20;a&#x20;televised&#x20;interview&#x20;on&#x20;Sunday,&#x20;but&#x20;did&#x20;not&#x20;confirm&#x20;his&#x20;intention&#x20;to&#x20;seek&#x20;a&#x20;second&#x20;term&#x20;in&#x20;April&#x27;s&#x20;presidential&#x20;election.
+French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;unveiled&#x20;economic&#x20;reforms&#x20;aimed&#x20;at&#x20;reviving&#x20;France&#x2019;s&#x20;ailing&#x20;economy&#x20;during&#x20;a&#x20;televised&#x20;interview&#x20;on&#x20;Sunday,&#x20;but&#x20;did&#x20;not&#x20;confirm&#x20;his&#x20;intentio...
 
 ## [Previous Day...](/news/2012/01/28/index.md)
 

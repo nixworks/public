@@ -1,7 +1,7 @@
 ## [2010-04-30](/news/2010/04/30/index.md)
 
 ### [Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md)
-(Adds PM&#039;s, PN&#039;s and PL&#039;s get well wishes) President George Abela accidentally sustained an injury before leaving his hotel in China this morning and is recovering in hospital. The Department of Information said the President was admitted to Ruijin Hospital where he was diagnosed as suffering...
+(Adds PM&#039;s, PN&#039;s and PL&#039;s get well wishes) President George Abela accidentally sustained an injury before leaving his hotel in China this morning and is recovering in hospital. The Department of Information said the President was admitted to Ruijin Hospital where he was diagnosed as s...
 
 ### [At least eight villagers die following a landslide in Kenya, with others hospitalised or missing and homes destroyed. ](/news/2010/04/30/at-least-eight-villagers-die-following-a-landslide-in-kenya-with-others-hospitalised-or-missing-and-homes-destroyed.md)
 _Context: Kenya_
@@ -10,7 +10,7 @@ _Context: Kenya_
 _Context: South Sudan_
 
 ### [French senator Charles Pasqua is convicted and sentenced on charges of corruption which occurred whilst he was interior minister in the 1990s. ](/news/2010/04/30/french-senator-charles-pasqua-is-convicted-and-sentenced-on-charges-of-corruption-which-occurred-whilst-he-was-interior-minister-in-the-1990.md)
-Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#x20;sentenced&#x20;in&#x20;Paris&#x20;to&#x20;a&#x20;one-year&#x20;suspended&#x20;prison&#x20;sentence&#x20;for&#x20;abuse&#x20;of&#x20;public&#x20;funds&#x20;and&#x20;attempt&#x20;to&#x20;conceal&#x20;evidence&#x20;in&#x20;connection&#x20;with&#x20;a&#x20;public&#x20;organisation&#x20;which&#x20;sells&#x20;police&#x20;equipment&#x20;abroad.
+Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#x20;sentenced&#x20;in&#x20;Paris&#x20;to&#x20;a&#x20;one-year&#x20;suspended&#x20;prison&#x20;sentence&#x20;for&#x20;abuse&#x20;of&#x20;public&#x20;funds&#x20;and&#x20;attempt&#x20;to&#x20;conceal&#x20;evidence&#x20;in&#...
 
 ### [Tonga's Attorney-General suddenly resigns amidst allegations the government is trying to take over his judiciary. ](/news/2010/04/30/tonga-s-attorney-general-suddenly-resigns-amidst-allegations-the-government-is-trying-to-take-over-his-judiciary.md)
 _Context: Tonga, attorney general, government_

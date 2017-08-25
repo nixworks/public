@@ -1,7 +1,7 @@
 ## [2014-09-1](/news/2014/09/1/index.md)
 
 ### [Pakistani protesters armed with sticks and stones clash with police in the centre of Islamabad after protests calling for the resignation of Prime Minister Nawaz Sharif turn violent. All schools in the capital have been closed as a result of the clashes. ](/news/2014/09/1/pakistani-protesters-armed-with-sticks-and-stones-clash-with-police-in-the-centre-of-islamabad-after-protests-calling-for-the-resignation-of.md)
-By Syed Raza Hassan and Maria Golovnina ISLAMABAD (Reuters) - Pakistani soldiers and paramilitary forces secured the state television headquarters in Islamabad on Monday after a crowd of anti-government protesters stormed the building and took the channel off the air. Protesters led by opposition leaders
+By Syed Raza Hassan and Maria Golovnina ISLAMABAD (Reuters) - Pakistani soldiers and paramilitary forces secured the state television headquarters in Islamabad on Monday after a crowd of anti-government protesters stormed the building and took the channel off the air. Protesters led by opposition le...
 
 ### [Ukrainian forces battle pro-Russian rebels near Luhansk International Airport. The area is encircled by the pro-Russian forces for over 3 weeks. ](/news/2014/09/1/ukrainian-forces-battle-pro-russian-rebels-near-luhansk-international-airport-the-area-is-encircled-by-the-pro-russian-forces-for-over-3-we.md)
 Ukrainian troops abandon Luhansk airport after clashes with pro-Russian rebels, ahead of negotiations on the crisis.

@@ -1,7 +1,7 @@
 ## [2014-10-13](/news/2014/10/13/index.md)
 
 ### [Three bombs explode in Shi'ite areas of Baghdad killing at least 30 people. ](/news/2014/10/13/three-bombs-explode-in-shi-ite-areas-of-baghdad-killing-at-least-30-people.md)
-BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Monday, killing 30 people, police and medical officials said, continuing a wave of attacks targeting Iraq&#x27;s majority religious group. Baghdad&#x27;s largest Shi&#x27;ite neighbourhood, Sadr City, was rocked by two blasts: a
+BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Monday, killing 30 people, police and medical officials said, continuing a wave of attacks targeting Iraq&#x27;s majority religious group. Baghdad&#x27;s largest Shi&#x27;ite neighbourhood, Sadr City, was rocked by two blas...
 
 ### [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md)
 _Context: 2014 Pacific typhoon season, Japan, Kyushu, Typhoon Vongfong_

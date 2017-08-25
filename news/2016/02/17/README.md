@@ -31,7 +31,7 @@ Hungarian Prime Minister Viktor Orban, on a visit to Moscow, called for better r
 Taiwan says China has deployed surface-to-air missiles on a disputed island in the South China Sea, but Beijing says it is an invention of the media.
 
 ### [Germany calls for a no-fly zone in northern Syria which could, among other things, reduce the number of displaced Syrians. Similar requests have  been made by Turkey and others throughout the 5-year-old war. Russia rejects this strategy without Syria's consent. ](/news/2016/02/17/germany-calls-for-a-no-fly-zone-in-northern-syria-which-could-among-other-things-reduce-the-number-of-displaced-syrians-similar-requests.md)
-German Chancellor Angela Merkel yesterday reiterated her proposal for a no-fly zone in Syria where civilians would be protected, a suggestion that was promptly rebuffed by Moscow, which said it can only be done with the Syrian government’s consent. In Damascus, over 100 trucks loaded with humanitarian aid were expected to head out to five &hellip;
+German Chancellor Angela Merkel yesterday reiterated her proposal for a no-fly zone in Syria where civilians would be protected, a suggestion that was promptly rebuffed by Moscow, which said it can only be done with the Syrian government’s consent. In Damascus, over 100 trucks loaded with humanita...
 
 ### [Royal Air Force Typhoons intercept two Russian Tupolev Tu-160 strategic bombers heading towards UK airspace over the North Sea. ](/news/2016/02/17/royal-air-force-typhoons-intercept-two-russian-tupolev-tu-160-strategic-bombers-heading-towards-uk-airspace-over-the-north-sea.md)
 The Russian aircraft are in the UK&#039;s &quot;area of interest&quot; and are being escorted south across the North Sea, the MoD says.

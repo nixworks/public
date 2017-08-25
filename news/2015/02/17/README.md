@@ -22,7 +22,7 @@ _Context: Human rights, North Korea, Washington, D.C._
 _Context: China, Communist Party of China, Su Rong_
 
 ### [Chinese authorities also announce the indictment of former Guangdong official Zhu Mingguo, former Jinan CPC party chief Wang Min, and former Taiyuan party chief Chen Chuanping, all on charges of corruption. ](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.md)
-_Context: CPC party chief, Chen Chuanping, Guangdong province, Jinan, Taiyuan, Wang Min, Zhu Mingguo_
+_Context: CPC party chief, Chen Chuanping, Guangdong, Jinan, Taiyuan, Wang Min, Zhu Mingguo_
 
 ## [Previous Day...](/news/2015/02/16/index.md)
 

@@ -16,7 +16,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 _Context: North Korea, South Korea_
 
 ### [ Brazilian President Luiz Inacio Lula da Silva arrives in Bolivia with a "strong tone-down message". ](/news/2009/08/22/brazilian-president-luiz-ina-cio-lula-da-silva-arrives-in-bolivia-with-a-strong-tone-down-message.md)
-Brazilian president Lula da Silva considers that differences inside the Union of South American Nations, Unasur are more &ldquo;a matter of form than content&rdquo; because &ldquo;our main objectives are compatible and at the same time convergent&rdquo; according to an interview in Bolivia&rsquo;s leading newspaper La Razon.
+Brazilian president Lula da Silva considers that differences inside the Union of South American Nations, Unasur are more &ldquo;a matter of form than content&rdquo; because &ldquo;our main objectives are compatible and at the same time convergent&rdquo; according to an interview in Bolivia&rsquo;s l...
 
 ### [ Niger's police use tear gas to injure and arrest several people during clashes with opponents of a new constitution that would enable President Mamadou Tandja to seek unlimited mandates. ](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.md)
 _Context: Mamadou Tandja, Niger, Nigerien President, tear gas_

@@ -19,7 +19,7 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 _Context: Baramulla, Jammu and Kashmir, Sopore_
 
 ### [At least 18 people are dead and 44 missing after heavy rains from Typhoon Fanapi flood parts of southern China. ](/news/2010/09/22/at-least-18-people-are-dead-and-44-missing-after-heavy-rains-from-typhoon-fanapi-flood-parts-of-southern-china.md)
-_Context: Typhoon Fanapi, flood, southern China_
+_Context: Typhoon Fanapi, flood, southern Chinese_
 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
@@ -38,7 +38,7 @@ Residents in northern Burundi are on alert after the discovery of 14 bodies, som
 An international meeting to try to prevent the Arctic becoming the next battleground over mineral wealth takes place in Moscow.
 
 ### [Radio Free Asia reports that North Korea's National Defense Commission held an emergency meeting presided over by Kim Jong-un to compromise the upcoming G20 summit in Seoul, South Korea. ](/news/2010/09/22/radio-free-asia-reports-that-north-korea-s-national-defense-commission-held-an-emergency-meeting-presided-over-by-kim-jong-un-to-compromise.md)
-North Korea reportedly held a meeting earlier this month aimed at hampering the upcoming Seoul G20 summit slated to be held in November. This is according to Radio Free Asia which cited a source that is currently in Pyeongyang to participate in the upcoming Workers ̔ Party Convention. The source said an emergency meeting led by North Korean heir apparent Kim Jong-un was held in early September where the communist state defined the G20 summit as a political scheme among world powers with the goal of further isolating the North from the international community. At the meeting the report said the North discussed ways to continue fueling a sense of insecurity in the region and promoting anti-G20 protests held by pro-North Korean groups. 
+North Korea reportedly held a meeting earlier this month aimed at hampering the upcoming Seoul G20 summit slated to be held in November. This is according to Radio Free Asia which cited a source that is currently in Pyeongyang to participate in the upcoming Workers ̔ Party Convention. The source sa...
 
 ### [A panel of human rights experts convened by the United Nations Human Rights Council says Israel's seizure of the MV Mavi Marmara in the Gaza flotilla raid was "clearly unlawful". ](/news/2010/09/22/a-panel-of-human-rights-experts-convened-by-the-united-nations-human-rights-council-says-israel-s-seizure-of-the-mv-mavi-marmara-in-the-gaza.md)
 _Context:  MV ''Mavi Marmara'', Gaza flotilla raid, Human Rights Council, Human rights, Israel_

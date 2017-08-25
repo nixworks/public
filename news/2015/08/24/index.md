@@ -43,7 +43,7 @@ _Context: Czech Republic, Radovan Krejcir, South Africa_
 Roxana Baldetti, a former vice-president of Guatemala, appears in court accused of accepting bribes in a customs scam.
 
 ### [Prime Minister of Guinea-Bissau Baciro Dja sacks the chiefs of Guinea-Bissau National Radio and Television, Muniro Conte and Paula Mielo, over political "bias". ](/news/2015/08/24/prime-minister-of-guinea-bissau-baciro-dja-sacks-the-chiefs-of-guinea-bissau-national-radio-and-television-muniro-conte-and-paula-mielo-o.md)
-Guinea-Bissau&#x27;s new Prime Minister Baciro Dja on Monday sacked the chiefs of the state-owned radio and television services for &quot;bias&quot; in their reporting of a recent government shake-up. Dja was appointed last week after President Jose Mario Vaz fired his predecessor Domingos Simoes Pereira
+Guinea-Bissau&#x27;s new Prime Minister Baciro Dja on Monday sacked the chiefs of the state-owned radio and television services for &quot;bias&quot; in their reporting of a recent government shake-up. Dja was appointed last week after President Jose Mario Vaz fired his predecessor Domingos Simoes Pe...
 
 ### [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md)
 _Context: President, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_

@@ -70,7 +70,7 @@ The nation bid its final farewell to former President Guido de Marco today with 
 Former Prime Minister Tony Blair is to donate the reported £4m advance and all royalties from his memoirs to a sports centre for wounded soldiers.
 
 ### [Talks on forming a coalition government are suspended in Iraq. ](/news/2010/08/16/talks-on-forming-a-coalition-government-are-suspended-in-iraq.md)
-Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;former&#x20;Iraqi&#x20;premier&#x20;Iyad&#x20;Allawi&#x27;s&#x20;Iraqiya&#x20;alliance&#x20;breaking&#x20;off&#x20;coalition&#x20;talks&#x20;with&#x20;PM&#x20;Nuri&#x20;al-Maliki,&#x20;a&#x20;move&#x20;that&#x20;will&#x20;further&#x20;delay&#x20;the&#x20;formation&#x20;of&#x20;a&#x20;government&#x20;months&#x20;after&#x20;elections.
+Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;former&#x20;Iraqi&#x20;premier&#x20;Iyad&#x20;Allawi&#x27;s&#x20;Iraqiya&#x20;alliance&#x20;breaking&#x20;off&#x20;coalition&#x20;talks&#x20;with&#x20;PM&#x20;Nuri&#x20;al-Maliki,&#x20;a&#x20;move&#x20;that&#x20;will&#x20;fu...
 
 ### [A book written by Chinese dissident Yu Jie critical of Premier Wen Jiabao goes on sale in Hong Kong, with threats of imprisonment from the mainland. ](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.md)
 A book criticising the Chinese premier went on sale in Hong Kong Monday, despite alleged threats by Beijing against its author. Writer Yu Jie says he was...

@@ -25,7 +25,7 @@ President-elect says he sees no reason why the US should continuing abiding by O
 _Context: China, China-Mexico relations, Donald Trump's positions on trade, Mexico_
 
 ### [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md)
-The European Union and Cuba on Monday signed a deal to normalise ties that had been blocked for decades by human rights concerns under revolutionary icon Fidel Castro. Cuba was the only Latin American country not to have a &quot;dialogue and cooperation&quot; deal with the 28-nation EU covering issues
+The European Union and Cuba on Monday signed a deal to normalise ties that had been blocked for decades by human rights concerns under revolutionary icon Fidel Castro. Cuba was the only Latin American country not to have a &quot;dialogue and cooperation&quot; deal with the 28-nation EU covering issu...
 
 ### [Kenya threatens to leave the International Criminal Court. ](/news/2016/12/12/kenya-threatens-to-leave-the-international-criminal-court.md)
 _Context: International Criminal Court, Kenya_

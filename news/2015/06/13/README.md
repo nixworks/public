@@ -37,7 +37,7 @@ Italian police moved in Saturday to disperse around 200 migrants who were stagin
 _Context: Dallas, Texas, opens fire, pipe bomb, police_
 
 ### [Thousands of people protest in Skopje demanding the resignation of the Prime Minister of Macedonia Nikola Gruevski. ](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.md)
-Several thousand people protested in Macedonia&#x27;s capital Skopje on Saturday demanding the resignation of Prime Minister Nikola Gruevski, AFP reporters said, with negotiations over the country&#x27;s deep political crisis in a deadlock. Organised by the &quot;Besa&quot; protest movement, which is
+Several thousand people protested in Macedonia&#x27;s capital Skopje on Saturday demanding the resignation of Prime Minister Nikola Gruevski, AFP reporters said, with negotiations over the country&#x27;s deep political crisis in a deadlock. Organised by the &quot;Besa&quot; protest movement, which i...
 
 ## [Previous Day...](/news/2015/06/12/index.md)
 

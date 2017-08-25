@@ -7,7 +7,7 @@ Australians could be banned from living on the coast under a radical environment
 _Context: Austrian universities, Grassroots, Graz, Linz, Vienna, education, squatting_
 
 ### [ Qatar inaugurates one of the world's largest LNG trains, operated by RasGas. ](/news/2009/10/27/qatar-inaugurates-one-of-the-world-s-largest-lng-trains-operated-by-rasgas.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ Pope Benedict XVI appoints Cardinal Peter Turkson of Cape Coast, Ghana, to serve as the new head of the Pontifical Council for Justice and Peace. ](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.md)
 _Context: Cape Coast, Cardinal, Ghana, Peter Turkson, Pope Benedict XVI_

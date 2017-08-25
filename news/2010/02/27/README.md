@@ -13,7 +13,7 @@ An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm E
 _Context: Dera Ghazi Khan, Pakistan_
 
 ### [19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. ](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.md)
-_Context: Guangdong province, Lantern Festival, Puning_
+_Context: Guangdong, Lantern Festival, Puning_
 
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
 _Context: Fanaga village, Kunming, Luquan, Yunnan, yuan_

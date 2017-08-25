@@ -19,7 +19,7 @@ _Context: Holcim, LaFarge, Merger_
 _Context: Mazda, Mazda6_
 
 ### [2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-pmcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md)
-_Context: 2014 Crimean crisis, McDonald's_
+_Context: 2014 Crimean crisis, McDonald's restaurants_
 
 ### [Heavy rainfall from a tropical low causes flooding at Honiara, Solomon Islands, leading to at least 16 deaths and thousands of people being evacuated. ](/news/2014/04/4/heavy-rainfall-from-a-tropical-low-causes-flooding-at-honiara-solomon-islands-leading-to-at-least-16-deaths-and-thousands-of-people-being.md)
 Government officials have said the death toll from severe flooding in the Solomon Islands has risen.
@@ -31,7 +31,7 @@ A Mongolian-flagged cargo ship has sunk off the southern coast of South Korea, w
 The Tungurahua volcano in Ecuador erupted twice yesterday night
 
 ### [2014 West Africa Ebola outbreak:The first possible case is reported in Mali, with the death toll rising in Guinea and Liberia to 90. ](/news/2014/04/4/2014-west-africa-ebola-outbreak-pthe-first-possible-case-is-reported-in-mali-with-the-death-toll-rising-in-guinea-and-liberia-to-90.md)
-By Adama Diarra and Misha Hussain BAMAKO/CONAKRY (Reuters) - Mali said it had identified its first possible cases of Ebola since the start of an outbreak in neighbouring Guinea, adding to fears that the deadly virus was spreading across West Africa. More than 90 people have already died in Guinea and
+By Adama Diarra and Misha Hussain BAMAKO/CONAKRY (Reuters) - Mali said it had identified its first possible cases of Ebola since the start of an outbreak in neighbouring Guinea, adding to fears that the deadly virus was spreading across West Africa. More than 90 people have already died in Guinea an...
 
 ### [A meningitis outbreak has been reported in the greater Los Angeles area, with incidents related to sexual intercourse. ](/news/2014/04/4/a-meningitis-outbreak-has-been-reported-in-the-greater-los-angeles-area-with-incidents-related-to-sexual-intercourse.md)
 _Context: Los Angeles, meningitis_

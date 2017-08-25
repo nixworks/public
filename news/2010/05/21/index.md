@@ -4,7 +4,7 @@
 _Context: Diyala Province, Iraq_
 
 ### [Salva Kiir Mayardit is inaugurated as the first elected president of Southern Sudan. ](/news/2010/05/21/salva-kiir-mayardit-is-inaugurated-as-the-first-elected-president-of-southern-sudan.md)
-Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;was&#x20;elected&#x20;leader&#x20;of&#x20;the&#x20;semi-autonomous&#x20;southern&#x20;region,&#x20;Salva&#x20;Kiir&#x20;&#x28;pictured&#x29;&#x20;was&#x20;sworn&#x20;in&#x20;as&#x20;president&#x20;at&#x20;a&#x20;ceremony&#x20;in&#x20;Juba&#x20;Friday.&#x20;All&#x20;eyes&#x20;now&#x20;are&#x20;on&#x20;a&#x20;referendum&#x20;set&#x20;for&#x20;Jan.
+Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;was&#x20;elected&#x20;leader&#x20;of&#x20;the&#x20;semi-autonomous&#x20;southern&#x20;region,&#x20;Salva&#x20;Kiir&#x20;&#x28;pictured&#x29;&#x20;was&#x20;sworn&#x20;in&#x20;as&#x20;president&#x20;at&#x20;a&#x20;ceremony&...
 
 ### [Gurkha leader Madan Tamang is stabbed to death by a mob at the start a public meeting in West Bengal. ](/news/2010/05/21/gurkha-leader-madan-tamang-is-stabbed-to-death-by-a-mob-at-the-start-a-public-meeting-in-west-bengal.md)
 _Context: Gurkha, Madan Tamang, West Bengal_

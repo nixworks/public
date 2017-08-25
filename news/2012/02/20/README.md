@@ -22,7 +22,7 @@ _Context: Fukushima Daiichi nuclear disaster, Japan, trade deficit, yen_
 The price of oil reaches its highest level since June due to tensions in Iran, pushing up the cost of fuel.
 
 ### [Narendra Modi, the Chief Minister of the Indian state of Gujarat, orders an inquiry into the death of six people at a stampede at the Bhavnath Hindu temple in the Junagadh district over the weekend. ](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.md)
-Gujarat chief minister Narendra Modi has ordered an inquiry in the stampede at the Bhavnath temple in Junagadh district, where six devotees including three women were killed. At least 30 others were injured in the incident that took place during the annual Mahashivratri fair held at the foothills of Mount Girnar. Till about midnight, the injured were still being shifted to Junagadh Civil Hospital.
+Gujarat chief minister Narendra Modi has ordered an inquiry in the stampede at the Bhavnath temple in Junagadh district, where six devotees including three women were killed. At least 30 others were injured in the incident that took place during the annual Mahashivratri fair held at the foothills of...
 
 ### [International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. ](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.md)
 _Context: International Atomic Energy Agency, Iran, Tehran, nuclear program_

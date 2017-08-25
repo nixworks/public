@@ -46,7 +46,7 @@ The BBC missed opportunities to stop &quot;monstrous&quot; abuse by DJ Jimmy Sav
 _Context: 2016 Hesston shooting, Hesston, Kansas_
 
 ### [Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. ](/news/2016/02/25/voters-in-jamaica-go-to-the-polls-for-a-general-election-with-the-jamaican-labour-party-led-by-andrew-holness-winning-a-narrow-victory.md)
-Jamaica’s austerity policy that has brought three credit updates in the past year, is hanging in the balance. Voters must decide tomorrow whether to extend the rule of its chief advocate, Prime Minister Portia Simpson Miller, or vote in the opposition Jamaica Labour Party that pledges higher spending to create more jobs.
+Jamaica’s austerity policy that has brought three credit updates in the past year, is hanging in the balance. Voters must decide tomorrow whether to extend the rule of its chief advocate, Prime Minister Portia Simpson Miller, or vote in the opposition Jamaica Labour Party that pledges higher spend...
 
 ## [Previous Day...](/news/2016/02/24/index.md)
 

@@ -1,7 +1,7 @@
 ## [2017-03-14](/news/2017/03/14/index.md)
 
 ### [Off the northern coast of Somalia, Somali pirates hijack the ''Aris 13'', a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-tanker-kidnapping-eight-sri-lank.md)
-Pirates have hijacked an oil tanker off the coast of Somalia, Somali officials and piracy experts have said, the first such seizure of a large commercial vessel on the crucial global trade route since 2012. The Aris 13 reported being approached by two skiffs on Monday, John Steed with the organisation Oceans Beyond Piracy said. The ship was carrying fuel from Djibouti to Somalia&#039;s capital, Mogadishu, he said. Eight Sri Lankan crew members were aboard. 
+Pirates have hijacked an oil tanker off the coast of Somalia, Somali officials and piracy experts have said, the first such seizure of a large commercial vessel on the crucial global trade route since 2012. The Aris 13 reported being approached by two skiffs on Monday, John Steed with the organisati...
 
 ### [A blaze at a fireworks warehouse near Netanya, central Israel, kills two people and injures five others. ](/news/2017/03/14/a-blaze-at-a-fireworks-warehouse-near-netanya-central-israel-kills-two-people-and-injures-five-others.md)
 Two people were killed and five injured in a blaze at a fireworks warehouse in central Israel on Tuesday, police said.

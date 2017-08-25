@@ -7,7 +7,7 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 A teenager becomes the first Israeli to be killed by firing from Syria in the occupied Golan Heights since the start of the Syria conflict, Israel says.
 
 ### [The Pyu ancient cities are added to the UNESCO World Heritage Site list, the first such site in Myanmar.  ](/news/2014/06/22/the-pyu-ancient-cities-are-added-to-the-unesco-world-heritage-site-list-the-first-such-site-in-myanmar.md)
-Doha,&#x20;22&#x20;June&#x20;&amp;ndash&#x3b;Myanmar&#x20;made&#x20;its&#x20;entry&#x20;onto&#x20;the&#x20;World&#x20;Heritage&#x20;List&#x20;today,&#x20;with&#x20;the&#x20;inscription&#x20;of&#x20;its&#x20;first&#x20;site,&#x20;Pyu&#x20;Ancient&#x20;Cities.&#x20;The&#x20;World&#x20;Heritage&#x20;Committee,&#x20;meeting&#x20;in&#x20;Doha&#x20;&#x28;Qatar&#x29;&#x20;under&#x20;the&#x20;Chair&#x20;of&#x20;&#x20;...
+Doha,&#x20;22&#x20;June&#x20;&amp;ndash&#x3b;Myanmar&#x20;made&#x20;its&#x20;entry&#x20;onto&#x20;the&#x20;World&#x20;Heritage&#x20;List&#x20;today,&#x20;with&#x20;the&#x20;inscription&#x20;of&#x20;its&#x20;first&#x20;site,&#x20;Pyu&#x20;Ancient&#x20;Cities.&#x20;The&#x20;World&#x20;Heritage&#x20;Co...
 
 ### [The French government votes to allow a US$17 billion deal buyout of much of Alstom's power production business by General Electric to move forward.  ](/news/2014/06/22/the-french-government-votes-to-allow-a-us-17-billion-deal-buyout-of-much-of-alstom-s-power-production-business-by-general-electric-to-move-f.md)
 _Context: Alstom, French government, General Electric_

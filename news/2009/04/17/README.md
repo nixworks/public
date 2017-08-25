@@ -10,7 +10,7 @@ _Context: American Sterling Bank, Missouri, Sugar Creek, banks failed_
 Police in Bangladesh have arrested 31 men suspected of plotting a terrorist attack, an officer said on Saturday.
 
 ### [ The Irish political party Fianna Fail departs the Alliance for Europe of the Nations and joins the European Liberal Democrat and Reform Party. ](/news/2009/04/17/the-irish-political-party-fianna-fa-il-departs-the-alliance-for-europe-of-the-nations-and-joins-the-european-liberal-democrat-and-reform-pa.md)
-After fruitful bilateral negotiations the European Liberal and Democrat party welcomes today Fianna Fàil as a new ELDR member party. Fianna Fail Secretary General Sean Dorgan was warmly welcomed in Brussels today to finalize the application procedure of his party with the ELDR Council, the highest decision-making body of the ELDR Party in matters of membership.
+After fruitful bilateral negotiations the European Liberal and Democrat party welcomes today Fianna Fàil as a new ELDR member party. Fianna Fail Secretary General Sean Dorgan was warmly welcomed in Brussels today to finalize the application procedure of his party with the ELDR Council, the highest ...
 
 ### [ Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. ](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.md)
 _Context: Afghanistan's, Nangarhar Province, earthquake_

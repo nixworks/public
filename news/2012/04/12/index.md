@@ -25,7 +25,7 @@ _Context: Japan, North Korea, Philippines_
 The Philippines says it has withdrawn its largest warship from a stand-off with Chinese vessels in the South China Sea, as both sides pledge diplomacy.
 
 ### [Indian Maoists release Italian hostage Paolo Bosusco after holding him for nearly a month. ](/news/2012/04/12/indian-maoists-release-italian-hostage-paolo-bosusco-after-holding-him-for-nearly-a-month.md)
-After being in captivity for nearly a month, Italian national Paolo Bosusco has been released by Maoists in Odisha today. Mr Bosusco, 51, was handed over by the Maoists to their mediator Dandapani Mohanty and some journalists in the forest of tribal-dominated Kandhamal district. On his arrival in the state capital, the Italian national said, &quot;I am happy being a free man now. I am tired and need some rest.&quot;
+After being in captivity for nearly a month, Italian national Paolo Bosusco has been released by Maoists in Odisha today. Mr Bosusco, 51, was handed over by the Maoists to their mediator Dandapani Mohanty and some journalists in the forest of tribal-dominated Kandhamal district. On his arrival in th...
 
 ### [Eighteen people are sentenced to life imprisonment in India for burning people alive as part of the 2002 Gujarat violence. ](/news/2012/04/12/eighteen-people-are-sentenced-to-life-imprisonment-in-india-for-burning-people-alive-as-part-of-the-2002-gujarat-violence.md)
 _Context: life imprisonment, riots_

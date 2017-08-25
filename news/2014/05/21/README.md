@@ -49,7 +49,7 @@ _Context: Happy, Pharrell Williams, Tehran_
 Ten men convicted for producing tainted alcohol that killed more than 30 people are given long jail terms by a court in the Czech Republic.
 
 ### [Guinea-Bissau general election, 2014:Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-pformer-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md)
-By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a high-stakes presidential run-off election in Guinea-Bissau meant to draw a line under a 2012 coup, the elections commission said on Tuesday, but the losing candidate rejected the result. The looming dispute over the outcome
+By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a high-stakes presidential run-off election in Guinea-Bissau meant to draw a line under a 2012 coup, the elections commission said on Tuesday, but the losing candidate rejected the result. The looming dispute over the outc...
 
 ## [Previous Day...](/news/2014/05/20/index.md)
 

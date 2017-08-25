@@ -34,7 +34,7 @@ _Context: Aruba, Chile, Joran van der Sloot, Natalee Holloway, Peru_
 _Context: Afghanistan's, Joint Base Lewis-McChord, United States Army, murder_
 
 ### [French Interior Minister Brice Hortefeux is convicted of racism. ](/news/2010/06/4/french-interior-minister-brice-hortefeux-is-convicted-of-racism.md)
-A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;Hortefeux&#x20;&#x20AC;750&#x20;on&#x20;Friday&#x20;for&#x20;making&#x20;a&#x20;racial&#x20;remark&#x20;in&#x20;reference&#x20;to&#x20;a&#x20;party&#x20;member&#x20;of&#x20;Arab&#x20;origin&#x20;during&#x20;an&#x20;informal&#x20;political&#x20;gathering&#x20;last&#x20;year.&#x20;Hortefeux&#x20;says&#x20;he&#x20;will&#x20;appeal.
+A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;Hortefeux&#x20;&#x20AC;750&#x20;on&#x20;Friday&#x20;for&#x20;making&#x20;a&#x20;racial&#x20;remark&#x20;in&#x20;reference&#x20;to&#x20;a&#x20;party&#x20;member&#x20;of&#x20;Arab&#x20;origin&#x20;during&#x20;an&#x20;infor...
 
 ### [Belgian police arrest a man suspected of yesterday's fatal shooting of a magistrate and a clerk at a Brussels court. ](/news/2010/06/4/belgian-police-arrest-a-man-suspected-of-yesterday-s-fatal-shooting-of-a-magistrate-and-a-clerk-at-a-brussels-court.md)
 Police in Belgium arrest a man suspected of shooting dead a magistrate and a clerk at a Brussels court.

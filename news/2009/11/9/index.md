@@ -34,7 +34,7 @@ Clashes between ethnic Uighurs and Han Chinese in western China left more than 2
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe_
 
 ### [ The death toll in El Salvador's floods and mudslides reaches 140. ](/news/2009/11/9/the-death-toll-in-el-salvador-s-floods-and-mudslides-reaches-140.md)
-The death toll from flooding and mudslides in El Salvador triggered by the passage of Hurricane Ida jumped to 124 people, Salvadoran President Mauricio Funes said in a national radio broadcast. Funes described the disaster as &quot;a tragedy&quot; and said the damage sustained by the Central American country was &quot;incalculable.&quot; (Reporting by Nelson Renteria; Writing by Robert Campbell, editing by Philip Barbara)
+The death toll from flooding and mudslides in El Salvador triggered by the passage of Hurricane Ida jumped to 124 people, Salvadoran President Mauricio Funes said in a national radio broadcast. Funes described the disaster as &quot;a tragedy&quot; and said the damage sustained by the Central America...
 
 ### [ Tens of thousands of people gather in Tawang, Arunachal Pradesh to hear an address by the visiting Dalai Lama. ](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.md)
 Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday called for universal brotherhood and peace among all communities as he...

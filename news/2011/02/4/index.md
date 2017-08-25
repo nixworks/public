@@ -7,7 +7,7 @@ _Context: Protesters_
 _Context: Sennar, baton, state, tear gas_
 
 ### [2011 Syrian protests:Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-psyrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
-Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;anger&quot;&#x20;in&#x20;Syria,&#x20;demanding&#x20;an&#x20;end&#x20;to&#x20;&#x201C;corruption&#x20;and&#x20;tyranny&#x201D;.&#x20;The&#x20;action&#x20;is&#x20;scheduled&#x20;to&#x20;take&#x20;place&#x20;after&#x20;Friday&#x20;prayers,&#x20;with&#x20;the&#x20;message&#x20;being&#x20;spread&#x20;using&#x20;social&#x20;networking&#x20;sites.
+Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;anger&quot;&#x20;in&#x20;Syria,&#x20;demanding&#x20;an&#x20;end&#x20;to&#x20;&#x201C;corruption&#x20;and&#x20;tyranny&#x201D;.&#x20;The&#x20;action&#x20;is&#x20;scheduled&#x20;to&#x20;take&#x20;place&#x20;after&#x20;Friday&...
 
 ### [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodianathai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md)
 _Context: Cambodian Armed Forces, Cambodian-Thai border stand-off, Preah Vihear Temple, Thai Army_
@@ -59,7 +59,7 @@ _Context: Ayatollah Ali Khamenei, Iran, Protesters, Supreme Leader of Iran, rece
 They promised a funeral fit for a king. There were to be dignitaries; a long red carpet; thousands of pigs, cows, chickens and ducks to be sacrificed for feasting. It had to be a funeral that...
 
 ### [Nepalese Prime Minister Jhala Nath Khanal begins forming a new national government. ](/news/2011/02/4/nepalese-prime-minister-jhala-nath-khanal-begins-forming-a-new-national-government.md)
-Nepal&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister,&#x20;Jhalanath&#x20;Khanal,&#x20;began&#x20;forming&#x20;a&#x20;coalition&#x20;government&#x20;on&#x20;Friday.&#x20;He&#x20;is&#x20;expected&#x20;to&#x20;be&#x20;sworn&#x20;in&#x20;on&#x20;Sunday&#x20;after&#x20;securing&#x20;the&#x20;backing&#x20;of&#x20;the&#x20;powerful&amp;nbsp&#x3B;&#x20;Maoist&#x20;party&#x20;in&#x20;a&#x20;vote&#x20;on&#x20;Thursday.&#x0A;
+Nepal&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister,&#x20;Jhalanath&#x20;Khanal,&#x20;began&#x20;forming&#x20;a&#x20;coalition&#x20;government&#x20;on&#x20;Friday.&#x20;He&#x20;is&#x20;expected&#x20;to&#x20;be&#x20;sworn&#x20;in&#x20;on&#x20;Sunday&#x20;after&#x20;securing&#x20;the&#x20;bac...
 
 ### [Cuba is to free two more dissidents, according to the Catholic Church on the island. ](/news/2011/02/4/cuba-is-to-free-two-more-dissidents-according-to-the-catholic-church-on-the-island.md)
 The Cuban government has freed prominent political prisoner Guido Sigler, who had refused to go into exile in Spain, dissidents say.

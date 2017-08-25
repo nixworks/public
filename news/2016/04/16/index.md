@@ -28,7 +28,7 @@ OZU, Japan (AP) — The latest on the earthquakes in Japan (all times local): 1:
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 ### [Five people are dead and five are in hospital after taking ecstasy at an Argentine version of the Time Warp Festival featuring electronic music acts. ](/news/2016/04/16/five-people-are-dead-and-five-are-in-hospital-after-taking-ecstasy-at-an-argentine-version-of-the-time-warp-festival-featuring-electronic-mu.md)
-Five people died and another five were hospitalized in critical condition on Saturday in Argentina&#x27;s capital city Buenos Aires after attending an electronic music festival where authorities suspect they consumed illegal drugs. The five victims who died at Time Warp, a music festival originally from
+Five people died and another five were hospitalized in critical condition on Saturday in Argentina&#x27;s capital city Buenos Aires after attending an electronic music festival where authorities suspect they consumed illegal drugs. The five victims who died at Time Warp, a music festival originally ...
 
 ### [The death toll rises to seven from Thursday's building collapse  in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-islan.md)
 MADRID (AP) — Spanish emergency services on Saturday recovered the body of a man from the rubble of a four-story apartment building that collapsed in a popular Canary Island tourist town, raising the death toll to seven.…

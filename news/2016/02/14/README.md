@@ -37,7 +37,7 @@ Slovenia said Sunday it would clamp down on the number of migrants allowed to en
 People in the violence-hit Central African Republic vote in the second round of presidential elections.
 
 ### [Jocelerme Privert is elected as the interim President of Haiti pending elections later this year. ](/news/2016/02/14/jocelerme-privert-is-elected-as-the-interim-president-of-haiti-pending-elections-later-this-year.md)
-Port-au-Prince (AFP) - Haitian lawmakers early Sunday elected Jocelerme Privert as the troubled country&#x27;s interim president to fill a power vacuum following the departure of Michel Martelly, after a vote to choose his successor was postponed over fears of violence. Privert, 62, a senator and president
+Port-au-Prince (AFP) - Haitian lawmakers early Sunday elected Jocelerme Privert as the troubled country&#x27;s interim president to fill a power vacuum following the departure of Michel Martelly, after a vote to choose his successor was postponed over fears of violence. Privert, 62, a senator and pr...
 
 ## [Previous Day...](/news/2016/02/13/index.md)
 

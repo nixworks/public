@@ -25,7 +25,7 @@ _Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Isl
 _Context: Ban Ki-moon, Bashar al-Assad, President, Secretary General, Syria, Syria peace talks in Vienna, Syrian Civil War_
 
 ### [The Presidential Palace and the Philippine Senate investigate an extortion scam involving the Ninoy Aquino International Airport. ](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.md)
-_Context: Ninoy Aquino International Airport, Philippines, Presidential Palace, Senate Majority Leader, extortion_
+_Context: Ninoy Aquino International Airport, Philippine senate, Philippines, Presidential Palace, extortion_
 
 ### [Faisal Abedin Deepan, a publisher of secular books, is hacked to death in Dhaka. ](/news/2015/10/31/faisal-abedin-deepan-a-publisher-of-secular-books-is-hacked-to-death-in-dhaka.md)
 Faisal Abedin Deepan killed on same day as attacks on publisher Ahmed Rahim Tutul and two writers

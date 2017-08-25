@@ -13,7 +13,7 @@ _Context: Ethiopia, European Union, Kenya_
 _Context: American football, Wisconsin, dirty bomb, radiological, terrorist_
 
 ### [ The Government of Kazakhstan is building a security fence on its border with Uzbekistan to prevent terrorist attacks in the country. ](/news/2006/10/20/the-government-of-kazakhstan-is-building-a-security-fence-on-its-border-with-uzbekistan-to-prevent-terrorist-attacks-in-the-country.md)
-Kazakhstan is building a fence along 28 miles of its long border with Uzbekistan. Officials said the eight-foot-high barbed-wire fence with searchlights would be built along heavily populated towns and cities on the southern ridge to funnel drug smugglers into the countryside, where they can be more easily captured. The border area is also a flash point in a larger regional struggle against Islamic militants. The fence means “we will be in a position to use our weapons,” a border official told Radio Free Europe.
+Kazakhstan is building a fence along 28 miles of its long border with Uzbekistan. Officials said the eight-foot-high barbed-wire fence with searchlights would be built along heavily populated towns and cities on the southern ridge to funnel drug smugglers into the countryside, where they can be more...
 
 ### [ Clare Short, the former British cabinet minister, has left the Labour Party to sit as an Independent Labour MP. ](/news/2006/10/20/clare-short-the-former-british-cabinet-minister-has-left-the-labour-party-to-sit-as-an-independent-labour-mp.md)
 _Context: Clare Short, Independent, Labour_

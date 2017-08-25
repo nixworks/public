@@ -7,7 +7,7 @@ Security forces end an attack by four gunmen on a university in north-west Pakis
 Seven employees of a popular Afghan TV channel are killed after their bus is targeted by a suicide car bomber in Kabul.
 
 ### [Satellite images released by the Associated Press reveal the historic Saint Elijah's Monastery near the Iraqi city of Mosul, the oldest Christian monastery in Iraq that predates Islam, has been completely razed by Islamic State of Iraq and the Levant militants. ](/news/2016/01/20/satellite-images-released-by-the-associated-press-reveal-the-historic-saint-elijah-s-monastery-near-the-iraqi-city-of-mosul-the-oldest-chri.md)
-The Isis jihadist group has completely destroyed a 1,400-year-old Christian monastery in Iraq, the oldest of its kind in the country. Satellite images released on Wednesday by the Associated Press showed just a pile of rubble where St Elijah&#039;s Monastery used to stand on a hill above Mosul, Isis&#039;s stronghold in Iraq.
+The Isis jihadist group has completely destroyed a 1,400-year-old Christian monastery in Iraq, the oldest of its kind in the country. Satellite images released on Wednesday by the Associated Press showed just a pile of rubble where St Elijah&#039;s Monastery used to stand on a hill above Mosul, Isis...
 
 ### [Kyrgyzstan's parliament revokes an agreement with Russia to construct hydropower plants, officially ending a deal that in reality was going nowhere, due to the "unfavorable economic situation" in Russia. ](/news/2016/01/20/kyrgyzstan-s-parliament-revokes-an-agreement-with-russia-to-construct-hydropower-plants-officially-ending-a-deal-that-in-reality-was-going.md)
 _Context: Kyrgyzstan_

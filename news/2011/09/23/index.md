@@ -28,7 +28,7 @@ _Context: South Korea, savings banks, suicide_
 _Context: Michael Sata, Patriotic Front, Zambia, presidential election_
 
 ### [The United States House of Representatives passes a resolution providing funding for the Government through to November 18, but the Senate vows to reject it, making a government shutdown from October 1 possible. ](/news/2011/09/23/the-united-states-house-of-representatives-passes-a-resolution-providing-funding-for-the-government-through-to-november-18-but-the-senate-v.md)
-Friday&rsquo;s vote marked a reversal of fortunes for House Speaker John A. Boehner (R-Ohio), who after losing Wednesday&rsquo;s vote found himself roaming the contours of a familiar dilemma - capitulate to fiscal hawks in his own party who want to spend less,or compromise with Democrats who want to spend more.
+Friday&rsquo;s vote marked a reversal of fortunes for House Speaker John A. Boehner (R-Ohio), who after losing Wednesday&rsquo;s vote found himself roaming the contours of a familiar dilemma - capitulate to fiscal hawks in his own party who want to spend less,or compromise with Democrats who want to...
 
 ### [NASA's 1991-era Upper Atmosphere Research Satellite is expected to fall from orbit sometime this evening Greenwich Mean Time. ](/news/2011/09/23/nasa-s-1991-era-upper-atmosphere-research-satellite-is-expected-to-fall-from-orbit-sometime-this-evening-greenwich-mean-time.md)
 The US space agency (Nasa) says that its out-of-control climate satellite is expected to crash to Earth sometime on Friday evening (GMT).

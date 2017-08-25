@@ -10,7 +10,7 @@ _Context: Iran, Iraq_
 _Context: Earth, NASA, Saturn, Titan, lake, sunlight reflecting_
 
 ### [ Serbians, Macedonians, and Montenegrins are able to travel to continental Europe without a visa from this day on. ](/news/2009/12/19/serbians-macedonians-and-montenegrins-are-able-to-travel-to-continental-europe-without-a-visa-from-this-day-on.md)
-Today, for the first time in nearly two decades, millions of Serbs and other former Yugoslavs will be entitled to leave their countries and go almost anywhere in Europe without a visa. The end of the visa barrier, which falls on the festival of St Nicholas, comes 18 years after Slobodan Milosevic led Yugoslavia into the cold – and marks a new welcome for a nation that has long been shunned by the rest of Europe.
+Today, for the first time in nearly two decades, millions of Serbs and other former Yugoslavs will be entitled to leave their countries and go almost anywhere in Europe without a visa. The end of the visa barrier, which falls on the festival of St Nicholas, comes 18 years after Slobodan Milosevic le...
 
 ### [ Pope Benedict XVI declares two of his predecessors, John Paul II and Pius XII to be Venerable, the second step toward sainthood. ](/news/2009/12/19/pope-benedict-xvi-declares-two-of-his-predecessors-john-paul-ii-and-pius-xii-to-be-venerable-the-second-step-toward-sainthood.md)
 Pope Benedict XVI moved to make two of his predecessors one step closer to sainthood, confirming the virtues of John Paul II and, in a surprise move, those of Pius XII.

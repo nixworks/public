@@ -7,7 +7,7 @@ Afghan official identified the dead soldiers as British and said four others wer
 _Context: Ciudad Obregon, Sonora, Eduardo Castro Luque, Mexican Drug War_
 
 ### [2012 Sydney Islamic riots: Muslim protesters shouting anti-American slogans clash with police outside the US embassy in Sydney, Australia. ](/news/2012/09/15/2012-sydney-islamic-riots-muslim-protesters-shouting-anti-american-slogans-clash-with-police-outside-the-us-embassy-in-sydney-australia.md)
-Angry&#x20;demonstrations&#x20;and&#x20;riots&#x20;over&#x20;an&#x20;anti-Islamic&#x20;film&#x20;escalated&#x20;across&#x20;the&#x20;Muslim&#x20;world&#x20;on&#x20;Friday&#x20;and&#x20;spilled&#x20;over&#x20;into&#x20;Saturday,&#x20;killing&#x20;several&#x20;people&#x20;and&#x20;reaching&#x20;as&#x20;far&#x20;as&#x20;Sydney&#x20;and&#x20;the&#x20;Maldives,&#x20;as&#x20;police&#x20;struggled&#x20;to&#x20;protect&#x20;US&#x20;embassies.
+Angry&#x20;demonstrations&#x20;and&#x20;riots&#x20;over&#x20;an&#x20;anti-Islamic&#x20;film&#x20;escalated&#x20;across&#x20;the&#x20;Muslim&#x20;world&#x20;on&#x20;Friday&#x20;and&#x20;spilled&#x20;over&#x20;into&#x20;Saturday,&#x20;killing&#x20;several&#x20;people&#x20;and&#x20;reaching&#x20;as&#x2...
 
 ### [Syrian civil war:One of Assad's relatives, who was a Syrian Air Force officer, defects from the Syrian government. ](/news/2012/09/15/syrian-civil-war-pone-of-assad-s-relatives-who-was-a-syrian-air-force-officer-defects-from-the-syrian-government.md)
 Syrian air force officer declares he is joining rebels in video; clashes in Damascus, Aleppo continue

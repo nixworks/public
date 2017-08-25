@@ -25,7 +25,7 @@ _Context: Jang Sung-taek, National Defence Commission, North Korea, South Korea_
 A University of Alberta paleontologist is showing off a rare dinosaur fossil that could be the most significant find of his career, three years after unearthing it at Alberta&#8217;s Dinosaur Provi…
 
 ### [Researchers at Albert Einstein College of Medicine at Yeshiva University in New York City have found that a modified version of the leukemia treatment radioimmunotherapy can kill latent HIV cells, possibly providing a cure for one of the world's deadliest diseases. ](/news/2013/12/3/researchers-at-albert-einstein-college-of-medicine-at-yeshiva-university-in-new-york-city-have-found-that-a-modified-version-of-the-leukemia.md)
-A radioactive smart bomb might help mop up the last bits of AIDS virus hiding out in a patient’s body, even getting into the brain, researchers reported Tuesday.The approach is part of a new effort to try to cure AIDS. After 30 years of fighting the deadly and incurable virus, scientists think they may be able to find a way to really kill it.
+A radioactive smart bomb might help mop up the last bits of AIDS virus hiding out in a patient’s body, even getting into the brain, researchers reported Tuesday.The approach is part of a new effort to try to cure AIDS. After 30 years of fighting the deadly and incurable virus, scientists think the...
 
 ## [Previous Day...](/news/2013/12/2/index.md)
 

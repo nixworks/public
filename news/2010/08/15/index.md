@@ -25,7 +25,7 @@ _Context: Afghanistan's, Ayman al-Zawahiri, Israel, Muslim, Turkey_
 Mexican television network Televisa is targeted in explosive attacks in two different cities.
 
 ### [Thousands are evacuated from the French pilgrimage site of Lourdes due to a bomb threat; it later reopens. ](/news/2010/08/15/thousands-are-evacuated-from-the-french-pilgrimage-site-of-lourdes-due-to-a-bomb-threat-it-later-reopens.md)
-A&#x20;bomb&#x20;scare&#x20;forced&#x20;the&#x20;evacuation&#x20;of&#x20;Roman&#x20;Catholic&#x20;shrines&#x20;at&#x20;Lourdes&#x20;in&#x20;France&#x20;on&#x20;Sunday&#x20;as&#x20;some&#x20;30,000&#x20;worshippers&#x20;celebrated&#x20;the&#x20;Feast&#x20;of&#x20;the&#x20;Assumption.&#x20;Police&#x20;said&#x20;they&#x20;received&#x20;a&#x20;warning&#x20;that&#x20;four&#x20;bombs&#x20;were&#x20;set&#x20;to&#x20;go&#x20;off&#x20;around&#x20;3pm.
+A&#x20;bomb&#x20;scare&#x20;forced&#x20;the&#x20;evacuation&#x20;of&#x20;Roman&#x20;Catholic&#x20;shrines&#x20;at&#x20;Lourdes&#x20;in&#x20;France&#x20;on&#x20;Sunday&#x20;as&#x20;some&#x20;30,000&#x20;worshippers&#x20;celebrated&#x20;the&#x20;Feast&#x20;of&#x20;the&#x20;Assumption.&#x20;Police&#x20...
 
 ### [General David Petraeus expresses doubt during an interview on American television that the United States will be able to definitely begin withdrawing from Afghanistan in 2011. ](/news/2010/08/15/general-david-petraeus-expresses-doubt-during-an-interview-on-american-television-that-the-united-states-will-be-able-to-definitely-begin-wi.md)
 The new US commander in Afghanistan, Gen David Petraeus, says US forces will only begin withdrawing in 2011 if conditions allow.

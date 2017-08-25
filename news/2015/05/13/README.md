@@ -19,7 +19,7 @@ Humanitarian organisations take advantage of a five-day truce to get aid into Ye
  A reservist went on a shooting spree at a military training camp in Seoul on Wednesday, killing one person and wounding three others, before committing suicide, the army said.
 
 ### [Japanese carmakers Toyota and Nissan recall 6.5 million vehicles due to fears over exploding airbags. ](/news/2015/05/13/japanese-carmakers-toyota-and-nissan-recall-6-5-million-vehicles-due-to-fears-over-exploding-airbags.md)
-Japanese auto giants Toyota and Nissan on Wednesday said they were recalling 6.5 million vehicles globally in the latest chapter of an exploding airbag crisis linked to several deaths. The world&#x27;s biggest automaker said its recall of five million vehicles affected 35 models globally produced between
+Japanese auto giants Toyota and Nissan on Wednesday said they were recalling 6.5 million vehicles globally in the latest chapter of an exploding airbag crisis linked to several deaths. The world&#x27;s biggest automaker said its recall of five million vehicles affected 35 models globally produced be...
 
 ### [The United States Department of Agriculture reports that more than 40% of honey bee colonies died in the preceding year. Farmers rely on honey bees to pollinate over half the country's food supply annually. ](/news/2015/05/13/the-united-states-department-of-agriculture-reports-that-more-than-40-of-honey-bee-colonies-died-in-the-preceding-year-farmers-rely-on-hon.md)
 More than 40% of honeybee colonies died in the U.S. during a 12-month period ending in April according to a new Agriculture Department study, extending a troubling trend.

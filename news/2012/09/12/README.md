@@ -43,7 +43,7 @@ _Context: Bosnia and Herzegovina, Bosnian War_
 _Context: Cambodia, logging_
 
 ### [Aseem Trivedi is granted bail and freed on 13 September 2012. ](/news/2012/09/12/aseem-trivedi-is-granted-bail-and-freed-on-13-september-2012.md)
-Aseem Trivedi, the Kanpur-based self-publishing cartoonist facing sedition charges, was granted bail on a personal bond of Rs 5,000 by the Bombay high court on a lawyer&rsquo;s PIL on Tuesday. Not wanting to come across as non-cooperative, he finally signed the bond on Wednesday and stepped out of Arthur Road jail.
+Aseem Trivedi, the Kanpur-based self-publishing cartoonist facing sedition charges, was granted bail on a personal bond of Rs 5,000 by the Bombay high court on a lawyer&rsquo;s PIL on Tuesday. Not wanting to come across as non-cooperative, he finally signed the bond on Wednesday and stepped out of A...
 
 ### [Previously unseen files relating to the 1989 Hillsborough disaster are released to the public. They show police failings, and attempts to shift the blame for the tragedy onto football fans. British Prime Minister David Cameron says he is "profoundly sorry" for what happened. ](/news/2012/09/12/previously-unseen-files-relating-to-the-1989-hillsborough-disaster-are-released-to-the-public-they-show-police-failings-and-attempts-to-sh.md)
 Live coverage of the release of official documents relating to the 1989 Hillsborough disaster, including reaction and analysis of their contents.

@@ -10,7 +10,7 @@ _Context: Deir ez-Zor, Islamic State of Iraq and the Levant, Syrian Army, Syrian
 _Context: Baghdad, Iraqi Civil War (2014-present), United Nations Commission on Human Rights_
 
 ### [Pakistan lifts a three-year ban on YouTube after Google launches a local version that allows the government to demand removal of material it considers to be offensive. Similar systems have existed in China for many years. ](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.md)
-Pakistan said on Monday it had removed a three-year ban on YouTube after the Google-owned video-sharing website launched a local version that allows the government to demand removal of material it considers offensive. Pakistan banned access to YouTube in September 2012 after an anti-Islam film, &quot;
+Pakistan said on Monday it had removed a three-year ban on YouTube after the Google-owned video-sharing website launched a local version that allows the government to demand removal of material it considers offensive. Pakistan banned access to YouTube in September 2012 after an anti-Islam film, &quo...
 
 ### [The price of oil drops below $28 a barrel, the lowest since 2003. ](/news/2016/01/19/the-price-of-oil-drops-below-28-a-barrel-the-lowest-since-2003.md)
 ### [The roof of the renovated Hotel Ritz in Paris is damaged by fire just weeks before the planned re-opening. ](/news/2016/01/19/the-roof-of-the-renovated-ha-tel-ritz-in-paris-is-damaged-by-fire-just-weeks-before-the-planned-re-opening.md)

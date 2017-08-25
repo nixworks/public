@@ -25,7 +25,7 @@ _Context: Deepwater Horizon, Gulf, oil rig explodes_
 Former Lebanese general accused of collaborating with Israeli intelligence; five alleged spies face death sentence.
 
 ### [At least 17 migrants are kidnapped by suspected human traffickers in Tijuana, Baja California, in northwestern Mexico. ](/news/2010/09/2/at-least-17-migrants-are-kidnapped-by-suspected-human-traffickers-in-tijuana-baja-california-in-northwestern-mexico.md)
-Human&#x20;traffickers&#x20;have&#x20;kidnapped&#x20;at&#x20;least&#x20;17&#x20;migrants&#x20;in&#x20;northern&#x20;Mexico,&#x20;police&#x20;in&#x20;Tijuana&#x20;say,&#x20;one&#x20;week&#x20;after&#x20;the&#x20;bodies&#x20;of&#x20;72&#x20;abducted&#x20;migrants&#x20;were&#x20;found&#x20;in&#x20;a&#x20;ranch&#x20;in&#x20;the&#x20;Tamaulipas&#x20;state.&#x0A;
+Human&#x20;traffickers&#x20;have&#x20;kidnapped&#x20;at&#x20;least&#x20;17&#x20;migrants&#x20;in&#x20;northern&#x20;Mexico,&#x20;police&#x20;in&#x20;Tijuana&#x20;say,&#x20;one&#x20;week&#x20;after&#x20;the&#x20;bodies&#x20;of&#x20;72&#x20;abducted&#x20;migrants&#x20;were&#x20;found&#x20;in&#x20;a&#x...
 
 ### [Price riots continue in Mozambique, leaving a further four people dead. ](/news/2010/09/2/price-riots-continue-in-mozambique-leaving-a-further-four-people-dead.md)
 _Context: Mozambique_

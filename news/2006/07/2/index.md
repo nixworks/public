@@ -16,7 +16,7 @@ _Context: Discovery, EDT, Florida_
 _Context: General Musharraf, Jamaat-e-Islami, Pakistan, United States, Waziristan_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): Israel strikes an empty office of Palestinian PM Ismail Haniyeh. Two other Hamas operatives are killed in two separate aerial strikes. Israeli defense minister Amir Peretz warns stepping up quality of targets, reiterating the responsibility of Syrian president Bashar Assad for the continued crisis. ](/news/2006/07/2/israeli-palestinian-conflict-operation-summer-rains-p-israel-strikes-an-empty-office-of-palestinian-pm-ismail-haniyeh-two-other-hamas-op.md)
-In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed only in West Bank&#39;; referring to ongoing Qassam fire, he says &#39;we cannot accept fact that southern communities are living in terrible fear, so I have instructed that in meantime, no one will sleep at night in Gaza as well&#39;
+In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed only in West Bank&#39;; referring to ongoing Qassam fire, he says &#39;we cannot accept fact that southern communities are living in terrible fear, so I have instructed that in meantime, no one will sleep at night in Gaz...
 
 ## [Previous Day...](/news/2006/07/1/index.md)
 

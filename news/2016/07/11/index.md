@@ -25,7 +25,7 @@ _Context: India, flood, monsoon_
 _Context: Lockheed C-130 Hercules, Montijo Air Base, Portuguese Armed Forces_
 
 ### [At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s-state-of-michigan.md)
-At least three people were reportedly killed at the Berrien County Courthouse in Michigan following a shooting Monday afternoon. Larry Darnell Gordon, 45, had been at the courthouse for a hearing on multiple felony charges when he overpowered the two bailiffs escorting him. Gordon disarmed one man and fatally shot both the two bailiffs, Berrien County Sheriff Paul Bailey said in a press conference Monday evening. The deceased bailiffs have been identified as 61-year-old Joseph Zangaro and 63-year-old Ronald Kienzle, longtime law enforcement officers who became court officers following their retirements. Deputy James Atterberry and a civilian were also injured and remain at a local hospital. Gordon took hostages for a short period of time during the incident, but was killed by other officers who responded to the scene. Michigan Gov. Rick Snyder called it a terrible day in a wonderful community. 
+At least three people were reportedly killed at the Berrien County Courthouse in Michigan following a shooting Monday afternoon. Larry Darnell Gordon, 45, had been at the courthouse for a hearing on multiple felony charges when he overpowered the two bailiffs escorting him. Gordon disarmed one man a...
 
 ### [Protest leader, Evan Mawarire, asks the international community to put pressure on the regime of Robert Mugabe. ](/news/2016/07/11/protest-leader-evan-mawarire-asks-the-international-community-to-put-pressure-on-the-regime-of-robert-mugabe.md)
 Evan Mawarire urges foreign governments to put pressure on Robert Mugabe and threatens further shutdowns
@@ -34,7 +34,7 @@ Evan Mawarire urges foreign governments to put pressure on Robert Mugabe and thr
 Rolling coverage of the day’s political developments as they happen, including Andrea Leadsom’s dramatic exit from the Tory party leadership race and Angela Eagle’s bid to lead Labour
 
 ### [The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-become-the-new-leader-of-the-labour-party-after.md)
-Angela Eagle has pledged to unite her party and the country as she formally announced her challenge to replace Jeremy Corbyn as Labour leader. Describing herself as a &quot;practical socialist&quot;, she said: &quot;I&amp;#39;m not a Blairite, I&amp;#39;m not a Brownite and I&amp;#39;m not a Corbynista. I am my own woman.&quot; Ms Eagle said the country faced &quot;dark times&quot; after leaving the European Union and said: &quot;Jeremy Corbyn is unable to provide the leadership this huge task needs. I believe I can.&quot; 
+Angela Eagle has pledged to unite her party and the country as she formally announced her challenge to replace Jeremy Corbyn as Labour leader. Describing herself as a &quot;practical socialist&quot;, she said: &quot;I&amp;#39;m not a Blairite, I&amp;#39;m not a Brownite and I&amp;#39;m not a Corbyni...
 
 ## [Previous Day...](/news/2016/07/10/index.md)
 

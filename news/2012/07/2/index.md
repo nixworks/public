@@ -52,7 +52,7 @@ _Context: Mexico City, Miguel Angel Mancera, head of state (mayoral) election_
 Hamas said it suspended the elections commission for not treating its supporters in the West Bank fairly, halting one of the only tangible steps toward reconciliation with the rival Fatah Party based in the West Bank.
 
 ### [NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. ](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.md)
-_Context: Cape Canaveral, Lockheed Martin, NASA, Orion spacecraft_
+_Context: Cape Canaveral, Lockheed, NASA, Orion spacecraft_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

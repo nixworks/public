@@ -25,7 +25,7 @@ Saudi Arabia is the single biggest contributor to the funding of Islamic extremi
 Officials from Turkey and Israel meet in Geneva to try to heal the diplomatic rift caused by the killing of Turkish citizens in an Israeli raid on an aid flotilla in May.
 
 ### [A French court finds Continental Airlines criminally responsible for the crash of Air France Flight 4590 in July 2000. ](/news/2010/12/6/a-french-court-finds-continental-airlines-criminally-responsible-for-the-crash-of-air-france-flight-4590-in-july-2000.md)
-US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#x20;responsible&#x20;for&#x20;the&#x20;fatal&#x20;2000&#x20;Concorde&#x20;crash.&#x20;The&#x20;crash&#x20;killed&#x20;113&#x20;people&#x20;and&#x20;bought&#x20;the&#x20;era&#x20;of&#x20;supersonic&#x20;passenger&#x20;flights&#x20;to&#x20;an&#x20;abrupt&#x20;end.
+US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#x20;responsible&#x20;for&#x20;the&#x20;fatal&#x20;2000&#x20;Concorde&#x20;crash.&#x20;The&#x20;crash&#x20;killed&#x20;113&#x20;people&#x20;and&#x20;bought&#x20;the&#x20;era&#x20;of&#x20;supersonic&#x20;passenger&#x20;fli...
 
 ### [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md)
 _Context: Barack Obama, George W. Bush, Republican, president_

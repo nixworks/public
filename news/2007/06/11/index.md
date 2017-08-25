@@ -10,7 +10,7 @@ _Context: Bangladesh, monsoon_
 The vote today opened the way for the Sunni coalition that had installed him to choose a replacement.
 
 ### [ Flooding in the southern Chinese provinces of Guangdong, Guangxi, Guizhou, Hunan, Fujian, and Jiangxi damage agricultural land and crops, kill 66 people, and force 600,000 people from their homes. ](/news/2007/06/11/flooding-in-the-southern-chinese-provinces-of-guangdong-guangxi-guizhou-hunan-fujian-and-jiangxi-damage-agricultural-land-and-crops-k.md)
-_Context: Fujian, Guangdong province, Guangxi Zhuang, Guizhou, Hunan, Jiangxi, flooding_
+_Context: Fujian, Guangdong, Guangxi Zhuang, Guizhou, Hunan, Jiangxi, flooding_
 
 ### [ Majeedah Bolkiah&mdash;daughter of Hassanal Bolkiah, Sultan of Brunei&mdash;marries Khairul Khalil, an official in the office of the Prime Minister in a lavish Islamic wedding ceremony. ](/news/2007/06/11/majeedah-bolkiah-mdash-daughter-of-hassanal-bolkiah-sultan-of-brunei-mdash-marries-khairul-khalil-an-official-in-the-office-of-the-prime.md)
 _Context: Brunei, Hassanal Bolkiah, Islam, Khairul Khalil, Majeedah Bolkiah, Prime Minister, Sultan, wedding_

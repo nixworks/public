@@ -13,7 +13,7 @@ _Context: European Union, Google_
 _Context: Benjamin Netanyahu, agreement on the Iranian nuclear program_
 
 ### [The European Parliament approves a resolution to mark the 100th anniversary of the Armenian genocide. ](/news/2015/04/15/the-european-parliament-approves-a-resolution-to-mark-the-100th-anniversary-of-the-armenian-genocide.md)
-ISTANBUL — Turkey was on the defensive Wednesday, lashing out at both Pope Francis and the European Union&#039;s legislature for their descriptions of the Ottoman-era killing of Armenians as genocide.Turkey&#039;s prime minister Ahmet Davutoglu said that the pontiff has joined &quot;an evil front&quot; plotting against Turkey by describing the killings of an estimated 1.5 million Armenians as &quot;the first genocide of the 20th century.&quot;
+ISTANBUL — Turkey was on the defensive Wednesday, lashing out at both Pope Francis and the European Union&#039;s legislature for their descriptions of the Ottoman-era killing of Armenians as genocide.Turkey&#039;s prime minister Ahmet Davutoglu said that the pontiff has joined &quot;an evil front&...
 
 ### [Jamal Benomar resigns as the United Nations peace envoy to Yemen after losing support from the Gulf nations. ](/news/2015/04/15/jamal-benomar-resigns-as-the-united-nations-peace-envoy-to-yemen-after-losing-support-from-the-gulf-nations.md)
 UNITED NATIONS, United States (AFP) - The UN peace envoy to Yemen, Jamal Benomar, has resigned, a UN official said Wednesday, after losing support from Gulf countries for his mission in the conflict-riven nation.. Read more at straitstimes.com.

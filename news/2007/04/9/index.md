@@ -19,7 +19,7 @@ _Context: Iran, Mahmoud Ahmadinejad, President, produce nuclear fuel on an indus
 _Context: Doha, Gas Exporting Countries Forum, Iran, Kazakhstan, OPEC, Qatar, Russia, cartel, natural gas_
 
 ### [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a  demonstration  calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md)
-Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
+Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ East Timorese voters go to the polls to elect a new President of East Timor to replace Xanana Gusmo.](/news/2007/04/9/east-timorese-voters-go-to-the-polls-to-elect-a-new-president-of-east-timor-to-replace-xanana-gusmao.md)
 The presidential election has exposed bitter personal rivalries as well as divisions among clans and regions.

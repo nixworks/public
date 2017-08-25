@@ -16,7 +16,7 @@ At least 18 people were killed over three days of heavy rains and flooding in pa
 The State Department cited fears of attacks by extremist groups in ordering family members of employees to leave the consulate in Turkey.
 
 ### [South Korean prosecutors raid the presidential Blue House in Seoul amid continuing fallout over President Park Geun-hye's influence-peddling scandal involving cult leader Choi Soon-sil. ](/news/2016/10/29/south-korean-prosecutors-raid-the-presidential-blue-house-in-seoul-amid-continuing-fallout-over-president-park-geun-hye-s-influence-peddling.md)
-SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the presidential Blue House, as well as the homes and offices of senior advisers to President Park Geun Hye, as she struggled with a corruption and influence-peddling scandal involving a close family friend.. Read more at straitstimes.com.
+SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the presidential Blue House, as well as the homes and offices of senior advisers to President Park Geun Hye, as she struggled with a corruption and influence-peddling scandal involving a close family friend.. Read more at s...
 
 ### [The New York City Metropolitan Opera cancels its Saturday performances as a man,  during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention.  ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md)
 _Context: Metropolitan Opera, New York City, cremated ashes, intermission, orchestra pit_

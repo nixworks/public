@@ -1,7 +1,7 @@
 ## [2015-08-23](/news/2015/08/23/index.md)
 
 ### [Al-Qaeda  militants take over parts of the strategic southern Yemeni port city of Aden. The militants reportedly raised their black flag above the city's port and government buildings. The city was recaptured by pro-government forces last week. ](/news/2015/08/23/al-qaeda-militants-take-over-parts-of-the-strategic-southern-yemeni-port-city-of-aden-the-militants-reportedly-raised-their-black-flag-abo.md)
-A Saudi army general has been killed in cross-border fire from Yemen, the armed forces announced Sunday, making him the highest-ranking officer to be killed in border attacks since March. Major General Abdulrahman bin Saad al-Shahrani, commander of the 18th Brigade, was inspecting troops deployed &quot;
+A Saudi army general has been killed in cross-border fire from Yemen, the armed forces announced Sunday, making him the highest-ranking officer to be killed in border attacks since March. Major General Abdulrahman bin Saad al-Shahrani, commander of the 18th Brigade, was inspecting troops deployed &q...
 
 ### [Islamic State in Iraq and the Levant is reported to have blown up the ancient Baalshamin temple in Palmyra, Syria. ](/news/2015/08/23/islamic-state-in-iraq-and-the-levant-is-reported-to-have-blown-up-the-ancient-baalshamin-temple-in-palmyra-syria.md)
 Islamic State militants have blown up the ancient temple of Baalshamin at Palmyra, Syrian officials and activists say.

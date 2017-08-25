@@ -4,7 +4,7 @@
 Syrian government forces capture more than a third of rebel-held territory in eastern Aleppo.
 
 ### [Fighting between militia and Al-Shabaab militants has left at least 26 people dead. ](/news/2016/11/28/fighting-between-militia-and-al-shabaab-militants-has-left-at-least-26-people-dead.md)
-Twenty six people have been killed and several others wounded in an ongoing heavy fighting between Al-Shabaab and local militiamen in southern Mudug region in central Somalia. The fighting erupted at Dumaaye village about 50km away from the Al-Shabaab-held Harardere town after resident took arms against Al-Shabaab over alms or Zakah (an Islamic levy on wealth). &hellip;
+Twenty six people have been killed and several others wounded in an ongoing heavy fighting between Al-Shabaab and local militiamen in southern Mudug region in central Somalia. The fighting erupted at Dumaaye village about 50km away from the Al-Shabaab-held Harardere town after resident took arms aga...
 
 ### [Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state. ](/news/2016/11/28/three-unhcr-workers-one-from-sudan-and-two-from-nepal-are-kidnapped-by-unidentified-gunmen-in-geneina-the-capital-of-the-west-darfur-st.md)
 Two Nepalese and one Sudanese UN staff taken to an unknown location by unidentified gunmen.
@@ -28,7 +28,7 @@ Group of German lawyers seek criminal prosecution of Syrian regime head for war 
 Harminder Singh had been sprung from prison in Punjab state along with four other inmates a day earlier.
 
 ### [North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. ](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.md)
-The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to protest the controversial Dakota Access pipeline must immediately evacuate, North Dakota Gov. Jack Dalrymple declared Monday night. Dalrymple said the camp&#x27;s semi-permanent shelters were not &quot;suitable for winter habitation&quot; in accordance with state building codes.
+The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to protest the controversial Dakota Access pipeline must immediately evacuate, North Dakota Gov. Jack Dalrymple declared Monday night. Dalrymple said the camp&#x27;s semi-permanent shelters were not &quot;suitable for winte...
 
 ### [Denmark gets a new coalition government as the centre-right liberal party Venstre joins forces with the Conservative People's Party and the libertarian-leaning Liberal Alliance whose leader, Anders Samuelsen, becomes Denmark's sixth foreign minister in six years. ](/news/2016/11/28/denmark-gets-a-new-coalition-government-as-the-centre-right-liberal-party-venstre-joins-forces-with-the-conservative-people-s-party-and-the.md)
 _Context: Anders Samuelsen, Conservative People's Party, Denmark, Lars Lokke Rasmussen III Cabinet, Liberal Alliance, Venstre, foreign minister_

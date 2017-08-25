@@ -4,7 +4,7 @@
 Tayeb Abdel Rahim calls killings of suspected collaborators with Israel &#8216;cold-blooded murders&#8217;; 22 said executed in past two days
 
 ### [Warplanes of an unknown nationality bomb Islamist forces, killing ten fighters. ](/news/2014/08/23/warplanes-of-an-unknown-nationality-bomb-islamist-forces-killing-ten-fighters.md)
-Islamist fighters in the Fajr Libya (Libyan Dawn) coalition said on Saturday they have captured Tripoli&#x27;s battered international airport after many days of clashes with nationalist militiamen. The claim followed a setback the previous night when a warplane raided Islamist positions, killing 13 fighters
+Islamist fighters in the Fajr Libya (Libyan Dawn) coalition said on Saturday they have captured Tripoli&#x27;s battered international airport after many days of clashes with nationalist militiamen. The claim followed a setback the previous night when a warplane raided Islamist positions, killing 13 ...
 
 ### [Iraqi insurgency (2011-present):The UN calls for action to prevent what it suspects may become a massacre in the northern Iraqi town of Amirli, which has been besieged by IS forces since June. ](/news/2014/08/23/iraqi-insurgency-2011apresent-pthe-un-calls-for-action-to-prevent-what-it-suspects-may-become-a-massacre-in-the-northern-iraqi-town-of-a.md)
 A UN envoy calls for action to prevent what he says may be the possible massacre of Iraqis in the town of Amerli, besieged by Islamic State.

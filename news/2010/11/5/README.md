@@ -43,7 +43,7 @@ _Context: Haiti, Saint Lucia, Tropical Storm Tomas, flood_
 Several people are injured after a concrete mixer lorry falls from a bridge and lands on a train on the track directly below.
 
 ### [Georgian police arrest 13 people allegedly belonging to a Russian spy network. ](/news/2010/11/5/georgian-police-arrest-13-people-allegedly-belonging-to-a-russian-spy-network.md)
-Georgian&#x20;authorities&#x20;said&#x20;on&#x20;Friday&#x20;that&#x20;four&#x20;Russians&#x20;and&#x20;nine&#x20;Georgians&#x20;have&#x20;been&#x20;arrested&#x20;for&#x20;involvement&#x20;in&#x20;a&#x20;Russian&#x20;spy&#x20;network.&#x20;Media&#x20;reports&#x20;quoted&#x20;Russian&#x20;foreign&#x20;ministry&#x20;sources&#x20;as&#x20;saying&#x20;they&#x20;were&#x20;&quot;deeply&#x20;outraged&quot;&#x20;by&#x20;the&#x20;arrests.
+Georgian&#x20;authorities&#x20;said&#x20;on&#x20;Friday&#x20;that&#x20;four&#x20;Russians&#x20;and&#x20;nine&#x20;Georgians&#x20;have&#x20;been&#x20;arrested&#x20;for&#x20;involvement&#x20;in&#x20;a&#x20;Russian&#x20;spy&#x20;network.&#x20;Media&#x20;reports&#x20;quoted&#x20;Russian&#x20;foreign&#x2...
 
 ### [The Chinese embassy in Oslo implicitly warns foreign diplomats not to attend the Nobel Peace Prize award ceremony for Liu Xiaobo. ](/news/2010/11/5/the-chinese-embassy-in-oslo-implicitly-warns-foreign-diplomats-not-to-attend-the-nobel-peace-prize-award-ceremony-for-liu-xiaobo.md)
 China warns that there will be &quot;consequences&quot; if governments show support for jailed Nobel peace laureate Liu Xiaobo.

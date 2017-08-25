@@ -4,7 +4,7 @@
 _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 
 ### [Syrian civil war:The Syrian opposition accuses the Syrian army of launching a chemical attack on the Jobar neighborhood of Damascus, killing at least six people. ](/news/2014/08/21/syrian-civil-war-pthe-syrian-opposition-accuses-the-syrian-army-of-launching-a-chemical-attack-on-the-jobar-neighborhood-of-damascus-killin.md)
-ARA News Damascus, Syria – The Syrian opposition accused military forces loyal to President Bashar al-Assad of launching a chemical attack against civilians in the neighbourhood of Jobar in central Damascus on Wednesday. At least six civilians died during the attack. Activists reported that the victims were apparently suffocated &#8220;due to the toxic gas used &hellip;
+ARA News Damascus, Syria – The Syrian opposition accused military forces loyal to President Bashar al-Assad of launching a chemical attack against civilians in the neighbourhood of Jobar in central Damascus on Wednesday. At least six civilians died during the attack. Activists reported that the vi...
 
 ### [A Bell 206 helicopter carrying 5 Guatemalan Military officers crashes in Huehuetenango department, killing all on board. ](/news/2014/08/21/a-bell-206-helicopter-carrying-5-guatemalan-military-officers-crashes-in-huehuetenango-department-killing-all-on-board.md)
 _Context: Bell 206, Guatemalan Military, Huehuetenango department_

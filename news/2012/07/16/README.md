@@ -13,7 +13,7 @@ _Context: Bannu, Pakistani Taliban_
 Americans had been kidnapped by Bedouin demanding release of uncle allegedly detained for failing to pay bribe to police
 
 ### [Thailand's security forces kill seven alleged drug smugglers from Myanmar in a gunbattle. ](/news/2012/07/16/thailand-s-security-forces-kill-seven-alleged-drug-smugglers-from-myanmar-in-a-gunbattle.md)
-BANGKOK: Thai security forces killed seven suspected drug smugglers from Myanmar early Monday in a gunbattle that was Thailand’s deadliest drug-related incident in three years, police said. Myanmar, meanwhile, reported a major seizure of methamphetamine near its border with China. UN and US drug experts say Myanmar, especially Shan state in the country’s east, is a major producer of amphetamine-type stimulants. Thailand and China are large markets for the drug.
+BANGKOK: Thai security forces killed seven suspected drug smugglers from Myanmar early Monday in a gunbattle that was Thailand’s deadliest drug-related incident in three years, police said. Myanmar, meanwhile, reported a major seizure of methamphetamine near its border with China. UN and US drug e...
 
 ### [American director William Asher who directed the tv show "Bewitched" dies.](/news/2012/07/16/american-director-william-asher-who-directed-the-tv-show-bewitched-dies.md)
 _Context: William Asher_

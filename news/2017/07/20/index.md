@@ -28,7 +28,7 @@ The 74-year-old calls for an &quot;exit from Brexit&quot; as he is elected unopp
 _Context: Cabinet of Beata Szydlo_
 
 ### [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md)
-Elon Musk has said he has received permission to build an underground east coast &quot;hyperloop&quot; that will connect New York and Washington DC in just 29 minutes. Mr Musk, best known for his electric car company and for his space venture Space X, said he had received verbal permission for his infrastructure and tunnelling firm, the Boring Company, to build a subterranean transportation system. Mr Musk, who has previously made claims that many have considered wild, did not say who he had received permission from, or the nature of the “verbal agreement”.
+Elon Musk has said he has received permission to build an underground east coast &quot;hyperloop&quot; that will connect New York and Washington DC in just 29 minutes. Mr Musk, best known for his electric car company and for his space venture Space X, said he had received verbal permission for his i...
 
 ## [Previous Day...](/news/2017/07/19/index.md)
 

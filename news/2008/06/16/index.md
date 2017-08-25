@@ -34,7 +34,7 @@ South Korean construction workers joined striking truckers on Monday in the late
 Japan on Monday turned back a Taiwan activist boat which approached a group of disputed islands in protest against a ship collision last week, the latest drama in a fast-escalating political dispute, officials said.
 
 ### [ Heavy rainstorm and major flooding continues in the South China region.  Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong.  Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-a.md)
-_Context: Anhui, Fujian, Guangdong province, Hunan, Jiangxi, Pearl, Summer 2008 China region floods, Yangtze River, deadly earthquake, flood_
+_Context: Anhui, Fujian, Guangdong, Hunan, Jiangxi, Pearl, Summer 2008 China region floods, Yangtze River, deadly earthquake, flood_
 
 ### [ At least 12 police officers are killed and many more people wounded by a suicide bombing outside a police station in the town of Vavuniya in northern Sri Lanka. ](/news/2008/06/16/at-least-12-police-officers-are-killed-and-many-more-people-wounded-by-a-suicide-bombing-outside-a-police-station-in-the-town-of-vavuniya-i.md)
 _Context: Sri Lanka, Vavuniya, suicide bombing_

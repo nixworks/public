@@ -1,7 +1,7 @@
 ## [2010-10-26](/news/2010/10/26/index.md)
 
 ### [A curfew is imposed on two villages in southeastern Nigeria's Cross River State following communal violence which killed 30 people. ](/news/2010/10/26/a-curfew-is-imposed-on-two-villages-in-southeastern-nigeria-s-cross-river-state-following-communal-violence-which-killed-30-people.md)
-CROSS RIVER State government has condemned the deplorable and tragic communal clash which occurred on Saturday in Boki Local Government Area between Nsadop and Boje communities, over land rights, which claimed about 35 lives and imposed a dusk to dawn curfew on the two warring communities and their environs.
+CROSS RIVER State government has condemned the deplorable and tragic communal clash which occurred on Saturday in Boki Local Government Area between Nsadop and Boje communities, over land rights, which claimed about 35 lives and imposed a dusk to dawn curfew on the two warring communities and their ...
 
 ### [10 killed, 13 wounded in Iraq gold market robbery in a market in Kirkuk, 250 km north of Baghdad. ](/news/2010/10/26/10-killed-13-wounded-in-iraq-gold-market-robbery-in-a-market-in-kirkuk-250-km-north-of-baghdad.md)
 _Context: Baghdad, Iraq, Kirkuk_

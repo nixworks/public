@@ -13,7 +13,7 @@ _Context: Indian Army, Kashmir conflict_
 Italian Prime Minister Matteo Renzi has warned that thousands of Africans will continue to risk their lives trying to travel to Europe unless the civil war ends in Libya.
 
 ### [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md)
-The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr speaks at his...
+The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr spe...
 
 ### [At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. ](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-collapses-in-tanzania-s-msalala-district.md)
 _Context: Tanzania, gold mine_

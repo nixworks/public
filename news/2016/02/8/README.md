@@ -13,7 +13,7 @@ _Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi Arabian-led 
 _Context: War in Afghanistan (2015-present)_
 
 ### [The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md)
-TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled a woman out alive from the wreckage of a collapsed building on Monday, a Reuters witness said, more than 48 hours after an earthquake hit the island. The death toll from the quake, which struck early on Saturday at the start
+TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled a woman out alive from the wreckage of a collapsed building on Monday, a Reuters witness said, more than 48 hours after an earthquake hit the island. The death toll from the quake, which struck early on Saturday at the ...
 
 ### [Storm Imogen is set to impact the British Isles with 80mph winds and heavy rain. The United Kingdom's Met Office issues warnings for South West England, particularly the Cornish coast due to large waves, and South Wales. ](/news/2016/02/8/storm-imogen-is-set-to-impact-the-british-isles-with-80mph-winds-and-heavy-rain-the-united-kingdom-s-met-office-issues-warnings-for-south-w.md)
 Hurricane-force winds leave thousands of homes without power while a search continues for an RSPCA inspector.

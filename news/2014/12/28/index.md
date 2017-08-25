@@ -10,7 +10,7 @@ The U.S.-led coalition in Afghanistan formally ended its combat mission on Sunda
 AirAsia Indonesia flight QZ8501 travelling from Indonesia to Singapore goes missing with 162 people on board, the company says.
 
 ### [The Italian-owned MS ''Norman Atlantic'' catches fire on a ferry run from Greece to Italy 44 nautical miles northwest of Corfu, with 222 vehicles, 411 passengers and 5 crew on board. Greek and Italian officials report at least one person is dead. ](/news/2014/12/28/the-italian-owned-ms-norman-atlantic-catches-fire-on-a-ferry-run-from-greece-to-italy-44-nautical-miles-northwest-of-corfu-with-222-veh.md)
-Rescue workers are battling to airlift passengers off a burning ferry adrift in the Adriatic Sea. Italian and Greek helicopter crews contended with darkness and bad weather to pluck passengers off the Italian-flagged Norman Atlantic and transfer them to a nearby vessel, after a dramatic day that began when a fire broke out on its lower deck in the early hours.
+Rescue workers are battling to airlift passengers off a burning ferry adrift in the Adriatic Sea. Italian and Greek helicopter crews contended with darkness and bad weather to pluck passengers off the Italian-flagged Norman Atlantic and transfer them to a nearby vessel, after a dramatic day that beg...
 
 ### [Two merchant ships collide in rough seas off the Italian Adriatic coast, leaving at least one person dead and two missing. ](/news/2014/12/28/two-merchant-ships-collide-in-rough-seas-off-the-italian-adriatic-coast-leaving-at-least-one-person-dead-and-two-missing.md)
 _Context: Adriatic coast, Italian_

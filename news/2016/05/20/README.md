@@ -10,7 +10,7 @@ _Context: Abkhaz-Georgian conflict, Abkhazia, Georgian, Ministry of Foreign Affa
 _Context: Coca-Cola FEMSA, Shortages in Venezuela, Venezuela_
 
 ### [Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worsen.md)
-Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday to escape monster floods in the capital Colombo as officials said half a million people had fled their homes across the island. The heaviest rains in a quarter of a century have pounded Sri Lanka since last weekend, triggering
+Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday to escape monster floods in the capital Colombo as officials said half a million people had fled their homes across the island. The heaviest rains in a quarter of a century have pounded Sri Lanka since last weekend, trig...
 
 ### [Egyptian Armed Forces claim  that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-o.md)
 _Context: Alexandria, EgyptAir Flight 804, Egyptian military, Mediterranean Sea_

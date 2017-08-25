@@ -25,7 +25,7 @@ At least 717 people taking part in the Hajj pilgrimage have been killed in a sta
 Four college students were killed and at least 51 people were taken to hospitals after a collision on the Aurora Bridge.
 
 ### [Ten thousand migrants enter Hungary, mostly from Croatia, despite efforts by the Hungarian government and military to stop them. ](/news/2015/09/24/ten-thousand-migrants-enter-hungary-mostly-from-croatia-despite-efforts-by-the-hungarian-government-and-military-to-stop-them.md)
-Thousands of migrants streamed through the Balkans Thursday as German Chancellor Angela Merkel warned after an emergency summit that Europe still had to get to grips with its biggest post-war refugee crisis. French officials meanwhile said a young African was killed by a Channel Tunnel train while trying
+Thousands of migrants streamed through the Balkans Thursday as German Chancellor Angela Merkel warned after an emergency summit that Europe still had to get to grips with its biggest post-war refugee crisis. French officials meanwhile said a young African was killed by a Channel Tunnel train while t...
 
 ### [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md)
 Get the latest breaking news across the U.S. on ABCNews.com

@@ -13,7 +13,7 @@ Activists urging president to resign clash with police in capital, resulting in 
 _Context: Annapolis, Maryland, Anne Arundel County, Maryland, Reston, Virginia, ScienceLogic_
 
 ### [Argentine federal prosecutor Alberto Nisman, who had accused President Cristina Kirchner of covering up Iranian links to the 1994 bombing of a Jewish community center in order to open up trade with Iran, dies of a gunshot wound to the head with the type of death still undetermined. ](/news/2015/01/19/argentine-federal-prosecutor-alberto-nisman-who-had-accused-president-cristina-kirchner-of-covering-up-iranian-links-to-the-1994-bombing-of.md)
-An Argentine prosecutor was found dead just hours before giving what was expected to be damning testimony against President Cristina Kirchner, in what appears to have been a suicide, officials said. The body of Alberto Nisman, 51, who had received threats, was found overnight in his 13th-floor apartment
+An Argentine prosecutor was found dead just hours before giving what was expected to be damning testimony against President Cristina Kirchner, in what appears to have been a suicide, officials said. The body of Alberto Nisman, 51, who had received threats, was found overnight in his 13th-floor apart...
 
 ### [London's Southwark Crown Court hears evidence in the first trial on female genital mutilation in the United Kingdom, where this practice is illegal. ](/news/2015/01/19/london-s-southwark-crown-court-hears-evidence-in-the-first-trial-on-female-genital-mutilation-in-the-united-kingdom-where-this-practice-is.md)
 A UK doctor performed female genital mutilation on a young mother after she gave birth in hospital, a court has heard, in the first prosecution of its kind in the UK.

@@ -4,7 +4,7 @@
 _Context: Golan Heights, Syrian Civil War_
 
 ### [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
-French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;French&#x20;joined&#x20;the&#x20;Malian&#x20;troops&#x20;in&#x20;an&#x20;offensive&#x20;against&#x20;Islamist&#x20;groups&#x20;on&#x20;and&#x20;Timbuktu&#x20;is...
+French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;Fr...
 
 ### [2012-2013 Egyptian protests:Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/2012a2013-egyptian-protests-pmassive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revolutio.md)
 Egyptian opposition protesters gather in Cairo&#39;s Tahrir Square to mark the second anniversary of the uprising that toppled Hosni Mubarak&#39;s autocratic regime.

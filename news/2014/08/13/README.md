@@ -16,7 +16,7 @@ An investigation begins after the bodies of five French climbers and their guide
 _Context: Swiss Alps, a landslide hits a mountain train_
 
 ### [Solomon Islands recognize Kosovo. ](/news/2014/08/13/solomon-islands-recognize-kosovo.md)
-Hoxhaj (@Enver_Hoxhaj) climbed for 16 positions in ranking, compared to 31st place from last year, this way making him one of the most active politicians in Kosovo, region and Europe on Twitter. According to dozens of pages study, Minister Hoxhaj is the third most active of the world&#39;s foreign ministers, after the French Minister, Laurent Fabius and Swedish Minister Carld Bildt and among the only region&#39;s foreign ministers who entered the Top 50 of the world&#39;s most active and...
+Hoxhaj (@Enver_Hoxhaj) climbed for 16 positions in ranking, compared to 31st place from last year, this way making him one of the most active politicians in Kosovo, region and Europe on Twitter. According to dozens of pages study, Minister Hoxhaj is the third most active of the world&#39;s foreign m...
 
 ### [Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn-violent.md)
 _Context: Missouri, police force, shooting of Michael Brown_

@@ -49,7 +49,7 @@ _Context: Madagascar, Marc Ravalomanana, President, South Africa_
 _Context: Governor of Wisconsin, Madison, Wisconsin, Scott Walker_
 
 ### [Thousands of political prisoners of former President of Tunisia Zine al-Abidine Ben Ali are released in Tunisia. ](/news/2011/02/19/thousands-of-political-prisoners-of-former-president-of-tunisia-zine-al-abidine-ben-ali-are-released-in-tunisia.md)
-An&#x20;amnesty&#x20;for&#x20;political&#x20;prisoners&#x20;held&#x20;under&#x20;ousted&#x20;president&#x20;Zine&#x20;al-Abidine&#x20;Ben&#x20;Ali&#x20;came&#x20;into&#x20;force&#x20;on&#x20;Saturday&#x20;and&#x20;some&#x20;3,000&#x20;prisoners&#x20;have&#x20;already&#x20;been&#x20;conditionally&#x20;released.&#x20;The&#x20;amnesty&#x20;was&#x20;approved&#x20;at&#x20;a&#x20;cabinet&#x20;meeting&#x20;on&#x20;Friday.
+An&#x20;amnesty&#x20;for&#x20;political&#x20;prisoners&#x20;held&#x20;under&#x20;ousted&#x20;president&#x20;Zine&#x20;al-Abidine&#x20;Ben&#x20;Ali&#x20;came&#x20;into&#x20;force&#x20;on&#x20;Saturday&#x20;and&#x20;some&#x20;3,000&#x20;prisoners&#x20;have&#x20;already&#x20;been&#x20;conditionally&#x2...
 
 ### [Authorities in the People's Republic of China crack down on political activists as calls spread online for a "Jasmine Revolution" on Sunday. ](/news/2011/02/19/authorities-in-the-people-s-republic-of-china-crack-down-on-political-activists-as-calls-spread-online-for-a-jasmine-revolution-on-sunday.md)
 _Context: China_

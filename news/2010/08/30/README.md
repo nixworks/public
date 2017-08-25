@@ -16,7 +16,7 @@ Four African Union peacekeepers killed and several injured by al-Shabab mortar a
 _Context: Mogadishu_
 
 ### [4 African Union peacekeepers from Uganda are killed during a mortar strike in Mogadishu, Somalia.  ](/news/2010/08/30/4-african-union-peacekeepers-from-uganda-are-killed-during-a-mortar-strike-in-mogadishu-somalia.md)
-Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu&#x20;on&#x20;Monday&#x20;in&#x20;a&#x20;mortar&#x20;attack&#x20;by&#x20;al&#x20;Shabaab&#x20;rebels.&#x20;The&#x20;attack&#x20;comes&#x20;as&#x20;authorities&#x20;in&#x20;Somalia&#x20;called&#x20;for&#x20;more&#x20;international&#x20;assistance&#x20;to&#x20;quell&#x20;the&#x20;insurgency.
+Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu&#x20;on&#x20;Monday&#x20;in&#x20;a&#x20;mortar&#x20;attack&#x20;by&#x20;al&#x20;Shabaab&#x20;rebels.&#x20;The&#x20;attack&#x20;comes&#x20;as&#x20;authorities&#x20;in&#x20;Somalia&#x20;called&#x20;for&#x20;more&#x20;inte...
 
 ### [4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. ](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.md)
 _Context: Cambodia, Pursat Province, rocket launcher_

@@ -7,7 +7,7 @@ _Context: 2014 Crimean crisis, Russia, Sevastopol, Ukraine_
 _Context: Amenhotep III, Ancient Egypt, Iset, Tutankhamun_
 
 ### [Staples Inc. plans to close 225 store locations and cut $500 million from its budget, citing low sales and internet competition. ](/news/2014/03/7/staples-inc-plans-to-close-225-store-locations-and-cut-500-million-from-its-budget-citing-low-sales-and-internet-competition.md)
-Staples Inc., the big office supply retailer trying to reinvent itself in the face of intense Internet competition, plans to close as many as 225 stores and slash $500 million in annual costs by the end of next year. The Framingham company has closed about 40 locations and shrunk the size of another 40 superstores in the past year. The more aggressive plans detailed Thursday came on the heels of disappointing sales results for the Christmas period and forecasts for more business declines in the immediate future. “Now I want to make it clear that we’re not getting out of the retail business,” Staples Chief Executive Ron Sargent said in a call with analysts. “That said, stores have to earn the right to stay open, and we are committed to making tough calls when it’s necessary.”
+Staples Inc., the big office supply retailer trying to reinvent itself in the face of intense Internet competition, plans to close as many as 225 stores and slash $500 million in annual costs by the end of next year. The Framingham company has closed about 40 locations and shrunk the size of another...
 
 ### [The United States economy added 175,000 jobs for the month of February. ](/news/2014/03/7/the-united-states-economy-added-175-000-jobs-for-the-month-of-february.md)
 _Context: United States_

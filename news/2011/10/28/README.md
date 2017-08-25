@@ -22,7 +22,7 @@ _Context: Apple Inc., Samsung, South Korea, smartphones_
 _Context: Ica, Peru, earthquake_
 
 ### [Commonwealth Heads of Government Meeting 2011:The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-pthe-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of.md)
-Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there is disquiet amongst some members about the lack of will to reform the organisation. The Eminent Person&#039;s group recommendation to set up a Commissioner for Democracy, Human Rights and the Rule of Law has received scant support.
+Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there is disquiet amongst some members about the lack of will to reform the organisation. The Eminent Person&#039;s group recommendation to set up a Commissioner for Democracy, Human Rights and the Rule of Law has received sc...
 
 ### [The trial of former Prime Minister of Croatia Ivo Sanader, which was due to begin in Zagreb, is postponed on health grounds. ](/news/2011/10/28/the-trial-of-former-prime-minister-of-croatia-ivo-sanader-which-was-due-to-begin-in-zagreb-is-postponed-on-health-grounds.md)
 The trial of former Croatian Prime Minister Ivo Sanader for corruption over a loan from an Austrian bank in 1995 is postponed on health grounds.

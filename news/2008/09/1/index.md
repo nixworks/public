@@ -25,7 +25,7 @@ _Context: 2008 Orissa violence, Government of Orissa, house_
 New High Court Chief Justice Robert French has been sworn in at a ceremonial sitting in Canberra.
 
 ### [ Manchester City Football Club is bought out by the Abu Dhabi United Group for Investment and Development Limited, the consortium led by Sheikh Mansour bin Zayed Al Nahyan. This effectively made City the richest Football Club in the world. It also made Transfer Deadline Day one of the most memorable, with City's new found wealth allowing them to bid for such players as Dimitar Berbatov, Fernando Torres, Mario Gomez and David Villa. They eventually signed Robinho for a British Record Fee of 32.5million.  The takeover and the Robinho deal as a whole sent shockwaves throughout the Sporting world. ](/news/2008/09/1/manchester-city-football-club-is-bought-out-by-the-abu-dhabi-united-group-for-investment-and-development-limited-the-consortium-led-by-she.md)
-There is a certain kind of writer for whom the observations of George Orwell have nearly the status of Holy Writ. The person in question is usually on the left, male and a columnist, which means he is in the uncomfortable position of having to produce a great deal of work that brings no guarantee of lasting fame. This is not so different from the situation in which novelists find themselves, but journalists have even more reason to feel insecure.
+There is a certain kind of writer for whom the observations of George Orwell have nearly the status of Holy Writ. The person in question is usually on the left, male and a columnist, which means he is in the uncomfortable position of having to produce a great deal of work that brings no guarantee of...
 
 ## [Previous Day...](/news/2008/08/31/index.md)
 

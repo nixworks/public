@@ -19,7 +19,7 @@ _Context: China, Cuba, Guantanamo Province_
 _Context: China, Shanghai_
 
 ### [ Authorities in Guangdong, China shut down a battery factory and commence health checks of all children in the region after it is discovered that dozens of poisoned children had high levels of lead in their blood. ](/news/2009/12/28/authorities-in-guangdong-china-shut-down-a-battery-factory-and-commence-health-checks-of-all-children-in-the-region-after-it-is-discovered.md)
-_Context: China, Guangdong province_
+_Context: China, Guangdong_
 
 ### [ Clashes between joint military-police forces and an Islamic sect in Bauchi, Nigeria, result in at least 35 deaths. ](/news/2009/12/28/clashes-between-joint-military-police-forces-and-an-islamic-sect-in-bauchi-nigeria-result-in-at-least-35-deaths.md)
 _Context: Bauchi, Islam, Nigeria_

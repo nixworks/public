@@ -25,7 +25,7 @@ THAILAND-PROTEST:Thai protesters surround cabinet meeting venue
 _Context: Euromaidan, Mykola Azarov, Prime Minister of Ukraine, Ukrainian President, Viktor Yanukovich_
 
 ### [DNA analysis reveals that the Plague of Justinian responsible for killing up to half the population of Europe in 6th century AD was caused by a variant of ''Yersinia pestis'', the same bacterium believed to have caused the Black Death. ](/news/2014/01/28/dna-analysis-reveals-that-the-plague-of-justinian-responsible-for-killing-up-to-half-the-population-of-europe-in-6th-century-ad-was-caused-b.md)
-Modern science has solved a historical cold case by revealing that two of the world&#039;s most devastating plagues, the Black Death and Plague of Justinian - each responsible for killing as many as half the people then in Europe - were caused by distinct versions of the same pathogen, Yersinia pestis.
+Modern science has solved a historical cold case by revealing that two of the world&#039;s most devastating plagues, the Black Death and Plague of Justinian - each responsible for killing as many as half the people then in Europe - were caused by distinct versions of the same pathogen, Yersinia pest...
 
 ## [Previous Day...](/news/2014/01/27/index.md)
 

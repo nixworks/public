@@ -10,7 +10,7 @@ _Context: Communist Party of the Philippines, Communist insurgency in the Philip
 _Context: Boko Haram, Maiduguri, Nigeria_
 
 ### [This roller coaster breakdown resulted in 4 people critically injured. Many injured in this theme park were stuck in the ride for several hours. ](/news/2015/06/2/this-roller-coaster-breakdown-resulted-in-4-people-critically-injured-many-injured-in-this-theme-park-were-stuck-in-the-ride-for-several-ho.md)
-The boyfriend of a teenager who had her leg amputated after The Smiler ride crash said Alton Towers should have known there was something wrong with the ride. Joe Pugh, who was on the rollercoaster with his girlfriend, Leah Washington, at Alton Towers, was giving his views nearly two weeks after the crash that left his knees shattered.
+The boyfriend of a teenager who had her leg amputated after The Smiler ride crash said Alton Towers should have known there was something wrong with the ride. Joe Pugh, who was on the rollercoaster with his girlfriend, Leah Washington, at Alton Towers, was giving his views nearly two weeks after the...
 
 ### [The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.md)
 _Context: 2015 Indian heat wave, heat wave, meteorologist, monsoon_

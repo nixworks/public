@@ -4,7 +4,7 @@
 _Context: European Banking Authority, European Union_
 
 ### [The search continues for survivors of a bridge collapse on the Mumbai-Goa highway over the flooded Savitri River in western India. Twenty two people and two buses are believed to be missing. ](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.md)
-A British-era bridge across the Savitri River on the Mumbai-Goa highway collapsed late on Tuesday night, bringing traffic to a halt on the stretch. Around 20 people are believed to me missing. Two Mumbai-bound buses are among the dozen or so vehicles that are believed to have fallen into the flooded river.
+A British-era bridge across the Savitri River on the Mumbai-Goa highway collapsed late on Tuesday night, bringing traffic to a halt on the stretch. Around 20 people are believed to me missing. Two Mumbai-bound buses are among the dozen or so vehicles that are believed to have fallen into the flooded...
 
 ### [An Emirates Boeing 777-300, flight EK521 from Thiruvananthapuram in India, crash lands at Dubai International Airport and bursts into flames. All 282 passengers and 18 crew evacuate safely, although one firefighter is killed during the rescue. ](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thiruvananthapuram-in-india-crash-lands-at-dubai-international-airport-and-bursts-into-flames.md)
 _Context: Boeing 777-300, Dubai International Airport, Emirates Air, India, Thiruvananthapuram, flight EK521_

@@ -1,7 +1,7 @@
 ## [2017-04-3](/news/2017/04/3/index.md)
 
 ### [An attack on a Saint Petersburg Metro train at Sennaya Ploshchad station kills at least 11 people and injures more than 50 others. Authorities disarm another bomb, found at nearby Vosstaniya Square station. ](/news/2017/04/3/an-attack-on-a-saint-petersburg-metro-train-at-sennaya-ploshchad-station-kills-at-least-11-people-and-injures-more-than-50-others-authoriti.md)
-Ten people have been killed and 20 more injured in a bomb blast in the St Petersburg metro system. Russia&#039;s health minister, Veronika Skvortsova, said seven people were killed immediately while another died in an ambulance and two more died in hospital. Earlier Russian media reports reported 10 were killed and 50 injured and said there were two blasts.
+Ten people have been killed and 20 more injured in a bomb blast in the St Petersburg metro system. Russia&#039;s health minister, Veronika Skvortsova, said seven people were killed immediately while another died in an ambulance and two more died in hospital. Earlier Russian media reports reported 10...
 
 ### [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md)
 A new attack is reported off the central coast of Somalia some two weeks after another hijacking.

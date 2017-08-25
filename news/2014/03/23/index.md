@@ -7,7 +7,7 @@ _Context: Syrian Arab Republic, Turkey, shoot down a Syrian military aircraft_
 Two gunmen stormed a church near the Kenyan coastal city of Mombasa on Sunday and opened fire on worshippers, killing four people and wounding others, in what police called a terrorist attack.
 
 ### [2014 Oso mudslide:Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-peighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-that.md)
-ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud below, searchers in helicopters scanned a huge debris field Sunday trying to find 18 people still unaccounted for following a landslide that killed at least three people and destroyed a small riverside neighborhood in rural Washington
+ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud below, searchers in helicopters scanned a huge debris field Sunday trying to find 18 people still unaccounted for following a landslide that killed at least three people and destroyed a small riverside neighborhood in rura...
 
 ### [The United Nations Children's Fund reports that an outbreak of the deadly Ebola virus that has so far claimed the lives of 59 victims has spread from southern Guinea to the capital Conakry. ](/news/2014/03/23/the-united-nations-children-s-fund-reports-that-an-outbreak-of-the-deadly-ebola-virus-that-has-so-far-claimed-the-lives-of-59-victims-has-sp.md)
 _Context: Conakry, Guinea, United Nations Children's Fund, ebola virus_

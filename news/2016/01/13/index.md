@@ -13,7 +13,7 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 _Context: Essam al-Buwaydhani, Jaysh al-Islam, Syrian Civil War, Zahran Alloush_
 
 ### [Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigration-authorities-but-was-not-on.md)
-Three Russian citizens have been arrested in southern Turkey during a raid on a suspected ISIS terror cell, following Tuesday&rsquo;s deadly suicide bombing in Istanbul, according to Turkish media reports. Turkey&rsquo;s Dogan news agency quoted a statement from military authorities saying the three men had...
+Three Russian citizens have been arrested in southern Turkey during a raid on a suspected ISIS terror cell, following Tuesday&rsquo;s deadly suicide bombing in Istanbul, according to Turkish media reports. Turkey&rsquo;s Dogan news agency quoted a statement from military authorities saying the three...
 
 ### [Three winning Powerball lottery tickets are sold in the U.S. states of California, Florida, and Tennessee. Each will share the estimated jackpot of US $1.6 billion dollars, the largest lottery jackpot in world history. ](/news/2016/01/13/three-winning-powerball-lottery-tickets-are-sold-in-the-u-s-states-of-california-florida-and-tennessee-each-will-share-the-estimated-jac.md)
 The Powerball jackpot was estimated at $1.6 billion on Wednesday.

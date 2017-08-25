@@ -4,10 +4,10 @@
 At least 31 people are killed and dozens injured after a Syrian military aircraft crashes on a bombing run over Ariha, a monitoring group says.
 
 ### [British bank HSBC agrees to sell its Brazilian banking business to Banco Bradesco for $5.2 billion. ](/news/2015/08/3/british-bank-hsbc-agrees-to-sell-its-brazilian-banking-business-to-banco-bradesco-for-5-2-billion.md)
-HSBC has agreed to sell its Brazilian business to local group Banco Bradesco, the British banking giant announced Monday alongside news of a fall in net profits. Profit after tax fell 3.8 percent to $4.36 billion ( 4.0 billion euros) in the second quarter compared with the same period last year, said
+HSBC has agreed to sell its Brazilian business to local group Banco Bradesco, the British banking giant announced Monday alongside news of a fall in net profits. Profit after tax fell 3.8 percent to $4.36 billion ( 4.0 billion euros) in the second quarter compared with the same period last year, sai...
 
 ### [Nokia sells its mapping application Here to German car makers BMW, Audi, and Mercedes-Benz for 2.8 billion euros. ](/news/2015/08/3/nokia-sells-its-mapping-application-here-to-german-car-makers-bmw-audi-and-mercedes-benz-for-2-8-billion-euros.md)
-German car makers BMW, Audi and Daimler have teamed up to buy digital mapping service HERE for 2.8 billion euros ($3.1 billion) from Nokia, the Finnish telecoms group said Monday. The sale &quot;should be concluded in the first quarter of 2016,&quot; Nokia said in a statement, adding that it expected
+German car makers BMW, Audi and Daimler have teamed up to buy digital mapping service HERE for 2.8 billion euros ($3.1 billion) from Nokia, the Finnish telecoms group said Monday. The sale &quot;should be concluded in the first quarter of 2016,&quot; Nokia said in a statement, adding that it expecte...
 
 ### [The Athens Stock Exchange reopens after more than a month with share values falling by 22 percent in early trading. ](/news/2015/08/3/the-athens-stock-exchange-reopens-after-more-than-a-month-with-share-values-falling-by-22-percent-in-early-trading.md)
 _Context: Athens Stock Exchange_

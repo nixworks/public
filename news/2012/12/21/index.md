@@ -58,7 +58,7 @@ One of the fastest and rarest ever. ;
 Three new Expedition 34 crew members were welcomed aboard the station after the hatches between the vehicles were opened at 11:37 a.m. EST Friday.
 
 ### [MIT researchers discover that Herbertsmithite exhibits a quantum spin liquid behavior, a new kind of magnetism. ](/news/2012/12/21/mit-researchers-discover-that-herbertsmithite-exhibits-a-quantum-spin-liquid-behavior-a-new-kind-of-magnetism.md)
-Researchers at MIT have discovered a new state of matter with a new kind of magnetism. This new state, called a quantum spin liquid (QSL), could lead to significant advances in data storage. QSLs also exhibit a quantum phenomenon called long-range entanglement, which could lead to new types of communications systems, and more.
+Researchers at MIT have discovered a new state of matter with a new kind of magnetism. This new state, called a quantum spin liquid (QSL), could lead to significant advances in data storage. QSLs also exhibit a quantum phenomenon called long-range entanglement, which could lead to new types of commu...
 
 ## [Previous Day...](/news/2012/12/20/index.md)
 

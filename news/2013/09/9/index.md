@@ -16,7 +16,7 @@ _Context: July 2013 Egyptian protests, Mahmoud Badr, Political violence in Egypt
 _Context: Abkhazia, Georgian, Russia, Sukhumi_
 
 ### [A man calls the police that he has an AK-47 in both Santa Fe Middle School in Monrovia, California and the "Citrus Medical Center" in West Covina, California. ](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.md)
-A Monrovia middle school was on lockdown Monday afternoon after a man called police and said he was on campus with a firearm, authorities said. A male caller phoned the Monrovia Police Department at about 2 p.m., saying he was on the campus of Santa Fe Middle School with an AK-47 assault rifle, Lt. Michael Lee said.
+A Monrovia middle school was on lockdown Monday afternoon after a man called police and said he was on campus with a firearm, authorities said. A male caller phoned the Monrovia Police Department at about 2 p.m., saying he was on the campus of Santa Fe Middle School with an AK-47 assault rifle, Lt. ...
 
 ### [The Van Gogh Museum in Amsterdam identifies a new Vincent Van Gogh painting, ''Sunset at Montmajour''. ](/news/2013/09/9/the-van-gogh-museum-in-amsterdam-identifies-a-new-vincent-van-gogh-painting-sunset-at-montmajour.md)
 _Context: Amsterdam, Sunset at Montmajour, Van Gogh, Van Gogh Museum_

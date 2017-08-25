@@ -28,7 +28,7 @@ _Context: Madrid, Spain, air show_
 _Context: 2013 Savar building collapse, Bangladesh_
 
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: California, East Palo Alto, McDonald's, United States, drive-by shooting_
+_Context: California, East Palo Alto, McDonald's restaurants, United States, drive-by shooting_
 
 ### [Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. ](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.md)
 _Context: Barisan Nasional, Malaysia, general election_
@@ -37,7 +37,7 @@ _Context: Barisan Nasional, Malaysia, general election_
 Unidentified gunmen on the Dutch Caribbean island of Curacao kill Helmin Wiels, a prominent politician who campaigned for independence.
 
 ### [A test of an M51 missile by the French military ends in failure when it self-destructs in midair. ](/news/2013/05/5/a-test-of-an-m51-missile-by-the-french-military-ends-in-failure-when-it-self-destructs-in-midair.md)
-A&#x20;ballistic&#x20;missile&#x20;was&#x20;launched&#x20;during&#x20;a&#x20;trial&#x20;run&#x20;in&#x20;Normandy,&#x20;France&#x20;on&#x20;Sunday,&#x20;but&#x20;self-destructed&#x20;minutes&#x20;later.&#x20;The&#x20;ministry&#x20;has&#x20;not&#x20;confirmed&#x20;the&#x20;reasons&#x20;for&#x20;the&#x20;missile&amp;rsquo&#x3B;s&#x20;failure,&#x20;but&#x20;local&#x20;authorities&#x20;have&#x20;called&#x20;it&#x20;&amp;ldquo&#x3B;a&#x20;miss&amp;rdquo&#x3B;...
+A&#x20;ballistic&#x20;missile&#x20;was&#x20;launched&#x20;during&#x20;a&#x20;trial&#x20;run&#x20;in&#x20;Normandy,&#x20;France&#x20;on&#x20;Sunday,&#x20;but&#x20;self-destructed&#x20;minutes&#x20;later.&#x20;The&#x20;ministry&#x20;has&#x20;not&#x20;confirmed&#x20;the&#x20;reasons&#x20;for&#x20;the&#...
 
 ### [The world's first gun produced by Defense Distributed using a 3-D printer is fired successfully in Austin, Texas, United States. Security officials worry that such plastic weapons could evade detection at airport screenings. ](/news/2013/05/5/the-world-s-first-gun-produced-by-defense-distributed-using-a-3-d-printer-is-fired-successfully-in-austin-texas-united-states-security-of.md)
 The world’s first gun made using a 3D printer is successfully tested in the US by a group planning to make the blueprints available online.

@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Around 250 Naxals in civilian clothes struck a convoy of Congress leaders during the party&#039;s Parivartan Rally in Chhattisgarh&#039;s Jagdalpur on Saturday, killing at least 30 people, including state Congress chief Nand Kumar Patel and senior party leader Mahendra Karma.
 
 ### [Thousands of people across 36 countries rally in protest of genetically modified seed producer Monsanto. ](/news/2013/05/25/thousands-of-people-across-36-countries-rally-in-protest-of-genetically-modified-seed-producer-monsanto.md)
-&nbsp;Marches are occurring on six continents, in thirty-six countries, for a total of 250 cities.&nbsp; In the United States forty-seven of the fifty states are participating, and synchronized the states for a start of 11 a.m. PDT.&nbsp; The participants are protesting Monsanto. Why are they protesting against one of the giants in the biochemical industry?&nbsp; &hellip;
+&nbsp;Marches are occurring on six continents, in thirty-six countries, for a total of 250 cities.&nbsp; In the United States forty-seven of the fifty states are participating, and synchronized the states for a start of 11 a.m. PDT.&nbsp; The participants are protesting Monsanto. Why are they protes...
 
 ### [A gas cylinder explodes on a school bus in the Pakistani city of Gujrat, killing at least 17 children. ](/news/2013/05/25/a-gas-cylinder-explodes-on-a-school-bus-in-the-pakistani-city-of-gujrat-killing-at-least-17-children.md)
 At least 16 children and a teacher are killed in a fire on their school bus in the eastern Pakistan city of Gujrat, police say.

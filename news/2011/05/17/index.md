@@ -58,7 +58,7 @@ _Context: Arizona, Medicaid, US state_
 _Context: Environmental Protection Agency, oil refineries_
 
 ### [Ming Ming, the oldest panda in the world, dies at the age of 34 in Guangdong, China. ](/news/2011/05/17/ming-ming-the-oldest-panda-in-the-world-dies-at-the-age-of-34-in-guangdong-china.md)
-_Context: China, Guangdong province, panda_
+_Context: China, Guangdong, panda_
 
 ### [Indian National Congress MP Rahul Gandhi alleges that police murdered farmers and raped women during recent protests against a new road in Uttar Pradesh. ](/news/2011/05/17/indian-national-congress-mp-rahul-gandhi-alleges-that-police-murdered-farmers-and-raped-women-during-recent-protests-against-a-new-road-in-u.md)
 A row breaks out in India after Rahul Gandhi accuses police of killing farmers and raping women during protests against a new road in Uttar Pradesh.

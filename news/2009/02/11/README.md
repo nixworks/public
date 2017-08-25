@@ -16,7 +16,7 @@ _Context: Gaza Strip, Israel, Mortar, Palestinian, Qassam rocket, militant, nego
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Prime Minister, Zimbabwe_
 
 ### [ A mysterious deposit of cosmic dust is discovered inside the Red Rectangle Nebula. ](/news/2009/02/11/a-mysterious-deposit-of-cosmic-dust-is-discovered-inside-the-red-rectangle-nebula.md)
-The universe is not empty. The space between stars and between galaxies is permeated by gas and dust. In fact our solar system is currently experiencing a cosmic dust storm with at least three times as much dust passing through compared to just a few years ago, owing to a periodic weakening of the sun&#39;s magnetic field. And sometime in the next 10,000 years, we&#39;ll plow through the G-cloud, a region of dust more dense than the one we&#39;re in now.
+The universe is not empty. The space between stars and between galaxies is permeated by gas and dust. In fact our solar system is currently experiencing a cosmic dust storm with at least three times as much dust passing through compared to just a few years ago, owing to a periodic weakening of the s...
 
 ### [ Mexico's National Institute of Anthropology and History announces the discovery of a 16th-century mass grave at the Tlatelolco archaeological site in Mexico City. ](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.md)
 Archeologists have found a mass grave in Mexico City with four dozen human skeletons laid out in neat lines that could reveal clues about the 16th century Spanish conquest that killed millions.

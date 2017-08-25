@@ -31,7 +31,7 @@ Anders Behring Breivik, who killed 77 people in two attacks in Norway last year,
 _Context: Apple Inc., Samsung, South Korea_
 
 ### [A jury in the U.S. state of California rules that Samsung Electronics owes Apple Inc. over US$1 billion for patent infringement. ](/news/2012/08/24/a-jury-in-the-u-s-state-of-california-rules-that-samsung-electronics-owes-apple-inc-over-us-1-billion-for-patent-infringement.md)
-The patent trial of the century is not going well for Samsung; the jury has ruled almost entirely in Apple&amp;#39;s favor, with damages so far totaling a hilarious $1.05 billion. That&amp;#39;s about a quarter of Samsung&amp;#39;s operating profit in Q4 of 2011 (but only a tenth of Apple&amp;#39;s cash on hand), and could have massive repercussions for both it and the industry going forward.
+The patent trial of the century is not going well for Samsung; the jury has ruled almost entirely in Apple&amp;#39;s favor, with damages so far totaling a hilarious $1.05 billion. That&amp;#39;s about a quarter of Samsung&amp;#39;s operating profit in Q4 of 2011 (but only a tenth of Apple&amp;#39;s ...
 
 ### [The High Court of Australia quashes the conviction of former Bundaberg, Queensland surgeon Jayant Patel on manslaughter charges due to a miscarriage of justice with a fresh trial to be held. ](/news/2012/08/24/the-high-court-of-australia-quashes-the-conviction-of-former-bundaberg-queensland-surgeon-jayant-patel-on-manslaughter-charges-due-to-a-mis.md)
 _Context: Bundaberg, Queensland, High Court of Australia, Jayant Patel, manslaughter by gross negligence_

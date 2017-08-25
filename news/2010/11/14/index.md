@@ -71,7 +71,7 @@ Cuba frees one of 13 dissidents who have been refusing a government deal to go i
 _Context: Bangladesh, Khaleda Zia_
 
 ### [The French cabinet led by Prime Minister Francois Fillon resigns, paving the way for a reshuffle by President Nicolas Sarkozy. Fillon remains as Prime Minister with Michele Alliot-Marie becoming the Minister for Foreign Affairs replacing Bernard Kouchner. ](/news/2010/11/14/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-paving-the-way-for-a-reshuffle-by-president-nicolas-sarkozy-fillon-remai.md)
-Following&#x20;the&#x20;resignation&#x20;of&#x20;the&#x20;government&#x20;over&#x20;the&#x20;weekend,&#x20;a&#x20;required&#x20;step&#x20;before&#x20;a&#x20;cabinet&#x20;reshuffle,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;reappointed&#x20;the&#x20;popular&#x20;Francois&#x20;Fillon&#x20;&#x28;pictured&#x29;&#x20;as&#x20;Prime&#x20;Minister.
+Following&#x20;the&#x20;resignation&#x20;of&#x20;the&#x20;government&#x20;over&#x20;the&#x20;weekend,&#x20;a&#x20;required&#x20;step&#x20;before&#x20;a&#x20;cabinet&#x20;reshuffle,&#x20;French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;has&#x20;reappointed&#x20;the&#x20;popular&#x20;Francois&#x20...
 
 ### [Italian Prime Minister Silvio Berlusconi announces he will seek a confidence vote once the 2011 budget is approved. ](/news/2010/11/14/italian-prime-minister-silvio-berlusconi-announces-he-will-seek-a-confidence-vote-once-the-2011-budget-is-approved.md)
 Italian Prime Minister Silvio Berlusconi, fighting for the survival of his government, said on Saturday he would seek a confidence vote in parliament after the 2011 budget has been approved.

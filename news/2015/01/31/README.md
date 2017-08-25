@@ -4,7 +4,7 @@
 _Context: Eastern Ukraine, Russia, Ukraine, military intervention in Ukraine_
 
 ### [The Democratic Republic of the Congo launches a campaign against Hutu rebels. ](/news/2015/01/31/the-democratic-republic-of-the-congo-launches-a-campaign-against-hutu-rebels.md)
-Congolese government troops have started their long-awaited offensive against Rwandan Hutu rebels in the east of the country, the DR Congo&#x27;s foreign minister said Saturday. The Kinshasa government and the international community had given the FDLR -- the Democratic Forces for the Liberation of Rwanda
+Congolese government troops have started their long-awaited offensive against Rwandan Hutu rebels in the east of the country, the DR Congo&#x27;s foreign minister said Saturday. The Kinshasa government and the international community had given the FDLR -- the Democratic Forces for the Liberation of ...
 
 ### [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md)
 _Context: Islamic State of Iraq and the Levant, Japanese, Kenji Goto_

@@ -19,7 +19,7 @@ _Context: Bangladesh, February's attack on Bangladesh's central bank, Federal Re
 _Context: Public Investment Fund, Saudi Arabia, Uber_
 
 ### [A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. ](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-near-the-south-korean-capital-seoul-kills-four-workers-and-injures-ten-more.md)
- Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 workers were on duty. One of the victims died after being thrown by the explosion. The three others were found dead under the collapsed construction site, firefighters said.
+ Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 worke...
 
 ### [A French naval vessel detects a possible signal from the missing black box of  EgyptAir Flight 804. ](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md)
 _Context: EgyptAir Flight 804, French naval, black box_

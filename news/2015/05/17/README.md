@@ -25,7 +25,7 @@ Tens of thousands of protesters in the Macedonian capital Skopje demand the resi
 Osaka voters rejected a referendum proposal Sunday to merge the city into five semi-autonomous wards, dealing a crippling blow to Mayor Toru Hashimoto. “I
 
 ### [Roscosmos manages to restart the engines of the Progress spacecraft and to correct the orbit of the International Space Station. ](/news/2015/05/17/roscosmos-manages-to-restart-the-engines-of-the-progress-spacecraft-and-to-correct-the-orbit-of-the-international-space-station.md)
-Russia on Monday managed on a second attempt to restart the engines of a Progress spacecraft attached to the International Space Station (ISS) and shift the station&#x27;s orbit. The success of the manoeuvre is a much-needed scrap of good news for Russia&#x27;s beleaguered space programme after a spate
+Russia on Monday managed on a second attempt to restart the engines of a Progress spacecraft attached to the International Space Station (ISS) and shift the station&#x27;s orbit. The success of the manoeuvre is a much-needed scrap of good news for Russia&#x27;s beleaguered space programme after a sp...
 
 ## [Previous Day...](/news/2015/05/16/index.md)
 

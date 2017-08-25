@@ -16,7 +16,7 @@ The capsule was buried under the Golden Dome of the Massachusetts State House in
 A ferocious storm is forecast to batter California with drenching rain, heavy snow, pounding surf and howling winds later Wednesday and into Thursday and Friday.
 
 ### [The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/the-death-toll-from-typhoon-hagupit-rises-to-18.md)
-The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 19, the NatioThe government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 18, the National Disaster Risk Reduction and Management Council (NDRRMC) said Thursday.nal Disaster Risk Reduction and Management Council (NDRRMC) said Thursday. 
+The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 19, the NatioThe government&#039;s official death toll from tropical cyclone &#039;Ruby&#039; climbed to 18, the National Disaster Risk Reduction and Management Council (NDRRMC) said Thursday.nal Disaster Ris...
 
 ### [The National Truth Commission set up to investigate human rights abuses by the Brazilian military government of 1964-1985 draws a link between regime era killings and kidnappings to the high number of killings by today's police force. ](/news/2014/12/11/the-national-truth-commission-set-up-to-investigate-human-rights-abuses-by-the-brazilian-military-government-of-1964-1985-draws-a-link-betwe.md)
 _Context: Brazilian military government, National Truth Commission, police_

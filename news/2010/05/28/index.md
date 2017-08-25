@@ -55,7 +55,7 @@ President announces two-year moratorium as Norway offers Jakarta $1bn in aid.
 Universal Studios in Los Angeles has unveiled its $200m (£137m) rebuilt outdoor sets - with imitation New York streets - destroyed by fire in 2008.
 
 ### [After a personal intervention from Nicolas Sarkozy, France beats Turkey and Italy for the right to stage the UEFA Euro 2016 tournament. ](/news/2010/05/28/after-a-personal-intervention-from-nicolas-sarkozy-france-beats-turkey-and-italy-for-the-right-to-stage-the-uefa-euro-2016-tournament.md)
-France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championship&#x20;for&#x20;a&#x20;third&#x20;time&#x20;in&#x20;2016&#x20;after&#x20;defeating&#x20;rival&#x20;bids&#x20;by&#x20;Turkey&#x20;and&#x20;Italy&#x20;in&#x20;a&#x20;ceremony&#x20;attended&#x20;by&#x20;President&#x20;Nicolas&#x20;Sarkozy.
+France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championship&#x20;for&#x20;a&#x20;third&#x20;time&#x20;in&#x20;2016&#x20;after&#x20;defeating&#x20;rival&#x20;bids&#x20;by&#x20;Turkey&#x20;and&#x20;Italy&#x20;in&#x20;a&#x20;ceremony&#x20;attended&#x20;by&#x20;President&#x20;Nicol...
 
 ### [Joe Biden, Bill Clinton and Barack Obama give the United States men's national soccer team a presidential send-off to South Africa from the White House ahead of the 2010 FIFA World Cup. ](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.md)
 _Context: 2010 FIFA World Cup, Barack Obama, Bill Clinton, Joe Biden, South Africa, United States men's national soccer team, White House_

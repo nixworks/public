@@ -16,7 +16,7 @@ _Context: Kavrepalanchowk bus crashes_
 _Context: Attorney General, Kathleen Kane, committed perjury_
 
 ### [Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. ](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.md)
-A man who died after being Tasered by police in Telford, Shropshire, has been named as former Aston Villa footballer Dalian Atkinson. Mr Atkinson died early on Monday morning after officers responded to an alert &quot;for the safety of an individual&quot; at a home in Meadow Close around 1.30am. The 48-year-old was given medical treatment but died about 90 minutes later, West Mercia Police said.
+A man who died after being Tasered by police in Telford, Shropshire, has been named as former Aston Villa footballer Dalian Atkinson. Mr Atkinson died early on Monday morning after officers responded to an alert &quot;for the safety of an individual&quot; at a home in Meadow Close around 1.30am. The...
 
 ### [New York authorities charge a man with second-degree murder in the deaths of a New York Muslim imam and his assistant. ](/news/2016/08/15/new-york-authorities-charge-a-man-with-second-degree-murder-in-the-deaths-of-a-new-york-muslim-imam-and-his-assistant.md)
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.

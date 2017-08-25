@@ -7,7 +7,7 @@ A multiple bomb attack by Islamic State militants in Libya has killed at least 4
 Some 20 people, including senior officials, are killed in an al-Shabab attack during Friday prayers in the Somali capital Mogadishu, witnesses say.
 
 ### [The government of Greece and the authorities of the Eurozone reach a tentative agreement about the extension of the bailout terms. ](/news/2015/02/20/the-government-of-greece-and-the-authorities-of-the-eurozone-reach-a-tentative-agreement-about-the-extension-of-the-bailout-terms.md)
-Euro zone finance ministers agreed in principle on Friday to extend Greece&#x27;s financial rescue by four months, averting a potential cash crunch in March that could have forced the country out of the currency area. The deal, to be ratified once Greece&#x27;s creditors are satisfied with a list of reforms
+Euro zone finance ministers agreed in principle on Friday to extend Greece&#x27;s financial rescue by four months, averting a potential cash crunch in March that could have forced the country out of the currency area. The deal, to be ratified once Greece&#x27;s creditors are satisfied with a list of...
 
 ### [The International Longshore and Warehouse Union and the Pacific Maritime Association negotiate a tentative contract and will open docks at western U.S. ports beginning on February 21. ](/news/2015/02/20/the-international-longshore-and-warehouse-union-and-the-pacific-maritime-association-negotiate-a-tentative-contract-and-will-open-docks-at-w.md)
 UPDATED: 11:23 p.m. - (AP) - West Coast dockworkers reach tentative contract after labor strife snarled trade with Asia. U.S. Secretary of Labor Thomas Perez says that dockworkers will return to West Coast ports Saturday evening.

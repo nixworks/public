@@ -25,7 +25,7 @@ Officials evacuate several hundred people amid increasing activity in Cotopaxi v
 A surveillance center dedicated to monitoring possible military provocations from North Korea will open on the South’s northernmost island, officials said Sunday. 
 
 ### [Crowds gather throughout Brazil to demand the impeachment of President Dilma Rousseff due to a bribery and corruption scandal involving senior members of the governing Workers' Party. Recent polls show her approval ratings below 10%. ](/news/2015/08/16/crowds-gather-throughout-brazil-to-demand-the-impeachment-of-president-dilma-rousseff-due-to-a-bribery-and-corruption-scandal-involving-seni.md)
-Protesters&#x20;are&#x20;expected&#x20;to&#x20;rally&#x20;in&#x20;more&#x20;than&#x20;200&#x20;towns&#x20;and&#x20;cities&#x20;on&#x20;Sunday&#x20;to&#x20;demand&#x20;Brazilian&#x20;President&#x20;Dilma&#x20;Rousseff&#x27;s&#x20;impeachment,&#x20;injecting&#x20;more&#x20;volatility&#x20;into&#x20;an&#x20;increasingly&#x20;toxic&#x20;political&#x20;struggle.
+Protesters&#x20;are&#x20;expected&#x20;to&#x20;rally&#x20;in&#x20;more&#x20;than&#x20;200&#x20;towns&#x20;and&#x20;cities&#x20;on&#x20;Sunday&#x20;to&#x20;demand&#x20;Brazilian&#x20;President&#x20;Dilma&#x20;Rousseff&#x27;s&#x20;impeachment,&#x20;injecting&#x20;more&#x20;volatility&#x20;into&#x20;an...
 
 ## [Previous Day...](/news/2015/08/15/index.md)
 

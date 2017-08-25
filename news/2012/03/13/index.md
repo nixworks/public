@@ -37,7 +37,7 @@ At least 32 people die and scores are missing after a ferry with some 200 people
 At least 28 people - including 22 children - die when a Belgian coach hits a wall in a road tunnel in southern Switzerland, police say.
 
 ### [Argentina's Supreme Court rules that abortions following rape are not punishable. ](/news/2012/03/13/argentina-s-supreme-court-rules-that-abortions-following-rape-are-not-punishable.md)
-The Supreme Court has ratified today a ruling of a Chubut&rsquo;s court authorizing an abortion in the case of a woman that got pregnant after being raped. However, the head of the Supreme Court Ricardo Lorenzini emphasized that the ruling doesn&rsquo;t mean the start of possible abortion legalization. &nbsp;&nbsp;
+The Supreme Court has ratified today a ruling of a Chubut&rsquo;s court authorizing an abortion in the case of a woman that got pregnant after being raped. However, the head of the Supreme Court Ricardo Lorenzini emphasized that the ruling doesn&rsquo;t mean the start of possible abortion legalizati...
 
 ### [Pedro Pimentel Rios, a participant in the Dos Erres massacre of the Guatemalan civil war, is sentenced to 6,060 years in prison. ](/news/2012/03/13/pedro-pimentel-rios-a-participant-in-the-dos-erres-massacre-of-the-guatemalan-civil-war-is-sentenced-to-6-060-years-in-prison.md)
 A court in Guatemala sentences ex-soldier Pedro Pimentel to a symbolic 6,060 years for his role in the massacre of 201 people during the civil war.

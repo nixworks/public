@@ -19,7 +19,7 @@ _Context: Cameroon, Cameroonian presidential election, Paul Biya, President_
 _Context: Civic Platform, Donald Tusk, Polish, Polish People's Party, Polish Prime Minister, parliamentary election, transitioned to democracy_
 
 ### [The French Socialist Party holds a nationwide primary election to choose its candidate for the 2012 presidential election, with over 1 million voters participating and Francois Hollande and Martine Aubry entering a run-off election. ](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.md)
-France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;their&#x20;target&#x20;of&#x20;one&#x20;million&#x20;votes&#x20;cast,&#x20;branding&#x20;the&#x20;election&#x20;a&#x20;great&#x20;success.
+France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;thei...
 
 ### [Having spread across the United States, anti-corruption Occupy Wall Street protests reach Canada, London, and The Hague. ](/news/2011/10/9/having-spread-across-the-united-states-anti-corruption-occupy-wall-street-protests-reach-canada-london-and-the-hague.md)
 _Context: Canada, London, Occupy Wall Street, The Hague, United States, corruption_

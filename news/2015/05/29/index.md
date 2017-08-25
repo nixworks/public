@@ -13,13 +13,13 @@ Mount Shindake explodes without warning off Kagoshima, forcing residents of Kuch
 Scores of people were rescued from flash flooding in Texas early Friday, as emergency responders struggled to cope with the wettest May on record.
 
 ### [The official death toll from the Indian heat wave passes 1,800 making it the deadliest heatwave in more than two decades. ](/news/2015/05/29/the-official-death-toll-from-the-indian-heat-wave-passes-1-800-making-it-the-deadliest-heatwave-in-more-than-two-decades.md)
-Indian authorities urged hospitals to treat heatstroke as an emergency as the toll from a long heatwave topped 1,800 on Friday, making it the deadliest in more than two decades. Hundreds of mainly poor people die at the height of summer every year in India, but this year&#x27;s figures are already nearly
+Indian authorities urged hospitals to treat heatstroke as an emergency as the toll from a long heatwave topped 1,800 on Friday, making it the deadliest in more than two decades. Hundreds of mainly poor people die at the height of summer every year in India, but this year&#x27;s figures are already n...
 
 ### [The number of cases in an outbreak of Middle East respiratory syndrome in South Korea rises to 12. ](/news/2015/05/29/the-number-of-cases-in-an-outbreak-of-middle-east-respiratory-syndrome-in-south-korea-rises-to-12.md)
-Yonhap news articles produced by building a network covering domestic supplies in various newspapers, broadcasting and government departments, major institutions, major corporations, media, K-Pop, K-Wave, Hallyu, Korean Wave, Korean pop, Korean pop culture, Korean culture, Korean idol, Korean movies, Internet media and international agreements of the Republic of Korea.
+Yonhap news articles produced by building a network covering domestic supplies in various newspapers, broadcasting and government departments, major institutions, major corporations, media, K-Pop, K-Wave, Hallyu, Korean Wave, Korean pop, Korean pop culture, Korean culture, Korean idol, Korean movies...
 
 ### [Thailand will allow the United States to fly surveillance planes through their airspace, allowing the United States to identify boats carrying refugees. ](/news/2015/05/29/thailand-will-allow-the-united-states-to-fly-surveillance-planes-through-their-airspace-allowing-the-united-states-to-identify-boats-carryi.md)
-Thailand is to allow the US to fly surveillance planes through its airspace to help identify boats carrying migrants adrift in south-east Asian seas. &quot;Yes, we are permitting it, it is starting today,&quot; said Thailand&amp;#39;s Deputy Prime Minister General Tanasak Patimapragorn. The flights will help the migrant crisis that is rapidly developing in the region. 
+Thailand is to allow the US to fly surveillance planes through its airspace to help identify boats carrying migrants adrift in south-east Asian seas. &quot;Yes, we are permitting it, it is starting today,&quot; said Thailand&amp;#39;s Deputy Prime Minister General Tanasak Patimapragorn. The flights ...
 
 ### [Irish Naval Service patrol vessel LE Eithne rescues 300 migrants in the Mediterranean Sea off the coast of Libya. ](/news/2015/05/29/irish-naval-service-patrol-vessel-la-eithne-rescues-300-migrants-in-the-mediterranean-sea-off-the-coast-of-libya.md)
 An Irish Naval Service vessel helps to rescue another 300 migrants off the coast of Libya, the Irish minister for defence has said.
@@ -28,7 +28,7 @@ An Irish Naval Service vessel helps to rescue another 300 migrants off the coast
 The U.S. has formally dropped Cuba from the list of state sponsors of terrorism.
 
 ### [The President of France Francois Hollande and the Chancellor of Germany Angela Merkel call on the President of Russia Vladimir Putin to implement measures agreed on the Minsk ceasefire. ](/news/2015/05/29/the-president-of-france-franassois-hollande-and-the-chancellor-of-germany-angela-merkel-call-on-the-president-of-russia-vladimir-putin-to-imp.md)
-Moscow&#x20;has&#x20;released&#x20;a&#x20;blacklist&#x20;of&#x20;European&#x20;Union&#x20;politicians&#x20;barred&#x20;from&#x20;Russia&#x20;in&#x20;response&#x20;to&#x20;EU&#x20;sanctions&#x20;over&#x20;Crimea&#x20;and&#x20;Ukraine,&#x20;Dutch&#x20;Prime&#x20;Minister&#x20;Mark&#x20;Rutte&#x20;said&#x20;on&#x20;Friday.
+Moscow&#x20;has&#x20;released&#x20;a&#x20;blacklist&#x20;of&#x20;European&#x20;Union&#x20;politicians&#x20;barred&#x20;from&#x20;Russia&#x20;in&#x20;response&#x20;to&#x20;EU&#x20;sanctions&#x20;over&#x20;Crimea&#x20;and&#x20;Ukraine,&#x20;Dutch&#x20;Prime&#x20;Minister&#x20;Mark&#x20;Rutte&#x20;said...
 
 ### [Silk Road founder Ross Ulbricht is given a life sentence after being convicted for narcotics trafficking. ](/news/2015/05/29/silk-road-founder-ross-ulbricht-is-given-a-life-sentence-after-being-convicted-for-narcotics-trafficking.md)
 Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to life in prison after being found guilty of narcotics conspiracy and other charges earlier this year. Those charges came...

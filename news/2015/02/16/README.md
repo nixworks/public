@@ -4,7 +4,7 @@
 Egypt says it has bombed Islamic State targets in Libya, hours after video emerged showing the apparent beheadings of 21 Egyptian Christians.
 
 ### [During the ceasefire, fighting kills at least five Ukrainian Army soldiers with 22 injured. ](/news/2015/02/16/during-the-ceasefire-fighting-kills-at-least-five-ukrainian-army-soldiers-with-22-injured.md)
-A two-day-old truce in Ukraine was at risk of collapsing Monday as fighting raged around a strategic railway hub and both sides said conditions were not met to start withdrawing heavy weapons from the frontline. The European Union, which backed the French- and German-mediated truce eked out last week
+A two-day-old truce in Ukraine was at risk of collapsing Monday as fighting raged around a strategic railway hub and both sides said conditions were not met to start withdrawing heavy weapons from the frontline. The European Union, which backed the French- and German-mediated truce eked out last wee...
 
 ### [Nigeria regains the key town of Monguno from Boko Haram. ](/news/2015/02/16/nigeria-regains-the-key-town-of-monguno-from-boko-haram.md)
 Nigeria, Cameroon and Niger claim to have made gains in pushing back or capturing Boko Haram militants and their supporters.

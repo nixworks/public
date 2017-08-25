@@ -28,7 +28,7 @@ _Context: Daniel Pearl, Pakistan, The Wall Street Journal_
 _Context: Chardon High School, Ohio, U.S. state, child murders, life sentence_
 
 ### [The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. ](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.md)
-Today, the United States Supreme Court handed US copyright owners a stinging defeat. The decision in Kirtsaeng v. John Wiley &amp; Sons dramatically slashes the ability of US copyright owners to control copies of their works. And in so doing, the 6-3 decision blows a huge hole in the global marketing strategy of movie, TV, book and software companies.
+Today, the United States Supreme Court handed US copyright owners a stinging defeat. The decision in Kirtsaeng v. John Wiley &amp; Sons dramatically slashes the ability of US copyright owners to control copies of their works. And in so doing, the 6-3 decision blows a huge hole in the global marketin...
 
 ### [Benjamin Pierce Bishop, a civil defense contractor who works in intelligence, was charged with giving U.S. national security secrets his Chinese girlfriend. ](/news/2013/03/19/benjamin-pierce-bishop-a-civil-defense-contractor-who-works-in-intelligence-was-charged-with-giving-u-s-national-security-secrets-his-chi.md)
 _Context: China, U.S., civil defense, girlfriend, intelligence_

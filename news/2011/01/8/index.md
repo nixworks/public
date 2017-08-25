@@ -4,7 +4,7 @@
 At least 7 people feared dead in unrest involving south Sudan security forces in the run-up to referendum on secession.
 
 ### [Two French hostages kidnapped in Niger on Friday are killed during a rescue attempt by the Nigerien  military. ](/news/2011/01/8/two-french-hostages-kidnapped-in-niger-on-friday-are-killed-during-a-rescue-attempt-by-the-nigerien-military.md)
-Two&#x20;French&#x20;nationals&#x20;who&#x20;were&#x20;kidnapped&#x20;in&#x20;a&#x20;crowded&#x20;Niamey&#x20;restaurant&#x20;Friday&#x20;and&#x20;taken&#x20;into&#x20;the&#x20;desert&#x20;by&#x20;suspected&#x20;al&#x20;Qaeda-linked&#x20;terrorists,&#x20;have&#x20;been&#x20;found&#x20;dead&#x20;after&#x20;a&#x20;failed&#x20;military&#x20;operation&#x20;involving&#x20;French&#x20;forces&#x20;near&#x20;the&#x20;Malian&#x20;border.
+Two&#x20;French&#x20;nationals&#x20;who&#x20;were&#x20;kidnapped&#x20;in&#x20;a&#x20;crowded&#x20;Niamey&#x20;restaurant&#x20;Friday&#x20;and&#x20;taken&#x20;into&#x20;the&#x20;desert&#x20;by&#x20;suspected&#x20;al&#x20;Qaeda-linked&#x20;terrorists,&#x20;have&#x20;been&#x20;found&#x20;dead&#x20;afte...
 
 ### [Israel responds to the shooting dead of a 65-year-old Palestinian civilian in his bed during a pre-dawn raid by ordering an investigation. Troops were attempting to re-arrest five Hamas members who had been released from prison the previous day when they made the fatal error. ](/news/2011/01/8/israel-responds-to-the-shooting-dead-of-a-65-year-old-palestinian-civilian-in-his-bed-during-a-pre-dawn-raid-by-ordering-an-investigation-t.md)
 ISRAEL has ordered an investigation after soldiers burst into a house in a pre-dawn raid yesterday and shot dead a Palestinian civilian in his bed.
