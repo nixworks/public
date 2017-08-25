@@ -1,10 +1,10 @@
 ## [2017-08-25](/news/2017/08/25/index.md)
 
+### [War in Afghanistan (2001-present): New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-2001-present-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosti.md)
+Just days after the United States said it would increase troop numbers in Afghanistan and ask its allies to do the same, New Zealand on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13.
+
 ### [Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: Myanmar officials report eight policemen and one immigration officer, and 16 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. ](/news/2017/08/25/rohingya-insurgency-in-western-myanmar-2016-17-northern-rakhine-state-clashes-myanmar-officials-report-eight-policemen-and-one-immigrati.md)
  YANGON, Myanmar (AP) — Muslim militants armed with guns and machetes attacked Myanmar security forces at several police and border outposts overnight in a troubled western state, 
-
-### [War in Afghanistan (2001-present): Four gunmen attack a Shiite mosque in Kabul, Afghanistan, killing at least 20 people. ](/news/2017/08/25/war-in-afghanistan-2001-present-four-gunmen-attack-a-shiite-mosque-in-kabul-afghanistan-killing-at-least-20-people.md)
-_Context: Afghanistan, Kabul, War in Afghanistan (2001-present)_
 
 ### [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md)
 Brazilian president has dissolved Renca to attract investment in region thought to contain gold with critics warning of irreversible damage
