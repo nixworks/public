@@ -1,6 +1,6 @@
 ## [2000-01-11](/news/2000/01/11/index.md)
 
-### [The armed wing of the Islamic Salvation Front concludes its negotiations with the government for an amnesty and disbands in Algeria.](/news/2000/01/11/the-armed-wing-of-the-islamic-salvation-front-concludes-its-negotiations-with-the-government-for-an-amnesty-and-disbands-in-algeria.md)
+### [Algerian Civil War. The armed wing of the Islamic Salvation Front concludes its negotiations with the government for an amnesty and disbands in Algeria.](/news/2000/01/11/algerian-civil-war-the-armed-wing-of-the-islamic-salvation-front-concludes-its-negotiations-with-the-government-for-an-amnesty-and-disbands.md)
 _Context: Algerian Civil War, Islamic Salvation Front_
 
 ### [The trawler Solway Harvester sinks off the coast of Ramsey, Isle of Man.](/news/2000/01/11/the-trawler-solway-harvester-sinks-off-the-coast-of-ramsey-isle-of-man.md)

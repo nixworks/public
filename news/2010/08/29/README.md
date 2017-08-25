@@ -9,16 +9,16 @@ _Context: President of Chechnya, Ramzan Kadyrov, Tsentoroi_
 ### [A Palestinian man is killed by the collapse of a smuggling tunnel under the border between Egypt and the Gaza Strip. ](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.md)
 _Context: Egypt, Gaza Strip, Palestinian_
 
-### [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
+### [Afghanistan. 7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/afghanistan-7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
 Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled southern and eastern regions, while officials found the bodies Sunday of five kidnapped campaign aides working for a female candidate in the western province of Herat.
 
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
 _Context: Belgium, Bishop of Brugge, Catholic Church, Godfried Danneels, Roger Vangheluwe_
 
-### [''Mad Men'' wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md)
+### [62nd Primetime Emmy Awards. "Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/62nd-primetime-emmy-awards-mad-men-wins-the-emmy-for-outstanding-drama-series.md)
 _Context: 62nd Primetime Emmy Awards, Emmy Awards, Mad Men_
 
-### [The final episode of ''Last of the Summer Wine'' airs on BBC One after 37 years. ](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.md)
+### [The final episode of "Last of the Summer Wine" airs on BBC One after 37 years. ](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.md)
 Michael Deacon reviews the last ever episode of The Last of the Summer Wine (BBC One), plus Blackpool on Film (BBC Four).
 
 ### [A small semi-train is driven through the streets of Gaza after six months of construction, to the delight of children living in harsh conditions. ](/news/2010/08/29/a-small-semi-train-is-driven-through-the-streets-of-gaza-after-six-months-of-construction-to-the-delight-of-children-living-in-harsh-condit.md)
@@ -42,7 +42,7 @@ The Immigration Department says Indonesian crewmen being held at the Darwin immi
 ### [Unidentified gunmen assassinate Marco Antonio Leal Garcia, the mayor of the small town of Hidalgo in Tamaulipas, Mexico. ](/news/2010/08/29/unidentified-gunmen-assassinate-marco-antonio-leal-garcia-the-mayor-of-the-small-town-of-hidalgo-in-tamaulipas-mexico.md)
 Gunmen murdered the mayor of a town in the Mexican state of Tamaulipas where 72 migrants were massacred last week.
 
-### [Afghanistan's former deputy attorney-general Fazel Ahmed Faqiryar is sacked over his refusal to obstruct corruption investigations into senior government officials;  Faqiryar is critical of President Hamid Karzai. ](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.md)
+### [Afghanistan's former deputy attorney-general Fazel Ahmed Faqiryar is sacked over his refusal to obstruct corruption investigations into senior government officials; Faqiryar is critical of President Hamid Karzai. ](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.md)
 Official says Hamid Karzai tried to block him from probing high-level corruption cases.
 
 ### [Racism in Australia is shown to be subsiding as the country elects its first indigenous parliamentarian, Ken Wyatt. ](/news/2010/08/29/racism-in-australia-is-shown-to-be-subsiding-as-the-country-elects-its-first-indigenous-parliamentarian-ken-wyatt.md)

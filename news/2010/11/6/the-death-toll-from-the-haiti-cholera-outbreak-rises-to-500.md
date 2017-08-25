@@ -11,6 +11,6 @@
 
 ### Related:
 
-1. [2010 Atlantic hurricane season:The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-pthe-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later-i.md) _Context: Haiti cholera outbreak_
+1. [2010 Atlantic hurricane season:. The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later.md) _Context: Haiti cholera outbreak_
 2. [The death toll from the 2010 Haitian cholera outbreak reaches 300 as new cases are reported nearer the capital Port-au-Prince. ](/news/2010/10/29/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-300-as-new-cases-are-reported-nearer-the-capital-port-au-prince.md) _Context: Haiti cholera outbreak_
-3. [2010 Haitian cholera outbreak:Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-pcholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _Context: Haiti cholera outbreak_
+3. [2010 Haitian cholera outbreak:. Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _Context: Haiti cholera outbreak_

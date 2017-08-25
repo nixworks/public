@@ -1,6 +1,6 @@
 ## [2013-10-26](/news/2013/10/26/index.md)
 
-### [War in Afghanistan (2001-present):A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001apresent-pa-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-on.md)
+### [War in Afghanistan (2001-present):. A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/war-in-afghanistan-2001-present-a-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-o.md)
 A gunfight broke out between Afghan and foreign soldiers on the outskirts of the capital Kabul on Saturday, killing at least one Afghan serviceman and injuring a number of other soldiers, according to Afghan and NATO officials.
 
 ### [Iran hangs 16 rebels in retaliation for 14 border guards being killed in clashes on its border with Pakistan. ](/news/2013/10/26/iran-hangs-16-rebels-in-retaliation-for-14-border-guards-being-killed-in-clashes-on-its-border-with-pakistan.md)

@@ -1,6 +1,6 @@
 ### [2013-09-14](/news/2013/09/14/index.md)
 
-# Japan's ''Epsilon'' rocket makes its maiden flight, carrying the Hisaki satellite from the Uchinoura Space Centre 
+# Japan's "Epsilon" rocket makes its maiden flight, carrying the Hisaki satellite from the Uchinoura Space Centre 
 
 
 
@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Japan's Solar-B mission is launched from the Uchinoura Space Center.  With its successful launch, it is rechristened "Hinode". ](/news/2006/09/23/japan-s-solar-b-mission-is-launched-from-the-uchinoura-space-center-with-its-successful-launch-it-is-rechristened-hinode.md) _Context: Uchinoura Space Centre_
+1. [ Japan's Solar-B mission is launched from the Uchinoura Space Center. With its successful launch, it is rechristened "Hinode". ](/news/2006/09/23/japan-s-solar-b-mission-is-launched-from-the-uchinoura-space-center-with-its-successful-launch-it-is-rechristened-hinode.md) _Context: Uchinoura Space Centre_

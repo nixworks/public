@@ -11,4 +11,4 @@ The 32nd London Marathon sees more than 37,500 elite runners, amateurs and celeb
 
 ### Related:
 
-1. [London Marathon:Tsegaye Kebede wins the men's marathon with a time of 2:05:19; Liliya Shobukhova wins the women's marathon with a time of 2:22:00. ](/news/2010/04/25/london-marathon-ptsegaye-kebede-wins-the-men-s-marathon-with-a-time-of-2-05-19-liliya-shobukhova-wins-the-women-s-marathon-with-a-time-of-2.md) _Context: London Marathon_
+1. [London Marathon:. Tsegaye Kebede wins the men's marathon with a time of 2:05:19; Liliya Shobukhova wins the women's marathon with a time of 2:22:00. ](/news/2010/04/25/london-marathon-tsegaye-kebede-wins-the-men-s-marathon-with-a-time-of-2-05-19-liliya-shobukhova-wins-the-women-s-marathon-with-a-time-of.md) _Context: London Marathon_

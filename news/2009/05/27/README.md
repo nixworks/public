@@ -15,7 +15,7 @@ Digital Sky Technologies invested $200 million in the social networking company 
 ### [ A suicide attack kills at least 35 people and injures 250 more in Lahore, Pakistan. ](/news/2009/05/27/a-suicide-attack-kills-at-least-35-people-and-injures-250-more-in-lahore-pakistan.md)
 _Context: Lahore, Pakistan, suicide attack_
 
-### [ Soyuz TMA-15 launches from the Baikonur Cosmodrome in Kazakhstan.  ](/news/2009/05/27/soyuz-tma-15-launches-from-the-baikonur-cosmodrome-in-kazakhstan.md)
+### [ Soyuz TMA-15 launches from the Baikonur Cosmodrome in Kazakhstan. ](/news/2009/05/27/soyuz-tma-15-launches-from-the-baikonur-cosmodrome-in-kazakhstan.md)
 A Russian Soyuz spacecraft with three astronauts on board blasted off from Kazakhstan on Wednesday in a mission that will increase the International Space Station crew to six for the first time.
 
 ### [ A rare white tiger is euthanized after killing a zookeeper at the Zion Wildlife Gardens in Whangarei, New Zealand. ](/news/2009/05/27/a-rare-white-tiger-is-euthanized-after-killing-a-zookeeper-at-the-zion-wildlife-gardens-in-whangarei-new-zealand.md)

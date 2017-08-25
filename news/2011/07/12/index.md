@@ -15,25 +15,25 @@ The UN torture investigator accuses the US of violating long-established rules b
 ### [It is reported that the U.S. government's Central Intelligence Agency (CIA) deployed a fake vaccine programme in Abbottabad ahead of its assassination of Osama bin Laden in an effort to obtain a DNA sample from his family. ](/news/2011/07/12/it-is-reported-that-the-u-s-government-s-central-intelligence-agency-cia-deployed-a-fake-vaccine-programme-in-abbottabad-ahead-of-its-ass.md)
 The CIA ran a fake vaccination programme in the Pakistani town of Abbottabad to try to get a DNA sample from the family of Osama Bin Laden, media reports say.
 
-### [2011 Egyptian revolution:A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/2011-egyptian-revolution-pa-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perc.md)
+### [Arab Spring. 2011 Egyptian revolution:. A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/12/arab-spring-2011-egyptian-revolution-a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-c.md)
 Thousands of Egyptians are protesting in Cairo to demand faster political reform, despite warnings and fresh concessions from Egyptian officials.
 
 ### [Suspected Abu Sayyaf gunmen abduct two United States citizens and a Filipino relative from an island village in Zamboanga City in the Philippines. ](/news/2011/07/12/suspected-abu-sayyaf-gunmen-abduct-two-united-states-citizens-and-a-filipino-relative-from-an-island-village-in-zamboanga-city-in-the-philip.md)
 A portal of daily newspapers covering Philippine news headlines, business, lifestyle, advertisement, sports and entertainment. Also delivers Manila and Cebu news.
 
-### [War in Afghanistan:President of France Nicolas Sarkozy visits Afghanistan to meet with the President of Afghanistan Hamid Karzai and commander of the International Security Assistance Force David Petraeus before visiting French troops stationed in Surobi. ](/news/2011/07/12/war-in-afghanistan-ppresident-of-france-nicolas-sarkozy-visits-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai-and-comman.md)
+### [War in Afghanistan:. President of France Nicolas Sarkozy visits Afghanistan to meet with the President of Afghanistan Hamid Karzai and commander of the International Security Assistance Force David Petraeus before visiting French troops stationed in Surobi. ](/news/2011/07/12/war-in-afghanistan-president-of-france-nicolas-sarkozy-visits-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai-and-comma.md)
 Controversial Afghan politician Ahmad Wali Karzai, half-brother of President Hamid Karzai and a top power broker in the south, is shot dead in Kandahar.
 
-### [A British ticket scoops the largest ever lottery prize in Europe, the PS161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-aps161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and-b.md)
+### [A British ticket scoops the largest ever lottery prize in Europe, the GBP161,653,000 EuroMillions jackpot, by securing all five numbers and both Lucky Stars. ](/news/2011/07/12/a-british-ticket-scoops-the-largest-ever-lottery-prize-in-europe-the-agbp161-653-000-euromillions-jackpot-by-securing-all-five-numbers-and.md)
 _Context: Euromillions_
 
-### [American television producer Sherwood Schwartz, the creator of ''Gilligan's Island'' and ''The Brady Bunch'', dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-californi.md)
+### [American television producer Sherwood Schwartz, the creator of "Gilligan's Island" and "The Brady Bunch", dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-california.md)
 _Context: California, Gilligan's Island, Los Angeles, California, Sherwood Schwartz, The Brady Bunch_
 
 ### [Ireland's debt rating is reduced to "junk" status by Moody's. ](/news/2011/07/12/ireland-s-debt-rating-is-reduced-to-junk-status-by-moody-s.md)
 Credit agency Moody&#39;s has downgraded Ireland&#39;s debt rating to junk status and warned of the growing possibility of a second bailout.
 
-### [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others.  ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md)
+### [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md)
 _Context: Apple Inc., Google, Nokia, Samsung, patent_
 
 ### [Japanese officials announce their intention to send the country's whaling fleet back to Antarctica later in the year; the Sea Shepherd Conservation Society (SSCS) is also to return. ](/news/2011/07/12/japanese-officials-announce-their-intention-to-send-the-country-s-whaling-fleet-back-to-antarctica-later-in-the-year-the-sea-shepherd-conse.md)
@@ -45,7 +45,7 @@ _Context: Christofias, Cyprus, Evangelos Florakis Navy Base explosion, Nicosia, 
 ### [Four earthquakes ranging from 5 to 6.2 in magnitude hit the Philippines. ](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.md)
 A 6.2-magnitude earthquake struck off the coast of the Philippines this morning but caused no damage, authorities said.
 
-### [Sinking of ''Bulgaria'':Russian state television reports that at least 59 bodies have been recovered from the sinking of the cruise ship ''Bulgaria'' on the Volga River, with more than 200 people on board. ](/news/2011/07/12/sinking-of-bulgaria-prussian-state-television-reports-that-at-least-59-bodies-have-been-recovered-from-the-sinking-of-the-cruise-ship.md)
+### [Sinking of "Bulgaria":. Russian state television reports that at least 59 bodies have been recovered from the sinking of the cruise ship "Bulgaria" on the Volga River, with more than 200 people on board. ](/news/2011/07/12/sinking-of-bulgaria-russian-state-television-reports-that-at-least-59-bodies-have-been-recovered-from-the-sinking-of-the-cruise-ship-bu.md)
 Four people face criminal charges in connection with the sinking of a Russian ship Sunday in which scores of people died, federal investigators said Tuesday.
 
 ### [The United States Coast Guard ends aerial searches for seven Americans still missing after a charter fishing boat sank in the Sea of Cortez off Mexico on July 3. ](/news/2011/07/12/the-united-states-coast-guard-ends-aerial-searches-for-seven-americans-still-missing-after-a-charter-fishing-boat-sank-in-the-sea-of-cortez.md)
@@ -90,7 +90,7 @@ _Context: Republican, Ron Paul, Texas, district_
 ### [The Governor of the U.S. state of Arizona calls a recall election for state Senate President Russell Pearce known for his immigration legislation. ](/news/2011/07/12/the-governor-of-the-u-s-state-of-arizona-calls-a-recall-election-for-state-senate-president-russell-pearce-known-for-his-immigration-legisl.md)
 _Context: Arizona, Governor, Russell Pearce, U.S. state, recall referendum, state Senate President_
 
-### [NASA astronauts on board ''Atlantis'' complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international.md)
+### [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md)
 The last spacewalk of the shuttle era is completed, as astronauts remove a faulty pump on the International Space Station.
 
 ## [Previous Day...](/news/2011/07/11/index.md)

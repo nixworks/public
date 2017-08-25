@@ -15,4 +15,4 @@ At least three people are dead after multi-vehicle accidents due to icy roads in
 ### Related:
 
 1. [Heavy snow and freezing rain fall in Southwestern China, causing roof collapses and damages to crops. ](/news/2011/01/24/heavy-snow-and-freezing-rain-fall-in-southwestern-china-causing-roof-collapses-and-damages-to-crops.md) _Context: freezing-rain_
-2. [ Western U.S. Freeze of 2007: 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-p-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md) _Context: freezing-rain_
+2. [ Western U.S. Freeze of 2007:. 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md) _Context: freezing-rain_

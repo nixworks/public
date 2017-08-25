@@ -21,28 +21,28 @@ _Context: California, Santa Barbara, California, United States, Wildfires, evacu
 ### [ The Armed Forces and the Union of Forces for Democracy and Development battle near Goz Beida, Ouaddai Region, Chad. ](/news/2009/05/7/the-armed-forces-and-the-union-of-forces-for-democracy-and-development-battle-near-goz-bea-da-ouaddaa-region-chad.md)
 _Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democracy and Development, performed_
 
-### [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md)
+### [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. [http://www.guardian.co.uk/world/2009/may/07/china-quake-pupils-death-toll "(The Guardian)"]](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008-http-www-guardian-co-uk-world-2009-may-0.md)
 _Context: China, Sichuan, deadly earthquake_
 
 ### [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md)
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, United States, property, trespass_
 
-### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)
+### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements -60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-60-billion-of-quantitative-easing.md)
 _Context: EUR, European Central Bank, Eurozone, interest rate, quantitative easing_
 
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)
 _Context: Dnipropetrovsk, Ukraine, casino_
 
-### [ The fourth phase of India's general election concludes. ](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes.md)
+### [ The fourth phase of India's general election concludes. [http://www.hindustantimes.com/election09/storypage.aspx?id=c4fbaac9-40a3-4bd8-9e76-47c1901a8f1d&category=Chunk-HT-UI-Elections-SectionPage-TopStories "(Hindustan Times)"]](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes-http-www-hindustantimes-com-election09-storypage-aspx-id-c4fbaac9-40a3-4bd8-9e76.md)
 _Context: India, becomes_
 
-### [ The Bank of England freezes interest rates at 0.5% and will implement PS50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-aps50-billion-of-quantitative-easing.md)
-_Context: Bank of England, PS, interest rate, quantitative easing_
+### [ The Bank of England freezes interest rates at 0.5% and will implement GBP50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-agbp50-billion-of-quantitative-easing.md)
+_Context: Bank of England, GBP, interest rate, quantitative easing_
 
 ### [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md)
 _Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban, War in North-West Pakistan, soldier_
 
-### [ Somali pirates hijack the Netherlands' MV ''Marathon'' and attack the U.S. Navy cargo ship ''Lewis and Clark''. ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md)
+### [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md)
 Pirates seized a Dutch cargo vessel on Thursday, a regional maritime group said, in the latest hijack by gangs proliferating off Somalia despite the presence of patrolling foreign warships.
 
 ## [Previous Day...](/news/2009/05/6/index.md)

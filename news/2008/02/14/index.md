@@ -1,6 +1,6 @@
 ## [2008-02-14](/news/2008/02/14/index.md)
 
-### [ Kosovo: Former Kosovo Prime Minister Bajram Rexhepi says the province will unilaterally declare independence within the next 4 days. ](/news/2008/02/14/kosovo-p-former-kosovo-prime-minister-bajram-rexhepi-says-the-province-will-unilaterally-declare-independence-within-the-next-4-days.md)
+### [ Kosovo:. Former Kosovo Prime Minister Bajram Rexhepi says the province will unilaterally declare independence within the next 4 days. ](/news/2008/02/14/kosovo-former-kosovo-prime-minister-bajram-rexhepi-says-the-province-will-unilaterally-declare-independence-within-the-next-4-days.md)
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [ The United States House of Representatives approves contempt of Congress citations against Harriet Miers and Joshua Bolten in the U.S. Attorneys controversy. ](/news/2008/02/14/the-united-states-house-of-representatives-approves-contempt-of-congress-citations-against-harriet-miers-and-joshua-bolten-in-the-u-s-atto.md)
@@ -18,7 +18,7 @@ _Context:  NRO, SM-3, USA 193, United States Navy, hydrazine, spy satellite_
 ### [ Kiribati now has the largest protected marine reserve in the world. ](/news/2008/02/14/kiribati-now-has-the-largest-protected-marine-reserve-in-the-world.md)
 _Context: Kiribati, marine reserve_
 
-### [ The Wallraf-Richartz Museum in Cologne has announced that its painting ''The Seine at Port Villez'', thought to be by Claude Monet, is a forgery. ](/news/2008/02/14/the-wallraf-richartz-museum-in-cologne-has-announced-that-its-painting-the-seine-at-port-villez-thought-to-be-by-claude-monet-is-a-fo.md)
+### [ The Wallraf-Richartz Museum in Cologne has announced that its painting "The Seine at Port Villez", thought to be by Claude Monet, is a forgery. ](/news/2008/02/14/the-wallraf-richartz-museum-in-cologne-has-announced-that-its-painting-the-seine-at-port-villez-thought-to-be-by-claude-monet-is-a-forg.md)
 _Context: Cologne, Monet, Wallraf-Richartz Museum_
 
 ## [Previous Day...](/news/2008/02/13/index.md)

@@ -1,12 +1,12 @@
 ## [2008-02-16](/news/2008/02/16/index.md)
 
-### [ 37 people are killed in a suicide car bombing in Pakistan's tribal region after a meeting of  the Pakistan Peoples Party, reports say. ](/news/2008/02/16/37-people-are-killed-in-a-suicide-car-bombing-in-pakistan-s-tribal-region-after-a-meeting-of-the-pakistan-peoples-party-reports-say.md)
+### [ 37 people are killed in a suicide car bombing in Pakistan's tribal region after a meeting of the Pakistan Peoples Party, reports say. ](/news/2008/02/16/37-people-are-killed-in-a-suicide-car-bombing-in-pakistan-s-tribal-region-after-a-meeting-of-the-pakistan-peoples-party-reports-say.md)
 _Context: Pakistan, Pakistan Peoples Party, suicide car bombing_
 
 ### [ Toshiba plans to withdraw from HD DVD production, ending the format war in Blu-ray Disc's favor. ](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.md)
 _Context: Blu-ray Disc, HD DVD, Toshiba, format war_
 
-### [ Brown pelican delisted from endangered list.  ](/news/2008/02/16/brown-pelican-delisted-from-endangered-list.md)
+### [ Brown pelican delisted from endangered list. ](/news/2008/02/16/brown-pelican-delisted-from-endangered-list.md)
 _Context: Brown pelican_
 
 ### [ A student dies of unknown causes while competing at the Harvard National Speech and Debate Tournament. ](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.md)

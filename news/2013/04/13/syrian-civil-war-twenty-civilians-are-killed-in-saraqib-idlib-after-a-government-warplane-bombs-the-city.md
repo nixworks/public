@@ -1,0 +1,26 @@
+### [2013-04-13](/news/2013/04/13/index.md)
+
+# Syrian civil war:. Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. 
+
+The British press has released details of the use of chemical weapons in the Syrian conflict. The Times reported that evidence has been discovered
+
+
+### Source:
+
+1. [AP via CBC News](http://www.cbc.ca/news/world/story/2013/04/13/syria-attack.html)
+2. [Euronews](http://www.euronews.com/2013/04/13/chemical-weapons-used-in-syria-according-to-british-newspaper-sources/)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/report-british-scientists-find-evidence-chemical-weapons-were-used-in-syria-1.515242)
+4. [The Times of Israel](http://www.timesofisrael.com/soil-sample-proves-chemical-weapons-used-in-syria/)
+
+### Related:
+
+1. [Syrian Civil War. At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/syrian-civil-war-at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-r.md) _Context: Idlib, Syrian Civil War_
+2. [ Syrian Civil War. At least 21 people are killed in suspected Russian airstrikes on Idlib, Syria. ](/news/2016/12/4/syrian-civil-war-at-least-21-people-are-killed-in-suspected-russian-airstrikes-on-idlib-syria.md) _Context: Idlib, Syrian Civil War_
+3. [ Syrian Civil War. At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/syrian-civil-war-at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md) _Context: Idlib, Syrian Civil War_
+4. [Syrian civil war:. French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/syrian-civil-war-french-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after.md) _Context: Idlib, Syrian Civil War_
+5. [Syrian civil war. Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-civil-war-syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hou.md) _Context: Idlib, Syrian Civil War_
+6. [Syrian civil war:. Opposition activists report at least 128 deaths around the country, as the UN-brokered ceasefire appears to collapse. The Syrian Army bombards three Damascus districts and the city of Bara near Idlib, killing at least 22 people. ](/news/2012/10/28/syrian-civil-war-opposition-activists-report-at-least-128-deaths-around-the-country-as-the-un-brokered-ceasefire-appears-to-collapse-the.md) _Context: Idlib, Syrian Civil War_
+7. [Syrian civil war:. An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/syrian-civil-war-an-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside.md) _Context: Idlib, Syrian Civil War_
+8. [Syrian civil war:. A car bomb attack by unknown people near a Palestinian refugee camp in the Damascene suburb of Sbeineh ("Sabina") kills at least 15 people. AFP says rebels claim the capture of the village of Harem near Idlib on the Turkish border, after a 3-day siege; the government still keeps air supremacy. U.N. envoy Lakhdar Brahimi says it is both conflict parties' duty to try to reach peace. ](/news/2012/09/2/syrian-civil-war-a-car-bomb-attack-by-unknown-people-near-a-palestinian-refugee-camp-in-the-damascene-suburb-of-sbeineh-sabina-kills-a.md) _Context: Idlib, Syrian Civil War_
+9. [Syrian Civil War. A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/syrian-civil-war-a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says.md) _Context: Syrian Civil War_
+10. [Syrian Civil War. A day after a Russian sponsored ceasefire with a rebel group agreed a halt of fighting in the last opposition enclave in the capital, Syrian government airplanes and artillery strike rebel-held eastern Damascus suburbs and Ghouta with barrel bombs, killing at least five civilians in the towns of Hamouriya and Zalamka with several case of suffocation from rockets filled with chlorine that were fired at the front lines of Jobar and Ain Terma. ](/news/2017/08/19/syrian-civil-war-a-day-after-a-russian-sponsored-ceasefire-with-a-rebel-group-agreed-a-halt-of-fighting-in-the-last-opposition-enclave-in-t.md) _Context: Syrian Civil War_

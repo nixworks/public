@@ -1,0 +1,26 @@
+### [2016-12-14](/news/2016/12/14/index.md)
+
+# Philippine Drug War. The Philippines cabinet of Rodrigo Duterte, through former journalist Martin Andanar, criticizes the Western media's coverage of the Philippine Drug War, particularly that of "The New York Times", and urges them to cover the purge more effectively. 
+
+Controversial leader – who has endorsed extrajudicial executions of drug offenders – says he killed to show police officers ‘if I can do it, why can’t you?’
+
+
+### Source:
+
+1. [INQUIRER.net](http://newsinfo.inquirer.net/853420/duterte-i-personally-killed-drug-suspects)
+2. [NBC News](http://www.nbcnews.com/news/us-news/philippine-president-under-fire-claims-he-personally-killed-criminals-n695936)
+3. [The Guardian](https://www.theguardian.com/world/2016/dec/14/philippines-president-rodrigo-duterte-personally-killed-criminals)
+4. [The New York Times](http://www.nytimes.com/2016/12/12/world/asia/philippines-president-criticizes-times-piece-on-deadly-antidrug-campaign.html)
+
+### Related:
+
+1. [Philippine Drug War. In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/philippine-drug-war-in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces.md) _Context: Philippines, Rodrigo Duterte, drug war_
+2. [Philippine Drug War. A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/philippine-drug-war-a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo.md) _Context: Philippines, Rodrigo Duterte, drug war_
+3. [Philippine Drug War. Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippine-drug-war-philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-curren.md) _Context: Philippines, Rodrigo Duterte, drug war_
+4. [Philippine Drug War. The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/philippine-drug-war-the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-presiden.md) _Context: Philippines, Rodrigo Duterte, drug war_
+5. [Human Rights Day. In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/human-rights-day-in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-phili.md) _Context: Philippines, Rodrigo Duterte, drug war_
+6. [Philippine Drug War. Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/philippine-drug-war-rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md) _Context: Philippines, Rodrigo Duterte, drug war_
+7. [Philippine Drug War. Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/philippine-drug-war-rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md) _Context: Philippines, Rodrigo Duterte, drug war_
+8. [Philippine Drug War. Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. ](/news/2016/08/21/philippine-drug-war-rodrigo-duterte-threatens-to-withdraw-the-philippines-from-its-founding-membership-of-the-united-nations-after-the-inte.md) _Context: Philippines, Rodrigo Duterte, drug war_
+9. [Human rights in the Philippines; Philippine Drug War. Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. ](/news/2016/07/5/human-rights-in-the-philippines-philippine-drug-war-dozens-of-petty-criminals-and-alleged-drug-addicts-die-in-the-philippines-within-a-few.md) _Context: Philippines, Rodrigo Duterte, drug war_
+10. [Crime in the Philippines; Philippine Drug War. Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippine-drug-war-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-u.md) _Context: Philippines, Rodrigo Duterte, drug war_

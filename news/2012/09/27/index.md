@@ -3,16 +3,16 @@
 ### [Saudi Arabia's Ministry of Health voices concerns that the novel coronavirus, similar to SARS and reported to have originated from the country, might affect the Hajj, the religious pilgrimage set to occur next month. The ministry suggests that travelers take the necessary precautions. ](/news/2012/09/27/saudi-arabia-s-ministry-of-health-voices-concerns-that-the-novel-coronavirus-similar-to-sars-and-reported-to-have-originated-from-the-count.md)
 _Context: Hajj, novel coronavirus_
 
-### [Senkaku Islands dispute:Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". ](/news/2012/09/27/senkaku-islands-dispute-pjapanese-prime-minister-yoshihiko-noda-meets-with-un-general-secretary-ban-ki-moon-explaining-to-him-that-the-isla.md)
+### [Senkaku Islands dispute:. Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". ](/news/2012/09/27/senkaku-islands-dispute-japanese-prime-minister-yoshihiko-noda-meets-with-un-general-secretary-ban-ki-moon-explaining-to-him-that-the-isl.md)
 Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AFP
 
 ### [The United States announces that it will seek to lift its ban on imported goods from Myanmar. ](/news/2012/09/27/the-united-states-announces-that-it-will-seek-to-lift-its-ban-on-imported-goods-from-myanmar.md)
 _Context: Myanmar, United States_
 
-### [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife's body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wifeas-body-to-dispose-of-it-guilty-of.md)
+### [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife-s body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wife-s-body-to-dispose-of-it-guilty-of.md)
 _Context: David Viens, Lomita, Los Angeles, chef, second degree murder_
 
-### [Nakoula Basseley Nakoula, alleged producer of the film ''Innocence of Muslims'' and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-a.md)
+### [Nakoula Basseley Nakoula, alleged producer of the film "Innocence of Muslims" and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-and.md)
 The alleged producer of an anti-Islamic film that sparked violent protests has been arrested for violating probation.
 
 ### [Ivan Velazquez Caballero, a top leader in the Mexican criminal group known as Los Zetas, is arrested in San Luis Potosi. ](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.md)

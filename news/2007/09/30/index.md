@@ -6,13 +6,13 @@ _Context: 2006 Thai coup d'etat, Council for National Security, Prime Minister, 
 ### [ Former World Chess Champion Garry Kasparov is selected Presidential Candidate for Other Russia in the 2008 presidentials. ](/news/2007/09/30/former-world-chess-champion-garry-kasparov-is-selected-presidential-candidate-for-other-russia-in-the-2008-presidentials.md)
 _Context: Garry Kasparov, Russian President Vladimir Putin, The Other Russia, World Chess Champion, go to the polls_
 
-### [ Ukrainian parliamentary election, 2007: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-p-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
+### [ Ukrainian parliamentary election, 2007:. Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
 _Context: Ukraine, Ukrainian parliamentary election, 2007_
 
-### [ The Topps Meat Company recalls 21700000|lb|t of frozen beef patties because of potential contamination with ''E. coli''. Twenty-five cases of illness due to ''E. coli'' have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-t-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases.md)
+### [ The Topps Meat Company recalls 21700000|lb|t of frozen beef patties because of potential contamination with "E. coli". Twenty-five cases of illness due to "E. coli" have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-t-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases-of.md)
 The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 million pounds of ground beef products, which may have sickened 25 people in eight states.
 
-### [ 2007 Burmese anti-government protests: A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/2007-burmese-anti-government-protests-p-a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asy.md)
+### [ 2007 Burmese anti-government protests:. A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/2007-burmese-anti-government-protests-a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asy.md)
 _Context: 2007 Burmese anti-government protests, Karen, Myanmar, Norway, State Peace and Development Council_
 
 ### [ Indian player Viswanathan Anand wins the World Chess Championship 2007 at Mexico City to become the new world champion. ](/news/2007/09/30/indian-player-viswanathan-anand-wins-the-world-chess-championship-2007-at-mexico-city-to-become-the-new-world-champion.md)

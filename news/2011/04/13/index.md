@@ -1,6 +1,6 @@
 ## [2011-04-13](/news/2011/04/13/index.md)
 
-### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
+### [2011 Libyan civil war. Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
 
 ### [The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. ](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.md)
@@ -24,7 +24,7 @@ _Context: Japan, Sendai Airport, an earthquake and tsunami_
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
 _Context: North Korea, United States_
 
-### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
+### [Israeli-Palestinian conflict. The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/israeli-palestinian-conflict-the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
 The Palestinian government in the West Bank is now largely ready to govern a state, a United Nations report says.
 
 ### [Ivory Coast President Alassane Ouattara says former leader Laurent Gbagbo will face charges at the national and international level. ](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.md)
@@ -48,7 +48,7 @@ Police in China have sent two activists to labor camps and charged a veteran dis
 ### [Former US Senator Rick Santorum announces that he has formed a committee to explore a bid for the Republican Party nomination in the presidential election. ](/news/2011/04/13/former-us-senator-rick-santorum-announces-that-he-has-formed-a-committee-to-explore-a-bid-for-the-republican-party-nomination-in-the-preside.md)
 _Context: Republican, Rick Santorum, United States Senate, United States presidential election, 2012_
 
-### [The Permanent Subcommittee on Investigations of the United States Senate releases a report on the financial crisis of 2008, focusing largely on the role played by Goldman Sachs in "creating and selling structured finance products" that had their customers betting in one direction while Goldman itself bet the other way.   ](/news/2011/04/13/the-permanent-subcommittee-on-investigations-of-the-united-states-senate-releases-a-report-on-the-financial-crisis-of-2008-focusing-largely.md)
+### [The Permanent Subcommittee on Investigations of the United States Senate releases a report on the financial crisis of 2008, focusing largely on the role played by Goldman Sachs in "creating and selling structured finance products" that had their customers betting in one direction while Goldman itself bet the other way. ](/news/2011/04/13/the-permanent-subcommittee-on-investigations-of-the-united-states-senate-releases-a-report-on-the-financial-crisis-of-2008-focusing-largely.md)
 _Context: Goldman Sachs, Permanent Subcommittee on Investigations, United States Senate_
 
 ## [Previous Day...](/news/2011/04/12/index.md)

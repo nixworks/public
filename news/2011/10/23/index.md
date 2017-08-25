@@ -1,6 +1,6 @@
 ## [2011-10-23](/news/2011/10/23/index.md)
 
-### [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md)
+### [2011 Libyan civil war:. Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, autopsy, demise_
 
 ### [A 7.2-magnitude earthquake rocks the city of Van in eastern Turkey, killing at least 582 people. ](/news/2011/10/23/a-7-2-magnitude-earthquake-rocks-the-city-of-van-in-eastern-turkey-killing-at-least-582-people.md)

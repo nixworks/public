@@ -6,8 +6,8 @@ Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-ye
 ### [ Floods kill at least 11 people in Haiti. ](/news/2009/05/22/floods-kill-at-least-11-people-in-haiti.md)
 _Context: Haiti, flood_
 
-### [ Former Special Air Service officer John Wick is revealed as the whistleblower behind the United Kingdom Parliament's expenses controversy. ](/news/2009/05/22/former-special-air-service-officer-john-wick-is-revealed-as-the-whistleblower-behind-the-united-kingdom-parliament-s-expenses-controversy.md)
-John Wick, the former SAS officer who blew the whistle on the MPs&rsquo; expenses scandal, speaks out for the first time to reveal why he decided to expose the system to its &ldquo;rotten core&rdquo;.
+### [ Former Special Air Service officer John Wick is revealed as the whistleblower behind the United Kingdom Parliament's expenses controversy. [http://news.bbc.co.uk/1/hi/uk_politics/8064731.stm (BBC)] [http://www.telegraph.co.uk/news/newstopics/mps-expenses/5369066/MPs-expenses-whistleblower-John-Wick-on-why-he-set-the-scandal-running.html "(Telegraph)"]](/news/2009/05/22/former-special-air-service-officer-john-wick-is-revealed-as-the-whistleblower-behind-the-united-kingdom-parliament-s-expenses-controversy.md)
+_Context: Britain, John Wick, Parliament, SAS, expenses controversy, officer, whistleblower_
 
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
 _Context: Chiautla de Tapia, Mexico, Puebla, earthquake, magnitude_
@@ -18,7 +18,7 @@ _Context: Mogadishu, Somalia, Transitional Federal Government, militant, radical
 ### [ Bingu wa Mutharika is reelected as President of Malawi. ](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.md)
 _Context: Bingu wa Mutharika, Malawi, President, reelected_
 
-### [ The Space Shuttle ''Atlantis'' prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md)
+### [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md)
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
 
 ### [ The United Nations requests aid for 1,500,000 people who have been displaced by war in northwest Pakistan. ](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.md)

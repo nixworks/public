@@ -1,0 +1,23 @@
+### [2017-05-4](/news/2017/05/4/index.md)
+
+# Asian Dust. A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. 
+
+A dust storm enveloped a swathe of northern China yesterday dragging down air quality and visibility and prompting warnings for
+
+
+### Source:
+
+1. [The Daily Star](http://www.thedailystar.net/world/asia/dust-storm-hits-beijing-1400716)
+
+### Related:
+
+1. [A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. ](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-affecting-the-regions-of-xinjiang-and-inner-mongolia-and-the-provinces-of-shanxi-shaanxi-and.md) _Context: North China, dust storm_
+2. [July 2016 North China cyclone. Torrential precipitation and widespread flash floods from an extratropical cyclone resulted in at least 78 deaths over North China and nearby regions. ](/news/2016/07/21/july-2016-north-china-cyclone-torrential-precipitation-and-widespread-flash-floods-from-an-extratropical-cyclone-resulted-in-at-least-78-de.md) _Context: North China_
+3. [Pollution in China. The Chinese government warns residents in Northern China to prepare for a wave of choking smog arriving over the weekend and lasting through Tuesday, with Beijing affected hardest. The capital city issues its second-ever "red alert" -- the first was announced on December 7, 2015. This alert triggers the odd-even license plate system to halve cars on the road, and recommends schools close. China's National Meteorological Center reports the pollution will stretch from Xi'an, across part of Central China, through Beijing and up into Shenyang and Harbin in China's frigid northeast. ](/news/2015/12/18/pollution-in-china-the-chinese-government-warns-residents-in-northern-china-to-prepare-for-a-wave-of-choking-smog-arriving-over-the-weekend.md) _Context: North China_
+4. [A massive sandstorm and record winds hit Iran's capital Tehran, causing power blackouts there and killing at least four people. ](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.md) _Context: dust storm_
+5. [At least three people are dead after a dust storm causes an accident on Interstate 10 near Picacho Peak, Arizona, United States. ](/news/2013/10/29/at-least-three-people-are-dead-after-a-dust-storm-causes-an-accident-on-interstate-10-near-picacho-peak-arizona-united-states.md) _Context: dust storm_
+6. [A man sets off homemade black powder explosive in Beijing Capital International Airport, injuring himself. No one else was hurt in the explosion. ](/news/2013/07/20/a-man-sets-off-homemade-black-powder-explosive-in-beijing-capital-international-airport-injuring-himself-no-one-else-was-hurt-in-the-explo.md) _Context: Beijing Capital International Airport_
+7. [In Canada, Chinook windstorms tear through Alberta and Saskatchewan, producing a dust storm in downtown Calgary and causing millions of dollars in damage. The windstorms fuel a grass fire that grows to two kilometres wide near Lethbridge, Alberta, before being contained, and gusts reach a maximum speed of 149|km/h|mph|abbr=on. ](/news/2011/11/27/in-canada-chinook-windstorms-tear-through-alberta-and-saskatchewan-producing-a-dust-storm-in-downtown-calgary-and-causing-millions-of-doll.md) _Context: dust storm_
+8. [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md) _Context: dust storm_
+9. [At least 42 people are killed and over 50 injured in dust storms and thunderstorms in Uttar Pradesh, northern India, adding to the three-day toll of over eighty dead. ](/news/2011/05/21/at-least-42-people-are-killed-and-over-50-injured-in-dust-storms-and-thunderstorms-in-uttar-pradesh-northern-india-adding-to-the-three-day.md) _Context: dust storm_
+10. [Eight people are killed and 130 injured in a massive car pile-up caused by a sandstorm on the German autobahn A 19 near Rostock. The pile-up involves about 80 vehicles and causes at least 30 of them to catch fire, making it the worst accident in the state of Mecklenburg-Vorpommern. ](/news/2011/04/8/eight-people-are-killed-and-130-injured-in-a-massive-car-pile-up-caused-by-a-sandstorm-on-the-german-autobahn-a-19-near-rostock-the-pile-up.md) _Context: dust storm_

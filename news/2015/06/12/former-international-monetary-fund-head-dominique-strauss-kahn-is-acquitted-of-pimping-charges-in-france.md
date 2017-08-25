@@ -1,6 +1,6 @@
 ### [2015-06-12](/news/2015/06/12/index.md)
 
-# Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France.  
+# Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France. 
 
 French court clears former International Monetary Fund chief of ‘aggravated pimping’ in multi-defendant trial over sex parties
 

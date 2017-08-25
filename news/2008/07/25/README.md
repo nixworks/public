@@ -15,7 +15,7 @@ _Context: Google, indexed_
 ### [ Kapiliele Faupala is crowned the new King of Wallis (Uvea), succeeding the late Tomasi Kulimoetoke II, who died in 2007. ](/news/2008/07/25/kapiliele-faupala-is-crowned-the-new-king-of-wallis-uvea-succeeding-the-late-tomasi-kulimoetoke-ii-who-died-in-2007.md)
 _Context: Kapiliele Faupala, King of Wallis (Uvea), Tomasi Kulimoetoke II_
 
-### [ Carol Vorderman announces she is quitting her position on UK gameshow ''Countdown'' after 26 years.](/news/2008/07/25/carol-vorderman-announces-she-is-quitting-her-position-on-uk-gameshow-countdown-after-26-years.md)
+### [ Carol Vorderman announces she is quitting her position on UK gameshow "Countdown" after 26 years.](/news/2008/07/25/carol-vorderman-announces-she-is-quitting-her-position-on-uk-gameshow-countdown-after-26-years.md)
 _Context: Carol Vorderman_
 
 ## [Previous Day...](/news/2008/07/24/index.md)

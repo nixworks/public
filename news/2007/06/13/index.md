@@ -12,13 +12,13 @@ _Context: 6.8 magnitude earthquake, Guatemala, Puerto Quetzal_
 ### [ Queen Elizabeth II of the United Kingdom awards Sir Tim Berners-Lee the Order of Merit for his pioneering work on the worldwide web. ](/news/2007/06/13/queen-elizabeth-ii-of-the-united-kingdom-awards-sir-tim-berners-lee-the-order-of-merit-for-his-pioneering-work-on-the-worldwide-web.md)
 _Context: Order of Merit, Queen Elizabeth, Sir Timothy John Berners-Lee, queen regnant, worldwide web_
 
-### [ ''Gigantoraptor erlianensis'', a gigantic birdlike dinosaur, is discovered in Inner Mongolia by paleontologist Xu Xing. ](/news/2007/06/13/gigantoraptor-erlianensis-a-gigantic-birdlike-dinosaur-is-discovered-in-inner-mongolia-by-paleontologist-xu-xing.md)
+### [ "Gigantoraptor erlianensis", a gigantic birdlike dinosaur, is discovered in Inner Mongolia by paleontologist Xu Xing. ](/news/2007/06/13/gigantoraptor-erlianensis-a-gigantic-birdlike-dinosaur-is-discovered-in-inner-mongolia-by-paleontologist-xu-xing.md)
 _Context: Gigantoraptor erlianensis, Inner Mongolia, Xu Xing, bird, dinosaur_
 
 ### [ Shimon Peres is elected as the President of Israel after opponents bow out in the first round of the Israeli presidential elections. ](/news/2007/06/13/shimon-peres-is-elected-as-the-president-of-israel-after-opponents-bow-out-in-the-first-round-of-the-israeli-presidential-elections.md)
 _Context: Israeli presidential elections, President, Shimon Peres_
 
-### [ An explosion in Beirut  kills at least 10 people, including MP Walid Eido. ](/news/2007/06/13/an-explosion-in-beirut-kills-at-least-10-people-including-mp-walid-eido.md)
+### [ An explosion in Beirut kills at least 10 people, including MP Walid Eido. ](/news/2007/06/13/an-explosion-in-beirut-kills-at-least-10-people-including-mp-walid-eido.md)
 Crowds marched behind a somber funeral procession Thursday after a powerful car bombing killed a prominent anti-Syrian legislator and nine other people, dealing a new blow to the stability of this conflict-torn nation.
 
 ### [ Hamas militants kill at least 16 Palestinians, including 2 UNRWA workers and 13 Fatah members, as clashes intensify in the Gaza Strip. ](/news/2007/06/13/hamas-militants-kill-at-least-16-palestinians-including-2-unrwa-workers-and-13-fatah-members-as-clashes-intensify-in-the-gaza-strip.md)

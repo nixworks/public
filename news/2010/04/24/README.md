@@ -10,7 +10,7 @@ _Context: Fernando Lugo, Paraguay, Paraguayan People's Army, Paraguayan Presiden
 _Context: Mississippi, tornado_
 
 ### [Prime Minister Abhisit Vejjajiva of Thailand rejects protester demands to dissolve the Parliament within 30 days. ](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister of Thailand, Thailand_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Parliament, Prime Minister, Thailand_
 
 ### [A strong earthquake measuring 6.1 strikes in the Maluku Islands north of Ambon Island. ](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.md)
 _Context: Ambon Island, Maluku Islands_
@@ -27,7 +27,7 @@ _Context: Proton-M, Russia, United States, rocket, space, telecommunications sat
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)
 _Context: Pakistan, drone_
 
-### [Child sexual abuse in the Roman Catholic Church:In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/child-sexual-abuse-in-the-roman-catholic-church-pin-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hour.md)
+### [Child sexual abuse in the Roman Catholic Church:. In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/child-sexual-abuse-in-the-roman-catholic-church-in-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hou.md)
 _Context: Catholic Church, Chile, President, Sebastin Piera_
 
 ### [Tens of thousands of people rally and lay flowers at a monument in Yerevan to the victims on the 95th anniversary of the Armenian Genocide. ](/news/2010/04/24/tens-of-thousands-of-people-rally-and-lay-flowers-at-a-monument-in-yerevan-to-the-victims-on-the-95th-anniversary-of-the-armenian-genocide.md)
@@ -45,7 +45,7 @@ _Context: Wang Lequan, Xinjiang, Zhang Chunxian_
 ### [Two German men held in Abia State, Nigeria are released six days after being seized on a swim. ](/news/2010/04/24/two-german-men-held-in-abia-state-nigeria-are-released-six-days-after-being-seized-on-a-swim.md)
 _Context: Abia State, Germany, Nigeria_
 
-### [The ''Cheonan'', which was destroyed in the Baengnyeong incident, is recovered. ](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.md)
+### [The "Cheonan", which was destroyed in the Baengnyeong incident, is recovered. ](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.md)
 _Context: Cheonan, sinking_
 
 ### [Mumbai's Oberoi Hotel reopens 18 months after sustaining damage in the 2008 Mumbai attacks. ](/news/2010/04/24/mumbai-s-oberoi-hotel-reopens-18-months-after-sustaining-damage-in-the-2008-mumbai-attacks.md)

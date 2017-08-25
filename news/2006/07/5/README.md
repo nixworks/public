@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Light Sweet Crude futures close at an all-time high at $75.19/barrel, with an intraday all-time high of $75.40/barrel in New York. Analysts have downplayed the effect of North Korea's missile launch. ](/news/2006/07/5/light-sweet-crude-futures-close-at-an-all-time-high-at-75-19-barrel-with-an-intraday-all-time-high-of-75-40-barrel-in-new-york-analysts.md)
 _Context: New York City, North Korea, crude oil_
 
-### [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64.  ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md)
+### [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64. ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md)
 _Context: Enron, Kenneth Lay, heart attack_
 
 ### [ A North Korean state-run broadcaster states that his country is ready to cope with any provocation by the United States. ](/news/2006/07/5/a-north-korean-state-run-broadcaster-states-that-his-country-is-ready-to-cope-with-any-provocation-by-the-united-states.md)
@@ -21,7 +21,7 @@ _Context: EDT, GMT, New Jersey, U.S. state, casino_
 ### [ North Korea launches a 7th missile, despite earlier condemnation of its earlier tests. One of the missiles landed "near Russian territory." The U.N. Security Council has scheduled an emergency meeting for Wednesday, and Japan warns of economic sanctions against the country. ](/news/2006/07/5/north-korea-launches-a-7th-missile-despite-earlier-condemnation-of-its-earlier-tests-one-of-the-missiles-landed-near-russian-territory.md)
 Japan drafted a U.N. Security Council resolution condemning North Korea Wednesday after Pyongyang test-fired a long-range missile earlier in the day.
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains): Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. ](/news/2006/07/5/israeli-palestinian-conflict-operation-summer-rains-p-israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-str.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):. Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. ](/news/2006/07/5/israeli-palestinian-conflict-operation-summer-rains-israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-str.md)
 Security forces nab terrorist, foil large-scale attack after deploying in great numbers across Samaria area. Meanwhile, IDF forces kill Fatah operative in Jericho 
 
 ## [Previous Day...](/news/2006/07/4/index.md)

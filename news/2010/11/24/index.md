@@ -1,9 +1,9 @@
 ## [2010-11-24](/news/2010/11/24/index.md)
 
-### [Shelling of Yeonpyeong:The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-pthe-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md)
+### [Shelling of Yeonpyeong:. The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md)
 The bodies of two civilians are found on the South Korean island of Yeonpyeong, shelled during the attack by North Korea.
 
-### [Debut novellist Amy Sackville wins the John Llewellyn Rhys Prize for her novel ''The Still Point''. ](/news/2010/11/24/debut-novellist-amy-sackville-wins-the-john-llewellyn-rhys-prize-for-her-novel-the-still-point.md)
+### [Debut novellist Amy Sackville wins the John Llewellyn Rhys Prize for her novel "The Still Point". ](/news/2010/11/24/debut-novellist-amy-sackville-wins-the-john-llewellyn-rhys-prize-for-her-novel-the-still-point.md)
 _Context: Amy Sackville, John Llewellyn Rhys Prize, The Still Point_
 
 ### [Workers in Portugal hold a general strike to protest against proposed cuts to wages. ](/news/2010/11/24/workers-in-portugal-hold-a-general-strike-to-protest-against-proposed-cuts-to-wages.md)
@@ -30,7 +30,7 @@ _Context: Australia's government, Montara oil spill, PTT Public Company Limited,
 ### [The United Nations and Pan American Health Organization estimate that the number of cases in the 2010 Haiti cholera outbreak could reach more than 200,000 in the next three months. ](/news/2010/11/24/the-united-nations-and-pan-american-health-organization-estimate-that-the-number-of-cases-in-the-2010-haiti-cholera-outbreak-could-reach-mor.md)
 The cholera epidemic in Haiti is spreading much faster than predicted, the UN says, and could cause 200,000 cases in the next three months.
 
-### [Former United States House of Representatives Majority Leader and former ''Dancing with the Stars'' contestant Tom DeLay is convicted of money laundering and conspiracy in relation to Republican fundraising for the 2002 Texas state elections. ](/news/2010/11/24/former-united-states-house-of-representatives-majority-leader-and-former-dancing-with-the-stars-contestant-tom-delay-is-convicted-of-mon.md)
+### [Former United States House of Representatives Majority Leader and former "Dancing with the Stars" contestant Tom DeLay is convicted of money laundering and conspiracy in relation to Republican fundraising for the 2002 Texas state elections. ](/news/2010/11/24/former-united-states-house-of-representatives-majority-leader-and-former-dancing-with-the-stars-contestant-tom-delay-is-convicted-of-money.md)
 A Texas jury on Wednesday found former Republican House Majority Leader Tom DeLay, dubbed &quot;The Hammer&quot; for his hard-driving style, guilty of money laundering and conspiracy.
 
 ### [Brazilian police shoot dead at least thirteen people in Rio de Janeiro following a wave of violence by suspected drug traffickers. ](/news/2010/11/24/brazilian-police-shoot-dead-at-least-thirteen-people-in-rio-de-janeiro-following-a-wave-of-violence-by-suspected-drug-traffickers.md)

@@ -3,7 +3,7 @@
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
 _Context: Afghanistan's, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly fire, testimony_
 
-### [ At least ten people are killed and 120 injured as a severe storm hits the twin towns of Eagle Pass, Texas, and Piedras Negras, Coahuila, on the  U.S.-Mexico border. ](/news/2007/04/24/at-least-ten-people-are-killed-and-120-injured-as-a-severe-storm-hits-the-twin-towns-of-eagle-pass-texas-and-piedras-negras-coahuila-on.md)
+### [ At least ten people are killed and 120 injured as a severe storm hits the twin towns of Eagle Pass, Texas, and Piedras Negras, Coahuila, on the U.S.-Mexico border. ](/news/2007/04/24/at-least-ten-people-are-killed-and-120-injured-as-a-severe-storm-hits-the-twin-towns-of-eagle-pass-texas-and-piedras-negras-coahuila-on.md)
 _Context: Eagle Pass, Texas, Piedras Negras, Coahuila, U.S.-Mexico border, storm_
 
 ### [ Jadarite, a mineral of the same composition as Superman's Kryptonite, has been found in a Serbian mine. ](/news/2007/04/24/jadarite-a-mineral-of-the-same-composition-as-superman-s-kryptonite-has-been-found-in-a-serbian-mine.md)

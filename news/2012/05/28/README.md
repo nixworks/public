@@ -1,9 +1,9 @@
 ## [2012-05-28](/news/2012/05/28/index.md)
 
-### [Arab Spring:Syrian uprising:The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-psyrian-uprising-pthe-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the-p.md)
+### [Arab Spring:. Syrian uprising:. The Syrian opposition claims that the Syrian Army has killed at least 41 people in the city of Hama over the past day. ](/news/2012/05/28/arab-spring-syrian-uprising-the-syrian-opposition-claims-that-the-syrian-army-has-killed-at-least-41-people-in-the-city-of-hama-over-the.md)
 The Syrian army&#39;s bombardment of the city of Hama kills at least 41 people.
 
-### [Colombian armed conflict (1964-present):The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that  Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964apresent-pthe-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md)
+### [Colombian armed conflict (1964-present):. The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/colombian-armed-conflict-1964-present-the-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois.md)
 Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapped Frenchjournalist appeared relaxed while chatting with the guerrillafighters that took him hostage a month ago.
 
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
@@ -18,11 +18,11 @@ The Justice for Magdalenes campaign group has discovered that women were transfe
 ### [Against Me! singer Laura Jane Grace performs in public for the first time since announcing she is transgender. ](/news/2012/05/28/against-me-singer-laura-jane-grace-performs-in-public-for-the-first-time-since-announcing-she-is-transgender.md)
 _Context: Against Me!, Laura Jane Grace_
 
-### [An image of Brett Murray's controversial painting ''The Spear'' is removed from a the website of a South African newspaper. ](/news/2012/05/28/an-image-of-brett-murray-s-controversial-painting-the-spear-is-removed-from-a-the-website-of-a-south-african-newspaper.md)
+### [An image of Brett Murray's controversial painting "The Spear" is removed from a the website of a South African newspaper. ](/news/2012/05/28/an-image-of-brett-murray-s-controversial-painting-the-spear-is-removed-from-a-the-website-of-a-south-african-newspaper.md)
 A South African newspaper removes from its website an image of a controversial painting of President Jacob Zuma with his genitals exposed following threats by ANC supporters.
 
-### [''Awaara'' has been included in the All-Time 100 greatest films by the ''Time Magazine''. ](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine.md)
-TIME&#039;s critic updates our All-TIME 100 list of the greatest films made since 1923 — the beginning of TIME — with 20 new entries
+### ["Awaara" has been included in the All-Time 100 greatest films by the "Time Magazine". [http://entertainment.time.com/2012/05/17/movie-masterpieces-richard-corliss-expands-times-list-of-cinematic-greats/slide/awaara/ "(Time Entertainment)"]](/news/2012/05/28/awaara-has-been-included-in-the-all-time-100-greatest-films-by-the-time-magazine-http-entertainment-time-com-2012-05-17-movie-master.md)
+_Context: All-Time 100 greatest films, Awaara, Time_
 
 ### [Financial irregularities are revealed at Bloxham Stockbrokers. ](/news/2012/05/28/financial-irregularities-are-revealed-at-bloxham-stockbrokers.md)
 Bloxham Stockbrokers has agreed to transfer all its private client and fund management business to Davy&#39;s after financial irregularities were uncovered at the firm.
@@ -36,7 +36,7 @@ A fire at a shopping centre in the Qatari capital Doha kills at least 19 people,
 ### [Prime Minister of India Manmohan Singh makes the first official visit to Myanmar by an Indian PM since 1987. ](/news/2012/05/28/prime-minister-of-india-manmohan-singh-makes-the-first-official-visit-to-myanmar-by-an-indian-pm-since-1987.md)
 Manmohan Singh is meeting President Thein Sein as he makes the first official visit to Burma by an Indian prime minister since 1987.
 
-### [Leveson Inquiry:Former British Prime Minister Tony Blair tells the Leveson Inquiry he had a "working relationship" with News Corporation chairman Rupert Murdoch, but that Murdoch did not influence policy during his time in office. ](/news/2012/05/28/leveson-inquiry-pformer-british-prime-minister-tony-blair-tells-the-leveson-inquiry-he-had-a-working-relationship-with-news-corporation-ch.md)
+### [Leveson Inquiry:. Former British Prime Minister Tony Blair tells the Leveson Inquiry he had a "working relationship" with News Corporation chairman Rupert Murdoch, but that Murdoch did not influence policy during his time in office. ](/news/2012/05/28/leveson-inquiry-former-british-prime-minister-tony-blair-tells-the-leveson-inquiry-he-had-a-working-relationship-with-news-corporation-c.md)
 Ex-Prime Minister Tony Blair tells the Leveson Inquiry his friendship with Rupert Murdoch was &quot;a working relationship&quot; until he left office.
 
 ### [The Parliament of Malawi reverts the Flag of Malawi to the original version used between 1964 to 2010. The outgoing flag was introduced in 2010 by the late President Bingu wa Mutharika. ](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.md)

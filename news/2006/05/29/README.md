@@ -1,6 +1,6 @@
 ## [2006-05-29](/news/2006/05/29/index.md)
 
-### [ A  labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded.  ](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.md)
+### [ A labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded. ](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.md)
 _Context:  labor dispute, TTC_
 
 ### [ In the Italian municipal elections, centre-left incumbent mayors Walter Veltroni, Sergio Chiamparino and Rosa Russo Iervolino lead in Rome, Turin and Naples, respectively. In the regional election of Sicily, incumbent president Salvatore Cuffaro of the House of Freedoms leads over Rita Borsellino. ](/news/2006/05/29/in-the-italian-municipal-elections-centre-left-incumbent-mayors-walter-veltroni-sergio-chiamparino-and-rosa-russo-iervolino-lead-in-rome.md)
@@ -9,7 +9,7 @@ _Context: House of Freedoms, Italian municipal elections, Naples, Rita Borsellin
 ### [ In Kabul, Afghanistan, thousands demonstrate against the United States after several civilians were killed in a car accident in which 3 US humvees collided with a traffic jam. ](/news/2006/05/29/in-kabul-afghanistan-thousands-demonstrate-against-the-united-states-after-several-civilians-were-killed-in-a-car-accident-in-which-3-us.md)
 _Context: Afghanistan's, Kabul, United States_
 
-### [ ''The Times'' reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder.md)
+### [ "The Times" reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder-of.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ The Lebanese-based Hezbollah group threatens Israel with Iranian-made rockets. ](/news/2006/05/29/the-lebanese-based-hezbollah-group-threatens-israel-with-iranian-made-rockets.md)

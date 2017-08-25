@@ -1,12 +1,12 @@
 ## [2011-07-29](/news/2011/07/29/index.md)
 
-### [An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md)
+### [2011 Syrian uprising. An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/2011-syrian-uprising-an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md)
 Syrian forces shot dead at least 20 civilians in attacks on pro-democracy demonstrations across the country on Friday, the Syrian human rights organization Sawasiah said.
 
 ### [2011 Bahraini uprising: King Hamad bin Isa Al Khalifa approves parliamentary reforms, which are rejected by opposition groups. ](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.md)
 Elected lower house to have more power but opposition unimpressed as appointed upper house retains political dominance.
 
-### [2011 Tunisian revolution: Former President Zine El Abidine Ben Ali is sentenced ''in absentia'' to 16 years imprisonment for corruption. ](/news/2011/07/29/2011-tunisian-revolution-former-president-zine-el-abidine-ben-ali-is-sentenced-in-absentia-to-16-years-imprisonment-for-corruption.md)
+### [2011 Tunisian revolution: Former President Zine El Abidine Ben Ali is sentenced "in absentia" to 16 years imprisonment for corruption. ](/news/2011/07/29/2011-tunisian-revolution-former-president-zine-el-abidine-ben-ali-is-sentenced-in-absentia-to-16-years-imprisonment-for-corruption.md)
 _Context: 2011 Tunisian revolution, President of Tunisia, Zine El Abidine Ben Ali, in absentia_
 
 ### [Johnson & Johnson announced that it will lower the maximum daily dosage of one of its signature products, Extra Strength Tylenol, in order to reduce the risk of liver damage. ](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.md)
@@ -36,10 +36,10 @@ The chief of the Turkish armed forces, Isik Kosaner, resigns along with the head
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-### [The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-phone-hacking-says-that-he-acted-on-the-in.md)
+### [News International phone hacking scandal. The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/news-international-phone-hacking-scandal-the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-ph.md)
 Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, &quot;acted on the instructions of others&quot;, his legal team says.
 
-### [Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. ''The Sun'' and ''Daily Mirror'' are also fined for contempt of court in their reporting of the investigation. ](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-investigation-into-the-murder-of-joanna-yeates-accepts-substantial-libel-damages-from-eigh.md)
+### [Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. "The Sun" and "Daily Mirror" are also fined for contempt of court in their reporting of the investigation. ](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-investigation-into-the-murder-of-joanna-yeates-accepts-substantial-libel-damages-from-eigh.md)
 _Context: Daily Mirror, The Sun, contempt of court, investigation into the murder of Joanna Yeates_
 
 ### [UK based Internet blogger Bilal Zaheer Ahmad is sentenced to 12 years imprisonment after admitting using his blog to solicit the murder of MPs who voted for the Iraq War. ](/news/2011/07/29/uk-based-internet-blogger-bilal-zaheer-ahmad-is-sentenced-to-12-years-imprisonment-after-admitting-using-his-blog-to-solicit-the-murder-of-m.md)

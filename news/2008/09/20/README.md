@@ -12,7 +12,7 @@ _Context: Galveston Island, Hurricane Ike, Texas_
 ### [ The Bush administration asks the United States Congress for $700 billion to buy mortgage-related assets to try to resolve the subprime mortgage crisis. ](/news/2008/09/20/the-bush-administration-asks-the-united-states-congress-for-700-billion-to-buy-mortgage-related-assets-to-try-to-resolve-the-subprime-mort.md)
 _Context: George W. Bush administration, United States Congress, housing crisis_
 
-### [ War in North-West Pakistan: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-p-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md)
+### [ War in North-West Pakistan:. A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md)
 _Context: Pakistan army, War in North-West Pakistan, suicide bomber_
 
 ### [ South African President Thabo Mbeki agrees to resign after the ruling African National Congress requested him to step down.](/news/2008/09/20/south-african-president-thabo-mbeki-agrees-to-resign-after-the-ruling-african-national-congress-requested-him-to-step-down.md)

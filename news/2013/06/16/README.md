@@ -3,7 +3,7 @@
 ### [A series of car bombings by insurgents across central and southern Iraq kill at least twenty people. ](/news/2013/06/16/a-series-of-car-bombings-by-insurgents-across-central-and-southern-iraq-kill-at-least-twenty-people.md)
 At least 30 people have been killed in a wave of car bombings across central and southern Iraq, police and medics say.
 
-### [The Quaid-e-Azam Residency, a heritage site  in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
+### [The Quaid-e-Azam Residency, a heritage site in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
 _Context: Balochistan Liberation Army, Pakistan, Quaid-e-Azam Residency, Ziarat, attack_
 
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
@@ -13,7 +13,7 @@ _Context: Pakistan_
 Four men including a police officer are in hospital after being stabbed during an attack at a mosque in the English city of Birmingham.
 
 ### [Colombian police rescue two kidnapped Spanish tourists. ](/news/2013/06/16/colombian-police-rescue-two-kidnapped-spanish-tourists.md)
-### [''Man of Steel'' sets an all-time June record by grossing an estimated US$113 million in its opening weekend in the United States and Canada. ](/news/2013/06/16/man-of-steel-sets-an-all-time-june-record-by-grossing-an-estimated-us-113-million-in-its-opening-weekend-in-the-united-states-and-canada.md)
+### ["Man of Steel" sets an all-time June record by grossing an estimated US$113 million in its opening weekend in the United States and Canada. ](/news/2013/06/16/man-of-steel-sets-an-all-time-june-record-by-grossing-an-estimated-us-113-million-in-its-opening-weekend-in-the-united-states-and-canada.md)
 _Context: Man of Steel_
 
 ### [Kim Kardashian gives birth to a daughter. ](/news/2013/06/16/kim-kardashian-gives-birth-to-a-daughter.md)

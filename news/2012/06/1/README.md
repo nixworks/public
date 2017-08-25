@@ -3,7 +3,7 @@
 ### [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md)
 _Context: China, Cuba, Houla, Human Rights Council, Russia, Syrian uprising (2011-present), massacre_
 
-### [''The New York Times'' reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-st.md)
+### ["The New York Times" reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-stux.md)
 Even after the Stuxnet computer worm became public, President Obama accelerated cyberattacks against Iran that had begun in the Bush administration, temporarily disabling 1,000 centrifuges.
 
 ### [An armed Palestinian infiltrator and an Israeli soldier are killed during an exchange of fire along the Gaza border, and at least three militants are injured during an Israeli air strike on Gaza. ](/news/2012/06/1/an-armed-palestinian-infiltrator-and-an-israeli-soldier-are-killed-during-an-exchange-of-fire-along-the-gaza-border-and-at-least-three-mili.md)

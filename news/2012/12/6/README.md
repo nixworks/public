@@ -1,12 +1,12 @@
 ## [2012-12-6](/news/2012/12/6/index.md)
 
-### [2012 Egyptian protests:At least 7 people are killed and more than 770 are injured during clashes between supporters and opponents of the President of Egypt Mohamed Morsi in front of the Presidential Palace in Cairo. The Egyptian Army deploys several tanks and armoured troop carriers to secure the building. ](/news/2012/12/6/2012-egyptian-protests-pat-least-7-people-are-killed-and-more-than-770-are-injured-during-clashes-between-supporters-and-opponents-of-the-pr.md)
+### [2012 Egyptian protests:. At least 7 people are killed and more than 770 are injured during clashes between supporters and opponents of the President of Egypt Mohamed Morsi in front of the Presidential Palace in Cairo. The Egyptian Army deploys several tanks and armoured troop carriers to secure the building. ](/news/2012/12/6/2012-egyptian-protests-at-least-7-people-are-killed-and-more-than-770-are-injured-during-clashes-between-supporters-and-opponents-of-the-p.md)
 At least four people killed and 300 others injured as supporters and opponents of President Morsi clash in Cairo.
 
-### [War in Afghanistan (2001-present):The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001apresent-pthe-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-attem.md)
+### [War in Afghanistan (2001-present):. The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001-present-the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-atte.md)
 Head of intelligence Asadullah Khalid survives assassination attempt in the capital, in attack claimed by the Taliban.
 
-### [2011-2012 conflict in Lebanon:At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011a2012-conflict-in-lebanon-pat-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebanon.md)
+### [2011-2012 conflict in Lebanon:. At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011-2012-conflict-in-lebanon-at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebano.md)
 * Ten people killed since clashes started on Tuesday* Tensions high after Lebanese gunmen killed in Syria* Syrian FM says Lebanese go
 
 ### [The Duchess of Cambridge leaves hospital following treatment for severe morning sickness. ](/news/2012/12/6/the-duchess-of-cambridge-leaves-hospital-following-treatment-for-severe-morning-sickness.md)
@@ -39,13 +39,13 @@ _Context: Heritage Foundation, Jim DeMint, Republican, Senator_
 ### [In the Netherlands State Secretary for Economic Affairs Co Verdaas resigns following an expense-affair after only thirty-one days in office. ](/news/2012/12/6/in-the-netherlands-state-secretary-for-economic-affairs-co-verdaas-resigns-following-an-expense-affair-after-only-thirty-one-days-in-office.md)
 _Context: Co Verdaas, Economic Affairs, Netherlands, State Secretary, expense_
 
-### [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jacksonavanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md)
+### [The U.S. Senate votes to repeal the Jackson-Vanik amendment, a long-standing trade restriction with Russia. In its place, the Magnitsky bill is adopted instead. The law requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death of Sergei Magnitsky three years ago. ](/news/2012/12/6/the-u-s-senate-votes-to-repeal-the-jackson-vanik-amendment-a-long-standing-trade-restriction-with-russia-in-its-place-the-magnitsky-bi.md)
 Russia denounces an &quot;absurd&quot; trade bill passed by the US Congress that will also penalise Russian officials linked to human rights violations.
 
 ### [NASA's twin GRAIL probes have revealed the surface of the Moon in unprecedented detail, showing unexpectedly-deep cracks, craters and tectonic structures. ](/news/2012/12/6/nasa-s-twin-grail-probes-have-revealed-the-surface-of-the-moon-in-unprecedented-detail-showing-unexpectedly-deep-cracks-craters-and-tecton.md)
 The scale of the battering the Moon received early in its history is revealed in remarkable new data from two Nasa satellites.
 
-### [The extinct reptile ''Nyasasaurus'' is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanza.md)
+### [The extinct reptile "Nyasasaurus" is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanzani.md)
 Dinosaurs originated 15 million years earlier than previously thought.
 
 ## [Previous Day...](/news/2012/12/5/index.md)

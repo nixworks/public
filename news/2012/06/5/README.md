@@ -6,7 +6,7 @@ _Context: Los Zetas, Mexican Drug War, Sinaloa, Sinaloa Cartel_
 ### [Azerbaijan accuses Armenia of shooting dead five of its soldiers on the border of those two countries, a day after three Armenians were killed. ](/news/2012/06/5/azerbaijan-accuses-armenia-of-shooting-dead-five-of-its-soldiers-on-the-border-of-those-two-countries-a-day-after-three-armenians-were-kill.md)
 _Context: 2012 Armenian-Azeri border clashes, Armenia, Azerbaijan_
 
-### [Diamond Jubilee of Elizabeth II:Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-pelizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-ca.md)
+### [Diamond Jubilee of Elizabeth II:. Elizabeth II attends a lunch at Westminster Hall following the Jubilee thanksgiving service at St Paul's Cathedral. Celebrations ends with a flypast by the Red Arrows. ](/news/2012/06/5/diamond-jubilee-of-elizabeth-ii-elizabeth-ii-attends-a-lunch-at-westminster-hall-following-the-jubilee-thanksgiving-service-at-st-paul-s-c.md)
 Four days of Diamond Jubilee events culminate in an appearance by the Queen on the Buckingham Palace balcony in front of huge crowds and an RAF flypast.
 
 ### [Starbucks Corporation is embroiled in controversy after asking its Irish customers if they are "proud to be British." ](/news/2012/06/5/starbucks-corporation-is-embroiled-in-controversy-after-asking-its-irish-customers-if-they-are-proud-to-be-british.md)

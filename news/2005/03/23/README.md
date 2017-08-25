@@ -1,6 +1,6 @@
 ## [2005-03-23](/news/2005/03/23/index.md)
 
-### [ An explosion occurs at a BP oil refinery in Texas City, Texas.  Over 100 are injured, and at least 15 are dead. ](/news/2005/03/23/an-explosion-occurs-at-a-bp-oil-refinery-in-texas-city-texas-over-100-are-injured-and-at-least-15-are-dead.md)
+### [ An explosion occurs at a BP oil refinery in Texas City, Texas. Over 100 are injured, and at least 15 are dead. ](/news/2005/03/23/an-explosion-occurs-at-a-bp-oil-refinery-in-texas-city-texas-over-100-are-injured-and-at-least-15-are-dead.md)
 Explosion said to have caused homes to shake homes as far as 5 miles away; over 100 injured.
 
 ### [ Rainier III, Prince of Monaco reportedly has gone into renal and heart failure and is on a ventilator. ](/news/2005/03/23/rainier-iii-prince-of-monaco-reportedly-has-gone-into-renal-and-heart-failure-and-is-on-a-ventilator.md)

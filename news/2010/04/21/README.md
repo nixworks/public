@@ -6,7 +6,7 @@ _Context: International Olympic Committee, Juan Antonio Samaranch_
 ### [52 civilians are killed and 55 others are wounded in renewed tribal clashes in Sudan's South Darfur state. ](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.md)
 _Context: South Darfur_
 
-### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-a-pregnant-woman-and-her-baby-whose-b.md)
+### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-pregnant-woman-and-her-baby-whose-b.md)
 _Context: Pretoria, Rovos Rail, South Africa_
 
 ### [Poland announces the date of its presidential election &mdash; June 20 &mdash; to elect plane crash victim Lech Kaczynski's successor. ](/news/2010/04/21/poland-announces-the-date-of-its-presidential-election-mdash-june-20-mdash-to-elect-plane-crash-victim-lech-kaczyaski-s-successor.md)
@@ -27,7 +27,7 @@ Police fire tear gas after thousands of war veterans attempt to storm government
 ### [The Asadho human rights group says the Democratic Republic of the Congo's army killed at least 11 civilians at the airport in Mbandaka this month. ](/news/2010/04/21/the-asadho-human-rights-group-says-the-democratic-republic-of-the-congo-s-army-killed-at-least-11-civilians-at-the-airport-in-mbandaka-this.md)
 _Context: Asadho, Democratic Republic of the Congo, Mbandaka_
 
-### [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial  Belo Monte hydroelectric project  by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumpin.md)
+### [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumping.md)
 _Context: ANEEL, Agencia Nacional de Energia Eletrica, Belo Monte Dam, Brasilia, Greenpeace India's, National Electric Energy Agency, manure_
 
 ### [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md)
@@ -48,13 +48,13 @@ _Context: an earthquake struck on 14 April_
 ### [Nicolas Sarkozy speaks out against the niqab, telling a cabinet meeting it "hurts the dignity of women and is not acceptable in French society", as his government moves to outlaw the garment. ](/news/2010/04/21/nicolas-sarkozy-speaks-out-against-the-niqab-telling-a-cabinet-meeting-it-hurts-the-dignity-of-women-and-is-not-acceptable-in-french-soci.md)
 Nicolas Sarkozy speaks out against niqab as government moves to outlaw garment.
 
-### [The U.S. Obama administration charges that Sudan's recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly.  ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudanas-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md)
+### [The U.S. Obama administration charges that Sudan-s recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudan-s-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md)
 The White House charged that Sudan’s recent election, the first multiparty vote in more than 20 years, was plagued by ”serious irregularities.”
 
 ### [Algeria, Mali, Mauritania and Niger launch a joint command centre in Tamanrasset to counter al-Qaeda, according to the Algerian defence ministry. ](/news/2010/04/21/algeria-mali-mauritania-and-niger-launch-a-joint-command-centre-in-tamanrasset-to-counter-al-qaeda-according-to-the-algerian-defence-mini.md)
 Four countries to launch joint command centre in Algerian city to counter growing threat.
 
-### [The British government announces that British airports will reopen and passenger flights will resume, but officials caution that it will take time for flight schedules to return to normal after the six-day shutdown caused by  volcanic ash from the 2010 eruptions of the Eyjafjallajokull volcano. ](/news/2010/04/21/the-british-government-announces-that-british-airports-will-reopen-and-passenger-flights-will-resume-but-officials-caution-that-it-will-tak.md)
+### [The British government announces that British airports will reopen and passenger flights will resume, but officials caution that it will take time for flight schedules to return to normal after the six-day shutdown caused by volcanic ash from the 2010 eruptions of the Eyjafjallajokull volcano. ](/news/2010/04/21/the-british-government-announces-that-british-airports-will-reopen-and-passenger-flights-will-resume-but-officials-caution-that-it-will-tak.md)
 Airports around the United Kingdom will reopen in about an hour and passenger flights will resume, the British government has announced. But aviation officials cautioned that it would take time for flight schedules to return to normal after the six-day shutdown because of volcanic ash.
 
 ### [Police in Himachal Pradesh arrest Paramhamsa Nityananda, a Hindu holy man who faces charges of obscenity after he fondles two women in bed on television. ](/news/2010/04/21/police-in-himachal-pradesh-arrest-paramhamsa-nityananda-a-hindu-holy-man-who-faces-charges-of-obscenity-after-he-fondles-two-women-in-bed-o.md)
@@ -66,7 +66,7 @@ _Context: Arab, Syria_
 ### [U.S. pop singer Kelly Clarkson is criticised by anti-smoking groups in Indonesia and the United States for promoting cigarettes at an upcoming concert in Jakarta. ](/news/2010/04/21/u-s-pop-singer-kelly-clarkson-is-criticised-by-anti-smoking-groups-in-indonesia-and-the-united-states-for-promoting-cigarettes-at-an-upcomi.md)
 _Context: Indonesia, Jakarta, Kelly Clarkson, United States_
 
-### [Five men accused of conspiring to extort PS4.25 million for the safe return of ''Madonna of the Yarnwinder'', an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-aps4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md)
+### [Five men accused of conspiring to extort GBP4.25 million for the safe return of "Madonna of the Yarnwinder", an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md)
 _Context: Leonardo da Vinci, Madonna of the Yarnwinder, oil painting_
 
 ### [Cirque du Soleil announces it will stage a live tour featuring the works of Michael Jackson. ](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.md)

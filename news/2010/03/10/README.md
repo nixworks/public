@@ -1,6 +1,6 @@
 ## [2010-03-10](/news/2010/03/10/index.md)
 
-### [Interreligious riots in Nigerian soldiers open fire on a crowd after curfew in Jos, killing two people, days after Muslim-Christian riots in the area left more than 200 dead including dozens of children ](/news/2010/03/10/interreligious-riots-in-nigerian-soldiers-open-fire-on-a-crowd-after-curfew-in-jos-killing-two-people-days-after-muslim-christian-riots-in.md)
+### [Interreligious riots in Jos. Nigeria. Nigerian soldiers open fire on a crowd after curfew in Jos, killing two people, days after Muslim-Christian riots in the area left more than 200 dead including dozens of children ](/news/2010/03/10/interreligious-riots-in-jos-nigeria-nigerian-soldiers-open-fire-on-a-crowd-after-curfew-in-jos-killing-two-people-days-after-muslim-chri.md)
 _Context: Jos, Nigeria, events earlier this year_
 
 ### [Britain, France and the EU support U.S. Vice President Joe Biden's condemnation of Israeli expansion of settlements in occupied territory. ](/news/2010/03/10/britain-france-and-the-eu-support-u-s-vice-president-joe-biden-s-condemnation-of-israeli-expansion-of-settlements-in-occupied-territory.md)
@@ -21,7 +21,7 @@ _Context: 2002 Bali bombings, Australia, Dulmatin, Jakarta, Pamulang, Susilo Bam
 ### [Aid worker Alicia Gamez, captured in Mauritania in 2009 by a group affiliated with Al Qaeda and taken to Mali, is released. ](/news/2010/03/10/aid-worker-alicia-gamez-captured-in-mauritania-in-2009-by-a-group-affiliated-with-al-qaeda-and-taken-to-mali-is-released.md)
 _Context: Mali, Mauritanian, al-Qaeda_
 
-### [Boris Berezovsky is awarded 150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-ps150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexander.md)
+### [Boris Berezovsky is awarded GBP150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-gbp150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexand.md)
 Boris Berezovsky won &pound;150,000 High Court libel damages over claims on a Russian TV broadcast about the radiation poisoning murder of Alexander Litvinenko.
 
 ### [A man wrongly accused of being child murderer Jon Venables goes into hiding after becoming the target of a hate campaign on the internet. ](/news/2010/03/10/a-man-wrongly-accused-of-being-child-murderer-jon-venables-goes-into-hiding-after-becoming-the-target-of-a-hate-campaign-on-the-internet.md)
@@ -30,7 +30,7 @@ A man, David Calvert, has gone into hiding, fearful for his life after he was wr
 ### [The birth of a live elephant at Taronga Zoo is hailed as a "miracle" that will "completely rewrite the elephant birth textbooks" after he was thought to have died inside his mother's womb. ](/news/2010/03/10/the-birth-of-a-live-elephant-at-taronga-zoo-is-hailed-as-a-miracle-that-will-completely-rewrite-the-elephant-birth-textbooks-after-he-wa.md)
 _Context: Taronga Zoo_
 
-### [''Forbes'' magazine publishes its 2010 list of billionaires, replacing Bill Gates with Carlos Slim as the world's wealthiest person. ](/news/2010/03/10/forbes-magazine-publishes-its-2010-list-of-billionaires-replacing-bill-gates-with-carlos-slim-as-the-world-s-wealthiest-person.md)
+### ["Forbes" magazine publishes its 2010 list of billionaires, replacing Bill Gates with Carlos Slim as the world's wealthiest person. ](/news/2010/03/10/forbes-magazine-publishes-its-2010-list-of-billionaires-replacing-bill-gates-with-carlos-slim-as-the-world-s-wealthiest-person.md)
 Carlos Slim Helu takes No. 1 spot on Forbes World&#39;s Billionaires list as a record 164 10-figure titans return to the ranking amid the global economic recovery.
 
 ## [Previous Day...](/news/2010/03/9/index.md)

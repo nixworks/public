@@ -1,6 +1,6 @@
 ## [2011-03-3](/news/2011/03/3/index.md)
 
-### [2011 Libyan civil war:The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/2011-libyan-civil-war-pthe-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to.md)
+### [2011 Libyan civil war:. The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/2011-libyan-civil-war-the-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to.md)
 The son of a retired Libyan academic fears the worst for his father and three brothers after they are kidnapped by Moamar Gaddafi&#039;s forces in Tripoli.
 
 ### [Japanese jets scramble to react to Chinese military aircraft which flew close to the disputed Senkaku Islands. ](/news/2011/03/3/japanese-jets-scramble-to-react-to-chinese-military-aircraft-which-flew-close-to-the-disputed-senkaku-islands.md)
@@ -60,7 +60,7 @@ _Context: Needham, Massachusetts, indicted, nurse practitioner_
 ### [Republicans submit a bill to the U.S. congress that would prohibit the Environmental Protection Agency from regulating greenhouse gasses as pollutants.](/news/2011/03/3/republicans-submit-a-bill-to-the-u-s-congress-that-would-prohibit-the-environmental-protection-agency-from-regulating-greenhouse-gasses-as.md)
 Republicans in both chambers of Congress introduced bills on Thursday that would permanently stop the Environmental Protection Agency from regulating emissions blamed for warming the planet.
 
-### [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia.  However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governme.md)
+### [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia. However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governmen.md)
 _Context: Congress of New Caledonia, Harold Martin, President of New Caledonia_
 
 ### [P. J. Thomas, India's chief of anti-corruption, resigns over charges brought against him of corruption stemming from 1992. ](/news/2011/03/3/p-j-thomas-india-s-chief-of-anti-corruption-resigns-over-charges-brought-against-him-of-corruption-stemming-from-1992.md)
@@ -69,7 +69,7 @@ _Context: anti-corruption_
 ### [Ahmed Shafiq resigns as the Prime Minister of Egypt and is replaced by former transport minister Essam Sharaf. ](/news/2011/03/3/ahmed-shafiq-resigns-as-the-prime-minister-of-egypt-and-is-replaced-by-former-transport-minister-essam-sharaf.md)
 _Context: Ahmed Shafiq, Essam Sharaf, prime minister_
 
-### [The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
+### [2011 Wisconsin budget protests. The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/2011-wisconsin-budget-protests-the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
 Although the consitutionality of their proposal is questionable, Senate Republicans Thursday ordered the arrest of their 14 Democratic colleagues, who fled the state two weeks ago to avoid a vote
 
 ### [Harvard University welcomes the United States Reserve Officer Training Corps program back on campus following the lifting of the bans on gays in the military. ](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.md)
@@ -87,7 +87,7 @@ _Context: Fouad Mebazaa, President of Tunisia, constitution_
 ### [The UK Government releases 35 formerly classified files related to sightings of unidentified flying objects. ](/news/2011/03/3/the-uk-government-releases-35-formerly-classified-files-related-to-sightings-of-unidentified-flying-objects.md)
 The government Thursday released 35 previously classified files documenting sightings of unidentified flying objects (UFOs) by the military and members of the public dating back to the 1950s.
 
-### [''The Daily Telegraph'' claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. ](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.md)
+### ["The Daily Telegraph" claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. ](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.md)
 _Context: Daily Telegraph, Joachim Boldt, anaesthetist, colloid_
 
 ## [Previous Day...](/news/2011/03/2/index.md)

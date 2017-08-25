@@ -1,6 +1,6 @@
 ### [2012-12-3](/news/2012/12/3/index.md)
 
-# Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation ''The Woolworths Choir of 1979''. 
+# Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation "The Woolworths Choir of 1979". 
 
 Former 1980s pop musician Elizabeth Price was tonight awarded the Turner Prize for her “seductive and immersive” video trilogy, the first video artist to win for over a decade.
 

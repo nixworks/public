@@ -7,7 +7,7 @@ _Context: Kurgan Oblast, Russia_
 A small plane apparently low on fuel hit a power line and crashed into a wooded area near a West Virginia airport, killing all six people aboard, authorities said.
 
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Blackwater Worldwide, State Department's, United States, civilian contractor_
+_Context: Blackwater Worldwide, United States, United States State Department, civilian contractor_
 
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
 _Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
@@ -27,7 +27,7 @@ _Context: Britain, refinery, strike_
 ### [ Thirteen people are killed and 47 people are missing after a Nakumatt supermarket burns in Nairobi, Kenya. ](/news/2009/01/30/thirteen-people-are-killed-and-47-people-are-missing-after-a-nakumatt-supermarket-burns-in-nairobi-kenya.md)
 _Context: Kenya, Nairobi, Nakumatt, burns_
 
-### [ Norway announces it will raise the German submarine ''U-864'' from the North Sea. ](/news/2009/01/30/norway-announces-it-will-raise-the-german-submarine-u-864-from-the-north-sea.md)
+### [ Norway announces it will raise the German submarine "U-864" from the North Sea. ](/news/2009/01/30/norway-announces-it-will-raise-the-german-submarine-u-864-from-the-north-sea.md)
 _Context: Nazi, North Sea, Norway, U-864, submarine_
 
 ## [Previous Day...](/news/2009/01/29/index.md)

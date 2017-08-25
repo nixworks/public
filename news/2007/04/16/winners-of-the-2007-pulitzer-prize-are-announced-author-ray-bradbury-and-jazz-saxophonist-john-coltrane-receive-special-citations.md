@@ -11,4 +11,4 @@ Wedding pros offer unique tips to save and still have your dream wedding.
 
 ### Related:
 
-1. [Ray Bradbury, author of ''The Martian Chronicles'' and ''Fahrenheit 451'', dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborho.md) _Context: Ray Bradbury_
+1. [Ray Bradbury, author of "The Martian Chronicles" and "Fahrenheit 451", dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborhood-o.md) _Context: Ray Bradbury_

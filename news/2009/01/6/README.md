@@ -6,7 +6,7 @@ _Context: Barack Obama, CNN, President-elect, Sanjay Gupta, U.S. Surgeon General
 ### [ Russia's Gazprom alleges that Ukraine has blocked three key gas pipelines to Europe, making natural gas delivery there impossible. ](/news/2009/01/6/russia-s-gazprom-alleges-that-ukraine-has-blocked-three-key-gas-pipelines-to-europe-making-natural-gas-delivery-there-impossible.md)
 _Context: Europe, Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas, pipeline_
 
-### [ Israeli artillery strikes near a United Nations school in Gaza City,  killing at least 40 people. ](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.md)
+### [ Israeli artillery strikes near a United Nations school in Gaza City, killing at least 40 people. ](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.md)
 _Context: Gaza, Israel, United Nations, fire, ordnance_
 
 ### [ Kathmandu University students protest against the Nepali government's decision to replace Indian head priests at Pashupatinath Temple with Nepalis. ](/news/2009/01/6/kathmandu-university-students-protest-against-the-nepali-government-s-decision-to-replace-indian-head-priests-at-pashupatinath-temple-with.md)

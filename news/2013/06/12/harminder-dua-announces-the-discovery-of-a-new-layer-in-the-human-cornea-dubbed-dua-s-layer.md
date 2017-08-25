@@ -1,6 +1,6 @@
 ### [2013-06-12](/news/2013/06/12/index.md)
 
-# Harminder Dua announces the discovery of a new layer in the human cornea, dubbed '''Dua's layer'''. 
+# Harminder Dua announces the discovery of a new layer in the human cornea, dubbed "'Dua's layer"'. 
 
 Time to rewrite the textbooks!
 

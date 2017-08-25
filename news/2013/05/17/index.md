@@ -1,9 +1,9 @@
 ## [2013-05-17](/news/2013/05/17/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-more.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-mor.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal), Sunni, wave of violence_
 
-### [War in North-West Pakistan:Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-ptwo-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-wounding.md)
+### [War in North-West Pakistan:. Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/war-in-north-west-pakistan-two-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-woundin.md)
 _Context: Malakand District, Pakistan, War in North-West Pakistan_
 
 ### [The United States government paves the way for expanded exportation of natural gas by approving a US$10 billion facility in Texas. ](/news/2013/05/17/the-united-states-government-paves-the-way-for-expanded-exportation-of-natural-gas-by-approving-a-us-10-billion-facility-in-texas.md)

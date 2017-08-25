@@ -1,6 +1,6 @@
 ### [2015-02-13](/news/2015/02/13/index.md)
 
-# A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30.  
+# A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30. 
 
 At least 16 were killed and 30 injured in a collision between a freight train and a bus on a highway in the north of Mexico on Friday evening, an emergency official said.
 

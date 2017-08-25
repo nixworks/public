@@ -3,7 +3,7 @@
 ### [ Syria is reported to have handed over Saddam Husseins' half-brother, Sabawi Ibrahim al-Hasan al-Tikriti, to the interim Iraqi government. ](/news/2005/02/27/syria-is-reported-to-have-handed-over-saddam-husseins-half-brother-sabawi-ibrahim-al-hasan-al-tikriti-to-the-interim-iraqi-government.md)
 _Context: Iraq, Sabawi Ibrahim al-Hasan al-Tikriti, Saddam Hussein, Syria_
 
-### [ The World Health Organization's Framework Convention on Tobacco Control becomes legally binding upon ratifying countries.  ](/news/2005/02/27/the-world-health-organization-s-framework-convention-on-tobacco-control-becomes-legally-binding-upon-ratifying-countries.md)
+### [ The World Health Organization's Framework Convention on Tobacco Control becomes legally binding upon ratifying countries. ](/news/2005/02/27/the-world-health-organization-s-framework-convention-on-tobacco-control-becomes-legally-binding-upon-ratifying-countries.md)
 _Context: Framework Convention on Tobacco Control, World Health Organization, countries, legally binding, ratifying_
 
 ### [ A small bomb explodes at a hotel in Villajoyosa, Spain, after a warning by the Basque separatist group ETA. No one is injured. ](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.md)

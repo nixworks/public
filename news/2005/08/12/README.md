@@ -1,6 +1,6 @@
 ## [2005-08-12](/news/2005/08/12/index.md)
 
-### [  Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md)
+### [ Iraq War. Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/iraq-war-moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md)
 _Context: Iraq War, Mahdi Army, Moqtada Sadr, Shia_
 
 ### [ Sri Lankan Foreign Minister Lakshman Kadirgamar is assassinated by suspected Tamil Tigers sniper team in Colombo. ](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.md)
@@ -9,7 +9,7 @@ _Context: Colombo, Foreign Minister, Lakshman Kadirgamar, Sri Lanka, Tamil Tiger
 ### [ Kashmiri insurgents kill two defence committee soldiers and three members of their families, and injured nine others, three of them critically, in Mahore area of Udhampur district. ](/news/2005/08/12/kashmiri-insurgents-kill-two-defence-committee-soldiers-and-three-members-of-their-families-and-injured-nine-others-three-of-them-critica.md)
 _Context: Kashmir, Udhampur_
 
-### [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia.  Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-n.md)
+### [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia. Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-ni.md)
 _Context: Colombia, Ecuador, Pacific Ocean, United States, illegal migrants_
 
 ### [ At least 80 people have died from water-borne diseases and over 5,000 are sick in the western Indian state of Maharashtra following recent floods. ](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.md)

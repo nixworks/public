@@ -18,7 +18,7 @@ Boyzone star Stephen Gately died of natural causes, a Spanish court confirmed th
 ### [ New Zealand police say an autopsy on two-year-old Aisling Symes reveals she drowned. She had initially been thought abducted but lay in a drain for one week as police searched. ](/news/2009/10/13/new-zealand-police-say-an-autopsy-on-two-year-old-aisling-symes-reveals-she-drowned-she-had-initially-been-thought-abducted-but-lay-in-a-d.md)
 Police in New Zealand have confirmed the body of a child found in a drain in Auckland is that of two-year-old Aisling Symes.
 
-### [ A previously unrecognized painting, ''La Bella Principessa'', is attributed to Leonardo da Vinci on fingerprint evidence. ](/news/2009/10/13/a-previously-unrecognized-painting-la-bella-principessa-is-attributed-to-leonardo-da-vinci-on-fingerprint-evidence.md)
+### [ A previously unrecognized painting, "La Bella Principessa", is attributed to Leonardo da Vinci on fingerprint evidence. ](/news/2009/10/13/a-previously-unrecognized-painting-la-bella-principessa-is-attributed-to-leonardo-da-vinci-on-fingerprint-evidence.md)
 _Context: La Bella Principessa, Leonardo da Vinci, fingerprint_
 
 ### [ The Philippines deploys soldiers and gunboats to surround the strongholds of suspected militants and pressure them to release an abducted Irish priest. ](/news/2009/10/13/the-philippines-deploys-soldiers-and-gunboats-to-surround-the-strongholds-of-suspected-militants-and-pressure-them-to-release-an-abducted-i.md)
@@ -27,7 +27,7 @@ The Philippines deployed soldiers and gunboats Tuesday to surround the stronghol
 ### [ The Romanian government loses a motion of no confidence, the first government to fall in 20 years since the fall of communism in the country. ](/news/2009/10/13/the-romanian-government-loses-a-motion-of-no-confidence-the-first-government-to-fall-in-20-years-since-the-fall-of-communism-in-the-countr.md)
 The Democratic Liberal Government led by Emil Boc lost a censure motion vote in Parliament on Tuesday, becoming the first government of Romania to fall in such a manner in the country&#39;s 20 years
 
-### [ A Russian court rejects a libel suit by Yevgeny Dzhugashvili, the grandson of Joseph Stalin, who claimed the ''Novaya Gazeta'' newspaper lied about Stalin personally signing death warrants. ](/news/2009/10/13/a-russian-court-rejects-a-libel-suit-by-yevgeny-dzhugashvili-the-grandson-of-joseph-stalin-who-claimed-the-novaya-gazeta-newspaper-li.md)
+### [ A Russian court rejects a libel suit by Yevgeny Dzhugashvili, the grandson of Joseph Stalin, who claimed the "Novaya Gazeta" newspaper lied about Stalin personally signing death warrants. ](/news/2009/10/13/a-russian-court-rejects-a-libel-suit-by-yevgeny-dzhugashvili-the-grandson-of-joseph-stalin-who-claimed-the-novaya-gazeta-newspaper-lied.md)
 Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabilitate the Soviet dictator&#039;s murderous reputation posthumously.
 
 ### [ Spanish authorities arrest five members of the banned Basque political group Batasuna. ](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.md)

@@ -55,7 +55,7 @@ _Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argen
 _Context: Adriatic coast, Croatia, Serbia, tourist_
 
 ### [ A gun battle in the Old City in Jerusalem results in the death of a gunman and injures at least ten other people. ](/news/2007/08/10/a-gun-battle-in-the-old-city-in-jerusalem-results-in-the-death-of-a-gunman-and-injures-at-least-ten-other-people.md)
-_Context: Jerusalem, Old City's_
+_Context: Jerusalem, Old City_
 
 ### [ Asian stock markets fall sharply following trends in Europe and North America. The Bank of Japan and Reserve Bank of Australia try to inject liquidity to restore confidence to the market, shaken by the subprime mortgage crisis. ](/news/2007/08/10/asian-stock-markets-fall-sharply-following-trends-in-europe-and-north-america-the-bank-of-japan-and-reserve-bank-of-australia-try-to-injec.md)
 _Context: Asia, Bank of Japan, Europe, North America, Reserve Bank of Australia, housing crisis, stock market_

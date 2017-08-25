@@ -18,7 +18,7 @@ _Context: John Allen Muhammad, Lee Boyd Malvo, Tucson, Washington, D.C._
 ### [ The Iranian Students' News Agency reports that Iran has injected gas into a second network of centrifuges and has obtained the output, a possible step in developing nuclear materials. ](/news/2006/10/27/the-iranian-students-news-agency-reports-that-iran-has-injected-gas-into-a-second-network-of-centrifuges-and-has-obtained-the-output-a-po.md)
 _Context: ISNA, centrifuge, nuclear materials_
 
-### [ Arnold Schwarzenegger, Governor of the U.S. state of California,  declares a state of emergency, and a reward of USD $500,000 is offered for the capture of the arsonist responsible for the wildfires started in the Twin Pines area of the state.](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state-of-california-declares-a-state-of-emergency-and-a-reward-of-usd-500-000-is-offered-fo.md)
+### [ Arnold Schwarzenegger, Governor of the U.S. state of California, declares a state of emergency, and a reward of USD $500,000 is offered for the capture of the arsonist responsible for the wildfires started in the Twin Pines area of the state.](/news/2006/10/27/arnold-schwarzenegger-governor-of-the-u-s-state-of-california-declares-a-state-of-emergency-and-a-reward-of-usd-500-000-is-offered-for.md)
 _Context: Arnold Schwarzenegger, California, USD, arson, state of emergency_
 
 ### [ Shares in the Industrial and Commercial Bank of China go on sale at the Shanghai Stock Exchange and the Hong Kong Stock Exchange in the world's biggest Initial Public Offering (IPO). ](/news/2006/10/27/shares-in-the-industrial-and-commercial-bank-of-china-go-on-sale-at-the-shanghai-stock-exchange-and-the-hong-kong-stock-exchange-in-the-wor.md)

@@ -1,12 +1,12 @@
 ## [2009-07-31](/news/2009/07/31/index.md)
 
-### [  The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when-captured.md)
+### [ Nigerian battles. The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md)
 Rights group urges investigation into death of Boko Haram leader blamed for attacks.
 
-### [  Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
+### [ Spain. Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 
-### [  A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-befor.md)
+### [ Venezuela. A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md)
 _Context: National Assembly, Venezuela, freedom of speech_
 
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)
@@ -21,10 +21,10 @@ _Context: Barcelona, Netherlands, bus crash_
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
 _Context: European Parliament, Italian, Italian Prime Minister, Silvio Berlusconi_
 
-### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md)
+### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalin-khabarovsk-vladivostok-gas-pipeline.md)
 * Gazprom needs 8-10 bcm of gas for new pipeline * Putin says domestic market should take priority * ExxonMobil considering all options fo
 
-### [ British Airways loses PS148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-aps148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md)
+### [ British Airways loses GBP148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-agbp148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md)
 _Context: British Airways_
 
 ### [ The verdict in the trial of National League for Democracy General Secretary Aung San Suu Kyi, scheduled for today, is postponed until August 11. ](/news/2009/07/31/the-verdict-in-the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-scheduled-for-today-is-postponed-until-augus.md)
@@ -33,7 +33,7 @@ Myanmar opposition leader to know fate on August 11 as court defers ruling.
 ### [ 28 people are killed in Iraq after bombs explode at Shiite mosques in Baghdad. ](/news/2009/07/31/28-people-are-killed-in-iraq-after-bombs-explode-at-shiite-mosques-in-baghdad.md)
 _Context: Baghdad, Iraq, Shi'ite_
 
-### [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md)
+### [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md)
 _Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', United States_
 
 ### [ Aerial photographs reveal the streetplan of the lost Roman city of Altinum, regarded by some scholars as a forerunner of Venice. ](/news/2009/07/31/aerial-photographs-reveal-the-streetplan-of-the-lost-roman-city-of-altinum-regarded-by-some-scholars-as-a-forerunner-of-venice.md)

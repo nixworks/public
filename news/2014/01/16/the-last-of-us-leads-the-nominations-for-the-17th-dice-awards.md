@@ -1,6 +1,6 @@
 ### [2014-01-16](/news/2014/01/16/index.md)
 
-# ''The Last of Us'' leads the nominations for the 17th DICE Awards. 
+# "The Last of Us" leads the nominations for the 17th DICE Awards. 
 
 Sony and Naughty Dog&#8217;s &#8220;The Last of Us&#8221; has received 13 D.I.C.E. Awards nominations, including game of the year, from the Academy of Interactive Arts &amp; Sciences. The nominatio…
 

@@ -15,7 +15,7 @@ Samsung Electronics has filed new claims in its patent war with Apple Inc over a
 ### [Brandon McInerney is sentenced to 21 years in jail in the US state of California for the E.O. Green School shooting of gay classmate Larry King. ](/news/2011/12/19/brandon-mcinerney-is-sentenced-to-21-years-in-jail-in-the-us-state-of-california-for-the-e-o-green-school-shooting-of-gay-classmate-larry-k.md)
 A Southern California teenager was sentenced on Monday to 21 years in state prison for killing shooting a gay student in the back of the head during a computer lab class three years ago.
 
-### [The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television.  ](/news/2011/12/19/the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md)
+### [Death of Kim Jong-il. The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television. ](/news/2011/12/19/death-of-kim-jong-il-the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md)
 _Context: Death of Kim Jong-il, Kim Jong-il, Korean Central Television, North Korea, leader_
 
 ### [Congolese opposition leader Etienne Tshisekedi calls on the army to stop following orders from President Joseph Kabila. ](/news/2011/12/19/congolese-opposition-leader-etienne-tshisekedi-calls-on-the-army-to-stop-following-orders-from-president-joseph-kabila.md)

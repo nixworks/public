@@ -1,6 +1,6 @@
 ### [2005-08-7](/news/2005/08/7/index.md)
 
-#  Venezuelan president Hugo Chvez dismisses cooperation with the US DEA, claiming that they spy on him  
+#  Venezuelan president Hugo Chvez dismisses cooperation with the US DEA, claiming that they spy on him 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

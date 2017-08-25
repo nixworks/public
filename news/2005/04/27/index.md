@@ -15,7 +15,7 @@ _Context: Airbus, Airbus A380, Boeing, Boeing 747, France, Toulouse, airliner, m
 ### [ The death toll in the Amagasaki rail crash in Japan exceeds 91, and may increase to over 100. ](/news/2005/04/27/the-death-toll-in-the-amagasaki-rail-crash-in-japan-exceeds-91-and-may-increase-to-over-100.md)
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
-### [ Former Nepalese Prime Minister Sher Bahadur Deuba is arrested for alleged corruption after he refuses to appear in court.  ](/news/2005/04/27/former-nepalese-prime-minister-sher-bahadur-deuba-is-arrested-for-alleged-corruption-after-he-refuses-to-appear-in-court.md)
+### [ Former Nepalese Prime Minister Sher Bahadur Deuba is arrested for alleged corruption after he refuses to appear in court. ](/news/2005/04/27/former-nepalese-prime-minister-sher-bahadur-deuba-is-arrested-for-alleged-corruption-after-he-refuses-to-appear-in-court.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ A Moscow court postpones verdict on the case of Mikhail Khodorkovsky until May 16. ](/news/2005/04/27/a-moscow-court-postpones-verdict-on-the-case-of-mikhail-khodorkovsky-until-may-16.md)

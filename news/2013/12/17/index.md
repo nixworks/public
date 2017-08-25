@@ -6,10 +6,10 @@ In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act am
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
 _Context: Bea Rose Santiago, Miss International 2013, Philippines_
 
-### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition ''The Voice''. ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
+### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition "The Voice". ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
 It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won Season 5 of &quot;The Voice.&quot;
 
-### [Target refuses to sell the album ''Beyonce'' after it was flash released by the artist. ](/news/2013/12/17/target-refuses-to-sell-the-album-beyonca-c-after-it-was-flash-released-by-the-artist.md)
+### [Target refuses to sell the album "Beyonce" after it was flash released by the artist. ](/news/2013/12/17/target-refuses-to-sell-the-album-beyonca-c-after-it-was-flash-released-by-the-artist.md)
 Not everyone is crazy in love with Beyoncé&#39;s game-changing new album, which sold a whopping 617,000 copies in three days following its surprise iTunes release. Target is refusing to sell the physical album.
 
 ### [Several prominent Turkish businessmen and the sons of three cabinet ministers are arrested as part of an investigation into alleged bribery and corruption. ](/news/2013/12/17/several-prominent-turkish-businessmen-and-the-sons-of-three-cabinet-ministers-are-arrested-as-part-of-an-investigation-into-alleged-bribery.md)
@@ -36,13 +36,13 @@ India orders reprisals against the US, including the removal of security barrier
 ### [Edward Snowden offers Brazil information over the NSA spying of its citizens. ](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the  October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
+### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
 _Context:  October 2013 federal government shutdown, China, Federal Election Commission, The Center for Public Integrity_
 
 ### [U.S. Secretary of State John Kerry intends to give the Philippines $40 million in order to boost its maritime security regarding territorial disputes with China. ](/news/2013/12/17/u-s-secretary-of-state-john-kerry-intends-to-give-the-philippines-40-million-in-order-to-boost-its-maritime-security-regarding-territorial.md)
 Americans officials want to rotate more military forces through the country, concerned about mounting pressure from China on its neighbors.
 
-### [Euromaidan:President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-ppresident-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relations.md)
+### [Euromaidan:. President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relation.md)
 _Context: Euromaidan, Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
 
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)

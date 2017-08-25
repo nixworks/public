@@ -1,0 +1,23 @@
+### [2014-12-19](/news/2014/12/19/index.md)
+
+# War in North-West Pakistan. The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. 
+
+
+
+
+### Source:
+
+1. [AP via ''Houston Chronicle](http://www.chron.com/news/crime/article/Pakistani-jets-ground-forces-kill-27-militants-5967588.php)
+
+### Related:
+
+1. [War in North-West Pakistan. A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/war-in-north-west-pakistan-a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tr.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+2. [War in North-West Pakistan. An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. ](/news/2017/02/19/war-in-north-west-pakistan-an-overnight-pakistani-counter-terrorism-raid-kills-five-members-of-the-banned-jamaat-ul-ahrar-which-has-claime.md) _Context: Pakistani military, War in North-West Pakistan_
+3. [War in North-West Pakistan. 2017 Parachinar bombing. At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/war-in-north-west-pakistan-2017-parachinar-bombing-at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetabl.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+4. [War in North-West Pakistan. Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/war-in-north-west-pakistan-pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-t.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+5. [War in North-West Pakistan. The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/war-in-north-west-pakistan-the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _Context: Pakistani military, War in North-West Pakistan_
+6. [War in North-West Pakistan:. A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/war-in-north-west-pakistan-a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federall.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+7. [War in North-West Pakistan:. Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-d.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+8. [War in North-West Pakistan:. 15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+9. [War in North-West Pakistan:. A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
+10. [War in North-West Pakistan. August 2017 Quetta suicide bombing. A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/war-in-north-west-pakistan-august-2017-quetta-suicide-bombing-a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochist.md) _Context: War in North-West Pakistan_

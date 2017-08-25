@@ -21,7 +21,7 @@ _Context: Israel, Palestinian National Authority, fire_
 ### [ The trial of two accused murderers of Meredith Kercher begins in Perugia, Italy. ](/news/2009/01/16/the-trial-of-two-accused-murderers-of-meredith-kercher-begins-in-perugia-italy.md)
 _Context: Italian, Perugia, killing Meredith Kercher, trial_
 
-### [ Somali pirates release the Danish cargo ship CEC ''Future'' after receiving a ransom payment. ](/news/2009/01/16/somali-pirates-release-the-danish-cargo-ship-cec-future-after-receiving-a-ransom-payment.md)
+### [ Somali pirates release the Danish cargo ship CEC "Future" after receiving a ransom payment. ](/news/2009/01/16/somali-pirates-release-the-danish-cargo-ship-cec-future-after-receiving-a-ransom-payment.md)
 _Context: Denmark, Somali pirates, Somalia, cargo ship, ransom_
 
 ## [Previous Day...](/news/2009/01/15/index.md)

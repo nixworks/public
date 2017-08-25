@@ -1,18 +1,18 @@
 ## [2016-02-7](/news/2016/02/7/index.md)
 
-### [The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed-buildings-in-tainan-wh.md)
+### [2016 Taiwan earthquake. The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/2016-taiwan-earthquake-the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed.md)
 The death toll from Saturday’s earthquake rose to 29 by press time last night as rescuers continued to comb the debris of a toppled building in Tainan’s Yongkang District (永康) for survivors and victims.
 
-### [A man is killed and three other employees are injured following a suspected meteorite strike in a garden outside the Bharathidasan Engineering College in Tamil Nadu, India. Witnesses say they  saw a mysterious object fall from the sky. If confirmed, this would be the first recorded fatality from a meteorite strike. ](/news/2016/02/7/a-man-is-killed-and-three-other-employees-are-injured-following-a-suspected-meteorite-strike-in-a-garden-outside-the-bharathidasan-engineeri.md)
+### [A man is killed and three other employees are injured following a suspected meteorite strike in a garden outside the Bharathidasan Engineering College in Tamil Nadu, India. Witnesses say they saw a mysterious object fall from the sky. If confirmed, this would be the first recorded fatality from a meteorite strike. ](/news/2016/02/7/a-man-is-killed-and-three-other-employees-are-injured-following-a-suspected-meteorite-strike-in-a-garden-outside-the-bharathidasan-engineeri.md)
 The explosion created a small crater near the building complex.
 
 ### [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md)
 _Context: Atlanta, Georgia, explosion, feed mill_
 
-### [North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States.  South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for-a-long-range-missile-that-could-hit-the-unite.md)
+### [North Korea and weapons of mass destruction. North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md)
 min Park and Louis Charbonneau
 
-### [The United Arab Emirates (UAE) says it is ready to deploy ground troops to Syria as part of an international coalition to fight against the Islamic State of Iraq and the Levant, if said coalition was led by the United States. ](/news/2016/02/7/the-united-arab-emirates-uae-says-it-is-ready-to-deploy-ground-troops-to-syria-as-part-of-an-international-coalition-to-fight-against-the.md)
+### [Syrian Civil War. Foreign involvement in the Syrian Civil War. The United Arab Emirates (UAE) says it is ready to deploy ground troops to Syria as part of an international coalition to fight against the Islamic State of Iraq and the Levant, if said coalition was led by the United States. ](/news/2016/02/7/syrian-civil-war-foreign-involvement-in-the-syrian-civil-war-the-united-arab-emirates-uae-says-it-is-ready-to-deploy-ground-troops-to-sy.md)
 Announcement comes after Syria issues threat, warning to send back any unwelcome foreign troops &quot;in coffins&quot;.
 
 ### [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md)
@@ -21,7 +21,7 @@ Announcement comes after Syria issues threat, warning to send back any unwelcome
 ### [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi,  for "moral and behavioral violations."  Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-conta.md)
+### [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for -moral and behavioral violations.- Human Rights Watch, contacted by Eshtewi-s family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-moral-and-behavioral-violations-human-rights-watch-contact.md)
 _Context: Hamas, Human Rights Watch_
 
 ### [Politicians in Haiti agree to a process to select an interim President to replace Michel Martelly. Presidential elections will be held on April 14 with the winner to be sworn in on 14 May. ](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.md)

@@ -3,7 +3,7 @@
 ### [At least eleven people are killed following bombings in the Pakistan city of Quetta. ](/news/2011/09/7/at-least-eleven-people-are-killed-following-bombings-in-the-pakistan-city-of-quetta.md)
 _Context: Pakistan, Quetta_
 
-### [A bomb explosion outside the  Delhi High Court in the Indian court in New Delhi kills at least nine people and injures another 45. ](/news/2011/09/7/a-bomb-explosion-outside-the-delhi-high-court-in-the-indian-court-in-new-delhi-kills-at-least-nine-people-and-injures-another-45.md)
+### [A bomb explosion outside the Delhi High Court in the Indian court in New Delhi kills at least nine people and injures another 45. ](/news/2011/09/7/a-bomb-explosion-outside-the-delhi-high-court-in-the-indian-court-in-new-delhi-kills-at-least-nine-people-and-injures-another-45.md)
 India&#039;s capital New Delhi is on high alert for more attacks after a briefcase bomb killed 11 people outside the high court.
 
 ### [ICM Registry &ndash; the company that sponsors the .xxx Internet top-level domain for adult entertainment, planned for launch in 2012 &ndash; is giving organisations and people in the public eye the opportunity to block their names from being used by websites with the suffix. ](/news/2011/09/7/icm-registry-ndash-the-company-that-sponsors-the-xxx-internet-top-level-domain-for-adult-entertainment-planned-for-launch-in-2012-ndash.md)
@@ -21,7 +21,7 @@ _Context: KHL, Lokomotiv Yaroslavl, Yak Service, Yak-42, Yaroslavl, crashes_
 ### [Tropical Storm Nate is set to arrive at the Atlantic coast of Mexico tonight or tomorrow morning. ](/news/2011/09/7/tropical-storm-nate-is-set-to-arrive-at-the-atlantic-coast-of-mexico-tonight-or-tomorrow-morning.md)
 _Context: Atlantic Ocean, Mexico, Tropical Storm Nate_
 
-### [Tropical Storm Lee remnants in the northeastern United States:Ten thousand people are ordered to evacuate in Broome County in the US state of New York due to flooding of the Chenango River and  the Susquehanna River. ](/news/2011/09/7/tropical-storm-lee-remnants-in-the-northeastern-united-states-pten-thousand-people-are-ordered-to-evacuate-in-broome-county-in-the-us-state.md)
+### [Tropical Storm Lee remnants in the northeastern United States:. Ten thousand people are ordered to evacuate in Broome County in the US state of New York due to flooding of the Chenango River and the Susquehanna River. ](/news/2011/09/7/tropical-storm-lee-remnants-in-the-northeastern-united-states-ten-thousand-people-are-ordered-to-evacuate-in-broome-county-in-the-us-state.md)
 Dozens of districts closed schools early due to flooding, power outages and concerns about bus transportation.
 
 ### [The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. ](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.md)

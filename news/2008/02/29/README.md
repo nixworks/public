@@ -3,7 +3,7 @@
 ### [ Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. ](/news/2008/02/29/northrop-grumman-and-eads-win-a-us-35-billion-u-s-air-force-contract-to-build-a-new-refueling-plane-the-kc-45-shutting-out-boeing.md)
 _Context: Air Force, Boeing, EADS, KC-45, Northrop Grumman, US$, aerial refueling tankers_
 
-### [ A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana ''News-Sentinel''. ](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.md)
+### [ A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana "News-Sentinel". ](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.md)
 _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 
 ### [ The U.S. Department of Agriculture stands down two employees as part of its investigation of the biggest meat recall in United States history. ](/news/2008/02/29/the-u-s-department-of-agriculture-stands-down-two-employees-as-part-of-its-investigation-of-the-biggest-meat-recall-in-united-states-histo.md)

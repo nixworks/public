@@ -1,6 +1,6 @@
 ### [2010-09-15](/news/2010/09/15/index.md)
 
-# North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu  but sparking speculation about the health of Kim Jong-il. 
+# North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu but sparking speculation about the health of Kim Jong-il. 
 
 
 

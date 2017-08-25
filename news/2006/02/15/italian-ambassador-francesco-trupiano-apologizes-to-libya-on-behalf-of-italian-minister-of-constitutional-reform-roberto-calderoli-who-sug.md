@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Jyllands-Posten Muhammad cartoons controversy: Italian reform minister Roberto Calderoli resigns after criticism for wearing a T-shirt depicting the cartoons. The incident triggered yesterday's rioting outside the Italian consulate in Benghazi, Libya, in which at least 10 people died. ](/news/2006/02/18/jyllands-posten-muhammad-cartoons-controversy-p-italian-reform-minister-roberto-calderoli-resigns-after-criticism-for-wearing-a-t-shirt-dep.md) _Context: Roberto Calderoli_
+1. [ Jyllands-Posten Muhammad cartoons controversy:. Italian reform minister Roberto Calderoli resigns after criticism for wearing a T-shirt depicting the cartoons. The incident triggered yesterday's rioting outside the Italian consulate in Benghazi, Libya, in which at least 10 people died. ](/news/2006/02/18/jyllands-posten-muhammad-cartoons-controversy-italian-reform-minister-roberto-calderoli-resigns-after-criticism-for-wearing-a-t-shirt-dep.md) _Context: Roberto Calderoli_

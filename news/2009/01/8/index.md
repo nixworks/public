@@ -6,7 +6,7 @@ Congress formally tallies the results of the 2008 presidential election, certify
 ### [ Pakistan confirms that Ajmal Amir, the last surviving participant in the 2008 terrorist attacks on Mumbai, India, is a Pakistani citizen, but dismisses National Security Advisor Mahmud Ali Durrani for making the admission. ](/news/2009/01/8/pakistan-confirms-that-ajmal-amir-the-last-surviving-participant-in-the-2008-terrorist-attacks-on-mumbai-india-is-a-pakistani-citizen-b.md)
 _Context: 2008 Mumbai attacks, Ajmal Amir, India, Mahmud Ali Durrani, Mumbai, National Security Advisor, Pakistan_
 
-### [ 2008-2009 Israel-Gaza conflict: Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008a2009-israelagaza-conflict-p-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md)
+### [ 2008-2009 Israel-Gaza conflict:. Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/2008-2009-israel-gaza-conflict-several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibilit.md)
 _Context: Hezbollah, Israel, Lebanon, Nahariya, fire, rocket_
 
 ### [ The Bank of England cuts interest rates to 1.5 percent, its lowest level in its 315-year history. ](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.md)

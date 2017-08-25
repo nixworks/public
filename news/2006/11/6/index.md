@@ -30,7 +30,7 @@ _Context: 2006 general election, Daniel Ortega, Eduardo Montealegre, Nicaragua_
 ### [ The United Nations Climate Change Conference (COP-12) opens in Nairobi, Kenya. ](/news/2006/11/6/the-united-nations-climate-change-conference-cop-12-opens-in-nairobi-kenya.md)
 _Context: Nairobi, UN Climate Change Conference_
 
-### [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 (''Conyers v. Bush'') led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-sta.md)
+### [ The legal challenge to President George W. Bush's ratification of the Deficit Reduction Act of 2005 ("Conyers v. Bush") led by United States Congressman and member of the House Judiciary Committee John Conyers (together with ten other representatives of the House of Representatives) is dismissed due to lack of standing ](/news/2006/11/6/the-legal-challenge-to-president-george-w-bush-s-ratification-of-the-deficit-reduction-act-of-2005-conyers-v-bush-led-by-united-state.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ## [Previous Day...](/news/2006/11/5/index.md)

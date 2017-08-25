@@ -21,10 +21,10 @@ _Context: China, South Korea_
 ### [Roads, railways and airports across the United Kingdom are severely affected by further heavy snowfall. Severe weather warnings have been issued for many areas. ](/news/2010/12/18/roads-railways-and-airports-across-the-united-kingdom-are-severely-affected-by-further-heavy-snowfall-severe-weather-warnings-have-been-is.md)
 Travellers face chaotic journeys as heavy snow falls across the UK, although some outgoing Heathrow flights are expected to resume from 0600 GMT.
 
-### [Ivory Coast crisis:Kenya calls on African nations to oust Ivory Coast incumbent President Laurent Gbagbo from office, by force if necessary, if he does not step down. ](/news/2010/12/18/ivory-coast-crisis-pkenya-calls-on-african-nations-to-oust-ivory-coast-incumbent-president-laurent-gbagbo-from-office-by-force-if-necessary.md)
+### [Ivory Coast crisis:. Kenya calls on African nations to oust Ivory Coast incumbent President Laurent Gbagbo from office, by force if necessary, if he does not step down. ](/news/2010/12/18/ivory-coast-crisis-kenya-calls-on-african-nations-to-oust-ivory-coast-incumbent-president-laurent-gbagbo-from-office-by-force-if-necessar.md)
 Kenyan PM calls on African nations to oust Ivorian incumbent president Gbagbo if he refuses to step down.
 
-### [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by  North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last.md)
+### [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last-m.md)
 South Korea says it will go ahead with a military drill on a disputed island, despite Russian and Chinese objections and a North Korean vow to respond.
 
 ### [Chinese Premier Wen Jiabao arrives for a working visit in Pakistan and meets with Pakistani Prime Minister Yusuf Raza Gilani. ](/news/2010/12/18/chinese-premier-wen-jiabao-arrives-for-a-working-visit-in-pakistan-and-meets-with-pakistani-prime-minister-yusuf-raza-gilani.md)

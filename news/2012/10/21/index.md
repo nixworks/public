@@ -1,6 +1,6 @@
 ## [2012-10-21](/news/2012/10/21/index.md)
 
-### [2012 Beirut bombing: Lebanese security forces fire shots into the air and tear gas at crowds, as protesters attempt to breach government offices of prime minister Mikati in response to a car bomb that killed  intelligence chief Wissam al-Hassan. ](/news/2012/10/21/2012-beirut-bombing-lebanese-security-forces-fire-shots-into-the-air-and-tear-gas-at-crowds-as-protesters-attempt-to-breach-government-off.md)
+### [2012 Beirut bombing: Lebanese security forces fire shots into the air and tear gas at crowds, as protesters attempt to breach government offices of prime minister Mikati in response to a car bomb that killed intelligence chief Wissam al-Hassan. ](/news/2012/10/21/2012-beirut-bombing-lebanese-security-forces-fire-shots-into-the-air-and-tear-gas-at-crowds-as-protesters-attempt-to-breach-government-off.md)
 Protesters try to storm offices of Lebanese PM Mikati, demanding his resignation over assassination of intelligence chief.
 
 ### [Hundreds of protesters in Libya storm the grounds of the country's parliament building to protest the ongoing siege in Bani Walid. ](/news/2012/10/21/hundreds-of-protesters-in-libya-storm-the-grounds-of-the-country-s-parliament-building-to-protest-the-ongoing-siege-in-bani-walid.md)

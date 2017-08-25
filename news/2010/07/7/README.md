@@ -3,7 +3,7 @@
 ### [Australia celebrates indigenous culture for NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/7/australia-celebrates-indigenous-culture-for-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)
 The Tasmanian Aboriginal community are using National Aboriginal Islander Day Observance Committee (NAIDOC) Week to criticise the State Government for failing to recognise heritage values.
 
-### [Researchers publish in ''Nature'' their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. ](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.md)
+### [Researchers publish in "Nature" their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. ](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.md)
 Researchers discover stone tools in Norfolk that suggest humans arrived in Britain nearly a million years ago.
 
 ### [A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. ](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.md)
@@ -87,7 +87,7 @@ A row erupts after the firm behind World of Warcraft announced that users of its
 ### [The European Union reveals its list of 91 stress test banks. ](/news/2010/07/7/the-european-union-reveals-its-list-of-91-stress-test-banks.md)
 _Context: European Union_
 
-### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
+### [FIFA World Cup 2010. Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md)
 _Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_
 
 ## [Previous Day...](/news/2010/07/6/index.md)

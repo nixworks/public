@@ -11,5 +11,5 @@ The former Fairfax County Police officer who shot and killed Springfield, Virgin
 
 ### Related:
 
-1. [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife's body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wifeas-body-to-dispose-of-it-guilty-of.md) _Context: second degree murder_
+1. [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife-s body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wife-s-body-to-dispose-of-it-guilty-of.md) _Context: second degree murder_
 2. [Randy Babbitt, the former head of the Federal Aviation Administration, resigns three days after he was arrested for driving under the influence in Fairfax, Virginia. ](/news/2011/12/6/randy-babbitt-the-former-head-of-the-federal-aviation-administration-resigns-three-days-after-he-was-arrested-for-driving-under-the-influe.md) _Context: Fairfax, Virginia_

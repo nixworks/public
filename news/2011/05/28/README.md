@@ -6,7 +6,7 @@ _Context: Libya, Libyan Civil War, NATO, Tripoli_
 ### [2011 Egyptian revolution: Ousted President of Egypt Hosni Mubarak receives the first ruling against him, being fined US$34 million for cutting off communications services during the revolution that overthrew him. ](/news/2011/05/28/2011-egyptian-revolution-ousted-president-of-egypt-hosni-mubarak-receives-the-first-ruling-against-him-being-fined-us-34-million-for-cutti.md)
 Former Egyptian President Hosni Mubarak is fined $34m (£20m) for cutting off internet and telephone services during the uprising that ousted him.
 
-### [The  Department of Homeland Security advises that the United States Department of Defense's largest supplier Lockheed Martin has been hit by hackers. ](/news/2011/05/28/the-department-of-homeland-security-advises-that-the-united-states-department-of-defense-s-largest-supplier-lockheed-martin-has-been-hit-by.md)
+### [The Department of Homeland Security advises that the United States Department of Defense's largest supplier Lockheed Martin has been hit by hackers. ](/news/2011/05/28/the-department-of-homeland-security-advises-that-the-united-states-department-of-defense-s-largest-supplier-lockheed-martin-has-been-hit-by.md)
 Lockheed Martin Corp, the world&#39;s biggest aerospace company and the Pentagon&#39;s No. 1 supplier, says it thwarted a &#39;significant and tenacious&#39; cyber attack.
 
 ### [39 people are injured after an express train derails and catches fire in a tunnel on Hokkaido, Japan. ](/news/2011/05/28/39-people-are-injured-after-an-express-train-derails-and-catches-fire-in-a-tunnel-on-hokkaido-japan.md)

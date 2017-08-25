@@ -11,7 +11,7 @@ A U.S. appeals court on Friday overturned a $120 million jury verdict against Sa
 
 ### Related:
 
-1. [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others.  ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md) _Context: Apple Inc., Samsung, patent_
+1. [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md) _Context: Apple Inc., Samsung, patent_
 2. [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md) _Context: Apple Inc., patent_
 3. [The U.S. Supreme Court hears arguments in a patent dispute between Apple Inc. and Samsung concerning both company's smart phone designs (Samsung Electronics v. Apple (15-777)). ](/news/2016/10/11/the-u-s-supreme-court-hears-arguments-in-a-patent-dispute-between-apple-inc-and-samsung-concerning-both-company-s-smart-phone-designs-sam.md) _Context: Apple Inc., Samsung_
 4. [Samsung concedes to surrender $548 million to Apple Inc. over previously court-held ruling in patent dispute over copying the look of the iPhone. ](/news/2015/12/3/samsung-concedes-to-surrender-548-million-to-apple-inc-over-previously-court-held-ruling-in-patent-dispute-over-copying-the-look-of-the-ip.md) _Context: Apple Inc., Samsung_

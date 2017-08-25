@@ -12,7 +12,7 @@ _Context: Kurdish, Turkey_
 ### [2011 Egyptian revolution: Egyptian security forces storm the offices of non-governmental organisations across the country. ](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.md)
 _Context: 2011 Egyptian revolution, non-governmental organisations_
 
-### [New York Mayor Michael Bloomberg states that there is 'no chance' that the National September 11 Museum will open on time (September 11, 2012), due to a financial dispute.  ](/news/2011/12/29/new-york-mayor-michael-bloomberg-states-that-there-is-no-chance-that-the-national-september-11-museum-will-open-on-time-september-11-201.md)
+### [New York Mayor Michael Bloomberg states that there is 'no chance' that the National September 11 Museum will open on time (September 11, 2012), due to a financial dispute. ](/news/2011/12/29/new-york-mayor-michael-bloomberg-states-that-there-is-no-chance-that-the-national-september-11-museum-will-open-on-time-september-11-201.md)
 _Context: Michael Bloomberg, National September 11 Memorial & Museum, New York Mayor_
 
 ### [The United States sells 84 F-15 fighter jets to Saudi Arabia.](/news/2011/12/29/the-united-states-sells-84-f-15-fighter-jets-to-saudi-arabia.md)
@@ -27,7 +27,7 @@ _Context: Caracas, Pan American Highway, Venezuela_
 ### [Mount Cleveland, a volcano in the U.S. state of Alaska, erupts, causing an air traffic alert to be issued. ](/news/2011/12/29/mount-cleveland-a-volcano-in-the-u-s-state-of-alaska-erupts-causing-an-air-traffic-alert-to-be-issued.md)
 _Context: Alaska, Mount Cleveland, U.S. state, volcanic activity_
 
-### [A Russian nuclear submarine, the K-84 ''Ekaterinburg'', is forced to partially submerge itself at a shipyard in Murmansk to douse a blaze on its hull. No radiation leaks are reported. ](/news/2011/12/29/a-russian-nuclear-submarine-the-k-84-ekaterinburg-is-forced-to-partially-submerge-itself-at-a-shipyard-in-murmansk-to-douse-a-blaze-on.md)
+### [A Russian nuclear submarine, the K-84 "Ekaterinburg", is forced to partially submerge itself at a shipyard in Murmansk to douse a blaze on its hull. No radiation leaks are reported. ](/news/2011/12/29/a-russian-nuclear-submarine-the-k-84-ekaterinburg-is-forced-to-partially-submerge-itself-at-a-shipyard-in-murmansk-to-douse-a-blaze-on-i.md)
 Russia said it had won the battle with a raging blaze aboard a nuclear submarine on Friday by submerging the stricken vessel at a navy shipyard after hours of dousing the flames with water from helicopters and tug boats.
 
 ### [The Pacific Island nations of Samoa and Tokelau move from east to west of the International Date Line in order to align their time zone better with their main trading partners, meaning that they will not mark December 30 this year. ](/news/2011/12/29/the-pacific-island-nations-of-samoa-and-tokelau-move-from-east-to-west-of-the-international-date-line-in-order-to-align-their-time-zone-bett.md)

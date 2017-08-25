@@ -24,22 +24,22 @@ _Context: Pakistan, Pervez Musharraf, forming a government_
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
 _Context: 2007 Formula One World Drivers Championship, Constructors' Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, US$_
 
-### [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after  ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md)
+### [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md)
 _Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The National Interest, terrorism_
 
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
 _Context: Netherlands, People's Party for Freedom and Democracy, Rita Verdonk_
 
-### [ Iraq War: A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/iraq-war-p-a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
+### [ Iraq War:. A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/iraq-war-a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
 _Context: Iraq War, Sheikh Sittar_
 
-### [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
+### [ 2007 Atlantic hurricane season:. Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
 _Context: 2007 Atlantic hurricane season, Hurricane Humberto, Louisiana, Texas_
 
 ### [ Shinzo Abe is hospitalised the day after his resignation. ](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.md)
 _Context: Shinzo Abe_
 
-### [  A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indonesia-christmas-island-and-the-coco.md)
+### [ September 2007 Sumatra earthquakes. A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/september-2007-sumatra-earthquakes-a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indon.md)
 A second major earthquake measuring 7.6 off the coast of southern Sumatra in Indonesia has prompted a tsunami warning for Australia&#039;s Cocos and Christmas Islands.
 
 ## [Previous Day...](/news/2007/09/12/index.md)

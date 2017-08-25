@@ -27,7 +27,7 @@ _Context: Gladys Nyirongo, Lusaka, Zambia_
 ### [ Yearlong talks on the future of Kosovo end in stalemate between the Serbian Government and the ethnic Albanian leaders of the province. ](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.md)
 _Context: Kosovo, Serbia, ethnic Albanian_
 
-### [ War in Iraq: A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/war-in-iraq-p-a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syr.md)
+### [ War in Iraq:. A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/war-in-iraq-a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syr.md)
 _Context: Baghdad, Iran, Iraq, Syria, United States, War in Iraq_
 
 ## [Previous Day...](/news/2007/03/9/index.md)

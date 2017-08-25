@@ -1,6 +1,6 @@
 ## [2006-02-19](/news/2006/02/19/index.md)
 
-### [ The movie ''Grbavica'' by Jasmila Zbanic wins the Golden Bear at the Berlinale, the world's most visited film festival.](/news/2006/02/19/the-movie-grbavica-by-jasmila-a1-2bania-wins-the-golden-bear-at-the-berlinale-the-world-s-most-visited-film-festival.md)
+### [ The movie "Grbavica" by Jasmila Zbanic wins the Golden Bear at the Berlinale, the world's most visited film festival.](/news/2006/02/19/the-movie-grbavica-by-jasmila-a1-2bania-wins-the-golden-bear-at-the-berlinale-the-world-s-most-visited-film-festival.md)
 _Context: Berlinale, Grbavica, Jasmila Zbanic, film festival_
 
 ### [ Pasta de Conchos mine disaster: An explosion traps 66 coal miners three hundred meters underground in a mine near Nueva Rosita, Coahuila. ](/news/2006/02/19/pasta-de-conchos-mine-disaster-an-explosion-traps-66-coal-miners-three-hundred-meters-underground-in-a-mine-near-nueva-rosita-coahuila.md)

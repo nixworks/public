@@ -30,10 +30,10 @@ _Context: ATN Bangla, Bangladesh, Prime Minister, Sheikh Hasina, television_
 ### [ Dr Mohamed Haneef is granted bail by a Queensland magistrate on charges of supporting a terrorist organisation in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. The Australian government later revokes his visa. ](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.md)
 _Context: 2007 attack, Australia, Magistrate, Mohamed Haneef, Queensland, planned car bomb attacks, terrorist, visa-free travel_
 
-### [ A 6.8 magnitude earthquake hits Japan with a tsunami warning being issued in Niigata Prefecture, Honshu. At least eight people have been killed and over 700 injured. There was a fire in the Kashiwazaki-Kariwa Nuclear Power Plant as well as a small leak but not sufficient to damage the environment.  ](/news/2007/07/16/a-6-8-magnitude-earthquake-hits-japan-with-a-tsunami-warning-being-issued-in-niigata-prefecture-honsha-at-least-eight-people-have-been-k.md)
+### [ A 6.8 magnitude earthquake hits Japan with a tsunami warning being issued in Niigata Prefecture, Honshu. At least eight people have been killed and over 700 injured. There was a fire in the Kashiwazaki-Kariwa Nuclear Power Plant as well as a small leak but not sufficient to damage the environment. ](/news/2007/07/16/a-6-8-magnitude-earthquake-hits-japan-with-a-tsunami-warning-being-issued-in-niigata-prefecture-honsha-at-least-eight-people-have-been-k.md)
 The death toll in Japan following a powerful earthquake has risen, with hospital officials saying at least five elderly people have were killed and nearly 650 people injured in the quake.
 
-### [ A $280,000 Porsche 911 is  stolen from a showroom in Penang, Malaysia and following recovery from the police is stolen again on the same night.](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom-in-penang-malaysia-and-following-recovery-from-the-police-is-stolen-again-on-the-same-ni.md)
+### [ A $280,000 Porsche 911 is stolen from a showroom in Penang, Malaysia and following recovery from the police is stolen again on the same night.](/news/2007/07/16/a-280-000-porsche-911-is-stolen-from-a-showroom-in-penang-malaysia-and-following-recovery-from-the-police-is-stolen-again-on-the-same-nig.md)
 _Context:  stolen from a showroom, Malaysia, Penang, Porsche 911_
 
 ## [Previous Day...](/news/2007/07/15/index.md)

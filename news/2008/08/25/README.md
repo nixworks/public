@@ -9,7 +9,7 @@ _Context: 2008 National Convention, Colorado, Democratic, Denver, U.S._
 ### [ Tropical Storm Gustav forms in the Atlantic Ocean and heads for the Dominican Republic and Haiti. ](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.md)
 _Context: Atlantic Ocean, Dominican Republic, Haiti, Tropical Storm Gustav_
 
-### [ Former  Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coaliti.md)
+### [ Former Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coalitio.md)
 Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeble regime even weaker.
 
 ### [ Russia is considering arming its Baltic Fleet with nuclear warheads for the first time since the Cold War. ](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.md)
@@ -21,7 +21,7 @@ _Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority Preside
 ### [ Lovemore Moyo is elected Speaker of the House of Assembly of Zimbabwe. He is the first opposition speaker since the country's independence in 1980. ](/news/2008/08/25/lovemore-moyo-is-elected-speaker-of-the-house-of-assembly-of-zimbabwe-he-is-the-first-opposition-speaker-since-the-country-s-independence.md)
 _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_
 
-### [ 2008 South Ossetia war: The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-p-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md)
+### [ 2008 South Ossetia war:. The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/2008-south-ossetia-war-the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-in.md)
 _Context: 2008 South Ossetia war, Abkhazia, Federal Assembly, Federation Council, Georgian, Russia, Russian President Vladimir Putin, South Ossetia_
 
 ## [Previous Day...](/news/2008/08/24/index.md)

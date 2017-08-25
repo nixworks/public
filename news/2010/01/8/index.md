@@ -21,7 +21,7 @@ _Context: Auto, China_
 ### [Mehdi Karroubi's car is hit by fire in Qazvin, Iran. ](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.md)
 Iran opposition leader Mehdi Karroubi&#039;s car has been fired on in the country&#039;s northern city of Qazvin.
 
-### [The Sea Shepherd Conservation Society's anti-whaling speedboat ''Ady Gil'', which was damaged on Wednesday during a confrontation with the Japanese security vessel ''Shonan Maru 2'', sinks in the Southern Ocean shortly before 3:30 a.m. AEDT as the Society's ''Bob Barker'' attempts to salvage the boat. ](/news/2010/01/8/the-sea-shepherd-conservation-society-s-anti-whaling-speedboat-ady-gil-which-was-damaged-on-wednesday-during-a-confrontation-with-the-j.md)
+### [The Sea Shepherd Conservation Society's anti-whaling speedboat "Ady Gil", which was damaged on Wednesday during a confrontation with the Japanese security vessel "Shonan Maru 2", sinks in the Southern Ocean shortly before 3:30 a.m. AEDT as the Society's "Bob Barker" attempts to salvage the boat. ](/news/2010/01/8/the-sea-shepherd-conservation-society-s-anti-whaling-speedboat-ady-gil-which-was-damaged-on-wednesday-during-a-confrontation-with-the-jap.md)
 The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japanese whaling vessel.
 
 ### [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md)
@@ -51,7 +51,7 @@ The Portuguese parliament has approved at first reading a bill to legalise gay m
 ### [The Ugandan death penalty for homosexuality may be declared "not necessary". ](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.md)
 _Context: Uganda, homosexuality_
 
-### [French research in ''Analytical Chemistry'' suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
+### [French research in "Analytical Chemistry" suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
 _Context: Analytical Chemistry, Cleopatra, France_
 
 ## [Previous Day...](/news/2010/01/7/index.md)

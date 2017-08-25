@@ -3,13 +3,13 @@
 ### [Syrian Civil War: Human rights investigators from the United Nations expand a secret list of people in Syria suspected of committing war crimes. Diplomat Paulo Srgio Pinheiro urges the U.N. Security Council to bring the situation to the International Criminal Court. ](/news/2012/09/17/syrian-civil-war-human-rights-investigators-from-the-united-nations-expand-a-secret-list-of-people-in-syria-suspected-of-committing-war-cri.md)
 _Context: International Criminal Court, Paulo Srgio Pinheiro, Syria, Syrian Civil War, United Nations, United Nations Security Council, mass murders of thousands of political prisoner, suspected_
 
-### [2012 diplomatic missions attacks fallout:The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-pthe-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-at.md)
+### [2012 diplomatic missions attacks fallout:. The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-a.md)
 The protest in Libya that killed U.S. Ambassador Chris Stevens and three other Americans last week appears to have begun spontaneously and was &quot;hijacked&quot; by 
 
-### [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of ''The River and the Mountain'', a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountai.md)
+### [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md)
 _Context: David Cecil, Uganda, homosexuality_
 
-### [Writer Sir Salman Rushdie expresses doubt that his 1988 novel ''The Satanic Verses'' would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear.md)
+### [Writer Sir Salman Rushdie expresses doubt that his 1988 novel "The Satanic Verses" would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear-an.md)
 British author Sir Salman Rushdie says he does not think his 1988 novel The Satanic Verses would be published today because of a climate of &quot;fear and nervousness&quot;.
 
 ### [Hundreds of protesters take to the streets of Manhattan's financial district on the first anniversary of Occupy Wall Street. ](/news/2012/09/17/hundreds-of-protesters-take-to-the-streets-of-manhattan-s-financial-district-on-the-first-anniversary-of-occupy-wall-street.md)
@@ -18,7 +18,7 @@ More than 100 arrests were reported today, the first anniversary of the Occupy W
 ### [Rip Curl, the last major Australian surf wear producer with its "own" capital, considers an offer for sale to private buyers. ](/news/2012/09/17/rip-curl-the-last-major-australian-surf-wear-producer-with-its-own-capital-considers-an-offer-for-sale-to-private-buyers.md)
 _Context: Australia, Rip Curl, surf wear_
 
-### [Senkaku Islands dispute:Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-pjapanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china.md)
+### [Senkaku Islands dispute:. Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-chin.md)
 _Context: China, Japanese, Panasonic, Senkaku Islands dispute_
 
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
@@ -57,7 +57,7 @@ Supreme Court Associate Justice Antonin Scalia says he once thought cameras shou
 ### [Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a French court to halt further publication of topless images of the duchess. Buckingham Palace confirms that a criminal complaint is to be made, for breach of privacy. ](/news/2012/09/17/lawyers-for-the-duke-and-duchess-of-cambridge-begin-civil-proceedings-in-a-french-court-to-halt-further-publication-of-topless-images-of-the.md)
 Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a French court to halt further publication of topless images of the duchess.
 
-### [Michael O'Kane, editor of the ''Irish Daily Star'', is suspended following his decision to publish topless photographs of Kate Middleton as attempts to shut down the newspaper continue. ](/news/2012/09/17/michael-o-kane-editor-of-the-irish-daily-star-is-suspended-following-his-decision-to-publish-topless-photographs-of-kate-middleton-as.md)
+### [Michael O'Kane, editor of the "Irish Daily Star", is suspended following his decision to publish topless photographs of Kate Middleton as attempts to shut down the newspaper continue. ](/news/2012/09/17/michael-o-kane-editor-of-the-irish-daily-star-is-suspended-following-his-decision-to-publish-topless-photographs-of-kate-middleton-as-at.md)
 _Context: Irish Daily Star, Kate Middleton, Michael O'Kane_
 
 ### [Ireland's justice minister Alan Shatter is involved in an eviction row with a tenant of one of his Florida properties, part of his vast U.S. property portfolio. ](/news/2012/09/17/ireland-s-justice-minister-alan-shatter-is-involved-in-an-eviction-row-with-a-tenant-of-one-of-his-florida-properties-part-of-his-vast-u-s.md)

@@ -18,7 +18,7 @@ _Context: Guantanamo Bay, Osama bin Laden, Salim Ahmed Hamdan, terrorism_
 ### [ Yahoo! reaches a deal with Carl Icahn giving him three seats on its board of directors. ](/news/2008/07/21/yahoo-reaches-a-deal-with-carl-icahn-giving-him-three-seats-on-its-board-of-directors.md)
 _Context: Carl Icahn, Yahoo!, board_
 
-### [ Zimbabwe: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-p-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md)
+### [ Zimbabwe:. Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md)
 _Context: Zimbabwe, dollar, inflation_
 
 ### [ Nepal's presidential election concludes with Ram Baran Yadav winning with a majority. ](/news/2008/07/21/nepal-s-presidential-election-concludes-with-ram-baran-yadav-winning-with-a-majority.md)

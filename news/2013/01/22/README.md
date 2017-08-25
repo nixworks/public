@@ -1,15 +1,15 @@
 ## [2013-01-22](/news/2013/01/22/index.md)
 
-### [Syrian civil war:The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-pthe-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
+### [Syrian civil war:. The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
 _Context: Jordan, Syria, Syrian Civil War_
 
-### [Iraqi insurgency:Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-pcar-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
+### [Iraqi insurgency:. Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
 Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 people and wounded dozens more, police say.
 
-### [Colombian conflict:In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/colombian-conflict-pin-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-rail.md)
+### [Colombian conflict:. In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/colombian-conflict-in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-rai.md)
 _Context: Colombia, Colombian conflict (1964-present), FARC, ceasefire, oil pipeline_
 
-### [The James Bond film ''Skyfall'' opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
+### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
 _Context: Censorship in China, China, James Bond, Skyfall_
 
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
@@ -27,7 +27,7 @@ A Canadian man opens fire in a Philippine court, killing two people and wounding
 ### [A British woman, Lindsay Sandiford is sentenced to death by a court in Indonesia following a conviction for drug trafficking. ](/news/2013/01/22/a-british-woman-lindsay-sandiford-is-sentenced-to-death-by-a-court-in-indonesia-following-a-conviction-for-drug-trafficking.md)
 British grandmother Lindsay Sandiford is sentenced to death by firing squad in Bali for trafficking cocaine.
 
-### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md)
+### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-college-north-harris-in-houston-texas.md)
 _Context: Houston, Lone Star College-North Harris, Texas_
 
 ### [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md)

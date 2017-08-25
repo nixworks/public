@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [A study,  published  in ''The American Journal of Sports Medicine'', finds  high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-incre.md) _Context: hip_
+1. [A study, published in "The American Journal of Sports Medicine", finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-increased.md) _Context: hip_

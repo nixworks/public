@@ -1,6 +1,6 @@
 ## [2008-12-19](/news/2008/12/19/index.md)
 
-### [ Administration of United States President-elect Barack Obama: Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/administration-of-united-states-president-elect-barack-obama-p-republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the-n.md)
+### [ Administration of United States President-elect Barack Obama:. Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/administration-of-united-states-president-elect-barack-obama-republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the-n.md)
 _Context: Barack Obama, Illinois, President-elect, Ray LaHood, Republican, Secretary of Transportation, United States, United States House of Representatives, nomination_
 
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
@@ -15,7 +15,7 @@ A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billio
 ### [ Internet and telephone transmissions between Europe, the Middle East, and Asia are seriously disrupted. The FLAG, SEA-ME-WE 3, and SEA-ME-WE 4 submarine communications cables are believed to have been cut for the second time this year. ](/news/2008/12/19/internet-and-telephone-transmissions-between-europe-the-middle-east-and-asia-are-seriously-disrupted-the-flag-sea-me-we-3-and-sea-me-w.md)
 _Context: Asia, Europe, FLAG, Internet, Middle East, SEA-ME-WE 3, SEA-ME-WE 4, break, telecommunication, telephone, undersea cables_
 
-### [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of EUR87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-a-87-million-in-loans.md)
+### [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of -87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-87-million-in-loans.md)
 David Drumm has resigned as chief executive of Anglo Irish Bank following last night&#39;s resignation of chairman Sean FitzPatrick.
 
 ### [ Thirty prisoners burn down and escape their jail in Vanuatu. Two Members of Parliament are later arrested for harboring some of the fugitives. ](/news/2008/12/19/thirty-prisoners-burn-down-and-escape-their-jail-in-vanuatu-two-members-of-parliament-are-later-arrested-for-harboring-some-of-the-fugitiv.md)

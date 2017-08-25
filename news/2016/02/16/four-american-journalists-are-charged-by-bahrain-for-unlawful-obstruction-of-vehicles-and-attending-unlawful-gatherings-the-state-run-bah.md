@@ -1,0 +1,24 @@
+### [2016-02-16](/news/2016/02/16/index.md)
+
+# Four American journalists are charged by Bahrain for "unlawful obstruction of vehicles and attending unlawful gatherings." The state-run Bahrain News Agency said all were released "pending further investigations." Freelance reporter Anna Day and a film crew, who were covering the fifth anniversary of the Arab Spring uprisings, are scheduled to fly to Dubai tonight. 
+
+Anna Day and three members of her crew were detained on Sunday while covering the anniversary of Bahrain&#x27;s 2011 uprising.
+
+
+### Source:
+
+1. [NBC News](http://www.nbcnews.com/news/world/bahrain-charges-releases-anna-day-3-other-american-journalists-n519291)
+2. [New York Daily News](http://www.nydailynews.com/news/world/american-journalists-arrested-bahrain-charged-released-article-1.2533077)
+
+### Related:
+
+1. [2017 Qatar diplomatic crisis. The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/2017-qatar-diplomatic-crisis-the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab.md) _Context: Bahrain, Bahrain News Agency_
+2. [Foreign relations of the United States. The United Arab Emirates and Bahrain issue a travel warning for their citizens heading to American cities where protests are occuring following ethnic tensions in the country. This comes after The Bahamas issued its own travel warning yesterday, after the shooting of Dallas police officers. ](/news/2016/07/10/foreign-relations-of-the-united-states-the-united-arab-emirates-and-bahrain-issue-a-travel-warning-for-their-citizens-heading-to-american-c.md) _Context: Bahrain, United States_
+3. [Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif-s government implemented the Supreme Court ruling, and lifted the 2013 ban that barred Musharraf from international trips. ](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.md) _Context: Dubai, United States_
+4. [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md) _Context: Arab Spring, Bahrain_
+5. [Arab Spring:. Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md) _Context: Arab Spring, Bahrain_
+6. [Arab Spring:. Bahraini uprising:. Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md) _Context: Arab Spring, Bahrain_
+7. [Arab Spring:. Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md) _Context: Arab Spring, Bahrain_
+8. [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md) _Context: Arab Spring, United States_
+9. [Arab Spring:. Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _Context: Arab Spring, Bahrain_
+10. [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md) _Context: Arab Spring, United States_

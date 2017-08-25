@@ -13,4 +13,4 @@ Kochiyama embraced far-leftist protesters and even terrorist organizations.
 ### Related:
 
 1. [Google celebrates the 70th birthday of John Lennon with an animated Google doodle. ](/news/2010/10/8/google-celebrates-the-70th-birthday-of-john-lennon-with-an-animated-google-doodle.md) _Context: doodle_
-2. [Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel ''The Picture of Dorian Gray''. ](/news/2010/10/16/oscar-wilde-receives-a-google-doodle-on-the-156th-anniversary-of-his-birthday-a-portrait-from-his-novel-the-picture-of-dorian-gray.md) _Context: doodle_
+2. [Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel "The Picture of Dorian Gray". ](/news/2010/10/16/oscar-wilde-receives-a-google-doodle-on-the-156th-anniversary-of-his-birthday-a-portrait-from-his-novel-the-picture-of-dorian-gray.md) _Context: doodle_

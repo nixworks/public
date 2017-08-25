@@ -1,9 +1,9 @@
 ## [2012-12-4](/news/2012/12/4/index.md)
 
-### [Syrian civil war:The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-pthe-syrian-army-clashes-with-rebels-close-to-damascus.md)
+### [Syrian civil war:. The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-the-syrian-army-clashes-with-rebels-close-to-damascus.md)
 As shelling in the Damascus suburbs worsened, the United Nations warned that it was getting harder to get food to displaced Syrians.
 
-### [Belfast City Hall flag protests:In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-pin-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-to.md)
+### [Belfast City Hall flag protests:. In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/belfast-city-hall-flag-protests-in-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-t.md)
 _Context: Belfast City Council, Belfast City Hall, Belfast City Hall flag protests, Northern Ireland, Union Flag_
 
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)

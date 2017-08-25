@@ -30,8 +30,8 @@ _Context: Latvia, President, Prime Minister of Latvia, Valdis Dombrovskis, Valdi
 ### [ Ajmal Kasab, the 2008 Mumbai attacks' lone surviving gunman, is charged with waging war against India. ](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.md)
 _Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, conflict zones_
 
-### [ The Royal Bank of Scotland Group reports a 2008 loss of PS24.1 billion.  ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-aps24-1-billion.md)
-_Context: PS, Royal Bank of Scotland Group_
+### [ The Royal Bank of Scotland Group reports a 2008 loss of GBP24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-agbp24-1-billion.md)
+_Context: GBP, Royal Bank of Scotland Group_
 
 ### [ Thirteen thousand civil servants stage a one-day strike action in Ireland. ](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-day-strike-action-in-ireland.md)
 _Context: Ireland, public sector, strike_
@@ -45,13 +45,13 @@ _Context: Bolivia, dengue fever, outbreak_
 ### [ The University of Reading identifies the oldest words in the English language. ](/news/2009/02/26/the-university-of-reading-identifies-the-oldest-words-in-the-english-language.md)
 _Context: English, University of Reading_
 
-### [ A study by the scientific journal ''Nature'' shows that HIV is evolving to resist the human immune system. ](/news/2009/02/26/a-study-by-the-scientific-journal-nature-shows-that-hiv-is-evolving-to-resist-the-human-immune-system.md)
+### [ A study by the scientific journal "Nature" shows that HIV is evolving to resist the human immune system. ](/news/2009/02/26/a-study-by-the-scientific-journal-nature-shows-that-hiv-is-evolving-to-resist-the-human-immune-system.md)
 _Context: Evolution, HIV, Nature, human immune system, resist, scientific journal_
 
 ### [ The earliest footprints evidencing modern human foot anatomy and gait are discovered in Koobi Fora, Kenya. ](/news/2009/02/26/the-earliest-footprints-evidencing-modern-human-foot-anatomy-and-gait-are-discovered-in-koobi-fora-kenya.md)
 _Context: Kenya, Koobi Fora, anatomy, footprint, gait, human foot_
 
-### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples.  ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)
+### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples. ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)
 _Context: Svalbard Global Seed Vault, crop, food, seed_
 
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)

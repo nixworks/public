@@ -1,9 +1,9 @@
 ## [2010-03-4](/news/2010/03/4/index.md)
 
-### [Egyptian President Hosni Mubarak says he does not mind the nomination of the former Director-General of International Atomic Energy Agency Mohamed ElBaradei  in the next presidential election as long as it is under the framework of existing constitution. ](/news/2010/03/4/egyptian-president-hosni-mubarak-says-he-does-not-mind-the-nomination-of-the-former-director-general-of-international-atomic-energy-agency-m.md)
+### [Egyptian President Hosni Mubarak says he does not mind the nomination of the former Director-General of International Atomic Energy Agency Mohamed ElBaradei in the next presidential election as long as it is under the framework of existing constitution. ](/news/2010/03/4/egyptian-president-hosni-mubarak-says-he-does-not-mind-the-nomination-of-the-former-director-general-of-international-atomic-energy-agency-m.md)
 _Context: Egypt, Egyptian President, Egyptian presidential election in September, Hosni Mubarak, International Atomic Energy Agency, Mohamed ElBaradei, existing constitution_
 
-### [Forty-one scientists publish a paper in ''Science'' affirming that the Cretaceous-Paleogene extinction event, the large-scale mass extinction of dinosaurs and other lifeforms on Earth ~65.5 million years ago, was caused by an asteroid impact. ](/news/2010/03/4/forty-one-scientists-publish-a-paper-in-science-affirming-that-the-cretaceousapaleogene-extinction-event-the-large-scale-mass-extinct.md)
+### [Forty-one scientists publish a paper in "Science" affirming that the Cretaceous-Paleogene extinction event, the large-scale mass extinction of dinosaurs and other lifeforms on Earth ~65.5 million years ago, was caused by an asteroid impact. ](/news/2010/03/4/forty-one-scientists-publish-a-paper-in-science-affirming-that-the-cretaceous-paleogene-extinction-event-the-large-scale-mass-extinctio.md)
 A giant asteroid smashing into Earth is the only plausible explanation for the extinction of the dinosaurs, a global scientific team said on Thursday, hoping to settle a row that has divided experts for decades.
 
 ### [A Mexico City law allowing same-sex marriages takes effect. ](/news/2010/03/4/a-mexico-city-law-allowing-same-sex-marriages-takes-effect.md)
@@ -18,7 +18,7 @@ _Context: Baltic Sea_
 ### [Dozens of tourists are airlifted to safety following flash floods at the Samburu National Reserve in Kenya. ](/news/2010/03/4/dozens-of-tourists-are-airlifted-to-safety-following-flash-floods-at-the-samburu-national-reserve-in-kenya.md)
 _Context: Kenya, Samburu National Reserve_
 
-### [2010 Uganda landslide:Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-puganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md)
+### [2010 Uganda landslide:. Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md)
 _Context: Bududa, Monday night's mudslide, Uganda_
 
 ### [Four German Islamists are imprisoned after being convicted of planning "a second 11 September 2001". ](/news/2010/03/4/four-german-islamists-are-imprisoned-after-being-convicted-of-planning-a-second-11-september-2001.md)

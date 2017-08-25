@@ -1,6 +1,6 @@
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-# The European Centre for Disease Prevention and Control (ECDC) and the European Food Safety Authority announce investigations suggest that fenugreek seeds imported from Egypt are implicated in the ''E. coli'' outbreaks. 
+# The European Centre for Disease Prevention and Control (ECDC) and the European Food Safety Authority announce investigations suggest that fenugreek seeds imported from Egypt are implicated in the "E. coli" outbreaks. 
 
 Imported fenugreek seedsfrom Egypt may be the source of highly toxic E. coli outbreaksin Germany and France that have killed at least 48 people,according to initial investigations by European scientists.
 

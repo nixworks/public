@@ -1,6 +1,6 @@
 ### [2005-02-18](/news/2005/02/18/index.md)
 
-#  In the United Kingdom, the Hunting Act 2004, the ban on hunting with dogs, comes into force. Its opponents intend to challenge the law and hunt.  
+#  In the United Kingdom, the Hunting Act 2004, the ban on hunting with dogs, comes into force. Its opponents intend to challenge the law and hunt. 
 
 
 

@@ -3,10 +3,10 @@
 ### [ The death toll in the 2009 Java earthquake rises to 63. ](/news/2009/09/4/the-death-toll-in-the-2009-java-earthquake-rises-to-63.md)
 The death toll from a powerful earthquake is continuing to rise as Indonesian rescue crews move debris from a landslide in search of bodies.
 
-### [ Ryan Tubridy takes over as host of ''The Late Late Show'', the world's longest running chat show. ](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.md)
+### [ Ryan Tubridy takes over as host of "The Late Late Show", the world's longest running chat show. ](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.md)
 THE TAOISEACH Brian Cowen will be Ryan Tubridy&rsquo;s first guest when he presents The Late Late Show for the first time tonight&hellip;
 
-### [  Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md)
+### [ Xinjiang. Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md)
 Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions.
 
 ### [ Thousands of mourners from across southern India pay their respects to the dead chief minister of Andhra Pradesh, Y. S. Rajasekhara Reddy. ](/news/2009/09/4/thousands-of-mourners-from-across-southern-india-pay-their-respects-to-the-dead-chief-minister-of-andhra-pradesh-y-s-rajasekhara-reddy.md)
@@ -24,7 +24,7 @@ _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
 _Context: Japan, North Korea, Russia, South Korea, United States, enriched uranium, intercontinental ballistic_
 
-### [ More than 90 people, among them at least 40 civilians, are killed  when an American jetfighter called in by German troops attacks two fuel tankers hijacked by  Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel.md)
+### [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md)
 As many as 40 Afghan civilians were feared to be among the 90 people killed in a Nato air strike that hit two fuel tankers hijacked by the Taliban.
 
 ### [ The armed forces in Madagascar reject calls by opposition groups to take over the country's institutions for an interim period. ](/news/2009/09/4/the-armed-forces-in-madagascar-reject-calls-by-opposition-groups-to-take-over-the-country-s-institutions-for-an-interim-period.md)
@@ -48,7 +48,7 @@ A plan to approve new West Bank construction before a building freeze drew prote
 ### [ Air India Flight 829 suffers an engine fire during pushback at Chhatrapati Shivaji International Airport, Mumbai. All 228 people on board successfully evacuate via emergency slides. ](/news/2009/09/4/air-india-flight-829-suffers-an-engine-fire-during-pushback-at-chhatrapati-shivaji-international-airport-mumbai-all-228-people-on-board-s.md)
 _Context: Air India Flight 829, Chhatrapati Shivaji International Airport, Mumbai_
 
-### [ Two Bangladeshi newspapers, the ''Daily Manab Zamin'' and the ''New Nation'', apologise after publishing an article taken from satirical US website ''The Onion'', which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us.md)
+### [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md)
 _Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, United States_
 
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)

@@ -3,7 +3,7 @@
 ### [Five fighters from the militant group al-Shabab and one Kenyan Army soldier die in a clash. ](/news/2011/12/30/five-fighters-from-the-militant-group-al-shabab-and-one-kenyan-army-soldier-die-in-a-clash.md)
 _Context: Kenyan Army, al-Shabaab militants_
 
-### [2011 Syrian uprising:The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-pthe-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leagu.md)
+### [2011 Syrian uprising:. The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/2011-syrian-uprising-the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-leag.md)
 Syrian troops fire on tens of thousands of protesters as they hold rallies in front of visiting Arab League monitors, killing 35, activists say.
 
 ### [An explosion reportedly occurs outside a mosque in the northern Nigerian city of Maiduguri with four deaths reported. However, the Nigerian military later denies it was an explosion, claiming the noise was caused by an armed robbery with two deaths. ](/news/2011/12/30/an-explosion-reportedly-occurs-outside-a-mosque-in-the-northern-nigerian-city-of-maiduguri-with-four-deaths-reported-however-the-nigerian.md)
@@ -36,7 +36,7 @@ Authorities accused Lai Changxing of running a multi-billion-dollar smuggling ne
 ### [The opposition People's National Party wins a majority in the Jamaican general election, with former Prime Minister Portia Simpson-Miller set to regain office. ](/news/2011/12/30/the-opposition-people-s-national-party-wins-a-majority-in-the-jamaican-general-election-with-former-prime-minister-portia-simpson-miller-se.md)
 Defying opinion polls that suggested yesterday&#039;s general election was too close to call, the People&#039;s National Party (PNP) secured a stunning victory, winning 41 of the 63 seats in the House of Representatives....
 
-### [2011 Yemeni uprising:Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-ptens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fac.md)
+### [2011 Yemeni uprising:. Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fa.md)
 _Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)

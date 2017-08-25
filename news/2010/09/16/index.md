@@ -1,18 +1,18 @@
 ## [2010-09-16](/news/2010/09/16/index.md)
 
-### [9 people are reported killed after the 2010 Hakkri bus attack where a civilian passenger van hit a land mine on a road near Durankaya in the southeastern province of Hakkri, in Turkey. ](/news/2010/09/16/9-people-are-reported-killed-after-the-2010-hakkari-bus-attack-where-a-civilian-passenger-van-hit-a-land-mine-on-a-road-near-durankaya-in-th.md)
+### [9 people are reported killed after the 2010 Hakk-ri bus attack where a civilian passenger van hit a land mine on a road near Durankaya in the southeastern province of Hakk-ri, in Turkey. ](/news/2010/09/16/9-people-are-reported-killed-after-the-2010-hakk-ri-bus-attack-where-a-civilian-passenger-van-hit-a-land-mine-on-a-road-near-durankaya-in-th.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [Somalia:The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-pthe-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md)
+### [Somalia:. The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-the-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md)
 _Context: AMISOM, Somalia, United Nations_
 
 ### [The Taliban kidnaps 18 election officials and campaign workers for the Afghan parliamentary election in Badghis Province, Afghanistan. ](/news/2010/09/16/the-taliban-kidnaps-18-election-officials-and-campaign-workers-for-the-afghan-parliamentary-election-in-badghis-province-afghanistan.md)
 _Context: Afghanistan's, Badghis Province, Taliban, parliamentary election_
 
-### [American banks set a new record for the  home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.](/news/2010/09/16/american-banks-set-a-new-record-for-the-home-repossession-rate-with-1-2-million-homes-this-year-another-3-2-million-american-homes-remain.md)
+### [American banks set a new record for the home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.](/news/2010/09/16/american-banks-set-a-new-record-for-the-home-repossession-rate-with-1-2-million-homes-this-year-another-3-2-million-american-homes-remain.md)
 A record number of homeowners lost houses to their banks in August as lenders worked through the backlog of distressed mortgages, real estate data company RealtyTrac said on Thursday.
 
-### [The World Trade Organization demands that the more than US$20bn in US government  subsidies be withdrawn from Boeing.  The EU is also appealing a decision that it was guilty of illegal subsidies. ](/news/2010/09/16/the-world-trade-organization-demands-that-the-more-than-us-20bn-in-us-government-subsidies-be-withdrawn-from-boeing-the-eu-is-also-appeal.md)
+### [The World Trade Organization demands that the more than US$20bn in US government subsidies be withdrawn from Boeing. The EU is also appealing a decision that it was guilty of illegal subsidies. ](/news/2010/09/16/the-world-trade-organization-demands-that-the-more-than-us-20bn-in-us-government-subsidies-be-withdrawn-from-boeing-the-eu-is-also-appealin.md)
 The World Trade Organisation has ruled some US government subsidies should be withdrawn from Boeing, say agencies.
 
 ### [ US poverty rates hit 14.3% (43.6 million people), a 15 year high. ](/news/2010/09/16/us-poverty-rates-hit-14-3-43-6-million-people-a-15-year-high.md)
@@ -22,7 +22,7 @@ The U.S. poverty rate rose to 14.3 percent in 2009 from 13.2 percent the year be
 _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Transocean, explosion, offshore oil platform_
 
 ### [BP's first relief well intersects with its Gulf of Mexico Macondo well prior to pumping heavy mud and cement to seal permanently the oil reservoir adjacent to the well. ](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.md)
-_Context: BP, Gulf, Macondo well_
+_Context: BP, Gulf of Mexico, Macondo well_
 
 ### [The state of emergency in Christchurch, New Zealand, following the 2010 Canterbury earthquake is lifted. ](/news/2010/09/16/the-state-of-emergency-in-christchurch-new-zealand-following-the-2010-canterbury-earthquake-is-lifted.md)
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emergency_
@@ -31,12 +31,12 @@ _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emerge
 _Context: Flushing, Macroburst, New York City_
 
 ### [Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. ](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.md)
-_Context: 2010 Atlantic hurricane season, Gulf, Mexico, hurricane_
+_Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexico, hurricane_
 
 ### [Iranian state television allegedly airs an interview with Sakineh Mohammadi Ashtiani claiming that she has not been tortured. ](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.md)
 Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, who faces being stoned to death, in which she denies being lashed for not wearing the veil.
 
-### [The United Nations-backed Extraordinary Chambers in the Courts of Cambodia indict four Khmer Rouge leaders for genocide, war crimes and crimes against humanity for their role in the  regime in the late 1970s, including Pol Pot's deputy Nuon Chea, former Foreign Minister Ieng Sary, Social Affairs minister Ieng Thirith and head of state Khieu Samphan. ](/news/2010/09/16/the-united-nations-backed-extraordinary-chambers-in-the-courts-of-cambodia-indict-four-khmer-rouge-leaders-for-genocide-war-crimes-and-crim.md)
+### [The United Nations-backed Extraordinary Chambers in the Courts of Cambodia indict four Khmer Rouge leaders for genocide, war crimes and crimes against humanity for their role in the regime in the late 1970s, including Pol Pot's deputy Nuon Chea, former Foreign Minister Ieng Sary, Social Affairs minister Ieng Thirith and head of state Khieu Samphan. ](/news/2010/09/16/the-united-nations-backed-extraordinary-chambers-in-the-courts-of-cambodia-indict-four-khmer-rouge-leaders-for-genocide-war-crimes-and-crim.md)
 _Context: Extraordinary Chambers in the Courts of Cambodia, Ieng Sary, Ieng Thirith, Khieu Samphan, Khmer Rouge, Nuon Chea, Pol Pot, United Nations, genocide, war crimes_
 
 ### [Dr Imran Farooq, an exiled leader of Pakistan's Muttahida Qaumi Movement (MQM) is murdered in the North London suburb of Edgware, England leading to schools and shops being closed in Farooq's home city of Karachi. ](/news/2010/09/16/dr-imran-farooq-an-exiled-leader-of-pakistan-s-muttahida-qaumi-movement-mqm-is-murdered-in-the-north-london-suburb-of-edgware-england-le.md)

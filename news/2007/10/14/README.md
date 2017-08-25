@@ -6,7 +6,7 @@ _Context: India, Ludhiana, Punjab, bomb, movie theatre_
 ### [ Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. ](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.md)
 _Context: Democratic Party, Italian, Mayor of Rome, Walter Veltroni_
 
-### [ The Attorney-General of Israel launches a third criminal inquiry  into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he.md)
+### [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md)
 _Context: Ehud Olmert, Israel, Israeli Prime Minister, Prime Minister_
 
 ### [ Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. ](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.md)
@@ -15,7 +15,7 @@ _Context: BBC, Burma, CNN, Internet, blog_
 ### [ The Interfax news agency reports that Russian security forces have received a warning of plans to assassinate the President of Russia Vladimir Putin in Iran.](/news/2007/10/14/the-interfax-news-agency-reports-that-russian-security-forces-have-received-a-warning-of-plans-to-assassinate-the-president-of-russia-vladi.md)
 President Vladimir Putin has been warned by his special services of a possible plot to assassinate him during a visit to Tehran this week, according to the Kremlin.
 
-### [ At least eight people including six tourists die when trapped by a flood in the Nam Talu cave in Khao Sok national park in southern Thailand.  ](/news/2007/10/14/at-least-eight-people-including-six-tourists-die-when-trapped-by-a-flood-in-the-nam-talu-cave-in-khao-sok-national-park-in-southern-thailan.md)
+### [ At least eight people including six tourists die when trapped by a flood in the Nam Talu cave in Khao Sok national park in southern Thailand. ](/news/2007/10/14/at-least-eight-people-including-six-tourists-die-when-trapped-by-a-flood-in-the-nam-talu-cave-in-khao-sok-national-park-in-southern-thailan.md)
 Eight people, including four Swiss, a Briton and a 10-year-old German boy, drowned when a flash flood trapped them in a cave in southern Thailand, but a British woman survived, officials said on Sunday.
 
 ### [ Voters in Togo go to the poll for the Togolese parliamentary election, 2007. ](/news/2007/10/14/voters-in-togo-go-to-the-poll-for-the-togolese-parliamentary-election-2007.md)

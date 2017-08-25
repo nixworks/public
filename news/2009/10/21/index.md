@@ -1,12 +1,12 @@
 ## [2009-10-21](/news/2009/10/21/index.md)
 
-### [ The Philadelphia Phillies win the 2009 National League Championship Series 4 games to 1 after defeating the Los Angeles Dodgers 10-4. ](/news/2009/10/21/the-philadelphia-phillies-win-the-2009-national-league-championship-series-4-games-to-1-after-defeating-the-los-angeles-dodgers-10a4.md)
+### [ The Philadelphia Phillies win the 2009 National League Championship Series 4 games to 1 after defeating the Los Angeles Dodgers 10-4. ](/news/2009/10/21/the-philadelphia-phillies-win-the-2009-national-league-championship-series-4-games-to-1-after-defeating-the-los-angeles-dodgers-10-4.md)
 _Context: 2009 National League Championship Series, Los Angeles Dodgers, Philadelphia Phillies_
 
-### [ A report on the discovery of a new species of dinosaur, ''Fruitadens haagarorum'', measuring around 70cm long, is published in the ''Proceedings of the Royal Society''. ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-procee.md)
+### [ A report on the discovery of a new species of dinosaur, "Fruitadens haagarorum", measuring around 70cm long, is published in the "Proceedings of the Royal Society". ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-proceedin.md)
 _Context: Fruitadens haagarorum, Proceedings of the Royal Society, dinosaur_
 
-### [ After 10 hours, a man armed with a rifle and wearing military camouflage holding 8 people hostage in downtown Edmonton, Canada during the 2009 Workers Compensation Board of Alberta Hostage crisis surrenders peacefully to the Edmonton Police Service  ](/news/2009/10/21/after-10-hours-a-man-armed-with-a-rifle-and-wearing-military-camouflage-holding-8-people-hostage-in-downtown-edmonton-canada-during-the-2.md)
+### [ After 10 hours, a man armed with a rifle and wearing military camouflage holding 8 people hostage in downtown Edmonton, Canada during the 2009 Workers Compensation Board of Alberta Hostage crisis surrenders peacefully to the Edmonton Police Service ](/news/2009/10/21/after-10-hours-a-man-armed-with-a-rifle-and-wearing-military-camouflage-holding-8-people-hostage-in-downtown-edmonton-canada-during-the-2.md)
 _Context: 2009 Workers Compensation Board of Alberta Hostage crisis, Canada, Edmonton, Edmonton Police Service, military camouflage, rifle_
 
 ### [ Kyrgyz President Kurmanbek Bakiyev appoints former mayor of Bishkek, Daniar Usenov, as the new Prime Minister following the resignation of his predecessor, Igor Chudinov. ](/news/2009/10/21/kyrgyz-president-kurmanbek-bakiyev-appoints-former-mayor-of-bishkek-daniar-usenov-as-the-new-prime-minister-following-the-resignation-of.md)
@@ -51,7 +51,7 @@ _Context: Japan_
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)
 _Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin_
 
-### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, ''Straight Speaking for Africa''. ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
+### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, "Straight Speaking for Africa". ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
 _Context: Denis Sassou Nguesso, Nelson Mandela, President, President, Republic of the Congo, South Africa, foreword_
 
 ## [Previous Day...](/news/2009/10/20/index.md)

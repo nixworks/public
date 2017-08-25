@@ -1,12 +1,12 @@
 ## [2015-04-17](/news/2015/04/17/index.md)
 
-### [ Islamic State of Iraq and the Levant:Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-psyriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md)
+### [ Islamic State of Iraq and the Levant:. Syria-s President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-syria-s-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md)
 Up to 150,000 civilians are reportedly forced to flee their homes in the Iraqi city of Ramadi.
 
-### [Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-gulf-cartel-is-arre.md)
+### [Mexican Drug War. Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/mexican-drug-war-gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-g.md)
 _Context: Gulf Cartel, Mexican Drug War, Reynosa_
 
-### [Univision announce that ''Sabado Gigante'', the longest-running television variety series in history, will end after 53 years on September 19, 2015. ](/news/2015/04/17/univisia3n-announce-that-sa-bado-gigante-the-longest-running-television-variety-series-in-history-will-end-after-53-years-on-september.md)
+### [Univision announce that "Sabado Gigante", the longest-running television variety series in history, will end after 53 years on September 19, 2015. ](/news/2015/04/17/univisia3n-announce-that-sa-bado-gigante-the-longest-running-television-variety-series-in-history-will-end-after-53-years-on-september-1.md)
 Host and creator Don Francisco will continue contributing to the network.
 
 ### [Mylan, a manufacturer of generic drugs, announced that its board has no interest in much-discussed prospect of purchase by Teva Pharmaceuticals, one of the 15 largest pharmaceutical concerns in the world. ](/news/2015/04/17/mylan-a-manufacturer-of-generic-drugs-announced-that-its-board-has-no-interest-in-much-discussed-prospect-of-purchase-by-teva-pharmaceutic.md)

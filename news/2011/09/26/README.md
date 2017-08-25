@@ -21,7 +21,7 @@ _Context: Abkhazia, Prime Minister of Tuvalu, Sukhumi, Tuvalu, Willy Telavi, dip
 ### [Six people appear in court on terrorism charges, a week after being arrested in the English city of Birmingham. ](/news/2011/09/26/six-people-appear-in-court-on-terrorism-charges-a-week-after-being-arrested-in-the-english-city-of-birmingham.md)
 Six men in the UK have been charged with terrorism offences a week after they were arrested in a police operation.
 
-### [US actor Charlie Sheen settles his lawsuit with Warner Brothers and ''Two and a Half Men'' creator Chuck Lorre. ](/news/2011/09/26/us-actor-charlie-sheen-settles-his-lawsuit-with-warner-brothers-and-two-and-a-half-men-creator-chuck-lorre.md)
+### [US actor Charlie Sheen settles his lawsuit with Warner Brothers and "Two and a Half Men" creator Chuck Lorre. ](/news/2011/09/26/us-actor-charlie-sheen-settles-his-lawsuit-with-warner-brothers-and-two-and-a-half-men-creator-chuck-lorre.md)
 The resolution of the $100 million case was reported by THR last week.
 
 ### [About 300 students at Auckland University occupy a university building to protest increases in student fees. ](/news/2011/09/26/about-300-students-at-auckland-university-occupy-a-university-building-to-protest-increases-in-student-fees.md)

@@ -3,22 +3,22 @@
 ### [Aitizaz Hassan, a Pakistani boy who died after trying to stop a suicide bomber, is nominated for an award by Nawaz Sharif. ](/news/2014/01/11/aitizaz-hassan-a-pakistani-boy-who-died-after-trying-to-stop-a-suicide-bomber-is-nominated-for-an-award-by-nawaz-sharif.md)
 _Context: Aitizaz Hassan, Nawaz Sharif, Pakistan_
 
-### [500 people are killed in inter-factional fighting between an alliance of secular rebels and moderate Islamists against radical Islamists. ](/news/2014/01/11/500-people-are-killed-in-inter-factional-fighting-between-an-alliance-of-secular-rebels-and-moderate-islamists-against-radical-islamists.md)
+### [Syrian Civil War. 500 people are killed in inter-factional fighting between an alliance of secular rebels and moderate Islamists against radical Islamists. ](/news/2014/01/11/syrian-civil-war-500-people-are-killed-in-inter-factional-fighting-between-an-alliance-of-secular-rebels-and-moderate-islamists-against-rad.md)
 Almost 500 people have been killed in clashes between Syrian rebels and the al-Qaeda-linked Islamist State in Iraq and the Levant, activists say.
 
-### [African migrants are to be evacuated as violence continues in the country. ](/news/2014/01/11/african-migrants-are-to-be-evacuated-as-violence-continues-in-the-country.md)
+### [Central African Republic crisis. African migrants are to be evacuated as violence continues in the country. ](/news/2014/01/11/central-african-republic-crisis-african-migrants-are-to-be-evacuated-as-violence-continues-in-the-country.md)
 _Context: Central African Republic crisis_
 
-### [7 people are injured after protesters are attacked by gunfire. ](/news/2014/01/11/7-people-are-injured-after-protesters-are-attacked-by-gunfire.md)
+### [2013 Thai political crisis. 7 people are injured after protesters are attacked by gunfire. ](/news/2014/01/11/2013-thai-political-crisis-7-people-are-injured-after-protesters-are-attacked-by-gunfire.md)
 _Context: 2013 Thai political crisis_
 
-### [Yuri Lutsenko, one of the leaders of the protests, is injured during clashes with the police. ](/news/2014/01/11/yuri-lutsenko-one-of-the-leaders-of-the-protests-is-injured-during-clashes-with-the-police.md)
+### [Euromaidan. Yuri Lutsenko, one of the leaders of the protests, is injured during clashes with the police. ](/news/2014/01/11/euromaidan-yuri-lutsenko-one-of-the-leaders-of-the-protests-is-injured-during-clashes-with-the-police.md)
 MOSCOW -- Ukraine opposition leader Yuri Lutsenko was seriously injured when protesters clashed with riot police in downtown Kiev early Saturday, his spokeswoman said.
 
-### [A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md)
+### [War in Afghanistan. A four-year-old Afghan boy is killed by U.S. troops. ](/news/2014/01/11/war-in-afghanistan-a-four-year-old-afghan-boy-is-killed-by-u-s-troops.md)
 Afghan President Hamid Karzai today condemned US troops for killing a four-year-old boy in the southern province of Helmand, in an incident set to add fresh strain to troubled relations between Washington and Kabul. Helmand governor Naeem Baloch
 
-### [The United States is to deploy military advisers more than twenty years after the Black Hawk down incident. ](/news/2014/01/11/the-united-states-is-to-deploy-military-advisers-more-than-twenty-years-after-the-black-hawk-down-incident.md)
+### [Somali Civil War. The United States is to deploy military advisers more than twenty years after the Black Hawk down incident. ](/news/2014/01/11/somali-civil-war-the-united-states-is-to-deploy-military-advisers-more-than-twenty-years-after-the-black-hawk-down-incident.md)
 The US military secretly deployed a small number of trainers and advisers to Somalia in October, the first time regular troops have been stationed in the war-ravaged country since1993.
 
 ### [Total S.A. is to invest in shale gas exploration in the United Kingdom. ](/news/2014/01/11/total-s-a-is-to-invest-in-shale-gas-exploration-in-the-united-kingdom.md)

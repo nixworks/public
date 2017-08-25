@@ -12,7 +12,7 @@ Rescuers have pulled four more bodies from a coal mine in northwestern Colombia 
 ### [At least 46 people are killed and dozens more trapped after a mine blast in Henan, central China. ](/news/2010/06/21/at-least-46-people-are-killed-and-dozens-more-trapped-after-a-mine-blast-in-henan-central-china.md)
 Twenty-six rescued after explosion rips through coal mine in Henan province.
 
-### [Major aid agencies Oxfam and Save the Children both launch $10 million (PS6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-aps6-7-million-appeals-for-niger-where-drought-is-common-at-the-mome.md)
+### [Major aid agencies Oxfam and Save the Children both launch $10 million (GBP6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-agbp6-7-million-appeals-for-niger-where-drought-is-common-at-the-mo.md)
 Two major aid agencies launch appeals for seven million people facing food shortages in Niger after crop failures.
 
 ### [Gazprom, Russia's state-controlled gas monopoly, cuts 15% of Belarus' gas supplies over alleged debt, and threatens to gradually cut up to 85% of Belarus' gas supplies if the debt remains unpaid. ](/news/2010/06/21/gazprom-russia-s-state-controlled-gas-monopoly-cuts-15-of-belarus-gas-supplies-over-alleged-debt-and-threatens-to-gradually-cut-up-to-8.md)
@@ -39,7 +39,7 @@ _Context: A$, Australia, Australian Prime Minister, Canberra, Kevin Rudd, Xi Jin
 ### [8 people die and 10 people are wounded in a suicide attack in the northern city of Shirqat of Iraq. ](/news/2010/06/21/8-people-die-and-10-people-are-wounded-in-a-suicide-attack-in-the-northern-city-of-shirqat-of-iraq.md)
 _Context: Iraq, Shirqat_
 
-### [''The Washington Post'' reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members.md)
+### ["The Washington Post" reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members-pu.md)
 _Context: Gizab, Taliban, United States, Washington Post_
 
 ### [Three Australian soldiers and a United States army soldier are killed in a helicopter crash in Afghanistan with nine NATO casualties overall. ](/news/2010/06/21/three-australian-soldiers-and-a-united-states-army-soldier-are-killed-in-a-helicopter-crash-in-afghanistan-with-nine-nato-casualties-overall.md)
@@ -48,10 +48,10 @@ _Context: Afghanistan's, Australia, NATO, United States Army, helicopter, soldie
 ### [The northernmost radiation detection station of the South Korean Institute of Nuclear Safety claims to have detected an eightfold increase in the radioactive substance xenon. ](/news/2010/06/21/the-northernmost-radiation-detection-station-of-the-south-korean-institute-of-nuclear-safety-claims-to-have-detected-an-eightfold-increase-i.md)
 Right after North Korea claimed a successful nuclear fusion test on May 12, the ..
 
-### [Israeli-Palestinian conflict:Mayor of Jerusalem Nir Barkat calls for the demolition of 22 Palestinian homes in the Silwan neighbourhood of East Jerusalem. Barkat wants to build a tourist centre, while Palestinians say it is "forced displacement". Members of Israel's Meretz say they will resign their city council seats in protest. ](/news/2010/06/21/israeliapalestinian-conflict-pmayor-of-jerusalem-nir-barkat-calls-for-the-demolition-of-22-palestinian-homes-in-the-silwan-neighbourhood-o.md)
+### [Israeli-Palestinian conflict:. Mayor of Jerusalem Nir Barkat calls for the demolition of 22 Palestinian homes in the Silwan neighbourhood of East Jerusalem. Barkat wants to build a tourist centre, while Palestinians say it is "forced displacement". Members of Israel's Meretz say they will resign their city council seats in protest. ](/news/2010/06/21/israeli-palestinian-conflict-mayor-of-jerusalem-nir-barkat-calls-for-the-demolition-of-22-palestinian-homes-in-the-silwan-neighbourhood.md)
 Municipality endorses mayor&#39;s plan to raze 22 homes in east Jerusalem before Netanyahu-Obama meeting
 
-### [The ''Fund for Peace and Foreign Policy Magazine'' releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; ''Foreign Policy'' claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-se.md)
+### [The "Fund for Peace and Foreign Policy Magazine" releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; "Foreign Policy" claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-sees.md)
 Annual report ranks seven African countries among top 10 most unstable in the world.
 
 ### [Six people are arrested in South Africa over the shooting of Rwandan dissident Lt Gen Nyamwasa. ](/news/2010/06/21/six-people-are-arrested-in-south-africa-over-the-shooting-of-rwandan-dissident-lt-gen-nyamwasa.md)

@@ -1,12 +1,12 @@
 ## [2012-08-9](/news/2012/08/9/index.md)
 
-### [Syrian civil war:The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-pthe-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md)
+### [Syrian civil war:. The Syrian Army claims success in its major ground offensive against the opposition-held neighborhoods of Aleppo. ](/news/2012/08/9/syrian-civil-war-the-syrian-army-claims-success-in-its-major-ground-offensive-against-the-opposition-held-neighborhoods-of-aleppo.md)
 A senior aide to PresidentBarack Obama did not rule out on Wednesday the eventual creationof a no-fly zone over a patch of Syria that increasingly appearsto be controlled by anti-government rebels.
 
-### [Mexican Drug War:Fourteen bodies are abandoned inside a van on a major avenue in the Mexican state of San Luis Potosi. It is the fifth time this year drug traffickers leave 14 bodies as a message to their rivals, signaling that the number may be some sort of code. ](/news/2012/08/9/mexican-drug-war-pfourteen-bodies-are-abandoned-inside-a-van-on-a-major-avenue-in-the-mexican-state-of-san-luis-potosa-it-is-the-fifth-tim.md)
+### [Mexican Drug War:. Fourteen bodies are abandoned inside a van on a major avenue in the Mexican state of San Luis Potosi. It is the fifth time this year drug traffickers leave 14 bodies as a message to their rivals, signaling that the number may be some sort of code. ](/news/2012/08/9/mexican-drug-war-fourteen-bodies-are-abandoned-inside-a-van-on-a-major-avenue-in-the-mexican-state-of-san-luis-potosa-it-is-the-fifth-ti.md)
 MEXICO CITY (Reuters) - Assailants kidnapped and murdered 14 men and left their corpses in a Mercedes Benz van on a major highway in the state of San Luis Potosi in central Mexico, a prosecutor...
 
-### [North Caucasus insurgency:At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-pat-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauca.md)
+### [North Caucasus insurgency:. At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/north-caucasus-insurgency-at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-cauc.md)
 _Context: Botlikhsky District, Insurgency in the North Caucasus, Republic of Dagestan_
 
 ### [A gunman in Afghan military uniform kills three U.S. soldiers in the southwestern Afghan province of Helmand. ](/news/2012/08/9/a-gunman-in-afghan-military-uniform-kills-three-u-s-soldiers-in-the-southwestern-afghan-province-of-helmand.md)

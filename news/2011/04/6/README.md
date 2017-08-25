@@ -3,13 +3,13 @@
 ### [2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. ](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.md)
 _Context: 2011 Yemeni protests, Yemen_
 
-### [2011 Libyan civil war:NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-pnato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
+### [2011 Libyan civil war:. NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
 Military alliance says besieged town is now its top priority after rebels accuse bloc of failing to protect civilians.
 
-### [2011 Syrian protests:Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-psyria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md)
+### [2011 Syrian protests:. Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md)
 _Context: Syrian uprising_
 
-### [2010-2011 Ivorian crisis:Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010a2011-ivorian-crisis-pforces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent-g.md)
+### [2010-2011 Ivorian crisis:. Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md)
 Negotiations&#x20;over&#x20;Ivory&#x20;Coast&#x20;presidential&#x20;incumbent&#x20;Laurent&#x20;Gbagbo&#x2019;s&#x20;possible&#x20;surrender&#x20;continue&#x20;on&#x20;Wed.&#x20;night,&#x20;according&#x20;to&#x20;the&#x20;UN.
 
 ### [Civil partnerships for same-sex couples come into effect on the Isle of Man. ](/news/2011/04/6/civil-partnerships-for-same-sex-couples-come-into-effect-on-the-isle-of-man.md)
@@ -27,7 +27,7 @@ Portugal becomes the third eurozone country to request financial aid from the Eu
 ### [Workers at the Fukushima I Nuclear Power Plant manage to plug radiation leaks. ](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.md)
 _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 
-### [At least 200 African migrants are missing after a boat capsizes off Italy.  20 bodies recovered. ](/news/2011/04/6/at-least-200-african-migrants-are-missing-after-a-boat-capsizes-off-italy-20-bodies-recovered.md)
+### [At least 200 African migrants are missing after a boat capsizes off Italy. 20 bodies recovered. ](/news/2011/04/6/at-least-200-african-migrants-are-missing-after-a-boat-capsizes-off-italy-20-bodies-recovered.md)
 A desperate search is mounted for scores of African migrants missing after a boat capsizes off the Italian island of Lampedusa.
 
 ### [A United States Navy F/A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
@@ -51,7 +51,7 @@ _Context: Mexico, Tamaulipas_
 ### [The United States Senate defeated a measure that would have banned the Environmental Protection Agency from regulating greenhouse gas emissions under the Clean Air Act (United States). The new regulations which began being applied early this year affect air polluters such as power plants and oil refineries, attempts to address climate change mitigation. ](/news/2011/04/6/the-united-states-senate-defeated-a-measure-that-would-have-banned-the-environmental-protection-agency-from-regulating-greenhouse-gas-emissi.md)
 Efforts to curtail the environmental agency’s programs are not likely to end: Republican leaders are trying to attach similar measures to the budget bill.
 
-### [The Chinese state-run ''Global Times'' newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
+### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
 _Context: Ai Weiwei, China, Global Times, state media_
 
 ## [Previous Day...](/news/2011/04/5/index.md)

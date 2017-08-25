@@ -1,12 +1,12 @@
 ## [2015-02-25](/news/2015/02/25/index.md)
 
-### [American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md)
+### [2015 Brit Awards. American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md)
 Madonna has suffered an embarrassing fall at the Brit Awards.
 
 ### [At least 187 people are killed in avalanches in northeastern Afghanistan ](/news/2015/02/25/at-least-187-people-are-killed-in-avalanches-in-northeastern-afghanistan.md)
 Afghan rescuers are searching for dozens of people believed to be trapped under snow after a series of avalanches that killed at least 187 people.
 
-### [The Atlanta-based U.S. Centers for Disease Control and Prevention (CDC), were so concerned about a study released today in ''The New England Journal of Medicine'', that they are launching another new study about why so many people are becoming infected by or exposed to the potentially deadly ''Clostridium difficile'' ("''C. diff.''") bacterium after going to the doctor's or dentist's office. ](/news/2015/02/25/the-atlanta-based-u-s-centers-for-disease-control-and-prevention-cdc-were-so-concerned-about-a-study-released-today-in-the-new-england.md)
+### [The Atlanta-based U.S. Centers for Disease Control and Prevention (CDC), were so concerned about a study released today in "The New England Journal of Medicine", that they are launching another new study about why so many people are becoming infected by or exposed to the potentially deadly "Clostridium difficile" (""C. diff."") bacterium after going to the doctor's or dentist's office. ](/news/2015/02/25/the-atlanta-based-u-s-centers-for-disease-control-and-prevention-cdc-were-so-concerned-about-a-study-released-today-in-the-new-england.md)
 _Context: Atlanta, Centers for Disease Control and Prevention, Clostridium difficile, The New England Journal of Medicine, potentially deadly_
 
 ### [An arrest warrant is issued for Khaleda Zia, former Prime Minister of Bangladesh, after she fails to show up to face graft charges. ](/news/2015/02/25/an-arrest-warrant-is-issued-for-khaleda-zia-former-prime-minister-of-bangladesh-after-she-fails-to-show-up-to-face-graft-charges.md)

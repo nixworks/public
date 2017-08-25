@@ -9,7 +9,7 @@ _Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, govern
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, United States Secretary of State, United States government, War in Afghanistan (2001-present), War in Iraq_
 
-### [ 2003 invasion of Iraq and its aftermath: Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/2003-invasion-of-iraq-and-its-aftermath-p-iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-far.md)
+### [ 2003 invasion of Iraq and its aftermath:. Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/2003-invasion-of-iraq-and-its-aftermath-iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-far.md)
 _Context: 2003 invasion of Iraq, Basra, Britain, British military personnel, Iraq, Iraq Insurgency, Omar al-Faruq, al-Qaeda_
 
 ### [ The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. ](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.md)
@@ -18,7 +18,7 @@ _Context: Comair Flight 5191, co-pilot_
 ### [ Remains of Dagmar of Denmark, the mother of the last Tsar of Russia, are transported from the Roskilde Cathedral to Saint Petersburg in order to be reburied in the Peter and Paul Cathedral on 28 September. ](/news/2006/09/25/remains-of-dagmar-of-denmark-the-mother-of-the-last-tsar-of-russia-are-transported-from-the-roskilde-cathedral-to-saint-petersburg-in-ord.md)
 _Context: 28 September, Maria Fyodorovna, Nicholas II, Peter and Paul Cathedral, Roskilde Cathedral, Saint Petersburg_
 
-### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters.  Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
+### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
 _Context: Kismayo, Somalia, radical Islamists, sharia law_
 
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)

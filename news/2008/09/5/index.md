@@ -21,10 +21,10 @@ _Context: August, December 2003, US economy, United States, unemployment_
 ### [ La Princesse, a giant mechanical spider, starts to roam the streets of Liverpool, England, as part of the 2008 European City of Culture celebrations. ](/news/2008/09/5/la-princesse-a-giant-mechanical-spider-starts-to-roam-the-streets-of-liverpool-england-as-part-of-the-2008-european-city-of-culture-cel.md)
 _Context: England, European City of Culture, La Princesse, Liverpool_
 
-### [ The European Union's ''Rosetta'' spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
+### [ The European Union's "Rosetta" spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
 _Context: ''Rosetta'' space probe, 2867 Steins, European Union, asteroid_
 
-### [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)
+### [ Australia:. Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)
 _Context: Australia, Governor General of Australia, Quentin Bryce_
 
 ## [Previous Day...](/news/2008/09/4/index.md)

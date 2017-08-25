@@ -1,12 +1,12 @@
 ## [2011-04-21](/news/2011/04/21/index.md)
 
-### [2011 Libyan civil war:Muammar Gaddafi's forces continue to use artillery shelling against civilians and rebels in Misrata. Rebels from the Nafusa Mountains region capture Libya's west border, where over 100 loyalist soldiers surrender to Tunisian authorities after being chased out by rebels. ](/news/2011/04/21/2011-libyan-civil-war-pmuammar-gaddafi-s-forces-continue-to-use-artillery-shelling-against-civilians-and-rebels-in-misrata-rebels-from-the.md)
+### [2011 Libyan civil war:. Muammar Gaddafi's forces continue to use artillery shelling against civilians and rebels in Misrata. Rebels from the Nafusa Mountains region capture Libya's west border, where over 100 loyalist soldiers surrender to Tunisian authorities after being chased out by rebels. ](/news/2011/04/21/2011-libyan-civil-war-muammar-gaddafi-s-forces-continue-to-use-artillery-shelling-against-civilians-and-rebels-in-misrata-rebels-from-the.md)
 _Context: Libyan Civil War, Misrata, Nafusa Mountains_
 
 ### [Sri Lanka asks the United Nations not to publish a report on alleged war crimes. ](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.md)
 _Context: Sri Lanka, United Nations_
 
-### [Apple / Google smartphone tracking:U.S. Congressman Ed Markey (D-Mass.) sends Apple chief executive Steve Jobs a letter asking him to explain the purpose of a file embedded on iPhones and iPads that keeps a detailed log of the devices' location. ](/news/2011/04/21/apple-google-smartphone-tracking-pu-s-congressman-ed-markey-d-mass-sends-apple-chief-executive-steve-jobs-a-letter-asking-him-to-expla.md)
+### [Apple / Google smartphone tracking:. U.S. Congressman Ed Markey (D-Mass.) sends Apple chief executive Steve Jobs a letter asking him to explain the purpose of a file embedded on iPhones and iPads that keeps a detailed log of the devices' location. ](/news/2011/04/21/apple-google-smartphone-tracking-u-s-congressman-ed-markey-d-mass-sends-apple-chief-executive-steve-jobs-a-letter-asking-him-to-expl.md)
 Europe is beginning its own investigations, although the iPhone and iPad have been tracking location data all along.
 
 ### [The Federal Energy Regulatory Commission fines Brian Hunter $30 million for trades in which he engaged on behalf of Amaranth Advisors in the New York Mercantile Exchange in 2006 that manipulated the value of natural gas futures. ](/news/2011/04/21/the-federal-energy-regulatory-commission-fines-brian-hunter-30-million-for-trades-in-which-he-engaged-on-behalf-of-amaranth-advisors-in-the.md)

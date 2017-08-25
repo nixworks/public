@@ -1,18 +1,18 @@
 ## [2013-01-21](/news/2013/01/21/index.md)
 
-### [Syrian civil war:Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-prussian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-beir.md)
+### [Syrian civil war:. Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-bei.md)
 A suicide bomb in central Syria kills many people, reports say, as Russia prepares to airlift its nationals fleeing the conflict.
 
-### [History of Eritrea:Dissident soldiers seize the ministry of information in Asmara, Eritrea, forcing state media to call for the release of political prisoners. Other buildings are also surrounded while television and radio later went off air. The apparent coup attempt against President Isaias Afewerki reportedly fails. ](/news/2013/01/21/history-of-eritrea-pdissident-soldiers-seize-the-ministry-of-information-in-asmara-eritrea-forcing-state-media-to-call-for-the-release-of.md)
+### [History of Eritrea:. Dissident soldiers seize the ministry of information in Asmara, Eritrea, forcing state media to call for the release of political prisoners. Other buildings are also surrounded while television and radio later went off air. The apparent coup attempt against President Isaias Afewerki reportedly fails. ](/news/2013/01/21/history-of-eritrea-dissident-soldiers-seize-the-ministry-of-information-in-asmara-eritrea-forcing-state-media-to-call-for-the-release-of.md)
 Eritrean soldiers surround the ministry of information as state TV is taken off air, unconfirmed reports say.
 
-### [Northern Mali conflict:French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-pfrench-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md)
+### [Northern Mali conflict:. French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md)
 French and Malian troops seize the key Malian towns of Diabaly and Douentza from militant Islamists, the French defence minister says.
 
-### [Piracy in the 21st century:Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-pgunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
+### [Piracy in the 21st century:. Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
 _Context: Abidjan, Ivory Coast, Nigeria, Panama, Piracy in the 21st century_
 
-### [In Amnas hostage crisis:Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-palgeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-mi.md)
+### [In Amnas hostage crisis:. Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-m.md)
 * Algerian PM: 38 dead civilians, 29 militants killed* Dead Canadian named as &quot;Chedad&quot; coordinated attack -PM* Of hostages, 37 foreigners kil
 
 ### [Film director and newspaper columnist Michael Winner dies aged 77 in Kensington, London, England. ](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.md)
@@ -48,7 +48,7 @@ Barack Obama takes the oath of office in Washington DC to inaugurate his second 
 ### [Jeroen Dijsselbloem, the Minister of Finance of the Netherlands, succeeds Jean-Claude Juncker, the Prime Minister of Luxembourg, as the President of the Euro Group. ](/news/2013/01/21/jeroen-dijsselbloem-the-minister-of-finance-of-the-netherlands-succeeds-jean-claude-juncker-the-prime-minister-of-luxembourg-as-the-pres.md)
 After months of discussions, eurozone finance ministers eventually found a successor as Eurogroup chairman to Luxemburg’s prime minister, Jean-Claude Juncker. During the January 21 meeting [&hellip;]
 
-### [The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away ''en masse''. ](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.md)
+### [The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away "en masse". ](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.md)
 _Context: BBC Radio 4, Orwell Day, Politics and the English Language, en masse_
 
 ### [NASA's Kepler space telescope is placed in a precautionary 10-day safe mode after engineers noticed a problem with the instrument's orientation mechanism. ](/news/2013/01/21/nasa-s-kepler-space-telescope-is-placed-in-a-precautionary-10-day-safe-mode-after-engineers-noticed-a-problem-with-the-instrument-s-orientat.md)

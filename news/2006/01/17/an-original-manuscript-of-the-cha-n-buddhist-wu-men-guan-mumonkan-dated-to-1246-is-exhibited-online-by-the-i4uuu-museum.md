@@ -1,6 +1,6 @@
 ### [2006-01-17](/news/2006/01/17/index.md)
 
-#  An original manuscript of the Chan Buddhist ''Wu Men Guan'' (''Mumonkan'') dated to 1246 is exhibited online by the i4uuu museum. 
+#  An original manuscript of the Chan Buddhist "Wu Men Guan" ("Mumonkan") dated to 1246 is exhibited online by the i4uuu museum. 
 
 
 

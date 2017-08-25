@@ -1,6 +1,6 @@
 ## [2005-03-22](/news/2005/03/22/index.md)
 
-### [ The World Hockey Association announces that a six-team tournament, the ''"Bobby Hull Invitational"'', will take place in May 2005 in Vancouver, British Columbia, Canada. ](/news/2005/03/22/the-world-hockey-association-announces-that-a-six-team-tournament-the-bobby-hull-invitational-will-take-place-in-may-2005-in-vancou.md)
+### [ The World Hockey Association announces that a six-team tournament, the ""Bobby Hull Invitational"", will take place in May 2005 in Vancouver, British Columbia, Canada. ](/news/2005/03/22/the-world-hockey-association-announces-that-a-six-team-tournament-the-bobby-hull-invitational-will-take-place-in-may-2005-in-vancouve.md)
 The WHA will hold a tournament at the home of the Vancouver Canucks and may land a European investment group.
 
 ### [ Israel hands over control of Tulkarm to the Palestinian Authority. ](/news/2005/03/22/israel-hands-over-control-of-tulkarm-to-the-palestinian-authority.md)
@@ -36,7 +36,7 @@ _Context: India, bank, strike_
 ### [ The Indian government bans veterinary drug diclofenac because of a connection to the near extinction of vultures. ](/news/2005/03/22/the-indian-government-bans-veterinary-drug-diclofenac-because-of-a-connection-to-the-near-extinction-of-vultures.md)
 _Context: India, diclofenac, extinction, vulture_
 
-### [ Ex-president of Peru, Alberto Fujimori, plans to finance his coming presidential campaign with ''Fuji-Cola''. Fujimori is in exile in Japan, is wanted for corruption, murder and kidnapping and is legally banned from holding public office in Peru until 2010 ](/news/2005/03/22/ex-president-of-peru-alberto-fujimori-plans-to-finance-his-coming-presidential-campaign-with-fuji-cola-fujimori-is-in-exile-in-japan.md)
+### [ Ex-president of Peru, Alberto Fujimori, plans to finance his coming presidential campaign with "Fuji-Cola". Fujimori is in exile in Japan, is wanted for corruption, murder and kidnapping and is legally banned from holding public office in Peru until 2010 ](/news/2005/03/22/ex-president-of-peru-alberto-fujimori-plans-to-finance-his-coming-presidential-campaign-with-fuji-cola-fujimori-is-in-exile-in-japan.md)
 Reuters.com for the weird, oddly enough stories.
 
 ### [ In Angola, at least 96 people have died of Marburg virus. ](/news/2005/03/22/in-angola-at-least-96-people-have-died-of-marburg-virus.md)

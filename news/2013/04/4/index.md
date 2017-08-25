@@ -1,15 +1,15 @@
 ## [2013-04-4](/news/2013/04/4/index.md)
 
-### [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md)
+### [War in Afghanistan (2001-present):. An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md)
 A Nato air strike in eastern Ghazni province kills four Afghan policemen and a civilian, Afghan officials say.
 
-### [War in North-West Pakistan:The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-pthe-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-officer.md)
+### [War in North-West Pakistan:. The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-office.md)
 Pakistan Taliban claim responsibility for attack on vehicle that killed four security officers and wounded seven others.
 
-### [Israeli-Palestinian conflict:A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/israeliapalestinian-conflict-pa-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-west.md)
+### [Israeli-Palestinian conflict:. A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/israeli-palestinian-conflict-a-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-wes.md)
 Abbas blames Israel for escalation in West Bank violence after two alleged firebombers are killed in Tulkarem
 
-### [Central African Republic conflict (2012-present):South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/central-african-republic-conflict-2012apresent-psouth-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-r.md)
+### [Central African Republic conflict (2012-present):. South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/central-african-republic-conflict-2012-present-south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african.md)
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 
 ### [American Pulitzer Prize-winning film reviewer Roger Ebert dies at the age of 70 following a battle with cancer which initially cost him his voice. ](/news/2013/04/4/american-pulitzer-prize-winning-film-reviewer-roger-ebert-dies-at-the-age-of-70-following-a-battle-with-cancer-which-initially-cost-him-his.md)
@@ -33,10 +33,10 @@ _Context: Chechnya, Grozny, Russia_
 ### [The death toll from the recently discovered H7N9 bird flu rises to six. China begin slaughtering birds in hopes of containing the disease. ](/news/2013/04/4/the-death-toll-from-the-recently-discovered-h7n9-bird-flu-rises-to-six-china-begin-slaughtering-birds-in-hopes-of-containing-the-disease.md)
 The death toll from a new strain of bird flu rose to six in China on Thursday as scientists at the U.S. Centers for Disease Control and Prevention and around the world stepped up efforts to determine...
 
-### [A group of American scientists at Washington University announce in a study published in the journal ''Neuron'' that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a.md)
+### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
 _Context: ''Neuron'', Alzheimer's disease, United States, Washington University, genetic markers_
 
-### [2013 Korean crisis:South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-psouth-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-read.md)
+### [2013 Korean crisis:. South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-rea.md)
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;
 
 ### [Egypt intercepts a Togolese flagged ship carrying a large arsenal of weapons. It is believed the ship was headed to Iran. ](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.md)
@@ -66,7 +66,7 @@ Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#
 ### [Scientists unveil a 3D printer which creates material very similar to human tissue. ](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.md)
 Scientists have built a 3-D printer that creates material resembling human tissues. The novel substance, a deceptively simple network of water droplets coated in lipids, could one day be used to...
 
-### [A new species of giant tarantula, ''Poecilotheria rajaei'', is discovered in Sri Lanka. ](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-rajaei-is-discovered-in-sri-lanka.md)
+### [A new species of giant tarantula, "Poecilotheria rajaei", is discovered in Sri Lanka. ](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-rajaei-is-discovered-in-sri-lanka.md)
 _Context: Poecilotheria rajaei, Sri Lanka, tarantula_
 
 ## [Previous Day...](/news/2013/04/3/index.md)

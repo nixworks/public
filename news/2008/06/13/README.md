@@ -12,7 +12,7 @@ _Context: Movement for Democratic Change, Tendai Biti, Zimbabwe_
 ### [ Kim Jong-hoon, the South Korean Minister for Trade, heads to the United States to push for additional safeguards against mad cow disease in talks with Susan Schwab, the United States Trade Representative as protests continue in South Korea over the decision to resume importing beef from the United States. ](/news/2008/06/13/kim-jong-hoon-the-south-korean-minister-for-trade-heads-to-the-united-states-to-push-for-additional-safeguards-against-mad-cow-disease-in.md)
 _Context: South Korea, Susan Schwab, United States, United States Trade Representative, beef, mad cow disease_
 
-### [ June 2008 Midwest United States floods: The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/june-2008-midwest-united-states-floods-p-the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as.md)
+### [ June 2008 Midwest United States floods:. The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/june-2008-midwest-united-states-floods-the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as.md)
 _Context: Cedar Rapids, Chet Culver, Des Moines, Iowa, Governor of Iowa, Iowa, June 2008 Midwest United States floods, federal disaster declaration_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, states talks with the United States on a long-term security agreement have reached "a dead end". ](/news/2008/06/13/nouri-al-maliki-the-prime-minister-of-iraq-states-talks-with-the-united-states-on-a-long-term-security-agreement-have-reached-a-dead-end.md)
@@ -36,8 +36,8 @@ _Context: 1949, China, Taiwan, Taiwan Strait, civil aviation_
 ### [ Irish voters reject the Treaty of Lisbon in a referendum, thus putting into question the reform programme of the European Union. ](/news/2008/06/13/irish-voters-reject-the-treaty-of-lisbon-in-a-referendum-thus-putting-into-question-the-reform-programme-of-the-european-union.md)
 Irish voters have rejected the Lisbon Treaty by 110,000 votes - a margin of 53.4% to 46.6%.
 
-### [ The Station nightclub fire: Sealed Air pay a US$25 million settlement for manufacturing foam used in the club. 100 people died in the disaster. ](/news/2008/06/13/the-station-nightclub-fire-sealed-air-pay-a-us-25-million-settlement-for-manufacturing-foam-used-in-the-club-100-people-died-in-the-disas.md)
-_Context: the Station nightclub fire_
+### [ The Station nightclub fire: Sealed Air pay a US$25 million settlement for manufacturing foam used in the club. 100 people died in the disaster. [http://ap.google.com/article/ALeqM5h5CMQKwNvVeIyOIxllb1n7aBsBnAD919GSPG0 (AP via Google News)] (Wikinews)](/news/2008/06/13/the-station-nightclub-fire-sealed-air-pay-a-us-25-million-settlement-for-manufacturing-foam-used-in-the-club-100-people-died-in-the-disas.md)
+_Context: (Wikinews), the Station nightclub fire_
 
 ### [ American political news reporter Tim Russert dies after collapsing at the NBC Washington D.C. Bureau offices where he worked. ](/news/2008/06/13/american-political-news-reporter-tim-russert-dies-after-collapsing-at-the-nbc-washington-d-c-bureau-offices-where-he-worked.md)
 _Context: NBC, Tim Russert, Washington, D.C._

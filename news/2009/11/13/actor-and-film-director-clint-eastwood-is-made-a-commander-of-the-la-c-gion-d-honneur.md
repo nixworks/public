@@ -13,4 +13,4 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ### Related:
 
-1. [The President of France, Francois Hollande, presents the Legion d'honneur to four people, three of them Americans, Spencer Stone, Alek Skarlatos, Anthony Sadler; and Briton Chris Norman, for foiling a suspected terrorist act last Friday. ](/news/2015/08/24/the-president-of-france-franassois-hollande-presents-the-la-c-gion-d-honneur-to-four-people-three-of-them-americans-spencer-stone-alek-ska.md) _Context: Legion d'honneur_
+1. [2015 Thalys attack. The President of France, Francois Hollande, presents the Legion d'honneur to four people, three of them Americans, Spencer Stone, Alek Skarlatos, Anthony Sadler; and Briton Chris Norman, for foiling a suspected terrorist act last Friday. ](/news/2015/08/24/2015-thalys-attack-the-president-of-france-franassois-hollande-presents-the-la-c-gion-d-honneur-to-four-people-three-of-them-americans-spe.md) _Context: Legion d'honneur_

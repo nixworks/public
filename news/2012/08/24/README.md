@@ -1,9 +1,9 @@
 ## [2012-08-24](/news/2012/08/24/index.md)
 
-### [Syrian civil war:Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-pthree-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-t.md)
+### [Syrian civil war:. Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in.md)
 _Context: Lebanon, Sheikh, Syria, Syrian Civil War, Syrian rebels, Tripoli, Lebanon, combat_
 
-### [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
+### [War on terror:. Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
 U.S. missiles slammed into three compounds close to the Afghan border Friday, killing 18 suspected militants, Pakistani officials said.
 
 ### [Typhoon Tembin makes landfall on Taiwan. ](/news/2012/08/24/typhoon-tembin-makes-landfall-on-taiwan.md)
@@ -19,7 +19,7 @@ _Context: Pakistan, flood, monsoon_
 A section of a multi-million dollar bridge in China that opened in November has collapsed, leaving three people dead, state media say.
 
 ### [The House of Representatives of Japan passes a resolution criticising the President of South Korea Lee Myung-bak's recent visit to the disputed Liancourt Rocks. ](/news/2012/08/24/the-house-of-representatives-of-japan-passes-a-resolution-criticising-the-president-of-south-korea-lee-myung-bak-s-recent-visit-to-the-dispu.md)
-_Context: Lee Myung-bak, Liancourt Rocks, South Korean President, lower house of parliament_
+_Context: Lee Myung-bak, Liancourt Rocks, President of South Korea, lower house of parliament_
 
 ### [Two U.S. government employees are ambushed and wounded by gunshots near Huitzilac, Morelos, by Mexican Federal Police officers. Details are still unclear. ](/news/2012/08/24/two-u-s-government-employees-are-ambushed-and-wounded-by-gunshots-near-huitzilac-morelos-by-mexican-federal-police-officers-details-are.md)
 Two people employed at the US embassy in Mexico are wounded when police open fire at their vehicle, mistaking them for criminals, officials say.
@@ -39,7 +39,7 @@ _Context: Bundaberg, Queensland, High Court of Australia, Jayant Patel, manslaug
 ### [A gunman shoots and kills a former coworker near the Empire State Building in New York City. Following the initial shooting, police kill the gunman, and nine other people are wounded. ](/news/2012/08/24/a-gunman-shoots-and-kills-a-former-coworker-near-the-empire-state-building-in-new-york-city-following-the-initial-shooting-police-kill-the.md)
 _Context: Empire State Building, New York City, kills_
 
-### [The U.S. District Court for the District of Massachusetts, in the case ''Sony BMG v. Tenenbaum'', awards Sony BMG  US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-d.md)
+### [The U.S. District Court for the District of Massachusetts, in the case "Sony BMG v. Tenenbaum", awards Sony BMG US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-dama.md)
 _Context: Kazaa, Sony BMG v. Tenenbaum, U.S. District Court for the District of Massachusetts_
 
 ### [A court in Romania, at the request of the Romanian Intelligence Service, expels 8 Palestinians suspected of being involved with Hamas and Hezbollah. ](/news/2012/08/24/a-court-in-romania-at-the-request-of-the-romanian-intelligence-service-expels-8-palestinians-suspected-of-being-involved-with-hamas-and-he.md)

@@ -12,7 +12,7 @@ _Context: Iraq, Iraqi insurgency, Kerbala, Ramadi_
 ### [ At least 76 people have died following the collapse of a five-story hotel in Mecca. The death toll is expected to rise. Most of the dead are foreign Muslim pilgrims who had made their way there for the Hajj. ](/news/2006/01/5/at-least-76-people-have-died-following-the-collapse-of-a-five-story-hotel-in-mecca-the-death-toll-is-expected-to-rise-most-of-the-dead-ar.md)
 _Context: Hajj, Mecca_
 
-### [ Hewlett-Packard, a computer manufacturing giant, and a private equity firm, the Blackstone Group, may bid for Computer Sciences Corporation, according to anonymous sources cited by ''The Wall Street Journal''. ](/news/2006/01/5/hewlett-packard-a-computer-manufacturing-giant-and-a-private-equity-firm-the-blackstone-group-may-bid-for-computer-sciences-corporation.md)
+### [ Hewlett-Packard, a computer manufacturing giant, and a private equity firm, the Blackstone Group, may bid for Computer Sciences Corporation, according to anonymous sources cited by "The Wall Street Journal". ](/news/2006/01/5/hewlett-packard-a-computer-manufacturing-giant-and-a-private-equity-firm-the-blackstone-group-may-bid-for-computer-sciences-corporation.md)
 _Context: Blackstone Group, Computer Sciences Corporation, Hewlett-Packard, The Wall Street Journal, private equity_
 
 ## [Previous Day...](/news/2006/01/4/index.md)

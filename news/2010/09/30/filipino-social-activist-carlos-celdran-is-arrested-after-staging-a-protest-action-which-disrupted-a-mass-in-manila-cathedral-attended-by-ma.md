@@ -1,13 +1,15 @@
 ### [2010-09-30](/news/2010/09/30/index.md)
 
-# Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church's opposition to the Reproductive Health Bill (Philippines). 
+# Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church-s opposition to the Reproductive Health Bill (Philippines). 
 
 
 
 
 ### Source:
 
-1. [Philippine Daily Inquirer] [http://www.gmanews.tv/story/202328/tour-guide-carlos-celdran-detained-for-protesting-inside-church GMA News] [http://www.philstar.com/Article.aspx?articleId=616877&publicationSubCategoryId=65 Philippine Star](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101001-295322/Touchy-Fili-tour-guide-arrested-for-Noli-poster)
+1. [GMA News](http://www.gmanews.tv/story/202328/tour-guide-carlos-celdran-detained-for-protesting-inside-church)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101001-295322/Touchy-Fili-tour-guide-arrested-for-Noli-poster)
+3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=616877&publicationSubCategoryId=65)
 
 ### Related:
 

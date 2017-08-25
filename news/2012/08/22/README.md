@@ -1,12 +1,12 @@
 ## [2012-08-22](/news/2012/08/22/index.md)
 
-### [Syrian civil war:A Chinese state news commentary on recent U.S. "red line" remarks states that, once again, Western powers are digging deep for excuses to intervene militarily in another conflict-torn Middle East country. It sharply denounces the U.S.' "calculus". ](/news/2012/08/22/syrian-civil-war-pa-chinese-state-news-commentary-on-recent-u-s-red-line-remarks-states-that-once-again-western-powers-are-digging-deep.md)
+### [Syrian civil war:. A Chinese state news commentary on recent U.S. "red line" remarks states that, once again, Western powers are digging deep for excuses to intervene militarily in another conflict-torn Middle East country. It sharply denounces the U.S.' "calculus". ](/news/2012/08/22/syrian-civil-war-a-chinese-state-news-commentary-on-recent-u-s-red-line-remarks-states-that-once-again-western-powers-are-digging-dee.md)
 _Context: China, Syrian Civil War, Xinhua, conflict-torn Middle East, intervene militarily, recent_
 
 ### [At least 48 people are killed during clashes, over grazing rights for cattle, between the Pokomo and Orma tribes in Kenya. ](/news/2012/08/22/at-least-48-people-are-killed-during-clashes-over-grazing-rights-for-cattle-between-the-pokomo-and-orma-tribes-in-kenya.md)
 _Context: Kenya, Orma, Pokomo, clashes_
 
-### [Nina Bawden, the writer of seminal work ''Carrie's War'' and shortlisted for the Booker Prize in 1987 and the Lost Man Booker Prize in 2010, dies at her London home. ](/news/2012/08/22/nina-bawden-the-writer-of-seminal-work-carrie-s-war-and-shortlisted-for-the-booker-prize-in-1987-and-the-lost-man-booker-prize-in-2010.md)
+### [Nina Bawden, the writer of seminal work "Carrie's War" and shortlisted for the Booker Prize in 1987 and the Lost Man Booker Prize in 2010, dies at her London home. ](/news/2012/08/22/nina-bawden-the-writer-of-seminal-work-carrie-s-war-and-shortlisted-for-the-booker-prize-in-1987-and-the-lost-man-booker-prize-in-2010-d.md)
 Nina Bawden, who wrote 48 novels including Carrie&#039;s War, and whose husband died in the Potter&#039;s Bar rail crash, has died at the age of 87.
 
 ### [The BBC turns down "flat" a proposal for a statue to George Orwell who resigned from the organisation "because for some time past I have been conscious that I was wasting my time and the public money on doing work that produces no results." ](/news/2012/08/22/the-bbc-turns-down-flat-a-proposal-for-a-statue-to-george-orwell-who-resigned-from-the-organisation-because-for-some-time-past-i-have-bee.md)

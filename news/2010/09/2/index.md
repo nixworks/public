@@ -12,14 +12,14 @@ _Context: Mexican Army, Tamaulipas, United States, drug cartel_
 ### [Permanent Representative of Pakistan to the United Nations Hussain Haroon calls for an inquiry after allegations emerge of Pakistani floodwaters being diverted into vulnerable villages in a bid to preserve crops. ](/news/2010/09/2/permanent-representative-of-pakistan-to-the-united-nations-hussain-haroon-calls-for-an-inquiry-after-allegations-emerge-of-pakistani-floodwa.md)
 A Pakistani diplomat calls for a probe into allegations that rich landowners diverted water into unprotected villages during the floods to save their own crops.
 
-### [Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-rains.md)
+### [2010 Pacific typhoon season. Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. ](/news/2010/09/2/2010-pacific-typhoon-season-severe-tropical-storm-lionrock-lands-in-china-s-fujian-province-with-warnings-of-strong-winds-and-torrential-ra.md)
 _Context: Chinese, Fujian, Typhoon Chaba_
 
-### [A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-the-united-states.md)
+### [Hurricane Earl. A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/hurricane-earl-a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-t.md)
 _Context: Hurricane Earl, Hurricane Earl, Long Island, New York State, United States, tropical storm_
 
 ### [An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. ](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.md)
-_Context: Deepwater Horizon, Gulf, oil rig explodes_
+_Context: Deepwater Horizon, Gulf of Mexico, oil rig explodes_
 
 ### [Lebanon requests an Interpol arrest warrant for Ghassan al-Jidd, a former General in the Lebanese Army who allegedly spied for the Mossad. ](/news/2010/09/2/lebanon-requests-an-interpol-arrest-warrant-for-ghassan-al-jidd-a-former-general-in-the-lebanese-army-who-allegedly-spied-for-the-mossad.md)
 Former Lebanese general accused of collaborating with Israeli intelligence; five alleged spies face death sentence.
@@ -30,7 +30,7 @@ Human&#x20;traffickers&#x20;have&#x20;kidnapped&#x20;at&#x20;least&#x20;17&#x20;
 ### [Price riots continue in Mozambique, leaving a further four people dead. ](/news/2010/09/2/price-riots-continue-in-mozambique-leaving-a-further-four-people-dead.md)
 _Context: Mozambique_
 
-### [Police in Brazil arrest almost the entire council in the city of Dourados,  Mato Grosso do Sul, on suspicion of fraud and corruption, leaving the city without a government. ](/news/2010/09/2/police-in-brazil-arrest-almost-the-entire-council-in-the-city-of-dourados-mato-grosso-do-sul-on-suspicion-of-fraud-and-corruption-leavin.md)
+### [Police in Brazil arrest almost the entire council in the city of Dourados, Mato Grosso do Sul, on suspicion of fraud and corruption, leaving the city without a government. ](/news/2010/09/2/police-in-brazil-arrest-almost-the-entire-council-in-the-city-of-dourados-mato-grosso-do-sul-on-suspicion-of-fraud-and-corruption-leaving.md)
 Brazilian police arrest almost the entire city council in Dourados on suspicion of corruption, putting a judge in temporary control of the government.
 
 ### [Figures show that at least 2,000 British police officers had 3 or more complaints made against them in 2009-10. ](/news/2010/09/2/figures-show-that-at-least-2-000-british-police-officers-had-3-or-more-complaints-made-against-them-in-2009-10.md)

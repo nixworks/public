@@ -6,25 +6,25 @@ A privately owned U.S. communications satellite collided with a defunct Russian 
 ### [ South Africa announces that a general election will be held on April 22, 2009. ](/news/2009/02/10/south-africa-announces-that-a-general-election-will-be-held-on-april-22-2009.md)
 _Context: loses_
 
-### [ Automotive industry crisis of 2008-2009: United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-p-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md)
+### [ Automotive industry crisis of 2008-2009:. United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. ](/news/2009/02/10/automotive-industry-crisis-of-2008-2009-united-states-automaker-general-motors-announces-it-will-cut-10-000-jobs-in-its-salaried-workforc.md)
 _Context: General Motors, automakers, layoff, salaried, struggling, workforce_
 
 ### [ Karl-Theodor zu Guttenberg is named Germany's Federal Minister of Economics and Technology. ](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.md)
 _Context: Federal Minister of Economics and Technology, Karl-Theodor zu Guttenberg_
 
-### [ Russian financial crisis of 2008-2009: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008a2009-p-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md)
+### [ Russian financial crisis of 2008-2009:. Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008-2009-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md)
 _Context: Russian financial crisis of 2008-2009, US$, indebt, private-sector_
 
 ### [ Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. ](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19-7-billion-francs-for-fiscal-year-2008-and-will-cut-15-000-jobs-throughout-2009.md)
 _Context: UBS AG, financial services, fiscal year, francs, layoff_
 
-### [ Israel's legislative election takes place.  ](/news/2009/02/10/israel-s-legislative-election-takes-place.md)
+### [ Israel's legislative election takes place. ](/news/2009/02/10/israel-s-legislative-election-takes-place.md)
 _Context: Israel, legislative election_
 
 ### [ Zimbabwe's dollar depreciates and its cholera epidemic has killed more than 3,000 people. ](/news/2009/02/10/zimbabwe-s-dollar-depreciates-and-its-cholera-epidemic-has-killed-more-than-3-000-people.md)
 _Context: Zimbabwe, cholera, depreciates, dollar, epidemic_
 
-### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
+### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009. ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
 _Context: American Recovery and Reinvestment Act, United States Senate_
 
 ### [ The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. ](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirements-on-nationals-from-bolivia-lesotho-south-africa-swaziland-and-venezuela.md)

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Verizon Communications_
+1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.-s Web business, including Yahoo Japan Corp., next week. Google, Time Inc., and private equity funds Bain and TPG are considering bidding for Yahoo-s core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-s-web-business-including-yahoo-japan-corp-next-week-google-t.md) _Context: Verizon Communications_

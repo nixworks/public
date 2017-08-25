@@ -1,6 +1,6 @@
 ## [2012-03-19](/news/2012/03/19/index.md)
 
-### [Syrian uprising:At least 30 people are reported killed in fighting between Syrian rebels and government forces in the Damascus neighborhood of al-Mazzeh. ](/news/2012/03/19/syrian-uprising-pat-least-30-people-are-reported-killed-in-fighting-between-syrian-rebels-and-government-forces-in-the-damascus-neighborhood.md)
+### [Syrian uprising:. At least 30 people are reported killed in fighting between Syrian rebels and government forces in the Damascus neighborhood of al-Mazzeh. ](/news/2012/03/19/syrian-uprising-at-least-30-people-are-reported-killed-in-fighting-between-syrian-rebels-and-government-forces-in-the-damascus-neighborhoo.md)
 Russian news reports are saying a unit of the nation’s military has arrived in Syria.
 
 ### [Bahraini uprising: Bahraini opposition groups prepare to talk to the ruling monarchy as the government continues to crackdown on protests across the nation. ](/news/2012/03/19/bahraini-uprising-bahraini-opposition-groups-prepare-to-talk-to-the-ruling-monarchy-as-the-government-continues-to-crackdown-on-protests-ac.md)

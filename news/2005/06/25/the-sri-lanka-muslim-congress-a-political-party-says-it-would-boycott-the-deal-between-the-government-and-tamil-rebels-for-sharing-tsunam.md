@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _Context: Sri Lanka, Tamil_
+1. [Tamil national anthem. Sri Lanka lifts unofficial ban on Tamil national anthem on independence day. ](/news/2016/02/4/tamil-national-anthem-sri-lanka-lifts-unofficial-ban-on-tamil-national-anthem-on-independence-day.md) _Context: Sri Lanka, Tamil_
 2. [Prime Minister of India Narendra Modi visits Sri Lanka's Jaffna District to hand over 27,000 homes to Tamil survivors of the Sri Lankan Civil War. ](/news/2015/03/14/prime-minister-of-india-narendra-modi-visits-sri-lanka-s-jaffna-district-to-hand-over-27-000-homes-to-tamil-survivors-of-the-sri-lankan-civi.md) _Context: Sri Lanka, Tamil_
 3. [A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". ](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.md) _Context: Muslim, Sri Lanka_
 4. [Police in Colombo, Sri Lanka, arrest three Sinhalese Buddhist monks for torching a Muslim-owned clothing store, raising fears for safety among Muslims. ](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.md) _Context: Muslim, Sri Lanka_

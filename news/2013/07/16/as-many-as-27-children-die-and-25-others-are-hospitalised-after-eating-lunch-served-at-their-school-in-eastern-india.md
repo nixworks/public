@@ -13,5 +13,5 @@ Eight children died and 80 others have been hospitalised after eating lunch serv
 
 ### Related:
 
-1. [Bihar school meal poisoning incident:Police say that a forensic report confirmed the cooking oil contained "very toxic" levels of monocrotophos, an agricultural pesticide. ](/news/2013/07/20/bihar-school-meal-poisoning-incident-ppolice-say-that-a-forensic-report-confirmed-the-cooking-oil-contained-very-toxic-levels-of-monocroto.md) _Context: Bihar school meal poisoning incident_
+1. [Bihar school meal poisoning incident:. Police say that a forensic report confirmed the cooking oil contained "very toxic" levels of monocrotophos, an agricultural pesticide. ](/news/2013/07/20/bihar-school-meal-poisoning-incident-police-say-that-a-forensic-report-confirmed-the-cooking-oil-contained-very-toxic-levels-of-monocrot.md) _Context: Bihar school meal poisoning incident_
 2. [Speeding train kills 7 elephants in Eastern India. ](/news/2010/09/23/speeding-train-kills-7-elephants-in-eastern-india.md) _Context: eastern India_

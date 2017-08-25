@@ -1,9 +1,9 @@
 ## [2013-04-5](/news/2013/04/5/index.md)
 
-### [Mexican Drug War:Recent report from Stratfor indicates that at least 60 people were killed in Tamaulipas state in March, after the Gulf Cartel leaders Miguel ''El Gringo'' Villarreal and Mario Ramirez Trevino fought for control of the organization. ](/news/2013/04/5/mexican-drug-war-precent-report-from-stratfor-indicates-that-at-least-60-people-were-killed-in-tamaulipas-state-in-march-after-the-gulf-car.md)
+### [Mexican Drug War:. Recent report from Stratfor indicates that at least 60 people were killed in Tamaulipas state in March, after the Gulf Cartel leaders Miguel "El Gringo" Villarreal and Mario Ramirez Trevino fought for control of the organization. ](/news/2013/04/5/mexican-drug-war-recent-report-from-stratfor-indicates-that-at-least-60-people-were-killed-in-tamaulipas-state-in-march-after-the-gulf-ca.md)
 _Context: Gulf Cartel, Mario Ramirez Trevino, Mexican Drug War, Miguel ''El Gringo'' Villarreal, Stratfor, Tamaulipas_
 
-### [War in Afghanistan (2001-present):An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. ](/news/2013/04/5/war-in-afghanistan-2001apresent-pan-explosive-laden-donkey-is-used-in-an-attack-on-a-police-security-post-in-the-alingar-district-of-lag.md)
+### [War in Afghanistan (2001-present):. An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. ](/news/2013/04/5/war-in-afghanistan-2001-present-an-explosive-laden-donkey-is-used-in-an-attack-on-a-police-security-post-in-the-alingar-district-of-la.md)
 An official says a bomb attached to a donkey has exploded, killing a policeman and wounded three civilians.
 
 ### [Queen Elizabeth of the United Kingdom receives an honorary BAFTA award for her support of British film and television and she is honored as the "most memorable Bond girl" for her appearance at the 2012 London Olympics. ](/news/2013/04/5/queen-elizabeth-of-the-united-kingdom-receives-an-honorary-bafta-award-for-her-support-of-british-film-and-television-and-she-is-honored-as.md)
@@ -15,10 +15,10 @@ _Context: Bank of Japan, Japan, Nikkei 225, index, stock market_
 ### [A sixth person dies in the People's Republic of China from the Influenza A virus subtype H7N9, after the closure of poultry markets in the city of Shanghai and a mass culling of 20,000 birds. ](/news/2013/04/5/a-sixth-person-dies-in-the-people-s-republic-of-china-from-the-influenza-a-virus-subtype-h7n9-after-the-closure-of-poultry-markets-in-the-c.md)
 China confirmed Friday a sixth death from a lesser known H7N9 strain of the bird flu virus, while 14 people remain infected.
 
-### [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-beninaore-expressway.md)
+### [At least 60 people die in Nigeria following a collision between a bus and a petrol tanker on the Benin-Ore expressway. ](/news/2013/04/5/at-least-60-people-die-in-nigeria-following-a-collision-between-a-bus-and-a-petrol-tanker-on-the-benin-ore-expressway.md)
 _Context: Beninese, Nigeria, Ore, bus, petrol tanker_
 
-### [2013 Korean crisis:South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-psouth-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-n.md)
+### [2013 Korean crisis:. South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that.md)
 South Korea deploys two warships with missile-defence systems, reports say, after the North reportedly moved a mid-range missile to the coast.
 
 ### [Iran's negotiator Saeed Jalili defends the nation's controversial nuclear program that involves uranium enrichment, in a new round of talks with P5+1 countries in Kazakhstan. ](/news/2013/04/5/iran-s-negotiator-saeed-jalili-defends-the-nation-s-controversial-nuclear-program-that-involves-uranium-enrichment-in-a-new-round-of-talks.md)

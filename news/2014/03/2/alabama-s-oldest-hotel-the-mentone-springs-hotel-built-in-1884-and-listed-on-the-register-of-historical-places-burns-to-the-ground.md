@@ -1,6 +1,6 @@
 ### [2014-03-2](/news/2014/03/2/index.md)
 
-# Alabama's oldest hotel,  the Mentone Springs Hotel - built in 1884 and listed on the register of historical places - burns to the ground. 
+# Alabama's oldest hotel, the Mentone Springs Hotel - built in 1884 and listed on the register of historical places - burns to the ground. 
 
 
 

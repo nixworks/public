@@ -1,0 +1,23 @@
+### [2017-02-16](/news/2017/02/16/index.md)
+
+# Philippine presidential election, 2016. The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. 
+
+
+
+
+### Source:
+
+1. [Reuters via ''U.S. News and World Report](http://www.usnews.com/news/world/articles/2017-02-16/philippine-supreme-court-allows-election-recount-for-defeated-marcos)
+
+### Related:
+
+1. [Philippine presidential election, 2016. Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/philippine-presidential-election-2016-bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-presi.md) _Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Supreme Court of the Philippines_
+2. [Philippine presidential election, 2016. Bongbong Marcos pays -36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/philippine-presidential-election-2016-bongbong-marcos-pays-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine.md) _Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016_
+3. [ Philippine presidential election, 2016. The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/philippine-presidential-election-2016-the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-v.md) _Context: Leni Robredo, Philippine presidential election, 2016, Philippines_
+4. [Philippine presidential election, 2016. Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/philippine-presidential-election-2016-rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos.md) _Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016_
+5. [Martial law in the Philippines. The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/martial-law-in-the-philippines-the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-l.md) _Context: Philippines, Supreme Court of the Philippines_
+6. [Philippine Drug War. Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-drug-war-philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-t.md) _Context: Leni Robredo, Philippines_
+7. [The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. ](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.md) _Context: Leni Robredo, Philippines_
+8. [Philippine Drug War. Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippine-drug-war-philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-curren.md) _Context: Leni Robredo, Philippines_
+9. [Burial of Ferdinand Marcos. The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/burial-of-ferdinand-marcos-the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least.md) _Context: Philippines, Supreme Court of the Philippines_
+10. [Philippine Drug War. Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/philippine-drug-war-rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md) _Context: Philippines, Supreme Court of the Philippines_

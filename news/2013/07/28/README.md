@@ -1,6 +1,6 @@
 ## [2013-07-28](/news/2013/07/28/index.md)
 
-### [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md)
+### [Iraqi insurgency (post-U.S. withdrawal). A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md)
 A suicide bomber kills eight Kurdish police in the northern Iraqi town of Tuz Khurmatu after targeting a convoy, local officials say.
 
 ### [A bus returning 48 pilgrims from a weekend visit to the shrine of Saint Padre Pio of Pietrelcina, in San Giovanni Rotondo, goes off a bridge east of Naples, in Avellino Province, killing 39 people (including some children), and injuring at least 9 others. ](/news/2013/07/28/a-bus-returning-48-pilgrims-from-a-weekend-visit-to-the-shrine-of-saint-padre-pio-of-pietrelcina-in-san-giovanni-rotondo-goes-off-a-bridge.md)

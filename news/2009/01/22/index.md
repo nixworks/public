@@ -1,6 +1,6 @@
 ## [2009-01-22](/news/2009/01/22/index.md)
 
-### [ Hamas announces it will distribute maximums of EUR4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-a-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md)
+### [ Hamas announces it will distribute maximums of -4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md)
 _Context: EUR, Gaza Strip, Hamas, fire_
 
 ### [ Israel prepares to defend itself against accusations of war crimes in its conflict with Hamas. ](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.md)
@@ -27,7 +27,7 @@ _Context: 2008, 2008 Chinese milk scandal, China, Sanlu Group, capital punishmen
 ### [ General Motors receives a second loan installment of US$5.4 billion. ](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.md)
 GM received the second piece of its government loan package Wednesday, a $5.4 billion installment that will allow the automaker to pay its bills and avoid running out of cash.
 
-### [ Nominees for the 81st Academy Awards are announced.  ](/news/2009/01/22/nominees-for-the-81st-academy-awards-are-announced.md)
+### [ Nominees for the 81st Academy Awards are announced. ](/news/2009/01/22/nominees-for-the-81st-academy-awards-are-announced.md)
 _Context: Academy Awards, Nominees_
 
 ## [Previous Day...](/news/2009/01/21/index.md)

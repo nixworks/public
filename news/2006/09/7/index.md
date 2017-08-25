@@ -9,13 +9,13 @@ _Context: 10 Most Wanted Fugitives list, New York State, Ralph "Bucky" Phillips_
 ### [Ukrainian archaeologists claim they have found underground pyramids near Luhansk that predate the pyramids at Giza. BBC news's Helen Fawkes calls the complex the "Ukrainian Stonehenge." ](/news/2006/09/7/ukrainian-archaeologists-claim-they-have-found-underground-pyramids-near-luhansk-that-predate-the-pyramids-at-giza-bbc-news-s-helen-fawkes.md)
 _Context: Giza, Luhansk, Stonehenge, Ukraine, underground pyramids_
 
-### ['''Belgian False Flag Terror arrests:''' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-int.md)
+### ["'Belgian False Flag Terror arrests:"' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-into.md)
 _Context: Belgium, Bloed, Bodem, Eer en Trouw, destabilizing the country, far right, terrorists_
 
 ### [The U.S. military prohibits cruel, inhumane or degrading treatment for "unlawful combatants" in a sweeping revision of DoD Directive 2310. ](/news/2006/09/7/the-u-s-military-prohibits-cruel-inhumane-or-degrading-treatment-for-unlawful-combatants-in-a-sweeping-revision-of-dod-directive-2310.md)
 _Context: DoD Directive 2310, unlawful combatant_
 
-### [Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md)
+### [2006 Israel-Lebanon conflict. Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/2006-israel-lebanon-conflict-israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md)
 _Context: Israel, Lebanon, blockade, war_
 
 ### [Tony Blair announces that he will step down as Prime Minister of the United Kingdom within 12 months but declines to give an exact date for his departure. ](/news/2006/09/7/tony-blair-announces-that-he-will-step-down-as-prime-minister-of-the-united-kingdom-within-12-months-but-declines-to-give-an-exact-date-for.md)

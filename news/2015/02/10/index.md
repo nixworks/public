@@ -1,18 +1,18 @@
 ## [2015-02-10](/news/2015/02/10/index.md)
 
-### [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md)
+### [War in Donbass. Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/war-in-donbass-fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramators.md)
 _Context: Kramatorsk, Ukraine, War in Donbass_
 
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)
 Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot; a top White House official on Tuesday announced a new intelligence unit to coordinate analysis of cyberthreats, modeled on similar U.S. government efforts to fight terrorism.
 
-### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
+### [Islamic State of Iraq and the Levant. The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/islamic-state-of-iraq-and-the-levant-the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
 _Context: Islamic State of Iraq and the Levant, Kayla Mueller, United States_
 
-### [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md)
+### ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md)
 _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
 
-### [American comedian and satirist Jon Stewart, host of Comedy Central's ''The Daily Show'',  announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-du.md)
+### [American comedian and satirist Jon Stewart, host of Comedy Central's "The Daily Show", announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-due-t.md)
 _Context: Comedy Central, Jon Stewart, The Daily Show_
 
 ### [The European Broadcasting Union announces that Australia will participate in the Eurovision Song Contest for the first time in Vienna 2015; it will be the first country ever outside of the European Broadcasting Area, as well as the first associated member of the EBU, to participate ](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.md)

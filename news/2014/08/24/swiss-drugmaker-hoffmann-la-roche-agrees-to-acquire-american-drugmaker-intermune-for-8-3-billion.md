@@ -12,4 +12,4 @@
 ### Related:
 
 1. [The U.S. Food and Drug Administration (FDA) approves Kadcyla, a new drug manufactured by Roche, for treating late-stage breast cancer. ](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.md) _Context: Hoffmann-La Roche_
-2. [Cipla does not infringe a valid Roche patent on erlotinib (trade name ''Tarceva'') for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-sa.md) _Context: Hoffmann-La Roche_
+2. [Cipla does not infringe a valid Roche patent on erlotinib (trade name "Tarceva") for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-says.md) _Context: Hoffmann-La Roche_

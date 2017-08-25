@@ -1,12 +1,12 @@
 ## [2011-06-3](/news/2011/06/3/index.md)
 
-### [Yemeni uprising:A rocket attack on the presidential palace in Sana'a during the Battle of Sana'a leaves president Ali Abdullah Saleh lightly injured and seven other top government officials wounded, including Prime Minister Ali Muhammad Mujawar. Four presidential guards and Sheikh Ali Mohsen al-Matari, an imam at the mosque, were killed. ](/news/2011/06/3/yemeni-uprising-pa-rocket-attack-on-the-presidential-palace-in-sana-a-during-the-battle-of-sana-a-leaves-president-ali-abdullah-saleh-lightl.md)
+### [Yemeni uprising:. A rocket attack on the presidential palace in Sana'a during the Battle of Sana'a leaves president Ali Abdullah Saleh lightly injured and seven other top government officials wounded, including Prime Minister Ali Muhammad Mujawar. Four presidential guards and Sheikh Ali Mohsen al-Matari, an imam at the mosque, were killed. ](/news/2011/06/3/yemeni-uprising-a-rocket-attack-on-the-presidential-palace-in-sana-a-during-the-battle-of-sana-a-leaves-president-ali-abdullah-saleh-light.md)
 Hours after surviving the shelling of a mosque at his presidential palace that killed a Muslim preacher and several guards, Yemeni President Ali Abdullah Saleh on Friday insisted he is in good health and blamed &quot;gangsters&quot; for the attack.
 
-### [Syrian uprising:At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-pat-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-dur.md)
+### [Syrian uprising:. At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-du.md)
 Dozens of people were killed on Friday as Syrian protesters demonstrated over of the killing of 30 children at the hands of President Bashar al-Assad&#039;s security forces.
 
-### [Libyan Civil War:At least 150 people drown when an overcrowded boat carrying about 850 refugees fleeing Libya capsized off the Tunisian coast; scores more are still missing as a search for survivors by Tunisian authorities continues. ](/news/2011/06/3/libyan-civil-war-pat-least-150-people-drown-when-an-overcrowded-boat-carrying-about-850-refugees-fleeing-libya-capsized-off-the-tunisian-coa.md)
+### [Libyan Civil War:. At least 150 people drown when an overcrowded boat carrying about 850 refugees fleeing Libya capsized off the Tunisian coast; scores more are still missing as a search for survivors by Tunisian authorities continues. ](/news/2011/06/3/libyan-civil-war-at-least-150-people-drown-when-an-overcrowded-boat-carrying-about-850-refugees-fleeing-libya-capsized-off-the-tunisian-co.md)
 At least 150 people drowned when a boat leaving Libya capsized off the Tunisian coast on Wednesday, the U.N. refugee agency said Friday.
 
 ### [Sudanese government troops and Sudan Liberation Army rebels clash in the western Darfur region; two SLA rebels are reported killed. ](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.md)
@@ -24,7 +24,7 @@ Seventeen people were killed and 50 others wounded in a blast from a container f
 ### [2011 Egyptian revolution: A female journalist is attacked in Cairo's Tahrir Square while covering a demonstration demanding an immediate trial for former President of Egypt Hosni Mubarak. ](/news/2011/06/3/2011-egyptian-revolution-a-female-journalist-is-attacked-in-cairo-s-tahrir-square-while-covering-a-demonstration-demanding-an-immediate-tri.md)
 _Context: 2011 Egyptian revolution, Cairo, Egyptian President, Hosni Mubarak, Tahrir Square_
 
-### [American actor James Arness, best known for playing Marshal Matt Dillon in ''Gunsmoke'', dies in Brentwood, California, aged 88. ](/news/2011/06/3/american-actor-james-arness-best-known-for-playing-marshal-matt-dillon-in-gunsmoke-dies-in-brentwood-california-aged-88.md)
+### [American actor James Arness, best known for playing Marshal Matt Dillon in "Gunsmoke", dies in Brentwood, California, aged 88. ](/news/2011/06/3/american-actor-james-arness-best-known-for-playing-marshal-matt-dillon-in-gunsmoke-dies-in-brentwood-california-aged-88.md)
 James Arness, the towering actor best known for portraying Marshal Matt Dillon, the strong and commanding symbol of frontier justice on the landmark TV western series &quot;Gunsmoke,&quot; died Friday. He was 88.
 
 ### [Greek prime minister, George Papandreou presents a plan for further austerity-measure privatizations in return for more international aid to avoid defaulting on its debt following a 110 billion Euro bailout last year that has so far failed to resolve the Greek economic crisis; Greece's main labor unions have called for a general strike on June 15. ](/news/2011/06/3/greek-prime-minister-george-papandreou-presents-a-plan-for-further-austerity-measure-privatizations-in-return-for-more-international-aid-to.md)
@@ -42,10 +42,10 @@ Hamilton is being targeted this weekend by striking postal workers, the second c
 ### [57 people are injured, and 28,000 people have been forced to evacuate, following an explosion at an army munitions depot in Russia's western Ural Mountains region. ](/news/2011/06/3/57-people-are-injured-and-28-000-people-have-been-forced-to-evacuate-following-an-explosion-at-an-army-munitions-depot-in-russia-s-western.md)
 _Context: Ural Mountains, munitions_
 
-### [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a  refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-i.md)
+### [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-is.md)
 _Context: Chevron Corporation, refinery_
 
-### [2011 Missouri River floodsResidents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floodspresidents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md)
+### [2011 Missouri River floods. Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floods-residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md)
 Residents evacuated some affluent areas of North Dakota and South Dakota on Friday along the swollen Missouri River as federal officials kicked up water releases to relieve pressure on six Upper Plains reservoirs.
 
 ### [A South Korean report claims that South Korea and the United States sprayed Agent Orange on the Demilitarized Zone in 1968-69 in order to prevent infiltrations from North Korea. ](/news/2011/06/3/a-south-korean-report-claims-that-south-korea-and-the-united-states-sprayed-agent-orange-on-the-demilitarized-zone-in-1968-69-in-order-to-pr.md)

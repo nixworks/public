@@ -1,6 +1,6 @@
 ## [2011-02-1](/news/2011/02/1/index.md)
 
-### [Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-square.md)
+### [2011 Egyptian protests. Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/2011-egyptian-protests-protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-s.md)
 More than a million rally in Cairo as massive countrywide protests are held against President Mubarak.
 
 ### [Abdullah of Jordan sacks the Jordanian government amid protests over prices in the country. ](/news/2011/02/1/abdullah-of-jordan-sacks-the-jordanian-government-amid-protests-over-prices-in-the-country.md)
@@ -12,13 +12,13 @@ _Context: Buddhists, South Thailand insurgency, Thailand_
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
 _Context: China, Sohu.com_
 
-### [A court in London bars the oil company BP from entering into a planned joint venture and share swap with Rosneft, a state-controlled Russian company.  ](/news/2011/02/1/a-court-in-london-bars-the-oil-company-bp-from-entering-into-a-planned-joint-venture-and-share-swap-with-rosneft-a-state-controlled-russian.md)
+### [A court in London bars the oil company BP from entering into a planned joint venture and share swap with Rosneft, a state-controlled Russian company. ](/news/2011/02/1/a-court-in-london-bars-the-oil-company-bp-from-entering-into-a-planned-joint-venture-and-share-swap-with-rosneft-a-state-controlled-russian.md)
 _Context: BP, London, share swap_
 
-### [The Australian state of Queensland evacuates off-shore islands and low-lying parts of North Queensland ahead of Cyclone Yasi which is expected to hit the state as a Category 4 tropical cyclone late on Wednesday or early Thursday. ](/news/2011/02/1/the-australian-state-of-queensland-evacuates-off-shore-islands-and-low-lying-parts-of-north-queensland-ahead-of-cyclone-yasi-which-is-expect.md)
+### [Cyclone Yasi. The Australian state of Queensland evacuates off-shore islands and low-lying parts of North Queensland ahead of Cyclone Yasi which is expected to hit the state as a Category 4 tropical cyclone late on Wednesday or early Thursday. ](/news/2011/02/1/cyclone-yasi-the-australian-state-of-queensland-evacuates-off-shore-islands-and-low-lying-parts-of-north-queensland-ahead-of-cyclone-yasi-w.md)
 _Context: Australia, Cyclone Yasi, Queensland, north Queensland, tropical cyclone_
 
-### [The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-storm-affecting.md)
+### [US blizzard. The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/us-blizzard-the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-sto.md)
 A colossal winter storm stretching from New Mexico to Maine hit the agricultural heartland of the United States with snow and freezing rain on Tuesday, and experts said the worst was still to come as it moved northeast.
 
 ### [The Shinmoedake volcano on the Japanese island of Kyushu erupts again with its biggest explosion since becoming active again. ](/news/2011/02/1/the-shinmoedake-volcano-on-the-japanese-island-of-kya-sha-erupts-again-with-its-biggest-explosion-since-becoming-active-again.md)
@@ -45,7 +45,7 @@ US soldier accused of giving a dossier of secret documents to WikiLeaks is held 
 ### [The Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhism's third-highest lama, is questioned by police after large amounts of foreign money are found at his monastery in Dharamsala, northern India. Some Indian media allege he is acting as a spy for China. ](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.md)
 _Context: China, Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhist_
 
-### [Irish general election, 2011:Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-pbrian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-place.md)
+### [Irish general election, 2011:. Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-brian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-plac.md)
 Ireland will vote on February 25 in the first general election in Europe dominated by the euro zone debt crisis and by demands to renegotiate an unpopular EU/IMF bailout.
 
 ### [In the wake of several recent deadly plane crashes in Iran, the Parliament of Iran passes a vote of no confidence in the country's Minister of Roads and Transportation Hamid Behbahani and impeaches him. ](/news/2011/02/1/in-the-wake-of-several-recent-deadly-plane-crashes-in-iran-the-parliament-of-iran-passes-a-vote-of-no-confidence-in-the-country-s-minister.md)

@@ -6,8 +6,8 @@ _Context: Afghanistan's, Barack Obama, United States, United States military per
 ### [ The U.S. Securities and Exchange Commission charges Stanford Financial Group Chairman Allen Stanford with fraud. ](/news/2009/02/17/the-u-s-securities-and-exchange-commission-charges-stanford-financial-group-chairman-allen-stanford-with-fraud.md)
 _Context: Allen Stanford, SEC, Stanford Financial Group, United States, chairman, fraud_
 
-### [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a PS400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-aps400-000-bribe-from-italian-prime-minister-silvio.md)
-_Context: Britain, David Mills, Italian, Italian Prime Minister, PS, Silvio Berlusconi, accepting, bribes_
+### [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md)
+_Context: Britain, David Mills, GBP, Italian, Italian Prime Minister, Silvio Berlusconi, accepting, bribes_
 
 ### [ Walter Veltroni resigns as Secretary of Italy's Democratic Party. ](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.md)
 _Context: Democratic Party, Italian, Walter Veltroni_
@@ -15,7 +15,7 @@ _Context: Democratic Party, Italian, Walter Veltroni_
 ### [ Legal charges against The Pirate Bay are amended. ](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.md)
 _Context: The Pirate Bay, trial_
 
-### [ Late 2000s recession in the Americas: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-p-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md)
+### [ Late 2000s recession in the Americas:. U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md)
 _Context: American Recovery and Reinvestment Act, Barack Obama, Colorado, Denver, Late 2000s recession in the Americas, United States, president_
 
 ### [ Shoichi Nakagawa will resign as Japan's Minister of Finance after the National Diet approves a budget in April. ](/news/2009/02/17/shaichi-nakagawa-will-resign-as-japan-s-minister-of-finance-after-the-national-diet-approves-a-budget-in-april.md)
@@ -27,7 +27,7 @@ California, which is on the brink of running out of cash, will notify 20,000 sta
 ### [ U.S. Secretary of State Hillary Clinton arrives in Japan to deliberate the global economic crisis and international security. ](/news/2009/02/17/u-s-secretary-of-state-hillary-clinton-arrives-in-japan-to-deliberate-the-global-economic-crisis-and-international-security.md)
 _Context: Hillary Clinton, Japan, United States, United States Secretary of State, current financial crisis, international security_
 
-### [ Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia.  ](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.md)
+### [ Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia. ](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.md)
 _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, Kang Kek Iew, Khmer Rouge_
 
 ### [ Irish Nationwide Chairman Michael Walsh resigns over his involvement in questionable loan arrangements with Anglo Irish Bank. ](/news/2009/02/17/irish-nationwide-chairman-michael-walsh-resigns-over-his-involvement-in-questionable-loan-arrangements-with-anglo-irish-bank.md)

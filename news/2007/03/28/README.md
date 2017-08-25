@@ -21,13 +21,13 @@ _Context: Lansana Conte, Lansana Kouyate, President of Guinea, prime minister_
 ### [ Arab and Middle East leaders meet in Riyadh, Saudi Arabia to discuss reviving the Middle East peace process. ](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.md)
 Bush administration attempts to revive Arab-Israeli peace talks suffered a setback Wednesday as leaders at an Arab League summit here, including the heads of state of several U.S. allies, condemned...
 
-### [ Iraq War: 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-p-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md)
+### [ Iraq War:. 2007 chlorine bombings in Iraq: The U.S. military reports that insurgents with two chlorine truck bombs have attacked a local government building in Fallujah. ](/news/2007/03/28/iraq-war-2007-chlorine-bombings-in-iraq-the-u-s-military-reports-that-insurgents-with-two-chlorine-truck-bombs-have-attacked-a-local-go.md)
 Insurgents with two chlorine truck bombs attacked a local government building in Falluja in western Iraq on Wednesday, the latest in a string of attacks using the poisonous gas, the U.S. military said.
 
 ### [ A Sydney Ferries jetcat collides with a private charter vessel beneath the Sydney Harbour Bridge in the waters of Port Jackson, Sydney, Australia, killing three people with another person missing. ](/news/2007/03/28/a-sydney-ferries-jetcat-collides-with-a-private-charter-vessel-beneath-the-sydney-harbour-bridge-in-the-waters-of-port-jackson-sydney-aus.md)
 _Context: Port Jackson, Sydney, Sydney Ferries, Sydney Harbour Bridge_
 
-### [ Zimbabwean political crisis: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-p-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md)
+### [ Zimbabwean political crisis:. The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. ](/news/2007/03/28/zimbabwean-political-crisis-the-movement-for-democratic-change-says-its-leader-morgan-tsvangirai-has-been-arrested-by-police-he-was-la.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwean political crisis_
 
 ### [ The UK Ministry of Defence has published exact co-ordinates of the location of the Royal Navy personnel when they were seized by Iran. According to this data the soldiers were 1.7 nautical miles within Iraqi waters at the time of their capture. ](/news/2007/03/28/the-uk-ministry-of-defence-has-published-exact-co-ordinates-of-the-location-of-the-royal-navy-personnel-when-they-were-seized-by-iran-acco.md)

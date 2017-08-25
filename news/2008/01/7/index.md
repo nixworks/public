@@ -15,7 +15,7 @@ _Context: Icheon, South Korea_
 ### [ Portions of Eastern Australia are affected by the worst floods in the last 20 years. ](/news/2008/01/7/portions-of-eastern-australia-are-affected-by-the-worst-floods-in-the-last-20-years.md)
 _Context: Eastern Australia_
 
-### [ Two United States Navy F/A-18 Super Hornets, a F/A-18E and two-seat F/A-18F, flying off the aircraft carrier USS ''Harry S. Truman'', crash in the Persian Gulf. The aviators were safely recovered. There was no indication of hostile fire. ](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-a-18e-and-two-seat-f-a-18f-flying-off-the-aircraft-carrier-uss-harry-s-truman-crash.md)
+### [ Two United States Navy F/A-18 Super Hornets, a F/A-18E and two-seat F/A-18F, flying off the aircraft carrier USS "Harry S. Truman", crash in the Persian Gulf. The aviators were safely recovered. There was no indication of hostile fire. ](/news/2008/01/7/two-united-states-navy-f-a-18-super-hornets-a-f-a-18e-and-two-seat-f-a-18f-flying-off-the-aircraft-carrier-uss-harry-s-truman-crash-i.md)
 _Context: F/A-18 Super Hornets, Persian Gulf, USS ''Harry S. Truman'', United States Navy, aircraft carrier_
 
 ### [ The government of Tanzania cannot account for Sh$260 million (approx US$200,000) in aid from the Global Fund initiative to fight AIDS and HIV. ](/news/2008/01/7/the-government-of-tanzania-cannot-account-for-sh-260-million-approx-us-200-000-in-aid-from-the-global-fund-initiative-to-fight-aids-and-h.md)

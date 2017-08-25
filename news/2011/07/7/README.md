@@ -3,13 +3,13 @@
 ### [2011 Syrian uprising: Over a thousand people flee Hama in fear of a government attack by the Syrian Army. ](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.md)
 About 1,000 people have fled the city fearing another crackdown on protests, rights group says.
 
-### [2011 Libyan civil war:Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-prussia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md)
+### [2011 Libyan civil war:. Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-russia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md)
 Nato forces have attacked Libya&#039;s oil facilities for the first time in this conflict in an attempt to starve Muammar Gaddafi&#039;s army of fuel, as rebels, following fierce clashes, moved to within 50 miles of the capital Tripoli.
 
 ### [2011 Yemeni uprising: Security forces clash with rebels near the town of Zinjibar with eight dead including one soldier. ](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.md)
 _Context: 2011 Yemeni uprising, Zinjibar_
 
-### [War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md)
+### [War in Afghanistan:. Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md)
 The United States took complete charge of Kandahar Thursday, formally ending over five years of Canadian involvement in southern Afghanistan.
 
 ### [Thirty-four people are killed in attacks on buses and houses in Karachi, Pakistan, with a total three-day death toll of 63. ](/news/2011/07/7/thirty-four-people-are-killed-in-attacks-on-buses-and-houses-in-karachi-pakistan-with-a-total-three-day-death-toll-of-63.md)
@@ -21,10 +21,10 @@ _Context: Japan, Toyota, an earthquake and tsunami_
 ### [Australia's Civil Aviation Safety Authority applies to extend grounding of Tiger Airways services in Australia to August 1. ](/news/2011/07/7/australia-s-civil-aviation-safety-authority-applies-to-extend-grounding-of-tiger-airways-services-in-australia-to-august-1.md)
 _Context: Australia, Civil Aviation Safety Authority, Tiger Airways_
 
-### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG.  The deal still needs to receive the approval of the acquiring firm's shareholders.  ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
+### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
 _Context: Deutsche Boerse AG, NYSE Euronext, New York Stock Exchange_
 
-### [''News of the World'' phone hacking affair:News International shuts down the British newspaper the ''News of the World'', as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-of-the-world-phone-hacking-affair-pnews-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a.md)
+### ["News of the World" phone hacking affair:. News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-of-the-world-phone-hacking-affair-news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-pho.md)
 Police investigating allegations of phone hacking by the News of the World plead for patience, saying they are contacting almost 4,000 people whose names appear in seized documents.
 
 ### [A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. ](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.md)
@@ -36,7 +36,7 @@ _Context: China, Shandong Province, coal mine_
 ### [At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. ](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.md)
 The bus passengers were returning from a marriage celebration. The accident happened at an unmanned railway crossing. Manmohan Singh announced ex-gratia relief of Rs 2 lakhs for the kin of those killed.
 
-### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente ''De Grolsch Veste'' collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-a.md)
+### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
 _Context: De Grolsch Veste, Enschede, FC Twente, Netherlands_
 
 ### [A heavy storm in the US city of Denver, Colorado, causes localized flooding and causing 10,000 houses to lose power. ](/news/2011/07/7/a-heavy-storm-in-the-us-city-of-denver-colorado-causes-localized-flooding-and-causing-10-000-houses-to-lose-power.md)
@@ -69,7 +69,7 @@ Riot police patrolled the streets to break up opposition protests in Dhaka and e
 ### [The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". ](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.md)
 _Context: China, Chinese President, Jiang Zemin_
 
-### [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md)
+### [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md)
 _Context: Crete, Freedom Flotilla II, Gaza Strip, Greek Coast Guard_
 
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)

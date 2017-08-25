@@ -1,6 +1,6 @@
 ## [2012-09-9](/news/2012/09/9/index.md)
 
-### [Syrian civil war:A main water supply pipe serving central Aleppo is allegedly struck by a government air strike. Hundreds of thousands of inhabitants are left without drinking water. The Aleppo governor says "sabotage" damaged "two pumps serving three districts" and repair work is ongoing. Food, cooking gas and electricity are reported to be in short supply. ](/news/2012/09/9/syrian-civil-war-pa-main-water-supply-pipe-serving-central-aleppo-is-allegedly-struck-by-a-government-air-strike-hundreds-of-thousands-of-i.md)
+### [Syrian civil war:. A main water supply pipe serving central Aleppo is allegedly struck by a government air strike. Hundreds of thousands of inhabitants are left without drinking water. The Aleppo governor says "sabotage" damaged "two pumps serving three districts" and repair work is ongoing. Food, cooking gas and electricity are reported to be in short supply. ](/news/2012/09/9/syrian-civil-war-a-main-water-supply-pipe-serving-central-aleppo-is-allegedly-struck-by-a-government-air-strike-hundreds-of-thousands-of.md)
 Battles between the Syrian military and rebels burst a main pipe that delivered drinking water to hundreds of thousands of residents of Aleppo, opposition groups said Saturday.
 
 ### [A wave of attacks kill more than 100 people and injure 350 others across Iraq on the day the death sentence against Tariq al-Hashimi is made public. ](/news/2012/09/9/a-wave-of-attacks-kill-more-than-100-people-and-injure-350-others-across-iraq-on-the-day-the-death-sentence-against-tariq-al-hashimi-is-made.md)
@@ -15,7 +15,7 @@ _Context: CNDP, Democratic Republic of Congo, Louis Michel, M23, Nestor, Paul Ka
 ### [Closing their annual summit, APEC leaders report progress in Vladivostok over environmental and trade barrier issues; some territorial issues remain unsolved. ](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-progress-in-vladivostok-over-environmental-and-trade-barrier-issues-some-territorial-issue.md)
 _Context: APEC, annual summit_
 
-### [The Central Criminal Court of Iraq sentences ''in absentia'' Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-h.md)
+### [The Central Criminal Court of Iraq sentences "in absentia" Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-han.md)
 _Context: Central Criminal Court of Iraq, Iraqi Army, Tariq al-Hashimi, Vice President, general, hanging, in absentia_
 
 ### [The son of convicted Romanian former Minister of Agriculture :ro:Ioan Avram Muresan, Dan Muresan, is found dead in a Kenyan hotel room. The 32-year-old political manager worked in Kenya for a British company. ](/news/2012/09/9/the-son-of-convicted-romanian-former-minister-of-agriculture-ro-ioan-avram-mureean-dan-mureean-is-found-dead-in-a-kenyan-hotel-room-th.md)

@@ -1,6 +1,6 @@
 ## [2012-04-4](/news/2012/04/4/index.md)
 
-### [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudanasudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md)
+### [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudan-sudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md)
 _Context: 2012 South Sudan-Sudan border conflict_
 
 ### [A suicide bomber kills at least 12 people and injures many more in Afghanistan's Faryab province. ](/news/2012/04/4/a-suicide-bomber-kills-at-least-12-people-and-injures-many-more-in-afghanistan-s-faryab-province.md)
@@ -9,7 +9,7 @@ A suicide bomber on Wednesday killed at least 12 people and injured many more in
 ### [A suicide bomber detonates an explosion in Somalia's national theatre in Mogadishu while a ceremony is taking place, killing at least ten people, including the presidents of the Somali Olympic Committee and the Somali Football Federation. ](/news/2012/04/4/a-suicide-bomber-detonates-an-explosion-in-somalia-s-national-theatre-in-mogadishu-while-a-ceremony-is-taking-place-killing-at-least-ten-pe.md)
 _Context: Mogadishu, Somali Football Federation, Somali Olympic Committee, Somalia_
 
-### [German Nobel laureate Gunter Grass's  poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
+### [German Nobel laureate Gunter Grass's poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
 _Context: German, Gunter Grass, Iran, Israel, Nobel Laureate, poem_
 
 ### [As many as 50,000 homes in northern England are hit by a power blackout after heavy winds, snow and ice bring down electricity cables. ](/news/2012/04/4/as-many-as-50-000-homes-in-northern-england-are-hit-by-a-power-blackout-after-heavy-winds-snow-and-ice-bring-down-electricity-cables.md)

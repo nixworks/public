@@ -9,7 +9,7 @@ _Context: Ramadi_
 ### [The death toll of Saturday's explosion in Basra, Iraq, rises to 43, with the number of injured people being over 100. Police say the explosion was as a result of a power generator short-circuiting but other sources claim it was due to a car bomb. ](/news/2010/08/8/the-death-toll-of-saturday-s-explosion-in-basra-iraq-rises-to-43-with-the-number-of-injured-people-being-over-100-police-say-the-explosi.md)
 At least 20 dead as explosions rock marketplace in Basra, wounding scores.
 
-### [Adaisseh incident:United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/adaisseh-incident-punited-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whet.md)
+### [Adaisseh incident:. United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/adaisseh-incident-united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whe.md)
 Florida congressman Ron Klein calls for US to stop military support.
 
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
@@ -24,7 +24,7 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 ### [Mark Papermaster, who engineered the Apple Inc. iPhone, leaves the company due to the antenna issues associated with the iPhone 4. ](/news/2010/08/8/mark-papermaster-who-engineered-the-apple-inc-iphone-leaves-the-company-due-to-the-antenna-issues-associated-with-the-iphone-4.md)
 _Context: Apple Inc., Mark Papermaster, iPhone, iPhone 4_
 
-### [Ads website Craigslist faces allegations of "pay to rape" underage prostitution after a letter is published in ''The Washington Post''. ](/news/2010/08/8/ads-website-craigslist-faces-allegations-of-pay-to-rape-underage-prostitution-after-a-letter-is-published-in-the-washington-post.md)
+### [Ads website Craigslist faces allegations of "pay to rape" underage prostitution after a letter is published in "The Washington Post". ](/news/2010/08/8/ads-website-craigslist-faces-allegations-of-pay-to-rape-underage-prostitution-after-a-letter-is-published-in-the-washington-post.md)
 _Context: Craigslist, Washington Post_
 
 ### [It is revealed that Sarah, Duchess of York faces possible bankruptcy, which would make her the first Royal to suffer this. ](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.md)
@@ -36,10 +36,10 @@ At least 337 people are dead as rescuers search for up to 1148 others still miss
 ### [The death toll rises to 132 and injury toll is at least 400 as severe flash floods devastate Kashmir. ](/news/2010/08/8/the-death-toll-rises-to-132-and-injury-toll-is-at-least-400-as-severe-flash-floods-devastate-kashmir.md)
 _Context: Kashmir, severe flash floods_
 
-### [2010 Pakistan floods:Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-ptorrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-resc.md)
+### [2010 Pakistan floods:. Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-res.md)
 Prime minister visits flood-hit areas in Sindh as people take refuge in government buildings.
 
-### [Flash floods in the Baltic and Central Europe:Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-pflash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md)
+### [Flash floods in the Baltic and Central Europe:. Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md)
 Flash floods brought on by torrential rains cause at least 15 deaths in central Europe and the Baltic, officials say.
 
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)
@@ -69,7 +69,7 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 ### [President of Afghanistan Hamid Karzai's senior adviser says the government has commenced talks with some Taliban leaders. ](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.md)
 _Context: Afghanistan President, Hamid Karzai, Taliban_
 
-### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to ''The Sunday Times'' in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscienc.md)
+### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to "The Sunday Times" in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscience.md)
 _Context: Amnesty International, Israel, Mordechai Vanunu, Norway, The Sunday Times, prisoner of conscience_
 
 ### [President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. ](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.md)
@@ -91,7 +91,7 @@ Elena Kagan becomes the third woman among the current nine justices, continuing 
 Journalists gather to demand greater freedoms and protection amid escalating drug war.
 
 ### [The President of South Korea Lee Myung-Bak replaces the Prime Minister of South Korea Chung Un-chan with Kim Tae-ho as part of a Cabinet reshuffle with seven other ministers also being replaced. ](/news/2010/08/8/the-president-of-south-korea-lee-myung-bak-replaces-the-prime-minister-of-south-korea-chung-un-chan-with-kim-tae-ho-as-part-of-a-cabinet-res.md)
-_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-bak, Prime Minister, South Korean President, forming a government_
+_Context: Chung Un-chan, Kim Tae-ho, Lee Myung-bak, President of South Korea, Prime Minister, forming a government_
 
 ### [Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. ](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.md)
 Protesters who have been holding a Bolivian city hostage for 10 days have now cut off the rail line to Chile and started a hunger strike.

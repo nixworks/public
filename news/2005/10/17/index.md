@@ -1,9 +1,9 @@
 ## [2005-10-17](/news/2005/10/17/index.md)
 
-### [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal.  Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prov.md)
+### [ 2 Umrah pilgrims die as the ship they were returning in crashed into a cargo ship in the Suez Canal. Initial reports of 20 fatalities proved unfounded, though over 90 people were injured. ](/news/2005/10/17/2-umrah-pilgrims-die-as-the-ship-they-were-returning-in-crashed-into-a-cargo-ship-in-the-suez-canal-initial-reports-of-20-fatalities-prove.md)
 _Context: Suez Canal, Umrah_
 
-### [ Conflict in Iraq: The U.S. claims to have killed 70 insurgents near Ramadi in eastern Iraq.  However, eyewitnesses maintain that most of those killed were innocent civilians, and photographs released show locals burying at least 18 children, including infants. ](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-70-insurgents-near-ramadi-in-eastern-iraq-however-eyewitnesses-maintain-that-most-of-th.md)
+### [ Conflict in Iraq: The U.S. claims to have killed 70 insurgents near Ramadi in eastern Iraq. However, eyewitnesses maintain that most of those killed were innocent civilians, and photographs released show locals burying at least 18 children, including infants. ](/news/2005/10/17/conflict-in-iraq-the-u-s-claims-to-have-killed-70-insurgents-near-ramadi-in-eastern-iraq-however-eyewitnesses-maintain-that-most-of-tho.md)
 _Context: Conflict in Iraq, Iraq, Ramadi, U.S., civilian, innocent, witness_
 
 ### [ Israeli-Palestinian Conflict: Israel bans Palestinians from travelling throughout the West Bank and cuts off contact with the Palestinian Authority. ](/news/2005/10/17/israeli-palestinian-conflict-israel-bans-palestinians-from-travelling-throughout-the-west-bank-and-cuts-off-contact-with-the-palestinian-a.md)

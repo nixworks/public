@@ -15,7 +15,7 @@ Members of the National Union of Journalists working for BBC News take industria
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
 _Context: Democratic, Keith Olbermann, MSNBC, political donation_
 
-### [''Ready Steady Cook'', thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
+### ["Ready Steady Cook", thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
 _Context: BBC, Ready Steady Cook_
 
 ### [A final funding deal for the Airbus A400M military transport aircraft has been agreed to by the United Kingdom, France, Germany, Belgium, Luxembourg, Spain and Turkey. ](/news/2010/11/5/a-final-funding-deal-for-the-airbus-a400m-military-transport-aircraft-has-been-agreed-to-by-the-united-kingdom-france-germany-belgium-lu.md)

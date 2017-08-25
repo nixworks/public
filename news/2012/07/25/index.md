@@ -1,6 +1,6 @@
 ## [2012-07-25](/news/2012/07/25/index.md)
 
-### [Syrian civil war:The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-pthe-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md)
+### [Syrian civil war:. The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md)
 _Context: Al-Tall, Damascus, Syrian Army, Syrian Civil War_
 
 ### [Nine people are killed overnight in ethnic clashes in the Indian state of Assam with the total death toll since last Friday being 35. ](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.md)

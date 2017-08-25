@@ -15,7 +15,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Merck & Co. wins a trial over a grandmother's claim that its Vioxx painkiller caused her to have a heart attack, reducing pressure on the company to settle 12,000 other cases about the drug. ](/news/2006/07/13/merck-co-wins-a-trial-over-a-grandmother-s-claim-that-its-vioxx-painkiller-caused-her-to-have-a-heart-attack-reducing-pressure-on-the-c.md)
 _Context: Merck & Co., Vioxx_
 
-### [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for 2.8 million. It had been owned by Dr Williams's Library, which paid about 500 for it in 1716. When new in 1623, the Folio would have cost 1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-ps2-8-million-it-had-been-owned-by-dr-williams-s-l.md)
+### [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for GBP2.8 million. It had been owned by Dr Williams's Library, which paid about GBP500 for it in 1716. When new in 1623, the Folio would have cost GBP1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-gbp2-8-million-it-had-been-owned-by-dr-williams-s.md)
 _Context: Dr Williams's Library, First Folio, William Shakespeare_
 
 ### [ Two explosions hit oil installations belonging to an Italian company in Nigeria's southeast region. Sabotage is the suspected cause. ](/news/2006/07/13/two-explosions-hit-oil-installations-belonging-to-an-italian-company-in-nigeria-s-southeast-region-sabotage-is-the-suspected-cause.md)
@@ -27,7 +27,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ A man claiming to represent Al-Qaeda in India claims that they have set up a network in Kashmir and appeals to Indian Muslims to take up jihad. ](/news/2006/07/13/a-man-claiming-to-represent-al-qaeda-in-india-claims-that-they-have-set-up-a-network-in-kashmir-and-appeals-to-indian-muslims-to-take-up-ji.md)
 _Context: India, Kashmir, al-Qaeda, jihad_
 
-### [ 2006 Israel-Lebanon crisis: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-p-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md)
+### [ 2006 Israel-Lebanon crisis:. Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md)
 (VIDEO) Hizbullah missile lands in Haifa, no casualties reported; 6 rockets hit central Nahariya as President Moshe Katsav tours city, 7 people lightly injured in attack. One dead, 18 injured in barrage on Safed
 
 ## [Previous Day...](/news/2006/07/12/index.md)

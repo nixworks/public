@@ -1,7 +1,7 @@
 ## [2010-03-17](/news/2010/03/17/index.md)
 
 ### [Protests in Thailand by the National United Front of Democracy Against Dictatorship continue, with supporters throwing their own blood outside the house of Prime Minister Abhisit Vejjajiva. ](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.md)
-_Context: Abhisit Vejjajiva, Prime Minister of Thailand, Thailand, blood, red shirt_
+_Context: Abhisit Vejjajiva, Prime Minister, Thailand, blood, red shirt_
 
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
 _Context: Basque separatist, ETA, France, Paris_
@@ -15,7 +15,7 @@ _Context: Bakassi, Cameroon, China_
 ### [Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. ](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.md)
 _Context: Goodluck Jonathan, Nigeria_
 
-### [President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united-states.md)
+### [Saint Patrick's Day. President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/saint-patrick-s-day-president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united.md)
 US President Barack Obama has thanked the Irish Government for allowing US troops to stop off at Shannon Airport.
 
 ### [President of the United States Barack Obama announces that the United States will pursue aggressive sanctions to prevent Iran from getting a nuclear weapon that could potentially spark a nuclear arms race in the Middle East. ](/news/2010/03/17/president-of-the-united-states-barack-obama-announces-that-the-united-states-will-pursue-aggressive-sanctions-to-prevent-iran-from-getting-a.md)

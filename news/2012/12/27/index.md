@@ -1,9 +1,9 @@
 ## [2012-12-27](/news/2012/12/27/index.md)
 
-### [2012 Central African Republic rebellion:The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-pthe-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistance.md)
+### [2012 Central African Republic rebellion:. The president of the Central African Republic, Francois Bozize, asks for international assistance as rebels advance on the capital Bangui. ](/news/2012/12/27/2012-central-african-republic-rebellion-the-president-of-the-central-african-republic-franassois-boziza-c-asks-for-international-assistanc.md)
 Leader of Central African Republic appeals for help securing city of Bangui, as UN and US pull out staff from capital.
 
-### [War in North-West Pakistan:In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-pin-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md)
+### [War in North-West Pakistan:. In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants. ](/news/2012/12/27/war-in-north-west-pakistan-in-pakistan-at-least-22-paramilitary-policemen-are-reported-to-have-been-kidnapped-by-militants.md)
 In Pakistan, at least 22 paramilitary policemen are reported to have been kidnapped by militants, government officials say.
 
 ### [Toyota Motor Corporation, moving to put years of legal problems behind it, has agreed to pay more than $1 billion to settle dozens of lawsuits relating to sudden acceleration. ](/news/2012/12/27/toyota-motor-corporation-moving-to-put-years-of-legal-problems-behind-it-has-agreed-to-pay-more-than-1-billion-to-settle-dozens-of-lawsui.md)

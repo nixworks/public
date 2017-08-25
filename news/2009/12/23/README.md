@@ -45,7 +45,7 @@ _Context: International Space Station, Soyuz TMA-17_
 ### [ The United Nations imposes sanctions of a ban on arms importation and frozen bank accounts on Eritrea for supporting Somali rebels. ](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.md)
 The U.N. Security Council imposed sanctions on the Horn of Africa state of Eritrea on Wednesday because of aid that council members say it has given to Islamist insurgents in nearby Somalia.
 
-### [ The Supreme Court of Pakistan orders the government to recognise ''hijras'' (eunuchs and transgender individuals) as a distinct gender. ([http://news.bbc.co.uk/2/hi/south_asia/8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-h.md)
+### [ The Supreme Court of Pakistan orders the government to recognise "hijras" (eunuchs and transgender individuals) as a distinct gender. ([http://news.bbc.co.uk/2/hi/south_asia/8428819.stm BBC News])](/news/2009/12/23/the-supreme-court-of-pakistan-orders-the-government-to-recognise-hijras-eunuchs-and-transgender-individuals-as-a-distinct-gender-htt.md)
 _Context: Supreme Court, hijras_
 
 ## [Previous Day...](/news/2009/12/22/index.md)

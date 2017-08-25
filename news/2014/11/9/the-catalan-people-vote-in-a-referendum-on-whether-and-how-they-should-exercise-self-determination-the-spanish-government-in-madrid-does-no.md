@@ -1,13 +1,9 @@
 ### [2014-11-9](/news/2014/11/9/index.md)
 
-# The Catalan people vote in a referendum on whether and how they should exercise self-determination. The Spanish government in Madrid does not recognise the authority of the vote. 
-
-The people of Catalonia in north-eastern Spain are taking part in a non-binding and disputed vote on independence.
+# The Catalan people vote in a referendum on whether and how they should exercise self-determination. The Spanish government in Madrid does not recognise the authority of the vote. [http://www.bbc.com/news/world-europe-29974635 (BBC) ]
 
 
-### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-29974635)
 
 ### Related:
 

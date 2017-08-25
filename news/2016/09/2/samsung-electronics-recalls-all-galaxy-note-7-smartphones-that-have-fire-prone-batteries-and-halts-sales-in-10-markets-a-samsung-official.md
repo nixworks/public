@@ -1,6 +1,6 @@
 ### [2016-09-2](/news/2016/09/2/index.md)
 
-# Samsung Electronics recalls all Galaxy Note 7 smartphones that have fire-prone batteries, and halts sales in 10 markets. A Samsung  official says phones with the problematic battery account for less than 0.1 percent of those sold.  
+# Samsung Electronics recalls all Galaxy Note 7 smartphones that have fire-prone batteries, and halts sales in 10 markets. A Samsung official says phones with the problematic battery account for less than 0.1 percent of those sold. 
 
 Samsung has announced an unprecedented recall of the Galaxy Note 7 just weeks after launching the well-received smartphone. Sales have been halted globally, and over the coming weeks Samsung will...
 
@@ -21,4 +21,4 @@ Samsung has announced an unprecedented recall of the Galaxy Note 7 just weeks af
 7. [A federal appeals court rules in favor of Samsung on several issues arising out of that company's long-running patent dispute with Apple, overturning a $120 million jury verdict in Apple's favor in 2014. ](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsung-on-several-issues-arising-out-of-that-company-s-long-running-patent-dispute-with-apple-ov.md) _Context: Samsung_
 8. [Samsung concedes to surrender $548 million to Apple Inc. over previously court-held ruling in patent dispute over copying the look of the iPhone. ](/news/2015/12/3/samsung-concedes-to-surrender-548-million-to-apple-inc-over-previously-court-held-ruling-in-patent-dispute-over-copying-the-look-of-the-ip.md) _Context: Samsung_
 9. [Samsung Bioepis Co., a drug development arm of global giant Samsung, picks four banks to manage an IPO it plans for the United States in 2016. ](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.md) _Context: Samsung_
-10. [Samsung reveals potential for next generation smart TVs to eavesdrop.  ](/news/2015/02/9/samsung-reveals-potential-for-next-generation-smart-tvs-to-eavesdrop.md) _Context: Samsung_
+10. [Samsung reveals potential for next generation smart TVs to eavesdrop. ](/news/2015/02/9/samsung-reveals-potential-for-next-generation-smart-tvs-to-eavesdrop.md) _Context: Samsung_

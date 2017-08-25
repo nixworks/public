@@ -1,18 +1,18 @@
 ## [2013-01-18](/news/2013/01/18/index.md)
 
-### [Kachin conflict:President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-ppresident-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md)
+### [Kachin conflict:. President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-president-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md)
 The Myanmar military will observe a ceasefire in its fight with ethnic Kachin rebels with effect from Saturday, state television reported, but rebels would not immediately commit to uphold the truce.
 
-### [Northern Mali conflict (2012-present):Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dro.md)
+### [Northern Mali conflict (2012-present):. Battle of Konna:. The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012-present-battle-of-konna-the-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-d.md)
 Islamist fighters have withdrawn from two towns in central Mali after French air strikes, local officials say.
 
-### [In Amenas hostage crisis:About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-pabout-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md)
+### [In Amenas hostage crisis:. About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-about-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md)
 Hundreds of hostages have been freed from militants at a gas facility in Algeria, state media say, but about 30 foreigners remain unaccounted for.
 
-### [Syrian civil war:Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-ptwo-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md)
+### [Syrian civil war:. Two suicide car bombs explode south of Damascus, Syria, near a mosque killing many people. ](/news/2013/01/18/syrian-civil-war-two-suicide-car-bombs-explode-south-of-damascus-syria-near-a-mosque-killing-many-people.md)
 Syrian state TV says rebels linked to al-Qaeda group detonated cars filled with explosives near a mosque in southern Syria, causing many casualties.
 
-### [January 2013 Great Britain and Ireland snowfall:Heavy snowfall causes extensive disruption in the United Kingdom. ](/news/2013/01/18/january-2013-great-britain-and-ireland-snowfall-pheavy-snowfall-causes-extensive-disruption-in-the-united-kingdom.md)
+### [January 2013 Great Britain and Ireland snowfall:. Heavy snowfall causes extensive disruption in the United Kingdom. ](/news/2013/01/18/january-2013-great-britain-and-ireland-snowfall-heavy-snowfall-causes-extensive-disruption-in-the-united-kingdom.md)
 Over 3,000 schools are closed and transport is disrupted as a band of heavy snow affects most of the UK, with a &quot;rare&quot; red warning issued in Wales.
 
 ### [At least 4 people are killed and 16 injured when a bus and a truck collided in Lviv Oblast, Ukraine. ](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.md)
@@ -39,10 +39,10 @@ A cleaning woman accused of stealing an empty commuter train in a suburb of Stoc
 ### [Sufi cleric Mohammad Tahir-ul-Qadri reaches an agreement with the government of Pakistan following his Long March. ](/news/2013/01/18/sufi-cleric-mohammad-tahir-ul-qadri-reaches-an-agreement-with-the-government-of-pakistan-following-his-long-march.md)
 _Context: Long March, Mohammad Tahir-ul-Qadri, Sufi, cleric, government_
 
-### [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the ''Mona Lisa'', to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting.md)
+### [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the "Mona Lisa", to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting-t.md)
 NASA beamed an image of the Mona Lisa to the LRO spacecraft as part of the first demo of laser communication with a satellite at the moon.
 
-### [NASA's Cassini spacecraft observations show that the craters on Saturn's moon Titan are disappearing. ](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-that-the-craters-on-saturnas-moon-titan-are-disappearing.md)
+### [NASA-s Cassini spacecraft observations show that the craters on Saturn-s moon Titan are disappearing. ](/news/2013/01/18/nasa-s-cassini-spacecraft-observations-show-that-the-craters-on-saturn-s-moon-titan-are-disappearing.md)
 _Context: Cassini spacecraft, NASA, Saturn, Titan_
 
 ## [Previous Day...](/news/2013/01/17/index.md)

@@ -3,13 +3,13 @@
 ### [Armed men open fire at a checkpoint in the Egyptian city of Arish on the Sinai Peninsula. ](/news/2012/08/8/armed-men-open-fire-at-a-checkpoint-in-the-egyptian-city-of-arish-on-the-sinai-peninsula.md)
 Egyptian forces kill 20 people during air strikes on Sinai, in response to deadly attack on Sunday on a police station.
 
-### [Syrian civil war:Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-pheavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)
+### [Syrian civil war:. Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)
 Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier reports he entered kingdom on Monday.
 
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
 _Context: China, rare earth element_
 
-### [2012 Pacific typhoon season:Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-ptyphoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
+### [2012 Pacific typhoon season:. Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
 Nineteen people are now known to have died in severe floods in the Philippines, as officials warn heavy rain will continue to fall.
 
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)
@@ -42,7 +42,7 @@ _Context: 2011 Tucson shooting, Jared Lee Loughner_
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
 _Context: Germany, United Nations Convention against Corruption_
 
-### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate.  This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
+### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate. This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
 _Context: Democratic Party, Diet, Liberal Democratic Party, New Komeito, Prime Minister of Japan, Yoshihiko Noda, snap election_
 
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)

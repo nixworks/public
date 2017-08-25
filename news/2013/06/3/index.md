@@ -1,12 +1,12 @@
 ## [2013-06-3](/news/2013/06/3/index.md)
 
-### [2013 protests in Turkey:Riot police fire tear gas at people in Istanbul and Ankara amid calls for the downfall of the current Turkish government. ](/news/2013/06/3/2013-protests-in-turkey-priot-police-fire-tear-gas-at-people-in-istanbul-and-ankara-amid-calls-for-the-downfall-of-the-current-turkish-gover.md)
+### [2013 protests in Turkey:. Riot police fire tear gas at people in Istanbul and Ankara amid calls for the downfall of the current Turkish government. ](/news/2013/06/3/2013-protests-in-turkey-riot-police-fire-tear-gas-at-people-in-istanbul-and-ankara-amid-calls-for-the-downfall-of-the-current-turkish-gove.md)
 The brutal suppression of a peaceful environmental sit-in in Istanbul ignited a nationwide protest against the Turkish government. Allegations of police crossing the line between keeping the order and oppression are mushrooming in the social media.
 
-### [Bahraini uprising (2011-present):Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/bahraini-uprising-2011apresent-pthree-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respective.md)
+### [Bahraini uprising (2011-present):. Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/bahraini-uprising-2011-present-three-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respectiv.md)
 Three protesters in Bahrain have been jailed from five to 15 years on charges of taking part in anti-government demonstrations in June 2012 and attempting to murder a policeman.
 
-### [War in Afghanistan (2001-present):A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001apresent-pa-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
+### [War in Afghanistan (2001-present):. A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001-present-a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
 _Context: Afghanistan's, War in Afghanistan (2001-present), suicide bombing_
 
 ### [An unmarked mass grave containing around 200 bodies is found in the Israeli town of Jaffa. ](/news/2013/06/3/an-unmarked-mass-grave-containing-around-200-bodies-is-found-in-the-israeli-town-of-jaffa.md)
@@ -27,7 +27,7 @@ _Context: Vodafone Group Plc, crore, rupee_
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
 _Context: China, Jilin Baoyuanfeng Poultry Plant fire, Jilin province_
 
-### [2013 European floods:Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/2013-european-floods-pflooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
+### [2013 European floods:. Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/2013-european-floods-flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
 State of emergency declared in several regions as heavy flooding kills eight and leaves nine more missing across Europe.
 
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
@@ -40,7 +40,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 _Context: Ali Asghar Soltanieh, International Atomic Energy Agency_
 
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Laos, North Korea, Park Geun-hye, South Korean President, asylum seeker_
+_Context: Laos, North Korea, Park Geun-hye, President of South Korea, asylum seeker_
 
 ### [Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. ](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.md)
 _Context: Michael Sata, Tokyo International Conference on African Development, Yokohama_
@@ -57,7 +57,7 @@ Egyptian activist Ahmed Douma has been given a six month suspended jail sentence
 ### [Police find the bodies of three activists who were supporting local farmers in the Mexican state of Guerrero. Five others remain missing. ](/news/2013/06/3/police-find-the-bodies-of-three-activists-who-were-supporting-local-farmers-in-the-mexican-state-of-guerrero-five-others-remain-missing.md)
 Mexican police find the bodies of three out of eight activists who went missing after a protest in support of local farmers in Guerrero state.
 
-### [Deciding ''Maryland v. King'', the United States Supreme Court rules that police have the right to collect DNA samples from criminal suspects without their consent. ](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supreme-court-rules-that-police-have-the-right-to-collect-dna-samples-from-criminal-suspect.md)
+### [Deciding "Maryland v. King", the United States Supreme Court rules that police have the right to collect DNA samples from criminal suspects without their consent. ](/news/2013/06/3/deciding-maryland-v-king-the-united-states-supreme-court-rules-that-police-have-the-right-to-collect-dna-samples-from-criminal-suspects.md)
 - The U.S. Supreme Court cleared the way Monday for police around the country to take DNA samples from people arrested for serious crimes, a major step toward expanding a national database...
 
 ### [An estimated 10,000 Ethiopians participate in anti-government protests. ](/news/2013/06/3/an-estimated-10-000-ethiopians-participate-in-anti-government-protests.md)
@@ -72,8 +72,8 @@ _Context: International Criminal Court, William Ruto_
 ### [Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. ](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.md)
 In a function here on Monday, UP chief minister Akhilesh Yadav distributed laptops to about 8,000 students from Ghaziabad and Noida in the presence of senior party leaders.
 
-### [Democrat United States Senator Frank Lautenberg of New Jersey dies at age 89 from pneumonia. Republican governor Chris Christie is tasked with choosing a replacement Senator. ](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.md)
-Sen. Frank R. Lautenberg, a World War II veteran who served five terms in the Senate, died Monday, leaving one of New Jersey&#8217;s Senate seats empty and marking the first time in roughly 70 years that the chamber will be without a someone who saw service in that war. 
+### [Democrat United States Senator Frank Lautenberg of New Jersey dies at age 89 from pneumonia. Republican governor Chris Christie is tasked with choosing a replacement Senator. [http://www.washingtontimes.com/news/2013/jun/3/sen-frank-lautenberg-dies-89-new-jersey-democrat-w/ "(Washington Post)"]](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.md)
+_Context: Chris Christie, Democrat, Frank Lautenberg, New Jersey, New Jersey Governor, Republican, United States Senator, pneumonia_
 
 ### [Software engineer Atul Chitnis, known as India's "open source guru", dies at age 50. ](/news/2013/06/3/software-engineer-atul-chitnis-known-as-india-s-open-source-guru-dies-at-age-50.md)
 Highly respected technology consultant and evangelist Atul Chitnis, hailed by many as India&#039;s &#039;open source guru&#039; passed away due to cancer this morning.

@@ -12,7 +12,7 @@ _Context: Mexico, Monterrey, Nuevo Leon, Televisa, grenade_
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
 The mayor of the northern Mexican city of Santiago has been abducted, police say.
 
-### [War in Afghanistan (2001-present):The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001apresent-pthe-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four-m.md)
+### [War in Afghanistan (2001-present):. The President of Afghanistan Hamid Karzai gives private security firms operating in that country four months to disband. ](/news/2010/08/16/war-in-afghanistan-2001-present-the-president-of-afghanistan-hamid-karzai-gives-private-security-firms-operating-in-that-country-four.md)
 Afghan President Hamid Karzai will give private security firms operating in the war-torn country four months to dissolve.
 
 ### [Nadja Benaissa, a HIV-positive former singer in the German girl band No Angels, goes on trial for allegedly not advising sexual partners of her condition. ](/news/2010/08/16/nadja-benaissa-a-hiv-positive-former-singer-in-the-german-girl-band-no-angels-goes-on-trial-for-allegedly-not-advising-sexual-partners-of.md)
@@ -21,19 +21,19 @@ German singer Nadja Benaissa admits at her trial to having unprotected sex with 
 ### [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md)
 _Context: Michael Douglas, United States, chemotherapy, tumor_
 
-### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
+### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay -17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
 A group of intellectuals and politicians calls on France to repay 17bn euros (£14bn) &quot;extorted&quot; from Haiti in the 19th Century.
 
 ### [AIRES Flight 8250 crashes upon landing on San Andres Island, Colombia; one death is reported. ](/news/2010/08/16/aires-flight-8250-crashes-upon-landing-on-san-andra-c-s-island-colombia-one-death-is-reported.md)
 Passenger dies of heart attack and 114 others are injured in crash.
 
-### [2010 Pakistan floods:The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-pthe-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-si.md)
+### [2010 Pakistan floods:. The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/2010-pakistan-floods-the-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-s.md)
 As officials struggle with immediate response to the disaster, concerns are growing about the toll on the overall economy, food supply and stability.
 
 ### [Russia is battered by a severe storm following its recent heatwave, its hottest summer in recorded history. ](/news/2010/08/16/russia-is-battered-by-a-severe-storm-following-its-recent-heatwave-its-hottest-summer-in-recorded-history.md)
 _Context: Russia, its recent heatwave_
 
-### [An explosion at a maternity hospital in Romania's  capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants.md)
+### [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants-s.md)
 _Context: An explosion, Bucharest, Romania_
 
 ### [As many as 40 people are killed due to a fiery collision between a lorry load of sugar and a police checkpoint in Nigeria. ](/news/2010/08/16/as-many-as-40-people-are-killed-due-to-a-fiery-collision-between-a-lorry-load-of-sugar-and-a-police-checkpoint-in-nigeria.md)
@@ -42,7 +42,7 @@ A fiery road crash outside Nigeria’s commercial capital of Lagos has burnt at 
 ### [Tens of thousands of Republic of Korea Armed Forces and United States armed forces ignore warnings from North Korea, and start a new round of the Ulchi-Freedom Guardian drills in South Korea. ](/news/2010/08/16/tens-of-thousands-of-republic-of-korea-armed-forces-and-united-states-armed-forces-ignore-warnings-from-north-korea-and-start-a-new-round-o.md)
 North Korea continues to issue threats as combined military exercises continue.
 
-### [Community leaders in Easter Island threaten to secede from Chile, prompting the resignation of Governor Pedro Edmunds Paoa. ](/news/2010/08/16/community-leaders-in-easter-island-threaten-to-secede-from-chile-prompting-the-resignation-of-governor-pedro-edmunds-paoa.md)
+### [Easter Island. Community leaders in Easter Island threaten to secede from Chile, prompting the resignation of Governor Pedro Edmunds Paoa. ](/news/2010/08/16/easter-island-community-leaders-in-easter-island-threaten-to-secede-from-chile-prompting-the-resignation-of-governor-pedro-edmunds-paoa.md)
 Goshen &#8212; Minutes before Chilean special forces were to swarm government and private buildings held by indigenous Easter Islanders on Monday, a cell
 
 ### [Senior Romanian diplomat Gabriel Grecu is arrested in Russia, accused of spying and given 48 hours to leave the country. ](/news/2010/08/16/senior-romanian-diplomat-gabriel-grecu-is-arrested-in-russia-accused-of-spying-and-given-48-hours-to-leave-the-country.md)
@@ -51,7 +51,7 @@ A senior Romanian diplomat is detained in Russia, accused by the FSB security ag
 ### [Gabon signs agreements with several Asian companies designed to make it rely less on its oil. ](/news/2010/08/16/gabon-signs-agreements-with-several-asian-companies-designed-to-make-it-rely-less-on-its-oil.md)
 Gabon signs deals to diversify its economy in an attempt to be less reliant on its dwindling oil reserves.
 
-### [2010 Thai political protests:Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-pprotest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md)
+### [2010 Thai political protests:. Protest leaders plead innocence in court, denying charges of terrorism in Bangkok. ](/news/2010/08/16/2010-thai-political-protests-protest-leaders-plead-innocence-in-court-denying-charges-of-terrorism-in-bangkok.md)
 BANGKOK: Leaders of the anti-government Red-Shirt movement have pleaded not guilty to charges of terrorism, arising from the protests in the Thai capital this year in which 90 people were killed and more than 1900 injured.
 
 ### [American Lori Berenson, convicted of collaborating with a left-wing group in Peru, apologises after her release from a 20-year prison sentence; she denies any form of violence or murder. ](/news/2010/08/16/american-lori-berenson-convicted-of-collaborating-with-a-left-wing-group-in-peru-apologises-after-her-release-from-a-20-year-prison-senten.md)
@@ -66,7 +66,7 @@ The state of Israel is responsible for the death of a Palestinian girl hit by a 
 ### [Malta buries former president Guido de Marco in a state funeral. ](/news/2010/08/16/malta-buries-former-president-guido-de-marco-in-a-state-funeral.md)
 The nation bid its final farewell to former President Guido de Marco today with a state funeral that drew hundreds of people to Valletta and emptied the streets, as many more people watched proceedings on television. Prof de Marco, an MP for 33 years before becoming President, passed away on...
 
-### [Former British Prime Minister Tony Blair is to give the PS4.6 million advance and all royalties from his forthcoming memoirs, ''A Journey'', to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". ](/news/2010/08/16/former-british-prime-minister-tony-blair-is-to-give-the-aps4-6-million-advance-and-all-royalties-from-his-forthcoming-memoirs-a-journey.md)
+### [Former British Prime Minister Tony Blair is to give the GBP4.6 million advance and all royalties from his forthcoming memoirs, "A Journey", to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". ](/news/2010/08/16/former-british-prime-minister-tony-blair-is-to-give-the-agbp4-6-million-advance-and-all-royalties-from-his-forthcoming-memoirs-a-journey.md)
 Former Prime Minister Tony Blair is to donate the reported £4m advance and all royalties from his memoirs to a sports centre for wounded soldiers.
 
 ### [Talks on forming a coalition government are suspended in Iraq. ](/news/2010/08/16/talks-on-forming-a-coalition-government-are-suspended-in-iraq.md)
@@ -75,7 +75,7 @@ Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;form
 ### [A book written by Chinese dissident Yu Jie critical of Premier Wen Jiabao goes on sale in Hong Kong, with threats of imprisonment from the mainland. ](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.md)
 A book criticising the Chinese premier went on sale in Hong Kong Monday, despite alleged threats by Beijing against its author. Writer Yu Jie says he was...
 
-### [Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. ](/news/2010/08/16/ali-akbar-salehi-head-of-the-atomic-energy-organization-of-iran-says-that-iran-will-build-a-third-uranium-enrichment-plant-next-year.md)
+### [Iran nuclear program. Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. ](/news/2010/08/16/iran-nuclear-program-ali-akbar-salehi-head-of-the-atomic-energy-organization-of-iran-says-that-iran-will-build-a-third-uranium-enrichment.md)
 Nuke chief Salehi: New uranium enrichment site to open next year.
 
 ### [Australia's (and the Southern Hemisphere's) first total artificial heart transplant occurs at St Vincent's Hospital in Sydney, Australia. ](/news/2010/08/16/australia-s-and-the-southern-hemisphere-s-first-total-artificial-heart-transplant-occurs-at-st-vincent-s-hospital-in-sydney-australia.md)

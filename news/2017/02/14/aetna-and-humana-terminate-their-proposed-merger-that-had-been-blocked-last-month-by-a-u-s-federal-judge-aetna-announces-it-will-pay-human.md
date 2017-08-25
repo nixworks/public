@@ -1,6 +1,6 @@
 ### [2017-02-14](/news/2017/02/14/index.md)
 
-# Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana  the $1 billion fee for calling off the agreement. 
+# Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana the $1 billion fee for calling off the agreement. 
 
 The two healthcare giants said they were no longer pursuing the deal. A federal judge blocked the merger in January, citing its likely adverse effect on competition in the health insurance market.
 

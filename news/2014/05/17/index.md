@@ -3,13 +3,13 @@
 ### [Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. ](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.md)
 Nigeria, Cameroon, Niger, Chad and Benin pledge to cooperate against militant group that has kidnapped 200 schoolgirls
 
-### [A Lao People's Liberation Army Air Force plane creashes carrying twenty people killing the Deputy PM and Defence Minister Douangchay Phichit.  ](/news/2014/05/17/a-lao-people-s-liberation-army-air-force-plane-creashes-carrying-twenty-people-killing-the-deputy-pm-and-defence-minister-douangchay-phichit.md)
+### [A Lao People's Liberation Army Air Force plane creashes carrying twenty people killing the Deputy PM and Defence Minister Douangchay Phichit. ](/news/2014/05/17/a-lao-people-s-liberation-army-air-force-plane-creashes-carrying-twenty-people-killing-the-deputy-pm-and-defence-minister-douangchay-phichit.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A landslide in the Dariali Gorge in northeastern Georgia kills at least three people, blocks the Terek River, and disrupts gas supply to Armenia. ](/news/2014/05/17/a-landslide-in-the-dariali-gorge-in-northeastern-georgia-kills-at-least-three-people-blocks-the-terek-river-and-disrupts-gas-supply-to-arm.md)
 _Context: Armenia, Dariali Gorge, Georgian, Terek River_
 
-### [Sinking of the MV Miraj-4:Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-pofficials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-fe.md)
+### [Sinking of the MV Miraj-4:. Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-f.md)
 _Context: Bangladesh, Meghna River, Sinking of the MV Miraj-4_
 
 ### [A pregnant Sudanese woman Mariam Yahia Ibrahim Ishag is set to receive 100 lashes for being married to a Christian man and is sentenced to death for refusing to renounce her Christianity causing international outrage. ](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.md)

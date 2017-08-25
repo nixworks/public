@@ -13,5 +13,5 @@
 
 ### Related:
 
-1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, ''The X Factor'' and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-fact.md) _Context: hacking_
+1. [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, "The X Factor" and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-facto.md) _Context: hacking_
 2. [A student who guessed the answers to former Governor of Alaska Sarah Palin's security questions in 2008 is convicted of hacking and sentenced to one year in state custody. ](/news/2010/11/12/a-student-who-guessed-the-answers-to-former-governor-of-alaska-sarah-palin-s-security-questions-in-2008-is-convicted-of-hacking-and-sentence.md) _Context: hacking_

@@ -1,12 +1,12 @@
 ## [2012-02-9](/news/2012/02/9/index.md)
 
-### [Syria:Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-psyrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-protester.md)
+### [Syria:. Syrian Army troops continue to pour into Homs as part of the latest offensive, with scores of civilians and anti-government protesters reported as having been killed in the past day. ](/news/2012/02/9/syria-syrian-army-troops-continue-to-pour-into-homs-as-part-of-the-latest-offensive-with-scores-of-civilians-and-anti-government-proteste.md)
 Syrian government artillery barrages killed dozens of civilians in Homs on Thursday, activists said, as President Bashar al-Assad, bolstered by Russian support, ignored appeals from world leaders to halt the carnage.
 
 ### [The United States Department of Defense issues new guidelines removing restrictions on use of women in combat. ](/news/2012/02/9/the-united-states-department-of-defense-issues-new-guidelines-removing-restrictions-on-use-of-women-in-combat.md)
 _Context: Pentagon officials, combat_
 
-### [Greek government debt crisis:Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-ptalks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md)
+### [Greek government debt crisis:. Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-talks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md)
 _Context: Greek government-debt crisis_
 
 ### [Eastman Kodak Co. announces that it will no longer make digital cameras, pocket video cameras and digital picture frames in an effort to save money during bankruptcy. ](/news/2012/02/9/eastman-kodak-co-announces-that-it-will-no-longer-make-digital-cameras-pocket-video-cameras-and-digital-picture-frames-in-an-effort-to-sav.md)

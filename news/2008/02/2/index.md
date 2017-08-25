@@ -9,7 +9,7 @@ _Context: Five people are shot dead, Illinois, Tinley Park_
 ### [ An explosion on a bus in Dambulla, Sri Lanka kills at least 20 people. ](/news/2008/02/2/an-explosion-on-a-bus-in-dambulla-sri-lanka-kills-at-least-20-people.md)
 _Context: Dambulla, Sri Lanka_
 
-### [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)
+### [ War in Chad (2005-present):. Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005-present-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)
 _Context: Chad, N'Djamena, War in Chad (2005-present), military assault_
 
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)

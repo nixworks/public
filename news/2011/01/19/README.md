@@ -27,10 +27,10 @@ _Context: Barack Obama, Hu Jintao, White House, official ceremony_
 ### [Palestine calls for the "immediate, full lifting of the Israeli blockade" and "the sustained opening of Gaza's border crossings for the movement of persons and goods." during a debate at the UN Security Council.](/news/2011/01/19/palestine-calls-for-the-immediate-full-lifting-of-the-israeli-blockade-and-the-sustained-opening-of-gaza-s-border-crossings-for-the-move.md)
 _Context: Israeli blockade, Palestinian, UN Security Council_
 
-### [Rudolf Elmer:Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-pformer-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-b.md)
+### [Rudolf Elmer:. Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/rudolf-elmer-former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of.md)
 Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLeaks, hours after he was found guilty of breaching a secrecy law.
 
-### [Jean-Claude Duvalier:Haitian authorities file corruption and theft charges against former president Jean-Claude Duvalier. ](/news/2011/01/19/jean-claude-duvalier-phaitian-authorities-file-corruption-and-theft-charges-against-former-president-jean-claude-duvalier.md)
+### [Jean-Claude Duvalier:. Haitian authorities file corruption and theft charges against former president Jean-Claude Duvalier. ](/news/2011/01/19/jean-claude-duvalier-haitian-authorities-file-corruption-and-theft-charges-against-former-president-jean-claude-duvalier.md)
 _Context: Haiti, Jean-Claude Duvalier_
 
 ### [Two attempts in South Africa to arrest former Israeli foreign minister Tzipi Livni for alleged war crimes during the war on Gaza are rejected. ](/news/2011/01/19/two-attempts-in-south-africa-to-arrest-former-israeli-foreign-minister-tzipi-livni-for-alleged-war-crimes-during-the-war-on-gaza-are-rejecte.md)
@@ -57,7 +57,7 @@ The inauguration of Afghanistan&#039;s new parliament has been delayed by a mont
 ### [Tunisia frees all of its remaining political prisoners. ](/news/2011/01/19/tunisia-frees-all-of-its-remaining-political-prisoners.md)
 Tunisia freed all its remaining political prisoners on Wednesday, including members of a banned Islamist movement, government minister Najib Chebbi told Reuters.
 
-### [Situation in Ireland:Taoiseach Brian Cowen tells his government he is to take on the foreign affairs portfolio after his challenger Micheal Martin's resignation yesterday. President Mary McAleese accepts Martin's resignation. ](/news/2011/01/19/situation-in-ireland-ptaoiseach-brian-cowen-tells-his-government-he-is-to-take-on-the-foreign-affairs-portfolio-after-his-challenger-michea.md)
+### [Situation in Ireland:. Taoiseach Brian Cowen tells his government he is to take on the foreign affairs portfolio after his challenger Micheal Martin's resignation yesterday. President Mary McAleese accepts Martin's resignation. ](/news/2011/01/19/situation-in-ireland-taoiseach-brian-cowen-tells-his-government-he-is-to-take-on-the-foreign-affairs-portfolio-after-his-challenger-michea.md)
 Irish prime minister Brian Cowen has told the government he will be taking on the Foreign Affairs portfolio.
 
 ## [Previous Day...](/news/2011/01/18/index.md)

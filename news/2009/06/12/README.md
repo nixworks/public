@@ -21,7 +21,7 @@ _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/12/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
 _Context: Bermuda, Chinese, David Miliband, Guantanamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
 
-### [ The world's first City of Film is announced by UNESCO, with Bradford  beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/12/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
+### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/12/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
 _Context: Bradford, Cannes, City of Film, Los Angeles, UNESCO, Venice_
 
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
@@ -36,7 +36,7 @@ _Context: India, Kashmir_
 ### [ Two Japanese citizens are detained in Italy after allegedly attempting to take $134 billion worth of U.S. bonds over the border into Switzerland starting the Chiasso financial smuggling case. ](/news/2009/06/12/two-japanese-citizens-are-detained-in-italy-after-allegedly-attempting-to-take-134-billion-worth-of-u-s-bonds-over-the-border-into-switze.md)
 _Context: Chiasso financial smuggling case, Italian, Japan, Switzerland, bond_
 
-### [ Analog TV shuts down across USA  (Wikipedia)](/news/2009/06/12/analog-tv-shuts-down-across-usa-wikipedia.md)
+### [ Analog TV shuts down across USA (Wikipedia)](/news/2009/06/12/analog-tv-shuts-down-across-usa-wikipedia.md)
 _Context: (Wikipedia), USA_
 
 ## [Previous Day...](/news/2009/06/11/index.md)

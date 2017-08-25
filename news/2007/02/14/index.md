@@ -15,10 +15,10 @@ _Context: Al Franken, Minnesota, United States Senate, United States Senate elec
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
 _Context: Arun Sarin, CEO, India, US$, Vodafone Group Plc_
 
-### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for  severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
+### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
 _Context: Canada, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
 
-### [ Iraq War: Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/iraq-war-p-operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-week.md)
+### [ Iraq War:. Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/iraq-war-operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-week.md)
 French police arrested 11 people suspected of having links to Al Qaeda in a pre-dawn sweep on Wednesday.
 
 ### [ The European parliament has approved a report on secret CIA flights which condemns member states that allowed the operations. ](/news/2007/02/14/the-european-parliament-has-approved-a-report-on-secret-cia-flights-which-condemns-member-states-that-allowed-the-operations.md)
@@ -30,7 +30,7 @@ _Context: Beirut, Lebanon, Lebanese Prime Minister, Rafik Hariri_
 ### [ Leaders of the Anglican Church meet in Tanzania with a possibility of a schism over the issue of homosexual clergy. ](/news/2007/02/14/leaders-of-the-anglican-church-meet-in-tanzania-with-a-possibility-of-a-schism-over-the-issue-of-homosexual-clergy.md)
 _Context: Anglican Church, Tanzania, cleric, gay, schism_
 
-### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan.  ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
+### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
 _Context: Gurbanguly Berdimuhamedow, president_
 
 ### [ The foreign ministers of China, India and Russia meet in New Delhi, India to discuss greater cooperation between the three Asian countries on issues including terrorism, drug trafficking and Afghanistan. ](/news/2007/02/14/the-foreign-ministers-of-china-india-and-russia-meet-in-new-delhi-india-to-discuss-greater-cooperation-between-the-three-asian-countries.md)

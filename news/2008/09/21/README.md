@@ -1,12 +1,12 @@
 ## [2008-09-21](/news/2008/09/21/index.md)
 
-### [ ''Mad Men'' wins the Emmy Award for Best Drama  and ''30 Rock'' wins for Best Comedy at the 60th Primetime Emmy Awards. ](/news/2008/09/21/mad-men-wins-the-emmy-award-for-best-drama-and-30-rock-wins-for-best-comedy-at-the-60th-primetime-emmy-awards.md)
+### [ "Mad Men" wins the Emmy Award for Best Drama and "30 Rock" wins for Best Comedy at the 60th Primetime Emmy Awards. ](/news/2008/09/21/mad-men-wins-the-emmy-award-for-best-drama-and-30-rock-wins-for-best-comedy-at-the-60th-primetime-emmy-awards.md)
 &quot;Mad Men,&quot; the acclaimed new show set in a New York advertising agency on the cusp of the 1960s social revolution, won the Emmy Award as best television drama on Sunday for its first season on the air.
 
 ### [ Goldman Sachs and Morgan Stanley, the two last remaining independent investment banks on Wall Street, become bank holding companies as a result of the subprime mortgage crisis. ](/news/2008/09/21/goldman-sachs-and-morgan-stanley-the-two-last-remaining-independent-investment-banks-on-wall-street-become-bank-holding-companies-as-a-re.md)
 _Context: Goldman Sachs, Morgan Stanley, Wall Street, housing crisis, investment bank_
 
-### [ The number of babies in China hospitalized due to adulterated milk products and infant formula reaches 12,892.  ](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.md)
+### [ The number of babies in China hospitalized due to adulterated milk products and infant formula reaches 12,892. ](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.md)
 _Context: China, adulterated milk products and infant formula_
 
 ### [ The Social Democrats, led by Borut Pahor, presumably win the Slovenian parliamentary election. ](/news/2008/09/21/the-social-democrats-led-by-borut-pahor-presumably-win-the-slovenian-parliamentary-election.md)

@@ -1,9 +1,9 @@
 ## [2011-03-8](/news/2011/03/8/index.md)
 
-### [2011 Libyan civil war:Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-pal-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-po.md)
+### [2011 Libyan civil war:. Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md)
 Opposition video said to show Gaddafi soldiers killed for refusing to fire on rebel targets west of the capital Tripoli.
 
-### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010a2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)
+### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010-2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan_
 
 ### [National Army of Colombia troops free 22 of 23 local oil contractors working for Canada's Talisman Energy captured a day earlier by FARC rebels. ](/news/2011/03/8/national-army-of-colombia-troops-free-22-of-23-local-oil-contractors-working-for-canada-s-talisman-energy-captured-a-day-earlier-by-farc-reb.md)
@@ -30,7 +30,7 @@ _Context: Harrisburg, PA_
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
 _Context: China, Philippines, Spratly Islands, Vietnam_
 
-### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it  is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-dev.md)
+### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-deve.md)
 _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_
 
 ### [Mata Tuatagaloa Keli is sworn in as Samoa's first female judge. ](/news/2011/03/8/mata-tuatagaloa-keli-is-sworn-in-as-samoa-s-first-female-judge.md)
@@ -39,7 +39,7 @@ _Context: Mata Tuatagaloa Keli, Samoa_
 ### [Italian police seek to arrest 41 alleged members of the 'ndrangheta crime syndicate based in Calabria with suspects also sought in Germany, Canada and Australia. ](/news/2011/03/8/italian-police-seek-to-arrest-41-alleged-members-of-the-ndrangheta-crime-syndicate-based-in-calabria-with-suspects-also-sought-in-germany.md)
 Police in Germany and Italy have arrested 35 alleged mobsters in a major police operation spanning three continents, including a warrant for the former mayor of Stirling, WA.
 
-### [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri.  The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gu.md)
+### [A St Louis police officer and two U.S. Marshals are shot, one fatally, while serving an arrest warrant in south St. Louis, Missouri. The gunman is killed.](/news/2011/03/8/a-st-louis-police-officer-and-two-u-s-marshals-are-shot-one-fatally-while-serving-an-arrest-warrant-in-south-st-louis-missouri-the-gun.md)
 Suspect, who was shot and killed, was wanted in assault on officer.
 
 ### [International Criminal Court judges order two Darfur rebels to stand trial for a deadly 2007 attack on peacekeepers. ](/news/2011/03/8/international-criminal-court-judges-order-two-darfur-rebels-to-stand-trial-for-a-deadly-2007-attack-on-peacekeepers.md)

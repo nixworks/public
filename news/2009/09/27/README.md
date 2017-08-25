@@ -12,7 +12,7 @@ Angela Merkel appears to have swept to victory in the German elections, with exi
 ### [ The Socialist Party win the Portuguese legislative election to elect members of the Assembly of the Republic, with 36.6% of the vote. ](/news/2009/09/27/the-socialist-party-win-the-portuguese-legislative-election-to-elect-members-of-the-assembly-of-the-republic-with-36-6-of-the-vote.md)
 With unemployment at its highest level in 20 years, Portugal went to the polls yesterday in an election that could bring greater political uncertainty as the ruling Socialists are expected to win but fall short of an absolute majority.
 
-### [ Second South America-Africa Summit (ASA) on Isla Margarita: The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-p-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md)
+### [ Second South America-Africa Summit (ASA) on Isla Margarita:. The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md)
 South America-Africa summit aims to increase co-operation and trade between continents.
 
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)
@@ -24,13 +24,13 @@ _Context: Afghanistan's, Herat, Ismail Khan_
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
 _Context: Tropical Storm Ketsana_
 
-### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's ''The Sunday Telegraph''. ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
+### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
 _Context: England, Nestle Canada Inc., President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
 
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
 _Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan (2001-present)_
 
-### [ The American television series ''Family Guy'' is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use.md)
+### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
 _Context: Family Guy, Legality of cannabis, United States, Venezuela, an episode, marijuana_
 
 ### [ Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. ](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.md)
@@ -42,7 +42,7 @@ Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred t
 ### [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md)
 _Context: Brazil, Honduras, Manuel Zelaya, President, Tegucigalpa_
 
-### [ ''Discworld'' author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md)
+### [ "Discworld" author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md)
 _Context: Alzheimer's disease, Discworld, Terry Pratchett, assisted suicide_
 
 ### [ An award-winning essay written by Paul McCartney as a 10-year-old for the coronation of Elizabeth II of the United Kingdom is found after lying undiscovered in Liverpool's Central Library for more than 50 years. ](/news/2009/09/27/an-award-winning-essay-written-by-paul-mccartney-as-a-10-year-old-for-the-coronation-of-elizabeth-ii-of-the-united-kingdom-is-found-after-l.md)

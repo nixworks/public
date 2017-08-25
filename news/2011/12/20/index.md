@@ -6,7 +6,7 @@ _Context: Syria_
 ### [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md)
 _Context: China, Haimen, Shanghai, coal-fired power station, tear gas_
 
-### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the ''Bhagavad Gita As It Is'' holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
+### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
 _Context: Bhagavad Gita As It Is, India, Russia, SM Krishna, attempt to ban_
 
 ### [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md)
@@ -18,10 +18,10 @@ A single-engine plane spun out of control over northern New Jersey and crashed o
 ### [Diplomats from the European Union, Non-aligned Movement and the Arab States Group on the UN Security Council criticise Israeli settlement activities in the West Bank and East Jerusalem. ](/news/2011/12/20/diplomats-from-the-european-union-non-aligned-movement-and-the-arab-states-group-on-the-un-security-council-criticise-israeli-settlement-ac.md)
 All the regional groupings on the UN Security Council condemn Israeli settlement activities in occupied Palestinian territories, in a surprise move.
 
-### [Former ''Daily Mirror'' editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hac.md)
+### [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md)
 Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not believe phone hacking took place at the paper while he was in charge.
 
-### [Death of Kim Jong-il:The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-pthe-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md)
+### [Death of Kim Jong-il:. The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md)
 Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolences, despite tensions.
 
 ### [Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. ](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-southern-china-say-they-will-hold-talks-with-the-government-and-demand-concessions-in-return-for.md)

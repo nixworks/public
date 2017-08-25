@@ -9,7 +9,7 @@ _Context: Liberal Party's, leadership convention_
 ### [ Part of a tunnel in the Moscow Metro collapses on a train setting the train on fire. Russian emergency services were dispatched to the scene, passengers were evacuated, and no one was hurt. ](/news/2006/03/19/part-of-a-tunnel-in-the-moscow-metro-collapses-on-a-train-setting-the-train-on-fire-russian-emergency-services-were-dispatched-to-the-scen.md)
 _Context: Moscow Metro, emergency service_
 
-### [ Former Prime Minister of Iraq Iyad Allawi says that he believes that Iraq is engaged in a civil war, although the country has not passed "the point of no return."  British and American officials dispute calling the conflict a civil war. ](/news/2006/03/19/former-prime-minister-of-iraq-iyad-allawi-says-that-he-believes-that-iraq-is-engaged-in-a-civil-war-although-the-country-has-not-passed-t.md)
+### [ Former Prime Minister of Iraq Iyad Allawi says that he believes that Iraq is engaged in a civil war, although the country has not passed "the point of no return." British and American officials dispute calling the conflict a civil war. ](/news/2006/03/19/former-prime-minister-of-iraq-iyad-allawi-says-that-he-believes-that-iraq-is-engaged-in-a-civil-war-although-the-country-has-not-passed-t.md)
 _Context: Iraq Prime Minister, Iyad Allawi, civil war_
 
 ### [ Polling stations open for the Belarusian presidential election, 2006. ](/news/2006/03/19/polling-stations-open-for-the-belarusian-presidential-election-2006.md)

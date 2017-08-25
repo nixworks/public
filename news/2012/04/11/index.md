@@ -1,12 +1,12 @@
 ## [2012-04-11](/news/2012/04/11/index.md)
 
-### [2012 South Sudan-Sudan border conflict:Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)
+### [2012 South Sudan-Sudan border conflict:. Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudan-sudan-border-conflict-sudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ### [A bomb on a bus kills at least two people in the Philippines town of Carmen in Cotabato Province. ](/news/2012/04/11/a-bomb-on-a-bus-kills-at-least-two-people-in-the-philippines-town-of-carmen-in-cotabato-province.md)
 _Context: Carmen, Cotabato Province, Philippines_
 
-### [Indonesian earthquakes:An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-pan-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-is.md)
+### [Indonesian earthquakes:. An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. ](/news/2012/04/11/indonesian-earthquakes-an-earthquake-occurs-off-the-coast-of-aceh-in-indonesia-with-a-preliminary-magnitude-of-8-6-and-a-tsunami-warning-i.md)
 AS IT HAPPENED: A magnitude-8.2 aftershock has followed a massive 8.6 quake that struck off the western coast of the Indonesian island of Sumatra, sparking scenes of panic and triggering a tsunami warning across the Indian Ocean.
 
 ### [Two US service personnel and another two are injured in a helicopter crash in Morocco. ](/news/2012/04/11/two-us-service-personnel-and-another-two-are-injured-in-a-helicopter-crash-in-morocco.md)

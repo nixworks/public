@@ -1,6 +1,6 @@
 ### [2002-09-20](/news/2002/09/20/index.md)
 
-#  Joss Whedon's short-lived TV show ''Firefly'' makes its debut.
+#  Joss Whedon's short-lived TV show "Firefly" makes its debut.
 
 
 

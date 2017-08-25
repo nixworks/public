@@ -6,7 +6,7 @@ _Context: New York, Nicolas Maduro, Venezuela, secondary screening_
 ### [ At least 47 people, including a number of children, are killed in a bus crash near Quito, capital of Ecuador. ](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.md)
 _Context: Ecuador, Quito_
 
-### [ The ''New York Times'' leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-probl.md)
+### [ The "New York Times" leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-problem.md)
 A stark assessment has found that the American invasion and occupation of Iraq has helped spawn a new generation of Islamic radicalism and that the overall terrorist threat has grown since the Sept. 11 attacks.
 
 ### [ Members of Basque separatist movement ETA vow not to surrender their weapons while still seeking independence from Spain, despite the organisation having called a ceasefire six months ago. ](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.md)

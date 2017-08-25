@@ -1,14 +1,9 @@
 ### [2016-12-27](/news/2016/12/27/index.md)
 
-# The journal the Proceedings of the National Academy of Sciences publishes research from the Zoological Society of London that the cheetah population approaches extinction with only 7,100 individuals left alive in the wild as a result of a sudden crash in population. 
-
-A new study estimates there are just 7,100 now left in the wild as they face growing conflict with humans.
+# The journal the Proceedings of the National Academy of Sciences publishes research from the Zoological Society of London that the cheetah population approaches extinction with only 7,100 individuals left alive in the wild as a result of a sudden crash in population. [http://www.bbc.com/news/science-environment-38415906 (BBC)], [http://www.pnas.org/content/early/2016/12/20/1611122114.abstract "(The Proceeding of the National Academy of Science)"]
 
 
-### Source:
 
-1. [BBC](http://www.bbc.com/news/science-environment-38415906)
-2. [The Proceeding of the National Academy of Science](http://www.pnas.org/content/early/2016/12/20/1611122114.abstract)
 
 ### Related:
 

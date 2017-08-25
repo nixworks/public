@@ -1,6 +1,6 @@
 ### [2011-01-7](/news/2011/01/7/index.md)
 
-# Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown  on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." 
+# Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." 
 
 
 

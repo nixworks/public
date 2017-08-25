@@ -1,9 +1,9 @@
 ## [2012-09-3](/news/2012/09/3/index.md)
 
-### [Syrian Civil War:The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-pthe-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governme.md)
+### [Syrian Civil War:. The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governm.md)
 _Context: Damascus, Government of Syria, International Committee of the Red Cross, Syria, Syrian Civil War, humanitarian situation_
 
-### [War in Afghanistan:New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-pnew-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
+### [War in Afghanistan:. New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
 _Context: Afghanistan's, Bamiyan, New Zealand, New Zealand Defence Force, War in Afghanistan (2001-present)_
 
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
@@ -21,7 +21,7 @@ _Context: Jefferson Starship, Mark Abrahamian_
 ### [The Moody's agency changes its outlook on the European Union's Aaa credit rating from stable to negative. ](/news/2012/09/3/the-moody-s-agency-changes-its-outlook-on-the-european-union-s-aaa-credit-rating-from-stable-to-negative.md)
 Moody’s said the European Union’s rating would be particularly vulnerable to any changes in the ratings of Germany, France, Britain and the Netherlands.
 
-### [The North Korean state news agency says ''Typhoon-15'' (Bolaven) left 48 people dead and caused major damage. ](/news/2012/09/3/the-north-korean-state-news-agency-says-typhoon-15-bolaven-left-48-people-dead-and-caused-major-damage.md)
+### [The North Korean state news agency says "Typhoon-15" (Bolaven) left 48 people dead and caused major damage. ](/news/2012/09/3/the-north-korean-state-news-agency-says-typhoon-15-bolaven-left-48-people-dead-and-caused-major-damage.md)
 _Context: Bolaven, North Korea_
 
 ### [Lebanon bans smoking in closed public places like restaurants and cafs. ](/news/2012/09/3/lebanon-bans-smoking-in-closed-public-places-like-restaurants-and-cafes.md)

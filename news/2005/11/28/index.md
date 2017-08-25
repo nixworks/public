@@ -1,6 +1,6 @@
 ## [2005-11-28](/news/2005/11/28/index.md)
 
-### [ Iraqi President Jalal Talabani has called the former prime minister Iyad Allawi's comments  "''nonsense''". Allawi claimed that the human rights abuses in Iraq were as bad now as they were under Saddam Hussein. Talabani stated that the government was against any form of torture or harming of Prisoners. ](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-former-prime-minister-iyad-allawi-s-comments-nonsense-allawi-claimed-that-the-human-r.md)
+### [ Iraqi President Jalal Talabani has called the former prime minister Iyad Allawi's comments ""nonsense"". Allawi claimed that the human rights abuses in Iraq were as bad now as they were under Saddam Hussein. Talabani stated that the government was against any form of torture or harming of Prisoners. ](/news/2005/11/28/iraqi-president-jalal-talabani-has-called-the-former-prime-minister-iyad-allawi-s-comments-nonsense-allawi-claimed-that-the-human-righ.md)
 _Context: Iraq, Iyad Allawi, Jalal Talabani, President, Prime Minister, Saddam Hussein, human rights abuses in Iraq, prison, torture_
 
 ### [ Reports that Darshan Singh has been dismissed as chief hangman of Singapore are denied by prison officials. They would not say if he would perform the hanging of Nguyen Tuong Van. ](/news/2005/11/28/reports-that-darshan-singh-has-been-dismissed-as-chief-hangman-of-singapore-are-denied-by-prison-officials-they-would-not-say-if-he-would.md)

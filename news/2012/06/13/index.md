@@ -31,13 +31,13 @@ _Context: Earth, Rio de Janeiro, UN Conference on Sustainable Development, habit
 ### [A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. ](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.md)
 A Montreal teacher is suspended after showing his students a video believed to show the murder of Jun Lin.
 
-### [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment ''in absentia'' by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-i.md)
+### [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment "in absentia" by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-inc.md)
 Toppled president is charged in absentia on various charges including incitement to murder.
 
 ### [U.S. federal prosecutors drop corruption charges against former Senator John Edwards following a mistrial. ](/news/2012/06/13/u-s-federal-prosecutors-drop-corruption-charges-against-former-senator-john-edwards-following-a-mistrial.md)
 _Context: John Edwards, Senator_
 
-### [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that ''The Observer'' accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-reco.md)
+### [Leveson Inquiry. At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md)
 Furious Conservative MPs threatened to derail Nick Clegg&#039;s plans for an elected House of Lords in a revenge attack after the Liberal Democrats failed to support Jeremy Hunt in a key Commons vote, it emerged last night.
 
 ### [Rebekah Brooks, the former CEO of News International, appears at Westminster Magistrates Court on phone hacking charges alongside her husband and four other News International employees. ](/news/2012/06/13/rebekah-brooks-the-former-ceo-of-news-international-appears-at-westminster-magistrates-court-on-phone-hacking-charges-alongside-her-husban.md)

@@ -1,0 +1,24 @@
+### [2017-05-26](/news/2017/05/26/index.md)
+
+# Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. 
+
+
+
+
+### Source:
+
+1. [ (''New York Daily News](http://www.nydailynews.com/news/politics/zbigniew-brzezinski-top-carter-adviser-dead-89-article-1.3199611)
+2. [The Washington Post](https://www.washingtonpost.com/world/national-security/president-carters-national-security-adviser-zbigniew-brzezinski-has-died/2017/05/26/38ae678c-4286-11e7-b29f-f40ffced2ddb_story.html)
+
+### Related:
+
+1. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: Jimmy Carter, Lyndon B. Johnson_
+2. [Former U.S. President Jimmy Carter announces that his latest medical tests show he is cancer-free. Carter, 91, announced in August that a melanoma for which he had been treated had returned. ](/news/2015/12/6/former-u-s-president-jimmy-carter-announces-that-his-latest-medical-tests-show-he-is-cancer-free-carter-91-announced-in-august-that-a-me.md) _Context: Jimmy Carter_
+3. [Former U.S. President Jimmy Carter announceds that his liver cancer (melanoma) has spread to his brain. In addition to radiation, Carter will be treated with a new drug, Keytruda (pembrolizumab), that boosts the immune system without the debilitating side effects of older treatments. ](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.md) _Context: Jimmy Carter_
+4. [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md) _Context: Jimmy Carter_
+5. [According to former U.S. President Jimmy Carter, the flu causes his Vice President, Walter Mondale, 87, to be hospitalized at the famed Mayo Clinic, in Rochester, Minnesota. ](/news/2015/03/7/according-to-former-u-s-president-jimmy-carter-the-flu-causes-his-vice-president-walter-mondale-87-to-be-hospitalized-at-the-famed-mayo.md) _Context: Jimmy Carter_
+6. [Russia bans 18 American diplomats from entering the country, in retaliation for similar restrictions placed on 18 Russian officials by the Magnitsky Act. ](/news/2013/04/13/russia-bans-18-american-diplomats-from-entering-the-country-in-retaliation-for-similar-restrictions-placed-on-18-russian-officials-by-the-m.md) _Context: diplomat_
+7. [Current U.S. officials and former president Jimmy Carter disagree over allegations that the U.S. is deliberately keeping food aid from North Korea despite severe food shortages among people there. ](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.md) _Context: Jimmy Carter_
+8. [Former U.S. president Jimmy Carter, after visiting North Korea, calls on the U.S. and South Korea to stop starving the North Koreans and accuses the U.S. and South Korea of violating the human rights of the North Korean people. Carter also says Kim Jong-il is willing to hold unconditional talks with South Korea, though current U.S. officials dismiss the visit of their former president to North Korea as "strictly private". ](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.md) _Context: Jimmy Carter_
+9. [Jimmy Carter, Mary Robinson, Martti Ahtisaari and Gro Harlem Brundtland head to North Korea. ](/news/2011/04/26/jimmy-carter-mary-robinson-martti-ahtisaari-and-gro-harlem-brundtland-head-to-north-korea.md) _Context: Jimmy Carter_
+10. [Former U.S. President Jimmy Carter ends a three-day visit to Cuba, saying that the American trade embargo and travel ban has damaged the people and disrupted progress. ](/news/2011/03/30/former-u-s-president-jimmy-carter-ends-a-three-day-visit-to-cuba-saying-that-the-american-trade-embargo-and-travel-ban-has-damaged-the-peo.md) _Context: Jimmy Carter_

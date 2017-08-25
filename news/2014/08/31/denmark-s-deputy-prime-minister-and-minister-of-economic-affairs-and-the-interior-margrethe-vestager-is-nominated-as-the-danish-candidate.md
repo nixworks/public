@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _Context: Juncker Commission_
+1. [Juncker Commission. Belgium nominates Marianne Thyssen as its candidate for European commissioner. ](/news/2014/09/4/juncker-commission-belgium-nominates-marianne-thyssen-as-its-candidate-for-european-commissioner.md) _Context: Juncker Commission_

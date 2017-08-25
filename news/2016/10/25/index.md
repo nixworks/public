@@ -1,9 +1,9 @@
 ## [2016-10-25](/news/2016/10/25/index.md)
 
-### [Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at-least-59-people-dead-and-117-others-injured.md)
+### [2016 Quetta police training college attack. Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/2016-quetta-police-training-college-attack-gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at.md)
 Dozens of people are killed after militants mount an attack on a police training college in the Pakistani city of Quetta, officials say.
 
-### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
+### [War in Somalia (2009-present). A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/war-in-somalia-2009-present-a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
 _Context: Mogadishu, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [A shooting in Dammam, Saudi Arabia, leaves two security officers dead. ](/news/2016/10/25/a-shooting-in-dammam-saudi-arabia-leaves-two-security-officers-dead.md)
@@ -12,10 +12,10 @@ Gunmen shot dead two Saudi security officers in the eastern city of Dammam on Tu
 ### [ At least 12 are killed in an attack on a hotel in Kenya. Al-Shabaab claims responsibility. ](/news/2016/10/25/at-least-12-are-killed-in-an-attack-on-a-hotel-in-kenya-al-shabaab-claims-responsibility.md)
 Attackers blew up part of a hotel in northeastern Kenya, killing at least 12 people on Tuesday, in a raid claimed by al Shabaab militants from neighboring Somalia.
 
-### [Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.md)
+### [2016 Uri attack. Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md)
 Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo;s parent organization Jamaat-ud-Dawa, are to be held in Gujranwala of Punjab, Pakistan, according to posters widely circulated on social media.
 
-### [Paul Beatty becomes the first American author to win the Man Booker Prize for his novel ''The Sellout''. ](/news/2016/10/25/paul-beatty-becomes-the-first-american-author-to-win-the-man-booker-prize-for-his-novel-the-sellout.md)
+### [Paul Beatty becomes the first American author to win the Man Booker Prize for his novel "The Sellout". ](/news/2016/10/25/paul-beatty-becomes-the-first-american-author-to-win-the-man-booker-prize-for-his-novel-the-sellout.md)
 Paul Beatty&#039;s The Sellout, a stinging satire of race and class in the United States, wins the Man Booker Prize.
 
 ### [The Catholic Church announces that cremated remains must be kept in consecrated land, rather than scattered about or kept at home. The Church first permitted cremation in 1963, but still strongly favours burial. ](/news/2016/10/25/the-catholic-church-announces-that-cremated-remains-must-be-kept-in-consecrated-land-rather-than-scattered-about-or-kept-at-home-the-churc.md)

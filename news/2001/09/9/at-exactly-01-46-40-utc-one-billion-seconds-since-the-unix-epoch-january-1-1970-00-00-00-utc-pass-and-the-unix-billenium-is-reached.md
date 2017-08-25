@@ -7,4 +7,4 @@
 
 ### Related:
 
-1. [ Unix time equalled "1234567890" at 23:31:30 UTC.  ](/news/2009/02/13/unix-time-equalled-1234567890-at-23-31-30-utc.md) _Context: Unix time_
+1. [ Unix time equalled "1234567890" at 23:31:30 UTC. ](/news/2009/02/13/unix-time-equalled-1234567890-at-23-31-30-utc.md) _Context: Unix time_

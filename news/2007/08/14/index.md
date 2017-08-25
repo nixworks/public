@@ -19,7 +19,7 @@ _Context: Afghanistan's, Gardez, Polish, Taliban, War in Afghanistan (2001-prese
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
 ### [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md)
-_Context: Gulf, Mexico, Texas, tropical depression, tropical storm_
+_Context: Gulf of Mexico, Mexico, Texas, tropical depression, tropical storm_
 
 ### [ A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. ](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.md)
 _Context: Bangladesh, Bangladesh Nationalist Party, extortion_
@@ -42,10 +42,10 @@ _Context: Kent, Surrey, exclusion zone, foot and mouth_
 ### [ Two Belgians kidnapped in Iran have been released. ](/news/2007/08/14/two-belgians-kidnapped-in-iran-have-been-released.md)
 A Belgian man and woman kidnapped in south-eastern Iran at the weekend have been released, the Belgian foreign ministry says.
 
-### [ A woman dies and two people are seriously ill from ''E. coli'' in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-c.md)
+### [ A woman dies and two people are seriously ill from "E. coli" in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-col.md)
 _Context: E. coli, Morrisons, Paisley, Scotland, supermarket chain_
 
-### [ War in Iraq: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-p-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md)
+### [ War in Iraq:. 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md)
 At least 175 people were killed when three suicide bombers driving fuel tankers attacked residential compounds home to the ancient minority Yazidi sect in northern Iraq on Tuesday, an Iraqi army captain said.
 
 ### [ Bingu wa Mutharika, the President of Malawi, threatens to "close down" the National Assembly of Malawi unless it starts discussing the budget. ](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.md)
@@ -57,7 +57,7 @@ _Context: Nokia, Panasonic Corporation, battery, overheating_
 ### [ In Nigeria, gunmen kidnap the mother of a member of the Bayelsa State parliament. The 11-year-old son of another MP is freed. ](/news/2007/08/14/in-nigeria-gunmen-kidnap-the-mother-of-a-member-of-the-bayelsa-state-parliament-the-11-year-old-son-of-another-mp-is-freed.md)
 _Context: Bayelsa State, Nigeria, gunmen_
 
-### [ 12 members of the Indian nationalist party Shiv Sena attack the Mumbai offices of ''Outlook'' magazine. ](/news/2007/08/14/12-members-of-the-indian-nationalist-party-shiv-sena-attack-the-mumbai-offices-of-outlook-magazine.md)
+### [ 12 members of the Indian nationalist party Shiv Sena attack the Mumbai offices of "Outlook" magazine. ](/news/2007/08/14/12-members-of-the-indian-nationalist-party-shiv-sena-attack-the-mumbai-offices-of-outlook-magazine.md)
 _Context: India, Mumbai, Outlook, Shiv Sena, nationalist_
 
 ### [ Mattel recalls over 18 million toys made in China that may potentially be harmful to children. ](/news/2007/08/14/mattel-recalls-over-18-million-toys-made-in-china-that-may-potentially-be-harmful-to-children.md)
@@ -81,7 +81,7 @@ _Context: Abdullah Gul, President, Turkey_
 ### [ The Supreme Court of Thailand approves the issuing of arrest warrants for the former Prime Minister of Thailand Thaksin Shinawatra and his wife on corruption charges. ](/news/2007/08/14/the-supreme-court-of-thailand-approves-the-issuing-of-arrest-warrants-for-the-former-prime-minister-of-thailand-thaksin-shinawatra-and-his.md)
 Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest warrants for exiled prime minister Thaksin Shinawatra and his wife on corruption charges.
 
-### [ The President of Iran Mahmoud Ahmadinejad  visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md)
+### [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.md)
 _Context: Afghanistan's, Bishkek, Central Asia, Mahmoud Ahmadinejad, President, Shanghai Cooperation Organisation_
 
 ### [ Russian prosecutors launch a terrorism investigation after an improvised bomb derailed an overnight express train near the village of Malaya Vishera in the Novgorod region. ](/news/2007/08/14/russian-prosecutors-launch-a-terrorism-investigation-after-an-improvised-bomb-derailed-an-overnight-express-train-near-the-village-of-malay.md)

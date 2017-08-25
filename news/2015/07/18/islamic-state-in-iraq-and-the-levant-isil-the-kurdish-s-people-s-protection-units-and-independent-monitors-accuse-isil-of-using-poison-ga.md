@@ -1,0 +1,25 @@
+### [2015-07-18](/news/2015/07/18/index.md)
+
+# Islamic State in Iraq and the Levant (ISIL). The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. 
+
+The Islamic State group used poison gas in attacks against Kurdish-controlled areas of northeastern Syria in late June, a Syrian Kurdish militia and a group monitoring the Syrian conflict said on Saturday.
+
+
+### Source:
+
+1. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/18/Saudi-arrests-431-ISIS-linked-suspects-.html)
+2. [Reuters via Trust](http://www.trust.org/item/20150718235311-4p5x5/?source=hpMostPopularTheWire)
+3. [Reuters](http://www.reuters.com/article/2015/07/18/us-mideast-crisis-syria-gas-idUSKCN0PR2EX20150718)
+
+### Related:
+
+1. [Syrian Civil War. Hundreds of Syrian refugees return from Turkey to the border town of Tell Abyad after the Islamic State in Iraq and the Levant are expelled by Kurdish People's Protection Units. ](/news/2015/06/22/syrian-civil-war-hundreds-of-syrian-refugees-return-from-turkey-to-the-border-town-of-tell-abyad-after-the-islamic-state-in-iraq-and-the-le.md) _Context: ISIL, Kurdish, YPG_
+2. [Syrian Civil War. Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/syrian-civil-war-thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-isla.md) _Context: ISIL, Kurdish, Syria_
+3. [Syrian Civil War. Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/syrian-civil-war-some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-sulu.md) _Context: ISIL, Syria, YPG_
+4. [April 2017 Turkish airstrikes in Syria and Iraq. Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/april-2017-turkish-airstrikes-in-syria-and-iraq-turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria.md) _Context: Syria, YPG_
+5. [2017 Istanbul nightclub attack. The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/2017-istanbul-nightclub-attack-the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-respons.md) _Context: ISIL, Syria_
+6. [Syrian Civil War. Turkey sends more tanks into northern Syria to continue its offensive against Islamic State of Iraq and the Levant and Kurdish People's Protection Units (YPG). ](/news/2016/08/25/syrian-civil-war-turkey-sends-more-tanks-into-northern-syria-to-continue-its-offensive-against-islamic-state-of-iraq-and-the-levant-and-kur.md) _Context: Syria, YPG_
+7. [Syrian Civil War. Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria. ](/news/2016/06/4/syrian-civil-war-syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-thr.md) _Context: ISIL, Syria_
+8. [Spillover of the Syrian Civil War. Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/spillover-of-the-syrian-civil-war-turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants.md) _Context: ISIL, Syria_
+9. [Syrian Civil War. Rojava conflict. The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/syrian-civil-war-rojava-conflict-the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militi.md) _Context: Syria, YPG_
+10. [Syrian Civil War. Syrian Kurdish-Islamist conflict (2013-present). A triple truck-bomb attack on the Kurdish YPG militia-controlled town of Tell Tamer in Syria's northeast Al-Hasakah Governorate leaves as many as 50 people dead and 80 others wounded. The Islamic State of Iraq and the Levant claims responsibility for the attacks, saying in an online statement that three of its fighters driving three separate vehicles had detonated the suicide bombs targeting "bases" belonging to Kurdish fighters. ](/news/2015/12/11/syrian-civil-war-syrian-kurdish-islamist-conflict-2013-present-a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town.md) _Context: Syria, YPG_

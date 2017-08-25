@@ -54,13 +54,13 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 ### [ Swedish Princess Madeleine announces her engagement to lawyer and longterm boyfriend Jonas Bergstrom, becoming the second royal in Sweden to announce her engagment after Crown Princess Victoria. ](/news/2009/08/11/swedish-princess-madeleine-announces-her-engagement-to-lawyer-and-longterm-boyfriend-jonas-bergstrapm-becoming-the-second-royal-in-sweden.md)
 _Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Sweden_
 
-### [ A Russian woman is arrested after throwing a teacup at the ''Mona Lisa'' portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
+### [ A Russian woman is arrested after throwing a teacup at the "Mona Lisa" portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
 _Context: Louvre, Mona Lisa, Paris, Russia_
 
 ### [ A passenger plane carrying 13 people, including nine Australians, en route to Kokoda, site of a hiking trail and famous World War II battle, is reported missing over Papua New Guinea. ](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.md)
 A passenger plane carrying 13 people, including nine Australians, is missing feared crashed over Papua New Guinea.
 
-### [ ''Nepenthes attenboroughii'', a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
+### [ "Nepenthes attenboroughii", a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
 _Context: Nepenthes attenboroughii, Philippines_
 
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)

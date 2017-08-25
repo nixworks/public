@@ -1,6 +1,6 @@
 ### [2005-02-25](/news/2005/02/25/index.md)
 
-#  Vice President of Indonesia, Jusuf Kalla, states that he was pleased with the progress of talks with Free Aceh Movement in Finland. Government still opposes independence  
+#  Vice President of Indonesia, Jusuf Kalla, states that he was pleased with the progress of talks with Free Aceh Movement in Finland. Government still opposes independence 
 
 
 

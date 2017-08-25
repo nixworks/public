@@ -1,6 +1,6 @@
 ## [2012-03-25](/news/2012/03/25/index.md)
 
-### [Syrian uprising:At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-pat-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-t.md)
+### [Syrian uprising:. At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold.md)
 _Context: 2011-2012 Syrian uprising, Barack Obama, Recep Tayyip Erdogan, Syria, Turkish Prime Minister, US President_
 
 ### [2012 insurgency in northern Mali: Tuareg insurgents close in on multiple northern towns where they say they will apply Islamic sharia law. ](/news/2012/03/25/2012-insurgency-in-northern-mali-tuareg-insurgents-close-in-on-multiple-northern-towns-where-they-say-they-will-apply-islamic-sharia-law.md)
@@ -24,7 +24,7 @@ _Context: 2012 Midi-Pyrenees shootings_
 ### [A student is shot dead on the Mississippi State University campus in the United States, prompting school-wide alerts. Three suspects escape in a blue Ford Crown Victoria. ](/news/2012/03/25/a-student-is-shot-dead-on-the-mississippi-state-university-campus-in-the-united-states-prompting-school-wide-alerts-three-suspects-escape.md)
 _Context: Ford Crown Victoria, Mississippi State University_
 
-### [Peter Cruddas resigns as treasurer of Britain's Conservative Party after he was filmed selling access to Prime Minister David Cameron for PS250,000. ](/news/2012/03/25/peter-cruddas-resigns-as-treasurer-of-britain-s-conservative-party-after-he-was-filmed-selling-access-to-prime-minister-david-cameron-for-aps.md)
+### [Peter Cruddas resigns as treasurer of Britain's Conservative Party after he was filmed selling access to Prime Minister David Cameron for GBP250,000. ](/news/2012/03/25/peter-cruddas-resigns-as-treasurer-of-britain-s-conservative-party-after-he-was-filmed-selling-access-to-prime-minister-david-cameron-for-ag.md)
 Conservative Party co-treasurer Peter Cruddas resigns after a secretly-filmed video shows him apparently selling access to the PM for £250,000.
 
 ### [New Zealand changes two road rules regarding priority at intersections, including reversing the drive-on-the-left nation's unique rule that gave right-turning traffic priority over left-turning traffic. ](/news/2012/03/25/new-zealand-changes-two-road-rules-regarding-priority-at-intersections-including-reversing-the-drive-on-the-left-nation-s-unique-rule-that.md)

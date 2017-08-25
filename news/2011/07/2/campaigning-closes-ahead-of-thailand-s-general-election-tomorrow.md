@@ -11,5 +11,5 @@ Main opposition Puea Thai Party enjoys clear lead in polls over party of current
 
 ### Related:
 
-1. [Thai general election:Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-pabhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-h.md) _Context: general election_
+1. [Thai general election:. Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a.md) _Context: general election_
 2. [Thailand votes in its 26th general election with results showing the Pheu Thai Party loyal to former Prime Minister Thaksin Shinawatra winning a majority. Yingluck Shinawatra, the opposition party leader, is expected to be the first female Prime Minister of Thailand. ](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.md) _Context: general election_

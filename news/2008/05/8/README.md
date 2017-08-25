@@ -27,7 +27,7 @@ _Context: 2008 unrest in Lebanon, Beirut, Hezbollah, Lebanon_
 ### [ The 2008 Summer Olympics torch relay reaches the peak of Mount Everest. ](/news/2008/05/8/the-2008-summer-olympics-torch-relay-reaches-the-peak-of-mount-everest.md)
 _Context: 2008 Summer Olympics torch relay, Mount Everest_
 
-### [ Cyclone Nargis: An international relief operation begins after cyclone Nargis strikes Burma, with at least 63,500 people reported killed or missing. ](/news/2008/05/8/cyclone-nargis-p-an-international-relief-operation-begins-after-cyclone-nargis-strikes-burma-with-at-least-63-500-people-reported-killed-o.md)
+### [ Cyclone Nargis:. An international relief operation begins after cyclone Nargis strikes Burma, with at least 63,500 people reported killed or missing. ](/news/2008/05/8/cyclone-nargis-an-international-relief-operation-begins-after-cyclone-nargis-strikes-burma-with-at-least-63-500-people-reported-killed-o.md)
 _Context: Cyclone Nargis_
 
 ### [ Silvio Berlusconi is sworn in as Prime Minister of Italy for the fourth time. ](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.md)

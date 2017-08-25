@@ -15,7 +15,7 @@ _Context: North Korea, Yongbyon Nuclear Scientific Research Center, begins, nucl
 ### [ Iceland's legislative election occurs. ](/news/2009/04/25/iceland-s-legislative-election-occurs.md)
 Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she would move to protect her country’s battered economy.
 
-### [ Somali pirates hijack Germany's MV ''Patriot'' and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
+### [ Somali pirates hijack Germany's MV "Patriot" and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
 _Context: Germany, Greek, MV, Somali pirates, Somalia, pirate, ship_
 
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)

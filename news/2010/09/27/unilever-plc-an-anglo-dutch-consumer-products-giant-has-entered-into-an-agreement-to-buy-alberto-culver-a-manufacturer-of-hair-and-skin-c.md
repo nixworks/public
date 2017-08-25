@@ -1,6 +1,6 @@
 ### [2010-09-27](/news/2010/09/27/index.md)
 
-# Unilever plc, an Anglo-Dutch consumer products giant, has entered into an agreement to buy Alberto-Culver, a manufacturer of hair and skin care products, for $3.7 billion.  
+# Unilever plc, an Anglo-Dutch consumer products giant, has entered into an agreement to buy Alberto-Culver, a manufacturer of hair and skin care products, for $3.7 billion. 
 
 
 
@@ -16,4 +16,4 @@
 3. [Unilever buys Dollar Shave Club for US$1 billion. ](/news/2016/07/20/unilever-buys-dollar-shave-club-for-us-1-billion.md) _Context: Unilever_
 4. [Anglo-Dutch consumer goods company Unilever agrees to sell the brands Ragu and Bertolli to Japanese sauce producer Mizkan for $2.15 billion. ](/news/2014/05/22/anglo-dutch-consumer-goods-company-unilever-agrees-to-sell-the-brands-ragao-and-bertolli-to-japanese-sauce-producer-mizkan-for-2-15-billion.md) _Context: Unilever_
 5. [Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. ](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.md) _Context: Unilever_
-6. [  Dutch food giant Unilever began recalling Lipton-brand milk tea powder in Hong Kong and Macau after they were found to contain traces of melamine. ](/news/2008/09/30/dutch-food-giant-unilever-began-recalling-lipton-brand-milk-tea-powder-in-hong-kong-and-macau-after-they-were-found-to-contain-traces-of-m.md) _Context: Unilever_
+6. [ 2008 Chinese milk scandal. Dutch food giant Unilever began recalling Lipton-brand milk tea powder in Hong Kong and Macau after they were found to contain traces of melamine. ](/news/2008/09/30/2008-chinese-milk-scandal-dutch-food-giant-unilever-began-recalling-lipton-brand-milk-tea-powder-in-hong-kong-and-macau-after-they-were-fo.md) _Context: Unilever_

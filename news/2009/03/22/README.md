@@ -27,7 +27,7 @@ _Context: China, Qinghai, Tibet, arrest, attacking, monk, police station_
 ### [ Thousands of people assemble for Pope Benedict XVI's Catholic Mass in Luanda, Angola. ](/news/2009/03/22/thousands-of-people-assemble-for-pope-benedict-xvi-s-catholic-mass-in-luanda-angola.md)
 _Context: Angola, Luanda, Mass, Pope, Pope Benedict XVI, Roman Catholic Church_
 
-### [ Somali pirates release the Indian cargo ship ''Al Rafiquei'' one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md)
+### [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md)
 All the 16 Indian sailors on board a hijacked vessel off Somalian coast have been released and are safe, the directorate general of shipping said.
 
 ## [Previous Day...](/news/2009/03/21/index.md)

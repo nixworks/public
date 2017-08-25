@@ -12,7 +12,7 @@ _Context: Malaysia, Somali pirates, Somalia_
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.
 
-### [Irish financial crisis:Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay EUR17 billion out of its own national pension fund. ](/news/2010/11/29/irish-financial-crisis-pfine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-cent.md)
+### [Irish financial crisis:. Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay -17 billion out of its own national pension fund. ](/news/2010/11/29/irish-financial-crisis-fine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-cen.md)
 The euro and major European markets fall after ministers agree a 85bn euros bail-out for the Republic of Ireland.
 
 ### [Workers at the London Underground go on strike for 24 hours, causing widespread peak-hour disruption in the capital of the United Kingdom. ](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.md)
@@ -21,10 +21,10 @@ _Context: London Underground, peak-hour_
 ### [Ash from Mount Bromo in Indonesia forces the closure of a nearby airport. ](/news/2010/11/29/ash-from-mount-bromo-in-indonesia-forces-the-closure-of-a-nearby-airport.md)
 _Context: Indonesia, Mount Bromo_
 
-### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of  Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-s.md)
+### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md)
 _Context: 250,000 documents, China, North Korea, South Korea, WikiLeaks, reunified_
 
-### [Israel's "eased"  blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
+### [Israel's "eased" blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
 _Context: Gaza Strip, Israel, Israeli blockade_
 
 ### [The 2010 United Nations Climate Change Conference begins in Cancun, involving 194 countries, amidst low expectations. ](/news/2010/11/29/the-2010-united-nations-climate-change-conference-begins-in-cancun-involving-194-countries-amidst-low-expectations.md)

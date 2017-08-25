@@ -14,7 +14,7 @@ Hundreds of Han Chinese demonstrate in Urumqui against syringe attacks, state me
 
 ### Related:
 
-1. [  Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _Context: China, Xinjiang, hypodermic needle_
+1. [ Xinjiang. Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md) _Context: China, Xinjiang, hypodermic needle_
 2. [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md) _Context: China, Xinjiang_
 3. [Three people are sentenced to death and one person given a life sentence for the 2014 Kunming attack in China's Xinjiang region. ](/news/2014/09/12/three-people-are-sentenced-to-death-and-one-person-given-a-life-sentence-for-the-2014-kunming-attack-in-china-s-xinjiang-region.md) _Context: China, Xinjiang_
 4. [Authorities in China's Xinjiang region sentence 9 people for up to 14 years for terrorism offences. ](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.md) _Context: China, Xinjiang_

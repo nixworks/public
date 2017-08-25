@@ -18,10 +18,10 @@ _Context: Baghdad, Sadr City_
 ### [ The Qingzang railway is formally opened in the by Chinese President Hu Jintao. ](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.md)
 _Context: Chinese President, Hu Jintao, Qingzang railway_
 
-### [ Operation Summer Rains: An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-p-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md)
+### [ Operation Summer Rains:. An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/operation-summer-rains-an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-t.md)
 The Age 404 Page
 
-### [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme.  ([http://news.bbc.co.uk/1/hi/uk/5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-u.md)
+### [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme. ([http://news.bbc.co.uk/1/hi/uk/5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-uk.md)
 _Context: Battle of the Somme, France, Picardy, Thiepval_
 
 ## [Previous Day...](/news/2006/06/30/index.md)

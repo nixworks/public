@@ -1,18 +1,18 @@
 ## [2013-05-4](/news/2013/05/4/index.md)
 
-### [Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separate-incidents.md)
+### [War in Afghanistan. Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md)
 Eight soldiers from the American-led military coalition were killed in Afghanistan: five by a roadside bomb, two by an Afghan soldier who shot his trainers and one by small-arms fire.
 
-### [Syrian civil war:Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-pisraeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being-t.md)
+### [Syrian civil war:. Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being.md)
 Hundreds of Syrians are fleeing coastal areas where activists say government forces have massacred dozens of people in recent days.
 
 ### [39 people are killed during religiously motivated clashes at a funeral in Wukari, Nigeria. ](/news/2013/05/4/39-people-are-killed-during-religiously-motivated-clashes-at-a-funeral-in-wukari-nigeria.md)
 _Context: Nigeria, Wukari_
 
-### [Cuban ''Filin'' pioneer Cesar Portillo de la Luz dies at the age of 90. ](/news/2013/05/4/cuban-filin-pioneer-ca-c-sar-portillo-de-la-luz-dies-at-the-age-of-90.md)
+### [Cuban "Filin" pioneer Cesar Portillo de la Luz dies at the age of 90. ](/news/2013/05/4/cuban-filin-pioneer-ca-c-sar-portillo-de-la-luz-dies-at-the-age-of-90.md)
 _Context: Cesar Portillo de la Luz, Cuban, Filin_
 
-### [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, ''To Kill a Mockingbird''. ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kil.md)
+### [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, "To Kill a Mockingbird". ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kill.md)
 _Context: Harper Lee, To Kill a Mockingbird, U.S._
 
 ### [Hundreds of protestors gather in Chinese cities to rally against planned large-scale industrial projects. ](/news/2013/05/4/hundreds-of-protestors-gather-in-chinese-cities-to-rally-against-planned-large-scale-industrial-projects.md)

@@ -1,9 +1,9 @@
 ## [2013-05-13](/news/2013/05/13/index.md)
 
-### [Aftermath of the Libyan civil war:A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-pa-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md)
+### [Aftermath of the Libyan civil war:. A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. ](/news/2013/05/13/aftermath-of-the-libyan-civil-war-a-car-bomb-explodes-near-a-hospital-in-the-libyan-city-of-benghazi-killing-at-least-nine-people.md)
 A car bomb explosion near a hospital in the Libyan city of Benghazi kills and injures several people, local officials say.
 
-### [War in Afghanistan (2001-present):Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001apresent-pthree-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-bas.md)
+### [War in Afghanistan (2001-present):. Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001-present-three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-ba.md)
 _Context: Georgian, Georgian servicemen, Helmand Province, International Security Assistance Force, War in Afghanistan (2001-present)_
 
 ### [A 2,300-year-old Mayan pyramid at Nohmul in Belize is destroyed by a construction company seeking road fill gravel. ](/news/2013/05/13/a-2-300-year-old-mayan-pyramid-at-nohmul-in-belize-is-destroyed-by-a-construction-company-seeking-road-fill-gravel.md)

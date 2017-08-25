@@ -1,9 +1,9 @@
 ## [2012-04-28](/news/2012/04/28/index.md)
 
-### [2011 Syrian uprising:Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-psyrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)
+### [2011 Syrian uprising:. Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)
 Vessel originally from Libya, loaded with arms reportedly destined for Syrian opposition, is stopped by Lebanese navy.
 
-### [War in Afghanistan:Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/war-in-afghanistan-ptwo-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
+### [War in Afghanistan:. Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/war-in-afghanistan-two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
 _Context: Afghanistan's, Kandahar Province, War in Afghanistan_
 
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
@@ -12,7 +12,7 @@ _Context: 2012 Dnipropetrovsk explosions, Ukraine, Viktor Yanukovich_
 ### [One person dies and more than 110 are injured when a tent collapses at a restaurant near Busch Stadium in St. Louis, Missouri. ](/news/2012/04/28/one-person-dies-and-more-than-110-are-injured-when-a-tent-collapses-at-a-restaurant-near-busch-stadium-in-st-louis-missouri.md)
 _Context: Busch Stadium, Missouri, St Louis_
 
-### [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egyptasaudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md)
+### [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egypt-saudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md)
 The Saudi embassy and consulates in Egypt are closed following protests over an Egyptian lawyer who has been detained in Saudi Arabia.
 
 ### [The European Union opens an office in Burma in recognition of recent democratic reforms. ](/news/2012/04/28/the-european-union-opens-an-office-in-burma-in-recognition-of-recent-democratic-reforms.md)

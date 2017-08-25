@@ -1,15 +1,15 @@
 ## [2015-08-10](/news/2015/08/10/index.md)
 
-### [Two women attack the U.S. consulate in Istanbul with automatic rifles. No fatalities are reported, and one of the attackers, wounded during the exchange of fire, is captured. The Revolutionary People's Liberation Army-Front (DHKP-C) claims responsibility. ](/news/2015/08/10/two-women-attack-the-u-s-consulate-in-istanbul-with-automatic-rifles-no-fatalities-are-reported-and-one-of-the-attackers-wounded-during.md)
+### [Two women attack the U.S. consulate in Istanbul with automatic rifles. No fatalities are reported, and one of the attackers, wounded during the exchange of fire, is captured. The Revolutionary People-s Liberation Army-Front (DHKP-C) claims responsibility. ](/news/2015/08/10/two-women-attack-the-u-s-consulate-in-istanbul-with-automatic-rifles-no-fatalities-are-reported-and-one-of-the-attackers-wounded-during.md)
 Two assailants opened fire on the United States consulate building in Istanbul on Aug. 10, fleeing the scene when police shot back. One of the assailants, a woman, was captured in a building where she took shelter
 
-### [A suicide bomb blast kills at least five people at the entrance to the Kabul International Airport. The Taliban claim responsibility. ](/news/2015/08/10/a-suicide-bomb-blast-kills-at-least-five-people-at-the-entrance-to-the-kabul-international-airport-the-taliban-claim-responsibility.md)
+### [War in Afghanistan (2015-present). A suicide bomb blast kills at least five people at the entrance to the Kabul International Airport. The Taliban claim responsibility. ](/news/2015/08/10/war-in-afghanistan-2015-present-a-suicide-bomb-blast-kills-at-least-five-people-at-the-entrance-to-the-kabul-international-airport-the.md)
 A Taliban suicide bomber attacks a checkpoint near the entrance to the international airport in the Afghan capital Kabul, killing five people.
 
-### [A stabbing at an Ikea store in Vasteras, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steray-s-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md)
-_Context: IKEA, Vasteras, Sweden_
+### [A stabbing at an Ikea store in VasterCNYs, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steracnys-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md)
+_Context: IKEA, VasterCNYs, Sweden_
 
-### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
+### [Islamic State in Iraq and the Levant. ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/islamic-state-in-iraq-and-the-levant-isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-peopl.md)
 _Context: Baquba, ISIL, Iraq_
 
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)

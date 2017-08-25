@@ -1,6 +1,6 @@
 ### [2010-02-17](/news/2010/02/17/index.md)
 
-# The UK branch of publishing company ''Reader's Digest'' files for administration. 
+# The UK branch of publishing company "Reader's Digest" files for administration. 
 
 
 

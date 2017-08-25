@@ -21,13 +21,13 @@ _Context: Barack Obama, Fidel Castro, President, United Nations General Assembly
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
 _Context: Mexico, San Ysidro, United States_
 
-### [ A Scottish PS1 banknote, dated 1836, sells for a world record PS9,000 price at auction. ](/news/2009/09/23/a-scottish-aps1-banknote-dated-1836-sells-for-a-world-record-aps9-000-price-at-auction.md)
+### [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md)
 _Context: Scotland_
 
 ### [ Swedish police hunt for robbers who used a stolen helicopter to raid a cash depot in Stockholm. ](/news/2009/09/23/swedish-police-hunt-for-robbers-who-used-a-stolen-helicopter-to-raid-a-cash-depot-in-stockholm.md)
 Business experts fear that a break-in at a cash depot in Sweden could lead to a shortage of bank notes in circulation in the Stockholm region.
 
-### [ A report carried by ''The Sydney Morning Herald'' says Australia is poised to be the world's fastest growing industrialised nation over the next four decades, reaching a population of 35 million by 2050. ](/news/2009/09/23/a-report-carried-by-the-sydney-morning-herald-says-australia-is-poised-to-be-the-world-s-fastest-growing-industrialised-nation-over-the.md)
+### [ A report carried by "The Sydney Morning Herald" says Australia is poised to be the world's fastest growing industrialised nation over the next four decades, reaching a population of 35 million by 2050. ](/news/2009/09/23/a-report-carried-by-the-sydney-morning-herald-says-australia-is-poised-to-be-the-world-s-fastest-growing-industrialised-nation-over-the-n.md)
 _Context: Australia, The Sydney Morning Herald_
 
 ### [ The Bundespolizei investigate whether a string of letters from the far-right NPD party to politicians from immigrant backgrounds have incited racial hatred. ](/news/2009/09/23/the-bundespolizei-investigate-whether-a-string-of-letters-from-the-far-right-npd-party-to-politicians-from-immigrant-backgrounds-have-incit.md)
@@ -57,7 +57,7 @@ _Context: China, Guangdong, Macau_
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
 _Context: Human Rights Watch, Sri Lanka_
 
-### [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine ''Gosc Niedzielny'' for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nie.md)
+### [ A Polish court awards -7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md)
 _Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Polish, abortion_
 
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)

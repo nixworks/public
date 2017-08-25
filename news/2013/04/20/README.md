@@ -1,6 +1,6 @@
 ## [2013-04-20](/news/2013/04/20/index.md)
 
-### [War in North-West Pakistan:A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-pa-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-a.md)
+### [War in North-West Pakistan:. A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/war-in-north-west-pakistan-a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal.md)
 A woman suicide bomber today detonated a bomb outside a hospital in a lawless tribal area of northwest Pakistan, killing at least four people and injuring five others. The blast occurred outside the m
 
 ### [2013 Lushan earthquake: An earthquake of 7.0 magnitude strikes Lushan County, Sichuan province, China, with the latest estimate showing 193 people dead, 24 missing and 11,826 injured. ](/news/2013/04/20/2013-lushan-earthquake-an-earthquake-of-7-0-magnitude-strikes-lushan-county-sichuan-province-china-with-the-latest-estimate-showing-193.md)
@@ -15,7 +15,7 @@ _Context: California, United States, brush fire_
 ### [Five people are killed and 17 are injured in Vail, Arizona, United States, when a car accident occurs during a U.S. Border Patrol pursuit. ](/news/2013/04/20/five-people-are-killed-and-17-are-injured-in-vail-arizona-united-states-when-a-car-accident-occurs-during-a-u-s-border-patrol-pursuit.md)
 TUCSON -- At least five people were killed and 17 injured when a van crashed during a border patrol pursuit, Pima County Rural/Metro Fire Chief Willie Treatch said Sunday. The incident happened late...
 
-### [2013 Korean crisis:North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-pnorth-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md)
+### [2013 Korean crisis:. North Korea rules out denuclearization but says it is open to negotiating an arms reduction. ](/news/2013/04/20/2013-korean-crisis-north-korea-rules-out-denuclearization-but-says-it-is-open-to-negotiating-an-arms-reduction.md)
 North Korea said on Saturday that it would never agree to talks on denuclearisation, but would be open to negotiations for arms reduction. Pyongyang said it will not give up its nuclear programme unti
 
 ### [Japan is permitted to join the Trans Pacific Partnership trade talks by the 11 other nations participating. ](/news/2013/04/20/japan-is-permitted-to-join-the-trans-pacific-partnership-trade-talks-by-the-11-other-nations-participating.md)

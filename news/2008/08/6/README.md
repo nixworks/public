@@ -4,7 +4,7 @@
 Forest Service officials are calling it the deadliest air crash involving firefighters in U.S. history&lt;br&gt;&raquo; &lt;a href=&quot;http://blog.oregonlive.com/news_impact/2008/08/8-5-08-heli-crash.mp3 &quot;&gt;Press conference&lt;/a&gt; &lt;img src=&quot;http://www.oregonlive.com/images/audio....
 
 ### [ UNICEF releases ](/news/2008/08/6/unicef-releases.md)
-_Context: UNICEF_
+UN report highlights healthcare worries as gap widens between rich and poor.
 
 ### [ An explosion on the Baku-Tbilisi-Ceyhan pipeline halts oil supplies through one of the biggest pipelines in the world. ](/news/2008/08/6/an-explosion-on-the-baku-tbilisi-ceyhan-pipeline-halts-oil-supplies-through-one-of-the-biggest-pipelines-in-the-world.md)
 An explosion on the Baku-Tbilisi-Ceyhan (BTC) pipeline on Tuesday night in eastern Turkey has halted the oil flow along the one million barrels per day pipeline, a senior Turkish Energy Ministry official said.
@@ -19,7 +19,7 @@ A coup has taken place in Mauritania, where the army has seized the President an
 _Context: Royal Thai Air Force, Thailand, UH-1H_
 
 ### [ Competitions start at the Beijing Olympic Games two days ahead of the Opening Ceremony with the Women's football tournament.](/news/2008/08/6/competitions-start-at-the-beijing-olympic-games-two-days-ahead-of-the-opening-ceremony-with-the-women-s-football-tournament.md)
-_Context: 2008 Summer Olympics Opening Ceremony, Beijing Olympiad, Women's football tournament_
+_Context: 2008 Summer Olympics, 2008 Summer Olympics Opening Ceremony, Women's football tournament_
 
 ### [ The United States FBI claims scientist Bruce Ivins was responsible for the anthrax scares of 2001 that killed five people and made 17 others ill. ](/news/2008/08/6/the-united-states-fbi-claims-scientist-bruce-ivins-was-responsible-for-the-anthrax-scares-of-2001-that-killed-five-people-and-made-17-other.md)
 _Context: Bruce Ivins, FBI, Scientist, United States, anthrax_

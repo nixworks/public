@@ -21,7 +21,7 @@ Pope Benedict XVI declines to accept the resignations of two Irish bishops who s
 ### [The Buggles, known for "Video Killed the Radio Star", the first song played on MTV, announce they are to reunite for a one-off first ever live performance. ](/news/2010/08/11/the-buggles-known-for-video-killed-the-radio-star-the-first-song-played-on-mtv-announce-they-are-to-reunite-for-a-one-off-first-ever-li.md)
 _Context: MTV, The Buggles, Video Killed the Radio Star_
 
-### [An American museum launches an appeal designed to restore 5 dresses that actress Vivien Leigh wore in the film ''Gone with the Wind'' (1939) ahead of 2014's 75th anniversary. ](/news/2010/08/11/an-american-museum-launches-an-appeal-designed-to-restore-5-dresses-that-actress-vivien-leigh-wore-in-the-film-gone-with-the-wind-1939.md)
+### [An American museum launches an appeal designed to restore 5 dresses that actress Vivien Leigh wore in the film "Gone with the Wind" (1939) ahead of 2014's 75th anniversary. ](/news/2010/08/11/an-american-museum-launches-an-appeal-designed-to-restore-5-dresses-that-actress-vivien-leigh-wore-in-the-film-gone-with-the-wind-1939-a.md)
 A US museum is trying to raise funds to restore five dresses worn by Vivien Leigh in the 1939 Oscar-winning film Gone With The Wind.
 
 ### [The internet parody video "Newport State of Mind", which had received hundreds of thousands of hits, is taken off YouTube due to a "copyright claim" by EMI Publishing. ](/news/2010/08/11/the-internet-parody-video-newport-state-of-mind-which-had-received-hundreds-of-thousands-of-hits-is-taken-off-youtube-due-to-a-copyrigh.md)
@@ -42,7 +42,7 @@ _Context: Chernobyl disaster, Russia, radiation, the recent wildfires_
 ### [Heavy rains threaten rescue efforts after a deadly mudslide in Gansu, China, as the death toll reaches 1,117. ](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.md)
 Heavy rain threatens the Chinese county devastated by landslides, as the death toll from the disaster rises to 1,117 people.
 
-### [2010 Pakistan floods:Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-pfood-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punjab.md)
+### [2010 Pakistan floods:. Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punja.md)
 The United Nations on Wednesday warned of a second wave of deaths from floods in Pakistan unless help arrives soon.
 
 ### [National Transportation Safety Board investigators arrive at the scene of the 2010 Alaska plane crash near Aleknagik, Alaska. ](/news/2010/08/11/national-transportation-safety-board-investigators-arrive-at-the-scene-of-the-2010-alaska-plane-crash-near-aleknagik-alaska.md)
@@ -51,10 +51,10 @@ _Context: 2010 Alaska plane crash, Alaska, Aleknagik, National Transportation Sa
 ### [The Seychelles becomes the 112<sup>th</sup> country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md)
 _Context: International Criminal Court, Rome Statute, Seychelles_
 
-### [Colombia-Venezuela relations:Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-pvenezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-presiden.md)
+### [Colombia-Venezuela relations:. Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-preside.md)
 The leaders of Colombia and Venezuela met in an effort to repair relations that deteriorated over claims that Colombian guerrillas were operating from Venezuela.
 
-### [Investigation of the Gaza flotilla raid:Lieutenant-General of Israel Gabi Ashkenazi testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. He says force used was "proportionate and correct" and that soldiers "shot those who they needed to shoot". ](/news/2010/08/11/investigation-of-the-gaza-flotilla-raid-plieutenant-general-of-israel-gabi-ashkenazi-testifies-before-israel-s-turkel-commission-investigati.md)
+### [Investigation of the Gaza flotilla raid:. Lieutenant-General of Israel Gabi Ashkenazi testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. He says force used was "proportionate and correct" and that soldiers "shot those who they needed to shoot". ](/news/2010/08/11/investigation-of-the-gaza-flotilla-raid-lieutenant-general-of-israel-gabi-ashkenazi-testifies-before-israel-s-turkel-commission-investigat.md)
 Israeli army offiocial tell inquiry that troops were right to use live ammunition.
 
 ### [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md)
@@ -78,7 +78,7 @@ The US says it plans to sell Kuwait its latest Patriot anti-ballistic missile to
 ### [Lebanese Defence Minister Elias Murr rejects military offers from the United States after $100 million due to Lebanon is blocked by the United States House of Representatives. ](/news/2010/08/11/lebanese-defence-minister-elias-murr-rejects-military-offers-from-the-united-states-after-100-million-due-to-lebanon-is-blocked-by-the-unit.md)
 _Context: Elias Murr, Lebanon, United States House of Representatives_
 
-### [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md)
+### ["Australopithecus afarensis" evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in "Nature" finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.md)
 Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.
 
 ### [The jury is selected for Canadian Omar Khadr's war crimes trial at Guantanamo Bay. ](/news/2010/08/11/the-jury-is-selected-for-canadian-omar-khadr-s-war-crimes-trial-at-guantanamo-bay.md)
@@ -93,7 +93,7 @@ _Context: Igor Chudinov_
 ### [The Women's Commission of West Bengal says there will be an inquiry into the case of a tribal woman who is reported to have been paraded naked around several villages and filmed in this act via a mobile phone. ](/news/2010/08/11/the-women-s-commission-of-west-bengal-says-there-will-be-an-inquiry-into-the-case-of-a-tribal-woman-who-is-reported-to-have-been-paraded-nak.md)
 _Context: West Bengal_
 
-### [Michael Mara, a man dubbed the "Granddad Bandit"  suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
+### [Michael Mara, a man dubbed the "Granddad Bandit" suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
 _Context: Baton Rouge, Granddad Bandit, Louisiana, United States, bank robbery_
 
 ### [Peruvian indigenous Amazon groups announce a plan to launch their own political party before next year's election; protecting the rainforest and indigenous rights are to be among its aims. ](/news/2010/08/11/peruvian-indigenous-amazon-groups-announce-a-plan-to-launch-their-own-political-party-before-next-year-s-election-protecting-the-rainforest.md)

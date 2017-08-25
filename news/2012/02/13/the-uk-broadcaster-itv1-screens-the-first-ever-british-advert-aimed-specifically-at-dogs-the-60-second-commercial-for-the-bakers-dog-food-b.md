@@ -1,6 +1,6 @@
 ### [2012-02-13](/news/2012/02/13/index.md)
 
-# The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film ''The Italian Job''. 
+# The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film "The Italian Job". 
 
 If your dog starts barking at the television this evening, don&#039;t be alarmed.
 

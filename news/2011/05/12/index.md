@@ -6,7 +6,7 @@ _Context: 2011 Syrian uprising, Aleppo, Syria_
 ### [Two anti-government protesters are killed by Yemeni security forces. ](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.md)
 _Context: 2011 Yemeni protests, Yemen_
 
-### [2011 Libyan civil war:Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-plibyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md)
+### [2011 Libyan civil war:. Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi_
 
 ### [Nigerian soldiers raid suspected militant camps in the Niger Delta in a new offensive. ](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.md)
@@ -15,10 +15,10 @@ _Context: Niger Delta, Nigeria_
 ### [Police in Uganda open fire on a crowd as it attacks a car carrying Nigerian President Goodluck Jonathan in the capital Kampala, killing one person. ](/news/2011/05/12/police-in-uganda-open-fire-on-a-crowd-as-it-attacks-a-car-carrying-nigerian-president-goodluck-jonathan-in-the-capital-kampala-killing-one.md)
 UGANDAN police shot at a crowd in the capital Kampala after it attacked a car carrying Nigeria’s President Goodluck Jonathan who had attended President Yoweri Museveni’s inauguration, a government spokesman said.
 
-### [ITV axes the Scottish police drama ''Taggart'' after 28 years, citing poor viewing figures in other parts of the UK. ](/news/2011/05/12/itv-axes-the-scottish-police-drama-taggart-after-28-years-citing-poor-viewing-figures-in-other-parts-of-the-uk.md)
+### [ITV axes the Scottish police drama "Taggart" after 28 years, citing poor viewing figures in other parts of the UK. ](/news/2011/05/12/itv-axes-the-scottish-police-drama-taggart-after-28-years-citing-poor-viewing-figures-in-other-parts-of-the-uk.md)
 ITV axes the Scottish police drama Taggart after nearly 30 years, in the wake of poor viewing figures south of the border.
 
-### [The BBC is to broadcast its political debate programme ''Question Time'' from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members.md)
+### [The BBC is to broadcast its political debate programme "Question Time" from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members-of.md)
 _Context: BBC, Home Secretary, Jack Straw, Kenneth Clarke, London, Question Time, Secretary of State for Justice, Wormwood Scrubbs Prison_
 
 ### [Queen Elizabeth II becomes the second-longest-reigning British monarch. ](/news/2011/05/12/queen-elizabeth-ii-becomes-the-second-longest-reigning-british-monarch.md)
@@ -57,7 +57,7 @@ _Context: Australia, Christmas Island, Indonesia, asylum seeker, people smuggler
 ### [John Demjanjuk is convicted by a German court of killing over 28,000 Jews in Nazi Germany.](/news/2011/05/12/john-demjanjuk-is-convicted-by-a-german-court-of-killing-over-28-000-jews-in-nazi-germany.md)
 A German court convicts John Demjanjuk of helping to murder more than 28,000 Jews as a Nazi camp guard - but he will be released pending a possible appeal.
 
-### [The High Court of England and Wales grants the Attorney General permission to bring a case against ''The Sun'' and the ''Daily Mirror'' for the way they reported aspects of the hunt for the killer of Joanna Yeates. ](/news/2011/05/12/the-high-court-of-england-and-wales-grants-the-attorney-general-permission-to-bring-a-case-against-the-sun-and-the-daily-mirror-for.md)
+### [The High Court of England and Wales grants the Attorney General permission to bring a case against "The Sun" and the "Daily Mirror" for the way they reported aspects of the hunt for the killer of Joanna Yeates. ](/news/2011/05/12/the-high-court-of-england-and-wales-grants-the-attorney-general-permission-to-bring-a-case-against-the-sun-and-the-daily-mirror-for-the.md)
 The Sun and Daily Mirror are facing contempt of court proceedings over the way they reported the hunt for the killer of Jo Yeates last December.
 
 ### [Police in South London launch a murder hunt after a 15-year-old schoolboy is stabbed to death in the street. ](/news/2011/05/12/police-in-south-london-launch-a-murder-hunt-after-a-15-year-old-schoolboy-is-stabbed-to-death-in-the-street.md)

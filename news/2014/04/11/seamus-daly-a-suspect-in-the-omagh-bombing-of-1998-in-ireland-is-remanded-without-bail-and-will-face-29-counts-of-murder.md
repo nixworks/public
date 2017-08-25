@@ -1,6 +1,6 @@
 ### [2014-04-11](/news/2014/04/11/index.md)
 
-# Seamus Daly, a suspect in the Omagh bombing of 1998 in Ireland, is remanded without bail and will face 29 counts of murder.  
+# Seamus Daly, a suspect in the Omagh bombing of 1998 in Ireland, is remanded without bail and will face 29 counts of murder. 
 
 A man accused of murdering 29 people in the 1998 Omagh bombing is remanded in custody.
 

@@ -9,7 +9,7 @@ _Context: George W. Bush, Iraq, Muntadhar al-Zaidi, United States, president, th
 ### [ National Semiconductor will cut 1,725 jobs. ](/news/2009/03/12/national-semiconductor-will-cut-1-725-jobs.md)
 _Context: National Semiconductor, layoff_
 
-### [ Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial.  ](/news/2009/03/12/pope-benedict-xvi-acknowledges-mistakes-in-rescinding-bishop-richard-williamson-s-excommunication-for-holocaust-denial.md)
+### [ Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial. ](/news/2009/03/12/pope-benedict-xvi-acknowledges-mistakes-in-rescinding-bishop-richard-williamson-s-excommunication-for-holocaust-denial.md)
 _Context: Holocaust, Holocaust denial, Pope, Pope Benedict XVI, Richard Williamson, bishop, excommunicate_
 
 ### [ Zimbabwe releases Deputy Agriculture Minister-designate Roy Bennett from government custody. ](/news/2009/03/12/zimbabwe-releases-deputy-agriculture-minister-designate-roy-bennett-from-government-custody.md)

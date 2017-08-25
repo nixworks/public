@@ -1,13 +1,9 @@
 ### [2012-04-19](/news/2012/04/19/index.md)
 
-# Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, says he planned to behead former Norwegian Prime Minister Gro Harlem Brundtland and post the footage on the internet. 
+# Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, says he planned to behead former Norwegian Prime Minister Gro Harlem Brundtland and post the footage on the internet. [http://www.guardian.co.uk/world/2012/apr/19/breivik-targeted-former-pm-brundtland?newsfeed=true "(The Guardian)"]
 
 
 
-
-### Source:
-
-1. [The Guardian](http://www.guardian.co.uk/world/2012/apr/19/breivik-targeted-former-pm-brundtland?newsfeed=true)
 
 ### Related:
 
@@ -20,4 +16,4 @@
 7. [Anders Behring Breivik is declared to have been criminally insane when he committed the 2011 Norway attacks that killed 77 people. ](/news/2011/11/29/anders-behring-breivik-is-declared-to-have-been-criminally-insane-when-he-committed-the-2011-norway-attacks-that-killed-77-people.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
 8. [A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. ](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
 9. [The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. ](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
-10. [Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md) _Context: 2011 Norway attacks, Anders Behring Breivik_
+10. [2011 Norway attacks. Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/2011-norway-attacks-anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md) _Context: 2011 Norway attacks, Anders Behring Breivik_

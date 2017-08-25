@@ -1,6 +1,6 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
-### [ Treaty of Lisbon: Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-p-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md)
+### [ Treaty of Lisbon:. Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md)
 _Context: Czech Republic, European Union, Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
@@ -36,7 +36,7 @@ _Context: Australia, Sydney, worst dust storm in seven decades_
 ### [ The United Kingdom's largest haul of Anglo-Saxon treasure, a collection of 1,500 gold and silver pieces comparable to the Book of Kells, is discovered buried beneath a field in Staffordshire. ](/news/2009/09/24/the-united-kingdom-s-largest-haul-of-anglo-saxon-treasure-a-collection-of-1-500-gold-and-silver-pieces-comparable-to-the-book-of-kells-is.md)
 The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items. Here are some of the collection&#039;s highlights:
 
-### [ The ''News of the World'' and ''Daily Mail'' newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after.md)
+### [ The "News of the World" and "Daily Mail" newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after-prin.md)
 _Context: Daily Mail, England, England, Fabio Capello, Italian, News of the World, mud-bath_
 
 ### [ South Korea agrees to develop 1,000 km<sup>2</sup> (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md)
@@ -57,10 +57,10 @@ _Context: Tanzania, Tanzania Albino Society, men found guilty of killing an albi
 ### [ Bobby Cox, manager of the professional baseball team Atlanta Braves, announces he will retire at the end of the 2010 season. ](/news/2009/09/24/bobby-cox-manager-of-the-professional-baseball-team-atlanta-braves-announces-he-will-retire-at-the-end-of-the-2010-season.md)
 _Context: Bobby Cox, Braves, baseball game_
 
-### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term.  ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
+### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term. ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
 _Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Teddy Kennedy, United States Senate_
 
-### [ 2009 G-20 Pittsburgh summit: Leaders of the world converge on Pittsburgh, Pennsylvania for the opening of the G-20 Summit. ](/news/2009/09/24/2009-g-20-pittsburgh-summit-p-leaders-of-the-world-converge-on-pittsburgh-pennsylvania-for-the-opening-of-the-g-20-summit.md)
+### [ 2009 G-20 Pittsburgh summit:. Leaders of the world converge on Pittsburgh, Pennsylvania for the opening of the G-20 Summit. ](/news/2009/09/24/2009-g-20-pittsburgh-summit-leaders-of-the-world-converge-on-pittsburgh-pennsylvania-for-the-opening-of-the-g-20-summit.md)
 _Context: G-20 Summit, Pittsburgh_
 
 ### [ Tongan Loloahi Tapui, the housekeeper of Attorney General for England and Wales Patricia Scotland, Baroness Scotland of Asthal, is arrested alongside her husband over alleged immigration offences. ](/news/2009/09/24/tongan-loloahi-tapui-the-housekeeper-of-attorney-general-for-england-and-wales-patricia-scotland-baroness-scotland-of-asthal-is-arrested.md)

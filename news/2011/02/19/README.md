@@ -1,15 +1,15 @@
 ## [2011-02-19](/news/2011/02/19/index.md)
 
-### [2011 Libyan civil war:Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-phuman-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md)
+### [2011 Libyan civil war:. Human Rights Watch claims that Libyan security forces have killed 84 people over the past three days. ](/news/2011/02/19/2011-libyan-civil-war-human-rights-watch-claims-that-libyan-security-forces-have-killed-84-people-over-the-past-three-days.md)
 Resident of Libyan city calls for help, saying hospitals are overwhelmed by number of dead.
 
-### [2011 Bahraini protests:Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-pdemonstrators-chase-away-riot-police-in-manama.md)
+### [2011 Bahraini protests:. Demonstrators chase away riot police in Manama. ](/news/2011/02/19/2011-bahraini-protests-demonstrators-chase-away-riot-police-in-manama.md)
 _Context: 2011 Bahraini protests, Manama_
 
-### [2011 Yemeni protests:At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-pat-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md)
+### [2011 Yemeni protests:. At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/2011-yemeni-protests-at-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md)
 Five people are killed at anti-government protests in Yemen, four as police open fire in the port city of Aden and one from a grenade attack in Taiz.
 
-### [2010-2011 Algerian protests:Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-ppolice-break-up-a-pro-democracy-protest-in-the-capital-algiers.md)
+### [2010-2011 Algerian protests:. Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/2010-2011-algerian-protests-police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md)
 Several people are injured and others are arrested as police thwart pro-democracy rally in capital Algiers, reports say.
 
 ### [At least two people are killed in the Ivory Coast after Ivorian forces open fire on protesters urging the resignation of President Laurent Gbagbo. ](/news/2011/02/19/at-least-two-people-are-killed-in-the-ivory-coast-after-ivorian-forces-open-fire-on-protesters-urging-the-resignation-of-president-laurent-g.md)
@@ -18,7 +18,7 @@ At least two people die after Ivorian troops use gunfire and tear gas on protest
 ### [Riots occur in the Moroccan city of Tangier over utility costs. ](/news/2011/02/19/riots-occur-in-the-moroccan-city-of-tangier-over-utility-costs.md)
 _Context: Morocco, Tangier_
 
-### [Israeli-Palestinian conflict:8 Palestinians are injured while on restricted lands when their anti-barrier protests are broken up by Israeli forces using live ammunition and tear gas among other agents to disperse the protesters. ](/news/2011/02/19/israeliapalestinian-conflict-p8-palestinians-are-injured-while-on-restricted-lands-when-their-anti-barrier-protests-are-broken-up-by-israe.md)
+### [Israeli-Palestinian conflict:. 8 Palestinians are injured while on restricted lands when their anti-barrier protests are broken up by Israeli forces using live ammunition and tear gas among other agents to disperse the protesters. ](/news/2011/02/19/israeli-palestinian-conflict-8-palestinians-are-injured-while-on-restricted-lands-when-their-anti-barrier-protests-are-broken-up-by-isra.md)
 Demonstrators hold signs reading “stop US-supported occupation,&quot; “Veto settlements, vote justice” following US veto of anti-settlement vote.
 
 ### [Thousands of people rally in Spanish municipality of Bilbao calling for the legalization of the new separatist party Sortu. ](/news/2011/02/19/thousands-of-people-rally-in-spanish-municipality-of-bilbao-calling-for-the-legalization-of-the-new-separatist-party-sortu.md)
@@ -30,7 +30,7 @@ Fifty-eight foot American-owned yacht seized off the coast of Oman with four US 
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)
 _Context: Dresden, tear gas, water cannon_
 
-### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film ''Nader and Simin, A Separation'' as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-ber.md)
+### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
 _Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, Germany, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
 
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)

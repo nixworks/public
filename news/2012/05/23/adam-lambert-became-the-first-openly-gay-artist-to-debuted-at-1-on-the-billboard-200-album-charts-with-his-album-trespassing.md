@@ -1,6 +1,6 @@
 ### [2012-05-23](/news/2012/05/23/index.md)
 
-# Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album ''Trespassing''. 
+# Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album "Trespassing". 
 
 
 

@@ -24,7 +24,7 @@ _Context: Pasta de Conchos mine disaster, coal miners, natural gas_
 ### [ It is revealed that MSN Messenger silently removes messages containing links to freeware and open source software.](/news/2006/02/25/it-is-revealed-that-msn-messenger-silently-removes-messages-containing-links-to-freeware-and-open-source-software.md)
 _Context: MSN Messenger_
 
-### [ Gary Kelly makes his 500th appearance for Leeds United football Club, in a 2-1 win against Luton Town F.C.](/news/2006/02/25/gary-kelly-makes-his-500th-appearance-for-leeds-united-football-club-in-a-2a1-win-against-luton-town-f-c.md)
+### [ Gary Kelly makes his 500th appearance for Leeds United football Club, in a 2-1 win against Luton Town F.C.](/news/2006/02/25/gary-kelly-makes-his-500th-appearance-for-leeds-united-football-club-in-a-2-1-win-against-luton-town-f-c.md)
 _Context: Gary Kelly, Leeds United, Luton Town F.C._
 
 ## [Previous Day...](/news/2006/02/24/index.md)

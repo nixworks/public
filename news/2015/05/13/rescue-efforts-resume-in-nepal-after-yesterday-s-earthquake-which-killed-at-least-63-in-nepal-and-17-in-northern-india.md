@@ -12,4 +12,4 @@ Rescue work resumes after the latest deadly earthquake in Nepal, after thousands
 
 ### Related:
 
-1. [A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-for-mount-everest.md) _Context: yesterday's earthquake_
+1. [May 2015 Nepal earthquake. A magnitude 7.3 earthquake strikes the town of Namche Bazaar, Nepal, near the Tibetan border and the base camp for Mount Everest. ](/news/2015/05/12/may-2015-nepal-earthquake-a-magnitude-7-3-earthquake-strikes-the-town-of-namche-bazaar-nepal-near-the-tibetan-border-and-the-base-camp-fo.md) _Context: yesterday's earthquake_

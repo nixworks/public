@@ -1,6 +1,6 @@
 ## [2012-06-8](/news/2012/06/8/index.md)
 
-### [Arab Spring:Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-psyrian-uprising-punited-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reporte.md)
+### [Arab Spring:. Syrian uprising:. United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-repor.md)
 U.N. monitors entered the Syrian hamlet of Mazraat al-Qubeir where up to 78 people were reported killed in cold blood two days earlier and an eyewitness described a scene of shredded and burnt flesh.
 
 ### [7 United Nations peacekeepers from Niger are killed in an ambush in Ivory Coast. ](/news/2012/06/8/7-united-nations-peacekeepers-from-niger-are-killed-in-an-ambush-in-ivory-coast.md)
@@ -21,7 +21,7 @@ _Context: Amy Winehouse, Chalk Farm, The Roundhouse, north London_
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
 _Context: Barry Unsworth, Booker Prize, Italian_
 
-### [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the PS10,000 Commonwealth Book Prize for his debut novel ''Chinaman: The Legend of Pradeep Mathew'', while Emma Martin from New Zealand wins the PS5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-aps10-000-commonwealth-book-prize-for-his.md)
+### [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the GBP10,000 Commonwealth Book Prize for his debut novel "Chinaman: The Legend of Pradeep Mathew", while Emma Martin from New Zealand wins the GBP5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-agbp10-000-commonwealth-book-prize-for-hi.md)
 _Context: Commonwealth Writers prizes, Emma Martin, Hay, New Zealand, Shehan Karunatilaka, Sri Lanka_
 
 ### [Chesapeake Energy shareholders, at their annual meeting, reject two incumbent directors in a vote widely regarded as a repudiation of CEO Aubrey McClendon. ](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.md)

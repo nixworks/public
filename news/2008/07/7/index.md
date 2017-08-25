@@ -9,10 +9,10 @@ Strengthening far more swiftly and vigorously than predicted, Hurricane Bertha b
 ### [ A suicide car bomber strikes outside the Indian embassy in Kabul, Afghanistan, with at least 41 people killed. ](/news/2008/07/7/a-suicide-car-bomber-strikes-outside-the-indian-embassy-in-kabul-afghanistan-with-at-least-41-people-killed.md)
 A Taliban suicide car bomb hitthe Indian Embassy in Kabul on Monday, killing 41 people andwounding 139, in an attack Afghan authorities said wascoordinated with foreign agents in the region, a likelyreference to Pakistan.
 
-### [ MV ''Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the.md)
+### [ MV "Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the-b.md)
 _Context: MV ''Princess of the Stars, Sulpicio Lines_
 
-### [ The Church of England's governing body votes to allow female bishops.  ](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.md)
+### [ The Church of England's governing body votes to allow female bishops. ](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.md)
 _Context: Church of England, General Synod of the Church of England, female bishops_
 
 ### [ Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. ](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-lauzon-rivers-from-the-tricastin-nuclear-power-center-in-bollene-france-resulting-in-the-pl.md)

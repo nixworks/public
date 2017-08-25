@@ -1,6 +1,6 @@
 ### [2014-01-29](/news/2014/01/29/index.md)
 
-# The cruise ship MS ''Explorer of the Seas'' returns to port; at least 684 of the 4237 people aboard had symptoms of norovirus. 
+# The cruise ship MS "Explorer of the Seas" returns to port; at least 684 of the 4237 people aboard had symptoms of norovirus. 
 
 
 
@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [More than 100 passengers out of 1,100 on the cruise ship ''Crown Princess'' may be suffering from symptoms of Norovirus. ](/news/2015/04/14/more-than-100-passengers-out-of-1-100-on-the-cruise-ship-crown-princess-may-be-suffering-from-symptoms-of-norovirus.md) _Context: Norovirus_
+1. [More than 100 passengers out of 1,100 on the cruise ship "Crown Princess" may be suffering from symptoms of Norovirus. ](/news/2015/04/14/more-than-100-passengers-out-of-1-100-on-the-cruise-ship-crown-princess-may-be-suffering-from-symptoms-of-norovirus.md) _Context: Norovirus_

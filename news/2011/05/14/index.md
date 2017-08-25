@@ -1,21 +1,21 @@
 ## [2011-05-14](/news/2011/05/14/index.md)
 
-### [2011 Libyan civil war:More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-pmore-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md)
+### [2011 Libyan civil war:. More than 400 people fleeing Libya and Tunisia arrive on the Italian island of Lampedusa in two boats, the latest in a stream of refugees fleeing the ongoing conflicts in North Africa. ](/news/2011/05/14/2011-libyan-civil-war-more-than-400-people-fleeing-libya-and-tunisia-arrive-on-the-italian-island-of-lampedusa-in-two-boats-the-latest-in.md)
 More than 400 people fleeing Libya and Tunisia arrived overnight in an Italian island on Saturday, the latest in a stream of refugees escaping volatile and unstable North Africa.
 
-### [2011 Syrian protests:3 people are killed and others are injured as the regime shells Talkalakh, a city near the border with Lebanon; injured Syrians are taken to Lebanese hospitals with at least one man reported to have died. ](/news/2011/05/14/2011-syrian-protests-p3-people-are-killed-and-others-are-injured-as-the-regime-shells-talkalakh-a-city-near-the-border-with-lebanon-injure.md)
+### [2011 Syrian protests:. 3 people are killed and others are injured as the regime shells Talkalakh, a city near the border with Lebanon; injured Syrians are taken to Lebanese hospitals with at least one man reported to have died. ](/news/2011/05/14/2011-syrian-protests-3-people-are-killed-and-others-are-injured-as-the-regime-shells-talkalakh-a-city-near-the-border-with-lebanon-injur.md)
 At least four people killed after troops open fire near Lebanese border, as thousands attend funeral of shot protester.
 
-### [2011 Yemeni protests:Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-ppro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-kil.md)
+### [2011 Yemeni protests:. Pro-government republican guard forces attack a defected military unit near the capital Sana'a. Three soldiers are killed. ](/news/2011/05/14/2011-yemeni-protests-pro-government-republican-guard-forces-attack-a-defected-military-unit-near-the-capital-sana-a-three-soldiers-are-ki.md)
 _Context: 2011 Yemeni protests, Sanaa_
 
-### [2011 Egyptian revolution:Two protesters are shot and 60 injured in clashes in Cairo in opposing Coptic and Muslim demonstrations, while a large explosion is reported near the tomb of a Muslim sheikh on the Sinai Peninsula. ](/news/2011/05/14/2011-egyptian-revolution-ptwo-protesters-are-shot-and-60-injured-in-clashes-in-cairo-in-opposing-coptic-and-muslim-demonstrations-while-a-l.md)
+### [2011 Egyptian revolution:. Two protesters are shot and 60 injured in clashes in Cairo in opposing Coptic and Muslim demonstrations, while a large explosion is reported near the tomb of a Muslim sheikh on the Sinai Peninsula. ](/news/2011/05/14/2011-egyptian-revolution-two-protesters-are-shot-and-60-injured-in-clashes-in-cairo-in-opposing-coptic-and-muslim-demonstrations-while-a.md)
 Violence erupted in the Cairo neighborhood of Maspero when pro-Coptic protesters clashed with unidentified men, leaving at least two people dead and 60 injured, state TV reported early Sunday.
 
 ### [Suspected al-Qaeda militants kill six soldiers and injure five others in the town of Rada in Yemen while security forces in other cities injure three dozen anti-government protesters demanding the departure of President Ali Abdullah Saleh. ](/news/2011/05/14/suspected-al-qaeda-militants-kill-six-soldiers-and-injure-five-others-in-the-town-of-rada-in-yemen-while-security-forces-in-other-cities-inj.md)
 Violence rocked embattled Yemen on Saturday as suspected militants killed government soldiers for the second day in a row and security forces wounded around three dozen anti-government protesters.
 
-### [Six people are killed and at least 19 injured in a blast on a passenger bus in the  Punjab province, Pakistan. ](/news/2011/05/14/six-people-are-killed-and-at-least-19-injured-in-a-blast-on-a-passenger-bus-in-the-punjab-province-pakistan.md)
+### [Six people are killed and at least 19 injured in a blast on a passenger bus in the Punjab province, Pakistan. ](/news/2011/05/14/six-people-are-killed-and-at-least-19-injured-in-a-blast-on-a-passenger-bus-in-the-punjab-province-pakistan.md)
 Six people died in Pakistan on Saturday when a blast tore through a passenger bus, a government official said.
 
 ### [Street preachers clash with gays and lesbians during a peaceful rally to mark International Day Against Homophobia and Transphobia in Adelaide, Australia. ](/news/2011/05/14/street-preachers-clash-with-gays-and-lesbians-during-a-peaceful-rally-to-mark-international-day-against-homophobia-and-transphobia-in-adelai.md)
@@ -36,22 +36,22 @@ _Context: Indian Army, Kashmir, Pakistan army_
 ### [Azeri duo Eldar & Nigar win the 2011 Eurovision Song Contest in Dusseldorf, North Rhine-Westphalia, with the song "Running Scared". ](/news/2011/05/14/azeri-duo-eldar-nigar-win-the-2011-eurovision-song-contest-in-da1-4sseldorf-north-rhine-westphalia-with-the-song-running-scared.md)
 _Context: 2011 Eurovision Song Contest, Azeri, Dusseldorf, Eldar & Nigar, North Rhine-Westphalia, Running Scared_
 
-### [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from ''The New York Times'' over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md)
+### [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from "The New York Times" over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md)
 Legendary folk-rock singer Bob Dylan insists he was not censored by Chinese authorities ahead of concerts he performed there earlier this year.
 
 ### [North Korean leader Kim Jong-il's youngest son Kim Jong-un reportedly lifts restrictions on women's fashion, while cosmetic surgery&ndash;though illegal&ndash;takes place in return for bribes. ](/news/2011/05/14/north-korean-leader-kim-jong-il-s-youngest-son-kim-jong-un-reportedly-lifts-restrictions-on-women-s-fashion-while-cosmetic-surgery-ndash-th.md)
 _Context: Kim Jong-il, Kim Jong-un, North Korea, cosmetic surgery_
 
-### [Australian singer Dannii Minogue resigns as a judge on ''The X Factor''. ](/news/2011/05/14/australian-singer-dannii-minogue-resigns-as-a-judge-on-the-x-factor.md)
+### [Australian singer Dannii Minogue resigns as a judge on "The X Factor". ](/news/2011/05/14/australian-singer-dannii-minogue-resigns-as-a-judge-on-the-x-factor.md)
 Dannii Minogue confirms she is standing down as a judge on The X Factor due to a clash of TV commitments.
 
 ### [President of the United States Barack Obama uses his weekly address to vow to seek oil in Alaska and in the Gulf of Mexico. ](/news/2011/05/14/president-of-the-united-states-barack-obama-uses-his-weekly-address-to-vow-to-seek-oil-in-alaska-and-in-the-gulf-of-mexico.md)
 The US will grant new leases to drill for oil in Alaska and the Gulf of Mexico to try to boost output and cap fuel prices, President Obama says.
 
-### [Japanese earthquake, tsunami and nuclear crisis:A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-pa-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md)
+### [Japanese earthquake, tsunami and nuclear crisis:. A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-a-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md)
 A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
 
-### [Flooding in North America:The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding 3,000|sqmi|km2 of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. ](/news/2011/05/14/flooding-in-north-america-pthe-morganza-spillway-on-the-mississippi-river-is-opened-for-the-second-time-in-its-history-deliberately-floodin.md)
+### [Flooding in North America:. The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding 3,000|sqmi|km2 of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. ](/news/2011/05/14/flooding-in-north-america-the-morganza-spillway-on-the-mississippi-river-is-opened-for-the-second-time-in-its-history-deliberately-floodi.md)
 They busted the dike, and the water poured through -- slowly.
 
 ### [Pakistan's parliament adopts a resolution that demands an immediate stop to drone strikes and an end to raids by U.S. troops within Pakistan's borders and threatens to cut off access to a facility used by NATO forces to ferry troops into Afghanistan, as the rift between the US and Pakistan grows, following the killing of Osama bin Laden. ](/news/2011/05/14/pakistan-s-parliament-adopts-a-resolution-that-demands-an-immediate-stop-to-drone-strikes-and-an-end-to-raids-by-u-s-troops-within-pakistan.md)

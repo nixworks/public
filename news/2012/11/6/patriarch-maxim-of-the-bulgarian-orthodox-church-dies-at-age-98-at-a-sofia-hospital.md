@@ -11,4 +11,4 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Related:
 
-1. [A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-however-the-russian-b.md) _Context: Bulgarian_
+1. [Pan-Orthodox Council. A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/pan-orthodox-council-a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-h.md) _Context: Bulgarian_

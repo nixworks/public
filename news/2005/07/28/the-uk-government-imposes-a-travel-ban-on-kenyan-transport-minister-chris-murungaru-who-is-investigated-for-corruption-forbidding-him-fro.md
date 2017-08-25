@@ -1,6 +1,6 @@
 ### [2005-07-28](/news/2005/07/28/index.md)
 
-#  The UK government imposes a travel ban on Kenyan transport minister Chris Murungaru, who is investigated for corruption, forbidding him from visiting Britain  
+#  The UK government imposes a travel ban on Kenyan transport minister Chris Murungaru, who is investigated for corruption, forbidding him from visiting Britain 
 
 
 

@@ -3,10 +3,10 @@
 ### [ Mohamed ElBaradei, head of the International Atomic Energy Agency (IAEA), states there is no evidence to suggest Iran is developing nuclear weapons. ](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.md)
 _Context: International Atomic Energy Agency, Iran, Mohamed ElBaradei, nuclear warheads_
 
-### [ NHL Commissioner Gary Bettman announces the cancellation of the 2004-05 season because of the ongoing lockout. It is the first time a North American professional sports league has cancelled an entire season due to a labor dispute. ](/news/2005/02/16/nhl-commissioner-gary-bettman-announces-the-cancellation-of-the-2004a05-season-because-of-the-ongoing-lockout-it-is-the-first-time-a-nor.md)
+### [ NHL Commissioner Gary Bettman announces the cancellation of the 2004-05 season because of the ongoing lockout. It is the first time a North American professional sports league has cancelled an entire season due to a labor dispute. ](/news/2005/02/16/nhl-commissioner-gary-bettman-announces-the-cancellation-of-the-2004-05-season-because-of-the-ongoing-lockout-it-is-the-first-time-a-nor.md)
 _Context: 2004-05 season, Gary Bettman, NHL Commissioner, National Hockey League labor dispute, professional sports_
 
-### [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant.  Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam.  ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ir.md)
+### [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ira.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Kyoto Protocol, an international agreement addressing global warming, comes into effect. ](/news/2005/02/16/the-kyoto-protocol-an-international-agreement-addressing-global-warming-comes-into-effect.md)
@@ -36,13 +36,13 @@ _Context: Abubakar Hamza, Nigeria, US$, aphrodisiac, cross-dressing, moral, shar
 ### [ Iran and Syria announce the formation of a "united front" in order to face "challenges and threats", resolved after a meeting between Iranian First Vice President Mohammad Reza Aref and Syrian Prime Minister Mohammed Naji al-Otari. ](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.md)
 _Context: Iran, Mohammad Reza Aref, Mohammed Naji al-Otari, Syria_
 
-### [ The body of Cecilia Cubas, daughter of former Paraguayan President Raul Cubas Grau, is found in an underground chamber at a house near the capital city of Asuncion.  She was abducted on September 21, 2004.  ](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.md)
+### [ The body of Cecilia Cubas, daughter of former Paraguayan President Raul Cubas Grau, is found in an underground chamber at a house near the capital city of Asuncion. She was abducted on September 21, 2004. ](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Six Rwandans file a lawsuit in France that accuses French soldiers of complicity in the Rwandan Genocide of 1994. ](/news/2005/02/16/six-rwandans-file-a-lawsuit-in-france-that-accuses-french-soldiers-of-complicity-in-the-rwandan-genocide-of-1994.md)
 _Context: France, Rwanda, Rwandan Genocide_
 
-### [ In Tunisia, authorities continue to clean up an oil spill near the town of Korbous that was caused by a Moroccan container ship running aground late the day before.  ](/news/2005/02/16/in-tunisia-authorities-continue-to-clean-up-an-oil-spill-near-the-town-of-korbous-that-was-caused-by-a-moroccan-container-ship-running-agr.md)
+### [ In Tunisia, authorities continue to clean up an oil spill near the town of Korbous that was caused by a Moroccan container ship running aground late the day before. ](/news/2005/02/16/in-tunisia-authorities-continue-to-clean-up-an-oil-spill-near-the-town-of-korbous-that-was-caused-by-a-moroccan-container-ship-running-agr.md)
 Clean-up operations resumed Thursday on the Tunisian coast after a Moroccan container ship leaked tons of oil from its fuel tanks when it ran aground in stormy seas. Seven Dutch experts were due at the scene to help plug the leaks to prevent nearly 200 tons of heavy oil and dies-el escaping.&lt;BR>
 
 ## [Previous Day...](/news/2005/02/15/index.md)

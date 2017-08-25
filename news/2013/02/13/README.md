@@ -1,12 +1,12 @@
 ## [2013-02-13](/news/2013/02/13/index.md)
 
-### [Syrian civil war:Rebels clash with the Syrian military at an army base protecting Aleppo's international airport. The opposition claims that 40 Syrian soldiers were killed in the fighting, as large parts of the base are overrun. ](/news/2013/02/13/syrian-civil-war-prebels-clash-with-the-syrian-military-at-an-army-base-protecting-aleppo-s-international-airport-the-opposition-claims-tha.md)
+### [Syrian civil war:. Rebels clash with the Syrian military at an army base protecting Aleppo's international airport. The opposition claims that 40 Syrian soldiers were killed in the fighting, as large parts of the base are overrun. ](/news/2013/02/13/syrian-civil-war-rebels-clash-with-the-syrian-military-at-an-army-base-protecting-aleppo-s-international-airport-the-opposition-claims-th.md)
 Assault on al-Jarrah airfield in Aleppo comes a day after opposition seized a key dam.
 
-### [South Thailand insurgency:16 Muslim insurgents are killed during an attack on a military base in the  Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-p16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md)
+### [South Thailand insurgency:. 16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/south-thailand-insurgency-16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md)
 _Context: Muslim, Narathiwat, South Thailand insurgency, Thailand_
 
-### [War in Afghanistan (2001-present):Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001apresent-pafghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md)
+### [War in Afghanistan (2001-present):. Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001-present-afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md)
 At least 10 civilians, including four children, die in a Nato air strike in the Afghan province of Kunar, local officials say.
 
 ### [Iranian officials say that they are beginning to install advanced centrifuges in their main uranium enrichment plant which they say will help create better fuel. ](/news/2013/02/13/iranian-officials-say-that-they-are-beginning-to-install-advanced-centrifuges-in-their-main-uranium-enrichment-plant-which-they-say-will-hel.md)
@@ -36,7 +36,7 @@ _Context: Barry Bonds, United States Court of Appeals for the Ninth Circuit, obs
 ### [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md)
 A man involved in a paternity dispute opened fire Wednesday in front of a South Carolina courthouse, wounding a woman and her stepfather, then led police on a 12-mile chase before he was caught, a sheriff said.
 
-### [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md)
+### [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australian-israeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md)
 Israel confirms it imprisoned an Australian-Israeli man under a false identity for security reasons, and that he died in custody.
 
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)

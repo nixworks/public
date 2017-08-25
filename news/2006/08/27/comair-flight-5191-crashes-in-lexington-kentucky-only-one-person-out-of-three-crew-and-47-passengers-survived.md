@@ -1,6 +1,6 @@
 ### [2006-08-27](/news/2006/08/27/index.md)
 
-#  Comair Flight 5191 crashes in Lexington, Kentucky.  Only one person, out of three crew and 47 passengers, survived. 
+#  Comair Flight 5191 crashes in Lexington, Kentucky. Only one person, out of three crew and 47 passengers, survived. 
 
 
 

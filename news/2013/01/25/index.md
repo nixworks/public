@@ -1,18 +1,18 @@
 ## [2013-01-25](/news/2013/01/25/index.md)
 
-### [Syrian civil war:Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-ptwo-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
+### [Syrian civil war:. Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
 _Context: Golan Heights, Syrian Civil War_
 
-### [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
+### [Northern Mali conflict:. The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
 French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;Fr...
 
-### [2012-2013 Egyptian protests:Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/2012a2013-egyptian-protests-pmassive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revolutio.md)
+### [2012-2013 Egyptian protests:. Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/2012-2013-egyptian-protests-massive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revoluti.md)
 Egyptian opposition protesters gather in Cairo&#39;s Tahrir Square to mark the second anniversary of the uprising that toppled Hosni Mubarak&#39;s autocratic regime.
 
-### [2013 Uribana prison riot:A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-pa-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md)
+### [2013 Uribana prison riot:. A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md)
 More than 50 people have been killed and dozens more injured in a prison riot in western Venezuela, hospital staff say.
 
-### [2011-2013 Iraqi protests:Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/2011a2013-iraqi-protests-pongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly.md)
+### [2011-2013 Iraqi protests:. Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/2011-2013-iraqi-protests-ongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly.md)
 Iraq9 are killed as protesters, army clash
 
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
@@ -24,7 +24,7 @@ Torrential rain has caused widespread flooding in the Australian state of Queens
 ### [Tennessee Highway Patrol officer Michael Slagle is killed after his car hit an ice patch and crashed and the responding fire truck hit the same ice patch and fell on top of his vehicle in northeast Knox County, Tennessee, United States. ](/news/2013/01/25/tennessee-highway-patrol-officer-michael-slagle-is-killed-after-his-car-hit-an-ice-patch-and-crashed-and-the-responding-fire-truck-hit-the-s.md)
 Trooper Michael Slagle reportedly suffered a fatal heart attack during the incident Friday morning.
 
-### [At least 60 vehicles are involved in two chain-reaction crashes on Ontario Highway 401  about 80 kilometres east of Toronto, Canada, leaving at least five people injured, two critically. ](/news/2013/01/25/at-least-60-vehicles-are-involved-in-two-chain-reaction-crashes-on-ontario-highway-401-about-80-kilometres-east-of-toronto-canada-leaving.md)
+### [At least 60 vehicles are involved in two chain-reaction crashes on Ontario Highway 401 about 80 kilometres east of Toronto, Canada, leaving at least five people injured, two critically. ](/news/2013/01/25/at-least-60-vehicles-are-involved-in-two-chain-reaction-crashes-on-ontario-highway-401-about-80-kilometres-east-of-toronto-canada-leaving.md)
 At least five people were injured, some critically, after dozens of vehicles were involved in two chain-reaction crashes on a snow-covered southern Ontario highway in near whiteout conditions Friday afternoon.
 
 ### [Turkish Airlines plane with 114 people aboard makes an emergency landing at Izmir, Turkey, after it was struck by lightning and one of its engines caught fire. ](/news/2013/01/25/turkish-airlines-plane-with-114-people-aboard-makes-an-emergency-landing-at-izmir-turkey-after-it-was-struck-by-lightning-and-one-of-its-e.md)

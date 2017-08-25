@@ -1,15 +1,15 @@
 ## [2011-05-31](/news/2011/05/31/index.md)
 
-### [Hamid Karzai, the President of Afghanistan, reacts to the deaths of 9 civilians in a NATO air strike by telling the organization that attacks on insurgents in Afghan homes is "not allowed". ](/news/2011/05/31/hamid-karzai-the-president-of-afghanistan-reacts-to-the-deaths-of-9-civilians-in-a-nato-air-strike-by-telling-the-organization-that-attack.md)
+### [War in Afghanistan:. Hamid Karzai, the President of Afghanistan, reacts to the deaths of 9 civilians in a NATO air strike by telling the organization that attacks on insurgents in Afghan homes is "not allowed". ](/news/2011/05/31/war-in-afghanistan-hamid-karzai-the-president-of-afghanistan-reacts-to-the-deaths-of-9-civilians-in-a-nato-air-strike-by-telling-the-org.md)
 Two officers were injured Tuesday when their police car hit a bomb in northern Afghanistan, an official said.
 
-### [2011 Xilinhot incident:Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-pdozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md)
+### [2011 Xilinhot incident:. Dozens of people are arrested in the Inner Mongolia region of northern China, as ethnic protests spread. ](/news/2011/05/31/2011-xilinhot-incident-dozens-of-people-are-arrested-in-the-inner-mongolia-region-of-northern-china-as-ethnic-protests-spread.md)
 Chinese authorities Monday arrested dozens of demonstrators in Hohhot as protests spread to the provincial capital and other cities in Inner Mongolia despite tightened security and reports of martial law, activists told CNN.
 
-### [Arab Spring:Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-pyemeni-uprising-pa-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-i.md)
+### [Arab Spring:. Yemeni uprising:. A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-yemeni-uprising-a-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down.md)
 More than 50 people have been killed in demonstrations in the southern Yemeni city of Taiz since Sunday, the UN human rights office says.
 
-### [2011 Spanish protests:Tens of thousands of "los indignados", young and old, continue to camp against cuts in city center squares as Greeks gather and Parisians protest in solidarity with their Spanish counterparts. ](/news/2011/05/31/2011-spanish-protests-ptens-of-thousands-of-los-indignados-young-and-old-continue-to-camp-against-cuts-in-city-center-squares-as-greeks.md)
+### [2011 Spanish protests:. Tens of thousands of "los indignados", young and old, continue to camp against cuts in city center squares as Greeks gather and Parisians protest in solidarity with their Spanish counterparts. ](/news/2011/05/31/2011-spanish-protests-tens-of-thousands-of-los-indignados-young-and-old-continue-to-camp-against-cuts-in-city-center-squares-as-greeks.md)
 _Context: 2011 Spanish protests_
 
 ### [The Pakistan Air Force kills seventeen militants in a bombing raid on the upper Orakzai Agency. ](/news/2011/05/31/the-pakistan-air-force-kills-seventeen-militants-in-a-bombing-raid-on-the-upper-orakzai-agency.md)
@@ -22,7 +22,7 @@ _Context: Tiananmen Square protests of 1989_
 ### [Riot police in Cameroon arrest and disperse hundreds of farmers protesting in the capital Yaounde over poor road conditions and low state support for agriculture. ](/news/2011/05/31/riot-police-in-cameroon-arrest-and-disperse-hundreds-of-farmers-protesting-in-the-capital-yaounde-over-poor-road-conditions-and-low-state-su.md)
 _Context: Cameroon, Yaounde, agriculture_
 
-### [The titles and release dates of the two films based on J. R. R. Tolkien's ''The Hobbit'' are announced. ](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.md)
+### [The titles and release dates of the two films based on J. R. R. Tolkien's "The Hobbit" are announced. ](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.md)
 _Context: J. R. R. Tolkien, The Hobbit_
 
 ### [Japan's unemployment rate rises to 4.7% and average wages drop for the second consecutive month. ](/news/2011/05/31/japan-s-unemployment-rate-rises-to-4-7-and-average-wages-drop-for-the-second-consecutive-month.md)
@@ -31,7 +31,7 @@ _Context: Japanese economy_
 ### [The government of Botswana rejects demands of striking unions, as a pro-longed strike in the country continues. ](/news/2011/05/31/the-government-of-botswana-rejects-demands-of-striking-unions-as-a-pro-longed-strike-in-the-country-continues.md)
 _Context: Botswana_
 
-### [Australia suspends exports of live cattle to 11 Indonesian abattoirs following exposure of abuses on ABC Television's ''Four Corners''. ](/news/2011/05/31/australia-suspends-exports-of-live-cattle-to-11-indonesian-abattoirs-following-exposure-of-abuses-on-abc-television-s-four-corners.md)
+### [Australia suspends exports of live cattle to 11 Indonesian abattoirs following exposure of abuses on ABC Television's "Four Corners". ](/news/2011/05/31/australia-suspends-exports-of-live-cattle-to-11-indonesian-abattoirs-following-exposure-of-abuses-on-abc-television-s-four-corners.md)
 Live cattle exports to 11 Indonesian abattoirs investigated by the ABC&#039;s Four Corners program will be suspended.
 
 ### [Moody's Investor Services announces that Japan's local and foreign currency bond ratings under review because of the impact of the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/31/moody-s-investor-services-announces-that-japan-s-local-and-foreign-currency-bond-ratings-under-review-because-of-the-impact-of-the-2011-tah.md)
@@ -46,7 +46,7 @@ _Context: Apple Inc., digital locker, iCloud, major label_
 ### [27 people are killed after their bus plunges into a gorge in Assam, eastern India. ](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.md)
 _Context: Assam, India_
 
-### [Seventy-five additional bodies have been recovered from the wreckage of an Air France plane that crashed off the coast of Brazil two years ago,  killing all 228 people aboard, bringing the total recovered so far to 127. ](/news/2011/05/31/seventy-five-additional-bodies-have-been-recovered-from-the-wreckage-of-an-air-france-plane-that-crashed-off-the-coast-of-brazil-two-years-a.md)
+### [Seventy-five additional bodies have been recovered from the wreckage of an Air France plane that crashed off the coast of Brazil two years ago, killing all 228 people aboard, bringing the total recovered so far to 127. ](/news/2011/05/31/seventy-five-additional-bodies-have-been-recovered-from-the-wreckage-of-an-air-france-plane-that-crashed-off-the-coast-of-brazil-two-years-a.md)
 _Context: Brazil, crash of Air France Flight 447_
 
 ### [New Zealand government experts predict that there is an almost one in four chance of another powerful earthquake in the Canterbury Region in the next 12 months. ](/news/2011/05/31/new-zealand-government-experts-predict-that-there-is-an-almost-one-in-four-chance-of-another-powerful-earthquake-in-the-canterbury-region-in.md)
@@ -74,7 +74,7 @@ Iran denied a plane carrying German Chancellor Angela Merkel permission to fly t
 ### [British authorities refuse asylum to 22-year-old Betty Tibikawa, homophobically attacked by three men in Uganda, despite deputy prime minister Nick Clegg's claim that his government would stop its policy of deporting people who are persecuted over their sexual orientation. The British government is currently detaining Ms. Tibikawa at a facility in Bedford. ](/news/2011/05/31/british-authorities-refuse-asylum-to-22-year-old-betty-tibikawa-homophobically-attacked-by-three-men-in-uganda-despite-deputy-prime-minist.md)
 _Context: Bedford, Nick Clegg, Uganda_
 
-### [First anniversary of the Gaza flotilla raid:Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-pthousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md)
+### [First anniversary of the Gaza flotilla raid:. Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/first-anniversary-of-the-gaza-flotilla-raid-thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed.md)
 _Context: Gaza flotilla raid, Istanbul, Taksim Square_
 
 ### [Officials from north Sudan and southern Sudan tentatively agree to a demilitarised border following recent tensions over the disputed Abyei border region. ](/news/2011/05/31/officials-from-north-sudan-and-southern-sudan-tentatively-agree-to-a-demilitarised-border-following-recent-tensions-over-the-disputed-abyei.md)
@@ -95,7 +95,7 @@ A Spanish court on Tuesday approved the extradition of former Guatemalan Interio
 ### [A Chechen man is sentenced to 12 years in prison after being convicted of trying to send a letter bomb to the Danish newspaper Jyllands-Posten, which had published drawings of the Muslim prophet Muhammad. ](/news/2011/05/31/a-chechen-man-is-sentenced-to-12-years-in-prison-after-being-convicted-of-trying-to-send-a-letter-bomb-to-the-danish-newspaper-jyllands-post.md)
 A Chechen man convicted of trying to send a letter bomb to a Danish newspaper was sentenced Tuesday to 12 years in prison.
 
-### [Former British Tory peer Lord Taylor of Warwick is jailed for 12 months for falsely claiming PS11,277 in parliamentary expenses. ](/news/2011/05/31/former-british-tory-peer-lord-taylor-of-warwick-is-jailed-for-12-months-for-falsely-claiming-aps11-277-in-parliamentary-expenses.md)
+### [Former British Tory peer Lord Taylor of Warwick is jailed for 12 months for falsely claiming GBP11,277 in parliamentary expenses. ](/news/2011/05/31/former-british-tory-peer-lord-taylor-of-warwick-is-jailed-for-12-months-for-falsely-claiming-agbp11-277-in-parliamentary-expenses.md)
 Ex-Tory peer Lord Taylor of Warwick is jailed for 12 months for falsely claiming £11,277 in parliamentary expenses.
 
 ### [The Dalai Lama formally relinquishes his political and administrative powers, following the exiled Tibetan parliament's amendment to its charter to relieve him of his political role; the Dalai Lama remains Tibetan Buddhists' spiritual figurehead. ](/news/2011/05/31/the-dalai-lama-formally-relinquishes-his-political-and-administrative-powers-following-the-exiled-tibetan-parliament-s-amendment-to-its-cha.md)
@@ -104,10 +104,10 @@ The Dalai Lama has formally relinquished his political and administrative powers
 ### [Adil Abdul-Mahdi, First Vice President of Iraq, resigns after Prime Minister Nouri Al-Maliki fends off critics who say he has not delivered on power-sharing promises. ](/news/2011/05/31/adil-abdul-mahdi-first-vice-president-of-iraq-resigns-after-prime-minister-nouri-al-maliki-fends-off-critics-who-say-he-has-not-delivered.md)
 _Context: Adil Abdul-Mahdi, Iraq Prime Minister, Nouri al-Maliki, Vice President_
 
-### [Ireland cables:The ''Irish Independent'' and ''The Belfast Telegraph'' begin a week-long joint publication of the Ireland Cables, the latest batch of U.S. diplomatic cables, in co-operation with WikiLeaks and Julian Assange. The cables, dating back more than 25 years, feature government members, diplomats, alleged terrorists, oil companies and Vatican insiders. ](/news/2011/05/31/ireland-cables-pthe-irish-independent-and-the-belfast-telegraph-begin-a-week-long-joint-publication-of-the-ireland-cables-the-lates.md)
+### [Ireland cables:. The "Irish Independent" and "The Belfast Telegraph" begin a week-long joint publication of the Ireland Cables, the latest batch of U.S. diplomatic cables, in co-operation with WikiLeaks and Julian Assange. The cables, dating back more than 25 years, feature government members, diplomats, alleged terrorists, oil companies and Vatican insiders. ](/news/2011/05/31/ireland-cables-the-irish-independent-and-the-belfast-telegraph-begin-a-week-long-joint-publication-of-the-ireland-cables-the-latest-b.md)
 The Irish Independent, along with sister newspaper The Belfast Telegraph, have obtained 1,903 US embassy cables from the WikiLeaks organisation that detail the sometimes “murky” underworld of international diplomacy between Ireland and the US. Both newspapers began publishing details contained w...
 
-### [Carbon emissions from energy use reached a record level in 2010, up 5% from the previous record in 2008, according to the International Energy Agency, which said it was a "serious setback" to limit global temperature increase to 2 degrees Celsius (3.6 F),  set at the U.N. climate change talks in Cancun, Mexico, last year. ](/news/2011/05/31/carbon-emissions-from-energy-use-reached-a-record-level-in-2010-up-5-from-the-previous-record-in-2008-according-to-the-international-ener.md)
+### [Carbon emissions from energy use reached a record level in 2010, up 5% from the previous record in 2008, according to the International Energy Agency, which said it was a "serious setback" to limit global temperature increase to 2 degrees Celsius (3.6 F), set at the U.N. climate change talks in Cancun, Mexico, last year. ](/news/2011/05/31/carbon-emissions-from-energy-use-reached-a-record-level-in-2010-up-5-from-the-previous-record-in-2008-according-to-the-international-ener.md)
 Carbon emissions from energy use reached a record level last year, up 5% from the previous record in 2008, the International Energy Agency said.
 
 ## [Previous Day...](/news/2011/05/30/index.md)

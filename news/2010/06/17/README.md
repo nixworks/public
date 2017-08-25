@@ -10,7 +10,7 @@ _Context: India, Maharashtra_
 ### [46 people die when heavy rains trigger landslides in western Myanmar, in Rakhine state in an area bordering Bangladesh. ](/news/2010/06/17/46-people-die-when-heavy-rains-trigger-landslides-in-western-myanmar-in-rakhine-state-in-an-area-bordering-bangladesh.md)
 _Context: Bangladesh, Myanmar, Rakhine State_
 
-### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel ''The Twin''. ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
+### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
 A novel that Dutch publishers saw as having only a cult appeal has taken this year&rsquo;s International Impac Dublin Literary Award&hellip;
 
 ### [16 people are killed and around 70 others are trapped after a blast at the San Fernando mine in Amaga, Antioquia, in Colombia. ](/news/2010/06/17/16-people-are-killed-and-around-70-others-are-trapped-after-a-blast-at-the-san-fernando-mine-in-amaga-antioquia-in-colombia.md)
@@ -22,16 +22,16 @@ _Context: Anhui, Anhui Province, Bagongshan, Huainan_
 ### [As many as 1,800 homes are estimated to have been destroyed on Biak Island, West Papua, Indonesia, as a result of the 7.0 magnitude 2010 Papua earthquake. ](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.md)
 Seven churches, a power station and an elementary school are also razed. The region is very poor with limited communications. The exact number of victims is still unknown.
 
-### [Gulf of Mexico oil spill disaster:BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/gulf-of-mexico-oil-spill-disaster-pbp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoidin.md)
+### [Gulf of Mexico oil spill disaster:. BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/gulf-of-mexico-oil-spill-disaster-bp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoidi.md)
 _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Tony Hayward, U.S. Congress_
 
-### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Around 2,000 people mass in Osh Airport.China flies 960 nationals home from Kyrgyzstan; evacuation continues. ](/news/2010/06/17/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-paround-2-000-people-mass-in-osh-airport-pchina-flies-960-nationals-home-from-kyrgyzs.md)
-_Context: China, Osh Airport, ethnic riots, the ongoing crisis_
+### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:. Around 2,000 people mass in Osh Airport.. China flies 960 nationals home from Kyrgyzstan; evacuation continues. [http://eng.kabar.kg/index.php?option=com_content&task=view&id=285&Itemid=1 (Kabar)]. Kyrgyzstan unrest death toll rises to 192. 913 people were hospitalized. [http://eng.24.kg/community/2010/06/18/12159.html (24)][http://www.itar-tass.com/eng/level2.html?NewsID=15233886&PageNum=0 (ITAR)]. Kyrgyz Central Election Commission accredits Kazakh CEC Chair and his assistant to observe constitutional referendum.](/news/2010/06/17/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-around-2-000-people-mass-in-osh-airport-china-flies-960-nationals-home-from-kyrgy.md)
+_Context: China, Kyrgyz Central Election Commission, Kyrgyzstan, Osh Airport, constitutional referendum, ethnic riots, the ongoing crisis_
 
-### [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md)
+### [Israeli-Palestinian conflict:. Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeli-palestinian-conflict-israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md)
 US State Department says Israeli decision &#39;positive,&#39; but wants to see &#39;expansion of scope and types of goods allowed into Strip.&#39; Ban hopes measure &#39;real step towards meeting Gazans&#39; needs&#39; 
 
-### [FIFA World Cup:A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-pa-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-are.md)
+### [FIFA World Cup:. A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. ](/news/2010/06/17/fifa-world-cup-a-british-television-commentator-is-sacked-after-tickets-used-in-the-alleged-2010-fifa-world-cup-beer-miniskirts-stunt-ar.md)
 _Context: 2010 FIFA World Cup, World Cup_
 
 ### [The Los Angeles Lakers win the 2010 NBA Finals defeating the Boston Celtics 83-79 in Game 7. ](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.md)

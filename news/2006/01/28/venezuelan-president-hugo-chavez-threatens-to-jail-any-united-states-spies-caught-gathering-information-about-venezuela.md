@@ -1,6 +1,6 @@
 ### [2006-01-28](/news/2006/01/28/index.md)
 
-#  Venezuelan President Hugo Chvez threatens to jail any United States spies caught gathering information about Venezuela.  
+#  Venezuelan President Hugo Chvez threatens to jail any United States spies caught gathering information about Venezuela. 
 
 
 

@@ -1,9 +1,9 @@
 ## [2013-10-17](/news/2013/10/17/index.md)
 
-### [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
+### [Naxalite-Maoist insurgency. A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/naxalite-maoist-insurgency-a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
 _Context: Gadchiroli district, India, Maharashtra, Naxalite, Naxalite-Maoist insurgency_
 
-### [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md)
+### [Iraqi insurgency (post-U.S. withdrawal). Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/iraqi-insurgency-post-u-s-withdrawal-attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targe.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal), Shabak people, Shia_
 
 ### [Islamist gunmen kill two Tunisian policemen in clashes in the northeastern city Goubella. ](/news/2013/10/17/islamist-gunmen-kill-two-tunisian-policemen-in-clashes-in-the-northeastern-city-goubella.md)
@@ -21,7 +21,7 @@ President Obama signed a deal to reopen the government and raise the debt ceilin
 ### [The death toll in the Philippines from the 2013 Bohol earthquake rises to 156 with 374 people injured. ](/news/2013/10/17/the-death-toll-in-the-philippines-from-the-2013-bohol-earthquake-rises-to-156-with-374-people-injured.md)
 _Context: 2013 Bohol earthquake, Philippines_
 
-### [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah,  significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah.md)
+### [In Australia, at least seven emergency warnings have been issued for bushfires in New South Wales resulting in one death at Lake Munmorah, significant property damage and closure of airports and highways. ](/news/2013/10/17/in-australia-at-least-seven-emergency-warnings-have-been-issued-for-bushfires-in-new-south-wales-resulting-in-one-death-at-lake-munmorah-s.md)
 Fire services have issued several emergency warnings in NSW as serious fires burn in Sydney&#x27;s Blue Mountains and near Newcastle.
 
 ### [At least 18 people are dead and 45 people are missing in Japan after Typhoon Wipha hit yesterday. ](/news/2013/10/17/at-least-18-people-are-dead-and-45-people-are-missing-in-japan-after-typhoon-wipha-hit-yesterday.md)

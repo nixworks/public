@@ -18,10 +18,10 @@ _Context: Afghanistan's, Baghlan province, Taliban_
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
 _Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
-### [Israel:An Islamic Jihad terrorist is killed when three men who approached an  Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-pan-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md)
+### [Israel:. An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md)
 _Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces_
 
-### [Warner Bros. and New Line confirm that the ''The Hobbit'' films will be shot in New Zealand. ](/news/2010/10/27/warner-bros-and-new-line-confirm-that-the-the-hobbit-films-will-be-shot-in-new-zealand.md)
+### [Warner Bros. and New Line confirm that the "The Hobbit" films will be shot in New Zealand. ](/news/2010/10/27/warner-bros-and-new-line-confirm-that-the-the-hobbit-films-will-be-shot-in-new-zealand.md)
 _Context: New Line, New Zealand, The Hobbit, Warner Bros._
 
 ### [American bank Wells Fargo admits it made mistakes in 55,000 real estate foreclosure cases. ](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.md)
@@ -36,7 +36,7 @@ _Context: Thailand_
 ### [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md)
 _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Yogyakarta_
 
-### [Indonesian tsunamiThe death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunamipthe-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peopl.md)
+### [Indonesian tsunami. The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunami-the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peop.md)
 The death toll from a tsunami in western Indonesia rises to 282, officials say, as doubts emerge about whether an early warning system was working properly.
 
 ### [Factory fishing ship FV|Athena||2 catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-fv-athena-2-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)
@@ -63,7 +63,7 @@ A Virginia man who allegedly believed he was helping al Qaeda plan bombings at W
 ### [15 people are killed in a Mexican drug war related shootout at a car wash in Tepic, Nayarit, the country's third such mass shooting in under a week. ](/news/2010/10/27/15-people-are-killed-in-a-mexican-drug-war-related-shootout-at-a-car-wash-in-tepic-nayarit-the-country-s-third-such-mass-shooting-in-under.md)
 The killings in Nayarit State were the third mass shooting with apparent connections to organized crime in less than a week. Several of the victims were in treatment for drug addiction.
 
-### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
+### [Former Soviet leader Mikhail Gorbachev says it was -impossible- for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-impossible-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
 _Context: Afghanistan's, Mikhail Gorbachev, Soviet_
 
 ### [Three labour activists are sentenced to up to nine years in prison in Vietnam for distributing anti-government leaflets and going on strike. ](/news/2010/10/27/three-labour-activists-are-sentenced-to-up-to-nine-years-in-prison-in-vietnam-for-distributing-anti-government-leaflets-and-going-on-strike.md)

@@ -3,13 +3,13 @@
 ### [The United Nations states that the death toll of the ongoing Syrian civil war has exceeded 100,000. ](/news/2013/07/25/the-united-nations-states-that-the-death-toll-of-the-ongoing-syrian-civil-war-has-exceeded-100-000.md)
 _Context: Syrian Civil War, United Nations_
 
-### [The ''Oxford English Dictionary'' confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
+### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
 _Context: Oxford English Dictionary, marriage, same-sex marriage_
 
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
 China unveils a series of moves aimed at boosting growth, indicating that policymakers are concerned about the slowdown in its economy.
 
-### [Santiago de Compostela derailment:Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-pmariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-ki.md)
+### [Santiago de Compostela derailment:. Mariano Rajoy, the Prime Minister of Spain, declares three days of national mourning for the 78 people killed in the derailment, Spain's worst train accident since 1944. ](/news/2013/07/25/santiago-de-compostela-derailment-mariano-rajoy-the-prime-minister-of-spain-declares-three-days-of-national-mourning-for-the-78-people-k.md)
 Spanish Prime Minister Mariano Rajoy has declared three days of official mourning after 80 people died in a train crash.
 
 ### [Mohamed Brahmi, the leader of the Tunisian People's Movement, is fatally shot outside his house in Tunis, sparking clashes between police and protesters. ](/news/2013/07/25/mohamed-brahmi-the-leader-of-the-tunisian-people-s-movement-is-fatally-shot-outside-his-house-in-tunis-sparking-clashes-between-police-an.md)

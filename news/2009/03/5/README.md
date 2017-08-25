@@ -15,10 +15,10 @@ _Context: 2009, China, economic growth, output freeze_
 ### [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md)
 _Context: Israel, Israeli police, Jerusalem, Palestinian, bulldozer, militant, police car, terrorism_
 
-### [ The Bank of England plans to create 75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-ps75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
-_Context: Bank of England, Britain, PS, UK economy, quantitative easing_
+### [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-gbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
+_Context: Bank of England, Britain, GBP, UK economy, quantitative easing_
 
-### [ Somali pirates release Egypt's MV ''Blue Star''. ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md)
+### [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md)
 _Context: Egypt, MV, Somali pirates, Somalia_
 
 ## [Previous Day...](/news/2009/03/4/index.md)

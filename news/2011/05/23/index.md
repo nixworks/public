@@ -3,7 +3,7 @@
 ### [The death toll from a Pakistani Taliban attack on a Pakistan Navy station in Karachi rises as the attack continues, with several explosions reported. ](/news/2011/05/23/the-death-toll-from-a-pakistani-taliban-attack-on-a-pakistan-navy-station-in-karachi-rises-as-the-attack-continues-with-several-explosions.md)
 The Pakistani Taliban have claimed responsibility for an attack on a major naval air base in Karachi that killed five military personnel and threatened further attacks. 
 
-### [Arab Spring:2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-p2011-yemeni-uprising-pthe-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refus.md)
+### [Arab Spring:. 2011 Yemeni uprising:. The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/arab-spring-2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-ref.md)
 At least six people killed as forces loyal to president battle his opponents a day after he backed out of deal to quit.
 
 ### [One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. ](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-others-wounded-following-two-bomb-explosions-in-afghanistan-the-total-number-of-australian-s.md)
@@ -21,10 +21,10 @@ _Context: Australia, Fremantle, Maritime Union of Australia, Melbourne, Sydney, 
 ### [Steve Ballmer, the Chief Executive Officer of Microsoft, promises that Windows 8 will be on the market in 2012. ](/news/2011/05/23/steve-ballmer-the-chief-executive-officer-of-microsoft-promises-that-windows-8-will-be-on-the-market-in-2012.md)
 _Context: Microsoft, Steve Ballmer, Windows 8, chief executive officer_
 
-### [Iceland volcanic explosion:Iceland's main airport remains closed following the worst eruption of the Grmsvtn volcano since 1873, with the ash cloud starting to spread towards Europe. ](/news/2011/05/23/iceland-volcanic-explosion-piceland-s-main-airport-remains-closed-following-the-worst-eruption-of-the-grimsvotn-volcano-since-1873-with-the.md)
+### [Iceland volcanic explosion:. Iceland's main airport remains closed following the worst eruption of the Grmsvtn volcano since 1873, with the ash cloud starting to spread towards Europe. ](/news/2011/05/23/iceland-volcanic-explosion-iceland-s-main-airport-remains-closed-following-the-worst-eruption-of-the-grimsvotn-volcano-since-1873-with-th.md)
 Airlines began cancelling flights to Britain late on Monday because of an ash cloud from an Icelandic volcano reaching its airspace, although experts expected no repeat of travel chaos from an eruption a year ago.
 
-### [May 2011 tornado outbreak in the US:The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-pthe-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md)
+### [May 2011 tornado outbreak in the US:. The National Weather Service continues issuing tornado warnings for parts of the Central United States, including Arkansas, Oklahoma and Missouri. ](/news/2011/05/23/may-2011-tornado-outbreak-in-the-us-the-national-weather-service-continues-issuing-tornado-warnings-for-parts-of-the-central-united-states.md)
 _Context: Arkansas, Missouri, National Weather Service, Oklahoma!, central, storms and tornadoes_
 
 ### [U.S. President Barack Obama addresses an audience at College Green in Dublin, speaking of strong ties between the United States and Ireland. ](/news/2011/05/23/u-s-president-barack-obama-addresses-an-audience-at-college-green-in-dublin-speaking-of-strong-ties-between-the-united-states-and-ireland.md)

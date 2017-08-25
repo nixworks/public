@@ -1,15 +1,15 @@
 ## [2012-12-5](/news/2012/12/5/index.md)
 
-### [Syrian civil war:Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/syrian-civil-war-phungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
+### [Syrian civil war:. Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/syrian-civil-war-hungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
 _Context: Damascus, Hungary, Syrian Civil War_
 
-### [2011-2012 conflict in Lebanon:The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011a2012-conflict-in-lebanon-pthe-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
+### [2011-2012 conflict in Lebanon:. The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011-2012-conflict-in-lebanon-the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
 _Context: 2011-2012 conflict in Lebanon, Tripoli, Lebanon_
 
-### [2012 terrorist attacks in Kenya:A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-pa-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-inj.md)
+### [2012 terrorist attacks in Kenya:. A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-in.md)
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
 
-### [2012 Egyptian protests:Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-pviolent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
+### [2012 Egyptian protests:. Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
 The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitutio...
 
 ### [American jazz composer and pianist Dave Brubeck dies in Connecticut at the age of 91. ](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.md)
@@ -21,7 +21,7 @@ Renowned architect Oscar Niemeyer, who designed the main buildings of Brasilia, 
 ### [American bank Citigroup announces plans to cut 11,000 jobs worldwide. ](/news/2012/12/5/american-bank-citigroup-announces-plans-to-cut-11-000-jobs-worldwide.md)
 _Context: Citigroup_
 
-### [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of EUR1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-a-1-47-bn-for-fixing-pric.md)
+### [The European Commission fines Philips, LG Electronics, Samsung SDI, Panasonic, Toshiba and Technicolor a total of -1.47 bn for fixing prices of TV cathode-ray tubes. ](/news/2012/12/5/the-european-commission-fines-philips-lg-electronics-samsung-sdi-panasonic-toshiba-and-technicolor-a-total-of-1-47-bn-for-fixing-pric.md)
 Two Panasonic joint ventures were also fined. Taiwanese firm Chunghwa Picture Tubes blew the whistle on the cartel and was escaped a fine.
 
 ### [Rescue crews head to areas of the Philippines severely affected by Typhoon Bopha. At least 283 are now believed to have died as a result of the storm, with 339 injured, hundreds more missing and over 87,000 evacuated. ](/news/2012/12/5/rescue-crews-head-to-areas-of-the-philippines-severely-affected-by-typhoon-bopha-at-least-283-are-now-believed-to-have-died-as-a-result-of.md)
@@ -30,7 +30,7 @@ The death toll from a powerful storm battering the southern Philippines rises to
 ### [At least 8 people are killed and 12 others injured after a 5.6 earthquake strikes Iran's South Khorasan Province. ](/news/2012/12/5/at-least-8-people-are-killed-and-12-others-injured-after-a-5-6-earthquake-strikes-iran-s-south-khorasan-province.md)
 At least five people have been killed and several injured by a 5.5 magnitude earthquake in eastern Iran, say officials.
 
-### [Vehicle carrier ''Baltic Ace'' sinks in the North Sea after collision with a container ship with at least four people dead and seven missing. ](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.md)
+### [Vehicle carrier "Baltic Ace" sinks in the North Sea after collision with a container ship with at least four people dead and seven missing. ](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.md)
 At least three crew members died when a cargo ship carrying cars sank after colliding with a container ship in the North Sea on Wednesday night, Dutch coastguards and media reports said.
 
 ### [American businessman John McAfee is arrested in Guatemala following an alleged illegal entry after leaving Belize where he is wanted for questioning over the death of fellow American Gregory Faull. ](/news/2012/12/5/american-businessman-john-mcafee-is-arrested-in-guatemala-following-an-alleged-illegal-entry-after-leaving-belize-where-he-is-wanted-for-que.md)

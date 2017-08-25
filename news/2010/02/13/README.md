@@ -7,7 +7,7 @@ _Context: Myanmar, National League for Democracy, U Tin Oo, Yangon_
 _Context: Cyclone Rene, Manu'a_
 
 ### [A suspected terrorist attack in the western Indian city of Pune kills 9 people and injures more than 45 others. ](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.md)
-_Context: 2010 Pune bombing, India, Pune_
+9 people were killed and several wounded, including a foreigner, in a bomb blast at the popular German Bakery near a Jewish prayer house in Pune. In its neighbourhood is Osho Ashram, which had been frequently visited by LeT operative Headley.
 
 ### [Burma releases vice-chairman of the National League for Democracy (NLD), Tin Oo at the age of 82, after he has spent more than a decade in prison or under house arrest. ](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.md)
 _Context: Burma, National League for Democracy, Tin Oo_
@@ -15,10 +15,10 @@ _Context: Burma, National League for Democracy, Tin Oo_
 ### [The Cote d'Ivoire government is dissolved with President Laurent Gbagbo saying on state television that the peace process has broken down. ](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.md)
 President Gbagbo sacks the government and the electoral commission over vote fraud.
 
-### [2010 Winter Olympics in Vancouver:The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-pthe-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md)
+### [2010 Winter Olympics in Vancouver:. The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md)
 Vancouvers Olympic troubles continued on Saturday as the mens downhill skiing event was postponed due to unsuitable weather.
 
-### [Year of the Tiger:China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-pchina-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md)
+### [Year of the Tiger:. China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md)
 Tens of millions of Chinese were marking the start of a lunar New Year.
 
 ### [Clashes erupt in Dresden 65 years after the city was bombed at the end of World War II. ](/news/2010/02/13/clashes-erupt-in-dresden-65-years-after-the-city-was-bombed-at-the-end-of-world-war-ii.md)

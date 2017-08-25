@@ -6,7 +6,7 @@ _Context: Ecuador, Ponce Enriquez, gold mine, miner_
 ### [ The Romanian nationalist Greater Romania Party is voted out of the European Parliament in the European Parliament election, 2007. ](/news/2007/11/26/the-romanian-nationalist-greater-romania-party-is-voted-out-of-the-european-parliament-in-the-european-parliament-election-2007.md)
 _Context: European Parliament, European Parliament election, 2007, Greater Romania Party, Romania, nationalist_
 
-### [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md)
+### [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005-present-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md)
 _Context: Chad, Darfur, Sudan, War in Chad (2005-present), rebel_
 
 ### [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.date=December 2007 ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-date-december-2007.md)

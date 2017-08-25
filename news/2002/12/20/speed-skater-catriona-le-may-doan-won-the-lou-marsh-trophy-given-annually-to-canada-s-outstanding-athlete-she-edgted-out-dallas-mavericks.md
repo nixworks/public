@@ -1,6 +1,6 @@
 ### [2002-12-20](/news/2002/12/20/index.md)
 
-# Speed skater Catriona Le May Doan won the Lou Marsh Trophy, given annually to Canada's outstanding athlete.  She edgted out Dallas Mavericks guard Steve Nash.
+# Speed skater Catriona Le May Doan won the Lou Marsh Trophy, given annually to Canada's outstanding athlete. She edgted out Dallas Mavericks guard Steve Nash.
 
 
 

@@ -1,6 +1,6 @@
 ### [2010-03-13](/news/2010/03/13/index.md)
 
-# 450,000 are left without power in the Northeastern United States as high winds topple power lines and trees.  A crane collapses at the Revel Casino in Atlantic City, New Jersey, injuring one.  
+# 450,000 are left without power in the Northeastern United States as high winds topple power lines and trees. A crane collapses at the Revel Casino in Atlantic City, New Jersey, injuring one. 
 
 With video of the damage and the storm, and a photo gallery
 

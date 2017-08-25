@@ -14,5 +14,5 @@
 
 ### Related:
 
-1. [Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _Context: Earth Hour_
-2. [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting.  ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md) _Context: Earth Hour_
+1. [Earth Hour. Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/earth-hour-approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md) _Context: Earth Hour_
+2. [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting. ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md) _Context: Earth Hour_

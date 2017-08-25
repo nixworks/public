@@ -1,18 +1,18 @@
 ## [2015-05-31](/news/2015/05/31/index.md)
 
-### [Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish-the-provincial-ca.md)
+### [Sinai insurgency. Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/sinai-insurgency-egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish.md)
 _Context: Egypt, Israel, North Sinai, Sinai insurgency, el-Arish, natural gas_
 
-### [A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md)
+### [Libyan Civil War (2014-present). A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/libyan-civil-war-2014-present-a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md)
 _Context: Libyan Civil War (2014-present), Misrata, suicide bomber_
 
-### [A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md)
+### [Boko Haram. A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/boko-haram-a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md)
 _Context: Boko Haram, Maiduguri, Nigeria_
 
-### [The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md)
+### [2015 Indian heat wave. The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/2015-indian-heat-wave-the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md)
 _Context: 2015 Indian heat wave_
 
-### [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md)
+### [April 2015 Nepal earthquake. Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/april-2015-nepal-earthquake-thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25.md)
 _Context: Nepal, suspicions_
 
 ### [Russia announces that it will join the People's Republic of China in naval drills in the South China Sea in May 2016. ](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.md)

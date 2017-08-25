@@ -9,10 +9,10 @@ _Context: Alpha Conde's, Conakry, Guinea, President_
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)
 _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
 
-### [War in North-West Pakistan:Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-peight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakis.md)
+### [War in North-West Pakistan:. Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-paki.md)
 _Context: Afghanistan's, American Refugee Committee, Pakistan, United States, War in North-West Pakistan_
 
-### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead.  No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
+### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
 _Context: Ashdod, France, Gaza Strip, Greek, Israeli Navy, blockade_
 
 ### [A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. ](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.md)
@@ -21,7 +21,7 @@ _Context: Kyrgyzstan, Uzbekistan, earthquake_
 ### [Typhoon Ma-on, the second typhoon of the 2011 Pacific typhoon season, approaches the main Japanese island of Honshu leading to cancellation of air services. ](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.md)
 _Context: 2011 Pacific typhoon season, Honshu Island, Japan, Typhoon Ma-on_
 
-### [Tropical Storm Dora becomes a hurricane  with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
+### [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
 _Context: Hurricane Jova, Mexico, hurricane_
 
 ### [ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. ](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.md)
@@ -42,13 +42,13 @@ _Context: China, Potala Palace, Tibet, Vice President, Xi Jinping, independent_
 ### [Northern Mariana Islands Governor Benigno Fitial and Guam Governor Eddie Calvo state that they are in serious talks to potentially merge the U.S. territories of Guam and the Northern Mariana Islands. ](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.md)
 _Context: Benigno Fitial, Eddie Calvo, Guam, Guam Governor, Northern Mariana Islands, Northern Mariana Islands Governor, U.S. territories_
 
-### [News Corporation affairNews Corporation Chief Executive Rupert Murdoch and his son James Murdoch appear before a select committee of the United Kingdom parliament over the ''News of the World'' phone hacking affair. Murdoch Senior apologises for the scandal, but says he is not responsible for it. ](/news/2011/07/19/news-corporation-affairpnews-corporation-chief-executive-rupert-murdoch-and-his-son-james-murdoch-appear-before-a-select-committee-of-the-un.md)
+### [News Corporation affair. News Corporation Chief Executive Rupert Murdoch and his son James Murdoch appear before a select committee of the United Kingdom parliament over the "News of the World" phone hacking affair. Murdoch Senior apologises for the scandal, but says he is not responsible for it. ](/news/2011/07/19/news-corporation-affair-news-corporation-chief-executive-rupert-murdoch-and-his-son-james-murdoch-appear-before-a-select-committee-of-the-u.md)
 Rupert Murdoch, unfazed by a foam pie attack in the British parliament, made a &quot;humble&quot; apology on Tuesday for crimes that have rocked his media empire and the government but refused to resign, saying the fault lay with staff who &quot;betrayed&quot; him.
 
 ### [Voters in the 30th Senate district in the US state of Wisconsin go to the polls for the first recall election for Democrat Dave Hansen. ](/news/2011/07/19/voters-in-the-30th-senate-district-in-the-us-state-of-wisconsin-go-to-the-polls-for-the-first-recall-election-for-democrat-dave-hansen.md)
 The balloting in the Green Bay area will be a first definitive outcome in the series of elections that may be a gauge of public sentiment about the Republicans’ agenda.
 
-### [US budget debateThe President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debatepthe-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-state.md)
+### [US budget debate. The President of the United States, Barack Obama, endorses in principle a bipartisan proposal developed in the United States Senate to cut debt. ](/news/2011/07/19/us-budget-debate-the-president-of-the-united-states-barack-obama-endorses-in-principle-a-bipartisan-proposal-developed-in-the-united-stat.md)
 An ambitious plan to slice $3.7 trillion from the federal budget over the next decade was gaining momentum in the Senate Tuesday.
 
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)

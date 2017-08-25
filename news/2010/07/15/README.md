@@ -27,7 +27,7 @@ _Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
 _Context: Robbie Williams, Take That_
 
-### [Shahram Amiri:Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-pshahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-retur.md)
+### [Shahram Amiri:. Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-retu.md)
 Shahram Amiri, back in Tehran, vows to reveal details of alleged kidnapping while on Hajj.
 
 ### [10 Russian agents of influence deported from the United States face three weeks of testing to eradicate potential double agents. ](/news/2010/07/15/10-russian-agents-of-influence-deported-from-the-united-states-face-three-weeks-of-testing-to-eradicate-potential-double-agents.md)
@@ -63,7 +63,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
 _Context: Felipe Calderon, Fernando Gomez Mont, President, Secretary of the Interior_
 
-### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity".  ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
+### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
 By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have rejected an advertisement that urges viewers to protest a mosque bein
 
 ### [Former Vice President of the United States Dick Cheney admits he has received a small heart pump to combat "increasing congestive heart failure". ](/news/2010/07/15/former-vice-president-of-the-united-states-dick-cheney-admits-he-has-received-a-small-heart-pump-to-combat-increasing-congestive-heart-fail.md)
@@ -84,7 +84,7 @@ Scores of Russians have died in the past few weeks amid a heatwave - many drowni
 ### [World Trade Center site workers in the United States excavate a 32 foot-long ship hull said to have been buried in the 18th century. ](/news/2010/07/15/world-trade-center-site-workers-in-the-united-states-excavate-a-32-foot-long-ship-hull-said-to-have-been-buried-in-the-18th-century.md)
 Workers at the World Trade Center site excavate a ship believed to have been buried in the 18th Century to help fill lower Manhattan.
 
-### [Researchers discover a new species of fossil primate, ''Saadanius hijazensis'' which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-ape.md)
+### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
 _Context: Old World Monkey, Saadanius hijazensis, ape, primate_
 
 ### [Golfer Rory McIlroy ties the record for lowest score (9-under par) at a major championship. ](/news/2010/07/15/golfer-rory-mcilroy-ties-the-record-for-lowest-score-9-under-par-at-a-major-championship.md)

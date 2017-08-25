@@ -3,34 +3,34 @@
 ### [2011 Yemeni protests: Protests continue in Yemen. ](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.md)
 GCC-brokered exit deal on hold as Saleh rejects calls to quit and pro- and anti-government crowds return to the streets.
 
-### [2011 Syrian uprising:27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-secu.md)
+### [2011 Syrian uprising:. 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md)
 The White House warns Syria it will take &quot;additional steps&quot; if Damascus continues a crackdown on protests, as at least 21 people are reported killed.
 
 ### [Tunisian Revolution: Riot police break up an anti-government demonstration calling for a "new revolution" in the capital Tunis. ](/news/2011/05/6/tunisian-revolution-riot-police-break-up-an-anti-government-demonstration-calling-for-a-new-revolution-in-the-capital-tunis.md)
 _Context: Jasmine Revolution of 2011, Tunis_
 
-### [PakistanPakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistanppakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md)
+### [Pakistan. Pakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistan-pakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md)
 _Context: Pakistan, Quetta, Shi'ite_
 
-### [The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed.   ](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.md)
+### [The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed. ](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.md)
 Delays in the response to the 7/7 bombings did not cause any deaths, a coroner concludes, but there is some criticism for MI5 and the emergency services.
 
 ### [Vietnam closes off an ethnic Hmong area that was the scene of rare protests demanding autonomy and religious freedom. ](/news/2011/05/6/vietnam-closes-off-an-ethnic-hmong-area-that-was-the-scene-of-rare-protests-demanding-autonomy-and-religious-freedom.md)
 Vietnam blocks off the scene of a rare protest by thousands of ethnic Hmong in a remote mountainous area in the north-east, reports say.
 
-### [The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden-at-fort-campbell-and-award.md)
+### [Death of Osama bin Laden. The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. ](/news/2011/05/6/death-of-osama-bin-laden-the-president-of-the-united-states-barack-obama-thanks-service-personnel-in-the-operation-against-osama-bin-laden.md)
 Following is an abridged version of the text of the statement issued by Al Qaeda on the death of Osama bin Laden. The translation from Arabic is by Reuters.
 
 ### [British musician Sir Paul McCartney gets engaged to American businesswoman Nancy Shevell. ](/news/2011/05/6/british-musician-sir-paul-mccartney-gets-engaged-to-american-businesswoman-nancy-shevell.md)
 _Context: Paul McCartney, engaged_
 
-### [Two Montana residents sue American author Greg Mortenson and his Central Asia Institute for alleged fabrications in his book ''Three Cups of Tea''. ](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.md)
+### [Two Montana residents sue American author Greg Mortenson and his Central Asia Institute for alleged fabrications in his book "Three Cups of Tea". ](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.md)
 Lawsuit alleges Greg Mortenson, his charity committed fraud by inducing 2 lawmakers to donate, buy book
 
 ### [CNET reports that a group of computer hackers is planning another cyberattack against Sony over its handling of the PlayStation Network outage. ](/news/2011/05/6/cnet-reports-that-a-group-of-computer-hackers-is-planning-another-cyberattack-against-sony-over-its-handling-of-the-playstation-network-outa.md)
 _Context: CNET, PlayStation Network outage, Sony, cyberattack, hackers_
 
-### [The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri-due-to-heavy-flooding.md)
+### [Spring 2011 Mississippi River Floods. The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/spring-2011-mississippi-river-floods-the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri.md)
 Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on part of the Mississippi River Friday as authorities downstream raced to build and reinforce levees, polish evacuation plans and warn residents to start thinking about getting out.
 
 ### [Japanese Prime Minister Naoto Kan orders the closing of the ageing Hamaoka nuclear power plant in a densely populated area southwest of Tokyo because it is located close to a tectonic fault line. ](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.md)
@@ -69,13 +69,13 @@ _Context: Maldives_
 ### [Police in Azerbaijan break up a demonstration against a ban on female students wearing the hijab. ](/news/2011/05/6/police-in-azerbaijan-break-up-a-demonstration-against-a-ban-on-female-students-wearing-the-hijab.md)
 _Context: Azerbaijan, hijab_
 
-### [Iranian politics:A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-pa-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md)
+### [Iranian politics:. A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-a-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md)
 Iranian president said to be considering resignation after intelligence chief he fired was reinstated by supreme leader.
 
 ### [The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. ](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-continues-with-the-labour-party-making-gains-and-the-liberal-democrats-losing-seats.md)
 Nick Clegg faces calls to step down as Lib Dem leader after the party suffered heavy losses in councils in the English council elections.
 
-### [The Scottish National Party wins an absolute majority in the Scottish elections with a referendum on independence likely. ](/news/2011/05/6/the-scottish-national-party-wins-an-absolute-majority-in-the-scottish-elections-with-a-referendum-on-independence-likely.md)
+### [Scottish Election. The Scottish National Party wins an absolute majority in the Scottish elections with a referendum on independence likely. ](/news/2011/05/6/scottish-election-the-scottish-national-party-wins-an-absolute-majority-in-the-scottish-elections-with-a-referendum-on-independence-likely.md)
 The Scottish National Party prepares for a second term in government, becoming the first Holyrood administration with a working majority.
 
 ### [The counting of votes in the Welsh elections continue with the Labour Party to retain control possibly with an absolute majority. ](/news/2011/05/6/the-counting-of-votes-in-the-welsh-elections-continue-with-the-labour-party-to-retain-control-possibly-with-an-absolute-majority.md)

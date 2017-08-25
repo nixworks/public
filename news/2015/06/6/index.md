@@ -1,18 +1,18 @@
 ## [2015-06-6](/news/2015/06/6/index.md)
 
-### [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md)
+### [Saudi Arabian-led intervention in Yemen. Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabian-led-intervention-in-yemen-saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-me.md)
 Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebels&#x20;were&#x20;killed&#x20;during&#x20;a&#x20;fresh&#x20;rebel&#x20;offensive&#x20;near&#x20;the&#x20;border&#x20;on&#x20;Saturday&#x20;as&#x20;Saudi&#x20;Arabia&#x20;said&#x20;it&#x20;shot&#x20;down&#x20;a&#x20;Scud&...
 
-### [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md)
+### [War in Afghanistan (2015-present). The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/war-in-afghanistan-2015-present-the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-m.md)
 _Context: Badakhshan, Taliban, War in Afghanistan (2015-present), Yamgan District_
 
-### [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md)
+### [War in Donbass. The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md)
 President Poroshenko says Ukrainian forces have restored control over Maryinka, near Donetsk in the east, after heavy fighting.
 
-### [For the second time this week, a rocket fired from Gaza lands in Israel.  There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-reports-of-injuries-or-claims-of-responsi.md)
+### [Palestinian rocket attacks on Israel. For the second time this week, a rocket fired from Gaza lands in Israel. There were no immediate reports of injuries, or claims of responsibility. ](/news/2015/06/6/palestinian-rocket-attacks-on-israel-for-the-second-time-this-week-a-rocket-fired-from-gaza-lands-in-israel-there-were-no-immediate-repor.md)
 Sirens sound in southern Israel; no immediate reports of injuries or damage
 
-### [The death toll from the sinking of the ''Dong Fang Zhi Xing'' rises to 396 with 46 unaccounted for. ](/news/2015/06/6/the-death-toll-from-the-sinking-of-the-dong-fang-zhi-xing-rises-to-396-with-46-unaccounted-for.md)
+### [Sinking of the "Dong Fang Zhi Xing". The death toll from the sinking of the "Dong Fang Zhi Xing" rises to 396 with 46 unaccounted for. ](/news/2015/06/6/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-dong-fang-zhi-xing-rises-to-396-with-46-unaccounted-for.md)
 “#BREAKING Death toll from #EasternStar shipwreck on Yangtze River rises to 396, 46 remain unaccounted for”
 
 ### [Eleven bodies have been recovered from Mount Kinabalu and 8 people remain missing following yesterday's Sabah earthquake. ](/news/2015/06/6/eleven-bodies-have-been-recovered-from-mount-kinabalu-and-8-people-remain-missing-following-yesterday-s-sabah-earthquake.md)
@@ -27,7 +27,7 @@ _Context: Illegal immigration from Africa to Europe_
 ### [Ships from the British and German navies are dispatched to rescue thousands of migrants stranded in the Mediterranean Sea. ](/news/2015/06/6/ships-from-the-british-and-german-navies-are-dispatched-to-rescue-thousands-of-migrants-stranded-in-the-mediterranean-sea.md)
 _Context: German navies, Mediterranean Sea, Royal Navy_
 
-### [The number of confirmed MERS cases in South Korea rises by 9 to 50. ](/news/2015/06/6/the-number-of-confirmed-mers-cases-in-south-korea-rises-by-9-to-50.md)
+### [2015 Middle East respiratory syndrome coronavirus outbreak in South Korea. The number of confirmed MERS cases in South Korea rises by 9 to 50. ](/news/2015/06/6/2015-middle-east-respiratory-syndrome-coronavirus-outbreak-in-south-korea-the-number-of-confirmed-mers-cases-in-south-korea-rises-by-9-to-5.md)
 SEOUL (AFP) - South Korea on Saturday confirmed nine more cases of the MERS virus, which has killed four people, but said it did not represent a spread of the outbreak as the infected were already in quarantine.. Read more at straitstimes.com.
 
 ### [Prime Minister of India Narendra Modi travels to Bangladesh for the signing of an agreement that dissolves all 162 enclaves in the border region between the two nations and allows thousands of people living in the territories to choose their nationality. ](/news/2015/06/6/prime-minister-of-india-narendra-modi-travels-to-bangladesh-for-the-signing-of-an-agreement-that-dissolves-all-162-enclaves-in-the-border-re.md)

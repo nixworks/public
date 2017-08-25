@@ -21,7 +21,7 @@ _Context: North Korea, failed North Korean rocket launch_
 ### [A standoff between Chinese and Filipino ships at the Scarborough Shoal in the South China Sea continues. ](/news/2012/04/13/a-standoff-between-chinese-and-filipino-ships-at-the-scarborough-shoal-in-the-south-china-sea-continues.md)
 * One Chinese ship withdrawn, two remain * Three of 8 Chinese fishing vessels leave shoal * Philippine navy sends ship to disputed area * Diplo
 
-### [David Cameron's visit to Burma:British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-pbritish-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british-p.md)
+### [David Cameron's visit to Burma:. British Prime Minister David Cameron makes a historic visit to Burma (Myanmar), becoming the first British Prime Minister to visit that country. ](/news/2012/04/13/david-cameron-s-visit-to-burma-british-prime-minister-david-cameron-makes-a-historic-visit-to-burma-myanmar-becoming-the-first-british.md)
 The Prime Minister David Cameron today called for sanctions against Burma to be eased as he made a historic visit to the country.
 
 ### [The former president of Mongolia, Nambaryn Enkhbayar, is detained on corruption charges. ](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.md)

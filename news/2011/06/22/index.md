@@ -3,7 +3,7 @@
 ### [2011 Bahraini uprising: The Bahraini government sentences 10 pro-democracy activists to life in prison for their role in the uprising. ](/news/2011/06/22/2011-bahraini-uprising-the-bahraini-government-sentences-10-pro-democracy-activists-to-life-in-prison-for-their-role-in-the-uprising.md)
 Protesters take to the streets, clashing with police after eight Shia activists are given life sentences.
 
-### [2011 Libyan civil war:Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-pdenmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-th.md)
+### [2011 Libyan civil war:. Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-t.md)
 _Context: Denmark, Libya, Libyan Civil War, National Transitional Council_
 
 ### [Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. ](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.md)
@@ -12,7 +12,7 @@ _Context: Abu Sayyaf, Basilan Island, army, terrorism_
 ### [A photographer is shot during violence in east Belfast in Northern Ireland. ](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.md)
 Police believe dissident republicans were responsible for shooting a photographer during trouble in east Belfast on Tuesday night.
 
-### [War in Afghanistan (2001-present):](/news/2011/06/22/war-in-afghanistan-2001apresent.md)
+### [War in Afghanistan (2001-present):](/news/2011/06/22/war-in-afghanistan-2001-present.md)
 _Context: War in Afghanistan (2001-present)_
 
 ### [The President of the United States Barack Obama announces that 33,000 US troops will be withdrawn from the War in Afghanistan by the northern summer of 2012. ](/news/2011/06/22/the-president-of-the-united-states-barack-obama-announces-that-33-000-us-troops-will-be-withdrawn-from-the-war-in-afghanistan-by-the-norther.md)
@@ -24,16 +24,16 @@ _Context: Alzheimer's disease, Glen Campbell_
 ### [Art experts conclude that a Vincent van Gogh painting previously believed to be a self-portrait is in fact a portrait of van Gogh's brother, Theo. ](/news/2011/06/22/art-experts-conclude-that-a-vincent-van-gogh-painting-previously-believed-to-be-a-self-portrait-is-in-fact-a-portrait-of-van-gogh-s-brother.md)
 A Vincent van Gogh painting, which had always been believed to be a self-portrait, is actually a depiction of his brother, experts have concluded.
 
-### [Indigenous Australian Kim Scott wins the Miles Franklin Literary Award for his book ''That Deadman Dance''. ](/news/2011/06/22/indigenous-australian-kim-scott-wins-the-miles-franklin-literary-award-for-his-book-that-deadman-dance.md)
+### [Indigenous Australian Kim Scott wins the Miles Franklin Literary Award for his book "That Deadman Dance". ](/news/2011/06/22/indigenous-australian-kim-scott-wins-the-miles-franklin-literary-award-for-his-book-that-deadman-dance.md)
 Aboriginal author Kim Scott has won this year&#039;s Miles Franklin literary award with his novel That Deadman Dance.
 
-### [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010a2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md)
+### [2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. ](/news/2011/06/22/2010-2011-greek-protests-nationwide-protests-continue-as-prime-minister-of-greece-george-papandreou-attempts-to-pass-new-cuts-in-public-s.md)
 Greek PM George Papandreou tries to persuade MPs to pass further austerity measures that have sparked nationwide strikes and riots.
 
 ### [Rolls-Royce and Qantas announce an out-of-court settlement of their dispute over an Airbus engine explosion over Indonesia in November 2010. ](/news/2011/06/22/rolls-royce-and-qantas-announce-an-out-of-court-settlement-of-their-dispute-over-an-airbus-engine-explosion-over-indonesia-in-november-2010.md)
 _Context: Airbus, Indonesia, Qantas, Rolls-Royce_
 
-### [Flights resume in southeast Australia as the volcanic ash cloud from the 2011 Puyehue-Cordon Caulle eruption clears although flights to Tasmania and New Zealand are still affected.  ](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.md)
+### [Flights resume in southeast Australia as the volcanic ash cloud from the 2011 Puyehue-Cordon Caulle eruption clears although flights to Tasmania and New Zealand are still affected. ](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.md)
 _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand, Tasmania_
 
 ### [Officials from the People's Republic of China warn that the 2011 China floods will have a negative impact on food prices. ](/news/2011/06/22/officials-from-the-people-s-republic-of-china-warn-that-the-2011-china-floods-will-have-a-negative-impact-on-food-prices.md)

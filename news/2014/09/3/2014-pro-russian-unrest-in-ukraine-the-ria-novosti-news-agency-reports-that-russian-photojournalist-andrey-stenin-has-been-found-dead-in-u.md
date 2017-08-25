@@ -1,0 +1,26 @@
+### [2014-09-3](/news/2014/09/3/index.md)
+
+# 2014 pro-Russian unrest in Ukraine:. The RIA Novosti news agency reports that Russian photojournalist Andrey Stenin has been found dead in Ukraine. It was discovered that he died 4 weeks ago. 
+
+Russian journalist Andrey Stenin, missing in eastern Ukraine for a month, has been confirmed dead, RIA Novosti, the news agency where he worked, reports. He was in a vehicle traveling in a convoy of escaping civilians when it came under heavy fire.
+
+
+### Source:
+
+1. [ABC News Australia](http://www.abc.net.au/news/2014-09-03/russia-to-change-military-strategy-over-ukraine/5716872)
+2. [AFP via ''BrisbaneCourier-Mail](http://www.couriermail.com.au/news/world/russia-and-ukraine-agree-to-permanent-ceasefire-in-fighting/story-fnihsmjt-1227046768314?from=public_rss)
+3. [BBC](http://www.bbc.com/news/world-europe-29052599#)
+4. [RT](http://rt.com/news/184232-russian-journalist-ukraine-dead/)
+
+### Related:
+
+1. [Malaysia Airlines Flight 17; 2014 pro-Russian unrest in Ukraine. Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-2014-pro-russian-unrest-in-ukraine-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-e.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+2. [2014-15 Russian military intervention in Ukraine. Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. ](/news/2015/05/21/2014-15-russian-military-intervention-in-ukraine-video-interviews-show-that-two-russians-captured-in-ukraine-have-publicly-admitted-to-be.md) _Context: Russian, Ukraine_
+3. [2014 pro-Russian unrest in Ukraine. Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/2014-pro-russian-unrest-in-ukraine-kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-fo.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+4. [Ukraine-s government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country-s territory during the pro-Russian unrest. ](/news/2014/08/8/ukraine-s-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+5. [2014 pro-Russian unrest in Ukraine: War in Donbass:. The pro-Russian separatists in Donetsk, who are now in great danger of being encircled by the Ukraine government forces, renew their calls for Russia to send troops and arms to their aid. ](/news/2014/08/3/2014-pro-russian-unrest-in-ukraine-war-in-donbass-the-pro-russian-separatists-in-donetsk-who-are-now-in-great-danger-of-being-encircled.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+6. [2014 pro-Russian unrest in Ukraine:. The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/2014-pro-russian-unrest-in-ukraine-the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-b.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+7. [Amid the crisis in Ukraine, President of the United States Barack Obama announces the European Reassurance Initiative-a $1bn plan to fund the increase of the United States military presence in Europe and step up defense capabilities of Ukraine, Moldova, and Georgia. ](/news/2014/06/3/amid-the-crisis-in-ukraine-president-of-the-united-states-barack-obama-announces-the-european-reassurance-initiative-a-1bn-plan-to-fund.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+8. [2014 pro-Russian unrest in Ukraine:. Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongs.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+9. [2014 pro-Russian unrest in Ukraine:. Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukr.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
+10. [2014 pro-Russian unrest in Ukraine:. Pro-Russian rebels in Ukraine free a Swedish observer, but not the other seven European monitors they have been holding for three days.](/news/2014/04/27/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-in-ukraine-free-a-swedish-observer-but-not-the-other-seven-european-monitors-they-h.md) _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_

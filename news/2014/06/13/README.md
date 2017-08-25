@@ -1,6 +1,6 @@
 ## [2014-06-13](/news/2014/06/13/index.md)
 
-### [Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-port-of-mariupol.md)
+### [2014 pro-Russian conflict in Ukraine. Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/2014-pro-russian-conflict-in-ukraine-arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-por.md)
 Ukrainian government forces reclaimed the port city of Mariupol from pro-Russian separatists in heavy fighting on Friday and said they had regained control of a long stretch of the border with Russia.
 
 ### [The city council of Pello, Finland, offers 50 euro to each Finnish speaking taxpayer who changes language to Swedish in order to secure the bilingual Finnish-Swedish regime. ](/news/2014/06/13/the-city-council-of-pello-finland-offers-50-euro-to-each-finnish-speaking-taxpayer-who-changes-language-to-swedish-in-order-to-secure-the.md)
@@ -24,8 +24,8 @@ _Context: Macau, breakwater_
 ### [Romanian hacker Guccifer is indicted in absentia in a federal court in the U.S. state of Virginia for hacking into the e-mails of American government officials and family members. ](/news/2014/06/13/romanian-hacker-guccifer-is-indicted-in-absentia-in-a-federal-court-in-the-u-s-state-of-virginia-for-hacking-into-the-e-mails-of-american-g.md)
 Romanian accused of stealing photographs and emails from former US president George H W Bush&#039;s personal account
 
-### [Park Geun-hye, the President of South Korea, reshuffles her cabinet by replacing seven members after a fall in public support following the sinking of the MV ''Sewol'' in April. ](/news/2014/06/13/park-geun-hye-the-president-of-south-korea-reshuffles-her-cabinet-by-replacing-seven-members-after-a-fall-in-public-support-following-the.md)
-_Context: Park Geun-hye, Sinking of the MV ''Sewol'', South Korean President_
+### [Park Geun-hye, the President of South Korea, reshuffles her cabinet by replacing seven members after a fall in public support following the sinking of the MV "Sewol" in April. ](/news/2014/06/13/park-geun-hye-the-president-of-south-korea-reshuffles-her-cabinet-by-replacing-seven-members-after-a-fall-in-public-support-following-the.md)
+_Context: Park Geun-hye, President of South Korea, Sinking of the MV ''Sewol''_
 
 ### [Giorgio Orsoni, the mayor of Venice, Italy, resigns over corruption allegations related to the MOSE Project. ](/news/2014/06/13/giorgio-orsoni-the-mayor-of-venice-italy-resigns-over-corruption-allegations-related-to-the-mose-project.md)
 _Context: Giorgio Orsoni, Italian, MOSE Project, Venice_

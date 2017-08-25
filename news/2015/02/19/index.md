@@ -3,7 +3,7 @@
 ### [Greece requests its partners in the eurozone for a six month loan program extension in an apparent compromise attempt; Germany has rejected the request. ](/news/2015/02/19/greece-requests-its-partners-in-the-eurozone-for-a-six-month-loan-program-extension-in-an-apparent-compromise-attempt-germany-has-rejected.md)
 Germany rejects a Greek request for a six-month extension to its eurozone loan programme, after earlier signs that a compromise was possible.
 
-### [Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensland.md)
+### [2014-15 Australian region cyclone season. Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/2014-15-australian-region-cyclone-season-cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensl.md)
 Queenslanders are being warned to have enough supplies to last a couple of days and an evacuation plan in place as wild weather bears down on the coastline.
 
 ### [Israel is hit by the heaviest snow storm in a century causing the closure of schools and highways in high places throughout the country. ](/news/2015/02/19/israel-is-hit-by-the-heaviest-snow-storm-in-a-century-causing-the-closure-of-schools-and-highways-in-high-places-throughout-the-country.md)
@@ -19,15 +19,15 @@ _Context: Egypt, Egyptian Air Force, ISIL, Libya, Qatar, execution of 21 Coptic 
 _Context: Carbapenem-resistant enterobacteriaceae, Los Angeles County, California, Ronald Reagan UCLA Medical Center_
 
 ### [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md)
-_Context: Prime Minister of Thailand, Yingluck Shinawatra, indicted_
+_Context: Prime Minister, Yingluck Shinawatra, indicted_
 
 ### [Venezuelan police arrest the Opposition Mayor of Caracas Antonio Ledezma without a warrant on the anniversary of the arrest of another opposition leader Leopoldo Lopez. The President of Venezuela Nicolas Maduro accused him of organizing a coup d'etat with the support of the United States but the US has denied this. ](/news/2015/02/19/venezuelan-police-arrest-the-opposition-mayor-of-caracas-antonio-ledezma-without-a-warrant-on-the-anniversary-of-the-arrest-of-another-oppos.md)
 The opposition mayor of Caracas was detained by Venezuelan intelligence police as President Nicolas Maduro, struggling to control inflation and a shrinking economy, steps up allegations of plots against his government.
 
-### [Several hundred hooligans supporting the Dutch football club Feyenoord clash with the police in Rome, before the club's Europa League contest with local side Roma. In the clashes several people are injured and a large fragment of the 17th century Barcaccia fountain by Gianlorenzo Bernini is smashed. ](/news/2015/02/19/several-hundred-hooligans-supporting-the-dutch-football-club-feyenoord-clash-with-the-police-in-rome-before-the-club-s-europa-league-contes.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
+### [Several hundred hooligans supporting the Dutch football club Feyenoord clash with the police in Rome, before the club's Europa League contest with local side Roma. In the clashes several people are injured and a large fragment of the 17th century Barcaccia fountain by Gianlorenzo Bernini is smashed. [http://abcnews.go.com/Sports/wireStory/rome-mayor-dutch-pay-damage-feyenoord-fans-29097285 (AP via ABC (U.S.))]](/news/2015/02/19/several-hundred-hooligans-supporting-the-dutch-football-club-feyenoord-clash-with-the-police-in-rome-before-the-club-s-europa-league-contes.md)
+_Context: Barcaccia fountain, Dutch, Europa League, Feyenoord, Gianlorenzo Bernini, Roma, Rome, hooligans_
 
-### [Research published in the journal ''Nature'' claims that a large portion of the lithium in the universe was produced by novae. ](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.md)
+### [Research published in the journal "Nature" claims that a large portion of the lithium in the universe was produced by novae. ](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.md)
 A large amount of lithium, one of the key elements in the chemical evolution of the cosmos, is produced by stellar explosions called novae.
 
 ## [Previous Day...](/news/2015/02/18/index.md)

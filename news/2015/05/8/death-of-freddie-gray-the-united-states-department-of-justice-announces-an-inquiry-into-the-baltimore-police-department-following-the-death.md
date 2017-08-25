@@ -1,0 +1,24 @@
+### [2015-05-8](/news/2015/05/8/index.md)
+
+# Death of Freddie Gray. The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-us-canada-32632516)
+2. [WBAL](http://www.wbaltv.com/news/Motion-filed-to-have-Marilyn-Mosby-recuse-herself/32895776)
+
+### Related:
+
+1. [Death of Freddie Gray. A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/death-of-freddie-gray-a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-p.md) _Context: Police Department, death of Freddie Gray_
+2. [Death of Freddie Gray. Marilyn Mosby, the State Attorney for Baltimore, Maryland, rules that the death of Freddie Gray was a homicide and six officers of the Baltimore Police Department had been negligent in his death. ](/news/2015/05/1/death-of-freddie-gray-marilyn-mosby-the-state-attorney-for-baltimore-maryland-rules-that-the-death-of-freddie-gray-was-a-homicide-and-si.md) _Context: Police Department, death of Freddie Gray_
+3. [Death of Freddie Gray: The Baltimore Police Department completes its investigation into the death of Freddie Gray and hands it over to prosecutors. ](/news/2015/04/30/death-of-freddie-gray-the-baltimore-police-department-completes-its-investigation-into-the-death-of-freddie-gray-and-hands-it-over-to-prose.md) _Context: Police Department, death of Freddie Gray_
+4. [Death of Freddie Gray, 2015 Baltimore riots: About 200 people have been arrested in the American city of Baltimore for rioting; 20 Baltimore Police Department officers are injured and 144 cars set on fire. Schools in the city have been closed. ](/news/2015/04/28/death-of-freddie-gray-2015-baltimore-riots-about-200-people-have-been-arrested-in-the-american-city-of-baltimore-for-rioting-20-baltimore.md) _Context: Police Department, death of Freddie Gray_
+5. [Death of Freddie Gray. 2015 Baltimore riots. Violent rioting and protests including looting occur near the Mondawmin Mall in Baltimore after the funeral of Freddie Gray with fifteen Baltimorean police officers being injured. ](/news/2015/04/27/death-of-freddie-gray-2015-baltimore-riots-violent-rioting-and-protests-including-looting-occur-near-the-mondawmin-mall-in-baltimore-after.md) _Context: Police Department, death of Freddie Gray_
+6. [Death of Freddie Gray. The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/death-of-freddie-gray-the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-cu.md) _Context: U.S. Department of Justice, death of Freddie Gray_
+7. [Health care in the United States. The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/health-care-in-the-united-states-the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individ.md) _Context: U.S. Department of Justice_
+8. [Russian interference in the 2016 United States elections. After "The Intercept" publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/russian-interference-in-the-2016-united-states-elections-after-the-intercept-publishes-a-classified-nsa-document-describing-russian-effor.md) _Context: U.S. Department of Justice_
+9. [United States immigration ban. The Department of Justice asks the Supreme Court for expedited review of the Fourth Circuit Appeals Court's May 25 ruling that affirmed the Maryland district court decision to prevent implementation of revised Executive Order 13780, and let the travel ban take effect. The Appeals Court of the Ninth Circuit has not announced its decision on a similar ruling from Hawaii. ](/news/2017/06/1/united-states-immigration-ban-the-department-of-justice-asks-the-supreme-court-for-expedited-review-of-the-fourth-circuit-appeals-court-s-m.md) _Context: U.S. Department of Justice_
+10. [U.S. immigration suspension, "State of Washington v. Trump". Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/u-s-immigration-suspension-state-of-washington-v-trump-trump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-ninth.md) _Context: U.S. Department of Justice_

@@ -1,6 +1,6 @@
 ## [2008-10-11](/news/2008/10/11/index.md)
 
-### [ Global financial crisis of September-October 2008:](/news/2008/10/11/global-financial-crisis-of-septemberaoctober-2008.md)
+### [ Global financial crisis of September-October 2008:](/news/2008/10/11/global-financial-crisis-of-september-october-2008.md)
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
@@ -13,7 +13,7 @@ _Context: International Monetary Fund, housing crisis_
 _Context: Movement for Democratic Change, Politics of Zimbabwe, President, President, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
 
 ### [ The U.S. State Department removes North Korea from its list of sponsors of terrorism. ](/news/2008/10/11/the-u-s-state-department-removes-north-korea-from-its-list-of-sponsors-of-terrorism.md)
-_Context: North Korea, State Department's, state sponsor of terrorism_
+_Context: North Korea, United States State Department, state sponsor of terrorism_
 
 ### [ An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. ](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.md)
 _Context: Chechnya, Russia, earthquake_
@@ -33,7 +33,7 @@ _Context: Interpol, Khoo Boon Hui, Police Commissioner, Singapore_
 ### [ European Union monitors in Georgia confirm that Russia has met the withdrawal deadline. ](/news/2008/10/11/european-union-monitors-in-georgia-confirm-that-russia-has-met-the-withdrawal-deadline.md)
 EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 checkpoints, one signals post and one military base&hellip;
 
-### [ Austrian right-wing politician  and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-hi.md)
+### [ Austrian right-wing politician and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-his.md)
 _Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. ](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights.md)

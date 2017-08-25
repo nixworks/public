@@ -24,11 +24,11 @@ The Prince of Wales&#039; tour of Canada has been marred by an anti-monarchy pro
 ### [ A Russian-born German man is sentenced to life imprisonment for fatally stabbing Marwa El-Sherbini in a court, an attack that caused uproar in the Muslim world. ](/news/2009/11/11/a-russian-born-german-man-is-sentenced-to-life-imprisonment-for-fatally-stabbing-marwa-el-sherbini-in-a-court-an-attack-that-caused-uproar.md)
 The case of an Egyptian woman who had been stabbed to death in front of her husband and young son in a courtroom last year had attracted worldwide attention.
 
-### [ The discovery of a new dinosaur species, named ''Aardonyx celestae'', in South Africa is announced. ](/news/2009/11/11/the-discovery-of-a-new-dinosaur-species-named-aardonyx-celestae-in-south-africa-is-announced.md)
+### [ The discovery of a new dinosaur species, named "Aardonyx celestae", in South Africa is announced. ](/news/2009/11/11/the-discovery-of-a-new-dinosaur-species-named-aardonyx-celestae-in-south-africa-is-announced.md)
 _Context: Aardonyx celestae, South Africa, dinosaur_
 
 ### [ Cambodia rejects a request by Thailand to extradite ousted Thai Prime Minister Thaksin Shinawatra. ](/news/2009/11/11/cambodia-rejects-a-request-by-thailand-to-extradite-ousted-thai-prime-minister-thaksin-shinawatra.md)
-_Context: Cambodia, Prime Minister of Thailand, Thailand, Thaksin, extradited_
+_Context: Cambodia, Prime Minister, Thailand, Thaksin, extradited_
 
 ### [ South Korean troops are put on high alert for possible retaliation after a naval clash with North Korea yesterday. ](/news/2009/11/11/south-korean-troops-are-put-on-high-alert-for-possible-retaliation-after-a-naval-clash-with-north-korea-yesterday.md)
 South Korean boats patrol disputed sea border after naval clash with North Korea.

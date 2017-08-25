@@ -24,7 +24,7 @@ Italian divers have abandoned their search for bodies inside the wrecked cruise 
 ### [The Alaska Volcano Observatory raises its alert warning for the Cleveland Volcano after it starts forming a new lava dome indicating that the mountain could explode. ](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.md)
 _Context: Alaska Volcano Observatory, Cleveland Volcano, lava dome_
 
-### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
+### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011-2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
 _Context: 2011-2012 Syrian uprising, Arab League, Bashar al-Assad, President, Syria, United Nations Security Council_
 
 ### [The International Atomic Energy Agency gives its approval to nuclear reactor safety checks made by Japan. ](/news/2012/01/31/the-international-atomic-energy-agency-gives-its-approval-to-nuclear-reactor-safety-checks-made-by-japan.md)

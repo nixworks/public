@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Somalian pirates release 30 hostages (mostly French) kidnapped aboard ''Le Ponant'' in the Gulf of Aden a week ago. ](/news/2008/04/11/somalian-pirates-release-30-hostages-mostly-french-kidnapped-aboard-le-ponant-in-the-gulf-of-aden-a-week-ago.md) _Context: Le Ponant_
+1. [ Somalian pirates release 30 hostages (mostly French) kidnapped aboard "Le Ponant" in the Gulf of Aden a week ago. ](/news/2008/04/11/somalian-pirates-release-30-hostages-mostly-french-kidnapped-aboard-le-ponant-in-the-gulf-of-aden-a-week-ago.md) _Context: Le Ponant_

@@ -1,6 +1,6 @@
 ## [2011-03-14](/news/2011/03/14/index.md)
 
-### [Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md)
+### [Arab Spring. Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/arab-spring-rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md)
 Forces loyal to Muammar Gaddafi launched air strikes on Monday on the rebel-held Libyan town of Ajdabiyah after sweeping east, rebels said.
 
 ### [The Indian Navy captures 61 pirates on a Mozambiquan fishing vessel in the Arabian Sea. ](/news/2011/03/14/the-indian-navy-captures-61-pirates-on-a-mozambiquan-fishing-vessel-in-the-arabian-sea.md)
@@ -12,7 +12,7 @@ _Context: Afghanistan's, Pakistan_
 ### [A suicide bomber kills at least eight members of the Iraqi Army in Diyala Province. ](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-of-the-iraqi-army-in-diyala-province.md)
 _Context: Diyala Governorate, Iraqi Army, suicide bomber_
 
-### [The Obama administration holds the first of five meetings that eventually lead to Operation Neptune Spear, which caused the Death of Osama bin Laden.  ](/news/2011/03/14/the-obama-administration-holds-the-first-of-five-meetings-that-eventually-lead-to-operation-neptune-spear-which-caused-the-death-of-osama-b.md)
+### [The Obama administration holds the first of five meetings that eventually lead to Operation Neptune Spear, which caused the Death of Osama bin Laden. ](/news/2011/03/14/the-obama-administration-holds-the-first-of-five-meetings-that-eventually-lead-to-operation-neptune-spear-which-caused-the-death-of-osama-b.md)
 U.S. officials began Monday to provide some details on the chronology of events leading up to Osama bin Laden’s death.
 
 ### [US comedian Gilbert Gottfried is fired from doing voiceover work as the AFLAC duck for making a number of tasteless posts on the Japanese earthquake on the Twitter social network. ](/news/2011/03/14/us-comedian-gilbert-gottfried-is-fired-from-doing-voiceover-work-as-the-aflac-duck-for-making-a-number-of-tasteless-posts-on-the-japanese-ea.md)
@@ -33,7 +33,7 @@ _Context: new 5-year plan_
 ### [The French carmaker Renault apologises to three executives accused of industrial espionage after no credible evidence was found to substantiate the claims. ](/news/2011/03/14/the-french-carmaker-renault-apologises-to-three-executives-accused-of-industrial-espionage-after-no-credible-evidence-was-found-to-substanti.md)
 Carmaker pledges compensation to executives accused in espionage case as prosecutor says company may be victim of fraud.
 
-### [The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and-tsunami-in-northern-japan.md)
+### [2011 Tohoku earthquake and tsunami. The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/2011-tahoku-earthquake-and-tsunami-the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and.md)
 Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on Monday to avoid massive blackouts in…
 
 ### [Chinese Premier Wen Jiabao says the country needs to carry out political reforms in order to support achievements made in its economic restructuring, contradicting statements by other Politburo members. ](/news/2011/03/14/chinese-premier-wen-jiabao-says-the-country-needs-to-carry-out-political-reforms-in-order-to-support-achievements-made-in-its-economic-restr.md)

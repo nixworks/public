@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ 2006 United States ''E. coli'' outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of ''E. coli'' in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli.md) _Context: tainted spinach_
+1. [ 2006 United States "E. coli" outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of "E. coli" in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli-in.md) _Context: tainted spinach_

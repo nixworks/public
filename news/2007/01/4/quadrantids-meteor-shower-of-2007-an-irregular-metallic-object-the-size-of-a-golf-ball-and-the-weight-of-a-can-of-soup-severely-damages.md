@@ -1,6 +1,6 @@
 ### [2007-01-4](/news/2007/01/4/index.md)
 
-#  Quadrantids meteor shower of 2007: An irregular metallic object, the size of a golf ball and the weight of a can of soup, severely damages a house in Freehold Township, New Jersey.  No one is injured. 
+#  Quadrantids meteor shower of 2007: An irregular metallic object, the size of a golf ball and the weight of a can of soup, severely damages a house in Freehold Township, New Jersey. No one is injured. 
 
 
 

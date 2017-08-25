@@ -6,7 +6,7 @@ _Context: Colombia, Hillary Clinton 2008 presidential campaign, Mark Penn, chief
 ### [ One man grabs the Olympic torch before police wrestle him to the ground as thousands of anti-China protesters disrupt the Olympic torch relay through London. ](/news/2008/04/6/one-man-grabs-the-olympic-torch-before-police-wrestle-him-to-the-ground-as-thousands-of-anti-china-protesters-disrupt-the-olympic-torch-rel.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-### [ War in Iraq: Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-p-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md)
+### [ War in Iraq:. Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. ](/news/2008/04/6/war-in-iraq-gunmen-kidnap-42-university-students-near-the-iraqi-city-of-mosul-they-are-later-released-unharmed.md)
 _Context: Iraq, Mosul, War in Iraq, university_
 
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin hold their final talks in their current positions. ](/news/2008/04/6/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-hold-their-final-talks-in-their-current-positions.md)

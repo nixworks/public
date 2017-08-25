@@ -15,7 +15,7 @@ _Context:  previous elections, Positive Slovenia, Slovenia_
 ### [Voters in Croatia go to the polls for a parliamentary election with an exit poll showing the centre-left Kukuriku coalition set to win a majority. ](/news/2011/12/4/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-showing-the-centre-left-kukuriku-coalition-set-to-win-a-maj.md)
 _Context: Croatia, Kukuriku coalition, centre-left, exit poll, parliamentary election_
 
-### [Russian election:Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-pvoters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md)
+### [Russian election:. Voters in Russia go to the polls for an election for the State Duma. ](/news/2011/12/4/russian-election-voters-in-russia-go-to-the-polls-for-an-election-for-the-state-duma.md)
 United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered surprisingly steep losses in parliamentary elections and was clinging to a 50 percent majority.
 
 ### [Islamist parties win the first stage of the Egyptian parliamentary election, with the Muslim Brotherhood-aligned Freedom and Justice Party first at 37% of the vote, and the more hardline Salafi Al Nour Party in second place with 24% of the vote. ](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.md)

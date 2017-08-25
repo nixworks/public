@@ -1,0 +1,23 @@
+### [2016-12-11](/news/2016/12/11/index.md)
+
+# Macedonian parliamentary election, 2016. Macedonian voters elect a new parliament. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-macedonia-election-idUSKBN13Z0T9)
+
+### Related:
+
+1. [Macedonian parliamentary election, 2016. As protesters continue to take to the streets of Skopje, Macedonia, lawmakers confirmed that a snap election will take place on June 5 despite the protesters being angry at President Gjorge Ivanov-s decision to halt investigations into more than 50 public figures, including top politicians embroiled in a wire-tapping scandal. Zoran Zaev, the main opposition leader, vowed to boycott the election. ](/news/2016/04/16/macedonian-parliamentary-election-2016-as-protesters-continue-to-take-to-the-streets-of-skopje-macedonia-lawmakers-confirmed-that-a-snap.md) _Context: Macedonian, Macedonian parliamentary election, 2016_
+2. [Macedonian parliamentary election, 2016. The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/macedonian-parliamentary-election-2016-the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to.md) _Context: Macedonian, Macedonian parliamentary election, 2016_
+3. [2017 storming of Macedonian Parliament. The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as Speaker of the Assembly. ](/news/2017/04/27/2017-storming-of-macedonian-parliament-the-macedonian-parliament-is-stormed-by-protesters-opposing-the-election-of-talat-xhaferi-an-ethnic.md) _Context: Macedonian_
+4. [2016 Macedonian floods. Floods in Macedonia's capital, Skopje, kill at least 21 people with six others missing and dozens injured following torrential rain and strong winds late Saturday. ](/news/2016/08/7/2016-macedonian-floods-floods-in-macedonia-s-capital-skopje-kill-at-least-21-people-with-six-others-missing-and-dozens-injured-following.md) _Context: Macedonian_
+5. [European migrant crisis. Police in northern Greece move more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/european-migrant-crisis-police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-bo.md) _Context: Macedonian_
+6. [European migrant crisis. Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. ](/news/2016/05/24/european-migrant-crisis-greek-authorities-begin-operations-to-clear-the-idomeni-refugee-camp-on-the-border-with-macedonia.md) _Context: Macedonian_
+7. [Macedonian opposition leader Zoran Zaev pledges to boycott the early Macedonian parliamentary elections, saying it is due to a lack of government reforms. ](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.md) _Context: Macedonian_
+8. [2016 Macedonian protests. The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. ](/news/2016/04/22/2016-macedonian-protests-the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreem.md) _Context: Macedonian_
+9. [2016 Macedonian protests. The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/2016-macedonian-protests-the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-mai.md) _Context: Macedonian_
+10. [2016 Macedonian protests. Protests against President Gjorge Ivanov continue in Skopje, the capital of Macedonia, after his decision to pardon politicians involved in a scandal. ](/news/2016/04/18/2016-macedonian-protests-protests-against-president-gjorge-ivanov-continue-in-skopje-the-capital-of-macedonia-after-his-decision-to-pardo.md) _Context: Macedonian_

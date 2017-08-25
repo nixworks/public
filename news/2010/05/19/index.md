@@ -6,13 +6,13 @@ News network to stop broadcasting from Bahrain after airing story about local po
 ### [An independent investigation concludes that a North Korean torpedo caused the sinking of the South Korean Cheonan warship Cheonan. ](/news/2010/05/19/an-independent-investigation-concludes-that-a-north-korean-torpedo-caused-the-sinking-of-the-south-korean-cheonan-warship-cheonan.md)
 The independent investigation into the sinking of the Cheonan has concluded that the vessel was sunk by an underwater explosion caused by a North Korean mid-sized torpedo containing 250 kg of high explosives. Yoon Deok Yong, the chief of the joint civilian-military joint investigation team reported ...
 
-### [Cyclone Laila approaches landfall in southeastern India, having already caused at least ten deaths and prompting the evacuations of 10,000 people in Tamil Nadu.](/news/2010/05/19/cyclone-laila-approaches-landfall-in-southeastern-india-having-already-caused-at-least-ten-deaths-and-prompting-the-evacuations-of-10-000-p.md)
+### [2010 North Indian Ocean cyclone season. Cyclone Laila approaches landfall in southeastern India, having already caused at least ten deaths and prompting the evacuations of 10,000 people in Tamil Nadu.](/news/2010/05/19/2010-north-indian-ocean-cyclone-season-cyclone-laila-approaches-landfall-in-southeastern-india-having-already-caused-at-least-ten-deaths-a.md)
 _Context: 2010 North Indian Ocean cyclone season, Cyclone Laila, India, Tamil Nadu_
 
-### [Battle of Bangkok:Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-pred-shirt-protesters-surrender-in-bangkok-thailand.md)
+### [Battle of Bangkok:. Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-red-shirt-protesters-surrender-in-bangkok-thailand.md)
 Bangkok and about a third of the rest of Thailand spend a first night under curfew after protest leaders surrender.
 
-### [2010 Kyrgyzstani uprising:Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. ](/news/2010/05/19/2010-kyrgyzstani-uprising-ptwo-people-are-killed-and-a-state-of-emergency-is-declared-in-the-city-of-jalal-abad-kyrgyzstan-after-protesters.md)
+### [2010 Kyrgyzstani uprising:. Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. ](/news/2010/05/19/2010-kyrgyzstani-uprising-two-people-are-killed-and-a-state-of-emergency-is-declared-in-the-city-of-jalal-abad-kyrgyzstan-after-protester.md)
 The interim government of Kyrgyzstan declares a state of emergency in the southern city of Jalalabad after clashes killed two people.
 
 ### [At least 40,000 Romanians rally in Bucharest to protest planned wage cuts the government says are needed to shore up the ailing economy. ](/news/2010/05/19/at-least-40-000-romanians-rally-in-bucharest-to-protest-planned-wage-cuts-the-government-says-are-needed-to-shore-up-the-ailing-economy.md)

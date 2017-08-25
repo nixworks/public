@@ -12,13 +12,13 @@ _Context: British people, Prince Harry, War in Afghanistan (2001-present)_
 ### [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md)
 _Context: Libyan, Muammar Gaddafi, NATO, Tripoli_
 
-### [The BBC apologises to clothing retailer Primark for a ''Panorama'' documentary showing boys in a Bangalore clothing workshop. ](/news/2011/06/16/the-bbc-apologises-to-clothing-retailer-primark-for-a-panorama-documentary-showing-boys-in-a-bangalore-clothing-workshop.md)
+### [The BBC apologises to clothing retailer Primark for a "Panorama" documentary showing boys in a Bangalore clothing workshop. ](/news/2011/06/16/the-bbc-apologises-to-clothing-retailer-primark-for-a-panorama-documentary-showing-boys-in-a-bangalore-clothing-workshop.md)
 The BBC must make an on-air apology to Primark over a Panorama film which showed boys in Bangalore working on clothes, the BBC Trust says.
 
 ### [The auction record for a painting by Sir Stanley Spencer is broken twice in quick succession at Sotheby's in London. ](/news/2011/06/16/the-auction-record-for-a-painting-by-sir-stanley-spencer-is-broken-twice-in-quick-succession-at-sotheby-s-in-london.md)
 _Context: London, Sir Stanley Spencer, Sotheby's_
 
-### [British comedians Matt Lucas and David Walliams end their partnership which led to successful television shows ''Come Fly With Me'' and ''Little Britain''. ](/news/2011/06/16/british-comedians-matt-lucas-and-david-walliams-end-their-partnership-which-led-to-successful-television-shows-come-fly-with-me-and-li.md)
+### [British comedians Matt Lucas and David Walliams end their partnership which led to successful television shows "Come Fly With Me" and "Little Britain". ](/news/2011/06/16/british-comedians-matt-lucas-and-david-walliams-end-their-partnership-which-led-to-successful-television-shows-come-fly-with-me-and-littl.md)
 _Context: British people, Come Fly With Me, David Walliams, Little Britain, Matt Lucas_
 
 ### [Software company Oracle announces that it is looking for damages "in the billions of dollars" from Google in an ongoing patent law action over the smartphone. ](/news/2011/06/16/software-company-oracle-announces-that-it-is-looking-for-damages-in-the-billions-of-dollars-from-google-in-an-ongoing-patent-law-action-ov.md)
@@ -33,13 +33,13 @@ _Context: New Britain, Papua New Guinea, earthquake, tsunami_
 ### [Traces of dioxin are found in stream waters near the United States Army base Camp Carroll in South Korea where drums of Agent Orange were allegedly dumped three decades ago. ](/news/2011/06/16/traces-of-dioxin-are-found-in-stream-waters-near-the-united-states-army-base-camp-carroll-in-south-korea-where-drums-of-agent-orange-were-al.md)
 _Context: Agent Orange, Camp Carroll, South Korea, United States Army, dioxin_
 
-### [An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison.  ](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.md)
+### [An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison. ](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.md)
 Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organising the financing of terrorism ending a decade long effort by authorities to put the firebrand militant who endorsed the Bali bombings behind bars.
 
-### [Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria  following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. ](/news/2011/06/16/simon-overland-resigns-as-the-chief-commissioner-of-police-in-the-australian-state-of-victoria-following-the-release-of-a-damning-ombudsman.md)
+### [Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. ](/news/2011/06/16/simon-overland-resigns-as-the-chief-commissioner-of-police-in-the-australian-state-of-victoria-following-the-release-of-a-damning-ombudsman.md)
 _Context: 2010 Victorian election, Australia, Ombudsman, Simon Overland, Victoria, Victoria Police_
 
-### [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010a2011-ivorian-crisis.md)
+### [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010-2011-ivorian-crisis.md)
 Authorities in Ivory Coast say they are setting up a national commission to investigate crimes committed during recent months of violence.
 
 ### [A senior aide and consultant to former Governor of the U.S. state of Maryland Bob Ehrlich are indicted in connection to robocalls in the 2010 Maryland gubernatorial election. ](/news/2011/06/16/a-senior-aide-and-consultant-to-former-governor-of-the-u-s-state-of-maryland-bob-ehrlich-are-indicted-in-connection-to-robocalls-in-the-201.md)

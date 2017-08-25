@@ -24,7 +24,7 @@ _Context: Benjamn Arellano Flix, Mexican, United States, money laundering, racke
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
 _Context: Amado Boudou, Cristina Kirchner, President of Argentina, thyroid cancer_
 
-### [Republican Party presidential primaries, 2012:Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-party-presidential-primaries-2012-prepublican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa.md)
+### [Republican Party presidential primaries, 2012:. Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-party-presidential-primaries-2012-republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iow.md)
 _Context: 2012 Iowa Caucus, Mitt Romney, Republican primaries, Rick Santorum, Ron Paul_
 
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)

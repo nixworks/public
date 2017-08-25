@@ -1,9 +1,9 @@
 ## [2014-06-25](/news/2014/06/25/index.md)
 
-### [The Prime Minister of Iraq Nouri al-Maliki calls for national unity as a Islamic State in Iraq and the Levant reaches Yathrib 87 kilometres (54 miles) north of Baghdad. ](/news/2014/06/25/the-prime-minister-of-iraq-nouri-al-maliki-calls-for-national-unity-as-a-islamic-state-in-iraq-and-the-levant-reaches-yathrib-87-kilometres.md)
+### [2014 Northern Iraq offensive. The Prime Minister of Iraq Nouri al-Maliki calls for national unity as a Islamic State in Iraq and the Levant reaches Yathrib 87 kilometres (54 miles) north of Baghdad. ](/news/2014/06/25/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-calls-for-national-unity-as-a-islamic-state-in-iraq-and-the-levant.md)
 Embattled Iraqi prime minister seeks to shore up crumbling support for his government.
 
-### [Post-coup unrest in Egypt:Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-phomemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md)
+### [Post-coup unrest in Egypt:. Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. ](/news/2014/06/25/post-coup-unrest-in-egypt-homemade-bombs-explode-in-four-metro-stations-and-a-court-house-in-greater-cairo-injuring-eight-people.md)
 Eight people were hurt in northern Cairo when homemade explosive devices blew up at four metro stations and a courthouse on Wednesday morning in the first attacks in Cairo since Abdel Fattah al-Sisi became president earlier this month.
 
 ### [Nigerian police say that 21 people have been killed in an explosion at a crowded Banex Plaza shopping center in Abuja's Wuse 2 district. ](/news/2014/06/25/nigerian-police-say-that-21-people-have-been-killed-in-an-explosion-at-a-crowded-banex-plaza-shopping-center-in-abuja-s-wuse-2-district.md)
@@ -21,7 +21,7 @@ China sends its first ever ministerial-level official on a charm offensive to Ta
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
 _Context: Jama'at-ud-Dawa, LeT, United States_
 
-### [Algeria-Egypt relations:Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeriaaegypt-relations-pegypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of.md)
+### [Algeria-Egypt relations:. Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeria-egypt-relations-egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-o.md)
 * Gas deal part of supply talks since early this year* Five cargoes to be delivered by year-end* Sisi, Algeria talk over security, Libya (A
 
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)

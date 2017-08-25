@@ -3,7 +3,7 @@
 ### [ The wooden portion of Namdaemun Gate in Seoul, South Korea is destroyed in a suspicious fire. ](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.md)
 _Context: Namdaemun, Seoul, South Korea, arson_
 
-### [ Democratic Party (United States) presidential primaries, 2008: Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/democratic-party-united-states-presidential-primaries-2008-p-illinois-senator-barack-obama-wins-the-maine-caucus.md)
+### [ Democratic Party (United States) presidential primaries, 2008:. Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/democratic-party-united-states-presidential-primaries-2008-illinois-senator-barack-obama-wins-the-maine-caucus.md)
 _Context: Barack Obama, Illinois, Maine, United States Senate, caucus, primaries_
 
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
@@ -15,7 +15,7 @@ _Context: 2008 Africa Cup of Nations, Cameroon, Egypt, Ghana, association footba
 ### [ Ten people are trampled to death at a rock concert in Bandung, Indonesia. ](/news/2008/02/10/ten-people-are-trampled-to-death-at-a-rock-concert-in-bandung-indonesia.md)
 _Context: Bandung, Indonesia, rock concert_
 
-### [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-h.md)
+### [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-hoa.md)
 Personnel are understood to be returning to a North Sea oil rig after a security threat earlier today.
 
 ### [ "Anonymous" protests the policies of the Church of Scientology at different locations around the world. ](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-of-scientology-at-different-locations-around-the-world.md)

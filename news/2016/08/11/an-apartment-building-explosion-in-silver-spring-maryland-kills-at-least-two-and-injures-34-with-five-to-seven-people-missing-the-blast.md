@@ -12,5 +12,5 @@ Thirty-one residents were taken to hospital and up to seven more were missing af
 
 ### Related:
 
-1. [The death toll from Thursday's explosion in a  Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. ](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-silver-spring-maryland-apartment-building-rises-to-three-with-others-still-missing-the-cau.md) _Context: Silver Spring, Maryland_
+1. [The death toll from Thursday's explosion in a Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. ](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-silver-spring-maryland-apartment-building-rises-to-three-with-others-still-missing-the-caus.md) _Context: Silver Spring, Maryland_
 2. [A man upset with the Discovery Channel's environmental programs takes several people hostage at its headquarters in Silver Spring, Maryland, near Washington, DC. Police snipers eventually kill him with the hostages being safe. ](/news/2010/09/1/a-man-upset-with-the-discovery-channel-s-environmental-programs-takes-several-people-hostage-at-its-headquarters-in-silver-spring-maryland.md) _Context: Silver Spring, Maryland_

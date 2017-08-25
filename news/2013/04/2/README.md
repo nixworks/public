@@ -1,9 +1,9 @@
 ## [2013-04-2](/news/2013/04/2/index.md)
 
-### [Mexican Drug War:The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-pthe-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mex.md)
+### [Mexican Drug War:. The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-the-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-me.md)
 _Context: Mexican Drug War, Mexico, SUV, Tamaulipas, Texas, police_
 
-### [War in North-West Pakistan:At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. ](/news/2013/04/2/war-in-north-west-pakistan-pat-least-7-people-are-killed-in-an-attack-by-militants-suspected-to-be-tehrik-i-taliban-pakistan-on-a-power-st.md)
+### [War in North-West Pakistan:. At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. ](/news/2013/04/2/war-in-north-west-pakistan-at-least-7-people-are-killed-in-an-attack-by-militants-suspected-to-be-tehrik-i-taliban-pakistan-on-a-power-s.md)
 At least seven people are killed as dozens of heavily-armed militants attack an electricity plant in the Pakistani city of Peshawar, officials say.
 
 ### [The Muppets co-creator Jane Henson dies at the age of 78. ](/news/2013/04/2/the-muppets-co-creator-jane-henson-dies-at-the-age-of-78.md)
@@ -27,7 +27,7 @@ _Context: Arusha, Tanzania, quarry_
 ### [Authorities in China report four more critical cases of the H7N9 strain of bird flu, taking the total of known cases to seven. ](/news/2013/04/2/authorities-in-china-report-four-more-critical-cases-of-the-h7n9-strain-of-bird-flu-taking-the-total-of-known-cases-to-seven.md)
 China reported four new cases on Tuesday of a strain of bird flu that was previously unknown in humans but has already killed two people, raising the total of known cases to seven.
 
-### [2013 Korean crisis:North Korea announces it will resume activities in the Yongbyon nuclear complex, closed since 2007. ](/news/2013/04/2/2013-korean-crisis-pnorth-korea-announces-it-will-resume-activities-in-the-yongbyon-nuclear-complex-closed-since-2007.md)
+### [2013 Korean crisis:. North Korea announces it will resume activities in the Yongbyon nuclear complex, closed since 2007. ](/news/2013/04/2/2013-korean-crisis-north-korea-announces-it-will-resume-activities-in-the-yongbyon-nuclear-complex-closed-since-2007.md)
 China has placed military forces on heightened alert in the northeastern part of the country as tensions mount on the Korean peninsula following recent threats by Pyongyang to attack, U.S. officials said. 
 
 ### [The United Nations General Assembly approves the first Arms Trade Treaty to regulate the multi-billion-dollar global trade in conventional arms with 154 votes in favor, three member states - Iran, North Korea and Syria - against the decision, and 23 abstentions. ](/news/2013/04/2/the-united-nations-general-assembly-approves-the-first-arms-trade-treaty-to-regulate-the-multi-billion-dollar-global-trade-in-conventional-a.md)
@@ -63,7 +63,7 @@ _Context: Omar al-Bashir, President of Sudan, Sudan, political prisoners_
 ### [Six people, including multiple elected officials, are arrested on charges of fraud for allegedly attempting to rig the 2013 New York City mayoral election. ](/news/2013/04/2/six-people-including-multiple-elected-officials-are-arrested-on-charges-of-fraud-for-allegedly-attempting-to-rig-the-2013-new-york-city-ma.md)
 _Context: 2013 New York City mayoral election, fraud, rig_
 
-### [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.md)
+### [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23-8-to-legalize-same-sex-marriage.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Top NASA scientist James Hansen retires in order to concentrate on global warming activism. ](/news/2013/04/2/top-nasa-scientist-james-hansen-retires-in-order-to-concentrate-on-global-warming-activism.md)

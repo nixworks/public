@@ -18,7 +18,7 @@ _Context: Gilad Shalit, Hamas, Israel, POWs, negotiate_
 ### [ Israel's Securities Authority arrests Poalim Capital Markets CEO Nir Burnstein on suspicion of insider trading. ](/news/2009/02/18/israel-s-securities-authority-arrests-poalim-capital-markets-ceo-nir-burnstein-on-suspicion-of-insider-trading.md)
 _Context: Israel, Securities Authority, chief executive officer, insider trading_
 
-### [ Iran announces it has built an unmanned aerial vehicle capable of traveling 620&nbsp;miles (1,000&nbsp;kilometers).  ](/news/2009/02/18/iran-announces-it-has-built-an-unmanned-aerial-vehicle-capable-of-traveling-620-nbsp-miles-1-000-nbsp-kilometers.md)
+### [ Iran announces it has built an unmanned aerial vehicle capable of traveling 620&nbsp;miles (1,000&nbsp;kilometers). ](/news/2009/02/18/iran-announces-it-has-built-an-unmanned-aerial-vehicle-capable-of-traveling-620-nbsp-miles-1-000-nbsp-kilometers.md)
 _Context: Iran, drone_
 
 ### [ Lawyers representing the entertainment industry defend their compensation claims of US$13 million against The Pirate Bay. ](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.md)
@@ -45,7 +45,7 @@ _Context: North Korea, South Korea, United Nations, fires seven more missiles, i
 ### [ Russia's Border Guard Service sinks a Hong Kong-owned merchant vessel, killing eight people. ](/news/2009/02/18/russia-s-border-guard-service-sinks-a-hong-kong-owned-merchant-vessel-killing-eight-people.md)
 _Context: Border Guard Service, Hong Kong, MV, Russia_
 
-### [ The National Aeronautics and Space Administration and European Space Agency will continue with their Europa Jupiter System Mission and Titan Saturn System Missions.  ](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.md)
+### [ The National Aeronautics and Space Administration and European Space Agency will continue with their Europa Jupiter System Mission and Titan Saturn System Missions. ](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.md)
 _Context: Europa Jupiter System Mission, European Space Agency, NASA, Titan Saturn System Missions_
 
 ## [Previous Day...](/news/2009/02/17/index.md)

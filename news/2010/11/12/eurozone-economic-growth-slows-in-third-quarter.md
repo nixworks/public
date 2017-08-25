@@ -11,5 +11,5 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Related:
 
-1. [ November 2007 strikes in France: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-p-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _Context: economic_
+1. [ November 2007 strikes in France:. French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md) _Context: economic_
 2. [ Japan resumes economic and humanitarian aid to the Palestinian National Authority. ](/news/2007/08/15/japan-resumes-economic-and-humanitarian-aid-to-the-palestinian-national-authority.md) _Context: economic_

@@ -27,7 +27,7 @@ _Context: Mohmand Agency, Pakistan, Pakistan army, Taliban, War in North-West Pa
 ### [ The Republic of China allows financial investment from mainland China for the first time since 1949. ](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.md)
 _Context: China, Cross-Strait relations, Taiwan, financial investment_
 
-### [ The bulk carrier MV ''Ariana'' is hijacked by Somali pirates in the Indian Ocean. ](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali-pirates-in-the-indian-ocean.md)
+### [ The bulk carrier MV "Ariana" is hijacked by Somali pirates in the Indian Ocean. ](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali-pirates-in-the-indian-ocean.md)
 _Context: Indian Ocean, MV, Somali pirates, Somalia, bulk carrier, pirate_
 
 ## [Previous Day...](/news/2009/05/1/index.md)

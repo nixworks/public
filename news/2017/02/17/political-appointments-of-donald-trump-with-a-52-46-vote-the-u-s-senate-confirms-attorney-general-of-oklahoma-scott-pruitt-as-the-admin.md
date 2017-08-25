@@ -1,0 +1,23 @@
+### [2017-02-17](/news/2017/02/17/index.md)
+
+# Political appointments of Donald Trump. With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. 
+
+Scott Pruitt has attracted scorn from Democrats and environmentalists and praise from conservatives and the energy industry.
+
+
+### Source:
+
+1. [CNBC](http://www.cnbc.com/2017/02/17/scott-pruitt-epa-confirmation-senate-vote.html)
+
+### Related:
+
+1. [Political appointments of Donald Trump. The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/political-appointments-of-donald-trump-the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _Context: Political appointments of Donald Trump, United States Senate_
+2. [Political appointments of Donald Trump. The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/political-appointments-of-donald-trump-the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-prim.md) _Context: Political appointments of Donald Trump, United States Senate_
+3. [Political appointments of Donald Trump. The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/political-appointments-of-donald-trump-the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budg.md) _Context: Political appointments of Donald Trump, United States Senate_
+4. [Political appointments by Donald Trump. The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/political-appointments-by-donald-trump-the-united-states-senate-in-a-92-5-vote-confirms-christopher-a-wray-as-director-of-the-federal.md) _Context: United States Senate_
+5. [2017 Patient Protection and Affordable Care Act replacement proposals. The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/2017-patient-protection-and-affordable-care-act-replacement-proposals-the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patien.md) _Context: United States Senate_
+6. [Efforts to repeal Obamacare. The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/efforts-to-repeal-obamacare-the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act.md) _Context: United States Senate_
+7. [Efforts to repeal Obamacare. The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/efforts-to-repeal-obamacare-the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: United States Senate_
+8. [Philippine Drug War. A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/philippine-drug-war-a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-dru.md) _Context: United States Senate_
+9. [U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.md) _Context: United States Senate_
+10. [Political appointments of Donald Trump. United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/political-appointments-of-donald-trump-united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-direc.md) _Context: Political appointments of Donald Trump_

@@ -13,7 +13,7 @@ _Context: Chairman, Federal Communications Commission, Internet, Kevin Martin, U
 Russia recruited Hungary tojoin its South Stream natural gas pipeline on Monday, strikinga major blow in its &quot;pipeline war&quot; with the West to supply gasto southern Europe via the rival Nabucco scheme.
 
 ### [ Lee Myung-bak is sworn in as President of South Korea. ](/news/2008/02/25/lee-myung-bak-is-sworn-in-as-president-of-south-korea.md)
-_Context: Lee Myung-bak, South Korea, South Korean President_
+_Context: Lee Myung-bak, President of South Korea, South Korea_
 
 ## [Previous Day...](/news/2008/02/24/index.md)
 

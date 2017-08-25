@@ -1,6 +1,6 @@
 ## [2009-07-13](/news/2009/07/13/index.md)
 
-### [ Twelve European companies launch the EUR400&nbsp;billion Desertec project to build solar thermal power stations in North Africa. ](/news/2009/07/13/twelve-european-companies-launch-the-a-400-nbsp-billion-desertec-project-to-build-solar-thermal-power-stations-in-north-africa.md)
+### [ Twelve European companies launch the -400&nbsp;billion Desertec project to build solar thermal power stations in North Africa. ](/news/2009/07/13/twelve-european-companies-launch-the-400-nbsp-billion-desertec-project-to-build-solar-thermal-power-stations-in-north-africa.md)
 _Context: Desertec project, solar thermal power stations_
 
 ### [ Burma announces it will release an unspecified number of political prisoners to allow them to take part in the 2010 general election. ](/news/2009/07/13/burma-announces-it-will-release-an-unspecified-number-of-political-prisoners-to-allow-them-to-take-part-in-the-2010-general-election.md)
@@ -15,7 +15,7 @@ _Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Tur
 ### [ At least 16 people have died, including eight children, in the city of Mian Channu, Pakistan, after a bomb blast in a school. ](/news/2009/07/13/at-least-16-people-have-died-including-eight-children-in-the-city-of-mian-channu-pakistan-after-a-bomb-blast-in-a-school.md)
 _Context: Mian Channu, Pakistan, bomb blast_
 
-### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade.  ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)
+### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade. ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)
 _Context: Greek, Patras, migrants_
 
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)

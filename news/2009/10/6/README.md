@@ -24,7 +24,7 @@ _Context: Andhra Pradesh, India, Karnataka_
 ### [ Zimbabwean President Robert Mugabe calls for improved relations with "hostile" countries at the opening of Parliament. ](/news/2009/10/6/zimbabwean-president-robert-mugabe-calls-for-improved-relations-with-hostile-countries-at-the-opening-of-parliament.md)
 _Context: Parliament, President of Zimbabwe, Robert Mugabe, Zimbabwe_
 
-### [ Hilary Mantel's ''Wolf Hall'' wins the 2009 Man Booker Prize. ](/news/2009/10/6/hilary-mantel-s-wolf-hall-wins-the-2009-man-booker-prize.md)
+### [ Hilary Mantel's "Wolf Hall" wins the 2009 Man Booker Prize. ](/news/2009/10/6/hilary-mantel-s-wolf-hall-wins-the-2009-man-booker-prize.md)
 _Context: Hilary Mantel, Man Booker Prize, Wolf Hall_
 
 ### [ Somalia's State Minister for Defence Sheikh Yusuf Mohammad Siad is detained by security forces in Uganda. Siad's detention was originally reported as a kidnapping. ](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.md)

@@ -33,13 +33,13 @@ _Context: Alassane Ouattara, Britain, Canada, Cote d'Ivoire, Laurent Gbagbo_
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
 Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#39;If Chile, Mexico follow Argentina, Brazil, it will prompt all other Latin American countries to join, because they won&#39;t want to stay on sidelines,&#39; says diplomat
 
-### [Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown  on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." ](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.md)
+### [Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." ](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.md)
 _Context: Christians in Iran, Iranian police_
 
-### [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's ''Harry Potter and the Goblet of Fire'' plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiaris.md)
+### [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's "Harry Potter and the Goblet of Fire" plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiarised.md)
 A US judge has dismissed legal action accusing Harry Potter author JK Rowling of copying the work of another author.
 
-### [Former British Labour MP David Chaytor is sentenced to 18 months imprisonment for fraudulently claiming more than PS20,000 in expenses. ](/news/2011/01/7/former-british-labour-mp-david-chaytor-is-sentenced-to-18-months-imprisonment-for-fraudulently-claiming-more-than-aps20-000-in-expenses.md)
+### [Former British Labour MP David Chaytor is sentenced to 18 months imprisonment for fraudulently claiming more than GBP20,000 in expenses. ](/news/2011/01/7/former-british-labour-mp-david-chaytor-is-sentenced-to-18-months-imprisonment-for-fraudulently-claiming-more-than-agbp20-000-in-expenses.md)
 Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming more than £20,000 in expenses.
 
 ### [The United Nations says thousands of people are arriving in Southern Sudan from north Sudan ahead of the independence referendum on Sunday. ](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.md)

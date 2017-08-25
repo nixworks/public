@@ -1,0 +1,24 @@
+### [2012-11-30](/news/2012/11/30/index.md)
+
+# "Time" magazine editors announce their list of 38 contenders nominated as the 2012 Time Person of the Year, including Barack Obama, Mitt Romney, Sheldon Adelson, Malala Yousafzai, Sandra Fluke, Felix Baumgartner, Curiosity rover, Bashar Assad, Mohamed Morsi, Psy, Pussy Riot, Higgs boson, Michael Phelps, and others. The winner of the people's choice will be announced on 14 December. 
+
+
+
+
+### Source:
+
+1. [Reuters via MSN](http://news.msn.com/pop-culture/psy-and-jay-z-nominated-for-times-person-of-the-year-1)
+2. [Time](http://www.time.com/time/person-of-the-year/2012/)
+
+### Related:
+
+1. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: Barack Obama, Person of the Year, Time_
+2. [Angela Merkel is named as "Time"'s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md) _Context: Person of the Year, Time_
+3. ["Time" magazine names Pope Francis its Person of the Year. ](/news/2013/12/11/time-magazine-names-pope-francis-its-person-of-the-year.md) _Context: Person of the Year, Time_
+4. [U.S. President Barack Obama spent more than an hour with Mitt Romney at the White House, as the one-time rivals shared lunch and discussed their ideas for the first time since the 2012 election. ](/news/2012/11/29/u-s-president-barack-obama-spent-more-than-an-hour-with-mitt-romney-at-the-white-house-as-the-one-time-rivals-shared-lunch-and-discussed-t.md) _Context: Barack Obama, Mitt Romney_
+5. [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy-s 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policy-s-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md) _Context: Barack Obama, Malala Yousafzai_
+6. [United States elections, 2012:. President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama-more than the 270 needed to ensure election-to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/united-states-elections-2012-president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes.md) _Context: Barack Obama, Mitt Romney_
+7. [New York Mayor Michael Bloomberg endorses U.S. President Barack Obama over Mitt Romney, citing the need to deal with climate change in the wake of Hurricane Sandy as a reason for his choice. ](/news/2012/11/1/new-york-mayor-michael-bloomberg-endorses-u-s-president-barack-obama-over-mitt-romney-citing-the-need-to-deal-with-climate-change-in-the-w.md) _Context: Barack Obama, Mitt Romney_
+8. [Four third-party U.S. presidential election candidates&mdash;representing the Libertarian, Green, Constitution, and Justice parties, who were excluded from the high-profile televised encounters between Mitt Romney or Barack Obama&mdash;attend their own presidential debate hosted in Chicago by the Free and Equal Elections Foundation, which hopes for a more transparent and open electoral system. Romney (with the Republican Party) and Obama (with the Democratic Party) refuse invitations to attend the debate, televised on international news channels but on no major U.S. network. ](/news/2012/10/23/four-third-party-u-s-presidential-election-candidates-mdash-representing-the-libertarian-green-constitution-and-justice-parties-who-wer.md) _Context: Barack Obama, Mitt Romney_
+9. [Voters in the US states of Arkansas and Kentucky go to the polls, with Mitt Romney winning the Republican primaries, and President Barack Obama winning but performing relatively poorly against token opposition in the Democratic primaries. ](/news/2012/05/22/voters-in-the-us-states-of-arkansas-and-kentucky-go-to-the-polls-with-mitt-romney-winning-the-republican-primaries-and-president-barack-ob.md) _Context: Barack Obama, Mitt Romney_
+10. ["Time" names "The Protester" the magazine's 2011 Person of the Year, as a result of the Arab Spring and subsequent movements. ](/news/2011/12/14/time-names-the-protester-the-magazine-s-2011-person-of-the-year-as-a-result-of-the-arab-spring-and-subsequent-movements.md) _Context: Person of the Year, Time_

@@ -1,6 +1,6 @@
 ## [2011-07-2](/news/2011/07/2/index.md)
 
-### [Arab Spring:2011 Libyan civil war:According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md)
+### [Arab Spring:. 2011 Libyan civil war:. According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md)
 The Sudanese army has seized a town in southern Libya that is the gateway to oilfields crucial to rebel hopes of establishing financial independence.
 
 ### [Somali and African Union forces make gains against al-Shabaab rebels in Mogadishu. ](/news/2011/07/2/somali-and-african-union-forces-make-gains-against-al-shabaab-rebels-in-mogadishu.md)
@@ -12,7 +12,7 @@ Members of family travelling through Ghazni reportedly killed, a day after a sim
 ### [Albert II, Prince of Monaco marries Charlene Wittstock, the Olympic swimmer, again, this time in a religious ceremony attended by 3,500 guests, including royalty and celebrities. ](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.md)
 The principality of Monaco celebrates the religious wedding of Prince Albert II to South African Olympic swimmer Charlene Wittstock.
 
-### [European sovereign debt crisis: Eurozone finance ministers agree to give a further EUR12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-a-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md)
+### [European sovereign debt crisis: Eurozone finance ministers agree to give a further -12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md)
 Eurozone finance ministers agree to release a further 12bn euros of emergency aid to Greece to help it avoid bankruptcy.
 
 ### [Australia's Civil Aviation Safety Authority grounds all Tiger Airways flights in the country until July 9 due to a range of safety concerns. ](/news/2011/07/2/australia-s-civil-aviation-safety-authority-grounds-all-tiger-airways-flights-in-the-country-until-july-9-due-to-a-range-of-safety-concerns.md)
@@ -39,7 +39,7 @@ Former Brazilian President Itamar Franco died Saturday morning from complication
 ### [Campaigning closes ahead of Thailand's general election tomorrow. ](/news/2011/07/2/campaigning-closes-ahead-of-thailand-s-general-election-tomorrow.md)
 Main opposition Puea Thai Party enjoys clear lead in polls over party of current prime minister Abhisit Vejjajiva.
 
-### [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel ''The Audacity of Hope'', the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-bef.md)
+### [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel "The Audacity of Hope", the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-befal.md)
 _Context: Freedom Flotilla II, The Audacity of Hope_
 
 ### [Serbia and Kosovo sign the first accords between the two nations since Kosovo's declaration of independence three years ago. ](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.md)

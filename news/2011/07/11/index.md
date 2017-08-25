@@ -6,7 +6,7 @@ _Context: 2011 Syrian uprising, Bashar al-Assad, Damascus, President, diplomatic
 ### [Pakistan jails a doctor who helped the US Central Intelligence Agency confirm that Osama bin Laden was living in Abbottabad. ](/news/2011/07/11/pakistan-jails-a-doctor-who-helped-the-us-central-intelligence-agency-confirm-that-osama-bin-laden-was-living-in-abbottabad.md)
 Pakistan holds doctor who tried to collect bin Laden DNA
 
-### [Sanofi announces positive results of the late-stage trial of Lemtrada, its new multiple sclerosis  treatment. ](/news/2011/07/11/sanofi-announces-positive-results-of-the-late-stage-trial-of-lemtrada-its-new-multiple-sclerosis-treatment.md)
+### [Sanofi announces positive results of the late-stage trial of Lemtrada, its new multiple sclerosis treatment. ](/news/2011/07/11/sanofi-announces-positive-results-of-the-late-stage-trial-of-lemtrada-its-new-multiple-sclerosis-treatment.md)
 _Context: Lemtrada, Sanofi, multiple sclerosis_
 
 ### [The death toll from a train crash in India's Uttar Pradesh state rises to 69. ](/news/2011/07/11/the-death-toll-from-a-train-crash-in-india-s-uttar-pradesh-state-rises-to-69.md)
@@ -27,7 +27,7 @@ _Context: Air Force, Republic of Korea Air Force_
 ### [Canada will boycott the United Nations Conference on Disarmament to protest against North Korea being named its chair. ](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.md)
 Canada is boycotting a UN body dedicated to disarmament to protest against North Korea being named its chair, Foreign Affairs Minister John Baird announced Monday. 
 
-### [News International privacy breachesTen members of the British royal family  including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the ''News of the World'' phone hacking affair. ](/news/2011/07/11/news-international-privacy-breachespten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md)
+### [News International privacy breaches. Ten members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the "News of the World" phone hacking affair. ](/news/2011/07/11/news-international-privacy-breaches-ten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-b.md)
 _Context: British Royal Family, Duchess of Cornwall, News International, News of the World, Prince of Wales, phone hacking affair_
 
 ### [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md)

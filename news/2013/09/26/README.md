@@ -3,7 +3,7 @@
 ### [Terrorists attack a police station in India's Jammu and Kashmir state, killing six people, before attacking an Army camp. ](/news/2013/09/26/terrorists-attack-a-police-station-in-india-s-jammu-and-kashmir-state-killing-six-people-before-attacking-an-army-camp.md)
 Militants dressed in Indian army uniforms attacked Indian police and soldiers near the border with Pakistan on Thursday, killing nine people and triggering calls for talks between the prime ministers of the rival nations to be called off.
 
-### [Interpol issues a ''red notice'' arrest warrant  for Briton Samantha Lewthwaite at Kenya's request. ](/news/2013/09/26/interpol-issues-a-red-notice-arrest-warrant-for-briton-samantha-lewthwaite-at-kenya-s-request.md)
+### [Interpol issues a "red notice" arrest warrant for Briton Samantha Lewthwaite at Kenya's request. ](/news/2013/09/26/interpol-issues-a-red-notice-arrest-warrant-for-briton-samantha-lewthwaite-at-kenya-s-request.md)
 Kenya seeks the arrest of Briton Samantha Lewthwaite - suspected al-Shabab member - as it reels from the siege at a Nairobi shopping centre.
 
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)

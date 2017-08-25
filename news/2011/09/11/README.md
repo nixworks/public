@@ -1,6 +1,6 @@
 ## [2011-09-11](/news/2011/09/11/index.md)
 
-### [Tenth anniversary of the September 11, 2001 terrorist attacks:Memorial ceremonies are held at New York's Ground Zero and elsewhere in the United States, to commemorate the tenth anniversary of the September 11 attacks. Ceremonies are also held worldwide to mark the anniversary of the attacks. ](/news/2011/09/11/tenth-anniversary-of-the-september-11-2001-terrorist-attacks-pmemorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-u.md)
+### [Tenth anniversary of the September 11, 2001 terrorist attacks:. Memorial ceremonies are held at New York's Ground Zero and elsewhere in the United States, to commemorate the tenth anniversary of the September 11 attacks. Ceremonies are also held worldwide to mark the anniversary of the attacks. ](/news/2011/09/11/tenth-anniversary-of-the-september-11-2001-terrorist-attacks-memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the.md)
 Ten years on from the day the 9/11 terrorist attacks changed so much for so many people, the world&#x27;s leaders and millions of citizens are pausing to reflect.
 
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)

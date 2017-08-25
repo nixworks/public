@@ -1,6 +1,6 @@
 ## [2010-01-21](/news/2010/01/21/index.md)
 
-### [Operation Aurora:Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-pchinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wit.md)
+### [Operation Aurora:. Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wi.md)
 _Context: China, Foreign Minister, Google, He Yafei, United States, cyber attacks, government_
 
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)

@@ -1,0 +1,23 @@
+### [2016-02-19](/news/2016/02/19/index.md)
+
+# European migrant crisis. Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. 
+
+Serbia has closed its border with Macedonia to unregistered refugees, imposing stricter border controls for the purpose of preventing illegal migration, local state TV reported citing officials.
+
+
+### Source:
+
+1. [RT](https://www.rt.com/news/333002-serbia-closes-border-migrants/)
+
+### Related:
+
+1. [European migrant crisis. Macedonia, Serbia, Croatia, and Slovenia shut their borders to so-called economic migrants, those not coming from war-torn countries such as Syria, Afghanistan, or Iraq, leaving thousands stranded at Balkan border crossings. Around 500 migrants from Iran, Morocco, and Algeria gather on the border between Greece and Macedonia to protest the closure. ](/news/2015/11/20/european-migrant-crisis-macedonia-serbia-croatia-and-slovenia-shut-their-borders-to-so-called-economic-migrants-those-not-coming-from-w.md) _Context: European migrant crisis, Macedonian, Serbia_
+2. [European migrant crisis. Police in northern Greece move more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/european-migrant-crisis-police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-bo.md) _Context: European migrant crisis, Macedonian_
+3. [European migrant crisis. Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. ](/news/2016/05/24/european-migrant-crisis-greek-authorities-begin-operations-to-clear-the-idomeni-refugee-camp-on-the-border-with-macedonia.md) _Context: European migrant crisis, Macedonian_
+4. [European migrant crisis. Macedonian police fire tear gas at refugees as they attempted to break through a fence at the Greece-Macedonia border near Idomeni, sparking clashes that injured 200 people. ](/news/2016/04/10/european-migrant-crisis-macedonian-police-fire-tear-gas-at-refugees-as-they-attempted-to-break-through-a-fence-at-the-greece-macedonia-bord.md) _Context: European migrant crisis, Macedonian_
+5. [European migrant crisis. Macedonia says it will no longer let any migrants through its southern border with Greece, effectively blocking the Balkan route for migrants. The decision came after Slovenia barred access to migrants transiting the country. There are around 13,000 migrants now stranded at the Macedonia-Greece border. ](/news/2016/03/9/european-migrant-crisis-macedonia-says-it-will-no-longer-let-any-migrants-through-its-southern-border-with-greece-effectively-blocking-the.md) _Context: European migrant crisis, Macedonian_
+6. [European migrant crisis. Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/european-migrant-crisis-greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md) _Context: European migrant crisis, Macedonian_
+7. [European migrant crisis. Greece faces suspension or expulsion from the European Union's Schengen Area if it can not prevent waves of migrants from crossing over the country into Macedonia. ](/news/2016/01/25/european-migrant-crisis-greece-faces-suspension-or-expulsion-from-the-european-union-s-schengen-area-if-it-can-not-prevent-waves-of-migrant.md) _Context: European migrant crisis, Macedonian_
+8. [European migrant crisis. Macedonian border crisis. Macedonia's Army begins erecting a metal fence on its southern border with Greece. Around 250 migrants later clash with Macedonian police on the border. ](/news/2015/11/28/european-migrant-crisis-macedonian-border-crisis-macedonia-s-army-begins-erecting-a-metal-fence-on-its-southern-border-with-greece-around.md) _Context: European migrant crisis, Macedonian_
+9. [European migrant crisis. Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/european-migrant-crisis-croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md) _Context: European migrant crisis, Serbia_
+10. [European migrant crisis. Croatia reopens its border with Serbia. ](/news/2015/09/25/european-migrant-crisis-croatia-reopens-its-border-with-serbia.md) _Context: European migrant crisis, Serbia_

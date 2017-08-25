@@ -1,6 +1,6 @@
 ### [2006-09-22](/news/2006/09/22/index.md)
 
-#  The U.S. military officially retires the F-14 Tomcat, famous from the movie ''Top Gun''. 
+#  The U.S. military officially retires the F-14 Tomcat, famous from the movie "Top Gun". 
 
 
 

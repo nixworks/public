@@ -9,7 +9,7 @@ Meanwhile, reports from northern Syria that an army bombardment has killed 12 pe
 ### [War in Afghanistan: A suicide bombing in the eastern Afghan city of Khost kills three NATO soldiers and 16 Afghan police officers and civilians. ](/news/2012/10/1/war-in-afghanistan-a-suicide-bombing-in-the-eastern-afghan-city-of-khost-kills-three-nato-soldiers-and-16-afghan-police-officers-and-civili.md)
 A suicide bomber has killed at least 20 people, three of them Nato soldiers, in the eastern Afghan city of Khost, officials say.
 
-### [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md)
+### [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011-present-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md)
 _Context: 2011-present Libyan factional fighting, Libyan Civil War, Libyan Parliament, Mohamed Yousef el-Magariaf, al-Qaeda_
 
 ### [Eric Hobsbawm, one of the leading historians of the 20th century, dies at the Royal Free Hospital in London at the age of 95. ](/news/2012/10/1/eric-hobsbawm-one-of-the-leading-historians-of-the-20th-century-dies-at-the-royal-free-hospital-in-london-at-the-age-of-95.md)

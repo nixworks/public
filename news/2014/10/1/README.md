@@ -1,12 +1,12 @@
 ## [2014-10-1](/news/2014/10/1/index.md)
 
-### [War in Donbass:At least 12 people are killed when shells hit a school and, in a separate shelling, a bus station in the separatist-controlled city of Donetsk. ](/news/2014/10/1/war-in-donbass-pat-least-12-people-are-killed-when-shells-hit-a-school-and-in-a-separate-shelling-a-bus-station-in-the-separatist-controll.md)
+### [War in Donbass:. At least 12 people are killed when shells hit a school and, in a separate shelling, a bus station in the separatist-controlled city of Donetsk. ](/news/2014/10/1/war-in-donbass-at-least-12-people-are-killed-when-shells-hit-a-school-and-in-a-separate-shelling-a-bus-station-in-the-separatist-control.md)
 _Context: War in Donbass_
 
-### [Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md)
+### [Taliban insurgency. Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-insurgency-taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md)
 _Context: Afghan National Army, Kabul, Taliban, Taliban insurgency_
 
-### [Syrian civil war:At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs.  ](/news/2014/10/1/syrian-civil-war-pat-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al-m.md)
+### [Syrian civil war:. At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al.md)
 At least 30 Syrian children have been killed in a double bombing by a lone assailant at a school in the government-controlled city of Homs, a monitor has said.
 
 ### [The Philippines government confiscates art owned by Imelda Marcos, including a Michaelangelo, a Gauguin, and a Picasso, alleging that these were bought using embezzled funds. ](/news/2014/10/1/the-philippines-government-confiscates-art-owned-by-imelda-marcos-including-a-michaelangelo-a-gauguin-and-a-picasso-alleging-that-these.md)
@@ -24,7 +24,7 @@ _Context: Aleqa Hammond, Greenland, Siumut_
 ### [Julia Pierson resigns as the Director of the United States Secret Service following a series of security breaches at the White House. ](/news/2014/10/1/julia-pierson-resigns-as-the-director-of-the-united-states-secret-service-following-a-series-of-security-breaches-at-the-white-house.md)
 _Context: Director of the United States Secret Service, Julia Pierson, White House_
 
-### [The Egyptian government confiscates all copies of a daily print of ''Al-Masry Al-Youm'', one of the country's largest private newspapers, in order to censor an article, days after President Abdel Fattah el-Sisi vowed in a U.S. television interview that there was "no limitation on freedom of expression in Egypt." ](/news/2014/10/1/the-egyptian-government-confiscates-all-copies-of-a-daily-print-of-al-masry-al-youm-one-of-the-countryas-largest-private-newspapers.md)
+### [The Egyptian government confiscates all copies of a daily print of "Al-Masry Al-Youm", one of the country-s largest private newspapers, in order to censor an article, days after President Abdel Fattah el-Sisi vowed in a U.S. television interview that there was "no limitation on freedom of expression in Egypt." ](/news/2014/10/1/the-egyptian-government-confiscates-all-copies-of-a-daily-print-of-al-masry-al-youm-one-of-the-country-s-largest-private-newspapers-in.md)
 _Context: Abdel Fattah el-Sisi, Al-Masry Al-Youm_
 
 ## [Previous Day...](/news/2014/09/30/index.md)

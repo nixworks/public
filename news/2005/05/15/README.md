@@ -1,6 +1,6 @@
 ## [2005-05-15](/news/2005/05/15/index.md)
 
-### [ Israeli-Palestinian conflict: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-p-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md)
+### [ Israeli-Palestinian conflict:. Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md)
 About 20 right-wing activists initiate unlimited hunger strike to protest upcoming settlement evacuation
 
 ### [ Amid continuing unrest In Uzbekistan, the city of Andijan is sealed. British Foreign Secretary Jack Straw says there has been "a clear abuse of human rights" in Uzbekistan. ](/news/2005/05/15/amid-continuing-unrest-in-uzbekistan-the-city-of-andijan-is-sealed-british-foreign-secretary-jack-straw-says-there-has-been-a-clear-abus.md)
@@ -24,7 +24,7 @@ _Context: Las Vegas, Nevada_
 ### [ Elections for mayor and city council in Zagreb. Milan Bandic wins and enters his third term.](/news/2005/05/15/elections-for-mayor-and-city-council-in-zagreb-milan-bandia-wins-and-enters-his-third-term.md)
 _Context: Milan Bandic, Zagreb_
 
-### [ National Elections were held in Ethiopia. The elections, which over 90% of the electorate voted in, were later marred by protests and violence.  The ruling party EPRDF won its third term.](/news/2005/05/15/national-elections-were-held-in-ethiopia-the-elections-which-over-90-of-the-electorate-voted-in-were-later-marred-by-protests-and-viole.md)
+### [ National Elections were held in Ethiopia. The elections, which over 90% of the electorate voted in, were later marred by protests and violence. The ruling party EPRDF won its third term.](/news/2005/05/15/national-elections-were-held-in-ethiopia-the-elections-which-over-90-of-the-electorate-voted-in-were-later-marred-by-protests-and-viole.md)
 _Context: EPRDF, Ethiopia_
 
 ## [Previous Day...](/news/2005/05/14/index.md)

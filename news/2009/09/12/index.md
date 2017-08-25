@@ -6,13 +6,13 @@ _Context: Andry Rajoelina, Antananarivo, Madagascar_
 ### [ A 6.4 magnitude earthquake occurs in Venezuela, injuring many people. ](/news/2009/09/12/a-6-4-magnitude-earthquake-occurs-in-venezuela-injuring-many-people.md)
 _Context: Venezuela, earthquake_
 
-### [ ''Lebanon'' wins the Golden Lion at the Venice Film Festival. ](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.md)
+### [ "Lebanon" wins the Golden Lion at the Venice Film Festival. ](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.md)
 White and Silvia Aloisi
 
 ### [ Israeli President and Nobel Laureate Shimon Peres is hospitalised after a collapse in Tel Aviv. ](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.md)
 The Israeli president briefly fainted on stage while speaking at an event in Tel Aviv.
 
-### [ 2009 Sierra Leone shipwreck: 120 of the dead are buried. ](/news/2009/09/12/2009-sierra-leone-shipwreck-p-120-of-the-dead-are-buried.md)
+### [ 2009 Sierra Leone shipwreck:. 120 of the dead are buried. ](/news/2009/09/12/2009-sierra-leone-shipwreck-120-of-the-dead-are-buried.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Ireland's Taoiseach Brian Cowen denies Libertas founder Declan Ganley's claim that the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/12/ireland-s-taoiseach-brian-cowen-denies-libertas-founder-declan-ganley-s-claim-that-the-second-irish-referendum-on-the-treaty-of-lisbon-is.md)
@@ -39,7 +39,7 @@ _Context: Sri Lanka, Sri Lankan Civil War, United Nations, government_
 ### [ In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. ](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.md)
 _Context: 2009 Tri Nations Series, New Zealand, South Africa, rugby union_
 
-### [ The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption.  ](/news/2009/09/12/the-guatemalan-army-is-accused-of-abducting-over-300-children-during-the-1960-ndash-1996-civil-war-and-selling-them-for-adoption.md)
+### [ The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption. ](/news/2009/09/12/the-guatemalan-army-is-accused-of-abducting-over-300-children-during-the-1960-ndash-1996-civil-war-and-selling-them-for-adoption.md)
 _Context: Guatemalan civil war, army_
 
 ### [ Venezuelan President Hugo Chvez says a consignment of Russian-made missiles with a 300km range are due to arrive in his country. ](/news/2009/09/12/venezuelan-president-hugo-chavez-says-a-consignment-of-russian-made-missiles-with-a-300km-range-are-due-to-arrive-in-his-country.md)

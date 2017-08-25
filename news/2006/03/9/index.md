@@ -1,6 +1,6 @@
 ## [2006-03-9](/news/2006/03/9/index.md)
 
-### [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassiniahuygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md)
+### [ Astronomers announce that the Cassini-Huygens probe has detected possible geysers of water on Saturn's moon Enceladus, perhaps the first example of naturally occurring liquid water beyond Earth. ](/news/2006/03/9/astronomers-announce-that-the-cassini-huygens-probe-has-detected-possible-geysers-of-water-on-saturn-s-moon-enceladus-perhaps-the-first.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 ### [ United Nations Secretary-General Kofi Annan launches the Central Emergency Response Fund to provide aid to regions of Africa currently facing starvation. ](/news/2006/03/9/united-nations-secretary-general-kofi-annan-launches-the-central-emergency-response-fund-to-provide-aid-to-regions-of-africa-currently-faci.md)

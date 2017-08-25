@@ -1,6 +1,6 @@
 ### [2014-05-31](/news/2014/05/31/index.md)
 
-# A Gulfstream IV jet crashes near the U.S. town of Bedford, Massachusetts, with all seven people aboard dying. Lewis Katz, the co-owner of the ''Philadelphia Inquirer'' was on board. 
+# A Gulfstream IV jet crashes near the U.S. town of Bedford, Massachusetts, with all seven people aboard dying. Lewis Katz, the co-owner of the "Philadelphia Inquirer" was on board. 
 
 
 

@@ -1,0 +1,24 @@
+### [2016-12-19](/news/2016/12/19/index.md)
+
+# 2016 Berlin attack. Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. 
+
+Fingerprints from a Tunisian suspect have been found inside the truck that smashed through a Berlin Christmas market on Monday in an attack that killed 12 people, and investigators assume the migrant was at the wheel, officials said.
+
+
+### Source:
+
+1. [Aljazeera](http://www.aljazeera.com/news/2016/12/lorry-ploughs-christmas-market-crowd-berlin-161219193437792.html)
+2. [Reuters](http://www.reuters.com/article/us-germany-truck-idUSKBN148287?il=0)
+
+### Related:
+
+1. [2016 Berlin attack. The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/2016-berlin-attack-the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germ.md) _Context: Berlin, Germany, last week's attack on a Christmas market in Berlin_
+2. [2016 Berlin attack. German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/2016-berlin-attack-german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whos.md) _Context: Germany, last week's attack on a Christmas market in Berlin_
+3. [Berlin state election, 2016. Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/berlin-state-election-2016-voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling.md) _Context: Berlin, Germany_
+4. [United Kingdom withdrawal from the European Union. Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/united-kingdom-withdrawal-from-the-european-union-diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-b.md) _Context: Berlin, Germany_
+5. [Bohmermann affair. During a rally in support of German comedian Jan Bohmermann, outside the Turkish embassy in Berlin, Bruno Kramm, head of the Berlin branch of Germany's Pirate Party, is arrested for -insulting a representative of a foreign state- by quoting a line from the comic-s satirical poem about Turkish President Recep Tayyip Erdogan. ](/news/2016/04/23/baphmermann-affair-during-a-rally-in-support-of-german-comedian-jan-baphmermann-outside-the-turkish-embassy-in-berlin-bruno-kramm-head-o.md) _Context: Berlin, Germany_
+6. [Germany expels the Berlin station chief of the United States Central Intelligence Agency following a series of spy scandals. ](/news/2014/07/10/germany-expels-the-berlin-station-chief-of-the-united-states-central-intelligence-agency-following-a-series-of-spy-scandals.md) _Context: Berlin, Germany_
+7. [Berlin city-state officials says that a police investigation has traced vehicles stolen in recent years in Germany to Tajikistan, some 3,500 miles away. German authorities alleged that relatives and other people close to Tajikistan's president are driving stolen luxury cars from Germany, as a long-running criminal probe escalated into a diplomatic spat between two countries. ](/news/2013/12/19/berlin-city-state-officials-says-that-a-police-investigation-has-traced-vehicles-stolen-in-recent-years-in-germany-to-tajikistan-some-3-500.md) _Context: Berlin, Germany_
+8. [British Prime Minister David Cameron travels to Berlin to discuss his demands for sweeping reform of the European Union with German Chancellor Angela Merkel. ](/news/2013/04/12/british-prime-minister-david-cameron-travels-to-berlin-to-discuss-his-demands-for-sweeping-reform-of-the-european-union-with-german-chancell.md) _Context: Berlin, Germany_
+9. [2013 Berlin helicopter crash: Two helicopters collide and crash near Berlin's Olympic Stadium in Germany, killing the pilot of one helicopter and injuring four people. ](/news/2013/03/21/2013-berlin-helicopter-crash-two-helicopters-collide-and-crash-near-berlin-s-olympic-stadium-in-germany-killing-the-pilot-of-one-helicopte.md) _Context: Berlin, Germany_
+10. [2013 Romanian drama film Child's Pose wins the Golden Bear at the 63rd Berlin International Film Festival in Berlin, Germany. ](/news/2013/02/16/2013-romanian-drama-film-child-s-pose-wins-the-golden-bear-at-the-63rd-berlin-international-film-festival-in-berlin-germany.md) _Context: Berlin, Germany_

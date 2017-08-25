@@ -9,7 +9,7 @@ _Context: Adak, Alaska, Aleutian Islands, earthquake_
 ### [ United States District Judge Henry Kennedy orders a hearing on whether the Bush administration violated a court order by destroying CIA interrogation videos of two Al-Qaeda suspects. ](/news/2007/12/18/united-states-district-judge-henry-kennedy-orders-a-hearing-on-whether-the-bush-administration-violated-a-court-order-by-destroying-cia-int.md)
 A federal judge has ordered a hearing on whether the Bush administration violated a court order by destroying CIA interrogation videos of two al-Qaida suspects.
 
-### [ The Orange Revolution advocate Yulia Tymoshenko  wins parliament's backing to return as prime minister of Ukraine. ](/news/2007/12/18/the-orange-revolution-advocate-yulia-tymoshenko-wins-parliament-s-backing-to-return-as-prime-minister-of-ukraine.md)
+### [ The Orange Revolution advocate Yulia Tymoshenko wins parliament's backing to return as prime minister of Ukraine. ](/news/2007/12/18/the-orange-revolution-advocate-yulia-tymoshenko-wins-parliament-s-backing-to-return-as-prime-minister-of-ukraine.md)
 _Context: Orange Revolution, Ukraine, Verkhovna Rada, Yulia Tymoshenko_
 
 ## [Previous Day...](/news/2007/12/17/index.md)

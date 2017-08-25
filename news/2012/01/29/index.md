@@ -3,7 +3,7 @@
 ### [Police confront protesters with tear gas and stun grenades in the U.S. city of Oakland, California; more than 100 arrests are made. ](/news/2012/01/29/police-confront-protesters-with-tear-gas-and-stun-grenades-in-the-u-s-city-of-oakland-california-more-than-100-arrests-are-made.md)
 Police have arrested more than 100 protesters from the Occupy movement in the US city of Oakland.
 
-### [2011-2012 Syrian uprising:Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011a2012-syrian-uprising-psyrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-cou.md)
+### [2011-2012 Syrian uprising:. Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011-2012-syrian-uprising-syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-co.md)
 Activists report tanks on the streets and clashes between Syrian soldiers and deserters in restive suburb of Al-Ghouta.
 
 ### [The Sudan People's Liberation Movement - North claims to have captured 29 Chinese workers and 9 members of the Sudan People's Armed Forces following a clash with government forces. ](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.md)
@@ -15,7 +15,7 @@ _Context: Boko Haram, Kano, Nigeria_
 ### [Happy Mondays, at the forefront of the Madchester scene, reform. ](/news/2012/01/29/happy-mondays-at-the-forefront-of-the-madchester-scene-reform.md)
 Mancunian band Happy Mondays are to re-form for a two-week tour in May that will take them to London, Manchester and Birmingham.
 
-### [Screen Actors Guild AwardsThe 18th Screen Actors Guild Awards is held in the US city of Los Angeles with Jean Dujardin winning the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role for his role in ''The Artist''. ](/news/2012/01/29/screen-actors-guild-awardspthe-18th-screen-actors-guild-awards-is-held-in-the-us-city-of-los-angeles-with-jean-dujardin-winning-the-screen-a.md)
+### [Screen Actors Guild Awards. The 18th Screen Actors Guild Awards is held in the US city of Los Angeles with Jean Dujardin winning the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role for his role in "The Artist". ](/news/2012/01/29/screen-actors-guild-awards-the-18th-screen-actors-guild-awards-is-held-in-the-us-city-of-los-angeles-with-jean-dujardin-winning-the-screen.md)
 _Context: 18th Screen Actors Guild Awards, Jean Dujardin, Los Angeles, California, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, The Artist_
 
 ### [Cyclone Iggy kills 14 people and injures 60 over a four day period in Indonesia. ](/news/2012/01/29/cyclone-iggy-kills-14-people-and-injures-60-over-a-four-day-period-in-indonesia.md)

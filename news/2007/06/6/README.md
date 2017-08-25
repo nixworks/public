@@ -9,7 +9,7 @@ _Context: Anaheim Ducks, Ottawa Senators, Stanley Cup_
 ### [ HIV drug Viracept is recalled in the UK after it is discovered that it has been contaminated with a substance that could cause cancer. ](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.md)
 _Context: HIV, UK, Viracept, cancer_
 
-### [ Armed forces from Turkey are reported to have crossed the border into Iraq, chasing Kurdish guerrillas a couple of miles in Iraqi territory.  Other reports contradict this. ](/news/2007/06/6/armed-forces-from-turkey-are-reported-to-have-crossed-the-border-into-iraq-chasing-kurdish-guerrillas-a-couple-of-miles-in-iraqi-territory.md)
+### [ Armed forces from Turkey are reported to have crossed the border into Iraq, chasing Kurdish guerrillas a couple of miles in Iraqi territory. Other reports contradict this. ](/news/2007/06/6/armed-forces-from-turkey-are-reported-to-have-crossed-the-border-into-iraq-chasing-kurdish-guerrillas-a-couple-of-miles-in-iraqi-territory.md)
 _Context: Iraq, Kurdish, Turkey_
 
 ### [ Five people are acquitted of the 1982 murder of "God's Banker," Italian financier Roberto Calvi. ](/news/2007/06/6/five-people-are-acquitted-of-the-1982-murder-of-god-s-banker-italian-financier-roberto-calvi.md)

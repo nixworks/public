@@ -6,25 +6,25 @@ A suicide bomber in an explosive-laden car rammed into a police station in Pesha
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)
 _Context: 2011 Yemeni uprising, Sanaa, Yemen_
 
-### [South African President Jacob Zuma will visit Libya for talks with  Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md)
+### [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md)
 _Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President, South Africa_
 
 ### [Police in the eastern European state of Georgia use teargas to disperse a protest in central Tbilisi. ](/news/2011/05/25/police-in-the-eastern-european-state-of-georgia-use-teargas-to-disperse-a-protest-in-central-tbilisi.md)
 Injuries reported as authorities move in with tear gas and truncheons to break up demonstration.
 
-### [Veteran talk show host Oprah Winfrey presents her final ''Oprah Winfrey Show'', after 25 years on air. ](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.md)
+### [Veteran talk show host Oprah Winfrey presents her final "Oprah Winfrey Show", after 25 years on air. ](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.md)
 _Context: Oprah Winfrey, Oprah Winfrey Show_
 
-### [U.S. author Jeffery Deaver unveils his James Bond novel, ''Carte Blanche''. ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
+### [U.S. author Jeffery Deaver unveils his James Bond novel, "Carte Blanche". ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
 _Context: Carte Blanche, James Bond, Jeffery Deaver, United States of America_
 
-### [Scotty McCreery becomes the tenth season winner of ''American Idol''.](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.md)
+### [Scotty McCreery becomes the tenth season winner of "American Idol".](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.md)
 _Context: American Idol, Scotty McCreery, tenth season_
 
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
-### [Grimsvotn eruption:Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-pgermany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-eu.md)
+### [Grimsvotn eruption:. Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-e.md)
 _Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
 
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)

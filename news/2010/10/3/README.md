@@ -37,13 +37,13 @@ _Context: Anshun, Guizhou, Huanghegou, Xixiu_
 ### [Rain-triggered floods killed four people and left two others missing Sunday in Atush city in northwest China's Xinjiang Uyghur Autonomous Region. ](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.md)
 _Context: Atush, Xinjiang_
 
-### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in Quang Binh Province and one in Quang Tri Province, while two individuals were injured in [a Tinh and Quang Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaopsng-ba-nh-province-and-one-in-quaopsng.md)
-_Context: Central Vietnam, Ha Tinh Province, Quang Binh Province, Quang Tri_
+### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in QuGBPng Binh Province and one in QuGBPng Tri Province, while two individuals were injured in [a Tinh and QuGBPng Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaogbpng-ba-nh-province-and-one-in-quaogb.md)
+_Context: Central Vietnam, Ha Tinh Province, QuGBPng Binh Province, QuGBPng Tri_
 
 ### [An explosion rips through a leather workshop in the town of Guzelburc in Hatay Province, Turkey, killing 3 people and injuring 5 others. ](/news/2010/10/3/an-explosion-rips-through-a-leather-workshop-in-the-town-of-ga1-4zelburass-in-hatay-province-turkey-killing-3-people-and-injuring-5-others.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [74-year-old Prime Minister of Italy Silvio Berlusconi tells a blasphemous joke about Jews to emergency workers dealing with the 2009 L'Aquila earthquake, causing upset to the Vatican. Berlusconi describes it as "just a laugh" he "made in private, not offensive and not a sin."  ](/news/2010/10/3/74-year-old-prime-minister-of-italy-silvio-berlusconi-tells-a-blasphemous-joke-about-jews-to-emergency-workers-dealing-with-the-2009-l-aquil.md)
+### [74-year-old Prime Minister of Italy Silvio Berlusconi tells a blasphemous joke about Jews to emergency workers dealing with the 2009 L'Aquila earthquake, causing upset to the Vatican. Berlusconi describes it as "just a laugh" he "made in private, not offensive and not a sin." ](/news/2010/10/3/74-year-old-prime-minister-of-italy-silvio-berlusconi-tells-a-blasphemous-joke-about-jews-to-emergency-workers-dealing-with-the-2009-l-aquil.md)
 Italian Prime Minister Silvio Berlusconi provoked outrage after an ill-judged joke about Jews and the Holocaust, drawing criticism from the Vatican.
 
 ### [Germany marks 20 years as a reunified nation with events in Bremen and pays its last World War I reparations. ](/news/2010/10/3/germany-marks-20-years-as-a-reunified-nation-with-events-in-bremen-and-pays-its-last-world-war-i-reparations.md)

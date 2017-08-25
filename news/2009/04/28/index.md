@@ -12,7 +12,7 @@ Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish For
 ### [ A 3.7-magnitude earthquake strikes Ulverston, Cumbria, England. ](/news/2009/04/28/a-3-7-magnitude-earthquake-strikes-ulverston-cumbria-england.md)
 _Context: Cumbria, England, Ulverston, earthquake, magnitude_
 
-### [ The Russian destroyer ''Admiral Panteleyev'' detains 29 suspected Somali pirates in the Gulf of Aden. ](/news/2009/04/28/the-russian-destroyer-admiral-panteleyev-detains-29-suspected-somali-pirates-in-the-gulf-of-aden.md)
+### [ The Russian destroyer "Admiral Panteleyev" detains 29 suspected Somali pirates in the Gulf of Aden. ](/news/2009/04/28/the-russian-destroyer-admiral-panteleyev-detains-29-suspected-somali-pirates-in-the-gulf-of-aden.md)
 A Russian navy ship boarded a suspected Somali pirate vessel Tuesday night, detaining 29 alleged maritime marauders, a Russian Defense Ministry source said.
 
 ## [Previous Day...](/news/2009/04/27/index.md)

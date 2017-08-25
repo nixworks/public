@@ -1,12 +1,12 @@
 ## [2010-08-25](/news/2010/08/25/index.md)
 
-### [Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
+### [Battle of Mogadishu (2010):. Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
 _Context: Battle of Mogadishu (2010), Mogadishu_
 
 ### [A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. ](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.md)
 _Context: Mali, Mauritanian, Nema, army, barracks, suicide bomber_
 
-### [A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people  dead. ](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-security-forces-leaves-at-least-56-people-dead.md)
+### [A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people dead. ](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-security-forces-leaves-at-least-56-people-dead.md)
 With a withering wave of assaults on security forces, which killed dozens, insurgents proved their ability to launch attacks virtually anywhere in Iraq.
 
 ### [Actor Paul Hogan is banned from leaving Australia until he settles a multi-million dollar tax bill. ](/news/2010/08/25/actor-paul-hogan-is-banned-from-leaving-australia-until-he-settles-a-multi-million-dollar-tax-bill.md)
@@ -24,7 +24,7 @@ _Context: Cape Town, South Africa, school bus, train_
 ### [At least 20 people are killed in Democratic Republic of the Congo after a Filair plane crashes near Bandundu. ](/news/2010/08/25/at-least-20-people-are-killed-in-democratic-republic-of-the-congo-after-a-filair-plane-crashes-near-bandundu.md)
 A plane crashes in the west of the Democratic Republic of Congo, killing 20 people, officials say.
 
-### [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffirasimpson-hurricane-scale-and-heads-towards-bermuda.md)
+### [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffir-simpson-hurricane-scale-and-heads-towards-bermuda.md)
 _Context: 2010 Atlantic hurricane season, Bermuda, Category 4, hurricane_
 
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)

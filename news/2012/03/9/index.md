@@ -1,6 +1,6 @@
 ## [2012-03-9](/news/2012/03/9/index.md)
 
-### [Arab Spring:Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-ptens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md)
+### [Arab Spring:. Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md)
 Tens of thousands of protesters join an anti-government march outside the Bahraini capital, Manama.
 
 ### [Secretary-general of the Popular Resistance Committees Zohair al-Qaisi, a senior PRC member and two additional Palestinian militants are assassinated during a targeted killing carried out by Israeli forces in Gaza. ](/news/2012/03/9/secretary-general-of-the-popular-resistance-committees-zohair-al-qaisi-a-senior-prc-member-and-two-additional-palestinian-militants-are-ass.md)
@@ -15,7 +15,7 @@ _Context: 10 Downing Street, Giorgio Napolitano, Italian, President of Italy_
 ### [Simin Daneshvar, Iranian academic, novelist, fiction writer and translator dies at the age of 90. ](/news/2012/03/9/simin-daneshvar-iranian-academic-novelist-fiction-writer-and-translator-dies-at-the-age-of-90.md)
 _Context: Iran, Simin Daneshvar_
 
-### [The British Film Institute announces the rediscovery of the world's oldest Charles Dickens film, dating from 1901 and featuring a depiction of a character from ''Bleak House''. ](/news/2012/03/9/the-british-film-institute-announces-the-rediscovery-of-the-world-s-oldest-charles-dickens-film-dating-from-1901-and-featuring-a-depiction.md)
+### [The British Film Institute announces the rediscovery of the world's oldest Charles Dickens film, dating from 1901 and featuring a depiction of a character from "Bleak House". ](/news/2012/03/9/the-british-film-institute-announces-the-rediscovery-of-the-world-s-oldest-charles-dickens-film-dating-from-1901-and-featuring-a-depiction.md)
 _Context: Bleak House, British Film Institute, Charles Dickens_
 
 ### [Officials announce the opening of Pottermore this coming April. ](/news/2012/03/9/officials-announce-the-opening-of-pottermore-this-coming-april.md)

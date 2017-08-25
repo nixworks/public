@@ -1,6 +1,6 @@
 ## [2013-07-15](/news/2013/07/15/index.md)
 
-### [The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md)
+### [Mexican Drug War. The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/mexican-drug-war-the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md)
 U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being leader of notoriously brutal cartel
 
 ### [Militants open fire on a bus carrying workers from a cement factory in Arish, Northern Sinai, Egypt, killing three and injuring 17. The gunfire is believed to have been intended for a police vehicle.](/news/2013/07/15/militants-open-fire-on-a-bus-carrying-workers-from-a-cement-factory-in-arish-northern-sinai-egypt-killing-three-and-injuring-17-the-gunf.md)

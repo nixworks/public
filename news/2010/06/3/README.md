@@ -3,19 +3,19 @@
 ### [British Airways issues an apology for a photograph in a staff magazine which implied Osama Bin Laden had a frequent flyer boarding pass for first class. ](/news/2010/06/3/british-airways-issues-an-apology-for-a-photograph-in-a-staff-magazine-which-implied-osama-bin-laden-had-a-frequent-flyer-boarding-pass-for.md)
 _Context: British Airways, Osama bin Laden_
 
-### [Gaza flotilla raid:United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-punited-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-in.md)
+### [Gaza flotilla raid:. United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-i.md)
 South Africa latest country to express anger over Israeli attack on Gaza aid convoy.
 
-### [Somalia:At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-pat-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-moga.md)
+### [Somalia:. At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md)
 Heavy fighting between government forces and Islamist militants in Mogadishu kills at least 28 leaves scores wounded.
 
-### [The Chinese newspaper ''Southern Metropolitan Daily'' publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-l.md)
+### [The Chinese newspaper "Southern Metropolitan Daily" publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-lat.md)
 _Context: China, Tiananmen Square protests of 1989_
 
-### [ITV postpones a second night of its soap opera ''Coronation Street'' due to a storyline which had similar themes to the Cumbria shootings. ](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.md)
+### [ITV postpones a second night of its soap opera "Coronation Street" due to a storyline which had similar themes to the Cumbria shootings. ](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.md)
 _Context: Coronation Street, Cumbria shootings, ITV_
 
-### [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of PS33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-aps33-32-million-48-2-million-for-failure-to-protect-the.md)
+### [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of GBP33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-agbp33-32-million-48-2-million-for-failure-to-protect-th.md)
 _Context: Financial Services Authority, JPMorgan_
 
 ### [The death toll from a fire in Dhaka rises to at least 87 people, injures more than 100 more and leaves others trapped and in danger. ](/news/2010/06/3/the-death-toll-from-a-fire-in-dhaka-rises-to-at-least-87-people-injures-more-than-100-more-and-leaves-others-trapped-and-in-danger.md)

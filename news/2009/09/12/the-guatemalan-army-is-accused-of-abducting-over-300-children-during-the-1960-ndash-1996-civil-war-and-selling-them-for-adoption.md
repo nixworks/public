@@ -1,6 +1,6 @@
 ### [2009-09-12](/news/2009/09/12/index.md)
 
-#  The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption.  
+#  The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption. 
 
 
 

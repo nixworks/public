@@ -3,7 +3,7 @@
 ### [Mexican Drug War: A kidnapped Mexican mayor is found tortured and killed in the state of Oaxaca. ](/news/2012/06/28/mexican-drug-war-a-kidnapped-mexican-mayor-is-found-tortured-and-killed-in-the-state-of-oaxaca.md)
 _Context: List of politicians killed in the Mexican Drug War, Mexican Drug War, Oaxaca_
 
-### [Syrian uprising (2011-present):Turkey sends rocket launchers and anti-aircraft guns to its border with Syria following the downing of a Turkish military plane last week. ](/news/2012/06/28/syrian-uprising-2011apresent-pturkey-sends-rocket-launchers-and-anti-aircraft-guns-to-its-border-with-syria-following-the-downing-of-a-t.md)
+### [Syrian uprising (2011-present):. Turkey sends rocket launchers and anti-aircraft guns to its border with Syria following the downing of a Turkish military plane last week. ](/news/2012/06/28/syrian-uprising-2011-present-turkey-sends-rocket-launchers-and-anti-aircraft-guns-to-its-border-with-syria-following-the-downing-of-a.md)
 Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explosions are reported outside court buildings in central Damascus.
 
 ### [The Taliban releases a video of 17 decapitated Pakistani soldiers. ](/news/2012/06/28/the-taliban-releases-a-video-of-17-decapitated-pakistani-soldiers.md)
@@ -18,7 +18,7 @@ At least 14 people are killed and dozens wounded in a series of car bomb attacks
 ### [The share price of Barclays bank plunges by 17 per cent after it was hit with a record fine for distorting key interest rates to rig international markets. ](/news/2012/06/28/the-share-price-of-barclays-bank-plunges-by-17-per-cent-after-it-was-hit-with-a-record-fine-for-distorting-key-interest-rates-to-rig-interna.md)
 _Context: Barclays_
 
-### [''The Wall Street Journal'' reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-an.md)
+### ["The Wall Street Journal" reports that the board of News Corporation has agreed to split the company into two businesses for publishing and entertainment. ](/news/2012/06/28/the-wall-street-journal-reports-that-the-board-of-news-corporation-has-agreed-to-split-the-company-into-two-businesses-for-publishing-and.md)
 _Context: News Corporation, The Wall Street Journal_
 
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
@@ -27,7 +27,7 @@ _Context: Eurozone, Italian, Spain_
 ### [The United Nations expresses concern over the historical city of Timbuktu. ](/news/2012/06/28/the-united-nations-expresses-concern-over-the-historical-city-of-timbuktu.md)
 _Context: Timbuktu, United Nations_
 
-### [2012 Great Britain and Ireland floods:A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-pa-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force-t.md)
+### [2012 Great Britain and Ireland floods:. A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/2012-great-britain-and-ireland-floods-a-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force.md)
 A man dies, thousands are without power and roads and rail lines blocked as heavy downpours bring chaos to parts of the UK.
 
 ### [Vice President of Iran Mohammad-Reza Rahimi delivers an anti-Semitic speech at a United Nations conference on the illegal drug trade saying that a central Jewish text, the Talmud, was responsible for the spread of illegal drugs around the world; his speech draws condemnation from U.N. and the European Union diplomats. ](/news/2012/06/28/vice-president-of-iran-mohammad-reza-rahimi-delivers-an-anti-semitic-speech-at-a-united-nations-conference-on-the-illegal-drug-trade-saying.md)

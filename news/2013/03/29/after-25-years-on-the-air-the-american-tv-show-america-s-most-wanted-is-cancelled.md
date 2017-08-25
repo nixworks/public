@@ -1,6 +1,6 @@
 ### [2013-03-29](/news/2013/03/29/index.md)
 
-# After 25 years on the air, the American TV show ''America's Most Wanted'' is cancelled. 
+# After 25 years on the air, the American TV show "America's Most Wanted" is cancelled. 
 
 
 
@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [An episode of the American TV show ''Glee'' causes controversy by featuring a school shooting scene. ](/news/2013/04/11/an-episode-of-the-american-tv-show-glee-causes-controversy-by-featuring-a-school-shooting-scene.md) _Context: TV show_
-2. [The Fox TV network cancels ''America's Most Wanted'' after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md) _Context: America's Most Wanted_
+1. [An episode of the American TV show "Glee" causes controversy by featuring a school shooting scene. ](/news/2013/04/11/an-episode-of-the-american-tv-show-glee-causes-controversy-by-featuring-a-school-shooting-scene.md) _Context: TV show_
+2. [The Fox TV network cancels "America's Most Wanted" after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md) _Context: America's Most Wanted_

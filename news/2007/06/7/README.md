@@ -6,7 +6,7 @@ _Context: Colombo, Sri Lanka, Sri Lankan Civil War, hundreds of the minority Sri
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)
 _Context: Italian, Salafist Group for Call and Combat, al-Qaeda_
 
-### [ ''33rd G8 summit:'' President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-p-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
+### [ "33rd G8 summit:". President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
 _Context: 33rd G8 summit, George W. Bush, Russian President Vladimir Putin, Vladimir Putin, missile defense shield, president_
 
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
@@ -18,7 +18,7 @@ _Context: Fatah, Hamas, Palestinians_
 ### [ The Reserve Bank of New Zealand raises interest rates in New Zealand to 8%, the highest level of any industrialised nation. ](/news/2007/06/7/the-reserve-bank-of-new-zealand-raises-interest-rates-in-new-zealand-to-8-the-highest-level-of-any-industrialised-nation.md)
 _Context: New Zealand, Reserve Bank of New Zealand, interest rate_
 
-### [ American scientists identify a new strain of potentially lethal bacteria called ''Bartonella rochalimae''. ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
+### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
 _Context: Bartonella rochalimae, Scientist, United States, bacteria, strain_
 
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)

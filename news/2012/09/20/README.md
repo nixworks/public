@@ -1,6 +1,6 @@
 ## [2012-09-20](/news/2012/09/20/index.md)
 
-### [Syrian civil war:The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-pthe-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-in.md)
+### [Syrian civil war:. The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-i.md)
 Syrian opposition activists say at least 30 people have been killed and dozens wounded.
 
 ### [A suicide bomber kills 14 people by detonating explosives at a cafe frequented by politicians and journalists in Mogadishu, Somalia. ](/news/2012/09/20/a-suicide-bomber-kills-14-people-by-detonating-explosives-at-a-cafe-frequented-by-politicians-and-journalists-in-mogadishu-somalia.md)
@@ -18,7 +18,7 @@ _Context: AU Optronics, LCD_
 ### [The US National Snow and Ice Data Center says the Arctic ice cap size on September 16 is at season's low, with a record low size ever since August 26. ](/news/2012/09/20/the-us-national-snow-and-ice-data-center-says-the-arctic-ice-cap-size-on-september-16-is-at-season-s-low-with-a-record-low-size-ever-since.md)
 On Sunday, by an area about the size of Texas, Arctic sea ice extent shrunk below the previous record low established September 18, 2007.
 
-### [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km<sup>2</sup>. ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbanaachampaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md)
+### [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km<sup>2</sup>. ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbana-champaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md)
 _Context: University of Illinois at Urbana-Champaign, ice sheet_
 
 ### [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md)
@@ -33,7 +33,7 @@ _Context: Colombian crime boss, Daniel "El Loco" Barrera, San Cristobal, Venezue
 ### [The government of Bahrain pledges to adopt most of the recommendations in a United Nations report on the country's human rights situation. ](/news/2012/09/20/the-government-of-bahrain-pledges-to-adopt-most-of-the-recommendations-in-a-united-nations-report-on-the-country-s-human-rights-situation.md)
 Gulf kingdom says it will implement 158 of 176 recommendations in new UN report, but rejects abolishing death penalty.
 
-### [Two candidates compete in the final elections to elect the  Governor of Jakarta for the next five-year term. ](/news/2012/09/20/two-candidates-compete-in-the-final-elections-to-elect-the-governor-of-jakarta-for-the-next-five-year-term.md)
+### [Two candidates compete in the final elections to elect the Governor of Jakarta for the next five-year term. ](/news/2012/09/20/two-candidates-compete-in-the-final-elections-to-elect-the-governor-of-jakarta-for-the-next-five-year-term.md)
 Exit polls suggested on Thursday that Joko Widodo, the populist mayor of another city, has edged out Gov. Fauzi Bowo in a runoff for the leadership of the Indonesian capital.
 
 ### [Several high ranking Georgian government officials resign after protests caused by revelations of inmate torture and rape. ](/news/2012/09/20/several-high-ranking-georgian-government-officials-resign-after-protests-caused-by-revelations-of-inmate-torture-and-rape.md)
@@ -45,7 +45,7 @@ _Context: Afghanistan's, Hamid Karzai, Mohammad Gulab Mangal_
 ### [Tim Pawlenty resigns as the co-chairman of Mitt Romney's electoral campaign. He is to head the Financial Services Roundtable in Washington, D.C.. ](/news/2012/09/20/tim-pawlenty-resigns-as-the-co-chairman-of-mitt-romney-s-electoral-campaign-he-is-to-head-the-financial-services-roundtable-in-washington.md)
 _Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, Washington, D.C._
 
-### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)
+### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraska-lincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)
 _Context: University of Nebraska-Lincoln, journalism_
 
 ## [Previous Day...](/news/2012/09/19/index.md)

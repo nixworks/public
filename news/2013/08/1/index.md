@@ -1,6 +1,6 @@
 ## [2013-08-1](/news/2013/08/1/index.md)
 
-### [War in Afghanistan (2001-present):NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001apresent-pnato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fiv.md)
+### [War in Afghanistan (2001-present):. NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001-present-nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fi.md)
 Five Afghan policeman die in a US air strike during a battle with insurgents near a police checkpoint.
 
 ### [The Dow Jones Industrial Average and S&P 500 hit record highs. ](/news/2013/08/1/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs.md)

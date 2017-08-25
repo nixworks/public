@@ -1,12 +1,12 @@
 ## [2011-02-6](/news/2011/02/6/index.md)
 
-### [2011 Egyptian protests:People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-ppeople-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-mem.md)
+### [2011 Egyptian protests:. People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-people-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-me.md)
 Videos uploaded on YouTube appear to show graphic scenes of recent violence in Cairo and Alexandria.
 
-### [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md)
+### [2010-2011 Tunisian uprising. Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/2010-2011-tunisian-uprising-police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the.md)
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.
 
-### [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand.  ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-u.md)
+### [Cambodian-Thai border stand-off. Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodian-thai-border-stand-off-cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-wi.md)
 _Context: Cambodian-Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
@@ -30,11 +30,11 @@ _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
 ### [A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. ](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.md)
 Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand.
 
-### [Police on Easter Island evict indigenous protesters  battling for ancestral lands and a larger share of tourist revenues from the grounds of a luxury hotel. ](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.md)
+### [Police on Easter Island evict indigenous protesters battling for ancestral lands and a larger share of tourist revenues from the grounds of a luxury hotel. ](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.md)
 _Context: Easter Island, indigenous protesters_
 
 ### [Severe flood kills 13 in Sri Lanka. (Xinhua)](/news/2011/02/6/severe-flood-kills-13-in-sri-lanka-xinhua.md)
-### [Australia:Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-pthousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md)
+### [Australia:. Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md)
 Sydney has sweated through its hottest night on record to end its longest heatwave, but relief is only hours away.
 
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)
@@ -49,10 +49,10 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 ### [Spanish police remove more than 100 rowdy Belgian students from an aeroplane. ](/news/2011/02/6/spanish-police-remove-more-than-100-rowdy-belgian-students-from-an-aeroplane.md)
 _Context: Belgium, Spanish police_
 
-### [24-year-old Anat Kamm, a former soldier of Israel, signs a plea bargain to plead guilty in Tel Aviv District Court to a lesser charge of leaking more than 2,000 secret military documents to the ''Haaretz'' newspaper; she may be jailed for 15 years. ''Haaretz'' reported a possibly-illegal Israeli assassination operation against Palestinians in the West Bank; her lawyer says she "believed she stumbled onto evidence of war crimes". ](/news/2011/02/6/24-year-old-anat-kamm-a-former-soldier-of-israel-signs-a-plea-bargain-to-plead-guilty-in-tel-aviv-district-court-to-a-lesser-charge-of-lea.md)
+### [24-year-old Anat Kamm, a former soldier of Israel, signs a plea bargain to plead guilty in Tel Aviv District Court to a lesser charge of leaking more than 2,000 secret military documents to the "Haaretz" newspaper; she may be jailed for 15 years. "Haaretz" reported a possibly-illegal Israeli assassination operation against Palestinians in the West Bank; her lawyer says she "believed she stumbled onto evidence of war crimes". ](/news/2011/02/6/24-year-old-anat-kamm-a-former-soldier-of-israel-signs-a-plea-bargain-to-plead-guilty-in-tel-aviv-district-court-to-a-lesser-charge-of-lea.md)
 A former Israeli soldier admits leaking secret military information to a newspaper, but more serious spying charges are dropped.
 
-### [The trial of three American hikers Sarah Shourd, Shane Bauer and Josh Fattal  on espionage charges begin today in Iran. ](/news/2011/02/6/the-trial-of-three-american-hikers-sarah-shourd-shane-bauer-and-josh-fattal-on-espionage-charges-begin-today-in-iran.md)
+### [The trial of three American hikers Sarah Shourd, Shane Bauer and Josh Fattal on espionage charges begin today in Iran. ](/news/2011/02/6/the-trial-of-three-american-hikers-sarah-shourd-shane-bauer-and-josh-fattal-on-espionage-charges-begin-today-in-iran.md)
 The Americans were held on suspicion of spying when they crossed the border along the mountains of northern Iraq.
 
 ### [One student is killed and 11 injured following shootings at a party in Youngstown, Ohio. Two men are later arrested in connection with the incident. ](/news/2011/02/6/one-student-is-killed-and-11-injured-following-shootings-at-a-party-in-youngstown-ohio-two-men-are-later-arrested-in-connection-with-the-i.md)

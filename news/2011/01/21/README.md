@@ -27,7 +27,7 @@ Aer Lingus has said it expects to operate its full schedule over the weekend, de
 ### [Bank of America reports a loss of $1.2 billion. ](/news/2011/01/21/bank-of-america-reports-a-loss-of-1-2-billion.md)
 _Context: Bank of America_
 
-### [Paul Volcker steps down as the head of U.S. President Barack Obama's advisory panel, the Economic Recovery Advisory Board.  Volcker, a former chairman of the Federal Reserve, was the guiding force behind recent legislation pressing investment banks to spin off their proprietary trading and branded hedge funds. ](/news/2011/01/21/paul-volcker-steps-down-as-the-head-of-u-s-president-barack-obama-s-advisory-panel-the-economic-recovery-advisory-board-volcker-a-forme.md)
+### [Paul Volcker steps down as the head of U.S. President Barack Obama's advisory panel, the Economic Recovery Advisory Board. Volcker, a former chairman of the Federal Reserve, was the guiding force behind recent legislation pressing investment banks to spin off their proprietary trading and branded hedge funds. ](/news/2011/01/21/paul-volcker-steps-down-as-the-head-of-u-s-president-barack-obama-s-advisory-panel-the-economic-recovery-advisory-board-volcker-a-former.md)
 President Barack Obama announced Thursday that former Federal Reserve Chairman Paul Volcker was stepping down from his role as head of an outside panel advising the White House on economic policy.
 
 ### [Four banks, with total assets of $2.7 billion, are ordered closed in the U.S.; 157 American banks failed last year.](/news/2011/01/21/four-banks-with-total-assets-of-2-7-billion-are-ordered-closed-in-the-u-s-157-american-banks-failed-last-year.md)
@@ -36,7 +36,7 @@ U.S. authorities closed four banks -- one in Denver and three in the U.S. Southe
 ### [Five Thais including an MP are given suspended sentences after illegally entering Cambodia, in a case that has strained relations between the two countries. ](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.md)
 _Context: Cambodia, Thailand_
 
-### [Israeli-Palestinian conflict:United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/israeliapalestinian-conflict-punited-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-buildin.md)
+### [Israeli-Palestinian conflict:. United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/israeli-palestinian-conflict-united-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-buildi.md)
 _Context: Auschwitz-Birkenau concentration camp, Ban Ki-moon, East Jerusalem, Israel, Israeli-Palestinian conflict, Shepherd Hotel, United Nations_
 
 ### [Six world powers and Iran meet in Istanbul to talk about Iran's nuclear programme; Iran denies allegations it is developing nuclear weapons. ](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.md)
@@ -75,13 +75,13 @@ Some police officers join demonstrators demanding the dissolution of the new int
 ### [Thousands of people in Jordan stage a protests against the government's economic policies, calling on some members to step down. ](/news/2011/01/21/thousands-of-people-in-jordan-stage-a-protests-against-the-government-s-economic-policies-calling-on-some-members-to-step-down.md)
 At least 4,000 people take to the streets to condemn poor economic policies and call for the government to step down.
 
-### [Situation in Ireland:Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-pireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follow.md)
+### [Situation in Ireland:. Ireland's Labour Party announces it is to hold a motion of no confidence in the country's government on Tuesday following the events of this week. ](/news/2011/01/21/situation-in-ireland-ireland-s-labour-party-announces-it-is-to-hold-a-motion-of-no-confidence-in-the-country-s-government-on-tuesday-follo.md)
 The Labour Party has decided to press ahead with a motion of no confidence in the Government next week.
 
 ### [Belarus president Alexander Lukashenko is sworn in for a fourth time following the disputed presidential election. ](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.md)
 _Context: 2010 presidential election, Alexander Lukashenko, Belarus_
 
-### [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the ''News of the World'' phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-w.md)
+### [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.md)
 _Context: Andy Coulson, David Cameron, News of the World_
 
 ### [Aung San Suu Kyi of Burma obtains Internet access at her home in Rangoon; it is believed she has never been online. ](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.md)

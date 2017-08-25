@@ -1,6 +1,6 @@
 ## [2007-10-16](/news/2007/10/16/index.md)
 
-### [ Irish writer Anne Enright wins the 2007 Man Booker Prize for her novel ''The Gathering''. ](/news/2007/10/16/irish-writer-anne-enright-wins-the-2007-man-booker-prize-for-her-novel-the-gathering.md)
+### [ Irish writer Anne Enright wins the 2007 Man Booker Prize for her novel "The Gathering". ](/news/2007/10/16/irish-writer-anne-enright-wins-the-2007-man-booker-prize-for-her-novel-the-gathering.md)
 _Context: Anne Enright, Ireland, Man Booker Prize, The Gathering, novel, writer_
 
 ### [ Libya, Vietnam, Burkina Faso, Croatia and Costa Rica are elected to the United Nations Security Council as non-permanent members. ](/news/2007/10/16/libya-vietnam-burkina-faso-croatia-and-costa-rica-are-elected-to-the-united-nations-security-council-as-non-permanent-members.md)

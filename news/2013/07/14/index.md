@@ -1,6 +1,6 @@
 ## [2013-07-14](/news/2013/07/14/index.md)
 
-### [Syrian civil war:Syria's opposition claims that 200 civilians are trapped in a mosque in a Damascus suburb while fighting rages outside. ](/news/2013/07/14/syrian-civil-war-psyria-s-opposition-claims-that-200-civilians-are-trapped-in-a-mosque-in-a-damascus-suburb-while-fighting-rages-outside.md)
+### [Syrian civil war:. Syria's opposition claims that 200 civilians are trapped in a mosque in a Damascus suburb while fighting rages outside. ](/news/2013/07/14/syrian-civil-war-syria-s-opposition-claims-that-200-civilians-are-trapped-in-a-mosque-in-a-damascus-suburb-while-fighting-rages-outside.md)
 Government troops fired tank shells and artillery in heavy clashes between Syrian forces and rebels Sunday on the edge of Damascus, where the military has been pushing its offensive to retake key districts that have been in opposition hands for months.
 
 ### [Unknown attackers kill six people in and near the city of Mosul in northern Iraq. ](/news/2013/07/14/unknown-attackers-kill-six-people-in-and-near-the-city-of-mosul-in-northern-iraq.md)

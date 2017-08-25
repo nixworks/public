@@ -1,0 +1,23 @@
+### [2015-06-22](/news/2015/06/22/index.md)
+
+# Syrian Civil War. Hundreds of Syrian refugees return from Turkey to the border town of Tell Abyad after the Islamic State in Iraq and the Levant are expelled by Kurdish People's Protection Units. 
+
+More than 2,000 Syrian refugees who had fled into Turkey crossed back, security sources and witnesses say, as a gate reopened a few days after ISIS militants were ousted from the frontier town of Tal Abyad.
+
+
+### Source:
+
+1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Jun-22/303248-hundreds-of-refugees-cross-back-into-syria-from-turkey-witnesses.ashx)
+
+### Related:
+
+1. [Syrian Civil War. Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/syrian-civil-war-thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-isla.md) _Context: ISIL, Kurdish, Syrian Civil War, Tell Abyad, Turkey_
+2. [Syrian Civil War. Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/syrian-civil-war-kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-fo.md) _Context: Kurdish, Syrian Civil War, Tell Abyad, YPG_
+3. [Syrian Civil War. Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. ](/news/2015/06/13/syrian-civil-war-some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-sulu.md) _Context: ISIL, Syrian Civil War, Turkey, YPG_
+4. [Syrian Civil War. Turkey sends more tanks into northern Syria to continue its offensive against Islamic State of Iraq and the Levant and Kurdish People's Protection Units (YPG). ](/news/2016/08/25/syrian-civil-war-turkey-sends-more-tanks-into-northern-syria-to-continue-its-offensive-against-islamic-state-of-iraq-and-the-levant-and-kur.md) _Context: Syrian Civil War, Turkey, YPG_
+5. [Syrian Civil War. Rojava conflict. The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/syrian-civil-war-rojava-conflict-the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militi.md) _Context: Syrian Civil War, Turkey, YPG_
+6. [Islamic State in Iraq and the Levant (ISIL). The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/islamic-state-in-iraq-and-the-levant-isil-the-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-ga.md) _Context: ISIL, Kurdish, YPG_
+7. [Syrian Civil War. Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/syrian-civil-war-kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-go.md) _Context: Syrian Civil War, Tell Abyad, YPG_
+8. [Syrian civil war:. A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md) _Context: ISIL, Syrian, Syrian Civil War_
+9. [Syrian Civil War. Central Syria campaign (July 2017-present). A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/syrian-civil-war-central-syria-campaign-july-2017-present-a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kill.md) _Context: ISIL, Syrian Civil War_
+10. [Syrian Civil War. Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-civil-war-syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-o.md) _Context: Syrian Civil War, Turkey_

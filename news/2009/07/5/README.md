@@ -21,7 +21,7 @@ _Context: 2009 Wimbledon Championships, Andy Roddick, Roger Federer, men's singl
 ### [ An Iranian political analyst employed by the British embassy in Tehran faces a lengthy prison sentence after being charged with "acting against national security". ](/news/2009/07/5/an-iranian-political-analyst-employed-by-the-british-embassy-in-tehran-faces-a-lengthy-prison-sentence-after-being-charged-with-acting-aga.md)
 _Context: Britain, Iran, Tehran_
 
-### [ Two British service personnel participating in Operation ''Panther's Claw'' are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
+### [ Two British service personnel participating in Operation "Panther's Claw" are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
 _Context: Afghanistan's, Britain, Operation Panther's Claw_
 
 ### [ Five people die in an explosion outside a Catholic cathedral in Cotabato, Mindanao, Philippines. ](/news/2009/07/5/five-people-die-in-an-explosion-outside-a-catholic-cathedral-in-cotabato-mindanao-philippines.md)

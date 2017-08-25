@@ -3,7 +3,7 @@
 ### [A cap is placed on the leaking pipe of the Deepwater Horizon oil rig, allowing the spill to slow but not stop. ](/news/2010/06/5/a-cap-is-placed-on-the-leaking-pipe-of-the-deepwater-horizon-oil-rig-allowing-the-spill-to-slow-but-not-stop.md)
 The cap is capturing oil, officials say. But there is concern that problems could develop if it is fully deployed too quickly.
 
-### [Israeli troops take control of the MV ''Rachel Corrie'' delivering aid to the Gaza Strip. ](/news/2010/06/5/israeli-troops-take-control-of-the-mv-rachel-corrie-delivering-aid-to-the-gaza-strip.md)
+### [Israeli troops take control of the MV "Rachel Corrie" delivering aid to the Gaza Strip. ](/news/2010/06/5/israeli-troops-take-control-of-the-mv-rachel-corrie-delivering-aid-to-the-gaza-strip.md)
 Israeli Prime Minister Benjamin Netanyahu said his country&#039;s forces took control of the Gaza-bound aid ship Rachel Corrie without resistance.
 
 ### [Actor Don Cheadle is appointed as Goodwill Ambassador for the United Nations environment agency during a ceremony in Rwanda to mark World Environment Day. ](/news/2010/06/5/actor-don-cheadle-is-appointed-as-goodwill-ambassador-for-the-united-nations-environment-agency-during-a-ceremony-in-rwanda-to-mark-world-en.md)
@@ -18,7 +18,7 @@ _Context: 11th Panchen Lama, Buddha, Jokhang Temple, Lhasa, Tibet Autonomous Reg
 ### [Francesca Schiavone of Italy wins the 2010 French Open defeating Samantha Stosur of Australia 6-4 7-6. ](/news/2010/06/5/francesca-schiavone-of-italy-wins-the-2010-french-open-defeating-samantha-stosur-of-australia-6-4-7-6.md)
 time grand slam winner since 1969
 
-### [Horse racing:Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-pworkforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md)
+### [Horse racing:. Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-workforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md)
 _Context: Epsom Derby, Epsom Oaks, Horse racing, Ryan L. Moore, Workforce_
 
 ## [Previous Day...](/news/2010/06/4/index.md)

@@ -1,6 +1,6 @@
 ## [2012-06-18](/news/2012/06/18/index.md)
 
-### [Arab Spring:2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-p2011a2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md)
+### [Arab Spring:. 2011-2012 Yemeni revolution: Yemeni Army commander General Salem Ali Qatan is killed in a suicide attack in the port city of Aden by a man wearing an explosives belt. ](/news/2012/06/18/arab-spring-2011-2012-yemeni-revolution-yemeni-army-commander-general-salem-ali-qatan-is-killed-in-a-suicide-attack-in-the-port-city-of.md)
 The Yemeni army commander leading the fight against militants in the south of the country has been killed in a suicide attack, officials say.
 
 ### [At least two people are killed in an attack on the border between Israel and Egypt. ](/news/2012/06/18/at-least-two-people-are-killed-in-an-attack-on-the-border-between-israel-and-egypt.md)
@@ -33,7 +33,7 @@ _Context: Iran, Moscow_
 ### [Aung San Suu Kyi is due in Ireland. ](/news/2012/06/18/aung-san-suu-kyi-is-due-in-ireland.md)
 Burma&#39;s pro-democracy campaigner Aung San Suu Kyi has flown out of Dublin after receiving the prestigious Amnesty Ambassador of Conscience award.
 
-### [2012 G-20 Mexico summit:The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-pthe-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md)
+### [2012 G-20 Mexico summit:. The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. ](/news/2012/06/18/2012-g-20-mexico-summit-the-2012-g-20-summit-opens-in-los-cabos-baja-california-sur-with-the-eurozone-crisis-high-on-the-agenda.md)
 World leaders meeting at a G20 summit in Mexico urge Europe to take all necessary measures to overcome the eurozone debt crisis.
 
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)

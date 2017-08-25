@@ -3,13 +3,13 @@
 ### [ The strain of HIV most common in the United States, Europe, Japan, Australia and much of South America is traced back to Haiti in 1969. ](/news/2007/10/29/the-strain-of-hiv-most-common-in-the-united-states-europe-japan-australia-and-much-of-south-america-is-traced-back-to-haiti-in-1969.md)
 _Context: Australia, Europe, HIV, Haiti, Japan, South America, United States_
 
-### [ The USS ''Arleigh Burke'' enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)
+### [ The USS "Arleigh Burke" enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)
 _Context: Japan, Somalia, USS ''Arleigh Burke'', benzene, pirates_
 
 ### [ Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. ](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.md)
 _Context: Argentine general election, 2007, Cristina Kirchner, President of Argentina_
 
-### [ King Abdullah of Saudi Arabia claims the Government of the United Kingdom failed to act on intelligence given to it by the Government of Saudi Arabia which could have prevented the 7 July 2005 London bombings.  ](/news/2007/10/29/king-abdullah-of-saudi-arabia-claims-the-government-of-the-united-kingdom-failed-to-act-on-intelligence-given-to-it-by-the-government-of-sa.md)
+### [ King Abdullah of Saudi Arabia claims the Government of the United Kingdom failed to act on intelligence given to it by the Government of Saudi Arabia which could have prevented the 7 July 2005 London bombings. ](/news/2007/10/29/king-abdullah-of-saudi-arabia-claims-the-government-of-the-united-kingdom-failed-to-act-on-intelligence-given-to-it-by-the-government-of-sa.md)
 _Context: 7 July, Abdullah, His Majesty's Government, government_
 
 ### [ The Prime Minister of Israel Ehud Olmert announces that he has been diagnosed with early-stage prostate cancer. ](/news/2007/10/29/the-prime-minister-of-israel-ehud-olmert-announces-that-he-has-been-diagnosed-with-early-stage-prostate-cancer.md)
@@ -18,10 +18,10 @@ Prime Minister Ehud Olmert said that the early stage cancer was not life-threate
 ### [ Salim Aliyow Ibrow becomes Prime Minister of Somalia in the Transitional Federal Government as the embattled Ali Mohamed Ghedi resigns. ](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.md)
 _Context: Ali Mohamed Ghedi, Prime Minister of Somalia, Salim Aliyow Ibrow, Transitional Federal Government_
 
-### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented.  The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack."  ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-close.md)
+### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md)
 _Context: Azerbaijan, Baku, UK, embassies_
 
-### [ People's Republic of China: The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/people-s-republic-of-china-p-the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-l.md)
+### [ People's Republic of China:. The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/people-s-republic-of-china-the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-l.md)
 Regulators hailed the arrests, made during a nationwide crackdown on tainted food, drugs and agricultural products, as a major step forward for consumer safety.
 
 ### [ An earthquake with magnitude of five on Richter scale shakes central Nepal.date=December 2007](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-date-december-2007.md)

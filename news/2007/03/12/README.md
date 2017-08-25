@@ -9,7 +9,7 @@ _Context: Alan Johnston, BBC, Gaza Strip, Palestinian_
 ### [ The High Court of Zimbabwe rules that detained opposition leader Morgan Tsvangirai of the Movement for Democratic Change must either be brought into court on Tuesday or released. ](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 
-### [ Nigel Griffiths resigns as the Deputy Leader of the British House of Commons  over the proposed expansion of the Trident missile system. ](/news/2007/03/12/nigel-griffiths-resigns-as-the-deputy-leader-of-the-british-house-of-commons-over-the-proposed-expansion-of-the-trident-missile-system.md)
+### [ Nigel Griffiths resigns as the Deputy Leader of the British House of Commons over the proposed expansion of the Trident missile system. ](/news/2007/03/12/nigel-griffiths-resigns-as-the-deputy-leader-of-the-british-house-of-commons-over-the-proposed-expansion-of-the-trident-missile-system.md)
 _Context: Britain, British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system_
 
 ### [ Lieutenant General Kevin Kiley resigns as the Surgeon General of the United States Army over the Walter Reed Medical Center scandal. ](/news/2007/03/12/lieutenant-general-kevin-kiley-resigns-as-the-surgeon-general-of-the-united-states-army-over-the-walter-reed-medical-center-scandal.md)
@@ -24,7 +24,7 @@ _Context: Darfur, Human rights, Sudan, United Nations_
 ### [ The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. ](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-including-the-first-chinese-built-astronomy-satellite-a-joint-unmanned-mission-to-mars-with-r.md)
 _Context: Astronomers, Mars, Russia, released an object into orbit, spaceflight mission_
 
-### [ Lawyers in Pakistan boycott courts in protest at President Pervez Musharraf's suspension of the country's Chief Justice Iftikhar Muhammad Chaudhry for alleged "misuse of authority".  More than 20 lawyers were injured in clashes with police during demonstrations in Lahore. ](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.md)
+### [ Lawyers in Pakistan boycott courts in protest at President Pervez Musharraf's suspension of the country's Chief Justice Iftikhar Muhammad Chaudhry for alleged "misuse of authority". More than 20 lawyers were injured in clashes with police during demonstrations in Lahore. ](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.md)
 _Context: Iftikhar Muhammad Chaudhry, Lahore, Pakistan, Pervez Musharraf, President_
 
 ### [ 2007 National People's Congress: After announcements in February that China's trade surplus is near a record high, in an open press conference, People's Bank of China Governor Zhou Xiaochuan and Minister of Commerce Bo Xilai were both vocal in their criticism towards the United States in a proposed 27.5% tariff, with Bo calling it "destructive to bilateral trade". ](/news/2007/03/12/2007-national-people-s-congress-after-announcements-in-february-that-china-s-trade-surplus-is-near-a-record-high-in-an-open-press-confere.md)

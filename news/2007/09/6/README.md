@@ -21,7 +21,7 @@ _Context: Honduras, Hurricane Felix (2007), Miskito, Nicaragua_
 ### [ An Islamist website claims it will soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11, 2001 attacks on U.S. cities. ](/news/2007/09/6/an-islamist-website-claims-it-will-soon-carry-a-new-video-of-al-qaeda-leader-osama-bin-laden-to-mark-the-sixth-anniversary-of-the-september.md)
 An Islamist Web site said on Friday it would soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11 attacks on U.S. cities.
 
-### [ 12 people, including 11 New Jersey public officials, are arrested by the FBI on corruption charges.  Among those arrested are Mayor Samuel Rivera of Passaic and Mayor Mims Hackett of Orange.  ](/news/2007/09/6/12-people-including-11-new-jersey-public-officials-are-arrested-by-the-fbi-on-corruption-charges-among-those-arrested-are-mayor-samuel.md)
+### [ 12 people, including 11 New Jersey public officials, are arrested by the FBI on corruption charges. Among those arrested are Mayor Samuel Rivera of Passaic and Mayor Mims Hackett of Orange. ](/news/2007/09/6/12-people-including-11-new-jersey-public-officials-are-arrested-by-the-fbi-on-corruption-charges-among-those-arrested-are-mayor-samuel-r.md)
 _Context: FBI, Mayor, Mayor, Mims Hackett, New Jersey, Orange, Passaic, Samuel Rivera_
 
 ### [ A 6.5 magnitude earthquake hits off shore of Taiwan near the capital city Taipei. ](/news/2007/09/6/a-6-5-magnitude-earthquake-hits-off-shore-of-taiwan-near-the-capital-city-taipei.md)
@@ -39,7 +39,7 @@ _Context: Luciano Pavarotti_
 ### [ A study published by United States and Czech researchers claims that there is a 90% chance that the object that caused the Chicxulub crater in Mexico's Yucatn Peninsula and probably led to the extinction of the dinosaurs came from the Baptistina family of asteroids. ](/news/2007/09/6/a-study-published-by-united-states-and-czech-researchers-claims-that-there-is-a-90-chance-that-the-object-that-caused-the-chicxulub-crater.md)
 _Context: Baptistina family, Chicxulub crater, Czech Republic, Yucatn Peninsula, asteroid, dinosaur_
 
-### [  The President of the People's Republic of China Hu Jintao and Prime Minister of Australia John Howard agree to six deals including an agreement whereby the PRC will purchase A$35 billion worth of liquefied natural gas from Woodside Petroleum. ](/news/2007/09/6/the-president-of-the-people-s-republic-of-china-hu-jintao-and-prime-minister-of-australia-john-howard-agree-to-six-deals-including-an-agre.md)
+### [ APEC. The President of the People's Republic of China Hu Jintao and Prime Minister of Australia John Howard agree to six deals including an agreement whereby the PRC will purchase A$35 billion worth of liquefied natural gas from Woodside Petroleum. ](/news/2007/09/6/apec-the-president-of-the-people-s-republic-of-china-hu-jintao-and-prime-minister-of-australia-john-howard-agree-to-six-deals-including-an.md)
 Australia and China have signed a series of new agreements for closer ties between the two nations, including a $35 billion deal with Woodside to buy liquefied natural gas (LNG).
 
 ### [ Fiji reintroduces martial law. ](/news/2007/09/6/fiji-reintroduces-martial-law.md)

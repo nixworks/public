@@ -9,7 +9,7 @@ _Context: Himalayas, K2 mountain, mountaineering_
 ### [ The International Olympic Committee strips the United States 2000 Summer Olympics 4400 metre relay team of their gold medal after team member Antonio Pettigrew admits to doping. ](/news/2008/08/2/the-international-olympic-committee-strips-the-united-states-2000-summer-olympics-4x400-metre-relay-team-of-their-gold-medal-after-team-mem.md)
 The U.S. 4x400m relay team that won gold at the Sydney Games in 2000 have been stripped of their medals after Antonio Pettigrew admitted to doping, the International Olympic Committee (IOC) said on Saturday.
 
-### [ Members of the South Asian Association for Regional Cooperation meet to discuss trade, terrorism, and poverty. Tensions between India and Pakistan threaten to overshadow the eight-nation gathering.  ](/news/2008/08/2/members-of-the-south-asian-association-for-regional-cooperation-meet-to-discuss-trade-terrorism-and-poverty-tensions-between-india-and-p.md)
+### [ Members of the South Asian Association for Regional Cooperation meet to discuss trade, terrorism, and poverty. Tensions between India and Pakistan threaten to overshadow the eight-nation gathering. ](/news/2008/08/2/members-of-the-south-asian-association-for-regional-cooperation-meet-to-discuss-trade-terrorism-and-poverty-tensions-between-india-and-p.md)
 The leaders of South Asia called for fighting terrorism together as a regional summit overshadowed by worsening ties between India and Pakistan, its biggest members, opened on Saturday.
 
 ## [Previous Day...](/news/2008/08/1/index.md)

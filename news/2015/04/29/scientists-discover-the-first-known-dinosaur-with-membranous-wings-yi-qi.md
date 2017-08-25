@@ -1,6 +1,6 @@
 ### [2015-04-29](/news/2015/04/29/index.md)
 
-# Scientists discover the first known dinosaur with membranous wings, ''Yi Qi''. 
+# Scientists discover the first known dinosaur with membranous wings, "Yi Qi". 
 
 
 

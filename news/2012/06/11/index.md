@@ -1,12 +1,12 @@
 ## [2012-06-11](/news/2012/06/11/index.md)
 
-### [Arab Spring:Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-pbahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-a.md)
+### [Arab Spring:. Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining.md)
 _Context: Arab Spring, Bahraini uprising (2011-present)_
 
-### [Afghanistan:Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-pfive-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
+### [Afghanistan:. Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
 _Context: Afghanistan's, Sar-e-Pul Province, ambulance_
 
-### [Mexican Drug War:Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-pmargarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md)
+### [Mexican Drug War:. Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md)
 _Context: Guerrero, Mexican Drug War, Party of the Democratic Revolution_
 
 ### [Researchers uncover direct links between the Flame and Stuxnet cyber-attacks on Iran, saying the attackers worked together on both at early stages of each threat's development. ](/news/2012/06/11/researchers-uncover-direct-links-between-the-flame-and-stuxnet-cyber-attacks-on-iran-saying-the-attackers-worked-together-on-both-at-early.md)
@@ -33,7 +33,7 @@ _Context: Al Mayadeen, Hezbollah, Iran, Lebanon, pan-Arab_
 ### [Dangote Cement opens a new line of production at its Obajana facility in the Kogi State, making the plant the largest in Sub-Sahara Africa and one of the largest in the world. ](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.md)
 _Context: Dangote Cement, Kogi state_
 
-### [Burma declares a state of emergency after  several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md)
+### [Burma declares a state of emergency after several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md)
 _Context: Burma, sectarian violence, state of emergency_
 
 ### [More than 80 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried. ](/news/2012/06/11/more-than-80-people-die-in-a-landslide-triggered-by-two-earthquakes-in-afghanistan-an-entire-village-is-buried.md)
@@ -45,7 +45,7 @@ More than 100,000 households remain without power this morning and may remain wi
 ### [Flooding hits large parts of England and Wales. ](/news/2012/06/11/flooding-hits-large-parts-of-england-and-wales.md)
 _Context: England, Wales_
 
-### [Somalia-United States relations:Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/somaliaaunited-states-relations-pal-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chicken.md)
+### [Somalia-United States relations:. Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/somalia-united-states-relations-al-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chicke.md)
 The US threatens sanctions on Somalis who block a UN-supervised roadmap for peace, after a rare visit to Somalia by a top US envoy.
 
 ### [The U.S. withdraws a team of negotiators from Pakistan, with The Pentagon announcing: "The decision was reached to bring the team home for a short period of time". ](/news/2012/06/11/the-u-s-withdraws-a-team-of-negotiators-from-pakistan-with-the-pentagon-announcing-the-decision-was-reached-to-bring-the-team-home-for-a.md)
@@ -54,10 +54,10 @@ The US temporarily pulls out of talks with Pakistan over re-opening vital supply
 ### [The U.S. grants permission to seven countries on three continents to continue importing oil from Iran in contravention of the declared U.S. policy of isolating Iran. ](/news/2012/06/11/the-u-s-grants-permission-to-seven-countries-on-three-continents-to-continue-importing-oil-from-iran-in-contravention-of-the-declared-u-s.md)
 The US exempts seven countries, including India and South Korea, from economic sanctions in return for cutting their imports of Iranian oil.
 
-### [John Bryson crashes:Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. ](/news/2012/06/11/john-bryson-crashes-ppolice-in-the-san-gabriel-valley-in-southern-california-cite-united-states-secretary-of-commerce-john-bryson-for-felony.md)
+### [John Bryson crashes:. Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. ](/news/2012/06/11/john-bryson-crashes-police-in-the-san-gabriel-valley-in-southern-california-cite-united-states-secretary-of-commerce-john-bryson-for-felon.md)
 _Context: John Bryson, San Gabriel Valley, Southern California, United States Secretary of Commerce_
 
-### [Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of ''The Sun'' newspaper in 2009. ](/news/2012/06/11/former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-rupert-murdoch-afte.md)
+### [Leveson Inquiry. Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/leveson-inquiry-former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-ru.md)
 Gordon Brown has categorically denied making an &#034;unbalanced&#034; declaration of war on Rupert Murdoch after losing support of The Sun newspaper.
 
 ### [Martin McGuinness resigns from the House of Commons. ](/news/2012/06/11/martin-mcguinness-resigns-from-the-house-of-commons.md)
@@ -72,7 +72,7 @@ Protest organisers asked to appear in court on Tuesday, when they had planned to
 ### [Ali Larijani is sworn in as Chairman of the Parliament of Iran for another term. ](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.md)
 _Context: Ali Larijani, MPs, Speaker_
 
-### [The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation.  ](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.md)
+### [The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation. ](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.md)
 _Context: European Extremely Large Telescope, European Southern Observatory_
 
 ## [Previous Day...](/news/2012/06/10/index.md)

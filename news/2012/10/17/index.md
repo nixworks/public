@@ -3,7 +3,7 @@
 ### [One UNAMID peacekeeper is killed and three are wounded during an ambush in Hashaba, Sudan. ](/news/2012/10/17/one-unamid-peacekeeper-is-killed-and-three-are-wounded-during-an-ambush-in-hashaba-sudan.md)
 _Context: Hashaba, Sudan, UNAMID_
 
-### [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrianaturkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md)
+### [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrian-turkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md)
 _Context: 2012 Syrian-Turkish border clashes, Hatay Province_
 
 ### [Two U.S. sailors are arrested over an alleged rape of a Japanese woman on Okinawa. ](/news/2012/10/17/two-u-s-sailors-are-arrested-over-an-alleged-rape-of-a-japanese-woman-on-okinawa.md)

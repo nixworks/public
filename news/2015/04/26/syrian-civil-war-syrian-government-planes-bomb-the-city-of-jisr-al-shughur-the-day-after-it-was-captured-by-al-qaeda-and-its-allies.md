@@ -1,0 +1,23 @@
+### [2015-04-26](/news/2015/04/26/index.md)
+
+# Syrian Civil War. Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. 
+
+
+
+
+### Source:
+
+1. [France24](http://www.france24.com/en/20150426-syria-warplanes-strike-northwest-city-seized-rebels/?aef_campaign_date=2015-04-26&aef_campaign_ref=partage_aef&dlvrit=66745&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter)
+
+### Related:
+
+1. [Syrian Civil War. Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/syrian-civil-war-tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+2. [ Syrian Civil War. War on Terrorism. The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/syrian-civil-war-war-on-terrorism-the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syr.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+3. [Syrian Civil War. Russian military intervention in the Syrian Civil War. Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/syrian-civil-war-russian-military-intervention-in-the-syrian-civil-war-russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+4. [Syrian Civil War. Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/syrian-civil-war-al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-dur.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+5. [Syrian Civil War. Russian intervention in the Syrian Civil War. The Russian Government says Russian jets bombed Syria for the third consecutive day, hitting 12 Islamic State of Iraq and the Levant (ISIL) targets. The UK-based Syrian Observatory for Human Rights reports that ISIL has no presence in the western and northern areas struck though Al-Qaeda's Syrian affiliate al-Nusra Front does. Russian planes also bombed Raqqah, the unofficial capital of ISIL. ](/news/2015/10/2/syrian-civil-war-russian-intervention-in-the-syrian-civil-war-the-russian-government-says-russian-jets-bombed-syria-for-the-third-consecut.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+6. [Syrian Civil War. A top Al-Qaeda commander is killed in an airstrike in Syria. ](/news/2015/10/17/syrian-civil-war-a-top-al-qaeda-commander-is-killed-in-an-airstrike-in-syria.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+7. [Syrian Civil War. Islamist rebels including the al-Qaeda-affiliated al-Nusra Front claim to have captured most of the town of Jisr al-Shughur in the Idlib Governorate. ](/news/2015/04/25/syrian-civil-war-islamist-rebels-including-the-al-qaeda-affiliated-al-nusra-front-claim-to-have-captured-most-of-the-town-of-jisr-al-shughu.md) _Context: Jisr al-Shughur, Syrian Civil War, al-Qaeda_
+8. [Syrian civil war:. A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md) _Context: Syria, Syrian Civil War, al-Qaeda_
+9. [Syrian Civil War. Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/syrian-civil-war-seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in.md) _Context: Syria, Syrian Civil War_
+10. [Syrian Civil War. The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/syrian-civil-war-the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-k.md) _Context: Syria, Syrian Civil War_

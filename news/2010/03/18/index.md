@@ -21,7 +21,7 @@ A five-year official study of the Allied bombing of Dresden in World War II has 
 ### [Former Guatemalan President Alfonso Portillo is to be extradited to the U.S. following a ruling by a Guatemalan criminal court. ](/news/2010/03/18/former-guatemalan-president-alfonso-portillo-is-to-be-extradited-to-the-u-s-following-a-ruling-by-a-guatemalan-criminal-court.md)
 _Context: Alfonso Portillo, Guatemala, Guatemalan President_
 
-### [A Thai farm worker in Israel is killed by a rocket fired from the Hamas-controlled Palestinian territory of Gaza, according to the Israeli military.  ](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.md)
+### [A Thai farm worker in Israel is killed by a rocket fired from the Hamas-controlled Palestinian territory of Gaza, according to the Israeli military. ](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.md)
 A foreign agricultural worker was the first fatality from Gaza rocket fire since Israel’s 2009 military offensive.
 
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)

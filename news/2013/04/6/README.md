@@ -1,18 +1,18 @@
 ## [2013-04-6](/news/2013/04/6/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-pat-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself-u.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself.md)
 A suicide bomber killed 22 people and wounded 60 in a crowded election campaign tent in the Iraqi city of Baquba on Saturday, police and medics said.
 
-### [Nigerian Sharia conflict:11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-p11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)
+### [Nigerian Sharia conflict:. 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [War in Afghanistan (2001-present):A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/war-in-afghanistan-2001apresent-pa-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civi.md)
+### [War in Afghanistan (2001-present):. A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/war-in-afghanistan-2001-present-a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civ.md)
 _Context: Afghanistan's, Qalat, U.S., War in Afghanistan (2001-present), Zabul province_
 
-### [Northern Mali conflict:Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-ptuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-az.md)
+### [Northern Mali conflict:. Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-a.md)
 A Mali government spokesman says clashes between national soldiers and armed police have killed one soldier and injured a policeman.
 
-### [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage  at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md)
+### [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md)
 About 120 tons of the water are believed to have breached a storage tank&#39;s inner linings.
 
 ### [2013 Thane building collapse: Rescuers in India end the search for survivors of a building collapse which killed 74 people in the city of Thane on April 4. ](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.md)
@@ -36,7 +36,7 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 ### [In Lebanon, President Michel Suleiman asks Tammam Salam, a legislator and a former minister of culture, to head a new cabinet after a vast majority of the members of Parliament chose him for the job. ](/news/2013/04/6/in-lebanon-president-michel-suleiman-asks-tammam-salam-a-legislator-and-a-former-minister-of-culture-to-head-a-new-cabinet-after-a-vast-m.md)
 Tammam Salam was officially named the new prime minister of Lebanon on Saturday after receiving a string of endorsements from the country’s warring factions over the past few days.
 
-### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders,  his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
+### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders, his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
 _Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain_
 
 ## [Previous Day...](/news/2013/04/5/index.md)

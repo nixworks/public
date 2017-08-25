@@ -12,7 +12,7 @@ _Context: Gadar Tamburawa river, Kano, Lagos, Nigeria, bridge, bus, fell asleep_
 ### [ Conflict in Iraq: At least 39 people, mostly civilians, have been killed when a Suicide Truck Bomb exploded at a police station in the Iraqi Capital of Baghdad. ](/news/2005/07/24/conflict-in-iraq-at-least-39-people-mostly-civilians-have-been-killed-when-a-suicide-truck-bomb-exploded-at-a-police-station-in-the-iraq.md)
 _Context: Baghdad, Conflict in Iraq, Iraq, capital, civilian, police station, suicide bomb_
 
-### [ Israeli-Palestinian Conflict: Two Israeli civilians and two Palestinian terrorists have been killed. The Israelis were killed by Palestinian terrorists on the Kisufim road in the Gaza Strip, and the IDF Engineering forces killed the two terrorists. The al-Aqsa Martyrs' Brigades, the Popular Resistance Committees and Islamic Jihad all claimed responsibility for the attack. ](/news/2005/07/24/israeli-palestinian-conflict-p-two-israeli-civilians-and-two-palestinian-terrorists-have-been-killed-the-israelis-were-killed-by-palestini.md)
+### [ Israeli-Palestinian Conflict:. Two Israeli civilians and two Palestinian terrorists have been killed. The Israelis were killed by Palestinian terrorists on the Kisufim road in the Gaza Strip, and the IDF Engineering forces killed the two terrorists. The al-Aqsa Martyrs' Brigades, the Popular Resistance Committees and Islamic Jihad all claimed responsibility for the attack. ](/news/2005/07/24/israeli-palestinian-conflict-two-israeli-civilians-and-two-palestinian-terrorists-have-been-killed-the-israelis-were-killed-by-palestini.md)
 Two civilians murdered, three injured when gunmen ambush Israeli vehicle near Gaza border; attack coincided with visit by U.S. Secretary of State Condoleezza Rice
 
 ### [ American cyclist and cancer survivor Lance Armstrong wins his seventh consecutive Tour de France. Armstrong has announced that this will be his last tour and he will be retiring from the sport. ](/news/2005/07/24/american-cyclist-and-cancer-survivor-lance-armstrong-wins-his-seventh-consecutive-tour-de-france-armstrong-has-announced-that-this-will-be.md)
@@ -24,13 +24,13 @@ _Context: 2005 CONCACAF Gold Cup_
 ### [ In Southwest China, authorities are investigating deaths of 17 farm workers who died of an unidentified disease ](/news/2005/07/24/in-southwest-china-authorities-are-investigating-deaths-of-17-farm-workers-who-died-of-an-unidentified-disease.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ In South Korea, hundreds of people gather to the funeral of Yi Gu, the last heir of the former Joseon Dynasty. Yi Gu died in July 16  ](/news/2005/07/24/in-south-korea-hundreds-of-people-gather-to-the-funeral-of-yi-gu-the-last-heir-of-the-former-joseon-dynasty-yi-gu-died-in-july-16.md)
+### [ In South Korea, hundreds of people gather to the funeral of Yi Gu, the last heir of the former Joseon Dynasty. Yi Gu died in July 16 ](/news/2005/07/24/in-south-korea-hundreds-of-people-gather-to-the-funeral-of-yi-gu-the-last-heir-of-the-former-joseon-dynasty-yi-gu-died-in-july-16.md)
 _Context: Joseon Dynasty, July 16, South Korea, Yi Gu_
 
 ### [ In Zambia, authorities arrest Michael Sata, leader of Patriotic Front, for sedition for inciting miners to riot ](/news/2005/07/24/in-zambia-authorities-arrest-michael-sata-leader-of-patriotic-front-for-sedition-for-inciting-miners-to-riot.md)
 _Context: Michael Sata, Patriotic Front, Zambia, sedition_
 
-### [ Guinea-Bissau presidential election, 2005: Guinea-Bissau votes in a second round of presidential elections. Candidates are the ruling party candidate Malam Bacai Sanh and former military ruler Joo Bernardo Vieira. Results are expected next week  ](/news/2005/07/24/guinea-bissau-presidential-election-2005-guinea-bissau-votes-in-a-second-round-of-presidential-elections-candidates-are-the-ruling-party.md)
+### [ Guinea-Bissau presidential election, 2005: Guinea-Bissau votes in a second round of presidential elections. Candidates are the ruling party candidate Malam Bacai Sanh and former military ruler Joo Bernardo Vieira. Results are expected next week ](/news/2005/07/24/guinea-bissau-presidential-election-2005-guinea-bissau-votes-in-a-second-round-of-presidential-elections-candidates-are-the-ruling-party.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Dawood Ibrahim's daughter marries Javed Miandad's son in Dubai. ](/news/2005/07/24/dawood-ibrahim-s-daughter-marries-javed-miandad-s-son-in-dubai.md)

@@ -1,6 +1,6 @@
 ### [2008-05-2](/news/2008/05/2/index.md)
 
-#  2007 royal blackmail plot: Ian Strachan and Sean McGuigan are jailed for five years each for attempting to extort money from an unidentified royal ("Witness A"). They demanded PS50,000 from Witness A in exchange for audio tapes alleging gay sex. 
+#  2007 royal blackmail plot: Ian Strachan and Sean McGuigan are jailed for five years each for attempting to extort money from an unidentified royal ("Witness A"). They demanded GBP50,000 from Witness A in exchange for audio tapes alleging gay sex. 
 
 
 

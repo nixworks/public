@@ -6,7 +6,7 @@ _Context: 2011 Royal Wedding, Archbishop of Canterbury, Catherine, Duchess of Ca
 ### [Swedish actor Per Oscarsson and his wife Kia Ostling are confirmed dead by dental records after a fire destroyed the couple's house in Skara and the couple perished on December 30, 2010. ](/news/2011/01/5/swedish-actor-per-oscarsson-and-his-wife-kia-astling-are-confirmed-dead-by-dental-records-after-a-fire-destroyed-the-couple-s-house-in-skar.md)
 _Context: Kia Ostling, Per Oscarsson, Skara, Sweden_
 
-### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union.  The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
+### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union. The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
 _Context: Asian Clearing Union, EIH Bank, India, Iran_
 
 ### [A 17-year-old student at Millard South High School, in Omaha, Nebraska, shoots an assistant principal to death and wounds the school principal before turning the gun onto himself. ](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.md)
@@ -18,7 +18,7 @@ A Malaysian coroner records an open verdict in the case of an opposition activis
 ### [Police investigating the murder of Joanna Yeates make a fresh appeal for information, saying that when discovered, her fully clothed body was missing a sock which may hold important clues. ](/news/2011/01/5/police-investigating-the-murder-of-joanna-yeates-make-a-fresh-appeal-for-information-saying-that-when-discovered-her-fully-clothed-body-wa.md)
 Murdered Jo Yeates was missing a sock when she was found dead near Bristol, Avon and Somerset police say.
 
-### [In the UK 33 people are convicted for their part in an PS80m drugs and money laundering operation. They include Simon Ford, a firefighter commended for his actions during the 7 July London bombings. ](/news/2011/01/5/in-the-uk-33-people-are-convicted-for-their-part-in-an-aps80m-drugs-and-money-laundering-operation-they-include-simon-ford-a-firefighter-co.md)
+### [In the UK 33 people are convicted for their part in an GBP80m drugs and money laundering operation. They include Simon Ford, a firefighter commended for his actions during the 7 July London bombings. ](/news/2011/01/5/in-the-uk-33-people-are-convicted-for-their-part-in-an-agbp80m-drugs-and-money-laundering-operation-they-include-simon-ford-a-firefighter.md)
 A firefighter commended for his work in the 7 July London bombings is one of 33 people convicted for drugs and money-laundering crimes.
 
 ### [The 112th United States Congress is convened. Republican Representative John Boehner of Ohio is elected Speaker of the House of Representatives, succeeding Democrat Nancy Pelosi of California. ](/news/2011/01/5/the-112th-united-states-congress-is-convened-republican-representative-john-boehner-of-ohio-is-elected-speaker-of-the-house-of-representati.md)

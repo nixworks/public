@@ -3,7 +3,7 @@
 ### [ Northwest Orient Airlines Flight 2501: Fifty years after the airliner vanished over Lake Michigan, it is claimed that human remains washed ashore and were buried without the relatives' knowledge in an unmarked mass grave.](/news/2008/09/12/northwest-orient-airlines-flight-2501-fifty-years-after-the-airliner-vanished-over-lake-michigan-it-is-claimed-that-human-remains-washed.md)
 _Context: Lake Michigan, Northwest Orient Airlines Flight 2501_
 
-### [  Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-national-and-local-governments.md)
+### [ 2008 unrest in Bolivia. Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/2008-unrest-in-bolivia-bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-nationa.md)
 _Context: Bolivia, Pando, Unrest in Bolivia, martial law_
 
 ### [ The collapse of the United Kingdom's third largest tour operator XL Leisure Group, leaves over 85,000 British holidaymakers stranded abroad. ](/news/2008/09/12/the-collapse-of-the-united-kingdom-s-third-largest-tour-operator-xl-leisure-group-leaves-over-85-000-british-holidaymakers-stranded-abroad.md)

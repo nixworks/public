@@ -1,6 +1,6 @@
 ## [2010-08-27](/news/2010/08/27/index.md)
 
-### [The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogadishu-after-a-week-lon.md)
+### [Battle of Mogadishu. The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/battle-of-mogadishu-the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogad.md)
 Al-Shabab sends 11 truckloads of armed fighters to Mogadishu after declaring final war.
 
 ### [Police in India kill Umakanta Mahato, a top Maoist guerilla wanted in connection with the Gyaneshwari Express train derailment in May. ](/news/2010/08/27/police-in-india-kill-umakanta-mahato-a-top-maoist-guerilla-wanted-in-connection-with-the-gyaneshwari-express-train-derailment-in-may.md)
@@ -57,7 +57,7 @@ _Context: Mwai Kibaki, President, new constitution_
 ### [The chief investigator of the mass killing of 72 people in Mexico's Tamaulipas state has been missing since Wednesday. ](/news/2010/08/27/the-chief-investigator-of-the-mass-killing-of-72-people-in-mexico-s-tamaulipas-state-has-been-missing-since-wednesday.md)
 Mexican prosecutors say they are deeply concerned for the safety of a prosecutor leading an investigation into the killing of 72 foreign migrants.
 
-### [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube.  ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md)
+### [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube. ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md)
 Interval Licensing is suing a cluster of defendants, including AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples, Yahoo and YouTube.
 
 ### [Leaders of the Burmese junta, including Senior General Than Shwe, resign from their posts ahead of general elections in November. ](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.md)
@@ -69,7 +69,7 @@ _Context: Australia, Australian Prime Minister, Bill Shorten, Governor General o
 ### [A team of scientists, led by Neil Hall from the University of Liverpool, releases draft sequences of the wheat genome. ](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.md)
 _Context: University of Liverpool, genome, wheat_
 
-### [Arrowheads found in the Sibudu Cave in northern  KwaZulu-Natal, South Africa show that humans were using bow and arrows 64000 years ago. ](/news/2010/08/27/arrowheads-found-in-the-sibudu-cave-in-northern-kwazulu-natal-south-africa-show-that-humans-were-using-bow-and-arrows-64000-years-ago.md)
+### [Arrowheads found in the Sibudu Cave in northern KwaZulu-Natal, South Africa show that humans were using bow and arrows 64000 years ago. ](/news/2010/08/27/arrowheads-found-in-the-sibudu-cave-in-northern-kwazulu-natal-south-africa-show-that-humans-were-using-bow-and-arrows-64000-years-ago.md)
 Researchers in South Africa have revealed the earliest direct evidence of human-made arrows.
 
 ### [Hurricane Danielle strengthens to Category 4, becoming the first major hurricane of the 2010 Atlantic hurricane season. ](/news/2010/08/27/hurricane-danielle-strengthens-to-category-4-becoming-the-first-major-hurricane-of-the-2010-atlantic-hurricane-season.md)

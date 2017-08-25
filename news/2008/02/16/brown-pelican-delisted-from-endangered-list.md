@@ -1,6 +1,6 @@
 ### [2008-02-16](/news/2008/02/16/index.md)
 
-#  Brown pelican delisted from endangered list.  
+#  Brown pelican delisted from endangered list. 
 
 
 

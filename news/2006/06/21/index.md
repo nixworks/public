@@ -12,8 +12,8 @@ _Context: Omar al-Bashir, South Africa, Sudan, Sudanese President, United Nation
 ### [ The United States Marine Corps announces that it will be charging seven Marines and one sailor with charges including murder in relation to the death of civilian Hashim Ibrahim Awad in Al Hamdaniya, Iraq, on April 26. A fourth soldier from the 101st Airborne Division was charged in connection with the shooting deaths of three detainees during an operation in Salahuddin province in May. ](/news/2006/06/21/the-united-states-marine-corps-announces-that-it-will-be-charging-seven-marines-and-one-sailor-with-charges-including-murder-in-relation-to.md)
 Get the latest Chicago local news and US & World news. See recent updates on politics, sports, health, tech, and weird news on NBC Chicago.
 
-### [ Xanana Gusmao, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmapso-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md)
-_Context: East Timor, Mari Alkatiri, President, Prime Minister of East Timor, Xanana Gusmao_
+### [ Xanana GusmGBPo, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmagbpo-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md)
+_Context: East Timor, Mari Alkatiri, President, Prime Minister of East Timor, Xanana GusmGBPo_
 
 ### [ Saddam Hussein's principal defense lawyer, Khamis al-Obeidi, is assassinated in Baghdad. ](/news/2006/06/21/saddam-hussein-s-principal-defense-lawyer-khamis-al-obeidi-is-assassinated-in-baghdad.md)
 _Context: Baghdad, Saddam Hussein, assassinated, one_

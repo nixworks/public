@@ -19,7 +19,7 @@ _Context: Assistant Secretary of State for European and Eurasian Affairs, Belaru
 _Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
-_Context: Beijing Olympiad, China, Mount Everest, Tibetan independence, United States, base camp_
+_Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, United States, base camp_
 
 ### [ Japanese police raid the offices of a pro-North Korean group in relation to the alleged kidnapping of two children in the 1970s. ](/news/2007/04/25/japanese-police-raid-the-offices-of-a-pro-north-korean-group-in-relation-to-the-alleged-kidnapping-of-two-children-in-the-1970s.md)
 _Context: Japanese police, kidnapped, pro-North Korean group_
@@ -30,7 +30,7 @@ _Context: Bangkok, Buddhist, Buddhists, Thailand, constitution, monk, official r
 ### [ Astronomers announce the discovery of the Earth-like exoplanet Gliese 581 c, which may support liquid water and is potentially habitable. ](/news/2007/04/25/astronomers-announce-the-discovery-of-the-earth-like-exoplanet-gliese-581-c-which-may-support-liquid-water-and-is-potentially-habitable.md)
 _Context: Astronomer, Earth-like, Gliese 581 c, extrasolar planet, habitable, habitable zone_
 
-### [ An Argentine federal court overturns the pardons issued to General Jorge Videla and former Admiral Emilio Massera following convictions received for their activities during the  "Dirty War" of the 1970s.  The repeal of the pardons is largely symbolic, since the two are already under house arrest and serving lengthy sentences for other crimes.  ](/news/2007/04/25/an-argentine-federal-court-overturns-the-pardons-issued-to-general-jorge-videla-and-former-admiral-emilio-massera-following-convictions-rec.md)
+### [ An Argentine federal court overturns the pardons issued to General Jorge Videla and former Admiral Emilio Massera following convictions received for their activities during the "Dirty War" of the 1970s. The repeal of the pardons is largely symbolic, since the two are already under house arrest and serving lengthy sentences for other crimes. ](/news/2007/04/25/an-argentine-federal-court-overturns-the-pardons-issued-to-general-jorge-videla-and-former-admiral-emilio-massera-following-convictions-rec.md)
 _Context: 1970s, Argentina, Dirty War, Emilio Massera, Jorge Videla, house arrest_
 
 ## [Previous Day...](/news/2007/04/24/index.md)

@@ -1,6 +1,6 @@
 ## [2012-02-11](/news/2012/02/11/index.md)
 
-### [Arab Spring:Syrian Civil War:A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-psyrian-civil-war-pa-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end-to.md)
+### [Arab Spring:. Syrian Civil War:. A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end.md)
 Several wounded in second day of violence involving supporters and opponents of Syrian President Bashar Assad.
 
 ### [The Israeli Air Force conducts four air strikes in the Gaza Strip with claims that two people were injured. ](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.md)
@@ -18,7 +18,7 @@ _Context: Argentina, Falkland Islands, Mark Lyall Grant, Permanent Representativ
 ### [Arid Uka, an Islamic extremist, is convicted in Germany of murdering two U.S. soldiers and injuring another two in a shooting at Frankfurt Airport last year. ](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.md)
 _Context: Arid Uka, Frankfurt Airport_
 
-### [Five journalists from ''The Sun'' are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-interna.md)
+### [Five journalists from "The Sun" are among eight people arrested in connection with allegations of corrupt payments to police. News International boss Rupert Murdoch says he is committed to the newspaper. ](/news/2012/02/11/five-journalists-from-the-sun-are-among-eight-people-arrested-in-connection-with-allegations-of-corrupt-payments-to-police-news-internati.md)
 News International owner Rupert Murdoch says he is committed to publishing the Sun newspaper, following the arrest of five of its employees.
 
 ### [Iranian president Mahmoud Ahmadinejad is to make an "important nuclear announcement" within days. ](/news/2012/02/11/iranian-president-mahmoud-ahmadinejad-is-to-make-an-important-nuclear-announcement-within-days.md)

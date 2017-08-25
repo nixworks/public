@@ -1,6 +1,6 @@
 ## [2013-02-27](/news/2013/02/27/index.md)
 
-### [War in Afghanistan:Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-ptaliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-ea.md)
+### [War in Afghanistan:. Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-e.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [American classical pianist Van Cliburn dies in Fort Worth, Texas, United States, at the age of 78. ](/news/2013/02/27/american-classical-pianist-van-cliburn-dies-in-fort-worth-texas-united-states-at-the-age-of-78.md)
@@ -27,7 +27,7 @@ Three people are left dead and seven injured after a man opens fire at a wood pr
 ### [In Russia, Leonid Khabarov is convicted for an alleged role in a coup plot. ](/news/2013/02/27/in-russia-leonid-khabarov-is-convicted-for-an-alleged-role-in-a-coup-plot.md)
 Members of a loosely organized crime ring have been sentenced to prison in Sverdlovsk Region for plotting to establish an independent Urals Republic.
 
-### [Former WBO heavyweight champion Herbie Hide is questioned by police in connection with the supply of illegal drugs after he voluntarily attended a police station. He denies the allegation by ''The Sun'' newspaper that he offered to throw a fight for PS1 million. ](/news/2013/02/27/former-wbo-heavyweight-champion-herbie-hide-is-questioned-by-police-in-connection-with-the-supply-of-illegal-drugs-after-he-voluntarily-atte.md)
+### [Former WBO heavyweight champion Herbie Hide is questioned by police in connection with the supply of illegal drugs after he voluntarily attended a police station. He denies the allegation by "The Sun" newspaper that he offered to throw a fight for GBP1 million. ](/news/2013/02/27/former-wbo-heavyweight-champion-herbie-hide-is-questioned-by-police-in-connection-with-the-supply-of-illegal-drugs-after-he-voluntarily-atte.md)
 Boxer Herbie Hide has been questioned by police in connection with the supply of illegal drugs after he voluntarily attended a police station.
 
 ### [Stephane Hessel, influential French diplomat, writer, thinker and inspiration for multiple political movements, dies at age 95. ](/news/2013/02/27/sta-c-phane-hessel-influential-french-diplomat-writer-thinker-and-inspiration-for-multiple-political-movements-dies-at-age-95.md)

@@ -24,10 +24,10 @@ _Context: Europe, Polish, Switzerland_
 ### [At least 25 people are killed and at least three others are trapped in a mine fire in Xiangtan County in Hunan. ](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.md)
 _Context: Hunan, Xiangtan County_
 
-### [Sea Shepherd claims that the Japanese whaling fleet's ''Shonan Maru'' deliberately rammed and sunk their ship, the ''Ady Gil''.](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.md)
+### [Sea Shepherd claims that the Japanese whaling fleet's "Shonan Maru" deliberately rammed and sunk their ship, the "Ady Gil".](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.md)
 _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 
-### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)
+### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
@@ -40,7 +40,7 @@ _Context: U.S., visa-free travel_
 _Context: Sanaa, Yemen, al-Qaeda_
 
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
-_Context: Beijing, Beijing Olympiad, Hebei, Li Junqi, bribes_
+_Context: 2008 Summer Olympics, Beijing, Hebei, Li Junqi, bribes_
 
 ### [Japanese Finance Minister Hirohisa Fujii resigns at the age of 77 due to ill health. ](/news/2010/01/6/japanese-finance-minister-hirohisa-fujii-resigns-at-the-age-of-77-due-to-ill-health.md)
 _Context: Hirohisa Fujii, Japan_

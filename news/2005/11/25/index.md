@@ -21,10 +21,10 @@ _Context: 2015, Bougainville Island, Carteret Atoll, Papua New Guinea_
 ### [ George Best, the Northern Irish international footballer who won the European Footballer of the Year award in 1968, has died of lung infection and organ failure at the age of 59. ](/news/2005/11/25/george-best-the-northern-irish-international-footballer-who-won-the-european-footballer-of-the-year-award-in-1968-has-died-of-lung-infect.md)
 _Context: 1968, European Footballer of the Year, George Best, Northern Ireland_
 
-### [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arabaisraeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md)
+### [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arab-israeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md)
 _Context: Arab-Israeli conflict, Hezbollah, Israel, Lebanon, government_
 
-### [ Al Jazeera bombing memo: Reporters Without Borders voice concerns over the Al Jazeera bombing memo and their shock over the reporting ban placed by the UK government on the issue. ](/news/2005/11/25/al-jazeera-bombing-memo-p-reporters-without-borders-voice-concerns-over-the-al-jazeera-bombing-memo-and-their-shock-over-the-reporting-ban.md)
+### [ Al Jazeera bombing memo:. Reporters Without Borders voice concerns over the Al Jazeera bombing memo and their shock over the reporting ban placed by the UK government on the issue. ](/news/2005/11/25/al-jazeera-bombing-memo-reporters-without-borders-voice-concerns-over-the-al-jazeera-bombing-memo-and-their-shock-over-the-reporting-ban.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Richard Burns, 2001 English World Rally Champion, dies due to a brain tumour that had kept him out of competition for the past two years.](/news/2005/11/25/richard-burns-2001-english-world-rally-champion-dies-due-to-a-brain-tumour-that-had-kept-him-out-of-competition-for-the-past-two-years.md)

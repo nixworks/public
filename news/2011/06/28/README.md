@@ -1,21 +1,21 @@
 ## [2011-06-28](/news/2011/06/28/index.md)
 
-### [U.S. drone attacks on North Waziristan:Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-ptwo-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in.md)
+### [U.S. drone attacks on North Waziristan:. Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-i.md)
 Two US drone missile attacks kill at least 15 people in the Pakistani tribal region bordering Afghanistan, officials say.
 
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
 _Context: Afghanistan's, NATO, Refugees International_
 
-### [Attack on Kabul InterContinental Hotel:Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-pafghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-mem.md)
+### [Attack on Kabul InterContinental Hotel:. Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-me.md)
 Six bombers said to have stormed the Intercontinental, popular with foreigners and officials, after a firefight outside.
 
-### [2010-2011 Greek protests:Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010a2011-greek-protests-pgreek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md)
+### [2010-2011 Greek protests:. Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010-2011-greek-protests-greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md)
 Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour general strike is held against a parliamentary vote on austerity measures.
 
-### [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship ''Juliano'' are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-host.md)
+### [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship "Juliano" are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-hostil.md)
 _Context: Freedom Flotilla II, Palestinian, Piraeus, Saboteurs, Sweden_
 
-### [Arab Spring:2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-p2011-libyan-civil-war-phospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
+### [Arab Spring:. 2011 Libyan civil war:. Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
 Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 
 ### [Iran tests 14 surface-to-surface missiles on the second day of war games. ](/news/2011/06/28/iran-tests-14-surface-to-surface-missiles-on-the-second-day-of-war-games.md)
@@ -36,7 +36,7 @@ _Context: Christine Lagarde, Dominique Strauss-Kahn, International Monetary Fund
 ### [The Tokyo Electric Power Company (Tepco) incurs wrath from shareholders at its first annual meeting since the Fukushima Daiichi nuclear disaster, with a motion asking the company to abandon nuclear power being defeated. ](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.md)
 Angry Tepco shareholders fail to force the company to abandon nuclear power in the wake of the Fukushima Daiichi radiation crisis.
 
-### [The New York Court of Appeals rules that insurance policyholders opposed to a restructuring plan undertaken by MBIA in 2009 with the approval of its primary regulator, New York's insurance authorities, may sue for fraudulent conveyance in a trial court in that state.  ](/news/2011/06/28/the-new-york-court-of-appeals-rules-that-insurance-policyholders-opposed-to-a-restructuring-plan-undertaken-by-mbia-in-2009-with-the-approva.md)
+### [The New York Court of Appeals rules that insurance policyholders opposed to a restructuring plan undertaken by MBIA in 2009 with the approval of its primary regulator, New York's insurance authorities, may sue for fraudulent conveyance in a trial court in that state. ](/news/2011/06/28/the-new-york-court-of-appeals-rules-that-insurance-policyholders-opposed-to-a-restructuring-plan-undertaken-by-mbia-in-2009-with-the-approva.md)
 _Context: 2009, MBIA, New York Court of Appeals, New York State, fraudulent conveyance_
 
 ### [The crew of the International Space Station rush to a rescue shuttle amid concern of the need for a possible emergency evacuation back to Earth as a piece of space debris hurtles dangerously close. ](/news/2011/06/28/the-crew-of-the-international-space-station-rush-to-a-rescue-shuttle-amid-concern-of-the-need-for-a-possible-emergency-evacuation-back-to-ea.md)

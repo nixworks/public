@@ -1,6 +1,6 @@
 ## [2012-12-14](/news/2012/12/14/index.md)
 
-### [Syrian civil war:American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/syrian-civil-war-pamerican-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-re.md)
+### [Syrian civil war:. American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/syrian-civil-war-american-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-r.md)
 _Context: James G. Stavridis, NATO, Scud missiles, Supreme Allied Commander Europe, Syria, Syrian Civil War, Turkey, U.S., admiral_
 
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)
@@ -24,13 +24,13 @@ A knife-wielding man injured 22 children and one adult outside a primary school 
 ### [The Crown Prosecution Service decides that computer hacker Gary McKinnon will face no charges in the United Kingdom over his activities. ](/news/2012/12/14/the-crown-prosecution-service-decides-that-computer-hacker-gary-mckinnon-will-face-no-charges-in-the-united-kingdom-over-his-activities.md)
 Computer hacker Gary McKinnon, whose extradition to the US was blocked, will not face charges in the UK, bringing to an end a 10-year legal battle
 
-### [Former British Labour Party MP Margaret Moran is given a two year supervision and treatment order after falsely claiming PS53,000 in expenses. A judge had earlier ruled she was unfit to stand trial because of mental health issues. ](/news/2012/12/14/former-british-labour-party-mp-margaret-moran-is-given-a-two-year-supervision-and-treatment-order-after-falsely-claiming-aps53-000-in-expense.md)
+### [Former British Labour Party MP Margaret Moran is given a two year supervision and treatment order after falsely claiming GBP53,000 in expenses. A judge had earlier ruled she was unfit to stand trial because of mental health issues. ](/news/2012/12/14/former-british-labour-party-mp-margaret-moran-is-given-a-two-year-supervision-and-treatment-order-after-falsely-claiming-agbp53-000-in-expen.md)
 Former Luton South MP Margaret Moran is handed a two-year supervision order after falsely claiming more than £53,000 in expenses.
 
 ### [Hundreds of thousands of North Koreans celebrate the successful launch of the Kwangmyongsong-3 Unit 2 satellite in Pyongyang's Kim Il-Sung Square. ](/news/2012/12/14/hundreds-of-thousands-of-north-koreans-celebrate-the-successful-launch-of-the-kwangmyangsang-3-unit-2-satellite-in-pyongyang-s-kim-il-sung.md)
 Hundreds of thousands of North Korean soldiers and civilians have rallied in the centre of Pyongyang for a mass celebration of the country&#039;s long-range rocket launch, state television showed.
 
-### [Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister  and as Deputy Prime Minister following an indictment for fraud. ](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.md)
+### [Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister and as Deputy Prime Minister following an indictment for fraud. ](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.md)
 Israeli Foreign Minister Avigdor Lieberman resigns after prosecutors decide to charge him with breach of trust.
 
 ## [Previous Day...](/news/2012/12/13/index.md)

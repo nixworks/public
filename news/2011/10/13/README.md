@@ -13,7 +13,7 @@ _Context: Bhutan, Jigme Khesar Namgyal Wangchuck, King, Punakha, Queen Jetsun Pe
 QANTAS baggage handlers and ground crew have begun their latest round of industrial action, causing delays and cancellations for passengers across the country. Join us for live updates throughout the day (all times AEDT)
 
 ### [At least 88 containers fall from the stricken cargo ship Rena into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.md)
-_Context: Bay of Plenty, New Zealand, North Island_
+About 88 containers have fallen into the sea, and at least one of them contained the toxic chemical ferrosilicon, authorities say, as NZ&#039;s worst maritime pollution disaster enters its second week.
 
 ### [Vietnam's Mekong River delta suffers its worst flooding in a decade, with 43 people killed and 70,000 homes destroyed. ](/news/2011/10/13/vietnam-s-mekong-river-delta-suffers-its-worst-flooding-in-a-decade-with-43-people-killed-and-70-000-homes-destroyed.md)
 _Context: Mekong River, Vietnam_
@@ -31,7 +31,7 @@ _Context: Nepal, Sindhuli District_
 Storms left 29 people dead and forced tens of thousands from their homes as heavy rains battered Central America and Mexico&#039;s Pacific coast.
 
 ### [The President of South Korea, Lee Myung-bak, gives an address to a joint session of the United States Congress, emphasizing the importance of a recently-concluded free trade deal between South Korea and the United States, and expounding the need to improve relations with North Korea. ](/news/2011/10/13/the-president-of-south-korea-lee-myung-bak-gives-an-address-to-a-joint-session-of-the-united-states-congress-emphasizing-the-importance-o.md)
-_Context: Lee Myung-bak, North Korea, South Korea, South Korean President, United States, United States Congress, free trade_
+_Context: Lee Myung-bak, North Korea, President of South Korea, South Korea, United States, United States Congress, free trade_
 
 ### [Sri Lankan-American Raj Rajaratnam, a former hedge fund tycoon, is sentenced to 11 years in jail for insider trading. ](/news/2011/10/13/sri-lankan-american-raj-rajaratnam-a-former-hedge-fund-tycoon-is-sentenced-to-11-years-in-jail-for-insider-trading.md)
 Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Street trading scandal in a generation, was ordered to serve 11 years in prison, the longest sentence ever in an insider-trading case but far less than prosecutors sought.

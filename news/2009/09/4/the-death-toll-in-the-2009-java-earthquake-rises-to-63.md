@@ -13,4 +13,4 @@ The death toll from a powerful earthquake is continuing to rise as Indonesian re
 ### Related:
 
 1. [ The death toll from the 2009 Java earthquake rises to at least 57. ](/news/2009/09/3/the-death-toll-from-the-2009-java-earthquake-rises-to-at-least-57.md) _Context: 2009 Java earthquake_
-2. [ A 7.3 magnitude earthquake occurs on  at 14:55 local time on the  Indonesian island of Java,  killing at least 32 people. ](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.md) _Context: 2009 Java earthquake_
+2. [ A 7.3 magnitude earthquake occurs on at 14:55 local time on the Indonesian island of Java, killing at least 32 people. ](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.md) _Context: 2009 Java earthquake_

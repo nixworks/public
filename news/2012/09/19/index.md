@@ -1,6 +1,6 @@
 ## [2012-09-19](/news/2012/09/19/index.md)
 
-### [Syrian civil war:Syrian opposition forces facilitate infiltration from Turkey by seizing control of a border crossing in the province of Ar-Raqqah. ](/news/2012/09/19/syrian-civil-war-psyrian-opposition-forces-facilitate-infiltration-from-turkey-by-seizing-control-of-a-border-crossing-in-the-province-of-ar.md)
+### [Syrian civil war:. Syrian opposition forces facilitate infiltration from Turkey by seizing control of a border crossing in the province of Ar-Raqqah. ](/news/2012/09/19/syrian-civil-war-syrian-opposition-forces-facilitate-infiltration-from-turkey-by-seizing-control-of-a-border-crossing-in-the-province-of-a.md)
 _Context: Ar-Raqqah, Syrian Civil War, facilitate infiltration_
 
 ### [A car bomb targeting a van belonging to the Pakistan Air Force explodes in the Pakistani city of Peshawar, killing at least nine people and wounding up to 20 others. ](/news/2012/09/19/a-car-bomb-targeting-a-van-belonging-to-the-pakistan-air-force-explodes-in-the-pakistani-city-of-peshawar-killing-at-least-nine-people-and.md)
@@ -15,7 +15,7 @@ _Context: Czech Republic_
 ### [The cabinet of Yoshihiko Noda reverses a pledge made by the Japanese government earlier in the week to end reliance on nuclear power by the 2030s. ](/news/2012/09/19/the-cabinet-of-yoshihiko-noda-reverses-a-pledge-made-by-the-japanese-government-earlier-in-the-week-to-end-reliance-on-nuclear-power-by-the.md)
 _Context: Japanese government, Yoshihiko Noda_
 
-### [Senkaku Islands dispute:A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-pa-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-f.md)
+### [Senkaku Islands dispute:. A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-a-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in.md)
 _Context: China, Fukuoka, Japan, Senkaku Islands dispute, police_
 
 ### [The US Justice Department's inspector general finds that the agency's Operation Fast and Furious created a "significant danger to public safety". The investigation also finds that Atty. Gen. Eric H. Holder Jr. had no prior knowledge of the operation. ](/news/2012/09/19/the-us-justice-department-s-inspector-general-finds-that-the-agency-s-operation-fast-and-furious-created-a-significant-danger-to-public-saf.md)

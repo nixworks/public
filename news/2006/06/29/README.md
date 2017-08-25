@@ -9,7 +9,7 @@ _Context: Internet Explorer, Windows Server 2003, Windows XP_
 ### [ The United States House of Representatives votes to end a 25-year ban on off-shore drilling. ](/news/2006/06/29/the-united-states-house-of-representatives-votes-to-end-a-25-year-ban-on-off-shore-drilling.md)
 Congress on Thursday took a major step toward allowing oil and gas drilling in coastal waters that have been off limits for a quarter-century, but a battle looms in the Senate.
 
-### [ Former Governor of the U.S. state of Alabama Don Siegelman is  convicted of bribery and conspiracy. ](/news/2006/06/29/former-governor-of-the-u-s-state-of-alabama-don-siegelman-is-convicted-of-bribery-and-conspiracy.md)
+### [ Former Governor of the U.S. state of Alabama Don Siegelman is convicted of bribery and conspiracy. ](/news/2006/06/29/former-governor-of-the-u-s-state-of-alabama-don-siegelman-is-convicted-of-bribery-and-conspiracy.md)
 _Context: Alabama, Don Siegelman, Governor of Alabama, U.S. state_
 
 ### [ The Dow Jones Industrial Average closes up over 215 points as a result of the United States Federal Reserve saying that it would consider the overall economy, and direction of inflation, in setting the interest rate. The Federal Reserve raised interest rates for the 17th consecutive time to 5.25% due to ongoing concerns about inflation. ](/news/2006/06/29/the-dow-jones-industrial-average-closes-up-over-215-points-as-a-result-of-the-united-states-federal-reserve-saying-that-it-would-consider-t.md)
@@ -18,7 +18,7 @@ View the basic ^DJI stock chart on Yahoo Finance. Change the date range, chart t
 ### [ A suicide bomber attacks the funeral of a Shiite soldier in Kirkuk, Iraq, killing four and wounding 27. ](/news/2006/06/29/a-suicide-bomber-attacks-the-funeral-of-a-shiite-soldier-in-kirkuk-iraq-killing-four-and-wounding-27.md)
 _Context: Iraq, Kirkuk, Shiite, suicide bombing_
 
-### [ The  Supreme Court of the United States rules in ''Hamdan v. Rumsfeld'' that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-priso.md)
+### [ The Supreme Court of the United States rules in "Hamdan v. Rumsfeld" that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-prisoner.md)
 _Context: Geneva Convention, George W. Bush administration, Guantnamo Bay detainment camp, Hamdan v. Rumsfeld, U.S. Supreme Court, US constitution_
 
 ### [ British House of Commons by-elections for the constituencies of Blaenau Gwent and Bromley and Chislehurst are held to fill vacant parliamentary seats. ](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.md)
@@ -51,7 +51,7 @@ _Context: G8 group of nations, Hamas, Palestinian Authority, West Bank_
 ### [ Kuwait holds a Parliamentary election, the country's first with universal suffrage. Opposition parties win a parliamentary majority but no women are elected.](/news/2006/06/29/kuwait-holds-a-parliamentary-election-the-country-s-first-with-universal-suffrage-opposition-parties-win-a-parliamentary-majority-but-no.md)
 Women went to the polls Thursday for the first time in Kuwait, voting for parliament members in an election that has shaken up politics-as-usual in the conservative oil-rich emirate.
 
-### [ The cabinet Balkenende II of the Netherlands resigns after a row between the coalition  partners about the citizenship of former MP Ayaan Hirsi Ali. ](/news/2006/06/29/the-cabinet-balkenende-ii-of-the-netherlands-resigns-after-a-row-between-the-coalition-partners-about-the-citizenship-of-former-mp-ayaan-h.md)
+### [ The cabinet Balkenende II of the Netherlands resigns after a row between the coalition partners about the citizenship of former MP Ayaan Hirsi Ali. ](/news/2006/06/29/the-cabinet-balkenende-ii-of-the-netherlands-resigns-after-a-row-between-the-coalition-partners-about-the-citizenship-of-former-mp-ayaan-hi.md)
 _Context: Ayaan Hirsi Ali, Balkenende II, Netherlands, forming a government_
 
 ## [Previous Day...](/news/2006/06/28/index.md)

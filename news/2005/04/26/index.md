@@ -1,6 +1,6 @@
 ## [2005-04-26](/news/2005/04/26/index.md)
 
-### [ Israeli-Palestinian Conflict: The Israeli soldier killed in the West Bank on Monday night was shot by his comrades.  It was believed he was killed by an Unarmed Taxi Driver, Iyad Dueik, who was shot seven times and whose car ran over the man, but news that he was shot questions this assessment. ](/news/2005/04/26/israeli-palestinian-conflict-the-israeli-soldier-killed-in-the-west-bank-on-monday-night-was-shot-by-his-comrades-it-was-believed-he-was.md)
+### [ Israeli-Palestinian Conflict: The Israeli soldier killed in the West Bank on Monday night was shot by his comrades. It was believed he was killed by an Unarmed Taxi Driver, Iyad Dueik, who was shot seven times and whose car ran over the man, but news that he was shot questions this assessment. ](/news/2005/04/26/israeli-palestinian-conflict-the-israeli-soldier-killed-in-the-west-bank-on-monday-night-was-shot-by-his-comrades-it-was-believed-he-was.md)
 _Context: Israel, Israeli-Palestinian conflict, Taxicab, West Bank_
 
 ### [ Alassane Ouattara is allowed to run for Presidential election in Cte d'Ivoire. ](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.md)
@@ -9,7 +9,7 @@ _Context: Alassane Ouattara, Cte d'Ivoire_
 ### [ 2005 Kuomintang visits to Mainland: a 70-member delegation led by Kuomintang chairman Lien Chan left Taipei for Nanjing via Hong Kong, launching Lien Chan's 8-day Taiwan Strait peace tour, also the first official visit by the highest leader of Kuomintang to Mainland China in 60 years. ](/news/2005/04/26/2005-kuomintang-visits-to-mainland-a-70-member-delegation-led-by-kuomintang-chairman-lien-chan-left-taipei-for-nanjing-via-hong-kong-laun.md)
 _Context: 2005 Kuomintang visits to Mainland, Hong Kong, Kuomintang (Chinese Nationalist Party), Lien Chan, Nanjing, Taipei, Taiwan Strait peace tour, mainland China_
 
-### [ Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud.  ](/news/2005/04/26/faure-gnassingbe-wins-the-togolese-presidential-election-with-more-than-60-of-the-votes-results-cause-riots-in-lome-when-the-opposition-d.md)
+### [ Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud. ](/news/2005/04/26/faure-gnassingbe-wins-the-togolese-presidential-election-with-more-than-60-of-the-votes-results-cause-riots-in-lome-when-the-opposition-d.md)
 _Context: Faure Gnassingb, Lom, Togolese presidential election_
 
 ### [ The Civil Unions and Relationships Acts take effect in New Zealand. These laws allow same-sex and de facto couples to form legal unions that are similar to marriage. ](/news/2005/04/26/the-civil-unions-and-relationships-acts-take-effect-in-new-zealand-these-laws-allow-same-sex-and-de-facto-couples-to-form-legal-unions-tha.md)

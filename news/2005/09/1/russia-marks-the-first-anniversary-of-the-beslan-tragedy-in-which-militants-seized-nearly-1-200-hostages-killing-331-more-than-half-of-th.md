@@ -1,6 +1,6 @@
 ### [2005-09-1](/news/2005/09/1/index.md)
 
-#  Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children.  
+#  Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children. 
 
 
 

@@ -1,6 +1,6 @@
 ## [2008-12-20](/news/2008/12/20/index.md)
 
-### [ The Swedish Academy, the body that selects the winner of the Nobel Prize in Literature, announces that Horace Engdahl will be replaced as its permanent secretary  by historian Peter Englund. ](/news/2008/12/20/the-swedish-academy-the-body-that-selects-the-winner-of-the-nobel-prize-in-literature-announces-that-horace-engdahl-will-be-replaced-as-i.md)
+### [ The Swedish Academy, the body that selects the winner of the Nobel Prize in Literature, announces that Horace Engdahl will be replaced as its permanent secretary by historian Peter Englund. ](/news/2008/12/20/the-swedish-academy-the-body-that-selects-the-winner-of-the-nobel-prize-in-literature-announces-that-horace-engdahl-will-be-replaced-as-i.md)
 _Context: Horace Engdahl, Nobel Prize in Literature, Peter Englund, Swedish Academy_
 
 ### [ Iraq releases 24 security personnel arrested on Thursday on suspicion of aiding terrorism. ](/news/2008/12/20/iraq-releases-24-security-personnel-arrested-on-thursday-on-suspicion-of-aiding-terrorism.md)

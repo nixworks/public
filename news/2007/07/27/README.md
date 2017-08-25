@@ -15,10 +15,10 @@ _Context: India, United States, nuclear co-operation_
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: MVA85A, South Africa, clinical trial, tuberculosis, vaccine_
 
-### [ Abel Mutsakani, editor of the ''ZimOnline'', is shot and seriously wounded in Johannesburg, South Africa in what may have been an assassination attempt. ](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-and-seriously-wounded-in-johannesburg-south-africa-in-what-may-have-been-an-assassina.md)
+### [ Abel Mutsakani, editor of the "ZimOnline", is shot and seriously wounded in Johannesburg, South Africa in what may have been an assassination attempt. ](/news/2007/07/27/abel-mutsakani-editor-of-the-zimonline-is-shot-and-seriously-wounded-in-johannesburg-south-africa-in-what-may-have-been-an-assassinati.md)
 _Context: Johannesburg, South Africa_
 
-### [ A study published in ''The Lancet'' correlates cannabis use to psychosis. ](/news/2007/07/27/a-study-published-in-the-lancet-correlates-cannabis-use-to-psychosis.md)
+### [ A study published in "The Lancet" correlates cannabis use to psychosis. ](/news/2007/07/27/a-study-published-in-the-lancet-correlates-cannabis-use-to-psychosis.md)
 _Context: The Lancet, marijuana, psychosis_
 
 ### [ An independent review set up by NASA finds out that astronauts were allowed to fly despite being drunk in at least two occasions. ](/news/2007/07/27/an-independent-review-set-up-by-nasa-finds-out-that-astronauts-were-allowed-to-fly-despite-being-drunk-in-at-least-two-occasions.md)
@@ -48,7 +48,7 @@ _Context: KNXV, KTVK, Phoenix, Arizona, car chase, helicopter_
 ### [ Former French Prime Minister Dominique de Villepin is charged with "complicity in slanderous denunciations" and "complicity in using forgeries" for allegedly trying to discredit current President Nicolas Sarkozy. ](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.md)
 _Context: Dominique de Villepin, France, Nicolas Sarkozy, President, Prime Minister_
 
-### [ Jailed policeman Eugene de Kock claims in an interview from prison that former South African President Frederik Willem de Klerk had hands "soaked in blood" and had ordered political killings and other crimes during the anti-apartheid conflict.  ](/news/2007/07/27/jailed-policeman-eugene-de-kock-claims-in-an-interview-from-prison-that-former-south-african-president-frederik-willem-de-klerk-had-hands.md)
+### [ Jailed policeman Eugene de Kock claims in an interview from prison that former South African President Frederik Willem de Klerk had hands "soaked in blood" and had ordered political killings and other crimes during the anti-apartheid conflict. ](/news/2007/07/27/jailed-policeman-eugene-de-kock-claims-in-an-interview-from-prison-that-former-south-african-president-frederik-willem-de-klerk-had-hands.md)
 _Context: Eugene de Kock, Frederik Willem de Klerk, President, South Africa, apartheid, kill_
 
 ### [ A general strike goes into its third day in Swaziland; strikers demand democratic elections and an end to absolute monarchy. ](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swaziland-strikers-demand-democratic-elections-and-an-end-to-absolute-monarchy.md)
@@ -75,8 +75,8 @@ _Context: Cabinet Minister, David Benson-Pope, Environment Minister, New Zealand
 ### [ Steve Bracks resigns as the Premier of Victoria. John Thwaites, the Deputy Premier, announces his resignation later in the day. ](/news/2007/07/27/steve-bracks-resigns-as-the-premier-of-victoria-john-thwaites-the-deputy-premier-announces-his-resignation-later-in-the-day.md)
 _Context: John Thwaites, Premier, Steve Bracks_
 
-### [ Swedish King Carl XVI Gustaf, by long tradition an honorary member of the AIK soccer club, concedes that he is a supporter of the rivaling club Djurgarden. ](/news/2007/07/27/swedish-king-carl-xvi-gustaf-by-long-tradition-an-honorary-member-of-the-aik-soccer-club-concedes-that-he-is-a-supporter-of-the-rivaling.md)
-_Context: AIK soccer club, Carl XVI Gustaf, Djurgarden, Sweden_
+### [ Swedish King Carl XVI Gustaf, by long tradition an honorary member of the AIK soccer club, concedes that he is a supporter of the rivaling club DjurgCNYrden. ](/news/2007/07/27/swedish-king-carl-xvi-gustaf-by-long-tradition-an-honorary-member-of-the-aik-soccer-club-concedes-that-he-is-a-supporter-of-the-rivaling.md)
+_Context: AIK soccer club, Carl XVI Gustaf, DjurgCNYrden, Sweden_
 
 ### [ Barry Bonds hits career home run number 754. ](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.md)
 Barry Bonds hit a solo shot in the first inning against the Florida Marlins to bring him within one home run of tying Hank Aaron’s all-time record. 

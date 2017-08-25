@@ -11,5 +11,5 @@ A solar eclipse will pass over Britain on Friday, covering the country in darkne
 
 ### Related:
 
-1. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _Context: supermoon_
+1. [September 2015 lunar eclipse. The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/september-2015-lunar-eclipse-the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _Context: supermoon_
 2. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: supermoon_

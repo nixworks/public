@@ -1,9 +1,9 @@
 ## [2013-05-30](/news/2013/05/30/index.md)
 
-### [Syrian civil war:An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-pan-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md)
+### [Syrian civil war:. An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-an-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md)
 _Context: S-300, Syrian Civil War_
 
-### [Iraqi insurgency (post-U.S. withdrawal):A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-bombings-across-iraq-kills-at-least-eleven-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-a-series-of-bombings-across-iraq-kills-at-least-eleven-people.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Abdul-Baki Todashev, father of Ibragim Todashev who was killed by the FBI last week, describes U.S. agents as "bandits" who killed his son "execution-style". ](/news/2013/05/30/abdul-baki-todashev-father-of-ibragim-todashev-who-was-killed-by-the-fbi-last-week-describes-u-s-agents-as-bandits-who-killed-his-son.md)
@@ -48,7 +48,7 @@ Ever wondered how a turtle gets its shell? They are one of the most unique anima
 ### [Russian scientists discover a "perfectly preserved" woolly mammoth carcass containing liquid blood. ](/news/2013/05/30/russian-scientists-discover-a-perfectly-preserved-woolly-mammoth-carcass-containing-liquid-blood.md)
 _Context: woolly mammoth_
 
-### [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaair-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md)
+### [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zinc-air-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md)
 _Context: Stanford University, lithium-ion, zinc-air battery_
 
 ### [The asteroid (285263) 1998 QE2, expected to approach within 3.6 million miles of Earth on May 31, is discovered to have its own moon.](/news/2013/05/30/the-asteroid-285263-1998-qe2-expected-to-approach-within-3-6-million-miles-of-earth-on-may-31-is-discovered-to-have-its-own-moon.md)

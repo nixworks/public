@@ -1,6 +1,6 @@
 ### [2014-03-2](/news/2014/03/2/index.md)
 
-# ''Stalingrad'', depicting the battle of the same name, becomes the best-selling Russian film of all time. date=March 2014
+# "Stalingrad", depicting the battle of the same name, becomes the best-selling Russian film of all time. date=March 2014
 
 
 

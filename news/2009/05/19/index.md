@@ -6,7 +6,7 @@ _Context: 2010, Global Positioning System, Government Accountability Office, Uni
 ### [ President Mahmoud Abbas inaugurates the Palestinian National Authority's new government. ](/news/2009/05/19/president-mahmoud-abbas-inaugurates-the-palestinian-national-authority-s-new-government.md)
 _Context: Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, form of government, inauguration_
 
-### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign  on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
+### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
 _Context: Britain, House of Commons of the United Kingdom, Michael Martin, Speaker of the UK House of Commons_
 
 ### [ President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. ](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.md)
@@ -42,7 +42,7 @@ _Context: European Parliament, Spain, reform_
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
 _Context: Germany, lemur, skeleton, species_
 
-### [ Somali pirates release the German cargo ship MV ''Patriot''. ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
+### [ Somali pirates release the German cargo ship MV "Patriot". ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
 _Context: Germany, MV, Patriot, Somali pirates, Somalia, cargo ship_
 
 ### [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md)

@@ -15,7 +15,7 @@ Teen star Justin Bieber dominates the American Music Awards winning four prizes 
 ### [North Korea unveils a new uranium enrichment plant. ](/news/2010/11/21/north-korea-unveils-a-new-uranium-enrichment-plant.md)
 North Korea showed an American scientist last week a vast new facility it secretly and rapidly built to enrich uranium.
 
-### [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)
+### [Irish financial crisis. Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-financial-crisis-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)
 Taoiseach Brian Cowen has confirmed that a major financial assistance plan for Ireland has been agreed with the EU.
 
 ### [A chemical factory explodes in Yushe county, North China's Shanxi province, killing at least three. ](/news/2010/11/21/a-chemical-factory-explodes-in-yushe-county-north-china-s-shanxi-province-killing-at-least-three.md)
@@ -51,7 +51,7 @@ _Context: Iran, two American citizens_
 ### [Voters in Burkina Faso go to the polls, with incumbent President Blaise Compaore claiming victory with 75 per cent of the votes.](/news/2010/11/21/voters-in-burkina-faso-go-to-the-polls-with-incumbent-president-blaise-compaora-c-claiming-victory-with-75-per-cent-of-the-votes.md)
 _Context: Blaise Compaore, Burkina Faso, President_
 
-### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International.  ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
+### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
 _Context: Amnesty International, Egypt, Egyptian parliamentary elections_
 
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)

@@ -12,7 +12,7 @@ _Context: American Israel Public Affairs Committee, Israel, United States_
 ### [ Three Israeli soldiers are hurt when their jeep triggers an IED roadside bomb, near the Karni crossing, on the edge of the Gaza Strip. ](/news/2005/04/21/three-israeli-soldiers-are-hurt-when-their-jeep-triggers-an-ied-roadside-bomb-near-the-karni-crossing-on-the-edge-of-the-gaza-strip.md)
 _Context: Gaza Strip, Israel, Jeep, cargo terminals, improvised explosive device_
 
-### [ The next launch of the Space Shuttle ''Discovery'', STS-114,  is postponed until at least May 22. This is to be the first Space Shuttle launch since the ''Columbia'' disaster in February 2003. ](/news/2005/04/21/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-postponed-until-at-least-may-22-this-is-to-be-the-first-space-shuttle-lau.md)
+### [ The next launch of the Space Shuttle "Discovery", STS-114, is postponed until at least May 22. This is to be the first Space Shuttle launch since the "Columbia" disaster in February 2003. ](/news/2005/04/21/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-postponed-until-at-least-may-22-this-is-to-be-the-first-space-shuttle-launch.md)
 _Context: ''Columbia'' disaster, Discovery, February 2003, May 22, STS-114_
 
 ### [ New Ecuadorian president Alfredo Palacio orders the arrest of former president Lucio Gutirrez, who takes refuge in the Brazilian embassy. ](/news/2005/04/21/new-ecuadorian-president-alfredo-palacio-orders-the-arrest-of-former-president-lucio-gutierrez-who-takes-refuge-in-the-brazilian-embassy.md)

@@ -1,6 +1,6 @@
 ### [2014-02-16](/news/2014/02/16/index.md)
 
-# A bomb detonates on a tourist bus in Taba, Egypt killing 3 Koreans and 1 Egyptian.  
+# A bomb detonates on a tourist bus in Taba, Egypt killing 3 Koreans and 1 Egyptian. 
 
 Explosion rocks tourist bus en route to Eilat, leaving 3 Koreans, 1 Egyptian dead; terror alert is raised in Sinai
 

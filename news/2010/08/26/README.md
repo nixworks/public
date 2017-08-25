@@ -9,7 +9,7 @@ Civil servants plan bigger strikes if pay demands not met, as services are restr
 ### [Two Greek F-16 planes collide mid-air south of Crete; 2 out of 3 pilots are rescued. ](/news/2010/08/26/two-greek-f-16-planes-collide-mid-air-south-of-crete-2-out-of-3-pilots-are-rescued.md)
 Two Greek fighter jets have collided in mid-air, the defence ministry says, with one of the pilots apparently managing to eject safely.
 
-### [Pakistan orders nearly half a million people  in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods-to-evacuate.md)
+### [2010 Pakistan floods. Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/2010-pakistan-floods-pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods.md)
 The Pakistan Taliban is planning to kidnap foreign aid workers delivering assistance in the aftermath of devastating floods, according to an American diplomatic official.
 
 ### [South Korea offers emergency aid to North Korea for floods. ](/news/2010/08/26/south-korea-offers-emergency-aid-to-north-korea-for-floods.md)
@@ -24,7 +24,7 @@ _Context: International Atomic Energy Agency, Iran, Olli Heinonen_
 ### [Israel asks Germany to arrest Klaas Carel Faber, a Nazi war criminal who killed 20 Jews at Westerbork concentration camp. ](/news/2010/08/26/israel-asks-germany-to-arrest-klaas-carel-faber-a-nazi-war-criminal-who-killed-20-jews-at-westerbork-concentration-camp.md)
 Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concentration camp, where many Dutch Jews were sent. 
 
-### [''The New York Times'' claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of  graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-unite.md)
+### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
 _Context: Afghanistan's, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States, anti-corruption_
 
 ### [Ahmad Vahidi, Iran's Minister of Defense, offers military assistance to Lebanon following a request from Hezbollah. ](/news/2010/08/26/ahmad-vahidi-iran-s-minister-of-defense-offers-military-assistance-to-lebanon-following-a-request-from-hezbollah.md)

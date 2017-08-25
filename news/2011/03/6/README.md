@@ -9,25 +9,25 @@ _Context: Ivory Coast, Laurent Gbagbo, Liberia, President_
 ### [At least 12 civilians are killed and at least 5 others are injured in eastern Afghanistan's Paktika Province. ](/news/2011/03/6/at-least-12-civilians-are-killed-and-at-least-5-others-are-injured-in-eastern-afghanistan-s-paktika-province.md)
 At least 12 civilians, including five children, have been killed by a roadside bomb in eastern Afghanistan.
 
-### [Libyan Civil War:An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-pan-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md)
+### [Libyan Civil War:. An uprising against the Muammar Gaddafi regime continues in Libya. ](/news/2011/03/6/libyan-civil-war-an-uprising-against-the-muammar-gaddafi-regime-continues-in-libya.md)
 Intense gunfire was heard in the center of the Libyan capital Tripoli before dawn Sunday, witnesses said.
 
-### [2011 Bahraini protests:Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-pthousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for-t.md)
+### [2011 Bahraini protests:. Thousands of people demonstrate outside the Al-Qudaibiya Palace, where the government meets in Manama, calling for the prime minister to resign and voicing their discontent with the king. ](/news/2011/03/6/2011-bahraini-protests-thousands-of-people-demonstrate-outside-the-al-qudaibiya-palace-where-the-government-meets-in-manama-calling-for.md)
 _Context: 2011 Bahraini protests, Al-Qudaibiya Palace, Manama_
 
-### [2011 Yemeni protests:Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-pdemonstrations-against-the-saleh-regime-in-yemen-continue.md)
+### [2011 Yemeni protests:. Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-demonstrations-against-the-saleh-regime-in-yemen-continue.md)
 _Context: 2011 Yemeni protests, Yemen_
 
-### [Other protests:Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-pchinese-state-media-warn-against-protests-inspired-by-arab-spring.md)
+### [Other protests:. Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-chinese-state-media-warn-against-protests-inspired-by-arab-spring.md)
 Chinese government has dismissed chances of West Asia style revolution in the Communist nation, saying it has brought development to the masses, even as it has stepped up security to avert attempts by dissidents to stir up protests.
 
 ### [India successfully conducts an interceptor missile test over the Bay of Bengal. ](/news/2011/03/6/india-successfully-conducts-an-interceptor-missile-test-over-the-bay-of-bengal.md)
 _Context: Bay of Bengal, India_
 
-### [''The Washington Post'' reports that the military forces imprisoned alleged whistleblower Bradley Manning to strip each night and sleep naked, having confiscated his boxers earlier this week following Manning's protest that restrictions imposed on him were "absurd". A spokesperson for the facility denies "any sort of humiliation or embarrassment" is intended. ](/news/2011/03/6/the-washington-post-reports-that-the-military-forces-imprisoned-alleged-whistleblower-bradley-manning-to-strip-each-night-and-sleep-nake.md)
+### ["The Washington Post" reports that the military forces imprisoned alleged whistleblower Bradley Manning to strip each night and sleep naked, having confiscated his boxers earlier this week following Manning's protest that restrictions imposed on him were "absurd". A spokesperson for the facility denies "any sort of humiliation or embarrassment" is intended. ](/news/2011/03/6/the-washington-post-reports-that-the-military-forces-imprisoned-alleged-whistleblower-bradley-manning-to-strip-each-night-and-sleep-naked.md)
 _Context: Bradley Manning, Washington Post, whistleblower_
 
-### [United States Navy commandos from the destroyer USS ''Bulkeley'' capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-gua.md)
+### [United States Navy commandos from the destroyer USS "Bulkeley" capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-guana.md)
 _Context: Japan, MV Guanabara, Somali pirates, USS ''Bulkeley'', United States Navy, commando, destroyer, oil tanker_
 
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
@@ -64,7 +64,7 @@ _Context: Israel, Ron Prosor, United Nations_
 _Context: North Korea, South Korea_
 
 ### [The United States Department of State warns U.S. citizens of a high security threat level in Yemen due to what it describes as "terrorist activities and civil unrest". ](/news/2011/03/6/the-united-states-department-of-state-warns-u-s-citizens-of-a-high-security-threat-level-in-yemen-due-to-what-it-describes-as-terrorist-ac.md)
-_Context: 2011 Yemeni protests, State Department's, Yemen_
+_Context: 2011 Yemeni protests, United States State Department, Yemen_
 
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)
 _Context: Islamist, Kenya, Mandera, Somalia, al-Shabaab militants_

@@ -1,6 +1,6 @@
 ### [2014-08-21](/news/2014/08/21/index.md)
 
-# The Ministry of Justice Investigation Bureau in Taiwan is investigating former deputy minister Chang Hsien-yao of the Mainland Affairs Council  on suspicions of treason for allegedly leaking classified information to China. 
+# The Ministry of Justice Investigation Bureau in Taiwan is investigating former deputy minister Chang Hsien-yao of the Mainland Affairs Council on suspicions of treason for allegedly leaking classified information to China. 
 
 The Ministry of Justice’s Investigation Bureau yesterday said allegations brought by the Mainland Affairs Council against former deputy council minister Chang Hsien-yao (張顯耀) involved leaks of classified information to China, as other sources said that Chang could face trial for treason.
 

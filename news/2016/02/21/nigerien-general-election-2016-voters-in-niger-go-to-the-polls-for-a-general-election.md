@@ -1,0 +1,23 @@
+### [2016-02-21](/news/2016/02/21/index.md)
+
+# Nigerien general election, 2016. Voters in Niger go to the polls for a general election. 
+
+The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x20;one&#x20;of&#x20;the&#x20;world&#x2019;s&#x20;poorest&#x20;nations,&#x20;heads&#x20;to&#x20;the&#x20;polls&#x20;Sunday&#x20;to&#x20;pick&#x20;a&#x20;new&#x20;leader.&#x20;Whoever&#x20;wins&#x20;the&#x20;ballot&#x20;faces&#x20;the&#x20;dual&#x20;challenge&#x20;of&#x20;fending&#x20;off&#x20;a&#x20;food&#x20;crisis&#x20;alongside&#x20;an&#x20;imminent&#x20;jihadist&#x20;threat.
+
+
+### Source:
+
+1. [France 24](http://www.france24.com/en/20160220-niger-presidential-legislative-elections-world-poorest-nation-polls-issoufou-oumaru)
+
+### Related:
+
+1. [Nigerien general election, 2016. A run-off election begins in Niger with current President Mahamadou Issoufou highly favored to win as his main opponent Hama Amadou, who was earlier jailed, was flown out of the country for medical reasons. ](/news/2016/03/20/nigerien-general-election-2016-a-run-off-election-begins-in-niger-with-current-president-mahamadou-issoufou-highly-favored-to-win-as-his-m.md) _Context: Niger, Nigerien general election, 2016_
+2. [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md) _Context: Niger_
+3. [Flooding in Niger kills at least 38 people and leaves more than 92,000 people displaced. ](/news/2016/09/7/flooding-in-niger-kills-at-least-38-people-and-leaves-more-than-92-000-people-displaced.md) _Context: Niger_
+4. [European migrant crisis. Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/european-migrant-crisis-nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-peopl.md) _Context: Niger_
+5. [ Boko Haram insurgency. Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/boko-haram-insurgency-niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _Context: Niger_
+6. [Nigerien general election, 2016. Nigerien President Mahamadou Issoufou wins re-election in a second round of voting, receiving 92 percent of the vote in an election that was boycotted by the opposition. ](/news/2016/03/23/nigerien-general-election-2016-nigerien-president-mahamadou-issoufou-wins-re-election-in-a-second-round-of-voting-receiving-92-percent-of.md) _Context: Nigerien general election, 2016_
+7. [Insurgency in the Maghreb (2002-present). Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/insurgency-in-the-maghreb-2002-present-boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _Context: Niger_
+8. [Nigerien general election, 2016. The government will release opposition candidate Hama Amadou from prison due to health issues. Amadou is facing off against incumbent President of Niger Mahamadou Issoufou in the second round of voting on Sunday. ](/news/2016/03/15/nigerien-general-election-2016-the-government-will-release-opposition-candidate-hama-amadou-from-prison-due-to-health-issues-amadou-is-fa.md) _Context: Nigerien general election, 2016_
+9. [Boko Haram insurgency. An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/boko-haram-insurgency-an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-arm.md) _Context: Niger_
+10. [Niger's president Mahamadou Issoufou announces that an attempted coup, involving the use of aerial firepower to overthrow the government has been foiled and those behind it have been arrested. Among those taken into custody were the former military chief of staff, General Souleymane Salou, and Lt. Colonel Dan Haoua, head of the air force base in the capital Niamey. ](/news/2015/12/17/niger-s-president-mahamadou-issoufou-announces-that-an-attempted-coup-involving-the-use-of-aerial-firepower-to-overthrow-the-government-has.md) _Context: Niger_

@@ -6,7 +6,7 @@ The number of people killed in the latest of a series of cattle raids and ethnic
 ### [Gaza-Israel clashes continue as Palestinian militants fire more Qassam rockets into Israel overnight. 2 people are killed, including a militant, and 25 are injured during Israeli Air Force strikes on the Gaza Strip. ](/news/2012/03/12/gaza-israel-clashes-continue-as-palestinian-militants-fire-more-qassam-rockets-into-israel-overnight-2-people-are-killed-including-a-milit.md)
 Terrorists launch 31 rockets into Israel, causing damages, lightly injuring 2 in Ashdod; Palestinians: 5 killed by IAF.
 
-### [At least 45 people including children are killed in a massacre by the Syrian army in Homs, amongst an ongoing  uprising. ](/news/2012/03/12/at-least-45-people-including-children-are-killed-in-a-massacre-by-the-syrian-army-in-homs-amongst-an-ongoing-uprising.md)
+### [At least 45 people including children are killed in a massacre by the Syrian army in Homs, amongst an ongoing uprising. ](/news/2012/03/12/at-least-45-people-including-children-are-killed-in-a-massacre-by-the-syrian-army-in-homs-amongst-an-ongoing-uprising.md)
 _Context: 2011-2012 Syrian uprising, Homs_
 
 ### [The bodies of 70 ethnic Somali and Oromo people are discovered near the Yemeni-Saudi Arabian border. ](/news/2012/03/12/the-bodies-of-70-ethnic-somali-and-oromo-people-are-discovered-near-the-yemeni-saudi-arabian-border.md)
@@ -27,7 +27,7 @@ _Context: Afghanistan's, Ghadoor, Nuristan province, Poshan, avalanche_
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
 _Context: US Census Bureau headquarters, world's population_
 
-### [Afghanistan:The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-pthe-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md)
+### [Afghanistan:. The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/afghanistan-the-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md)
 Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick minded American savages&quot; for the weekend rampage by a US soldier who killed 16 villagers in their homes. The Taliban would &quot;take revenge from the invaders and the savage murderers for every single martyr&quot;, th...
 
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)

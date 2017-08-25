@@ -1,9 +1,9 @@
 ## [2013-08-22](/news/2013/08/22/index.md)
 
-### [War in North-West Pakistan:5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-p5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
+### [War in North-West Pakistan:. 5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
 _Context: South Waziristan, Tehrik-i-Taliban Pakistan, War in North-West Pakistan_
 
-### [Iraqi insurgency (post-U.S. withdrawal):Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-pfourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
 A suicide bomber drove a vehicle packed with explosives to a military headquarters in western Iraq and blew himself up outside it on Thursday, killing at least 14 people, police said.
 
 ### [Five civilians are wounded by mortar fire in the Congo city of Goma. ](/news/2013/08/22/five-civilians-are-wounded-by-mortar-fire-in-the-congo-city-of-goma.md)

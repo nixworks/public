@@ -15,7 +15,7 @@ _Context: Al Jazeera, Osama bin Laden, Sunni, al-Qaeda in Iraq, audiotape_
 ### [ An investigation concludes pilot error caused the crash of Garuda Indonesia Flight 200 on March 7, killing 21 people. ](/news/2007/10/22/an-investigation-concludes-pilot-error-caused-the-crash-of-garuda-indonesia-flight-200-on-march-7-killing-21-people.md)
 _Context: Marwoto Komar, Pilot error_
 
-### [ California wildfires of October 2007: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-p-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md)
+### [ California wildfires of October 2007:. At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md)
 _Context: California wildfires, Southern California, evacuation centers, wildfires_
 
 ### [ Joaquim Chissano wins the inaugural Prize for Achievement in African Leadership for "his role in leading Mozambique from conflict to peace and democracy." ](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.md)
@@ -39,7 +39,7 @@ _Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, President, cons
 ### [ At least 25 killed when Tamil Tiger fighters attack a Sri Lankan air force base in the Anuradhapura district with heavy fighting reported. ](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.md)
 _Context: Anuradhapura, Sri Lanka, Tamil Tiger, air force_
 
-### [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's ''de facto'' top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-j.md)
+### [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's "de facto" top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-jin.md)
 _Context: Communist Party of China, He Guoqiang, Hu Jintao, Li Keqiang, Politburo Standing Committee, Wen Jiabao, Xi Jinping, Zhou Yongkang, de facto_
 
 ## [Previous Day...](/news/2007/10/21/index.md)

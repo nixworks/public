@@ -3,7 +3,7 @@
 ### [ The Indian government initiates The Right of Children to Free and Compulsory Education Act to provide free and compulsory education to all children aged between 6 and 14 years, making education a fundamental right for millions of children. ](/news/2010/04/1/the-indian-government-initiates-the-right-of-children-to-free-and-compulsory-education-act-to-provide-free-and-compulsory-education-to-all.md)
 Programme to extend free schooling to 10 million children at a cost of $38bn.
 
-### [ Israeli-Palestinian conflict: After Palestinians fire a Qassam rocket that explodes in an open area of the city of Ashkelon, Israeli planes launch air strikes on several targets in the Gaza Strip, in locations which include Gaza City, Khan Yunis and Rafah. ](/news/2010/04/1/israeliapalestinian-conflict-p-after-palestinians-fire-a-qassam-rocket-that-explodes-in-an-open-area-of-the-city-of-ashkelon-israeli-pla.md)
+### [ Israeli-Palestinian conflict:. After Palestinians fire a Qassam rocket that explodes in an open area of the city of Ashkelon, Israeli planes launch air strikes on several targets in the Gaza Strip, in locations which include Gaza City, Khan Yunis and Rafah. ](/news/2010/04/1/israeli-palestinian-conflict-after-palestinians-fire-a-qassam-rocket-that-explodes-in-an-open-area-of-the-city-of-ashkelon-israeli-pla.md)
 Qassam explodes in open area just hours after Russia&#39;s Lavrov calls on Hamas&#39; Mashaal to stop &#39;unconscionable firing of rockets&#39; on Israel 
 
 ### [ Archbishop of Dublin Diarmuid Martin, speaking at Holy Thursday mass in St Mary's Pro-Cathedral, criticizes Catholics who believe the church should move on from recent child abuse scandals in Ireland. ](/news/2010/04/1/archbishop-of-dublin-diarmuid-martin-speaking-at-holy-thursday-mass-in-st-mary-s-pro-cathedral-criticizes-catholics-who-believe-the-churc.md)
@@ -33,7 +33,7 @@ A disabled four-year-old girl whose disappearance last week sparked an outpourin
 ### [ Dozens of prisoners escape/are wounded after an explosion occurs at a prison in Daleh. ](/news/2010/04/1/dozens-of-prisoners-escape-are-wounded-after-an-explosion-occurs-at-a-prison-in-daleh.md)
 Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at the prison walls and exploded.
 
-### [ A landmark ruling at the Court of Appeal allows science writer Simon Singh to rely on the defence of fair comment in a libel action taken by the British Chiropractic Association over a 2008 article in ''The Guardian'' newspaper. ](/news/2010/04/1/a-landmark-ruling-at-the-court-of-appeal-allows-science-writer-simon-singh-to-rely-on-the-defence-of-fair-comment-in-a-libel-action-taken-b.md)
+### [ A landmark ruling at the Court of Appeal allows science writer Simon Singh to rely on the defence of fair comment in a libel action taken by the British Chiropractic Association over a 2008 article in "The Guardian" newspaper. ](/news/2010/04/1/a-landmark-ruling-at-the-court-of-appeal-allows-science-writer-simon-singh-to-rely-on-the-defence-of-fair-comment-in-a-libel-action-taken-b.md)
 _Context: British Chiropractic Association, Court of Appeal, Simon Singh, The Guardian, defamation, fair comment_
 
 ### [ Justice Victoria Sharp blocks a rail work stoppage by signallers over pay cuts and working conditions, which would have been Britain's first national rail strike in 16 years. ](/news/2010/04/1/justice-victoria-sharp-blocks-a-rail-work-stoppage-by-signallers-over-pay-cuts-and-working-conditions-which-would-have-been-britain-s-firs.md)
@@ -57,7 +57,7 @@ LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on T
 ### [ Aretha Franklin and Michael Jackson are inducted into the hall of fame at New York's Apollo Theater. ](/news/2010/04/1/aretha-franklin-and-michael-jackson-are-inducted-into-the-hall-of-fame-at-new-york-s-apollo-theater.md)
 _Context: Apollo Theater, Aretha Franklin, Michael Jackson, New York City_
 
-### [ Members of the Christian militia group Hutaree plead not guilty to a court in Michigan, United States, to claims of plotting to kill American police officers. ](/news/2010/04/1/members-of-the-christian-militia-group-hutaree-plead-not-guilty-to-a-court-in-michigan-united-states-to-claims-of-plotting-to-kill-americ.md)
+### [ Members of the Christian militia group Hutaree plead not guilty to a court in Michigan, United States, to claims of plotting to kill American police officers. [http://www.cnn.com/2010/CRIME/03/31/michigan.militia.hutaree/index.html?iref=allsearch (CNN) ]](/news/2010/04/1/members-of-the-christian-militia-group-hutaree-plead-not-guilty-to-a-court-in-michigan-united-states-to-claims-of-plotting-to-kill-americ.md)
 _Context: Christian, Hutaree, Michigan, United States, militia, police officer_
 
 ### [ Sarah Palin spoke to thousands of tea party activists gathered in the Nevada desert about Harry Reid. ](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.md)

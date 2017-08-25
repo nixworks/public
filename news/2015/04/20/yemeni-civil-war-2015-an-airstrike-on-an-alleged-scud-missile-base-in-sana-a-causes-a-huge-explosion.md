@@ -1,0 +1,24 @@
+### [2015-04-20](/news/2015/04/20/index.md)
+
+# Yemeni Civil War (2015). An airstrike on an alleged Scud missile base in Sana'a causes a huge explosion. 
+
+Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday caused massive explosions that shattered windows, sent residents scrambling for shelter and killed a local TV presenter
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/politics/2015/04/20/us-navy-stationing-aircraft-carrier-and-escort-ship-in-yemeni-waters-to/)
+2. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Apr-20/295050-airstrike-on-missile-base-in-sanaa-causes-largest-explosion-in-more-than-3-weeks-of-bombing-residents.ashx)
+
+### Related:
+
+1. [Yemeni Civil War (2015). Saudi Arabian-led intervention in Yemen. Yemen's Sana'a-controlled forces fire a Scud missile at Saudi Arabia in retaliation to Saudi "war crimes". A spokesman for Yemen's military allied with Houthi militants said the missile hit a Saudi airbase and caused "widespread destruction". There was no immediate comment from the Saudi side. ](/news/2015/10/15/yemeni-civil-war-2015-saudi-arabian-led-intervention-in-yemen-yemen-s-sana-a-controlled-forces-fire-a-scud-missile-at-saudi-arabia-in-re.md) _Context: Sanaa, Yemeni Civil War (2015)_
+2. [Saudi Arabian-led intervention in Yemen. At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/saudi-arabian-led-intervention-in-yemen-at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north.md) _Context: Sanaa_
+3. [Yemeni Civil War (2015-present). An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/yemeni-civil-war-2015-present-an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthi.md) _Context: Sanaa_
+4. [United States-Yemen relations. WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/united-states-yemen-relations-wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: Sanaa_
+5. [Saudi Arabian-led intervention in Yemen. Saudi-led coalition jets launch airstrikes on civilians at the funeral of the father of the Houthi government's Interior Minister in Sana'a, killing at least 140 people, and injuring over 500 more. One of the dead is the mayor of Sana'a, Abdul-Qader Hilal. ](/news/2016/10/8/saudi-arabian-led-intervention-in-yemen-saudi-led-coalition-jets-launch-airstrikes-on-civilians-at-the-funeral-of-the-father-of-the-houthi.md) _Context: Sanaa_
+6. [Yemeni Civil War (2015-present). Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/yemeni-civil-war-2015-present-saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sanaa_
+7. [Saudi Arabian-led intervention in Yemen. Saudi Arabia accepts the finding of the Joint Incidents Assessment Team, a setup of coalition states to investigate complaints against coalitions conduct in Decisive Storm, that the October 8 coalition-s bombardment at a funeral ceremony in Sana'a, in which over 140 people were killed and more than 600 injured, was based on wrong information. ](/news/2016/10/15/saudi-arabian-led-intervention-in-yemen-saudi-arabia-accepts-the-finding-of-the-joint-incidents-assessment-team-a-setup-of-coalition-state.md) _Context: Sanaa_
+8. [Saudi Arabian-led intervention in Yemen. At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/saudi-arabian-led-intervention-in-yemen-at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-ca.md) _Context: Sanaa_
+9. [Yemeni Civil War (2015-present). Saudi Arabian-led intervention in Yemen. At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/yemeni-civil-war-2015-present-saudi-arabian-led-intervention-in-yemen-at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-t.md) _Context: Sanaa_
+10. [Saudi Arabian-led intervention in Yemen. Iran says last night, Saudi warplanes bombed its embassy in the Yemeni capital, Sana'a, wounding several of its guards. The Associated Press reports there is no visible damage to the building. A Saudi-alliance spokesman promises to investigate the accusations. ](/news/2016/01/7/saudi-arabian-led-intervention-in-yemen-iran-says-last-night-saudi-warplanes-bombed-its-embassy-in-the-yemeni-capital-sana-a-wounding-se.md) _Context: Sanaa_

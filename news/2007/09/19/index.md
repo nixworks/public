@@ -33,10 +33,10 @@ _Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, he
 ### [ Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. ](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.md)
 _Context: Gaza Strip, Palestinian Authority, government_
 
-### [ U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department.  Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain.  ](/news/2007/09/19/u-s-congressman-henry-waxman-chairman-of-the-house-committee-on-oversight-and-government-reform-announces-that-he-will-begin-an-investig.md)
+### [ U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department. Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain. ](/news/2007/09/19/u-s-congressman-henry-waxman-chairman-of-the-house-committee-on-oversight-and-government-reform-announces-that-he-will-begin-an-investig.md)
 _Context: Blackwater, Broadcasting Board of Governors, Henry Waxman, House Oversight Committee, Howard Krongard, Iraq, Kenneth Tomlinson, State Department, United States Congress, United States Embassy in Iraq_
 
-### [ The Deputy Commander of the Iranian Air Force claims that Iran  has plans to retaliate if attacked by Israel. ](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.md)
+### [ The Deputy Commander of the Iranian Air Force claims that Iran has plans to retaliate if attacked by Israel. ](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.md)
 _Context: Iran, Iranian Air Force, Israel_
 
 ### [ A car bomb in Beirut kills Lebanese legislator Antoine Ghanem of the Christian Phalange party and at least seven others. ](/news/2007/09/19/a-car-bomb-in-beirut-kills-lebanese-legislator-antoine-ghanem-of-the-christian-phalange-party-and-at-least-seven-others.md)
@@ -54,7 +54,7 @@ _Context: Khmer Rouge, Nuon Chea, United Nations, genocide_
 ### [ Republican lawmakers block the United States Senate from taking up a bill to grant voting rights to Washington DC. ](/news/2007/09/19/republican-lawmakers-block-the-united-states-senate-from-taking-up-a-bill-to-grant-voting-rights-to-washington-dc.md)
 _Context: Republican, Washington DC, voting rights_
 
-### [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md)
+### [ 2007 Pacific typhoon season:. Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.
 
 ## [Previous Day...](/news/2007/09/18/index.md)

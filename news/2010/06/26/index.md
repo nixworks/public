@@ -12,7 +12,7 @@ _Context: Kyrgyzstan_
 ### [17 people are killed and 25 others injured when an overcrowded bus collided head-on with a speeding truck near Chenaki More, abount 30 km from Patna, India. ](/news/2010/06/26/17-people-are-killed-and-25-others-injured-when-an-overcrowded-bus-collided-head-on-with-a-speeding-truck-near-chenaki-more-abount-30-km-fr.md)
 Patna, June 26 (ANI): At least seventeen people were killed and 25 others injured when an overcrowded bus collided head-on with a speeding truck near Chenaki More, around 30 km from Patna on Saturday. According to sources, the
 
-### [The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md)
+### [2010 G-20 Toronto summit. The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/2010-g-20-toronto-summit-the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md)
 Black-clad anarchists protesting at the G20 summit have smashed storefronts and wrecked a police car.
 
 ### [President of Zambia Rupiah Banda says his country did not ask for health and road aid which has now been frozen by The Global Fund to Fight AIDS, Tuberculosis and Malaria and the European Union before an upcoming election and says "We must not allow donors to feel they can interfere in the internal affairs of this country because it is a sovereign and independent state". ](/news/2010/06/26/president-of-zambia-rupiah-banda-says-his-country-did-not-ask-for-health-and-road-aid-which-has-now-been-frozen-by-the-global-fund-to-fight.md)
@@ -63,7 +63,7 @@ _Context: Afghanistan's_
 ### [Former Vice President of the United States Dick Cheney, who has a long history of heart problems, is hospitalized. ](/news/2010/06/26/former-vice-president-of-the-united-states-dick-cheney-who-has-a-long-history-of-heart-problems-is-hospitalized.md)
 Former US vice president Dick Cheney, who has a long history of heart problems, has been hospitalised.
 
-### [Fedor Emelianenko records only the second loss of his career as he is tapped out by Fabrcio Werdum at the ''Strikeforce: Fedor vs. Werdum'' mixed martial arts match in San Jose, California, US. ](/news/2010/06/26/fedor-emelianenko-records-only-the-second-loss-of-his-career-as-he-is-tapped-out-by-fabricio-werdum-at-the-strikeforce-fedor-vs-werdum.md)
+### [Fedor Emelianenko records only the second loss of his career as he is tapped out by Fabrcio Werdum at the "Strikeforce: Fedor vs. Werdum" mixed martial arts match in San Jose, California, US. ](/news/2010/06/26/fedor-emelianenko-records-only-the-second-loss-of-his-career-as-he-is-tapped-out-by-fabricio-werdum-at-the-strikeforce-fedor-vs-werdum-m.md)
 SAN JOSE, Calif. -- Fabricio Werdum turned the MMA world on its ear with his stunning upset off top-ranked heavyweight Fedor Emelianenko at Strikeforce/M-1 Global “Fedor vs. Werdum” on Saturday at the HP Pavilion.
 
 ## [Previous Day...](/news/2010/06/25/index.md)

@@ -12,7 +12,7 @@ _Context: 2006 general election, National Assembly, Nicaragua, abortion law_
 ### [ A Russian Progress spacecraft hauling fresh food, oxygen and vital spare parts for the International Space Station (ISS) arrived at its orbital destination after a successful rendezvous marred by a last-minute antenna glitch. ](/news/2006/10/26/a-russian-progress-spacecraft-hauling-fresh-food-oxygen-and-vital-spare-parts-for-the-international-space-station-iss-arrived-at-its-orb.md)
 _Context: International Space Station, Progress, Russia, arrived at its orbital destination_
 
-### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started  the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
+### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
 _Context: Esperanza Fire, Palm Springs, California, United States, arsonist_
 
 ### [ Fifteen people die and 400 are admitted to hospital in Pskov, Russia, after consuming alcohol suspected of being tainted with medicinal drugs or chemicals. ](/news/2006/10/26/fifteen-people-die-and-400-are-admitted-to-hospital-in-pskov-russia-after-consuming-alcohol-suspected-of-being-tainted-with-medicinal-dru.md)

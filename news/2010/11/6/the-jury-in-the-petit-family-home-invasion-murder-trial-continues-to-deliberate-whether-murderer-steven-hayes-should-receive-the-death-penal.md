@@ -1,6 +1,6 @@
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-# The jury in the Petit family home invasion murder trial continues to deliberate whether murderer Steven Hayes should receive the death penalty or life imprisonment.  
+# The jury in the Petit family home invasion murder trial continues to deliberate whether murderer Steven Hayes should receive the death penalty or life imprisonment. 
 
 
 

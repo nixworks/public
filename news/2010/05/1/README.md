@@ -1,6 +1,6 @@
 ## [2010-05-1](/news/2010/05/1/index.md)
 
-### [Part of New York City's Times Square is evacuated and sealed off as a  car bomb is discovered and deactivated before it could be detonated. ](/news/2010/05/1/part-of-new-york-city-s-times-square-is-evacuated-and-sealed-off-as-a-car-bomb-is-discovered-and-deactivated-before-it-could-be-detonated.md)
+### [Part of New York City's Times Square is evacuated and sealed off as a car bomb is discovered and deactivated before it could be detonated. ](/news/2010/05/1/part-of-new-york-city-s-times-square-is-evacuated-and-sealed-off-as-a-car-bomb-is-discovered-and-deactivated-before-it-could-be-detonated.md)
 Bomb-making materials have been removed from a parked car in New York&#039;s Times Square, including propane tanks and a clock suspected to be a timing device.
 
 ### [Dozens of people are killed by twin bomb blasts inside a Mogadishu mosque. ](/news/2010/05/1/dozens-of-people-are-killed-by-twin-bomb-blasts-inside-a-mogadishu-mosque.md)
@@ -45,7 +45,7 @@ _Context: Albania, European Patent Organisation_
 ### [Taiwan employs capital punishment for the first time since 2005, executing four men for "grave offences such as fatal kidnappings and murders". ](/news/2010/05/1/taiwan-employs-capital-punishment-for-the-first-time-since-2005-executing-four-men-for-grave-offences-such-as-fatal-kidnappings-and-murder.md)
 _Context: Taiwan, capital punishment, the first time since 2005_
 
-### [Two retired generals tell ''The Washington Post'' that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-t.md)
+### [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md)
 Rising rates of obesity among young Americans could pose a risk to the future of the military, two retired generals are warning. - New Zealand Herald
 
 ### [A Taipei-Shanghai flight makes an emergency landing in Hangzhou after an American passenger makes an inappropriate reference to a bomb. ](/news/2010/05/1/a-taipei-shanghai-flight-makes-an-emergency-landing-in-hangzhou-after-an-american-passenger-makes-an-inappropriate-reference-to-a-bomb.md)

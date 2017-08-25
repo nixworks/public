@@ -9,7 +9,7 @@ _Context: ECOWAS, France, Ivorian Civil War, Senegal, United Nations, buffer zon
 ### [ South Africa announces a ZAR 140 million (USD $22 million) donation to the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO) to alleviate food shortages in Southern Africa. ](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.md)
 _Context: Food and Agriculture Organization, South Africa, Southern Africa, USD, United Nations, World Food Programme, ZAR_
 
-### [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium ''Helicobacter pylouri'' and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md)
+### [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium "Helicobacter pylouri" and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md)
 _Context: Australia, Barry J. Marshall, Helicobacter pylouri, Nobel Prize in Physiology or Medicine, Robin Warren, bacterium, gastritis, peptic ulcer_
 
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)
@@ -27,7 +27,7 @@ _Context: Sangju, South Korea, concert, stampede_
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)
 _Context: Bullet For My Valentine, RIAA, The Poison, United States, heavy metal band's_
 
-### [ On the first day of  the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience.  ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-s.md)
+### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
 _Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, U.S. Supreme Court, United States, White House Counsel, president_
 
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)

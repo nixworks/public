@@ -1,6 +1,6 @@
 ### [2009-12-31](/news/2009/12/31/index.md)
 
-#  ''Les Choristes'' by Impressionist artist Edgar Degas mysteriously disappears from Marseilles's Cantini Museum. 
+#  "Les Choristes" by Impressionist artist Edgar Degas mysteriously disappears from Marseilles's Cantini Museum. 
 
 
 
@@ -14,6 +14,6 @@
 
 ### Related:
 
-1. [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for 13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-ps13-7-million-at-chr.md) _Context: Edgar Degas_
+1. [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for GBP13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-gbp13-7-million-at-c.md) _Context: Edgar Degas_
 2. [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md) _Context: Marseilles_
 3. [ Paintings by Paul Czanne, Edgar Degas, Vincent van Gogh, and Claude Monet are stolen from the Foundation E.G. Bhrle, a museum in Zrich. ](/news/2008/02/11/paintings-by-paul-cezanne-edgar-degas-vincent-van-gogh-and-claude-monet-are-stolen-from-the-foundation-e-g-buhrle-a-museum-in-zurich.md) _Context: Edgar Degas_

@@ -1,21 +1,21 @@
 ## [2012-02-25](/news/2012/02/25/index.md)
 
-### [2012 Afghanistan Quran burning protests:Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-ptwo-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md)
+### [2012 Afghanistan Quran burning protests:. Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md)
 Two Nato officers are shot dead inside the interior ministry in Kabul, prompting Nato to withdraw all its staff from Afghan ministries.
 
-### [Syria:Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-pover-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md)
+### [Syria:. Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md)
 _Context: Hama, Homs, Syria_
 
-### [Yemen:An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-pan-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md)
+### [Yemen:. An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md)
 A suicide bombing claimed by al Qaeda killed at least 26 people outside a presidential palace in southern Yemen on Saturday, hours after the newly-elected president was sworn in and said the battle against the Islamists was a &quot;national duty.&quot;
 
 ### [Bahrain's Opposition Al-Wefaq group claims that a woman has died from tear gas inhalation. ](/news/2012/02/25/bahrain-s-opposition-al-wefaq-group-claims-that-a-woman-has-died-from-tear-gas-inhalation.md)
 _Context: Al Wefaq, Bahrain, tear gas_
 
-### [Treasure from the Spanish Navy frigate ''Nuestra Seora de las Mercedes'' returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-explorati.md)
+### [Treasure from the Spanish Navy frigate "Nuestra Seora de las Mercedes" returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-exploration.md)
 Coins worth nearly half a billion dollars finally arrived in Spain on Saturday after lying in a sunken warship for more than 200 years and following a five-year legal battle between the Spanish government and a salvage company.
 
-### [''The Artist'' wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. ](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.md)
+### ["The Artist" wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. ](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.md)
 _Context: Independent Spirit Awards 2011, Santa Monica, The Artist_
 
 ### [A G-20 finance ministers meeting is held in Mexico City to discuss progress in the Eurozone bailout. ](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.md)

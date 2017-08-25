@@ -1,6 +1,6 @@
 ## [2007-04-13](/news/2007/04/13/index.md)
 
-### [ The genome sequence of the Rhesus Macaque monkey is published in the scientific journal ''Science''. ](/news/2007/04/13/the-genome-sequence-of-the-rhesus-macaque-monkey-is-published-in-the-scientific-journal-science.md)
+### [ The genome sequence of the Rhesus Macaque monkey is published in the scientific journal "Science". ](/news/2007/04/13/the-genome-sequence-of-the-rhesus-macaque-monkey-is-published-in-the-scientific-journal-science.md)
 _Context: Rhesus Macaque, Science, genome, scientific journal_
 
 ### [ The Singapore Police Coast Guard suffers its first fatality in decades when two police officers and an illegal migrant are killed after their Interceptor Craft collides with a speedboat ferrying six illegal immigrants during a high-speed pursuit. ](/news/2007/04/13/the-singapore-police-coast-guard-suffers-its-first-fatality-in-decades-when-two-police-officers-and-an-illegal-migrant-are-killed-after-the.md)

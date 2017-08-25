@@ -27,7 +27,7 @@ Six parties withdraw from Juba conference discussing the future of south Sudan.
 ### [ The final report of an international fact-finding mission concludes that Georgia started the 2008 South Ossetia war. ](/news/2009/09/30/the-final-report-of-an-international-fact-finding-mission-concludes-that-georgia-started-the-2008-south-ossetia-war.md)
 _Context: 2008 South Ossetia war, Georgian, international fact-finding mission_
 
-### [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima.  ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md)
+### [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md)
 _Context: Alberto Fujimori, Lima, Peru, President_
 
 ## [Previous Day...](/news/2009/09/29/index.md)

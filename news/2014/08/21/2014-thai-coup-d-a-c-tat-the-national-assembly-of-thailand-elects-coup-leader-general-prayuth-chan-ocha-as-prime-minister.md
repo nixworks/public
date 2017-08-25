@@ -1,0 +1,23 @@
+### [2014-08-21](/news/2014/08/21/index.md)
+
+# 2014 Thai coup d'etat. The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. 
+
+
+
+
+### Source:
+
+1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/08/21/thai-army-chief-chosen-as-prime-minister.html)
+
+### Related:
+
+1. [Thai Prime Minister Prayuth Chan-ocha orders officials to improve aviation safety standards after the U.S. Federal Aviation Administration (FAA) downgraded Thailand's safety ratings. The lower rating is for failure to tackle commercial aviation standards shortcomings found in an audit this year. The European Aviation Safety Agency is due to announce the results of its own audit later in December. ](/news/2015/12/2/thai-prime-minister-prayuth-chan-ocha-orders-officials-to-improve-aviation-safety-standards-after-the-u-s-federal-aviation-administration.md) _Context: Prayuth Chan-ocha, Prime Minister_
+2. [2014 Thai coup d'tat:. Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/2014-thai-coup-d-etat-royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-s.md) _Context: Prayuth Chan-ocha, Prime Minister_
+3. [2013-14 Thai political crisis:. Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013-14-thai-political-crisis-thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md) _Context: Prayuth Chan-ocha, military coup_
+4. [Prime Minister of Thailand Abhisit Vejjajiva, declares a state of emergency after widespread anti-government protests and shortly after demonstrators stormed the country's parliament. ](/news/2010/04/7/prime-minister-of-thailand-abhisit-vejjajiva-declares-a-state-of-emergency-after-widespread-anti-government-protests-and-shortly-after-demo.md) _Context: National Assembly of Thailand, Prime Minister_
+5. [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md) _Context: National Assembly of Thailand, Prime Minister_
+6. [Thailand's Supreme Court issues an arrest warrant for former Prime Minister Yingluck Shinawatra, who didn't appear in court for the verdict in her negligence trial regarding a rice subsidy program for farmers. The court also issued a statement questioning her attorney's report that she is unwell and a potential flight risk, citing the lack of a physician's certificate. The reading of the verdict has been rescheduled to September 27. ](/news/2017/08/25/thailand-s-supreme-court-issues-an-arrest-warrant-for-former-prime-minister-yingluck-shinawatra-who-didn-t-appear-in-court-for-the-verdict.md) _Context: Prime Minister_
+7. [2013-14 Thai political crisis. Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/2013-14-thai-political-crisis-former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _Context: Prime Minister_
+8. [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md) _Context: military coup_
+9. [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md) _Context: Prime Minister_
+10. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: Prime Minister_

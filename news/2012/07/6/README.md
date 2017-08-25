@@ -12,7 +12,7 @@ _Context: Miran Shah, Pakistan, US$_
 ### [About 10 aid workers, some working for the United Nations, are arrested by authorities in western Myanmar where sectarian clashes killed dozens of people last month. ](/news/2012/07/6/about-10-aid-workers-some-working-for-the-united-nations-are-arrested-by-authorities-in-western-myanmar-where-sectarian-clashes-killed-doz.md)
 _Context: Rakhine State, United Nations_
 
-### [Gunmen fire at a helicopter carrying voting material for tomorrow's election, killing one person in Libya.  ](/news/2012/07/6/gunmen-fire-at-a-helicopter-carrying-voting-material-for-tomorrow-s-election-killing-one-person-in-libya.md)
+### [Gunmen fire at a helicopter carrying voting material for tomorrow's election, killing one person in Libya. ](/news/2012/07/6/gunmen-fire-at-a-helicopter-carrying-voting-material-for-tomorrow-s-election-killing-one-person-in-libya.md)
 _Context: Libya_
 
 ### [Associated Press reports that Yahoo! and Facebook have resolved a patent dispute. ](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.md)
@@ -24,7 +24,7 @@ _Context: Economy of the United States, United States Department of Labor_
 ### [More than 80 flood alerts are issued in the United Kingdom as the north of England and East Anglia prepares for torrential rain. ](/news/2012/07/6/more-than-80-flood-alerts-are-issued-in-the-united-kingdom-as-the-north-of-england-and-east-anglia-prepares-for-torrential-rain.md)
 Persistent rain continues to fall over much of the country, with very heavy rain beginning to affect the South West.
 
-### [Former ''de facto'' President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of.md)
+### [Former "de facto" President of Argentina Jorge Videla and General Reynaldo Bignone are found guilty of overseeing the systematic theft of at least 400 babies from political prisoners during military rule's Dirty War. ](/news/2012/07/6/former-de-facto-president-of-argentina-jorge-videla-and-general-reynaldo-bignone-are-found-guilty-of-overseeing-the-systematic-theft-of-at.md)
 Two former military leaders in Argentina have been found guilty of overseeing the systematic theft of babies from political prisoners.
 
 ### [British police arrest six men from the West Midlands and one from South Yorkshire on suspicion of terrorist offences. ](/news/2012/07/6/british-police-arrest-six-men-from-the-west-midlands-and-one-from-south-yorkshire-on-suspicion-of-terrorist-offences.md)

@@ -1,6 +1,6 @@
 ## [2011-08-4](/news/2011/08/4/index.md)
 
-### [War in Afghanistan (2001-present):A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in  Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001apresent-pa-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kille.md)
+### [War in Afghanistan (2001-present):. A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001-present-a-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kill.md)
 _Context: Afghanistan's, Kunduz Province, National Directorate of Security, Payenda Khan, War in Afghanistan (2001-present)_
 
 ### [Kraft Foods announces that it will split into two operations consisting of its North American grocery business and its global snack foods business. ](/news/2011/08/4/kraft-foods-announces-that-it-will-split-into-two-operations-consisting-of-its-north-american-grocery-business-and-its-global-snack-foods-bu.md)

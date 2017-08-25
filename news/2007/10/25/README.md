@@ -27,8 +27,8 @@ A magnitude 7.1 earthquake has jolted the Indian Ocean off Indonesia&#039;s Suma
 ### [ The Tokelauan self-determination referendum fails by 16 votes. ](/news/2007/10/25/the-tokelauan-self-determination-referendum-fails-by-16-votes.md)
 _Context: Tokelauan self-determination referendum_
 
-### [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md)
-_Context: , British Airways, EasyJet_
+### [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for GBP103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.md)
+_Context: British Airways, EasyJet, GBP_
 
 ## [Previous Day...](/news/2007/10/24/index.md)
 

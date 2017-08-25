@@ -1,6 +1,6 @@
 ## [2011-01-2](/news/2011/01/2/index.md)
 
-### [International mediators propose the establishment of a regional authority for Darfur, as a compromise between the Sudanese government and rebels' demands, in a diplomatic effort to respond to Sudanese President Bashir's order last week to withdraw the Sudanese government delegation from talks in Doha. ](/news/2011/01/2/international-mediators-propose-the-establishment-of-a-regional-authority-for-darfur-as-a-compromise-between-the-sudanese-government-and-re.md)
+### [International mediators propose the establishment of a regional authority for Darfur, as a compromise between the Sudanese government and rebels- demands, in a diplomatic effort to respond to Sudanese President Bashir-s order last week to withdraw the Sudanese government delegation from talks in Doha. ](/news/2011/01/2/international-mediators-propose-the-establishment-of-a-regional-authority-for-darfur-as-a-compromise-between-the-sudanese-government-and-re.md)
 _Context: Darfur, Doha, Omar al-Bashir, Sudanese government_
 
 ### [Egyptian police shoot and kill an African illegal immigrant outside the Israeli border. ](/news/2011/01/2/egyptian-police-shoot-and-kill-an-african-illegal-immigrant-outside-the-israeli-border.md)
@@ -9,7 +9,7 @@ Officers on patrol opened fire on the infiltrator after he refused orders to sto
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
 _Context: Internal Revenue Service, United States, extension of the Bush tax cuts and other itemizations, tax returns_
 
-### [Officials in Afghanistan said that the price of opium has doubled due to a blight.  There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
+### [Officials in Afghanistan said that the price of opium has doubled due to a blight. There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
 Opium prices have almost doubled after a blight halved production in 2010, Afghan officials said on Sunday, raising fears more farmers would turn to the illicit crop in the absence of profitable alternatives.
 
 ### [A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. ](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.md)
@@ -42,7 +42,7 @@ IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2
 ### [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md)
 _Context: Spain, smoking ban_
 
-### [US President Barack Obama signs the 9/11 health bill into law to cover  the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center.  ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-t.md)
+### [US President Barack Obama signs the 9/11 health bill into law to cover the cost of medical care for rescue workers and others sickened by toxic fumes and dust after the 2001 attack on the World Trade Center. ](/news/2011/01/2/us-president-barack-obama-signs-the-9-11-health-bill-into-law-to-cover-the-cost-of-medical-care-for-rescue-workers-and-others-sickened-by-to.md)
 The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist attack required the president’s signature before he returned from a Hawaii vacation.
 
 ### [Former Canadian ambassador to the United Nations Paul Heinbecker urges the Canadian government to determine its agenda as global power shifts, particularly towards emerging economies. ](/news/2011/01/2/former-canadian-ambassador-to-the-united-nations-paul-heinbecker-urges-the-canadian-government-to-determine-its-agenda-as-global-power-shift.md)
@@ -51,10 +51,10 @@ _Context: Paul Heinbecker, United Nations_
 ### [Greece is considering the construction of a fence along its border with Turkey to fend off an ongoing flood of economic migrants from the Middle East and North Africa. ](/news/2011/01/2/greece-is-considering-the-construction-of-a-fence-along-its-border-with-turkey-to-fend-off-an-ongoing-flood-of-economic-migrants-from-the-mi.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. ](/news/2011/01/2/2010a2011-tunisian-protests-hacktivist-group-anonymous-announces-operation-tunisia-in-solidarity-with-protestors-successfully-bringing.md)
+### [2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. ](/news/2011/01/2/2010-2011-tunisian-protests-hacktivist-group-anonymous-announces-operation-tunisia-in-solidarity-with-protestors-successfully-bringing.md)
 The faction of Anonymous that launched the anti-Scientology movement Chanology and has more recently been supporting Wikileaks through various information and direct action campaigns has launched an ...
 
-### [2010-2011 Ivorian crisis:Laurent Gbagbo's "Street General" postpones plans for its youth militia to storm the Golf Hotel, where Alassane Ouattara is currently staying, the area surrounded by the New Forces. Supporters of Ouattara renew calls to depose Gbagbo by military intervention. ](/news/2011/01/2/2010a2011-ivorian-crisis-plaurent-gbagbo-s-street-general-postpones-plans-for-its-youth-militia-to-storm-the-golf-hotel-where-alassane.md)
+### [2010-2011 Ivorian crisis:. Laurent Gbagbo's "Street General" postpones plans for its youth militia to storm the Golf Hotel, where Alassane Ouattara is currently staying, the area surrounded by the New Forces. Supporters of Ouattara renew calls to depose Gbagbo by military intervention. ](/news/2011/01/2/2010-2011-ivorian-crisis-laurent-gbagbo-s-street-general-postpones-plans-for-its-youth-militia-to-storm-the-golf-hotel-where-alassane.md)
 Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;s president Laurent Gbagbo, has called off an appeal to launch an assault on the Abidjan hotel where Alassane Ouattara is besieged.
 
 ### [Hundreds of Coptic Christians protest in Alexandria and Cairo and shout slogans against Hosni Mubarak's rule following the church bombing, where some people held mass. Egyptian media warns of civil war and increasing sectarian violence between Christians and Muslims, and Pope Benedict XVI publicly condemns the bombing. ](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.md)

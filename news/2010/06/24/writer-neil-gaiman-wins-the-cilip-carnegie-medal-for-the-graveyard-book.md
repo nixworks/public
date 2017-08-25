@@ -1,6 +1,6 @@
 ### [2010-06-24](/news/2010/06/24/index.md)
 
-# Writer Neil Gaiman wins the Cilip Carnegie Medal for ''The Graveyard Book''. 
+# Writer Neil Gaiman wins the Cilip Carnegie Medal for "The Graveyard Book". 
 
 
 

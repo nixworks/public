@@ -1,6 +1,6 @@
 ### [2011-02-24](/news/2011/02/24/index.md)
 
-# The editor of the ''Myanmar Times'' newspaper in Burma is charged with assault. 
+# The editor of the "Myanmar Times" newspaper in Burma is charged with assault. 
 
 
 

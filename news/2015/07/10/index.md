@@ -1,12 +1,12 @@
 ## [2015-07-10](/news/2015/07/10/index.md)
 
-### [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md)
+### [War in Somalia (2009-present). Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/war-in-somalia-2009-present-al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md)
 _Context: Mogadishu, Somalia, War in Somalia (2009-present), al-Shabaab militants_
 
-### [Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md)
+### [Islamic State in Iraq and the Levant. Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/islamic-state-in-iraq-and-the-levant-turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md)
 _Context: Daesh, ISIL, ISIL, Turkey_
 
-### [ A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-67-and-cut-pensions-by-15-for.md)
+### [Greek government-debt crisis. A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/greek-government-debt-crisis-a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-6.md)
 Sobered by reports that Eurozone partners were ready to let Greece fall out of the common currency club, the Greek government Thursday delivered a new package of economic reforms to its creditors that capitulated to lenders’ demands for raising taxes and the retirement age.
 
 ### [Ellen Pao resigns as the interim CEO of Internet site Reddit following a user backlash over the deletion of some subreddits for harassment and sacking of a popular admin. Site co-founder Steve Huffman will take her place. ](/news/2015/07/10/ellen-pao-resigns-as-the-interim-ceo-of-internet-site-reddit-following-a-user-backlash-over-the-deletion-of-some-subreddits-for-harassment-a.md)
@@ -18,10 +18,10 @@ Actor Omar Sharif, best known for classic films Lawrence of Arabia and Doctor Zh
 ### [At least 23 people have been killed and 50 injured following a stampede at a free clothing drive in the northern Bangladeshi city of Mymensingh. ](/news/2015/07/10/at-least-23-people-have-been-killed-and-50-injured-following-a-stampede-at-a-free-clothing-drive-in-the-northern-bangladeshi-city-of-mymensi.md)
 At least 23 people die and scores are injured in a stampede at a charity clothing giveaway in Mymensingh in northern Bangladesh, police say.
 
-### [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md)
+### [2015 Canadian Wildfires. Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/2015-canadian-wildfires-wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [China is dealing with two typhoons in a week. Typhoon Linfa  lost power after making landfall in southern China's Guangdong province Thursday.  Typhoon Chan-hom (Falcon)  is headed for landfall in eastern China near Shanghai this weekend. ](/news/2015/07/10/china-is-dealing-with-two-typhoons-in-a-week-typhoon-linfa-lost-power-after-making-landfall-in-southern-china-s-guangdong-province-thursda.md)
+### [2015 Pacific typhoon season. China is dealing with two typhoons in a week. Typhoon Linfa lost power after making landfall in southern China's Guangdong province Thursday. Typhoon Chan-hom (Falcon) is headed for landfall in eastern China near Shanghai this weekend. ](/news/2015/07/10/2015-pacific-typhoon-season-china-is-dealing-with-two-typhoons-in-a-week-typhoon-linfa-lost-power-after-making-landfall-in-southern-china.md)
 Chan-hom brought at least peripheral effects to four different locations in July 2015.
 
 ### [Indonesia closes four airports including Bali International Airport due to an ongoing eruption by the Raung volcano on Java. ](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.md)

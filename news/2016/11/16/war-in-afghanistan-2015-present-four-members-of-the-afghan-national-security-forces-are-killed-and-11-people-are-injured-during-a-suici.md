@@ -1,0 +1,23 @@
+### [2016-11-16](/news/2016/11/16/index.md)
+
+# War in Afghanistan (2015-present). Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. 
+
+Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
+
+
+### Source:
+
+1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/afghan-officials-suicide-bomber-kills-kabul-43567525)
+
+### Related:
+
+1. [War in Afghanistan (2015-present). An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. ](/news/2016/06/30/war-in-afghanistan-2015-present-an-afghan-national-security-forces-convoy-outside-kabul-is-attacked-in-a-coordinated-ambush-including-s.md) _Context: Afghan National Security Forces, Kabul, War in Afghanistan (2015-present)_
+2. [War in Afghanistan (2015-present). A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded. There are no report of casualties among the foreign forces. ](/news/2015/10/11/war-in-afghanistan-2015-present-a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-clai.md) _Context: Kabul, War in Afghanistan (2015-present), suicide bomber_
+3. [War in Afghanistan (2015-present). An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/war-in-afghanistan-2015-present-an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66.md) _Context: Kabul, War in Afghanistan (2015-present), suicide bomber_
+4. [War in Afghanistan (2015-present). A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/war-in-afghanistan-2015-present-a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three.md) _Context: War in Afghanistan (2015-present), suicide bomber_
+5. [War in Afghanistan (2015-present). Five anti-government/anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/war-in-afghanistan-2015-present-five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-deman.md) _Context: Kabul, War in Afghanistan (2015-present)_
+6. [War in Afghanistan (2015-present). May 2017 Kabul attack. A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/war-in-afghanistan-2015-present-may-2017-kabul-attack-a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-kille.md) _Context: Kabul, War in Afghanistan (2015-present)_
+7. [War in Afghanistan (2015-present). A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/war-in-afghanistan-2015-present-a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _Context: Kabul, War in Afghanistan (2015-present)_
+8. [War in Afghanistan (2015-present). A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil.md) _Context: Kabul, War in Afghanistan (2015-present)_
+9. [War in Afghanistan (2015-present). March 2017 Kabul attack. A suicide bomber and unidentified gunmen dressed as doctors attack a military hospital in Kabul, killing at least 38 people and wounding dozens more. ISIL claims responsibility for the attack. ](/news/2017/03/8/war-in-afghanistan-2015-present-march-2017-kabul-attack-a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military.md) _Context: Kabul, War in Afghanistan (2015-present)_
+10. [War in Afghanistan (2015-present). At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/war-in-afghanistan-2015-present-at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carryi.md) _Context: Kabul, War in Afghanistan (2015-present)_

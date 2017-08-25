@@ -21,7 +21,7 @@ _Context: Kampala, Ronald Muwenda Mutebi II, Uganda, kings_
 ### [ China lodges a complaint with the World Trade Organization over the United States' decision to impose import duties on Chinese-made tires. ](/news/2009/09/14/china-lodges-a-complaint-with-the-world-trade-organization-over-the-united-states-decision-to-impose-import-duties-on-chinese-made-tires.md)
 _Context: China, United States, World Trade Organization, tire_
 
-### [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad.  ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md)
+### [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad. ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md)
 The bomb squad has neutralized a suspicious package found in a vehicle near Markham Road and Finch Avenue and has reopened the area to traffic.
 
 ### [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md)

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md) _Context: Shali_
+1. [Insurgency in the North Caucasus. At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/insurgency-in-the-north-caucasus-at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md) _Context: Shali_

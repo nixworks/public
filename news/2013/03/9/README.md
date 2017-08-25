@@ -1,15 +1,15 @@
 ## [2013-03-9](/news/2013/03/9/index.md)
 
-### [Syrian civil war:Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-prebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md)
+### [Syrian civil war:. Rebels free 21 United Nations peacekeepers who were held captive for four days. ](/news/2013/03/9/syrian-civil-war-rebels-free-21-united-nations-peacekeepers-who-were-held-captive-for-four-days.md)
 A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this week arrive in Jordan after being released.
 
-### [War in Afghanistan:At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-pat-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hage.md)
+### [War in Afghanistan:. At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hag.md)
 _Context: Afghanistan's, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001-present), suicide bombings_
 
-### [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
+### [Nigerian Sharia conflict:. Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.
 
-### [Piracy in Somalia:The UAE-owned chemical tanker ''MV Royal Grace'' is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-pthe-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-a.md)
+### [Piracy in Somalia:. The UAE-owned chemical tanker "MV Royal Grace" is released along with its crew of 20 for an undisclosed ransom amount after being held hostage for over a year. ](/news/2013/03/9/piracy-in-somalia-the-uae-owned-chemical-tanker-mv-royal-grace-is-released-along-with-its-crew-of-20-for-an-undisclosed-ransom-amount-af.md)
 Somali pirates have released a chemical tanker they hijacked a year ago with about 20 crew on board after receiving a ransom, the pirates and a minister from the semi-autonomous Puntland region said on Saturday.
 
 ### [A house fire kills five children and two adults (including a pregnant woman) in the Gray community of Knox County, Kentucky, United States, cause undetermined and under investigation. ](/news/2013/03/9/a-house-fire-kills-five-children-and-two-adults-including-a-pregnant-woman-in-the-gray-community-of-knox-county-kentucky-united-states.md)

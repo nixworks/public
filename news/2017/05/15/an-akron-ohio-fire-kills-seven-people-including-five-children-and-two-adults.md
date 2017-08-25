@@ -12,4 +12,4 @@ AKRON, Ohio -- Police confirm that five children and two adults were killed in a
 ### Related:
 
 1. [A house fire in Akron, Ohio (US), kills four people, including two young girls. One woman safely fled her attic bedroom. A seriously injured 12-year old girl is revived and rescued. ](/news/2016/12/3/a-house-fire-in-akron-ohio-us-kills-four-people-including-two-young-girls-one-woman-safely-fled-her-attic-bedroom-a-seriously-injured.md) _Context: Akron, Ohio_
-2. [All nine people aboard  a Hawker H25 business jet are killed after the plane crashes into an apartment complex in the American city of Akron, Ohio. ](/news/2015/11/10/all-nine-people-aboard-a-hawker-h25-business-jet-are-killed-after-the-plane-crashes-into-an-apartment-complex-in-the-american-city-of-akron.md) _Context: Akron, Ohio_
+2. [All nine people aboard a Hawker H25 business jet are killed after the plane crashes into an apartment complex in the American city of Akron, Ohio. ](/news/2015/11/10/all-nine-people-aboard-a-hawker-h25-business-jet-are-killed-after-the-plane-crashes-into-an-apartment-complex-in-the-american-city-of-akron.md) _Context: Akron, Ohio_

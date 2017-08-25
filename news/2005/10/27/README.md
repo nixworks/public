@@ -3,7 +3,7 @@
 ### [ Conflict in Iraq: At least 20 Shia Militia members and Iraqi Police have died following a Sunni Arab ambush in Nahrawan, South East of Baghdad. ](/news/2005/10/27/conflict-in-iraq-at-least-20-shia-militia-members-and-iraqi-police-have-died-following-a-sunni-arab-ambush-in-nahrawan-south-east-of-bagh.md)
 _Context: Arab, Baghdad, Conflict in Iraq, Iraqi Police, Nahrawan, Shia, Sunni, militia_
 
-### [ Israeli-Palestinian Conflict: Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-p-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md)
+### [ Israeli-Palestinian Conflict:. Israeli troops raid the Palestinian town of Jenin, in the West Bank. ](/news/2005/10/27/israeli-palestinian-conflict-israeli-troops-raid-the-palestinian-town-of-jenin-in-the-west-bank.md)
 _Context: Israel, Israeli-Palestinian conflict, Jenin, West Bank_
 
 ### [ Israeli Prime Minister Ariel Sharon calls for the expulsion of Iran from the United Nations after the Iranian President repeated Ruhollah Khomeini's call for Israel to be "wiped off the map". ](/news/2005/10/27/israeli-prime-minister-ariel-sharon-calls-for-the-expulsion-of-iran-from-the-united-nations-after-the-iranian-president-repeated-ruhollah-k.md)

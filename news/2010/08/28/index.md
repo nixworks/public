@@ -1,9 +1,9 @@
 ## [2010-08-28](/news/2010/08/28/index.md)
 
-### [Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md)
+### [Pakistan. Suspected United States missiles strike two cars carrying militants in Pakistan's Kurram Valley resulting in at least four deaths. ](/news/2010/08/28/pakistan-suspected-united-states-missiles-strike-two-cars-carrying-militants-in-pakistan-s-kurram-valley-resulting-in-at-least-four-deaths.md)
 Suspected U.S. missiles struck two vehicles carrying militants in northwest Pakistan, killing four of them, intelligence officials said Saturday.
 
-### [Suspected Taliban insurgents attack two coalition allied military bases in eastern Afghanistan; both attacks are repelled by coalition forces, killing 24 militants while taking no casualties.  ](/news/2010/08/28/suspected-taliban-insurgents-attack-two-coalition-allied-military-bases-in-eastern-afghanistan-both-attacks-are-repelled-by-coalition-force.md)
+### [Suspected Taliban insurgents attack two coalition allied military bases in eastern Afghanistan; both attacks are repelled by coalition forces, killing 24 militants while taking no casualties. ](/news/2010/08/28/suspected-taliban-insurgents-attack-two-coalition-allied-military-bases-in-eastern-afghanistan-both-attacks-are-repelled-by-coalition-force.md)
 Nato-led forces repel attacks by Taliban insurgents on two coalition bases in eastern Afghanistan, killing 18 militants and capturing others, officials say.
 
 ### [Cuba eases property laws, allowing foreign investors to lease government land for up to 99 years. ](/news/2010/08/28/cuba-eases-property-laws-allowing-foreign-investors-to-lease-government-land-for-up-to-99-years.md)
@@ -21,13 +21,13 @@ _Context: Democratic Republic of the Congo, Rwanda, United Nations, war crime_
 ### [Iran answers Lebanon's call to help fund the Lebanese Army after the United States threatened to cut off funds following the 2010 Adaisseh incident.[http://www.almanar.com.lb/newssite/NewsDetails.aspx?id=152077&language=en]](/news/2010/08/28/iran-answers-lebanon-s-call-to-help-fund-the-lebanese-army-after-the-united-states-threatened-to-cut-off-funds-following-the-2010-adaisseh-i.md)
 _Context: 2010 Adaisseh incident, Iran, Lebanese Army, Lebanon, call_
 
-### [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated.md)
-_Context: Indonesia, Sinabung, Sumatra_
+### [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.[http://www.thejakartapost.com/news/2010/08/29/mount-sinabung-sumatra-erupts.html (The Jakarta Post)] (Wikinews)](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated-http-www-thejakartapost-com-news-2010-08-29-mount-sinabung-su.md)
+_Context: (Wikinews), Indonesia, Sinabung, Sumatra_
 
 ### [Iran says no final decision has been made on the stoning of Sakineh Mohammadi Ashtiani, who was convicted of adultery. ](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.md)
 _Context: Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 
-### [Former President of Madagascar Marc Ravalomanana is sentenced ''in absentia'' to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of.md)
+### [Former President of Madagascar Marc Ravalomanana is sentenced "in absentia" to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of-o.md)
 The exiled Madagascan president is sentenced to life in prison with hard labour for ordering a killing last year.
 
 ### [A large gathering of people attend Glenn Beck's "Restoring Honor" rally at the National Mall in Washington, D.C. ](/news/2010/08/28/a-large-gathering-of-people-attend-glenn-beck-s-restoring-honor-rally-at-the-national-mall-in-washington-d-c.md)

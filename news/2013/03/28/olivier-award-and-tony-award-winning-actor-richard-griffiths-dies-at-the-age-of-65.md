@@ -11,5 +11,5 @@ This vastly endearing actor, who made such an impression in Withnail And I and T
 
 ### Related:
 
-1. [ ''Billy Elliot the Musical'' wins Best Musical and ''God of Carnage'' wins Best Play at the 63rd Tony Awards. ](/news/2009/06/7/billy-elliot-the-musical-wins-best-musical-and-god-of-carnage-wins-best-play-at-the-63rd-tony-awards.md) _Context: Tony Award_
-2. [ ''August: Osage County'' wins the 62nd Tony Award for best play while ''In the Heights'' wins best musical. ](/news/2008/06/15/august-osage-county-wins-the-62nd-tony-award-for-best-play-while-in-the-heights-wins-best-musical.md) _Context: Tony Award_
+1. [ "Billy Elliot the Musical" wins Best Musical and "God of Carnage" wins Best Play at the 63rd Tony Awards. ](/news/2009/06/7/billy-elliot-the-musical-wins-best-musical-and-god-of-carnage-wins-best-play-at-the-63rd-tony-awards.md) _Context: Tony Award_
+2. [ "August: Osage County" wins the 62nd Tony Award for best play while "In the Heights" wins best musical. ](/news/2008/06/15/august-osage-county-wins-the-62nd-tony-award-for-best-play-while-in-the-heights-wins-best-musical.md) _Context: Tony Award_

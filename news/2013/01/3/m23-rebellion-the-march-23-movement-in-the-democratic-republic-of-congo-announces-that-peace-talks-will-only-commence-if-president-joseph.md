@@ -1,0 +1,23 @@
+### [2013-01-3](/news/2013/01/3/index.md)
+
+# M23 rebellion:. The March 23 Movement in the Democratic Republic of Congo announces that peace talks will only commence if President Joseph Kabila's government signs a ceasefire. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE9020FF20130103)
+
+### Related:
+
+1. [Police in the Democratic Republic of Congo's capital Kinshasa fire on protesters opposing efforts by President Joseph Kabila to delay presidential and parliamentary elections due in 2016 leaving at least four people dead and ten injured. ](/news/2015/01/19/police-in-the-democratic-republic-of-congo-s-capital-kinshasa-fire-on-protesters-opposing-efforts-by-president-joseph-kabila-to-delay-presid.md) _Context: Democratic Republic of Congo, Joseph Kabila_
+2. [M23 rebellion:. M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-m23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md) _Context: M23, M23 rebellion_
+3. [M23 rebellion:. In the Democratic Republic of the Congo, the March 23 Movement announce a unilateral ceasefire ahead of peace talks with the government. ](/news/2013/01/8/m23-rebellion-in-the-democratic-republic-of-the-congo-the-march-23-movement-announce-a-unilateral-ceasefire-ahead-of-peace-talks-with-the.md) _Context: M23, M23 rebellion_
+4. [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md) _Context: Democratic Republic of Congo, M23_
+5. [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md) _Context: Democratic Republic of Congo, Joseph Kabila_
+6. [ Democratic Republic of Congo presidential candidate Jean-Pierre Bemba has rejected election results that gave victory to Joseph Kabila. ](/news/2006/11/16/democratic-republic-of-congo-presidential-candidate-jean-pierre-bemba-has-rejected-election-results-that-gave-victory-to-joseph-kabila.md) _Context: Democratic Republic of Congo, Joseph Kabila_
+7. [ In the Democratic Republic of Congo, president Joseph Kabila visits Lumumbashi in Katanga province. At least 30 people have been arrested for an attempted separatist coup in the province. ](/news/2005/05/9/in-the-democratic-republic-of-congo-president-joseph-kabila-visits-lumumbashi-in-katanga-province-at-least-30-people-have-been-arrested-f.md) _Context: Democratic Republic of Congo, Joseph Kabila_
+8. [President Joseph Kabila appoints Bruno Tshibala of the Union for Democracy and Social Progress as the Prime Minister of the Democratic Republic of the Congo. Kabila's earlier announcement of his decision to appoint a new prime minister prompted Samy Badibanga to resign from the role after less than five months in office. ](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.md) _Context: Joseph Kabila_
+9. [Kamwina Nsapu rebellion. The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/kamwina-nsapu-rebellion-the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua.md) _Context: Democratic Republic of Congo_
+10. [December 2016 Congolese protests. Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/december-2016-congolese-protests-clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-jose.md) _Context: Joseph Kabila_

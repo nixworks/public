@@ -6,7 +6,7 @@ _Context: Maputo, Mozambique, explodes_
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
 _Context: CNES, France, space agency, unidentified flying object, website_
 
-### [ Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. ](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.md)
+### [ Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. [http://www.thisislondon.co.uk/news/article-23389746-details/Cricket%20coach%20Bob%20Woolmer%20WAS%20murdered/article.do (This is London)], [http://www.iol.co.za/index.php?set_id=6&click_id=17&art_id=nw20070322222429587C709168 (IOL (S. Africa))]](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.md)
 _Context: Bob Woolmer, Jamaica Constabulary Force, Pakistan national cricket team_
 
 ### [ NBC, News Limited, AOL, MSN and Yahoo! join forces to develop an ad-supported online video network to compete with YouTube. ](/news/2007/03/22/nbc-news-limited-aol-msn-and-yahoo-join-forces-to-develop-an-ad-supported-online-video-network-to-compete-with-youtube.md)
@@ -36,10 +36,10 @@ _Context: Ambassador to the United Nations, John R. Bolton, United States, cease
 ### [ Amnesty International calls on governments not to co-operate with U.S. military in trials of detainees at Guantanamo Bay. ](/news/2007/03/22/amnesty-international-calls-on-governments-not-to-co-operate-with-u-s-military-in-trials-of-detainees-at-guanta-namo-bay.md)
 _Context: Amnesty International, Guantanamo Bay, U.S. military_
 
-### [ The ventromedial prefrontal  cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-dec.md)
+### [ The ventromedial prefrontal cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-deci.md)
 _Context: cerebral cortex, emotion, human brain, logic, moral, ventromedial prefrontal_
 
-### [ Insurgency in Somalia: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-p-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
+### [ Insurgency in Somalia:. Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
 _Context:  Insurgency in Somalia, Mogadishu, interim government forces_
 
 ## [Previous Day...](/news/2007/03/21/index.md)

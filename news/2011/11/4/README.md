@@ -27,7 +27,7 @@ More than 10 people are feared to have died and 43 are injured after 27 vehicles
 ### [The jury retires to consider its verdict in the trial of Dr Conrad Murray for the alleged involuntary manslaughter of U.S. entertainer Michael Jackson. ](/news/2011/11/4/the-jury-retires-to-consider-its-verdict-in-the-trial-of-dr-conrad-murray-for-the-alleged-involuntary-manslaughter-of-u-s-entertainer-micha.md)
 _Context: Conrad Murray, Michael Jackson, involuntary manslaughter_
 
-### [Jill Evans, a Welsh MEP, is fined 575 after refusing to pay her TV licence fee in protest over changes to the Welsh-language channel S4C. ](/news/2011/11/4/jill-evans-a-welsh-mep-is-fined-ps575-after-refusing-to-pay-her-tv-licence-fee-in-protest-over-changes-to-the-welsh-language-channel-s4c.md)
+### [Jill Evans, a Welsh MEP, is fined GBP575 after refusing to pay her TV licence fee in protest over changes to the Welsh-language channel S4C. ](/news/2011/11/4/jill-evans-a-welsh-mep-is-fined-gbp575-after-refusing-to-pay-her-tv-licence-fee-in-protest-over-changes-to-the-welsh-language-channel-s4c.md)
 A Euro MP must pay a total of £575 after refusing to pay her TV licence fee in support of a Welsh Language Society campaign over S4C.
 
 ### [The Hellenic Parliament rejects a no-confidence motion against the Prime Minister of Greece George Papandreou following a failed attempt to hold a referendum on a Eurozone bailout. ](/news/2011/11/4/the-hellenic-parliament-rejects-a-no-confidence-motion-against-the-prime-minister-of-greece-george-papandreou-following-a-failed-attempt-to.md)

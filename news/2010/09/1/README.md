@@ -24,7 +24,7 @@ _Context: Michael Douglas, throat cancer_
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md)
 Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping into unconsciousness, her publicist confirms.
 
-### [Former British Prime Minister Tony Blair's autobiography ''A Journey'' goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
+### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
 _Context: A Journey, Britain, Prime Minister, Tony Blair, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
@@ -39,16 +39,16 @@ Apple launches a music-based social network called Ping as part of its latest up
 ### [A trade agreement between Australia and the European Union comes into effect stopping Australian wine being marketed using terms such as champagne and port. ](/news/2010/09/1/a-trade-agreement-between-australia-and-the-european-union-comes-into-effect-stopping-australian-wine-being-marketed-using-terms-such-as-cha.md)
 A new deal will ban Australian imitation champagne and sherry from the EU - but Australia welcomes simplified wine labels.
 
-### [The U.S. Court of Appeals, Federal Circuit, upheld an injunction issued by a federal district court in Indiana in 2009, enjoining Teva Pharmaceuticals from the marketing of its drug for the treatment of osteoporosis.  The district court found, and the appellate court agrees, that Teva's drug is in violation of a valid patent held by Eli Lilly & Co.. ](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.md)
+### [The U.S. Court of Appeals, Federal Circuit, upheld an injunction issued by a federal district court in Indiana in 2009, enjoining Teva Pharmaceuticals from the marketing of its drug for the treatment of osteoporosis. The district court found, and the appellate court agrees, that Teva's drug is in violation of a valid patent held by Eli Lilly & Co.. ](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.md)
 _Context: 2009, Eli Lilly & Co., Federal Circuit, Indiana, Teva Pharmaceuticals, osteoporosis_
 
 ### [57,000 people are made homeless by heavy floods near Aweil, Northern Bahr el Ghazal in southern Sudan. ](/news/2010/09/1/57-000-people-are-made-homeless-by-heavy-floods-near-aweil-northern-bahr-el-ghazal-in-southern-sudan.md)
 Some 57,000 people have been forced from their homes because of dramatic floods in south-western Sudan over the past month, officials say.
 
-### [2010 Pakistan floods:The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-pthe-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md)
+### [2010 Pakistan floods:. The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md)
 The World Bank has increased funding to help Pakistan cope with catastrophic flooding by $100 million, to a total of $1 billion, the bank said in a statement on Wednesday.
 
-### [2010 Copiap mining accident:The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-pthe-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days-i.md)
+### [2010 Copiap mining accident:. The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days.md)
 Chilean miners trapped underground receive their first hot meal in 26 days, as Nasa experts arrive at the mine site.
 
 ### [The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. ](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.md)
@@ -87,7 +87,7 @@ _Context: Discovery Channel, Silver Spring, Maryland, Washington DC, environment
 ### [The Australian Greens agree to support a Gillard Labor minority government as negotiations continue to form a government after the recent election. ](/news/2010/09/1/the-australian-greens-agree-to-support-a-gillard-labor-minority-government-as-negotiations-continue-to-form-a-government-after-the-recent-el.md)
 _Context: Australian Greens, Julia Gillard, Labor Party, minority government, recent election_
 
-### [Members of the  United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband.md)
+### [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md)
 Labour Party members begin voting on which one of five candidates will replace Gordon Brown as leader, with the result announced later this month.
 
 ### [Christopher Myers, a special adviser to UK Foreign Secretary William Hague, resigns due to "untrue and malicious" allegations amid questions surrounding Hague's marriage. ](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.md)

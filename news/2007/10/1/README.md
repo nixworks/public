@@ -12,7 +12,7 @@ _Context: Ukrainian parliamentary election, 2007, Viktor Yanukovych, Viktor Yush
 ### [ At least 15 people are killed and 19 others injured in a suspected suicide bomb blast in Bannu in Pakistan's North-West Frontier Province. ](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-injured-in-a-suspected-suicide-bomb-blast-in-bannu-in-pakistan-s-north-west-frontier-province.md)
 _Context: Bannu, Khyber Pakhtunkhwa, Pakistan, suicide bomb_
 
-### [ The Colorado Rockies beat The San Diego Padres in  an extra-innings tiebreaker game to clinch a wild card birth to the playoffs](/news/2007/10/1/the-colorado-rockies-beat-the-san-diego-padres-in-an-extra-innings-tiebreaker-game-to-clinch-a-wild-card-birth-to-the-playoffs.md)
+### [ The Colorado Rockies beat The San Diego Padres in an extra-innings tiebreaker game to clinch a wild card birth to the playoffs](/news/2007/10/1/the-colorado-rockies-beat-the-san-diego-padres-in-an-extra-innings-tiebreaker-game-to-clinch-a-wild-card-birth-to-the-playoffs.md)
 _Context: Colorado Rockies, San Diego Padres_
 
 ## [Previous Day...](/news/2007/09/30/index.md)

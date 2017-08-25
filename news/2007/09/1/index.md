@@ -15,7 +15,7 @@ _Context: LTTE, Mannar, Sri Lanka_
 ### [ Protesters in Southeast Aceh try to stop the swearing in of the regent and deputy regent with riot police using tear gas and water cannon to disperse the crowd resulting in 26 people being injured. ](/news/2007/09/1/protesters-in-southeast-aceh-try-to-stop-the-swearing-in-of-the-regent-and-deputy-regent-with-riot-police-using-tear-gas-and-water-cannon-t.md)
 _Context: Southeast Aceh, tear gas, water cannon_
 
-### [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32.  This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent.  Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md)
+### [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.md)
 _Context: #5-ranked, AP Poll, Appalachian State, Armanti Edwards, Division I FBS, Division I FCS, Michigan, Michigan Stadium, NCAA, college football_
 
 ### [ Eleven World Wrestling Entertainment performers are suspended for suspected illegal steroid abuse.](/news/2007/09/1/eleven-world-wrestling-entertainment-performers-are-suspended-for-suspected-illegal-steroid-abuse.md)
@@ -57,7 +57,7 @@ _Context: Malian Army, Second Tuareg Rebellion, Tuareg_
 ### [ New gambling legislation comes into effect in the United Kingdom, relaxing advertising restrictions and extending opening hours. ](/news/2007/09/1/new-gambling-legislation-comes-into-effect-in-the-united-kingdom-relaxing-advertising-restrictions-and-extending-opening-hours.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-### [ Hurricanes and tropical storms: 2007 Atlantic hurricane season: Tropical Storm Felix forms over the Windward Islands of the Caribbean and becomes Hurricane Felix. Aruba, Bonaire and Curacao have storm warnings in place and Jamaica has a tropical storm watch. ](/news/2007/09/1/hurricanes-and-tropical-storms-p-2007-atlantic-hurricane-season-tropical-storm-felix-forms-over-the-windward-islands-of-the-caribbean-and.md)
+### [ Hurricanes and tropical storms:. 2007 Atlantic hurricane season: Tropical Storm Felix forms over the Windward Islands of the Caribbean and becomes Hurricane Felix. Aruba, Bonaire and Curacao have storm warnings in place and Jamaica has a tropical storm watch. ](/news/2007/09/1/hurricanes-and-tropical-storms-2007-atlantic-hurricane-season-tropical-storm-felix-forms-over-the-windward-islands-of-the-caribbean-and.md)
 _Context: 2007 Atlantic hurricane season, Aruba, Bonaire, Caribbean, Curacao, Hurricane Felix (2007), Jamaica, Windward Islands, hurricane, tropical storm_
 
 ### [ A bomb in the Indian state of Assam kills one person and injures 12, with police suspecting the United Liberation Front of Asom. ](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.md)
@@ -81,8 +81,8 @@ _Context: Asia-Pacific Economic Cooperation, Sydney, concrete, steel_
 ### [ There has been a spike in dengue fever cases in 2007 in Malaysia with seventy-five people dying in the first eight months. ](/news/2007/09/1/there-has-been-a-spike-in-dengue-fever-cases-in-2007-in-malaysia-with-seventy-five-people-dying-in-the-first-eight-months.md)
 _Context: Malaysia, dengue fever_
 
-### [ 2007 Greek forest fires: The Prime Minister of Greece Costas Karamanlis says that the fires are now under control after killing 64 people and causing PS800 million worth of damage. ](/news/2007/09/1/2007-greek-forest-fires-the-prime-minister-of-greece-costas-karamanlis-says-that-the-fires-are-now-under-control-after-killing-64-people-a.md)
-_Context: 2007 Greek forest fires, Costas Karamanlis, Greek Prime Minister, PS_
+### [ 2007 Greek forest fires: The Prime Minister of Greece Costas Karamanlis says that the fires are now under control after killing 64 people and causing GBP800 million worth of damage. ](/news/2007/09/1/2007-greek-forest-fires-the-prime-minister-of-greece-costas-karamanlis-says-that-the-fires-are-now-under-control-after-killing-64-people-a.md)
+_Context: 2007 Greek forest fires, Costas Karamanlis, GBP, Greek Prime Minister_
 
 ### [ New laws come into effect giving the People's Republic of China more control over the selection of the Dalai Lama. ](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.md)
 _Context: China, Dalai Lama_

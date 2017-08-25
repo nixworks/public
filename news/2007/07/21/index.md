@@ -18,7 +18,7 @@ _Context: China, flood_
 ### [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md)
 _Context: Mars Exploration Rover, Mars' atmosphere, NASA_
 
-### [ War in Iraq: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-p-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
+### [ War in Iraq:. United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
@@ -36,10 +36,10 @@ Afghan Taliban rebels killed the second of two German hostages on Saturday after
 ### [ Two Rwandan men wanted for their role in the 1994 genocide are arrested in France. ](/news/2007/07/21/two-rwandan-men-wanted-for-their-role-in-the-1994-genocide-are-arrested-in-france.md)
 _Context: France, Rwanda, Rwandan Genocide_
 
-### [ ''Harry Potter and the Deathly Hallows'', the seventh and final volume of the Harry Potter series, is released worldwide. ](/news/2007/07/21/harry-potter-and-the-deathly-hallows-the-seventh-and-final-volume-of-the-harry-potter-series-is-released-worldwide.md)
+### [ "Harry Potter and the Deathly Hallows", the seventh and final volume of the Harry Potter series, is released worldwide. ](/news/2007/07/21/harry-potter-and-the-deathly-hallows-the-seventh-and-final-volume-of-the-harry-potter-series-is-released-worldwide.md)
 _Context: Harry Potter, Harry Potter and the Deathly Hallows_
 
-### [ ''Press censorship:'' A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine ''El Jueves'' for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depicti.md)
+### [ "Press censorship:" A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine "El Jueves" for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depiction-o.md)
 _Context: El Jueves, Felipe, Prince of Asturias, Press censorship, heir apparent, satirical magazine_
 
 ## [Previous Day...](/news/2007/07/20/index.md)

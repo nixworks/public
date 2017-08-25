@@ -19,5 +19,5 @@
 6. [Jupiter becomes the brightest object in the night sky after the Moon as it makes its closest approach to Earth since 1963. ](/news/2010/09/20/jupiter-becomes-the-brightest-object-in-the-night-sky-after-the-moon-as-it-makes-its-closest-approach-to-earth-since-1963.md) _Context: Earth, Moon_
 7. [ India's Chandrayaan-1 probe discovers large amounts of water on the Moon. ](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.md) _Context: Chandrayaan-1, Moon_
 8. [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md) _Context: Moon, explore_
-9. [ China's first lunar probe, Chang'e 1, impacts the Moon.  ](/news/2009/03/1/china-s-first-lunar-probe-chang-e-1-impacts-the-moon.md) _Context: Moon, explore_
+9. [ China's first lunar probe, Chang'e 1, impacts the Moon. ](/news/2009/03/1/china-s-first-lunar-probe-chang-e-1-impacts-the-moon.md) _Context: Moon, explore_
 10. [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md) _Context: Earth, Moon_

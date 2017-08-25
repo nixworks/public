@@ -1,6 +1,6 @@
 ## [2008-02-19](/news/2008/02/19/index.md)
 
-### [ United States presidential election, 2008: Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-p-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md)
+### [ United States presidential election, 2008:. Arizona Senator John McCain wins the Wisconsin and Washington Republican Party primary election. ](/news/2008/02/19/united-states-presidential-election-2008-arizona-senator-john-mccain-wins-the-wisconsin-and-washington-republican-party-primary-election.md)
 Barack Obama’s broad win in Wisconsin put new pressure on Hillary Rodham Clinton, while John McCain closed in on the G.O.P. nomination.
 
 ### [ At least eight Iraqi police are killed attempting to defuse a cache of rockets. ](/news/2008/02/19/at-least-eight-iraqi-police-are-killed-attempting-to-defuse-a-cache-of-rockets.md)

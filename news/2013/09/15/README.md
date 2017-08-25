@@ -1,6 +1,6 @@
 ## [2013-09-15](/news/2013/09/15/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-pbombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-bombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md)
 A wave of car bombs and shootings across Iraq killed at least 36 people on Sunday, police sources said.
 
 ### [Saboteurs blow up an export oil pipeline in Yemen. ](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.md)

@@ -3,7 +3,7 @@
 ### [ The African kingdom of Lesotho declares a food crisis due to UN report showing a "major food gap" for 20% of the population. ](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.md)
 _Context: Africa, Lesotho, United Nations_
 
-### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth PS300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
+### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth GBP300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
 _Context: Accra, Britain, Ghana, Kotoka International Airport, cocaine_
 
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
@@ -24,13 +24,13 @@ Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nat
 ### [ The Lebanese army has resumed shelling Fatah al-Islam positions inside the Nahr al-Bared refugee camp near Tripoli. All of the refugees have left the camp after recent fighting. ](/news/2007/07/12/the-lebanese-army-has-resumed-shelling-fatah-al-islam-positions-inside-the-nahr-al-bared-refugee-camp-near-tripoli-all-of-the-refugees-hav.md)
 _Context: Fatah al-Islam, Lebanon, Nahr al-Bared, Tripoli, Lebanon, army, refugee camp_
 
-### [ A Philippines ferry, the MV ''Blue Water Princess'', sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being.md)
+### [ A Philippines ferry, the MV "Blue Water Princess", sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being-de.md)
 _Context: Luzon, Philippines, ferry_
 
-### [ Iraq War: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-p-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
+### [ Iraq War:. An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
 _Context: Government of Iraq, Iraq, Iraq War, U.S. Congress, interim_
 
-### [ Al-Qaeda: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-p-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)
+### [ Al-Qaeda:. A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)
 _Context: National Counterterrorism Center, al-Qaeda_
 
 ### [ Six Afghan policemen are killed by an improvised explosive device in the Khost Province. Another IED kills two civilians in the Paktika Province. ](/news/2007/07/12/six-afghan-policemen-are-killed-by-an-improvised-explosive-device-in-the-khost-province-another-ied-kills-two-civilians-in-the-paktika-pro.md)

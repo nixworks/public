@@ -24,7 +24,7 @@ _Context: Pakistan, Peshawar, Taliban_
 ### [Over 5,000 people have reportedly been infected by an outbreak of dengue fever in Pakistan. ](/news/2011/09/13/over-5-000-people-have-reportedly-been-infected-by-an-outbreak-of-dengue-fever-in-pakistan.md)
 _Context: Pakistan, outbreak of dengue fever_
 
-### [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin  ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md)
+### [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md)
 Voters went to the polls in a closely watched race to replace the former Representative Anthony D. Weiner.
 
 ### [Voters in Nevada's 2nd congressional district go to the polls for a special election to replace former member of the United States House of Representatives, Senator Dean Heller, with Republican Mark Amodei defeating Democrat Kate Marshall. ](/news/2011/09/13/voters-in-nevada-s-2nd-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-of.md)

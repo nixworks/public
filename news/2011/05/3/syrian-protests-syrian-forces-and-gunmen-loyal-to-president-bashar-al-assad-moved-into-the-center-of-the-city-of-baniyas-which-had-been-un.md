@@ -1,0 +1,27 @@
+### [2011-05-3](/news/2011/05/3/index.md)
+
+# Syrian protests. Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. 
+
+Senior Syrian officials are to face targeted European Union sanctions and travel bans, William Hague said on Tuesday.
+
+
+### Source:
+
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j0cIrlJClkc92kKL3vJg7bpsYdHA?docId=6d72a00565d648439ef13082a0c7b297)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/05/syria-britain-france-and-germany-pursue-eu-sanctions.html)
+3. [RTT](http://www.rttnews.com/Content/MarketSensitiveNews.aspx?Id=1613257&SM=1)
+4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218986)
+5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8490488/Syria-William-Hague-to-push-for-sanctions-on-senior-officials.html)
+
+### Related:
+
+1. [2011 Syrian uprising. Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md) _Context: Baniyas, Bashar al-Assad, Syrian Army_
+2. [Syrian Civil War. 2016 Deir ez-Zor massacre. At least 75 Syrian Army soldiers and pro-Assad militiamen are killed following a multi-front attack on the eastern Syrian city of Deir ez-Zor by Islamic State of Iraq and the Levant forces. The Syrian Observatory for Human Rights reports ISIL fighters had advanced into the northern tip of Deir ez-Zor city, and captured the suburb of Al-Baghaliyeh. The pro-government Syrian Arab News Agency (SANA) reports that government forces had repelled an attack on the city leaving dozens of militants dead. ](/news/2016/01/16/syrian-civil-war-2016-deir-ez-zor-massacre-at-least-75-syrian-army-soldiers-and-pro-assad-militiamen-are-killed-following-a-multi-front-at.md) _Context: Bashar al-Assad, Syrian Army_
+3. [Russia's role in the Syrian Civil War. Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russia-s-role-in-the-syrian-civil-war-russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-i.md) _Context: Bashar al-Assad, Syrian Army_
+4. [Syrian civil war:. Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md) _Context: Baniyas, Syrian Army_
+5. [2011 Syrian uprising: Massive protests are planned against the President Bashar al-Assad, after recent raids by the Army. ](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.md) _Context: Bashar al-Assad, Syrian Army_
+6. [Syrian uprising:. Syrian forces shell villages near the Lebanese border, and heavy gunfire is heard in Talkalakh, with reports of 8 people having died, in the latest phase of a crackdown by Syrian forces on protesters demonstrating against the rule of President Bashar al-Assad. Lebanon tries to seal the border after hundreds flee from Syrian troops and a wounded Syrian woman dies of her injuries after entering Lebanon. ](/news/2011/05/15/syrian-uprising-syrian-forces-shell-villages-near-the-lebanese-border-and-heavy-gunfire-is-heard-in-talkalakh-with-reports-of-8-people-h.md) _Context: Bashar al-Assad, Syrian Army_
+7. [Syrian Civil War. Central Syria campaign (July 2017-present). A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/syrian-civil-war-central-syria-campaign-july-2017-present-a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kill.md) _Context: Syrian Army_
+8. [People on banknotes. The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/people-on-banknotes-the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president.md) _Context: Bashar al-Assad_
+9. [Politics of Syria. In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/politics-of-syria-in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr.md) _Context: Bashar al-Assad_
+10. [Israeli-Syrian ceasefire line incidents during the Syrian Civil War. Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. ](/news/2017/06/25/israeli-syrian-ceasefire-line-incidents-during-the-syrian-civil-war-israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition.md) _Context: Syrian Army_

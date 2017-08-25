@@ -9,7 +9,7 @@ _Context: Del Monte Foods, Kohlberg Kravis Roberts, leveraged buyout_
 ### [Seven are killed and three injured in the rough landing of a Mi-8 helicopter in the Omsk region of Siberia, Russia. ](/news/2010/11/25/seven-are-killed-and-three-injured-in-the-rough-landing-of-a-mi-8-helicopter-in-the-omsk-region-of-siberia-russia.md)
 _Context: Mil Mi-8, Omsk, Russia, Siberia_
 
-### [Korean peninsula:North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-pnorth-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
+### [Korean peninsula:. North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/korean-peninsula-north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
 _Context: Korean Peninsula, North Korea, South Korea_
 
 ### [The heads of government of the member states of the Shanghai Cooperation Organization meet in Dushanbe for their annual summit. ](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.md)
@@ -39,7 +39,7 @@ _Context: Alaska, Britain, United States government, polar bear_
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)
 The Met Office issues warnings of heavy snow and icy roads as the earliest widespread wintry conditions for 17 years grip much of the UK.
 
-### [A new species of ancient crocodile, ''Khoratosuchus jintasakuli'', is identified from a fossil in Thailand. [http://www.npr.org/2010/11/25/131592406/100-million-year-old-crocodile-species-discovered (NPR)] 10.1144/SP315.13|(''Geol. Soc., Lond., Spec. Pub.'')](/news/2010/11/25/a-new-species-of-ancient-crocodile-khoratosuchus-jintasakuli-is-identified-from-a-fossil-in-thailand-http-www-npr-org-2010-11-25-1.md)
+### [A new species of ancient crocodile, "Khoratosuchus jintasakuli", is identified from a fossil in Thailand. [http://www.npr.org/2010/11/25/131592406/100-million-year-old-crocodile-species-discovered (NPR)] 10.1144/SP315.13|("Geol. Soc., Lond., Spec. Pub.")](/news/2010/11/25/a-new-species-of-ancient-crocodile-khoratosuchus-jintasakuli-is-identified-from-a-fossil-in-thailand-http-www-npr-org-2010-11-25-131.md)
 _Context: Khoratosuchus jintasakuli, Thailand, crocodile, fossil_
 
 ### [A World Health Organization study estimates that 600,000 deaths a year are attributable to second hand smoking. ](/news/2010/11/25/a-world-health-organization-study-estimates-that-600-000-deaths-a-year-are-attributable-to-second-hand-smoking.md)

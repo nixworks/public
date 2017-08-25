@@ -1,6 +1,6 @@
 ### [2006-10-15](/news/2006/10/15/index.md)
 
-#  Israeli police recommend charging President Moshe Katsav with rape, sexual assault and fraud. The final decision on bringing charges is up to Attorney General Meni Mazuz.  ([http://www.washingtonpost.com/wp-dyn/content/article/2006/10/15/AR2006101500301.html The Washington Post])
+#  Israeli police recommend charging President Moshe Katsav with rape, sexual assault and fraud. The final decision on bringing charges is up to Attorney General Meni Mazuz. ([http://www.washingtonpost.com/wp-dyn/content/article/2006/10/15/AR2006101500301.html The Washington Post])
 
 
 
@@ -15,5 +15,5 @@
 6. [The former President of Israel, Moshe Katsav, is sentenced to seven years in prison, two years probation and payment of compensation to his victims on charges of rape, indecent assault, sexual harassment and obstruction of justice. Current President Shimon Peres says that "this is a sad day but everyone is equal before the law." ](/news/2011/03/22/the-former-president-of-israel-moshe-katsav-is-sentenced-to-seven-years-in-prison-two-years-probation-and-payment-of-compensation-to-his.md) _Context: Moshe Katsav, President, rape_
 7. [Pope Francis urges President Shimon Peres of Israel and President Mahmoud Abbas of Palestine to work for peace at an historic joint prayer meeting at the Vatican. ](/news/2014/06/8/pope-francis-urges-president-shimon-peres-of-israel-and-president-mahmoud-abbas-of-palestine-to-work-for-peace-at-an-historic-joint-prayer-m.md) _Context: Israel, President_
 8. [Israeli lawmakers choose Reuven Rivlin to be the next President of Israel. ](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.md) _Context: Israel, President_
-9. [Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister  and as Deputy Prime Minister following an indictment for fraud. ](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.md) _Context: Israel, fraud_
+9. [Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister and as Deputy Prime Minister following an indictment for fraud. ](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.md) _Context: Israel, fraud_
 10. [Israel's Justice Ministry announces that Foreign Minister Avigdor Lieberman, while he will not face more serious money laundering and witness tampering corruption charges, will be charged with breach of trust and fraud in connection with illegally obtaining funds from shell companies which occurred prior to his Ministry service. ](/news/2012/12/13/israel-s-justice-ministry-announces-that-foreign-minister-avigdor-lieberman-while-he-will-not-face-more-serious-money-laundering-and-witnes.md) _Context: Israel, fraud_

@@ -18,7 +18,7 @@ _Context: English, haggis_
 ### [ Iran is reportedly ready to build a nuclear weapon, according to Western intelligence services. ](/news/2009/08/3/iran-is-reportedly-ready-to-build-a-nuclear-weapon-according-to-western-intelligence-services.md)
 _Context: Iran, nuclear warheads_
 
-### [ Barclays posts a profit of 2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-ps2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md)
+### [ Barclays posts a profit of GBP2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-gbp2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md)
 _Context: Barclays_
 
 ### [ Iran's Supreme Leader Ali Khamenei formally approves the second-term presidency of Mahmoud Ahmadinejad. ](/news/2009/08/3/iran-s-supreme-leader-ali-khamenei-formally-approves-the-second-term-presidency-of-mahmoud-ahmadinejad.md)
@@ -33,7 +33,7 @@ _Context: Qinghai, pneumonic plague_
 ### [ Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. ](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.md)
 Somali pirates freed a German ship seized in April on Monday after receiving a ransom and a Malaysian-owned tug boat has also been released after being held for more than seven months.
 
-### [ ''The Washington Post'' newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a.md)
+### [ "The Washington Post" newspaper in the United States reports that officials are considering a plan to move Guantnamo Bay detainees to a prison camp. ](/news/2009/08/3/the-washington-post-newspaper-in-the-united-states-reports-that-officials-are-considering-a-plan-to-move-guantanamo-bay-detainees-to-a-pr.md)
 Officials are reportedly considering a plan to move Guantanamo detainees to a special US prison camp.
 
 ### [ An Australian radio show is axed and presenter Kyle Sandilands sacked from a television show after a lie detector stunt sees a 14-year-old girl say she was raped so her mother could claim Pink tickets. ](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.md)

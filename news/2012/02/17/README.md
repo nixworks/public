@@ -1,6 +1,6 @@
 ## [2012-02-17](/news/2012/02/17/index.md)
 
-### [Arab Spring:2011-2012 Syrian uprising:The Syrian opposition warns that the Syrian army is preparing to "massacre" the neighborhood of Bab Amr, Homs, in a ground assault on the city. The city has been under constant artillery bombardment by the Syrian army for an 11th day in a row. ](/news/2012/02/17/arab-spring-p2011-2012-syrian-uprising-pthe-syrian-opposition-warns-that-the-syrian-army-is-preparing-to-massacre-the-neighborhood-of-bab.md)
+### [Arab Spring:. 2011-2012 Syrian uprising:. The Syrian opposition warns that the Syrian army is preparing to "massacre" the neighborhood of Bab Amr, Homs, in a ground assault on the city. The city has been under constant artillery bombardment by the Syrian army for an 11th day in a row. ](/news/2012/02/17/arab-spring-2011-2012-syrian-uprising-the-syrian-opposition-warns-that-the-syrian-army-is-preparing-to-massacre-the-neighborhood-of-ba.md)
 _Context: 2011-2012 Syrian uprising, Arab Spring, Homs_
 
 ### [Insurgency in the North Caucasus: Dozens are killed and wounded as fighting intensifies between the Russian forces and the local Muslim insurgents in Chechnya and Dagestan. ](/news/2012/02/17/insurgency-in-the-north-caucasus-dozens-are-killed-and-wounded-as-fighting-intensifies-between-the-russian-forces-and-the-local-muslim-insu.md)
@@ -18,13 +18,13 @@ Raid at Khartoum university leads to arrest of 350 students who previously stage
 ### [The office of President of Haiti Michel Martelly claims that his motorcade was attacked by people throwing rocks when he was walking through Port-au-Prince. ](/news/2012/02/17/the-office-of-president-of-haiti-michel-martelly-claims-that-his-motorcade-was-attacked-by-people-throwing-rocks-when-he-was-walking-through.md)
 _Context: Michel Martelly, Port-au-Prince, President of Haiti_
 
-### [Archaeological Museum of Olympia robbery:Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-pthieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-arti.md)
+### [Archaeological Museum of Olympia robbery:. Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-art.md)
 Armed robbers steal dozens of priceless artefacts from a Greek museum in Olympia dedicated to the history of the ancient Olympic Games.
 
-### [A US Federal Court judge orders Tampa-based Odyssey Marine Exploration to return treasures from the shipwreck of the ''Nuestra Senora de las Mercedes'' to Spain. ](/news/2012/02/17/a-us-federal-court-judge-orders-tampa-based-odyssey-marine-exploration-to-return-treasures-from-the-shipwreck-of-the-nuestra-sea-ora-de-la.md)
+### [A US Federal Court judge orders Tampa-based Odyssey Marine Exploration to return treasures from the shipwreck of the "Nuestra Senora de las Mercedes" to Spain. ](/news/2012/02/17/a-us-federal-court-judge-orders-tampa-based-odyssey-marine-exploration-to-return-treasures-from-the-shipwreck-of-the-nuestra-sea-ora-de-las.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [Rupert Murdoch tells staff at ''The Sun'' he will launch a Sunday edition of the newspaper, titled ''The Sun on Sunday'' "very soon". ](/news/2012/02/17/rupert-murdoch-tells-staff-at-the-sun-he-will-launch-a-sunday-edition-of-the-newspaper-titled-the-sun-on-sunday-very-soon.md)
+### [Rupert Murdoch tells staff at "The Sun" he will launch a Sunday edition of the newspaper, titled "The Sun on Sunday" "very soon". ](/news/2012/02/17/rupert-murdoch-tells-staff-at-the-sun-he-will-launch-a-sunday-edition-of-the-newspaper-titled-the-sun-on-sunday-very-soon.md)
 Rupert Murdoch is to launch new weekend tabloid the Sun on Sunday &quot;very soon&quot; and lifts all staff suspensions.
 
 ### [The Dow Jones Industrial Average closes at its highest level since May 2008. ](/news/2012/02/17/the-dow-jones-industrial-average-closes-at-its-highest-level-since-may-2008.md)
@@ -45,7 +45,7 @@ German President Christian Wulff announces his resignation, after prosecutors ca
 ### [The Senate of the United States passes a resolution condemning the Government of Syria for its violent crackdown on anti-Assad protests. ](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.md)
 _Context: Bashar Assad's, Government of Syria, Senator_
 
-### [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. ](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state.md)
+### [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. [http://www.washingtonpost.com/national/apnewsbreak-gay-marriage-bill-delivered-to-nj-governor-who-has-vowed-to-veto-it/2012/02/17/gIQApnPrJR_story.html "(The Washington Post)"]](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state-http-www-washingtonpost-com-national.md)
 _Context: Chris Christie, New Jersey, same-sex marriage_
 
 ## [Previous Day...](/news/2012/02/16/index.md)

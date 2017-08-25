@@ -12,19 +12,19 @@ Chinese state media report that unlicensed welders accidentally started a fire i
 ### [At least 42 people die after a building collapses in eastern New Delhi, India with at least twenty people trapped in the rubble. ](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.md)
 _Context: India, New Delhi_
 
-### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
+### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan-s history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
 _Context: Pakistan, United States, devastating floods_
 
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
 _Context: Human rights, Iran, Iranian human rights, post-election riots_
 
-### [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. ](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md)
+### [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. [http://edition.cnn.com/2010/WORLD/asiapcf/11/15/myanmar.suu.kyi/ (CNN)] [http://www.theaustralian.com.au/news/world/aung-san-suu-kyi-vows-to-probe-burmese-election-rorts/story-e6frg6so-1225954027125 ("The Australian") ]](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md)
 _Context: Aung San Suu Kyi, Burma, Myanmar government, general elections, human rights record_
 
 ### [A. Raja resigns as the Indian Telecommunications Minister over claims that licenses had been improperly given to mobile phone companies. ](/news/2010/11/15/a-raja-resigns-as-the-indian-telecommunications-minister-over-claims-that-licenses-had-been-improperly-given-to-mobile-phone-companies.md)
 _Context: A. Raja, India, Telecommunications Minister, mobile phone_
 
-### [Guinea electionViolence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-electionpviolence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)
+### [Guinea election. Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-election-violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)
 Deadly violence flares in Guinea hours ahead of results of its first democratic presidential election since independence from France over 50 years ago.
 
 ### [Scientists exhume the remains of 16th century astronomer Tycho Brahe in Prague to try to solve the mystery of his sudden death. ](/news/2010/11/15/scientists-exhume-the-remains-of-16th-century-astronomer-tycho-brahe-in-prague-to-try-to-solve-the-mystery-of-his-sudden-death.md)

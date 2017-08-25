@@ -1,9 +1,9 @@
 ## [2012-01-24](/news/2012/01/24/index.md)
 
-### [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011a2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md)
+### [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011-2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md)
 Syrian security forces killed 52 people across the country on Tuesday as troops stormed Hama following large protests in the flashpoint central city, activists said. &quot;The Syrian armed forces stormed the neighborhoods of Bab Qubli and al-Jarajmah...
 
-### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
+### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011-2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
 _Context: 2011 Egyptian revolution, Egypt, Field Marshal, Mohamed Hussein Tantawi, governing body, state of emergency_
 
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)
@@ -12,7 +12,7 @@ _Context: Bani Walid, Libya, Muammar Gaddafi, National Transitional Council, rev
 ### [Nominations for the 2012 Academy Awards are announced ](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.md)
 Martin Scorsese&#039;s adventure film Hugo leads the Academy Awards with 11 nominations, including Best Picture and Best Director.
 
-### [Andrew Miller's novel ''Pure'' wins the 2011 Costa Book of the Year Award. ](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.md)
+### [Andrew Miller's novel "Pure" wins the 2011 Costa Book of the Year Award. ](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.md)
 _Context: 2011 Costa Book of the Year Award, Andrew Miller, Pure_
 
 ### [Apple Inc. announces that the technology generated over $127 billion in revenue during 2011. Apple sold over 37 million iPhones and over 15 million iPads during the fourth quarter of 2011. ](/news/2012/01/24/apple-inc-announces-that-the-technology-generated-over-127-billion-in-revenue-during-2011-apple-sold-over-37-million-iphones-and-over-15.md)

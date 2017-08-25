@@ -27,13 +27,13 @@ _Context: Bauchi State, Nigeria_
 ### [Four World Trade Center's construction crane snaps while lifting a steel. ](/news/2012/02/16/four-world-trade-center-s-construction-crane-snaps-while-lifting-a-steel.md)
 _Context: Four World Trade Center_
 
-### [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011a2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md)
+### [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011-2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md)
 _Context: 2011-2012 Syrian uprising, Arab, Bashar al-Assad, Government of Syria, Human rights, President, Syria, United Nations General Assembly_
 
 ### [Former President of Olympus Corporation Tsuyoshi Kikukawa is arrested in relation to the Olympus scandal along with two other former senior executives. ](/news/2012/02/16/former-president-of-olympus-corporation-tsuyoshi-kikukawa-is-arrested-in-relation-to-the-olympus-scandal-along-with-two-other-former-senior.md)
 The ex-chairman of Japanese camera manufacturer Olympus and two other former executives are arrested as part of an inquiry into the firm.
 
-### [The highest court in Ecuador upholds a criminal libel verdict favoring the President Rafael Correa including prison sentences for three executives and a columnist for the opposition newspaper ''El Universo''. ](/news/2012/02/16/the-highest-court-in-ecuador-upholds-a-criminal-libel-verdict-favoring-the-president-rafael-correa-including-prison-sentences-for-three-exec.md)
+### [The highest court in Ecuador upholds a criminal libel verdict favoring the President Rafael Correa including prison sentences for three executives and a columnist for the opposition newspaper "El Universo". ](/news/2012/02/16/the-highest-court-in-ecuador-upholds-a-criminal-libel-verdict-favoring-the-president-rafael-correa-including-prison-sentences-for-three-exec.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [South Korean silicon chip maker Hynix Semiconductor claims that a US court has rejected an antitrust claim against it by Rambus Inc. ](/news/2012/02/16/south-korean-silicon-chip-maker-hynix-semiconductor-claims-that-a-us-court-has-rejected-an-antitrust-claim-against-it-by-rambus-inc.md)

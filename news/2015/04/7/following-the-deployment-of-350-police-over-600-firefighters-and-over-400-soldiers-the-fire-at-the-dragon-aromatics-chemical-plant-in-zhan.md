@@ -12,4 +12,4 @@
 ### Related:
 
 1. [At the Dragon Aromatics chemical plant in Fujian in southeast China, a fourth tank of about 1,500 tonnes of liquid hydrocarbon catches fire and explodes. More than 14,000 residents have been evacuated. ](/news/2015/04/8/at-the-dragon-aromatics-chemical-plant-in-fujian-in-southeast-china-a-fourth-tank-of-about-1-500-tonnes-of-liquid-hydrocarbon-catches-fire.md) _Context: Dragon Aromatics_
-2. [ In Fujian, Southeast China an explosion and fire at a paraxylene producing petrochemical plant by Dragon Aromatics occupied 430 firemen.  ](/news/2015/04/6/in-fujian-southeast-china-an-explosion-and-fire-at-a-paraxylene-producing-petrochemical-plant-by-dragon-aromatics-occupied-430-firemen.md) _Context: Dragon Aromatics_
+2. [ In Fujian, Southeast China an explosion and fire at a paraxylene producing petrochemical plant by Dragon Aromatics occupied 430 firemen. ](/news/2015/04/6/in-fujian-southeast-china-an-explosion-and-fire-at-a-paraxylene-producing-petrochemical-plant-by-dragon-aromatics-occupied-430-firemen.md) _Context: Dragon Aromatics_

@@ -1,9 +1,9 @@
 ## [2011-03-5](/news/2011/03/5/index.md)
 
-### [2011 Libyan civil war:Battle of Zawiya: rebels beat back a pro-Gaddafi push into the city. ](/news/2011/03/5/2011-libyan-civil-war-pbattle-of-zawiya-rebels-beat-back-a-pro-gaddafi-push-into-the-city.md)
+### [2011 Libyan civil war:. Battle of Zawiya: rebels beat back a pro-Gaddafi push into the city. ](/news/2011/03/5/2011-libyan-civil-war-battle-of-zawiya-rebels-beat-back-a-pro-gaddafi-push-into-the-city.md)
 Heavy fighting rocks the strategic Libyan city of Zawiya after rebels repelled an earlier attempt by government forces to seize it.
 
-### [''Slumdog Millionaire'' souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway.md)
+### ["Slumdog Millionaire" souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway-s.md)
 _Context: Bandra Railway Station, Garib Nagar, Mumbai, Rubina Ali, Slumdog Millionaire_
 
 ### [A search of ChristChurch Cathedral, Christchurch has found no bodies from the 2011 Canterbury earthquake despite fears that there were 22 bodies buried there - the confirmed death toll is 165. ](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.md)

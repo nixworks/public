@@ -21,7 +21,7 @@ _Context: France, Kurdish, Kurdistan Workers' Party_
 ### [ Iranian President Mahmoud Ahmadinejad will present a herbal treatment for AIDS that the Iranian government says is effective in helping patients to cure their symptoms. ](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.md)
 Iran was set to make fantastic claims on the anniversary of the Islamic Revolution, including finding an herbal cure for AIDS, an Israeli news agency reported Sunday.
 
-### [ A coalition of  charity, faith groups and unions have warned Tony Blair that any military action against Iran would have "unthinkable" consequences. ](/news/2007/02/5/a-coalition-of-charity-faith-groups-and-unions-have-warned-tony-blair-that-any-military-action-against-iran-would-have-unthinkable-cons.md)
+### [ A coalition of charity, faith groups and unions have warned Tony Blair that any military action against Iran would have "unthinkable" consequences. ](/news/2007/02/5/a-coalition-of-charity-faith-groups-and-unions-have-warned-tony-blair-that-any-military-action-against-iran-would-have-unthinkable-conse.md)
 _Context: Iran, Tony Blair, charity, military, unionize_
 
 ### [ Former Malaysian premier Mahathir Mohamad hosts a conference calling for George W. Bush and Tony Blair to be tried by an unofficial tribunal for war crimes in Iraq. ](/news/2007/02/5/former-malaysian-premier-mahathir-mohamad-hosts-a-conference-calling-for-george-w-bush-and-tony-blair-to-be-tried-by-an-unofficial-tribuna.md)

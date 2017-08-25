@@ -1,6 +1,6 @@
 ## [2012-06-3](/news/2012/06/3/index.md)
 
-### [Syrian uprising (2011-present):Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011apresent-psporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bash.md)
+### [Syrian uprising (2011-present):. Sporadic fighting continues in Tripoli, Lebanon, between supporters and opponents of Syrian president Bashar al-Assad. ](/news/2012/06/3/syrian-uprising-2011-present-sporadic-fighting-continues-in-tripoli-lebanon-between-supporters-and-opponents-of-syrian-president-bas.md)
 Sporadic gunfire punctuates a cautious calm in the north Lebanon city of Tripoli following fierce overnight clashes between opponents and supporters of Syrian President Bashar Assad.
 
 ### [A U.S. drone attack in Pakistan's South Waziristan tribal region kills at least 10 suspected militants. ](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.md)
@@ -27,7 +27,7 @@ A woman who may be a Japanese cult member wanted for the 1995 gas attacks on the
 ### [Demonstrations take place in Turkey against a proposed plan to limit the time for abortions. ](/news/2012/06/3/demonstrations-take-place-in-turkey-against-a-proposed-plan-to-limit-the-time-for-abortions.md)
 _Context: Turkey, abortion_
 
-### [Speaking on the BBC's ''The Andrew Marr Show'', British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely.md)
+### [Speaking on the BBC's "The Andrew Marr Show", British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely-in.md)
 _Context: BBC, BSkyB takeover bid, David Cameron, Jeremy Hunt, Prime Minister, Secretary of State for Culture, Media and Sport, The Andrew Marr Show_
 
 ## [Previous Day...](/news/2012/06/2/index.md)

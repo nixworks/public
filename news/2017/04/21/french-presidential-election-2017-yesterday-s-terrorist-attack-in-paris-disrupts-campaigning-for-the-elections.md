@@ -1,0 +1,25 @@
+### [2017-04-21](/news/2017/04/21/index.md)
+
+# French presidential election, 2017. Yesterday's terrorist attack in Paris disrupts campaigning for the elections. 
+
+With the motives of the Champs-Elys&eacute;es gunman considered terror-related, the timing just three days before the first round of the French presidential elections and during a prime time TV &quot;debate&quot; between all 11 official candidates clearly suggests that extremists are seeking to influence the tone of the debate - and perhaps its outcome.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2017/04/21/europe/paris-police-shooting-champs-elysees/)
+2. [Reuters](http://www.reuters.com/article/us-france-election-poll-idUSKBN17N22U?il=0)
+3. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/20/terrorism-france-having-huge-impact-presidential-election/)
+
+### Related:
+
+1. [2017 shooting of Paris police officers. One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". ](/news/2017/04/20/2017-shooting-of-paris-police-officers-one-policeman-has-been-killed-and-another-has-been-critically-injured-after-a-man-opened-fire-at-pol.md) _Context: Paris, terrorist attack_
+2. [Levallois-Perret attack. In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/levallois-perret-attack-in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-a.md) _Context: Paris_
+3. [June 2017 Champs-Elysees car ramming attack. A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/june-2017-champs-alysa-c-es-car-ramming-attack-a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-a.md) _Context: Paris_
+4. [French legislative election, 2017. Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/french-legislative-election-2017-voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-le.md) _Context: last month's presidential election_
+5. [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md) _Context: Paris_
+6. [French presidential election, 2017. Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/french-presidential-election-2017-voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as.md) _Context: last month's presidential election_
+7. [French presidential election, 2017. Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/french-presidential-election-2017-voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of.md) _Context: last month's presidential election_
+8. [French presidential election, 2017. Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/french-presidential-election-2017-files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say.md) _Context: last month's presidential election_
+9. [French presidential election, 2017. Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/french-presidential-election-2017-candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: last month's presidential election_
+10. [French presidential election, 2017. Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/french-presidential-election-2017-far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _Context: last month's presidential election_

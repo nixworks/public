@@ -11,4 +11,4 @@ Key policing services are being left &quot;unfunded&quot; by budget cuts, the pr
 
 ### Related:
 
-1. [ Northern Ireland police Chief Constable Hugh Orde publicly accuses the Provisional IRA of the largest bank robbery in U.K. history, now assessed at PS26.5 million. The money was taken from the Northern Bank in Belfast on December 20. ](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.md) _Context: Sir Hugh Orde_
+1. [ Northern Ireland police Chief Constable Hugh Orde publicly accuses the Provisional IRA of the largest bank robbery in U.K. history, now assessed at GBP26.5 million. The money was taken from the Northern Bank in Belfast on December 20. ](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.md) _Context: Sir Hugh Orde_

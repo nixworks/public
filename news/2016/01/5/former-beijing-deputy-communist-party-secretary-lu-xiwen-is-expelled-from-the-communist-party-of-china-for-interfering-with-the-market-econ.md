@@ -12,4 +12,4 @@
 ### Related:
 
 1. [ Gou Zhongwen replaces the disgraced Lu Xiwen as the Deputy Party Secretary of Beijing. ](/news/2016/05/8/gou-zhongwen-replaces-the-disgraced-lu-xiwen-as-the-deputy-party-secretary-of-beijing.md) _Context: Lu Xiwen_
-2. [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md) _Context: Deputy Communist Party Secretary_
+2. [Anti-corruption campaign in China. Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/anti-corruption-campaign-in-china-beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-inv.md) _Context: Deputy Communist Party Secretary_

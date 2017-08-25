@@ -1,6 +1,6 @@
 ## [2015-01-16](/news/2015/01/16/index.md)
 
-### [The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spring-of-2015.md)
+### [Syrian Civil War. The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/syrian-civil-war-the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spri.md)
 _Context: Free Syrian Army, Pentagon officials, Syrian Civil War_
 
 ### [A hostage crisis at a post office in Colombes, Paris, ends with the attacker releasing the hostages and surrendering himself to the police. ](/news/2015/01/16/a-hostage-crisis-at-a-post-office-in-colombes-paris-ends-with-the-attacker-releasing-the-hostages-and-surrendering-himself-to-the-police.md)
@@ -9,7 +9,7 @@ _Context: Colombes, Paris_
 ### [The Military of Chad enters Cameroon to assist in fighting against Boko Haram insurgents. ](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.md)
 _Context: Boko Haram, Cameroon, Chad, Military_
 
-### [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 ''Deepwater Horizon'' oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-g.md)
+### [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 "Deepwater Horizon" oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-gul.md)
 BP Plc (BP.L) will face a maximum fine of $13.7 billion under the Clean Water Act for its Gulf of Mexico oil spill, several billion dollars less than feared, after a judge ruled that it was smaller than the U.S. government claimed.
 
 ### [The Obama Administration eases trade restrictions with Cuba, now permitting the sale of tools and equipment for private-sector use in Cuba. ](/news/2015/01/16/the-obama-administration-eases-trade-restrictions-with-cuba-now-permitting-the-sale-of-tools-and-equipment-for-private-sector-use-in-cuba.md)
@@ -18,7 +18,7 @@ American businesses could flood Cuba with their products under new White House r
 ### [An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. ](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.md)
 Check out this video of a volcanic eruption in Tonga that caused big travel problems.
 
-### [2015 Malawi floods:Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-pflash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-di.md)
+### [2015 Malawi floods:. Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-d.md)
 At least 176 people die in flash floods and 110,000 people are displaced, Malawi authorities say.
 
 ### [Chinese officials impose an emergency ban on tourists approaching pandas subsequent to the death of two pandas from a canine distemper virus. ](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.md)

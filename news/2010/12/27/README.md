@@ -36,7 +36,7 @@ _Context: Association for Civil Rights in Israel, Gaza Strip, Israel, Jonathan P
 ### [The commission overseeing the independence referendum in Southern Sudan rejects a lawsuit to halt the referendum on the basis that the commission violated the law. ](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.md)
 _Context: Southern Sudan, Southern Sudanese Independence Referendum_
 
-### [Alassane Ouattara, the internationally-recognised winner of the presidential election in Cte d'Ivoire, calls for a general strike  to force Laurent Gbagbo, who is refusing to cede power, to step down. ](/news/2010/12/27/alassane-ouattara-the-internationally-recognised-winner-of-the-presidential-election-in-cote-d-ivoire-calls-for-a-general-strike-to-force.md)
+### [Alassane Ouattara, the internationally-recognised winner of the presidential election in Cte d'Ivoire, calls for a general strike to force Laurent Gbagbo, who is refusing to cede power, to step down. ](/news/2010/12/27/alassane-ouattara-the-internationally-recognised-winner-of-the-presidential-election-in-cote-d-ivoire-calls-for-a-general-strike-to-force.md)
 Political parties loyal to Ivory Coast presidential claimant Alassane Ouattara call a general strike to force incumbent Laurent Gbagbo to cede power.
 
 ### [Canadian Prime Minister Stephen Harper invites Aung San Suu Kyi to visit Canada. ](/news/2010/12/27/canadian-prime-minister-stephen-harper-invites-aung-san-suu-kyi-to-visit-canada.md)

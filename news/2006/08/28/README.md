@@ -1,6 +1,6 @@
 ## [2006-08-28](/news/2006/08/28/index.md)
 
-### [ 2006 Israel-Lebanon conflict: United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-p-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md)
+### [ 2006 Israel-Lebanon conflict:. United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/2006-israel-lebanon-conflict-united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-sold.md)
 _Context: Ehud Goldwasser, Hezbollah, Israel, Kofi Annan, Red Cross, United Nations Secretary-General, cabinet, war_
 
 ### [ A DNA test of John Mark Karr does not match the DNA found on the body of JonBent Ramsey, and prosecutors in the U.S. state of Colorado say they will not charge Karr with murder. ](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.md)

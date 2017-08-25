@@ -3,7 +3,7 @@
 ### [Revolutionary Armed Forces of Colombia kill four members of Colombian Army on a mission to destroy cocaine laboratories in Caquet Department with another four soldiers, a police officer and a French journalist missing. ](/news/2012/04/29/revolutionary-armed-forces-of-colombia-kill-four-members-of-colombian-army-on-a-mission-to-destroy-cocaine-laboratories-in-caqueta-departmen.md)
 _Context: Caquet Department, Colombian Army, French-born, Revolutionary Armed Forces of Colombia, cocaine_
 
-### [African church attacks:Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-pseveral-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md)
+### [African church attacks:. Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/african-church-attacks-several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of.md)
 _Context: Bayero University Kano, Christian, Kano, Nigeria_
 
 ### [Four officials are killed in rebel attacks in northern Burma. ](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.md)

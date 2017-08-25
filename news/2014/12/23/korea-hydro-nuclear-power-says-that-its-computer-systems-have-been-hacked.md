@@ -11,4 +11,4 @@ Computer systems at South Korea&#039;s nuclear plant operator have been hacked, 
 
 ### Related:
 
-1. [Three South Korean workers die at a nuclear plant construction site. There is speculation that the deaths are connected to a recent nuclear power plant attack.  ](/news/2014/12/26/three-south-korean-workers-die-at-a-nuclear-plant-construction-site-there-is-speculation-that-the-deaths-are-connected-to-a-recent-nuclear.md) _Context: recent nuclear power plant attack_
+1. [Three South Korean workers die at a nuclear plant construction site. There is speculation that the deaths are connected to a recent nuclear power plant attack. ](/news/2014/12/26/three-south-korean-workers-die-at-a-nuclear-plant-construction-site-there-is-speculation-that-the-deaths-are-connected-to-a-recent-nuclear.md) _Context: recent nuclear power plant attack_

@@ -9,7 +9,7 @@ _Context: Naxalite-Maoist insurgency_
 ### [President of Senegal Abdoulaye Wade announces in a televised address marking 50 years of independence that his country is to resume control of all military bases held by former colonial power France. ](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.md)
 _Context: Abdoulaye Wade, France, President, Senegal_
 
-### [The Chinese coal ship ''Shen Neng 1'' is reported to be leaking oil after it ran aground on the Great Barrier Reef off Queensland, Australia. ](/news/2010/04/4/the-chinese-coal-ship-shen-neng-1-is-reported-to-be-leaking-oil-after-it-ran-aground-on-the-great-barrier-reef-off-queensland-australia.md)
+### [The Chinese coal ship "Shen Neng 1" is reported to be leaking oil after it ran aground on the Great Barrier Reef off Queensland, Australia. ](/news/2010/04/4/the-chinese-coal-ship-shen-neng-1-is-reported-to-be-leaking-oil-after-it-ran-aground-on-the-great-barrier-reef-off-queensland-australia.md)
 Chinese vessel leaking oil after running aground on the Great Barrier Reef.
 
 ### [Three car bombs hit the Egyptian, German and Iranian embassies in the centre of the Iraqi capital, Baghdad, in quick succession, killing at least 30 people. ](/news/2010/04/4/three-car-bombs-hit-the-egyptian-german-and-iranian-embassies-in-the-centre-of-the-iraqi-capital-baghdad-in-quick-succession-killing-at.md)

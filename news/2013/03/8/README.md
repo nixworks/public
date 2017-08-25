@@ -1,6 +1,6 @@
 ## [2013-03-8](/news/2013/03/8/index.md)
 
-### [Piracy in Somalia:The Greek-owned oil tanker ''MT Smyrni'' is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-pthe-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md)
+### [Piracy in Somalia:. The Greek-owned oil tanker "MT Smyrni" is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-the-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md)
 _Context: Greek, Somali pirates_
 
 ### [Tropical Cyclone Sandra forms in the Coral Sea off the coast of the Australian state of Queensland. ](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.md)
@@ -12,7 +12,7 @@ _Context: Netherlands, Prime Minister, Ruud Lubbers, United Nations, United Nati
 ### [North Korea ends all peace pacts with South Korea and closes the main Panmunjom border crossing inside the Korean Demilitarized Zone. North Korean generals affirm they are aiming their long range missiles at the U.S. mainland in retaliation for the recently approved U.N. sanctions. ](/news/2013/03/8/north-korea-ends-all-peace-pacts-with-south-korea-and-closes-the-main-panmunjom-border-crossing-inside-the-korean-demilitarized-zone-north.md)
 North Korea is scrapping all non-aggression pacts with South Korea, closing its hotline and a border crossing, hours after the UN passed new sanctions.
 
-### [Former Barclays chief executive Bob Diamond is set to be paid about PS2m ($3m) in July, a year after he left the bank following its Libor interest rate fixing scandal. ](/news/2013/03/8/former-barclays-chief-executive-bob-diamond-is-set-to-be-paid-about-aps2m-3m-in-july-a-year-after-he-left-the-bank-following-its-libor-in.md)
+### [Former Barclays chief executive Bob Diamond is set to be paid about GBP2m ($3m) in July, a year after he left the bank following its Libor interest rate fixing scandal. ](/news/2013/03/8/former-barclays-chief-executive-bob-diamond-is-set-to-be-paid-about-agbp2m-3m-in-july-a-year-after-he-left-the-bank-following-its-libor.md)
 Former chief executive Bob Diamond is set to be paid about $3m in July, a year after he left the bank following its Libor interest rate rigging scandal.
 
 ### [Sinn Fein's Francie Molloy wins the Mid Ulster by-election, holding onto the seat vacated by Martin McGuinness at the end of 2012. ](/news/2013/03/8/sinn-fa-c-in-s-francie-molloy-wins-the-mid-ulster-by-election-holding-onto-the-seat-vacated-by-martin-mcguinness-at-the-end-of-2012.md)

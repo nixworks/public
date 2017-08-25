@@ -12,13 +12,13 @@ _Context: Christian, United Church of Christ, United States, mainline, same-sex 
 ### [ Scientists uncover evidence that humans lived in the Americas 45,000 years ago, 30,000 years earlier than previously thought. ](/news/2005/07/5/scientists-uncover-evidence-that-humans-lived-in-the-americas-45-000-years-ago-30-000-years-earlier-than-previously-thought.md)
 _Context: humans lived in the Americas_
 
-### [ Elections in Albania: Vote tallying in the 2005 Albanian general election continues. Voter turnout was over 50% and results are expected later in the day. International observers, including OSCE, have expressed reservations about the voting process. Three people have been killed during the election.  ](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.md)
+### [ Elections in Albania: Vote tallying in the 2005 Albanian general election continues. Voter turnout was over 50% and results are expected later in the day. International observers, including OSCE, have expressed reservations about the voting process. Three people have been killed during the election. ](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.md)
 _Context: 2005 Albanian general election, Elections in Albania, OSCE, Vote, Voter turnout, tallying_
 
 ### [ In Indonesia, an earthquake ranking from 6.0-6.7 on the Richter scale hits Sumatra. No reports on any damage have yet been released. ](/news/2005/07/5/in-indonesia-an-earthquake-ranking-from-6-0-6-7-on-the-richter-scale-hits-sumatra-no-reports-on-any-damage-have-yet-been-released.md)
 _Context: Indonesia, Richter scale, Sumatra, earthquake_
 
-### [ In India, militants attack and try to storm a makeshift temple of Ram in Ayodhya, Uttar Pradesh; most of them die in a firefight with the security forces. There are differing reports about the number of attackers and how many were killed. The temple site is a source of dispute between Muslims and Hindus.  ](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.md)
+### [ In India, militants attack and try to storm a makeshift temple of Ram in Ayodhya, Uttar Pradesh; most of them die in a firefight with the security forces. There are differing reports about the number of attackers and how many were killed. The temple site is a source of dispute between Muslims and Hindus. ](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.md)
 _Context: Ayodhya, Hindu, India, Muslim, Uttar Pradesh_
 
 ### [ In Germany, Sven Jaschan, suspected creator of Sasser worm, goes on trial. ](/news/2005/07/5/in-germany-sven-jaschan-suspected-creator-of-sasser-worm-goes-on-trial.md)
@@ -36,7 +36,7 @@ _Context: Indonesia, polio_
 ### [ In Germany, workmen remove the unofficial Berlin Wall memorial in Berlin, after the original builders refuse to obey a court order to do so. ](/news/2005/07/5/in-germany-workmen-remove-the-unofficial-berlin-wall-memorial-in-berlin-after-the-original-builders-refuse-to-obey-a-court-order-to-do-so.md)
 _Context: Berlin, Berlin Wall, Germany, memorial_
 
-### [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption.  ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md)
+### [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption. ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md)
 _Context: Alberto Fujimori, Peru, anti-corruption, murder_
 
 ### [ In Austria, state prosecutors investigate allegations that Iran's president-elect Mahmoud Ahmadinejad would have been involved with the 1989 assassination of Kurdish leader Abdul Rahman Ghassemlou in Vienna. ](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.md)

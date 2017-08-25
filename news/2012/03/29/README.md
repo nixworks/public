@@ -9,7 +9,7 @@ _Context: Spain, general strike_
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
 _Context: 10 Downing Street, Britain, gas station_
 
-### [Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report.  ](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.md)
+### [Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report. ](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.md)
 Research In Motion posted a net loss and its first slump in BlackBerry shipments for its holiday quarter since 2006, as its new CEO announced the initial steps in a strategic overhaul and would not rule out an eventual sale of the company.
 
 ### [At least 13 people are killed at the San Pedro Sula prison in Honduras. ](/news/2012/03/29/at-least-13-people-are-killed-at-the-san-pedro-sula-prison-in-honduras.md)
@@ -36,7 +36,7 @@ _Context: Iranian-born, Israel, Kadima, Shaul Mofaz, elected, leader of oppositi
 ### [George Galloway of the Respect Party wins the United Kingdom House of Commons constituency of Bradford West in a by-election. ](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.md)
 _Context: Bradford West, George Galloway, Respect, United Kingdom House of Commons, by-election, constituency_
 
-### [The UK government says that viaspan, a solution used to preserve some donor organs, could be contaminated with bacteria after routine tests detected ''Bacillus cereus'' in the solution used to test the sterility of viaspan. ](/news/2012/03/29/the-uk-government-says-that-viaspan-a-solution-used-to-preserve-some-donor-organs-could-be-contaminated-with-bacteria-after-routine-tests.md)
+### [The UK government says that viaspan, a solution used to preserve some donor organs, could be contaminated with bacteria after routine tests detected "Bacillus cereus" in the solution used to test the sterility of viaspan. ](/news/2012/03/29/the-uk-government-says-that-viaspan-a-solution-used-to-preserve-some-donor-organs-could-be-contaminated-with-bacteria-after-routine-tests.md)
 The solution used to preserve some donor organs could be contaminated with bacteria, the government says.
 
 ## [Previous Day...](/news/2012/03/28/index.md)

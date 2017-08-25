@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [Element 112 is officially named ''Copernicium'' and assigned the symbol ''Cn'' on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernic.md) _Context: Nicolaus Copernicus_
+1. [Element 112 is officially named "Copernicium" and assigned the symbol "Cn" on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernicus.md) _Context: Nicolaus Copernicus_

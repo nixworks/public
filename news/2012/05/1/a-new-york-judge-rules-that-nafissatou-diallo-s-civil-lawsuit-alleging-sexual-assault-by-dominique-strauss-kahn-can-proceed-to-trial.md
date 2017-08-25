@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France.  ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md) _Context: Dominique Strauss-Kahn_
+1. [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France. ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md) _Context: Dominique Strauss-Kahn_
 2. [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md) _Context: Dominique Strauss-Kahn_
 3. [Due to lack of evidence, a French court drops a case against former IMF chief Dominique Strauss-Kahn for allegedly running a prostitution ring. ](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.md) _Context: Dominique Strauss-Kahn_
 4. [Dominique Strauss-Kahn, the former head of the International Monetary Fund, is placed under formal investigation in France over alleged involvement in a prostitution ring. ](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.md) _Context: Dominique Strauss-Kahn_

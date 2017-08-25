@@ -1,6 +1,6 @@
 ## [2013-08-15](/news/2013/08/15/index.md)
 
-### [Aftermath of 2013 Egyptian coup d'etat:The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-pthe-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md)
+### [Aftermath of 2013 Egyptian coup d'etat:. The death toll from the previous day's clashes climbs to 638. ](/news/2013/08/15/aftermath-of-2013-egyptian-coup-d-a-c-tat-the-death-toll-from-the-previous-day-s-clashes-climbs-to-638.md)
 The number killed in Wednesday&#039;s violence grows to 525, as the US says its traditional co-operation with Egypt &quot;cannot continue&quot;.
 
 ### [At least 20 people are killed and 200 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video. ](/news/2013/08/15/at-least-20-people-are-killed-and-200-injured-in-an-explosion-in-southern-beirut-near-a-complex-used-by-lebanon-s-militant-group-hezbollah-i.md)

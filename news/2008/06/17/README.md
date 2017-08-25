@@ -12,7 +12,7 @@ The Boston Celtics have beaten the LA Lakers 131-92 in game six of the NBA final
 ### [ President Nicolas Sarkozy announces that France intends to return to the military structure of NATO for the first time since Charles de Gaulle led it out of the organisation in 1966. ](/news/2008/06/17/president-nicolas-sarkozy-announces-that-france-intends-to-return-to-the-military-structure-of-nato-for-the-first-time-since-charles-de-gau.md)
 _Context: 1966, Charles de Gaulle, France, NATO, Nicolas Sarkozy, President of France_
 
-### [ Iraq: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-p-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
+### [ Iraq:. A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
 _Context: Haditha killings, Iraq, Marines, military judge_
 
 ### [ In its annual report, the UNHCR says the number of refugees in the world rose to 11.4 million in 2007 from 9.9m in 2006. ](/news/2008/06/17/in-its-annual-report-the-unhcr-says-the-number-of-refugees-in-the-world-rose-to-11-4-million-in-2007-from-9-9m-in-2006.md)
@@ -28,7 +28,7 @@ Still short 2 million tents, it must also rebuild homes and jobs for 5 million.
 _Context: Lebanon_
 
 ### [ The Korean Confederation of Trade Unions calls a one day strike for July 2 in protest at the President of South Korea Lee Myung-bak's economic reform plans. ](/news/2008/06/17/the-korean-confederation-of-trade-unions-calls-a-one-day-strike-for-july-2-in-protest-at-the-president-of-south-korea-lee-myung-bak-s-econo.md)
-_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean President_
+_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, President of South Korea_
 
 ### [ Summer 2008 China region floods: Large areas of southern China are hit by the worst floods in decades with Guangzhou and Shenzhen worst affected. So far, 63 people have died and 1.66 million have been evacuated. ](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.md)
 _Context: China, Guangzhou, Shenzhen, Summer 2008 China region floods_

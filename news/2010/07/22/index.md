@@ -30,7 +30,7 @@ _Context: Catalan people, Jose Carreras, La Scala_
 ### [Damon Albarn-fronted Gorillaz announce their first world tour and will visit at least four continents. ](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.md)
 Hip-hop pop collective Gorillaz - who are fronted by Damon Albarn - announce their first world tour.
 
-### [''Coronation Street'' cat Frisky's ashes sell at auction for nearly six times the expected price in Gloucestershire, England. ](/news/2010/07/22/coronation-street-cat-frisky-s-ashes-sell-at-auction-for-nearly-six-times-the-expected-price-in-gloucestershire-england.md)
+### ["Coronation Street" cat Frisky's ashes sell at auction for nearly six times the expected price in Gloucestershire, England. ](/news/2010/07/22/coronation-street-cat-frisky-s-ashes-sell-at-auction-for-nearly-six-times-the-expected-price-in-gloucestershire-england.md)
 The ashes of Frisky the Coronation Street cat, who died ten years ago, raise almost six times the expected auction price.
 
 ### [The International Monetary Fund cancels Haiti's $268 million debt and approves a new three-year loan worth $60 million; the IMF expects Haiti to start paying back interest in late 2011. ](/news/2010/07/22/the-international-monetary-fund-cancels-haiti-s-268-million-debt-and-approves-a-new-three-year-loan-worth-60-million-the-imf-expects-hait.md)
@@ -111,7 +111,7 @@ _Context: Cabinet formation in the Netherlands, Informateur, Prime Minister, Ruu
 ### [The funeral of Roy Oldham, the UK's longest serving council leader, takes place. ](/news/2010/07/22/the-funeral-of-roy-oldham-the-uk-s-longest-serving-council-leader-takes-place.md)
 _Context: Roy Oldham_
 
-### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
+### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldt-jakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
 _Context: Creutzfeldt-Jakob disease, Italian, Livorno, Milan, Sicily_
 
 ### [A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. ](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.md)

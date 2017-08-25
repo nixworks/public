@@ -12,4 +12,4 @@ Grandma Kris Jenner says the parents are fine and their new addition is a knocko
 ### Related:
 
 1. [Six more people have been charged in relation to the armed robbery of American celebrity Kim Kardashian in Paris last year. ](/news/2017/01/13/six-more-people-have-been-charged-in-relation-to-the-armed-robbery-of-american-celebrity-kim-kardashian-in-paris-last-year.md) _Context: Kim Kardashian_
-2. [Jay Leno finally says farewell for the second time to ''The Tonight Show'' with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md) _Context: Kim Kardashian_
+2. [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md) _Context: Kim Kardashian_

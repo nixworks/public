@@ -1,6 +1,6 @@
 ## [2013-02-15](/news/2013/02/15/index.md)
 
-### [Syrian civil war:After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-pafter-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-alr.md)
+### [Syrian civil war:. After intense fighting 40,000 people become displaced in the city of Shadadah, Hasakah, adding to the 3 million people already internally displaced in Syria. ](/news/2013/02/15/syrian-civil-war-after-intense-fighting-40-000-people-become-displaced-in-the-city-of-shadadah-hasakah-adding-to-the-3-million-people-al.md)
 About 40,000 people abandon Shaddadeh town after three days of heavy clashes between regime forces and rebels, UN says.
 
 ### [Chelyabinsk meteor: A meteor breaks up in the vicinity of the city of Chelyabinsk, Russia. More than 1,200 people are injured, two of them seriously, from the shattering of windows caused by the shockwaves and the debris. ](/news/2013/02/15/chelyabinsk-meteor-a-meteor-breaks-up-in-the-vicinity-of-the-city-of-chelyabinsk-russia-more-than-1-200-people-are-injured-two-of-them-s.md)
@@ -9,7 +9,7 @@ A meteorite streaked across the sky and exploded over central Russia on Friday, 
 ### [The number of fatalities from Thursday's avalanche in the Scottish Highlands rises to three following the death of a man being treated in hospital. ](/news/2013/02/15/the-number-of-fatalities-from-thursday-s-avalanche-in-the-scottish-highlands-rises-to-three-following-the-death-of-a-man-being-treated-in-ho.md)
 Police name one of the three people who died after an avalanche in the Highlands on Thursday afternoon.
 
-### [2013 North Korean nuclear test:In reaction to North Korea's latest nuclear test the European Union will tighten sanctions against the country in the form of blocking the trade of gold and diamonds, as well as cracking down on financial ties between them. ](/news/2013/02/15/2013-north-korean-nuclear-test-pin-reaction-to-north-korea-s-latest-nuclear-test-the-european-union-will-tighten-sanctions-against-the-count.md)
+### [2013 North Korean nuclear test:. In reaction to North Korea's latest nuclear test the European Union will tighten sanctions against the country in the form of blocking the trade of gold and diamonds, as well as cracking down on financial ties between them. ](/news/2013/02/15/2013-north-korean-nuclear-test-in-reaction-to-north-korea-s-latest-nuclear-test-the-european-union-will-tighten-sanctions-against-the-coun.md)
 The European Union will tighten sanctions on North Korea to curb trade in gold and diamonds and crack down on financial links in protest at Pyongyang&#039;s recent rocket launch and nuclear bomb test, EU diplomats said on Friday.
 
 ### [The British catering firm Compass Group and hotel chain Whitbread both identify horse meat in products sold as beef. ](/news/2013/02/15/the-british-catering-firm-compass-group-and-hotel-chain-whitbread-both-identify-horse-meat-in-products-sold-as-beef.md)

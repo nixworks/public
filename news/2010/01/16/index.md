@@ -3,7 +3,7 @@
 ### [Previously unknown Florence Green, at 108, is believed to be Britain's oldest surviving UK-resident First World War veteran, and the last known female First World War veteran, having served with the Women's RAF (WRAF) in 1918 ](/news/2010/01/16/previously-unknown-florence-green-at-108-is-believed-to-be-britain-s-oldest-surviving-uk-resident-first-world-war-veteran-and-the-last-kn.md)
 A 108-year-old woman is believed to be Britain&rsquo;s oldest surviving First World War veteran.
 
-### [Aftermath of 2010 Haiti earthquake:A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-pa-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md)
+### [Aftermath of 2010 Haiti earthquake:. A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/aftermath-of-2010-haiti-earthquake-a-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md)
 Haitian police have opened fire on a group of looters, killing at least one of them as hundreds of rioters ransacked a market in quake-hit Port-au-Prince.
 
 ### [Spanish politician Gaspar Llamazares says the United States's Federal Bureau of Investigation (FBI) use of his photo in its "shameless" digital manipulation of Osama Bin Laden for a wanted poster, has left him insecure and worried about travelling to the United States in future. ](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-united-states-s-federal-bureau-of-investigation-fbi-use-of-his-photo-in-its-shameless-digi.md)

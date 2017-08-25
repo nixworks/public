@@ -1,6 +1,6 @@
 ### [2005-09-24](/news/2005/09/24/index.md)
 
-#  In the Australian Football League's premiership-deciding match for season 2005, the Sydney Swans defeat the West Coast Eagles 8.10&nbsp;(58) &ndash; 7.12&nbsp;(54) to win their first AFL premiership in seventy-two years. ([http://www.smh.com.au/news/afl/victory-to-the-swans/2005/09/24/1126982265994.html ''Sydney Morning Herald''])
+#  In the Australian Football League's premiership-deciding match for season 2005, the Sydney Swans defeat the West Coast Eagles 8.10&nbsp;(58) &ndash; 7.12&nbsp;(54) to win their first AFL premiership in seventy-two years. ([http://www.smh.com.au/news/afl/victory-to-the-swans/2005/09/24/1126982265994.html "Sydney Morning Herald"])
 
 
 

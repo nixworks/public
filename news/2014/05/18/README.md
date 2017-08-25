@@ -12,13 +12,13 @@ The deal is the latest sign of consolidation in the telecom and cable industries
 ### [Officials in North Korea report the collapse of a 23-story block of flats that is believed to have killed multiple residents, in a rare public apology. ](/news/2014/05/18/officials-in-north-korea-report-the-collapse-of-a-23-story-block-of-flats-that-is-believed-to-have-killed-multiple-residents-in-a-rare-publ.md)
 _Context: North Korea_
 
-### [Soma mine disaster:Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-pturkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-peo.md)
+### [Soma mine disaster:. Turkish police arrest 18 people including mining company executives over the disaster which caused the deaths of 301 people. ](/news/2014/05/18/soma-mine-disaster-turkish-police-arrest-18-people-including-mining-company-executives-over-the-disaster-which-caused-the-deaths-of-301-pe.md)
 _Context: Soma mine disaster, Turkish police_
 
 ### [A bus in Fundacion, department of Magdalena, Colombia, ignites while transporting children from a religious service, killing 31 children. ](/news/2014/05/18/a-bus-in-fundacia3n-department-of-magdalena-colombia-ignites-while-transporting-children-from-a-religious-service-killing-31-children.md)
 _Context: Colombia, Fundacion, department of Magdalena_
 
-### [2014 Vietnam anti-China protests:More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/2014-vietnam-anti-china-protests-pmore-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-injur.md)
+### [2014 Vietnam anti-China protests:. More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/2014-vietnam-anti-china-protests-more-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-inju.md)
 More than 3,000 Chinese nationals have been evacuated from Vietnam, state news agency Xinhua said on Sunday, following deadly rioting that stemmed from an outpouring of rage over Chinese oil drilling in a disputed area of the South China Sea.
 
 ### [Voters in Switzerland resoundingly reject a proposed law change that would have given that country the world's highest minimum wage. ](/news/2014/05/18/voters-in-switzerland-resoundingly-reject-a-proposed-law-change-that-would-have-given-that-country-the-world-s-highest-minimum-wage.md)

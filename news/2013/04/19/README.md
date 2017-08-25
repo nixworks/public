@@ -1,6 +1,6 @@
 ## [2013-04-19](/news/2013/04/19/index.md)
 
-### [Boston Marathon bombings:The Boston Police Department chases two carjacking suspects in the MIT shooting death of a campus policeman to the nearby suburb of Watertown where, after a gunfight that included explosives, an MBTA officer is injured, one suspect is dead, and the other flees but is later captured. ](/news/2013/04/19/boston-marathon-bombings-pthe-boston-police-department-chases-two-carjacking-suspects-in-the-mit-shooting-death-of-a-campus-policeman-to-the.md)
+### [Boston Marathon bombings:. The Boston Police Department chases two carjacking suspects in the MIT shooting death of a campus policeman to the nearby suburb of Watertown where, after a gunfight that included explosives, an MBTA officer is injured, one suspect is dead, and the other flees but is later captured. ](/news/2013/04/19/boston-marathon-bombings-the-boston-police-department-chases-two-carjacking-suspects-in-the-mit-shooting-death-of-a-campus-policeman-to-th.md)
 Four months ago, the Boston bombing suspect, Tamerlan Tsarnaev, who was killed yesterday in a shootout with police, uploaded to his YouTube Channel an eight-minute lecture by the radical Australian Muslim preacher Sheikh Feiz Mohammed denouncing the Harry Potter movies for glorifying and promoting p...
 
 ### [The FAA has approved a fix of the lithium-ion battery in Boeing's 787s, clearing the way for its resumption of service. ](/news/2013/04/19/the-faa-has-approved-a-fix-of-the-lithium-ion-battery-in-boeing-s-787s-clearing-the-way-for-its-resumption-of-service.md)

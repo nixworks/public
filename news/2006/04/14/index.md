@@ -15,7 +15,7 @@ _Context: 2006 European floods, Bulgaria, Danube, Romania, Serbia, floods_
 ### [ In Delhi, India, two explosions inside the 16th century mosque Jama Masjid injure at least nine people. ](/news/2006/04/14/in-delhi-india-two-explosions-inside-the-16th-century-mosque-jama-masjid-injure-at-least-nine-people.md)
 _Context: Delhi, Jama Masjid, mosque, two explosions_
 
-### [ An editorial in ''The Lancet'', an influential medical journal, says that researchers should study the effects of drugs by using them themselves, and thereby weakening the force of the social demonization of such substances. ](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medical-journal-says-that-researchers-should-study-the-effects-of-drugs-by-using-them-thems.md)
+### [ An editorial in "The Lancet", an influential medical journal, says that researchers should study the effects of drugs by using them themselves, and thereby weakening the force of the social demonization of such substances. ](/news/2006/04/14/an-editorial-in-the-lancet-an-influential-medical-journal-says-that-researchers-should-study-the-effects-of-drugs-by-using-them-themsel.md)
 _Context: The Lancet, drug, medical journal, using them themselves_
 
 ### [ An accident occurs on the Yurikamome rail line in Tokyo, Japan, when a damaged axle causes a rubber traction tire on a train to fall off, forcing the cancellation of all weekend train services. ](/news/2006/04/14/an-accident-occurs-on-the-yurikamome-rail-line-in-tokyo-japan-when-a-damaged-axle-causes-a-rubber-traction-tire-on-a-train-to-fall-off-f.md)

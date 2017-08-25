@@ -3,7 +3,7 @@
 ### [ Tens of thousands of Israelis have converged on Tel Aviv to protest the proposed removal of Israeli settlements from the Gaza Strip. ](/news/2005/08/11/tens-of-thousands-of-israelis-have-converged-on-tel-aviv-to-protest-the-proposed-removal-of-israeli-settlements-from-the-gaza-strip.md)
 _Context: Gaza Strip, Israeli settlement, Israelis, Tel Aviv_
 
-### [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, ''Mirza zaza'' and ''Microcebus lehilahytsara''. ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza.md)
+### [ Scientists at the German Primate Centre and the University of Gttingen announce the discovery of two new species of lemur, "Mirza zaza" and "Microcebus lehilahytsara". ](/news/2005/08/11/scientists-at-the-german-primate-centre-and-the-university-of-gottingen-announce-the-discovery-of-two-new-species-of-lemur-mirza-zaza-an.md)
 _Context: Microcebus lehilahytsara, Mirza zaza_
 
 ### [ Pakistan's first domestically designed cruise missile, the Babur missile, is test launched. ](/news/2005/08/11/pakistan-s-first-domestically-designed-cruise-missile-the-babur-missile-is-test-launched.md)

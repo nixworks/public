@@ -3,7 +3,7 @@
 ### [The United States Federal Reserve announces that it will continue its stimulus program due to concerns about weakening growth. ](/news/2013/09/18/the-united-states-federal-reserve-announces-that-it-will-continue-its-stimulus-program-due-to-concerns-about-weakening-growth.md)
 The Federal Reserve has left its $US85 billion ($91 billion) a month stimulus program in place, against broad expectations that it would reduce it as the economy grows.
 
-### [Hurricane Manuel:More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-pmore-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resor.md)
+### [Hurricane Manuel:. More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-reso.md)
 _Context: Acapulco, Hurricane Manuel, Mexican Army_
 
 ### [At least 6 people are dead in Ottawa after a collision between a Via Rail train and a double-decker OC Transpo bus. ](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.md)
@@ -18,7 +18,7 @@ Analysts said the release of 11 prominent prisoners was a significant step in Pr
 ### [The French parliament moves to ban children's beauty contests in an attempt to halt what one former minister called the hyper-sexualization of young girls. ](/news/2013/09/18/the-french-parliament-moves-to-ban-children-s-beauty-contests-in-an-attempt-to-halt-what-one-former-minister-called-the-hyper-sexualization.md)
 &#x27;Mini-Miss&#x27; pageant organisers face fines and prison sentences as parliament addresses &#x27;hypersexualisation&#x27; of under-16s
 
-### [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a  head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cra.md)
+### [In Fort Lauderdale, Florida, Antonio Feliu fatally shot his ex-girlfriend and her adult daughter, and killed another woman in a head-on crash during a police chase. He shot himself as police approached his stopped car. ](/news/2013/09/18/in-fort-lauderdale-florida-antonio-feliu-fatally-shot-his-ex-girlfriend-and-her-adult-daughter-and-killed-another-woman-in-a-head-on-cras.md)
 Antonio Feliu killed two people, took off in his SUV, and led police on a high-speed chase before crashing into another car, whose driver was killed in the
 
 ### [Tony Abbott is sworn in as the 28th Prime Minister of Australia together with his Ministry. ](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.md)

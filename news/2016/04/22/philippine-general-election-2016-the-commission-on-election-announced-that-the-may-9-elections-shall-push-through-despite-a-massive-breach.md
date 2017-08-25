@@ -1,0 +1,16 @@
+### [2016-04-22](/news/2016/04/22/index.md)
+
+# Philippine general election, 2016. The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.
+
+
+
+
+### Related:
+
+1. [Philippine general election, 2016. Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. ](/news/2016/05/9/philippine-general-election-2016-filipino-voters-head-to-the-polls-for-a-presidential-election-with-unofficial-counts-showing-davao-city-m.md) _Context: Philippine general election, 2016_
+2. [Philippine general election, 2016. Philippine candidate Grace Poe denies she will give way in favor of administration bet Mar Roxas ](/news/2016/05/5/philippine-general-election-2016-philippine-candidate-grace-poe-denies-she-will-give-way-in-favor-of-administration-bet-mar-roxas.md) _Context: Philippine general election, 2016_
+3. [ Philippine general election, 2016. In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/philippine-general-election-2016-in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in.md) _Context: Philippine general election, 2016_
+4. [Philippine general election, 2016 CPP-NPA-NDF rebellion. Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/philippine-general-election-2016-cpp-npa-ndf-rebellion-jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-phi.md) _Context: Philippine general election, 2016_
+5. [Philippine general election, 2016. Philippine presidential candidate Rodrigo Duterte says he shot a fellow law student at San Beda College. The victim, Octavio Goco, who was also a Lex Talionis fraternity brother of Duterte, survived the assault. Duerte was not allowed to participate in his graduation ceremony. ](/news/2016/04/21/philippine-general-election-2016-philippine-presidential-candidate-rodrigo-duterte-says-he-shot-a-fellow-law-student-at-san-beda-college.md) _Context: Philippine general election, 2016_
+6. [Philippine general election, 2016. Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/philippine-general-election-2016-bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-dutert.md) _Context: Philippine general election, 2016_
+7. [Territorial disputes in the South China Sea. Philippine general election, 2016. Presidential candidate Rodrigo Duterte says he will set aside the Philippine claim on the Spratly islands and forge better economic relations with China. ](/news/2016/04/15/territorial-disputes-in-the-south-china-sea-philippine-general-election-2016-presidential-candidate-rodrigo-duterte-says-he-will-set-asid.md) _Context: Philippine general election, 2016_

@@ -24,10 +24,10 @@ _Context: Howard Stringer, Sony Corporation_
 ### [ The People's Republic of China warns that it will not tolerate the United States and Japan including Taiwan in any security alliance. ](/news/2005/03/7/the-people-s-republic-of-china-warns-that-it-will-not-tolerate-the-united-states-and-japan-including-taiwan-in-any-security-alliance.md)
 _Context: status_
 
-### [ In Moldova, ruling Pro-Western Communist Party of the Republic of Moldova wins a narrow majority in  parliamentary elections but will be probably unable to elect a president without further political alliances with other parties ](/news/2005/03/7/in-moldova-ruling-pro-western-communist-party-of-the-republic-of-moldova-wins-a-narrow-majority-in-parliamentary-elections-but-will-be-pr.md)
+### [ In Moldova, ruling Pro-Western Communist Party of the Republic of Moldova wins a narrow majority in parliamentary elections but will be probably unable to elect a president without further political alliances with other parties ](/news/2005/03/7/in-moldova-ruling-pro-western-communist-party-of-the-republic-of-moldova-wins-a-narrow-majority-in-parliamentary-elections-but-will-be-pro.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ 3-19 shooting incident: Police in Taiwan says that they have identified the man who shot at president Chen Shui-bian last year. Wife of unemployed man ''Chen Yi-hsiung'' says he confessed and committed suicide a few days later ](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.md)
+### [ 3-19 shooting incident: Police in Taiwan says that they have identified the man who shot at president Chen Shui-bian last year. Wife of unemployed man "Chen Yi-hsiung" says he confessed and committed suicide a few days later ](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.md)
 _Context: 3-19 shooting incident, Chen Shui-bian, Taiwan_
 
 ### [ Italy prepares a funeral for the agent Nicola Calipari who died in Iraq protecting released hostage Giuliana Sgrena. Sgrena disputes US Army account of the shooting ](/news/2005/03/7/italy-prepares-a-funeral-for-the-agent-nicola-calipari-who-died-in-iraq-protecting-released-hostage-giuliana-sgrena-sgrena-disputes-us-arm.md)
@@ -51,7 +51,7 @@ _Context: Bosnia and Herzegovina, Croatia, Momcilo Perisic, Serbia, The Hague, U
 ### [ A prison fire in the Dominican Republic claims 134 lives and injured 25. Fire started during a clash of prison gangs ](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ In Spain, prosecutors of the case of Adolfo Scilingo, Argentine naval officers accused of multiple counts of genocide, murder and terrorism, request a prison sentence of 9138 years  ](/news/2005/03/7/in-spain-prosecutors-of-the-case-of-adolfo-scilingo-argentine-naval-officers-accused-of-multiple-counts-of-genocide-murder-and-terrorism.md)
+### [ In Spain, prosecutors of the case of Adolfo Scilingo, Argentine naval officers accused of multiple counts of genocide, murder and terrorism, request a prison sentence of 9138 years ](/news/2005/03/7/in-spain-prosecutors-of-the-case-of-adolfo-scilingo-argentine-naval-officers-accused-of-multiple-counts-of-genocide-murder-and-terrorism.md)
 _Context: Adolfo Scilingo, genocide, murder, terrorism_
 
 ### [ In Norway, police recovers three paintings of Edvard Munch the day after they were stolen ](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.md)

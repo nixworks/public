@@ -1,18 +1,18 @@
 ## [2013-02-24](/news/2013/02/24/index.md)
 
-### [Syrian civil war:French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/syrian-civil-war-pfrench-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after-s.md)
+### [Syrian civil war:. French freelance photographer Olivier Voisin, who was wounded near Idlib in January 2013, dies in Antakya, Turkey, after surgery. ](/news/2013/02/24/syrian-civil-war-french-freelance-photographer-olivier-voisin-who-was-wounded-near-idlib-in-january-2013-dies-in-antakya-turkey-after.md)
 French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANC...
 
-### [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md)
+### [Northern Mali conflict:. 10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-n.md)
 _Context: Adrar des Ifoghas, Chad, Islamist, Mali, Northern Mali conflict (2012-present)_
 
-### [War in Afghanistan:Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/war-in-afghanistan-ptwo-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-provinc.md)
+### [War in Afghanistan:. Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/war-in-afghanistan-two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-provin.md)
 KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber in central Kabul on Sunday morning but attackers struck police and intelligence offices in two other eastern cities,...
 
-### [Nigerian Sharia conflict:At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-pat-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md)
+### [Nigerian Sharia conflict:. At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/nigerian-sharia-conflict-at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md)
 _Context: Nigeria, Nigerian Sharia conflict, Yobe State_
 
-### [M23 rebellion:Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-peleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md)
+### [M23 rebellion:. Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/m23-rebellion-eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal.md)
 Regional African leaders sign a UN-brokered accord which aims to bring peace to the troubled eastern Democratic Republic of Congo.
 
 ### [The 85th Academy Awards are held at the Dolby Theatre in the Los Angeles district of Hollywood. ](/news/2013/02/24/the-85th-academy-awards-are-held-at-the-dolby-theatre-in-the-los-angeles-district-of-hollywood.md)

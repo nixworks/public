@@ -1,9 +1,9 @@
 ## [2012-11-28](/news/2012/11/28/index.md)
 
-### [Syrian civil war:At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-pat-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus.md)
+### [Syrian civil war:. At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascu.md)
 _Context: Damascus, Syria, Syrian Civil War_
 
-### [2012 East D.R. Congo conflict:M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-pm23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md)
+### [2012 East D.R. Congo conflict:. M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md)
 M23 spokesman says the group is doing a phased pullout from territory they have captured, starting south of Goma.
 
 ### [More than 200 people are wounded in a second day of clashes between Tunisian security forces and thousands of protesters in Siliana, Tunisia. ](/news/2012/11/28/more-than-200-people-are-wounded-in-a-second-day-of-clashes-between-tunisian-security-forces-and-thousands-of-protesters-in-siliana-tunisia.md)
@@ -12,7 +12,7 @@ More than 200 people are wounded as protesters demanding jobs clash with securit
 ### [The UK's Home Office launches a ten week consultation on whether to introduce a minimum price for the sale of alcohol of 45p a unit. The plans are aimed at tackling binge drinking and other alcohol related problems. ](/news/2012/11/28/the-uk-s-home-office-launches-a-ten-week-consultation-on-whether-to-introduce-a-minimum-price-for-the-sale-of-alcohol-of-45p-a-unit-the-pla.md)
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
 
-### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 ''Deepwater Horizon'' oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
+### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 "Deepwater Horizon" oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
 _Context: 2010 ''Deepwater Horizon'' oil spill, BP, Environmental Protection Agency, United States, government_
 
 ### [The European Commission approves a Spanish government plan to shrink and restructure three major Spanish banks (Bankia, NCG Banco and Catalunya Banc) and sell a fourth (Banco de Valencia). ](/news/2012/11/28/the-european-commission-approves-a-spanish-government-plan-to-shrink-and-restructure-three-major-spanish-banks-bankia-ncg-banco-and-catalu.md)

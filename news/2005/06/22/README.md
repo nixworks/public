@@ -9,7 +9,7 @@ _Context: St. Gotthard, Swiss Federal Railways, Switzerland, Ticino, overhead wi
 ### [ In Chad, a referendum for allowing presidents, particularly Idriss Dby, run for office for three straight terms, passes. ](/news/2005/06/22/in-chad-a-referendum-for-allowing-presidents-particularly-idriss-deby-run-for-office-for-three-straight-terms-passes.md)
 _Context: Chad, Idriss Deby, referendum_
 
-### [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers ''in absentia'' to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role.md)
+### [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers "in absentia" to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role-in.md)
 _Context: La Spezia, Nazism, Sant'Anna di Stazzema, Tuscany, World War II, in absentia, life imprisonment_
 
 ### [ In Colombia, congress approves a draft bill that offers sentences of only eight years to those members of paramilitary militias who give up their weapons. It demands that they confess, return the stolen property and disarm. Critics of president lvaro Uribe say that the law is too lenient ](/news/2005/06/22/in-colombia-congress-approves-a-draft-bill-that-offers-sentences-of-only-eight-years-to-those-members-of-paramilitary-militias-who-give-up.md)

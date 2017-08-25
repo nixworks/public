@@ -1,6 +1,6 @@
 ## [1999-07-8](/news/1999/07/8/index.md)
 
-### [ ''Harry Potter and the Prisoner of Azkaban'' is released.](/news/1999/07/8/harry-potter-and-the-prisoner-of-azkaban-is-released.md)
+### [ "Harry Potter and the Prisoner of Azkaban" is released.](/news/1999/07/8/harry-potter-and-the-prisoner-of-azkaban-is-released.md)
 _Context: Harry Potter and the Prisoner of Azkaban_
 
 ### [ Astronaut Pete Conrad dies after a motorcycle accident. ](/news/1999/07/8/astronaut-pete-conrad-dies-after-a-motorcycle-accident.md)

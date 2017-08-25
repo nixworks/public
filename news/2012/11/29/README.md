@@ -1,9 +1,9 @@
 ## [2012-11-29](/news/2012/11/29/index.md)
 
-### [Syrian civil war:Syrian opposition fighters battle the Syrian Army outside Damascus, forcing the closure of the main airport road, and the suspension of some flights. ](/news/2012/11/29/syrian-civil-war-psyrian-opposition-fighters-battle-the-syrian-army-outside-damascus-forcing-the-closure-of-the-main-airport-road-and-the.md)
+### [Syrian civil war:. Syrian opposition fighters battle the Syrian Army outside Damascus, forcing the closure of the main airport road, and the suspension of some flights. ](/news/2012/11/29/syrian-civil-war-syrian-opposition-fighters-battle-the-syrian-army-outside-damascus-forcing-the-closure-of-the-main-airport-road-and-the.md)
 Syrian rebels battled forces loyal to President Bashar al-Assad just outside Damascus on Thursday, cutting access to its international airport, and Dubai-based Emirates airline and EgyptAir stopped flights to the Syrian capital.
 
-### [Iraqi insurgency (post U.S. withdrawal):Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/iraqi-insurgency-post-u-s-withdrawal-pbombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-peo.md)
+### [Iraqi insurgency (post U.S. withdrawal):. Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/iraqi-insurgency-post-u-s-withdrawal-bombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-pe.md)
 The deadliest of Thursday&#39;s attacks was in the city of Hillah where a police officer said back-to-back explosions in a busy commercial area killed 24 people and wounded up to 90.
 
 ### [Police in Burma break up a three-month-long protest against the expansion of a copper mine run by the military and a Chinese company. ](/news/2012/11/29/police-in-burma-break-up-a-three-month-long-protest-against-the-expansion-of-a-copper-mine-run-by-the-military-and-a-chinese-company.md)
@@ -27,7 +27,7 @@ A UN war crimes tribunal acquits former Kosovan Prime Minister Ramush Haradinaj 
 ### [The Arts and Letters Building at Florida Atlantic University's campus in Boca Raton, Florida, and the nearby Boca Raton campus of Palm Beach State College, are given the all-clear and are back to normal after police locked them both down for three hours searching for a gunman believed to have robbed a student at gunpoint, no injuries. ](/news/2012/11/29/the-arts-and-letters-building-at-florida-atlantic-university-s-campus-in-boca-raton-florida-and-the-nearby-boca-raton-campus-of-palm-beach.md)
 _Context: Boca Raton, Florida, Florida Atlantic University, Palm Beach State College, all-clear_
 
-### [Leveson report:Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-plord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md)
+### [Leveson report:. Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/leveson-report-lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md)
 Coalition partners David Cameron and Nick Clegg take differing views on laws to regulate the press, as they face MPs about the Leveson report.
 
 ### [U.S. President Barack Obama spent more than an hour with Mitt Romney at the White House, as the one-time rivals shared lunch and discussed their ideas for the first time since the 2012 election. ](/news/2012/11/29/u-s-president-barack-obama-spent-more-than-an-hour-with-mitt-romney-at-the-white-house-as-the-one-time-rivals-shared-lunch-and-discussed-t.md)
@@ -48,7 +48,7 @@ Former president, 88, has been in the hospital for a week battling a cough; cond
 ### [New data from the NASA space probe MESSENGER indicate that Mercury, the closest planet to the Sun, almost surely has water ice buried beneath the surface at its north pole. ](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.md)
 A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of three new lines of evidence that water ice exists near the north pole of Mercury.
 
-### [The new species of darter fish are classified and named as ''Etheostoma obama'' after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
+### [The new species of darter fish are classified and named as "Etheostoma obama" after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
 _Context: Barack Obama, Etheostoma obama, U.S. President, darter fish_
 
 ## [Previous Day...](/news/2012/11/28/index.md)

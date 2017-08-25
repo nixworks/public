@@ -1,6 +1,6 @@
 ## [2005-10-23](/news/2005/10/23/index.md)
 
-### [ Avian influenza: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-p-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md)
+### [ Avian influenza:. The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md)
 _Context: Avian flu virus, Stockholm, Swedish National Veterinary Institute, duck_
 
 ### [ Nigerian airline Bellview Airlines Flight 210 crashed in Oyo State, Nigeria shortly after take-off from Lagos en route to Abuja. The Red Cross reports there are no survivors. ](/news/2005/10/23/nigerian-airline-bellview-airlines-flight-210-crashed-in-oyo-state-nigeria-shortly-after-take-off-from-lagos-en-route-to-abuja-the-red-cr.md)
@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Pope Benedict XVI canonizes Chilean Jesuit Alberto Hurtado.](/news/2005/10/23/pope-benedict-xvi-canonizes-chilean-jesuit-alberto-hurtado.md)
 _Context: Alberto Hurtado, Benedict XVI_
 
-### [ Elections in Argentina, 2005.Candidates supporting Argentina's President,  Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aire.md)
+### [ Elections in Argentina, 2005.Candidates supporting Argentina's President, Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aires.md)
 _Context: Argentina, Buenos Aires, Buenos Aires Province, Elections in Argentina, 2005, Nestor Kirchner, Santa Fe Province_
 
 ### [ The Chicago White Sox defeat the Houston Astros 7-6 to take a 2-0 lead in the World Series.](/news/2005/10/23/the-chicago-white-sox-defeat-the-houston-astros-7-6-to-take-a-2-0-lead-in-the-world-series.md)

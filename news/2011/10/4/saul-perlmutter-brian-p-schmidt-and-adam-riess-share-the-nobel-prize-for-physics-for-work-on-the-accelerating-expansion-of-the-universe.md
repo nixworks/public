@@ -1,6 +1,6 @@
 ### [2011-10-4](/news/2011/10/4/index.md)
 
-# Saul Perlmutter, Brian P. Schmidt and  Adam Riess share the Nobel Prize for Physics for work on the accelerating expansion of the universe. 
+# Saul Perlmutter, Brian P. Schmidt and Adam Riess share the Nobel Prize for Physics for work on the accelerating expansion of the universe. 
 
 
 

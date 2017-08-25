@@ -9,13 +9,13 @@ _Context: Kosovo, Macedonia, Montenegro, United Nations, officially recognizes_
 ### [ The U.S. National Security Agency is accused of listening to Americans' private phone conversations.](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.md)
 Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone....
 
-### [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md)
+### [ Nobel Prize:. French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md)
 _Context: France, Jean-Marie Gustave Le Clezio, Nobel Prize, Nobel Prize in Literature_
 
 ### [ 2008 Pacific hurricane season : Tropical Storm Odile forms south of Mexico while Hurricane Norbert weakens to tropical storm strength northwest of Odile. ](/news/2008/10/9/2008-pacific-hurricane-season-tropical-storm-odile-forms-south-of-mexico-while-hurricane-norbert-weakens-to-tropical-storm-strength-north.md)
 _Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexico, Tropical Storm Odile, tropical storm_
 
-### [ Global financial crisis of September-October 2008: Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession.  IMF releases World Economic Outlook report with gloomy projections for the global financial system. ](/news/2008/10/9/global-financial-crisis-of-septemberaoctober-2008-p-head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-th.md)
+### [ Global financial crisis of September-October 2008:. Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession. IMF releases World Economic Outlook report with gloomy projections for the global financial system. ](/news/2008/10/9/global-financial-crisis-of-september-october-2008-head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-th.md)
 A late-day decline again pushed the markets down sharply, with the Dow falling more than 600 points a year to the day after hitting its record high.
 
 ### [ North Korea has forbidden ships to sail in an area of the Yellow Sea as it prepares for the launch of 10 short-range missiles. ](/news/2008/10/9/north-korea-has-forbidden-ships-to-sail-in-an-area-of-the-yellow-sea-as-it-prepares-for-the-launch-of-10-short-range-missiles.md)
@@ -24,7 +24,7 @@ North Korea deployed more than 10 missiles on its west coast apparently for an i
 ### [ Democratic Republic of the Congo accuses Rwanda of sending troops across the border, threatening the city of Goma. ](/news/2008/10/9/democratic-republic-of-the-congo-accuses-rwanda-of-sending-troops-across-the-border-threatening-the-city-of-goma.md)
 _Context: Democratic Republic of the Congo, Goma, Rwanda_
 
-### [ War on Terrorism: NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-p-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md)
+### [ War on Terrorism:. NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/war-on-terrorism-nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md)
 A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Taliban insurgency in Afghanistan ran into opposition from Germany and others on Thursday, but Berlin said it still hoped for an agreement.
 
 ### [ Court in the United Kingdom hears of how two doctors planned car bomb attacks on London and Glasgow airports in revenge for how UK was treating Muslims ](/news/2008/10/9/court-in-the-united-kingdom-hears-of-how-two-doctors-planned-car-bomb-attacks-on-london-and-glasgow-airports-in-revenge-for-how-uk-was-trea.md)
@@ -33,7 +33,7 @@ _Context: Britain, Glasgow, London, planned car bomb attacks_
 ### [ NATO plans on sending seven warships to protect United Nations food aid from Piracy in Somalia. ](/news/2008/10/9/nato-plans-on-sending-seven-warships-to-protect-united-nations-food-aid-from-piracy-in-somalia.md)
 _Context: NATO, Somali pirates, United Nations_
 
-### [ North Korea ends its nuclear freeze as it prepares to restart a nuclear facility  ](/news/2008/10/9/north-korea-ends-its-nuclear-freeze-as-it-prepares-to-restart-a-nuclear-facility.md)
+### [ North Korea ends its nuclear freeze as it prepares to restart a nuclear facility ](/news/2008/10/9/north-korea-ends-its-nuclear-freeze-as-it-prepares-to-restart-a-nuclear-facility.md)
 _Context: North Korea_
 
 ### [ No candidate wins a majority in the Maldives' first democratic presidential election; the incumbent Maumoon Abdul Gayoom will face Mohamed Nasheed in a runoff. ](/news/2008/10/9/no-candidate-wins-a-majority-in-the-maldives-first-democratic-presidential-election-the-incumbent-maumoon-abdul-gayoom-will-face-mohamed.md)

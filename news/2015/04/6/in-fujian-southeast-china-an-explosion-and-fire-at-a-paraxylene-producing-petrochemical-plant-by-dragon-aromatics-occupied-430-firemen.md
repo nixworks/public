@@ -1,6 +1,6 @@
 ### [2015-04-6](/news/2015/04/6/index.md)
 
-#  In Fujian, Southeast China an explosion and fire at a paraxylene producing petrochemical plant by Dragon Aromatics occupied 430 firemen.  
+#  In Fujian, Southeast China an explosion and fire at a paraxylene producing petrochemical plant by Dragon Aromatics occupied 430 firemen. 
 
 An explosion hit part of an oilstorage facility on Monday at Dragon Aromatics, an independentpetrochemical producer in eastern China, Xinhua reported.
 

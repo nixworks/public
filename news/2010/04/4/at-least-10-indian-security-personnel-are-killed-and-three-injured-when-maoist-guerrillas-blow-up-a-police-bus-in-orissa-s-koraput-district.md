@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _Context: Naxalite-Maoist insurgency_
+1. [Naxalite-Maoist insurgency. Maoist rebels kill 14 Central Reserve Police Force members in an ambush in Chhattisgarh, Central India. ](/news/2014/12/1/naxalite-maoist-insurgency-maoist-rebels-kill-14-central-reserve-police-force-members-in-an-ambush-in-chhattisgarh-central-india.md) _Context: Naxalite-Maoist insurgency_
 2. [Naxalite-Maoist insurgency: Six policemen in the eastern India state of Jharkhand are killed in an attack by Naxalites. ](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.md) _Context: Naxalite-Maoist insurgency_
 3. [A landmine explosion in Maharashtra, India, allegedly by Maoist insurgents, kills 15 policemen and injures 13 others. ](/news/2012/03/27/a-landmine-explosion-in-maharashtra-india-allegedly-by-maoist-insurgents-kills-15-policemen-and-injures-13-others.md) _Context: Naxalite-Maoist insurgency_
 4. [At least 25 people are killed and 150 injured in India after a Mumbai train with 13 passenger coaches is derailed by an explosion on the tracks and collides with another train as it traveled through the Paschim Medinipur district, a rebel stronghold in eastern India. ](/news/2010/05/28/at-least-25-people-are-killed-and-150-injured-in-india-after-a-mumbai-train-with-13-passenger-coaches-is-derailed-by-an-explosion-on-the-tra.md) _Context: Naxalite-Maoist insurgency_

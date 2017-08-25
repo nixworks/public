@@ -1,6 +1,6 @@
 ### [2005-01-17](/news/2005/01/17/index.md)
 
-#  James T. Morris, the head of the United Nations World Food Program, visits Tamil Tigers over the objections of the Sri Lankan government  
+#  James T. Morris, the head of the United Nations World Food Program, visits Tamil Tigers over the objections of the Sri Lankan government 
 
 
 

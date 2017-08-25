@@ -3,7 +3,7 @@
 ### [Mexican Drug War: Initial reports from the Mexican Navy indicate that Heriberto Lazcano Lazcano, the top leader of the most dangerous Mexican criminal organization known as Los Zetas, may have been killed in a shootout. The forensic tests are currently on their way to confirm his identity. ](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.md)
 _Context: Heriberto Lazcano Lazcano, Los Zetas, Mexican Drug War_
 
-### [The ''Tampa Tribune'' and sister site TBO.com are sold to Revolution Capital Group by Media General for $9.5 million. ](/news/2012/10/8/the-tampa-tribune-and-sister-site-tbo-com-are-sold-to-revolution-capital-group-by-media-general-for-9-5-million.md)
+### [The "Tampa Tribune" and sister site TBO.com are sold to Revolution Capital Group by Media General for $9.5 million. ](/news/2012/10/8/the-tampa-tribune-and-sister-site-tbo-com-are-sold-to-revolution-capital-group-by-media-general-for-9-5-million.md)
 On the market for several months, the Tampa Tribune and its website partner have been purchased by a private equity investment group and will operate under a new company called Tampa Media Group.
 
 ### [Scientists warn of the dangers of using liquid nitrogen in drinks after a teenage girl from the United Kingdom required emergency surgery upon consuming a cocktail containing the substance. ](/news/2012/10/8/scientists-warn-of-the-dangers-of-using-liquid-nitrogen-in-drinks-after-a-teenage-girl-from-the-united-kingdom-required-emergency-surgery-up.md)
@@ -30,10 +30,10 @@ _Context: Mindanao, Moro Islamic Liberation Front, Philippines, President Benign
 ### [Haitian Prime Minister Laurent Lamothe announces a new "sin tax" on gambling, alcohol, and cigarettes to pay for a new education fund. ](/news/2012/10/8/haitian-prime-minister-laurent-lamothe-announces-a-new-sin-tax-on-gambling-alcohol-and-cigarettes-to-pay-for-a-new-education-fund.md)
 _Context: Haiti, Laurent Lamothe, alcohol, cigarettes, gambling_
 
-### [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine  for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-st.md)
+### [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-sta.md)
 Scientists from Britain and Japan shared a Nobel Prize on Monday for the discovery that adult cells can be transformed back into embryo-like stem cells that may one day regrow tissue in damaged brains, hearts or other organs.
 
-### [Strathclyde Police warns against use of the legal intoxicant ''Annihilation'' (or ''Mary Joy''), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shet.md)
+### [Strathclyde Police warns against use of the legal intoxicant "Annihilation" (or "Mary Joy"), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shetland.md)
 _Context: Lancashire, Mary Joy, Shetland Isles, Strathclyde Police, Tyneside, legal intoxicant_
 
 ## [Previous Day...](/news/2012/10/7/index.md)

@@ -4,15 +4,15 @@
 Malian youths clashed with ruling Islamists in the city of Gao in a protest against the planned punishment by amputation of a suspected robber and the beating of a journalist covering the demonstration, local residents said.
 
 ### [2012 Rakhine State riots: Renewed fighting between Buddhist Rakhine and Muslim Rohingya in western Burma kills three people. ](/news/2012/08/6/2012-rakhine-state-riots-renewed-fighting-between-buddhist-rakhine-and-muslim-rohingya-in-western-burma-kills-three-people.md)
-_Context: Buddhists, Burma, Muslim, Rakhine, Rohingya refugees, fighting between Buddhists and Muslims_
+_Context: Buddhists, Burma, Muslim, Rakhine, Rohingya, fighting between Buddhists and Muslims_
 
 ### [Mexican Drug War: Alleged members of Los Zetas, a drug cartel originally set up by former soldiers of the Mexican Army, attack several media outlets in Monterrey for publishing on a rumored split between the two principal Zetas bosses. ](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.md)
 _Context: Los Zetas, Mexican Drug War, Monterrey_
 
-### [Arab Spring:A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-pa-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md)
+### [Arab Spring:. Syrian civil war. A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/arab-spring-syrian-civil-war-a-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md)
 Syrian rebels said three Iraniancaptives were killed on Monday during an air attack in Damascusprovince by government forces, and threatened to kill theremaining Iranians in their custody unless the army stopped itsattack.
 
-### [North Caucasus insurgency:Two police officers are killed and one injured in an ambush in the Tsuntinsky District, Dagestan. ](/news/2012/08/6/north-caucasus-insurgency-ptwo-police-officers-are-killed-and-one-injured-in-an-ambush-in-the-tsuntinsky-district-dagestan.md)
+### [North Caucasus insurgency:. Two police officers are killed and one injured in an ambush in the Tsuntinsky District, Dagestan. ](/news/2012/08/6/north-caucasus-insurgency-two-police-officers-are-killed-and-one-injured-in-an-ambush-in-the-tsuntinsky-district-dagestan.md)
 _Context: Dagestan, Insurgency in the North Caucasus, Tsuntinsky District_
 
 ### [An attack on an army base in Abidjan, Ivory Coast, kills six people. ](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.md)
@@ -39,7 +39,7 @@ Plans to reform the House of Lords are being abandoned after Conservatives &quot
 ### [British Conservative MP Louise Mensch announces she will leave the House of Commons, triggering a by-election in her constituency. ](/news/2012/08/6/british-conservative-mp-louise-mensch-announces-she-will-leave-the-house-of-commons-triggering-a-by-election-in-her-constituency.md)
 Conservative politician and novelist Louise Mensch is to stand down as an MP, triggering a by-election in her Corby seat.
 
-### [NASA's Mars Science Laboratory  Curiosity rover lands safely on the surface of Mars. ](/news/2012/08/6/nasa-s-mars-science-laboratory-curiosity-rover-lands-safely-on-the-surface-of-mars.md)
+### [NASA's Mars Science Laboratory Curiosity rover lands safely on the surface of Mars. ](/news/2012/08/6/nasa-s-mars-science-laboratory-curiosity-rover-lands-safely-on-the-surface-of-mars.md)
 The Mars rover Curiosity, on a quest for signs the Red Planet once hosted ingredients for life, streaked into the home stretch of its eight-month voyage on Sunday nearing a make-or-break landing attempt that NASA calls one of its toughest feats of robotic exploration.
 
 ## [Previous Day...](/news/2012/08/5/index.md)

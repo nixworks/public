@@ -12,7 +12,7 @@ _Context: Andry Rajoelina, Antananarivo, Madagascan Army, Madagascar, Marc Raval
 ### [ Nokia will cut 1,700 jobs. ](/news/2009/03/17/nokia-will-cut-1-700-jobs.md)
 The handset maker prepares to drop 1,700 employees, but more announcements may be in store.
 
-### [ The ''Seattle Post-Intelligencer'' publishes its final print edition and becomes an online newspaper. ](/news/2009/03/17/the-seattle-post-intelligencer-publishes-its-final-print-edition-and-becomes-an-online-newspaper.md)
+### [ The "Seattle Post-Intelligencer" publishes its final print edition and becomes an online newspaper. ](/news/2009/03/17/the-seattle-post-intelligencer-publishes-its-final-print-edition-and-becomes-an-online-newspaper.md)
 _Context: Seattle Post-Intelligencer, newspaper, online, print edition_
 
 ### [ North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. ](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.md)
@@ -24,7 +24,7 @@ _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, 
 ### [ At least 11 people are killed and four injured in an bus accident outside Saltillo, Coahuila, Mexico. ](/news/2009/03/17/at-least-11-people-are-killed-and-four-injured-in-an-bus-accident-outside-saltillo-coahuila-mexico.md)
 _Context: Coahuila, Mexico, Saltillo, car accident_
 
-### [ Saint Patrick's Day: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-p-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md)
+### [ Saint Patrick's Day:. United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md)
 _Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, Saint Patrick's Day, Taoiseach, United States, White House, deputy First Minister of Northern Ireland, president_
 
 ## [Previous Day...](/news/2009/03/16/index.md)

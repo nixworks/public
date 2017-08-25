@@ -1,0 +1,23 @@
+### [2014-09-16](/news/2014/09/16/index.md)
+
+# Islamic State of Iraq and the Levant:. Islamic State fighters shoot down a Syrian Air Force warplane conducting an airstrike on Raqqa. 
+
+Jihadists shot down a Syrian warplane conducting strikes on the Islamic State stronghold of Raqa on Tuesday, the Syrian Observatory for Human Rights monitoring group said.
+
+
+### Source:
+
+1. [AFP via NDTV](http://www.ndtv.com/article/world/islamic-state-jihadists-down-syria-warplane-human-rights-monitor-592717)
+
+### Related:
+
+1. [American-led intervention in Syria. Battle of Raqqa (2017). The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's "de facto" Syrian capital. ](/news/2017/06/6/american-led-intervention-in-syria-battle-of-raqqa-2017-the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+2. [Syrian Civil War. The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam". ](/news/2017/06/4/syrian-civil-war-the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+3. [Russian military intervention in the Syrian Civil War. The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/russian-military-intervention-in-the-syrian-civil-war-the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bak.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+4. [Syrian Civil War. American-led intervention in Syria. The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/syrian-civil-war-american-led-intervention-in-syria-the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+5. [Syrian Civil War. ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/syrian-civil-war-isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+6. [Islamic State of Iraq and the Levant. Coalition forces launch over 30 airstrikes on Raqqa, the "de facto" capital of ISIL. ](/news/2014/11/30/islamic-state-of-iraq-and-the-levant-coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md) _Context: Islamic State of Iraq and the Levant, Raqqa_
+7. [Islamic State in Iraq and the Levant. Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/islamic-state-in-iraq-and-the-levant-syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md) _Context: Raqqa, Syrian Air Force_
+8. [Islamic State of Iraq and the Levant. The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/islamic-state-of-iraq-and-the-levant-the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northe.md) _Context: Islamic State of Iraq and the Levant, Syrian Air Force_
+9. [Iraqi Civil War. Tal Afar offensive (2017). Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters, launch a ground offensive to take the city of Tal Afar back from Islamic State of Iraq and the Levant militants. The city has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. ](/news/2017/08/20/iraqi-civil-war-tal-afar-offensive-2017-iraqi-security-forces-along-with-shi-ite-volunteers-and-kurdish-peshmerga-fighters-launch-a-gr.md) _Context: Islamic State of Iraq and the Levant_
+10. [Syrian Civil War spillover in Lebanon. The Lebanese Armed Forces launches operation "Fajr al-Joroud", and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIS militants. Twenty ISIS militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/syrian-civil-war-spillover-in-lebanon-the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km.md) _Context: Islamic State of Iraq and the Levant_

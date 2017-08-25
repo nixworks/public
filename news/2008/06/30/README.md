@@ -18,7 +18,7 @@ _Context: Congress of Peru, Peru, mine, strike, unionize_
 ### [ An Ilyushin Il-76 crashes minutes after takeoff from Khartoum International Airport. All four Russian crew were killed. It is the second major air crash in the country this week. ](/news/2008/06/30/an-ilyushin-il-76-crashes-minutes-after-takeoff-from-khartoum-international-airport-all-four-russian-crew-were-killed-it-is-the-second-ma.md)
 _Context: Ilyushin, Ilyushin Il-76, Khartoum International Airport, Russia_
 
-### [ MV ''Princess of the Stars'' disaster:](/news/2008/06/30/mv-princess-of-the-stars-disaster.md)
+### [ MV "Princess of the Stars" disaster:](/news/2008/06/30/mv-princess-of-the-stars-disaster.md)
 _Context: MV ''Princess of the Stars_
 
 ### [The Bureau of Marine Investigation says it has uncovered multiple lapses in Sulpicio's training and orientation of the ship's crew, but cautioned that it cannot yet draw any conclusions about the disaster's cause. ](/news/2008/06/30/the-bureau-of-marine-investigation-says-it-has-uncovered-multiple-lapses-in-sulpicio-s-training-and-orientation-of-the-ship-s-crew-but-caut.md)

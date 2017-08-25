@@ -21,7 +21,7 @@ _Context: Thailand_
 ### [France sends military aid to Wallis and Futuna, which suffered extensive damage from Cyclone Tomas. ](/news/2010/03/16/france-sends-military-aid-to-wallis-and-futuna-which-suffered-extensive-damage-from-cyclone-tomas.md)
 _Context: Cyclone Tomas, France, Wallis and Futuna_
 
-### [French national railway SNCF, as part of a rapid response training, causes a media scare by mistakenly placing a statement on its website stating that more than 100 people died in a train explosion in Mcon, Burgundy. ](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.md)
+### [French national railway SNCF, as part of a rapid response training, causes a media scare by mistakenly placing a statement on its website stating that more than 100 people died in a train explosion in M-con, Burgundy. ](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.md)
 France&#039;s rail operator SNCF caused panic when it wrongly announced on its website that 102 passengers had died in a train explosion.
 
 ### [NASA researchers in Antarctica discover cold-water Lysianassidae, shrimp-like amphipods, living in the water beneath the Ross Ice Shelf. ](/news/2010/03/16/nasa-researchers-in-antarctica-discover-cold-water-lysianassidae-shrimp-like-amphipods-living-in-the-water-beneath-the-ross-ice-shelf.md)

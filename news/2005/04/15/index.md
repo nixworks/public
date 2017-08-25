@@ -1,10 +1,10 @@
 ## [2005-04-15](/news/2005/04/15/index.md)
 
-### [ NASA reports that the Gulf Stream is slowing.  The resulting colder climate could cause severe climatic and economic disruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-disruption-in-northern.md)
+### [ NASA reports that the Gulf Stream is slowing. The resulting colder climate could cause severe climatic and economic disruption in Northern Europe. ](/news/2005/04/15/nasa-reports-that-the-gulf-stream-is-slowing-the-resulting-colder-climate-could-cause-severe-climatic-and-economic-disruption-in-northern.md)
 _Context: Gulf Stream, NASA_
 
-### [ The ongoing anti-Japanese demonstrations in China might have been scripted and manipulated by the Chinese government as a bargaining tool against its neighbor in the recent Sino-Japanese energy and territory disputes. ](/news/2005/04/15/the-ongoing-anti-japanese-demonstrations-in-china-might-have-been-scripted-and-manipulated-by-the-chinese-government-as-a-bargaining-tool-a.md)
-_Context: Japanese history textbooks controversy_
+### [ The ongoing anti-Japanese demonstrations in China might have been scripted and manipulated by the Chinese government as a bargaining tool against its neighbor in the recent Sino-Japanese energy and territory disputes. [http://www.nytimes.com/2005/04/15/international/asia/15china.html?ex=1114228800&en=56a7d2bc9637f864&ei=5070 ("NY Times")] (registration required). Personal announcements appeared on blogs [http://blog.yesky.com/Blog/somewindows/archive/2005/04/14/108080.html] [http://heart.pdx.cn/blog/diary,181320.html] attempting to stage massive anti-Japanese riots not only in the capital but also in 17 major Chinese cities, responding to the April 17 visit of the Japanese Foreign Minister to Beijing, and the 86th anniversary of the May Fourth Movement. ](/news/2005/04/15/the-ongoing-anti-japanese-demonstrations-in-china-might-have-been-scripted-and-manipulated-by-the-chinese-government-as-a-bargaining-tool-a.md)
+_Context: April 17, Foreign Minister, Japanese history textbooks controversy, May Fourth Movement_
 
 ### [ UN Secretary General Kofi Annan accuses the United States and Britain of not accepting enough responsibility for the Oil for Food Scandal. ](/news/2005/04/15/un-secretary-general-kofi-annan-accuses-the-united-states-and-britain-of-not-accepting-enough-responsibility-for-the-oil-for-food-scandal.md)
 _Context: Britain, Kofi Annan, Secretary General, United Nations, United States, oil-for-food programme_
@@ -24,7 +24,7 @@ _Context: Monaco, Prince Rainier, buried_
 ### [ In France, 20 people die in a fire at the Paris-Opera Hotel. ](/news/2005/04/15/in-france-20-people-die-in-a-fire-at-the-paris-opera-hotel.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ In Australia, Raymond Williams, former CEO of insurance company HIH Insurance, is jailed for 4 and half years.  ](/news/2005/04/15/in-australia-raymond-williams-former-ceo-of-insurance-company-hih-insurance-is-jailed-for-4-and-half-years.md)
+### [ In Australia, Raymond Williams, former CEO of insurance company HIH Insurance, is jailed for 4 and half years. ](/news/2005/04/15/in-australia-raymond-williams-former-ceo-of-insurance-company-hih-insurance-is-jailed-for-4-and-half-years.md)
 _Context: Australia, HIH Insurance, Raymond Williams, insure, jailed_
 
 ### [ Canada's Federal Court of Appeal denies Chinese businessman Lai Changxing refugee status. China wants him for large-scale smuggling. ](/news/2005/04/15/canada-s-federal-court-of-appeal-denies-chinese-businessman-lai-changxing-refugee-status-china-wants-him-for-large-scale-smuggling.md)

@@ -1,0 +1,24 @@
+### [2013-04-8](/news/2013/04/8/index.md)
+
+# War in Afghanistan (2001-present):. Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. 
+
+President Hamid Karzai denounces reported death of 11 children by NATO forces in Kunar province and orders inquiry.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134712422926374.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134855848509383.html)
+
+### Related:
+
+1. [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, NATO, War in Afghanistan (2001-present)_
+2. [War in Afghanistan (2001-present):. An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _Context: Afghanistan's, Kunar Province, NATO, War in Afghanistan (2001-present)_
+3. [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, War in Afghanistan (2001-present)_
+4. [War in Afghanistan:. President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, War in Afghanistan (2001-present)_
+5. [War in Afghanistan (2001-present):. Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/war-in-afghanistan-2001-present-afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and.md) _Context: Afghanistan's, Kunar Province, NATO, War in Afghanistan (2001-present)_
+6. [War in Afghanistan:. President of France Nicolas Sarkozy visits Afghanistan to meet with the President of Afghanistan Hamid Karzai and commander of the International Security Assistance Force David Petraeus before visiting French troops stationed in Surobi. ](/news/2011/07/12/war-in-afghanistan-president-of-france-nicolas-sarkozy-visits-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai-and-comma.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, War in Afghanistan (2001-present)_
+7. [NATO forces in Afghanistan kill the cousin of President Hamid Karzai in an overnight raid. ](/news/2011/03/10/nato-forces-in-afghanistan-kill-the-cousin-of-president-hamid-karzai-in-an-overnight-raid.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, NATO_
+8. [Afghanistan:. Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, War in Afghanistan (2001-present)_
+9. [ Afghan President Hamid Karzai demands that the United States halt airstrikes in the war against the Taliban. ](/news/2009/05/8/afghan-president-hamid-karzai-demands-that-the-united-states-halt-airstrikes-in-the-war-against-the-taliban.md) _Context: Afghanistan President, Afghanistan's, Hamid Karzai, War in Afghanistan (2001-present)_
+10. [War in Afghanistan (2001-present):. Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001-present-afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-st.md) _Context: Afghanistan's, NATO, War in Afghanistan (2001-present)_

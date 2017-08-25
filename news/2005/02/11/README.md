@@ -1,9 +1,9 @@
 ## [2005-02-11](/news/2005/02/11/index.md)
 
-### [ Eason Jordan resigns from his posts at CNN, where he has been both chief news executive and executive vice president. The controversy that led to his resignation began at the World Economic Forum in Davos, Switzerland last month where, witnesses claim, he said that the U.S. military had targeted and killed journalists.  ](/news/2005/02/11/eason-jordan-resigns-from-his-posts-at-cnn-where-he-has-been-both-chief-news-executive-and-executive-vice-president-the-controversy-that.md)
+### [ Eason Jordan resigns from his posts at CNN, where he has been both chief news executive and executive vice president. The controversy that led to his resignation began at the World Economic Forum in Davos, Switzerland last month where, witnesses claim, he said that the U.S. military had targeted and killed journalists. ](/news/2005/02/11/eason-jordan-resigns-from-his-posts-at-cnn-where-he-has-been-both-chief-news-executive-and-executive-vice-president-the-controversy-that.md)
 Things to do in Miami
 
-### [ At least eight people are killed during a jail riot in Crdoba, Argentina.  All hostages taken by the prisoners were later freed by police.](/news/2005/02/11/at-least-eight-people-are-killed-during-a-jail-riot-in-cordoba-argentina-all-hostages-taken-by-the-prisoners-were-later-freed-by-police.md)
+### [ At least eight people are killed during a jail riot in Crdoba, Argentina. All hostages taken by the prisoners were later freed by police.](/news/2005/02/11/at-least-eight-people-are-killed-during-a-jail-riot-in-cordoba-argentina-all-hostages-taken-by-the-prisoners-were-later-freed-by-police.md)
 _Context: Crdoba, Argentina_
 
 ### [ Conflict in Iraq: At least 20 people are killed in Baghdad as United States Secretary of Defense Donald Rumsfeld tours the country for a day. ](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.md)
@@ -30,7 +30,7 @@ PAVAGADA (Tumkur): In what appears to be the first retaliation against the polic
 ### [ The Supreme Court of India issues notices to all state governments of India on a public interest petition seeking a ban on mixing whitening chemical agents like magnesium carbonate in gutkas. ](/news/2005/02/11/the-supreme-court-of-india-issues-notices-to-all-state-governments-of-india-on-a-public-interest-petition-seeking-a-ban-on-mixing-whitening.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
-### [ Ministers of the Commonwealth criticize Pakistani president Pervez Musharraf for not stepping down as army chief as he had promised.  The State Department of the United States also asks him to end his dual role. ](/news/2005/02/11/ministers-of-the-commonwealth-criticize-pakistani-president-pervez-musharraf-for-not-stepping-down-as-army-chief-as-he-had-promised-the-s.md)
+### [ Ministers of the Commonwealth criticize Pakistani president Pervez Musharraf for not stepping down as army chief as he had promised. The State Department of the United States also asks him to end his dual role. ](/news/2005/02/11/ministers-of-the-commonwealth-criticize-pakistani-president-pervez-musharraf-for-not-stepping-down-as-army-chief-as-he-had-promised-the-st.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ## [Previous Day...](/news/2005/02/10/index.md)

@@ -15,7 +15,7 @@ At least 10 anti-government militants are believed to have died in Mogadishu whe
 ### [About 35 people are taken hostage by drug dealers at a tourist hotel in So Conrado, Rio de Janeiro; 1 woman, involved with them, is killed. ](/news/2010/08/21/about-35-people-are-taken-hostage-by-drug-dealers-at-a-tourist-hotel-in-sao-conrado-rio-de-janeiro-1-woman-involved-with-them-is-killed.md)
 _Context: Rio de Janeiro, So Conrado_
 
-### [A Vincent van Gogh painting - known as both ''Poppy Flowers'' and ''Vase with Flowers'' - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-mus.md)
+### [A Vincent van Gogh painting - known as both "Poppy Flowers" and "Vase with Flowers" - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-museum.md)
 A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, says the culture minister, hours after he said it had been found.
 
 ### [More than 50,000 people are evacuated after the Yalu River floods in China; flooding is also reported in North Korea with the city of Sinuiju particularly affected. ](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.md)
@@ -51,7 +51,7 @@ A Saudi judge has asked several hospitals whether they could damage a man&#039;s
 ### [Swedish prosecutors issue and then revoke an arrest warrant against Wikileaks spokesperson Julian Assange. Assange calls the incident "deeply disturbing" as Wikileaks prepares to release 15,000 documents which the U.S. military would like to keep secret. ](/news/2010/08/21/swedish-prosecutors-issue-and-then-revoke-an-arrest-warrant-against-wikileaks-spokesperson-julian-assange-assange-calls-the-incident-deepl.md)
 Swedish prosecutors have withdrawn an arrest warrant for WikiLeaks founder Julian Assange, saying the rape suspicions against him are unfounded.
 
-### [Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md)
+### [Australian federal election, 2010. Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australian-federal-election-2010-australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md)
 First female PM fighting to keep power amid strong challenge from conservative coalition.
 
 ### [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md)

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies-from-leukemia.md) _Context: Batman_
+1. [Cinema of the United States. Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/cinema-of-the-united-states-adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies.md) _Context: Batman_
 2. [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md) _Context: Buckingham Palace_
 3. [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md) _Context: Buckingham Palace_
 4. [A man is arrested after attempting to enter Buckingham Palace, London, while in possession of a knife. ](/news/2013/10/14/a-man-is-arrested-after-attempting-to-enter-buckingham-palace-london-while-in-possession-of-a-knife.md) _Context: Buckingham Palace_

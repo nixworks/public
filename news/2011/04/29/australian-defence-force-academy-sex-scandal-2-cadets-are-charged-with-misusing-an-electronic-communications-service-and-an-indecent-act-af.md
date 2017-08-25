@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Australian army sex scandal:Australia's Chief of the Defence Force, Air Chief Marshal Angus Houston, describes a broadcast of a young cadet engaging in sexual intercourse at the Australian Defence Force Academy as an "abhorrent" but "isolated" incident. ](/news/2011/04/9/australian-army-sex-scandal-paustralia-s-chief-of-the-defence-force-air-chief-marshal-angus-houston-describes-a-broadcast-of-a-young-cadet.md) _Context: Australian Defence Force Academy_
+1. [Australian army sex scandal:. Australia's Chief of the Defence Force, Air Chief Marshal Angus Houston, describes a broadcast of a young cadet engaging in sexual intercourse at the Australian Defence Force Academy as an "abhorrent" but "isolated" incident. ](/news/2011/04/9/australian-army-sex-scandal-australia-s-chief-of-the-defence-force-air-chief-marshal-angus-houston-describes-a-broadcast-of-a-young-cade.md) _Context: Australian Defence Force Academy_
 2. [Stephen Smith, the Australian Minister for Defence, orders an investigation into the way women are treated at the Australian Defence Force Academy following recent sexual abuse allegations. ](/news/2011/04/11/stephen-smith-the-australian-minister-for-defence-orders-an-investigation-into-the-way-women-are-treated-at-the-australian-defence-force-a.md) _Context: Australian Defence Force Academy_

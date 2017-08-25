@@ -1,6 +1,6 @@
 ## [2015-01-6](/news/2015/01/6/index.md)
 
-### [Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md)
+### [Islamic State of Iraq and the Levant. Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/islamic-state-of-iraq-and-the-levant-clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md)
 Iraqi officials say a suicide blast targeting security forces and subsequent clashes with Islamic State militants have killed at least 23 troops and allied Sunni fighters in the embattled western Prov
 
 ### [A suicide bomber kills herself and a policeman in an attack on a police station in a popular tourist district in the Turkish city of Istanbul. ](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.md)
@@ -27,7 +27,7 @@ Scientists at Oxford University have begun immunising healthy volunteers with a 
 ### [43 US states report an epidemic of influenza, with 21 confirmed deaths. ](/news/2015/01/6/43-us-states-report-an-epidemic-of-influenza-with-21-confirmed-deaths.md)
 _Context: flu_
 
-### [Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced-last-month.md)
+### [Cuba-United States relations. Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-united-states-relations-cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced.md)
 State Department says ‘We would like to see this completed in the near future’ as names of those freed not disclosed for fear of jeopardising release of others
 
 ### [Thai police arrest Gurmeet Singh convicted of involvement in a bombing in Chandigarh that killed 18 people in 1996, including Beant Singh who was then chief minister of Punjab. ](/news/2015/01/6/thai-police-arrest-gurmeet-singh-convicted-of-involvement-in-a-bombing-in-chandigarh-that-killed-18-people-in-1996-including-beant-singh-wh.md)

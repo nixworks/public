@@ -1,15 +1,15 @@
 ## [2013-02-10](/news/2013/02/10/index.md)
 
-### [Northern Mali conflict (2012-present):Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012apresent-pfirefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md)
+### [Northern Mali conflict (2012-present):. Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md)
 Malian troops and suspected Islamist militants are exchanging heavy gunfire in Gao, a day after a suicide bomb attack in the northern town.
 
-### [South Thailand insurgency:A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-pa-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
+### [South Thailand insurgency:. A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
 _Context: South Thailand insurgency, Thailand, Yala_
 
-### [Nigerian Sharia conflict:Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/nigerian-sharia-conflict-psuspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality-i.md)
+### [Nigerian Sharia conflict:. Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/nigerian-sharia-conflict-suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality.md)
 Three doctors - reportedly from North Korea - have been killed in an attack in the north-eastern Nigerian state of Yobe, officials say.
 
-### [War in Afghanistan (2001-present):American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001apresent-pamerican-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-joh.md)
+### [War in Afghanistan (2001-present):. American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001-present-american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-jo.md)
 NATO forces in Afghanistan get a new commander as the coalition prepares to pull out combat troops.
 
 ### [Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. ](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.md)
@@ -18,7 +18,7 @@ At least 36 people die in a stampede as millions of pilgrims gather for the worl
 ### [A large parade in London celebrates the Chinese New Year. ](/news/2013/02/10/a-large-parade-in-london-celebrates-the-chinese-new-year.md)
 Thousands of people turned out in the rain to celebrate the Chinese New Year in central London.
 
-### [The 66th British Academy Film Awards are held in London with ''Argo'' winning best film, Ben Affleck winning best director and Daniel Day-Lewis and Emmanuelle Riva winning best actor and actress. ](/news/2013/02/10/the-66th-british-academy-film-awards-are-held-in-london-with-argo-winning-best-film-ben-affleck-winning-best-director-and-daniel-day-le.md)
+### [The 66th British Academy Film Awards are held in London with "Argo" winning best film, Ben Affleck winning best director and Daniel Day-Lewis and Emmanuelle Riva winning best actor and actress. ](/news/2013/02/10/the-66th-british-academy-film-awards-are-held-in-london-with-argo-winning-best-film-ben-affleck-winning-best-director-and-daniel-day-lewi.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [The 2013 Grammy Awards are held in the American city of Los Angeles. ](/news/2013/02/10/the-2013-grammy-awards-are-held-in-the-american-city-of-los-angeles.md)
@@ -36,7 +36,7 @@ A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea,
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
 _Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, United States, helicopter_
 
-### [Cruise ship ''Carnival Triumph'' suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of.md)
+### [Cruise ship "Carnival Triumph" suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of-po.md)
 A Carnival cruise ship in the Caribbean is operating on emergency power in the wake of an engine room fire. Carnival says the 102,000-ton Carnival Triumph was sailing approximately 150 miles off the coast of
 
 ### [Authorities say that there will be a reward for providing information that will lead to the capture of Christopher Dorner, the suspect in the 2013 Southern California shootings. ](/news/2013/02/10/authorities-say-that-there-will-be-a-reward-for-providing-information-that-will-lead-to-the-capture-of-christopher-dorner-the-suspect-in-th.md)

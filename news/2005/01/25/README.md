@@ -15,7 +15,7 @@ _Context: Hindu, India, Maharashtra, Satara, Wai, short circuit, stampede, templ
 ### [ Israeli-Palestinian Conflict: Israel resumes construction of one of the most controversial parts of the Israeli West Bank barrier, around the Ariel settlement, 20&nbsp;km into the West Bank. ](/news/2005/01/25/israeli-palestinian-conflict-israel-resumes-construction-of-one-of-the-most-controversial-parts-of-the-israeli-west-bank-barrier-around-t.md)
 _Context: Ariel, Israel, Israeli-Palestinian conflict, West Bank, barrier, settlement_
 
-### [ The nominees for the 77<sup>th</sup> Academy Awards are announced, with ''The Aviator'' and ''Finding Neverland'' leading with 11 and 7 nominations respectively. ](/news/2005/01/25/the-nominees-for-the-77th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-re.md)
+### [ The nominees for the 77<sup>th</sup> Academy Awards are announced, with "The Aviator" and "Finding Neverland" leading with 11 and 7 nominations respectively. ](/news/2005/01/25/the-nominees-for-the-77th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respec.md)
 The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It&amp;#039;s pop culture on steroids.
 
 ### [ After being incarcerated without trial for almost three years, the four remaining British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are released and flown back to the United Kingdom, where they are immediately arrested by British police. ](/news/2005/01/25/after-being-incarcerated-without-trial-for-almost-three-years-the-four-remaining-british-detainees-at-guantanamo-bay-moazzam-begg-feroz.md)

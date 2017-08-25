@@ -12,7 +12,7 @@ North Korea faces international anger after it is accused of sinking a South Kor
 ### [Malawi, considering them to be a gay couple, sentences a transgender woman and a cisgender man to 14 years of hard labour. ](/news/2010/05/20/malawi-considering-them-to-be-a-gay-couple-sentences-a-transgender-woman-and-a-cisgender-man-to-14-years-of-hard-labour.md)
 Two gay men in Malawi, convicted earlier this week of unnatural acts and gross indecency, were sentenced Thursday to serve 14 years of hard labor in prison.
 
-### [Scientists at the J. Craig Venter Institute announce the successful transplant of a synthesized genome into an existing cell, creating the world's first artificial lifeform (''Mycoplasma laboratorium''). ](/news/2010/05/20/scientists-at-the-j-craig-venter-institute-announce-the-successful-transplant-of-a-synthesized-genome-into-an-existing-cell-creating-the-w.md)
+### [Scientists at the J. Craig Venter Institute announce the successful transplant of a synthesized genome into an existing cell, creating the world's first artificial lifeform ("Mycoplasma laboratorium"). ](/news/2010/05/20/scientists-at-the-j-craig-venter-institute-announce-the-successful-transplant-of-a-synthesized-genome-into-an-existing-cell-creating-the-w.md)
 Scientists in the US succeed in developing the first living bacterial cell to be controlled entirely by synthetic DNA.
 
 ## [Previous Day...](/news/2010/05/19/index.md)

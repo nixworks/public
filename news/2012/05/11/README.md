@@ -3,10 +3,10 @@
 ### [Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over 1000|kg|lb of explosives were used in the attacks. ](/news/2012/05/11/syrian-uprising-the-death-toll-of-the-may-10-damascus-double-bombing-reaches-55-with-as-many-as-370-reportedly-injured-syrian-authorities.md)
 _Context: Damascus, Syrian uprising (2011-present), double bombing_
 
-### [Mexican Drug War: Gunmen open fire on an ''El Maana'' newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massa.md)
+### [Mexican Drug War: Gunmen open fire on an "El Maana" newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massacr.md)
 _Context: El Maana, Mexican Drug War, Nuevo Laredo, much of the violence_
 
-### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md)
+### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called "Perspectives on Islam and Islamic Radicalism", which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islamic.md)
 _Context: Islam, United States military personnel_
 
 ### [An American study reveals that North Koreans have an increasing level of informal access to foreign media, despite the intense censorship efforts of the North Korean government. ](/news/2012/05/11/an-american-study-reveals-that-north-koreans-have-an-increasing-level-of-informal-access-to-foreign-media-despite-the-intense-censorship-ef.md)

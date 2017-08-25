@@ -1,6 +1,6 @@
 ## [2011-07-16](/news/2011/07/16/index.md)
 
-### [2011 Egyptian revolution: Protesters heckle Tareq al-Mahdi of the ruling Supreme Council of the Armed Forces as he attempted to address crowds in Tahrir Square. ](/news/2011/07/16/2011-egyptian-revolution-protesters-heckle-tareq-al-mahdi-of-the-ruling-supreme-council-of-the-armed-forces-as-he-attempted-to-address-crow.md)
+### [Arab Spring. 2011 Egyptian revolution: Protesters heckle Tareq al-Mahdi of the ruling Supreme Council of the Armed Forces as he attempted to address crowds in Tahrir Square. ](/news/2011/07/16/arab-spring-2011-egyptian-revolution-protesters-heckle-tareq-al-mahdi-of-the-ruling-supreme-council-of-the-armed-forces-as-he-attempted-to.md)
 Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25-member council as they sought to declare unity in their intention to oust the regime of President Bashar al-Assad.
 
 ### [Two people are killed in a bombing near police headquarters in Bordj Menaiel, Algeria. ](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.md)
@@ -27,7 +27,7 @@ China asks US President Barack Obama to cancel a planned Saturday private meetin
 ### [Venezuelan President Hugo Chavez arrives back in Cuba for chemotherapy treatment. ](/news/2011/07/16/venezuelan-president-hugo-cha-vez-arrives-back-in-cuba-for-chemotherapy-treatment.md)
 Venezuelan President Hugh Chavez says he will go to Cuba Saturday to undergo chemotherapy treatment for a cancer he had removed earlier.
 
-### [News International phone hacking scandal:British Foreign Secretary William Hague defends Prime Minister David Cameron following revelations he has met senior News International executives on 26 occasions since becoming Prime Minister, and entertained Andy Coulson at Chequers following his resignation as Director of Communications. Hague says he is "not embarrassed" by the extent of Cameron's dealings with News International. ](/news/2011/07/16/news-international-phone-hacking-scandal-pbritish-foreign-secretary-william-hague-defends-prime-minister-david-cameron-following-revelations.md)
+### [News International phone hacking scandal:. British Foreign Secretary William Hague defends Prime Minister David Cameron following revelations he has met senior News International executives on 26 occasions since becoming Prime Minister, and entertained Andy Coulson at Chequers following his resignation as Director of Communications. Hague says he is "not embarrassed" by the extent of Cameron's dealings with News International. ](/news/2011/07/16/news-international-phone-hacking-scandal-british-foreign-secretary-william-hague-defends-prime-minister-david-cameron-following-revelation.md)
 Rupert Murdoch takes out national press adverts to apologise for the phone hacking by the News of the World, as two of his most senior executives resign.
 
 ### [The funeral of Otto von Habsburg, final heir to the Austro-Hungarian Empire, occurs in Vienna, attended by monarchs and members of the political elite; his corpse is to be buried in the Imperial Crypt. ](/news/2011/07/16/the-funeral-of-otto-von-habsburg-final-heir-to-the-austro-hungarian-empire-occurs-in-vienna-attended-by-monarchs-and-members-of-the-polit.md)

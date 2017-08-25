@@ -1,6 +1,6 @@
 ## [2005-08-29](/news/2005/08/29/index.md)
 
-### [ Hurricane Katrina as a Category 3 storm makes landfall at 6:10 a.m. CDT (11:10 a.m. UTC).  The eye is just east of New Orleans, Louisiana. This date is now known as Black Monday to New Orleanians and many residents of the Gulf Coast.  ](/news/2005/08/29/hurricane-katrina-as-a-category-3-storm-makes-landfall-at-6-10-a-m-cdt-11-10-a-m-utc-the-eye-is-just-east-of-new-orleans-louisiana.md)
+### [ Hurricane Katrina as a Category 3 storm makes landfall at 6:10 a.m. CDT (11:10 a.m. UTC). The eye is just east of New Orleans, Louisiana. This date is now known as Black Monday to New Orleanians and many residents of the Gulf Coast. ](/news/2005/08/29/hurricane-katrina-as-a-category-3-storm-makes-landfall-at-6-10-a-m-cdt-11-10-a-m-utc-the-eye-is-just-east-of-new-orleans-louisiana-t.md)
 _Context: CDT, Hurricane Katrina, Louisiana, New Orleans, UTC, landfall_
 
 ### [ New South Wales Opposition Leader, John Brogden, resigns from the leadership of the NSW Liberal Party after describing Helena Carr, wife of former Premier Bob Carr, as a "mail-order bride" and sexually harassing two female journalists. Brogden will remain Member for Pittwater until at least the next state election. ](/news/2005/08/29/new-south-wales-opposition-leader-john-brogden-resigns-from-the-leadership-of-the-nsw-liberal-party-after-describing-helena-carr-wife-of.md)

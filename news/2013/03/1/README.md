@@ -1,15 +1,15 @@
 ## [2013-03-1](/news/2013/03/1/index.md)
 
-### [2013 Bangladesh protests:The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-pthe-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md)
+### [2013 Bangladesh protests:. The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md)
 Violent clashes erupted across Bangladesh on Thursday after a tribunal handed down a death sentence to an Islamic leader for crimes against humanity committed 42 years ago.
 
-### [2013 Lahad Datu standoff:At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-pat-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md)
+### [2013 Lahad Datu standoff:. At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md)
 _Context: 2013 Lahad Datu standoff, Malaysia, Malaysian Armed Forces, Sabah, Sultanate_
 
-### [Northern Mali conflict:One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-pone-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian.md)
+### [Northern Mali conflict:. One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadia.md)
 _Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012-present), al-Qaeda_
 
-### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md)
+### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http://www.theaustralian.com.au/business/economics/china-office-pmi-for-february-down-to-501-reignites-slowdown-worry/story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md)
 _Context: China, Economy of the People's Republic of China, Purchasing Managers Index_
 
 ### [A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. ](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.md)

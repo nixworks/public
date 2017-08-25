@@ -12,13 +12,13 @@ _Context: Canadian, Frenchmen, Niger Delta, Nigeria, Okoro Oilfield, Transocean,
 ### [Bomb attacks in the Iraqi cities of Karbala, Najaf and Basra kill at least nineteen people and injure scores more. ](/news/2010/11/8/bomb-attacks-in-the-iraqi-cities-of-karbala-najaf-and-basra-kill-at-least-nineteen-people-and-injure-scores-more.md)
 Bomb attacks on Shia targets in Karbala, Najaf and Basra in Iraq leave at least 19 people dead and many injured.
 
-### [American talk show host Conan O'Brien returns to television on TBS ten months after his high-profile exit from ''The Tonight Show''. ](/news/2010/11/8/american-talk-show-host-conan-o-brien-returns-to-television-on-tbs-ten-months-after-his-high-profile-exit-from-the-tonight-show.md)
+### [American talk show host Conan O'Brien returns to television on TBS ten months after his high-profile exit from "The Tonight Show". ](/news/2010/11/8/american-talk-show-host-conan-o-brien-returns-to-television-on-tbs-ten-months-after-his-high-profile-exit-from-the-tonight-show.md)
 _Context: Conan O'Brien, TBS, high-profile exit from ''The Tonight Show''_
 
 ### [The Foreign Minister of Israel, Avigdor Lieberman, denounces the left-wing performers who refuse to perform in a theatre in a Jewish settlement on the West Bank as an "extremist group trying to wage cultural terrorism". ](/news/2010/11/8/the-foreign-minister-of-israel-avigdor-lieberman-denounces-the-left-wing-performers-who-refuse-to-perform-in-a-theatre-in-a-jewish-settlem.md)
 _Context: Avigdor Lieberman, Foreign Minister of Israel, West Bank_
 
-### [French novelist Michel Houellebecq wins the Prix Goncourt for his book ''La Carte et le Territoire'' (''The Map and the Territory''). ](/news/2010/11/8/french-novelist-michel-houellebecq-wins-the-prix-goncourt-for-his-book-la-carte-et-le-territoire-the-map-and-the-territory.md)
+### [French novelist Michel Houellebecq wins the Prix Goncourt for his book "La Carte et le Territoire" ("The Map and the Territory"). ](/news/2010/11/8/french-novelist-michel-houellebecq-wins-the-prix-goncourt-for-his-book-la-carte-et-le-territoire-the-map-and-the-territory.md)
 Michel Houellebecq, France&#039;s best-known novelist, has finally won the country&#039;s most prestigious literary award after a series of high profile snubs for previous works.
 
 ### [Global Green Growth conference ends in Copenhagen. ](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.md)
@@ -39,10 +39,10 @@ _Context: Haiti, Port-au-Prince, worst epidemic of cholera_
 ### [An explosion due to mishandling of explosives kills two in a Copiapo, Chile copper mine. (Wikinews)](/news/2010/11/8/an-explosion-due-to-mishandling-of-explosives-kills-two-in-a-copiapa3-chile-copper-mine-wikinews.md)
 _Context: (Wikinews), Chile, Copiapo_
 
-### [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel.  ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md)
+### [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel. ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md)
 _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, Hamas, Israel_
 
-### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md)
+### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of -blood diamond- exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-blood-diamond-exports-from.md)
 Last week’s four-day annual plenary meeting of the diamond-regulating Kimberley Process (KP)failed to find a solution to the ongoing issue of diamond exports from the Marange region.
 
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
@@ -51,7 +51,7 @@ _Context: Barack Obama, UN Security Council, president_
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama Administration, Somalia, Yemen bomb attacks_
 
-### [Israel has revealed plans to build nearly 1,300 housing units for  Jewish settlers in east Jerusalem. ](/news/2010/11/8/israel-has-revealed-plans-to-build-nearly-1-300-housing-units-for-jewish-settlers-in-east-jerusalem.md)
+### [Israel has revealed plans to build nearly 1,300 housing units for Jewish settlers in east Jerusalem. ](/news/2010/11/8/israel-has-revealed-plans-to-build-nearly-1-300-housing-units-for-jewish-settlers-in-east-jerusalem.md)
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
@@ -81,7 +81,7 @@ _Context: ECOWAS, Mamadou Tandja, Niger, West Africa, coup_
 ### [Australian Prime Minister Julia Gillard announces a referendum to decide whether indigenous Australians should be recognised in the Constitution. ](/news/2010/11/8/australian-prime-minister-julia-gillard-announces-a-referendum-to-decide-whether-indigenous-australians-should-be-recognised-in-the-constitu.md)
 _Context: Australian Prime Minister, Constitution, Indigenous, Julia Gillard, referendum_
 
-### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as ''Leiolepis ngovantrii'' when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
+### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as "Leiolepis ngovantrii" when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)

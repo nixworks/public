@@ -15,7 +15,7 @@ _Context: Kurt Beck, Matthias Platzeck, Rhineland-Palatinate, SPD, hearing loss_
 ### [ Italian general election, 2006: Romano Prodi declares victory in a tight election as preliminary results show L'Unione (The Union) ahead of Silvio Berlusconi's House of Freedoms by 0.1 percent in the Chamber of Deputies, but Berlusconi refuses to concede. ](/news/2006/04/10/italian-general-election-2006-romano-prodi-declares-victory-in-a-tight-election-as-preliminary-results-show-l-unione-the-union-ahead-of.md)
 _Context: April 9-10 elections, House of Freedoms, Italian Chamber of Deputies, L'Unione, Romano Prodi, Silvio Berlusconi_
 
-### [ The government of France announces the withdrawal of its youth employment law. The proposed law had catalyzed more than a month of sometimes-violent protests on the streets of Paris and other cities.  ](/news/2006/04/10/the-government-of-france-announces-the-withdrawal-of-its-youth-employment-law-the-proposed-law-had-catalyzed-more-than-a-month-of-sometime.md)
+### [ The government of France announces the withdrawal of its youth employment law. The proposed law had catalyzed more than a month of sometimes-violent protests on the streets of Paris and other cities. ](/news/2006/04/10/the-government-of-france-announces-the-withdrawal-of-its-youth-employment-law-the-proposed-law-had-catalyzed-more-than-a-month-of-sometime.md)
 _Context: youth employment law_
 
 ### [ Sri Lankan Civil War: a claymore mine explodes in northern Jaffna, killing five soldiers on patrol and two civilians working for the Caritas Internationalis aid agency. ](/news/2006/04/10/sri-lankan-civil-war-a-claymore-mine-explodes-in-northern-jaffna-killing-five-soldiers-on-patrol-and-two-civilians-working-for-the-carita.md)

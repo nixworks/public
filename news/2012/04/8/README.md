@@ -1,6 +1,6 @@
 ## [2012-04-8](/news/2012/04/8/index.md)
 
-### [Syrian uprising:At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan  brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/syrian-uprising-pat-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from.md)
+### [Syrian uprising:. At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/syrian-uprising-at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from.md)
 _Context: 2011-2012 Syrian uprising, Kofi Annan, Syria, military_
 
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
@@ -9,7 +9,7 @@ _Context: Afghan government, Afghanistan's, United States_
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
 _Context: Kaduna, Nigeria, car bomb_
 
-### [The Internal Affairs Minister of Israel declares German poet and former Waffen-SS soldier Gunter Grass, recipient of the 1999 Nobel Prize in Literature, a ''persona non grata'' in a row over his poem "What Must Be Said". ](/news/2012/04/8/the-internal-affairs-minister-of-israel-declares-german-poet-and-former-waffen-ss-soldier-ga1-4nter-grass-recipient-of-the-1999-nobel-prize-i.md)
+### [The Internal Affairs Minister of Israel declares German poet and former Waffen-SS soldier Gunter Grass, recipient of the 1999 Nobel Prize in Literature, a "persona non grata" in a row over his poem "What Must Be Said". ](/news/2012/04/8/the-internal-affairs-minister-of-israel-declares-german-poet-and-former-waffen-ss-soldier-ga1-4nter-grass-recipient-of-the-1999-nobel-prize-i.md)
 Israeli and German politicians weigh in on uproar over Nobel laureate&#8217;s poem
 
 ### [Rescuers search for possible survivors of the 2012 Siachen Glacier avalanche that hit a Pakistani Army base and has buried up to 135 people, near the disputed Siachen Glacier. ](/news/2012/04/8/rescuers-search-for-possible-survivors-of-the-2012-siachen-glacier-avalanche-that-hit-a-pakistani-army-base-and-has-buried-up-to-135-people.md)

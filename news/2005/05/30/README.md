@@ -3,7 +3,7 @@
 ### [ In Prague, Prince Hamid Bin Abdul Sani al-Thani of Qatar has been found guilty of sexually abusing girls younger than 15 from 2001 and 2004 and sentenced to 30 months in prison. ](/news/2005/05/30/in-prague-prince-hamid-bin-abdul-sani-al-thani-of-qatar-has-been-found-guilty-of-sexually-abusing-girls-younger-than-15-from-2001-and-2004.md)
 _Context: 2001, 2004, Hamid Bin Abdul Sani al-Thani, Prague, Prince, Qatar, prison_
 
-### [ Amidst scandals regarding the sale of land in Jerusalem, Patriarch Irenaios I of Jerusalem has been replaced by Metropolitan Cornelius of Petra, who serves as ''locum tenens'' of the Orthodox Church of Jerusalem.](/news/2005/05/30/amidst-scandals-regarding-the-sale-of-land-in-jerusalem-patriarch-irenaios-i-of-jerusalem-has-been-replaced-by-metropolitan-cornelius-of-p.md)
+### [ Amidst scandals regarding the sale of land in Jerusalem, Patriarch Irenaios I of Jerusalem has been replaced by Metropolitan Cornelius of Petra, who serves as "locum tenens" of the Orthodox Church of Jerusalem.](/news/2005/05/30/amidst-scandals-regarding-the-sale-of-land-in-jerusalem-patriarch-irenaios-i-of-jerusalem-has-been-replaced-by-metropolitan-cornelius-of-p.md)
 _Context: Irenaios I, Jerusalem, Metropolitan Cornelius of Petra, Orthodox Church of Jerusalem, locum tenens_
 
 ### [ Fighting in the proposed Somali capital of Baidoa threatens the stability of the Transitional Federal Government of Somalia. ](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.md)
@@ -18,7 +18,7 @@ _Context: Afghanistan's, Amnesty International, Guantnamo Bay detainment camp, H
 ### [ Pope Benedict XVI says he wants to heal the rift with the Orthodox Church during his papacy. He spoke to hundreds-of-thousands of people attending a mass in the southern Italian city of Bari during his first pilgrimage away from the Vatican since he was elected less than two months ago. ](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.md)
 _Context: Bari, Orthodox Church, Pope Benedict XVI, Vatican City_
 
-### [ Lebanese general election, 2005: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-p-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md)
+### [ Lebanese general election, 2005:. Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md)
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ Israeli-Palestinian Conflict: Israel fires rockets at the Jabaliya, a Palestinian refugee camp, injuring two civilians. The IDF says it was targeting militants who were planning a rocket attack on Israel. ](/news/2005/05/30/israeli-palestinian-conflict-israel-fires-rockets-at-the-jabaliya-a-palestinian-refugee-camp-injuring-two-civilians-the-idf-says-it-was.md)

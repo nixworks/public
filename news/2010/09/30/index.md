@@ -9,13 +9,13 @@ _Context: Afghanistan's, Kandahar_
 ### [Two policemen and a civilian are killed and four others wounded in a failed bank robbery in southern Baghdad. ](/news/2010/09/30/two-policemen-and-a-civilian-are-killed-and-four-others-wounded-in-a-failed-bank-robbery-in-southern-baghdad.md)
 _Context: Baghdad_
 
-### [A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress-in-which-the-governm.md)
+### [2010 Ecuador crisis. A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md)
 A state of emergency is declared in Ecuador after President Rafael Correa accuses the opposition and the security forces of a &quot;coup attempt&quot;.
 
 ### [A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. ](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for-nato-forces-in-afghanistan-is-attacked-in-pakistan-s-sindh-province.md)
 _Context: Afghanistan's, NATO, Pakistan, Sindh province, convoy, fuel tanker_
 
-### [US actor Tony Curtis, who appeared in more than 100 films including ''Some Like It Hot'' and ''The Defiant Ones'', dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
+### [US actor Tony Curtis, who appeared in more than 100 films including "Some Like It Hot" and "The Defiant Ones", dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
 _Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, United States_
 
 ### [The International Monetary Fund calls for tighter regulation of credit rating agencies. ](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.md)
@@ -60,7 +60,7 @@ The Allahabad HC on Thursday ruled by a majority verdict that the disputed land 
 ### [The Argentine Senate passes a controversial law protecting glaciers in the Andes Mountains and prohibiting drilling for oil and other resources, hindering Barrick Gold from drilling for gold in the Pascua Lama mine. ](/news/2010/09/30/the-argentine-senate-passes-a-controversial-law-protecting-glaciers-in-the-andes-mountains-and-prohibiting-drilling-for-oil-and-other-resour.md)
 _Context: Andes Mountains, Argentina, Barrick Gold, Pascua Lama, Senate, glaciers, gold, oil drilling_
 
-### [Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church's opposition to the Reproductive Health Bill (Philippines). ](/news/2010/09/30/filipino-social-activist-carlos-celdran-is-arrested-after-staging-a-protest-action-which-disrupted-a-mass-in-manila-cathedral-attended-by-ma.md)
+### [Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church-s opposition to the Reproductive Health Bill (Philippines). ](/news/2010/09/30/filipino-social-activist-carlos-celdran-is-arrested-after-staging-a-protest-action-which-disrupted-a-mass-in-manila-cathedral-attended-by-ma.md)
 _Context: Alfredo Lim, Carlos Celdran, Edward Joseph Adams, Manila Cathedral, Papal Nuncio, Reproductive Health Bill (Philippines)_
 
 ### [North Korea releases the first official image of Kim Jong-il's son, Kim Jong-un. ](/news/2010/09/30/north-korea-releases-the-first-official-image-of-kim-jong-il-s-son-kim-jong-un.md)

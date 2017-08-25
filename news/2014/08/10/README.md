@@ -1,9 +1,9 @@
 ## [2014-08-10](/news/2014/08/10/index.md)
 
-### [Israel and Palestinian factions agree to a fresh 72-hour ceasefire, brokered by Egypt, which is due to begin at 21:00 GMT.  ](/news/2014/08/10/israel-and-palestinian-factions-agree-to-a-fresh-72-hour-ceasefire-brokered-by-egypt-which-is-due-to-begin-at-21-00-gmt.md)
+### [2014 Israel-Gaza Conflict. Israel and Palestinian factions agree to a fresh 72-hour ceasefire, brokered by Egypt, which is due to begin at 21:00 GMT. ](/news/2014/08/10/2014-israel-gaza-conflict-israel-and-palestinian-factions-agree-to-a-fresh-72-hour-ceasefire-brokered-by-egypt-which-is-due-to-begin-at-2.md)
 A three-day truce comes into effect between Israel and the Palestinians in Gaza, after a day of intense diplomacy in Egypt.
 
-### [2014 Iraq conflict:The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-pthe-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milita.md)
+### [2014 Iraq conflict:. The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milit.md)
 _Context: 2014 Iraq conflict, Islamic State of Iraq and the Levant, Massoud Barzani, President of Iraqi Kurdistan_
 
 ### [Typhoon Halong makes landfall on Shikoku in Japan with warnings of the potential of flooding and landslides with at least 39 people killed and nine injured. ](/news/2014/08/10/typhoon-halong-makes-landfall-on-shikoku-in-japan-with-warnings-of-the-potential-of-flooding-and-landslides-with-at-least-39-people-killed-a.md)

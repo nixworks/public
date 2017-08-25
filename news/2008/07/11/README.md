@@ -1,7 +1,7 @@
 ## [2008-07-11](/news/2008/07/11/index.md)
 
 ### [ Chinese restaurants in Beijing are told not to serve dog meat during 2008 Summer Olympics, but can continue to serve Donkey meat ](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.md)
-_Context: Beijing, Beijing Olympiad, Chinese, Donkey meat, dog meat, restaurants_
+_Context: 2008 Summer Olympics, Beijing, Chinese, Donkey meat, dog meat, restaurants_
 
 ### [ At a donors' conference in Brussels, 1.2 billion euros (1.9 billion U.S. dollars) are pledged to Kosovo's socio-economic development. ](/news/2008/07/11/at-a-donors-conference-in-brussels-1-2-billion-euros-1-9-billion-u-s-dollars-are-pledged-to-kosovo-s-socio-economic-development.md)
 _Context: Brussels, EUR, Kosovo, U.S. dollar_
@@ -16,7 +16,7 @@ _Context: Butte County, California, Sierra Nevada, Wildfires, foothill_
 _Context: Fuad Siniora, Prime Minister, national government_
 
 ### [ The President of South Korea Lee Myung-bak proposes resumption of stalled summit talks with North Korea. ](/news/2008/07/11/the-president-of-south-korea-lee-myung-bak-proposes-resumption-of-stalled-summit-talks-with-north-korea.md)
-_Context: Lee Myung-bak, North Korea, South Korean President_
+_Context: Lee Myung-bak, North Korea, President of South Korea_
 
 ### [ The first global study of coral reefs finds that one-third of coral-building species face extinction. ](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.md)
 _Context: coral, coral reef, extinction_

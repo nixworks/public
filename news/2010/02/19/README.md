@@ -12,7 +12,7 @@ _Context: International Atomic Energy Agency, Iran, nuclear scientist_
 ### [Anti-government protestors are killed by police fire in Gagnoa, Cote d'Ivoire. ](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.md)
 _Context: Cote d'Ivoire, Gagnoa_
 
-### [Element 112 is officially named ''Copernicium'' and assigned the symbol ''Cn'' on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernic.md)
+### [Element 112 is officially named "Copernicium" and assigned the symbol "Cn" on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernicus.md)
 _Context: Copernicium, Nicolaus Copernicus_
 
 ### [The Supreme Council for the Restoration of Democracy that took power in a military coup in Niger yesterday lifts a curfew and reopens the country's borders. ](/news/2010/02/19/the-supreme-council-for-the-restoration-of-democracy-that-took-power-in-a-military-coup-in-niger-yesterday-lifts-a-curfew-and-reopens-the-co.md)
@@ -24,13 +24,13 @@ _Context: UNESCO Goodwill Ambassador, Yazid Sabeg_
 ### [Romania is set to introduce a tax on fast food in March.](/news/2010/02/19/romania-is-set-to-introduce-a-tax-on-fast-food-in-march.md)
 _Context: Fast food, Romania, tax_
 
-### [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to "host communities". ](/news/2010/02/19/to-persuade-its-volatile-a-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md)
+### [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to -host communities-. ](/news/2010/02/19/to-persuade-its-volatile-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md)
 _Context: Conflict in the Niger Delta, Niger Delta, Nigeria_
 
-### [Assassination of senior Hamas commander Mahmoud al-Mabhouh in Dubai:Hamas threatens Western nations and trades accusations with rival Palestinian faction Fatah over alleged involvement in the affair. ](/news/2010/02/19/assassination-of-senior-hamas-commander-mahmoud-al-mabhouh-in-dubai-phamas-threatens-western-nations-and-trades-accusations-with-rival-pales.md)
+### [Assassination of senior Hamas commander Mahmoud al-Mabhouh in Dubai:. Hamas threatens Western nations and trades accusations with rival Palestinian faction Fatah over alleged involvement in the affair. ](/news/2010/02/19/assassination-of-senior-hamas-commander-mahmoud-al-mabhouh-in-dubai-hamas-threatens-western-nations-and-trades-accusations-with-rival-pale.md)
 Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 
-### [Social networking site Facebook closes down spontaneous support groups for a pilot who crashed his plane in Austin, United States. (Wikinews)  ](/news/2010/02/19/social-networking-site-facebook-closes-down-spontaneous-support-groups-for-a-pilot-who-crashed-his-plane-in-austin-united-states-wikinews.md)
+### [Social networking site Facebook closes down spontaneous support groups for a pilot who crashed his plane in Austin, United States. (Wikinews) ](/news/2010/02/19/social-networking-site-facebook-closes-down-spontaneous-support-groups-for-a-pilot-who-crashed-his-plane-in-austin-united-states-wikinews.md)
 _Context: (Wikinews), Facebook, Inc., crashed his plane in Austin, United States_
 
 ### [Ex-IAEA head Mohamed ElBaradei is set to return to Egypt hoping to run for the presidency in the 2011 election. ](/news/2010/02/19/ex-iaea-head-mohamed-elbaradei-is-set-to-return-to-egypt-hoping-to-run-for-the-presidency-in-the-2011-election.md)

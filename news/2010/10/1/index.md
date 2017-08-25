@@ -15,7 +15,7 @@ Six sailors taken hostage by an armed gang off the coast of Cameroon have been f
 ### [An airstrike launched by the NATO-led International Security Assistance Force (ISAF) kills 15 insurgents in the Tsowkey district of Afghanistan's eastern Kunar province. ](/news/2010/10/1/an-airstrike-launched-by-the-nato-led-international-security-assistance-force-isaf-kills-15-insurgents-in-the-tsowkey-district-of-afghanis.md)
 _Context: International Security Assistance Force, Kunar Province, Tsowkey_
 
-### [American author Jonathan Franzen advises British fans to cease reading his latest novel ''Freedom'' as a printing error has led to the publication of an old draft of his text, with thousands of copies set to be pulped. ](/news/2010/10/1/american-author-jonathan-franzen-advises-british-fans-to-cease-reading-his-latest-novel-freedom-as-a-printing-error-has-led-to-the-publi.md)
+### [American author Jonathan Franzen advises British fans to cease reading his latest novel "Freedom" as a printing error has led to the publication of an old draft of his text, with thousands of copies set to be pulped. ](/news/2010/10/1/american-author-jonathan-franzen-advises-british-fans-to-cease-reading-his-latest-novel-freedom-as-a-printing-error-has-led-to-the-publica.md)
 _Context: Freedom, Jonathan Franzen, pulped_
 
 ### [Sky 3D, the first dedicated 3D TV channel in Europe, launches in the UK. ](/news/2010/10/1/sky-3d-the-first-dedicated-3d-tv-channel-in-europe-launches-in-the-uk.md)
@@ -57,13 +57,13 @@ _Context: Bangkok, Khon Kaen, Nakhon Ratchasima, Nonthaburi, Pathum Thani, Samut
 ### [President of the United States Barack Obama calls a press conference in the White House to make a "personnel announcement" reported to be related to the departure of his aide Rahm Emanuel. ](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.md)
 US President Barack Obama confirms the resignation of his hard-hitting chief of staff Rahm Emanuel, who is poised to run to be mayor of Chicago.
 
-### [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-a-the-first-digital-tv-service.md)
+### [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-the-first-digital-tv-service.md)
 _Context: 3D Channel, Sky, TV service, Virgin Media_
 
 ### [The 2010 Ig Nobel Prizes are announced. ](/news/2010/10/1/the-2010-ig-nobel-prizes-are-announced.md)
 An ingenious method to breathalyse a whale using a remote control helicopter wins a spoof Nobel.
 
-### [The discovery of ''Inkayacu'', an extinct genus of prehistoric penguin that lived in the Late Eocene period, is announced. ](/news/2010/10/1/the-discovery-of-inkayacu-an-extinct-genus-of-prehistoric-penguin-that-lived-in-the-late-eocene-period-is-announced.md)
+### [The discovery of "Inkayacu", an extinct genus of prehistoric penguin that lived in the Late Eocene period, is announced. ](/news/2010/10/1/the-discovery-of-inkayacu-an-extinct-genus-of-prehistoric-penguin-that-lived-in-the-late-eocene-period-is-announced.md)
 Researchers say imprints left by the large bird, which lived in Peru more than 36 million years ago, contain evidence that its feathers were mostly reddish brown and shades of gray.
 
 ### [More than 1,200 NASA employees are laid off despite a $19 billion funding budget passed by the United States Congress earlier in the week. ](/news/2010/10/1/more-than-1-200-nasa-employees-are-laid-off-despite-a-19-billion-funding-budget-passed-by-the-united-states-congress-earlier-in-the-week.md)

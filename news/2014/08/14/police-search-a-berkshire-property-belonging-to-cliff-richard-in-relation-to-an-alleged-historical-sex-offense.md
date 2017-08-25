@@ -1,6 +1,6 @@
 ### [2014-08-14](/news/2014/08/14/index.md)
 
-# Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense.  
+# Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense. 
 
 Police search a Berkshire property belonging to Sir Cliff Richard in relation to an alleged historical sex offence.
 

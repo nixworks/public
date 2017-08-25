@@ -12,5 +12,5 @@
 
 ### Related:
 
-1. [An international team of scientists report in the journal ''Nature Communications'' the discovery of a material (SBMOF-1) that can clear nuclear waste gases, produced by reprocessing plants, more efficiently, cheaply, and safely than currently available methods. ](/news/2016/06/13/an-international-team-of-scientists-report-in-the-journal-nature-communications-the-discovery-of-a-material-sbmof-1-that-can-clear-nuc.md) _Context: nuclear waste gases_
+1. [An international team of scientists report in the journal "Nature Communications" the discovery of a material (SBMOF-1) that can clear nuclear waste gases, produced by reprocessing plants, more efficiently, cheaply, and safely than currently available methods. ](/news/2016/06/13/an-international-team-of-scientists-report-in-the-journal-nature-communications-the-discovery-of-a-material-sbmof-1-that-can-clear-nucle.md) _Context: nuclear waste gases_
 2. [ Officials investigate a radiation leak at the Kaiga nuclear plant in southern India which left 55 employees requiring medical treatment. ](/news/2009/11/29/officials-investigate-a-radiation-leak-at-the-kaiga-nuclear-plant-in-southern-india-which-left-55-employees-requiring-medical-treatment.md) _Context: nuclear waste gases_

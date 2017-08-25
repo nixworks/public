@@ -1,6 +1,6 @@
 ## [2007-04-29](/news/2007/04/29/index.md)
 
-### [ At least three people including the gunman die in a shooting at the Ward Parkway shopping center in  Kansas City, Missouri . ](/news/2007/04/29/at-least-three-people-including-the-gunman-die-in-a-shooting-at-the-ward-parkway-shopping-center-in-kansas-city-missouri.md)
+### [ At least three people including the gunman die in a shooting at the Ward Parkway shopping center in Kansas City, Missouri . ](/news/2007/04/29/at-least-three-people-including-the-gunman-die-in-a-shooting-at-the-ward-parkway-shopping-center-in-kansas-city-missouri.md)
 _Context: Kansas City, Missouri, Ward Parkway, shopping center_
 
 ### [ Worldwide protests occur on the fourth anniversary of the Darfur conflict in Sudan. ](/news/2007/04/29/worldwide-protests-occur-on-the-fourth-anniversary-of-the-darfur-conflict-in-sudan.md)

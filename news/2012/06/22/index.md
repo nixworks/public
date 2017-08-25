@@ -1,6 +1,6 @@
 ## [2012-06-22](/news/2012/06/22/index.md)
 
-### [Syrian uprising (2011-present):The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/syrian-uprising-2011-present-pthe-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over.md)
+### [Syrian uprising (2011-present):. The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/syrian-uprising-2011-present-the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over.md)
 _Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Syrian uprising (2011-present), Turkey_
 
 ### [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md)
@@ -12,7 +12,7 @@ _Context: Anti-austerity protests, Khartoum, Sudan_
 ### [At least 14 people are killed and 106 others wounded in two successive bombings at a popular market on the northern outskirts of Baghdad. ](/news/2012/06/22/at-least-14-people-are-killed-and-106-others-wounded-in-two-successive-bombings-at-a-popular-market-on-the-northern-outskirts-of-baghdad.md)
 _Context: Baghdad_
 
-### [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of ''Coronation Street'' are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-f.md)
+### [Carol Ann Duffy, Jeanette Winterson, Simon Armitage, Melvin Burgess and the creator of "Coronation Street" are among signatories calling for the destruction of books to stop in Manchester. ](/news/2012/06/22/carol-ann-duffy-jeanette-winterson-simon-armitage-melvin-burgess-and-the-creator-of-coronation-street-are-among-signatories-calling-for.md)
 _Context: Carol Ann Duffy, Coronation Street, Jeanette Winterson, Manchester, Melvin Burgess, Simon Armitage, the creator_
 
 ### [Thousands of students in rebel Islamist-controlled northern Mali leave schools after the imposition of Sharia law. ](/news/2012/06/22/thousands-of-students-in-rebel-islamist-controlled-northern-mali-leave-schools-after-the-imposition-of-sharia-law.md)
@@ -21,7 +21,7 @@ _Context: Islamist, Mali, Sharia law_
 ### [Torrential rain causes chaos at the Isle of Wight musical festival. ](/news/2012/06/22/torrential-rain-causes-chaos-at-the-isle-of-wight-musical-festival.md)
 _Context: Isle of Wight musical festival_
 
-### [The Philippines lends the International Monetary Fund $1 billion. ](/news/2012/06/22/the-philippines-lends-the-international-monetary-fund-1-billion.md)
+### [The Philippines lends the International Monetary Fund $1 billion. [http://globalnation.inquirer.net/40931/palace-philippines-duty-bound-to-help-poor-nations "(Philippine Daily Inquirer)"]](/news/2012/06/22/the-philippines-lends-the-international-monetary-fund-1-billion-http-globalnation-inquirer-net-40931-palace-philippines-duty-bound-to-h.md)
 _Context: International Monetary Fund, Philippines_
 
 ### [Wells Fargo plans to move jobs to India and the Philippines. ](/news/2012/06/22/wells-fargo-plans-to-move-jobs-to-india-and-the-philippines.md)
@@ -30,7 +30,7 @@ Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)
 _Context: Ecuador, Julian Assange, WikiLeaks_
 
-### [South China Sea dispute:China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-pchina-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
+### [South China Sea dispute:. China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
 _Context: China, South China Sea dispute, Spratly Islands, Vietnam_
 
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
@@ -51,7 +51,7 @@ _Context: Swaziland_
 ### [The Senate votes to impeach the President of Paraguay Fernando Lugo with former Vice President Federico Franco sworn in as the new president. ](/news/2012/06/22/the-senate-votes-to-impeach-the-president-of-paraguay-fernando-lugo-with-former-vice-president-federico-franco-sworn-in-as-the-new-president.md)
 Paraguay&#x27;s Senate removed President Fernando Lugo from office in a rapid impeachment trial on Friday, and the leftist former priest said he was stepping aside even though he considered his ouster a blow to democracy.
 
-### [Egyptian presidential election:Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-pthousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-president.md)
+### [Egyptian presidential election:. Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presiden.md)
 _Context: Cairo, Egyptian, Tahrir Square, presidential election_
 
 ### [The ruling Pakistan People's Party nominates Raja Pervez Ashraf to replace Yousuf Raza Gilani after a judge orders the arrest of its first choice candidate Makhdoom Shahabuddin for alleged illegal importation of drugs. ](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.md)

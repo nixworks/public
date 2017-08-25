@@ -1,0 +1,24 @@
+### [2016-10-3](/news/2016/10/3/index.md)
+
+# Syrian civil war. A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. 
+
+A bomb killed at least 20 people at a Kurdish wedding in the northeast Syrian city of Hasaka on Monday, a Kurdish militia and a monitoring group said, while state media said the casualties had risen to at least 30 dead.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-middle-east-37547144)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-wedding-hall-idUSKCN12325X)
+
+### Related:
+
+1. [Syrian civil war. Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/syrian-civil-war-several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al.md) _Context: Al-Hasakah, Syria, Syrian Civil War_
+2. [Syrian civil war. Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-civil-war-syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war.md) _Context: Al-Hasakah, Kurdish, Syrian Civil War_
+3. [Syrian Civil War. The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/syrian-civil-war-the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al.md) _Context: Kurdish, Syria, Syrian Civil War_
+4. [Syrian Civil War. Rojava conflict. The Syrian Observatory for Human Rights says that Turkey has shelled areas held by the Kurdish YPG militia group in Syria's Aleppo Governorate for the second successive day with two YPG fighters reportedly killed. ](/news/2016/02/14/syrian-civil-war-rojava-conflict-the-syrian-observatory-for-human-rights-says-that-turkey-has-shelled-areas-held-by-the-kurdish-ypg-militi.md) _Context: Kurdish, Syria, Syrian Civil War_
+5. [Syrian Civil War. American-led intervention in Syria. A newly formed U.S.-backed Syrian rebel alliance, Democratic Forces of Syria, launches an offensive against Islamic State forces in the northeast province of Hasaka. ](/news/2015/10/31/syrian-civil-war-american-led-intervention-in-syria-a-newly-formed-u-s-backed-syrian-rebel-alliance-democratic-forces-of-syria-launches.md) _Context: Al-Hasakah, Syria, Syrian Civil War_
+6. [Syrian Civil War. Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/syrian-civil-war-seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in.md) _Context: Syria, Syrian Civil War_
+7. [Syrian Civil War. The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/syrian-civil-war-the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-k.md) _Context: Syria, Syrian Civil War_
+8. [Syrian Civil War. Military intervention against ISIL. The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/syrian-civil-war-military-intervention-against-isil-the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria.md) _Context: Syria, Syrian Civil War_
+9. [Syrian Civil War. After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/syrian-civil-war-after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-air.md) _Context: Syria, Syrian Civil War_
+10. [Syrian Civil War. 2017 Deir ez-Zor missile strike. Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/syrian-civil-war-2017-deir-ez-zor-missile-strike-iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-z.md) _Context: Syria, Syrian Civil War_

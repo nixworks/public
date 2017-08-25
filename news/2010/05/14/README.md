@@ -3,7 +3,7 @@
 ### [25 people die and 120 others are injured in a suicide attack while attending a football match in the Iraqi city of Tal Afar. ](/news/2010/05/14/25-people-die-and-120-others-are-injured-in-a-suicide-attack-while-attending-a-football-match-in-the-iraqi-city-of-tal-afar.md)
 Suicide bombers target game in northern town of Tal Afar, leaving at least 25 dead.
 
-### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
+### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday-s shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
 _Context: Khattiya Sawasdipol, Thailand, red shirt_
 
 ### [At least one person is killed and 42 injured as live ammunition is fired during clashes between interim government supporters and backers of ousted president Kurmanbek Bakiyev in southern Kyrgyzstan. ](/news/2010/05/14/at-least-one-person-is-killed-and-42-injured-as-live-ammunition-is-fired-during-clashes-between-interim-government-supporters-and-backers-of.md)
@@ -39,7 +39,7 @@ A ban preventing Togo from competing at the next two African Nations Cups has be
 ### [Ethiopia, Rwanda, Tanzania and Uganda sign an agreement to seek more water from the Nile, a move opposed by Egypt and Sudan. Kenya issues a support statement. ](/news/2010/05/14/ethiopia-rwanda-tanzania-and-uganda-sign-an-agreement-to-seek-more-water-from-the-nile-a-move-opposed-by-egypt-and-sudan-kenya-issues-a.md)
 Four African countries sign new water sharing deal amid opposition from Egypt and Sudan.
 
-### [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a EUR18 billion (PS16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-a-18-billion-aps16-billion-dea.md)
+### [Nigerian National Petroleum Corporation (NNPC) and China State Construction Engineering Corp (CSCEC) sign a -18 billion (GBP16 billion) deal. ](/news/2010/05/14/nigerian-national-petroleum-corporation-nnpc-and-china-state-construction-engineering-corp-cscec-sign-a-18-billion-agbp16-billion-d.md)
 Nigerian and Chinese authorities sign a $23bn deal to build three refineries and a fuel complex in the African state.
 
 ### [Sweden expels Syrian diplomat over suspected kidnapping plot. ](/news/2010/05/14/sweden-expels-syrian-diplomat-over-suspected-kidnapping-plot.md)

@@ -1,6 +1,6 @@
 ### [2005-04-26](/news/2005/04/26/index.md)
 
-#  Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud.  
+#  Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud. 
 
 
 

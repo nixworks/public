@@ -12,7 +12,7 @@ _Context: Hamas, Israel, Mahmoud Abbas, plebiscite_
 ### [ Former Enron executives Kenneth Lay and Jeffrey Skilling are found criminally guilty for their role in the demise of the now-defunct energy-trading firm. ](/news/2006/05/25/former-enron-executives-kenneth-lay-and-jeffrey-skilling-are-found-criminally-guilty-for-their-role-in-the-demise-of-the-now-defunct-energy.md)
 Kenneth L. Lay and Jeffrey K. Skilling were found guilty of fraud and conspiracy today. Sentencing is set for the week of Sept. 11.
 
-### [ The US House of Representatives approves H.R.5429, the American-Made Energy and Good Jobs Act, which targets the Arctic National Wildlife Refuge ("ANWR").  H.R.5429 allows oil and gas exploration and development on 2,000 acres (8 km) of the Arctic Coastal Plain (the key Wildlife Reserve in Alaska).  ](/news/2006/05/25/the-us-house-of-representatives-approves-h-r-5429-the-american-made-energy-and-good-jobs-act-which-targets-the-arctic-national-wildlife-r.md)
+### [ The US House of Representatives approves H.R.5429, the American-Made Energy and Good Jobs Act, which targets the Arctic National Wildlife Refuge ("ANWR"). H.R.5429 allows oil and gas exploration and development on 2,000 acres (8 km) of the Arctic Coastal Plain (the key Wildlife Reserve in Alaska). ](/news/2006/05/25/the-us-house-of-representatives-approves-h-r-5429-the-american-made-energy-and-good-jobs-act-which-targets-the-arctic-national-wildlife-r.md)
 _Context: American-Made Energy and Good Jobs Act, Arctic Coastal Plain, Arctic National Wildlife Refuge, H.R.5429, US House of Representatives_
 
 ## [Previous Day...](/news/2006/05/24/index.md)

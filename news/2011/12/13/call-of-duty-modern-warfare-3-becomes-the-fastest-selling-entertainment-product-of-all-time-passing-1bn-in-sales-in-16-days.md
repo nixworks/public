@@ -1,6 +1,6 @@
 ### [2011-12-13](/news/2011/12/13/index.md)
 
-# ''Call of Duty: Modern Warfare 3'' becomes the fastest selling entertainment product of all time passing $1bn in sales in 16 days. 
+# "Call of Duty: Modern Warfare 3" becomes the fastest selling entertainment product of all time passing $1bn in sales in 16 days. 
 
 
 

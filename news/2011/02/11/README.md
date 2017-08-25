@@ -1,6 +1,6 @@
 ## [2011-02-11](/news/2011/02/11/index.md)
 
-### [Egyptian Revolution of 2011 / Downfall of Hosni Mubarak:Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-pprotests-continue-following-last-night-s-non-resignation-speech-of-president-of-egy.md)
+### [Egyptian Revolution of 2011 / Downfall of Hosni Mubarak:. Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-protests-continue-following-last-night-s-non-resignation-speech-of-president-of-eg.md)
 Egyptian president stands down and hands over power to the Supreme Council for the Armed Forces.
 
 ### [The death toll from clashes between rebels loyal to George Athor and the army in Southern Sudan rises to 100. ](/news/2011/02/11/the-death-toll-from-clashes-between-rebels-loyal-to-george-athor-and-the-army-in-southern-sudan-rises-to-100.md)
@@ -12,7 +12,7 @@ Bolivian President Evo Morales abandons a public event in the face of a food pro
 ### [Israeli forces fire gas agents and rubber-coated bullets against Palestinian protesters in Silwan, injuring dozens.](/news/2011/02/11/israeli-forces-fire-gas-agents-and-rubber-coated-bullets-against-palestinian-protesters-in-silwan-injuring-dozens.md)
 _Context: Israel, Palestinian, Silwan_
 
-### [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food.  The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questi.md)
+### [The U.S. Department of Agriculture says it has deregulated a genetically engineered corn. See genetically modified food. The corn in question is designed for the manufacture of ethanol. ](/news/2011/02/11/the-u-s-department-of-agriculture-says-it-has-deregulated-a-genetically-engineered-corn-see-genetically-modified-food-the-corn-in-questio.md)
 The Agriculture Department said on Friday it has deregulated a variety of corn genetically engineered to produce a common enzyme that speeds the breakdown of starch into sugar, a vital step in making ethanol.
 
 ### [A road in Copenhagen, Denmark has been proposed a new name after former US president Ronald Reagan. ](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.md)
@@ -45,7 +45,7 @@ _Context: Indonesia_
 ### [Chinese activist Chen Guangcheng and his wife are reportedly beaten after filming a secret video showing their house arrest. ](/news/2011/02/11/chinese-activist-chen-guangcheng-and-his-wife-are-reportedly-beaten-after-filming-a-secret-video-showing-their-house-arrest.md)
 A human rights organisation says the activist Chen Guangcheng and his wife were beaten after the release of a video showing them under house arrest.
 
-### [Anniversary of Iranian Revolution:Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-piran-marks-the-32nd-anniversary-of-its-revolution.md)
+### [Anniversary of Iranian Revolution:. Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-iran-marks-the-32nd-anniversary-of-its-revolution.md)
 An Iranian opposition leader, Mehdi Karroubi, was placed under house arrest yesterday. Security officers were posted at his door and one of his aides detained after calls for a rally in support of the popular uprisings in Egypt and Tunisia.
 
 ## [Previous Day...](/news/2011/02/10/index.md)

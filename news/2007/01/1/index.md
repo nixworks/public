@@ -1,6 +1,6 @@
 ## [2007-01-1](/news/2007/01/1/index.md)
 
-### [ Raymond Van Barneveld beats Phil Taylor 7-6 in sets to win the 2007 PDC World Darts Championship and collects PS100,000.](/news/2007/01/1/raymond-van-barneveld-beats-phil-taylor-7-6-in-sets-to-win-the-2007-pdc-world-darts-championship-and-collects-aps100-000.md)
+### [ Raymond Van Barneveld beats Phil Taylor 7-6 in sets to win the 2007 PDC World Darts Championship and collects GBP100,000.](/news/2007/01/1/raymond-van-barneveld-beats-phil-taylor-7-6-in-sets-to-win-the-2007-pdc-world-darts-championship-and-collects-agbp100-000.md)
 _Context: 2007 PDC World Darts Championship, Phil Taylor, Raymond Van Barneveld_
 
 ### [ The First ever episode of The Sarah Jane Adventures called Invasion of the Bane was aired](/news/2007/01/1/the-first-ever-episode-of-the-sarah-jane-adventures-called-invasion-of-the-bane-was-aired.md)
@@ -12,7 +12,7 @@ _Context: Boyko Borisov, Bulgaria, GERB, Socialist Party, Sofia mayor, political
 ### [ The Palestinian factional violence flares up again. ](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.md)
 Peruvian photographer working for French press agency in Strip kidnapped; no immediate claim of responsibility for abduction; all captive Hamas, Fatah gunmen released following agreement reached between PFLP, Islamic Jihad 
 
-### [ War in Somalia: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-p-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md)
+### [ War in Somalia:. The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md)
 Somali government troops backed by Ethiopian tanks and MiG fighter jets have captured the last major stronghold of a militant Islamic movement, the prime minister said Monday.
 
 ### [ Romania and Bulgaria join the European Union. ](/news/2007/01/1/romania-and-bulgaria-join-the-european-union.md)

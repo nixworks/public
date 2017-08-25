@@ -1,6 +1,6 @@
 ## [2012-10-12](/news/2012/10/12/index.md)
 
-### [Arab Spring:Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-psyrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md)
+### [Arab Spring:. Syrian civil war: Rebels capture an air base east of Aleppo. ](/news/2012/10/12/arab-spring-syrian-civil-war-rebels-capture-an-air-base-east-of-aleppo.md)
 Activists say opposition fighters have taken control of base near Aleppo as fighting rages across the country.
 
 ### [2012 Northern Mali conflict: The United Nations Security Council unanimously passes a resolution approving an African-led force to assist the army of Mali in ousting Islamist militants who have seized the north of the country. ](/news/2012/10/12/2012-northern-mali-conflict-the-united-nations-security-council-unanimously-passes-a-resolution-approving-an-african-led-force-to-assist-th.md)

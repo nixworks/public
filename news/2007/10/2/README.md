@@ -12,7 +12,7 @@ When fire broke out deep underground at a hydroelectric plant in the Rockies, of
 ### [ At least 27 people are killed when a bus catches fire in Chongqing, southwest China. ](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.md)
 _Context: China, Chongqing, bus_
 
-### [ Pakistan: The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007 The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-p-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december.md)
+### [ Pakistan:. The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007. The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december.md)
 _Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan army, Pervez Musharraf, President, Prime Minister of Pakistan, anti-corruption, government_
 
 ### [ Israel confirms it conducted an airstrike on Syria on September 6. ](/news/2007/10/2/israel-confirms-it-conducted-an-airstrike-on-syria-on-september-6.md)
@@ -25,12 +25,12 @@ _Context: Gordon Brown, Iraq, Prime Minister, War in Iraq_
 _Context: Kabul, War in Afghanistan (2001-present), suicide bomber_
 
 ### [ The President of South Korea Roh Moo-hyun walks across the Korean Demilitarized Zone in travelling to Pyongyang for talks with North Korean leader Kim Jong Il. ](/news/2007/10/2/the-president-of-south-korea-roh-moo-hyun-walks-across-the-korean-demilitarized-zone-in-travelling-to-pyongyang-for-talks-with-north-korean.md)
-_Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, Pyongyang, Roh Moo-hyun, South Korean President, talks_
+_Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, President of South Korea, Pyongyang, Roh Moo-hyun, talks_
 
 ### [ Manhattan Community Board 5 voted to add the Hotel Pennsylvania to the list of NYC Historic buildings. ](/news/2007/10/2/manhattan-community-board-5-voted-to-add-the-hotel-pennsylvania-to-the-list-of-nyc-historic-buildings.md)
 _Context: Hotel Pennsylvania, Manhattan Community Board 5_
 
-### [ 2007 Burmese anti-government protests: United Nations special envoy Ibrahim Gambari meets with Burmese General Than Shwe to tell him to stop the killing of dissidents. ](/news/2007/10/2/2007-burmese-anti-government-protests-p-united-nations-special-envoy-ibrahim-gambari-meets-with-burmese-general-than-shwe-to-tell-him-to-st.md)
+### [ 2007 Burmese anti-government protests:. United Nations special envoy Ibrahim Gambari meets with Burmese General Than Shwe to tell him to stop the killing of dissidents. ](/news/2007/10/2/2007-burmese-anti-government-protests-united-nations-special-envoy-ibrahim-gambari-meets-with-burmese-general-than-shwe-to-tell-him-to-st.md)
 _Context: 2007 Burmese anti-government protests, Burma, General, Ibrahim Gambari, Than Shwe, United Nations_
 
 ## [Previous Day...](/news/2007/10/1/index.md)

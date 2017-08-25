@@ -36,7 +36,7 @@ _Context: Cambodia, China, Muslim, Uyghur_
 ### [ Freezing conditions cause electrical faults in the Channel Tunnel between Great Britain and France, isolating 2,000 passengers in five trains. The situation is coupled with disruptions at London Heathrow Airport and traffic delays due to snowy conditions in the south-east of England. ](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.md)
 _Context: Channel Tunnel, London Heathrow Airport_
 
-### [ Police recruit sniffer dogs and detectives in their hunt for the ''Arbeit macht frei'' sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-retur.md)
+### [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md)
 _Context: Arbeit macht frei, Auschwitz, European Union, Israel, Polish, sniffer dog_
 
 ### [ Scientists announced the discovery of GJ 1214 b, an ocean planet orbiting a star in the Ophiuchus constellation. ](/news/2009/12/19/scientists-announced-the-discovery-of-gj-1214-b-an-ocean-planet-orbiting-a-star-in-the-ophiuchus-constellation.md)

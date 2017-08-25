@@ -1,24 +1,24 @@
 ## [2014-01-15](/news/2014/01/15/index.md)
 
-### [At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal). At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/iraqi-insurgency-post-u-s-withdrawal-at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md)
 At least 73 people have been killed in a series of bomb attacks in central Iraq, police and medical officials say.
 
-### [Internal conflict in Burma:A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-pa-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md)
+### [Internal conflict in Burma:. A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/internal-conflict-in-burma-a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md)
 _Context: Internal conflict in Burma, Myanmar, Women's rights, rape as a weapon of war_
 
-### [Syrian Civil War:Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-pwestern-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md)
+### [Syrian Civil War:. Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/syrian-civil-war-western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md)
 Western and Gulf Arab nations pledged $1.4 billion (£852 million) on Wednesday for United Nations aid efforts in Syria, where an almost three-year-old civil war has left millions of people hungry, ailing or displaced.
 
 ### [The United States returns 11th-12th century sculptures stolen by art thieves from temples in India. ](/news/2014/01/15/the-united-states-returns-11th-12th-century-sculptures-stolen-by-art-thieves-from-temples-in-india.md)
 The US returns to India three ancient sculptures that that been smuggled into the US by art dealers and accomplices.
 
-### [The World Bank says that the economies affected by the Great Recession are starting to recover.  ](/news/2014/01/15/the-world-bank-says-that-the-economies-affected-by-the-great-recession-are-starting-to-recover.md)
+### [The World Bank says that the economies affected by the Great Recession are starting to recover. ](/news/2014/01/15/the-world-bank-says-that-the-economies-affected-by-the-great-recession-are-starting-to-recover.md)
 World Bank looks for &#x27;orderly&#x27; reversion of west&#x27;s monetary policies to avoid provoking crises in emerging markets
 
-### [Asiana Airlines Flight 214:A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-pa-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in-t.md)
+### [Asiana Airlines Flight 214:. A graphic video showing the death of a 16-year-old Chinese girl is released after firefighters ran her over in the wake of the plane crash. ](/news/2014/01/15/asiana-airlines-flight-214-a-graphic-video-showing-the-death-of-a-16-year-old-chinese-girl-is-released-after-firefighters-ran-her-over-in.md)
 A hemet-mounted camera worn by a firefighter may provide answers in the death of an injured passenger who was run over by a firetruck 
 
-### [An anti-LGBT rights law that makes gay marriage punishable by up to 14 years in prison is passed in Nigeria.  ](/news/2014/01/15/an-anti-lgbt-rights-law-that-makes-gay-marriage-punishable-by-up-to-14-years-in-prison-is-passed-in-nigeria.md)
+### [An anti-LGBT rights law that makes gay marriage punishable by up to 14 years in prison is passed in Nigeria. ](/news/2014/01/15/an-anti-lgbt-rights-law-that-makes-gay-marriage-punishable-by-up-to-14-years-in-prison-is-passed-in-nigeria.md)
 _Context: LGBT rights, Nigeria, gay marriage_
 
 ### [Italy says that it will use the Italian Army against the mafia who are accused of dumping toxic waste in Naples. ](/news/2014/01/15/italy-says-that-it-will-use-the-italian-army-against-the-mafia-who-are-accused-of-dumping-toxic-waste-in-naples.md)
@@ -30,10 +30,10 @@ _Context: Danish, Delhi, India, gang rape_
 ### [The National Security Agency uses radio waves to spy on computers. ](/news/2014/01/15/the-national-security-agency-uses-radio-waves-to-spy-on-computers.md)
 _Context: National Security Agency, computer, radio wave_
 
-### [Egyptian constitutional referendum, 2014:Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-pegyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equ.md)
+### [Egyptian constitutional referendum, 2014:. Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptian-constitutional-referendum-2014-egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-eq.md)
 _Context: Coptic, Egyptian constitutional referendum, 2014, Egyptians, Women's rights, political parties based on religion_
 
-### [2013-14 Thai political crisis:Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013a14-thai-political-crisis-pthai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md)
+### [2013-14 Thai political crisis:. Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/2013-14-thai-political-crisis-thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md)
 Anti-government demonstrations in Thailand continue into a third day, with protesters vowing not to quit until the Thai Government steps aside.
 
 ### [Australia warns of bushfires due to a 40C (104F) heatwave affecting the country. ](/news/2014/01/15/australia-warns-of-bushfires-due-to-a-40c-104f-heatwave-affecting-the-country.md)

@@ -3,7 +3,7 @@
 ### [ Electronic IDs will be distributed to all under the age of 12 in Belgium, as a means of protection from child abduction, and will carry a special code in addition to a hotline. ](/news/2006/06/26/electronic-ids-will-be-distributed-to-all-under-the-age-of-12-in-belgium-as-a-means-of-protection-from-child-abduction-and-will-carry-a-s.md)
 _Context: Belgium, IDs_
 
-### [ U.S. President George W. Bush criticises the disclosure of a program to monitor financial transactions by suspected terrorists as "disgraceful". White House Press Secretary Tony Snow also states that news organizations, including the ''New York Times,'' should think if "the public's right to know, in some cases, might override somebody's right to live..." ](/news/2006/06/26/u-s-president-george-w-bush-criticises-the-disclosure-of-a-program-to-monitor-financial-transactions-by-suspected-terrorists-as-disgrace.md)
+### [ U.S. President George W. Bush criticises the disclosure of a program to monitor financial transactions by suspected terrorists as "disgraceful". White House Press Secretary Tony Snow also states that news organizations, including the "New York Times," should think if "the public's right to know, in some cases, might override somebody's right to live..." ](/news/2006/06/26/u-s-president-george-w-bush-criticises-the-disclosure-of-a-program-to-monitor-financial-transactions-by-suspected-terrorists-as-disgrace.md)
 _Context: George W. Bush, New York Times, Tony Snow, U.S. President, White House Press Secretary_
 
 ### [ Waziristan War: a suicide car bombing kills six Pakistani soldiers. ](/news/2006/06/26/waziristan-war-a-suicide-car-bombing-kills-six-pakistani-soldiers.md)

@@ -15,10 +15,10 @@ _Context: South Korea, United States, mad cow disease_
 ### [Figures from the Office for National Statistics indicate the UK economy has returned to recession after shrinking by 0.2% in the first three months of 2012, bringing about a much-feared double-dip recession. ](/news/2012/04/25/figures-from-the-office-for-national-statistics-indicate-the-uk-economy-has-returned-to-recession-after-shrinking-by-0-2-in-the-first-three.md)
 The UK returns to recession, after a sharp fall in construction leads to the economy shrinking by 0.2% in the first three months of 2012.
 
-### [A judge on the Cook County Circuit Court rules that the ''Amazon tax'' levied on Internet businesses by the US state of Illinois is unconstitutional. ](/news/2012/04/25/a-judge-on-the-cook-county-circuit-court-rules-that-the-amazon-tax-levied-on-internet-businesses-by-the-us-state-of-illinois-is-unconsti.md)
+### [A judge on the Cook County Circuit Court rules that the "Amazon tax" levied on Internet businesses by the US state of Illinois is unconstitutional. ](/news/2012/04/25/a-judge-on-the-cook-county-circuit-court-rules-that-the-amazon-tax-levied-on-internet-businesses-by-the-us-state-of-illinois-is-unconstitu.md)
 An Illinois law aimed at leveling competition between online and offline retailers while collecting more state sales taxes is unconstitutional, a Cook County judge said Wednesday. The opinion is yet...
 
-### [News International phone hacking scandal:Adam Smith, a special adviser to Jeremy Hunt, the United Kingdom Secretary of State for Culture, Olympics, Media and Sport, resigns over his role in Rupert Murdoch's News Corporation's attempt to take over satellite broadcaster BSkyB. ](/news/2012/04/25/news-international-phone-hacking-scandal-padam-smith-a-special-adviser-to-jeremy-hunt-the-united-kingdom-secretary-of-state-for-culture-o.md)
+### [News International phone hacking scandal:. Adam Smith, a special adviser to Jeremy Hunt, the United Kingdom Secretary of State for Culture, Olympics, Media and Sport, resigns over his role in Rupert Murdoch's News Corporation's attempt to take over satellite broadcaster BSkyB. ](/news/2012/04/25/news-international-phone-hacking-scandal-adam-smith-a-special-adviser-to-jeremy-hunt-the-united-kingdom-secretary-of-state-for-culture.md)
 Ex-Prime Minister Gordon Brown denies he &quot;declared war&quot; on News Corporation after Rupert Murdoch made the claim in his evidence to the Leveson Inquiry.
 
 ## [Previous Day...](/news/2012/04/24/index.md)

@@ -6,7 +6,7 @@ Dame Helen Mirren condemns film-makers for aiming movies at young men, saying Ho
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
 _Context: Charlie Crist, Doors, Florida, Governor of Florida, Jim Morrison, indecent exposure_
 
-### [An hour-long live episode of ''Coronation Street'' is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
+### [An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
 _Context: Coronation Street, soap opera_
 
 ### [Calisto Tanzi, the founder and former chief executive of multinational food corporation Parmalat, is sentenced to 18 years imprisonment for fraud. ](/news/2010/12/9/calisto-tanzi-the-founder-and-former-chief-executive-of-multinational-food-corporation-parmalat-is-sentenced-to-18-years-imprisonment-for.md)
@@ -27,19 +27,19 @@ Queanbeyan, south-east of Canberra, has been declared a natural disaster zone af
 ### [The African Union suspends Cote d'Ivoire following the disputed presidential election. ](/news/2010/12/9/the-african-union-suspends-ca-te-d-ivoire-following-the-disputed-presidential-election.md)
 The African Union suspends Ivory Coast, following a disputed presidential election in the West African nation.
 
-### [India is to complain to the United States after its ambassador, Meera Shankar,  was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airpor.md)
+### [India is to complain to the United States after its ambassador, Meera Shankar, was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airport.md)
 _Context: India, Meera Shankar, United States_
 
-### [United States diplomatic cables leak:Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-pthousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-com.md)
+### [United States diplomatic cables leak:. Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-co.md)
 A group of computer hackers are planning to attack Amazon, the online retailer, over its treatment of the whistle-blowing website WikiLeaks.
 
-### [2010 Nobel Peace Prize:China blocks access to international news sites ahead of the ceremony for Liu Xiaobo on Friday. ](/news/2010/12/9/2010-nobel-peace-prize-pchina-blocks-access-to-international-news-sites-ahead-of-the-ceremony-for-liu-xiaobo-on-friday.md)
+### [2010 Nobel Peace Prize:. China blocks access to international news sites ahead of the ceremony for Liu Xiaobo on Friday. ](/news/2010/12/9/2010-nobel-peace-prize-china-blocks-access-to-international-news-sites-ahead-of-the-ceremony-for-liu-xiaobo-on-friday.md)
 China steps up its campaign to try to discredit the Nobel committee, ahead of the Peace Prize ceremony to honour jailed dissident Liu Xiaobo.
 
 ### [A report by Transparency International suggests that corruption has worsened over the past three years worldwide. ](/news/2010/12/9/a-report-by-transparency-international-suggests-that-corruption-has-worsened-over-the-past-three-years-worldwide.md)
 One person in four worldwide paid a bribe during the past year, according to study by Transparency International.
 
-### [Detention of Julian Assange:It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-pit-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md)
+### [Detention of Julian Assange:. It is reported that the two Swedish women who have accused WikiLeaks spokesperson Julian Assange of committing "sex crimes" boasted about their "conquest" of him before calling police. ](/news/2010/12/9/detention-of-julian-assange-it-is-reported-that-the-two-swedish-women-who-have-accused-wikileaks-spokesperson-julian-assange-of-committing.md)
 The two Swedish women who have brought sex charges against WikiLeaks founder Julian Assange boasted about their relationship with him days before going to cops. Special
 
 ### [A national high-tech crime team in The Hague arrests a 16-year-old male they accuse of disrupting MasterCard and PayPal websites. Both companies previously cut off donations to the WikiLeaks website. ](/news/2010/12/9/a-national-high-tech-crime-team-in-the-hague-arrests-a-16-year-old-male-they-accuse-of-disrupting-mastercard-and-paypal-websites-both-compa.md)
@@ -54,7 +54,7 @@ Haiti says it will review the disputed result of its presidential election, afte
 ### [Crowds gather in the South Sudan capital Juba to mark one month until the referendum on independence. ](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.md)
 _Context: Juba, Southern Sudan, Southern Sudanese Independence Referendum_
 
-### [Protests in London:Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/protests-in-london-pthousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md)
+### [Protests in London:. Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/protests-in-london-thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md)
 Parliamentary coalition votes to triple university fees as students clash with police in massive, violent protests.
 
 ### [South Korea reports its first two cases of the superbug New Delhi metallo-beta-lactamase. ](/news/2010/12/9/south-korea-reports-its-first-two-cases-of-the-superbug-new-delhi-metallo-beta-lactamase.md)

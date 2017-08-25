@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Ciudad Juarez_
+1. [Ciudad Juarez-based newspaper "Norte" closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Ciudad Juarez_
 2. [A top leader of the Texan gang known as Barrio Azteca is extradited to the United States from Mexico. The gang member was responsible for killing two U.S. consulate workers in Ciudad Juarez in March 2010. ](/news/2012/06/30/a-top-leader-of-the-texan-gang-known-as-barrio-azteca-is-extradited-to-the-united-states-from-mexico-the-gang-member-was-responsible-for-ki.md) _Context: Ciudad Juarez_
 3. [Cisco Systems announces plans to cut 11,500 jobs including transfer of a plant employing 5,000 people in Juarez, Mexico, to Foxconn. ](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.md) _Context: Ciudad Juarez_
 4. [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md) _Context: Ciudad Juarez_

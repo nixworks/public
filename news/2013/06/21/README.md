@@ -12,7 +12,7 @@ A man with a shotgun wounded one person at a Greenville, N.C., law firm on Frida
 ### [The People's Bank of China intervenes to alleviate a cash crunch as it continues to act to reduce over-leveraging in the People's Republic of China. ](/news/2013/06/21/the-people-s-bank-of-china-intervenes-to-alleviate-a-cash-crunch-as-it-continues-to-act-to-reduce-over-leveraging-in-the-people-s-republic-o.md)
 _Context: China, People's Bank of China, cash crunch_
 
-### [2013 Riga Castle fire:Latvian authorities say the overnight fire has extensively damaged Riga Castle, the medieval fortress that houses the Baltic nation's National History Museum, and presidential residence. ](/news/2013/06/21/2013-riga-castle-fire-platvian-authorities-say-the-overnight-fire-has-extensively-damaged-riga-castle-the-medieval-fortress-that-houses-the.md)
+### [2013 Riga Castle fire:. Latvian authorities say the overnight fire has extensively damaged Riga Castle, the medieval fortress that houses the Baltic nation's National History Museum, and presidential residence. ](/news/2013/06/21/2013-riga-castle-fire-latvian-authorities-say-the-overnight-fire-has-extensively-damaged-riga-castle-the-medieval-fortress-that-houses-th.md)
 Riga Castle has been badly damaged by fire. The historical building, which is located in the heart of the Latvian capital’s old town is the official
 
 ### [A three-story building collapses in the Indian town of Mumbra in Maharashtra state, with at least two deaths and many people reported trapped. ](/news/2013/06/21/a-three-story-building-collapses-in-the-indian-town-of-mumbra-in-maharashtra-state-with-at-least-two-deaths-and-many-people-reported-trappe.md)

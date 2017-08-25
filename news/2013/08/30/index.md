@@ -1,12 +1,12 @@
 ## [2013-08-30](/news/2013/08/30/index.md)
 
-### [Syrian civil war:British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-pbritish-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-need.md)
+### [Syrian civil war:. British Prime Minister David Cameron says that a "robust response" to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out. ](/news/2013/08/30/syrian-civil-war-british-prime-minister-david-cameron-says-that-a-robust-response-to-the-alleged-use-of-chemical-weapons-in-syria-is-nee.md)
 A &quot;robust response&quot; to the alleged use of chemical weapons in Syria is needed despite UK military action being ruled out, the PM says.
 
-### [Political violence in Egypt (July 2013-present):Protests in Cairo and other cities, led by supporters of deposed President Morsi, follow Friday prayers. ](/news/2013/08/30/political-violence-in-egypt-july-2013apresent-pprotests-in-cairo-and-other-cities-led-by-supporters-of-deposed-president-morsi-follow.md)
+### [Political violence in Egypt (July 2013-present):. Protests in Cairo and other cities, led by supporters of deposed President Morsi, follow Friday prayers. ](/news/2013/08/30/political-violence-in-egypt-july-2013-present-protests-in-cairo-and-other-cities-led-by-supporters-of-deposed-president-morsi-follow.md)
 Although most marches led by supporters of deposed President Morsi passed peacefully, at least six deaths reported.
 
-### [M23 rebellion in the Democratic Republic of the Congo:M23 rebel chief says fighters to withdraw from frontline of fighting in country's east, as violence spikes. ](/news/2013/08/30/m23-rebellion-in-the-democratic-republic-of-the-congo-pm23-rebel-chief-says-fighters-to-withdraw-from-frontline-of-fighting-in-country-s-eas.md)
+### [M23 rebellion in the Democratic Republic of the Congo:. M23 rebel chief says fighters to withdraw from frontline of fighting in country's east, as violence spikes. ](/news/2013/08/30/m23-rebellion-in-the-democratic-republic-of-the-congo-m23-rebel-chief-says-fighters-to-withdraw-from-frontline-of-fighting-in-country-s-ea.md)
 _Context: Democratic Republic of the Congo, M23 rebellion_
 
 ### [Poet Seamus Heaney from Northern Ireland, recipient of the 1995 Nobel Prize in Literature, dies aged 74. ](/news/2013/08/30/poet-seamus-heaney-from-northern-ireland-recipient-of-the-1995-nobel-prize-in-literature-dies-aged-74.md)

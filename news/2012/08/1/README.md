@@ -1,12 +1,12 @@
 ## [2012-08-1](/news/2012/08/1/index.md)
 
-### [Alfred Hitchcock's 1958 suspense thriller ''Vertigo'' is named as the greatest film of all time in a poll by the British Film Institute's ''Sight and Sound'' magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s.md)
+### [Alfred Hitchcock's 1958 suspense thriller "Vertigo" is named as the greatest film of all time in a poll by the British Film Institute's "Sight and Sound" magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s-sig.md)
 _Context: Alfred Hitchcock, Sight and Sound, Vertigo_
 
 ### [Power is restored in India following an earlier blackout in three grids that left over 600 million people without power. ](/news/2012/08/1/power-is-restored-in-india-following-an-earlier-blackout-in-three-grids-that-left-over-600-million-people-without-power.md)
 _Context: India, blackout_
 
-### [Saudi Aramco is ranked by ''Forbes'' as the first among the world's 25 largest oil companies. ](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.md)
+### [Saudi Aramco is ranked by "Forbes" as the first among the world's 25 largest oil companies. ](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.md)
 _Context: Forbes, Saudi Aramco_
 
 ### [Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. ](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.md)

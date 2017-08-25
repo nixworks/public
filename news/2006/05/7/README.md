@@ -1,6 +1,6 @@
 ## [2006-05-7](/news/2006/05/7/index.md)
 
-### [ A disgruntled bus driver goes on a rampage in Dublin, Ireland, smashing through stopped and on-coming vehicles as he drives through streets, across tram lines and up the wrong side of a dual-carriageway. One woman is killed and 13 people more injured, including five  Garda (Irish Police). Armed Garda open fire on three occasions to try to stop the bus. ](/news/2006/05/7/a-disgruntled-bus-driver-goes-on-a-rampage-in-dublin-ireland-smashing-through-stopped-and-on-coming-vehicles-as-he-drives-through-streets.md)
+### [ A disgruntled bus driver goes on a rampage in Dublin, Ireland, smashing through stopped and on-coming vehicles as he drives through streets, across tram lines and up the wrong side of a dual-carriageway. One woman is killed and 13 people more injured, including five Garda (Irish Police). Armed Garda open fire on three occasions to try to stop the bus. ](/news/2006/05/7/a-disgruntled-bus-driver-goes-on-a-rampage-in-dublin-ireland-smashing-through-stopped-and-on-coming-vehicles-as-he-drives-through-streets.md)
 A 61-year-old woman has been killed and 13 other people were injured, including five gardaí, after being hit by a stolen bus in Dublin.
 
 ### [ United States President George W. Bush announces his support for closing Guantanamo Bay detention center. ](/news/2006/05/7/united-states-president-george-w-bush-announces-his-support-for-closing-guantanamo-bay-detention-center.md)

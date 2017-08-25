@@ -7,7 +7,7 @@ _Context: Burma, Irrawaddy Delta, ferry_
 _Context: Madeleine McCann_
 
 ### [ Natalie Coughlin and Aaron Peirsol break world records for the 100 metres backstroke at the United States Olympic trials. ](/news/2008/07/1/natalie-coughlin-and-aaron-peirsol-break-world-records-for-the-100-metres-backstroke-at-the-united-states-olympic-trials.md)
-_Context: Aaron Peirsol, Beijing Olympiad, Natalie Coughlin, backstroke, world record_
+_Context: 2008 Summer Olympics, Aaron Peirsol, Natalie Coughlin, backstroke, world record_
 
 ### [ A jury orders pharmaceutical companies GlaxoSmithKline and Novartis to pay $114 million in compensation to the Government of Alabama for overcharging for Medicaid prescription drugs. ](/news/2008/07/1/a-jury-orders-pharmaceutical-companies-glaxosmithkline-and-novartis-to-pay-114-million-in-compensation-to-the-government-of-alabama-for-ov.md)
 _Context: Glaxosmithkline, Government of Alabama, Medicaid, Novartis, US$, pharmaceutical companies_

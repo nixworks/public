@@ -1,9 +1,9 @@
 ## [2013-08-18](/news/2013/08/18/index.md)
 
-### [A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapons-in-the-conflict.md)
+### [Syrian civil war. A team of twenty UN weapons inspectors arrives in the capital, Damascus, to investigate the alleged use of chemical weapons in the conflict. ](/news/2013/08/18/syrian-civil-war-a-team-of-twenty-un-weapons-inspectors-arrives-in-the-capital-damascus-to-investigate-the-alleged-use-of-chemical-weapon.md)
 A team of UN weapons inspectors arrives in the Syrian capital of Damascus to investigate alleged chemical weapons use across three locations.
 
-### [Political violence in Egypt:Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-pisrael-to-call-on-us-eu-to-support-egyptian-army.md)
+### [Political violence in Egypt:. Israel to call on US, EU to support Egyptian army ](/news/2013/08/18/political-violence-in-egypt-israel-to-call-on-us-eu-to-support-egyptian-army.md)
 An intensified campaign with foreign leaders and diplomats this week will press the case that there is no better hope to prevent further chaos.
 
 ### [Six people are injured in a bomb explosion on a bus in the eastern Indian state of West Bengal. ](/news/2013/08/18/six-people-are-injured-in-a-bomb-explosion-on-a-bus-in-the-eastern-indian-state-of-west-bengal.md)

@@ -11,6 +11,6 @@
 
 ### Related:
 
-1. [ Racehorse Rags to Riches becomes the first filly to win the Belmont Stakes in 102 years by defeating Preakness winner Curlin.  ](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.md) _Context: Curlin, Preakness_
+1. [ Racehorse Rags to Riches becomes the first filly to win the Belmont Stakes in 102 years by defeating Preakness winner Curlin. ](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.md) _Context: Curlin, Preakness_
 2. [ Big Brown becomes the first Triple Crown favorite to place last in the 2008 Belmont Stakes in New York. The undefeated colt previously won the 2008 Kentucky Derby and the 2008 Preakness Stakes. The 38/1 longshot Da'Tara wins in a wire-to-wire finish. The last Triple Crown winner was Affirmed in 1978. ](/news/2008/06/7/big-brown-becomes-the-first-triple-crown-favorite-to-place-last-in-the-2008-belmont-stakes-in-new-york-the-undefeated-colt-previously-won.md) _Context: Triple Crown_
 3. [ Curlin wins the Breeders' Cup Classic at the Monmouth Park racecourse. In the same race, European star George Washington is euthanized after breaking down in the stretch. ](/news/2007/10/27/curlin-wins-the-breeders-cup-classic-at-the-monmouth-park-racecourse-in-the-same-race-european-star-george-washington-is-euthanized-afte.md) _Context: Curlin_

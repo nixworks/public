@@ -1,6 +1,6 @@
 ### [2010-09-16](/news/2010/09/16/index.md)
 
-# American banks set a new record for the  home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.
+# American banks set a new record for the home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.
 
 A record number of homeowners lost houses to their banks in August as lenders worked through the backlog of distressed mortgages, real estate data company RealtyTrac said on Thursday.
 

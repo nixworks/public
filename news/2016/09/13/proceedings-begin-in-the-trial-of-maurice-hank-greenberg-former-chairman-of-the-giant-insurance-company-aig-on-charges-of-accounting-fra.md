@@ -1,6 +1,6 @@
 ### [2016-09-13](/news/2016/09/13/index.md)
 
-# Proceedings begin in the trial of Maurice "Hank" Greenberg, former chairman of the giant insurance company AIG, on charges of accounting fraud. The 2005 indictment accuses Greenberg and  AIG's former CFO of setting up bogus reinsurance transactions to conceal the insurer's financial difficulties in 2000 and 2001. 
+# Proceedings begin in the trial of Maurice "Hank" Greenberg, former chairman of the giant insurance company AIG, on charges of accounting fraud. The 2005 indictment accuses Greenberg and AIG's former CFO of setting up bogus reinsurance transactions to conceal the insurer's financial difficulties in 2000 and 2001. 
 
 Opening arguments began on Tuesday in the trial of former American International Group Inc chairman Maurice &quot;Hank&quot; Greenberg over accounting fraud at the insurance giant some 16 years ago.
 

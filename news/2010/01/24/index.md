@@ -1,6 +1,6 @@
 ## [2010-01-24](/news/2010/01/24/index.md)
 
-### [Aftermath of the 2010 Haiti earthquake:Haiti is rocked by another earthquake. ](/news/2010/01/24/aftermath-of-the-2010-haiti-earthquake-phaiti-is-rocked-by-another-earthquake.md)
+### [Aftermath of the 2010 Haiti earthquake:. Haiti is rocked by another earthquake. ](/news/2010/01/24/aftermath-of-the-2010-haiti-earthquake-haiti-is-rocked-by-another-earthquake.md)
 An earthquake measuring 4.7 in magnitude hit Haiti on Sunday afternoon, according to the U.S. Geological Survey.
 
 ### [In the National Football League, the Indianapolis Colts and New Orleans Saints win playoff games to advance to Super Bowl XLIV. ](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.md)
@@ -9,7 +9,7 @@ _Context: Indianapolis Colts, National Football League, New Orleans Saints, Supe
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)
 _Context: Gryfino, Polish_
 
-### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md)
+### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md)
 _Context: China, China Daily, Google, United States, cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
@@ -30,7 +30,7 @@ _Context: North Korea, South Korea, declaration of war, intercontinental ballist
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
 _Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
 
-### [Quentin Tarantino's ''Inglourious Basterds'' wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock.md)
+### [Quentin Tarantino's "Inglourious Basterds" wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock-w.md)
 _Context: 16th Screen Actors Guild Awards, Inglourious Basterds, Jeff Bridges, Quentin Tarantino, Sandra Bullock_
 
 ### [A spokesman for U.S. President Barack Obama expresses the administration's support for a second term for the incumbent Chairman of the Federal Reserve, Ben Bernanke, and says lawmakers would send a bad message by "playing politics in any way" with Bernanke's confirmation. ](/news/2010/01/24/a-spokesman-for-u-s-president-barack-obama-expresses-the-administration-s-support-for-a-second-term-for-the-incumbent-chairman-of-the-feder.md)
@@ -48,7 +48,7 @@ Two people have been arrested in Wales in connection with the discovery of an ei
 ### [Ghana eliminate the hosts of the 2010 Africa Cup of Nations Angola following accusations of "intimidatory" tactics carried out by the country's security forces. ](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.md)
 _Context: 2010 Africa Cup of Nations, Angola, Ghana national football team_
 
-### [James Cameron's ''Avatar'' becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the.md)
+### [James Cameron's "Avatar" becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the-be.md)
 Sci-fi epic&#039;s international boxoffice reaches $1.288 billion
 
 ## [Previous Day...](/news/2010/01/23/index.md)

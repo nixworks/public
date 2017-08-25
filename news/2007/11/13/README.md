@@ -1,6 +1,6 @@
 ## [2007-11-13](/news/2007/11/13/index.md)
 
-### [ The fossil of a new prehistoric great ape species, named ''Nakalipithecus nakayamai'', is discovered in Kenya. ](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-species-named-nakalipithecus-nakayamai-is-discovered-in-kenya.md)
+### [ The fossil of a new prehistoric great ape species, named "Nakalipithecus nakayamai", is discovered in Kenya. ](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-species-named-nakalipithecus-nakayamai-is-discovered-in-kenya.md)
 _Context: Kenya, Nakalipithecus nakayamai, fossil, great ape, prehistoric_
 
 ### [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md)

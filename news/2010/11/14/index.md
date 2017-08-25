@@ -1,6 +1,6 @@
 ## [2010-11-14](/news/2010/11/14/index.md)
 
-### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan.  ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
+### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan. ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
 _Context: Afghanistan's, Behsod district, Kabul, Nangarhar Province_
 
 ### [Russian security forces kill three rebels in Buinaksk in the Caucasus region of Dagestan. ](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.md)
@@ -25,7 +25,7 @@ Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands
 _Context: Peru, Yines_
 
 ### [The UK is to become one of the first countries to officially monitor happiness in a government scheme designed to measure psychological and environmental wellbeing. ](/news/2010/11/14/the-uk-is-to-become-one-of-the-first-countries-to-officially-monitor-happiness-in-a-government-scheme-designed-to-measure-psychological-and.md)
-### [2010 Haiti cholera outbreak:The death toll rises to 917. ](/news/2010/11/14/2010-haiti-cholera-outbreak-pthe-death-toll-rises-to-917.md)
+### [2010 Haiti cholera outbreak:. The death toll rises to 917. ](/news/2010/11/14/2010-haiti-cholera-outbreak-the-death-toll-rises-to-917.md)
 Death toll jumps to 917 as international organisations appeal for funds to fight epidemic.
 
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)
@@ -58,8 +58,8 @@ The Organisation of American States urges Nicaragua and Costa Rica to withdraw t
 ### [Asia Pacific Economic Cooperation leaders agree to work towards forming a Free Trade Area of the Asia Pacific. ](/news/2010/11/14/asia-pacific-economic-cooperation-leaders-agree-to-work-towards-forming-a-free-trade-area-of-the-asia-pacific.md)
 _Context: Asia-Pacific Economic Cooperation, Free Trade Area of the Asia Pacific_
 
-### [Rival Palestinian parties Fatah and Hamas accuse each other for the failure to resolve the conflict between them in the second round meeting held in Damascus, Syria. ](/news/2010/11/14/rival-palestinian-parties-fatah-and-hamas-accuse-each-other-for-the-failure-to-resolve-the-conflict-between-them-in-the-second-round-meeting.md)
-Ahmad reportedly says movement only agreed to discuss one issue during six-hour talks; criticizes Haniyeh for speaking to media.
+### [Rival Palestinian parties Fatah and Hamas accuse each other for the failure to resolve the conflict between them in the second round meeting held in Damascus, Syria. [http://www.jpost.com/MiddleEast/Article.aspx?id=195234 ("The Jerusalem Post") ]](/news/2010/11/14/rival-palestinian-parties-fatah-and-hamas-accuse-each-other-for-the-failure-to-resolve-the-conflict-between-them-in-the-second-round-meeting.md)
+_Context: Damascus, Fatah, Fatah-Hamas conflict, Hamas, Syria_
 
 ### [Hundreds of people protest in Moscow, Russia, to demand action over an attack on journalist Oleg Kashin. ](/news/2010/11/14/hundreds-of-people-protest-in-moscow-russia-to-demand-action-over-an-attack-on-journalist-oleg-kashin.md)
 _Context: Moscow, Oleg Kashin, Russia_

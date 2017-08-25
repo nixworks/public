@@ -9,7 +9,7 @@ _Context: Thailand_
 ### [ Kyrgyz President Kurmanbek Bakiyev formally signs the new Constitution of Kyrgyzstan. The Constitution drastically weakens the power of the executive branch in favor of the legislative. Bakiyev and Prime Minister Felix Kulov are expected to maintain their positions until 2010. ](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.md)
 The new constitution marks a political defeat for Bakiyev, who had been wrestling for power with his parliamentary foes for most of 2006.[For background see the Eurasia Insight archive]. Presidential 
 
-### [ United States general elections, 2006: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-p-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
+### [ United States general elections, 2006:. Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
 _Context: Conrad Burns, Jon Tester, Montana, U.S. Senate, United States Senate, United States general elections, 2006_
 
 ### [ BP settles the last remaining lawsuit from the 2005 explosion at its Texas oil refinery that cost 15 lives. ](/news/2006/11/9/bp-settles-the-last-remaining-lawsuit-from-the-2005-explosion-at-its-texas-oil-refinery-that-cost-15-lives.md)

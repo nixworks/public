@@ -1,6 +1,6 @@
 ### [2007-09-24](/news/2007/09/24/index.md)
 
-#  Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract.  
+#  Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract. 
 
 The first national strike against G.M. by the auto workers union since 1970 began today after the two sides failed to reach an agreement on a contract.
 
@@ -11,7 +11,7 @@ The first national strike against G.M. by the auto workers union since 1970 bega
 
 ### Related:
 
-1. [Fiat Chrysler Automobiles (FCA) and the United Auto Workers (UAW) reach a new tentative four-year labor agreement, averting a threatened strike of the automaker's U.S. operations. The agreement must be ratified by a vote of FCA's 40,000 U.S. union workers, who rejected the previous proposal earlier this month. If ratified, the UAW intends to use the pact as a template for negotiations with General Motors Co. and Ford Motor Company. ](/news/2015/10/8/fiat-chrysler-automobiles-fca-and-the-united-auto-workers-uaw-reach-a-new-tentative-four-year-labor-agreement-averting-a-threatened-str.md) _Context: General Motors, United Auto Workers, United States_
+1. [Fiat Chrysler Automobiles (FCA) and the United Auto Workers (UAW) reach a new tentative four-year labor agreement, averting a threatened strike of the automaker-s U.S. operations. The agreement must be ratified by a vote of FCA's 40,000 U.S. union workers, who rejected the previous proposal earlier this month. If ratified, the UAW intends to use the pact as a template for negotiations with General Motors Co. and Ford Motor Company. ](/news/2015/10/8/fiat-chrysler-automobiles-fca-and-the-united-auto-workers-uaw-reach-a-new-tentative-four-year-labor-agreement-averting-a-threatened-str.md) _Context: General Motors, United Auto Workers, United States_
 2. [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md) _Context: General Motors, United States_
 3. [Auto maker General Motors is listed again on the New York Stock Exchange in the biggest Initial public offering in United States history. ](/news/2010/11/18/auto-maker-general-motors-is-listed-again-on-the-new-york-stock-exchange-in-the-biggest-initial-public-offering-in-united-states-history.md) _Context: General Motors, United States_
 4. [United States car maker General Motors files for an Initial Public Offering. ](/news/2010/08/18/united-states-car-maker-general-motors-files-for-an-initial-public-offering.md) _Context: General Motors, United States_
@@ -20,4 +20,4 @@ The first national strike against G.M. by the auto workers union since 1970 bega
 7. [ The United Automobile Workers sets a deadline of 11am Monday for General Motors to avoid a strike. ](/news/2007/09/23/the-united-automobile-workers-sets-a-deadline-of-11am-monday-for-general-motors-to-avoid-a-strike.md) _Context: General Motors, United Auto Workers_
 8. [ Negotiations between General Motors and the United Automobile Workers continue in Detroit, Michigan past the deadline with a strike to start if negotiations fail. ](/news/2007/09/15/negotiations-between-general-motors-and-the-united-automobile-workers-continue-in-detroit-michigan-past-the-deadline-with-a-strike-to-star.md) _Context: General Motors, United Auto Workers_
 9. [ The Ford Motor Company and the United Automobile Workers union agree on a program that will offer buyouts and other incentives to more than 75,000 Ford workers in the United States to persuade them to leave their jobs. ](/news/2006/09/14/the-ford-motor-company-and-the-united-automobile-workers-union-agree-on-a-program-that-will-offer-buyouts-and-other-incentives-to-more-than.md) _Context: United Auto Workers, United States_
-10. [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md) _Context: United States_
+10. [115th United States Congress. U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _Context: United States_

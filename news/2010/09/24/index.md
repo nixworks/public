@@ -3,7 +3,7 @@
 ### [Benny Andersson and Bjrn Ulvaeus of ABBA object to the use of the song "Mamma Mia" at rallies held by a right-wing Danish political party and threaten to sue. ](/news/2010/09/24/benny-andersson-and-bjorn-ulvaeus-of-abba-object-to-the-use-of-the-song-mamma-mia-at-rallies-held-by-a-right-wing-danish-political-party-a.md)
 _Context: ABBA, Benny Andersson, Bjrn Ulvaeus, Mamma Mia_
 
-### [''The Beano'' is to feature a President of the United States for the first time in its history. ](/news/2010/09/24/the-beano-is-to-feature-a-president-of-the-united-states-for-the-first-time-in-its-history.md)
+### ["The Beano" is to feature a President of the United States for the first time in its history. ](/news/2010/09/24/the-beano-is-to-feature-a-president-of-the-united-states-for-the-first-time-in-its-history.md)
 Barack Obama is to become the first American president to appear in The Beano, it is revealed.
 
 ### [American satirist Stephen Colbert attracts media attention in his country by appearing before a United States Congress committee. ](/news/2010/09/24/american-satirist-stephen-colbert-attracts-media-attention-in-his-country-by-appearing-before-a-united-states-congress-committee.md)

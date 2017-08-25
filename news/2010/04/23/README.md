@@ -15,16 +15,16 @@ _Context: Angelina Teny, Bentiu, post-election protests_
 ### [In a major transfer of power in the Xinjiang Uyghur Autonomous Region of China, Zhang Chunxian replaces Wang Lequan as the region's Party Committee Secretary; Wang has served in the post since 1994. ](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.md)
 _Context: CPC party chief, Wang Lequan, Xinjiang Uyghur Autonomous Region, Zhang Chunxian_
 
-### [Red Shirt leader Veera Musikapong agrees to end  the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections.md)
+### [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections-w.md)
 _Context: 2010 Thai political protests, Parliament, Veera Musikapong, red shirt_
 
-### [Greece activates the EUR45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md)
+### [Greece activates the -45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md)
 _Context: European Union, Greek, downgrades_
 
 ### [A Spanish hospital claims to have performed the world's "first full-face transplant". ](/news/2010/04/23/a-spanish-hospital-claims-to-have-performed-the-world-s-first-full-face-transplant.md)
 _Context: face transplant_
 
-### [Response to child sexual abuse in the Roman Catholic Church:Bishop of Bruges since 1984 Roger Joseph Vangheluwe admits sexually abusing a boy and resigns with immediate effect. ](/news/2010/04/23/response-to-child-sexual-abuse-in-the-roman-catholic-church-pbishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a-b.md)
+### [Response to child sexual abuse in the Roman Catholic Church:. Bishop of Bruges since 1984 Roger Joseph Vangheluwe admits sexually abusing a boy and resigns with immediate effect. ](/news/2010/04/23/response-to-child-sexual-abuse-in-the-roman-catholic-church-bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a.md)
 Pope accepts resignation of bishop after he admits sexually abusing a young boy.
 
 ### [The Boy Scouts of America are ordered to pay $18.5 million in damages following the sexual abuse of a 12-year-old boy. ](/news/2010/04/23/the-boy-scouts-of-america-are-ordered-to-pay-18-5-million-in-damages-following-the-sexual-abuse-of-a-12-year-old-boy.md)
@@ -45,7 +45,7 @@ _Context: Kumgangsan, North Korea, South Korea_
 ### [President of Iran Mahmoud Ahmadinejad opens a trade fair in Bulawayo on his tour of Zimbabwe as the country's President Robert Mugabe back's Iran's "just cause" for developing nuclear energy. ](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.md)
 _Context: Bulawayo, Mahmoud Ahmadinejad, President, President, Robert Mugabe, Zimbabwe_
 
-### [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md)
+### [Police issue a French Muslim woman with a fine of -22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md)
 A FRENCH Muslim woman has been fined for driving while wearing a full-face veil, as the government pushes to ban the garment.
 
 ### [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md)

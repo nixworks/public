@@ -1,15 +1,15 @@
 ## [2011-07-6](/news/2011/07/6/index.md)
 
-### [Arab Spring:2011 Libyan civil war:Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-p2011-libyan-civil-war-prebels-launch-an-offensive-in-the-western-nafusa-mountains.md)
+### [Arab Spring:. 2011 Libyan civil war:. Rebels launch an offensive in the western Nafusa Mountains. ](/news/2011/07/6/arab-spring-2011-libyan-civil-war-rebels-launch-an-offensive-in-the-western-nafusa-mountains.md)
 Fighters take town of al-Qawalish after six-hour battle and move closer to cutting supply route to capital.
 
-### [Nigerian Sharia conflict:An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-pan-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bok.md)
+### [Nigerian Sharia conflict:. An explosion and gunfire are heard in the northern Nigerian town of Maiduguri, amid activity by Islamist group Boko Haram. ](/news/2011/07/6/nigerian-sharia-conflict-an-explosion-and-gunfire-are-heard-in-the-northern-nigerian-town-of-maiduguri-amid-activity-by-islamist-group-bo.md)
 _Context: Boko Haram, Islamist, Maiduguri, Nigeria, Nigerian Sharia conflict_
 
 ### [Iconic Indian filmmaker Mani Kaul dies in Delhi. ](/news/2011/07/6/iconic-indian-filmmaker-mani-kaul-dies-in-delhi.md)
 Leading Indian filmmaker Mani Kaul dies in the capital, Delhi, aged 66.
 
-### [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while  Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gr.md)
+### [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gre.md)
 _Context: European Commission, Greek, Moody's, Portugal, Stavros Lambrinidis_
 
 ### [Japan's Jiji Press reports that the country will conduct stress tests for all nuclear reactors in the country. ](/news/2011/07/6/japan-s-jiji-press-reports-that-the-country-will-conduct-stress-tests-for-all-nuclear-reactors-in-the-country.md)
@@ -33,16 +33,16 @@ _Context: Belarus, Minsk_
 ### [7 people are jailed before a trial into suspicions of match-fixing in the Turkish League. ](/news/2011/07/6/7-people-are-jailed-before-a-trial-into-suspicions-of-match-fixing-in-the-turkish-league.md)
 Seven suspects sent to prison ahead of trial as allegations rock Turkish league.
 
-### [Russian government daily ''Rossiyskaya Gazeta'' publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-fin.md)
+### [Russian government daily "Rossiyskaya Gazeta" publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-finan.md)
 _Context: Rossiyskaya Gazeta, Russia, money laundering, terrorism_
 
 ### [The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. ](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitcher-roger-clemens-commences-in-the-u-s-over-allegedly-false-statements-made-to-a-united-stat.md)
 _Context: Roger Clemens, United States Congress, baseball game, committed perjury, performance-enhancing drugs, pitcher_
 
-### [Nine Germans are convicted ''in absentia'' in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md)
+### [Nine Germans are convicted "in absentia" in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md)
 An Italian court sentences nine German men in absentia to life in prison for killing hundreds of civilians during World War II, reports say.
 
-### [''News of the World'' phone hacking affair:Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-pmembers-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-publi.md)
+### ["News of the World" phone hacking affair:. Members of the United Kingdom House of Commons discuss a Labour Party proposal to set up a public inquiry into the News of the World phone hacking affair. ](/news/2011/07/6/news-of-the-world-phone-hacking-affair-members-of-the-united-kingdom-house-of-commons-discuss-a-labour-party-proposal-to-set-up-a-public.md)
 The head of Scotland Yard says any police officer found to have received &quot;inappropriate&quot; payments from News International will be disciplined.
 
 ### [Nepalese authorities ban exiled Tibetans from celebrating the Dalai Lama's birthday for fears that the gatherings will turn anti-Chinese. ](/news/2011/07/6/nepalese-authorities-ban-exiled-tibetans-from-celebrating-the-dalai-lama-s-birthday-for-fears-that-the-gatherings-will-turn-anti-chinese.md)
@@ -51,7 +51,7 @@ _Context: Chinese, Dalai Lama, Exile, Nepal, Tibetan_
 ### [Irish government lawmaker Denis Naughten votes against his own government over cuts to a hospital, amid protests by hundreds of people outside Dail Eireann; he now faces expulsion from Fine Gael with the hospital's emergency department to close on Monday. ](/news/2011/07/6/irish-government-lawmaker-denis-naughten-votes-against-his-own-government-over-cuts-to-a-hospital-amid-protests-by-hundreds-of-people-outsi.md)
 Roscommon-Leitrim South Fine Gael TD Denis Naughten has voted against the Government on a motion relating to the downgrading &hellip;
 
-### [Freedom Flotilla II:The French ship ''Dignity Al Karama'' is reported to have successfully reached international waters and is heading for the Gaza Strip, with hopes expressed that the remaining unsabotaged ships currently being held by Greek authorities will soon join it. ](/news/2011/07/6/freedom-flotilla-ii-pthe-french-ship-dignity-al-karama-is-reported-to-have-successfully-reached-international-waters-and-is-heading-for.md)
+### [Freedom Flotilla II:. The French ship "Dignity Al Karama" is reported to have successfully reached international waters and is heading for the Gaza Strip, with hopes expressed that the remaining unsabotaged ships currently being held by Greek authorities will soon join it. ](/news/2011/07/6/freedom-flotilla-ii-the-french-ship-dignity-al-karama-is-reported-to-have-successfully-reached-international-waters-and-is-heading-for-t.md)
 _Context: Freedom Flotilla II, Gaza Strip, international waters_
 
 ### [Israeli officials are reported to be boycotting a United Nations official over an unpublished report concerning the part played by Israeli forces in the recent deaths of 7 Palestinian protesters during the annual Nakba commemorations. ](/news/2011/07/6/israeli-officials-are-reported-to-be-boycotting-a-united-nations-official-over-an-unpublished-report-concerning-the-part-played-by-israeli-f.md)

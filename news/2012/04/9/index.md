@@ -1,15 +1,15 @@
 ## [2012-04-9](/news/2012/04/9/index.md)
 
-### [Arab Spring:2011-2012 Syrian uprising:Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-p2011a2012-syrian-uprising-pturkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-thre.md)
+### [Arab Spring:. 2011-2012 Syrian uprising:. Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-2011-2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-th.md)
 Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the area of Wadi Khaled, north Lebanon, security sources said. Al-Jadeed blamed the Syrian army for the incident.
 
 ### [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md)
 _Context: Baidoa, Somalia_
 
-### [German Health Minister Daniel Bahr tells ''Die Welt'' that the Israeli government's declaration of Gunter Grass as ''persona non grata'' in reaction to his poem "What Must Be Said" is "exaggerated". Meanwhile, a sculpture celebrating freedom of speech in Gottingen is daubed in red paint telling the recipient of the 1999 Nobel Prize in Literature to "shut your mouth". ](/news/2012/04/9/german-health-minister-daniel-bahr-tells-die-welt-that-the-israeli-government-s-declaration-of-ga1-4nter-grass-as-persona-non-grata-in.md)
+### [German Health Minister Daniel Bahr tells "Die Welt" that the Israeli government's declaration of Gunter Grass as "persona non grata" in reaction to his poem "What Must Be Said" is "exaggerated". Meanwhile, a sculpture celebrating freedom of speech in Gottingen is daubed in red paint telling the recipient of the 1999 Nobel Prize in Literature to "shut your mouth". ](/news/2012/04/9/german-health-minister-daniel-bahr-tells-die-welt-that-the-israeli-government-s-declaration-of-ga1-4nter-grass-as-persona-non-grata-in-rea.md)
 _Context: Daniel Bahr, Die Welt, Gottingen, Gunter Grass, Nobel Prize in Literature, What Must Be Said, freedom of speech, persona non-grata_
 
-### [''The Lion King'' becomes the all-time highest grossing show on Broadway, overtaking ''The Phantom of the Opera''. ](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.md)
+### ["The Lion King" becomes the all-time highest grossing show on Broadway, overtaking "The Phantom of the Opera". ](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.md)
 _Context: Broadway, The Lion King, The Phantom of the Opera_
 
 ### [China establishes a rare earth association in order to streamline the sector's development. ](/news/2012/04/9/china-establishes-a-rare-earth-association-in-order-to-streamline-the-sector-s-development.md)

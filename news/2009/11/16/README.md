@@ -3,13 +3,13 @@
 ### [ Kevin Rudd, the Prime Minister of Australia, apologises to the "forgotten Australians" raised in orphanages and foster homes during the twentieth century. ](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.md)
 _Context: Australian Prime Minister, Kevin Rudd, foster home, orphanage, twentieth century_
 
-### [ NASA launches Space Shuttle ''Atlantis'' on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carrier.md)
+### [ NASA launches Space Shuttle "Atlantis" on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carriers.md)
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
 
 ### [ At least 8 people are dead and dozens missing after a ferry collided with an oil barge in Burma's Irrawaddy Delta. ](/news/2009/11/16/at-least-8-people-are-dead-and-dozens-missing-after-a-ferry-collided-with-an-oil-barge-in-burma-s-irrawaddy-delta.md)
 _Context: Burma, Irrawaddy Delta_
 
-### [ A Zambian court clears journalist Chansa Kabwela of ''Zambia Post'' newspaper of pornography charges after she sent pictures of a woman giving birth in a hospital car park to President Rupiah Banda in protest at the effects of a national strike. ](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwela-of-zambia-post-newspaper-of-pornography-charges-after-she-sent-pictures-of-a-woman-giv.md)
+### [ A Zambian court clears journalist Chansa Kabwela of "Zambia Post" newspaper of pornography charges after she sent pictures of a woman giving birth in a hospital car park to President Rupiah Banda in protest at the effects of a national strike. ](/news/2009/11/16/a-zambian-court-clears-journalist-chansa-kabwela-of-zambia-post-newspaper-of-pornography-charges-after-she-sent-pictures-of-a-woman-givin.md)
 _Context: Chansa Kabwela, Rupiah Banda, Zambia, Zambia Post_
 
 ### [ U.S. President Barack Obama arrives in Shanghai, China, and holds a town-hall-style meeting with students. ](/news/2009/11/16/u-s-president-barack-obama-arrives-in-shanghai-china-and-holds-a-town-hall-style-meeting-with-students.md)

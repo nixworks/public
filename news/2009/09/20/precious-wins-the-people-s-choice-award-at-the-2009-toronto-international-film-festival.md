@@ -1,6 +1,6 @@
 ### [2009-09-20](/news/2009/09/20/index.md)
 
-#  ''Precious'' wins the People's Choice Award at the 2009 Toronto International Film Festival. 
+#  "Precious" wins the People's Choice Award at the 2009 Toronto International Film Festival. 
 
 To mark Canada’s 150th birthday, CBC has launched a national storytelling project called What’s Your Story. We want to help you share personal stories about what defines Canada for you
 
@@ -15,4 +15,4 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 
 ### Related:
 
-1. [The legal case over ''Precious'' is dismissed. ](/news/2010/07/23/the-legal-case-over-precious-is-dismissed.md) _Context: Precious_
+1. [The legal case over "Precious" is dismissed. ](/news/2010/07/23/the-legal-case-over-precious-is-dismissed.md) _Context: Precious_

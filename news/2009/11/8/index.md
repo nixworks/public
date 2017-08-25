@@ -15,7 +15,7 @@ _Context: 21st summit, Asia-Pacific Economic Cooperation, Singapore_
 ### [ At least 13 people are killed and at least 35 are injured in a suicide attack in Adezai, Pakistan. ](/news/2009/11/8/at-least-13-people-are-killed-and-at-least-35-are-injured-in-a-suicide-attack-in-adezai-pakistan.md)
 Taliban ally-turned-enemy among victims of suicide attack near Peshawar in the northwest.
 
-### [ Speaking at Sharm el-Sheikh's Forum on China-Africa Cooperation, China's Premier Wen Jiabao, pledges $10 billion (6 billion) loans to Africa over a three-year period, in order to increase Sino-african cooperation. ](/news/2009/11/8/speaking-at-sharm-el-sheikh-s-forum-on-china-africa-cooperation-china-s-premier-wen-jiabao-pledges-10-billion-ps6-billion-loans-to-afri.md)
+### [ Speaking at Sharm el-Sheikh's Forum on China-Africa Cooperation, China's Premier Wen Jiabao, pledges $10 billion (GBP6 billion) loans to Africa over a three-year period, in order to increase Sino-african cooperation. ](/news/2009/11/8/speaking-at-sharm-el-sheikh-s-forum-on-china-africa-cooperation-china-s-premier-wen-jiabao-pledges-10-billion-gbp6-billion-loans-to-af.md)
 Chinese has offered Africa $10bn in concessional loans over the next three years.
 
 ### [ North Korean leader Kim Jong-il sacks a top TV official after state television begins broadcasting advertisements, out of concern that they were "increasing the influence of capitalism". ](/news/2009/11/8/north-korean-leader-kim-jong-il-sacks-a-top-tv-official-after-state-television-begins-broadcasting-advertisements-out-of-concern-that-they.md)
@@ -36,7 +36,7 @@ _Context: United States House of Representatives, health care reform act_
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
 _Context: 14th Dalai Lama, Arunachal Pradesh, China, India, Tawang_
 
-### [ Northern Mariana Islands general election, 2009 results are released Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/northern-mariana-islands-general-election-2009-results-are-releasedp-republican-party-candidate-heinz-hofschneider-and-incumbent-governor.md)
+### [ Northern Mariana Islands general election, 2009 results are released. Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/northern-mariana-islands-general-election-2009-results-are-released-republican-party-candidate-heinz-hofschneider-and-incumbent-governor.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands general election, 2009, Republican, runoff election_
 
 ## [Previous Day...](/news/2009/11/7/index.md)

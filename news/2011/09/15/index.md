@@ -28,7 +28,7 @@ _Context: Bermuda, Canada, Hurricane Maria, Newfoundland and Labrador_
 _Context: Alesund, cruise ship_
 
 ### [The Prime Minister of Thailand Yingluck Shinawatra visits Cambodia in an effort to improve relations after the border clashes near the Preah Vihear Temple earlier this year which led to the deaths of twenty people. ](/news/2011/09/15/the-prime-minister-of-thailand-yingluck-shinawatra-visits-cambodia-in-an-effort-to-improve-relations-after-the-border-clashes-near-the-preah.md)
-_Context: Cambodia, Preah Vihear Temple, Prime Minister of Thailand, Yingluck Shinawatra, border clashes_
+_Context: Cambodia, Preah Vihear Temple, Prime Minister, Yingluck Shinawatra, border clashes_
 
 ### [Israel withdraws its ambassador to Jordan due to fears of a violent protest in Amman. ](/news/2011/09/15/israel-withdraws-its-ambassador-to-jordan-due-to-fears-of-a-violent-protest-in-amman.md)
 _Context: Amman, Israel, Jordan_
@@ -48,13 +48,13 @@ _Context: China, Xinjiang, terrorism_
 ### [Figures from the United Kingdom's Ministry of Justice indicate that three quarters of those charged with offences relating to the riots which occurred in August had previous criminal convictions. One quarter had committed more than ten previous offences. ](/news/2011/09/15/figures-from-the-united-kingdom-s-ministry-of-justice-indicate-that-three-quarters-of-those-charged-with-offences-relating-to-the-riots-whic.md)
 One in four people charged over the riots in English cities last month had committed more than 10 previous offences, Ministry of Justice figures show.
 
-### [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (PS1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-aps1-3bn-as-a-result-of-unauthorised-tradin.md)
+### [The UK's Metropolitan Police arrest trader Kweku Adoboli after Swiss bank UBS says it lost $2bn (GBP1.3bn) as a result of unauthorised trading by a member of staff. ](/news/2011/09/15/the-uk-s-metropolitan-police-arrest-trader-kweku-adoboli-after-swiss-bank-ubs-says-it-lost-2bn-agbp1-3bn-as-a-result-of-unauthorised-trad.md)
 London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised trading by a staff member led to losses of $2bn (£1.3bn).
 
 ### [The Supreme Court of the United States halts the execution of Duane Buck for double murder in Texas while it reviews his case that the sentence was unfair because of a question asked about race during his trial. ](/news/2011/09/15/the-supreme-court-of-the-united-states-halts-the-execution-of-duane-buck-for-double-murder-in-texas-while-it-reviews-his-case-that-the-sente.md)
 _Context: Texas, U.S. Supreme Court_
 
-### [Danish election:Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-pvoters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winnin.md)
+### [Danish election:. Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winni.md)
 _Context: Denmark, Social Democrat, parliamentary elections_
 
 ### [Australians will now be able to choose "indeterminate" as a gender on their passports together with male and female. ](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.md)
@@ -63,7 +63,7 @@ _Context: Australian, gender, passport_
 ### [Eight Flemish and Francophone parties represented in the Belgian Chamber of Representatives reach a breakthrough on the Bruxelles-Halle-Vilvorde which had been one of the issues holding up formation of a new government since an election in 2010. ](/news/2011/09/15/eight-flemish-and-francophone-parties-represented-in-the-belgian-chamber-of-representatives-reach-a-breakthrough-on-the-bruxelles-halle-vilv.md)
 _Context: 541 days of negotiations, Belgian Chamber of Representatives, Bruxelles-Halle-Vilvorde, Flemish, Francophone, election_
 
-### [Researchers at Australia's Monash University have identified a previously unknown species of bottlenose dolphin living in waters in and around Southeastern Australia, which they have named ''Tursiops australis''. ](/news/2011/09/15/researchers-at-australia-s-monash-university-have-identified-a-previously-unknown-species-of-bottlenose-dolphin-living-in-waters-in-and-arou.md)
+### [Researchers at Australia's Monash University have identified a previously unknown species of bottlenose dolphin living in waters in and around Southeastern Australia, which they have named "Tursiops australis". ](/news/2011/09/15/researchers-at-australia-s-monash-university-have-identified-a-previously-unknown-species-of-bottlenose-dolphin-living-in-waters-in-and-arou.md)
 Australian researchers find that a species of dolphin thought to be a common bottlenose is in fact a new species - and may already be endangered.
 
 ## [Previous Day...](/news/2011/09/14/index.md)

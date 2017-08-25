@@ -11,5 +11,5 @@ Check out our breaking stories on Hollywood?s hottest stars! Get the latest news
 
 ### Related:
 
-1. [U.S. television personality Katie Couric announces that she will no longer host the ''CBS Evening News'' at the end of June. ](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.md) _Context: CBS Evening News, Katie Couric_
-2. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md) _Context: CBS Evening News_
+1. [U.S. television personality Katie Couric announces that she will no longer host the "CBS Evening News" at the end of June. ](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.md) _Context: CBS Evening News, Katie Couric_
+2. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of "CBS Evening News". Pelley will remain with "CBS News" as a correspondent in "60 Minutes". ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs-ne.md) _Context: CBS Evening News_

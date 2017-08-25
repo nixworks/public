@@ -1,12 +1,12 @@
 ## [2012-11-1](/news/2012/11/1/index.md)
 
-### [Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hours-after-a-wave-of.md)
+### [Syrian civil war. Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-civil-war-syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hou.md)
 Observatory for Human Rights confirms ambush on three checkpoints around northern province of Idlib, bordering Turkey.
 
 ### [Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. ](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.md)
 _Context: ComScore, Gmail, Google, Hotmail, Microsoft, e-mail_
 
-### [Hurricane Sandy:The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/hurricane-sandy-pthe-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-of.md)
+### [Hurricane Sandy:. The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/hurricane-sandy-the-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-o.md)
 New Jersey and New York, struggling to recover from the wreckage of Sandy, were staggered today by a gas shortage and an overwhelmed transit system as more victims of the deadly storm were found.
 
 ### [A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh killing 22 people and injuring 111. ](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-saudi-arabian-capital-riyadh-killing-22-people-and-injuring-111.md)
@@ -18,7 +18,7 @@ _Context: Darfur, Sudan, yellow fever_
 ### [President of Indonesia Susilo Bambang Yudhoyono receives a medal of Knighthood of the Order of the Bath from Queen Elizabeth II. ](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.md)
 _Context: Order of the Bath, President of Indonesia, Queen Elizabeth II, Susilo Bambang Yudhoyono_
 
-### [Parents kill their 15-year-old daughter in an "honour killing" by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-ahonour-killinga-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md)
+### [Parents kill their 15-year-old daughter in an -honour killing- by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-honour-killing-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md)
 A couple in Pakistani-administered Kashmir are arrested for murdering their teenaged daughter in an acid attack honour killing, police say.
 
 ### [Nine female political prisoners, including Iranian human rights lawyer Nasrin Sotoudeh, begin a hunger strike to protest their conditions in Tehran's Evin prison. ](/news/2012/11/1/nine-female-political-prisoners-including-iranian-human-rights-lawyer-nasrin-sotoudeh-begin-a-hunger-strike-to-protest-their-conditions-in.md)
@@ -33,7 +33,7 @@ The family of a Northern Ireland prison officer murdered as he drove to work are
 ### [New York Mayor Michael Bloomberg endorses U.S. President Barack Obama over Mitt Romney, citing the need to deal with climate change in the wake of Hurricane Sandy as a reason for his choice. ](/news/2012/11/1/new-york-mayor-michael-bloomberg-endorses-u-s-president-barack-obama-over-mitt-romney-citing-the-need-to-deal-with-climate-change-in-the-w.md)
 New York Mayor Bloomberg endorses Obama for re-election, cites leadership on climate change.
 
-### [Astronomers detect what appears to be light from the first stars in the universe based on data from high-energy radiation, indicating that stars were present at least as early as 500 million years after the "big bang". ](/news/2012/11/1/astronomers-detect-what-appears-to-be-light-from-the-first-stars-in-the-universe-based-on-data-from-high-energy-radiation-indicating-that-s.md)
+### [Astronomers detect what appears to be light from the first stars in the universe based on data from high-energy radiation, indicating that stars were present at least as early as 500 million years after the -big bang-. ](/news/2012/11/1/astronomers-detect-what-appears-to-be-light-from-the-first-stars-in-the-universe-based-on-data-from-high-energy-radiation-indicating-that-s.md)
 Spied for the first time through a cosmic &#034;fog,&#034; tell-tale rays may put us closer to illuminating the early universe&#039;s pitch-black period.
 
 ## [Previous Day...](/news/2012/10/31/index.md)

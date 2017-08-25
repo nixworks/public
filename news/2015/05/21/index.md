@@ -1,12 +1,12 @@
 ## [2015-05-21](/news/2015/05/21/index.md)
 
-### [Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.md)
+### [Islamic State of Iraq and the Levant. Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-of-iraq-and-the-levant-islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-ye.md)
 Islamic State fighters tightened their grip on the historic Syrian city of Palmyra on Thursday and overran Iraqi government defenses east of Ramadi, the provincial capital that they seized five days earlier.
 
 ### [Al-Shabaab militants briefly take over a mosque in Kenya's Garissa County. ](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.md)
 Islamist militants al-Shabab briefly take over a mosque in northern Kenya, preaching for two hours, before disappearing into a nearby forest, locals say.
 
-### [Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. ](/news/2015/05/21/video-interviews-show-that-two-russians-captured-in-ukraine-have-publicly-admitted-to-being-soldiers-in-the-gru-russian-special-forces-the.md)
+### [2014-15 Russian military intervention in Ukraine. Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. ](/news/2015/05/21/2014-15-russian-military-intervention-in-ukraine-video-interviews-show-that-two-russians-captured-in-ukraine-have-publicly-admitted-to-be.md)
 European mediators in the Ukrainian crisis said Thursday that two men captured by Kiev&#x27;s troops had confessed to being members of the Russian armed forces sent in to back up pro-Moscow separatist fighters. The revelation by the Organization for Security and Co-operation in Europe (OSCE) provide...
 
 ### [Robert Gates, the President of the Boy Scouts of America, calls on the movement to end the ban on gay adult leaders and says the movement will no longer revoke the charters of chapters that accept gay male leaders. ](/news/2015/05/21/robert-gates-the-president-of-the-boy-scouts-of-america-calls-on-the-movement-to-end-the-ban-on-gay-adult-leaders-and-says-the-movement-wi.md)
@@ -27,13 +27,13 @@ The source of the outbreak is unknown, but most who fell ill reported eating sus
 ### [Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. ](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.md)
 _Context: Brazilian, blogger_
 
-### [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md)
+### [Death of Freddie Gray. A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/death-of-freddie-gray-a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-p.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [Daron Dylon Wint is arrested in the American capital of Washington D.C. in relation to the murder of four people on May 14. ](/news/2015/05/21/daron-dylon-wint-is-arrested-in-the-american-capital-of-washington-d-c-in-relation-to-the-murder-of-four-people-on-may-14.md)
 _Context: Washington, D.C._
 
-### [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md)
+### [Mexican Drug War. Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-drug-war-mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes.md)
 _Context: Chilapa, Mexican Drug War, Mexican police_
 
 ## [Previous Day...](/news/2015/05/20/index.md)

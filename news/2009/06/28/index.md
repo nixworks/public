@@ -3,7 +3,7 @@
 ### [ The United Kingdom reports its second death from swine flu. ](/news/2009/06/28/the-united-kingdom-reports-its-second-death-from-swine-flu.md)
 _Context: Britain, swine flu_
 
-### [ 2009 Honduran political crisis: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-p-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md)
+### [ 2009 Honduran political crisis:. President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md)
 _Context: Costa Rica, Manuel Zelaya, President, constitutional referendum, removed from office_
 
 ### [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md)

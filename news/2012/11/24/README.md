@@ -15,7 +15,7 @@ About 10,000 people attended an anti-austerity protest in Dublin on Saturday, ac
 ### [Retail analysis says more Americans went out to shop (as opposed to shopping online) on Black Friday, 23 November. However, total sales decreased 1.8% from the previous Black Friday. ](/news/2012/11/24/retail-analysis-says-more-americans-went-out-to-shop-as-opposed-to-shopping-online-on-black-friday-23-november-however-total-sales-decr.md)
 _Context: Black Friday, shopping online_
 
-### [A natural gas explosion in Springfield, Massachusetts levels two buildings and damages others, injuring at least 18 people.  ](/news/2012/11/24/a-natural-gas-explosion-in-springfield-massachusetts-levels-two-buildings-and-damages-others-injuring-at-least-18-people.md)
+### [A natural gas explosion in Springfield, Massachusetts levels two buildings and damages others, injuring at least 18 people. ](/news/2012/11/24/a-natural-gas-explosion-in-springfield-massachusetts-levels-two-buildings-and-damages-others-injuring-at-least-18-people.md)
 _Context: Springfield, explosion, natural gas_
 
 ### [A coal mine accident in Guizhou province, China's southwest, kills eighteen workers and traps five more. ](/news/2012/11/24/a-coal-mine-accident-in-guizhou-province-china-s-southwest-kills-eighteen-workers-and-traps-five-more.md)
@@ -27,7 +27,7 @@ Egyptian judges call for a nationwide strike amid protests against a decree by P
 ### [Palestinian officials announce the body of former leader Yasser Arafat will be exhumed to investigate whether his death in Paris in 2004 was caused by poisoning. ](/news/2012/11/24/palestinian-officials-announce-the-body-of-former-leader-yasser-arafat-will-be-exhumed-to-investigate-whether-his-death-in-paris-in-2004-was.md)
 The body of Palestinian leader is to be exhumed on Tuesday, Palestinian officials announce, for tests to find whether he died of poisoning.
 
-### [''Irish Daily Star'' editor Michael O'Kane resigns over his role in the publication of topless photographs of Catherine, Duchess of Cambridge. ](/news/2012/11/24/irish-daily-star-editor-michael-o-kane-resigns-over-his-role-in-the-publication-of-topless-photographs-of-catherine-duchess-of-cambridg.md)
+### ["Irish Daily Star" editor Michael O'Kane resigns over his role in the publication of topless photographs of Catherine, Duchess of Cambridge. ](/news/2012/11/24/irish-daily-star-editor-michael-o-kane-resigns-over-his-role-in-the-publication-of-topless-photographs-of-catherine-duchess-of-cambridge.md)
 The editor of the Irish Daily Star newspaper resigns over the controversial publication of topless photographs of the Duchess of Cambridge.
 
 ### [Ernest Bai Koroma is re-elected President of Sierra Leone in the general election, held on 17 November. ](/news/2012/11/24/ernest-bai-koroma-is-re-elected-president-of-sierra-leone-in-the-general-election-held-on-17-november.md)

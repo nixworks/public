@@ -1,6 +1,6 @@
 ## [2012-02-2](/news/2012/02/2/index.md)
 
-### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail,  Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-an.md)
+### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
 _Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Zulkifli bin Hir_
 
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -15,7 +15,7 @@ More than 100 people are missing and about 230 are rescued after a ferry sinks o
 ### [More than 110 people are killed across Europe as a result of a recent cold snap. ](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.md)
 _Context: Early 2012 European cold wave, Europe_
 
-### [Australian floods:Thousands of residents of Australian towns Bellingen and Moree, New South Wales are warned to prepare to evacuate as a result of heavy rain. ](/news/2012/02/2/australian-floods-pthousands-of-residents-of-australian-towns-bellingen-and-moree-new-south-wales-are-warned-to-prepare-to-evacuate-as-a-re.md)
+### [Australian floods:. Thousands of residents of Australian towns Bellingen and Moree, New South Wales are warned to prepare to evacuate as a result of heavy rain. ](/news/2012/02/2/australian-floods-thousands-of-residents-of-australian-towns-bellingen-and-moree-new-south-wales-are-warned-to-prepare-to-evacuate-as-a-r.md)
 A disaster situation has been declared for the town of Mitchell in western Queensland, with flood levels predicted to hit nine metres.
 
 ### [The People's Republic of China asks for assistance from South Sudan to obtain the release of 29 Chinese workers held captive in Sudan for five days. ](/news/2012/02/2/the-people-s-republic-of-china-asks-for-assistance-from-south-sudan-to-obtain-the-release-of-29-chinese-workers-held-captive-in-sudan-for-fi.md)

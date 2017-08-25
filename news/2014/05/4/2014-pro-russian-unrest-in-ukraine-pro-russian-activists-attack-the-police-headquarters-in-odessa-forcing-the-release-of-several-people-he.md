@@ -1,0 +1,23 @@
+### [2014-05-4](/news/2014/05/4/index.md)
+
+# 2014 pro-Russian unrest in Ukraine. Pro-Russian activists attack the police headquarters in Odessa, forcing the release of several people held over deadly violence two days before. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-27276120)
+
+### Related:
+
+1. [2014 pro-Russian unrest in Ukraine and the Siege of Sloviansk. The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/2014-pro-russian-unrest-in-ukraine-and-the-siege-of-sloviansk-the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-i.md) _Context: 2014 pro-Russian unrest in Ukraine, Odessa_
+2. [Malaysia Airlines Flight 17; 2014 pro-Russian unrest in Ukraine. Dutch-led investigators say Malaysia Airlines flight MH17 was downed over eastern Ukraine in 2014 by a Buk missile that had come from Russia. ](/news/2016/09/28/malaysia-airlines-flight-17-2014-pro-russian-unrest-in-ukraine-dutch-led-investigators-say-malaysia-airlines-flight-mh17-was-downed-over-e.md) _Context: 2014 pro-Russian unrest in Ukraine_
+3. [At least 16 people are killed near Odessa in the Ukraine after a passenger boat sinks in bad weather. ](/news/2015/10/17/at-least-16-people-are-killed-near-odessa-in-the-ukraine-after-a-passenger-boat-sinks-in-bad-weather.md) _Context: Odessa_
+4. [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general ""persona non grata"" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-unna.md) _Context: Odessa_
+5. [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md) _Context: 2014 pro-Russian unrest in Ukraine_
+6. [2014 pro-Russian unrest in Ukraine. Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/2014-pro-russian-unrest-in-ukraine-kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-fo.md) _Context: 2014 pro-Russian unrest in Ukraine_
+7. [2014 pro-Russian unrest in Ukraine. At least three people die in a new round of fighting between the Armed Forces of Ukraine and pro-Russian separatists. ](/news/2014/11/26/2014-pro-russian-unrest-in-ukraine-at-least-three-people-die-in-a-new-round-of-fighting-between-the-armed-forces-of-ukraine-and-pro-russian.md) _Context: 2014 pro-Russian unrest in Ukraine_
+8. [2014 pro-Russian unrest in Ukraine:. Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/2014-pro-russian-unrest-in-ukraine-voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-resp.md) _Context: 2014 pro-Russian unrest in Ukraine_
+9. [2014 pro-Russian unrest in Ukraine. Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/2014-pro-russian-unrest-in-ukraine-vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-th.md) _Context: 2014 pro-Russian unrest in Ukraine_
+10. [2014 pro-Russian unrest in Ukraine:. The RIA Novosti news agency reports that Russian photojournalist Andrey Stenin has been found dead in Ukraine. It was discovered that he died 4 weeks ago. ](/news/2014/09/3/2014-pro-russian-unrest-in-ukraine-the-ria-novosti-news-agency-reports-that-russian-photojournalist-andrey-stenin-has-been-found-dead-in-u.md) _Context: 2014 pro-Russian unrest in Ukraine_

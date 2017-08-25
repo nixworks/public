@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [A strong 7.9 earthquake strikes between the Nepalese capital Kathmandu and the regional headquarter city of Pokhara. The Government of Nepal declares a state of emergency with 1500 dead. A number of UNESCO World Heritage Sites are destroyed, including the historic Dharahara tower. Deaths are also recorded in India, Bangladesh and the Chinese province of Tibet. ](/news/2015/04/25/a-strong-7-9-earthquake-strikes-between-the-nepalese-capital-kathmandu-and-the-regional-headquarter-city-of-pokhara-the-government-of-nepal.md) _Context: Pokhara_
+1. [April 2015 Nepal earthquake. A strong 7.9 earthquake strikes between the Nepalese capital Kathmandu and the regional headquarter city of Pokhara. The Government of Nepal declares a state of emergency with 1500 dead. A number of UNESCO World Heritage Sites are destroyed, including the historic Dharahara tower. Deaths are also recorded in India, Bangladesh and the Chinese province of Tibet. ](/news/2015/04/25/april-2015-nepal-earthquake-a-strong-7-9-earthquake-strikes-between-the-nepalese-capital-kathmandu-and-the-regional-headquarter-city-of-pok.md) _Context: Pokhara_

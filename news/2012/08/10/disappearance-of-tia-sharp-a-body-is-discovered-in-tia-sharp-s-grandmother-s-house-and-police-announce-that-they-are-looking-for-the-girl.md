@@ -1,6 +1,6 @@
 ### [2012-08-10](/news/2012/08/10/index.md)
 
-# Disappearance of Tia Sharp:  A body is discovered in Tia Sharp's grandmother's house, and police announce that they are looking for the girl's step-grandfather. 
+# Disappearance of Tia Sharp: A body is discovered in Tia Sharp's grandmother's house, and police announce that they are looking for the girl's step-grandfather. 
 
 The week-long search for a missing schoolgirl takes a dramatic turn after police search her grandmother&#039;s house.
 

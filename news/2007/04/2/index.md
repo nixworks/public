@@ -1,6 +1,6 @@
 ## [2007-04-2](/news/2007/04/2/index.md)
 
-### [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for  parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections.md)
+### [ President of Ukraine Viktor Yushchenko dissolves the parliament during a nationally televised speech, calling for parliamentary elections on 27 May 2007. ](/news/2007/04/2/president-of-ukraine-viktor-yushchenko-dissolves-the-parliament-during-a-nationally-televised-speech-calling-for-parliamentary-elections-o.md)
 _Context: Ukrainian President, Ukrainian parliamentary election, 2007, Verkhovna Rada, Viktor Yushchenko_
 
 ### [ India's Foreign Secretary, Shivshankar Menon, says that Iran is likely to get an observer status in the South Asian Association for Regional Cooperation. ](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.md)

@@ -1,6 +1,6 @@
 ### [2012-06-21](/news/2012/06/21/index.md)
 
-# Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future  
+# Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future 
 
 
 

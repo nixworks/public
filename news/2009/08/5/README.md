@@ -9,10 +9,10 @@ _Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
 _Context: Asia, Corazon Aquino, Philippines, President of the Philippines, first female_
 
-### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
+### [ Brazilian President Lula da Silva says his country is -now advising the International Monetary Fund, IMF-. ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-now-advising-the-international-monetary-fund-imf.md)
 President Lula da Silva said that Brazil is climbing out, and strengthened, from the deep global financial crisis and underlined that &ldquo;Brazil is now advising the International Monetary Fund, IMF&rdquo;.
 
-### [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the "Pinochetistas" in Chile and the "fascist right" in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-apinochetistasa-in-chile-and-the-afascist-r.md)
+### [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the -Pinochetistas- in Chile and the -fascist right- in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-pinochetistas-in-chile-and-the-fascist-r.md)
 Bolivian president Evo Morales said he was quite concerned with the possibility that the &ldquo;Pinochetistas&rdquo; in Chile and the &ldquo;fascist right&rdquo; in Argentina could win the general elections in those countries, according to the country&rsquo;s government news agency, ABI.
 
 ### [ Iraq's government announces that all Bremer walls will be removed from Baghdad within forty days. ](/news/2009/08/5/iraq-s-government-announces-that-all-bremer-walls-will-be-removed-from-baghdad-within-forty-days.md)
@@ -27,7 +27,7 @@ _Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, United States, detain
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
 
-### [ A dog featured in an American film called ''I Love You, Man'', which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads.md)
+### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
 _Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, United States, blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
@@ -42,10 +42,10 @@ _Context: Australia, suicide bombing_
 ### [ Ireland's Health Service Executive threatens several pharmacies with High Court injunctions if they do not adhere with their contracts to dispense drugs. ](/news/2009/08/5/ireland-s-health-service-executive-threatens-several-pharmacies-with-high-court-injunctions-if-they-do-not-adhere-with-their-contracts-to-d.md)
 The HSE says it has written to a number of pharmacies warning them of possible High Court injunctions to compel them to adhere&hellip;
 
-### [ Part-nationalised UK lender Lloyds Banking Group reports pre-tax losses of PS4 billion for the first half of this year. ](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group-reports-pre-tax-losses-of-aps4-billion-for-the-first-half-of-this-year.md)
+### [ Part-nationalised UK lender Lloyds Banking Group reports pre-tax losses of GBP4 billion for the first half of this year. ](/news/2009/08/5/part-nationalised-uk-lender-lloyds-banking-group-reports-pre-tax-losses-of-agbp4-billion-for-the-first-half-of-this-year.md)
 _Context: Lloyds Banking Group_
 
-### [ Chansa Kabwela, the news editor of the ''The Post'', goes on trial in Zambia after being accused of distributing obscene images. ](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.md)
+### [ Chansa Kabwela, the news editor of the "The Post", goes on trial in Zambia after being accused of distributing obscene images. ](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.md)
 _Context: Zambia_
 
 ### [ Police fire teargas at protesters rallying in support of Lubna al-Hussein, the Sudanese woman facing 40 lashes for wearing trousers in public. ](/news/2009/08/5/police-fire-teargas-at-protesters-rallying-in-support-of-lubna-al-hussein-the-sudanese-woman-facing-40-lashes-for-wearing-trousers-in-publ.md)
@@ -75,10 +75,10 @@ _Context: Belgium, Stefaan De Clerck_
 ### [ Former Argentine President Fernando de la Rua is indicted in a bribery case. ](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.md)
 The Argentine Federal Appeals court has confirmed the indictment of ex-president Fernando de la R&uacute;a in a case linking the former Radical president to the payment of bribes at the Senate in 2000 and which ended with a major political crisis.
 
-### [ Former Lieutenant Governor of the Northern Mariana Islands  Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corru.md)
+### [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corrup.md)
 _Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, anti-corruption_
 
-### [ Thirty-three people are reported missing following the sinking of the ''Princess Ashika'' ferry in Tonga. ](/news/2009/08/5/thirty-three-people-are-reported-missing-following-the-sinking-of-the-princess-ashika-ferry-in-tonga.md)
+### [ Thirty-three people are reported missing following the sinking of the "Princess Ashika" ferry in Tonga. ](/news/2009/08/5/thirty-three-people-are-reported-missing-following-the-sinking-of-the-princess-ashika-ferry-in-tonga.md)
 _Context: Princess Ashika, Tonga, ferry_
 
 ## [Previous Day...](/news/2009/08/4/index.md)

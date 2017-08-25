@@ -6,7 +6,7 @@ A British security consultant kidnapped six days ago by gunmen in Somalia has de
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
 _Context: Britain, JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, boyband, hip hop_
 
-### [French strikesFrance braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikespfrance-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-we.md)
+### [French strikes. France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikes-france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-w.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
@@ -37,7 +37,7 @@ _Context: Jos Luis Rodrguez Zapatero, Spain_
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
 _Context: Guinea, November's presidential poll_
 
-### [In the United Kingdom, Chancellor George Osborne outlines a Comprehensive Spending Review which will see the biggest spending cuts in decades, totalling 81bn, with welfare, local government and police particularly affected. ](/news/2010/10/20/in-the-united-kingdom-chancellor-george-osborne-outlines-a-comprehensive-spending-review-which-will-see-the-biggest-spending-cuts-in-decade.md)
+### [In the United Kingdom, Chancellor George Osborne outlines a Comprehensive Spending Review which will see the biggest spending cuts in decades, totalling GBP81bn, with welfare, local government and police particularly affected. ](/news/2010/10/20/in-the-united-kingdom-chancellor-george-osborne-outlines-a-comprehensive-spending-review-which-will-see-the-biggest-spending-cuts-in-decade.md)
 George Osborne unveils the biggest spending cuts in decades - with welfare, councils and police all hit.
 
 ### [The Obama administration notifies the United States Congress of plans for a $60billion-dollar weapons deal with Saudi Arabia in a move to threaten Iran. ](/news/2010/10/20/the-obama-administration-notifies-the-united-states-congress-of-plans-for-a-60billion-dollar-weapons-deal-with-saudi-arabia-in-a-move-to-th.md)

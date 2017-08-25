@@ -12,7 +12,7 @@ Iran&#39;s ambassador to Moscow says Russia could build the Islamic republic a s
 
 ### Related:
 
-1. [Negotiations between Iran and Russia regarding the building of two additional nuclear reactors at Iran's Bushehr power plant take place.  ](/news/2014/05/22/negotiations-between-iran-and-russia-regarding-the-building-of-two-additional-nuclear-reactors-at-iran-s-bushehr-power-plant-take-place.md) _Context: Bushehr power plant_
+1. [Negotiations between Iran and Russia regarding the building of two additional nuclear reactors at Iran's Bushehr power plant take place. ](/news/2014/05/22/negotiations-between-iran-and-russia-regarding-the-building-of-two-additional-nuclear-reactors-at-iran-s-bushehr-power-plant-take-place.md) _Context: Bushehr power plant_
 2. [Ali Akbar Salehi, the Foreign Affairs Minister of Iran, claims that the Bushehr Nuclear Power Plant is operational. ](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.md) _Context: Bushehr power plant_
 3. [Rosatom, the Russian state nuclear energy corporation, explains that the Bushehr Nuclear Power Plant has been delayed in opening due to damage to the nuclear reactor's cooling pumps. ](/news/2011/02/28/rosatom-the-russian-state-nuclear-energy-corporation-explains-that-the-bushehr-nuclear-power-plant-has-been-delayed-in-opening-due-to-dama.md) _Context: Bushehr power plant_
 4. [The Government of Iran advises the International Atomic Energy Agency of serious problems with its Bushehr Nuclear Power Plant. ](/news/2011/02/25/the-government-of-iran-advises-the-international-atomic-energy-agency-of-serious-problems-with-its-bushehr-nuclear-power-plant.md) _Context: Bushehr power plant_

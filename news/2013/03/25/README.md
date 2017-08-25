@@ -1,12 +1,12 @@
 ## [2013-03-25](/news/2013/03/25/index.md)
 
-### [2012-13 Central African Republic conflict:Seleka chief Michel Djotodia declares himself President of the Central African Republic and promises to retain power-sharing government as part of peace deal and put end to looting. ](/news/2013/03/25/2012a13-central-african-republic-conflict-pseleka-chief-michel-djotodia-declares-himself-president-of-the-central-african-republic-and-pro.md)
+### [2012-13 Central African Republic conflict:. Seleka chief Michel Djotodia declares himself President of the Central African Republic and promises to retain power-sharing government as part of peace deal and put end to looting. ](/news/2013/03/25/2012-13-central-african-republic-conflict-seleka-chief-michel-djotodia-declares-himself-president-of-the-central-african-republic-and-pr.md)
 Presidency confirms ousted leader Francois Bozize has sought temporary refuge after rebels take hold of capital Bangui.
 
-### [Syrian civil war:Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-prebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md)
+### [Syrian civil war:. Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md)
 Officials say National Coalition will represent Syria in upcoming pan-Arab summit, as regional leaders arrive in Doha.
 
-### [2012-2013 Cypriot financial crisis:Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012a2013-cypriot-financial-crisis-pcyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europe.md)
+### [2012-2013 Cypriot financial crisis:. Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012-2013-cypriot-financial-crisis-cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europ.md)
 Cyprus reached an outline deal with international lenders for a 10 billion euro ($13 billion) bailout that would shut down its second largest bank and inflict heavy losses on uninsured depositors, an EU spokesman said early on Monday.
 
 ### [Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. ](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.md)
@@ -36,7 +36,7 @@ _Context: Afghanistan President, Hamid Karzai, John Kerry, United States Secreta
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
 _Context: European Union, Japan, free trade_
 
-### [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md)
+### [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md)
 _Context: British media, Daily Mail, Lucy Meadows, primary school, teacher_
 
 ### [Six people are wounded during a stabbing attack at a Target store in Pittsburgh, Pennsylvania, United States. A 41-year-old homeless man was arrested. ](/news/2013/03/25/six-people-are-wounded-during-a-stabbing-attack-at-a-target-store-in-pittsburgh-pennsylvania-united-states-a-41-year-old-homeless-man-was.md)

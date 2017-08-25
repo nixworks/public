@@ -9,7 +9,7 @@ _Context: Afghanistan's, NATO_
 ### [Ethnic clashes in southern Ethiopia lead to the killing of at least 18 people and wounding of 12 others. ](/news/2012/07/28/ethnic-clashes-in-southern-ethiopia-lead-to-the-killing-of-at-least-18-people-and-wounding-of-12-others.md)
 Deadly clashes between two communities in southern Ethiopia cause 20,000 people to flee across the border into Kenya, the Red Cross says.
 
-### [The sunken German U-Boat ''U-550'' is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
+### [The sunken German U-Boat "U-550" is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
 _Context: Germany, Massachusetts, U-550, United States_
 
 ### [Andriy Shevchenko announces his retirement from football in order to go into politics. ](/news/2012/07/28/andriy-shevchenko-announces-his-retirement-from-football-in-order-to-go-into-politics.md)

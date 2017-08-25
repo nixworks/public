@@ -33,7 +33,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 ### [ Mexico decriminalises the use of small amounts of marijuana, cocaine, heroin and other drugs for "personal use". ](/news/2009/08/21/mexico-decriminalises-the-use-of-small-amounts-of-marijuana-cocaine-heroin-and-other-drugs-for-personal-use.md)
 Small-scale possession is decriminalised as part of attempt to focus on traffickers.
 
-### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya.  ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
+### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya. ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
 _Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, president_
 
 ### [ A 34-year-old Tunisian woman from Gafsa, thought to have been pregnant with 12 babies and whose story had attracted international attention, is determined to have been the victim of a phantom pregnancy. ](/news/2009/08/21/a-34-year-old-tunisian-woman-from-gafsa-thought-to-have-been-pregnant-with-12-babies-and-whose-story-had-attracted-international-attention.md)

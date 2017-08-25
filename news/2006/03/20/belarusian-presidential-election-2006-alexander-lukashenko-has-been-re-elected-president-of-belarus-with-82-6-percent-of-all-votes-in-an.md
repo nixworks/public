@@ -1,6 +1,6 @@
 ### [2006-03-20](/news/2006/03/20/index.md)
 
-#  Belarusian presidential election, 2006: Alexander Lukashenko has been re-elected president of Belarus with 82.6 percent of all votes, in an election which is considered by many to have been rigged. The Organization for Security and Co-operation in Europe, which monitored the election, concluded that the presidential election failed to meet OSCE commitments for democratic elections. 
+#  Belarusian presidential election, 2006: Alexander Lukashenko has been re-elected president of Belarus with 82.6 percent of all votes, in an election which is considered by many to have been rigged.. The Organization for Security and Co-operation in Europe, which monitored the election, concluded that the presidential election failed to meet OSCE commitments for democratic elections. 
 
 
 

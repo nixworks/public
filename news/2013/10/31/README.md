@@ -1,6 +1,6 @@
 ## [2013-10-31](/news/2013/10/31/index.md)
 
-### [Israeli-Palestinian conflict:After having rocks hurled at them, Israeli troops respond and shoot dead a Palestinian man in the West Bank. ](/news/2013/10/31/israeliapalestinian-conflict-pafter-having-rocks-hurled-at-them-israeli-troops-respond-and-shoot-dead-a-palestinian-man-in-the-west-bank.md)
+### [Israeli-Palestinian conflict:. After having rocks hurled at them, Israeli troops respond and shoot dead a Palestinian man in the West Bank. ](/news/2013/10/31/israeli-palestinian-conflict-after-having-rocks-hurled-at-them-israeli-troops-respond-and-shoot-dead-a-palestinian-man-in-the-west-bank.md)
 Israeli troops shot dead a Palestinian during a clash in the occupied West Bank on Thursday, Palestinian witnesses and medical officials said.
 
 ### [The United States FAA relents and permits limited use of electronic gadgets on planes. ](/news/2013/10/31/the-united-states-faa-relents-and-permits-limited-use-of-electronic-gadgets-on-planes.md)

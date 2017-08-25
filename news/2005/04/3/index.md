@@ -6,7 +6,7 @@ _Context: Abu Ghraib, Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, US army
 ### [ Various world leaders express their condolences for the death of Pope John Paul II, including Queen Elizabeth II, John Howard, Tony Blair, George W. Bush, Carlo Azeglio Ciampi and Lawrence Gonzi. ](/news/2005/04/3/various-world-leaders-express-their-condolences-for-the-death-of-pope-john-paul-ii-including-queen-elizabeth-ii-john-howard-tony-blair.md)
 _Context: Carlo Azeglio Ciampi, George W. Bush, John Howard, Lawrence Gonzi, Pope John Paul II, Queen Elizabeth, Tony Blair_
 
-### [ Pope John Paul II lies in state in the Clementine Room of the Apostolic Palace for a private viewing, a ceremony to confirm and certify the death of the ''Pontifex Maximus''. ](/news/2005/04/3/pope-john-paul-ii-lies-in-state-in-the-clementine-room-of-the-apostolic-palace-for-a-private-viewing-a-ceremony-to-confirm-and-certify-the.md)
+### [ Pope John Paul II lies in state in the Clementine Room of the Apostolic Palace for a private viewing, a ceremony to confirm and certify the death of the "Pontifex Maximus". ](/news/2005/04/3/pope-john-paul-ii-lies-in-state-in-the-clementine-room-of-the-apostolic-palace-for-a-private-viewing-a-ceremony-to-confirm-and-certify-the.md)
 _Context: Pope, Pope John Paul II, Vatican, death, state funeral_
 
 ### [ Deposed president of Kyrgyzstan Askar Akayev agrees to officially resign. ](/news/2005/04/3/deposed-president-of-kyrgyzstan-askar-akayev-agrees-to-officially-resign.md)
@@ -21,7 +21,7 @@ _Context: Angola, Italian, Marburg virus, Uige_
 ### [ In Thailand, two bombs explode in Hat Yai and one in Songkhla. Two are dead and dozens injured. ](/news/2005/04/3/in-thailand-two-bombs-explode-in-hat-yai-and-one-in-songkhla-two-are-dead-and-dozens-injured.md)
 _Context: Hat Yai, Songkhla, Thailand_
 
-### [ WWE presents ''WrestleMania 21'' in Hollywood, California](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.md)
+### [ WWE presents "WrestleMania 21" in Hollywood, California](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.md)
 _Context: Hollywood, World Wrestling Entertainment, WrestleMania 21_
 
 ## [Previous Day...](/news/2005/04/2/index.md)

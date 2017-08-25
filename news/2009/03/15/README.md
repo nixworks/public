@@ -1,6 +1,6 @@
 ## [2009-03-15](/news/2009/03/15/index.md)
 
-### [ Space Shuttle ''Discovery'' successfully launches from the Kennedy Space Center in Florida. ](/news/2009/03/15/space-shuttle-discovery-successfully-launches-from-the-kennedy-space-center-in-florida.md)
+### [ Space Shuttle "Discovery" successfully launches from the Kennedy Space Center in Florida. ](/news/2009/03/15/space-shuttle-discovery-successfully-launches-from-the-kennedy-space-center-in-florida.md)
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle, lands_
 
 ### [ More than 500 Zenit St. Petersburg fans are arrested in Moscow after a riot during a Russian Premier League match with Spartak Moscow. ](/news/2009/03/15/more-than-500-zenit-st-petersburg-fans-are-arrested-in-moscow-after-a-riot-during-a-russian-premier-league-match-with-spartak-moscow.md)
@@ -21,7 +21,7 @@ _Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minis
 ### [ An Iraqi footballer is shot and killed during a game in Al Hillah. ](/news/2009/03/15/an-iraqi-footballer-is-shot-and-killed-during-a-game-in-al-hillah.md)
 _Context: Al Hillah, Iraq, association football_
 
-### [ Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada.  ](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-riot-against-police-brutality-in-montreal-canada.md)
+### [ Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada. ](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-riot-against-police-brutality-in-montreal-canada.md)
 _Context: Canada, Montreal, police brutality, protest, riot_
 
 ## [Previous Day...](/news/2009/03/14/index.md)

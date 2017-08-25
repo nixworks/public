@@ -1,6 +1,6 @@
 ### [2007-04-3](/news/2007/04/3/index.md)
 
-#  Diego Gasques wins the 7th edition of ''Big Brother Brasil''. 
+#  Diego Gasques wins the 7th edition of "Big Brother Brasil". 
 
 
 

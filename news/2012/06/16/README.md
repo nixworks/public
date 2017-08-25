@@ -1,6 +1,6 @@
 ## [2012-06-16](/news/2012/06/16/index.md)
 
-### [Syrian uprising (2011-present):The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-pthe-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
+### [Syrian uprising (2011-present):. The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
 UN observers in Syria suspend their activities because of the escalating violence, the head of the UN Stabilisation Mission in Syria says.
 
 ### [At least 32 people are killed in a car bomb attack targeting Shia Muslims in the Iraqi capital, Baghdad. ](/news/2012/06/16/at-least-32-people-are-killed-in-a-car-bomb-attack-targeting-shia-muslims-in-the-iraqi-capital-baghdad.md)
@@ -9,7 +9,7 @@ Two separate car bomb attacks targeting Shia Muslim pilgrims in the Iraqi capita
 ### [A bomb explodes in the Pakistani town of Landi Kotal, killing at least thirteen people. ](/news/2012/06/16/a-bomb-explodes-in-the-pakistani-town-of-landi-kotal-killing-at-least-thirteen-people.md)
 A bomb in a pickup truck killed at least 26 people at a market in northwest Pakistan on Saturday and wounded 65, security and hospital officials said, in one of the largest bombing death tolls in weeks.
 
-### [Burmese politician Aung San Suu Kyi personally accepts the Nobel Peace Prize, 21 years after she was awarded the prize ''in absentia''. ](/news/2012/06/16/burmese-politician-aung-san-suu-kyi-personally-accepts-the-nobel-peace-prize-21-years-after-she-was-awarded-the-prize-in-absentia.md)
+### [Burmese politician Aung San Suu Kyi personally accepts the Nobel Peace Prize, 21 years after she was awarded the prize "in absentia". ](/news/2012/06/16/burmese-politician-aung-san-suu-kyi-personally-accepts-the-nobel-peace-prize-21-years-after-she-was-awarded-the-prize-in-absentia.md)
 The Myanmar activist said the prize helped her keep going in captivity.
 
 ### [Actors Kenneth Branagh and Kate Winslet and singer Gary Barlow are among those recognised in the Queen's Birthday Honours. ](/news/2012/06/16/actors-kenneth-branagh-and-kate-winslet-and-singer-gary-barlow-are-among-those-recognised-in-the-queen-s-birthday-honours.md)

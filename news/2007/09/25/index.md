@@ -12,7 +12,7 @@ _Context: Magna Carta, Sotheby's_
 ### [ The Parliament of Lebanon adjourns a session to elect a new President of Lebanon until 23 October 2007. ](/news/2007/09/25/the-parliament-of-lebanon-adjourns-a-session-to-elect-a-new-president-of-lebanon-until-23-october-2007.md)
 _Context: Lebanese lawmakers, President of Lebanon_
 
-### [ 2007 Burmese anti-government protests: Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/2007-burmese-anti-government-protests-p-approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-thre.md)
+### [ 2007 Burmese anti-government protests:. Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/2007-burmese-anti-government-protests-approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-thre.md)
 _Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, Yangon, junta_
 
 ### [ The highly anticipated Halo 3 was released for the Xbox 360.](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.md)
@@ -31,7 +31,7 @@ _Context: 2002 Bali bombings, Imam Samudra, Indonesia, Mukhlas, Supreme Court_
 ### [ 73,000 United Auto Workers union workers go on strike against General Motors, the first general strike against the company in 37 years. Talks between the parties continued. ](/news/2007/09/25/73-000-united-auto-workers-union-workers-go-on-strike-against-general-motors-the-first-general-strike-against-the-company-in-37-years-tal.md)
 _Context: General Motors, United Auto Workers, strike_
 
-### [ Warren Jeffs, leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is found guilty of two counts of rape in the U.S. state of Utah.  ](/news/2007/09/25/warren-jeffs-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-found-guilty-of-two-counts-of-rape-in-the-u-s-s.md)
+### [ Warren Jeffs, leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is found guilty of two counts of rape in the U.S. state of Utah. ](/news/2007/09/25/warren-jeffs-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-found-guilty-of-two-counts-of-rape-in-the-u-s-s.md)
 _Context: FLDS Church, U.S. state, Utah, Warren Jeffs_
 
 ### [ In his speech to the United Nations General Assembly, Iranian President Mahmoud Ahmadinejad reiterates his assertion that his county's nuclear program has been "peaceful and transparent" and criticizes the "illegal" UN sanctions imposed by "arrogant" members of the Security Council. ](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.md)

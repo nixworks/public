@@ -6,7 +6,7 @@ _Context: Israel, Jericho, Mahmoud Abbas, Palestinian Authority_
 ### [ Anti-fascist protesters in the center of Riga, Latvia, end up in custody after trying to stop the annual march of Waffen-SS veterans and young radical nationalists. ](/news/2005/03/16/anti-fascist-protesters-in-the-center-of-riga-latvia-end-up-in-custody-after-trying-to-stop-the-annual-march-of-waffen-ss-veterans-and-yo.md)
 _Context: Latvia, Riga, Waffen-SS_
 
-### [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces.  ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md)
+### [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md)
 _Context: Aslan Maskhadov, Chechnya, Russia, US$_
 
 ### [ President of Bolivia Carlos Mesa has asked the country's congress to approve early elections in August to replace him to "prevent bloodbath". There are still widespread opposition protests against his economic policies. ](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.md)

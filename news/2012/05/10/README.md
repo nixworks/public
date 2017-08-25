@@ -9,16 +9,16 @@ _Context: Ja'ar, Yemen, al-Qaeda_
 ### [The International Committee of the Red Cross suspends all humanitarian work in Pakistan after a worker was kidnapped and killed. ](/news/2012/05/10/the-international-committee-of-the-red-cross-suspends-all-humanitarian-work-in-pakistan-after-a-worker-was-kidnapped-and-killed.md)
 _Context: International Committee of the Red Cross, Pakistan_
 
-### [''Sleeping Girl'', a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-licht.md)
+### ["Sleeping Girl", a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. ](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-roy-lichtenstein-sells-at-auction-for-us-44-9-million-setting-a-new-record-for-a-lichten.md)
 A work by Pop Art icon Roy Lichtenstein sells for a record $45 million at a New York auction that also sees an Andy Warhol portrait of Elvis Presley go under the hammer.
 
-### [''Figure Writing Reflected in a Mirror'', a painting by Francis Bacon, sells at auction for US$44.9 million in New York. ](/news/2012/05/10/figure-writing-reflected-in-a-mirror-a-painting-by-francis-bacon-sells-at-auction-for-us-44-9-million-in-new-york.md)
+### ["Figure Writing Reflected in a Mirror", a painting by Francis Bacon, sells at auction for US$44.9 million in New York. ](/news/2012/05/10/figure-writing-reflected-in-a-mirror-a-painting-by-francis-bacon-sells-at-auction-for-us-44-9-million-in-new-york.md)
 A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheby&#39;s in New York last night, capping a week of breathtaking sales in the luxury art market.
 
 ### [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md)
 _Context: Art Spiegelman, Fifth Avenue, Mario Vargas Llosa, New York Public Library, Salman Rushdie_
 
-### [British public sector protests:As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/british-public-sector-protests-pas-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-pro.md)
+### [British public sector protests:. As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/british-public-sector-protests-as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-pr.md)
 Public sector workers are taking part in a 24-hour UK-wide strike over pensions, but the government insists it has made them a &quot;generous offer&quot;.
 
 ### [An Air India industrial dispute escalates, with over 20 flights cancelled. ](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.md)
@@ -42,7 +42,7 @@ _Context: Australia, Prime Minister of Vanuatu, Vanuatu, police_
 ### [London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. ](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.md)
 _Context: London, Metropolitan Police_
 
-### [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct ''News of the World'' tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tablo.md)
+### [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct "News of the World" tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tabloid.md)
 Inquiry looking into press standards told ex-editor of News of the World tabloid did not have full security clearance.
 
 ### [In Greece, Evangelos Venizelos of the Pasok party makes a third effort to create a coalition government, amid increasing political and economic turmoil in the country. ](/news/2012/05/10/in-greece-evangelos-venizelos-of-the-pasok-party-makes-a-third-effort-to-create-a-coalition-government-amid-increasing-political-and-econo.md)

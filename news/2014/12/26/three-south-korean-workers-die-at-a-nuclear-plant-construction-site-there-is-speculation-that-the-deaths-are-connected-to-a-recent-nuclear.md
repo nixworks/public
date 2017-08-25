@@ -1,6 +1,6 @@
 ### [2014-12-26](/news/2014/12/26/index.md)
 
-# Three South Korean workers die at a nuclear plant construction site. There is speculation that the deaths are connected to a recent nuclear power plant attack.  
+# Three South Korean workers die at a nuclear plant construction site. There is speculation that the deaths are connected to a recent nuclear power plant attack. 
 
 Three South Korean workers have died after apparently inhaling toxic gas at a construction site for a new nuclear plant.
 

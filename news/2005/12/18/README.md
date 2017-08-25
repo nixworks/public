@@ -15,7 +15,7 @@ _Context: Bolivia, Evo Morales, Jorge Quiroga, National Congress of Bolivia, Pre
 ### [ 42 people die following a stampede in the Indian city of Chennai. ](/news/2005/12/18/42-people-die-following-a-stampede-in-the-indian-city-of-chennai.md)
 _Context: Chennai, India_
 
-### [ Bono, Melinda Gates and Bill Gates are named ''Time'''s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md)
+### [ Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md)
 _Context: Bill Gates, Bono, Melinda, Person of the Year, Time_
 
 ### [ U.S. Vice President Dick Cheney is on a trip to various countries including Oman, Afghanistan, Pakistan, Egypt and Saudi Arabia. He made a surprise stop to Iraq today. [http://news.yahoo.com/s/ap/20051218/ap_on_re_mi_ea/cheney_iraq (Yahoo! News)] (Link dead as of 22:48, 14 January 2007 (UTC)), [http://www.alertnet.org/thenews/newsdesk/L18757872.htm (Reuters)] (Link dead as of 22:48, 14 January 2007 (UTC))](/news/2005/12/18/u-s-vice-president-dick-cheney-is-on-a-trip-to-various-countries-including-oman-afghanistan-pakistan-egypt-and-saudi-arabia-he-made-a.md)
@@ -24,13 +24,13 @@ _Context: Afghanistan's, Dick Cheney, Egypt, Iraq, Oman, Pakistan, Saudi Arabia,
 ### [ Philippines finish in 5th place in the medal tally for the 2005 ASEAN Para Games in the Philippines. Thailand finishes with 84 golds, followed by Malaysia. ](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.md)
 _Context: 2005 ASEAN Para Games, Malaysia, Philippines, Thailand_
 
-### [ The prime minister of Israel Ariel Sharon is transferred to the Hadassah Ein Kerem hospital in Jerusalem after suffering a minor stroke. Meanwhile, some Palestinians have taken to the streets in Gaza to celebrate Sharon's health condition and the Kahane organisation has urged Jews to pray for his death. ](/news/2005/12/18/the-prime-minister-of-israel-ariel-sharon-is-transferred-to-the-hadassah-ein-kerem-hospital-in-jerusalem-after-suffering-a-minor-stroke-me.md)
-(Video) PM evacuated to Hadassah Ein Kerem hospital after suffering mild stroke; sources say his condition not serious. Deputy Prime Minister Ehud Olmert on standby to assume control if needed; Sharon: &#39;I feel much better. I&#39;m fine. I&#39;m sorry for bothering the whole hospital&#39;
+### [ The prime minister of Israel Ariel Sharon is transferred to the Hadassah Ein Kerem hospital in Jerusalem after suffering a minor stroke. Meanwhile, some Palestinians have taken to the streets in Gaza to celebrate Sharon's health condition and the Kahane organisation has urged Jews to pray for his death. [http://www.ynetnews.com/articles/0,7340,L-3186378,00.html (Ynetnews)] (Wikinews)](/news/2005/12/18/the-prime-minister-of-israel-ariel-sharon-is-transferred-to-the-hadassah-ein-kerem-hospital-in-jerusalem-after-suffering-a-minor-stroke-me.md)
+_Context: (Wikinews), Ariel Sharon, Gaza Strip, Hadassah Ein Kerem hospital, Israeli Prime Minister, Jerusalem, Jew, Kahane, Palestinians, stroke_
 
-### [ Sao Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sapso-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
-_Context: FIFA Club World Championship, Japan, Liverpool, Sao Paulo, Yokohama_
+### [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
+_Context: FIFA Club World Championship, Japan, Liverpool, SGBPo Paulo, Yokohama_
 
-### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq -- we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-a-we.md)
+### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq - we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-we.md)
 _Context: George W. Bush, Iraq War, Oval Office, President_
 
 ## [Previous Day...](/news/2005/12/17/index.md)

@@ -1,6 +1,6 @@
 ## [2014-05-4](/news/2014/05/4/index.md)
 
-### [Pro-Russian activists attack the police headquarters in Odessa, forcing the release of several people held over deadly violence two days before. ](/news/2014/05/4/pro-russian-activists-attack-the-police-headquarters-in-odessa-forcing-the-release-of-several-people-held-over-deadly-violence-two-days-bef.md)
+### [2014 pro-Russian unrest in Ukraine. Pro-Russian activists attack the police headquarters in Odessa, forcing the release of several people held over deadly violence two days before. ](/news/2014/05/4/2014-pro-russian-unrest-in-ukraine-pro-russian-activists-attack-the-police-headquarters-in-odessa-forcing-the-release-of-several-people-he.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Odessa_
 
 ### [The Government of Afghanistan declares a day of national mourning for the victims of the mudslides. ](/news/2014/05/4/the-government-of-afghanistan-declares-a-day-of-national-mourning-for-the-victims-of-the-mudslides.md)
@@ -12,13 +12,13 @@ At least 13 people were killed when an illegal bridge under construction collaps
 ### [A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. ](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.md)
 _Context: India, Maharashtra, Raigad district, derailment_
 
-### [Murder of Jean McConville and Arrest of Gerry Adams:Northern Ireland's First Minister Peter Robinson accuses Sinn Fin of attempting to blackmail the Police Service of Northern Ireland over the arrest of Gerry Adams. ](/news/2014/05/4/murder-of-jean-mcconville-and-arrest-of-gerry-adams-pnorthern-ireland-s-first-minister-peter-robinson-accuses-sinn-fein-of-attempting-to-bla.md)
+### [Murder of Jean McConville and Arrest of Gerry Adams:. Northern Ireland's First Minister Peter Robinson accuses Sinn Fin of attempting to blackmail the Police Service of Northern Ireland over the arrest of Gerry Adams. ](/news/2014/05/4/murder-of-jean-mcconville-and-arrest-of-gerry-adams-northern-ireland-s-first-minister-peter-robinson-accuses-sinn-fein-of-attempting-to-bl.md)
 Sinn Féin leader Gerry Adams has insisted he was not involved in the murder of Jean McConville, following his release from police custody this evening.
 
-### [''The Sunday Herald'' becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-i.md)
+### ["The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.md)
 The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot; vote in the Scottish independence referendum.
 
-### [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md)
+### [Panamanian general election, 2014. Voters in Panama go to the polls for a general election. ](/news/2014/05/4/panamanian-general-election-2014-voters-in-panama-go-to-the-polls-for-a-general-election.md)
 _Context: Panama, Panamanian general election, 2014_
 
 ## [Previous Day...](/news/2014/05/3/index.md)

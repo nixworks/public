@@ -12,7 +12,7 @@ _Context: Puntland, Said Mohamed Rageh, Somali pirates_
 ### [Iran's Fars News Agency (FNA) announces that 18 people were killed in a blast at one of the Revolutionary Guards' bases in Luristan Province. ](/news/2010/10/13/iran-s-fars-news-agency-fna-announces-that-18-people-were-killed-in-a-blast-at-one-of-the-revolutionary-guards-bases-in-luristan-province.md)
 _Context: Fars News Agency, Iran, Luristan Province, Revolutionary Guards_
 
-### [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
+### [War in Afghanistan. 8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/war-in-afghanistan-8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
 _Context: War in Afghanistan_
 
 ### [10 people, including three women, are injured in a clash between two groups at Kaserwa in Uttar Pradesh, India. ](/news/2010/10/13/10-people-including-three-women-are-injured-in-a-clash-between-two-groups-at-kaserwa-in-uttar-pradesh-india.md)
@@ -27,7 +27,7 @@ _Context: France_
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
 _Context: A$, US$_
 
-### [The US government rules out a  moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hur.md)
+### [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hurt.md)
 The Obama administration rejected calls for a nationwide moratorium on housing foreclosures amid fears that such a move could cripple an already slow recovery of the U.S. housing market.
 
 ### [An unknown pornographic actor has tested positive for HIV, with Wicked Pictures and Vivid Entertainment halting production. ](/news/2010/10/13/an-unknown-pornographic-actor-has-tested-positive-for-hiv-with-wicked-pictures-and-vivid-entertainment-halting-production.md)

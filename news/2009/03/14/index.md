@@ -12,7 +12,7 @@ _Context: Auckland City, New Zealand, Pasifika Festival_
 ### [ A Vietnamese cargo ship sinks in the South China Sea, killing three people. ](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.md)
 _Context: South China Sea, Vietnam, cargo ship_
 
-### [ Maritime Self-Defense Force destroyers ''Sazanami'' and ''Samidare'' depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
+### [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
 _Context: Japan, Japanese Navy, Samidare, Sazanami, Somali pirates, Somalia, destroyer_
 
 ### [ Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. ](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.md)

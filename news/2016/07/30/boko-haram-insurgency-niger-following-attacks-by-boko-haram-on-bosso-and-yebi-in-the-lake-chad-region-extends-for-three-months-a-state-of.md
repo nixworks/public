@@ -1,0 +1,23 @@
+### [2016-07-30](/news/2016/07/30/index.md)
+
+# Boko Haram insurgency. Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. 
+
+Niger has extended a state of emergency in the southeastern region of Diffa for three months after a series of attacks by Boko Haram, the government said late on Friday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-nigeria-security-niger-idUSKCN10A0CG?il=0)
+
+### Related:
+
+1. [ Boko Haram insurgency. Niger security forces kill 12 Boko Haram militants in Bosso. ](/news/2016/05/29/boko-haram-insurgency-niger-security-forces-kill-12-boko-haram-militants-in-bosso.md) _Context: Boko Haram, Boko Haram insurgency, Bosso_
+2. [Boko Haram insurgency. An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/boko-haram-insurgency-an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-arm.md) _Context: Boko Haram, Boko Haram insurgency, Lake Chad_
+3. [Boko Haram insurgency. A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/boko-haram-insurgency-a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly.md) _Context: Boko Haram, Boko Haram insurgency, Lake Chad_
+4. [Boko Haram insurgency. Timeline of Boko Haram insurgency. Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/boko-haram-insurgency-timeline-of-boko-haram-insurgency-suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-i.md) _Context: Boko Haram, Boko Haram insurgency, Lake Chad_
+5. [Boko Haram insurgency. Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-insurgency-boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attack.md) _Context: Boko Haram, Boko Haram insurgency, Lake Chad_
+6. [Boko Haram insurgency. Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgency-boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-6.md) _Context: Boko Haram, Boko Haram insurgency_
+7. [Boko Haram insurgency. Chibok schoolgirls kidnapping. Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/boko-haram-insurgency-chibok-schoolgirls-kidnapping-nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-est.md) _Context: Boko Haram, Boko Haram insurgency_
+8. [Boko Haram insurgency. A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/boko-haram-insurgency-a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-le.md) _Context: Boko Haram, Boko Haram insurgency_
+9. [Boko Haram insurgency. President Muhammadu Buhari announces that the Nigerian Armed Forces have successfully driven out Boko Haram militants from their last stronghold in the Sambisa Forest in northeastern Nigeria. ](/news/2016/12/24/boko-haram-insurgency-president-muhammadu-buhari-announces-that-the-nigerian-armed-forces-have-successfully-driven-out-boko-haram-militants.md) _Context: Boko Haram, Boko Haram insurgency_
+10. [Boko Haram insurgency. A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/boko-haram-insurgency-a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md) _Context: Boko Haram insurgency, Lake Chad_

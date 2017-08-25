@@ -24,7 +24,7 @@ _Context: China, Fujian, Putian, factory_
 ### [ The Boston Red Sox defeat the Cleveland Indians 11-2 winning the 2007 American League Championship Series and going on to meet the Colorado Rockies, the 2007 National League champions, in the 2007 World Series. ](/news/2007/10/21/the-boston-red-sox-defeat-the-cleveland-indians-11-2-winning-the-2007-american-league-championship-series-and-going-on-to-meet-the-colorado.md)
 Boston charged to its third straight win, completing yet another October comeback by overpowering the Cleveland Indians 11-2 Sunday night in Game 7 of the AL championship series behind a new pair of rookie Sox.
 
-### [ 2007 California fires: At least nine wildfires burn out of control in Southern California leading to the death of a San Diego man. ](/news/2007/10/21/2007-california-fires-p-at-least-nine-wildfires-burn-out-of-control-in-southern-california-leading-to-the-death-of-a-san-diego-man.md)
+### [ 2007 California fires:. At least nine wildfires burn out of control in Southern California leading to the death of a San Diego man. ](/news/2007/10/21/2007-california-fires-at-least-nine-wildfires-burn-out-of-control-in-southern-california-leading-to-the-death-of-a-san-diego-man.md)
 Fast-moving wildfires roared across California on Monday and engulfed large swaths of San Diego County, where 250,000 people were told to evacuate as state officials called in National Guard troops.
 
 ### [ The world's biggest banks endorse a rescue plan, also supported by the United States Treasury, to restore the world's financial system. ](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan-also-supported-by-the-united-states-treasury-to-restore-the-world-s-financial-system.md)
@@ -36,7 +36,7 @@ _Context: Civic Platform, Donald Tusk, Jaroslaw Kaczynski, parliamentary electio
 ### [ Kimi Rikknen wins the 2007 Formula One World Drivers Championship. ](/news/2007/10/21/kimi-raikkonen-wins-the-2007-formula-one-world-drivers-championship.md)
 _Context: 2007 Formula One World Drivers Championship, Kimi Rikknen_
 
-### [ Kurdistan Workers Party militants kill at least 12 Turkish soldiers and wounded 11 others on Sunday in a cross-border attack in mountains near the Iraqi border, security sources said.  ](/news/2007/10/21/kurdistan-workers-party-militants-kill-at-least-12-turkish-soldiers-and-wounded-11-others-on-sunday-in-a-cross-border-attack-in-mountains-n.md)
+### [ Kurdistan Workers Party militants kill at least 12 Turkish soldiers and wounded 11 others on Sunday in a cross-border attack in mountains near the Iraqi border, security sources said. ](/news/2007/10/21/kurdistan-workers-party-militants-kill-at-least-12-turkish-soldiers-and-wounded-11-others-on-sunday-in-a-cross-border-attack-in-mountains-n.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Soyuz TMA-10 lands safely outside Arkalyk, 340|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
@@ -48,7 +48,7 @@ _Context: 2007 Ogaden conflict, Ethiopia, Ogaden National Liberation Front_
 ### [ Swiss voters go to the polls for the Swiss federal election, 2007, with the right-wing Swiss People's Party set to win. ](/news/2007/10/21/swiss-voters-go-to-the-polls-for-the-swiss-federal-election-2007-with-the-right-wing-swiss-people-s-party-set-to-win.md)
 _Context: 2007 election, Swiss People's Party, Switzerland_
 
-### [ Three of the Peoples Republic of China's top politicians, namely, Vice-President Zeng Qinghong, anti-corruption chief Wu Guanzheng, and Luo Gan, are dropped from the Communist Party of China's Central Committee. Also retiring are Vice-Premier Wu Yi, Vice-Premier Zeng Peiyan, and Defence Minister Cao Gangchuan. Hu's ''Scientific Development Concept'' is enshrined in the Party Constitution. ](/news/2007/10/21/three-of-the-peoples-republic-of-china-s-top-politicians-namely-vice-president-zeng-qinghong-anti-corruption-chief-wu-guanzheng-and-luo.md)
+### [ Three of the Peoples Republic of China's top politicians, namely, Vice-President Zeng Qinghong, anti-corruption chief Wu Guanzheng, and Luo Gan, are dropped from the Communist Party of China's Central Committee. Also retiring are Vice-Premier Wu Yi, Vice-Premier Zeng Peiyan, and Defence Minister Cao Gangchuan. Hu's "Scientific Development Concept" is enshrined in the Party Constitution. ](/news/2007/10/21/three-of-the-peoples-republic-of-china-s-top-politicians-namely-vice-president-zeng-qinghong-anti-corruption-chief-wu-guanzheng-and-luo.md)
 _Context: Cao Gangchuan, Central Committee, Chinese, Communist Party of China, Luo Gan, Scientific Development Concept, Wu Guanzheng, Wu Yi, Zeng Peiyan, Zeng Qinghong_
 
 ## [Previous Day...](/news/2007/10/20/index.md)

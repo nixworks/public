@@ -1,12 +1,12 @@
 ## [2013-03-19](/news/2013/03/19/index.md)
 
-### [19 March 2013 Iraq attacks:A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-pa-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)
+### [19 March 2013 Iraq attacks:. A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)
 Up to 60 people are killed and scores are injured in a series of bomb attacks in Baghdad on the 10th anniversary of the US-led invasion of Iraq.
 
-### [Kurdish-Turkish conflict:Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/kurdishaturkish-conflict-ptwo-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party.md)
+### [Kurdish-Turkish conflict:. Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/kurdish-turkish-conflict-two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-part.md)
 _Context: AK Party, Ankara, Justice Minister, Kurdish-Turkish conflict, Turkey_
 
-### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
+### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012-2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ec-ecb-imf-troika-plan-to-tax-all-bank-deposits.md)
 Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank deposits.
 
 ### [A bus crash in the Indian state of Maharashtra kills at least 37 people and injures 14 others. ](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.md)
@@ -21,7 +21,7 @@ Saudi Arabia arrests an Iranian, a Lebanese and 16 Saudis accused of being part 
 ### [An American man is sentenced to between five and ten years in prison for the murder of Irish tourist Nicola Furlong in Japan. ](/news/2013/03/19/an-american-man-is-sentenced-to-between-five-and-ten-years-in-prison-for-the-murder-of-irish-tourist-nicola-furlong-in-japan.md)
 Japanese court sentences US musician to minimum of five years in prison for killing Co Wexford woman in Tokyo hotel room
 
-### [A suspect, Qari Abdul Saeed, is arrested in Pakistan for the 2002 beheading of ''The Wall Street Journal'' reporter Daniel Pearl. ](/news/2013/03/19/a-suspect-qari-abdul-saeed-is-arrested-in-pakistan-for-the-2002-beheading-of-the-wall-street-journal-reporter-daniel-pearl.md)
+### [A suspect, Qari Abdul Saeed, is arrested in Pakistan for the 2002 beheading of "The Wall Street Journal" reporter Daniel Pearl. ](/news/2013/03/19/a-suspect-qari-abdul-saeed-is-arrested-in-pakistan-for-the-2002-beheading-of-the-wall-street-journal-reporter-daniel-pearl.md)
 _Context: Daniel Pearl, Pakistan, The Wall Street Journal_
 
 ### [In the U.S. state of Ohio, Thomas Lane receives three life sentences for the child murders at Chardon High School that he committed in February 2012 as a 17-year-old. ](/news/2013/03/19/in-the-u-s-state-of-ohio-thomas-lane-receives-three-life-sentences-for-the-child-murders-at-chardon-high-school-that-he-committed-in-febru.md)

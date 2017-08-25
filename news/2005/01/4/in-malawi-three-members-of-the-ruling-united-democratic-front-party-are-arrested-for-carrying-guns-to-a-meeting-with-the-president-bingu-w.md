@@ -1,6 +1,6 @@
 ### [2005-01-4](/news/2005/01/4/index.md)
 
-#  In Malawi, three members of the ruling United Democratic Front party are arrested for carrying guns to a meeting with the president Bingu wa Mutharika. They are later released on bail.  
+#  In Malawi, three members of the ruling United Democratic Front party are arrested for carrying guns to a meeting with the president Bingu wa Mutharika. They are later released on bail. 
 
 
 

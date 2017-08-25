@@ -3,7 +3,7 @@
 ### [Authorities in South Korea arrest a North Korean citizen for an alleged assassination attempt against Park Sang-hak, a noted defector and activist. ](/news/2011/09/16/authorities-in-south-korea-arrest-a-north-korean-citizen-for-an-alleged-assassination-attempt-against-park-sang-hak-a-noted-defector-and-ac.md)
 _Context: North Korea, Park Sang-hak, South Korea, assassinated, defector_
 
-### [Hurricane Maria hits  the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. ](/news/2011/09/16/hurricane-maria-hits-the-canadian-province-of-newfoundland-and-labrador-as-a-category-nbsp-1-hurricane.md)
+### [Hurricane Maria hits the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. ](/news/2011/09/16/hurricane-maria-hits-the-canadian-province-of-newfoundland-and-labrador-as-a-category-nbsp-1-hurricane.md)
 _Context: Hurricane Maria, Newfoundland and Labrador_
 
 ### [Areas in Delhi, India, are flooded by heavy rain, with record rainfall recorded at Indira Gandhi International Airport. ](/news/2011/09/16/areas-in-delhi-india-are-flooded-by-heavy-rain-with-record-rainfall-recorded-at-indira-gandhi-international-airport.md)
@@ -42,10 +42,10 @@ A civil war has broken out in the Health Services Union after president Michael 
 ### [Sinn Fin's officer board gives its approval to put forward Northern Ireland's Deputy First Minister Martin McGuinness as a candidate for the 2011 Irish presidential election. ](/news/2011/09/16/sinn-fein-s-officer-board-gives-its-approval-to-put-forward-northern-ireland-s-deputy-first-minister-martin-mcguinness-as-a-candidate-for-th.md)
 _Context: Deputy First Minister of Northern Ireland, Irish presidential election, Martin McGuinness, Sinn Fin_
 
-### [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting.  ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md)
+### [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting. ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md)
 Palestinian Authority President Mahmoud Abbas said he will pursue a full United Nations membership bid during a speech Friday that was likely meant to both make the case for membership and manage domestic expectations.
 
-### [Scientists at NASA announce the Kepler mission's discovery of a planet orbiting two suns. This  is the first unambiguous detection of a circumbinary planet, i.e., a planet that orbits two stars instead of one.  ](/news/2011/09/16/scientists-at-nasa-announce-the-kepler-mission-s-discovery-of-a-planet-orbiting-two-suns-this-is-the-first-unambiguous-detection-of-a-circ.md)
+### [Scientists at NASA announce the Kepler mission's discovery of a planet orbiting two suns. This is the first unambiguous detection of a circumbinary planet, i.e., a planet that orbits two stars instead of one. ](/news/2011/09/16/scientists-at-nasa-announce-the-kepler-mission-s-discovery-of-a-planet-orbiting-two-suns-this-is-the-first-unambiguous-detection-of-a-circu.md)
 A planet orbiting two suns - the first confirmed alien world of its kind, and evoking Tatooine in the film Star Wars - is discovered by Nasa.
 
 ## [Previous Day...](/news/2011/09/15/index.md)

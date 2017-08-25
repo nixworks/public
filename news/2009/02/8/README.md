@@ -6,7 +6,7 @@ _Context: 51st Grammy Awards, Alison Krauss, Coldplay, Please Read the Letter, R
 ### [ Venezuela arrests 11 people over an attack last week on a Caracas synagogue. ](/news/2009/02/8/venezuela-arrests-11-people-over-an-attack-last-week-on-a-caracas-synagogue.md)
 _Context: Caracas, Venezuela, synagogue_
 
-### [ A roadside bomb kills at least two people and injures 11 near Karbala, Iraq.  ](/news/2009/02/8/a-roadside-bomb-kills-at-least-two-people-and-injures-11-near-karbala-iraq.md)
+### [ A roadside bomb kills at least two people and injures 11 near Karbala, Iraq. ](/news/2009/02/8/a-roadside-bomb-kills-at-least-two-people-and-injures-11-near-karbala-iraq.md)
 _Context: Iraq, Karbala, improvised explosive device_
 
 ### [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md)

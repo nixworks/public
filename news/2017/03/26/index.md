@@ -6,16 +6,16 @@ _Context: Donetsk Oblast, Kramatorsk, Mi-2, Ukrainian military_
 ### [A shooting in Cincinnati, Ohio, kills one person and injures fourteen others. ](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-and-injures-fourteen-others.md)
 _Context: Cincinnati, Ohio_
 
-### [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md)
+### [2017 Russian protests. Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/2017-russian-protests-authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md)
 Russian police detained opposition leader Alexei Navalny in central Moscow on Sunday at a rally which Navalny had called to protest against corruption.
 
-### [Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls-predict-a-close-contest-between-borisso.md)
+### [Bulgarian parliamentary election, 2017. Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarian-parliamentary-election-2017-bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls.md)
 _Context: Boyko Borissov, Bulgaria, Bulgarian parliamentary election, 2017, GERB, Prime Minister, Socialist Party_
 
-### [The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-first-female-chief-executive.md)
+### [Hong Kong Chief Executive election, 2017. The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/hong-kong-chief-executive-election-2017-the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-fir.md)
 A committee will decide Hong Kong&rsquo;s new leader on Sunday in the first chief executive election since mass protests brought the city to a standstill in 2014.
 
-### [Wallis and Futuna Territorial Assembly election, 2017Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017pvoters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md)
+### [Wallis and Futuna Territorial Assembly election, 2017. Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. ](/news/2017/03/26/wallis-and-futuna-territorial-assembly-election-2017-voters-in-wallis-and-futuna-re-elect-nine-members-and-elect-eleven-new-members-to-the.md)
 Voters in Wallis and Futuna have gone to the polls in a territorial election to choose a new 20-member assembly for a five-year term.
 
 ## [Previous Day...](/news/2017/03/25/index.md)

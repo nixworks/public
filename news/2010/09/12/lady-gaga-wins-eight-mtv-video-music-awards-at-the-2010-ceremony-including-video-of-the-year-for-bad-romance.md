@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Typhoon Haiyan:39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-p39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _Context: Lady Gaga_
+1. [Typhoon Haiyan:. 39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _Context: Lady Gaga_
 2. [Lady Gaga suffers a concussion after smacking her head with a pole during a show in New Zealand. ](/news/2012/06/11/lady-gaga-suffers-a-concussion-after-smacking-her-head-with-a-pole-during-a-show-in-new-zealand.md) _Context: Lady Gaga_
 3. [The Ministry of Culture of the People's Republic of China bars 100 songs from music download sites including Lady Gaga's "Judas" and Katy Perry's "Last Friday Night (T.G.I.F.)". ](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.md) _Context: Lady Gaga_
 4. [Lady Gaga releases her Born This Way album, which is certified platinum in many countries across the world.](/news/2011/05/23/lady-gaga-releases-her-born-this-way-album-which-is-certified-platinum-in-many-countries-across-the-world.md) _Context: Lady Gaga_

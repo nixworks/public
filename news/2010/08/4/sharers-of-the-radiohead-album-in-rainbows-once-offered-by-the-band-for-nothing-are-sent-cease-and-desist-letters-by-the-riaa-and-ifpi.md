@@ -1,6 +1,6 @@
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-# Sharers of the Radiohead album ''In Rainbows'', once offered by the band for nothing, are sent cease-and-desist letters by the RIAA and IFPI. 
+# Sharers of the Radiohead album "In Rainbows", once offered by the band for nothing, are sent cease-and-desist letters by the RIAA and IFPI. 
 
 
 

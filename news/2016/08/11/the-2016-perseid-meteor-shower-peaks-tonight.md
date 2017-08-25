@@ -1,6 +1,6 @@
 ### [2016-08-11](/news/2016/08/11/index.md)
 
-# The 2016 Perseid meteor shower  peaks tonight. 
+# The 2016 Perseid meteor shower peaks tonight. 
 
 The online astronomy service Slooh will provide a live webcast of the annular solar eclipse of Sunday, Feb. 26 , and you can watch it live here, courtesy of Slooh.
 

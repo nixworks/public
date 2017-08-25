@@ -1,6 +1,6 @@
 ### [2007-08-28](/news/2007/08/28/index.md)
 
-#  A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted ''in absentia'' on money-laundering charges. 
+#  A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. 
 
 
 
@@ -19,5 +19,5 @@
 6. [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md) _Context: France, Manuel Noriega_
 7. [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md) _Context: France, Manuel Noriega_
 8. [ France signs an extradition treaty with the People's Republic of China but will only extradite people in death penalty cases when China agrees that the person will not receive a death penalty. ](/news/2007/03/20/france-signs-an-extradition-treaty-with-the-people-s-republic-of-china-but-will-only-extradite-people-in-death-penalty-cases-when-china-agr.md) _Context: France, extradited_
-9. [ Cesare Battisti, convicted ''in absentia'' of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested.md) _Context: France, in absentia_
+9. [ Cesare Battisti, convicted "in absentia" of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested-in.md) _Context: France, in absentia_
 10. [ France extradites Holger Pfahls, former German deputy defence minister suspected of corruption. ](/news/2005/01/21/france-extradites-holger-pfahls-former-german-deputy-defence-minister-suspected-of-corruption.md) _Context: France, extradited_

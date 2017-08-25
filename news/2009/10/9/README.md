@@ -9,13 +9,13 @@ _Context: General Motors, Hummer, Sichuan Tengzhong Heavy Industrial Machinery C
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
 _Context: LCROSS, Lunar water, Moon, NASA_
 
-### [ Treaty of Lisbon: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-p-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md)
+### [ Treaty of Lisbon:. A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md)
 Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Rights attached to the Lisbon Treaty as a condition to his signing it.
 
 ### [ Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. ](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.md)
 _Context: Aung San Suu Kyi, Burma_
 
-### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples."  ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
+### [ U.S. president Barack Obama wins the Nobel Peace Prize -for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.- ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-for-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
 The Nobel Peace Prize, which President Obama described as a “call to action,” was an extraordinary recognition for so early in a presidential term and a potential political liability at home.
 
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
@@ -27,7 +27,7 @@ Vietnam jailed six people on Friday for advocating democracy after similar sente
 ### [ French police arrest a researcher at the European Organization for Nuclear Research (CERN) for suspected links to Al-Qaeda. ](/news/2009/10/9/french-police-arrest-a-researcher-at-the-european-organization-for-nuclear-research-cern-for-suspected-links-to-al-qaeda.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
-### [ Wallace Souza, the former Brazilian state legislator and host of ''Canal Livre'' who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surr.md)
+### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
 _Context: Brazil, Canal Livre, Wallace Souza_
 
 ### [ India plans a new offensive against Maoist Naxalite rebels active in parts of the country. ](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.md)

@@ -33,7 +33,7 @@ _Context: Zimbabwe_
 ### [ Around 2700 people are evacuated as 530 forest fires burn in British Columbia, Canada. ](/news/2009/08/2/around-2700-people-are-evacuated-as-530-forest-fires-burn-in-british-columbia-canada.md)
 Thousands of people in the Canadian province of British Columbia ordered to leave their homes as more than 500 fires rage out of control.
 
-### [ A large oil spill occurs in Langesund, Norway, after a Chinese ship, the ''Full City'', drifted aground. ](/news/2009/08/2/a-large-oil-spill-occurs-in-langesund-norway-after-a-chinese-ship-the-full-city-drifted-aground.md)
+### [ A large oil spill occurs in Langesund, Norway, after a Chinese ship, the "Full City", drifted aground. ](/news/2009/08/2/a-large-oil-spill-occurs-in-langesund-norway-after-a-chinese-ship-the-full-city-drifted-aground.md)
 _Context: Langesund, Norway, oil spill_
 
 ### [ Former Iranian President Mohammad Khatami criticizes the "show trial" of election protestors currently underway in the country. ](/news/2009/08/2/former-iranian-president-mohammad-khatami-criticizes-the-show-trial-of-election-protestors-currently-underway-in-the-country.md)

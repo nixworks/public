@@ -11,4 +11,4 @@ Less than a fortnight into his job as CEO, Kazuo Hirai sketched out a strategy t
 
 ### Related:
 
-1. [Sony Corp. says that it will fully restore all the PlayStation Network videogame services in Japan, which will complete worldwide restoration of those services, disrupted in April.  ](/news/2011/07/4/sony-corp-says-that-it-will-fully-restore-all-the-playstation-network-videogame-services-in-japan-which-will-complete-worldwide-restoratio.md) _Context: Sony Corp_
+1. [Sony Corp. says that it will fully restore all the PlayStation Network videogame services in Japan, which will complete worldwide restoration of those services, disrupted in April. ](/news/2011/07/4/sony-corp-says-that-it-will-fully-restore-all-the-playstation-network-videogame-services-in-japan-which-will-complete-worldwide-restoratio.md) _Context: Sony Corp_

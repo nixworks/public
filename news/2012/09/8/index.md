@@ -1,9 +1,9 @@
 ## [2012-09-8](/news/2012/09/8/index.md)
 
-### [Bahraini uprising (2011-present):The Interior Ministry moves to sue the Al Wefaq main opposition party. On Friday, police have fired tear gas at anti-government protesters in the capital Manama. The protestors allegedly have defied a ban on demonstrations. ](/news/2012/09/8/bahraini-uprising-2011apresent-pthe-interior-ministry-moves-to-sue-the-al-wefaq-main-opposition-party-on-friday-police-have-fired-tear.md)
+### [Bahraini uprising (2011-present):. The Interior Ministry moves to sue the Al Wefaq main opposition party. On Friday, police have fired tear gas at anti-government protesters in the capital Manama. The protestors allegedly have defied a ban on demonstrations. ](/news/2012/09/8/bahraini-uprising-2011-present-the-interior-ministry-moves-to-sue-the-al-wefaq-main-opposition-party-on-friday-police-have-fired-tea.md)
 Dozens of anti-government protesters defied ban on unauthorised demonstrations to call for prisoner releases in Manama.
 
-### [Afghanistan commemorates Ahmad Shah Massoud, assassinated today eleven years ago according to the Afghan calendar, with a ceremony in Kabul on the national holiday of ''Haftai Shahid'' (Martyr Week). ](/news/2012/09/8/afghanistan-commemorates-ahmad-shah-massoud-assassinated-today-eleven-years-ago-according-to-the-afghan-calendar-with-a-ceremony-in-kabul.md)
+### [Afghanistan commemorates Ahmad Shah Massoud, assassinated today eleven years ago according to the Afghan calendar, with a ceremony in Kabul on the national holiday of "Haftai Shahid" (Martyr Week). ](/news/2012/09/8/afghanistan-commemorates-ahmad-shah-massoud-assassinated-today-eleven-years-ago-according-to-the-afghan-calendar-with-a-ceremony-in-kabul.md)
 _Context: Afghan calendar, Afghanistan's, Ahmad Shah Massoud, Haftai Shahid, Kabul, national holiday_
 
 ### [A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. ](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.md)
@@ -12,7 +12,7 @@ A teenage suicide bomber kills at least six people including a number of childre
 ### [For the first time in nearly eighteen months, a sign of life appears of four French nationals kidnapped by Al-Qa'eda in Arlit, Niger. A videotape shows them healthy; they ask France to negotiate their release. ](/news/2012/09/8/for-the-first-time-in-nearly-eighteen-months-a-sign-of-life-appears-of-four-french-nationals-kidnapped-by-al-qa-eda-in-arlit-niger-a-vide.md)
 _Context: Arlit, France, Niger, al-Qaeda_
 
-### [Kim Ki-duk's violent tale ''Pieta'' wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-son.md)
+### [Kim Ki-duk's violent tale "Pieta" wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-song.md)
 _Context: Golden Lion, Kim Ki-duk, Pieta, Venice Film Festival_
 
 ### [A tractor is hit by a train in central Romania, killing eight passengers in the tractor trailer. ](/news/2012/09/8/a-tractor-is-hit-by-a-train-in-central-romania-killing-eight-passengers-in-the-tractor-trailer.md)

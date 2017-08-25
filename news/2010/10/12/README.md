@@ -9,16 +9,16 @@ _Context: Afghanistan's, NATO_
 ### [A Nigeria Police Force station in the northern city of Maiduguri is destroyed in an attack blamed on the Boko Haram Islamist group. ](/news/2010/10/12/a-nigeria-police-force-station-in-the-northern-city-of-maiduguri-is-destroyed-in-an-attack-blamed-on-the-boko-haram-islamist-group.md)
 A police station in the northern Nigerian city of Maiduguri is destroyed and three officers injured in an attack blamed on the Boko Haram Islamic sect.
 
-### [British author Howard Jacobson wins the Man Booker Prize for Fiction for his book ''The Finkler Question''. ](/news/2010/10/12/british-author-howard-jacobson-wins-the-man-booker-prize-for-fiction-for-his-book-the-finkler-question.md)
+### [British author Howard Jacobson wins the Man Booker Prize for Fiction for his book "The Finkler Question". ](/news/2010/10/12/british-author-howard-jacobson-wins-the-man-booker-prize-for-fiction-for-his-book-the-finkler-question.md)
 British author and former University of Sydney lecturer Howard Jacobson has edged out the favourites to win the Man Booker Prize for Fiction, scooping the &amp;#x00A3;50,000 ($80,000) literary prize for his novel, The Finkler Question.
 
-### [Greenpeace sends Facebook a letter containing half a million signatures asking the company to cut its ties to  coal based electricity.](/news/2010/10/12/greenpeace-sends-facebook-a-letter-containing-half-a-million-signatures-asking-the-company-to-cut-its-ties-to-coal-based-electricity.md)
+### [Greenpeace sends Facebook a letter containing half a million signatures asking the company to cut its ties to coal based electricity.](/news/2010/10/12/greenpeace-sends-facebook-a-letter-containing-half-a-million-signatures-asking-the-company-to-cut-its-ties-to-coal-based-electricity.md)
 _Context:  coal based electricity, Facebook, Inc., Greenpeace India's_
 
 ### [2010 strikes in France: French workers initiate a 24-hour strike against pension reform with transport services badly affected. ](/news/2010/10/12/2010-strikes-in-france-french-workers-initiate-a-24-hour-strike-against-pension-reform-with-transport-services-badly-affected.md)
 _Context: pension, recent strikes and demonstrations, strike_
 
-### [2010 Copiapo mining accident rescue:Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-pchile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md)
+### [2010 Copiapo mining accident rescue:. Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md)
 The last of the 33 miners trapped deep underground in northern Chile for more than two months is rescued, amid scenes of jubilation.
 
 ### [41 people die following a collision between a bus and a train in the Dnipropetrovsk region in the eastern Ukraine. ](/news/2010/10/12/41-people-die-following-a-collision-between-a-bus-and-a-train-in-the-dnipropetrovsk-region-in-the-eastern-ukraine.md)
@@ -30,7 +30,7 @@ A van crammed with farm workers crashed head-on into a truck in central Poland o
 ### [2010 Atlantic hurricane season: Tropical Storm Paula (2010) reaches hurricane strength as it moves towards Mexico's Yucatan Peninsula. ](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.md)
 _Context: 2010 Atlantic hurricane season, Tropical Storm Paula (2010), Yucatan Peninsula, hurricane_
 
-### [Tanker ''Mindolo'' and cargo ship ''Jork Ranger'' collide off Scheveningen, Netherlands. ](/news/2010/10/12/tanker-mindolo-and-cargo-ship-jork-ranger-collide-off-scheveningen-netherlands.md)
+### [Tanker "Mindolo" and cargo ship "Jork Ranger" collide off Scheveningen, Netherlands. ](/news/2010/10/12/tanker-mindolo-and-cargo-ship-jork-ranger-collide-off-scheveningen-netherlands.md)
 _Context: Scheveningen, Tanker, cargo ship_
 
 ### [Nearly 700 people from a small town within Lagos, Nigeria, are relocated following heavy flooding. ](/news/2010/10/12/nearly-700-people-from-a-small-town-within-lagos-nigeria-are-relocated-following-heavy-flooding.md)
@@ -57,7 +57,7 @@ _Context: Ata-Zhurt, Kamchybek Tashiyev, Kyrgyzstani parliamentary election_
 ### [The Obama administration in the United States lifts a six month moratorium on deep water oil drilling in the Gulf of Mexico imposed following the Deepwater Horizon oil spill. ](/news/2010/10/12/the-obama-administration-in-the-united-states-lifts-a-six-month-moratorium-on-deep-water-oil-drilling-in-the-gulf-of-mexico-imposed-followin.md)
 The Obama administration has lifted a six month moratorium on deep water oil drilling in the Gulf of Mexico.
 
-### [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the  Republicans and  Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md)
+### [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the Republicans and Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md)
 _Context:  Green Party, Democratic, Gubernatorial, Laura Wells, Republican_
 
 ## [Previous Day...](/news/2010/10/11/index.md)

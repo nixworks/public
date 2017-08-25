@@ -19,4 +19,4 @@
 6. [ AC Milan defeats Liverpool F.C. 2-1 in the UEFA Champions League final. ](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.md) _Context: Liverpool_
 7. [ Liverpool F.C. win the FA Cup against West Ham United F.C. on penalties after a last minute 40-yard Steven Gerrard equalizer. ](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.md) _Context: Liverpool_
 8. [ Liverpool F.C. wins a football match against Tottenham Hotspur F.C. by 1-0. ](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.md) _Context: Liverpool_
-9. [ Sao Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sapso-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _Context: Liverpool_
+9. [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _Context: Liverpool_

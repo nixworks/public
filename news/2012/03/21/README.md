@@ -1,6 +1,6 @@
 ## [2012-03-21](/news/2012/03/21/index.md)
 
-### [Syrian uprising:Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-psyrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported-k.md)
+### [Syrian uprising:. Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported.md)
 The US warns Syria to comply with a UN-backed peace plan, as government tanks reportedly shell suburbs of Damascus
 
 ### [Rebelling government troops in Mali storm the state broadcaster in the capital Bamako. ](/news/2012/03/21/rebelling-government-troops-in-mali-storm-the-state-broadcaster-in-the-capital-bamako.md)
@@ -9,7 +9,7 @@ Heavy weapons fire in Bamako as soldiers attacked presidential palace in protest
 ### [The annual report of the Jerusalem-based B'Tselem organisation states that in 2011, 105 Palestinians were killed by Israeli security forces in the Gaza Strip, 37 of whom are listed as non-combatants, and that Palestinian militants killed 11 Israeli civilians, among them a couple and three of their children murdered in their home. ](/news/2012/03/21/the-annual-report-of-the-jerusalem-based-b-tselem-organisation-states-that-in-2011-105-palestinians-were-killed-by-israeli-security-forces.md)
 A human rights group has found a sharp rise in the number of civilians killed in the Israeli-Palestinian conflict.
 
-### [Iraq is terrorised by unconfirmed reports of extremists crushing the skulls of ''emo''s with blocks of cement. ](/news/2012/03/21/iraq-is-terrorised-by-unconfirmed-reports-of-extremists-crushing-the-skulls-of-emo-s-with-blocks-of-cement.md)
+### [Iraq is terrorised by unconfirmed reports of extremists crushing the skulls of "emo"s with blocks of cement. ](/news/2012/03/21/iraq-is-terrorised-by-unconfirmed-reports-of-extremists-crushing-the-skulls-of-emo-s-with-blocks-of-cement.md)
 _Context: Iraq_
 
 ### [A car bomb explodes in central Mogadishu, Somalia, injuring two people. ](/news/2012/03/21/a-car-bomb-explodes-in-central-mogadishu-somalia-injuring-two-people.md)

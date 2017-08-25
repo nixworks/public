@@ -21,7 +21,7 @@ A senior al-Qaida official and potential successor to the group&rsquo;s leader A
 ### [Jacintha Saldanha, a nurse at a London hospital, who took a hoax call from 2Day FM prankers about the Duchess of Cambridge, is found dead in a suspected suicide. ](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.md)
 A nurse who was duped into transferring a prank call from two Australian radio presenters at the hospital treating the Duchess of Cambridge for severe morning sickness was found dead yesterday in a suspected suicide.
 
-### [German business daily ''Financial Times Deutschland'' ceases publication after 12 years. ](/news/2012/12/7/german-business-daily-financial-times-deutschland-ceases-publication-after-12-years.md)
+### [German business daily "Financial Times Deutschland" ceases publication after 12 years. ](/news/2012/12/7/german-business-daily-financial-times-deutschland-ceases-publication-after-12-years.md)
 German business daily Financial Times Deutschland (FTD) bade farewell to its readers on Friday in a final edition packed with gallows humour cartoons and melancholy musings on the revolution in the media industry that sealed its fate.
 
 ### [Google launches its new platform Google+ communities. ](/news/2012/12/7/google-launches-its-new-platform-google-communities.md)

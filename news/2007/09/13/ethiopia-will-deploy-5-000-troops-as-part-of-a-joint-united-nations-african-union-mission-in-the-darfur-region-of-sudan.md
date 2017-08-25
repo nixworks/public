@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Sudan pledges support for UNAMID, a joint United Nations and African  Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md) _Context: African Union, Darfur, Sudan, United Nations_
+1. [ Sudan pledges support for UNAMID, a joint United Nations and African Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md) _Context: African Union, Darfur, Sudan, United Nations_
 2. [ Sudan agrees to allow 3,000 United Nations troops in Darfur to support a 7,000 strong African Union force. ](/news/2007/04/16/sudan-agrees-to-allow-3-000-united-nations-troops-in-darfur-to-support-a-7-000-strong-african-union-force.md) _Context: African Union, Darfur, Sudan, United Nations_
 3. [The United Nations accuses Eritrea of attempting to bomb an African Union summit in Ethiopia. ](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.md) _Context: African Union, Ethiopia, United Nations_
 4. [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md) _Context: Darfur, Sudan, United Nations_

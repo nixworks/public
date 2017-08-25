@@ -3,7 +3,7 @@
 ### [2010 Philippine general election](/news/2010/05/8/2010-philippine-general-election.md)
 _Context: 2010 Philippine general election_
 
-### [United Kingdom general election, 2010:Eligible voters in the United Kingdom general election, 2010 who are living in New Zealand are the latest to be disenfranchised as anger grows over the disfranchisement of citizens living in the UK who were queuing to vote as polls closed. ](/news/2010/05/8/united-kingdom-general-election-2010-peligible-voters-in-the-united-kingdom-general-election-2010-who-are-living-in-new-zealand-are-the-la.md)
+### [United Kingdom general election, 2010:. Eligible voters in the United Kingdom general election, 2010 who are living in New Zealand are the latest to be disenfranchised as anger grows over the disfranchisement of citizens living in the UK who were queuing to vote as polls closed. ](/news/2010/05/8/united-kingdom-general-election-2010-eligible-voters-in-the-united-kingdom-general-election-2010-who-are-living-in-new-zealand-are-the-l.md)
 _Context: 2010 general election, New Zealand, disenfranchised_
 
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
@@ -12,7 +12,7 @@ _Context: Bob Bennett, Republican, United States Senate, Utah, primary election_
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
 _Context: Khatlon, Tajikistan_
 
-### [Icelandic volcanic disruption:Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-pmost-flights-between-europe-and-north-america-face-delays-today.md)
+### [Icelandic volcanic disruption:. Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-most-flights-between-europe-and-north-america-face-delays-today.md)
 Irish airports remained open today, but there is disruption in some parts of southern Europe.
 
 ### [Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. ](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.md)
@@ -30,13 +30,13 @@ Pope Benedict SVI has accepted the resignation of a German bishop who has been a
 ### [Former Venezuelan defence minister Ral Baduel is sentenced to almost eight years in prison for corruption. ](/news/2010/05/8/former-venezuelan-defence-minister-raul-baduel-is-sentenced-to-almost-eight-years-in-prison-for-corruption.md)
 _Context: Ral Baduel, Venezuela_
 
-### [Italy's first divorce fair,  Ex? Punto e a capo, opens in Milan. ](/news/2010/05/8/italy-s-first-divorce-fair-ex-punto-e-a-capo-opens-in-milan.md)
+### [Italy's first divorce fair, Ex? Punto e a capo, opens in Milan. ](/news/2010/05/8/italy-s-first-divorce-fair-ex-punto-e-a-capo-opens-in-milan.md)
 Italians trapped in unhappy marriages will be heading to the country&#039;s first divorce fair this weekend.
 
 ### [London's Harrod's department store is sold to the Qatari royal family by Mohamed Al-Fayed who retires after 25 years as its chairman. ](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.md)
 _Context: Harrod's, London, Mohamed Al-Fayed, Qatar, Qatari royal family_
 
-### [In mixed martial arts, Mauricio "Shogun" Rua wins the UFC Light Heavyweight Championship from fellow Brazilian Lyoto Machida at UFC 113 in Montreal, Quebec, Canada.  ](/news/2010/05/8/in-mixed-martial-arts-mauricio-shogun-rua-wins-the-ufc-light-heavyweight-championship-from-fellow-brazilian-lyoto-machida-at-ufc-113-in-m.md)
+### [In mixed martial arts, Mauricio "Shogun" Rua wins the UFC Light Heavyweight Championship from fellow Brazilian Lyoto Machida at UFC 113 in Montreal, Quebec, Canada. ](/news/2010/05/8/in-mixed-martial-arts-mauricio-shogun-rua-wins-the-ufc-light-heavyweight-championship-from-fellow-brazilian-lyoto-machida-at-ufc-113-in-m.md)
 This time, Mauricio “Shogun” Rua made sure the judges were not involved. Rua knocked out the previously unbeaten Lyoto Machida 3:35 into the first round to capture the light heavyweight championship. » Recap Post-Fight Video: Dana White Koscheck Kimbo Full News Conference
 
 ## [Previous Day...](/news/2010/05/7/index.md)

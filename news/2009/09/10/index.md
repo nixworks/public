@@ -12,7 +12,7 @@ _Context: Du Jun, Hong Kong, Morgan Stanley_
 ### [ Gabon bars opposition leaders from leaving the country following recent riots over claims of fraud in the 2009 presidential election. ](/news/2009/09/10/gabon-bars-opposition-leaders-from-leaving-the-country-following-recent-riots-over-claims-of-fraud-in-the-2009-presidential-election.md)
 _Context: Gabon, disputed presidential election_
 
-### [ Dubai's Metro System, the first mass transit system of the Arabian Peninsula, officially opens to the public as its first metro line is partially operational.  ](/news/2009/09/10/dubai-s-metro-system-the-first-mass-transit-system-of-the-arabian-peninsula-officially-opens-to-the-public-as-its-first-metro-line-is-par.md)
+### [ Dubai's Metro System, the first mass transit system of the Arabian Peninsula, officially opens to the public as its first metro line is partially operational. ](/news/2009/09/10/dubai-s-metro-system-the-first-mass-transit-system-of-the-arabian-peninsula-officially-opens-to-the-public-as-its-first-metro-line-is-par.md)
 _Context: Dubai, Metro System, metro line_
 
 ### [ Prime Minister-designate Saad Hariri steps aside in Lebanon. ](/news/2009/09/10/prime-minister-designate-saad-hariri-steps-aside-in-lebanon.md)
@@ -33,7 +33,7 @@ _Context: Britain, Jamaica_
 ### [ Greek militant group Revolutionary Struggle threatens to attack the "golden boys" it blames for the economic crisis as it claims responsibility for the Athens stock market bombing. ](/news/2009/09/10/greek-militant-group-revolutionary-struggle-threatens-to-attack-the-golden-boys-it-blames-for-the-economic-crisis-as-it-claims-responsibi.md)
 Greek militant group Revolutionary Struggle have threatened to attack the &#39;golden boys&#39; it blames for the economic crisis.
 
-### [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6a2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md)
+### [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6-2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md)
 _Context: England, European title, Germany, UEFA Women's Euro 2009, association football_
 
 ### [ A boat with over 250 people on board capsizes in a storm off the coast of Sierra Leone, killing at least 8. ](/news/2009/09/10/a-boat-with-over-250-people-on-board-capsizes-in-a-storm-off-the-coast-of-sierra-leone-killing-at-least-8.md)

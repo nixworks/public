@@ -3,7 +3,7 @@
 ### [ The search and rescue effort following the 2009 Sierra Leone shipwreck comes to end, with 90 confirmed dead and at least 100 others declared missing. ](/news/2009/09/11/the-search-and-rescue-effort-following-the-2009-sierra-leone-shipwreck-comes-to-end-with-90-confirmed-dead-and-at-least-100-others-declare.md)
 _Context: 2009 Sierra Leone shipwreck_
 
-### [ In an interview with ''The Wall Street Journal'', Libertas founder Declan Ganley says the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/11/in-an-interview-with-the-wall-street-journal-libertas-founder-declan-ganley-says-the-second-irish-referendum-on-the-treaty-of-lisbon-i.md)
+### [ In an interview with "The Wall Street Journal", Libertas founder Declan Ganley says the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/11/in-an-interview-with-the-wall-street-journal-libertas-founder-declan-ganley-says-the-second-irish-referendum-on-the-treaty-of-lisbon-is.md)
 Libertas founder Declan Ganley says next month&#39;s referendum on the Lisbon Treaty is &#39;profoundly undemocratic&#39;.
 
 ### [ Former Taiwanese President Chen Shui-bian and his wife, Wu Shu-chen, are both sentenced to life in prison after being found guilty of corruption. ](/news/2009/09/11/former-taiwanese-president-chen-shui-bian-and-his-wife-wu-shu-chen-are-both-sentenced-to-life-in-prison-after-being-found-guilty-of-corru.md)
@@ -27,7 +27,7 @@ The world&#39;s oldest person has died at the age of 115 in Los Angeles.
 ### [ Sharon Commins, an aid worker kidnapped with a Ugandan colleague in Sudan, makes contact with her family in Ireland for the first time in several weeks. ](/news/2009/09/11/sharon-commins-an-aid-worker-kidnapped-with-a-ugandan-colleague-in-sudan-makes-contact-with-her-family-in-ireland-for-the-first-time-in-s.md)
 Kidnapped GOAL aid-worker Sharon Commins has made contact with her family in Ireland.
 
-### [ NASA's Space Shuttle ''Discovery'' lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md)
+### [ NASA's Space Shuttle "Discovery" lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md)
 _Context: California, Discovery, Edwards Air Force Base, NASA, United States_
 
 ### [ Venezuelan President Hugo Chvez announces the discovery of a vast gas field off the coast of his country, one of the world's largest finds. ](/news/2009/09/11/venezuelan-president-hugo-chavez-announces-the-discovery-of-a-vast-gas-field-off-the-coast-of-his-country-one-of-the-world-s-largest-finds.md)

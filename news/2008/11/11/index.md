@@ -3,7 +3,7 @@
 ### [ Peter Eastgate of Denmark wins the 2008 World Series of Poker main event, the $10,000 No-Limit Hold'em World Championship, winning over US$9.1 million. ](/news/2008/11/11/peter-eastgate-of-denmark-wins-the-2008-world-series-of-poker-main-event-the-10-000-no-limit-hold-em-world-championship-winning-over-us.md)
 Peter Eastgate shined through the two-day final table and became the 2008 WSOP main event champion.
 
-### [ The RMS ''Queen Elizabeth 2'' sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirate.md)
+### [ The RMS "Queen Elizabeth 2" sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirates.md)
 _Context: Dubai, RMS ''Queen Elizabeth 2'', United Arab Emirates_
 
 ### [ Germany announces new charges against John Demjanjuk in the deaths of 29,000 people at the Sobibor extermination camp in Poland during the Holocaust. ](/news/2008/11/11/germany-announces-new-charges-against-john-demjanjuk-in-the-deaths-of-29-000-people-at-the-sobibor-extermination-camp-in-poland-during-the.md)
@@ -24,7 +24,7 @@ _Context: Gulf of Aden, India, Indian Navy, Somali pirates_
 ### [ Mohamed Nasheed is sworn in as the new President of the Maldives. ](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.md)
 _Context: Maldives, Mohamed Nasheed, President_
 
-### [ 2008 Russian financial crisis: Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/2008-russian-financial-crisis-p-russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6.md)
+### [ 2008 Russian financial crisis:. Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/2008-russian-financial-crisis-russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6.md)
 _Context: 2008 Russian financial crisis, Moscow Interbank Currency Exchange, Russia_
 
 ## [Previous Day...](/news/2008/11/10/index.md)

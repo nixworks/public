@@ -9,7 +9,7 @@ Suicide attack at Shia hospital in Khyber Pakhtunkhwa province kills at least 15
 ### [Thai soldiers killed people at a Buddhist temple in Bangkok during demonstrations in May, leaked government documents demonstrate. ](/news/2010/12/10/thai-soldiers-killed-people-at-a-buddhist-temple-in-bangkok-during-demonstrations-in-may-leaked-government-documents-demonstrate.md)
 _Context: Bangkok, Buddhists, Thailand_
 
-### [2010 UK student protests:Prime Minister of the United Kingdom David Cameron criticises the "mob" which launched an attack upon the car of Prince Charles and the Duchess of Cornwall as the couple were driven down Regent Street towards a Royal Variety performance in London last night. Protesters indicate the use of police brutality. ](/news/2010/12/10/2010-uk-student-protests-pprime-minister-of-the-united-kingdom-david-cameron-criticises-the-mob-which-launched-an-attack-upon-the-car-of-p.md)
+### [2010 UK student protests:. Prime Minister of the United Kingdom David Cameron criticises the "mob" which launched an attack upon the car of Prince Charles and the Duchess of Cornwall as the couple were driven down Regent Street towards a Royal Variety performance in London last night. Protesters indicate the use of police brutality. ](/news/2010/12/10/2010-uk-student-protests-prime-minister-of-the-united-kingdom-david-cameron-criticises-the-mob-which-launched-an-attack-upon-the-car-of.md)
 Inquiries launched into royal security and alleged beating of student a day after violence over university fee hike.
 
 ### [An English exam questioning Indian crackdown on demonstrations in the disputed region of Kashmir leads to police arresting a college lecturer. ](/news/2010/12/10/an-english-exam-questioning-indian-crackdown-on-demonstrations-in-the-disputed-region-of-kashmir-leads-to-police-arresting-a-college-lecture.md)
@@ -30,7 +30,7 @@ Thousands of documents, photographs and audio-visual recordings relating to the 
 ### [A group of 26 ex-EU leaders has urged the union to impose sanctions on Israel for continuing to build settlements on occupied Palestinian territory. ](/news/2010/12/10/a-group-of-26-ex-eu-leaders-has-urged-the-union-to-impose-sanctions-on-israel-for-continuing-to-build-settlements-on-occupied-palestinian-te.md)
 A group of 26 former EU leaders urges Brussels to impose sanctions on Israel for continuing to build settlements on occupied Palestinian territory.
 
-### [A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo ''in absentia''. ](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.md)
+### [A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo "in absentia". ](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.md)
 Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a ceremony where he was represented by an empty chair and he dedicated it from prison to the &quot;lost souls&quot; of the 1989 Tiananmen Square crackdown.
 
 ### [United States diplomatic cables leak: ](/news/2010/12/10/united-states-diplomatic-cables-leak.md)
@@ -39,7 +39,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
 _Context: France, Germany, World War II_
 
-### [Detention of Julian Assange:Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-pchristine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the.md)
+### [Detention of Julian Assange:. Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-th.md)
 London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extradition custody in London, has been refused the use of his own laptop but...
 
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)

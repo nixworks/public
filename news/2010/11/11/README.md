@@ -3,7 +3,7 @@
 ### [Somali pirates seize a Panamanian-flagged chemical tanker almost 900|nmi|km|abbr=on from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-km-abbr-on-from-the-horn-of-africa.md)
 _Context: Horn of Africa, Panama, Somali pirates_
 
-### [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources;  the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-a.md)
+### [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources; the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-ar.md)
 _Context: Darfur, Sudan, Sudanese government troops_
 
 ### [An ongoing clean-up operation conducted by the Afghan and NATO-led forces kills four Taliban militants in Afghanistan's Logar Province, 60 km south of capital city Kabul. ](/news/2010/11/11/an-ongoing-clean-up-operation-conducted-by-the-afghan-and-nato-led-forces-kills-four-taliban-militants-in-afghanistan-s-logar-province-60-k.md)
@@ -48,7 +48,7 @@ A 55-year-old woman has died after a tree fell on her car during 24 hours of sev
 ### [Stormy conditions also spread across Ireland. ](/news/2010/11/11/stormy-conditions-also-spread-across-ireland.md)
 Stormy conditions have battered the country, with strong winds and heavy rain spreading from the west.
 
-### [The crippled Carnival Cruise liner ''Carnival Splendor'' is towed to port in San Diego, California. ](/news/2010/11/11/the-crippled-carnival-cruise-liner-carnival-splendor-is-towed-to-port-in-san-diego-california.md)
+### [The crippled Carnival Cruise liner "Carnival Splendor" is towed to port in San Diego, California. ](/news/2010/11/11/the-crippled-carnival-cruise-liner-carnival-splendor-is-towed-to-port-in-san-diego-california.md)
 Three days after an engine fire shut down electricity and stranded the ship at sea, tugboats pulled it into San Diego harbor.
 
 ### [The Delegation of Statistics Canada on Environment Statistics Project visited NBS. ](/news/2010/11/11/the-delegation-of-statistics-canada-on-environment-statistics-project-visited-nbs.md)
@@ -57,7 +57,7 @@ _Context: Environment, NBS, Statistics Canada_
 ### [Iceland opens an inquiry as it emerges that its citizens may be being spied on by the United States embassy. This follows similar investigations into possible illegal U.S. activities in Norway, Denmark, Sweden, and Finland, with possibly hundreds of Norwegians being monitored and Sweden describing the matter as "very serious". ](/news/2010/11/11/iceland-opens-an-inquiry-as-it-emerges-that-its-citizens-may-be-being-spied-on-by-the-united-states-embassy-this-follows-similar-investigat.md)
 Iceland becomes the latest Nordic country to investigate whether its citizens are being spied on by the US embassy.
 
-### [Cuba - United States relations: A Cuban website questions the release of ''Call of Duty: Black Ops'', an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-a-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-wh.md)
+### [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md)
 Cuba has condemned the release of a new video game in which United States special forces try to kill a young Fidel Castro.
 
 ### [World leaders gather in Seoul, South Korea, for the G-20 summit. ](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.md)

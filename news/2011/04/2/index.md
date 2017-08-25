@@ -3,16 +3,16 @@
 ### [At least 800 people are killed in a massacre in Duekoue, Cote d'Ivoire, during the Second Ivorian Civil War. ](/news/2011/04/2/at-least-800-people-are-killed-in-a-massacre-in-dua-c-koua-c-ca-te-d-ivoire-during-the-second-ivorian-civil-war.md)
 Aid agencies are reporting mass killings in the western Ivory Coast city of Duekoue, captured by fighters supporting UN-recognized president Alassane Ouattara this week. 
 
-### [Libyan Civil War:Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-pfriendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md)
+### [Libyan Civil War:. Friendly fire from coalition forces reportedly kills 13 rebels in Libya. ](/news/2011/04/2/libyan-civil-war-friendly-fire-from-coalition-forces-reportedly-kills-13-rebels-in-libya.md)
 A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel fighters in eastern Libya instead, the opposition said Saturday.
 
-### [2011 Syrian protests:Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-psecurity-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md)
+### [2011 Syrian protests:. Security forces in Syria arrest dozens of people following pro-reform protests. ](/news/2011/04/2/2011-syrian-protests-security-forces-in-syria-arrest-dozens-of-people-following-pro-reform-protests.md)
 _Context: Syria, Syrian uprising_
 
-### [2011 Yemeni protests:Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-panti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
+### [2011 Yemeni protests:. Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-anti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
 _Context: 2011 Yemeni protests, Aden, Yemen_
 
-### [Gaza War:Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/gaza-war-pisrael-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-re.md)
+### [Gaza War:. Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/gaza-war-israel-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-r.md)
 Israel calls on the UN to cancel a report that said it possibly committed war crimes during its 2008-2009 military offensive in Gaza.
 
 ### [Afghan National Army soldiers kill two insurgents including a would-be suicide bomber who attacked Camp Phoenix in Kabul. ](/news/2011/04/2/afghan-national-army-soldiers-kill-two-insurgents-including-a-would-be-suicide-bomber-who-attacked-camp-phoenix-in-kabul.md)

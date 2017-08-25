@@ -1,6 +1,6 @@
 ### [2008-06-19](/news/2008/06/19/index.md)
 
-#  A report reveals sailors onboard the submarine HMCS ''Chicoutimi'' during a 2004 fire may develop serious health problems as a result. 
+#  A report reveals sailors onboard the submarine HMCS "Chicoutimi" during a 2004 fire may develop serious health problems as a result. 
 
 
 

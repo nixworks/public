@@ -1,15 +1,15 @@
 ## [2011-02-15](/news/2011/02/15/index.md)
 
-### [2011 Yemeni protests:Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-pclashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md)
+### [2011 Yemeni protests:. Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md)
 Regime loyalists and plainclothes policemen attack protesters, mainly students, in Sanaa.
 
-### [2011 Bahraini protests:Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-pthousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md)
+### [2011 Bahraini protests:. Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md)
 The king of Bahrain has gone on television to announce an investigation into the deaths of two protesters killed in clashes with security forces on Monday.
 
-### [2011 Iranian protests:Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-piranian-politicians-call-for-the-execution-of-opposition-leaders.md)
+### [2011 Iranian protests:. Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-iranian-politicians-call-for-the-execution-of-opposition-leaders.md)
 _Context: 2011 Iranian protests, Iranian opposition_
 
-### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks  in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)
+### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)
 _Context: Communist Party of the Philippines, Norway, Oslo, Philippine government_
 
 ### [The Prime Minister of Japan Naoto Kan vows to find the remains of the 12,000 Japanese soldiers still missing after the Battle of Iwo Jima of World War II. ](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.md)
@@ -39,7 +39,7 @@ _Context: Boeing 757, United Airlines_
 ### [The Delaware Chancery Court upholds the use of a poison pill by Airgas, effectively ending a takeover bid launched a year ago by Air Products. ](/news/2011/02/15/the-delaware-chancery-court-upholds-the-use-of-a-poison-pill-by-airgas-effectively-ending-a-takeover-bid-launched-a-year-ago-by-air-product.md)
 reaching impact on deals (Adds background, judge and Airgas comment, from paragraphfour)
 
-### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country.  ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
+### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country. ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
 _Context: Argentina, United States_
 
 ### [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedomdate=August 2017. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedomdate-august-2017.md)

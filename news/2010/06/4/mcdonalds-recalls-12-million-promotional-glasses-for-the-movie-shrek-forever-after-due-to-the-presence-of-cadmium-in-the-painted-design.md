@@ -1,6 +1,6 @@
 ### [2010-06-4](/news/2010/06/4/index.md)
 
-# McDonalds recalls 12 million promotional glasses for the movie ''Shrek Forever After'' due to the presence of cadmium in the painted design. 
+# McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. 
 
 
 

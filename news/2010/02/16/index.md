@@ -1,12 +1,12 @@
 ## [2010-02-16](/news/2010/02/16/index.md)
 
-### [Assassination of a senior Hamas military commander in Dubai:Dubai police release the passport photographs of 11 "Europeans" suspected of the murder of Mahmoud al-Mabhouh. ](/news/2010/02/16/assassination-of-a-senior-hamas-military-commander-in-dubai-pdubai-police-release-the-passport-photographs-of-11-aeuropeansa-suspected-o.md)
+### [Assassination of a senior Hamas military commander in Dubai:. Dubai police release the passport photographs of 11 -Europeans- suspected of the murder of Mahmoud al-Mabhouh. ](/news/2010/02/16/assassination-of-a-senior-hamas-military-commander-in-dubai-dubai-police-release-the-passport-photographs-of-11-europeans-suspected.md)
 Members of a suspected hit squad blamed for the assassination of a Hamas commander in Dubai used fake British and Irish passports, it has emerged.
 
 ### [Pope Benedict XVI issues a statement after a two-day meeting with all Irish bishops in the Vatican, including labelling paedophilia a "heinous crime", but his nuncio refuses to appear before an inquiry in Dail Eireann. ](/news/2010/02/16/pope-benedict-xvi-issues-a-statement-after-a-two-day-meeting-with-all-irish-bishops-in-the-vatican-including-labelling-paedophilia-a-heino.md)
 The Pope has told Irish bishops at a special summit in the Vatican that paedophilia is a heinous crime, according to a statement.
 
-### [The ''Queen Mary 2'' arrives at the Port of Shanghai, making her first port call in China since her maiden voyage in 2004. ](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.md)
+### [The "Queen Mary 2" arrives at the Port of Shanghai, making her first port call in China since her maiden voyage in 2004. ](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.md)
 _Context: ''Queen Mary 2'', 2004, Port of Shanghai_
 
 ### [Queen Rania of Jordan meets with CEOs of mobile operators from around the world in Barcelona on Monday to rally support for the 1GOAL global education campaign. ](/news/2010/02/16/queen-rania-of-jordan-meets-with-ceos-of-mobile-operators-from-around-the-world-in-barcelona-on-monday-to-rally-support-for-the-1goal-global.md)

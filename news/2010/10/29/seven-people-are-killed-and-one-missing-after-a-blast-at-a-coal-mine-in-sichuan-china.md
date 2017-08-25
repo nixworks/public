@@ -21,4 +21,4 @@
 7. [China launches the Chang'e 2 lunar probe from Sichuan. ](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.md) _Context: China, Sichuan_
 8. [Two passenger train carriages are swept into a river by floods in Sichuan, China. ](/news/2010/08/19/two-passenger-train-carriages-are-swept-into-a-river-by-floods-in-sichuan-china.md) _Context: China, Sichuan_
 9. [ A bus fire kills at least 24 people in Chengdu, Sichuan, China. ](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.md) _Context: China, Sichuan_
-10. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md) _Context: China, Sichuan_
+10. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. [http://www.guardian.co.uk/world/2009/may/07/china-quake-pupils-death-toll "(The Guardian)"]](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008-http-www-guardian-co-uk-world-2009-may-0.md) _Context: China, Sichuan_

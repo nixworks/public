@@ -39,6 +39,6 @@ _Context: Argonne National Laboratory, alloy, cancer cell, iron, magnetic field,
 ### [ Philippine President Gloria Macapagal-Arroyo announces she will run for Congress. ](/news/2009/11/30/philippine-president-gloria-macapagal-arroyo-announces-she-will-run-for-congress.md)
 _Context: Gloria Macapagal Arroyo, Philippine general election, 2010_
 
-### [ A study in the journal ''Pediatrics'' indicates that if a child is diagnosed with autism early, intervention can raise IQ levels while improving language skills and behavior. ](/news/2009/11/30/a-study-in-the-journal-pediatrics-indicates-that-if-a-child-is-diagnosed-with-autism-early-intervention-can-raise-iq-levels-while-impr.md)
+### [ A study in the journal "Pediatrics" indicates that if a child is diagnosed with autism early, intervention can raise IQ levels while improving language skills and behavior. ](/news/2009/11/30/a-study-in-the-journal-pediatrics-indicates-that-if-a-child-is-diagnosed-with-autism-early-intervention-can-raise-iq-levels-while-improv.md)
 ## [Previous Day...](/news/2009/11/29/index.md)
 

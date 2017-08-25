@@ -24,7 +24,7 @@ _Context: 2011 Norway attacks, Anders Behring Breivik, Oslo, sets herself alight
 ### [Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. ](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.md)
 _Context: India, Nepal, Taruni Sachdev, plane crash_
 
-### [Thousands of Palestinians demonstrate on the 64th anniversary of their ''Nakba'' (en|"Catastrophe"), in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-catastrophe-in-remembrance-of-their-exodus-from-the.md)
+### [Thousands of Palestinians demonstrate on the 64th anniversary of their "Nakba" (en|"Catastrophe"), in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-catastrophe-in-remembrance-of-their-exodus-from-the-f.md)
 Rallies and demonstrations in West Bank, Gaza and Israel as Palestinians commemorate displacement from lands in 1948.
 
 ### [A free trade agreement between the United States and Colombia takes effect. ](/news/2012/05/15/a-free-trade-agreement-between-the-united-states-and-colombia-takes-effect.md)

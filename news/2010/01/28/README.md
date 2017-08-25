@@ -3,13 +3,13 @@
 ### [The U.S. Senate votes to give Ben Bernanke a second term as chair of the Federal Reserve. ](/news/2010/01/28/the-u-s-senate-votes-to-give-ben-bernanke-a-second-term-as-chair-of-the-federal-reserve.md)
 _Context: Ben Bernanke, Chair of the Federal Reserve, Federal Reserve, U.S. Senate_
 
-### [J. D. Salinger, author of the novel ''The Catcher in the Rye'', dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)
+### [J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)
 _Context: J. D. Salinger, The Catcher in the Rye_
 
-### [Aftermath of the 2010 Haiti earthquake:The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/aftermath-of-the-2010-haiti-earthquake-pthe-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devast.md)
+### [Aftermath of the 2010 Haiti earthquake:. The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/aftermath-of-the-2010-haiti-earthquake-the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devas.md)
 _Context: 2010 Haiti earthquake, Haiti, International Monetary Fund, US$_
 
-### [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
+### [North Korea:. North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
 State media says unnamed American man detained after trespassing on border with China.
 
 ### [The death toll from yesterday's apartment collapse in Lige reaches nine as the search for bodies is temporarily suspended due to the danger caused by other falling buildings. ](/news/2010/01/28/the-death-toll-from-yesterday-s-apartment-collapse-in-liege-reaches-nine-as-the-search-for-bodies-is-temporarily-suspended-due-to-the-danger.md)
@@ -24,7 +24,7 @@ _Context: Colombia, Venezuela_
 ### [Sudan's ruling National Congress Party endorses South Sudan President Salva Kiir in upcoming elections. ](/news/2010/01/28/sudan-s-ruling-national-congress-party-endorses-south-sudan-president-salva-kiir-in-upcoming-elections.md)
 _Context: National Congress Party, Salva Kiir, Southern Sudan, Sudan, post-election protests_
 
-### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the ''Clearstream'' affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
+### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
 _Context: ''Clearstream'' affair, Dominique de Villepin, France, Prime Minister, indicted_
 
 ### [Iran executes two opposition supporters for their role in the election protests in the country. ](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.md)

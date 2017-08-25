@@ -24,7 +24,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 ### [ Nigerian militants attack government buildings in the oil region hours before voters go to the polls in the general election. ](/news/2007/04/21/nigerian-militants-attack-government-buildings-in-the-oil-region-hours-before-voters-go-to-the-polls-in-the-general-election.md)
 _Context: Nigeria, presidential election_
 
-### [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated ''against'' the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristin.md)
+### [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated "against" the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristina.md)
 _Context: Ahtisaari Plan, Kosovo, Pristina, Romania_
 
 ## [Previous Day...](/news/2007/04/20/index.md)

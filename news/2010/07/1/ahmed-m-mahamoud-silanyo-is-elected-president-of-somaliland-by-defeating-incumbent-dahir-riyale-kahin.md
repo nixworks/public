@@ -11,7 +11,7 @@ Somaliland elects new leader as country celebrates 50 years of independence.
 
 ### Related:
 
-1. [Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognition-of-our-democracy-during-his-time-i.md) _Context: Ahmed M. Mahamoud Silanyo, Somaliland presidential election, 2010_
+1. [Somaliland presidential election, 2010. Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/somaliland-presidential-election-2010-newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognit.md) _Context: Ahmed M. Mahamoud Silanyo, Somaliland presidential election, 2010_
 2. [Voters in Somaliland take part in a presidential election. ](/news/2010/06/26/voters-in-somaliland-take-part-in-a-presidential-election.md) _Context: Somaliland, Somaliland presidential election, 2010_
 3. [A journalist based in Somaliland is killed by gunmen while returning home from work. ](/news/2012/10/24/a-journalist-based-in-somaliland-is-killed-by-gunmen-while-returning-home-from-work.md) _Context: Somaliland_
 4. [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md) _Context: Somaliland_

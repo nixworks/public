@@ -1,6 +1,6 @@
 ## [2009-12-7](/news/2009/12/7/index.md)
 
-### [ Pakistan's Raffatullah Momand and Aamer Sajjad set a new world record for a second wicket partnership scoring 580 runs in a first-class  Quaid-i-Azam Trophy match, breaking the previous record of 576 held by Sri Lanka's Sanath Jayasuriya and Roshan Mahanama.](/news/2009/12/7/pakistanas-raffatullah-momand-and-aamer-sajjad-set-a-new-world-record-for-a-second-wicket-partnership-scoring-580-runs-in-a-first-class.md)
+### [ Pakistan-s Raffatullah Momand and Aamer Sajjad set a new world record for a second wicket partnership scoring 580 runs in a first-class Quaid-i-Azam Trophy match, breaking the previous record of 576 held by Sri Lanka's Sanath Jayasuriya and Roshan Mahanama.](/news/2009/12/7/pakistan-s-raffatullah-momand-and-aamer-sajjad-set-a-new-world-record-for-a-second-wicket-partnership-scoring-580-runs-in-a-first-class-q.md)
 _Context:  Quaid-i-Azam Trophy match, Pakistan national cricket team, Roshan Mahanama, Sanath Jayasuriya, first-class, partnership, run, second wicket_
 
 ### [ Incumbent President of Romania Traian Basescu is declared the winner of Sunday's presidential election run-off, with the opposition demanding that the Constitutional Court annul the vote due to electoral fraud. ](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.md)

@@ -21,7 +21,7 @@ _Context: John Howard, Parliament, Senator, election of 2004_
 ### [ Much of the government of Minnesota shuts down as the state legislature fails to pass a budget by the end of the fiscal year. (Wikinews) ](/news/2005/07/1/much-of-the-government-of-minnesota-shuts-down-as-the-state-legislature-fails-to-pass-a-budget-by-the-end-of-the-fiscal-year-wikinews.md)
 _Context: (Wikinews), Minnesota, budget, fiscal year, legislative_
 
-### [ In the UK, cot death expert Sir Roy Meadow testifies before the General Medical Council hearing. He was involved with four court cases where four women were falsely accused of killing their children. Medical journal ''The Lancet'' defends him saying that he is just a "scapegoat" ](/news/2005/07/1/in-the-uk-cot-death-expert-sir-roy-meadow-testifies-before-the-general-medical-council-hearing-he-was-involved-with-four-court-cases-wher.md)
+### [ In the UK, cot death expert Sir Roy Meadow testifies before the General Medical Council hearing. He was involved with four court cases where four women were falsely accused of killing their children. Medical journal "The Lancet" defends him saying that he is just a "scapegoat" ](/news/2005/07/1/in-the-uk-cot-death-expert-sir-roy-meadow-testifies-before-the-general-medical-council-hearing-he-was-involved-with-four-court-cases-wher.md)
 _Context: General Medical Council, Roy Meadow, The Lancet, cot death, scapegoat_
 
 ### [ In the Democratic Republic of Congo, at least 10 people have died during protests over delay to the presidential elections. Opposition claims the numbers are closer to 42. (Wikinews) ](/news/2005/07/1/in-the-democratic-republic-of-congo-at-least-10-people-have-died-during-protests-over-delay-to-the-presidential-elections-opposition-clai.md)

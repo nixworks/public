@@ -1,6 +1,6 @@
 ## [2009-04-30](/news/2009/04/30/index.md)
 
-### [ Swine influenza outbreak: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-p-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
+### [ Swine influenza outbreak:. President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
 The World Health Organisation (WHO), bowing to pressure from meat industry producers and concerned governments, said today it&hellip;
 
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
@@ -24,7 +24,7 @@ _Context: Azerbaijan, Baku, State Oil Academy, killed_
 ### [ Helios Airways and four executives are charged with 119 counts of manslaughter over the crash of Flight 522 in 2005. ](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.md)
 _Context: Flight 522, Helios Airways, executives, incidents, indicted, manslaughter by gross negligence_
 
-### [ The Italian cargo ship ''Jolley Smeraldo'' evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
+### [ The Italian cargo ship "Jolley Smeraldo" evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
 An Italian-flagged merchant ship evaded an attack by Somali pirates and its 24-person crew was unharmed, shipping line officials said.
 
 ### [ The Los Angeles Police Department identifies the suspected serial killer John Floyd Thomas, Jr. ](/news/2009/04/30/the-los-angeles-police-department-identifies-the-suspected-serial-killer-john-floyd-thomas-jr.md)

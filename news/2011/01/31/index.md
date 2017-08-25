@@ -1,6 +1,6 @@
 ## [2011-01-31](/news/2011/01/31/index.md)
 
-### [2011 Egyptian protests:The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-pthe-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md)
+### [2011 Egyptian protests:. The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md)
 Hosni Mubarak ordered his new PM to preserve subsidies, control inflation and provide more jobs.
 
 ### [2011 Sudan protests: A student dies after being attacked by security forces amid anti-government demonstrations in the country. ](/news/2011/01/31/2011-sudan-protests-a-student-dies-after-being-attacked-by-security-forces-amid-anti-government-demonstrations-in-the-country.md)
@@ -39,7 +39,7 @@ _Context: Alexander Lukashenko, Belarus, European Union, United States_
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
 Oman says it has uncovered a UAE spy network in the Gulf Arab state that targeted its government and military.
 
-### [WikiLeaks:A new biography of Julian Assange reveals details of how the WikiLeaks spokesperson evaded U.S. officers from the Central Intelligence Agency Assange believed were following him, including his use of disguises. ](/news/2011/01/31/wikileaks-pa-new-biography-of-julian-assange-reveals-details-of-how-the-wikileaks-spokesperson-evaded-u-s-officers-from-the-central-intelli.md)
+### [WikiLeaks:. A new biography of Julian Assange reveals details of how the WikiLeaks spokesperson evaded U.S. officers from the Central Intelligence Agency Assange believed were following him, including his use of disguises. ](/news/2011/01/31/wikileaks-a-new-biography-of-julian-assange-reveals-details-of-how-the-wikileaks-spokesperson-evaded-u-s-officers-from-the-central-intell.md)
 Ministers secretly advised Muammar Gaddafi&rsquo;s Libyan regime how to secure the successful early release of the Lockerbie bomber, documents obtained by The Daily Telegraph have disclosed.
 
 ### [British Defence Secretary Liam Fox says that Iran could have a nuclear weapon by next year and that the assessment of Meir Dagan, outgoing director of the Israeli intelligence agency Mossad, that Iran would not be able to produce a nuclear bomb before 2015 could be overly optimistic; Iran rejects Fox's remarks.](/news/2011/01/31/british-defence-secretary-liam-fox-says-that-iran-could-have-a-nuclear-weapon-by-next-year-and-that-the-assessment-of-meir-dagan-outgoing-d.md)
@@ -51,7 +51,7 @@ Three of the most senior surviving leaders of the Khmer Rouge appear in court in
 ### [Roger Vinson of the United States District Court for the Northern District of Florida rules that the Health insurance mandate of President Barack Obama's health care reforms are unconstitutional. ](/news/2011/01/31/roger-vinson-of-the-united-states-district-court-for-the-northern-district-of-florida-rules-that-the-health-insurance-mandate-of-president-b.md)
 A judge said the insurance mandate in the health law made it unconstitutional, going further than a judge in Virginia had.
 
-### [China's state broadcaster China Central Television reportedly uses footage from the 1986 film ''Top Gun'' as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-o.md)
+### [China's state broadcaster China Central Television reportedly uses footage from the 1986 film "Top Gun" as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-of.md)
 _Context: China, China Central Television, Top Gun_
 
 ### [Southern Sudan announces it plans to officially declare independence from Sudan on July 9, 2011. ](/news/2011/01/31/southern-sudan-announces-it-plans-to-officially-declare-independence-from-sudan-on-july-9-2011.md)

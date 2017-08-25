@@ -36,7 +36,7 @@ _Context: Swaziland, democratic progress_
 ### [United States Army General David Petraeus, the Commander of the International Security Assistance Force in Afghanistan, condemns plans by a small Florida church to burn copies of the Koran on the anniversary of the September 11 attacks as inflammatory. ](/news/2010/09/7/united-states-army-general-david-petraeus-the-commander-of-the-international-security-assistance-force-in-afghanistan-condemns-plans-by-a.md)
 _Context: Afghanistan's, David Petraeus, Florida, General, International Security Assistance Force, Koran, September 11 attacks, United States Army_
 
-### [Independent members of parliament Tony Windsor and Rob Oakeshott agree to support a Julia Gillard Australian Labor Party Government ensuring that Labor will be able to form a Government. ](/news/2010/09/7/independent-members-of-parliament-tony-windsor-and-rob-oakeshott-agree-to-support-a-julia-gillard-australian-labor-party-government-ensuring.md)
+### [2010 Australian federal election. Independent members of parliament Tony Windsor and Rob Oakeshott agree to support a Julia Gillard Australian Labor Party Government ensuring that Labor will be able to form a Government. ](/news/2010/09/7/2010-australian-federal-election-independent-members-of-parliament-tony-windsor-and-rob-oakeshott-agree-to-support-a-julia-gillard-australi.md)
 Key independent MP Bob Katter has announced he will back the Coalition in a minority government.
 
 ### [Trade unions in India declare a bandh or general strike to protest a hike in fuel prices. India is crippled. ](/news/2010/09/7/trade-unions-in-india-declare-a-bandh-or-general-strike-to-protest-a-hike-in-fuel-prices-india-is-crippled.md)

@@ -3,10 +3,10 @@
 ### [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md)
 _Context: Egypt, Nile delta_
 
-### [ Lloyds Banking Group repay PS2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-aps2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
-_Context: 19 January 2009, His Majesty's Government, Lloyds Banking Group, PS, nationalisation_
+### [ Lloyds Banking Group repay GBP2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
+_Context: 19 January 2009, GBP, His Majesty's Government, Lloyds Banking Group, nationalisation_
 
-### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in ''Indiana State Police Pension Trust v. Chrysler''. ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
+### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in "Indiana State Police Pension Trust v. Chrysler". ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
 _Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, U.S. Supreme Court, stays_
 
 ### [ Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. ](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.md)
@@ -24,13 +24,13 @@ _Context: Gabon, Omar Bongo, President, heart attack_
 ### [ Two American journalists are found guilty of illegally entering North Korea and sentenced to 12 years of penal labour. ](/news/2009/06/8/two-american-journalists-are-found-guilty-of-illegally-entering-north-korea-and-sentenced-to-12-years-of-penal-labour.md)
 _Context: North Korea, United States, found guilty, penal labour_
 
-### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md)
+### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10-30-possibly-indicating-future-missile-testing.md)
 _Context: North Korea, Sea of Japan, Wonsan, intercontinental ballistic_
 
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
 _Context: China, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
 
-### [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md)
+### [ European Union's parliamentary elections:. The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md)
 _Context: European Parliament, European People's Party, European Union, centre-right, elections, plurality_
 
 ### [ In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. ](/news/2009/06/8/in-a-referendum-held-alongside-european-parliament-elections-voters-in-denmark-agreed-to-change-their-acts-of-succession-to-eliminate-male.md)

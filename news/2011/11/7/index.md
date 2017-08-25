@@ -1,6 +1,6 @@
 ## [2011-11-7](/news/2011/11/7/index.md)
 
-### [The Swedish Enforcement Administration (''Kronofogden'') announces the public auction of seven paintings originally believed to be painted by German leader Adolf Hitler.[http://www.dn.se/nyheter/sverige/kronofogden-saljer-hitlertavlor (TT via ''Dagens Nyheter'')] (Swedish)](/news/2011/11/7/the-swedish-enforcement-administration-kronofogden-announces-the-public-auction-of-seven-paintings-originally-believed-to-be-painted-b.md)
+### [The Swedish Enforcement Administration ("Kronofogden") announces the public auction of seven paintings originally believed to be painted by German leader Adolf Hitler.[http://www.dn.se/nyheter/sverige/kronofogden-saljer-hitlertavlor (TT via "Dagens Nyheter")] (Swedish)](/news/2011/11/7/the-swedish-enforcement-administration-kronofogden-announces-the-public-auction-of-seven-paintings-originally-believed-to-be-painted-by.md)
 _Context: Adolf Hitler, Swedish Enforcement Administration, public auction_
 
 ### [Gary Gensler, chairman of the U.S. Commodity Futures Trading Commission, recuses himself from that agency's investigation into the bankruptcy of MF Global. ](/news/2011/11/7/gary-gensler-chairman-of-the-u-s-commodity-futures-trading-commission-recuses-himself-from-that-agency-s-investigation-into-the-bankruptc.md)

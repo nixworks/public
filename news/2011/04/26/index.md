@@ -1,15 +1,15 @@
 ## [2011-04-26](/news/2011/04/26/index.md)
 
-### [Arab Spring:2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-p2011-syrian-protests-pthe-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-protes.md)
+### [Arab Spring:. 2011 Syrian protests:. The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. ](/news/2011/04/26/arab-spring-2011-syrian-protests-the-syrian-human-rights-organisation-sawasiah-claims-that-the-government-of-syria-has-arrested-500-prot.md)
 The UK, France and Italy call for tough measures against Syria, after troops there fire on anti-government protesters.
 
-### [Guantanamo Bay files leak:Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-pnewly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-service.md)
+### [Guantanamo Bay files leak:. Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-newly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-servic.md)
 Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; was working for MI6 at the same time he is suspected of bombings in Pakistan, and that a London mosque was a &quot;haven&quot; for extremists.
 
-### [U.S. television personality Katie Couric announces that she will no longer host the ''CBS Evening News'' at the end of June. ](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.md)
+### [U.S. television personality Katie Couric announces that she will no longer host the "CBS Evening News" at the end of June. ](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.md)
 _Context: CBS Evening News, Katie Couric_
 
-### [BBC television personality Andrew Marr admits to having taken out a high court superinjunction after ''Private Eye'' launches a challenge, though Marr states he "did not come into journalism to go around gagging journalists". ](/news/2011/04/26/bbc-television-personality-andrew-marr-admits-to-having-taken-out-a-high-court-superinjunction-after-private-eye-launches-a-challenge-t.md)
+### [BBC television personality Andrew Marr admits to having taken out a high court superinjunction after "Private Eye" launches a challenge, though Marr states he "did not come into journalism to go around gagging journalists". ](/news/2011/04/26/bbc-television-personality-andrew-marr-admits-to-having-taken-out-a-high-court-superinjunction-after-private-eye-launches-a-challenge-tho.md)
 _Context: Andrew Marr, BBC, Private Eye, superinjunction_
 
 ### [The Russian capital Moscow is to allow its first gay pride rally in May. ](/news/2011/04/26/the-russian-capital-moscow-is-to-allow-its-first-gay-pride-rally-in-may.md)
@@ -51,10 +51,10 @@ In a reversal of the usual roles played by rich and poor countries, China will b
 ### [Jimmy Carter, Mary Robinson, Martti Ahtisaari and Gro Harlem Brundtland head to North Korea. ](/news/2011/04/26/jimmy-carter-mary-robinson-martti-ahtisaari-and-gro-harlem-brundtland-head-to-north-korea.md)
 Ex-US President Jimmy Carter arrives in North Korea as part of the group of elder statesmen to discuss nuclear weapons and human rights.
 
-### [Israeli-Palestinian conflict:Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeliapalestinian-conflict-ppreparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md)
+### [Israeli-Palestinian conflict:. Preparations for a 15-boat, 1,500-person flotilla bound for the Gaza Strip take place. ](/news/2011/04/26/israeli-palestinian-conflict-preparations-for-a-15-boat-1-500-person-flotilla-bound-for-the-gaza-strip-take-place.md)
 Foreign Minister Ahmet Davutoglu urges Israel not to stop next Gaza-bound flotilla. &#39;The Mediterranean does not belong to any nation,&#39; he says
 
-### [U.S. president Barack Obama is criticised by supporters of imprisoned Welsh-born U.S. serviceman Bradley Manning for interfering in any  future trial after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/26/u-s-president-barack-obama-is-criticised-by-supporters-of-imprisoned-welsh-born-u-s-serviceman-bradley-manning-for-interfering-in-any-fut.md)
+### [U.S. president Barack Obama is criticised by supporters of imprisoned Welsh-born U.S. serviceman Bradley Manning for interfering in any future trial after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/26/u-s-president-barack-obama-is-criticised-by-supporters-of-imprisoned-welsh-born-u-s-serviceman-bradley-manning-for-interfering-in-any-futu.md)
 President Barack Obama has unwittingly waded into a military legal tangle by declaring that WikiLeaks suspect Pfc. Bradley Manning &quot;broke the law.&quot;
 
 ### [An Indian court orders Suresh Kalmadi, the chief organiser of the 2010 Commonwealth Games, to remain in custody while corruption charges against him are investigated. ](/news/2011/04/26/an-indian-court-orders-suresh-kalmadi-the-chief-organiser-of-the-2010-commonwealth-games-to-remain-in-custody-while-corruption-charges-aga.md)
@@ -69,7 +69,7 @@ As Belgium marks one year without a government, European Council President Herma
 ### [Germany's plagiarism scandal widens, engulfing the European Parliament's vice president Silvana Koch-Mehrin accused of plagiarizing 25 per cent of her doctoral thesis; she refuses to comment. ](/news/2011/04/26/germany-s-plagiarism-scandal-widens-engulfing-the-european-parliament-s-vice-president-silvana-koch-mehrin-accused-of-plagiarizing-25-per-c.md)
 The European Parliament’s vice president has become the latest among a growing number of high profile German politicians to face allegations that they plagiarised large amounts of other people’s academic work in order to obtain a university doctorate.
 
-### [American politics:Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-prep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md)
+### [American politics:. Rep. Ron Paul announces that he will again be seeking the Republican nomination for President of the United States. ](/news/2011/04/26/american-politics-rep-ron-paul-announces-that-he-will-again-be-seeking-the-republican-nomination-for-president-of-the-united-states.md)
 An election official in New Jersey rules that Olympic gold medallist Carl Lewis fails to meet the residency requirement to run for elected office.
 
 ### [Voters in Nigeria go to the polls for state governor elections. ](/news/2011/04/26/voters-in-nigeria-go-to-the-polls-for-state-governor-elections.md)

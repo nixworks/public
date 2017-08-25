@@ -1,6 +1,6 @@
 ## [2012-07-22](/news/2012/07/22/index.md)
 
-### [Syrian uprising (2011-present):Turkey dispatches reinforcements at its border with Syria as another border crossing is captured by rebels. ](/news/2012/07/22/syrian-uprising-2011apresent-pturkey-dispatches-reinforcements-at-its-border-with-syria-as-another-border-crossing-is-captured-by-rebels.md)
+### [Syrian uprising (2011-present):. Turkey dispatches reinforcements at its border with Syria as another border crossing is captured by rebels. ](/news/2012/07/22/syrian-uprising-2011-present-turkey-dispatches-reinforcements-at-its-border-with-syria-as-another-border-crossing-is-captured-by-rebel.md)
 Four Syrian refugees and four members of the Turkish security forces were hurt on Sunday when riots broke out at a refugee camp in Turkey near the Syrian border, the Dogan News Agency said.
 
 ### [The Madagascan Army clashes with mutinous soldiers near the airport in the capital Antananarivo. ](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.md)
@@ -12,7 +12,7 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
 _Context: Beijing, China_
 
-### [A moderately strong earthquake with a magnitude of 5.0  hits Kahramanmaras, Turkey.  ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
+### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
 _Context: Kahramanmaras, Turkey_
 
 ### [A military helicopter crashes in Hakkari province, Turkey, killing three soldiers and injuring four others. ](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.md)
@@ -24,7 +24,7 @@ _Context: Texas, pickup truck_
 ### [The Libyan Olympic committee chief kidnapped a week ago, Ahmad Nabil al-Alam, is released unharmed. ](/news/2012/07/22/the-libyan-olympic-committee-chief-kidnapped-a-week-ago-ahmad-nabil-al-alam-is-released-unharmed.md)
 The president of the Libyan Olympic Committee, Nabil al-Alam, is released - a week after he was kidnapped by gunmen in Tripoli.
 
-### [Pranab Mukherjee is elected as the new President of India.  ](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.md)
+### [Pranab Mukherjee is elected as the new President of India. ](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.md)
 _Context: Pranab Mukherjee, President of India, elected_
 
 ### [U.S. President Barack Obama visits the town of Aurora, Colorado, to console the families of victims of the recent shooting that left 12 dead and dozens injured. ](/news/2012/07/22/u-s-president-barack-obama-visits-the-town-of-aurora-colorado-to-console-the-families-of-victims-of-the-recent-shooting-that-left-12-dead.md)

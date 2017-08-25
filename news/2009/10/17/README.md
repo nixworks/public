@@ -1,6 +1,6 @@
 ## [2009-10-17](/news/2009/10/17/index.md)
 
-### [ Czech President Vclav Klaus compares the Treaty of Lisbon to  "an unstoppable speeding train" that he is being forced to sign. ](/news/2009/10/17/czech-president-vaclav-klaus-compares-the-treaty-of-lisbon-to-an-unstoppable-speeding-train-that-he-is-being-forced-to-sign.md)
+### [ Czech President Vclav Klaus compares the Treaty of Lisbon to "an unstoppable speeding train" that he is being forced to sign. ](/news/2009/10/17/czech-president-vaclav-klaus-compares-the-treaty-of-lisbon-to-an-unstoppable-speeding-train-that-he-is-being-forced-to-sign.md)
 _Context: Czech Republic, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. ](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.md)
@@ -18,10 +18,10 @@ _Context: Colorado, Fort Collins, Colorado, balloon boy hoax_
 ### [ A South Korean legislator claims North Korea is holding 154,000 of its citizens in gulags. ](/news/2009/10/17/a-south-korean-legislator-claims-north-korea-is-holding-154-000-of-its-citizens-in-gulags.md)
 _Context: North Korea, South Korea, gulags_
 
-### [ A Colombian military official claims that eight FARC guerrillas and five Colombian army soldiers have been killed in heavy fighting in Cauca Department.  ](/news/2009/10/17/a-colombian-military-official-claims-that-eight-farc-guerrillas-and-five-colombian-army-soldiers-have-been-killed-in-heavy-fighting-in-cauc.md)
+### [ A Colombian military official claims that eight FARC guerrillas and five Colombian army soldiers have been killed in heavy fighting in Cauca Department. ](/news/2009/10/17/a-colombian-military-official-claims-that-eight-farc-guerrillas-and-five-colombian-army-soldiers-have-been-killed-in-heavy-fighting-in-cauc.md)
 _Context: Cauca Department, Colombia, Colombian Army, Revolutionary Armed Forces of Colombia_
 
-### [ Iran frees ''Newsweek'' reporter Maziar Bahari on bail after four months in detention following the disputed presidential election. ](/news/2009/10/17/iran-frees-newsweek-reporter-maziar-bahari-on-bail-after-four-months-in-detention-following-the-disputed-presidential-election.md)
+### [ Iran frees "Newsweek" reporter Maziar Bahari on bail after four months in detention following the disputed presidential election. ](/news/2009/10/17/iran-frees-newsweek-reporter-maziar-bahari-on-bail-after-four-months-in-detention-following-the-disputed-presidential-election.md)
 _Context: Iran, Maziar Bahari, Newsweek, re-election_
 
 ### [ More than one million anti-abortion protesters march through Madrid in one of the largest demonstrations since 2003 and 2004 anti-war protests. ](/news/2009/10/17/more-than-one-million-anti-abortion-protesters-march-through-madrid-in-one-of-the-largest-demonstrations-since-2003-and-2004-anti-war-prote.md)

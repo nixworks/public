@@ -15,7 +15,7 @@ _Context: Ariel Sharon, Israeli Prime Minister, Jerusalem, cardiac catheterizati
 ### [ A Qassam rocket fired at the Israeli kibbutz Sa'ad lands near a preschool. No injuries are reported. ](/news/2005/12/26/a-qassam-rocket-fired-at-the-israeli-kibbutz-sa-ad-lands-near-a-preschool-no-injuries-are-reported.md)
 _Context: Qassam rocket, Sa'ad, preschool_
 
-### [ ''SeaQuest DSV'' is released on DVD for the first time.](/news/2005/12/26/seaquest-dsv-is-released-on-dvd-for-the-first-time.md)
+### [ "SeaQuest DSV" is released on DVD for the first time.](/news/2005/12/26/seaquest-dsv-is-released-on-dvd-for-the-first-time.md)
 _Context: SeaQuest DSV_
 
 ### [ Kerry Packer, major shareholder of PBL, dies of kidney failure at the age of 68.](/news/2005/12/26/kerry-packer-major-shareholder-of-pbl-dies-of-kidney-failure-at-the-age-of-68.md)

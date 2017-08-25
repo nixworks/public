@@ -9,7 +9,7 @@ _Context: Bank of Canada, Canadian Prime Minister, David Dodge, Mark Carney, Ste
 ### [ The recording industry wins a key victory with a court in the U.S. state of Minnesota finding that a woman was liable for damages of $220,000 for sharing copyrighted music online through Kazaa. ](/news/2007/10/4/the-recording-industry-wins-a-key-victory-with-a-court-in-the-u-s-state-of-minnesota-finding-that-a-woman-was-liable-for-damages-of-220-0.md)
 _Context: Kazaa, Minnesota, US$, copyright, damages, recording industry_
 
-### [ Family members of deceased ''de facto'' president of Chile Augusto Pinochet are arrested in Santiago on charges of embezzlement. ](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.md)
+### [ Family members of deceased "de facto" president of Chile Augusto Pinochet are arrested in Santiago on charges of embezzlement. ](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.md)
 _Context: Augusto Pinochet, Chile, Santiago, embezzlement_
 
 ### [ Republican Party Senator Larry Craig from Idaho vows to serve out his term in the United States Senate despite losing a court bid to rescind a guilty plea for an indecent act in a Minneapolis Airport men's room. ](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.md)
@@ -36,7 +36,7 @@ The last of 3,200 miners trapped deep in a South African mine shaft have come to
 ### [ A court case to challenge the overthrow of Laisenia Qarase's government of Fiji opens in Suva. ](/news/2007/10/4/a-court-case-to-challenge-the-overthrow-of-laisenia-qarase-s-government-of-fiji-opens-in-suva.md)
 _Context: Fiji, Laisenia Qarase, Suva, coup in 2006_
 
-### [ Russia celebrates the fiftieth anniversary of the launch of ''Sputnik 1'', which marked the start of the Space Race. ](/news/2007/10/4/russia-celebrates-the-fiftieth-anniversary-of-the-launch-of-sputnik-1-which-marked-the-start-of-the-space-race.md)
+### [ Russia celebrates the fiftieth anniversary of the launch of "Sputnik 1", which marked the start of the Space Race. ](/news/2007/10/4/russia-celebrates-the-fiftieth-anniversary-of-the-launch-of-sputnik-1-which-marked-the-start-of-the-space-race.md)
 _Context: Russia, Space Race, Sputnik 1_
 
 ## [Previous Day...](/news/2007/10/3/index.md)

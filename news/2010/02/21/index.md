@@ -1,6 +1,6 @@
 ## [2010-02-21](/news/2010/02/21/index.md)
 
-### [Six Abu Sayyaf Islamic militants, including "most wanted" leader Albader Parad, die after coming into contact with troops at the foot of Mount Tucay in Maimbung, Sulu on Jolo in the Philippines.  ](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.md)
+### [Six Abu Sayyaf Islamic militants, including "most wanted" leader Albader Parad, die after coming into contact with troops at the foot of Mount Tucay in Maimbung, Sulu on Jolo in the Philippines. ](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.md)
 Albader Parad said to be among victims of Philippines army operation in Jolo.
 
 ### [The venue for an AC/DC concert upsets WWF Austria environmentalists in Wels who fear it will "smash" endangered species. ](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.md)
@@ -18,7 +18,7 @@ _Context: Antarctic, Australia, Foreign Minister, International Court of Justice
 ### [Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. ](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.md)
 The 1,600 Dutch soldiers in Afghanistan will probably leave this year, Prime Minister Jan Peter Balkenende said Sunday. 
 
-### [Prime Minister Gordon Brown battles a book published in ''The Observer'' which makes claims of bullying, including grabbing a secretary, stabbing with a pen and shouting expletives as members of his own staff contact the National Bullying Helpline to express their "concerns". ](/news/2010/02/21/prime-minister-gordon-brown-battles-a-book-published-in-the-observer-which-makes-claims-of-bullying-including-grabbing-a-secretary-sta.md)
+### [Prime Minister Gordon Brown battles a book published in "The Observer" which makes claims of bullying, including grabbing a secretary, stabbing with a pen and shouting expletives as members of his own staff contact the National Bullying Helpline to express their "concerns". ](/news/2010/02/21/prime-minister-gordon-brown-battles-a-book-published-in-the-observer-which-makes-claims-of-bullying-including-grabbing-a-secretary-stabb.md)
 A number of Downing Street staff have called an anti-bullying hotline, according to the head of a charity who criticised Gordon Brown for his handling of the situation.
 
 ## [Previous Day...](/news/2010/02/20/index.md)

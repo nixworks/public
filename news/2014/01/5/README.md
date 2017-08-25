@@ -1,6 +1,6 @@
 ## [2014-01-5](/news/2014/01/5/index.md)
 
-### [Syrian Civil War spillover in Lebanon:A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-pa-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-tha.md)
+### [Syrian Civil War spillover in Lebanon:. A sniper kills a man and six people are wounded in clashes between districts in Tripoli, Lebanon, that support rival sides in neighboring Syria's civil war. ](/news/2014/01/5/syrian-civil-war-spillover-in-lebanon-a-sniper-kills-a-man-and-six-people-are-wounded-in-clashes-between-districts-in-tripoli-lebanon-th.md)
 _Context: Syrian Civil War spillover in Lebanon, Tripoli, Lebanon_
 
 ### [Voters in Bangladesh go to the polls for a general election. ](/news/2014/01/5/voters-in-bangladesh-go-to-the-polls-for-a-general-election.md)

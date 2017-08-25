@@ -1,6 +1,6 @@
 ## [2012-02-10](/news/2012/02/10/index.md)
 
-### [Arab Spring:2011-2012 Syrian uprising:The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/arab-spring-p2011-2012-syrian-uprising-pthe-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md)
+### [Arab Spring:. 2011-2012 Syrian uprising:. The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/arab-spring-2011-2012-syrian-uprising-the-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [People in Greece protest against the latest austerity measures imposed on their country, as more senior politicians resign. ](/news/2012/02/10/people-in-greece-protest-against-the-latest-austerity-measures-imposed-on-their-country-as-more-senior-politicians-resign.md)
@@ -21,16 +21,16 @@ _Context: Puntland, Somalia, Somaliland_
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
 _Context: Afghanistan's, Leon Panetta, Marines, Nazi, Schutzstaffel, Secretary of Defense, sniper_
 
-### [The United States Central Intelligence Agency website  and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
+### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
 _Context: Alabama, CIA, United States, hacker group Anonymous_
 
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
 _Context: Michael D. Higgins, President_
 
-### [''The Cats of Copenhagen'', a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". ](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.md)
+### ["The Cats of Copenhagen", a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". ](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.md)
 _Context: Dublin, James Joyce, The Cats of Copenhagen_
 
-### [''The Guard'' wins ''The Guardian''{{'}}s annual First Film award. ](/news/2012/02/10/the-guard-wins-the-guardian-s-annual-first-film-award.md)
+### ["The Guard" wins "The Guardian"{{'}}s annual First Film award. ](/news/2012/02/10/the-guard-wins-the-guardian-s-annual-first-film-award.md)
 _Context: The Guard, The Guardian_
 
 ### [Spanish photographer Samuel Aranda wins the 2011 World Press Photo of the Year with an image of a veiled woman holding a wounded relative in her arms after a demonstration in Yemen. ](/news/2012/02/10/spanish-photographer-samuel-aranda-wins-the-2011-world-press-photo-of-the-year-with-an-image-of-a-veiled-woman-holding-a-wounded-relative-in.md)
@@ -54,7 +54,7 @@ _Context: Kaesong area, North Korea, South Korea_
 ### [A Ugandan lawmaker who propose the Anti-Homosexuality Bill scraps the proposed death penalty clause. ](/news/2012/02/10/a-ugandan-lawmaker-who-propose-the-anti-homosexuality-bill-scraps-the-proposed-death-penalty-clause.md)
 _Context: Uganda, death penalty, law_
 
-### [Banking scion Nat Rothschild loses his libel action against the ''Daily Mail'' for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelso.md)
+### [Banking scion Nat Rothschild loses his libel action against the "Daily Mail" for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelson.md)
 _Context: Daily Mail, Nat Rothschild, Oleg Deripaska, Peter Mandelson_
 
 ### [Luka Bojovic, an alleged member of the Zemun Clan, is arrested in Valencia, Spain, for involvement in over 20 murders in Serbia, the Netherlands and Spain, including the killing of former Prime Minister of Serbia Zoran Dindic. ](/news/2012/02/10/luka-bojovia-an-alleged-member-of-the-zemun-clan-is-arrested-in-valencia-spain-for-involvement-in-over-20-murders-in-serbia-the-nether.md)

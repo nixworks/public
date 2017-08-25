@@ -1,6 +1,6 @@
 ## [2013-10-23](/news/2013/10/23/index.md)
 
-### [Syrian civil war:The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-pthe-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-wi.md)
+### [Syrian civil war:. The Al-Nusra Front captures the Syriac Orthodox village of Sadad, killing at least 9 people and sparking heavy fighting with Syrian Army forces. ](/news/2013/10/23/syrian-civil-war-the-al-nusra-front-captures-the-syriac-orthodox-village-of-sadad-killing-at-least-9-people-and-sparking-heavy-fighting-w.md)
 Much of Syria, including the capital Damascus, was hit by a power cut late on Wednesday after rebels attacked a gas pipeline, state media said.
 
 ### [Eight police officers and two Islamist militants are killed in clashes near Sidi Bouzid in the southern part of Tunisia. ](/news/2013/10/23/eight-police-officers-and-two-islamist-militants-are-killed-in-clashes-near-sidi-bouzid-in-the-southern-part-of-tunisia.md)
@@ -21,7 +21,7 @@ _Context: Iran, drug trafficking, hanging_
 ### [A 14-year-old student from Danvers, Massachusetts is accused of killing his math teacher at Danvers High School and dumping the body in the woods. ](/news/2013/10/23/a-14-year-old-student-from-danvers-massachusetts-is-accused-of-killing-his-math-teacher-at-danvers-high-school-and-dumping-the-body-in-the.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [2013 protests in Tunisia:Thousands of Tunisian protesters take to the streets calling for the Islamist government led by the Ennahda Movement to step down hours before crisis talks between the government and opposition leaders. ](/news/2013/10/23/2013-protests-in-tunisia-pthousands-of-tunisian-protesters-take-to-the-streets-calling-for-the-islamist-government-led-by-the-ennahda-moveme.md)
+### [2013 protests in Tunisia:. Thousands of Tunisian protesters take to the streets calling for the Islamist government led by the Ennahda Movement to step down hours before crisis talks between the government and opposition leaders. ](/news/2013/10/23/2013-protests-in-tunisia-thousands-of-tunisian-protesters-take-to-the-streets-calling-for-the-islamist-government-led-by-the-ennahda-movem.md)
 Thousands of Tunisians marched through the capital on Wednesday chanting for their government to step down, hours before ruling Islamists and opposition leaders were to start talks aimed at end months of political crisis.
 
 ### [A Chinese newspaper publishes a rare appeal for the release of one of its journalists held by police. ](/news/2013/10/23/a-chinese-newspaper-publishes-a-rare-appeal-for-the-release-of-one-of-its-journalists-held-by-police.md)

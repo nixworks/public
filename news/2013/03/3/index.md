@@ -1,12 +1,12 @@
 ## [2013-03-3](/news/2013/03/3/index.md)
 
-### [2013 Lahad Datu standoff:Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-pfighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage-i.md)
+### [2013 Lahad Datu standoff:. Fighting erupts in Sabah, Malaysia, leaving seven dead, including five policemen. Four people are taken hostage. In response, the Malaysian Military doubles their troop presence in the area. ](/news/2013/03/3/2013-lahad-datu-standoff-fighting-erupts-in-sabah-malaysia-leaving-seven-dead-including-five-policemen-four-people-are-taken-hostage.md)
 At least five police officers have died in another armed clash with gunmen in eastern Sabah state, officials in Malaysia say.
 
-### [2013 Bangladesh protests:At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-pat-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md)
+### [2013 Bangladesh protests:. At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md)
 At least 16 people die in continuing violence in Bangladesh as a strike called over a death sentence given to an Islamist party leader starts.
 
-### [March 2013 Karachi bombing:A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-pa-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md)
+### [March 2013 Karachi bombing:. A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. ](/news/2013/03/3/march-2013-karachi-bombing-a-bomb-blast-in-karachi-pakistan-kills-at-least-45-people-in-a-predominately-shia-muslim-area.md)
 An explosion near a mosque in a Shia area of the Pakistani city of Karachi has killed at least 45 people and injured dozens more, police say.
 
 ### [Queen Elizabeth II is admitted to hospital for observation after experiencing symptoms of gastroenteritis. Buckingham Palace has described it as a "precaution". ](/news/2013/03/3/queen-elizabeth-ii-is-admitted-to-hospital-for-observation-after-experiencing-symptoms-of-gastroenteritis-buckingham-palace-has-described-i.md)

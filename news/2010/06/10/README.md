@@ -1,6 +1,6 @@
 ## [2010-06-10](/news/2010/06/10/index.md)
 
-### [War in Afghanistan:Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-ptaliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md)
+### [War in Afghanistan:. Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md)
 The killings of low-level officials are an attempt to undermine counterinsurgency operations in the south. 
 
 ### [Soweto hosts an opening concert ahead of the 2010 FIFA World Cup, attended by tens of thousands of people and featuring appearances from international figures such as Desmond Tutu, Hugh Masekela, Amadou & Mariam, Shakira, Juanes, Black Eyed Peas and Alicia Keys. ](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.md)
@@ -9,7 +9,7 @@ _Context: 2010 FIFA World Cup, Alicia Keys, Amadou & Mariam, Black Eyed Peas, De
 ### [15 large storage boxes containing manuscripts, notebooks and letters belonging to J. G. Ballard are acquired by the British Library. ](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.md)
 An &quot;extraordinary insight&quot; into Empire of the Sun author JG Ballard is acquired by the British Library.
 
-### [Gulf of Mexico oil spill:The Obama administration  announces that BP  will speed up claims payments stemming from the massive Gulf oil spill, to fishermen, property owners and businesspeople who have filed damage claims and are complaining of delays, excessive paperwork and inadequate  compensation. ](/news/2010/06/10/gulf-of-mexico-oil-spill-pthe-obama-administration-announces-that-bp-will-speed-up-claims-payments-stemming-from-the-massive-gulf-oil-spil.md)
+### [Gulf of Mexico oil spill:. The Obama administration announces that BP will speed up claims payments stemming from the massive Gulf oil spill, to fishermen, property owners and businesspeople who have filed damage claims and are complaining of delays, excessive paperwork and inadequate compensation. ](/news/2010/06/10/gulf-of-mexico-oil-spill-the-obama-administration-announces-that-bp-will-speed-up-claims-payments-stemming-from-the-massive-gulf-oil-spill.md)
 British Petroleum said Thursday it plans to increase its ability to capture the oil gushing from a leaking well in the Gulf of Mexico by early next week. Meanwhile, the White House announced that the company agreed to speed up claims payments.
 
 ### [A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. ](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.md)
@@ -27,7 +27,7 @@ _Context: Chen Shui-bian, President of Taiwan, Taiwan_
 ### [Vujadin Popovic and Ljubisa Beara, former high-ranking officers of the Bosnian Serb army, are found guilty of genocide and sentenced to life imprisonment for their roles in the 1995 Srebrenica massacre, the harshest judgment ever delivered by the International Criminal Tribunal for the former Yugoslavia. ](/news/2010/06/10/vujadin-popovia-and-ljubia-a-beara-former-high-ranking-officers-of-the-bosnian-serb-army-are-found-guilty-of-genocide-and-sentenced-to-li.md)
 UN court delivers life sentence to two men involved in the Srebrenica massacre.
 
-### [Milos Simovic is arrested in a forest near Belgrade while attempting to cross into Croatia. He was convicted ''in absentia'' of the assassination of Serbian Prime Minister Zoran Dindic in 2003. ](/news/2010/06/10/miloa-simovia-is-arrested-in-a-forest-near-belgrade-while-attempting-to-cross-into-croatia-he-was-convicted-in-absentia-of-the-assass.md)
+### [Milos Simovic is arrested in a forest near Belgrade while attempting to cross into Croatia. He was convicted "in absentia" of the assassination of Serbian Prime Minister Zoran Dindic in 2003. ](/news/2010/06/10/miloa-simovia-is-arrested-in-a-forest-near-belgrade-while-attempting-to-cross-into-croatia-he-was-convicted-in-absentia-of-the-assassin.md)
 Second man arrested as accomplice in the killing of Serbian PM Zoran Djindjic in 2003 is detained in Croatia.
 
 ### [Max Goeldi, the Swiss businessman at the centre of a long-running diplomatic row between Libya and Switzerland, is released from prison in Tripoli. ](/news/2010/06/10/max-goeldi-the-swiss-businessman-at-the-centre-of-a-long-running-diplomatic-row-between-libya-and-switzerland-is-released-from-prison-in-t.md)

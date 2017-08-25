@@ -9,7 +9,7 @@ Indonesian police are investigating whether or not a video allegedly showing Ind
 ### [The death toll from a robbery on jewelry stores in western Baghdad rises to nine, while 12 others are wounded. ](/news/2010/10/18/the-death-toll-from-a-robbery-on-jewelry-stores-in-western-baghdad-rises-to-nine-while-12-others-are-wounded.md)
 _Context: Baghdad_
 
-### [Thousands protest the murder of three civilians after soldiers loot homes in the  Congo's South Kivu province. ](/news/2010/10/18/thousands-protest-the-murder-of-three-civilians-after-soldiers-loot-homes-in-the-congo-s-south-kivu-province.md)
+### [Thousands protest the murder of three civilians after soldiers loot homes in the Congo's South Kivu province. ](/news/2010/10/18/thousands-protest-the-murder-of-three-civilians-after-soldiers-loot-homes-in-the-congo-s-south-kivu-province.md)
 _Context: Democratic Republic of the Congo, South Kivu_
 
 ### [The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. ](/news/2010/10/18/the-latvian-defense-ministry-said-four-nato-fighter-jets-from-the-lithuanian-air-force-base-near-a-iauliai-were-deployed-when-two-russian-bo.md)
@@ -21,7 +21,7 @@ _Context: Ho Chi Minh City, Hoi An, Miss Earth, Miss Vietnam World, Nha Trang, P
 ### [Bank of America resumes foreclosures in 23 states following a temporary halt in foreclosures due to the 2010 Foreclosure crisis](/news/2010/10/18/bank-of-america-resumes-foreclosures-in-23-states-following-a-temporary-halt-in-foreclosures-due-to-the-2010-foreclosure-crisis.md)
 _Context: Bank of America, Foreclosure crisis, foreclose_
 
-### [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the  explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deep.md)
+### [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deepw.md)
 BP says it will sell some business interests in Vietnam and Venezuela for $1.8bn, as the oil giant raises funds to pay for the Gulf oil spill.
 
 ### [Rio Tinto Group and BHP Billiton announce that they have scrapped a proposed $120 billion joint venture in the Pilbara region of Western Australia due to regulatory problems. ](/news/2010/10/18/rio-tinto-group-and-bhp-billiton-announce-that-they-have-scrapped-a-proposed-120-billion-joint-venture-in-the-pilbara-region-of-western-aus.md)
@@ -30,7 +30,7 @@ Rio Tinto and BHP Billiton announce they have scrapped plans for their $120b iro
 ### [French strikes intensify ahead of Wednesday's Senate vote on pension reform, with a thousand petrol stations running out of fuel, rail strikes intensifying and truck drivers performing go-slows on highways. ](/news/2010/10/18/french-strikes-intensify-ahead-of-wednesday-s-senate-vote-on-pension-reform-with-a-thousand-petrol-stations-running-out-of-fuel-rail-strik.md)
 * Refinery workers stay on strike, truckers slow roads * Government says will not permit industry blockades * Petrol pumps run dry, police
 
-### [Typhoon Megi:One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-pone-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-se.md)
+### [Typhoon Megi:. One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-one-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-s.md)
 A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and winds of up to 260km/h (162mph), leaving at least three people dead.
 
 ### [Flood waters in Vietnam's Ha Tinh Province sweep away a bus with 20 people missing, presumed dead. ](/news/2010/10/18/flood-waters-in-vietnam-s-ha-ta-c-nh-province-sweep-away-a-bus-with-20-people-missing-presumed-dead.md)
@@ -84,7 +84,7 @@ Election observers and foreign journalists will not be allowed into Burma for it
 ### [China's Vice President Xi Jinping is named vice-chair of the Central Military Commission. ](/news/2010/10/18/china-s-vice-president-xi-jinping-is-named-vice-chair-of-the-central-military-commission.md)
 _Context: Central Military Commission, Vice President, Xi Jinping_
 
-### [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the ''Sudan Tribune'' calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect.md)
+### [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the "Sudan Tribune" calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect-th.md)
 _Context: International Criminal Court, Omar al-Bashir, Sudan Tribune, Sudanese cabinet, conflict_
 
 ### [The Australian Government announces that it will establish two new Immigration detention centres in Northam, Western Australia and Inverbrackie, South Australia and end detention of children and family groups. ](/news/2010/10/18/the-australian-government-announces-that-it-will-establish-two-new-immigration-detention-centres-in-northam-western-australia-and-inverbrac.md)

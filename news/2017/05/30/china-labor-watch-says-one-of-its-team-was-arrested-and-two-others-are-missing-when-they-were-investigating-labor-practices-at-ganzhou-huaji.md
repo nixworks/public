@@ -1,6 +1,6 @@
 ### [2017-05-30](/news/2017/05/30/index.md)
 
-# China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co.,  whose products include Ivanka Trump-branded shoes. 
+# China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co., whose products include Ivanka Trump-branded shoes. 
 
 
 
@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [DinosaursThe "Pinocchio Rex" (''Qianzhousaurus sinensis'') is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurspthe-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _Context: Ganzhou_
+1. [Dinosaurs. The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/dinosaurs-the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md) _Context: Ganzhou_

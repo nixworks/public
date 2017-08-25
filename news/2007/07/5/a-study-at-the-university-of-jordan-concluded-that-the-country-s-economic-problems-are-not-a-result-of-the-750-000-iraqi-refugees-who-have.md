@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Iraqi parliamentary election, 2010:Iraqis living in Iran vote. ](/news/2010/03/6/iraqi-parliamentary-election-2010-piraqis-living-in-iran-vote.md) _Context: Iraqis_
+1. [Iraqi parliamentary election, 2010:. Iraqis living in Iran vote. ](/news/2010/03/6/iraqi-parliamentary-election-2010-iraqis-living-in-iran-vote.md) _Context: Iraqis_

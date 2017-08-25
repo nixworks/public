@@ -1,9 +1,9 @@
 ## [2015-09-2](/news/2015/09/2/index.md)
 
-### [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md)
+### [Iraq War (2014-present). Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/iraq-war-2014-present-masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md)
 _Context: Baghdad, Iraq War (2014-present), Turkish_
 
-### [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md)
+### [Syrian Civil War. A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/syrian-civil-war-a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md)
 At least ten people were killed and scores wounded when a car bomb exploded in the Syrian city of Latakia Wednesday, state television said, in a rare attack in a coastal stronghold of President Bashar al-Assad.
 
 ### [150 million workers go on strike in India to oppose Prime Minister Narendra Modi's labour market reforms. ](/news/2015/09/2/150-million-workers-go-on-strike-in-india-to-oppose-prime-minister-narendra-modi-s-labour-market-reforms.md)
@@ -12,13 +12,13 @@ _Context: India, India's Prime Minister, Narendra Modi_
 ### [French police arrest an arsonist for a fire in an apartment in the 18th arrondissement of Paris which killed eight people.](/news/2015/09/2/french-police-arrest-an-arsonist-for-a-fire-in-an-apartment-in-the-18th-arrondissement-of-paris-which-killed-eight-people.md)
 French police arrest a man suspected of starting a fire that killed eight people, including two children, in northern Paris.
 
-### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
+### [Upcoming congressional votes. President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/upcoming-congressional-votes-president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-con.md)
 _Context: Barack Obama, Iran, United States Senate, Upcoming congressional votes, president_
 
 ### [Eight people have been killed and over 30 injured in riots in the Indian state of Manipur since the passage of three controversial land bills on Monday. ](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.md)
 Three persons were killed on Tuesday when police opened fire on a mob which attacked Churachandpur police station. 
 
-### [There have been 907 deaths last month in El Salvador as a result of gang violence, a death rate not seen since the Salvadoran Civil War of the 1980s. ](/news/2015/09/2/there-have-been-907-deaths-last-month-in-el-salvador-as-a-result-of-gang-violence-a-death-rate-not-seen-since-the-salvadoran-civil-war-of-t.md)
+### [Crime in El Salvador. There have been 907 deaths last month in El Salvador as a result of gang violence, a death rate not seen since the Salvadoran Civil War of the 1980s. ](/news/2015/09/2/crime-in-el-salvador-there-have-been-907-deaths-last-month-in-el-salvador-as-a-result-of-gang-violence-a-death-rate-not-seen-since-the-sal.md)
 Gang violence in El Salvador left 907 people dead last month, a level of bloodshed unseen since the civil war of the 1980s, police say.
 
 ### [The Dutch Public Prosecution Service releases a statement that former Deputy Prime Minister of the Netherlands Els Borst who was murdered on 8 February 2014, died from forty-one stab wounds on her head, neck and hands. ](/news/2015/09/2/the-dutch-public-prosecution-service-releases-a-statement-that-former-deputy-prime-minister-of-the-netherlands-els-borst-who-was-murdered-on.md)

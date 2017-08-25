@@ -1,6 +1,6 @@
 ### [2011-03-2](/news/2011/03/2/index.md)
 
-# Pope Benedict XVI exonerates the Jewish people for the responsibility for the death of Jesus in his book ''Jesus of Nazareth Part II''. 
+# Pope Benedict XVI exonerates the Jewish people for the responsibility for the death of Jesus in his book "Jesus of Nazareth Part II". 
 
 
 

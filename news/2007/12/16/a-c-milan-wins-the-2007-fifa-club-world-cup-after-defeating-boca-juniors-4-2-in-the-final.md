@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual EUR400 million. ](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.md) _Context: A.C. Milan_
+1. [Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual -400 million. ](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.md) _Context: A.C. Milan_
 2. [David Beckham tears his Achilles tendon in a match for A.C. Milan. He is ruled out for the 2010 FIFA World Cup. ](/news/2010/03/14/david-beckham-tears-his-achilles-tendon-in-a-match-for-a-c-milan-he-is-ruled-out-for-the-2010-fifa-world-cup.md) _Context: A.C. Milan_

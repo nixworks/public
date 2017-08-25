@@ -24,8 +24,8 @@ _Context: Michael Applebaum, Montreal, Quebec_
 ### [The Prime Minister of the Czech Republic, Petr Necas, submits his resignation following a corruption scandal. ](/news/2013/06/17/the-prime-minister-of-the-czech-republic-petr-neaas-submits-his-resignation-following-a-corruption-scandal.md)
 Prime Minister Petr Necas of the Czech Republic said Sunday that he would resign, following a corruption scandal involving a senior aide.
 
-### [Brazilians go to the streets in Sao Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sapso-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-par.md)
-_Context: 2013 protests in Brazil, Rio de Janeiro, Sao Paulo_
+### [Brazilians go to the streets in SGBPo Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sagbpo-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-p.md)
+_Context: 2013 protests in Brazil, Rio de Janeiro, SGBPo Paulo_
 
 ### [Confidence in President Barack Obama drops below 50%, its lowest level in 19 months as Americans worry over broad government surveillance and other controversies. ](/news/2013/06/17/confidence-in-president-barack-obama-drops-below-50-its-lowest-level-in-19-months-as-americans-worry-over-broad-government-surveillance-an.md)
 Confidence in US President Barack Obama has dropped below 50% to its lowest level in 19 months as Americans worry over broad government surveillance and other controversies, a poll shows.

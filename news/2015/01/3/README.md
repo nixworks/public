@@ -1,6 +1,6 @@
 ## [2015-01-3](/news/2015/01/3/index.md)
 
-### [Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men. ](/news/2015/01/3/fleeing-villagers-from-a-remote-part-of-the-borno-state-report-that-boko-haram-had-three-days-prior-kidnapped-around-40-boys-and-young-men.md)
+### [Boko Haram. Fleeing villagers from a remote part of the Borno State report that Boko Haram had three days prior kidnapped around 40 boys and young men. ](/news/2015/01/3/boko-haram-fleeing-villagers-from-a-remote-part-of-the-borno-state-report-that-boko-haram-had-three-days-prior-kidnapped-around-40-boys-and.md)
 Suspected Boko Haram militants have kidnapped about 40 boys and young men in a raid on a remote village in north-eastern Nigeria, residents say.
 
 ### [Turkey permits the building of a Syriac church in Istanbul, the first construction of a Christian house of worship allowed since the founding of the modern republic in 1923. ](/news/2015/01/3/turkey-permits-the-building-of-a-syriac-church-in-istanbul-the-first-construction-of-a-christian-house-of-worship-allowed-since-the-foundin.md)
@@ -18,7 +18,7 @@ The search for the eight missing crew of the cargo ship Cemfjord in the Pentland
 ### [A prison in Bruges, Belgium, will euthanise serial rapist and murderer Frank Van Den Bleeken on January 11. ](/news/2015/01/3/a-prison-in-bruges-belgium-will-euthanise-serial-rapist-and-murderer-frank-van-den-bleeken-on-january-11.md)
 _Context: Belgium, Bruges, Frank Van Den Bleeken, euthanise_
 
-### [Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-socialists-threatening-to-push-the-l.md)
+### [Greek parliamentary election, 2015. Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/greek-parliamentary-election-2015-former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-s.md)
 _Context: George Papandreou, Greek parliamentary election, 2015, Movement of Democratic Socialists, PASOK_
 
 ## [Previous Day...](/news/2015/01/2/index.md)

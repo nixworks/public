@@ -6,7 +6,7 @@ _Context: 2005 Atlantic hurricane season, Hurricane Epsilon_
 ### [ Gabon: Africa's longest serving president (since 1967), Omar Bongo, wins presidential elections, securing a further seven years in office. ](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.md)
 _Context: Gabon, Omar Bongo, presidential elections_
 
-### [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops.  The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually.md)
+### [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually-p.md)
 As part of an information offensive in Iraq, the U.S. military is secretly paying Iraqi newspapers to publish stories written by American troops in an effort to burnish the image of the U.S. mission...
 
 ### [ A new campaign against Iraqi insurgents begins with joint U.S.-Iraqi troops conducting Operation Iron Hammer in western Iraq. ](/news/2005/11/30/a-new-campaign-against-iraqi-insurgents-begins-with-joint-u-s-iraqi-troops-conducting-operation-iron-hammer-in-western-iraq.md)

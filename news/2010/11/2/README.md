@@ -1,6 +1,6 @@
 ## [2010-11-2](/news/2010/11/2/index.md)
 
-### [Greek mail bombsParcel bombs explode at the Mexican, Russian and Swiss embassies in Greece. Similar packages were sent or addressed to the embassies of Belgium, Bulgaria, Chile, Germany and the Netherlands over the past two days. ](/news/2010/11/2/greek-mail-bombspparcel-bombs-explode-at-the-mexican-russian-and-swiss-embassies-in-greece-similar-packages-were-sent-or-addressed-to-the.md)
+### [Greek mail bombs. Parcel bombs explode at the Mexican, Russian and Swiss embassies in Greece. Similar packages were sent or addressed to the embassies of Belgium, Bulgaria, Chile, Germany and the Netherlands over the past two days. ](/news/2010/11/2/greek-mail-bombs-parcel-bombs-explode-at-the-mexican-russian-and-swiss-embassies-in-greece-similar-packages-were-sent-or-addressed-to-the.md)
 Bombs explode at the Swiss and Russian embassies in Athens and several other suspicious packages are destroyed, police say.
 
 ### [Two militants are killed by security forces in the Shopian district of south Kashmir. ](/news/2010/11/2/two-militants-are-killed-by-security-forces-in-the-shopian-district-of-south-kashmir.md)
@@ -63,7 +63,7 @@ _Context: Jim McDaid, TD, lower house_
 ### [All India Congress Committee meeting begins at Talkatora Stadium in New Delhi. ](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.md)
 _Context: All India Congress Committee, New Delhi, Talkatora Stadium_
 
-### [Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-territorial-govern.md)
+### [U.S. Midterms. Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/u-s-midterms-voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-ter.md)
 Tuesday’s GOP victory is the party’s largest win congressional elections since President Grover Cleveland’s second term more than a century ago. 
 
 ### [Members of the United Kingdom House of Commons vote to hold a referendum on May 5 to replace the first-past-the-post system with the alternative vote. ](/news/2010/11/2/members-of-the-united-kingdom-house-of-commons-vote-to-hold-a-referendum-on-may-5-to-replace-the-first-past-the-post-system-with-the-alterna.md)

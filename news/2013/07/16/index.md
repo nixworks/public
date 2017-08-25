@@ -15,7 +15,7 @@ _Context: British Columbia, Cory Monteith, coronial, drug overdose, ethanol (C|H
 ### [As many as 27 children die and 25 others are hospitalised after eating lunch served at their school in eastern India. ](/news/2013/07/16/as-many-as-27-children-die-and-25-others-are-hospitalised-after-eating-lunch-served-at-their-school-in-eastern-india.md)
 Eight children died and 80 others have been hospitalised after eating lunch served at their school in eastern India.
 
-### [Panamanian authorities seize North Korean bulk carrier ''Chong Chon Gang'' after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which.md)
+### [Panamanian authorities seize North Korean bulk carrier "Chong Chon Gang" after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which-w.md)
 Panama seizes a North Korean-flagged ship carrying &quot;undeclared military cargo&quot; suspected to be &quot;sophisticated missile equipment&quot;, its president says.
 
 ### [South Korea blames North Korea for cyberattacks on government websites last month. ](/news/2013/07/16/south-korea-blames-north-korea-for-cyberattacks-on-government-websites-last-month.md)

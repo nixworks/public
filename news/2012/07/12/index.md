@@ -1,9 +1,9 @@
 ## [2012-07-12](/news/2012/07/12/index.md)
 
-### [Syrian uprising (2011-present):At least 200 people are reportedly killed by the Syrian army in the Syrian village of Tremseh, in Hama province. ](/news/2012/07/12/syrian-uprising-2011-present-pat-least-200-people-are-reportedly-killed-by-the-syrian-army-in-the-syrian-village-of-tremseh-in-hama-provi.md)
+### [Syrian uprising (2011-present):. At least 200 people are reportedly killed by the Syrian army in the Syrian village of Tremseh, in Hama province. ](/news/2012/07/12/syrian-uprising-2011-present-at-least-200-people-are-reportedly-killed-by-the-syrian-army-in-the-syrian-village-of-tremseh-in-hama-prov.md)
 Some 200 people are reported killed in the central Syrian village of Tremseh, in what would be the bloodiest single incident in the unrest.
 
-### [War in North-West Pakistan:Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-pgunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md)
+### [War in North-West Pakistan:. Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/war-in-north-west-pakistan-gunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md)
 _Context: Lahore, Pakistan, Pakistani police, War in North-West Pakistan_
 
 ### [Tongan Crown Prince Tupouto`a `Ulukalala marries Sinaitakala Fakafanua in a wedding ceremony in Nuku`alofa. The marriage, the first for a Crown Prince of Tonga in 65 years, sparks controversy as the couple are second cousins. ](/news/2012/07/12/tongan-crown-prince-tupoutoe-a-e-ulukalala-marries-sinaitakala-fakafanua-in-a-wedding-ceremony-in-nukue-alofa-the-marriage-the-first-for-a.md)

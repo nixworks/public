@@ -15,13 +15,13 @@ _Context: Jewish, John Demjanjuk, Treblinka extermination camp_
 ### [ Flooding affects parts of County Mayo and County Galway in Ireland. ](/news/2009/07/3/flooding-affects-parts-of-county-mayo-and-county-galway-in-ireland.md)
 Repair work is under way in Co Mayo to roads and bridges damaged by overnight flooding.
 
-### [ United Nations Secretary-General Ban Ki-moon  arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-o.md)
+### [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-of.md)
 _Context: Ban Ki-moon, Burma, Secretary General, State Peace and Development Council, Than Shwe, United Nations_
 
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
 _Context: Britain, Iran, Tehran, protests against the regime, trial_
 
-### [ Three dinosaur species&mdash;''Australovenator wintonensis'', ''Wintonotitan wattsi'' and ''Diamantinasaurus matildae''&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovere.md)
+### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)
 Meet Australia&#039;s answer to velociraptor.
 
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
@@ -42,8 +42,8 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
 _Context: Camberwell, England, London, killed after a fire_
 
-### [ Russia opens a route for the United States to fly arms to Afghanistan. ](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan.md)
-The move is one of the most concrete achievements in the effort to rebuild strained U.S.-Russian relations.
+### [ Russia opens a route for the United States to fly arms to Afghanistan. [http://www.nytimes.com/2009/07/04/world/europe/04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md)
+_Context: Afghanistan's, Russia, United States_
 
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
 _Context: 2008, Alaska, Governor, Sarah Palin, U.S. Vice President, United States_

@@ -1,15 +1,15 @@
 ## [2011-11-11](/news/2011/11/11/index.md)
 
-### [Arab Spring:2011 Syrian uprising: 250 Syrians, mostly civilians, have been killed  so far this month, as the violence escalates in Syria's eight-month-old crackdown on pro-democracy protests and attacks on security forces increase. ](/news/2011/11/11/arab-spring-p2011-syrian-uprising-250-syrians-mostly-civilians-have-been-killed-so-far-this-month-as-the-violence-escalates-in-syria-s.md)
+### [Arab Spring:. 2011 Syrian uprising: 250 Syrians, mostly civilians, have been killed so far this month, as the violence escalates in Syria's eight-month-old crackdown on pro-democracy protests and attacks on security forces increase. ](/news/2011/11/11/arab-spring-2011-syrian-uprising-250-syrians-mostly-civilians-have-been-killed-so-far-this-month-as-the-violence-escalates-in-syria-s.md)
 Activists say more than 250 Syrians have been killed so far this month as the political unrest escalates dramatically. 
 
 ### [An armed hijacker claiming to have a bomb takes control of a ferry on the Sea of Marmara near the Turkish port of Izmit but is later killed by the Turkish military. ](/news/2011/11/11/an-armed-hijacker-claiming-to-have-a-bomb-takes-control-of-a-ferry-on-the-sea-of-marmara-near-the-turkish-port-of-izmit-but-is-later-killed.md)
 Assailant armed with explosives had taken control of ferry carrying 20 people; all passengers rescued after 12 hour siege; PKK suspected.
 
-### [First-person shooter video game ''Modern Warfare 3'', published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kin.md)
+### [First-person shooter video game "Modern Warfare 3", published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kingd.md)
 _Context: Activision, Britain, First-person shooter, Modern Warfare 3, North America_
 
-### [Action-adventure video game ''The Elder Scrolls V: Skyrim'' by Bethesda was first released for the PlayStation 3, Xbox 360, and PC.](/news/2011/11/11/action-adventure-video-game-the-elder-scrolls-v-skyrim-by-bethesda-was-first-released-for-the-playstation-3-xbox-360-and-pc.md)
+### [Action-adventure video game "The Elder Scrolls V: Skyrim" by Bethesda was first released for the PlayStation 3, Xbox 360, and PC.](/news/2011/11/11/action-adventure-video-game-the-elder-scrolls-v-skyrim-by-bethesda-was-first-released-for-the-playstation-3-xbox-360-and-pc.md)
 _Context: Action-adventure, The Elder Scrolls V: Skyrim_
 
 ### [Francisco Blake Mora, the Mexican Secretary of the Interior, dies in a plane crash on a way to a meeting with judicial officials. ](/news/2011/11/11/francisco-blake-mora-the-mexican-secretary-of-the-interior-dies-in-a-plane-crash-on-a-way-to-a-meeting-with-judicial-officials.md)

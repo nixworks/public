@@ -1,6 +1,6 @@
 ### [2000-12-7](/news/2000/12/7/index.md)
 
-# '''Died''': Vlado Gotovac, 70, a talented poet, died due to complications caused by Hepatitis
+# "'Died"': Vlado Gotovac, 70, a talented poet, died due to complications caused by Hepatitis
 
 
 

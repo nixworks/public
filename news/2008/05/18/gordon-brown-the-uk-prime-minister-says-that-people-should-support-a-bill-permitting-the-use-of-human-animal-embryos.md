@@ -1,6 +1,6 @@
 ### [2008-05-18](/news/2008/05/18/index.md)
 
-#  Gordon Brown, the UK Prime Minister, says that people should support a bill permitting the use of  human-animal embryos. 
+#  Gordon Brown, the UK Prime Minister, says that people should support a bill permitting the use of human-animal embryos. 
 
 
 
@@ -11,11 +11,11 @@
 
 ### Related:
 
-1. [A report about the United Kingdom's involvement in the Iraq War is released. The chairman of the inquiry, Sir John Chilcot, said that the invasion was not a "last resort" and was based on "flawed intelligence and assessments". The inquiry was announced on 15 June 2009 by then-Prime Minister Gordon Brown.  The final hearing was held on 2 February 2011. ](/news/2016/07/6/a-report-about-the-united-kingdom-s-involvement-in-the-iraq-war-is-released-the-chairman-of-the-inquiry-sir-john-chilcot-said-that-the-in.md) _Context: Gordon Brown_
-2. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: UK_
+1. [Iraq Inquiry. A report about the United Kingdom's involvement in the Iraq War is released. The chairman of the inquiry, Sir John Chilcot, said that the invasion was not a "last resort" and was based on "flawed intelligence and assessments". The inquiry was announced on 15 June 2009 by then-Prime Minister Gordon Brown. The final hearing was held on 2 February 2011. ](/news/2016/07/6/iraq-inquiry-a-report-about-the-united-kingdom-s-involvement-in-the-iraq-war-is-released-the-chairman-of-the-inquiry-sir-john-chilcot-sa.md) _Context: Gordon Brown_
+2. [Global surveillance disclosures (2013-present). Edward Snowden. NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/global-surveillance-disclosures-2013-present-edward-snowden-nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-figh.md) _Context: UK_
 3. [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md) _Context: Gordon Brown_
 4. [A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. ](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.md) _Context: UK_
-5. [Alan Rusbridger, the editor of ''The Guardian'', reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-dri.md) _Context: UK_
+5. [Alan Rusbridger, the editor of "The Guardian", reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-drive.md) _Context: UK_
 6. [UK police announce that they are calling off the search for missing girl April Jones. ](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.md) _Context: UK_
 7. [The BBC confirms that it will not be playing "Ding-Dong! The Witch Is Dead" in full when it counts down the UK pop chart on Sunday, saying it finds "distasteful" the timing of the song's rise up the charts in the wake of Margaret Thatcher's death. ](/news/2013/04/12/the-bbc-confirms-that-it-will-not-be-playing-ding-dong-the-witch-is-dead-in-full-when-it-counts-down-the-uk-pop-chart-on-sunday-saying-i.md) _Context: UK_
 8. [Vicky Pryce, ex-wife of former UK Cabinet Minister Chris Huhne is convicted of perverting the course of justice after accepting speeding penalty points on Huhne's behalf. ](/news/2013/03/7/vicky-pryce-ex-wife-of-former-uk-cabinet-minister-chris-huhne-is-convicted-of-perverting-the-course-of-justice-after-accepting-speeding-pen.md) _Context: UK_

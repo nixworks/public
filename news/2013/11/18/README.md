@@ -1,9 +1,9 @@
 ## [2013-11-18](/news/2013/11/18/index.md)
 
-### [A gunman attacks the offices of the newspaper ''Libration'' and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices.md)
+### [A gunman attacks the offices of the newspaper "Libration" and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. ](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-liberation-and-the-bank-societe-generale-in-paris-three-days-after-attacking-the-offices-of.md)
 A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspaper Liberation, where a photographer was critically injured.
 
-### [Typhoon Haiyan:Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-pphilippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-crit.md)
+### [Typhoon Haiyan:. Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/typhoon-haiyan-philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-cri.md)
 As the U.S. military ramps up aid efforts in the Philippines, President Benigno Aquino III pledged Sunday to remain in the hard-hit Leyte province until he sees more of that aid reaching survivors.
 
 ### [At least twenty people are dead after an Egyptian train collides with a minibus and other vehicles south of Cairo. ](/news/2013/11/18/at-least-twenty-people-are-dead-after-an-egyptian-train-collides-with-a-minibus-and-other-vehicles-south-of-cairo.md)
@@ -12,7 +12,7 @@ _Context: Cairo, Egypt, minibus_
 ### [Mounts Merapi and Sinabung erupt in Indonesia forcing residents of Central Java and North Sumatra to flee. ](/news/2013/11/18/mounts-merapi-and-sinabung-erupt-in-indonesia-forcing-residents-of-central-java-and-north-sumatra-to-flee.md)
 Two volcanoes erupted Monday in Indonesia, prompting warnings for flights and evacuation preparations, official said.
 
-### [Belgium ruled itself out as a candidate to host the destruction of Syria's chemical weapons stockpile and said it would prefer the arsenal to be eradicated close to Syria itself. ](/news/2013/11/18/belgium-ruled-itself-out-as-a-candidate-to-host-the-destruction-of-syria-s-chemical-weapons-stockpile-and-said-it-would-prefer-the-arsenal-t.md)
+### [Destruction of Syria's chemical weapons. Belgium ruled itself out as a candidate to host the destruction of Syria's chemical weapons stockpile and said it would prefer the arsenal to be eradicated close to Syria itself. ](/news/2013/11/18/destruction-of-syria-s-chemical-weapons-belgium-ruled-itself-out-as-a-candidate-to-host-the-destruction-of-syria-s-chemical-weapons-stockpi.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Indonesia recalls its ambassador to Australia and will "review" Australian diplomatic positions in Jakarta following revelations that Australia had tapped the phone of the President Susilo Bambang Yudhoyono and his wife. ](/news/2013/11/18/indonesia-recalls-its-ambassador-to-australia-and-will-review-australian-diplomatic-positions-in-jakarta-following-revelations-that-austra.md)

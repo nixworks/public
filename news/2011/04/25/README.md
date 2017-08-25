@@ -3,16 +3,16 @@
 ### [Guantanamo Files: ](/news/2011/04/25/guantanamo-files.md)
 Top-secret files detailing the interrogations of more than 700 suspects at the Guantanamo Bay detention camp have been obtained by the whistle-blowing website WikiLeaks.
 
-### [2011 Libyan Civil War:NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya)  off-the-air. ](/news/2011/04/25/2011-libyan-civil-war-pnato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knock-3-television.md)
+### [Arab Spring. 2011 Libyan Civil War:. NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/arab-spring-2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knoc.md)
 Syrian security forces backed by tanks advance into the restive city of Deraa, in an apparent escalation of a crackdown on the protest movement.
 
-### [Violence in Nigeria:A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-pa-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-preside.md)
+### [Violence in Nigeria:. A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presid.md)
 The Civil Rights Congress of Nigeria, a Nigerian human rights group, has announced that at least 500 people were killed in post election violence that erupted in northern Nigeria after President Goodluck Jonathan was declared the winner of the presidential election. Supporters of Muhammadu Buhari , ...
 
 ### [Cambodian and Thai troops exchange fire for a fourth consecutive day. ](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.md)
 Bangkok calls for bilateral talks while Cambodia accuses Thai forces of damaging ancient temples in renewed fighting.
 
-### [Iran claims that a second cyberattack (Stuxnet previously) has been attempted via ''Stars'', a computer worm. ](/news/2011/04/25/iran-claims-that-a-second-cyberattack-stuxnet-previously-has-been-attempted-via-stars-a-computer-worm.md)
+### [Iran claims that a second cyberattack (Stuxnet previously) has been attempted via "Stars", a computer worm. ](/news/2011/04/25/iran-claims-that-a-second-cyberattack-stuxnet-previously-has-been-attempted-via-stars-a-computer-worm.md)
 A computer worm called Stars has been detected in computers in Iran, a government official said Monday.
 
 ### [Poly Styrene, founding Punk vocalist, dies in England of breast cancer at age 53. ](/news/2011/04/25/poly-styrene-founding-punk-vocalist-dies-in-england-of-breast-cancer-at-age-53.md)
@@ -54,7 +54,7 @@ _Context: Atlanta, Defense of Marriage Act, King & Spalding, Paul Clement_
 ### [Nearly 500 prisoners, many of them Afghan-based Islamic militants, escape from Kandahar's Sarposa prison. ](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.md)
 _Context: Afghan-based, Islamic terrorism, Kandahar, Sarposa prison_
 
-### [The United Nations publishes the full ''Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka'' which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-cred.md)
+### [The United Nations publishes the full "Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka" which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-credib.md)
 Sri Lankan troops carried out widespread shelling which killed most of the thousands of civilians who died in a 2009 offensive against Tamil Tigers, UN experts say.
 
 ### [About 700 anti-nuclear activists hold a die-in on the border of France and Germany to mark the 25th anniversary of the Chernobyl disaster and after the Fukushima I nuclear accidents in Japan. ](/news/2011/04/25/about-700-anti-nuclear-activists-hold-a-die-in-on-the-border-of-france-and-germany-to-mark-the-25th-anniversary-of-the-chernobyl-disaster-an.md)

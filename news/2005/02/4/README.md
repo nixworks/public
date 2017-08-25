@@ -6,16 +6,16 @@ An asteroid expected to fly past Earth in 2029 inside the orbits of some satelli
 ### [ United States: Alberto Gonzales becomes the first Hispanic U.S. Attorney General, confirmed by a 60-36 Senate vote split across party lines. ](/news/2005/02/4/united-states-alberto-gonzales-becomes-the-first-hispanic-u-s-attorney-general-confirmed-by-a-60-36-senate-vote-split-across-party-lines.md)
 _Context: Alberto Gonzales, Hispanic, United States Attorney General, United States Senate_
 
-### [ In Congo (Kinshasa), the equestrian statue of King Lopold of the Belgians, who founded the Congo Free State in 1885, is briefly re-erected in Kinshasa before it is again removed.  ](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.md)
+### [ In Congo (Kinshasa), the equestrian statue of King Lopold of the Belgians, who founded the Congo Free State in 1885, is briefly re-erected in Kinshasa before it is again removed. ](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.md)
 _Context: Congo Free State, Democratic Republic of Congo, King Lopold of the Belgians, Kinshasa, equestrian statue_
 
-### [ The government of Uganda announces a new ceasefire of 18 days with the Lord's Resistance Army.  ](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.md)
+### [ The government of Uganda announces a new ceasefire of 18 days with the Lord's Resistance Army. ](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.md)
 _Context: Lord's Resistance Army, Uganda, ceasefire_
 
 ### [ In Mauritania, four army officers who plotted coups against President Maaouya Ould Sid'Ahmed Taya each receive a life sentence instead of the expected death penalty after a four-month trial. The sentenced include former army major Saleh Ould Hanenna. ](/news/2005/02/4/in-mauritania-four-army-officers-who-plotted-coups-against-president-maaouya-ould-sid-ahmed-taya-each-receive-a-life-sentence-instead-of-t.md)
 _Context: Mauritanian, Ould Taya, President, Saleh Ould Hanenna, coup, death penalty, life sentence_
 
-### [ Watergate papers of ''Washington Post'' reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-stil.md)
+### [ Watergate papers of "Washington Post" reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-still.md)
 _Context: Bob Woodward, Carl Bernstein, Deep Throat, Washington Post, Watergate_
 
 ### [ Same-sex marriage in the United States: The New York State Supreme Court rules that the state's ban on same-sex marriage violates the state constitution. The decision is stayed for 30 days. ](/news/2005/02/4/same-sex-marriage-in-the-united-states-the-new-york-state-supreme-court-rules-that-the-state-s-ban-on-same-sex-marriage-violates-the-state.md)

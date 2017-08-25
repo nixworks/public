@@ -1,6 +1,6 @@
 ### [2009-02-17](/news/2009/02/17/index.md)
 
-#  Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia.  
+#  Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia. 
 
 
 

@@ -15,7 +15,7 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
 _Context: Afghanistan's, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
 
-### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's ''Thought for the Day'' programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
+### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's "Thought for the Day" programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
 _Context: BBC Radio 4, Britain, Christmas, Pope Benedict XVI, Thought for the Day_
 
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
@@ -30,7 +30,7 @@ _Context: Vietnam_
 ### [South Africa is invited to join the BRIC group of emerging markets. ](/news/2010/12/24/south-africa-is-invited-to-join-the-bric-group-of-emerging-markets.md)
 _Context: BRIC, South Africa_
 
-### [Japan's Cabinet approves a record 92.4 trillion budget for 2011. ](/news/2010/12/24/japan-s-cabinet-approves-a-record-y-92-4-trillion-budget-for-2011.md)
+### [Japan's Cabinet approves a record CNY92.4 trillion budget for 2011. ](/news/2010/12/24/japan-s-cabinet-approves-a-record-cny92-4-trillion-budget-for-2011.md)
 Japan approves a record 92.4 trillion yen of spending for the next financial year as it grapples with its battered finances.
 
 ### [Large-scale disruption continues in Europe after heavy snowfalls. ](/news/2010/12/24/large-scale-disruption-continues-in-europe-after-heavy-snowfalls.md)

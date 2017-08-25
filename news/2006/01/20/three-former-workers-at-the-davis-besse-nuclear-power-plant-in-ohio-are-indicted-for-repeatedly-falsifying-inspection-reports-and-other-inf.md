@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [2011 Missouri River floods:U.S. nuclear regulators say two  nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-pu-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md) _Context: U.S. nuclear regulators_
+1. [2011 Missouri River floods:. U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md) _Context: U.S. nuclear regulators_

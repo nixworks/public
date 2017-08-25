@@ -1,6 +1,6 @@
 ## [2012-04-3](/news/2012/04/3/index.md)
 
-### [Arab Spring:2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-p2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sen.md)
+### [Arab Spring:. 2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-2011-2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-se.md)
 Thousands of protesters in Mauritania hold demonstrations across the capital, Nouakchott, calling for President Mohamed Ould Abdelaziz to resign.
 
 ### [Spanish joblessness levels hit a record high yet again, with youth unemployment running at 50%. ](/news/2012/04/3/spanish-joblessness-levels-hit-a-record-high-yet-again-with-youth-unemployment-running-at-50.md)
@@ -30,10 +30,10 @@ _Context: Iraq, Qatar, Tariq Al-Hashemi_
 ### [The latest ASEAN summit begins in the Cambodian capital Phnom Penh. ](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.md)
 _Context: ASEAN, Cambodia, Phnom Penh_
 
-### [A Chinese businessman with links to ousted  Communist party official Bo Xilai is detained. ](/news/2012/04/3/a-chinese-businessman-with-links-to-ousted-communist-party-official-bo-xilai-is-detained.md)
+### [A Chinese businessman with links to ousted Communist party official Bo Xilai is detained. ](/news/2012/04/3/a-chinese-businessman-with-links-to-ousted-communist-party-official-bo-xilai-is-detained.md)
 _Context: Bo Xilai, China_
 
-### [Following last year's defamation of Father Kevin Reynolds by RTE, the Irish state-controlled broadcaster's head of current affairs Ed Mulhall retires, Ken O'Shea resigns from ''Prime Time'' and a related programme, ''Prime Time Investigates'' is axed. ](/news/2012/04/3/following-last-year-s-defamation-of-father-kevin-reynolds-by-rta-the-irish-state-controlled-broadcaster-s-head-of-current-affairs-ed-mulha.md)
+### [Following last year's defamation of Father Kevin Reynolds by RTE, the Irish state-controlled broadcaster's head of current affairs Ed Mulhall retires, Ken O'Shea resigns from "Prime Time" and a related programme, "Prime Time Investigates" is axed. ](/news/2012/04/3/following-last-year-s-defamation-of-father-kevin-reynolds-by-rta-the-irish-state-controlled-broadcaster-s-head-of-current-affairs-ed-mulha.md)
 RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor of Prime Time Investigates Ken O&rsquo;Shea has resigned from the&hellip;
 
 ### [A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. ](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.md)
@@ -42,7 +42,7 @@ _Context: California, Oakland, California, Oikos University shooting_
 ### [The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. ](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.md)
 _Context: French-born, New York Police Department, Richard Descoings_
 
-### [United States Presidential election:Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-pvoters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repub.md)
+### [United States Presidential election:. Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repu.md)
 Mitt Romney wins in the politically significant state of Wisconsin, as well as in Maryland and the District of Columbia
 
 ## [Previous Day...](/news/2012/04/2/index.md)

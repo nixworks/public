@@ -3,16 +3,16 @@
 ### [India plans to withdraw 10,000 troops from Jammu and Kashmir this year and renew peace talks. ](/news/2011/02/13/india-plans-to-withdraw-10-000-troops-from-jammu-and-kashmir-this-year-and-renew-peace-talks.md)
 _Context: India, Jammu and Kashmir_
 
-### [Iraq War: Jeremy Paxman faces being punished by the BBC after being judged to have violated the corporation's strict impartiality rules by writing an article for ''The Guardian'' in which he stated that Tony Blair's "lies" had led Britain to war with Iraq. ](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.md)
+### [Iraq War: Jeremy Paxman faces being punished by the BBC after being judged to have violated the corporation's strict impartiality rules by writing an article for "The Guardian" in which he stated that Tony Blair's "lies" had led Britain to war with Iraq. ](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.md)
 _Context: BBC, Iraq War, Jeremy Paxman, The Guardian, Tony Blair_
 
-### [2011 Yemeni protests:People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-ppeople-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md)
+### [2011 Yemeni protests:. People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md)
 About 2,000 demonstrators clash with police in the Yemeni capital Sanaa in the third consecutive day of anti-government protests.
 
-### [Other Arab Spring:Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-popposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisia.md)
+### [Other Arab Spring:. Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisi.md)
 Calls said to be made for anti-government rallies apparently inspired by events in Tunisia and Egypt.
 
-### [Women against Berlusconi:Tens of thousands of women hold nationwide protests in 200 cities against Prime Minister of Italy Silvio Berlusconi, whom they say has damaged the standing of women with his string of sex scandals. ](/news/2011/02/13/women-against-berlusconi-ptens-of-thousands-of-women-hold-nationwide-protests-in-200-cities-against-prime-minister-of-italy-silvio-berluscon.md)
+### [Women against Berlusconi:. Tens of thousands of women hold nationwide protests in 200 cities against Prime Minister of Italy Silvio Berlusconi, whom they say has damaged the standing of women with his string of sex scandals. ](/news/2011/02/13/women-against-berlusconi-tens-of-thousands-of-women-hold-nationwide-protests-in-200-cities-against-prime-minister-of-italy-silvio-berlusco.md)
 Women hold protests in Italy and abroad against embattled Prime Minister Silvio Berlusconi, saying his recent sex scandals have demeaned women.
 
 ### [18 people are injured after a car bomb is detonated in Yala, Thailand. ](/news/2011/02/13/18-people-are-injured-after-a-car-bomb-is-detonated-in-yala-thailand.md)
@@ -27,13 +27,13 @@ _Context: 2011 Egyptian revolution, Egypt, Egyptian Museum, Zahi Hawass_
 ### [A giant Andy Scott sculpture is knocked over in a car accident in Tullibody, Clackmannanshire. ](/news/2011/02/13/a-giant-andy-scott-sculpture-is-knocked-over-in-a-car-accident-in-tullibody-clackmannanshire.md)
 A giant steel sculpture of a striding man by public artist Andy Scott is knocked over in a car accident.
 
-### [Bono Boer controversy:Irish pop star Bono walks into a "political minefield" in South Africa after apparently endorsing a song with the lyrics: "Shoot the Boer", a song currently appearing before the country's highest court. ](/news/2011/02/13/bono-boer-controversy-pirish-pop-star-bono-walks-into-a-political-minefield-in-south-africa-after-apparently-endorsing-a-song-with-the-lyr.md)
+### [Bono Boer controversy:. Irish pop star Bono walks into a "political minefield" in South Africa after apparently endorsing a song with the lyrics: "Shoot the Boer", a song currently appearing before the country's highest court. ](/news/2011/02/13/bono-boer-controversy-irish-pop-star-bono-walks-into-a-political-minefield-in-south-africa-after-apparently-endorsing-a-song-with-the-ly.md)
 The Irish pop star Bono is criticised in South Africa for apparently endorsing the controversial song Shoot the Boer.
 
-### [''The King's Speech'' wins seven awards at the 64th British Academy Film Awards including best film and Best Actor for Colin Firth. ](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.md)
+### ["The King's Speech" wins seven awards at the 64th British Academy Film Awards including best film and Best Actor for Colin Firth. ](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.md)
 _Context: 64th British Academy Film Awards, Colin Firth, The King's Speech_
 
-### [53rd Grammy Awards:Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-pdave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md)
+### [53rd Grammy Awards:. Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md)
 _Context: 53rd Grammy Awards, Charles Kelley, Dave Haywood, Hillary Scott, Josh Kear, Lady Antebellum, Need You Now, Song of the Year_
 
 ### [The board of directors of NYSE Euronext meets to discuss a proposed merger with Deutsche Borse, while New York's U.S. Senator, Chuck Schumer tells reporters that he is confident the NYSE would run the merged entity. ](/news/2011/02/13/the-board-of-directors-of-nyse-euronext-meets-to-discuss-a-proposed-merger-with-deutsche-baprse-while-new-york-s-u-s-senator-chuck-schume.md)
@@ -42,7 +42,7 @@ A top lawmaker on Sunday created waves over two key aspects of the proposed merg
 ### [South Korea reports two more outbreaks of bird flu near Seoul. ](/news/2011/02/13/south-korea-reports-two-more-outbreaks-of-bird-flu-near-seoul.md)
 _Context: Influenza A virus subtype H5N1, Seoul, South Korea_
 
-### [''The Guardian'''s Moscow Correspondent Luke Harding, who was expelled from Russia, is issued a new entry visa ahead of Foreign Minister Sergey Lavrov's visit to London. ](/news/2011/02/13/the-guardian-s-moscow-correspondent-luke-harding-who-was-expelled-from-russia-is-issued-a-new-entry-visa-ahead-of-foreign-minister-ser.md)
+### ["The Guardian"'s Moscow Correspondent Luke Harding, who was expelled from Russia, is issued a new entry visa ahead of Foreign Minister Sergey Lavrov's visit to London. ](/news/2011/02/13/the-guardian-s-moscow-correspondent-luke-harding-who-was-expelled-from-russia-is-issued-a-new-entry-visa-ahead-of-foreign-minister-serge.md)
 _Context: London, Luke Harding, Russia, Russian Deputy Foreign Minister, Sergey Lavrov, The Guardian_
 
 ### [Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. ](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.md)
@@ -75,7 +75,7 @@ _Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minist
 ### [Thousands of protesters in Dresden, Germany form a human chain to mark the 66th anniversary of the Dresden bombing and to protest against racism. ](/news/2011/02/13/thousands-of-protesters-in-dresden-germany-form-a-human-chain-to-mark-the-66th-anniversary-of-the-dresden-bombing-and-to-protest-against-ra.md)
 _Context: Dresden, Dresden bombing, Germany, human chain_
 
-### [Writing in ''The Observer'', British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cove.md)
+### [Writing in "The Observer", British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cover.md)
 _Context: Big Society, David Cameron, The Observer_
 
 ## [Previous Day...](/news/2011/02/12/index.md)

@@ -3,16 +3,16 @@
 ### [2011 Syrian uprising: Several deaths are reported as a security crackdown continues against anti-government protests in Syria. ](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.md)
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
-### [War in Afghanistan (2001-present):A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md)
+### [War in Afghanistan (2001-present):. A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md)
 _Context: Afghanistan's, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
 _Context: Abyan Governorate, Yemen_
 
-### [Kurdish-Turkish conflict:Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdishaturkish-conflict-pkurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-s.md)
+### [Kurdish-Turkish conflict:. Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdish-turkish-conflict-kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13.md)
 Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven militants died in the firefight that marked the worst clash since the Kurdistan Workers Party (PKK) ended a cease-fire in February.
 
-### [Libyan Civil War:Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-pmikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suici.md)
+### [Libyan Civil War:. Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suic.md)
 _Context: Libyan Civil War, Mikhail Margelov, Muammar Gaddafi, Tripoli_
 
 ### [The Israeli Air Force bombs the Gaza Strip after Hamas militants launch a missile attack on Israel. ](/news/2011/07/14/the-israeli-air-force-bombs-the-gaza-strip-after-hamas-militants-launch-a-missile-attack-on-israel.md)
@@ -21,13 +21,13 @@ Four Palestinians, including two children, wounded in raids say officials from t
 ### [The poet Liao Yiwu tells the BBC of how he fled China via Vietnam and other countries and arrived in Germany after his struggles with Chinese authorities who have spent decades suppressing his work and imprisoning him. ](/news/2011/07/14/the-poet-liao-yiwu-tells-the-bbc-of-how-he-fled-china-via-vietnam-and-other-countries-and-arrived-in-germany-after-his-struggles-with-chines.md)
 A Chinese poet who was jailed in his homeland tells the BBC he fled to Germany so he could tell the story of ordinary people in China.
 
-### [A rare manuscript of an unfinished Jane Austen novel has sold for PS993,250 (US$1.6m) in London. The work, ''The Watsons'', was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-aps993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md)
+### [A rare manuscript of an unfinished Jane Austen novel has sold for GBP993,250 (US$1.6m) in London. The work, "The Watsons", was sold at Sotheby's for three times its estimated price. ](/news/2011/07/14/a-rare-manuscript-of-an-unfinished-jane-austen-novel-has-sold-for-agbp993-250-us-1-6m-in-london-the-work-the-watsons-was-sold-at-soth.md)
 _Context: Jane Austen, Sotheby's, The Watsons_
 
 ### [Singapore's economy falls by 7.8% due to declines in manufacturing output and the services sector. ](/news/2011/07/14/singapore-s-economy-falls-by-7-8-due-to-declines-in-manufacturing-output-and-the-services-sector.md)
 _Context: Singapore's economy_
 
-### [Borders Group, the once-major bookstore chain now in chapter 11 bankruptcy in the United States, says that its arrangement with stalking horse bidder Najafi Companies has collapsed, and it will seek a modification of bid procedures.  ](/news/2011/07/14/borders-group-the-once-major-bookstore-chain-now-in-chapter-11-bankruptcy-in-the-united-states-says-that-its-arrangement-with-stalking-hor.md)
+### [Borders Group, the once-major bookstore chain now in chapter 11 bankruptcy in the United States, says that its arrangement with stalking horse bidder Najafi Companies has collapsed, and it will seek a modification of bid procedures. ](/news/2011/07/14/borders-group-the-once-major-bookstore-chain-now-in-chapter-11-bankruptcy-in-the-united-states-says-that-its-arrangement-with-stalking-hor.md)
 Borders Group Inc BGPIQ.PK moved closer to going out of business as a bankruptcy judge approved a plan to liquidate the second-largest U.S. book retailer after a sale to private equity firm Najafi Cos fell apart.
 
 ### [Chairman of Ireland's governing Fine Gael parliamentary party Charlie Flanagan calls for Papal Nuncio Giuseppe Leanza to be expelled from the country after the publication of a report into the sexual abuse of children by priests in the Roman Catholic Diocese of Cloyne, while Tanaiste Eamon Gilmore attacks the Vatican's interference in the scandal. ](/news/2011/07/14/chairman-of-ireland-s-governing-fine-gael-parliamentary-party-charlie-flanagan-calls-for-papal-nuncio-giuseppe-leanza-to-be-expelled-from-th.md)
@@ -48,7 +48,7 @@ American security manufacturer Armor Holdings pays a $16m (£10m) fine to settle
 ### [BBC reporter Urunboy Usmonov is released on bail in Tajikistan but still faces trial. ](/news/2011/07/14/bbc-reporter-urunboy-usmonov-is-released-on-bail-in-tajikistan-but-still-faces-trial.md)
 A BBC reporter held last month in Tajikistan on charges of belonging to a banned Islamist group is being released from custody.
 
-### [News of the World phone hacking scandal:News Corporation chairman Rupert Murdoch, his son James, and News International chief executive Rebekah Brooks all agree to appear before British MPs next week to answer questions on the News of the World phone hacking affair. ](/news/2011/07/14/news-of-the-world-phone-hacking-scandal-pnews-corporation-chairman-rupert-murdoch-his-son-james-and-news-international-chief-executive-reb.md)
+### [News of the World phone hacking scandal:. News Corporation chairman Rupert Murdoch, his son James, and News International chief executive Rebekah Brooks all agree to appear before British MPs next week to answer questions on the News of the World phone hacking affair. ](/news/2011/07/14/news-of-the-world-phone-hacking-scandal-news-corporation-chairman-rupert-murdoch-his-son-james-and-news-international-chief-executive-re.md)
 The FBI is investigating reports that News Corporation sought to hack the phones of victims of the 9/11 attacks.
 
 ### [U.S. district court judge Reggie Walton declares a mistrial in the perjury trial of former baseball star Roger Clemens after prosecutors present evidence that Walton had previously ruled inadmissible. Walton will hold a hearing on September 2 to determine whether to hold a new trial. ](/news/2011/07/14/u-s-district-court-judge-reggie-walton-declares-a-mistrial-in-the-perjury-trial-of-former-baseball-star-roger-clemens-after-prosecutors-pre.md)

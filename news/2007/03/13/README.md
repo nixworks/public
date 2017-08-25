@@ -3,7 +3,7 @@
 ### [ Demonstrators in Mexico City clash with police as U.S. President George W. Bush meets with Mexican President Felipe Calderon in Merida, Yucatan. ](/news/2007/03/13/demonstrators-in-mexico-city-clash-with-police-as-u-s-president-george-w-bush-meets-with-mexican-president-felipe-caldera3n-in-ma-c-rida-y.md)
 _Context: Felipe Calderon, George W. Bush, Merida, Yucatan, President_
 
-### [ Relatives of the 17 victims of the USS ''Cole'' bombing take Sudan to court in a civil suit claiming that the terrorist attack could not have happened without Sudan's help. ](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bombing-take-sudan-to-court-in-a-civil-suit-claiming-that-the-terrorist-attack-could-not-ha.md)
+### [ Relatives of the 17 victims of the USS "Cole" bombing take Sudan to court in a civil suit claiming that the terrorist attack could not have happened without Sudan's help. ](/news/2007/03/13/relatives-of-the-17-victims-of-the-uss-cole-bombing-take-sudan-to-court-in-a-civil-suit-claiming-that-the-terrorist-attack-could-not-have.md)
 _Context: Sudan, USS ''Cole'' bombing, civil suit_
 
 ### [ Twenty Ecuadoran lawmakers clash with police after trying to regain their seats in Congress. The legislators were part of a group of 57 dismissed by President Rafael Correa for trying to block a referendum. ](/news/2007/03/13/twenty-ecuadoran-lawmakers-clash-with-police-after-trying-to-regain-their-seats-in-congress-the-legislators-were-part-of-a-group-of-57-dis.md)

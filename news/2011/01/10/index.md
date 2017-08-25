@@ -1,12 +1,12 @@
 ## [2011-01-10](/news/2011/01/10/index.md)
 
-### [Aftermath of the 2011 Tucson shooting:A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-pa-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-including.md)
+### [Aftermath of the 2011 Tucson shooting:. A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-includin.md)
 An Arizona judge orders the 22-year-old man accused of killing six people and injuring 14, including a U.S. congresswoman, to be held without bail as he awaits trial on federal charges.
 
 ### [Three people are killed in a clash between Sudanese army and the Sudan Liberation Movement rebel group, in north Darfur, according to the United Nations-led peacekeeping mission. ](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.md)
 _Context: Darfur, Sudan Liberation Movement, Sudanese government troops_
 
-### [A suicide bomber kills two policemen and a civilian, the second attack in four days for which the Taliban claims responsibility, while separately, three policemen are killed in a 'friendly fire' incident as US Vice President  Joe Biden arrives for a visit in Afghanistan. ](/news/2011/01/10/a-suicide-bomber-kills-two-policemen-and-a-civilian-the-second-attack-in-four-days-for-which-the-taliban-claims-responsibility-while-separ.md)
+### [A suicide bomber kills two policemen and a civilian, the second attack in four days for which the Taliban claims responsibility, while separately, three policemen are killed in a 'friendly fire' incident as US Vice President Joe Biden arrives for a visit in Afghanistan. ](/news/2011/01/10/a-suicide-bomber-kills-two-policemen-and-a-civilian-the-second-attack-in-four-days-for-which-the-taliban-claims-responsibility-while-separ.md)
 Insurgents Monday staged the second suicide bombing in four days in a strategic border district in southern Afghanistan, signaling determination to open a new front in the battle with coalition...
 
 ### [Palestinians fire three rockets from Gaza, landing in Israel's Ashkelon region, shortly after IDF soldiers kill a 65 year old farmer for unknown reasons, and bomb two sites in the Gaza Strip. ](/news/2011/01/10/palestinians-fire-three-rockets-from-gaza-landing-in-israel-s-ashkelon-region-shortly-after-idf-soldiers-kill-a-65-year-old-farmer-for-unk.md)
@@ -15,7 +15,7 @@ Attack comes shortly after Palestinians report 65-year-old farmer shot to death 
 ### [ETA declares a permanent and general ceasefire which will be verifiable by the international community. ](/news/2011/01/10/eta-declares-a-permanent-and-general-ceasefire-which-will-be-verifiable-by-the-international-community.md)
 Basque separatists Eta call a permanent ceasefire in its fight for independence from Spain, but the Spanish government downplays the statement.
 
-### [War in North-West Pakistan:Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/war-in-north-west-pakistan-ptens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-killi.md)
+### [War in North-West Pakistan:. Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/war-in-north-west-pakistan-tens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-kill.md)
 _Context: Karachi, Mumtaz Qadri, Pakistan, Punjab, Salman Taseer, War in North-West Pakistan, blasphemy law_
 
 ### [Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. ](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculpture-meant-to-symbolize-friendship-between-turkey-and-armenia-near-the-city-of-kars.md)
@@ -24,7 +24,7 @@ The Turkish government is reportedly considering demolishing a giant sculpture m
 ### [Trading on the Dhaka Stock Exchange in Bangladesh is halted after it fell by 9.25% in an hour; investors stage protests and clash with riot police. ](/news/2011/01/10/trading-on-the-dhaka-stock-exchange-in-bangladesh-is-halted-after-it-fell-by-9-25-in-an-hour-investors-stage-protests-and-clash-with-riot.md)
 Police in Bangladesh use tear gas against investors who rampaged after the biggest ever one-day fall of the stock market in the capital Dhaka.
 
-### [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the ''Financial Times'' of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-m.md)
+### [Brazilian Finance Minister Guido Mantega moves to secure the Brazilian real amid concerns expressed in the "Financial Times" of currency manipulation by the United States, China and others. ](/news/2011/01/10/brazilian-finance-minister-guido-mantega-moves-to-secure-the-brazilian-real-amid-concerns-expressed-in-the-financial-times-of-currency-man.md)
 Brazilian Finance Minister Guido Mantega says the world is on course for a trade war because of currency manipulation.
 
 ### [U.S. chemical company DuPont buys out Danish food ingredient and enzyme company Danisco for $5.8billion. ](/news/2011/01/10/u-s-chemical-company-dupont-buys-out-danish-food-ingredient-and-enzyme-company-danisco-for-5-8billion.md)
@@ -48,7 +48,7 @@ Nasrin Sotoudeh, a female human rights lawyer, has been sentenced to 11 years in
 ### [Interpol places 47 Saudis on its most-wanted list after Saudi Arabia accuses them of involvement in the Al-Qaeda terror network. ](/news/2011/01/10/interpol-places-47-saudis-on-its-most-wanted-list-after-saudi-arabia-accuses-them-of-involvement-in-the-al-qaeda-terror-network.md)
 Riyadh, Jan 9 (DPA) Saudi Arabia announced Sunday that it has given international policing agency Interpol the names of 47 suspected Saudi terrorists...
 
-### [36 people killed including possibly 20 police as Southern Sudan votes on  referendum on independence. ](/news/2011/01/10/36-people-killed-including-possibly-20-police-as-southern-sudan-votes-on-referendum-on-independence.md)
+### [36 people killed including possibly 20 police as Southern Sudan votes on referendum on independence. ](/news/2011/01/10/36-people-killed-including-possibly-20-police-as-southern-sudan-votes-on-referendum-on-independence.md)
 At least 36 people have died in clashes near Sudan&#39;s north-south border, leaders in the contested Abyei region said on the second day of a week-long referendum on southern independence.
 
 ### [Burma's new parliament is to convene on 31 January for the first time following general elections last year. ](/news/2011/01/10/burma-s-new-parliament-is-to-convene-on-31-january-for-the-first-time-following-general-elections-last-year.md)

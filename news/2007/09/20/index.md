@@ -6,16 +6,16 @@ _Context: Ohio, Warren, handcuffed, taser_
 ### [ The Election Commission of Pakistan sets October 6, 2007 as the date for the Presidential Election. ](/news/2007/09/20/the-election-commission-of-pakistan-sets-october-6-2007-as-the-date-for-the-presidential-election.md)
 _Context: 2007 Pakistani presidential election, Pakistan, election_
 
-### [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md)
+### [ Iran:. The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md)
 _Context: Ground Zero, Iran, Mahmoud Ahmadinejad, New York City, New York Police Department, President, September 11, 2001 attacks_
 
 ### [ American cyclist Floyd Landis is officially stripped of his win in the 2006 Tour de France and banned from competition for two years after an arbitration panel finds him guilty of doping during the 2006 Tour. He has 30 days to appeal to the Court of Arbitration for Sport. ](/news/2007/09/20/american-cyclist-floyd-landis-is-officially-stripped-of-his-win-in-the-2006-tour-de-france-and-banned-from-competition-for-two-years-after.md)
 Cyclist Floyd Landis has received a two-year ban for doping, The Associated Press has learned.
 
-### [ Osama bin Laden calls on the people of Pakistan to rise up in a "holy war" and overthrow President Pervez Musharraf.  ](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.md)
+### [ Osama bin Laden calls on the people of Pakistan to rise up in a "holy war" and overthrow President Pervez Musharraf. ](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.md)
 _Context: Osama bin Laden, Pakistan, Pervez Musharraf, President_
 
-### [ Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of  six black teenagers involved in a schoolyard brawl. ](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.md)
+### [ Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of six black teenagers involved in a schoolyard brawl. ](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.md)
 _Context: Howard University, Jena Six, Jena, Louisiana, NAACP, U.S._
 
 ### [ CNN reports that Iran has released Iranian-American social scientist Kian Tajbakhsh. ](/news/2007/09/20/cnn-reports-that-iran-has-released-iranian-american-social-scientist-kian-tajbakhsh.md)

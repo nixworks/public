@@ -1,6 +1,6 @@
 ### [2013-06-28](/news/2013/06/28/index.md)
 
-# A man is arrested in England on charges related to an attack on the John Constable painting ''The Hay Wain''. 
+# A man is arrested in England on charges related to an attack on the John Constable painting "The Hay Wain". 
 
 
 

@@ -15,7 +15,7 @@ Government says the men died while preparing or planting bombs in two separate i
 ### [Rwandan Lieutenant-Colonel Rugigana Ngabo, brother of exiled General Faustin Nyamwasa, is reported missing, having been arrested on Friday. ](/news/2010/08/22/rwandan-lieutenant-colonel-rugigana-ngabo-brother-of-exiled-general-faustin-nyamwasa-is-reported-missing-having-been-arrested-on-friday.md)
 The brother of an exiled Rwandan general has disappeared after being arrested on Friday, the BBC is told.
 
-### [The Vincent van Gogh painting ''Poppy Flowers'', missing but reportedly found yesterday, is now reported missing again after yesterday's find is proven false. ](/news/2010/08/22/the-vincent-van-gogh-painting-poppy-flowers-missing-but-reportedly-found-yesterday-is-now-reported-missing-again-after-yesterday-s-fin.md)
+### [The Vincent van Gogh painting "Poppy Flowers", missing but reportedly found yesterday, is now reported missing again after yesterday's find is proven false. ](/news/2010/08/22/the-vincent-van-gogh-painting-poppy-flowers-missing-but-reportedly-found-yesterday-is-now-reported-missing-again-after-yesterday-s-find.md)
 A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, says the culture minister, hours after he said it had been found.
 
 ### [Hundreds of people rally in relation to an Islamic cultural centre proposed for New York City, United States; opponents to the building blare Bruce Springsteen's "Born in the U.S.A." over loudspeakers. ](/news/2010/08/22/hundreds-of-people-rally-in-relation-to-an-islamic-cultural-centre-proposed-for-new-york-city-united-states-opponents-to-the-building-blar.md)
@@ -24,7 +24,7 @@ Pro and anti-rallies staged in New York over the proposed Islamic centre.
 ### [5,000 people are evacuated in North Korea after the Yalu River on the border with China floods; 94,000 in China are also evacuated. ](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.md)
 China and North Korea evacuate thousands of people from their homes after heavy rains flood villages on both sides of the border.
 
-### [2010 Pakistan floods:Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-paround-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md)
+### [2010 Pakistan floods:. Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md)
 About 150,000 people leave their homes in Sindh as flood defences are threatened.
 
 ### [All 33 Chilean miners trapped deep underground are located alive after 17 days, though they have not yet been removed from the mine and remain trapped. ](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.md)
@@ -42,7 +42,7 @@ _Context: Benjamin Netanyahu, Israeli Prime Minister, Wassel Abu Yousef_
 ### [South African trade unions state that a court injunction successfully sought by the government is intended to "intimidate" workers who are striking in the hope of receiving better pay. ](/news/2010/08/22/south-african-trade-unions-state-that-a-court-injunction-successfully-sought-by-the-government-is-intended-to-intimidate-workers-who-are-s.md)
 _Context: South Africa_
 
-### [Supporters of Julian Assange of Wikileaks credit American intelligence agencies with recent smears against his character and express surprise that it has not happened sooner.  ](/news/2010/08/22/supporters-of-julian-assange-of-wikileaks-credit-american-intelligence-agencies-with-recent-smears-against-his-character-and-express-surpris.md)
+### [Supporters of Julian Assange of Wikileaks credit American intelligence agencies with recent smears against his character and express surprise that it has not happened sooner. ](/news/2010/08/22/supporters-of-julian-assange-of-wikileaks-credit-american-intelligence-agencies-with-recent-smears-against-his-character-and-express-surpris.md)
 Wikileaks founder says Australian intelligence warned him on August 11 to expect personal attacks.
 
 ### [After a federal investigation by the United States, 47 foreign-born gang members are arrested in New England, including members of the "True Somali Bloods", "True Sudanese Bloods" and the "Asian Boyz". Over half are arrested in the U.S. state of Maine. ](/news/2010/08/22/after-a-federal-investigation-by-the-united-states-47-foreign-born-gang-members-are-arrested-in-new-england-including-members-of-the-true.md)

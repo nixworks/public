@@ -6,7 +6,7 @@ _Context: Pakistan, Taliban, United States, United States Congress, al-Qaeda, fo
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
 _Context: Andres Penate, Colombia, FARC_
 
-### [ The President of the United States George W. Bush urges  Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
+### [ The President of the United States George W. Bush urges Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
 _Context: George W. Bush, United States Congress, president_
 
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)

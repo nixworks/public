@@ -1,18 +1,18 @@
 ## [2013-03-24](/news/2013/03/24/index.md)
 
-### [War on Terror:A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-pa-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sold.md)
+### [War on Terror:. A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/war-on-terror-a-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-sol.md)
 _Context: North Waziristan, War on Terror, suicide bomber_
 
-### [2012-13 Central African Republic conflict:Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012a13-central-african-republic-conflict-prebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-pr.md)
+### [2012-13 Central African Republic conflict:. Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/2012-13-central-african-republic-conflict-rebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-p.md)
 Looting is reported in the capital of the Central African Republic after President Francois Bozize flees and rebels take control of the city.
 
-### [Golan Heights clashes (2012-present):Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012apresent-pisraeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-sec.md)
+### [Golan Heights clashes (2012-present):. Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/golan-heights-clashes-2012-present-israeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-se.md)
 Syrian outpost completely destroyed, leaving two wounded; defense minister warns of no-tolerance approach to attacks
 
-### [Nigerian Sharia conflict:25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-p25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propelle.md)
+### [Nigerian Sharia conflict:. 25 people are killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in Northern Nigeria Adamawa State. ](/news/2013/03/24/nigerian-sharia-conflict-25-people-are-killed-in-coordinated-attacks-by-unidentified-men-armed-with-machine-guns-bombs-and-rocket-propell.md)
 At least 25 people have been killed in coordinated attacks by unidentified men armed with machine guns, bombs and rocket-propelled grenades in northern Nigeria.
 
-### [2012-13 Cypriot financial crisis: Cyprus President Nicos Anastasiades begins a series of emergency meetings in Brussels in a last-ditch attempt to finalize a bailout. ](/news/2013/03/24/2012a13-cypriot-financial-crisis-cyprus-president-nicos-anastasiades-begins-a-series-of-emergency-meetings-in-brussels-in-a-last-ditch-at.md)
+### [2012-13 Cypriot financial crisis: Cyprus President Nicos Anastasiades begins a series of emergency meetings in Brussels in a last-ditch attempt to finalize a bailout. ](/news/2013/03/24/2012-13-cypriot-financial-crisis-cyprus-president-nicos-anastasiades-begins-a-series-of-emergency-meetings-in-brussels-in-a-last-ditch-at.md)
 Eurozone finance ministers agree a deal on a bailout for Cyprus to prevent its banking system collapsing, but the island faces deep recession.
 
 ### [Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. ](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.md)
@@ -24,7 +24,7 @@ US Secretary of State John Kerry says it is problematic that Iranian planes with
 ### [American politician Jessica Upshaw dies, reportedly after being shot in the head in the small town of Mendenhall, Mississippi. ](/news/2013/03/24/american-politician-jessica-upshaw-dies-reportedly-after-being-shot-in-the-head-in-the-small-town-of-mendenhall-mississippi.md)
 Republican lawmaker was at home of former representative; local paper reports she died of gunshot wound to head
 
-### [2013 in Pakistan:Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-ptens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-c.md)
+### [2013 in Pakistan:. Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the.md)
 Khoso, 84, is a venerated officer bearing a reputation of honesty.
 
 ### [Syria's opposition chief Ahmed Moaz al-Khatib resigns from the Syrian National Coalition after inconclusive talks with the European Union. ](/news/2013/03/24/syria-s-opposition-chief-ahmed-moaz-al-khatib-resigns-from-the-syrian-national-coalition-after-inconclusive-talks-with-the-european-union.md)

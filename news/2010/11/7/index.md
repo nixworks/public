@@ -6,10 +6,10 @@ _Context: African Union, Burundi, Islamist, Mogadishu, Somalia, Uganda, al-Shaba
 ### [Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. ](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.md)
 Confrontation between protesters and riot police marks journey of train to storage site at Gorleben.
 
-### [Kenyan policeman Peter Karanja kills 10 people, including two colleagues, in a shooting rampage in bars in Siakago, 90 miles northeast of Nairobi.  Protesters outside the police station demand answers from police as to how this incident happened. ](/news/2010/11/7/kenyan-policeman-peter-karanja-kills-10-people-including-two-colleagues-in-a-shooting-rampage-in-bars-in-siakago-90-miles-northeast-of-na.md)
+### [Kenyan policeman Peter Karanja kills 10 people, including two colleagues, in a shooting rampage in bars in Siakago, 90 miles northeast of Nairobi. Protesters outside the police station demand answers from police as to how this incident happened. ](/news/2010/11/7/kenyan-policeman-peter-karanja-kills-10-people-including-two-colleagues-in-a-shooting-rampage-in-bars-in-siakago-90-miles-northeast-of-na.md)
 Police officer kills 10 people in shooting rampage near station outside Nairobi, sparking a mass protest in the town.
 
-### [Israel police  fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of.md)
+### [Israel police fire tear gas and rubber bullets at residents trying to halt demolition of an illegal mosque in the southern Bedouin city of Rahat. ](/news/2010/11/7/israel-police-fire-tear-gas-and-rubber-bullets-at-residents-trying-to-halt-demolition-of-an-illegal-mosque-in-the-southern-bedouin-city-of-r.md)
 Action in Arab town in Negev, following a court order, prompts protest call by Muslim residents.
 
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
@@ -42,10 +42,10 @@ _Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Swede
 ### [Sudanese President Omar al-Bashir arrives in Qatar for talks with Sheikh Hamad bin Khalifa Al Thani. ](/news/2010/11/7/sudanese-president-omar-al-bashir-arrives-in-qatar-for-talks-with-sheikh-hamad-bin-khalifa-al-thani.md)
 _Context: Omar al-Bashir, Qatar, Sheikh Hamad bin Khalifa Al Thani_
 
-### [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009a10-malmap-shootin.md)
+### [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009-10-malmap-shootin.md)
 A man is arrested in the Swedish city of Malmo over a series of gun attacks over the past year.
 
-### [Burmese electionVoters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-electionpvoters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespr.md)
+### [Burmese election. Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-election-voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widesp.md)
 Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first election in 20 years.
 
 ### [Police in Vietnam detain prominent government critic Cu Huy Ha Vu on charges of "propaganda against the state". ](/news/2010/11/7/police-in-vietnam-detain-prominent-government-critic-cu-huy-ha-vu-on-charges-of-propaganda-against-the-state.md)

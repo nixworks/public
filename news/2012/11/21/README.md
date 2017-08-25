@@ -1,15 +1,15 @@
 ## [2012-11-21](/news/2012/11/21/index.md)
 
-### [Operation Pillar of Defense:A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-pa-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary.md)
+### [Operation Pillar of Defense:. A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/operation-pillar-of-defense-a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretar.md)
 Egypt FM makes formal announcement of truce in joint press conference with Clinton in Cairo; Netanyahu touts success of Operation Pillar of Defense, thanks Obama for &quot;unwavering support for Israel&quot; during operation.
 
-### [Syrian civil war:Turkey asks for Patriot missiles to be deployed on its territory at the border with Syria. ](/news/2012/11/21/syrian-civil-war-pturkey-asks-for-patriot-missiles-to-be-deployed-on-its-territory-at-the-border-with-syria.md)
+### [Syrian civil war:. Turkey asks for Patriot missiles to be deployed on its territory at the border with Syria. ](/news/2012/11/21/syrian-civil-war-turkey-asks-for-patriot-missiles-to-be-deployed-on-its-territory-at-the-border-with-syria.md)
 NATO ambassadors met on Wednesday to consider a Turkish request for the deployment of Patriot missiles near its border with Syria as the conflict in its southern neighbor deepens.
 
-### [2012 East DR Congo conflict:Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-phundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which-f.md)
+### [2012 East DR Congo conflict:. Hundreds of government soldiers and policemen surrender to M23 rebels at a stadium in the city of Goma, which fell to rebel forces on November 20. ](/news/2012/11/21/2012-east-dr-congo-conflict-hundreds-of-government-soldiers-and-policemen-surrender-to-m23-rebels-at-a-stadium-in-the-city-of-goma-which.md)
 Thousands of soldiers and police surrender to M23 at a stadium in Goma after the group takes control of the city.
 
-### [2011-2012 Libyan factional fighting:Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011a2012-libyan-factional-fighting-punidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-th.md)
+### [2011-2012 Libyan factional fighting:. Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011-2012-libyan-factional-fighting-unidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-t.md)
 Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Libyan security officials.
 
 ### [The United States bans Tim Pat Coogan, one of Ireland's most recognisable historians and a leading authority on Eamon de Valera and Michael Collins. As a result his book tour is cancelled. The decision is described as a major shock and blot against United States Ambassador to Ireland Dan Rooney. ](/news/2012/11/21/the-united-states-bans-tim-pat-coogan-one-of-ireland-s-most-recognisable-historians-and-a-leading-authority-on-aamon-de-valera-and-michael.md)

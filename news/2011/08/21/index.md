@@ -1,6 +1,6 @@
 ## [2011-08-21](/news/2011/08/21/index.md)
 
-### [2011 Libyan civil war:Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-pabdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-with.md)
+### [2011 Libyan civil war:. Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-wit.md)
 _Context: Abdul Hafiz Ghoga, Libyan Civil War, National Transitional Council, Tripoli, fighting_
 
 ### [Rockets fired from Gaza, reportedly aiming for Israel, land in the Sinai Peninsula of Egypt during the Palestinian-Israeli conflict. ](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.md)
@@ -9,7 +9,7 @@ _Context: Egypt, Gaza Strip, Israel, Palestinian-Israeli conflict, Sinai_
 ### [Four employees of Deutsche Bank AG and its South Korean brokerage unit are indicted for alleged illegal trading on the Korea Exchange. ](/news/2011/08/21/four-employees-of-deutsche-bank-ag-and-its-south-korean-brokerage-unit-are-indicted-for-alleged-illegal-trading-on-the-korea-exchange.md)
 _Context: Deutsche Bank AG, Korea Exchange, South Korea, brokerage, indicted_
 
-### [''The New York Times'' carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-pol.md)
+### ["The New York Times" carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-polic.md)
 _Context: Bank of Japan, Japan, The New York Times, yen_
 
 ### [A tornado hits the town of Goderich in the Canadian province of Ontario causing significant damage and one death. ](/news/2011/08/21/a-tornado-hits-the-town-of-goderich-in-the-canadian-province-of-ontario-causing-significant-damage-and-one-death.md)

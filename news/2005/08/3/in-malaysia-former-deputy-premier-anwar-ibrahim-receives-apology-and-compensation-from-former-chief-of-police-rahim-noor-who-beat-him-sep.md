@@ -1,6 +1,6 @@
 ### [2005-08-3](/news/2005/08/3/index.md)
 
-#  In Malaysia, former deputy premier Anwar Ibrahim receives apology and compensation from former chief of police Rahim Noor, who beat him September 1999 ago when he was arrested on dubious grounds. In return, Ibrahim drops the case again him.  
+#  In Malaysia, former deputy premier Anwar Ibrahim receives apology and compensation from former chief of police Rahim Noor, who beat him September 1999 ago when he was arrested on dubious grounds. In return, Ibrahim drops the case again him. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

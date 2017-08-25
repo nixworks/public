@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-people-s-national-movement-led-by-keith-rowle.md) _Context: Trinidad and Tobago_
+1. [Trinidad and Tobago general election, 2015. Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. ](/news/2015/09/7/trinidad-and-tobago-general-election-2015-voters-in-trinidad-and-tobago-go-to-the-polls-for-a-house-of-representatives-election-with-the-p.md) _Context: Trinidad and Tobago_
 2. [During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. ](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.md) _Context: Trinidad and Tobago_
 3. [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md) _Context: Trinidad and Tobago_
 4. [The United Nations Human Rights Council appoints Sir Desmond de Silva of Britain, Karl Hudson-Phillips of Trinidad and Tobago, and Mary Shanth Dairiam of Malaysia to investigate the Gaza flotilla raid. ](/news/2010/07/23/the-united-nations-human-rights-council-appoints-sir-desmond-de-silva-of-britain-karl-hudson-phillips-of-trinidad-and-tobago-and-mary-shan.md) _Context: Trinidad and Tobago_

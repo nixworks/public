@@ -24,7 +24,7 @@ _Context: Germany, Guatemala, Paul Watson, Sea Shepherd Conservation Society, al
 ### [Voters in the German state of North Rhine-Westphalia head to the polls for an election, with the Social Democratic Party of Germany winning the most votes, allowing it to continue in government with the support of the Greens. ](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.md)
 Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial state vote ahead of Germany&#039;s national elections next year.
 
-### [Chinese security ''tsar'' and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister.md)
+### [Chinese security "tsar" and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.md)
 _Context: Bo Xilai scandal, Meng Jianzhu, Politburo Standing Committee, Zhou Yongkang_
 
 ### [The President of Greece, Karolos Papoulias, fails to broker a coalition deal between Greece's major political parties. ](/news/2012/05/13/the-president-of-greece-karolos-papoulias-fails-to-broker-a-coalition-deal-between-greece-s-major-political-parties.md)

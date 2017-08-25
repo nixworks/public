@@ -9,7 +9,7 @@ At least nine people are killed in a car bomb attack on police headquarters in t
 ### [The Movement for the Emancipation of the Niger Delta claims responsibility for attacking an Eni SpA pipeline carrying oil to the Nigerian city of Brass. ](/news/2012/02/5/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-attacking-an-eni-spa-pipeline-carrying-oil-to-the-nigerian-ci.md)
 _Context: Brass, Eni SpA, Movement for the Emancipation of the Niger Delta, Nigeria_
 
-### [Early 2012 European cold wave:Heavy snow falls across much of the United Kingdom, leading to the cancellation of hundreds of flights at Heathrow Airport and the closure of the runway at Luton Airport. ](/news/2012/02/5/early-2012-european-cold-wave-pheavy-snow-falls-across-much-of-the-united-kingdom-leading-to-the-cancellation-of-hundreds-of-flights-at-hea.md)
+### [Early 2012 European cold wave:. Heavy snow falls across much of the United Kingdom, leading to the cancellation of hundreds of flights at Heathrow Airport and the closure of the runway at Luton Airport. ](/news/2012/02/5/early-2012-european-cold-wave-heavy-snow-falls-across-much-of-the-united-kingdom-leading-to-the-cancellation-of-hundreds-of-flights-at-he.md)
 Snow has fallen across much of the UK, with up to 10cm expected in places, causing disruption to flights and leaving roads treacherous.
 
 ### [Due to flooding, residents are asked to evacuate the Australian town of St George, Queensland, and the body is found of a woman missing in Roma. ](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.md)

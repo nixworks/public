@@ -3,13 +3,13 @@
 ### [175 prisoners in the southern Nigeria town of Akure are freed by armed gunmen who also kill two civilians during the raid. ](/news/2013/06/30/175-prisoners-in-the-southern-nigeria-town-of-akure-are-freed-by-armed-gunmen-who-also-kill-two-civilians-during-the-raid.md)
 _Context: Akure, Nigeria_
 
-### [War in North-West Pakistan:A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-pa-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md)
+### [War in North-West Pakistan:. A bomb attack on a security convoy in northwest Pakistan kills at least 11 people while injuring 19. ](/news/2013/06/30/war-in-north-west-pakistan-a-bomb-attack-on-a-security-convoy-in-northwest-pakistan-kills-at-least-11-people-while-injuring-19.md)
 _Context: Pakistan, War in North-West Pakistan_
 
 ### [At least 30 are killed when a fuel truck explodes on a busy highway outside the Ugandan capital of Kampala. ](/news/2013/06/30/at-least-30-are-killed-when-a-fuel-truck-explodes-on-a-busy-highway-outside-the-ugandan-capital-of-kampala.md)
 At least 30 people were killed and scores more injured when a fuel tanker exploded on a highway in Uganda, a major transit route for fuel heading from Kenya to land-locked east African states, a police spokesman said on Sunday.
 
-### [US heatwave:A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-pa-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md)
+### [US heatwave:. A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. ](/news/2013/06/30/us-heatwave-a-heatwave-hits-the-southwestern-united-states-with-a-death-recorded-in-the-state-of-nevada-and-record-or-near-record-days.md)
 A man died and another was hospitalized in serious condition Saturday afternoon in heat-aggravated incidents as a heat wave blistered this sunbaked city and elsewhere in the Southwest.
 
 ### [Former President of the Philippines Joseph Estrada is sworn-in as the newly elected Mayor of Manila, the nation's capital. ](/news/2013/06/30/former-president-of-the-philippines-joseph-estrada-is-sworn-in-as-the-newly-elected-mayor-of-manila-the-nation-s-capital.md)

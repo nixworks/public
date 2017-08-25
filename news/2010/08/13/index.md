@@ -3,7 +3,7 @@
 ### [Police shoot dead at least four civilians, including two teenagers, demonstrating against the government in Indian-administered Kashmir; protesters say they were unarmed. ](/news/2010/08/13/police-shoot-dead-at-least-four-civilians-including-two-teenagers-demonstrating-against-the-government-in-indian-administered-kashmir-pro.md)
 At least four protesters are killed in violence between police and anti-government demonstrators in Indian-administered Kashmir.
 
-### [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting  the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanista.md)
+### [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanistan.md)
 Afghanistan is back in the spotlight with the death of another Australian soldier.
 
 ### [The eurozone economy grows by 1% in the second quarter of 2010, with the German economy growing by 2.2%, its fastest quarterly growth in more than 20 years. ](/news/2010/08/13/the-eurozone-economy-grows-by-1-in-the-second-quarter-of-2010-with-the-german-economy-growing-by-2-2-its-fastest-quarterly-growth-in-mor.md)
@@ -12,7 +12,7 @@ Figures show strongest quarterly increase in GDP since reunification in 1990.
 ### [TAM Airlines of Brazil and LAN Airlines of Chile announce plans for a merger that would make the biggest carrier in the region. ](/news/2010/08/13/tam-airlines-of-brazil-and-lan-airlines-of-chile-announce-plans-for-a-merger-that-would-make-the-biggest-carrier-in-the-region.md)
 _Context: Brazil, Chile, LAN Airlines, TAM Airlines_
 
-### [The Hong Kong Monetary Authority announces it is to tighten some rules on mortgage lending, signalling that it is concerned about the dangers of a real estate  bubble in Hong Kong. ](/news/2010/08/13/the-hong-kong-monetary-authority-announces-it-is-to-tighten-some-rules-on-mortgage-lending-signalling-that-it-is-concerned-about-the-danger.md)
+### [The Hong Kong Monetary Authority announces it is to tighten some rules on mortgage lending, signalling that it is concerned about the dangers of a real estate bubble in Hong Kong. ](/news/2010/08/13/the-hong-kong-monetary-authority-announces-it-is-to-tighten-some-rules-on-mortgage-lending-signalling-that-it-is-concerned-about-the-danger.md)
 The Hong Kong Monetary Authority will tighten some types of mortgage lending to guard against credit risks.
 
 ### [Mosta - Malta Fireworks Factory (13t'Awissu) explodes leaving one man dead.[http://www.youtube.com/watch?v=wXP94W7r1YE&feature=related]](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explodes-leaving-one-man-dead-http-www-youtube-com-watch-v-wxp94w7r1ye-feature-related.md)
@@ -69,7 +69,7 @@ _Context: Allah, Malaysia, Muslim_
 ### [Sri Lanka convicts ex-army chief Sarath Fonseka on charges of engaging in politics while on active service. ](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.md)
 Military court finds Sarath Fonseka guilty of meddling in politics while in uniform.
 
-### [Trial of Omar Khadr:The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-pthe-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is-r.md)
+### [Trial of Omar Khadr:. The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is.md)
 The first trial at Guantanamo Bay under US President Barack Obama is suspended after the defence lawyer faints in court.
 
 ### [Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. ](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.md)

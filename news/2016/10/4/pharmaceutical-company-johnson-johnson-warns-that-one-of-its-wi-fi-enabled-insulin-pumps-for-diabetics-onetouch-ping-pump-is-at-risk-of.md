@@ -11,7 +11,7 @@ Pharmaceutical firm Johnson &amp; Johnson says one of its insulin pumps risks be
 
 ### Related:
 
-1. [Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-federal-court-in-brooklyn-new.md) _Context: pharmaceutical_
+1. [Crime in New York (state). Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/crime-in-new-york-state-former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-fede.md) _Context: pharmaceutical_
 2. [Valeant, a Canada based pharmaceutical company, says it has received new notices of default from its bondholders. ](/news/2016/04/22/valeant-a-canada-based-pharmaceutical-company-says-it-has-received-new-notices-of-default-from-its-bondholders.md) _Context: pharmaceutical_
 3. [Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. ](/news/2015/03/2/hewlett-packard-announces-that-it-will-buy-aruba-networks-a-california-based-manufacturer-of-wi-fi-equipment-for-approximately-2-7-billio.md) _Context: Wi-Fi_
 4. [American pharmaceutical company Pfizer announces plans to acquire Hospira at a cost of $17 billion. ](/news/2015/02/5/american-pharmaceutical-company-pfizer-announces-plans-to-acquire-hospira-at-a-cost-of-17-billion.md) _Context: pharmaceutical_

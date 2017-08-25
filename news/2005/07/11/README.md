@@ -9,7 +9,7 @@ _Context: Church of England, General Synod, bishop, women bishops_
 ### [ The 17th Maccabiah Games are officially begun with a ceremony in Israel. More than 7000 Jewish athletes will compete on various sporting events. ](/news/2005/07/11/the-17th-maccabiah-games-are-officially-begun-with-a-ceremony-in-israel-more-than-7000-jewish-athletes-will-compete-on-various-sporting-ev.md)
 Sharon calls on Western Jews to &#39;come home&#39; at Maccabiah opening ceremony, world&#39;s largest Jewish sporting event begins at National Stadium near Tel Aviv
 
-### [ The body of a U.S. Navy SEAL has been found and recovered in Afghanistan, a senior defense official said Sunday.  ](/news/2005/07/11/the-body-of-a-u-s-navy-seal-has-been-found-and-recovered-in-afghanistan-a-senior-defense-official-said-sunday.md)
+### [ The body of a U.S. Navy SEAL has been found and recovered in Afghanistan, a senior defense official said Sunday. ](/news/2005/07/11/the-body-of-a-u-s-navy-seal-has-been-found-and-recovered-in-afghanistan-a-senior-defense-official-said-sunday.md)
 _Context: Afghanistan's, U.S. Navy SEAL_
 
 ### [ In Kyrgyzstan, acting president Kurmanbek Bakiev wins presidential elections with 89% support so far ](/news/2005/07/11/in-kyrgyzstan-acting-president-kurmanbek-bakiev-wins-presidential-elections-with-89-support-so-far.md)
@@ -42,8 +42,8 @@ _Context: Nairobi, Sanjay Shah_
 ### [ In Trinidad and Tobago, bomb explosion injures 13-15 people (sources disagree) in the capital Port of Spain ](/news/2005/07/11/in-trinidad-and-tobago-bomb-explosion-injures-13-15-people-sources-disagree-in-the-capital-port-of-spain.md)
 _Context: Port-of-Spain, Trinidad and Tobago_
 
-### [ Brazilian police detains opposition congressman and bishop Joao Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joapso-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had-b.md)
-_Context: Brazil, Joao Batista Ramos da Silva, Liberal Front Party_
+### [ Brazilian police detains opposition congressman and bishop JoGBPo Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joagbpo-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had.md)
+_Context: Brazil, JoGBPo Batista Ramos da Silva, Liberal Front Party_
 
 ### [ In Somalia, gunmen kill prominent peace activist Abdulkadir Yahya Ali ](/news/2005/07/11/in-somalia-gunmen-kill-prominent-peace-activist-abdulkadir-yahya-ali.md)
 _Context: Abdulkadir Yahya Ali, Somalia_

@@ -1,6 +1,6 @@
 ### [2008-04-2](/news/2008/04/2/index.md)
 
-#  Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. 
+#  Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean "'parliamentary"' elections. 
 
 
 

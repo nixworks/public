@@ -1,6 +1,6 @@
 ## [2013-06-15](/news/2013/06/15/index.md)
 
-### [2011-present Libyan factional fighting:Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011apresent-libyan-factional-fighting-pclashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md)
+### [2011-present Libyan factional fighting:. Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011-present-libyan-factional-fighting-clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md)
 Six soldiers from an elite Libyan army unit are killed by masked gunmen in the restive eastern city of Benghazi.
 
 ### [A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 11 people and wounding 22 others. ](/news/2013/06/15/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-quetta-killing-at-least-11-people-and-wounding-22-others.md)
@@ -21,7 +21,7 @@ _Context: Dallas Love Field, George W. Bush, Gulfstream IV, Louisville Internati
 ### [The City of Piedras Negras, Mexico was devastated by the June 14-15, 2013 flood affecting an estimated 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivisions (Colonias) flooded. ](/news/2013/06/15/the-city-of-piedras-negras-mexico-was-devastated-by-the-june-14-15-2013-flood-affecting-an-estimated-40-000-50-000-residents-approximatel.md)
 By: Jose G. Landa An Exclusive Eagle Pass Business Journal News Story/Copyright 2013 The City of Piedras Negras, Coahuila, Mexico was devastated by the June 14-15, 2013 flood affecting between 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivis...
 
-### [Egyptian President  Mohamed Morsi cuts diplomatic ties with Syria and orders the Egyptian embassy in Damascus to close. ](/news/2013/06/15/egyptian-president-mohamed-morsi-cuts-diplomatic-ties-with-syria-and-orders-the-egyptian-embassy-in-damascus-to-close.md)
+### [Egyptian President Mohamed Morsi cuts diplomatic ties with Syria and orders the Egyptian embassy in Damascus to close. ](/news/2013/06/15/egyptian-president-mohamed-morsi-cuts-diplomatic-ties-with-syria-and-orders-the-egyptian-embassy-in-damascus-to-close.md)
 Egypt has cut diplomatic ties with Syria and has ordered the Damascus Embassy in Cairo to be closed, the Egyptian president says.
 
 ### [The National Defense Commission, North Korea's top government body, proposes high-level nuclear and security talks with the United States, days after a planned meeting with South Korea failed. ](/news/2013/06/15/the-national-defense-commission-north-korea-s-top-government-body-proposes-high-level-nuclear-and-security-talks-with-the-united-states-d.md)

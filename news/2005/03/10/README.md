@@ -24,7 +24,7 @@ _Context: Emile Lahoud, Lebanese President, Lebanon, Omar Karami, Prime Minister
 ### [ Israeli troops kill Mohammed Abu Hazneh, a member of Palestinian Islamic Jihad and an alleged plotter of the recent Tel Aviv "Stage" nightclub suicide bombing. After he killed a K9 dog, the troops bulldozed his house, crushing him to death. ](/news/2005/03/10/israeli-troops-kill-mohammed-abu-hazneh-a-member-of-palestinian-islamic-jihad-and-an-alleged-plotter-of-the-recent-tel-aviv-stage-nightc.md)
 _Context: Israel, K9, Palestinian Islamic Jihad, Tel Aviv, bulldozed_
 
-### [ The Chief Executive of Hong Kong, Tung Chee Hwa, announces he is to resign.  He blames his poor health for the decision, while some believe that he may have been dismissed by the Chinese government. ](/news/2005/03/10/the-chief-executive-of-hong-kong-tung-chee-hwa-announces-he-is-to-resign-he-blames-his-poor-health-for-the-decision-while-some-believe.md)
+### [ The Chief Executive of Hong Kong, Tung Chee Hwa, announces he is to resign. He blames his poor health for the decision, while some believe that he may have been dismissed by the Chinese government. ](/news/2005/03/10/the-chief-executive-of-hong-kong-tung-chee-hwa-announces-he-is-to-resign-he-blames-his-poor-health-for-the-decision-while-some-believe.md)
 _Context: Chief Executive, Tung Chee-Hwa, resignation_
 
 ### [ 16 people die following an explosion in a mine in the Shanxi province of China. ](/news/2005/03/10/16-people-die-following-an-explosion-in-a-mine-in-the-shanxi-province-of-china.md)

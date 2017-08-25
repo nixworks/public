@@ -1,15 +1,15 @@
 ## [2010-04-17](/news/2010/04/17/index.md)
 
-### [Tehran International Conference on Disarmament and Non-Proliferation, 2010:The "Nuclear Energy for All, Nuclear Weapons for No One" disarmament conference opens in response to President of the United States Barack Obama's conference in Washington, D.C. ](/news/2010/04/17/tehran-international-conference-on-disarmament-and-non-proliferation-2010-pthe-nuclear-energy-for-all-nuclear-weapons-for-no-one-disarma.md)
+### [Tehran International Conference on Disarmament and Non-Proliferation, 2010:. The "Nuclear Energy for All, Nuclear Weapons for No One" disarmament conference opens in response to President of the United States Barack Obama's conference in Washington, D.C. ](/news/2010/04/17/tehran-international-conference-on-disarmament-and-non-proliferation-2010-the-nuclear-energy-for-all-nuclear-weapons-for-no-one-disarm.md)
 Tehran summit said to focus on availability of nuclear energy for all nations.
 
-### [Eruption of Eyjafjallajokull:The volcanic ash cloud above Europe causes a third day of disruption to air travel, leaving millions of passengers stranded unable to reach their destinations. Officials warn that airspace could remain shut for several more days. ](/news/2010/04/17/eruption-of-eyjafjallajapkull-pthe-volcanic-ash-cloud-above-europe-causes-a-third-day-of-disruption-to-air-travel-leaving-millions-of-passe.md)
+### [Eruption of Eyjafjallajokull:. The volcanic ash cloud above Europe causes a third day of disruption to air travel, leaving millions of passengers stranded unable to reach their destinations. Officials warn that airspace could remain shut for several more days. ](/news/2010/04/17/eruption-of-eyjafjallajapkull-the-volcanic-ash-cloud-above-europe-causes-a-third-day-of-disruption-to-air-travel-leaving-millions-of-pass.md)
 The IAA has extended the closure of Irish airspace until 1pm on Sunday because of the dangers to air travel posed by the cloud of volcanic ash.
 
-### [Child sexual abuse in the Roman Catholic Church:Former Vatican Cardinal Dario Castrillon Hoyos says his 2001 praise of a French bishop for hiding a paedophile priest was endorsed by Pope John Paul II. ](/news/2010/04/17/child-sexual-abuse-in-the-roman-catholic-church-pformer-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-fo.md)
+### [Child sexual abuse in the Roman Catholic Church:. Former Vatican Cardinal Dario Castrillon Hoyos says his 2001 praise of a French bishop for hiding a paedophile priest was endorsed by Pope John Paul II. ](/news/2010/04/17/child-sexual-abuse-in-the-roman-catholic-church-former-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-f.md)
 A cardinal who congratulated a French bishop for hiding a sexually abusive priest has said he acted with the approval of the late Pope John Paul.
 
-### [April 2010 Kohat bombings:Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-ptwin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-do.md)
+### [April 2010 Kohat bombings:. Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/april-2010-kohat-bombings-twin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-d.md)
 At least 41 people were killed and 64 wounded in an attack on a camp filled with people fleeing a government offensive in another area of northwest Pakistan.
 
 ### [Twin bombs injure eight people outside M. Chinnaswamy Stadium in Bangalore ahead of an IPL-3 league game between the Royal Challengers Bangalore and the Mumbai Indians. A third device is located outside. ](/news/2010/04/17/twin-bombs-injure-eight-people-outside-m-chinnaswamy-stadium-in-bangalore-ahead-of-an-ipl-3-league-game-between-the-royal-challengers-banga.md)
@@ -34,7 +34,7 @@ _Context: Andover, Hampshire, Britain, Weyhill_
 ### [Toyota is to recall 600,000 Sienna minivans in the US over fears of corrosion. "In the worst case, the carrier cable may fail and the spare tyre could become separated from the vehicle" a statement from the company read. ](/news/2010/04/17/toyota-is-to-recall-600-000-sienna-minivans-in-the-us-over-fears-of-corrosion-in-the-worst-case-the-carrier-cable-may-fail-and-the-spare.md)
 _Context: Sienna, Toyota_
 
-### [The Former Yugoslav Republic of Macedonia buys 202 double decker buses from China's Zhengzhou Yutong Group for EUR35 million in the first cooperation between the two countries. ](/news/2010/04/17/the-former-yugoslav-republic-of-macedonia-buys-202-double-decker-buses-from-china-s-zhengzhou-yutong-group-for-a-35-million-in-the-first-co.md)
+### [The Former Yugoslav Republic of Macedonia buys 202 double decker buses from China's Zhengzhou Yutong Group for -35 million in the first cooperation between the two countries. ](/news/2010/04/17/the-former-yugoslav-republic-of-macedonia-buys-202-double-decker-buses-from-china-s-zhengzhou-yutong-group-for-35-million-in-the-first-co.md)
 _Context: Macedonian, Zhengzhou Yutong Group_
 
 ## [Previous Day...](/news/2010/04/16/index.md)

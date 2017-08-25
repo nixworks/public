@@ -1,15 +1,15 @@
 ## [2014-05-31](/news/2014/05/31/index.md)
 
-### [War in North-West Pakistan:Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-ptaliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-de.md)
+### [War in North-West Pakistan:. Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/war-in-north-west-pakistan-taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-d.md)
 _Context: Bajaur Agency, Federally Administered Tribal Areas, Taliban, War in North-West Pakistan_
 
-### [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md)
+### [War in Afghanistan (2001-present). Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/war-in-afghanistan-2001-present-sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan.md)
 _Context: Afghanistan's, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_
 
 ### [Turkish police fire tear gas at hundreds of protestors in Istanbul and Ankara as protestors mark the anniversary of the start of the ongoing protests. ](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.md)
 _Context: Ankara, Istanbul, Turkish police, ongoing protests, tear gas_
 
-### [Slender Man stabbing:Two 12 year-old girls stab another 12 year old girl 19 times.](/news/2014/05/31/slender-man-stabbing-ptwo-12-year-old-girls-stab-another-12-year-old-girl-19-times.md)
+### [Slender Man stabbing:. Two 12 year-old girls stab another 12 year old girl 19 times.](/news/2014/05/31/slender-man-stabbing-two-12-year-old-girls-stab-another-12-year-old-girl-19-times.md)
 _Context: Slender Man stabbing_
 
 ### [Psy's "Gangnam Style" becomes the first video to reach 2 billion views on YouTube. ](/news/2014/05/31/psy-s-gangnam-style-becomes-the-first-video-to-reach-2-billion-views-on-youtube.md)
@@ -18,7 +18,7 @@ _Context: Gangnam Style, Psy, YouTube_
 ### [The United States National Park Service advises that six climbers who went missing on Washington's Mount Rainier are not expected to be found alive. ](/news/2014/05/31/the-united-states-national-park-service-advises-that-six-climbers-who-went-missing-on-washington-s-mount-rainier-are-not-expected-to-be-foun.md)
 _Context: Mount Rainier, National Park Service, Washington_
 
-### [A Gulfstream IV jet crashes near the U.S. town of Bedford, Massachusetts, with all seven people aboard dying. Lewis Katz, the co-owner of the ''Philadelphia Inquirer'' was on board. ](/news/2014/05/31/a-gulfstream-iv-jet-crashes-near-the-u-s-town-of-bedford-massachusetts-with-all-seven-people-aboard-dying-lewis-katz-the-co-owner-of-th.md)
+### [A Gulfstream IV jet crashes near the U.S. town of Bedford, Massachusetts, with all seven people aboard dying. Lewis Katz, the co-owner of the "Philadelphia Inquirer" was on board. ](/news/2014/05/31/a-gulfstream-iv-jet-crashes-near-the-u-s-town-of-bedford-massachusetts-with-all-seven-people-aboard-dying-lewis-katz-the-co-owner-of-th.md)
 _Context: Bedford, Massachusetts, Gulfstream IV, Philadelphia Inquirer_
 
 ### [Chuck Hagel, the United States Secretary of Defense, accuses the People's Republic of China of "destablilizing" behaviour in the South China Sea. ](/news/2014/05/31/chuck-hagel-the-united-states-secretary-of-defense-accuses-the-people-s-republic-of-china-of-destablilizing-behaviour-in-the-south-china.md)

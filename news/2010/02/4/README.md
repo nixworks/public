@@ -15,7 +15,7 @@ _Context: HotJobs, Monster.com, Yahoo!_
 ### [Debt-ridden emirate of Dubai of the United Arab Emirates, confirms the discovery of a new oilfield. ](/news/2010/02/4/debt-ridden-emirate-of-dubai-of-the-united-arab-emirates-confirms-the-discovery-of-a-new-oilfield.md)
 _Context: Dubai, United Arab Emirates, oilfield_
 
-### [Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub.  ](/news/2010/02/4/sumo-grand-champion-asashoryu-announces-his-retirement-following-allegations-he-attacked-a-man-outside-a-tokyo-nightclub.md)
+### [Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub. ](/news/2010/02/4/sumo-grand-champion-asashoryu-announces-his-retirement-following-allegations-he-attacked-a-man-outside-a-tokyo-nightclub.md)
 _Context: Asashoryu, Sumo_
 
 ## [Previous Day...](/news/2010/02/3/index.md)

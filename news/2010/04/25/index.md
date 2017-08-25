@@ -1,6 +1,6 @@
 ## [2010-04-25](/news/2010/04/25/index.md)
 
-### [The International Court of Arbitration in The Hague orders the British government to pay PS400 million to Iran for an arms deal cancelled following the Iranian Revolution. ](/news/2010/04/25/the-international-court-of-arbitration-in-the-hague-orders-the-british-government-to-pay-aps400-million-to-iran-for-an-arms-deal-cancelled-fo.md)
+### [The International Court of Arbitration in The Hague orders the British government to pay GBP400 million to Iran for an arms deal cancelled following the Iranian Revolution. ](/news/2010/04/25/the-international-court-of-arbitration-in-the-hague-orders-the-british-government-to-pay-agbp400-million-to-iran-for-an-arms-deal-cancelled.md)
 The British government has confirmed that it has been ordered to pay back $650 million to Iran over a 1970s arms deal.
 
 ### [55 people are killed and 85 injured after clashes between Arab nomads from the Darfur region of Sudan and the Southern Sudan army. ](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.md)
@@ -21,7 +21,7 @@ Settlers call for Palestinian homes to be demolished as US envoy tries to restar
 ### [Mexican Labour Party leader in Guerrero Rey Hernandez dies after being shot at least seven times outside his home in Tlacoachistlahuaca. ](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.md)
 _Context: Guerrero, Mexican Labour Party, Rey Hernandez, Tlacoachistlahuaca_
 
-### [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md)
+### [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md)
 Hungary&#039;s centre-right opposition has won a two-thirds general election victory, according to second round results.
 
 ### [Heinz Fischer wins the Austrian presidential election, 2010. ](/news/2010/04/25/heinz-fischer-wins-the-austrian-presidential-election-2010.md)
@@ -48,13 +48,13 @@ _Context: Cuba, Hillary Clinton, Ricardo Alarcon, United States_
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
 Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.
 
-### [London Marathon:Tsegaye Kebede wins the men's marathon with a time of 2:05:19; Liliya Shobukhova wins the women's marathon with a time of 2:22:00. ](/news/2010/04/25/london-marathon-ptsegaye-kebede-wins-the-men-s-marathon-with-a-time-of-2-05-19-liliya-shobukhova-wins-the-women-s-marathon-with-a-time-of-2.md)
+### [London Marathon:. Tsegaye Kebede wins the men's marathon with a time of 2:05:19; Liliya Shobukhova wins the women's marathon with a time of 2:22:00. ](/news/2010/04/25/london-marathon-tsegaye-kebede-wins-the-men-s-marathon-with-a-time-of-2-05-19-liliya-shobukhova-wins-the-women-s-marathon-with-a-time-of.md)
 Princess Beatrice became the first royal to complete the London Marathon today as more than 35,000 runners braved heavy downpours to contest the annual race.
 
-### [Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. ''[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]''](/news/2010/04/25/chennai-super-kings-defeat-mumbai-indians-to-win-the-third-indian-premier-league-cricket-tournament-http-edition-cnn-com-2010-sport-04.md)
+### [Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. "[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]"](/news/2010/04/25/chennai-super-kings-defeat-mumbai-indians-to-win-the-third-indian-premier-league-cricket-tournament-http-edition-cnn-com-2010-sport-04.md)
 _Context: Chennai Super Kings, Indian Premier League, Mumbai Indians_
 
-### [Pope Benedict XVI and his upcoming visit to Britain:The British Foreign and Commonwealth Office apologises after ''The Sunday Telegraph'' obtains a "foolish" document calling for the upcoming September visit of Pope Benedict XVI to be marked by the launch of "Benedict-branded" condoms, the opening of an abortion clinic and the blessing of a same-sex marriage. ](/news/2010/04/25/pope-benedict-xvi-and-his-upcoming-visit-to-britain-pthe-british-foreign-and-commonwealth-office-apologises-after-the-sunday-telegraph-o.md)
+### [Pope Benedict XVI and his upcoming visit to Britain:. The British Foreign and Commonwealth Office apologises after "The Sunday Telegraph" obtains a "foolish" document calling for the upcoming September visit of Pope Benedict XVI to be marked by the launch of "Benedict-branded" condoms, the opening of an abortion clinic and the blessing of a same-sex marriage. ](/news/2010/04/25/pope-benedict-xvi-and-his-upcoming-visit-to-britain-the-british-foreign-and-commonwealth-office-apologises-after-the-sunday-telegraph-ob.md)
 Britain&#39;s Foreign Office has apologised for a memo by a civil servant suggesting Pope Benedict should open a hospital abortion ward when he visits the country later this year.
 
 ### [South African President Jacob Zuma announces that he is HIV-negative in an effort to promote AIDS awareness. ](/news/2010/04/25/south-african-president-jacob-zuma-announces-that-he-is-hiv-negative-in-an-effort-to-promote-aids-awareness.md)

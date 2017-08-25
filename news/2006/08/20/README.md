@@ -6,7 +6,7 @@ _Context: Democratic Republic of the Congo, Jean-Pierre Bemba, Joseph Kabila, pr
 ### [ Taliban insurgency: More than 90 die in heavy fighting this weekend in Afghanistan. ](/news/2006/08/20/taliban-insurgency-more-than-90-die-in-heavy-fighting-this-weekend-in-afghanistan.md)
 _Context: Afghanistan's, Taliban insurgency_
 
-### [ 2006 Israel-Lebanon conflict: UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation. ](/news/2006/08/20/2006-israel-lebanon-conflict-p-un-secretary-general-kofi-annan-has-expressed-deep-concern-over-saturday-s-israeli-commando-raid-deep-inside.md)
+### [ 2006 Israel-Lebanon conflict:. UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation. ](/news/2006/08/20/2006-israel-lebanon-conflict-un-secretary-general-kofi-annan-has-expressed-deep-concern-over-saturday-s-israeli-commando-raid-deep-inside.md)
 _Context: Israel, Kofi Annan, Lebanon, Secretary General, UN, war_
 
 ### [ The first named storm to form in the Central North Pacific basin since the 2002 Pacific hurricane season, Tropical Storm Ioke, forms and threatens Johnston Island and the Johnston Atoll National Wildlife Refuge. ](/news/2006/08/20/the-first-named-storm-to-form-in-the-central-north-pacific-basin-since-the-2002-pacific-hurricane-season-tropical-storm-ioke-forms-and-th.md)

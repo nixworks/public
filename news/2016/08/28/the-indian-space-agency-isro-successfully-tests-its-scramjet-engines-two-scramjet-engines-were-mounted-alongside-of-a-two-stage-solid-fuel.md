@@ -13,5 +13,5 @@ The test-flight of the indigenously-developed supersonic combustion ramjet engin
 
 1. [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md) _Context: ISRO_
 2. [India's ISRO successfully launches 20 satellites in a single mission. ](/news/2016/06/22/india-s-isro-successfully-launches-20-satellites-in-a-single-mission.md) _Context: ISRO_
-3. [India's Mars Orbiter Mission of ISRO  successfully enters Mars orbit. ](/news/2014/09/24/india-s-mars-orbiter-mission-of-isro-successfully-enters-mars-orbit.md) _Context: ISRO_
+3. [India's Mars Orbiter Mission of ISRO successfully enters Mars orbit. ](/news/2014/09/24/india-s-mars-orbiter-mission-of-isro-successfully-enters-mars-orbit.md) _Context: ISRO_
 4. [ A revolutionary scramjet jet engine designed to fly at seven times sonic speed is successfully tested in Australia. ](/news/2006/03/25/a-revolutionary-scramjet-jet-engine-designed-to-fly-at-seven-times-sonic-speed-is-successfully-tested-in-australia.md) _Context: Scramjet_

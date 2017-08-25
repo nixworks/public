@@ -9,7 +9,7 @@ _Context: Neil Young, neuroradiological_
 ### [ The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. ](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.md)
 _Context: Denver, Microsoft, Scott Richter, bankruptcy, lawsuit, spam_
 
-### [ ''MGM Studios v. Grokster'', an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-supr.md)
+### [ "MGM Studios v. Grokster", an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-suprem.md)
 _Context: File sharing, MGM Studios v. Grokster, P2P, United States Supreme Court, lawsuit_
 
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
@@ -33,13 +33,13 @@ _Context: Boy Scouts of America, Douglas S. Smith Jr, United States, child porno
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)
 _Context: Domestic Relations Bill, Kampala, Muslim, Uganda, polygamy_
 
-### [ France intends to change law that allows girls to marry at the age of 15  ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
+### [ France intends to change law that allows girls to marry at the age of 15 ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
 _Context: France, marriage_
 
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
 _Context: Afghanistan's, Ghazni, dam_
 
-### [ British bullfighter Frank Evans, known as ''El Ingles'', is about to retire after 40 years. ](/news/2005/03/29/british-bullfighter-frank-evans-known-as-el-ingla-c-s-is-about-to-retire-after-40-years.md)
+### [ British bullfighter Frank Evans, known as "El Ingles", is about to retire after 40 years. ](/news/2005/03/29/british-bullfighter-frank-evans-known-as-el-ingla-c-s-is-about-to-retire-after-40-years.md)
 _Context: Bullfighting, Frank Evans_
 
 ### [ The leaders of Brazil, Venezuela, Colombia and Spain meet in Ciudad Guayana, Venezuela. They agree to resist drug trafficking, terrorism and poverty. ](/news/2005/03/29/the-leaders-of-brazil-venezuela-colombia-and-spain-meet-in-ciudad-guayana-venezuela-they-agree-to-resist-drug-trafficking-terrorism-an.md)

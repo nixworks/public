@@ -1,6 +1,6 @@
 ### [2000-07-14](/news/2000/07/14/index.md)
 
-#  The first series of ''Big Brother UK'' starts.
+#  The first series of "Big Brother UK" starts.
 
 
 

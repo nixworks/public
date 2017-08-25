@@ -3,10 +3,10 @@
 ### [Drone attacks in Pakistan: A U.S. drone attack kills at least seven people in Pakistan. ](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kills-at-least-seven-people-in-pakistan.md)
 Prime Minister Nawaz Sharif has often criticized the United States’ use of unmanned aircraft against militants.
 
-### [Iraqi insurgency (post-U.S. withdrawal):At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-pat-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targe.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. At least 19 people are killed when two suicide bombers drive cars packed with explosives into targets in the Baghdad area. ](/news/2013/06/7/iraqi-insurgency-post-u-s-withdrawal-at-least-19-people-are-killed-when-two-suicide-bombers-drive-cars-packed-with-explosives-into-targ.md)
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal)_
 
-### [Syrian civil war:The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-pthe-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md)
+### [Syrian civil war:. The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md)
 _Context: Syrian Civil War, United Nations, United States dollars_
 
 ### [A suspected rapist is attacked and buried alive by an angry mob in Bolivia. ](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.md)
@@ -54,7 +54,7 @@ Chinese President Xi Jinping and his US counterpart Barack Obama open two days o
 ### [UK premier David Cameron attracts criticism for attending the 61st annual summit of the secretive Bilderberg Group at The Grove, Watford. ](/news/2013/06/7/uk-premier-david-cameron-attracts-criticism-for-attending-the-61st-annual-summit-of-the-secretive-bilderberg-group-at-the-grove-watford.md)
 _Context: Bilderberg Group, David Cameron, The Grove, Watford, the 61st annual summit_
 
-### [PRISM (U.S. government surveillance program):The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/prism-u-s-government-surveillance-program-pthe-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism.md)
+### [PRISM (U.S. government surveillance program):. The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/prism-u-s-government-surveillance-program-the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-pris.md)
 _Context: PRISM_
 
 ### [Richard Ramirez, a prolific American serial killer during the 1980s, dies on death row from liver failure. ](/news/2013/06/7/richard-ramirez-a-prolific-american-serial-killer-during-the-1980s-dies-on-death-row-from-liver-failure.md)
@@ -66,7 +66,7 @@ _Context: Cleveland, Ohio kidnapper_
 ### [Cambodia passes a controversial law that makes it illegal to deny atrocities committed by the Khmer Rouge regime. ](/news/2013/06/7/cambodia-passes-a-controversial-law-that-makes-it-illegal-to-deny-atrocities-committed-by-the-khmer-rouge-regime.md)
 _Context: Khmer Rouge_
 
-### [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md)
+### [Iranian presidential election:. Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and.md)
 _Context: Foreign relations of Iran, Human rights in Iran, Iranian government, Mahmoud Ahmadinejad, nuclear scientist, presidential, televised debate_
 
 ## [Previous Day...](/news/2013/06/6/index.md)

@@ -18,22 +18,22 @@ _Context: Arctic Ocean, Global warming, United States Department of the Interior
 ### [ A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. ](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.md)
 _Context: Baghdad, funeral, suicide bomber_
 
-### [  The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md)
+### [ Israel. The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/israel-the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md)
 _Context: Ehud Olmert, Hamas, Israel, Israeli Prime Minister_
 
 ### [ NATO raises concerns about an increase in insurgent attacks in Afghanistan and raises concern that it is partly due to agreements between Pakistan and militants in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/05/14/nato-raises-concerns-about-an-increase-in-insurgent-attacks-in-afghanistan-and-raises-concern-that-it-is-partly-due-to-agreements-between-p.md)
 NATO announced a sharp increase in insurgent attacks in east Afghanistan on Wednesday and raised concerns that it was partly due to pacts between Pakistan and militants in tribal areas on its side of the border.
 
-### [  Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-sixty-thousand-people-rema.md)
+### [ 2008 Sichuan earthquake. Xinhua reports that the confirmed death toll from the 2008 Sichuan earthquake has reached nearly 15,000. Nearly sixty thousand people remain missing near the epicentre of the earthquake. ](/news/2008/05/14/2008-sichuan-earthquake-xinhua-reports-that-the-confirmed-death-toll-from-the-2008-sichuan-earthquake-has-reached-nearly-15-000-nearly-si.md)
 Two thousand Chinese soldiers are working to plug an &#034;extremely dangerous&#034; cracks in a dam upriver from the earthquake-hit town of Dujiangyan.
 
-### [  The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md)
+### [ Cyclone Nargis. The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/cyclone-nargis-the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md)
 The death toll from the cyclone in Burma could wind up climbing to between 68,833 and 127,990, the Red Cross said Wednesday, as the United Nations warned that a second cyclone was forming in the region.
 
 ### [ A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. ](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-in-the-town-of-legutiano-in-the-basque-country-of-spain-killing-at-least-one-person-and-inju.md)
 _Context: Basque, Legutiano, Spain, barracks, car bomb_
 
-### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md)
+### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2-0-in-the-final.md)
 _Context: 2008 UEFA Cup, Rangers F.C., Russia, Scotland, Zenit St Petersburg, association football, final_
 
 ## [Previous Day...](/news/2008/05/13/index.md)

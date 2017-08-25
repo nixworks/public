@@ -3,10 +3,10 @@
 ### [Midi-Pyrenees shootings suspected perpetrator Mohammed Merah dies and three French policemen are injured as a siege ends outside Merah's Toulouse flat. ](/news/2012/03/22/midi-pyra-c-na-c-es-shootings-suspected-perpetrator-mohammed-merah-dies-and-three-french-policemen-are-injured-as-a-siege-ends-outside-merah-s-t.md)
 A police sniper shot and killed the gunman who carried out a spate of murders in southern France, prosecutors say, after a 32-hour siege.
 
-### [Mali coup d'etat during the insurgency in northern Mali:Soldiers storm the palace of the President Amadou Toumani Toure with heavy gunfire reported in Bamako as part of a coup d'etat. ](/news/2012/03/22/mali-coup-d-a-c-tat-during-the-insurgency-in-northern-mali-psoldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfir.md)
+### [Mali coup d'etat during the insurgency in northern Mali:. Soldiers storm the palace of the President Amadou Toumani Toure with heavy gunfire reported in Bamako as part of a coup d'etat. ](/news/2012/03/22/mali-coup-d-a-c-tat-during-the-insurgency-in-northern-mali-soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfi.md)
 Mutinous soldiers said they seized power in Mali on Thursday and ordered its borders closed, threatening to reignite conflict in a Saharan region shaken by the turmoil in Libya.
 
-### [Syrian uprising:Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-psyrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib.md)
+### [Syrian uprising:. Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idli.md)
 _Context: 2011-2012 Syrian uprising, Aleppo, Damascus, Daraa, Hama, Homs, Idlib, Lattakia, military_
 
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
@@ -33,7 +33,7 @@ Week-long blaze destroys thousands of hectares of forest crucial for water catch
 ### [A large fire sweeps through Hatibagan market, one of the oldest in the Indian city of Calcutta, destroying most of the buildings. ](/news/2012/03/22/a-large-fire-sweeps-through-hatibagan-market-one-of-the-oldest-in-the-indian-city-of-calcutta-destroying-most-of-the-buildings.md)
 A massive fire sweeps through one of the oldest markets in the eastern Indian city of Calcutta, destroying most of its shops.
 
-### [More bodies are dug out of the wreck of the ''Costa Concordia''. ](/news/2012/03/22/more-bodies-are-dug-out-of-the-wreck-of-the-costa-concordia.md)
+### [More bodies are dug out of the wreck of the "Costa Concordia". ](/news/2012/03/22/more-bodies-are-dug-out-of-the-wreck-of-the-costa-concordia.md)
 Death toll goes up to 30 with discovery of three more bodies two months after cruise liner sank off Italian coast.
 
 ### [The United Nations Human Rights Council urges Sri Lanka to "credibly investigate" possible war crimes committed during the Sri Lankan Civil War. ](/news/2012/03/22/the-united-nations-human-rights-council-urges-sri-lanka-to-credibly-investigate-possible-war-crimes-committed-during-the-sri-lankan-civil.md)
@@ -57,7 +57,7 @@ Murder suspect, charged over 2005 death of his cousin, apprehended by police aft
 ### [After 15 years, the Mahon Tribunal into political corruption in Ireland concludes with findings against high-profile politicians, including two former Taoisigh. ](/news/2012/03/22/after-15-years-the-mahon-tribunal-into-political-corruption-in-ireland-concludes-with-findings-against-high-profile-politicians-including.md)
 Former Taoiseach Bertie Ahern has insisted that he told the truth to the Mahon Tribunal and that he would examine ways of vindicating his name.
 
-### [A draft report by government auditors estimates India lost $210 billion by selling coalfields too cheaply.  Opposition politicians denounce the government for "looting the country". ](/news/2012/03/22/a-draft-report-by-government-auditors-estimates-india-lost-210-billion-by-selling-coalfields-too-cheaply-opposition-politicians-denounce.md)
+### [A draft report by government auditors estimates India lost $210 billion by selling coalfields too cheaply. Opposition politicians denounce the government for "looting the country". ](/news/2012/03/22/a-draft-report-by-government-auditors-estimates-india-lost-210-billion-by-selling-coalfields-too-cheaply-opposition-politicians-denounce-t.md)
 The CAG-estimated loss figure of Rs 10.67 lakh crore is 6 times that of its highest presumptive loss figure of Rs 1.76 lakh crore for the 2G scam.
 
 ### [In Montreal the biggest protest in Quebec's history sets out against the government's tuition hikes and for free access to post-secondary education, with more than 200 000 people marching in the streets ](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.md)

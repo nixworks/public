@@ -6,7 +6,7 @@ _Context: 2015 West African offensive, Boko Haram, Nigerian Armed Forces, Sambis
 ### [Two policemen and a civilian are killed and three others injured after a grenade attack in Burundi's capital Bujumbura. The attack takes place a day after a similar incident injured three officers, and comes in the midst of intensifying protests against current president Pierre Nkurunziza. ](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.md)
 Three people, including two policemen, killed and several people wounded in grenade attack in the capital Bujumbura.
 
-### [Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md)
+### [Iraqi insurgency (2011-present). Two explosions in Baghdad kill at least 13 people and injure dozens. ](/news/2015/05/2/iraqi-insurgency-2011-present-two-explosions-in-baghdad-kill-at-least-13-people-and-injure-dozens.md)
 At least 13 die and dozens are wounded in one of the deadliest attacks in Baghdad this year.
 
 ### [The Republic of Congo bans full face-veils in an apparent attempt to prevent religious extremist attacks. ](/news/2015/05/2/the-republic-of-congo-bans-full-face-veils-in-an-apparent-attempt-to-prevent-religious-extremist-attacks.md)
@@ -15,7 +15,7 @@ The Republic of Congo will ban full face-veils in an attempt to prevent violent 
 ### [Catherine, Duchess of Cambridge, returns home to cheering crowds after giving birth to her and the Duke's second child, Princess Charlotte of Cambridge, fourth in line to the throne behind her older brother, Prince George of Cambridge, at St Mary's Hospital, London. Many countries send congratulations. ](/news/2015/05/2/catherine-duchess-of-cambridge-returns-home-to-cheering-crowds-after-giving-birth-to-her-and-the-duke-s-second-child-princess-charlotte-o.md)
 Prince William says he and wife Catherine are &quot;very happy&quot; after the birth of their first daughter, as he brings his son Prince George to the hospital to meet his sister.
 
-### [Fifteen people have had to be rescued from floodwaters as the town of Bellingen is likely to be cut off. ](/news/2015/05/2/fifteen-people-have-had-to-be-rescued-from-floodwaters-as-the-town-of-bellingen-is-likely-to-be-cut-off.md)
+### [Australian east coast low. Fifteen people have had to be rescued from floodwaters as the town of Bellingen is likely to be cut off. ](/news/2015/05/2/australian-east-coast-low-fifteen-people-have-had-to-be-rescued-from-floodwaters-as-the-town-of-bellingen-is-likely-to-be-cut-off.md)
 Queensland has already copped a serious soaking and NSW will get its own this weekend, but forecasters are predicting the impending storms will not be as bad as the wild weather that devastated the east coast last month. 
 
 ### [April 2015 Nepal earthquake: The death toll from last month's earthquake rises to 7,040 people and a total of 14,025 injured with thousands missing. Authorities in Nepal have given up hope of finding more survivors in the rubble. ](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-last-month-s-earthquake-rises-to-7-040-people-and-a-total-of-14-025-injured-with-thousands.md)

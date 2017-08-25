@@ -1,0 +1,23 @@
+### [2010-08-6](/news/2010/08/6/index.md)
+
+# U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. 
+
+
+
+
+### Source:
+
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gGC6fdOGLXgPRkA2J0ZMoYuWLZoQD9HE47O80)
+
+### Related:
+
+1. [2016 Atlantic hurricane season. The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/2016-atlantic-hurricane-season-the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-t.md) _Context: Charleston, South Carolina, South Carolina_
+2. [2015 Pulitzer Prize. The Pulitzer Prize awards are presented, with the "The Post and Courier" of Charleston, South Carolina winning the prestigious gold medal for public service for a series on domestic violence in the US state of South Carolina. [http://www.nytimes.com/2015/04/21/business/media/pulitzer-prize-winners-2015.html ("New York Times")]. Anthony Doerr's World War II novel "All the Light We Cannot See" wins the Pulitzer Prize for Fiction. [http://edition.cnn.com/2015/04/20/living/feat-pulitzer-prize-winners-arts-letters-2015/ (CNN)]. Elizabeth Kolbert's "The Sixth Extinction: An Unnatural History" was a winner of the Pulitzer Prize for General Non-Fiction](/news/2015/04/20/2015-pulitzer-prize-the-pulitzer-prize-awards-are-presented-with-the-the-post-and-courier-of-charleston-south-carolina-winning-the-pres.md) _Context: Charleston, South Carolina, South Carolina_
+3. [ Nine firefighters are killed in a collapse at a furniture warehouse blaze in Charleston, South Carolina, the largest loss of firefighters in the United States in one incident since the collapse of the World Trade Center in 2001.](/news/2007/06/18/nine-firefighters-are-killed-in-a-collapse-at-a-furniture-warehouse-blaze-in-charleston-south-carolina-the-largest-loss-of-firefighters-i.md) _Context: Charleston, South Carolina, South Carolina_
+4. [Confederate submarine "H.L. Hunley" is raised to the surface after 136 years on the ocean floor.](/news/2000/08/8/confederate-submarine-h-l-hunley-is-raised-to-the-surface-after-136-years-on-the-ocean-floor.md) _Context: ''H. L. Hunley'', Confederate_
+5. [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md) _Context: Confederate_
+6. [ Four inmates are killed at Kirkland Correctional Institution in South Carolina. Authorities have charged two inmates with the murders of the four men. ](/news/2017/04/8/four-inmates-are-killed-at-kirkland-correctional-institution-in-south-carolina-authorities-have-charged-two-inmates-with-the-murders-of-th.md) _Context: South Carolina_
+7. [Charleston church shooting. Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. ](/news/2016/12/15/charleston-church-shooting-dylann-roof-is-convicted-of-the-racially-motivated-murder-of-nine-black-churchgoers-in-the-u-s-city-of-charlest.md) _Context: Charleston, South Carolina_
+8. [Todd Kohlhepp. Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/todd-kohlhepp-kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-report.md) _Context: South Carolina_
+9. [2016 Atlantic hurricane season. Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/2016-atlantic-hurricane-season-hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from.md) _Context: South Carolina_
+10. [Bees and toxic chemicals. Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/bees-and-toxic-chemicals-over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-z.md) _Context: South Carolina_

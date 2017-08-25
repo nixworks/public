@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [School shootingsOne student is killed  and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootingspone-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _Context: Flagstaff, Arizona_
+1. [School shootings. One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootings-one-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md) _Context: Flagstaff, Arizona_

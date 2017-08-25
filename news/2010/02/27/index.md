@@ -1,6 +1,6 @@
 ## [2010-02-27](/news/2010/02/27/index.md)
 
-### [2010 Chile earthquake and Pacific Ocean tsunamis:An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-pan-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)
+### [2010 Chile earthquake and Pacific Ocean tsunamis:. An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)
 One of the biggest earthquakes in recorded history rocked Chile on Saturday, killing more than 300 people, toppling buildings and freeways, and setting off sirens thousands of miles away as...
 
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
@@ -18,7 +18,7 @@ _Context: Guangdong, Lantern Festival, Puning_
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
 _Context: Fanaga village, Kunming, Luquan, Yunnan, yuan_
 
-### [Police in Turkey arrest at least 18 people in connection with an alleged coup plot. ''[http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html?hpt=Sbin (CNN)]''](/news/2010/02/27/police-in-turkey-arrest-at-least-18-people-in-connection-with-an-alleged-coup-plot-http-www-cnn-com-2010-world-asiapcf-02-26-turkey-sl.md)
+### [Police in Turkey arrest at least 18 people in connection with an alleged coup plot. "[http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html?hpt=Sbin (CNN)]"](/news/2010/02/27/police-in-turkey-arrest-at-least-18-people-in-connection-with-an-alleged-coup-plot-http-www-cnn-com-2010-world-asiapcf-02-26-turkey-sle.md)
 _Context: Turkey, coup_
 
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)

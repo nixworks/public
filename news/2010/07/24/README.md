@@ -6,7 +6,7 @@ The US and South Korea hold a major military exercise in the Sea of Japan, despi
 ### [The Royal Air Force tests fighter jets with which it intends to use to shoot down any rogue passenger planes. ](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.md)
 _Context: Royal Air Force, fighter jet_
 
-### [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey,  Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md)
+### [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey, Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md)
 At least 50 bodies are recovered from a mass grave in a part of northern Mexico where drugs gangs have been fighting.
 
 ### [France states its joint effort with Mauritania to free a French hostage is over, but no word is released on the whereabouts of the hostage or if he is even still alive. ](/news/2010/07/24/france-states-its-joint-effort-with-mauritania-to-free-a-french-hostage-is-over-but-no-word-is-released-on-the-whereabouts-of-the-hostage-o.md)
@@ -21,13 +21,13 @@ Protesters around the world rally in support of jailed woman facing execution fo
 ### [Beginning of the 2010 European Go Championship in Tampere, Finland. [http://www.egc2010.fi/]](/news/2010/07/24/beginning-of-the-2010-european-go-championship-in-tampere-finland-http-www-egc2010-fi.md)
 _Context: European Go Championship, Finland, Tampere_
 
-### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary ''Life in a Day''. ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
+### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
 _Context: Academy Award, Kevin Macdonald, Life in a Day, Ridley Scott_
 
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
 The Peruvian government declares a state of emergency in more than half the country due to unusually cold weather.
 
-### [Chinese floods:Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. ](/news/2010/07/24/chinese-floods-ppremier-wen-jiabao-wades-through-water-in-wuhan-to-warn-of-further-devastation.md)
+### [Chinese floods:. Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. ](/news/2010/07/24/chinese-floods-premier-wen-jiabao-wades-through-water-in-wuhan-to-warn-of-further-devastation.md)
 Large parts of south and central China, already been ravaged by floods, face even worse deluges, Premier Wen Jiabao warns.
 
 ### [BP announces it is to start drilling for oil off Libya. ](/news/2010/07/24/bp-announces-it-is-to-start-drilling-for-oil-off-libya.md)
@@ -48,7 +48,7 @@ _Context: Iran, Israel, United States, United States House of Representatives_
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)
 Russian PM Vladimir Putin meets the Russian agents deported from the US and says they had &quot;tough lives&quot; and were &quot;betrayed&quot;.
 
-### [15th African Union summit in Kampala:African heads of state meet. ](/news/2010/07/24/15th-african-union-summit-in-kampala-pafrican-heads-of-state-meet.md)
+### [15th African Union summit in Kampala:. African heads of state meet. ](/news/2010/07/24/15th-african-union-summit-in-kampala-african-heads-of-state-meet.md)
 African Union leaders meeting in Uganda agree to reinforce their peacekeeping force in Somalia to counter al-Shabab militants.
 
 ### [Iran begins researching the development of an, as yet, non-existent nuclear fusion reactor. ](/news/2010/07/24/iran-begins-researching-the-development-of-an-as-yet-non-existent-nuclear-fusion-reactor.md)

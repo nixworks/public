@@ -31,12 +31,12 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: General, George William Casey Jr., Iraq, United States_
 
 ### [ South Korean Unification Minister Lee Jong-Seok resigns. Defence Minister Yoon Kwang-Ung had resigned earlier in the week with the President of South Korea Roh Moo-Hyun expected to announce changes in his foreign policy and defence advisers soon. ](/news/2006/10/25/south-korean-unification-minister-lee-jong-seok-resigns-defence-minister-yoon-kwang-ung-had-resigned-earlier-in-the-week-with-the-presiden.md)
-_Context: Lee Jong-Seok, Roh Moo-hyun, South Korea, South Korean President, Yoon Kwang-Ung_
+_Context: Lee Jong-Seok, President of South Korea, Roh Moo-hyun, South Korea, Yoon Kwang-Ung_
 
 ### [ Brigadier Mick Slater, the commander of Australian troops in East Timor warns that a humanitarian disaster could happen in that nation, unless housing for refugees fleeing the unrest in Dili can be arranged before the approaching wet season. ](/news/2006/10/25/brigadier-mick-slater-the-commander-of-australian-troops-in-east-timor-warns-that-a-humanitarian-disaster-could-happen-in-that-nation-unl.md)
 _Context: Australia, Brigadier, Dili, East Timor, Mick Slater, monsoon season, refugee_
 
-### [ Carl Scully resigns as Police Minister of New South Wales for misleading the New South Wales Legislative Assembly twice in  two weeks over a report on the 2005 Cronulla riots. ](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-south-wales-for-misleading-the-new-south-wales-legislative-assembly-twice-in-two-weeks-over.md)
+### [ Carl Scully resigns as Police Minister of New South Wales for misleading the New South Wales Legislative Assembly twice in two weeks over a report on the 2005 Cronulla riots. ](/news/2006/10/25/carl-scully-resigns-as-police-minister-of-new-south-wales-for-misleading-the-new-south-wales-legislative-assembly-twice-in-two-weeks-over-a.md)
 _Context: 2005 Cronulla riots, Carl Scully, Legislative Assembly, New South Wales_
 
 ### [ Jon Lech Johansen claims to have reverse engineered the FairPlay copy protection used by Apple's iPod and iTunes Store. ](/news/2006/10/25/jon-lech-johansen-claims-to-have-reverse-engineered-the-fairplay-copy-protection-used-by-apple-s-ipod-and-itunes-store.md)

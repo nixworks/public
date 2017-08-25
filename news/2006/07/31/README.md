@@ -21,7 +21,7 @@ _Context: Arnold Schwarzenegger, George W. Bush, Global warming, Tony Blair, car
 ### [ Incumbent Fradique de Menezes wins So Tom and Prncipe's presidential election. ](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.md)
 _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 
-### [ 2006 Israel-Lebanon crisis: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-p-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md)
+### [ 2006 Israel-Lebanon crisis:. The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md)
 _Context: 2006 Israel-Lebanon crisis, Israel, Lebanon, UN Security Council, civilians_
 
 ### [ John Howard announces that he intends to stay on as Prime Minister of Australia until the 2007 election which he plans to contest as Leader of the Liberal Party of Australia. ](/news/2006/07/31/john-howard-announces-that-he-intends-to-stay-on-as-prime-minister-of-australia-until-the-2007-election-which-he-plans-to-contest-as-leader.md)

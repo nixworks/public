@@ -3,7 +3,7 @@
 ### [The Islamist terrorist group Boko Haram claims responsibility for a series of bomb and gun attacks in the north-eastern Nigerian town of Damaturu that have killed at least 63 people. ](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.md)
 _Context: Boko Haram, Damaturu, Islamist, Nigeria, series of bomb and gun attacks, terrorism_
 
-### [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship ''Tahrir'' that, along with the Irish MV ''Saoirse'', who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship;  Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were.md)
+### [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship "Tahrir" that, along with the Irish MV "Saoirse", who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were-head.md)
 Israel has said no one was injured in its takeover of the Canadian ship Tahrir
 
 ### [Rescuers pull a further 45 trapped coal miners to the surface in Sanmenxia in the People's Republic of China, with eight miners reportedly having died. ](/news/2011/11/5/rescuers-pull-a-further-45-trapped-coal-miners-to-the-surface-in-sanmenxia-in-the-people-s-republic-of-china-with-eight-miners-reportedly-h.md)

@@ -12,5 +12,5 @@ Ursula Halligan, political editor of commercial channel TV3, writes powerful col
 
 ### Related:
 
-1. [The counting of votes for yesterday's referendum occurs with  the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the-republic-of-ireland-becoming-the-first-country-to-adopt-same-sex-marriage.md) _Context: Thirty-fourth Amendment of the Constitution (Marriage Equality) Bill 2015_
+1. [Thirty-fourth Amendment of the Constitution (Marriage Equality) Bill 2015. The counting of votes for yesterday's referendum occurs with the Republic of Ireland becoming the first country to adopt same sex marriage by referendum. ](/news/2015/05/23/thirty-fourth-amendment-of-the-constitution-marriage-equality-bill-2015-the-counting-of-votes-for-yesterday-s-referendum-occurs-with-the.md) _Context: Thirty-fourth Amendment of the Constitution (Marriage Equality) Bill 2015_
 2. [Voters in Ireland go to the polls to vote on constitutional referendums, including one that would allow same-sex marriage. ](/news/2015/05/22/voters-in-ireland-go-to-the-polls-to-vote-on-constitutional-referendums-including-one-that-would-allow-same-sex-marriage.md) _Context: Thirty-fourth Amendment of the Constitution (Marriage Equality) Bill 2015_

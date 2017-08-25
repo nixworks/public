@@ -1,0 +1,24 @@
+### [2016-08-22](/news/2016/08/22/index.md)
+
+# 2016 Pacific typhoon season. Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. 
+
+Tokyo was pummeled by rain and winds as Mindulle became the first typhoon to make landfall near the metropolitan region in 11 years on Monday, bringing the risk of floods and landslides.
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-08-22/typhoon-mindulle-bears-down-on-tokyo-set-to-make-landfall-today)
+2. [CNN](http://edition.cnn.com/2016/08/22/asia/japan-typhoon-mindulle-weather/index.html)
+
+### Related:
+
+1. [2016 Pacific typhoon season. Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/2016-pacific-typhoon-season-typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md) _Context: 2016 Pacific typhoon season, Japan_
+2. [2016 Pacific typhoon season. Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/2016-pacific-typhoon-season-typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-s.md) _Context: 2016 Pacific typhoon season, Japan_
+3. [2016 Pacific typhoon season. The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. ](/news/2016/09/4/2016-pacific-typhoon-season-the-death-toll-in-japan-from-typhoon-lionrock-rises-to-17-with-several-people-still-missing-typhoon-namtheun-i.md) _Context: 2016 Pacific typhoon season, Japan_
+4. [2016 Pacific typhoon season. Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. ](/news/2016/09/20/2016-pacific-typhoon-season-typhoon-malakas-makes-landfall-on-the-southern-japanese-island-of-kyushu-dumping-heavy-rain-and-causing-flight.md) _Context: 2016 Pacific typhoon season, Japan_
+5. [Yoichi Masuzoe resigns as the Governor of the Japanese capital Tokyo over a political funding scandal. He was due to face a no-confidence motion in the Tokyo Metropolitan Assembly later today. ](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.md) _Context: Japan, Tokyo_
+6. [Japan-United States relations. Thousands protest outside the Japanese parliament in Tokyo against the relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/japan-united-states-relations-thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-o.md) _Context: Japan, Tokyo_
+7. [North Korea and weapons of mass destruction. Japan-North Korea relations. Japan deploys two MIM-104 Patriot surface-to-air missile interceptor systems in Tokyo in preparation for any North Korean ballistic missiles potentially heading for the city. The deployment comes amid concerns of an imminent North Korean missile launch following the detection of "increased activity" at a North Korean missile facility. ](/news/2016/01/31/north-korea-and-weapons-of-mass-destruction-japan-north-korea-relations-japan-deploys-two-mim-104-patriot-surface-to-air-missile-interce.md) _Context: Japan, Tokyo_
+8. [Australia-Japan relations. In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is -very disappointed- with Japan-s decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/australia-japan-relations-in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-very-disappointed-with-japan-s.md) _Context: Japan, Tokyo_
+9. [An explosion at Japan's controversial Yasukuni Shrine for the war dead in Tokyo damages the ceiling and a wall of a public bathroom near the shrine-s southern entrance. No one was injured. ](/news/2015/11/23/an-explosion-at-japan-s-controversial-yasukuni-shrine-for-the-war-dead-in-tokyo-damages-the-ceiling-and-a-wall-of-a-public-bathroom-near-the.md) _Context: Japan, Tokyo_
+10. [Japanese anti-militarism protests. Students and activists protest in Tokyo against a proposal to amend Japan's pacifist constitution. ](/news/2015/08/30/japanese-anti-militarism-protests-students-and-activists-protest-in-tokyo-against-a-proposal-to-amend-japan-s-pacifist-constitution.md) _Context: Japan, Tokyo_

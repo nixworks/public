@@ -12,7 +12,7 @@ _Context: Santa Catalina Island, California, Two Harbors, California_
 ### [ Munster win the Heineken European Rugby Cup against Toulouse, 16 to 13. ](/news/2008/05/24/munster-win-the-heineken-european-rugby-cup-against-toulouse-16-to-13.md)
 _Context: Heineken European Rugby Cup, Munster Rugby, Toulouse_
 
-### [ Colombia: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-p-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md)
+### [ Colombia:. According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md)
 _Context: Colombia, FARC, Juan Manuel Santos, March 26, Minister of National Defence, Tirofijo_
 
 ### [ In continuing battles against anti-foreigner violence in South Africa, police shoot and kill one man in Johannesburg. The Red Cross warns it is struggling to help the thousands of displaced people. ](/news/2008/05/24/in-continuing-battles-against-anti-foreigner-violence-in-south-africa-police-shoot-and-kill-one-man-in-johannesburg-the-red-cross-warns-i.md)

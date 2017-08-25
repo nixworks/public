@@ -12,13 +12,13 @@ _Context: Israel, Netanya_
 ### [ A nationwide public service strike involving medical staff, teachers and civil servants takes place in areas of Ireland not badly affected by recent ongoing flooding. ](/news/2009/11/24/a-nationwide-public-service-strike-involving-medical-staff-teachers-and-civil-servants-takes-place-in-areas-of-ireland-not-badly-affected.md)
 Trade unions have announced plans for a second national strike in public sector next week if they do not reach agreement on a&hellip;
 
-### [ The Government of Ireland announces a EUR10 million humanitarian fund for the worst affected by ongoing floods in the country. ](/news/2009/11/24/the-government-of-ireland-announces-a-a-10-million-humanitarian-fund-for-the-worst-affected-by-ongoing-floods-in-the-country.md)
+### [ The Government of Ireland announces a -10 million humanitarian fund for the worst affected by ongoing floods in the country. ](/news/2009/11/24/the-government-of-ireland-announces-a-10-million-humanitarian-fund-for-the-worst-affected-by-ongoing-floods-in-the-country.md)
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
 _Context: Adam Lambert, United States, homosexuality_
 
-### [ Iran lifts a ban on one of its best-selling newspapers, ''Hamshahri'', a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-pictur.md)
+### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
 _Context: Baha'i faith, Hamshahri, Iran, banned_
 
 ### [ The trial of two Congolese militia leaders, Germain Katanga and Mathieu Ngudjolo Chui, begins at the International Criminal Court in The Hague. ](/news/2009/11/24/the-trial-of-two-congolese-militia-leaders-germain-katanga-and-mathieu-ngudjolo-chui-begins-at-the-international-criminal-court-in-the-ha.md)
@@ -45,7 +45,7 @@ _Context: Bariyapur, Gadhimai, Hindu, Nepal, festival, goddess, ritually slaught
 ### [ Philippine President Gloria Macapagal Arroyo declares a state of emergency in the entire Maguindanao province in southern Philippines following the bloodiest election-related massacre in Philippine history which left at least 40 people dead, including a local politician and about a dozen journalists. ](/news/2009/11/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-the-entire-maguindanao-province-in-southern-philippines-follo.md)
 24 more bodies recovered in deadly poll-related incidentThe death toll from the savage political massacre in Maguindanao rose to 46 on Tuesday, as President Arroyo placed the area under an indefinite state of emergency.
 
-### [  In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider  by 501 votes. ](/news/2009/11/24/in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitial-of-the-covenant-party-leads-republican-party-rep-he.md)
+### [ Northern Mariana Islands gubernatorial election, 2009. In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider by 501 votes. ](/news/2009/11/24/northern-mariana-islands-gubernatorial-election-2009-in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitia.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, Northern Mariana Islands House of Representatives, Republican, second round_
 
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Action-adventure video game ''The Elder Scrolls V: Skyrim'' by Bethesda was first released for the PlayStation 3, Xbox 360, and PC.](/news/2011/11/11/action-adventure-video-game-the-elder-scrolls-v-skyrim-by-bethesda-was-first-released-for-the-playstation-3-xbox-360-and-pc.md) _Context: The Elder Scrolls V: Skyrim_
+1. [Action-adventure video game "The Elder Scrolls V: Skyrim" by Bethesda was first released for the PlayStation 3, Xbox 360, and PC.](/news/2011/11/11/action-adventure-video-game-the-elder-scrolls-v-skyrim-by-bethesda-was-first-released-for-the-playstation-3-xbox-360-and-pc.md) _Context: The Elder Scrolls V: Skyrim_

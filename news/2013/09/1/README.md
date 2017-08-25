@@ -1,12 +1,12 @@
 ## [2013-09-1](/news/2013/09/1/index.md)
 
-### [Syrian civil war:The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-pthe-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md)
+### [Syrian civil war:. The Arab League discusses the ongoing crisis in Syria at a closed-door meeting in Cairo. ](/news/2013/09/1/syrian-civil-war-the-arab-league-discusses-the-ongoing-crisis-in-syria-at-a-closed-door-meeting-in-cairo.md)
 Secretary of State John Kerry says the US now has evidence of sarin gas use in Syria and says the &quot;case is building&quot; for a military attack.
 
 ### [Armed militants stage an unsuccessful attack on a container ship passing through the Suez canal in an attempt to disrupt the flow of ships through the waterway. ](/news/2013/09/1/armed-militants-stage-an-unsuccessful-attack-on-a-container-ship-passing-through-the-suez-canal-in-an-attempt-to-disrupt-the-flow-of-ships-t.md)
 Officials say there has been an unsuccessful attack on a Panama-flagged container ship passing through the waterway.
 
-### [War in North-West Pakistan:A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-pa-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md)
+### [War in North-West Pakistan:. A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A 5.9-magnitude earthquake kills at least four people in southwestern China. ](/news/2013/09/1/a-5-9-magnitude-earthquake-kills-at-least-four-people-in-southwestern-china.md)

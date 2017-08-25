@@ -3,7 +3,7 @@
 ### [Hewlett-Packard adds Ralph Whitworth of Relational Investors, the corporate-governance activists&mdash;to its board of directors. ](/news/2011/11/18/hewlett-packard-adds-ralph-whitworth-of-relational-investors-the-corporate-governance-activists-mdash-to-its-board-of-directors.md)
 _Context: Hewlett-Packard, Relational Investors_
 
-### [Former President of the Philippines Gloria Macapagal-Arroyo is arrested over charges of electoral fraud.  ](/news/2011/11/18/former-president-of-the-philippines-gloria-macapagal-arroyo-is-arrested-over-charges-of-electoral-fraud.md)
+### [Former President of the Philippines Gloria Macapagal-Arroyo is arrested over charges of electoral fraud. ](/news/2011/11/18/former-president-of-the-philippines-gloria-macapagal-arroyo-is-arrested-over-charges-of-electoral-fraud.md)
 Philippines former President Gloria Arroyo is arrested on her hospital bed in Manila, accused of electoral fraud.
 
 ### [A verdict is due in the trial of former Commander of the Sri Lankan Army, Sarath Fonseka, on charges of "spreading disaffection". ](/news/2011/11/18/a-verdict-is-due-in-the-trial-of-former-commander-of-the-sri-lankan-army-sarath-fonseka-on-charges-of-spreading-disaffection.md)

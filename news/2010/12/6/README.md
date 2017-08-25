@@ -3,7 +3,7 @@
 ### [Somali pirates hijack a Bangladeshi cargo ship off the coast of India. ](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.md)
 A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appears to be heading towards the Somali coast, shipping officials say.
 
-### [''The Washington Post'' reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-isla.md)
+### ["The Washington Post" reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-islami.md)
 _Context: FBI, Irvine, California, Muslim, Washington Post, jihad_
 
 ### [Egypt calls in international shark experts following recent attacks, one fatal, on tourists in Sharm el-Sheikh in the past week. ](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.md)
@@ -18,7 +18,7 @@ _Context: Haiti, worst epidemic of cholera_
 ### [Iran meets with six world powers in Geneva for talks concerning its nuclear program. ](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.md)
 _Context: Geneva, nuclear scientist_
 
-### [United States diplomatic cables leak:Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/united-states-diplomatic-cables-leak-pnewly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-su.md)
+### [United States diplomatic cables leak:. Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/united-states-diplomatic-cables-leak-newly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-s.md)
 Saudi Arabia is the single biggest contributor to the funding of Islamic extremism and is unwilling to cut off the money supply, according to a leaked note from Hillary Clinton.
 
 ### [Senior officials from Turkey and Israel meet in Geneva to resolve their differences following the Gaza flotilla raid in May. ](/news/2010/12/6/senior-officials-from-turkey-and-israel-meet-in-geneva-to-resolve-their-differences-following-the-gaza-flotilla-raid-in-may.md)

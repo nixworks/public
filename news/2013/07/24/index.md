@@ -1,6 +1,6 @@
 ## [2013-07-24](/news/2013/07/24/index.md)
 
-### [Mexican Drug War:Clashes between the Knights Templar Cartel and the Mexican federal police leave 22 dead in the state of Michoacn. According to government press reports, two of the dead were law enforcement officials, while the rest were cartel gunmen. ](/news/2013/07/24/mexican-drug-war-pclashes-between-the-knights-templar-cartel-and-the-mexican-federal-police-leave-22-dead-in-the-state-of-michoacan-accordi.md)
+### [Mexican Drug War:. Clashes between the Knights Templar Cartel and the Mexican federal police leave 22 dead in the state of Michoacn. According to government press reports, two of the dead were law enforcement officials, while the rest were cartel gunmen. ](/news/2013/07/24/mexican-drug-war-clashes-between-the-knights-templar-cartel-and-the-mexican-federal-police-leave-22-dead-in-the-state-of-michoacan-accord.md)
 _Context: Knights Templar Cartel, Mexican Drug War, Mexican Police, Michoacn_
 
 ### [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md)
@@ -27,7 +27,7 @@ _Context: Abidjan, Ivory Coast, prison riot_
 ### [Despite earlier reports to the contrary, fugitive NSA whistleblower Edward Snowden remains stranded at Sheremetyevo International Airport in Moscow, Russia. ](/news/2013/07/24/despite-earlier-reports-to-the-contrary-fugitive-nsa-whistleblower-edward-snowden-remains-stranded-at-sheremetyevo-international-airport-in.md)
 _Context: Edward Snowden, Moscow, NSA, Russia, Sheremetyevo International Airport_
 
-### [Scientists warn that a massive release of methane resulting from Arctic sea ice decline could cause significant global disruption, potentially costing the world economy an extra US$ 60 trillion to $400 trillion from the effects of global warming and climate change.  The full impact of climate change in the Arctic, including, for example, ocean acidification, and altered ocean and atmospheric circulation, will be much greater.](/news/2013/07/24/scientists-warn-that-a-massive-release-of-methane-resulting-from-arctic-sea-ice-decline-could-cause-significant-global-disruption-potential.md)
+### [Scientists warn that a massive release of methane resulting from Arctic sea ice decline could cause significant global disruption, potentially costing the world economy an extra US$ 60 trillion to $400 trillion from the effects of global warming and climate change. The full impact of climate change in the Arctic, including, for example, ocean acidification, and altered ocean and atmospheric circulation, will be much greater.](/news/2013/07/24/scientists-warn-that-a-massive-release-of-methane-resulting-from-arctic-sea-ice-decline-could-cause-significant-global-disruption-potential.md)
 The sudden release from the melting Arctic of vast quantities of methane – a greenhouse gas at least 20 times more potent than carbon dioxide –is an “economic time-bomb” that could explode at a cost of $60 trillion (£40tr) to the global economy, a study has concluded.
 
 ## [Previous Day...](/news/2013/07/23/index.md)

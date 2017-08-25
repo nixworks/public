@@ -12,10 +12,10 @@ _Context: 2007 Atlantic hurricane season, Colorado State University, hurricane, 
 ### [ The V150, a modified TGV train, breaks the land speed record for railed vehicles on the new Paris-Strasbourg LGV Est line with 574.8 km/h (357.2 mph). ](/news/2007/04/3/the-v150-a-modified-tgv-train-breaks-the-land-speed-record-for-railed-vehicles-on-the-new-paris-strasbourg-lgv-est-line-with-574-8-km-h.md)
 A French TGV train broke a world speed record on Tuesday when it hurtled down a newly built track at 574.8 kilometres per hour (357 mph) in the Champagne region.
 
-### [ Diego Gasques wins the 7th edition of ''Big Brother Brasil''. ](/news/2007/04/3/diego-gasques-wins-the-7th-edition-of-big-brother-brasil.md)
+### [ Diego Gasques wins the 7th edition of "Big Brother Brasil". ](/news/2007/04/3/diego-gasques-wins-the-7th-edition-of-big-brother-brasil.md)
 _Context: Big Brother Brasil, Diego Gasques_
 
-### [ Hong Kong's richest woman, Nina Wang dies from an unspecified illness. According to ''Forbes'' magazine, Wang was Asia's 35th richest person with a fortune of $4.2 billion. ](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an-unspecified-illness-according-to-forbes-magazine-wang-was-asia-s-35th-richest-perso.md)
+### [ Hong Kong's richest woman, Nina Wang dies from an unspecified illness. According to "Forbes" magazine, Wang was Asia's 35th richest person with a fortune of $4.2 billion. ](/news/2007/04/3/hong-kong-s-richest-woman-nina-wang-dies-from-an-unspecified-illness-according-to-forbes-magazine-wang-was-asia-s-35th-richest-person.md)
 _Context: ''Forbes'' magazine, Asia, Hong Kong, Nina Wang, US$_
 
 ## [Previous Day...](/news/2007/04/2/index.md)

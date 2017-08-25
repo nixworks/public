@@ -12,7 +12,7 @@ Ilan and Ari Rabinovitch
 ### [ Rwanda becomes the first nation where women outnumber men in parliament. ](/news/2008/09/17/rwanda-becomes-the-first-nation-where-women-outnumber-men-in-parliament.md)
 _Context: Rwanda, parliament_
 
-### [ 2008 Russian financial crisis: Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/2008-russian-financial-crisis-p-trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-t.md)
+### [ 2008 Russian financial crisis:. Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/2008-russian-financial-crisis-trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-t.md)
 _Context: 2008 Russian financial crisis, MICEX, Moscow, RTS, Russia, Russian Central Bank_
 
 ### [ Islamic Jihad claim responsibility for an attack on the U.S. embassy in Yemen that results in 16 confirmed deaths. ](/news/2008/09/17/islamic-jihad-claim-responsibility-for-an-attack-on-the-u-s-embassy-in-yemen-that-results-in-16-confirmed-deaths.md)
@@ -25,7 +25,7 @@ _Context: BBC, HBOS, Lloyd's HBOS, housing crisis_
 _Context: India, Jammu and Kashmir, Line of Control, Pakistan, Sukhoi Su-30, ceasefire, nuclear warhead_
 
 ### [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md)
-_Context: Bhumibol Adulyadej, National Assembly of Thailand, Prime Minister of Thailand, Somchai Wongsawat, assemble_
+_Context: Bhumibol Adulyadej, National Assembly of Thailand, Prime Minister, Somchai Wongsawat, assemble_
 
 ### [ BAA Limited decides to sell Gatwick Airport following a recent ruling by the United Kingdom Competition Commission. ](/news/2008/09/17/baa-limited-decides-to-sell-gatwick-airport-following-a-recent-ruling-by-the-united-kingdom-competition-commission.md)
 _Context: BAA Limited, Britain, Competition Commission, Gatwick Airport_

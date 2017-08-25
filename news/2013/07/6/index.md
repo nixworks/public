@@ -3,10 +3,10 @@
 ### [English rock band, Muse held a concert in Rome, which is called "Live at Rome Olympic Stadium". The concert become the first ever live concert recorded in 4K resolution. [http://www.muse.mu]](/news/2013/07/6/english-rock-band-muse-held-a-concert-in-rome-which-is-called-live-at-rome-olympic-stadium-the-concert-become-the-first-ever-live-conce.md)
 _Context: 4K resolution, Live at Rome Olympic Stadium, Muse, rock music_
 
-### [Nigerian Sharia conflict:Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/nigerian-sharia-conflict-pislamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-schoo.md)
+### [Nigerian Sharia conflict:. Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/nigerian-sharia-conflict-islamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-scho.md)
 _Context: Nigeria, Nigerian Sharia conflict, Yobe, boarding school, kill 42 people_
 
-### [War in North-West Pakistan:A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-pa-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md)
+### [War in North-West Pakistan:. A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-a-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [At least fourteen people are killed as Pakistan Railways Karakoram Express runs over a rickshaw near the city of Sheikhupura. ](/news/2013/07/6/at-least-fourteen-people-are-killed-as-pakistan-railways-karakoram-express-runs-over-a-rickshaw-near-the-city-of-sheikhupura.md)
@@ -24,10 +24,10 @@ Mali has lifted its state of emergency to allow campaigning for a presidential e
 ### [Mohamed ElBaradei is named as the Prime Minister of Egypt. ](/news/2013/07/6/mohamed-elbaradei-is-named-as-the-prime-minister-of-egypt.md)
 _Context: Mohamed ElBaradei, prime minister_
 
-### [Portuguese political crisis, 2013:Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-ppaulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md)
+### [Portuguese political crisis, 2013:. Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-paulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md)
 _Context: 1985, Passos Coelho, Paulo Portas_
 
-### [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41a16-in-sydney-to-win-their-three-test-series-2a1-it-is-the-lions-first-se.md)
+### [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41-16-in-sydney-to-win-their-three-test-series-2-1-it-is-the-lions-first-se.md)
 The British and Irish Lions secure a first series win in 16 years with a dominant victory over Australia in Sydney.
 
 ## [Previous Day...](/news/2013/07/5/index.md)

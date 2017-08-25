@@ -1,6 +1,6 @@
 ### [2011-08-15](/news/2011/08/15/index.md)
 
-# Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens  went on a protest "stroll" in the southeastern city of Xiamen in June 2007. 
+# Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens went on a protest "stroll" in the southeastern city of Xiamen in June 2007. 
 
 A protest in China shows the complications of the country&#39;s successes and failures
 
@@ -21,4 +21,4 @@ A protest in China shows the complications of the country&#39;s successes and fa
 5. [Chinese authorities launch a clean-up operation to tackle a 50 sq km slick following an explosion of two crude oil pipelines in Dalian. ](/news/2010/07/19/chinese-authorities-launch-a-clean-up-operation-to-tackle-a-50-sq-km-slick-following-an-explosion-of-two-crude-oil-pipelines-in-dalian.md) _Context: Dalian_
 6. [More than 2,000 firefighters fight a fire at the port of Dalian after two oil pipelines explode. ](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.md) _Context: Dalian_
 7. [ Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. ](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalian-china-16-sailors-are-missing.md) _Context: Dalian_
-8. [ Typhoon Chanchu, the strongest storm on record to have entered the South China Sea in May, makes landfall between the cities of Shantou, Guangdong and Xiamen, Fujian in China.  ](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.md) _Context: Xiamen_
+8. [ Typhoon Chanchu, the strongest storm on record to have entered the South China Sea in May, makes landfall between the cities of Shantou, Guangdong and Xiamen, Fujian in China. ](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.md) _Context: Xiamen_

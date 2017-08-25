@@ -1,6 +1,6 @@
 ### [2006-06-25](/news/2006/06/25/index.md)
 
-#  Arcelor declares its merger with Mittal Steel. The new company will be called ''Arcelor-Mittal''.  
+#  Arcelor declares its merger with Mittal Steel. The new company will be called "Arcelor-Mittal". 
 
 
 

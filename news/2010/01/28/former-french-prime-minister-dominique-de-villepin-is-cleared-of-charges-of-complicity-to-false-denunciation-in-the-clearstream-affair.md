@@ -1,6 +1,6 @@
 ### [2010-01-28](/news/2010/01/28/index.md)
 
-# Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the ''Clearstream'' affair. 
+# Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. 
 
 
 

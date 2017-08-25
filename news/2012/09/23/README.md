@@ -3,7 +3,7 @@
 ### [A suicide bombing at a church in the northeastern Nigerian city of Bauchi kills at least two people and wounds up to 48 others. ](/news/2012/09/23/a-suicide-bombing-at-a-church-in-the-northeastern-nigerian-city-of-bauchi-kills-at-least-two-people-and-wounds-up-to-48-others.md)
 A suicide bomber in northern Nigeria attacks a Catholic church, killing at least two people and injuring 48, Red Cross officials say.
 
-### [More than 200 Islamist insurgents surrender to African Union troops in Jowhar, Somalia. Al-Shabaab kills a member of the Somali Parliament and threatens to kill more.  ](/news/2012/09/23/more-than-200-islamist-insurgents-surrender-to-african-union-troops-in-jowhar-somalia-al-shabaab-kills-a-member-of-the-somali-parliament-a.md)
+### [More than 200 Islamist insurgents surrender to African Union troops in Jowhar, Somalia. Al-Shabaab kills a member of the Somali Parliament and threatens to kill more. ](/news/2012/09/23/more-than-200-islamist-insurgents-surrender-to-african-union-troops-in-jowhar-somalia-al-shabaab-kills-a-member-of-the-somali-parliament-a.md)
 Islamist rebels said they shot dead a Somali lawmaker in Mogadishu on Saturday and threatened to kill every legislator in the country.
 
 ### [Edwin P. Wilson, a former Central Intelligence Agency operative and arms trafficker, has died on September 10th. ](/news/2012/09/23/edwin-p-wilson-a-former-central-intelligence-agency-operative-and-arms-trafficker-has-died-on-september-10th.md)

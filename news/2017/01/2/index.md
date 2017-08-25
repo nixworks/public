@@ -1,9 +1,9 @@
 ## [2017-01-2](/news/2017/01/2/index.md)
 
-### [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md)
+### [2017 Istanbul nightclub attack. The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/2017-istanbul-nightclub-attack-the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-respons.md)
 _Context: 2017 Istanbul nightclub attack, ISIL, Syria, Turkey_
 
-### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
+### [January 2017 Baghdad bombings. A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/january-2017-baghdad-bombings-a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of.md)
 _Context: Baghdad, Iraq, January 2017 Baghdad bombings_
 
 ### [In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. ](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.md)
@@ -21,7 +21,7 @@ Two toddlers among the victims of crash involving a minivan and a pick-up truck 
 ### [Four people are killed in the crash of a Cessna 210 into rugged terrain on Mogollon Rim near Payson, Arizona. The plane had been traveling from Scottsdale, Arizona to Telluride, Colorado. ](/news/2017/01/2/four-people-are-killed-in-the-crash-of-a-cessna-210-into-rugged-terrain-on-mogollon-rim-near-payson-arizona-the-plane-had-been-traveling-f.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-### [Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md)
+### [2017 Manaus prison riot. Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/2017-manaus-prison-riot-prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md)
 _Context: 2017 Manaus prison riot, Brazil, Manaus, prison riot_
 
 ### [ In New Haven Connecticut, two men are suspected of approaching a man claiming to have a gun, took his cellphone and wallet. Then they stole his SUV and apparently lost control as they were killed when their stolen SUV accidentally crashed into and seriously damaged a synagogue ](/news/2017/01/2/in-new-haven-connecticut-two-men-are-suspected-of-approaching-a-man-claiming-to-have-a-gun-took-his-cellphone-and-wallet-then-they-stole.md)
@@ -30,7 +30,7 @@ NEW HAVEN — Two men suspected of a carjacking in New Haven were killed when th
 ### [ In Dearborn Michigan the driver and passenger of a minivan being pursued by police for missing plates were killed when they struck a car, lost control and hit several parked vehicles. ](/news/2017/01/2/in-dearborn-michigan-the-driver-and-passenger-of-a-minivan-being-pursued-by-police-for-missing-plates-were-killed-when-they-struck-a-car-l.md)
 ### [ In Detroit, Michigan an African American man was shot in the head driving a car which crashed, police are searching for two men who ran from the car after the crash ](/news/2017/01/2/in-detroit-michigan-an-african-american-man-was-shot-in-the-head-driving-a-car-which-crashed-police-are-searching-for-two-men-who-ran-fro.md)
 ### [ A first-year New Rochelle Police officer crashed his Jeep into a tree, killing passenger Isaac "Hooshie" Ward. He will be charged with vehicular manslaughter as his Blood Alcohol Content was above the legal limit ](/news/2017/01/2/a-first-year-new-rochelle-police-officer-crashed-his-jeep-into-a-tree-killing-passenger-isaac-hooshie-ward-he-will-be-charged-with-vehi.md)
-### [ Huzaifa Shafeeq was arraigned on burglary charges after police say the stole from a Long Island mosque charity box on Christmas and New Years Day.  Islamic Center board member said the amount taken wasn't large, but called police as the thief needed help. ](/news/2017/01/2/huzaifa-shafeeq-was-arraigned-on-burglary-charges-after-police-say-the-stole-from-a-long-island-mosque-charity-box-on-christmas-and-new-yea.md)
+### [ Huzaifa Shafeeq was arraigned on burglary charges after police say the stole from a Long Island mosque charity box on Christmas and New Years Day. Islamic Center board member said the amount taken wasn't large, but called police as the thief needed help. ](/news/2017/01/2/huzaifa-shafeeq-was-arraigned-on-burglary-charges-after-police-say-the-stole-from-a-long-island-mosque-charity-box-on-christmas-and-new-yea.md)
 A man is under arrest on Long Island after police say he broke into an Islamic center and stole money out of the charity box. 
 
 ## [Previous Day...](/news/2017/01/1/index.md)

@@ -15,13 +15,13 @@ _Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 att
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
 
-### [Israeli-Palestinian conflict:Two Hamas militants are killed, several others are injured and more are detained in an overnight Israeli military raid on Hebron in the Palestinian territories. A Hamas-affiliated group, the Izz ad-Din al-Qassam Brigades, threatens revenge attacks. ](/news/2010/10/8/israeliapalestinian-conflict-ptwo-hamas-militants-are-killed-several-others-are-injured-and-more-are-detained-in-an-overnight-israeli-mil.md)
+### [Israeli-Palestinian conflict:. Two Hamas militants are killed, several others are injured and more are detained in an overnight Israeli military raid on Hebron in the Palestinian territories. A Hamas-affiliated group, the Izz ad-Din al-Qassam Brigades, threatens revenge attacks. ](/news/2010/10/8/israeli-palestinian-conflict-two-hamas-militants-are-killed-several-others-are-injured-and-more-are-detained-in-an-overnight-israeli-mi.md)
 Deaths reported after overnight military operation in West Bank town of Hebron.
 
 ### [Google celebrates the 70th birthday of John Lennon with an animated Google doodle. ](/news/2010/10/8/google-celebrates-the-70th-birthday-of-john-lennon-with-an-animated-google-doodle.md)
 John Lennon, the late Beatles singer, has been celebrated with a special interactive Google doodle to commemorate what would have been his 70th birthday.
 
-### [German film ''The White Ribbon'' wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
+### [German film "The White Ribbon" wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
 _Context: BBC Four, Germany, The White Ribbon, World Cinema Award_
 
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
@@ -42,10 +42,10 @@ _Context: BlackBerry, United Arab Emirates_
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
 _Context: China, Japan, Wen Jiabao, rare earth element_
 
-### [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md)
+### [Ajka alumina plant accident in Hungary:. 2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-or.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
-### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-th.md)
+### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the.md)
 _Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)
@@ -54,10 +54,10 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 ### [Chinese Premier Wen Jiabao holds talks with Turkish Prime Minister Recep Tayyip Erdogan in Ankara. ](/news/2010/10/8/chinese-premier-wen-jiabao-holds-talks-with-turkish-prime-minister-recep-tayyip-erdogan-in-ankara.md)
 _Context: Ankara, Chinese Premier, Recep Tayyip Erdogan, Turkish Prime Minister, Wen Jiabao_
 
-### [2010 Nobel Peace Prize:Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-pimprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-c.md)
+### [2010 Nobel Peace Prize:. Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet.md)
 _Context: Chinese, Liu Xiaobo, Nobel Peace Prize, blocks mentions, winner_
 
-### [TVNZ ''Breakfast'' race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviou.md)
+### [TVNZ "Breakfast" race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviour.md)
 _Context: Breakfast, India, New Zealand, Paul Henry, TVNZ, government-owned corporation_
 
 ### [Arab League leaders meeting in Libya announce their support for Palestinian Authority President Mahmoud Abbas's decision to stop peace talks with Israel over Israel's recently expired moratorium on construction in the West Bank. ](/news/2010/10/8/arab-league-leaders-meeting-in-libya-announce-their-support-for-palestinian-authority-president-mahmoud-abbas-s-decision-to-stop-peace-talks.md)
@@ -90,7 +90,7 @@ _Context: Chang'e 2_
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
 _Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
 
-### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in  Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
+### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.
 
 ## [Previous Day...](/news/2010/10/7/index.md)

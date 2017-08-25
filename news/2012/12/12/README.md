@@ -1,6 +1,6 @@
 ## [2012-12-12](/news/2012/12/12/index.md)
 
-### [Syrian civil war:A car bomb and two other explosions go off outside the Interior Ministry and Palace of Justice in Damascus. ](/news/2012/12/12/syrian-civil-war-pa-car-bomb-and-two-other-explosions-go-off-outside-the-interior-ministry-and-palace-of-justice-in-damascus.md)
+### [Syrian civil war:. A car bomb and two other explosions go off outside the Interior Ministry and Palace of Justice in Damascus. ](/news/2012/12/12/syrian-civil-war-a-car-bomb-and-two-other-explosions-go-off-outside-the-interior-ministry-and-palace-of-justice-in-damascus.md)
 Car bomb and two explosions at main gate of Interior Ministry, after earlier blast at Palace of Justice, state TV says.
 
 ### [Musicians and entertainers including the Rolling Stones, Eric Clapton and Bruce Springsteen perform a benefit concert for victims of Hurricane Sandy at Madison Square Garden in New York City. ](/news/2012/12/12/musicians-and-entertainers-including-the-rolling-stones-eric-clapton-and-bruce-springsteen-perform-a-benefit-concert-for-victims-of-hurrica.md)
@@ -15,7 +15,7 @@ The Federal Reserve, announcing a new round of monetary stimulus, took the unpre
 ### [North Korea successfully launches a long-range Unha rocket to put its first satellite into space, the aim of what critics say is a disguised ballistic missile test. The United Nations condemns the action. ](/news/2012/12/12/north-korea-successfully-launches-a-long-range-unha-rocket-to-put-its-first-satellite-into-space-the-aim-of-what-critics-say-is-a-disguised.md)
 North Korea successfully launched a rocket on Wednesday, boosting the credentials of its new leader and stepping up the threat the isolated and impoverished state poses to opponents.
 
-### [Murder of Pat Finucane:Sir Desmond de Silva's report into the 1989 murder of Northern Ireland solicitor Pat Finucane is published, detailing "shocking state collusion" but, it says, absence of an "overarching conspiracy". ](/news/2012/12/12/murder-of-pat-finucane-psir-desmond-de-silva-s-report-into-the-1989-murder-of-northern-ireland-solicitor-pat-finucane-is-published-detailin.md)
+### [Murder of Pat Finucane:. Sir Desmond de Silva's report into the 1989 murder of Northern Ireland solicitor Pat Finucane is published, detailing "shocking state collusion" but, it says, absence of an "overarching conspiracy". ](/news/2012/12/12/murder-of-pat-finucane-sir-desmond-de-silva-s-report-into-the-1989-murder-of-northern-ireland-solicitor-pat-finucane-is-published-detaili.md)
 A review into the murder of Belfast solicitor Pat Finucane in 1989 has found that actions by employees of the British state &quot;actively facilitated&quot; the killing.
 
 ### [American businessman John McAfee is deported from Guatemala to the United States despite being wanted for questioning in Belize. ](/news/2012/12/12/american-businessman-john-mcafee-is-deported-from-guatemala-to-the-united-states-despite-being-wanted-for-questioning-in-belize.md)
@@ -33,7 +33,7 @@ Malian President Diouncounda Traore appoints a new prime minister, less than 24 
 ### [A sexual harassment case against former Speaker of the Australian House of Representatives Peter Slipper is dismissed. ](/news/2012/12/12/a-sexual-harassment-case-against-former-speaker-of-the-australian-house-of-representatives-peter-slipper-is-dismissed.md)
 _Context: Lower House, Peter Slipper, Speaker of the Australian House of Representatives, sexual harassment_
 
-### [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned ''The Daily Telegraph'' against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a.md)
+### [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned "The Daily Telegraph" against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a-c.md)
 _Context: 10 Downing Street, Craig Oliver, Daily Telegraph, David Cameron, Leveson report, MPs expenses, Maria Miller, Prime Minister, Secretary of State for Culture, Media and Sport_
 
 ### [Nicolas Maduro, the Vice President of Venezuela, warns that President Hugo Chavez faces a "difficult" recovery from cancer surgery in Cuba. ](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.md)

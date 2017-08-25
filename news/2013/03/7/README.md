@@ -1,6 +1,6 @@
 ## [2013-03-7](/news/2013/03/7/index.md)
 
-### [2013 Lahad Datu standoff:The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-pthe-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-forc.md)
+### [2013 Lahad Datu standoff:. The death toll rises to at least 60 persons in the conflict between the Sultanate of Sulu and Malaysian Armed Forces. ](/news/2013/03/7/2013-lahad-datu-standoff-the-death-toll-rises-to-at-least-60-persons-in-the-conflict-between-the-sultanate-of-sulu-and-malaysian-armed-for.md)
 Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials said, and the government rejected calls by the United Nations for an end to the fighting.
 
 ### [Hilary Mantel is awarded the 2013 David Cohen Prize for literature. ](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.md)
@@ -9,7 +9,7 @@ _Context: David Cohen Prize, Hilary Mantel, literature_
 ### [Six people are injured and four more could be hospitalized (none are believed critically injured) after a gas explosion at American Steel (part of Amsted Rail Co.), in the Greater St. Louis Metro East suburb of Granite City, Illinois. ](/news/2013/03/7/six-people-are-injured-and-four-more-could-be-hospitalized-none-are-believed-critically-injured-after-a-gas-explosion-at-american-steel-p.md)
 Gas ignited at the plant, according to fire official.
 
-### [Nuclear program of North Korea:North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-pnorth-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-threa.md)
+### [Nuclear program of North Korea:. North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. ](/news/2013/03/7/nuclear-program-of-north-korea-north-korea-threatens-its-enemies-with-the-possibility-of-a-pre-emptive-nuclear-strike-amplifying-its-thre.md)
 North Korea threatened the United States on Thursday with a preemptive nuclear strike, raising the level of rhetoric as the U.N. Security Council approved new sanctions against the reclusive country.
 
 ### [Former Italian Prime Minister Silvio Berlusconi is convicted of arranging an illegal wiretap and is sentenced to a year in jail. ](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.md)
@@ -33,7 +33,7 @@ _Context: Kalonzo Musyoka, Kenya, Kenyan presidential election, Prime Minister, 
 ### [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md)
 Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assured him that the president cannot use a drone to kill a noncombatant American on U.S. soil -- an assurance Paul had sought during his 13-hour filibuster the day before. 
 
-### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
+### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-al-mirabel-internationa.md)
 _Context: Bombardier Aerospace, CS100, Montreal-Mirabel International Airport_
 
 ## [Previous Day...](/news/2013/03/6/index.md)

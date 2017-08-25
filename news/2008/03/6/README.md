@@ -12,7 +12,7 @@ Get local Miami news plus Miami breaking news, business, green, national, and wo
 ### [ At least 54 people die and 130 are injured as two bombs explode in Baghdad, Iraq. ](/news/2008/03/6/at-least-54-people-die-and-130-are-injured-as-two-bombs-explode-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
-### [ Viktor Bout, one of the world's most notorious arms dealers, is arrested at a hotel in Thailand. ](/news/2008/03/6/viktor-bout-one-of-the-worldas-most-notorious-arms-dealers-is-arrested-at-a-hotel-in-thailand.md)
+### [ Viktor Bout, one of the world-s most notorious arms dealers, is arrested at a hotel in Thailand. ](/news/2008/03/6/viktor-bout-one-of-the-world-s-most-notorious-arms-dealers-is-arrested-at-a-hotel-in-thailand.md)
 One of the world’s most notorious arms dealers was arrested in Thailand and charged in the U.S. with conspiracy to supply weapons to rebels in Colombia.
 
 ### [ Paul Burrell, Princess Diana's butler, refuses to be questioned about whether he lied to the inquest into her death in 1997. ](/news/2008/03/6/paul-burrell-princess-diana-s-butler-refuses-to-be-questioned-about-whether-he-lied-to-the-inquest-into-her-death-in-1997.md)

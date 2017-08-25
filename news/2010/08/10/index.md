@@ -9,7 +9,7 @@ _Context: Benjamin Netanyahu, Defense Minister, Ehud Barak, Gaza flotilla raid, 
 ### [The United States and Vietnam celebrate the 15th anniversary of diplomatic relations by conducting what the United States describes as a "series of naval engagement activities" in the South China Sea, risking a disagreement with China. ](/news/2010/08/10/the-united-states-and-vietnam-celebrate-the-15th-anniversary-of-diplomatic-relations-by-conducting-what-the-united-states-describes-as-a-se.md)
 The US and Vietnam stage joint naval activities in the South China Sea, a sign of increasing military ties between the former enemies.
 
-### [The United Nations releases a report highlighting the deaths of civilians in Afghanistan. ](/news/2010/08/10/the-united-nations-releases-a-report-highlighting-the-deaths-of-civilians-in-afghanistan.md)
+### [War in Afghanistan. The United Nations releases a report highlighting the deaths of civilians in Afghanistan. ](/news/2010/08/10/war-in-afghanistan-the-united-nations-releases-a-report-highlighting-the-deaths-of-civilians-in-afghanistan.md)
 A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian casualties, despite a fall in deaths and injuries caused by international forces, the UN says.
 
 ### [Israel's Foreign Ministry alleges Hezbollah leader Hassan Nasrallah's press conference yesterday, in which he stated he has evidence that implicates Israel in the 2005 assassination of former Prime Minister of Lebanon Rafic Hariri and 22 others, was full of "ridiculous lies". ](/news/2010/08/10/israel-s-foreign-ministry-alleges-hezbollah-leader-hassan-nasrallah-s-press-conference-yesterday-in-which-he-stated-he-has-evidence-that-im.md)

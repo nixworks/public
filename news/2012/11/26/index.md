@@ -1,6 +1,6 @@
 ## [2012-11-26](/news/2012/11/26/index.md)
 
-### [Syrian civil war:A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-pa-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childre.md)
+### [Syrian civil war:. A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childr.md)
 Activists in Syria say a government MiG fighter jet has dropped a cluster bomb on a playground east of Damascus, leaving 10 children dead.
 
 ### [Mark Carney, current Governor of the Bank of Canada, is named as the next Governor of the Bank of England. He will take up the position when current Governor Mervyn King steps down in June 2013. ](/news/2012/11/26/mark-carney-current-governor-of-the-bank-of-canada-is-named-as-the-next-governor-of-the-bank-of-england-he-will-take-up-the-position-when.md)
@@ -21,7 +21,7 @@ _Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airline
 ### [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md)
 _Context: 2011 Norway attacks, Anders Behring Breivik, NRK, Norway, Oslo, bomb, van_
 
-### [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario's conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontarioas-conflict-of-interest-law-and-orders-him-to-remove-f.md)
+### [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario-s conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontario-s-conflict-of-interest-law-and-orders-him-to-remove-f.md)
 _Context: Ontario, Ontario Superior Court of Justice, Rob Ford, Toronto, mayor_
 
 ### [President of Egypt Mohamed Morsi meets judges to try to defuse a crisis over a decree that extends his powers, as a day of opposition protests looms. ](/news/2012/11/26/president-of-egypt-mohamed-morsi-meets-judges-to-try-to-defuse-a-crisis-over-a-decree-that-extends-his-powers-as-a-day-of-opposition-protes.md)

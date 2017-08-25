@@ -9,7 +9,7 @@ _Context: Australia, Fair Work Australia, Qantas_
 ### [The Government of Japan intervenes to reduce the exchange rate of the Japanese yen with the United States dollar after the yen reached record highs. ](/news/2011/10/31/the-government-of-japan-intervenes-to-reduce-the-exchange-rate-of-the-japanese-yen-with-the-united-states-dollar-after-the-yen-reached-recor.md)
 _Context: Japanese government, US$, exchange rate, yen_
 
-### [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring 4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-ps4bn-of-eurozone-debt-exposure.md)
+### [US brokerage firm MF Global files for Chapter 11 bankruptcy after declaring GBP4bn of Eurozone debt exposure. ](/news/2011/10/31/us-brokerage-firm-mf-global-files-for-chapter-11-bankruptcy-after-declaring-gbp4bn-of-eurozone-debt-exposure.md)
 US brokerage firm MF Global files for bankruptcy protection after revealing £4bn of eurozone debt exposure.
 
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)

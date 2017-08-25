@@ -1,6 +1,6 @@
 ### [2016-12-11](/news/2016/12/11/index.md)
 
-# Patti Smith performs in place of  Bob Dylan in the Nobel Prize for Literature ceremony. 
+# Patti Smith performs in place of Bob Dylan in the Nobel Prize for Literature ceremony. 
 
 Representing the Nobel laureate at the prize-giving, the US singer admitted nerves in performance at Swedish academy
 
@@ -20,4 +20,4 @@ Representing the Nobel laureate at the prize-giving, the US singer admitted nerv
 7. [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md) _Context: Bob Dylan_
 8. [Polish poet Wislawa Szymborska, former winner of the Nobel Prize for Literature, dies of lung cancer at 88. ](/news/2012/02/1/polish-poet-wisaawa-szymborska-former-winner-of-the-nobel-prize-for-literature-dies-of-lung-cancer-at-88.md) _Context: Nobel Prize for Literature_
 9. [Singer Bob Dylan denies censoring his shows while performing in China. ](/news/2011/05/15/singer-bob-dylan-denies-censoring-his-shows-while-performing-in-china.md) _Context: Bob Dylan_
-10. [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from ''The New York Times'' over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md) _Context: Bob Dylan_
+10. [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from "The New York Times" over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md) _Context: Bob Dylan_

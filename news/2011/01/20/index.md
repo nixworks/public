@@ -6,7 +6,7 @@ Two bombs near the Iraqi city of Karbala kill at least 50 people and wound many 
 ### [The Israeli military shoots dead an armed man who attacked a checkpoint near Mevo Dotan in the West Bank. ](/news/2011/01/20/the-israeli-military-shoots-dead-an-armed-man-who-attacked-a-checkpoint-near-mevo-dotan-in-the-west-bank.md)
 An armed Palestinian man has been shot dead at a Jenin army post in the latest of a series of violent incidents in the West Bank.
 
-### [Somali pirates seize a Mongolian bulk carrier  off the coast of Oman. ](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.md)
+### [Somali pirates seize a Mongolian bulk carrier off the coast of Oman. ](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.md)
 _Context: Mongolia, Oman, Somali pirates_
 
 ### [Muslim separatists in southern Thailand kill four soldiers in an attack on an army base. ](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.md)
@@ -21,13 +21,13 @@ _Context: 2003 invasion of Iraq, Iraq Inquiry, Iraq War, Prime Minister, Tony Bl
 ### [Prejudice against Muslims is declared socially acceptable and Britain is becoming less tolerant according to Sayeeda Warsi, Baroness Warsi, the first female British Muslim cabinet member, in a speech at the University of Leicester. ](/news/2011/01/20/prejudice-against-muslims-is-declared-socially-acceptable-and-britain-is-becoming-less-tolerant-according-to-sayeeda-warsi-baroness-warsi.md)
 British politician says prejudice against Muslims is now socially acceptable and that country is becoming less tolerant.
 
-### [Palme d'Or winner ''Uncle Boonmee Who Can Recall His Past Lives'' is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film.md)
+### [Palme d'Or winner "Uncle Boonmee Who Can Recall His Past Lives" is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film-ca.md)
 _Context: Academy Award, Palme d'Or, Uncle Boonmee Who Can Recall His Past Lives_
 
 ### [Three works of art stolen from a museum 15 years ago are retrieved. ](/news/2011/01/20/three-works-of-art-stolen-from-a-museum-15-years-ago-are-retrieved.md)
 Three valuable paintings are found more than 15 years after they were stolen from museums in Glasgow.
 
-### [Save the Children launches a PS1 million appeal to help assist up to 400,000 children it expects are affected by a food crisis following Sri Lanka's worst floods in recent history. ](/news/2011/01/20/save-the-children-launches-a-aps1-million-appeal-to-help-assist-up-to-400-000-children-it-expects-are-affected-by-a-food-crisis-following-sri.md)
+### [Save the Children launches a GBP1 million appeal to help assist up to 400,000 children it expects are affected by a food crisis following Sri Lanka's worst floods in recent history. ](/news/2011/01/20/save-the-children-launches-a-agbp1-million-appeal-to-help-assist-up-to-400-000-children-it-expects-are-affected-by-a-food-crisis-following-s.md)
 _Context: Save the Children, Sri Lanka_
 
 ### [South Korea accepts North Korea's proposal of high-level military talks to discuss "pending issues". ](/news/2011/01/20/south-korea-accepts-north-korea-s-proposal-of-high-level-military-talks-to-discuss-pending-issues.md)
@@ -63,13 +63,13 @@ One of the biggest hauls of illegal ape parts in Central Africa is seized by off
 ### [Agents of the United States charge 127 alleged mafia members in the northeast of the country. ](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.md)
 US federal agents charge 127 suspected mobsters in the New York region in the largest single-day FBI mafia crackdown in US history.
 
-### [The ''Daily Nation'' publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amne.md)
+### [The "Daily Nation" publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amnest.md)
 Kenyan authorities suspend three policemen after a newspaper published a picture of an officer apparently shooting a man dead.
 
-### [Situation in Tunisia:Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. ](/news/2011/01/20/situation-in-tunisia-ptunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end.md)
+### [Situation in Tunisia:. Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. ](/news/2011/01/20/situation-in-tunisia-tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end.md)
 Resignations an attempt to regain credibility in the cabinet but it is unclear if protesters will accept it
 
-### [Situation in Ireland:Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-pminister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-ki.md)
+### [Situation in Ireland:. Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-k.md)
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)

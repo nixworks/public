@@ -9,13 +9,13 @@ _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 ### [ Felix Kulov, former Prime Minister of Kyrgyzstan, breaks his political alliance with President Kurmanbek Bakiyev. Kulov forms the United Front for a Worthy Future for Kyrgyzstan with Ar-Namys and other political parties. ](/news/2007/02/20/felix-kulov-former-prime-minister-of-kyrgyzstan-breaks-his-political-alliance-with-president-kurmanbek-bakiyev-kulov-forms-the-united-fr.md)
 _Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, President, Prime Minister, United Front For A Worthy Future For Kyrgyzstan_
 
-### [ Iran: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-p-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
+### [ Iran:. President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, nuclear program_
 
 ### [ At least 35 people have died and up to 340,000 are affected by flooding after months of heavy rain in Bolivia. The eastern departments of Santa Cruz and Beni are the worst affected. ](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.md)
 _Context: Beni Department, Bolivia, Santa Cruz, departments, flooding_
 
-### [ The United States Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold an act of the 109th Congress removing the right of Guantanamo Bay detainees to challenge their detention in lower federal courts. The Military Commissions Act suspends the right to ''habeas corpus'' and bars anyone deemed an "enemy combatant" access to the federal courts. ](/news/2007/02/20/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-2-1-to-uphold-an-act-of-the-109th-congress-removing-the-right.md)
+### [ The United States Court of Appeals for the District of Columbia Circuit rules 2-1 to uphold an act of the 109th Congress removing the right of Guantanamo Bay detainees to challenge their detention in lower federal courts. The Military Commissions Act suspends the right to "habeas corpus" and bars anyone deemed an "enemy combatant" access to the federal courts. ](/news/2007/02/20/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-2-1-to-uphold-an-act-of-the-109th-congress-removing-the-right.md)
 Things to do in Miami
 
 ### [ Zilla Huma Usman, minister for social welfare of Punjab province, Pakistan, is assassinated near Lahore by Mohammed Sarwar for not wearing a hijab and campaigning for women's emancipation. ](/news/2007/02/20/zilla-huma-usman-minister-for-social-welfare-of-punjab-province-pakistan-is-assassinated-near-lahore-by-mohammed-sarwar-for-not-wearing.md)
@@ -27,7 +27,7 @@ _Context: India, Periyar River_
 ### [ Kraft Foods announces plans to close up to 20 production facilities and cut up to 8,000 jobs worldwide. ](/news/2007/02/20/kraft-foods-announces-plans-to-close-up-to-20-production-facilities-and-cut-up-to-8-000-jobs-worldwide.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
-### [ Australia  announces plans to ban incandescent light bulbs and replace them with more energy efficient fluorescent bulbs. ](/news/2007/02/20/australia-announces-plans-to-ban-incandescent-light-bulbs-and-replace-them-with-more-energy-efficient-fluorescent-bulbs.md)
+### [ Australia announces plans to ban incandescent light bulbs and replace them with more energy efficient fluorescent bulbs. ](/news/2007/02/20/australia-announces-plans-to-ban-incandescent-light-bulbs-and-replace-them-with-more-energy-efficient-fluorescent-bulbs.md)
 _Context: Australia, energy efficiency, fluorescent, incandescent light bulb_
 
 ### [ Global Spread of H5N1: Cases of avian flu are confirmed at two chicken farms near Moscow, Russia. Villages are quarantined until prescriptions can be filled. ](/news/2007/02/20/global-spread-of-h5n1-cases-of-avian-flu-are-confirmed-at-two-chicken-farms-near-moscow-russia-villages-are-quarantined-until-prescripti.md)

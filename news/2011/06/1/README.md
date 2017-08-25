@@ -1,6 +1,6 @@
 ## [2011-06-1](/news/2011/06/1/index.md)
 
-### [Arab Spring:Syrian civil war:The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-psyrian-civil-war-pthe-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peopl.md)
+### [Arab Spring:. Syrian civil war:. The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peo.md)
 The mutilation and death in custody of a 13-year-old child has sparked further furious protests in Syrian city of Daraa.
 
 ### [Sudan agrees to demilitarize its border with South Sudan. ](/news/2011/06/1/sudan-agrees-to-demilitarize-its-border-with-south-sudan.md)
@@ -25,7 +25,7 @@ _Context: 2011 Joplin tornado, Joplin, Missouri_
 ### [German health officials report 365 new cases of the E. coli outbreak as it continues to spread throughout Europe. ](/news/2011/06/1/german-health-officials-report-365-new-cases-of-the-e-coli-outbreak-as-it-continues-to-spread-throughout-europe.md)
 _Context: E. coli, Europe, German_
 
-### [One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-property-damage.md)
+### [2011 New England tornado outbreak. One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/2011-new-england-tornado-outbreak-one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-proper.md)
 At least two confirmed tornadoes descended upon towns in western Massachusetts on Wednesday, leaving at least four dead and smashing homes and buildings across a 40-mile stretch, state officials and witnesses reported.
 
 ### [A United Nations report states that there are 2 million adolescents in the world living with HIV with 86 per cent of them living in sub-Saharan Africa. ](/news/2011/06/1/a-united-nations-report-states-that-there-are-2-million-adolescents-in-the-world-living-with-hiv-with-86-per-cent-of-them-living-in-sub-saha.md)
@@ -37,7 +37,7 @@ _Context: Kim Jong-il, North Korea, South Korea_
 ### [The U.S. government states that it will boycott a United Nations anti-racism conference because of concerns over anti-Semitism. ](/news/2011/06/1/the-u-s-government-states-that-it-will-boycott-a-united-nations-anti-racism-conference-because-of-concerns-over-anti-semitism.md)
 _Context: Obama Administration, United Nations, anti-Semitism_
 
-### [The Committee to Protect Journalists claims that there have been 251 murders of journalists in 13 countries where the murderer has remained unpunished in the past decade with  Iraq, Somalia, the Philippines and Sri Lanka being considered the worst environments for journalists. ](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.md)
+### [The Committee to Protect Journalists claims that there have been 251 murders of journalists in 13 countries where the murderer has remained unpunished in the past decade with Iraq, Somalia, the Philippines and Sri Lanka being considered the worst environments for journalists. ](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.md)
 More than 251 journalists in 13 countries were killed &quot;with impunity&quot; in the past decade, the Committee to Protect Journalists reports.
 
 ### [Lieutenant General David Hurley of the Australian Army is announced as the successor to Air Chief Marshal Angus Houston as the Chief of the Australian Defence Force. ](/news/2011/06/1/lieutenant-general-david-hurley-of-the-australian-army-is-announced-as-the-successor-to-air-chief-marshal-angus-houston-as-the-chief-of-the.md)
@@ -49,10 +49,10 @@ _Context: Iran, Mahmoud Ahmadinejad, President, parliament_
 ### [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md)
 _Context: Diet, Japan, Naoto Kan, Prime Minister of Japan_
 
-### [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a  government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gove.md)
+### [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gover.md)
 _Context: 2011 Georgian protests, Badri Bitsadze, Nino Burdzhanadze_
 
-### [The Space Shuttle ''Endeavour'' finishes its final mission. ](/news/2011/06/1/the-space-shuttle-endeavour-finishes-its-final-mission.md)
+### [The Space Shuttle "Endeavour" finishes its final mission. ](/news/2011/06/1/the-space-shuttle-endeavour-finishes-its-final-mission.md)
 The US space shuttle Endeavour brings its 19-year operational career to a close with a textbook landing in Florida.
 
 ## [Previous Day...](/news/2011/05/31/index.md)

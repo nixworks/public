@@ -1,6 +1,6 @@
 ## [2012-05-4](/news/2012/05/4/index.md)
 
-### [At least one person is killed and at least 373 others are wounded when armed forces fire water cannon, tear gas and rocks on demonstrators  near Egypt's defence ministry in Cairo. ](/news/2012/05/4/at-least-one-person-is-killed-and-at-least-373-others-are-wounded-when-armed-forces-fire-water-cannon-tear-gas-and-rocks-on-demonstrators.md)
+### [At least one person is killed and at least 373 others are wounded when armed forces fire water cannon, tear gas and rocks on demonstrators near Egypt's defence ministry in Cairo. ](/news/2012/05/4/at-least-one-person-is-killed-and-at-least-373-others-are-wounded-when-armed-forces-fire-water-cannon-tear-gas-and-rocks-on-demonstrators-n.md)
 Hundreds, including journalists, held after deadly clashes between security forces and protesters near defence ministry.
 
 ### [Official figures indicate that at least 144 people were injured at an Armenian government campaign event in Yerevan's central square after an explosion during a political rally. ](/news/2012/05/4/official-figures-indicate-that-at-least-144-people-were-injured-at-an-armenian-government-campaign-event-in-yerevan-s-central-square-after-a.md)
@@ -9,16 +9,16 @@ At least 144 people are injured at a political event in the Armenia capital afte
 ### [At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. ](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.md)
 _Context: Bajaur Agency, Pakistan, suicide bomb_
 
-### [23 bodies--14 of them decapitated and 9 of them hanged from a bridge--are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-hanged-from-a-bridgeaare-found-in-the-mexican-city-of-nuevo-laredo-those-killed-were-rep.md)
+### [Mexican Drug War. 23 bodies-14 of them decapitated and 9 of them hanged from a bridge-are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/mexican-drug-war-23-bodies-14-of-them-decapitated-and-9-of-them-hanged-from-a-bridge-are-found-in-the-mexican-city-of-nuevo-laredo-tho.md)
 _Context: Gulf Cartel, Los Zetas, Mexican Drug War, Nuevo Laredo_
 
 ### [Adam Yauch, founding member of the influential hip hop group the Beastie Boys, dies aged 47. ](/news/2012/05/4/adam-yauch-founding-member-of-the-influential-hip-hop-group-the-beastie-boys-dies-aged-47.md)
 Beastie Boys rapper Adam Yauch has died at the age of 47, after a three-year battle with cancer.
 
-### [A new study published in ''The Lancet'' finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or.md)
+### [A new study published in "The Lancet" finds that up to 90 per cent of school-leavers in Asia's major cities are suffering from myopia, or short-sightedness and that 10 to 20 per cent have high myopia, which can lead to blindness. ](/news/2012/05/4/a-new-study-published-in-the-lancet-finds-that-up-to-90-per-cent-of-school-leavers-in-asia-s-major-cities-are-suffering-from-myopia-or-sh.md)
 Study says long hours spent studying and lack of outdoor light to blame for 90 per cent short-sightedness rate.
 
-### [Chinese official ''Beijing Daily'' describes dissident Chen Guangcheng as a "tool and a pawn of  American politicians". ](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.md)
+### [Chinese official "Beijing Daily" describes dissident Chen Guangcheng as a "tool and a pawn of American politicians". ](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.md)
 _Context: Beijing Daily, Chen Guangcheng, China_
 
 ### [Former media mogul Conrad Black is released from prison in Miami after being locked up for just over three years for defrauding investors. ](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.md)

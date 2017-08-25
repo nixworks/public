@@ -1,6 +1,6 @@
 ### [2009-03-13](/news/2009/03/13/index.md)
 
-#  The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp.  
+#  The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp. 
 
 
 

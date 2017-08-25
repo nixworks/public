@@ -33,7 +33,7 @@ The death toll from the Christmas Island shipwreck could rise as high as 50, Pri
 ### [At least 26 people are killed and several others are injured when a bus carrying tourists from Thailand overturns in Malaysia. ](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.md)
 _Context: Malaysia, Thailand_
 
-### [Three people were killed and 23 wounded  in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
+### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
 _Context: Kenya, Nairobi_
 
 ### [A 6.5 magnitude earthquake hits southeastern Iran, near Bam with at least eleven people dead and hundreds injured. ](/news/2010/12/20/a-6-5-magnitude-earthquake-hits-southeastern-iran-near-bam-with-at-least-eleven-people-dead-and-hundreds-injured.md)
@@ -57,7 +57,7 @@ Egypt charges a businessman and two Israelis with recruiting spies for Israel, a
 ### [Indonesia jails six people on terrorism charges for involvement with the "Al-Qaeda in Aceh" group. ](/news/2010/12/20/indonesia-jails-six-people-on-terrorism-charges-for-involvement-with-the-al-qaeda-in-aceh-group.md)
 _Context: Indonesia_
 
-### [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md)
+### [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist-the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyist-the-new-york-yankees.md)
 _Context: David Paterson, New York Governor, New York Yankees, lobbyist_
 
 ### [Iranian director Jafar Panahi is sentenced to six years imprisonment for making a film "against the regime." ](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.md)

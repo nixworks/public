@@ -1,0 +1,23 @@
+### [2015-08-31](/news/2015/08/31/index.md)
+
+# Turkey-PKK conflict. A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. 
+
+
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/detained-vice-news-staff-turkish-court-150831113044822.html)
+
+### Related:
+
+1. [Turkey-PKK conflict. Turkish police detain two British journalists from "Vice News" covering unrest in southeastern Turkey. ](/news/2015/08/28/turkey-pkk-conflict-turkish-police-detain-two-british-journalists-from-vice-news-covering-unrest-in-southeastern-turkey.md) _Context: Turkey-PKK conflict, VICE News_
+2. [2016 Warsaw summit. NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/2016-warsaw-summit-nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments.md) _Context: ISIL_
+3. [Iraqi Civil War. Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. ](/news/2016/07/5/iraqi-civil-war-iraqi-forces-backed-by-u-s-airstrikes-advance-north-towards-isil-held-qayyarah-airfield-west-south-of-mosul.md) _Context: ISIL_
+4. [Turkey-PKK conflict. PKK rebellion (2015-present). Turkish police headquarters in Midyat and Cinar, Diyarbakir, are hit by car bombs, killing six people and injuring 39. No group has claimed responsibility but the government accuses PKK rebels of carrying out the attack. ](/news/2016/01/14/turkey-pkk-conflict-pkk-rebellion-2015-present-turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs.md) _Context: Turkey-PKK conflict_
+5. [Turkey-PKK conflict. The Turkish army says 69 Kurdish insurgents and two Turkish soldiers were killed in four days of fighting in Cizre and Silopi, near the Syrian and Iraqi borders, in southeast Turkey. ](/news/2015/12/19/turkey-pkk-conflict-the-turkish-army-says-69-kurdish-insurgents-and-two-turkish-soldiers-were-killed-in-four-days-of-fighting-in-cizre-an.md) _Context: Turkey-PKK conflict_
+6. [Turkey-PKK conflict. Tahir Elci, a pro-Kurdish lawyer, is shot dead at a press conference in the city of Diyarbakir as clashes break out between Turkish security forces and PKK militants. ](/news/2015/11/28/turkey-pkk-conflict-tahir-elassi-a-pro-kurdish-lawyer-is-shot-dead-at-a-press-conference-in-the-city-of-diyarbakir-as-clashes-break-out.md) _Context: Turkey-PKK conflict_
+7. [Turkey-PKK conflict. 2015 PKK rebellion. Turkish security forces backed up by tanks and combat helicopters launch a large-scale operation against PKK militants in the mainly Kurdish town of Silvan, which has been under a punishing curfew for nine days. At least five people are killed in the fighting, including a Turkish soldier. ](/news/2015/11/11/turkey-pkk-conflict-2015-pkk-rebellion-turkish-security-forces-backed-up-by-tanks-and-combat-helicopters-launch-a-large-scale-operation.md) _Context: Turkey-PKK conflict_
+8. [Turkey-PKK conflict. Turkey's air force launches a new wave of air-raids bombing PKK positions in northern Iraq and southeastern Turkey. Turkish warplanes destroy PKK fuel and ammunition depots in the Hakkari province on the border with Iraq, as well as, in the eastern Kars province, according to a military statement. ](/news/2015/10/4/turkey-pkk-conflict-turkey-s-air-force-launches-a-new-wave-of-air-raids-bombing-pkk-positions-in-northern-iraq-and-southeastern-turkey-t.md) _Context: Turkey-PKK conflict_
+9. [Turkey-PKK conflict. At least 17 PKK militants are reportedly killed following a Turkish military operation in the Kurdish-majority city of Silvan. ](/news/2015/10/2/turkey-pkk-conflict-at-least-17-pkk-militants-are-reportedly-killed-following-a-turkish-military-operation-in-the-kurdish-majority-city-o.md) _Context: Turkey-PKK conflict_
+10. [Turkey-PKK conflict. The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/turkey-pkk-conflict-the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-tur.md) _Context: Turkey-PKK conflict_

@@ -1,6 +1,6 @@
 ### [2006-03-31](/news/2006/03/31/index.md)
 
-#  MINOS (the Main Injector Neutrino Oscillation Search) observes neutrino oscillation, implying that neutrinos have mass, which would require a substantial revision to the Standard Model of particle physics.  
+#  MINOS (the Main Injector Neutrino Oscillation Search) observes neutrino oscillation, implying that neutrinos have mass, which would require a substantial revision to the Standard Model of particle physics. 
 
 
 

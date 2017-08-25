@@ -18,7 +18,7 @@ _Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Gover
 ### [ Ireland's Garda Commissioner sends two Garda forensic specialists to Brazil to assist in the identification of bodies from Air France Flight 447. ](/news/2009/06/11/ireland-s-garda-commissioner-sends-two-garda-forensic-specialists-to-brazil-to-assist-in-the-identification-of-bodies-from-air-france-fligh.md)
 Two garda forensic specialists will be assisting in the identification of bodies from the Air France crash.
 
-### [ The World Health Organization declares the current outbreak of H1N1 to be a "pandemic", the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-apandemica-the-first-since-the-1968-hong-kong-flu.md)
+### [ The World Health Organization declares the current outbreak of H1N1 to be a -pandemic-, the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-pandemic-the-first-since-the-1968-hong-kong-flu.md)
 _Context: 1968 Hong Kong flu, H1N1, World Health Organization, current outbreak_
 
 ### [ Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. ](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.md)
@@ -75,7 +75,7 @@ _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/11/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
 _Context: Bermuda, Chinese, David Miliband, Guantanamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
 
-### [ The world's first City of Film is announced by UNESCO, with Bradford  beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
+### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
 _Context: Bradford, Cannes, City of Film, Los Angeles, UNESCO, Venice_
 
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/11/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)

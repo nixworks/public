@@ -11,4 +11,4 @@ IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2
 
 ### Related:
 
-1. [ Over five hundred people are evacuated from the North Sea oil rig ''Safe Scandinavia'', 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-h.md) _Context: bomb scare_
+1. [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-hoa.md) _Context: bomb scare_

@@ -15,7 +15,7 @@ _Context: David Irving, Holocaust denial_
 ### [ Russian and Iranian negotiators begin talks today on a plan that may have the former enrich uranium for the latter, as part of the international community's efforts to dissuade Iran from doing its own enrichment. ](/news/2006/02/20/russian-and-iranian-negotiators-begin-talks-today-on-a-plan-that-may-have-the-former-enrich-uranium-for-the-latter-as-part-of-the-internat.md)
 _Context: Iran_
 
-### [ Western romance ''Brokeback Mountain'' wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md)
+### [ Western romance "Brokeback Mountain" wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md)
 _Context: Ang Lee, British Academy of Film and Television Arts, Brokeback Mountain_
 
 ### [ Osama bin Laden vows never to be captured alive, according to an audiotape that was posted Monday on a militant Web site. ](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.md)

@@ -1,6 +1,6 @@
 ### [2012-01-24](/news/2012/01/24/index.md)
 
-# Andrew Miller's novel ''Pure'' wins the 2011 Costa Book of the Year Award. 
+# Andrew Miller's novel "Pure" wins the 2011 Costa Book of the Year Award. 
 
 
 

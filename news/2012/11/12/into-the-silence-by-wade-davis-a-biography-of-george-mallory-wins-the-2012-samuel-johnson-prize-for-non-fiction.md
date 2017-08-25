@@ -1,6 +1,6 @@
 ### [2012-11-12](/news/2012/11/12/index.md)
 
-# ''Into the Silence'' by Wade Davis, a biography of George Mallory wins the 2012 Samuel Johnson Prize for Non Fiction. 
+# "Into the Silence" by Wade Davis, a biography of George Mallory wins the 2012 Samuel Johnson Prize for Non Fiction. 
 
 
 

@@ -1,6 +1,6 @@
 ## [2009-08-20](/news/2009/08/20/index.md)
 
-### [ Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103 over Lockerbie in 1988, is released on compassionate grounds  due to terminal cancer, and boards a flight to Libya. ](/news/2009/08/20/abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-over-lockerbie-in-1988-is-released-on-compassionate-grounds-due-to-t.md)
+### [ Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103 over Lockerbie in 1988, is released on compassionate grounds due to terminal cancer, and boards a flight to Libya. ](/news/2009/08/20/abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-over-lockerbie-in-1988-is-released-on-compassionate-grounds-due-to-te.md)
 _Context: Abdelbaset al-Megrahi, Libya, Lockerbie, Lockerbie bombing_
 
 ### [ A bicycle bomb explodes near a restaurant in Baghdad, killing two people. ](/news/2009/08/20/a-bicycle-bomb-explodes-near-a-restaurant-in-baghdad-killing-two-people.md)

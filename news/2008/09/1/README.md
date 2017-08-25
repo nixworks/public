@@ -9,10 +9,10 @@ _Context: Anbar province, Iraq, Military of the United States_
 ### [ An ACLU lawsuit challenges gag orders in National Security Letters. ](/news/2008/09/1/an-aclu-lawsuit-challenges-gag-orders-in-national-security-letters.md)
 _Context: ACLU, National Security Letter, gagged_
 
-### [ 2008 Atlantic hurricane season: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-p-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md)
+### [ 2008 Atlantic hurricane season:. Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md)
 Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and officials from Nassau to South Carolina warned residents to prepare for possible evacuations. 
 
-### [ 2008 South Ossetia war: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-p-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md)
+### [ 2008 South Ossetia war:. The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md)
 _Context: 2008 South Ossetia war, European Union, Georgian, Moscow_
 
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
@@ -21,10 +21,10 @@ _Context: Japan, Liberal Democratic Party (Japan) leadership election, 2008, Yas
 ### [ A Government of Orissa report states 558 houses and 17 places of worship were burnt in the 2008 Orissa violence. ](/news/2008/09/1/a-government-of-orissa-report-states-558-houses-and-17-places-of-worship-were-burnt-in-the-2008-orissa-violence.md)
 _Context: 2008 Orissa violence, Government of Orissa, house_
 
-### [ Robert French is sworn in as the 12th Chief Justice of Australia. ](/news/2008/09/1/robert-french-is-sworn-in-as-the-12th-chief-justice-of-australia.md)
-New High Court Chief Justice Robert French has been sworn in at a ceremonial sitting in Canberra.
+### [ Robert French is sworn in as the 12th Chief Justice of Australia. [http://www.abc.net.au/news/stories/2008/09/01/2351772.htm?section=australia (ABC (Australia))]](/news/2008/09/1/robert-french-is-sworn-in-as-the-12th-chief-justice-of-australia-http-www-abc-net-au-news-stories-2008-09-01-2351772-htm-section-austra.md)
+_Context: Chief Justice of Australia, Robert French_
 
-### [ Manchester City Football Club is bought out by the Abu Dhabi United Group for Investment and Development Limited, the consortium led by Sheikh Mansour bin Zayed Al Nahyan. This effectively made City the richest Football Club in the world. It also made Transfer Deadline Day one of the most memorable, with City's new found wealth allowing them to bid for such players as Dimitar Berbatov, Fernando Torres, Mario Gomez and David Villa. They eventually signed Robinho for a British Record Fee of 32.5million.  The takeover and the Robinho deal as a whole sent shockwaves throughout the Sporting world. ](/news/2008/09/1/manchester-city-football-club-is-bought-out-by-the-abu-dhabi-united-group-for-investment-and-development-limited-the-consortium-led-by-she.md)
+### [ Manchester City Football Club is bought out by the Abu Dhabi United Group for Investment and Development Limited, the consortium led by Sheikh Mansour bin Zayed Al Nahyan. This effectively made City the richest Football Club in the world. It also made Transfer Deadline Day one of the most memorable, with City's new found wealth allowing them to bid for such players as Dimitar Berbatov, Fernando Torres, Mario Gomez and David Villa. They eventually signed Robinho for a British Record Fee of GBP32.5million. The takeover and the Robinho deal as a whole sent shockwaves throughout the Sporting world. ](/news/2008/09/1/manchester-city-football-club-is-bought-out-by-the-abu-dhabi-united-group-for-investment-and-development-limited-the-consortium-led-by-she.md)
 There is a certain kind of writer for whom the observations of George Orwell have nearly the status of Holy Writ. The person in question is usually on the left, male and a columnist, which means he is in the uncomfortable position of having to produce a great deal of work that brings no guarantee of...
 
 ## [Previous Day...](/news/2008/08/31/index.md)

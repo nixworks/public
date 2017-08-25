@@ -1,6 +1,6 @@
 ## [2012-06-9](/news/2012/06/9/index.md)
 
-### [Arab Spring:Syrian uprising:The Syrian Observatory for Human Rights claims that shelling in the town of Deraa has claimed the lives of 17 people overnight. ](/news/2012/06/9/arab-spring-psyrian-uprising-pthe-syrian-observatory-for-human-rights-claims-that-shelling-in-the-town-of-deraa-has-claimed-the-lives-of-17.md)
+### [Arab Spring:. Syrian uprising:. The Syrian Observatory for Human Rights claims that shelling in the town of Deraa has claimed the lives of 17 people overnight. ](/news/2012/06/9/arab-spring-syrian-uprising-the-syrian-observatory-for-human-rights-claims-that-shelling-in-the-town-of-deraa-has-claimed-the-lives-of-1.md)
 Seventeen militants and at least two soldiers are killed in clashes in southern Yemen, as the army tries to regain territory lost last year.
 
 ### [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md)

@@ -1,21 +1,21 @@
 ## [2014-04-14](/news/2014/04/14/index.md)
 
-### [Syrian Civil War:Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-psyria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-of.md)
+### [Syrian Civil War:. Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syrian-civil-war-syria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-o.md)
 Syrian government troops seize at least three border communities, including an ancient Christian hamlet, north of Damascus, state media and activists say, in a dramatic one-day sweep that suggests rebel strongholds along the Lebanese frontier are near total collapse.
 
 ### [Two Abu Sayyaf militants are killed and several captured in a raid in the Philippines city of Zamboanga. ](/news/2014/04/14/two-abu-sayyaf-militants-are-killed-and-several-captured-in-a-raid-in-the-philippines-city-of-zamboanga.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least-71-and-injuring-more-than-120-ot.md)
+### [Islamist insurgency in Nigeria. Twin bomb blasts hit a crowded bus station at the outskirts of the Nigerian capital Abuja, killing at least 71 and injuring more than 120 others. ](/news/2014/04/14/islamist-insurgency-in-nigeria-twin-bomb-blasts-hit-a-crowded-bus-station-at-the-outskirts-of-the-nigerian-capital-abuja-killing-at-least.md)
 At least 35 believed killed in bus station bombing during rush hour in the capital Abuja, with toll expected to rise.
 
-### [Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md)
+### [2014 pro-Russian protests in Ukraine. Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/2014-pro-russian-protests-in-ukraine-pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md)
 Pro-Russian activists attack another official building in east Ukraine, ignoring a deadline to leave or face eviction by Ukrainian forces.
 
-### [The ''Washington Post'' and ''The Guardian'' newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security.md)
+### [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md)
 _Context: Edward Snowden, National Security Agency, Pulitzer Prize for Public Service, The Guardian, Washington Post_
 
-### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
+### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaa-cref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
 _Context: $, Nuveen Investments, TIAA-CREF, United States_
 
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)

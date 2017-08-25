@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Israel's security cabinet issues a three-year temporary order that sets a four-year minimum sentence for adult stone- and firebomb-throwers. In addition, new rules of engagement allow police to open fire when the life of a third party is under threat. ](/news/2015/09/24/israel-s-security-cabinet-issues-a-three-year-temporary-order-that-sets-a-four-year-minimum-sentence-for-adult-stone-and-firebomb-throwers.md) _Context: minimum sentence_
+1. [Arab-Israeli conflict. Israel's security cabinet issues a three-year temporary order that sets a four-year minimum sentence for adult stone- and firebomb-throwers. In addition, new rules of engagement allow police to open fire when the life of a third party is under threat. ](/news/2015/09/24/arab-israeli-conflict-israel-s-security-cabinet-issues-a-three-year-temporary-order-that-sets-a-four-year-minimum-sentence-for-adult-ston.md) _Context: minimum sentence_

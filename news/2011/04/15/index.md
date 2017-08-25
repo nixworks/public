@@ -33,7 +33,7 @@ _Context: Google, South Korea, antitrust, internet search engine_
 ### [Credit rating agency Moody's downgrades Ireland's rating to Baa3, one step above junk bond status. ](/news/2011/04/15/credit-rating-agency-moody-s-downgrades-ireland-s-rating-to-baa3-one-step-above-junk-bond-status.md)
 _Context: Credit rating agency, Ireland, Moody's, junk bond_
 
-### [Nasdaq, in pursuit of its bid for control of NYSE Euronext, would be willing to sell one key NYSE Euronext property, the American Stock Exchange, in order to resolve antitrust issues, according to an unnamed source cited by Reuters.  ](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.md)
+### [Nasdaq, in pursuit of its bid for control of NYSE Euronext, would be willing to sell one key NYSE Euronext property, the American Stock Exchange, in order to resolve antitrust issues, according to an unnamed source cited by Reuters. ](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.md)
 _Context: American Stock Exchange, NYSE Euronext, Nasdaq, antitrust_
 
 ### [The Tokyo Electric Power Company will pay a provisional 1 million yen to each household living within the exclusion zone near the Fukushima I Nuclear Power Plant. ](/news/2011/04/15/the-tokyo-electric-power-company-will-pay-a-provisional-1-million-yen-to-each-household-living-within-the-exclusion-zone-near-the-fukushima.md)
@@ -54,7 +54,7 @@ _Context: Deutsche Bank, Hong Kong, Independent Commission Against Corruption_
 ### [Croatian military leaders Ante Gotovina and Mladen Markac were convicted of war crimes ](/news/2011/04/15/croatian-military-leaders-ante-gotovina-and-mladen-markaa-were-convicted-of-war-crimes.md)
 Two Croatian military leaders are jailed for war crimes committed in the 1990s, provoking anger in Zagreb where many regard them as war heroes.
 
-### [The U.S. Attorney's office in Manhattan announces indictments of the owners of the three largest online poker sites accepting U.S. players--PokerStars, Full Tilt Poker, and Absolute Poker--on charges of bank fraud, gambling offenses, and money laundering. ](/news/2011/04/15/the-u-s-attorney-s-office-in-manhattan-announces-indictments-of-the-owners-of-the-three-largest-online-poker-sites-accepting-u-s-playersa.md)
+### [The U.S. Attorney's office in Manhattan announces indictments of the owners of the three largest online poker sites accepting U.S. players-PokerStars, Full Tilt Poker, and Absolute Poker-on charges of bank fraud, gambling offenses, and money laundering. ](/news/2011/04/15/the-u-s-attorney-s-office-in-manhattan-announces-indictments-of-the-owners-of-the-three-largest-online-poker-sites-accepting-u-s-players.md)
 PokerStars, Full Tilt Poker and Absolute Poker have been charged by Manhattan U.S. Attorney with fraud, illegal gambling and money laundering.
 
 ### [Karl Rodney, the organiser of controversial trips to the Caribbean by United States House of Representatives member Charles Rangel, is charged with lying to investigators about them. ](/news/2011/04/15/karl-rodney-the-organiser-of-controversial-trips-to-the-caribbean-by-united-states-house-of-representatives-member-charles-rangel-is-charg.md)

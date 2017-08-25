@@ -1,9 +1,9 @@
 ## [2011-03-30](/news/2011/03/30/index.md)
 
-### [Arab Spring:Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-pbashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md)
+### [Arab Spring:. 2011 Syrian protests. Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md)
 Syrian president delivers first public speech since security forces curbed anti-government protests across the country.
 
-### [Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md)
+### [2010-2011 Ivorian crisis. Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md)
 Security Council votes unanimously to impose a travel ban and assets freeze on incumbent leader Gbagbo.
 
 ### [45,000 Inca artefacts taken by Yale University from Machu Picchu almost a century ago, and described by the president as "the dignity and pride of Peru", arrive in Lima after a long campaign by Peruvians to have them returned. ](/news/2011/03/30/45-000-inca-artefacts-taken-by-yale-university-from-machu-picchu-almost-a-century-ago-and-described-by-the-president-as-the-dignity-and-pr.md)
@@ -12,7 +12,7 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
 _Context: Amin Maalouf, Anne Tyler, Dacia Maraini, David Malouf, James Kelman, John le Carre, Juan Goytisolo, Man Booker International Prize, Marilynne Robinson, Philip Pullman, Philip Roth, Rohinton Mistry, Su Tong, Wang Anyi_
 
-### [The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultu.md)
+### [The oldest copy of "Codex Holmiensis", dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultur.md)
 _Context: Codex Holmiensis, Denmark, Sweden_
 
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
@@ -33,7 +33,7 @@ _Context: Google, Kansas City, Kansas, broadband_
 ### [Obama Administration endorses Pickens plan for natural gas vehicles. ](/news/2011/03/30/obama-administration-endorses-pickens-plan-for-natural-gas-vehicles.md)
 President says natural gas could help cut oil imports. His support could boost chances for the legislation.
 
-### [The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and-warns-that-fixing-the-problem-wi.md)
+### [Fukushima I Nuclear Power Plant. The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md)
 Japan called on the world not to impose &quot;unjustifiable&quot; import curbs on its goods as French President Nicolas Sarkozy was due to arrive on Thursday, the first leader to visit since an earthquake and tsunami damaged a nuclear plant, sparking the worst nuclear crisis since Chernobyl in 1986.
 
 ### [Flooding across southern Thailand results in eleven deaths with thousands of people stranded. ](/news/2011/03/30/flooding-across-southern-thailand-results-in-eleven-deaths-with-thousands-of-people-stranded.md)

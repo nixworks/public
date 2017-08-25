@@ -75,10 +75,10 @@ _Context: 3-2 score, French, Italy, Slovakia, World Cup, defending champion, eli
 ### [American John Isner defeats Frenchman Nicolas Mahut, 4-6, 6-3, 7-6 (7), 6-7 (3), 70-68, in the longest match in tennis history, finally advancing from the first round of the 2010 Wimbledon Gentlemen's Singles tournament. The match took over 11 hours, spanning three days. ](/news/2010/06/24/american-john-isner-defeats-frenchman-nicolas-mahut-4-6-6-3-7-6-7-6-7-3-70-68-in-the-longest-match-in-tennis-history-finally-adva.md)
 John Isner won a three-day, 11 hour-plus marathon over qualifier Nicolas Mahut of France on Thursday at Wimbledon, claiming the fifth set 70-68 on a service break.
 
-### [Writer Neil Gaiman wins the Cilip Carnegie Medal for ''The Graveyard Book''. ](/news/2010/06/24/writer-neil-gaiman-wins-the-cilip-carnegie-medal-for-the-graveyard-book.md)
+### [Writer Neil Gaiman wins the Cilip Carnegie Medal for "The Graveyard Book". ](/news/2010/06/24/writer-neil-gaiman-wins-the-cilip-carnegie-medal-for-the-graveyard-book.md)
 _Context: Neil Gaiman_
 
-### [Four specimens of ''Anogramma ascensionis'', a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and.md)
+### [Four specimens of "Anogramma ascensionis", a plant native to Ascension Island and presumed extinct for 60 years, are discovered alive and well in Kew. ](/news/2010/06/24/four-specimens-of-anogramma-ascensionis-a-plant-native-to-ascension-island-and-presumed-extinct-for-60-years-are-discovered-alive-and-we.md)
 Scientists from Kew Gardens have rediscovered a plant that has been presumed extinct for almost 60 years.
 
 ## [Previous Day...](/news/2010/06/23/index.md)

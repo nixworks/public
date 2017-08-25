@@ -1,0 +1,23 @@
+### [2016-07-20](/news/2016/07/20/index.md)
+
+# Ukrainian crisis. Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. 
+
+Reporter for Ukrainian Pravda and critic of leaders in Ukraine, Belarus and Russia was driving to work when car exploded
+
+
+### Source:
+
+1. [The Guardian](https://www.theguardian.com/world/2016/jul/20/ukraine-journalist-pavel-sheremet-killed-kiev-car-bombing)
+
+### Related:
+
+1. [Ukrainian crisis. DPR leader Alexander Zakharchenko announced that the self-declared Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) would form a new state called Malorossiya (Little Russia) as an official successor to what he called the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko and LPR leader Igor Plotnitsky denounced the plans. ](/news/2017/07/18/ukrainian-crisis-dpr-leader-alexander-zakharchenko-announced-that-the-self-declared-donetsk-people-s-republic-dpr-and-luhansk-people-s-re.md) _Context: Kiev, Ukrainian crisis_
+2. [Ukrainian crisis. Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-crisis-ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _Context: Kiev, Ukrainian crisis_
+3. [Ukraine-United States relations. An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/ukraine-united-states-relations-an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
+4. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Kiev_
+5. [Eurovision Song Contest 2017. Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/eurovision-song-contest-2017-twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-we.md) _Context: Kiev_
+6. [Ukrainian crisis. Russian military intervention in Ukraine (2014-present). Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukrainian-crisis-russian-military-intervention-in-ukraine-2014-present-ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in.md) _Context: Ukrainian crisis_
+7. [Ukrainian crisis. Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/ukrainian-crisis-russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two.md) _Context: Ukrainian crisis_
+8. [Ukraine-United States relations. U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/ukraine-united-states-relations-u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-endi.md) _Context: Kiev_
+9. [Ukrainian crisis. Russia-Ukraine relations. Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. ](/news/2016/07/15/ukrainian-crisis-russia-ukraine-relations-russia-is-to-deploy-its-advanced-long-range-s-400-surface-to-air-missile-system-to-feodosia-in.md) _Context: Ukrainian crisis_
+10. [Russia-European Union relations. Ukrainian crisis. The European Union extends economic sanctions on Russia until 31 January 2017 over Moscow's continued support for separatist rebels in eastern Ukraine. ](/news/2016/07/1/russia-european-union-relations-ukrainian-crisis-the-european-union-extends-economic-sanctions-on-russia-until-31-january-2017-over-mosc.md) _Context: Ukrainian crisis_

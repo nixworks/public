@@ -6,7 +6,7 @@ _Context: Kandahar_
 ### [Senior United Nations envoy Roger Meece calls the scale of sexual attacks in the Democratic Republic of the Congo "enormous". More than 15,000 rapes occurred in the east of the country last year. ](/news/2010/10/16/senior-united-nations-envoy-roger-meece-calls-the-scale-of-sexual-attacks-in-the-democratic-republic-of-the-congo-enormous-more-than-15-0.md)
 _Context: Democratic Republic of the Congo, Roger Meece, United Nations_
 
-### [Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel ''The Picture of Dorian Gray''. ](/news/2010/10/16/oscar-wilde-receives-a-google-doodle-on-the-156th-anniversary-of-his-birthday-a-portrait-from-his-novel-the-picture-of-dorian-gray.md)
+### [Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel "The Picture of Dorian Gray". ](/news/2010/10/16/oscar-wilde-receives-a-google-doodle-on-the-156th-anniversary-of-his-birthday-a-portrait-from-his-novel-the-picture-of-dorian-gray.md)
 _Context: Oscar Wilde, The Picture of Dorian Gray, doodle_
 
 ### [The number of visitors to Expo 2010 Shanghai exceeds 64 million, breaking the record the history of the World's Fairs. ](/news/2010/10/16/the-number-of-visitors-to-expo-2010-shanghai-exceeds-64-million-breaking-the-record-the-history-of-the-world-s-fairs.md)

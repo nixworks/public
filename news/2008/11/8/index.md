@@ -1,6 +1,6 @@
 ## [2008-11-8](/news/2008/11/8/index.md)
 
-### [ United Nations Secretary-General Ban Ki-moon meets with African leaders to discuss resolutions to the ongoing Kivu conflict in the Democratic Republic of the Congo.  ](/news/2008/11/8/united-nations-secretary-general-ban-ki-moon-meets-with-african-leaders-to-discuss-resolutions-to-the-ongoing-kivu-conflict-in-the-democrat.md)
+### [ United Nations Secretary-General Ban Ki-moon meets with African leaders to discuss resolutions to the ongoing Kivu conflict in the Democratic Republic of the Congo. ](/news/2008/11/8/united-nations-secretary-general-ban-ki-moon-meets-with-african-leaders-to-discuss-resolutions-to-the-ongoing-kivu-conflict-in-the-democrat.md)
 _Context: Ban Ki-moon, Democratic Republic of the Congo, Kivu conflict, United Nations, United Nations Secretary-General_
 
 ### [ A coalition consisting of the National Party, ACT and United Future wins a majority of seats in the Parliament of New Zealand, ending nine years of Labour Party-led rule. ](/news/2008/11/8/a-coalition-consisting-of-the-national-party-act-and-united-future-wins-a-majority-of-seats-in-the-parliament-of-new-zealand-ending-nine.md)

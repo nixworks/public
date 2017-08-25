@@ -1,6 +1,6 @@
 ## [2005-05-17](/news/2005/05/17/index.md)
 
-### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, ''Newsweek'' explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-ex.md)
+### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, "Newsweek" explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-expl.md)
 _Context: George W. Bush, Guantanamo Bay Qur'an desecration allegations, Newsweek, Qur'an_
 
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)

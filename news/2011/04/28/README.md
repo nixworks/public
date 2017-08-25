@@ -1,6 +1,6 @@
 ## [2011-04-28](/news/2011/04/28/index.md)
 
-### [Arab Spring:2011 Bahraini protests:Bahraini forces fire live rounds at civilians in Sitra as part of its crackdown on protests against the regime, assisted by Saudi Arabia. Video footage emerges showing the use of poison gas against civilians. ](/news/2011/04/28/arab-spring-p2011-bahraini-protests-pbahraini-forces-fire-live-rounds-at-civilians-in-sitra-as-part-of-its-crackdown-on-protests-against-the.md)
+### [Arab Spring:. 2011 Bahraini protests:. Bahraini forces fire live rounds at civilians in Sitra as part of its crackdown on protests against the regime, assisted by Saudi Arabia. Video footage emerges showing the use of poison gas against civilians. ](/news/2011/04/28/arab-spring-2011-bahraini-protests-bahraini-forces-fire-live-rounds-at-civilians-in-sitra-as-part-of-its-crackdown-on-protests-against-t.md)
 A Bahraini military court on Thursday sentenced four Shia protesters to death and three to life in prison over the killing of two policemen during a crackdown on a pro-democracy rally last month, said
 
 ### [Former U.S. president Jimmy Carter, after visiting North Korea, calls on the U.S. and South Korea to stop starving the North Koreans and accuses the U.S. and South Korea of violating the human rights of the North Korean people. Carter also says Kim Jong-il is willing to hold unconditional talks with South Korea, though current U.S. officials dismiss the visit of their former president to North Korea as "strictly private". ](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.md)
@@ -45,7 +45,7 @@ _Context: Cote d'Ivoire_
 ### [Exelon Corp., the top nuclear power concern in the United States, announces a deal to buy ](/news/2011/04/28/exelon-corp-the-top-nuclear-power-concern-in-the-united-states-announces-a-deal-to-buy.md)
 _Context: Exelon Corp., United States_
 
-### [U.S. tornado outbreak:Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-pseven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississipp.md)
+### [U.S. tornado outbreak:. Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississip.md)
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.
 
 ### [Israeli officials say they will refuse to deal with the Palestinian unity government composed of Fatah and Hamas because Hamas has carried out bombings and rocket attacks against Israel for years and does not recognise its right to exist.](/news/2011/04/28/israeli-officials-say-they-will-refuse-to-deal-with-the-palestinian-unity-government-composed-of-fatah-and-hamas-because-hamas-has-carried-o.md)

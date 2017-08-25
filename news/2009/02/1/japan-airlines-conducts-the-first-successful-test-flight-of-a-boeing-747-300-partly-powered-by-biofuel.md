@@ -19,4 +19,4 @@
 6. [Japanese air carrier Japan Airlines files for bankruptcy protection. ](/news/2010/01/19/japanese-air-carrier-japan-airlines-files-for-bankruptcy-protection.md) _Context: Japan Airlines_
 7. [Shares in Japan Airlines fall by 81%. ](/news/2010/01/13/shares-in-japan-airlines-fall-by-81.md) _Context: Japan Airlines_
 8. [ A Virgin Atlantic Boeing 747 becomes the first commercial aircraft to make a flight powered by biofuel flying between Heathrow and Amsterdam. ](/news/2008/02/24/a-virgin-atlantic-boeing-747-becomes-the-first-commercial-aircraft-to-make-a-flight-powered-by-biofuel-flying-between-heathrow-and-amsterda.md) _Context: biofuel_
-9. [ New Zealand introduces its biofuel bill. ](/news/2007/10/8/new-zealand-introduces-its-biofuel-bill.md) _Context: biofuel_
+9. [ New Zealand introduces its biofuel bill. [http://www.parliament.nz/en-NZ/PB/Legislation/Bills/4/c/9/00DBHOH_BILL8317_1-Biofuel-Bill.htm (NZ parliament) ]](/news/2007/10/8/new-zealand-introduces-its-biofuel-bill-http-www-parliament-nz-en-nz-pb-legislation-bills-4-c-9-00dbhoh_bill8317_1-biofuel-bill-htm-nz.md) _Context: biofuel_

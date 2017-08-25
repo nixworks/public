@@ -1,6 +1,6 @@
 ## [2012-01-25](/news/2012/01/25/index.md)
 
-### [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011a2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md)
+### [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011-2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md)
 Syrian security forces raked the central protest city of Hama with heavy machinegun fire and explosives on Wednesday for the second straight day, as troops killed 18 civilians and six army deserters across the country, activists said. &quot;The Syrian...
 
 ### [A Tibetan monk is shot dead in Sichuan, China, in the second violent clash this week as unrest spreads. ](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.md)
@@ -30,7 +30,7 @@ _Context: Mahmoud Ahmadinejad, President, nuclear scientist_
 ### [The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. ](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.md)
 _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, United Nations_
 
-### [Israeli police capture Aziz Dweik, Speaker of the Hamas-dominated Palestinian Parliament, and place him under detention for 6 months.  ](/news/2012/01/25/israeli-police-capture-aziz-dweik-speaker-of-the-hamas-dominated-palestinian-parliament-and-place-him-under-detention-for-6-months.md)
+### [Israeli police capture Aziz Dweik, Speaker of the Hamas-dominated Palestinian Parliament, and place him under detention for 6 months. ](/news/2012/01/25/israeli-police-capture-aziz-dweik-speaker-of-the-hamas-dominated-palestinian-parliament-and-place-him-under-detention-for-6-months.md)
 Palestinians say arrest of 5 Hamas legislators a ploy to sabotage Palestinian reconciliation, hurt Hamas in elections.
 
 ## [Previous Day...](/news/2012/01/24/index.md)

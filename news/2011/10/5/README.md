@@ -1,6 +1,6 @@
 ## [2011-10-5](/news/2011/10/5/index.md)
 
-### [Arab Spring:At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-pat-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-ta.md)
+### [Arab Spring:. At least three people are killed and 22 injured after Yemeni Army troops shell opposition forces in the southern province of Taiz. ](/news/2011/10/5/arab-spring-at-least-three-people-are-killed-and-22-injured-after-yemeni-army-troops-shell-opposition-forces-in-the-southern-province-of-t.md)
 Pro-democracy protests which swept the Arab world earlier in the year have erupted in eastern Saudi Arabia over the past three days, with police opening fire with live rounds and many people injured, opposition activists say.
 
 ### [NYSE Euronext and Deutsche Boerse AG, two exchange operating concerns planning a merger, receive a statement of objections to that merger from the European Union's business regulators. ](/news/2011/10/5/nyse-euronext-and-deutsche-boerse-ag-two-exchange-operating-concerns-planning-a-merger-receive-a-statement-of-objections-to-that-merger-fr.md)

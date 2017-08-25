@@ -1,9 +1,9 @@
 ## [2013-02-17](/news/2013/02/17/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-area.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A series of car bombs kill at least 37 people and injure more than 130 others in mostly Shiite areas of the capital Baghdad. ](/news/2013/02/17/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombs-kill-at-least-37-people-and-injure-more-than-130-others-in-mostly-shiite-are.md)
 Several car bombs explode in mainly Shia areas in the Iraqi capital, Baghdad, killing at least 21 people and injuring scores more, officials say.
 
-### [Nigerian Sharia conflict:In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-pin-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md)
+### [Nigerian Sharia conflict:. In Nigeria six foreign workers, of which one Italian, one Greek and two Lebanese, are kidnapped in a construction site, one security guard is killed. ](/news/2013/02/17/nigerian-sharia-conflict-in-nigeria-six-foreign-workers-of-which-one-italian-one-greek-and-two-lebanese-are-kidnapped-in-a-construction.md)
 Seven foreign workers have been kidnapped by gunmen in northern Nigeria, in the biggest such incident in recent years.
 
 ### [American country music singer Mindy McCready dies as the result of a suspected suicide at the age of 37. ](/news/2013/02/17/american-country-music-singer-mindy-mccready-dies-as-the-result-of-a-suspected-suicide-at-the-age-of-37.md)

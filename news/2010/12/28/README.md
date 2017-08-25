@@ -9,7 +9,7 @@ _Context: Germany, Oman, Somali pirates_
 ### [The death toll from recent violence between Christians and Muslims in Jos, Nigeria, rises to 80. Islamist group Boko Haram claims responsibility for the deadly Christmas Eve bombings in the city. ](/news/2010/12/28/the-death-toll-from-recent-violence-between-christians-and-muslims-in-jos-nigeria-rises-to-80-islamist-group-boko-haram-claims-responsibi.md)
 A radical Islamist sect said on Tuesday it was behind bombings in central Nigeria and attacks on churches in the northeast of the country that led to the deaths of at least 86 people.
 
-### [A late Bronze Age grave of a Celtic princess has been unearthed in Heuneburg, Germany. Grave goods of Celtic jewellery made of gold, bronze, coal and amber have been discovered. ](/news/2010/12/28/a-late-bronze-age-grave-of-a-celtic-princess-has-been-unearthed-in-heuneburg-germany-grave-goods-of-celtic-jewellery-made-of-gold-bronze.md)
+### [A late Bronze Age grave of a Celtic princess has been unearthed in Heuneburg, Germany. Grave goods of Celtic jewellery made of gold, bronze, coal and amber have been discovered. [http://www.spiegel.de/wissenschaft/mensch/a-736863.html ("Der Spiegel" (de))]](/news/2010/12/28/a-late-bronze-age-grave-of-a-celtic-princess-has-been-unearthed-in-heuneburg-germany-grave-goods-of-celtic-jewellery-made-of-gold-bronze.md)
 _Context: Bronze Age, Heuneburg_
 
 ### [Israeli archaeologists reportedly discover human remains from 400,000 years ago, challenging the theory that humans originated in Africa. ](/news/2010/12/28/israeli-archaeologists-reportedly-discover-human-remains-from-400-000-years-ago-challenging-the-theory-that-humans-originated-in-africa.md)

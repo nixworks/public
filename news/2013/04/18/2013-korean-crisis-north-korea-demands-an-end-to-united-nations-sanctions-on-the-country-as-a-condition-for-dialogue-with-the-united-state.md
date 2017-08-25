@@ -1,0 +1,23 @@
+### [2013-04-18](/news/2013/04/18/index.md)
+
+# 2013 Korean crisis:. North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. 
+
+North Korea offered the United States and South Korea a list of conditions on Thursday for talks, including the lifting of U.N. sanctions, signaling a possible end to weeks of warlike hostility on the Korean peninsula.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/04/18/us-korea-north-idUSBRE93H02Y20130418)
+
+### Related:
+
+1. [2013 Korean crisis:. North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-aga.md) _Context: 2013 Korean crisis, North Korea, United States_
+2. [Aftermath of the 2013 Korean crisis:. North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stati.md) _Context: 2013 Korean crisis, North Korea, United States_
+3. [2013 Korean crisis:. The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _Context: 2013 Korean crisis, North Korea, United States_
+4. [2013 Korean crisis:. The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. ](/news/2013/04/7/2013-korean-crisis-the-united-states-decides-to-delay-a-long-planned-intercontinental-ballistic-missile-test-scheduled-for-next-week-at-th.md) _Context: 2013 Korean crisis, North Korea, United States_
+5. [2013 Korean crisis:. South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-south-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-a.md) _Context: 2013 Korean crisis, North Korea, United States_
+6. [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md) _Context: 2013 Korean crisis, North Korea, United States_
+7. [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md) _Context: North Korea, United Nations, United States_
+8. [A spokesperson for North Korea suggests new United States sanctions against it are "in violation" of a United Nations statement which did not apportion blame for the sinking of a South Korean warship. ](/news/2010/07/22/a-spokesperson-for-north-korea-suggests-new-united-states-sanctions-against-it-are-in-violation-of-a-united-nations-statement-which-did-no.md) _Context: North Korea, United Nations, United States_
+9. [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md) _Context: North Korea, United Nations, sanctions_
+10. [ Burma denies any link to the North Korean ship "Kang Nam 1" being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violatio.md) _Context: North Korea, United Nations, United States_

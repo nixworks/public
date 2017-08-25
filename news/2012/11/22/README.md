@@ -6,7 +6,7 @@ _Context: Pakistan, terrorist and sectarian attacks_
 ### [Russia lifts a 16-year ban on the import of British beef and lamb. British farmers had been stopped from exporting to Russia following the 1996 BSE outbreak in the UK, despite the lifting of a worldwide ban in 2006. ](/news/2012/11/22/russia-lifts-a-16-year-ban-on-the-import-of-british-beef-and-lamb-british-farmers-had-been-stopped-from-exporting-to-russia-following-the-1.md)
 A 16-year-old Russian ban on importing British beef and lamb is to be lifted.
 
-### [The European Commission gives its backing to commodities giant Glencore's $31 billion (PS19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-aps19-5-billion-bid-to-take-over-mining-company-xstra.md)
+### [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md)
 _Context: European Commission, Glencore, Xstrata, mining company_
 
 ### [A subway train rear ends another in Busan, South Korea, injuring 40. ](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south-korea-injuring-40.md)
@@ -27,7 +27,7 @@ _Context: Japan, Prime Minister of Japan, Shinkin bank, Toyokawa, Yoshihiko Noda
 ### [The BBC appoints Tony Hall, Baron Hall of Birkenhead, as the new Director-General of the corporation after the resignation of George Entwistle earlier this month due to the Newsnight controversy. He is expected to start in the role in early March 2013. ](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.md)
 The BBC has appointed Tony Hall - Lord Hall of Birkenhead - as the new Director General of the corporation. 
 
-### [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video ''Innocence of Muslims''. ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-musli.md)
+### [Afghanistan is set to remove a block placed on YouTube more than two months ago over a controversial anti-Islamic video "Innocence of Muslims". ](/news/2012/11/22/afghanistan-is-set-to-remove-a-block-placed-on-youtube-more-than-two-months-ago-over-a-controversial-anti-islamic-video-innocence-of-muslim.md)
 KABUL (PAN) Afghanistan is set to lift a block placed on Youtube more than two months ago over a controversial anti-I 
 
 ### [The United Kingdom's Lord Chancellor Chris Grayling tells the House of Commons that a European Court of Human Rights ruling on prisoner votes can be defied. ](/news/2012/11/22/the-united-kingdom-s-lord-chancellor-chris-grayling-tells-the-house-of-commons-that-a-european-court-of-human-rights-ruling-on-prisoner-vote.md)
@@ -36,7 +36,7 @@ The government unveils plans which could allow some prisoners to vote - but tell
 ### [Sandy Island, a South Pacific island, shown on marine charts and world maps as well as on Google Earth, does not exist, Australian scientists say. ](/news/2012/11/22/sandy-island-a-south-pacific-island-shown-on-marine-charts-and-world-maps-as-well-as-on-google-earth-does-not-exist-australian-scientist.md)
 A South Pacific island shown on marine charts and world maps as well as on Google Maps and on Google Earth, is proven not to exist, Australian scientists say.
 
-### [ESO says Makemake, one of the solar system's five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-systemas-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md)
+### [ESO says Makemake, one of the solar system-s five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-system-s-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md)
 First look at Kuiper Belt object also reveals no shroud of gases
 
 ## [Previous Day...](/news/2012/11/21/index.md)

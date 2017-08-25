@@ -1,12 +1,12 @@
 ## [2009-10-3](/news/2009/10/3/index.md)
 
-### [ Treaty of Lisbon: Ireland approves the European Union's Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-p-ireland-approves-the-european-unionas-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md)
+### [ Treaty of Lisbon:. Ireland approves the European Union-s Treaty of Lisbon by a margin of 67.1% to 32.9% in a second referendum. ](/news/2009/10/3/treaty-of-lisbon-ireland-approves-the-european-union-s-treaty-of-lisbon-by-a-margin-of-67-1-to-32-9-in-a-second-referendum.md)
 Opposition campaigners concede defeat as results of referendum start to come in.
 
 ### [ The 19th anniversary of the reunification of Germany is marked by a special four-day puppet show in Berlin. ](/news/2009/10/3/the-19th-anniversary-of-the-reunification-of-germany-is-marked-by-a-special-four-day-puppet-show-in-berlin.md)
 A giant girl figure is seen during the second day of a street theater performance in Berlin, October 2, 2009. The four-day street performance is based on a fair
 
-### [ Presidency of the European Council: Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-p-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md)
+### [ Presidency of the European Council:. Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md)
 _Context: Angela Merkel, Brussels, Europe, France, German Chancellor, Germany, Jonathan Powell, Nicolas Sarkozy, Paris, Prague, President of France, President of the European Council, Tony Blair_
 
 ### [ Typhoon Parma hits the Philippines, with early reports indicating at least four deaths as trees are uprooted and roofs torn off houses. ](/news/2009/10/3/typhoon-parma-hits-the-philippines-with-early-reports-indicating-at-least-four-deaths-as-trees-are-uprooted-and-roofs-torn-off-houses.md)

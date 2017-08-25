@@ -1,0 +1,23 @@
+### [2017-05-3](/news/2017/05/3/index.md)
+
+# War in Afghanistan (2015-present). A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. 
+
+A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people and wounded at least 28, officials said, in an attack on a convoy of armored personnel carriers used by the NATO-led Resolute Support mission.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN17Z05S)
+
+### Related:
+
+1. [War in Afghanistan (2015-present). May 2017 Kabul attack. A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/war-in-afghanistan-2015-present-may-2017-kabul-attack-a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-kille.md) _Context: Kabul, War in Afghanistan (2015-present), suicide bombing_
+2. [War in Afghanistan (2015-present). A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/war-in-afghanistan-2015-present-a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-th.md) _Context: Kabul, NATO, War in Afghanistan (2015-present)_
+3. [War in Afghanistan (2015-present). An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/war-in-afghanistan-2015-present-an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight.md) _Context: Kabul, NATO, War in Afghanistan (2015-present)_
+4. [War in Afghanistan (2015-present). An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/war-in-afghanistan-2015-present-an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66.md) _Context: Kabul, NATO, War in Afghanistan (2015-present)_
+5. [War in Afghanistan (2015-present). In a friendly fire incident, a NATO air strike hits an Afghan National Army outpost in Logar Province, about 30 miles east of Kabul, with at least seven soldiers killed and five wounded. ](/news/2015/07/20/war-in-afghanistan-2015-present-in-a-friendly-fire-incident-a-nato-air-strike-hits-an-afghan-national-army-outpost-in-logar-province.md) _Context: Kabul, NATO, War in Afghanistan (2015-present)_
+6. [War in Afghanistan (2015-present). Five anti-government/anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/war-in-afghanistan-2015-present-five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-deman.md) _Context: Kabul, War in Afghanistan (2015-present)_
+7. [War in Afghanistan (2015-present). A suicide bomber kills at least five people and wounds ten more near government offices in Kabul. ISIL claims responsibility for the attack. ](/news/2017/04/12/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-five-people-and-wounds-ten-more-near-government-offices-in-kabul-isil.md) _Context: Kabul, War in Afghanistan (2015-present)_
+8. [War in Afghanistan (2015-present). March 2017 Kabul attack. A suicide bomber and unidentified gunmen dressed as doctors attack a military hospital in Kabul, killing at least 38 people and wounding dozens more. ISIL claims responsibility for the attack. ](/news/2017/03/8/war-in-afghanistan-2015-present-march-2017-kabul-attack-a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military.md) _Context: Kabul, War in Afghanistan (2015-present)_
+9. [War in Afghanistan (2015-present). Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/war-in-afghanistan-2015-present-russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-sca.md) _Context: NATO, War in Afghanistan (2015-present)_
+10. [War in Afghanistan (2015-present). At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/war-in-afghanistan-2015-present-at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carryi.md) _Context: Kabul, War in Afghanistan (2015-present)_

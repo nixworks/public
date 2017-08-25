@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [The United States National Security Agency played ''World of Warcraft'', ''Second Life'', and games on the Xbox 360 to spy on gamers. ](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.md) _Context: Xbox 360_
+1. [The United States National Security Agency played "World of Warcraft", "Second Life", and games on the Xbox 360 to spy on gamers. ](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.md) _Context: Xbox 360_
 2. [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md) _Context: Xbox 360_
 3. [ The highly anticipated Halo 3 was released for the Xbox 360.](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.md) _Context: Xbox 360_
 4. [ The European release of the Xbox 360.](/news/2005/12/2/the-european-release-of-the-xbox-360.md) _Context: Xbox 360_

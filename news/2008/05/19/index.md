@@ -6,7 +6,7 @@ _Context: Iraq, Sunni, Syria_
 ### [ Edward Leigh's attempt to outlaw the creation of human-animal hybrid embryos in the United Kingdom is defeated by 336 votes to 176 in the British House of Commons. ](/news/2008/05/19/edward-leigh-s-attempt-to-outlaw-the-creation-of-human-animal-hybrid-embryos-in-the-united-kingdom-is-defeated-by-336-votes-to-176-in-the-b.md)
 _Context: Britain, British House of Commons, Edward Leigh, animal, embryo, human, hybrid_
 
-### [ In ''United States v. Williams'', the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet.md)
+### [ In "United States v. Williams", the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet-o.md)
 The Supreme Court gave prosecutors a powerful tool Monday to attack the spread of child pornography online, ruling that people who send messages over the computer offering or seeking sexual images...
 
 ### [ A two-week conference in Dublin, aiming to create an international treaty banning cluster bombs, opens today. ](/news/2008/05/19/a-two-week-conference-in-dublin-aiming-to-create-an-international-treaty-banning-cluster-bombs-opens-today.md)
@@ -15,7 +15,7 @@ Campaigners against cluster bombs say the main manufacturers and stockpilers of 
 ### [ Some 6,000 people have fled a wave of attacks on foreigners in South Africa, which has left at least 13 dead, aid workers say. ](/news/2008/05/19/some-6-000-people-have-fled-a-wave-of-attacks-on-foreigners-in-south-africa-which-has-left-at-least-13-dead-aid-workers-say.md)
 _Context: South Africa, attacks on foreigners_
 
-### [  Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)
+### [ 2008 Sichuan earthquake. Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/2008-sichuan-earthquake-xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)
 _Context: Xinhua, deadly earthquake, earthquake, mudslide_
 
 ### [ A gunman kills eight people in Calamba City in the Philippines. ](/news/2008/05/19/a-gunman-kills-eight-people-in-calamba-city-in-the-philippines.md)

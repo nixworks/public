@@ -1,6 +1,6 @@
 ### [2009-02-13](/news/2009/02/13/index.md)
 
-#  Unix time equalled "1234567890" at 23:31:30 UTC.  
+#  Unix time equalled "1234567890" at 23:31:30 UTC. 
 
 
 
@@ -16,7 +16,7 @@
 3. [The first same-sex marriages take place in the United Kingdom after they were given the legal authority to proceed in England and Wales from midnight UTC. ](/news/2014/03/29/the-first-same-sex-marriages-take-place-in-the-united-kingdom-after-they-were-given-the-legal-authority-to-proceed-in-england-and-wales-from.md) _Context: clock_
 4. [Pope Benedict XVI announces his resignation, effective February 28 at 8pm CET (7pm UTC). He will become the first pope to resign since Gregory XII in 1415. ](/news/2013/02/11/pope-benedict-xvi-announces-his-resignation-effective-february-28-at-8pm-cet-7pm-utc-he-will-become-the-first-pope-to-resign-since-grego.md) _Context: clock_
 5. [ Israeli Prime Minister Ehud Olmert declares a unilateral ceasefire beginning January 18 at 2:00 am Israel Standard Time (UTC+2) in its conflict with Hamas. However, Israeli Defense Forces will remain in the Gaza Strip until further notice. ](/news/2009/01/17/israeli-prime-minister-ehud-olmert-declares-a-unilateral-ceasefire-beginning-january-18-at-2-00-am-israel-standard-time-utc-2-in-its-conf.md) _Context: clock_
-6. [ New Year's Eve 2006-2007: The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-p-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _Context: clock_
+6. [ New Year's Eve 2006-2007:. The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/new-year-s-eve-2006-2007-the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line.md) _Context: clock_
 7. [ May 2006 Java earthquake: A tectonic earthquake centred 25 kilometres (16 miles) south of Yogyakarta on the island of Java, Indonesia kills more than 4300 people and injures more than 3400. The 6.2 magnitude quake strikes at 5:54 a.m. (22:54 UTC, 26 May). The epicenter is southwest of the city and near the erupting Mount Merapi. ](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.md) _Context: clock_
 8. [ The world's population hits 6.5 billion at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md) _Context: clock_
 9. [ Terrorism in Pakistan: A car bomb explodes outside a KFC outlet in Karachi, Pakistan around 08:45 (UTC+5). At least three people are killed and eight others wounded. ](/news/2005/11/15/terrorism-in-pakistan-a-car-bomb-explodes-outside-a-kfc-outlet-in-karachi-pakistan-around-08-45-utc-5-at-least-three-people-are-killed.md) _Context: clock_

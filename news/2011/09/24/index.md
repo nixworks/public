@@ -1,6 +1,6 @@
 ## [2011-09-24](/news/2011/09/24/index.md)
 
-### [Arab Spring:2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. ](/news/2011/09/24/arab-spring-p2011-libyan-civil-war-in-the-pro-muammar-gaddafi-stronghold-of-sirte-national-transitional-council-forces-are-massing-in-a-sq.md)
+### [Arab Spring:. 2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. ](/news/2011/09/24/arab-spring-2011-libyan-civil-war-in-the-pro-muammar-gaddafi-stronghold-of-sirte-national-transitional-council-forces-are-massing-in-a-s.md)
 _Context: Arab Spring, Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [Turkey seizes a Syrian ship possibly carrying weapons to the Syrian Army, as the 2011 Syrian uprising continues. ](/news/2011/09/24/turkey-seizes-a-syrian-ship-possibly-carrying-weapons-to-the-syrian-army-as-the-2011-syrian-uprising-continues.md)

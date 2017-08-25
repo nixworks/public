@@ -1,0 +1,23 @@
+### [2017-07-24](/news/2017/07/24/index.md)
+
+# Russian military intervention in Ukraine. Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. 
+
+Ukraine leader slams Russia over arms given to rebels
+
+
+### Source:
+
+1. [A News](http://www.anews.com.tr/world/2017/07/24/ukraine-leader-slams-russia-over-arms-given-to-rebels)
+
+### Related:
+
+1. [Ukrainian crisis. DPR leader Alexander Zakharchenko announced that the self-declared Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) would form a new state called Malorossiya (Little Russia) as an official successor to what he called the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko and LPR leader Igor Plotnitsky denounced the plans. ](/news/2017/07/18/ukrainian-crisis-dpr-leader-alexander-zakharchenko-announced-that-the-self-declared-donetsk-people-s-republic-dpr-and-luhansk-people-s-re.md) _Context: Petro Poroshenko_
+2. [Ukraine-United States relations. U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/ukraine-united-states-relations-u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-streng.md) _Context: Petro Poroshenko_
+3. [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md) _Context: Petro Poroshenko_
+4. [Russia-Ukraine relations. Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/russia-ukraine-relations-ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the.md) _Context: Petro Poroshenko_
+5. [Russian military intervention in Ukraine. Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/russian-military-intervention-in-ukraine-dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment.md) _Context: Russian military intervention in Ukraine_
+6. [War in Donbass. The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md) _Context: Petro Poroshenko_
+7. [War in Donbass. The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/war-in-donbass-the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshen.md) _Context: Petro Poroshenko_
+8. [War in Donbass. Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/war-in-donbass-ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses.md) _Context: Petro Poroshenko_
+9. [2014-15 Russian military intervention in Ukraine:. The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014-15-russian-military-intervention-in-ukraine-the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-h.md) _Context: Petro Poroshenko_
+10. [Ukrainian parliamentary election, 2014. Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/ukrainian-parliamentary-election-2014-voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md) _Context: Petro Poroshenko_

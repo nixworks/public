@@ -9,13 +9,13 @@ _Context: Barack Obama, National Mall, United States, Washington, D.C., presiden
 ### [A new earthquake in Haiti kills two in Cap-Hatien. ](/news/2010/03/21/a-new-earthquake-in-haiti-kills-two-in-cap-haitien.md)
 _Context: Cap-Hatien, Haiti_
 
-### [Middle East:Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-psecretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pales.md)
+### [Middle East:. Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-secretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pale.md)
 UN Secretary General Ban Ki-moon has condemned Israel&#39;s blockade of Gaza saying it caused &#39;unacceptable sufferings&#39;.
 
-### [Afghanistan:At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-pat-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md)
+### [Afghanistan:. At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md)
 At least ten people were killed and seven injured in a suicide bomb attack that targeted an army convoy in southern Afghanistan.
 
-### [Child sex abuse in the Catholic Church:It is alleged that the Pope (then a German archbishop) ignored advice from a psychiatrist in 1979 stating Father Peter "Hulli" Hullermann was "untreatable" and "must never be allowed to work with children again".  ](/news/2010/03/21/child-sex-abuse-in-the-catholic-church-pit-is-alleged-that-the-pope-then-a-german-archbishop-ignored-advice-from-a-psychiatrist-in-1979-st.md)
+### [Child sex abuse in the Catholic Church:. It is alleged that the Pope (then a German archbishop) ignored advice from a psychiatrist in 1979 stating Father Peter "Hulli" Hullermann was "untreatable" and "must never be allowed to work with children again". ](/news/2010/03/21/child-sex-abuse-in-the-catholic-church-it-is-alleged-that-the-pope-then-a-german-archbishop-ignored-advice-from-a-psychiatrist-in-1979-s.md)
 An Australian victims group says the Pope should apologise to abuse victims in Australia, as well as people who were abused by priests in Ireland.
 
 ### [The corpses of two archbishops are stolen from a cemetery in Nicosia. ](/news/2010/03/21/the-corpses-of-two-archbishops-are-stolen-from-a-cemetery-in-nicosia.md)
@@ -30,7 +30,7 @@ A volcano in the area of the Eyjafallajoekull glacier in Iceland erupted and for
 ### [South Africans mark the 50th anniversary of the Sharpeville massacre. ](/news/2010/03/21/south-africans-mark-the-50th-anniversary-of-the-sharpeville-massacre.md)
 _Context: Sharpeville massacre, South Africa_
 
-### [''Plastiki'', a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific.md)
+### ["Plastiki", a boat constructed from 12,000 plastic bottles, sets sail on a three-month voyage from San Francisco through the Great Pacific Garbage Patch to Sydney. ](/news/2010/03/21/plastiki-a-boat-constructed-from-12-000-plastic-bottles-sets-sail-on-a-three-month-voyage-from-san-francisco-through-the-great-pacific-g.md)
 _Context: Great Pacific Garbage Patch, Plastiki, San Francisco, Sydney_
 
 ### [Pune and Kochi are announced as the two new franchises in the Indian Premier League, having spent the equivalent of US$700 million between them. ](/news/2010/03/21/pune-and-kochi-are-announced-as-the-two-new-franchises-in-the-indian-premier-league-having-spent-the-equivalent-of-us-700-million-between-t.md)

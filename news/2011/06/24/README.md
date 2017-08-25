@@ -1,6 +1,6 @@
 ## [2011-06-24](/news/2011/06/24/index.md)
 
-### [''The New York Times'' reports that a cell phone belonging to Osama bin Laden's courier contains contacts with Harakat-ul-Mujahedeen indicating possible ties with Pakistan's intelligence agencies. ](/news/2011/06/24/the-new-york-times-reports-that-a-cell-phone-belonging-to-osama-bin-laden-s-courier-contains-contacts-with-harakat-ul-mujahedeen-indicat.md)
+### ["The New York Times" reports that a cell phone belonging to Osama bin Laden's courier contains contacts with Harakat-ul-Mujahedeen indicating possible ties with Pakistan's intelligence agencies. ](/news/2011/06/24/the-new-york-times-reports-that-a-cell-phone-belonging-to-osama-bin-laden-s-courier-contains-contacts-with-harakat-ul-mujahedeen-indicatin.md)
 Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links to Pakistani intelligence, as part of his support network.
 
 ### [Hillary Clinton, the United States Secretary of State, warns of a possible escalation of the 2011 Syrian uprising as Syrian Army forces mass near the border with Turkey. ](/news/2011/06/24/hillary-clinton-the-united-states-secretary-of-state-warns-of-a-possible-escalation-of-the-2011-syrian-uprising-as-syrian-army-forces-mass.md)

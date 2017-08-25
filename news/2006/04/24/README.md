@@ -12,10 +12,10 @@ _Context: Mahmoud Ahmadinejad, President, sporting events in Iran_
 ### [ 2006 Democracy movement in Nepal: Hundreds of Maoist rebels stormed the town of Chautara, attacking government offices and a prison. ](/news/2006/04/24/2006-democracy-movement-in-nepal-hundreds-of-maoist-rebels-stormed-the-town-of-chautara-attacking-government-offices-and-a-prison.md)
 _Context: Maoist, reinstated last week after a 4-year hiatus_
 
-### [ 2006 Dahab bombings: Witnesses reporting hearing three explosions in the Egyptian Sinai resort town of Dahab at about 1715 UTC. Dr. Said Essa, who runs the Sinai Peninsula rescue squad, estimates there were at least 100 dead or wounded.  ](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.md)
+### [ 2006 Dahab bombings: Witnesses reporting hearing three explosions in the Egyptian Sinai resort town of Dahab at about 1715 UTC. Dr. Said Essa, who runs the Sinai Peninsula rescue squad, estimates there were at least 100 dead or wounded. ](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.md)
 _Context: 2006 Dahab bombings, Dahab, Egypt, Sinai_
 
-### [ Pope Benedict XVI is reported to have agreed to a relaxation of rules for the use of condoms.  ](/news/2006/04/24/pope-benedict-xvi-is-reported-to-have-agreed-to-a-relaxation-of-rules-for-the-use-of-condoms.md)
+### [ Pope Benedict XVI is reported to have agreed to a relaxation of rules for the use of condoms. ](/news/2006/04/24/pope-benedict-xvi-is-reported-to-have-agreed-to-a-relaxation-of-rules-for-the-use-of-condoms.md)
 _Context: Pope Benedict XVI, condoms_
 
 ### [ Dubai International Finance Centre, owner of the Dubai stock exchange, announces that it has increased its equity stake in Euronext NV, which runs stock exchanges in four European capitals. There are rumors of an impending take-over bid. ](/news/2006/04/24/dubai-international-finance-centre-owner-of-the-dubai-stock-exchange-announces-that-it-has-increased-its-equity-stake-in-euronext-nv-whi.md)

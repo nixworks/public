@@ -18,7 +18,7 @@ _Context: Bushehr, Bushehr power plant, Iran, nuclear scientist_
 ### [ Turkish Airlines Flight 1951 crashes at Amsterdam's Schiphol Airport, killing nine people and injuring 84. ](/news/2009/02/25/turkish-airlines-flight-1951-crashes-at-amsterdam-s-schiphol-airport-killing-nine-people-and-injuring-84.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Flight 1951, Turkish Airlines_
 
-### [ The Bangladesh Rifles mutiny in Dhaka, killing one person and injuring eight.  ](/news/2009/02/25/the-bangladesh-rifles-mutiny-in-dhaka-killing-one-person-and-injuring-eight.md)
+### [ The Bangladesh Rifles mutiny in Dhaka, killing one person and injuring eight. ](/news/2009/02/25/the-bangladesh-rifles-mutiny-in-dhaka-killing-one-person-and-injuring-eight.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, Dhaka_
 
 ### [ Antarctica's subglacial Gamburtsev Mountain Range is mapped. ](/news/2009/02/25/antarctica-s-subglacial-gamburtsev-mountain-range-is-mapped.md)
@@ -43,15 +43,15 @@ _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
 _Context: Japan, export_
 
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: China, Chinese human rights, State Department's, United States_
+_Context: China, Chinese human rights, United States, United States State Department_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_
 
-### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels.  ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
+### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels. ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
 _Context: Mexico, United States, drug cartel_
 
-### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons  to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
+### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, conspiracy, defense contractor, weapon_
 
 ### [ Former Indian Communications Minister Sukhram is jailed for three years for corruption. ](/news/2009/02/25/former-indian-communications-minister-sukhram-is-jailed-for-three-years-for-corruption.md)

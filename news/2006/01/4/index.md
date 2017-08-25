@@ -24,7 +24,7 @@ _Context: Flash flooding, Java_
 ### [ Fourteen people are now confirmed dead in the Bad Reichenhall ice rink roof collapse, with one person still trapped in the rubble. ](/news/2006/01/4/fourteen-people-are-now-confirmed-dead-in-the-bad-reichenhall-ice-rink-roof-collapse-with-one-person-still-trapped-in-the-rubble.md)
 _Context: Bad Reichenhall ice rink roof collapse_
 
-### [ Israeli-Palestinian Conflict: Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-p-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md)
+### [ Israeli-Palestinian Conflict:. Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israeli-palestinian-conflict-israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md)
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ## [Previous Day...](/news/2006/01/3/index.md)

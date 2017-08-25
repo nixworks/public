@@ -15,10 +15,10 @@ _Context: Giorgio Napolitano, President, Romano Prodi_
 ### [ At least 23 people have been killed in a shooting and bombing attack in the Iraqi capital, Baghdad, police say. ](/news/2006/05/16/at-least-23-people-have-been-killed-in-a-shooting-and-bombing-attack-in-the-iraqi-capital-baghdad-police-say.md)
 _Context: Baghdad, Iraq_
 
-### [ Mark Inglis, a New Zealander,  became the first double-amputee to climb Mount Everest [http://news.scotsman.com/latest.cfm?id=(hampton)]](/news/2006/05/16/mark-inglis-a-new-zealander-became-the-first-double-amputee-to-climb-mount-everest-http-news-scotsman-com-latest-cfm-id-hampton.md)
+### [ Mark Inglis, a New Zealander, became the first double-amputee to climb Mount Everest [http://news.scotsman.com/latest.cfm?id=(hampton)]](/news/2006/05/16/mark-inglis-a-new-zealander-became-the-first-double-amputee-to-climb-mount-everest-http-news-scotsman-com-latest-cfm-id-hampton.md)
 _Context: Mark Inglis, Mount Everest_
 
-### [ A British-Ugandan team reports a substantial reduction in glacial cover atop the Rwenzori Mountains in Central Africa, attributable to increases in air temperature over the past four decades.  This "Mountains of the Moon", according to 2nd Century geographer Ptolemy, is one of the sources of the Nile, and is projected in the study to disappear in two decades. ](/news/2006/05/16/a-british-ugandan-team-reports-a-substantial-reduction-in-glacial-cover-atop-the-rwenzori-mountains-in-central-africa-attributable-to-incr.md)
+### [ A British-Ugandan team reports a substantial reduction in glacial cover atop the Rwenzori Mountains in Central Africa, attributable to increases in air temperature over the past four decades. This "Mountains of the Moon", according to 2nd Century geographer Ptolemy, is one of the sources of the Nile, and is projected in the study to disappear in two decades. ](/news/2006/05/16/a-british-ugandan-team-reports-a-substantial-reduction-in-glacial-cover-atop-the-rwenzori-mountains-in-central-africa-attributable-to-incr.md)
 _Context: 2nd Century, Central Africa, Mountains of the Moon, Nile, Ptolemy, Rwenzori Mountains, geographer, glacier_
 
 ### [ A tattooed mummy of a woman in her late 20s of the Moche tribe from 1,500 years ago is found near Trujillo, Peru. ](/news/2006/05/16/a-tattooed-mummy-of-a-woman-in-her-late-20s-of-the-moche-tribe-from-1-500-years-ago-is-found-near-trujillo-peru.md)

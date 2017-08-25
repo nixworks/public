@@ -1,6 +1,6 @@
 ### [2012-03-8](/news/2012/03/8/index.md)
 
-# Spanx inventor Sara Blakely becomes the youngest self-made female billionaire on ''Forbes''' list. 
+# Spanx inventor Sara Blakely becomes the youngest self-made female billionaire on "Forbes"' list. 
 
 
 

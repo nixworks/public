@@ -3,13 +3,13 @@
 ### [2011 Libyan civil war: Rebels retake the town of Yafran in the west of the country. ](/news/2011/06/6/2011-libyan-civil-war-rebels-retake-the-town-of-yafran-in-the-west-of-the-country.md)
 _Context: Libyan Civil War, Yafran_
 
-### [2011 Syrian uprising:At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-pat-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-acc.md)
+### [2011 Syrian uprising:. At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-at-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-ac.md)
 _Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
 
 ### [2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. ](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.md)
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
-### [Two United States drone missiles kill 14 people in  Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
+### [Two United States drone missiles kill 14 people in Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
 _Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
 
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
@@ -18,7 +18,7 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 ### [Shooting takes place in Kaduqli in Sudan's South Kordofan state, where armed groups allied to South Sudan are based. ](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.md)
 _Context: Kaduqli, South Kordofan, South Sudan, Sudan_
 
-### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
+### [2011 Xilinhot incident. Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/2011-xilinhot-incident-around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
 _Context: 2011 Xilinhot incident, China, Inner Mongolia_
 
 ### [North Korea is to establish a special economic zone on two islands close to the Chinese border. ](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.md)
@@ -39,7 +39,7 @@ Apple&#039;s new cloud music service has been criticised by sections of the musi
 ### [At least 21 people die as two coal mines in the People's Republic of China flood. ](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.md)
 _Context: China, coal mine_
 
-### [Test results will confirm whether the German ''E. Coli'' outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
+### [Test results will confirm whether the German "E. Coli" outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
 _Context: E. coli blamed for 46 deaths, Germany, Uelzen_
 
 ### [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md)
@@ -51,7 +51,7 @@ _Context: Banjarmasin, Indonesia, South Kalimantan_
 ### [A European Union delegation visits North Korea to investigate claims of food shortages. ](/news/2011/06/6/a-european-union-delegation-visits-north-korea-to-investigate-claims-of-food-shortages.md)
 _Context: European Union, North Korea_
 
-### [The ''People's Daily'', a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-i.md)
+### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
 _Context: Google, Internet, People's Daily, hackers, search engine_
 
 ### [The United Nations Committee Against Torture calls for the Government of Ireland to set up a statutory inquiry into allegations of poor treatment of women committed to the Magdalene Laundries. ](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.md)

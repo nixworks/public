@@ -1,9 +1,9 @@
 ## [2011-02-21](/news/2011/02/21/index.md)
 
-### [Arab Spring:2011 Libyan Civil War:The Libyan Air Force launches airstrikes on crowds of protesters. Two civilian helicopters carrying French nationals and two Libyan Mirage jets land in Malta. The Libyan pilots claim that they received orders to bomb protesters, and request political asylum. ](/news/2011/02/21/arab-spring-p2011-libyan-civil-war-pthe-libyan-air-force-launches-airstrikes-on-crowds-of-protesters-two-civilian-helicopters-carrying-fren.md)
+### [Arab Spring:. 2011 Libyan Civil War:. The Libyan Air Force launches airstrikes on crowds of protesters. Two civilian helicopters carrying French nationals and two Libyan Mirage jets land in Malta. The Libyan pilots claim that they received orders to bomb protesters, and request political asylum. ](/news/2011/02/21/arab-spring-2011-libyan-civil-war-the-libyan-air-force-launches-airstrikes-on-crowds-of-protesters-two-civilian-helicopters-carrying-fr.md)
 Pilots tell Maltese authorities they had been ordered to bomb anti-government protesters in Tripoli
 
-### [Situation in Somalia:A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-pa-car-bomb-attack-in-somalia-kills-13-people.md)
+### [Situation in Somalia:. A car bomb attack in Somalia kills 13 people. ](/news/2011/02/21/situation-in-somalia-a-car-bomb-attack-in-somalia-kills-13-people.md)
 _Context: Somalia_
 
 ### [An excavation begins at the Tokyo site of Unit 731, a covert Imperial Japanese Army biological and chemical warfare site that conducted human experimentation. ](/news/2011/02/21/an-excavation-begins-at-the-tokyo-site-of-unit-731-a-covert-imperial-japanese-army-biological-and-chemical-warfare-site-that-conducted-huma.md)

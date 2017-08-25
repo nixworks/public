@@ -24,8 +24,8 @@ _Context: Islamic Jihad Movement in Palestine, Mahmoud Sarsak_
 ### [Eva Rausing, wife of Tetra Pak heir Hans Kristian Rausing, is found dead in west London and a man arrested in connection to her death. ](/news/2012/07/10/eva-rausing-wife-of-tetra-pak-heir-hans-kristian-rausing-is-found-dead-in-west-london-and-a-man-arrested-in-connection-to-her-death.md)
 _Context: Eva Rausing, Hans Kristian Rausing, Tetra Pak_
 
-### [The Russian Wikipedia goes blank for 24 hours in a protest over legislation before the State Duma that would allow the creation of a unified digital blacklist of all websites containing banned content. ](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.md)
-_Context: State Duma, Wikipedia_
+### [The Russian Wikipedia goes blank for 24 hours in a protest over legislation before the State Duma that would allow the creation of a unified digital blacklist of all websites containing banned content. [http://en.rian.ru/society/20120710/174509543.html (RIA Novosti)] (Russian Wikipedia)](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.md)
+_Context: (Russian Wikipedia), State Duma, Wikipedia_
 
 ### [Britain's Trades Union Congress confirms the appointment of its first female General Secretary. Frances O'Grady will take up the role at the end of the year. ](/news/2012/07/10/britain-s-trades-union-congress-confirms-the-appointment-of-its-first-female-general-secretary-frances-o-grady-will-take-up-the-role-at-the.md)
 _Context: Frances O'Grady, General Secretary, Trades Union Congress_

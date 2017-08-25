@@ -18,7 +18,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 ### [ German car company BMW is banned from the Google index after attempting to deliberately deceive Google users. ](/news/2006/02/6/german-car-company-bmw-is-banned-from-the-google-index-after-attempting-to-deliberately-deceive-google-users.md)
 _Context: BMW, Google_
 
-### [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry ''al-Salam Boccaccio '98'' sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-a.md)
+### [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry "al-Salam Boccaccio '98" sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-att.md)
 _Context: Egypt, El Salam Maritime Transport, Red Sea, Safaga, al-Salam Boccaccio '98_
 
 ### [ Isabelle Dinoire, the French woman who received the world's first partial face transplant appears before the media for the first time, saying she expects to resume a normal life. ](/news/2006/02/6/isabelle-dinoire-the-french-woman-who-received-the-world-s-first-partial-face-transplant-appears-before-the-media-for-the-first-time-sayi.md)

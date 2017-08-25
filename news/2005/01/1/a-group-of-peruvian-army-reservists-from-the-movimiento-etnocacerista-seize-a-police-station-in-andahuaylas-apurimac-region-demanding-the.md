@@ -1,6 +1,6 @@
 ### [2005-01-1](/news/2005/01/1/index.md)
 
-#  A group of Peruvian army reservists from the Movimiento Etnocacerista seize a police station in Andahuaylas, Apurmac Region, demanding the resignation of President Alejandro Toledo. Four police officers die in a shootout, another dozen police are taken as hostages, and a state of emergency is declared in the region.  
+#  A group of Peruvian army reservists from the Movimiento Etnocacerista seize a police station in Andahuaylas, Apurmac Region, demanding the resignation of President Alejandro Toledo. Four police officers die in a shootout, another dozen police are taken as hostages, and a state of emergency is declared in the region. 
 
 
 
@@ -19,5 +19,5 @@
 6. [ Alan Garca of the APRA is re-elected President of Peru after winning a runoff with the Union for Peru's Ollanta Humala on Sunday. ](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.md) _Context: Peru, President_
 7. [ Former Peruvian President Alberto Fujimori arrives in Santiago, Chile after being exiled in Japan since 2000. Although he is the subject of an Interpol arrest warrant, the Chilean government said he cannot be arrested without an order from a Chilean judge. Fujimori arrives at a time of tension between Chile and Peru over sea boundaries. [http://www.cnn.com/2005/WORLD/americas/11/06/chile.fujimori.ap/index.html (CNN)] (Link dead as of 22:17, 14 January 2007 (UTC))](/news/2005/11/6/former-peruvian-president-alberto-fujimori-arrives-in-santiago-chile-after-being-exiled-in-japan-since-2000-although-he-is-the-subject-of.md) _Context: Peru, President_
 8. [ A Peruvian congressional committee accuses President Alejandro Toledo of electoral fraud. ](/news/2005/05/4/a-peruvian-congressional-committee-accuses-president-alejandro-toledo-of-electoral-fraud.md) _Context: Alejandro Toledo, Peru_
-9. [ In Peru, Antauro Humala, the leader of the Movimiento Etnocacerista, turns himself in, thereby ending the hostage crisis.  ](/news/2005/01/4/in-peru-antauro-humala-the-leader-of-the-movimiento-etnocacerista-turns-himself-in-thereby-ending-the-hostage-crisis.md) _Context: Movimiento Etnocacerista, Peru_
+9. [ In Peru, Antauro Humala, the leader of the Movimiento Etnocacerista, turns himself in, thereby ending the hostage crisis. ](/news/2005/01/4/in-peru-antauro-humala-the-leader-of-the-movimiento-etnocacerista-turns-himself-in-thereby-ending-the-hostage-crisis.md) _Context: Movimiento Etnocacerista, Peru_
 10. [ In Peru, after vice president David Waisman faints during a TV interview, President Alejandro Toledo demands that criticism of his government be toned down. ](/news/2005/01/20/in-peru-after-vice-president-david-waisman-faints-during-a-tv-interview-president-alejandro-toledo-demands-that-criticism-of-his-governme.md) _Context: Alejandro Toledo, Peru_

@@ -3,7 +3,7 @@
 ### [2011 Syrian uprising: Heavy shooting is heard in a western suburb of Damascus as the Syrian Army advances against anti-government protesters. ](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.md)
 _Context: 2011 Syrian uprising, Damascus, Syrian Army_
 
-### [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010a2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md)
+### [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010-2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md)
 Forensic experts have unearthed about 68 bodies from another cluster of mass graves in war-torn Ivory Coast, a United Nations spokeswoman said Monday.
 
 ### [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md)
@@ -42,16 +42,16 @@ _Context: China, Guilin, Luojiang, landslide, quarry_
 ### [A boat carrying up to 600 people trying to flee from the 2011 Libyan civil war sinks outside the port of Tripoli. ](/news/2011/05/9/a-boat-carrying-up-to-600-people-trying-to-flee-from-the-2011-libyan-civil-war-sinks-outside-the-port-of-tripoli.md)
 A ship carrying up to 600 migrants trying to flee Libya has sunk just off the coast of the North African country, the U.N. Refugee Agency said Monday, citing witness accounts.
 
-### [Floods in Mississippi worsen, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge may be inundated under 20-30 feet of water. ](/news/2011/05/9/floods-in-mississippi-worsen-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-may-be-inundated.md)
-People are using social media to document the Mississippi River floods, as well as to spread important news among citizens
+### [Floods in Mississippi worsen, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge may be inundated under 20-30 feet of water. [http://www.cbsnews.com/8301-504943_162-20061179-10391715.html "(CBS News)"]](/news/2011/05/9/floods-in-mississippi-worsen-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-may-be-inundated.md)
+_Context: Baton Rouge, Simmesport, Louisiana, United States Army Corps of Engineers, flooding_
 
 ### [A province-wide state of emergency is declared for Manitoba in the wake of hundred-year floods on the Assiniboine River and Red River of the North near Brandon. ](/news/2011/05/9/a-province-wide-state-of-emergency-is-declared-for-manitoba-in-the-wake-of-hundred-year-floods-on-the-assiniboine-river-and-red-river-of-the.md)
 _Context: Assiniboine River, Brandon, Manitoba, Red River of the North, state of emergency_
 
-### [The ''Mainichi Shimbun'' reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
+### [The "Mainichi Shimbun" reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
 _Context: Japan, Mainichi Shimbun, Mongolia, United States, nuclear fuel_
 
-### [The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-incursions-following-the-rai.md)
+### [Death of Osama bin Laden. The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/death-of-osama-bin-laden-the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-in.md)
 Pakistan&#039;s prime minister will on Monday warn the United States it will defend its air space if American forces mount another raid on terrorists suspected of hiding inside the country.
 
 ### [Indonesia drops some of the key terrorism charges against radical cleric Abu Bakar Bashir, meaning that it is unlikely that he will receive the death penalty. ](/news/2011/05/9/indonesia-drops-some-of-the-key-terrorism-charges-against-radical-cleric-abu-bakar-bashir-meaning-that-it-is-unlikely-that-he-will-receive.md)
@@ -66,7 +66,7 @@ _Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
 ### [The Governor of Arizona Jan Brewer asks the United States Supreme Court to overturn a ruling putting parts of its 2010 Immigration Law on hold. ](/news/2011/05/9/the-governor-of-arizona-jan-brewer-asks-the-united-states-supreme-court-to-overturn-a-ruling-putting-parts-of-its-2010-immigration-law-on-ho.md)
 _Context: Governor, Jan Brewer, United States Supreme Court, immigration law_
 
-### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the ''Denver Post'' and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosur.md)
+### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the "Denver Post" and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosure.md)
 _Context: Britain, Denver Post, Louis Bacon, United States, Wikipedia, WordPress_
 
 ### [Pennsylvania State Senator Bob Mensch is convicted of disorderly conduct after showing a handgun to another motorist on US Interstate 78. ](/news/2011/05/9/pennsylvania-state-senator-bob-mensch-is-convicted-of-disorderly-conduct-after-showing-a-handgun-to-another-motorist-on-us-interstate-78.md)

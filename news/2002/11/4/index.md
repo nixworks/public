@@ -1,6 +1,6 @@
 ## [2002-11-4](/news/2002/11/4/index.md)
 
-### [ Yemen: An AGM-114 Hellfire missile launched by an American drone airplane destroyed a car carrying what the United States claims were six members of al-Qaeda, including the mastermind of the USS ''Cole'' attack, Qaed Salim Sinan al-Harethi.](/news/2002/11/4/yemen-an-agm-114-hellfire-missile-launched-by-an-american-drone-airplane-destroyed-a-car-carrying-what-the-united-states-claims-were-six-m.md)
+### [ Yemen: An AGM-114 Hellfire missile launched by an American drone airplane destroyed a car carrying what the United States claims were six members of al-Qaeda, including the mastermind of the USS "Cole" attack, Qaed Salim Sinan al-Harethi.](/news/2002/11/4/yemen-an-agm-114-hellfire-missile-launched-by-an-american-drone-airplane-destroyed-a-car-carrying-what-the-united-states-claims-were-six-m.md)
 _Context: AGM-114 Hellfire, Qaed Salim Sinan al-Harethi, USS ''Cole'', Yemen, al-Qaeda, drone_
 
 ### [ Turkey: Turkish Justice and Development Party (AK Party) has won the Turkish general election. The AK Party campaigned on economic and social issues, and downplayed its Islamist origins. The AK Party's chairman Recep Tayyip Erdogan is banned from holding political office, so someone else will become Turkish Prime Minister. Opponents of the AK Party have expressed concerns that the AK Party's victory may threaten the secular nature of the Turkish state.](/news/2002/11/4/turkey-turkish-justice-and-development-party-ak-party-has-won-the-turkish-general-election-the-ak-party-campaigned-on-economic-and-soci.md)

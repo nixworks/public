@@ -12,4 +12,4 @@ Barclays says that it is the subject of two new regulatory probes after a series
 ### Related:
 
 1. [Barclays plc chief executive Antony Jenkins says he will waive his bonus for 2012. ](/news/2013/02/1/barclays-plc-chief-executive-antony-jenkins-says-he-will-waive-his-bonus-for-2012.md) _Context: Barclays plc_
-2. [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md) _Context: Barclays plc_
+2. [ Barclays plc agrees to buy ABN Amro in a -67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-67-billion-deal.md) _Context: Barclays plc_

@@ -24,7 +24,7 @@ Ghalioun says he will give up post as Syrian National Council president after be
 ### [A group of Chinese Communist Party veterans call for the removal of security chief Zhou Yongkang. ](/news/2012/05/17/a-group-of-chinese-communist-party-veterans-call-for-the-removal-of-security-chief-zhou-yongkang.md)
 Communist Party veterans write open letter requesting the sacking of security chief Zhou Yongkang.
 
-### [The U.S. Senate confirmed two of the President's nominees to the Federal Reserve, bringing board membership up to the statutory complement of seven. This is the first time all seven seats have been filled in six years.  ](/news/2012/05/17/the-u-s-senate-confirmed-two-of-the-president-s-nominees-to-the-federal-reserve-bringing-board-membership-up-to-the-statutory-complement-o.md)
+### [The U.S. Senate confirmed two of the President's nominees to the Federal Reserve, bringing board membership up to the statutory complement of seven. This is the first time all seven seats have been filled in six years. ](/news/2012/05/17/the-u-s-senate-confirmed-two-of-the-president-s-nominees-to-the-federal-reserve-bringing-board-membership-up-to-the-statutory-complement-o.md)
 The Senate on Thursday confirmed two nominees to the Federal Reserve, bringing its short-handed board up to full strength for the first time in six years as it wrestles with a tepid economic recovery and a revamp of financial rules.
 
 ## [Previous Day...](/news/2012/05/16/index.md)

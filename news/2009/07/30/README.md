@@ -3,13 +3,13 @@
 ### [ 70,000 people are evacuated from Bryan, TX, USA, after ammonium nitrate is released during a fire at the El Dorado Chemical Company warehouse there.](/news/2009/07/30/70-000-people-are-evacuated-from-bryan-tx-usa-after-ammonium-nitrate-is-released-during-a-fire-at-the-el-dorado-chemical-company-warehou.md)
 _Context: Bryan, TX, USA, ammonium nitrate, fire_
 
-### [  At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-of-mallorca.md)
+### [ Palmanova bombing. At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/palmanova-bombing-at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-o.md)
 At least two people have been killed in an explosion at a civil guard barracks on the Spanish island of Majorca.
 
 ### [ Albania's Prime Minister Sali Berisha indicates he may legalise gay marriage in the country. ](/news/2009/07/30/albania-s-prime-minister-sali-berisha-indicates-he-may-legalise-gay-marriage-in-the-country.md)
 _Context: Albania, Prime Minister, Sali Berisha, he may legalise, same-sex marriage_
 
-### [  Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md)
+### [ 2009 Nigeria religious violence. Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/2009-nigeria-religious-violence-nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md)
 _Context: Boko Haram, Nigeria, alive when captured, radical Islamists_
 
 ### [ The United States Coast Guard calls off its search for as many as 79 Haitians missing after their boat capsized near the Turks and Caicos Islands with two hundred people onboard. ](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.md)

@@ -30,7 +30,7 @@ _Context: 2008, Massachusetts governor, Mitt Romney, his campaign_
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
 _Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox Church_
 
-### [ NATO meets in Vilnius, Lithuania. No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-p-no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
+### [ NATO meets in Vilnius, Lithuania.. No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/nato-meets-in-vilnius-lithuania-no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
 _Context: Afghanistan's, Lithuania, NATO, NATO meets, Vilnius_
 
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)

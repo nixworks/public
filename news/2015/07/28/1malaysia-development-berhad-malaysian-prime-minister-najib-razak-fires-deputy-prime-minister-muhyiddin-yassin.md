@@ -1,0 +1,23 @@
+### [2015-07-28](/news/2015/07/28/index.md)
+
+# 1Malaysia Development Berhad. Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. 
+
+
+
+
+### Source:
+
+1. [The New York Times](http://mobile.nytimes.com/2015/07/29/world/asia/amid-1mdb-scandal-najib-razak-dismisses-deputy-prime-minister-and-attorney-general.html?referrer=)
+
+### Related:
+
+1. [Bersih 5 rally. Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/bersih-5-rally-tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-do.md) _Context: 1Malaysia Development Berhad, Malaysia, Najib Razak_
+2. [1Malaysia Development Berhad scandal. Malaysian authorities order a freeze on six accounts associated with alleged payments by development bank 1Malaysia Development Berhad to the Prime Minister Najib Razak. ](/news/2015/07/7/1malaysia-development-berhad-scandal-malaysian-authorities-order-a-freeze-on-six-accounts-associated-with-alleged-payments-by-development-b.md) _Context: 1Malaysia Development Berhad, Malaysia, Najib Razak_
+3. [Protesters in Malaysia attempt to shut down the "Malaysiakini" newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prime.md) _Context: Malaysia, Najib Razak_
+4. [Next Malaysian general election. Elections in Malaysia are to occur in 2017 as efforts to challenge the legitimacy of Najib Razak mount. ](/news/2016/09/9/next-malaysian-general-election-elections-in-malaysia-are-to-occur-in-2017-as-efforts-to-challenge-the-legitimacy-of-najib-razak-mount.md) _Context: Malaysia, Najib Razak_
+5. [The Malaysian National Security Council Act comes into effect giving the Prime Minister of Malaysia Najib Razak sweeping new powers. ](/news/2016/08/1/the-malaysian-national-security-council-act-comes-into-effect-giving-the-prime-minister-of-malaysia-najib-razak-sweeping-new-powers.md) _Context: Malaysia, Najib Razak_
+6. [ASEAN Summit. United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/asean-summit-united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-stat.md) _Context: Malaysia, Najib Razak_
+7. [The Prime Minister of Malaysia Najib Razak is cleared of corruption by the Attorney-General of Malaysia Apandi Ali after returning US$607 million worth of donations to his personal account from the Saudi Royal Family. ](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.md) _Context: Malaysia, Najib Razak_
+8. [Moro conflict. Malaysian Prime Minister Najib Razak condemns the Philippine-based Abu Sayyaf's beheading of a Malaysian man. Businessman Bernard Then and a woman were kidnapped in May from the Malaysia-island Sabah; the woman was released last week. Philippine Colonel Restituto Padilla said the killing followed a "failure of the negotiations about money." ](/news/2015/11/18/moro-conflict-malaysian-prime-minister-najib-razak-condemns-the-philippine-based-abu-sayyaf-s-beheading-of-a-malaysian-man-businessman-ber.md) _Context: Malaysia, Najib Razak_
+9. [1Malaysia Development Berhad scandal. The United States Justice Department launches an investigation of money laundering associated with the 1Malaysia Development Berhad sovereign wealth fund, as well as the purchase of luxury properties in New York involving shell companies linked to Malaysian Prime Minister Najib Razak's step-son Riza Aziz and businessman Jho Low. ](/news/2015/09/22/1malaysia-development-berhad-scandal-the-united-states-justice-department-launches-an-investigation-of-money-laundering-associated-with-the.md) _Context: 1Malaysia Development Berhad, Najib Razak_
+10. [Bersih 4 rally. There is a second day of rallies in Malaysia calling on Prime Minister Najib Razak to resign over the 1Malaysia Development Berhad scandal. ](/news/2015/08/30/bersih-4-rally-there-is-a-second-day-of-rallies-in-malaysia-calling-on-prime-minister-najib-razak-to-resign-over-the-1malaysia-development.md) _Context: Malaysia, Najib Razak_

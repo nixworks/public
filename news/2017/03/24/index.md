@@ -1,9 +1,9 @@
 ## [2017-03-24](/news/2017/03/24/index.md)
 
-### [Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-guard-base-in-chechnya.md)
+### [Insurgency in the North Caucasus. Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/insurgency-in-the-north-caucasus-six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-gua.md)
 The clashes come as militants try to gain access to a military base, Russian officials say.
 
-### [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md)
+### [War in Afghanistan (2015-present). Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/war-in-afghanistan-2015-present-russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-sca.md)
 A top Nato general had said Moscow was &quot;perhaps&quot; assisting the extremist group.
 
 ### [A suicide bomber blows himself up at a checkpoint at Shahjalal International Airport, Bangladesh, with no other casualties reported. ](/news/2017/03/24/a-suicide-bomber-blows-himself-up-at-a-checkpoint-at-shahjalal-international-airport-bangladesh-with-no-other-casualties-reported.md)
@@ -15,7 +15,7 @@ Three people, including a teenager, were injured after a gunman opened fire outs
 ### [Proactiva notes the finding of five corpses the Libyan coast; these were floating near two capsized boats which could each hold more than 100 people. ](/news/2017/03/24/proactiva-notes-the-finding-of-five-corpses-the-libyan-coast-these-were-floating-near-two-capsized-boats-which-could-each-hold-more-than-10.md)
 An aid group finds two capsized boats capable of carrying 100 migrants each, and only five bodies.
 
-### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
+### [France-Russia relations. French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/france-russia-relations-french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterw.md)
 _Context: European Union, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
 
 ### [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md)
@@ -30,7 +30,7 @@ _Context: Germain Katanga, International Criminal Court, warlord_
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
 _Context: Donald Trump, Keystone XL, United States_
 
-### [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md)
+### [2017 Patient Protection and Affordable Care Act replacement proposals. The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/2017-patient-protection-and-affordable-care-act-replacement-proposals-the-replacement-plan-for-the-patient-protection-and-affordable-care-a.md)
 _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Patient Protection and Affordable Care Act_
 
 ### [Gilmar Pisas is sworn in as Prime Minister of Curacao. ](/news/2017/03/24/gilmar-pisas-is-sworn-in-as-prime-minister-of-curaassao.md)

@@ -1,6 +1,6 @@
 ## [2002-11-23](/news/2002/11/23/index.md)
 
-### [ In the Netherlands, Volkert van der Graaf confessed to the murder of Pim Fortuyn.  He said he acted alone and did it to protect vulnerable groups in society.](/news/2002/11/23/in-the-netherlands-volkert-van-der-graaf-confessed-to-the-murder-of-pim-fortuyn-he-said-he-acted-alone-and-did-it-to-protect-vulnerable.md)
+### [ In the Netherlands, Volkert van der Graaf confessed to the murder of Pim Fortuyn. He said he acted alone and did it to protect vulnerable groups in society.](/news/2002/11/23/in-the-netherlands-volkert-van-der-graaf-confessed-to-the-murder-of-pim-fortuyn-he-said-he-acted-alone-and-did-it-to-protect-vulnerable-g.md)
 _Context: Netherlands, Pim Fortuyn, Volkert van der Graaf_
 
 ### [ Following riots and killings in Nigeria, Miss World contest organizers leave and reconvene in London](/news/2002/11/23/following-riots-and-killings-in-nigeria-miss-world-contest-organizers-leave-and-reconvene-in-london.md)

@@ -3,7 +3,7 @@
 ### [ The HiRISE camera on the Mars Reconnaissance Orbiter takes its first low-orbit, high-resolution pictures of Mars. ](/news/2006/09/29/the-hirise-camera-on-the-mars-reconnaissance-orbiter-takes-its-first-low-orbit-high-resolution-pictures-of-mars.md)
 New images from a low-altitude Mars satellite are giving scientists some of their most detailed glimpses yet of the surface of the Red planet.
 
-### [ A high school principal is shot to death by 15-year-old Eric Hainstock.  Principal John Klang of Weston High School in Cazenovia, Wisconsin is shot three times by Hainstock with a gun which he stole from his family home.  A custodian and others confront the student who is now in police custody. ](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.md)
+### [ A high school principal is shot to death by 15-year-old Eric Hainstock. Principal John Klang of Weston High School in Cazenovia, Wisconsin is shot three times by Hainstock with a gun which he stole from his family home. A custodian and others confront the student who is now in police custody. ](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.md)
 _Context: Cazenovia, Eric Hainstock, Weston High School, Wisconsin_
 
 ### [ Gol Transportes Areos Flight 1907 with 155 passengers onboard collides with a smaller jet in midair, 470 miles south of Manaus, Brazil. The Boeing 737-800 wreckage has been found by FAB near Peixoto de Azevedo ](/news/2006/09/29/gol-transportes-aereos-flight-1907-with-155-passengers-onboard-collides-with-a-smaller-jet-in-midair-470-miles-south-of-manaus-brazil-th.md)
@@ -21,7 +21,7 @@ _Context: Anousheh Ansari, Expedition 13, Iranian-American, Kazakhstan, Soyuz TM
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
 _Context: Philippines, Typhoon Xangsane_
 
-### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk.  ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)
+### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk. ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)
 _Context: Lenovo, Sony_
 
 ### [ A general strike is being observed in Indian-administered Kashmir to protest the planned execution of Jaish-e-Mohammed militant, Mohd Afzal, set for October 20. ](/news/2006/09/29/a-general-strike-is-being-observed-in-indian-administered-kashmir-to-protest-the-planned-execution-of-jaish-e-mohammed-militant-mohd-afzal.md)

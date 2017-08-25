@@ -1,12 +1,12 @@
 ## [2010-04-11](/news/2010/04/11/index.md)
 
-### [Aftermath of 2010 Polish Air Force Tu-154 crash:The body of President Lech Kaczynski, who was killed in yesterday's plane crash just north of Smolensk, Russia, is flown back to Poland. ](/news/2010/04/11/aftermath-of-2010-polish-air-force-tu-154-crash-pthe-body-of-president-lech-kaczyaski-who-was-killed-in-yesterday-s-plane-crash-just-north.md)
+### [Aftermath of 2010 Polish Air Force Tu-154 crash:. The body of President Lech Kaczynski, who was killed in yesterday's plane crash just north of Smolensk, Russia, is flown back to Poland. ](/news/2010/04/11/aftermath-of-2010-polish-air-force-tu-154-crash-the-body-of-president-lech-kaczyaski-who-was-killed-in-yesterday-s-plane-crash-just-nort.md)
 WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was ceremoniously returned to Warsaw, as millions turned out to mourn the head of state and 95 other victims - New Zealand Herald
 
-### [Pakistan:Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-pairstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-i.md)
+### [Pakistan:. Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters.md)
 _Context: Pakistan, airstrike_
 
-### [Iran:President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-ppresident-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
+### [Iran:. President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
 _Context: Mahmoud Ahmadinejad, President, Tehran_
 
 ### [Iraq's election seeks a recount in five provinces after up to 750,000 votes are "tainted by fraud". ](/news/2010/04/11/iraq-s-election-seeks-a-recount-in-five-provinces-after-up-to-750-000-votes-are-tainted-by-fraud.md)
@@ -33,7 +33,7 @@ _Context: Eugene Terre'Blanche, South Africa, homosexuality_
 ### [Centre-right Fidesz wins majority of parliamentary seats in the first round of the Hungarian general elections. ](/news/2010/04/11/centre-right-fidesz-wins-majority-of-parliamentary-seats-in-the-first-round-of-the-hungarian-general-elections.md)
 _Context: 2010 parliamentary elections, Fidesz - Hungarian Civic Union, Hungary_
 
-### [Abdullah of Saudi Arabia and Vietnamese President Nguyen Minh Triet discuss bilateral ties in oil, food and manpower and sign three major agreements -- a treaty avoiding double taxation, a protocol to promote ties in the oil and gas sectors and an agreement to promote agricultural cooperation. ](/news/2010/04/11/abdullah-of-saudi-arabia-and-vietnamese-president-nguya-n-minh-triao-t-discuss-bilateral-ties-in-oil-food-and-manpower-and-sign-three-majo.md)
+### [Abdullah of Saudi Arabia and Vietnamese President Nguyen Minh Triet discuss bilateral ties in oil, food and manpower and sign three major agreements - a treaty avoiding double taxation, a protocol to promote ties in the oil and gas sectors and an agreement to promote agricultural cooperation. ](/news/2010/04/11/abdullah-of-saudi-arabia-and-vietnamese-president-nguya-n-minh-triao-t-discuss-bilateral-ties-in-oil-food-and-manpower-and-sign-three-majo.md)
 Vietnam will sign an agreement with the kingdom of Saudi Arabia to encourage Saudi Aramco to invest in two refineries to be built in the Asian country, and welcomed Saudi firms&#39; interest in investing in rice cultivation in Vietnam.
 
 ### [Nine people, including three Italian medical workers, are detained over accusations of plotting to kill Governor of Helmand Gulab Mangal. ](/news/2010/04/11/nine-people-including-three-italian-medical-workers-are-detained-over-accusations-of-plotting-to-kill-governor-of-helmand-gulab-mangal.md)
@@ -43,7 +43,7 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
-_Context: Beijing Olympiad, China, lip-synching_
+_Context: 2008 Summer Olympics, China, lip-synching_
 
 ### [The Belfast Wheel ](/news/2010/04/11/the-belfast-wheel.md)
 The Belfast Wheel has stopped turning, but not before RTÉ&#39;s Michael Fisher boarded one of the last capsules for a final panoramic view of the city.

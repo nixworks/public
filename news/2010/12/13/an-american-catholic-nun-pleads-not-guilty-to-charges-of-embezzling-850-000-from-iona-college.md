@@ -1,6 +1,6 @@
 ### [2010-12-13](/news/2010/12/13/index.md)
 
-# An American  Catholic nun pleads not guilty to charges of embezzling $850,000 from  Iona College. 
+# An American Catholic nun pleads not guilty to charges of embezzling $850,000 from Iona College. 
 
 
 

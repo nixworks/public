@@ -1,0 +1,23 @@
+### [2015-10-24](/news/2015/10/24/index.md)
+
+# 2015 anti-government protest in Montenegro. Thousands protest and clash with police in Montenegro's capital Podgorica, demanding the immediate resignation of Prime Minister Milo Dukanovic. Dukanovic has rejected calls to resign and has accused the opposition of trying to prevent the country's NATO membership, saying he is convinced Russia is behind the unrest. 
+
+Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night to disperse several thousand people who rallied demanding the resignation of Prime Minister Milo Djukanovic, the third such clash in a week. Fifteen police officers were injured in the clash, including one seriously, while
+
+
+### Source:
+
+1. [AFP via Yahoo](http://news.yahoo.com/tear-gas-thousands-demand-montenegro-pm-quits-213339710.html)
+
+### Related:
+
+1. [Accession of Montenegro to NATO. Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/accession-of-montenegro-to-nato-montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-mil.md) _Context: Milo Dukanovic, Montenegro, NATO, Prime Minister_
+2. [Enlargement of NATO. NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/enlargement-of-nato-nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-y.md) _Context: Montenegro, NATO, Russia_
+3. [Pro-Russian opposition parties protest against Montenegro's NATO membership, demanding a referendum on the issue. ](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.md) _Context: Montenegro, NATO, Russia_
+4. [Pro-Serbian opposition from the Democratic Front holds a mass protest rally in the capital of Montenegro, Podgorica, demanding the resignation of the government of Prime Minister Milo Dukanovic. ](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.md) _Context: Milo Dukanovic, Montenegro, Podgorica_
+5. [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md) _Context: Milo Dukanovic, Montenegro, Prime Minister_
+6. [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md) _Context: Milo Dukanovic, Montenegro, Prime Minister_
+7. [Montenegro-NATO relations. Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-nato-relations-montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _Context: Montenegro, NATO_
+8. [Russia-United States relations. Iran-United States relations. The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/russia-united-states-relations-iran-united-states-relations-the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping.md) _Context: NATO, Russia_
+9. [Accession of Montenegro to NATO. The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/accession-of-montenegro-to-nato-the-parliament-of-montenegro-votes-46-0-to-ratify-montenegro-s-membership-of-nato-while-opposition-polit.md) _Context: Montenegro, NATO_
+10. [War in Afghanistan (2015-present). Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/war-in-afghanistan-2015-present-russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-sca.md) _Context: NATO, Russia_

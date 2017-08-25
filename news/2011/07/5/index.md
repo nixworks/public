@@ -1,6 +1,6 @@
 ## [2011-07-5](/news/2011/07/5/index.md)
 
-### [Arab Spring:2011 Syrian uprising:Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-p2011-syrian-uprising-pdemonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md)
+### [Arab Spring:. 2011 Syrian uprising:. Demonstrators against the regime in Hama are met with tanks and troops that surround the city. ](/news/2011/07/5/arab-spring-2011-syrian-uprising-demonstrators-against-the-regime-in-hama-are-met-with-tanks-and-troops-that-surround-the-city.md)
 At least 16 people reported killed by Syrian forces in city that has become focal point for anti-government protests.
 
 ### [A F-15 Eagle fighter aircraft from the Japan Air Self-Defense Force based in Naha Air Base on Okinawa crashed on a training exercise on the East China Sea, leading to Japan grounding all F-15 while investigating the cause. ](/news/2011/07/5/a-f-15-eagle-fighter-aircraft-from-the-japan-air-self-defense-force-based-in-naha-air-base-on-okinawa-crashed-on-a-training-exercise-on-the.md)
@@ -15,7 +15,7 @@ Officials say foreign passport holders will now be allowed to freely visit north
 ### [Israeli forces kill two Palestinian militants and wound one more in the Gaza Strip. ](/news/2011/07/5/israeli-forces-kill-two-palestinian-militants-and-wound-one-more-in-the-gaza-strip.md)
 Two Palestinians are killed and one is injured in an attack by the Israeli military in the central Gaza Strip, reports say.
 
-### [Freedom Flotilla II:The ''Dignite al Karama'', the French vessel, manages to set sail for Gaza without being obstructed. Those on board include Olivier Besancenot and MEP Nicole Kiil-Nielsen. ](/news/2011/07/5/freedom-flotilla-ii-pthe-dignite-al-karama-the-french-vessel-manages-to-set-sail-for-gaza-without-being-obstructed-those-on-board-inc.md)
+### [Freedom Flotilla II:. The "Dignite al Karama", the French vessel, manages to set sail for Gaza without being obstructed. Those on board include Olivier Besancenot and MEP Nicole Kiil-Nielsen. ](/news/2011/07/5/freedom-flotilla-ii-the-dignite-al-karama-the-french-vessel-manages-to-set-sail-for-gaza-without-being-obstructed-those-on-board-incl.md)
 Activists sail from Greece as others pledge to continue efforts to reach Palestinian territory with humanitarian aid.
 
 ### [Ghulam Nabi Azad, health minister of India, describes homosexual sex as "unnatural" and homosexuality as a "disease" which is "spreading fast" throughout the country. ](/news/2011/07/5/ghulam-nabi-azad-health-minister-of-india-describes-homosexual-sex-as-unnatural-and-homosexuality-as-a-disease-which-is-spreading-fas.md)
@@ -27,16 +27,16 @@ Venezuela marks the 200th anniversary of independence from Spain, a day after Pr
 ### [Sting cancels a performance in Astana, Kazakhstan, in support of striking oil and gas workers and calls for "the spotlight of the international media [to be shone] on their situation in the hope of bringing about positive change". ](/news/2011/07/5/sting-cancels-a-performance-in-astana-kazakhstan-in-support-of-striking-oil-and-gas-workers-and-calls-for-the-spotlight-of-the-internatio.md)
 _Context: Astana, Kazakhstan, Sting_
 
-### [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, ''The X Factor'' and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-fact.md)
+### [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, "The X Factor" and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-facto.md)
 Sony Music Ireland has said it is looking into an incident on its website after three fake news stories appeared on its homepage today.
 
 ### [Christine Lagarde officially starts as managing director of the International Monetary Fund (IMF). ](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.md)
 Former French finance minister Christine Lagarde is beginning her official duties as the managing director of the IMF.
 
-### [European sovereign debt crisis:Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/european-sovereign-debt-crisis-pbailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-ro.md)
+### [European sovereign debt crisis:. Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/european-sovereign-debt-crisis-bailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-r.md)
 _Context: European Union, European sovereign-debt crisis_
 
-### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the PS1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
+### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the GBP1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
 Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, says it will cut more than 1,400 jobs at its Derby plant.
 
 ### [Barclays Capital raises its forecast for crude oil prices, referring to the "intensification of the geopolitical background" for the market. ](/news/2011/07/5/barclays-capital-raises-its-forecast-for-crude-oil-prices-referring-to-the-intensification-of-the-geopolitical-background-for-the-market.md)
@@ -54,16 +54,16 @@ Argentine President Cristina Fernandez unveils economic measures to help the sou
 ### [Brian Schweitzer, the Governor of the US state of Montana declares a state of emergency in counties affected by an oil spill in the Yellowstone River. ](/news/2011/07/5/brian-schweitzer-the-governor-of-the-us-state-of-montana-declares-a-state-of-emergency-in-counties-affected-by-an-oil-spill-in-the-yellowst.md)
 _Context: Brian Schweitzer, Governor, Montana, Yellowstone River, state of emergency_
 
-### [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix  Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md)
+### [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md)
 _Context: Arizona, Phoenix  Sky Harbor International Airport, Phoenix, Arizona, dust storm_
 
 ### [One person is killed and 29 injured in an escalator malfunction on the Beijing Subway at Beijing Zoo Station. ](/news/2011/07/5/one-person-is-killed-and-29-injured-in-an-escalator-malfunction-on-the-beijing-subway-at-beijing-zoo-station.md)
 _Context: Beijing Subway, Beijing Zoo Station, escalator_
 
-### [''News of the World'' phone hacking affair:British tabloid the ''News of the World'' faces fresh allegations linking it to hacking activities, this time after it emerges that the mobile phone of murdered 13-year-old schoolgirl Milly Dowler was interfered with and messages left by relatives were deleted. This gave relatives the false impression that Milly Dowler was still alive when she was not. ](/news/2011/07/5/news-of-the-world-phone-hacking-affair-pbritish-tabloid-the-news-of-the-world-faces-fresh-allegations-linking-it-to-hacking-activiti.md)
+### ["News of the World" phone hacking affair:. British tabloid the "News of the World" faces fresh allegations linking it to hacking activities, this time after it emerges that the mobile phone of murdered 13-year-old schoolgirl Milly Dowler was interfered with and messages left by relatives were deleted. This gave relatives the false impression that Milly Dowler was still alive when she was not. ](/news/2011/07/5/news-of-the-world-phone-hacking-affair-british-tabloid-the-news-of-the-world-faces-fresh-allegations-linking-it-to-hacking-activities.md)
 The parents of murdered Soham girls Holly Wells and Jessica Chapman have been visited by police investigating phone-hacking by journalists.
 
-### [Both ''The Sun'' and ''Daily Mirror'' tabloid newspapers are accused of being in contempt of court for publishing articles about the arrest of Christopher Jefferies in relation to the murder of Joanna Yeates; Jefferies was later released without charge. British Attorney General Dominic Grieve is seeking to bring charges against the newspapers. Judges will make a decision on the case at a later date.](/news/2011/07/5/both-the-sun-and-daily-mirror-tabloid-newspapers-are-accused-of-being-in-contempt-of-court-for-publishing-articles-about-the-arrest.md)
+### [Both "The Sun" and "Daily Mirror" tabloid newspapers are accused of being in contempt of court for publishing articles about the arrest of Christopher Jefferies in relation to the murder of Joanna Yeates; Jefferies was later released without charge. British Attorney General Dominic Grieve is seeking to bring charges against the newspapers. Judges will make a decision on the case at a later date.](/news/2011/07/5/both-the-sun-and-daily-mirror-tabloid-newspapers-are-accused-of-being-in-contempt-of-court-for-publishing-articles-about-the-arrest-of-c.md)
 Two national newspapers published articles following the arrest of a man over the killing of Jo Yeates which were in contempt of court, the High Court hears.
 
 ### [13 UK Uncut activists appear in court on charges of aggravated trespass after peacefully occupying the luxury London food retailer Fortnum & Mason during a protest against tax avoidance in March. More than 100 other activists are also expected to be put on trial later, with Labour MP John McDonnell claiming such a trial would be "outrageous" and "fly in the face of public opinion". ](/news/2011/07/5/13-uk-uncut-activists-appear-in-court-on-charges-of-aggravated-trespass-after-peacefully-occupying-the-luxury-london-food-retailer-fortnum.md)

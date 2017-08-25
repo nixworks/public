@@ -3,7 +3,7 @@
 ### [ The Mexican Chamber of Deputies votes by 360 to 127 to suspend the executive immunity of Mayor Andrs Manuel Lpez Obrador of Mexico City, thereby removing him from office to face criminal charges. ](/news/2005/04/7/the-mexican-chamber-of-deputies-votes-by-360-to-127-to-suspend-the-executive-immunity-of-mayor-andres-manuel-lopez-obrador-of-mexico-city.md)
 _Context: Andrs Manuel Lpez Obrador, Chamber of Deputies, Mexico, Mexico City, criminal charges, mayor of Mexico City_
 
-### [ Israeli-Palestinian conflict: A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/israeli-palestinian-conflict-p-a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and.md)
+### [ Israeli-Palestinian conflict:. A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/israeli-palestinian-conflict-a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and.md)
 _Context: Green line, Israeli-Palestinian conflict, Palestinian, Palestinian Authority, Qassam rocket, Sderot, Shaul Mofaz, cemetery_
 
 ### [ Ibrahim Jaafari, a Shia, has replaced Iyad Allawi as the interim prime minister of Iraq. ](/news/2005/04/7/ibrahim-jaafari-a-shia-has-replaced-iyad-allawi-as-the-interim-prime-minister-of-iraq.md)
@@ -18,7 +18,7 @@ _Context: Chen Shui-bian, Pope John Paul II, Roman Catholic, Taiwan, Taiwan_
 ### [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md)
 _Context: Canada, Iran, Shahram Azam, Zahra Kazemi_
 
-### [ In London, Sir Ian Blair, the chief of metropolitan police, orders an inquiry of claims that journalists of ''The Sun'' smuggled a fake bomb into grounds of Windsor Castle. ](/news/2005/04/7/in-london-sir-ian-blair-the-chief-of-metropolitan-police-orders-an-inquiry-of-claims-that-journalists-of-the-sun-smuggled-a-fake-bom.md)
+### [ In London, Sir Ian Blair, the chief of metropolitan police, orders an inquiry of claims that journalists of "The Sun" smuggled a fake bomb into grounds of Windsor Castle. ](/news/2005/04/7/in-london-sir-ian-blair-the-chief-of-metropolitan-police-orders-an-inquiry-of-claims-that-journalists-of-the-sun-smuggled-a-fake-bomb.md)
 _Context: Ian Blair, London, The Sun, Windsor Castle_
 
 ### [ Sinn Fin leader Gerry Adams appeals to the IRA to stop violence. ](/news/2005/04/7/sinn-fein-leader-gerry-adams-appeals-to-the-ira-to-stop-violence.md)

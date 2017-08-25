@@ -1,0 +1,24 @@
+### [2012-11-29](/news/2012/11/29/index.md)
+
+# Leveson report:. Lord Leveson announces the findings of the Leveson Inquiry into the British media. 
+
+Coalition partners David Cameron and Nick Clegg take differing views on laws to regulate the press, as they face MPs about the Leveson report.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-20539239)
+2. [CNN](http://edition.cnn.com/2012/11/28/business/uk-leveson-media-report/index.html?eref=edition)
+
+### Related:
+
+1. [Thousands of people sign an online petition requesting the "Daily Mail" to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.md) _Context: British media_
+2. [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md) _Context: British media_
+3. [British Prime Minister David Cameron says talks between himself and the leaders of the UK's other main political parties on the recommendations of the Leveson report have broken down. Cameron says he will publish a Royal Charter on press regulations on Monday. ](/news/2013/03/14/british-prime-minister-david-cameron-says-talks-between-himself-and-the-leaders-of-the-uk-s-other-main-political-parties-on-the-recommendati.md) _Context: Leveson report_
+4. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned "The Daily Telegraph" against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a-c.md) _Context: Leveson report_
+5. [Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. ](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-campaign-to-urge-british-prime-minister-david-cameron-to-fully-implement-the-recommendations-of.md) _Context: Leveson report_
+6. [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md) _Context: Leveson Inquiry_
+7. [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md) _Context: Leveson Inquiry_
+8. [Leveson Inquiry. At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md) _Context: Leveson Inquiry_
+9. [John Major, who was British Prime Minister between 1990 and 1997, tells the Leveson Inquiry that Rupert Murdoch warned him before the 1997 general election to switch policy on Europe or his newspapers would not support him. The Conservative Party subsequently lost power to Labour, with Murdoch's "The Sun" tabloid daily supporting Major's rival Tony Blair. ](/news/2012/06/12/john-major-who-was-british-prime-minister-between-1990-and-1997-tells-the-leveson-inquiry-that-rupert-murdoch-warned-him-before-the-1997-g.md) _Context: Leveson Inquiry_
+10. [Leveson Inquiry. Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/leveson-inquiry-former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-ru.md) _Context: Leveson Inquiry_

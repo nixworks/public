@@ -3,7 +3,7 @@
 ### [Baidu shares have risen 34% since rival Google said on Jan 12 it may shut down its business in China. Baidu has risen 34 percent and Google has lost 8.5 percent. ](/news/2010/03/5/baidu-shares-have-risen-34-since-rival-google-said-on-jan-12-it-may-shut-down-its-business-in-china-baidu-has-risen-34-percent-and-google.md)
 _Context: Baidu, China, Google_
 
-### [Irish Minister for Foreign Affairs Micheal Martin, writing in the ''International Herald Tribune'', says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhu.md)
+### [Irish Minister for Foreign Affairs Micheal Martin, writing in the "International Herald Tribune", says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhuma.md)
 Minister for Foreign Affairs Micheál Martin has described the Israeli blockade of Gaza as &#39;inhumane and utterly unacceptable&#39;.
 
 ### [A magnitude 6.5 earthquake occurs in the ocean off Sumatra with the possibility of a tsunami. ](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.md)

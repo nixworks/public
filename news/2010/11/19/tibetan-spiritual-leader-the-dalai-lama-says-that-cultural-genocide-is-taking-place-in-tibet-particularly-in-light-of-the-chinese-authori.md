@@ -1,6 +1,6 @@
 ### [2010-11-19](/news/2010/11/19/index.md)
 
-# Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. 
+# Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority-s requirement of Mandarin as the language of instruction in schools in Tibet. 
 
 
 
@@ -20,4 +20,4 @@
 7. [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md) _Context: 14th Dalai Lama, Dalai Lama_
 8. [ South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. ](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.md) _Context: 14th Dalai Lama, Dalai Lama_
 9. [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md) _Context: Dalai Lama, Tibet Autonomous Region_
-10. [ 2008 unrest in Tibet: Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/2008-unrest-in-tibet-p-chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-regio.md) _Context: Tibet, Tibet Autonomous Region_
+10. [ 2008 unrest in Tibet:. Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/2008-unrest-in-tibet-chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-regio.md) _Context: Tibet, Tibet Autonomous Region_

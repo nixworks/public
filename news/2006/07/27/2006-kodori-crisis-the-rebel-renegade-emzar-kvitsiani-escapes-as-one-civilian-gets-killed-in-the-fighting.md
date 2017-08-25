@@ -7,7 +7,8 @@
 
 ### Source:
 
-1. [civil.ge]. The hitherto [[Tbilisi]]-based [[Government of Abkhazia-in-exile]] will assume control of the gorge located in the northeastern part of breakaway [[Abkhazia]] after the first phase of the Georgian police operation is successfully over.[http://207.44.135.100/eng/article.php?id=13197 (civil.ge](http://207.44.135.100/eng/article.php?id=13190)
+1. [civil.ge](http://207.44.135.100/eng/article.php?id=13190)
+2. [civil.ge](http://207.44.135.100/eng/article.php?id=13197)
 
 ### Related:
 

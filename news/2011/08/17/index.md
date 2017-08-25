@@ -12,7 +12,7 @@ _Context: Verizon Communications, prescription drug_
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
 _Context: Hugo Chvez, Venezuela, Venezuelan President, gold_
 
-### [The ''Financial Times'' reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-no.md)
+### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
 _Context: Barnes & Noble, Financial Times, Liberty Media_
 
 ### [The Special Tribunal for Lebanon publishes an indictment against Hezbollah members accused in the 2005 assassination of Lebanese Prime Minister Rafic Hariri. ](/news/2011/08/17/the-special-tribunal-for-lebanon-publishes-an-indictment-against-hezbollah-members-accused-in-the-2005-assassination-of-lebanese-prime-minis.md)

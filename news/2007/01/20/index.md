@@ -1,6 +1,6 @@
 ## [2007-01-20](/news/2007/01/20/index.md)
 
-### [ U.S. election 2008:  Senator Hillary Clinton (D-NY) officially announces her  presidential bid with an exploratory committee. ](/news/2007/01/20/u-s-election-2008-senator-hillary-clinton-d-ny-officially-announces-her-presidential-bid-with-an-exploratory-committee.md)
+### [ U.S. election 2008: Senator Hillary Clinton (D-NY) officially announces her presidential bid with an exploratory committee. ](/news/2007/01/20/u-s-election-2008-senator-hillary-clinton-d-ny-officially-announces-her-presidential-bid-with-an-exploratory-committee.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A man named Ogn Samast is arrested in Samsun by Turkish authorities for killing Armenian-Turkish writer Hrant Dink. ](/news/2007/01/20/a-man-named-ogun-samast-is-arrested-in-samsun-by-turkish-authorities-for-killing-armenian-turkish-writer-hrant-dink.md)

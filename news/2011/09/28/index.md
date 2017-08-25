@@ -27,7 +27,7 @@ _Context: Copenhagen, K.B. Hallen_
 ### [Japan asks South Korea to block plans to build a monument to Korean World War II "comfort women" near the Japanese embassy in Seoul. ](/news/2011/09/28/japan-asks-south-korea-to-block-plans-to-build-a-monument-to-korean-world-war-ii-comfort-women-near-the-japanese-embassy-in-seoul.md)
 _Context: Comfort women, Korean, Seoul_
 
-### [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to  breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimi.md)
+### [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimin.md)
 _Context: Aboriginal Australians, Andrew Bolt, Federal Court of Australia, Racial Discrimination Act, newspaper columnist_
 
 ### [The FBI arrests Rezwan Ferdaus, a 26-year-old American citizen, for plotting to fly remotely-controlled planes filled with explosives into The Pentagon and the United States Capitol in Washington, D.C. ](/news/2011/09/28/the-fbi-arrests-rezwan-ferdaus-a-26-year-old-american-citizen-for-plotting-to-fly-remotely-controlled-planes-filled-with-explosives-into-t.md)

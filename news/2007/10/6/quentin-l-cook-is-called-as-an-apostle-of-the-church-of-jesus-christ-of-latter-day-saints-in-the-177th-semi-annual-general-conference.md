@@ -1,6 +1,6 @@
 ### [2007-10-6](/news/2007/10/6/index.md)
 
-#  Quentin L. Cook is called as an  apostle of The Church of Jesus Christ of Latter-day Saints in the  177th Semi-Annual General Conference.  
+#  Quentin L. Cook is called as an apostle of The Church of Jesus Christ of Latter-day Saints in the 177th Semi-Annual General Conference. 
 
 
 

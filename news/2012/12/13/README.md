@@ -1,18 +1,18 @@
 ## [2012-12-13](/news/2012/12/13/index.md)
 
-### [Syrian civil war:Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/syrian-civil-war-prussia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-ci.md)
+### [Syrian civil war:. Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/syrian-civil-war-russia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-c.md)
 _Context: Foreign Ministry, Russia, Syria, Syrian Civil War, Syrian National Coalition, Syrian government_
 
-### [Israeli-Palestinian conflict:Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/israeliapalestinian-conflict-pfive-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-forces.md)
+### [Israeli-Palestinian conflict:. Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/israeli-palestinian-conflict-five-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-force.md)
 Five injured in West Bank clashes between Palestinian youths and Israeli soldiers ahead of funeral of killed teenager.
 
-### [Senkaku Islands dispute:Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/senkaku-islands-dispute-pjapan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-fir.md)
+### [Senkaku Islands dispute:. Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/senkaku-islands-dispute-japan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-fi.md)
 _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, aircraft, fighter jets_
 
-### [''The Tallow Candle'', an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
+### ["The Tallow Candle", an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
 _Context: Denmark, Hans Christian Andersen, The Tallow Candle_
 
-### [Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years  in the UK. ](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.md)
+### [Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years in the UK. ](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.md)
 _Context: Mark Rothko, UK_
 
 ### [Finance Ministers from the European Union agree to giving the European Central Bank new powers to supervise euro zone banks. ](/news/2012/12/13/finance-ministers-from-the-european-union-agree-to-giving-the-european-central-bank-new-powers-to-supervise-euro-zone-banks.md)
@@ -30,13 +30,13 @@ _Context: Apia, Cyclone Evan, Samoa, Tropical, landfall_
 ### [The death toll in the Philippines from Typhoon Bopha rises over 900 with hundreds still unaccounted for. ](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.md)
 THE death toll from the strongest typhoon to hit the Philippines this year has climbed above 900, with hundreds still missing, the government says.
 
-### [The European Court of Human Rights rules that Khalid El-Masri, a German citizen, was an innocent victim of extraordinary rendition by the Central Intelligence Agency and orders Macedonia to pay him EUR60,000 after it arrested him and sent him to the CIA. CIA agents then transferred him to a detention facility in Afghanistan. ](/news/2012/12/13/the-european-court-of-human-rights-rules-that-khalid-el-masri-a-german-citizen-was-an-innocent-victim-of-extraordinary-rendition-by-the-ce.md)
+### [The European Court of Human Rights rules that Khalid El-Masri, a German citizen, was an innocent victim of extraordinary rendition by the Central Intelligence Agency and orders Macedonia to pay him -60,000 after it arrested him and sent him to the CIA. CIA agents then transferred him to a detention facility in Afghanistan. ](/news/2012/12/13/the-european-court-of-human-rights-rules-that-khalid-el-masri-a-german-citizen-was-an-innocent-victim-of-extraordinary-rendition-by-the-ce.md)
 European Court of Human Rights rules that German citizen was an innocent victim of extraordinary rendition by US agents.
 
 ### [Millions of assets belonging to the former Egyptian dictator Hosni Mubarak are located, including Marbella beach properties and luxury cars. ](/news/2012/12/13/millions-of-assets-belonging-to-the-former-egyptian-dictator-hosni-mubarak-are-located-including-marbella-beach-properties-and-luxury-cars.md)
 Millions of assets of ex-Egyptian president and associates located, including Marbella beach properties and luxury cars.
 
-### [2012 royal hoax call incident:An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-pan-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangin.md)
+### [2012 royal hoax call incident:. An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangi.md)
 The nurse duped by a prank call from an Australian Radio DJs while she was caring for the Duchess of Cambridge left three notes before she died, a coroner heard today.
 
 ### [A worker at the chief clerk's office (making reference to a will) at the Hugo Black U.S. Federal Courthouse in Birmingham, Alabama shoots himself in the head. ](/news/2012/12/13/a-worker-at-the-chief-clerk-s-office-making-reference-to-a-will-at-the-hugo-black-u-s-federal-courthouse-in-birmingham-alabama-shoots-hi.md)
@@ -57,7 +57,7 @@ _Context: Bangladesh, Dhaka, general strike_
 ### [Britain's Parliamentary Commissioner for Standards launches an investigation into expenses claimed by British Culture Secretary Maria Miller. ](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.md)
 David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&quot; to questions about her expenses, as she faces a Parliamentary inquiry.
 
-### [The British government pays PS2.23 million to the family of Sami al-Saadi, who with his wife and young children, was abducted with the help of MI-6, forced onto a plane and secretly flown to Tripoli, where he was tortured for years by the security police of the former dictator Muammar Gaddafi. ](/news/2012/12/13/the-british-government-pays-aps2-23-million-to-the-family-of-sami-al-saadi-who-with-his-wife-and-young-children-was-abducted-with-the-help.md)
+### [The British government pays GBP2.23 million to the family of Sami al-Saadi, who with his wife and young children, was abducted with the help of MI-6, forced onto a plane and secretly flown to Tripoli, where he was tortured for years by the security police of the former dictator Muammar Gaddafi. ](/news/2012/12/13/the-british-government-pays-agbp2-23-million-to-the-family-of-sami-al-saadi-who-with-his-wife-and-young-children-was-abducted-with-the-hel.md)
 _Context: 10 Downing Street, MI-6, Muammar Gaddafi, Tripoli_
 
 ### [North Korea's first satellite successfully put into orbit, Kwangmyongsong-3 Unit 2, appears to be spinning out of control, according to U.S. officials. South Korean sources later deny the report, saying the satellite appears to be orbiting Earth normally. ](/news/2012/12/13/north-korea-s-first-satellite-successfully-put-into-orbit-kwangmyangsang-3-unit-2-appears-to-be-spinning-out-of-control-according-to-u.md)

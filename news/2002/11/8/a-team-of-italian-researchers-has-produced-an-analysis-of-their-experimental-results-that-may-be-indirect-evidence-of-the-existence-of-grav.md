@@ -7,4 +7,4 @@
 
 ### Related:
 
-1. [Scientists  confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md) _Context: gravitational wave_
+1. [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md) _Context: gravitational wave_

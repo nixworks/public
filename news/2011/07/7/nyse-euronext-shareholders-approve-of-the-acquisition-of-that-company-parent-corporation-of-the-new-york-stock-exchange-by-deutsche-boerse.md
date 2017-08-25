@@ -1,6 +1,6 @@
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-# NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG.  The deal still needs to receive the approval of the acquiring firm's shareholders.  
+# NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. 
 
 
 

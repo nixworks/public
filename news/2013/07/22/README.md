@@ -1,6 +1,6 @@
 ## [2013-07-22](/news/2013/07/22/index.md)
 
-### [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-a-including-army-officers-and-policemen-a-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md)
+### [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-including-army-officers-and-policemen-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md)
 _Context: Egypt, Egyptian Army, Sinai, police officers_
 
 ### [At least 37 people are killed in Iraq amid a two-day spate of suicide bombings and armed prison escapes. ](/news/2013/07/22/at-least-37-people-are-killed-in-iraq-amid-a-two-day-spate-of-suicide-bombings-and-armed-prison-escapes.md)
@@ -12,7 +12,7 @@ The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensing
 ### [Two earthquakes strike Gansu province, China, killing at least 89 people and injuring over 500. ](/news/2013/07/22/two-earthquakes-strike-gansu-province-china-killing-at-least-89-people-and-injuring-over-500.md)
 _Context: China, Gansu province, earthquakes_
 
-### [A Southwest Airlines Boeing 737-700 '''crash-lands''' at New York's LaGuardia Airport, injuring ten passengers. ](/news/2013/07/22/a-southwest-airlines-boeing-737-700-crash-lands-at-new-york-s-laguardia-airport-injuring-ten-passengers.md)
+### [A Southwest Airlines Boeing 737-700 "'crash-lands"' at New York's LaGuardia Airport, injuring ten passengers. ](/news/2013/07/22/a-southwest-airlines-boeing-737-700-crash-lands-at-new-york-s-laguardia-airport-injuring-ten-passengers.md)
 A Boeing 737 is left with its nose resting against the runway at LaGuardia airport after its landing gear failed.
 
 ### [Pope Francis begins a week-long official visit to Brazil, his first foreign trip since assuming the pontificate. ](/news/2013/07/22/pope-francis-begins-a-week-long-official-visit-to-brazil-his-first-foreign-trip-since-assuming-the-pontificate.md)

@@ -1,6 +1,6 @@
 ### [2015-12-8](/news/2015/12/8/index.md)
 
-# Cross Border Xpress, a privately owned and operated airport terminal located in the Otay Mesa suburb of San Diego, California, United States, will open tomorrow with a connecting walkway to Tijuana International Airport in Tijuana, Baja California, Mexico. This facility, the final step of a project first proposed in the early 1990s, will be just the second cross-border airport in the world.   U.S. Customs will operate a checkpoint on the bridge for those entering the country. 
+# Cross Border Xpress, a privately owned and operated airport terminal located in the Otay Mesa suburb of San Diego, California, United States, will open tomorrow with a connecting walkway to Tijuana International Airport in Tijuana, Baja California, Mexico. This facility, the final step of a project first proposed in the early 1990s, will be just the second cross-border airport in the world. U.S. Customs will operate a checkpoint on the bridge for those entering the country. 
 
 Sleek terminal in San Diego has bridge over razor-wire border fence to Tijuana&#39;s old airport.
 

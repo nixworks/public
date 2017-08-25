@@ -12,7 +12,7 @@ Less than a week after powerful thunderstorm winds toppled a stage at the Indian
 ### [Hewlett-Packard shares drop 20% on news that the company plans to split off its personal computer division as a separate company.](/news/2011/08/19/hewlett-packard-shares-drop-20-on-news-that-the-company-plans-to-split-off-its-personal-computer-division-as-a-separate-company.md)
 _Context: Hewlett-Packard, PC_
 
-### [The Tokyo Stock Exchange's Nikkei Stock Average falls by 1.9% in early trading as the trend of stock market falls continues. ](/news/2011/08/19/the-tokyo-stock-exchange-s-nikkei-stock-average-falls-by-1-9-in-early-trading-as-the-trend-of-stock-market-falls-continues.md)
+### [August 2011 stock markets fall. The Tokyo Stock Exchange's Nikkei Stock Average falls by 1.9% in early trading as the trend of stock market falls continues. ](/news/2011/08/19/august-2011-stock-markets-fall-the-tokyo-stock-exchange-s-nikkei-stock-average-falls-by-1-9-in-early-trading-as-the-trend-of-stock-market.md)
 _Context: Nikkei Stock Average, Tokyo Stock Exchange, trend_
 
 ### [U.S. retailing giant J.C. Penney agrees with its largest shareholder, William Ackman, that Ackman will cap his shareholdings at 16.5 percent, while increasing his exposure through a "synthetic long position." ](/news/2011/08/19/u-s-retailing-giant-j-c-penney-agrees-with-its-largest-shareholder-william-ackman-that-ackman-will-cap-his-shareholdings-at-16-5-percent.md)

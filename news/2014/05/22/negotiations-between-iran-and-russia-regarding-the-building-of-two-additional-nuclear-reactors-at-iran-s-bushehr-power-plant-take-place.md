@@ -1,6 +1,6 @@
 ### [2014-05-22](/news/2014/05/22/index.md)
 
-# Negotiations between Iran and Russia regarding the building of two additional nuclear reactors at Iran's Bushehr power plant take place.  
+# Negotiations between Iran and Russia regarding the building of two additional nuclear reactors at Iran's Bushehr power plant take place. 
 
 Russia plans to sign a contract with Iran this year to build two more nuclear reactors at its Bushehr power plant as part of a broader deal for up to eight reactors in the Islamic state, a source close to the negotiations told Reuters on Thursday.
 

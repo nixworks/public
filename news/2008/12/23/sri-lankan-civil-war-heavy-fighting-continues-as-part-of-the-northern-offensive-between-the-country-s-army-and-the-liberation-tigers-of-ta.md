@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ 2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' ''de facto'' capital of Kilinochchi. ](/news/2009/01/2/2008-sla-northern-offensive-the-sri-lankan-army-captures-the-tamil-tigers-de-facto-capital-of-kilinochchi.md) _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka_
+1. [ 2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' "de facto" capital of Kilinochchi. ](/news/2009/01/2/2008-sla-northern-offensive-the-sri-lankan-army-captures-the-tamil-tigers-de-facto-capital-of-kilinochchi.md) _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka_
 2. [ The Sri Lankan Army captures Mullaitivu, the Tamil Tigers' final stronghold in the ongoing Civil War. ](/news/2009/01/25/the-sri-lankan-army-captures-mullaitivu-the-tamil-tigers-final-stronghold-in-the-ongoing-civil-war.md) _Context: Army, LTTE, Sri Lanka, Sri Lankan Civil War_
 3. [ Sri Lanka's government announces that Tamil refugees held in camps since the end of the conflict with the Tamil Tigers will be free to leave the camps next month. ](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.md) _Context: LTTE, Sri Lanka, Sri Lankan Civil War_
 4. [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md) _Context: Army, Sri Lanka, Sri Lankan Civil War_

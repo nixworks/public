@@ -9,7 +9,7 @@ _Context: 737, Aeromxico Flight 576, Cancun, Mexico City International Airport_
 ### [ Floods in Istanbul, the worst in 80 years, kill around 20 people and injure a further 20. ](/news/2009/09/9/floods-in-istanbul-the-worst-in-80-years-kill-around-20-people-and-injure-a-further-20.md)
 Flash floods killed 31 people in northwest Turkey, sweeping through the city of Istanbul, swamping houses, turning highways into fast-flowing rivers and drowning seven women in a minibus that was taking them to work.
 
-### [ The Democratic Party of Japan agrees to form a coalition with two other parties, the Social Democratic Party  and People's New Party. ](/news/2009/09/9/the-democratic-party-of-japan-agrees-to-form-a-coalition-with-two-other-parties-the-social-democratic-party-and-people-s-new-party.md)
+### [ The Democratic Party of Japan agrees to form a coalition with two other parties, the Social Democratic Party and People's New Party. ](/news/2009/09/9/the-democratic-party-of-japan-agrees-to-form-a-coalition-with-two-other-parties-the-social-democratic-party-and-people-s-new-party.md)
 _Context: Democratic Party, People's New Party, Social Democratic Party , coalition_
 
 ### [ South Korea accuses North Korea of deliberately releasing water from a dam across the Korean Demilitarized Zone, in which six people died. ](/news/2009/09/9/south-korea-accuses-north-korea-of-deliberately-releasing-water-from-a-dam-across-the-korean-demilitarized-zone-in-which-six-people-died.md)
@@ -25,10 +25,10 @@ _Context: China, Urumqi, hypodermic needle, stabbings_
 _Context: Corazon Aquino, Philippines, President of the Philippines, his predecessor_
 
 ### [ North Korea holds celebrations to mark the 61st anniversary of its founding. ](/news/2009/09/9/north-korea-holds-celebrations-to-mark-the-61st-anniversary-of-its-founding.md)
-### [ Stephen Farrell, a journalist with ''The New York Times'', is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban.md)
+### [ Stephen Farrell, a journalist with "The New York Times", is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban-bu.md)
 A journalist with dual Irish and British citizenship who was held captive for four days by the Taliban in northern Afghanistan&hellip;
 
-### [ "Beatles Day" is celebrated worldwide as remastered versions of The Beatles' albums are released, as well as ''The Beatles: Rock Band''. ](/news/2009/09/9/beatles-day-is-celebrated-worldwide-as-remastered-versions-of-the-beatles-albums-are-released-as-well-as-the-beatles-rock-band.md)
+### [ "Beatles Day" is celebrated worldwide as remastered versions of The Beatles' albums are released, as well as "The Beatles: Rock Band". ](/news/2009/09/9/beatles-day-is-celebrated-worldwide-as-remastered-versions-of-the-beatles-albums-are-released-as-well-as-the-beatles-rock-band.md)
 _Context: The Beatles, The Beatles: Rock Band, albums_
 
 ## [Previous Day...](/news/2009/09/8/index.md)

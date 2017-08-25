@@ -1,6 +1,6 @@
 ## [2011-11-10](/news/2011/11/10/index.md)
 
-### [2011 Syrian uprising:Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria:  16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/2011-syrian-uprising-popposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-across.md)
+### [2011 Syrian uprising:. Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria: 16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/2011-syrian-uprising-opposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-acros.md)
 _Context: 2011 Syrian uprising, Damascus, Daraa, Hama, Homs, Idlib, Syria_
 
 ### [Hinchingbrooke Hospital in the English county of Cambridgeshire becomes the first NHS hospital to be run by a private firm. Healthcare partnership Circle has been awarded a ten-year contract, and will take over administration of the hospital &ndash; which has heavy financial debts &ndash; in February 2012. ](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.md)
@@ -9,7 +9,7 @@ A private firm is taking over the running of a struggling NHS hospital in a grou
 ### [An inquest opens into the deaths of 7 people killed in last Friday's multiple vehicle pile-up on the M5 in the English county of Somerset. ](/news/2011/11/10/an-inquest-opens-into-the-deaths-of-7-people-killed-in-last-friday-s-multiple-vehicle-pile-up-on-the-m5-in-the-english-county-of-somerset.md)
 The inquest opens into the deaths of the seven people killed in a crash on the M5 in Somerset.
 
-### [Response to IAEA report on Iran's nuclear program:The supreme leader of Iran, Ayatollah Ali Khamenei, condemns the incriminating International Atomic Energy Agency report about the Iranian nuclear program, and warns of harsh retaliation in response to a military attack against it.  ](/news/2011/11/10/response-to-iaea-report-on-iran-s-nuclear-program-pthe-supreme-leader-of-iran-ayatollah-ali-khamenei-condemns-the-incriminating-internatio.md)
+### [Response to IAEA report on Iran's nuclear program:. The supreme leader of Iran, Ayatollah Ali Khamenei, condemns the incriminating International Atomic Energy Agency report about the Iranian nuclear program, and warns of harsh retaliation in response to a military attack against it. ](/news/2011/11/10/response-to-iaea-report-on-iran-s-nuclear-program-the-supreme-leader-of-iran-ayatollah-ali-khamenei-condemns-the-incriminating-internati.md)
 The remarks by Ayatollah Ali Khamenei come in the aftermath of incriminating U.N. report on the Iranian nuclear program.
 
 ### [The New Zealand Department of Labour files 25 criminal charges in relation to the Pike River Mine disaster, which killed 29 miners in November 2010. ](/news/2011/11/10/the-new-zealand-department-of-labour-files-25-criminal-charges-in-relation-to-the-pike-river-mine-disaster-which-killed-29-miners-in-novemb.md)

@@ -18,7 +18,7 @@ Safe deposit boxes believed to contain manuscripts and drawings by the late auth
 ### [A collection of posters is released to mark the 31st anniversary of the Sandinista revolution in Nicaragua. ](/news/2010/07/19/a-collection-of-posters-is-released-to-mark-the-31st-anniversary-of-the-sandinista-revolution-in-nicaragua.md)
 _Context: Nicaragua, Sandinista_
 
-### [An undiscovered painting by Caravaggio is discovered in Rome, according to ''l'Osservatore Romano''. ](/news/2010/07/19/an-undiscovered-painting-by-caravaggio-is-discovered-in-rome-according-to-l-osservatore-romano.md)
+### [An undiscovered painting by Caravaggio is discovered in Rome, according to "l'Osservatore Romano". ](/news/2010/07/19/an-undiscovered-painting-by-caravaggio-is-discovered-in-rome-according-to-l-osservatore-romano.md)
 An undiscovered Caravaggio painting may have been discovered in Rome, according to the Vatican newspaper.
 
 ### [Russian pianist Mikhail Pletnev appears in court in Thailand, accused of the rape of a 14-year-old male, though he denies this. ](/news/2010/07/19/russian-pianist-mikhail-pletnev-appears-in-court-in-thailand-accused-of-the-rape-of-a-14-year-old-male-though-he-denies-this.md)
@@ -40,7 +40,7 @@ Death came at express speed to the sleepy station of Sainthia early Monday when 
 China launches an operation to clean up an oil spill in the Yellow Sea after two oil pipelines exploded causing a massive fire.
 
 ### [Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. ](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.md)
-_Context: Admiral, Deepwater Horizon oil spill, Gulf, Thad Allen, United States Coast Guard, cap_
+_Context: Admiral, Deepwater Horizon oil spill, Gulf of Mexico, Thad Allen, United States Coast Guard, cap_
 
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
 The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran over its nuclear programme, the Iranian president says.
@@ -51,7 +51,7 @@ _Context: Afghanistan's, Kabul_
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
 _Context: African Union, Uganda, United States, terrorism_
 
-### [A two-year "Top Secret America" investigation by ''The Washington Post'' concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-mu.md)
+### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
 US intelligence gathering has grown so much since 9/11 no-one knows its true cost, nor size, the Washington Post newspaper says.
 
 ### [A former British Army commanding officer is accused of lying to a public inquiry into the death of Baha Mousa, an Iraqi civilian in his soldiers' custody. ](/news/2010/07/19/a-former-british-army-commanding-officer-is-accused-of-lying-to-a-public-inquiry-into-the-death-of-baha-mousa-an-iraqi-civilian-in-his-sold.md)
@@ -96,7 +96,7 @@ Papua New Guinea&#039;s government is facing another threat to its survival, thi
 ### [Queensland fossil hunters discover a cave of 15-million-year-old prehistoric marsupials. ](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.md)
 Fossil hunters in Australia have discovered a cave filled with the 15-million-year-old remains of prehistoric marsupials.
 
-### [Farnborough Airshow, An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
+### [Farnborough Airshow, Hampshire. England. An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
 US defence firm Raytheon unveils a solid state, anti-aircraft laser system at the Farnborough Airshow in Hampshire.
 
 ## [Previous Day...](/news/2010/07/18/index.md)

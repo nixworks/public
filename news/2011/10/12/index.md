@@ -15,7 +15,7 @@ _Context: Seal Beach, California, a shooting at a hair salon_
 ### [Umar Farouk Abdulmutallab, a Nigerian man also known as the "underwear bomber", pleads guilty to attempting to blow up an airliner on Christmas Day 2009 in a trial in the U.S. city of Detroit, Michigan. ](/news/2011/10/12/umar-farouk-abdulmutallab-a-nigerian-man-also-known-as-the-underwear-bomber-pleads-guilty-to-attempting-to-blow-up-an-airliner-on-christ.md)
 The so-called &#034;underwear bomber&#034; has pleaded guilty to trying to blow up a US-bound airliner on Christmas Day 2009, saying he had sought to avenge the killing of innocent Muslims.
 
-### [Carbon tax in Australia:The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-pthe-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md)
+### [Carbon tax in Australia:. The House of Representatives of Australia passes the Gillard government's carbon tax legislation. ](/news/2011/10/12/carbon-tax-in-australia-the-house-of-representatives-of-australia-passes-the-gillard-government-s-carbon-tax-legislation.md)
 Australia&#039;s carbon tax is set to become law after the lower house of parliament passed the government&#039;s historic but controversial set of bills to establish the world’s most broadly based carbon pricing scheme.
 
 ## [Previous Day...](/news/2011/10/11/index.md)

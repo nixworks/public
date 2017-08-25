@@ -1,6 +1,6 @@
 ## [2014-11-3](/news/2014/11/3/index.md)
 
-### [Islamic State in Iraq and the Levant:Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-pislamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-th.md)
+### [Islamic State in Iraq and the Levant:. Islamic State militants claim to have captured the Jahar gas fields in the Syrian province of Homs, the second gas field they have captured in a week. ](/news/2014/11/3/islamic-state-in-iraq-and-the-levant-islamic-state-militants-claim-to-have-captured-the-jahar-gas-fields-in-the-syrian-province-of-homs-t.md)
 Islamic State fighters in Syria said on Monday they had taken control of a gas field in the central province of Homs, the second gas field seized in a week after battles with government forces.
 
 ### [One World Trade Center officially opens, replacing its predecessor 13 years after the September 11 attacks. ](/news/2014/11/3/one-world-trade-center-officially-opens-replacing-its-predecessor-13-years-after-the-september-11-attacks.md)

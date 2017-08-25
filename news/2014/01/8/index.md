@@ -1,9 +1,9 @@
 ## [2014-01-8](/news/2014/01/8/index.md)
 
-### [South Yemen insurgency:Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-ptwo-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md)
+### [South Yemen insurgency:. Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md)
 Two suspected al Qaeda militants were killed in a U.S. drone strike in the southeastern province of Hadramout on Wednesday, residents and local officials said.
 
-### [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick,  in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-t.md)
+### [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick, in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-th.md)
 _Context: Canadian National Railway, Plaster Rock, New Brunswick, Toronto, crude oil, propane_
 
 ### [Nine passengers on the Dehradun Express from Mumbai die when the train catches fire. ](/news/2014/01/8/nine-passengers-on-the-dehradun-express-from-mumbai-die-when-the-train-catches-fire.md)
@@ -21,7 +21,7 @@ _Context: 67th British Academy Film Awards, London_
 ### [Facebook buys the Indian start-up Little Eye Labs. ](/news/2014/01/8/facebook-buys-the-indian-start-up-little-eye-labs.md)
 _Context: Facebook, Inc., India_
 
-### [Influenza A virus subtype H5N1:Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-palberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md)
+### [Influenza A virus subtype H5N1:. Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md)
 _Context: Alberta, Alberta Health Services, Calgary, Alberta, Influenza A virus subtype H5N1_
 
 ### [Imelda Marcos's former aide is sentenced in New York City for attempting to sell a painting of Claude Monet allegedly bought with embezzled funds. ](/news/2014/01/8/imelda-marcos-s-former-aide-is-sentenced-in-new-york-city-for-attempting-to-sell-a-painting-of-claude-monet-allegedly-bought-with-embezzled.md)

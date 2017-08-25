@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct.  ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md) _Context: Paul Simon_
+1. [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct. ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md) _Context: Paul Simon_

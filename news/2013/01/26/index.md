@@ -1,18 +1,18 @@
 ## [2013-01-26](/news/2013/01/26/index.md)
 
-### [War in North-West Pakistan:At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-pat-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md)
+### [War in North-West Pakistan:. At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-at-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md)
 PESHAWAR Jan 26 AP - A Pakistani official says clashes between two Islamic militant groups over control of a prized valley near the Afghan border have killed 24 people.
 
-### [2012-2013 Egyptian protests:The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012a2013-egyptian-protests-pthe-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-be.md)
+### [2012-2013 Egyptian protests:. The Egyptian Army is dispatched to the town of Suez following the death of at least nine people in clashes between anti-government protesters and supporters of President Mohamed Morsi. ](/news/2013/01/26/2012-2013-egyptian-protests-the-egyptian-army-is-dispatched-to-the-town-of-suez-following-the-death-of-at-least-nine-people-in-clashes-b.md)
 At least 32 people were killed on Saturday when Egyptians rampaged in protest at the sentencing of 21 people to death over a soccer stadium disaster, violence that compounds a political crisis facing Islamist President Mohamed Mursi.
 
-### [Northern Mali conflict (2012-present):French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012apresent-pfrench-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islami.md)
+### [Northern Mali conflict (2012-present):. French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/northern-mali-conflict-2012-present-french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islam.md)
 French-led troops in Mali have taken control of the northern Islamist stronghold of Gao, the French defence ministry says.
 
-### [War in Afghanistan (2001-present):A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-t.md)
+### [War in Afghanistan (2001-present):. A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to.md)
 At least 10 people have been killed and many injured in a suicide attack in a busy market in the north-eastern city of Kunduz, officials say.
 
-### [2013 Queensland floods:Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-presidents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy.md)
+### [2013 Queensland floods:. Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heav.md)
 _Context: Australia, Boyne River, Gladstone, Tropical Cyclone Oswald, significant flooding_
 
 ### [20 musicians from the band, Kombo Kolombia, who play Colombian vallenato music, are missing after playing a gig in Hidalgo, Mexico. ](/news/2013/01/26/20-musicians-from-the-band-kombo-kolombia-who-play-colombian-vallenato-music-are-missing-after-playing-a-gig-in-hidalgo-mexico.md)

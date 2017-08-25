@@ -1,9 +1,9 @@
 ## [2013-06-25](/news/2013/06/25/index.md)
 
-### [War in Afghanistan:Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-ptaliban-forces-attack-near-the-presidential-palace-in-kabul.md)
+### [War in Afghanistan:. Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-taliban-forces-attack-near-the-presidential-palace-in-kabul.md)
 Afghan security forces fight off militants who launched a gun and bomb attack near the presidential palace, in one of the most secure areas of Kabul.
 
-### [The ''Under the Dome'' TV series premieres to 13.5 million viewers in the United States, the largest summertime premiere for a drama since 2007. ](/news/2013/06/25/the-under-the-dome-tv-series-premieres-to-13-5-million-viewers-in-the-united-states-the-largest-summertime-premiere-for-a-drama-since-2.md)
+### [The "Under the Dome" TV series premieres to 13.5 million viewers in the United States, the largest summertime premiere for a drama since 2007. ](/news/2013/06/25/the-under-the-dome-tv-series-premieres-to-13-5-million-viewers-in-the-united-states-the-largest-summertime-premiere-for-a-drama-since-200.md)
 Brush up on the most talked about TV news, including plot synopses, discussion, new shows, upcoming episodes and schedules.
 
 ### [Gun manufacturer Smith & Wesson reports record sales for its fourth quarter and for the full fiscal year. ](/news/2013/06/25/gun-manufacturer-smith-wesson-reports-record-sales-for-its-fourth-quarter-and-for-the-full-fiscal-year.md)
@@ -18,7 +18,7 @@ Following the latest updates from Uttarakhand, where relief and rescue operators
 ### [A gold mine collapses in the Central African Republic killing at least 37 people. ](/news/2013/06/25/a-gold-mine-collapses-in-the-central-african-republic-killing-at-least-37-people.md)
 _Context: Central African Republic_
 
-### [South Korea issues a cyber alert after a hacking attack on a number of Government websites including the  presidential Blue House site. ](/news/2013/06/25/south-korea-issues-a-cyber-alert-after-a-hacking-attack-on-a-number-of-government-websites-including-the-presidential-blue-house-site.md)
+### [South Korea issues a cyber alert after a hacking attack on a number of Government websites including the presidential Blue House site. ](/news/2013/06/25/south-korea-issues-a-cyber-alert-after-a-hacking-attack-on-a-number-of-government-websites-including-the-presidential-blue-house-site.md)
 South Korea issued a cyber attack alert on Tuesday after hackers apparently penetrated a number of official websites, including the presidential Blue House, the science ministry said.
 
 ### [Italian police search more than thirty Italian football clubs including SS Lazio and Juventus FC searching for evidence of criminal conspiracy, international tax evasion, money laundering and invoice falsification. ](/news/2013/06/25/italian-police-search-more-than-thirty-italian-football-clubs-including-ss-lazio-and-juventus-fc-searching-for-evidence-of-criminal-conspira.md)

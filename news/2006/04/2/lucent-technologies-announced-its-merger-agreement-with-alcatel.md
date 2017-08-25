@@ -1,6 +1,6 @@
 ### [2006-04-2](/news/2006/04/2/index.md)
 
-#  Lucent Technologies announced its merger agreement with Alcatel.  
+#  Lucent Technologies announced its merger agreement with Alcatel. 
 
 
 

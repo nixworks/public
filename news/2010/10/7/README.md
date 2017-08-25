@@ -9,7 +9,7 @@ Air Force targets vehicle in central Strip belonging to terrorist who was planni
 ### [The African Union says its forces have captured 40% of the Somali capital Mogadishu from Islamist militants in a recent offensive. ](/news/2010/10/7/the-african-union-says-its-forces-have-captured-40-of-the-somali-capital-mogadishu-from-islamist-militants-in-a-recent-offensive.md)
 The African Union says its troops are now in control of more than 40% of the Somali capital, as splits are reported in the main Islamist group.
 
-### [The leader of a Congolese rebel group suspected of being involved in the mass rape of more than 300 civilians is arrested by the Congolese army and United Nations peacekeeping  troops. ](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.md)
+### [The leader of a Congolese rebel group suspected of being involved in the mass rape of more than 300 civilians is arrested by the Congolese army and United Nations peacekeeping troops. ](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.md)
 THE LEADER of a Congolese rebel group suspected of being involved in the rape of more than 300 civilians two months ago has been&hellip;
 
 ### [14 people are killed and 70 others are injured in 2 suicide blasts at a shrine in Pakistan's southern port city of Karachi. ](/news/2010/10/7/14-people-are-killed-and-70-others-are-injured-in-2-suicide-blasts-at-a-shrine-in-pakistan-s-southern-port-city-of-karachi.md)
@@ -33,13 +33,13 @@ _Context: Taliban_
 ### [Peruvian-Spanish writer Mario Vargas Llosa is announced as the winner of the 2010 Nobel Prize in Literature. ](/news/2010/10/7/peruvian-spanish-writer-mario-vargas-llosa-is-announced-as-the-winner-of-the-2010-nobel-prize-in-literature.md)
 Mario Vargas Llosa, one of the most acclaimed South American writers, has won the Nobel Prize for Literature.
 
-### [TVNZ ''Breakfast'' race row:Suspended TVNZ broadcaster Paul Henry is embroiled in further controversy as his mockery of Delhi Chief Minister Sheila Dikshit is declared "racist" and "unacceptable" and New Zealand's ambassador to India is summoned for a dressing down. ](/news/2010/10/7/tvnz-breakfast-race-row-psuspended-tvnz-broadcaster-paul-henry-is-embroiled-in-further-controversy-as-his-mockery-of-delhi-chief-ministe.md)
+### [TVNZ "Breakfast" race row:. Suspended TVNZ broadcaster Paul Henry is embroiled in further controversy as his mockery of Delhi Chief Minister Sheila Dikshit is declared "racist" and "unacceptable" and New Zealand's ambassador to India is summoned for a dressing down. ](/news/2010/10/7/tvnz-breakfast-race-row-suspended-tvnz-broadcaster-paul-henry-is-embroiled-in-further-controversy-as-his-mockery-of-delhi-chief-minister.md)
 India denounced Thursday &quot;racist&quot; and &quot;unacceptable&quot; remarks made by a New Zealand television anchor about an Indian minister and summoned the country&#039;s ambassador to present a complaint.
 
 ### [A lost Antonio Vivaldi concerto is found in the National Archives of Scotland in Edinburgh. ](/news/2010/10/7/a-lost-antonio-vivaldi-concerto-is-found-in-the-national-archives-of-scotland-in-edinburgh.md)
 A lost flute concerto by the Italian composer Vivaldi is discovered at the National Archives of Scotland in Edinburgh.
 
-### [A Roman parade helmet discovered by a metal detectorist in May 2010 is auctioned for PS2.3 million ($3.6 million). ](/news/2010/10/7/a-roman-parade-helmet-discovered-by-a-metal-detectorist-in-may-2010-is-auctioned-for-aps2-3-million-3-6-million.md)
+### [A Roman parade helmet discovered by a metal detectorist in May 2010 is auctioned for GBP2.3 million ($3.6 million). ](/news/2010/10/7/a-roman-parade-helmet-discovered-by-a-metal-detectorist-in-may-2010-is-auctioned-for-agbp2-3-million-3-6-million.md)
 A Roman helmet unearthed found in a Cumbrian field by a metal detector enthusiast sold for £2.3 million today - almost eight times the estimated price.
 
 ### [The FBI seizes a set of John Lennon's fingerprints. ](/news/2010/10/7/the-fbi-seizes-a-set-of-john-lennon-s-fingerprints.md)
@@ -48,7 +48,7 @@ _Context: FBI, John Lennon_
 ### [United States film studio Metro Goldwyn Mayer begins plans to file for Chapter 11 bankruptcy in a bid to rid itself of $4 billion in debts. ](/news/2010/10/7/united-states-film-studio-metro-goldwyn-mayer-begins-plans-to-file-for-chapter-11-bankruptcy-in-a-bid-to-rid-itself-of-4-billion-in-debts.md)
 Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy protection to try to rid itself of $4bn of debts.
 
-### [Austerity measures of pay cuts and pension freeze supported by the European Union and  International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servant.md)
+### [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servants.md)
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.
 
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
@@ -69,13 +69,13 @@ The death toll from flash floods in a remote region of eastern Indonesia has cli
 ### [Red mud from the Ajka alumina plant accident in Hungary reaches the Danube River with alkalinity rising in the Raba River which flows into the Danube. ](/news/2010/10/7/red-mud-from-the-ajka-alumina-plant-accident-in-hungary-reaches-the-danube-river-with-alkalinity-rising-in-the-ra-ba-river-which-flows-into.md)
 Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday and crews struggled to dilute it to protect the river from what the prime minister called an &quot;unprecedented ecological catastrophe.&quot;
 
-### [United Nations Security Council visit to Sudan:Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/united-nations-security-council-visit-to-sudan-pmembers-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-refer.md)
+### [United Nations Security Council visit to Sudan:. Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/united-nations-security-council-visit-to-sudan-members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-refe.md)
 _Context: Darfur, Security Council, Southern Sudanese Independence Referendum, Sudan_
 
-### [Russia  will refund Iran for the canceled the sale of an air defense missile system  following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nuc.md)
+### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran-s nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iran-s-nucle.md)
 _Context: Air Defense, Iran, Russia, ban on ballistic missile tests, nuclear scientist_
 
-### [United States helicopter strike on Pakistan:The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-pthe-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post.md)
+### [United States helicopter strike on Pakistan:. The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-pos.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.
 
 ### [Israel buys 20 F-35I variant radar-evading fighter jets from the United States, Israel's first batch of advanced fighter jets which arm the country with the most sophisticated combat aircraft in the Middle East. Officials at The Pentagon acknowledge the sale. ](/news/2010/10/7/israel-buys-20-f-35i-variant-radar-evading-fighter-jets-from-the-united-states-israel-s-first-batch-of-advanced-fighter-jets-which-arm-the.md)

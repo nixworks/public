@@ -6,7 +6,7 @@ _Context: 2000 Olympics, Sydney_
 ### [ Incorporation of Bharat Sanchar Nigam Limited & Mahanagar Telephone Nigam Limited under the Indian Companies Act, 1956.](/news/2000/10/1/incorporation-of-bharat-sanchar-nigam-limited-mahanagar-telephone-nigam-limited-under-the-indian-companies-act-1956.md)
 _Context: Bharat Sanchar Nigam Limited, Mahanagar Telephone Nigam Limited_
 
-### [ October 2000 events (Israel) - 12 Arab citizens of Israel are killed by Israeli security forces after a riot/violent demonstration in solidarity with Palestinians under military rule in the West Bank and Gaza.](/news/2000/10/1/october-2000-events-israel-a-12-arab-citizens-of-israel-are-killed-by-israeli-security-forces-after-a-riot-violent-demonstration-in-sol.md)
+### [ October 2000 events (Israel) - 12 Arab citizens of Israel are killed by Israeli security forces after a riot/violent demonstration in solidarity with Palestinians under military rule in the West Bank and Gaza.](/news/2000/10/1/october-2000-events-israel-12-arab-citizens-of-israel-are-killed-by-israeli-security-forces-after-a-riot-violent-demonstration-in-sol.md)
 _Context: October 2000 events (Israel)_
 
 ## [Previous Day...](/news/2000/09/30/index.md)

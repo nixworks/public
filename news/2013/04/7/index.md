@@ -1,18 +1,18 @@
 ## [2013-04-7](/news/2013/04/7/index.md)
 
-### [Syrian civil war:An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-pan-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md)
+### [Syrian civil war:. An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/syrian-civil-war-an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md)
 The violence in Syria continues. An air strike has killed 15 people in Aleppo. The British-based Syrian Observatory for Human Rights said a
 
-### [War in Afghanistan (2001-present):An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001apresent-pan-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md)
+### [War in Afghanistan (2001-present):. An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md)
 Eleven children are reported to have been among those killed in a Nato air strike in Kunar province in eastern Afghanistan.
 
-### [Conflict in the Niger Delta:12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-p12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-del.md)
+### [Conflict in the Niger Delta:. 12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-de.md)
 Nigerian militants claiming to be from a group that has been inactive since 2009 say they carried out an attack that left 12 police officers dead.
 
-### [2013 Korean crisis:The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. ](/news/2013/04/7/2013-korean-crisis-pthe-united-states-decides-to-delay-a-long-planned-intercontinental-ballistic-missile-test-scheduled-for-next-week-at-the.md)
+### [2013 Korean crisis:. The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. ](/news/2013/04/7/2013-korean-crisis-the-united-states-decides-to-delay-a-long-planned-intercontinental-ballistic-missile-test-scheduled-for-next-week-at-th.md)
 Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
 
-### [Territorial disputes in the South China Sea:China says it will open disputed Paracel Islands in the South China Sea to tourism before the May Day holiday, a move to which Vietnam is strongly opposed, as the United States expresses concern. ](/news/2013/04/7/territorial-disputes-in-the-south-china-sea-pchina-says-it-will-open-disputed-paracel-islands-in-the-south-china-sea-to-tourism-before-the-m.md)
+### [Territorial disputes in the South China Sea:. China says it will open disputed Paracel Islands in the South China Sea to tourism before the May Day holiday, a move to which Vietnam is strongly opposed, as the United States expresses concern. ](/news/2013/04/7/territorial-disputes-in-the-south-china-sea-china-says-it-will-open-disputed-paracel-islands-in-the-south-china-sea-to-tourism-before-the.md)
 China is to open disputed South China Sea islands up to tourism this month, state media reported Sunday, a move likely to inflame a long-running territorial row with its neighbours.
 
 ### [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md)

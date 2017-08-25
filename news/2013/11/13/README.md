@@ -1,15 +1,15 @@
 ## [2013-11-13](/news/2013/11/13/index.md)
 
-### [Syria civil war:Syrian army retakes strategically important Damascus suburb of Hujaira from the rebels. ](/news/2013/11/13/syria-civil-war-psyrian-army-retakes-strategically-important-damascus-suburb-of-hujaira-from-the-rebels.md)
+### [Syria civil war:. Syrian army retakes strategically important Damascus suburb of Hujaira from the rebels. ](/news/2013/11/13/syria-civil-war-syrian-army-retakes-strategically-important-damascus-suburb-of-hujaira-from-the-rebels.md)
 Forces loyal to President Bashar al-Assad captured the southern Damascus suburb of Hujaira on Wednesday, part of a broader advance that has brought him major gains south of the capital before proposed international peace talks.
 
-### [Iraqi insurgency (post-U.S. withdrawal):Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-pbombs-across-iraq-detonate-killing-18-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Bombs across Iraq detonate, killing 18 people. ](/news/2013/11/13/iraqi-insurgency-post-u-s-withdrawal-bombs-across-iraq-detonate-killing-18-people.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
-### [Israeli-Palestinian conflict:Israel cancels proposed plans to build new settlements in the West Bank after US and Palestinian opposition. ](/news/2013/11/13/israeli-palestinian-conflict-pisrael-cancels-proposed-plans-to-build-new-settlements-in-the-west-bank-after-us-and-palestinian-opposition.md)
+### [Israeli-Palestinian conflict:. Israel cancels proposed plans to build new settlements in the West Bank after US and Palestinian opposition. ](/news/2013/11/13/israeli-palestinian-conflict-israel-cancels-proposed-plans-to-build-new-settlements-in-the-west-bank-after-us-and-palestinian-opposition.md)
 The Israeli prime minister says he has ordered his housing minister to reconsider a plan studying possible construction of thousands of new homes in Jewish settlements.
 
-### [Francis Bacon's painting of his friend Lucian Freud, ''Three Studies of Lucian Freud'' (1969), is sold for $142.4 million. ](/news/2013/11/13/francis-bacon-s-painting-of-his-friend-lucian-freud-three-studies-of-lucian-freud-1969-is-sold-for-142-4-million.md)
+### [Francis Bacon's painting of his friend Lucian Freud, "Three Studies of Lucian Freud" (1969), is sold for $142.4 million. ](/news/2013/11/13/francis-bacon-s-painting-of-his-friend-lucian-freud-three-studies-of-lucian-freud-1969-is-sold-for-142-4-million.md)
 A Francis Bacon painting is sold for $142m (£89m) in New York, becoming the most expensive artwork ever auctioned.
 
 ### [A 14.82-carat orange diamond sets a world record after it is sold at a Christie's auction in Geneva for $35.5 million. ](/news/2013/11/13/a-14-82-carat-orange-diamond-sets-a-world-record-after-it-is-sold-at-a-christie-s-auction-in-geneva-for-35-5-million.md)
@@ -27,7 +27,7 @@ Despite 10 years of western efforts to curb production, a combination of economi
 ### [Starbucks is ordered to pay Kraft Foods $2.76 billion in damages over a dispute about packaged coffee. ](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.md)
 Starbucks has been ordered to pay almost $3bn in damages and other costs in a dispute with Kraft Foods over packaged coffee.
 
-### [Typhoon Haiyan:The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-pthe-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md)
+### [Typhoon Haiyan:. The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-the-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md)
 _Context: Philippines, Typhoon Haiyan (Yolanda)_
 
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
@@ -51,10 +51,10 @@ _Context: Government of the United States, Health Insurance Marketplace, Patient
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
 _Context: Antarctica, Pine Island Glacier, Southern Ocean_
 
-### [Scientists discover ''Panthera blytheae'' in Tibet, the oldest big cat fossil ever discovered. ](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.md)
+### [Scientists discover "Panthera blytheae" in Tibet, the oldest big cat fossil ever discovered. ](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.md)
 A sister species of the snow leopard roamed the plateau of Tibet nearly 5 million years ago.
 
-### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn't been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
+### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn-t been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
 _Context: Central Vietnam, World Wildlife Fund, saola_
 
 ## [Previous Day...](/news/2013/11/12/index.md)

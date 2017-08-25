@@ -6,7 +6,7 @@ _Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
 _Context: Hawaii, North Korea, U.S. state, United States, launch_
 
-### [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station as part of the STS-121 mission.  Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbi.md)
+### [ The Space Shuttle "Discovery" successfully docks with the International Space Station as part of the STS-121 mission. Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbiter.md)
 _Context: 13-day mission, Discovery, International Space Station, Space Shuttle, docks_
 
 ### [ Great Britain's young people are for the first time spending more time looking at Internet sites than watching TV, a new survey has revealed. ](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.md)
@@ -36,7 +36,7 @@ _Context: Iraq, Najaf, Shi'ite, sectarian conflict_
 ### [ An explosion, believed to be caused by a bomb, killed at least eight people in a minibus in the city of Tiraspol, in Transnistria, a breakaway region of Moldova. ](/news/2006/07/6/an-explosion-believed-to-be-caused-by-a-bomb-killed-at-least-eight-people-in-a-minibus-in-the-city-of-tiraspol-in-transnistria-a-breaka.md)
 _Context: Moldova, Tiraspol, Transnistria_
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains): IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. ](/news/2006/07/6/israeli-palestinian-conflict-operation-summer-rains-p-idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):. IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. ](/news/2006/07/6/israeli-palestinian-conflict-operation-summer-rains-idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in.md)
 Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they endanger my son and not send Air Force?&#39; An hour before he was killed, Yehuda sends text message to his sister, says &#39;we are still in al-Atara. Everything is okay. We already killed three, but don’t tell anyon...
 
 ## [Previous Day...](/news/2006/07/5/index.md)

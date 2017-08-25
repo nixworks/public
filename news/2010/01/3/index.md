@@ -6,7 +6,7 @@ _Context: Eritrean military, Ethiopia, Ethiopian Army, armed incursion into Erit
 ### [At least 47 people are killed during heavy fighting in the Somali town of Dhuusa Mareeb. ](/news/2010/01/3/at-least-47-people-are-killed-during-heavy-fighting-in-the-somali-town-of-dhuusa-mareeb.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
-### [Several British Muslim writers speak out about ''Prime Suspect'' writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more.md)
+### [Several British Muslim writers speak out about "Prime Suspect" writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.md)
 Muslim writers have hit back at the crime doyenne Lynda La Plante after she claimed they found it easier to get scripts commissioned by the BBC than she does.
 
 ### [Japan doubles a state-sponsored credit line to troubled airline Japan Airlines to Y200bn (US$2.2bn). ](/news/2010/01/3/japan-doubles-a-state-sponsored-credit-line-to-troubled-airline-japan-airlines-to-y200bn-us-2-2bn.md)

@@ -3,7 +3,7 @@
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
 _Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
 
-### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
+### [2011 Libyan civil war:. Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
 
 ### [Two Vietnamese sailors are shot and wounded in the disputed Spratly Islands. ](/news/2011/05/19/two-vietnamese-sailors-are-shot-and-wounded-in-the-disputed-spratly-islands.md)
@@ -18,13 +18,13 @@ _Context: Adolf Hitler, Cannes Film Festival, Danish, Lars von Trier_
 ### [US journalist Katie Couric signs off as the host of the CBS Evening News. ](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.md)
 Check out our breaking stories on Hollywood?s hottest stars! Get the latest news on celebrity scandals, engagements, and divorces! 
 
-### [A special edition of the BBC's political debate programme ''Question Time'' is recorded at Wormwood Scrubbs Prison in London. ](/news/2011/05/19/a-special-edition-of-the-bbc-s-political-debate-programme-question-time-is-recorded-at-wormwood-scrubbs-prison-in-london.md)
+### [A special edition of the BBC's political debate programme "Question Time" is recorded at Wormwood Scrubbs Prison in London. ](/news/2011/05/19/a-special-edition-of-the-bbc-s-political-debate-programme-question-time-is-recorded-at-wormwood-scrubbs-prison-in-london.md)
 _Context: BBC, London, Question Time, Wormwood Scrubbs Prison_
 
 ### [A civil service strike in Botswana closes many hospitals. ](/news/2011/05/19/a-civil-service-strike-in-botswana-closes-many-hospitals.md)
 _Context: Botswana, civil service_
 
-### [Dominique Strauss-Kahn sexual assault charge:Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-pdominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-follo.md)
+### [Dominique Strauss-Kahn sexual assault charge:. Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-foll.md)
 International Monetary Fund head Dominique Strauss-Kahn resigns following an alleged sexual assault of a hotel maid in New York.
 
 ### [The Japanese economy officially goes into recession, in part due to the effects of the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/19/the-japanese-economy-officially-goes-into-recession-in-part-due-to-the-effects-of-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -45,7 +45,7 @@ _Context: Istanbul, Turkey, magnitude 6.0 earthquake_
 ### [The United Nations World Food Programme calls for "urgent assistance" for the North Korean people due to a food crisis. ](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.md)
 _Context: North Korea, United Nations, World Food Programme_
 
-### [Barack Obama Middle East speech:President Obama gives a speech in support of the Arab Spring during which he states that the solution to the Israeli-Palestinian conflict must include Israel reverting its borders back to the pre-1967 borders.](/news/2011/05/19/barack-obama-middle-east-speech-ppresident-obama-gives-a-speech-in-support-of-the-arab-spring-during-which-he-states-that-the-solution-to-th.md)
+### [Barack Obama Middle East speech:. President Obama gives a speech in support of the Arab Spring during which he states that the solution to the Israeli-Palestinian conflict must include Israel reverting its borders back to the pre-1967 borders.](/news/2011/05/19/barack-obama-middle-east-speech-president-obama-gives-a-speech-in-support-of-the-arab-spring-during-which-he-states-that-the-solution-to-t.md)
 President Obama has given his strongest support yet for the uprisings across the Middle East, saying he wants to use this &quot;historic opportunity&quot; to spread reform across the region.
 
 ### [Members of the Falun Gong spiritual movement in the People's Republic of Chinafile a lawsuit in the United States against Cisco, maker of internet routing gear, alleging Cisco has helped China's government violate their human rights. ](/news/2011/05/19/members-of-the-falun-gong-spiritual-movement-in-the-people-s-republic-of-chinafile-a-lawsuit-in-the-united-states-against-cisco-maker-of-in.md)

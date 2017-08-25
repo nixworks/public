@@ -1,6 +1,6 @@
 ### [2009-06-25](/news/2009/06/25/index.md)
 
-#  Qantas Airways cancelled half of a 30-plan order for  787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. 
+#  Qantas Airways cancelled half of a 30-plan order for 787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. 
 
 
 

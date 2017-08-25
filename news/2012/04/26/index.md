@@ -1,12 +1,12 @@
 ## [2012-04-26](/news/2012/04/26/index.md)
 
-### [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011apresent-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md)
+### [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011-present-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md)
 Up to 69 people, many of them children, reported to have died in rocket attack on building in flashpoint city.
 
-### [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md)
+### [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011-2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md)
 _Context: 2011-2012 Bahraini uprising_
 
-### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the ''This Day'' newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day.md)
+### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the "This Day" newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day-ne.md)
 Suicide bomber explodes car bomb outside office in capital; Separate attack targets another publication
 
 ### [Three members of the United States Armed Forces are killed in a bombing in eastern Afghanistan. ](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.md)
@@ -39,7 +39,7 @@ The&#x20;Special&#x20;Court&#x20;for&#x20;Sierra&#x20;Leone&#x20;found&#x20;Libe
 ### [Revelations surface that ousted Chinese official Bo Xilai spied on Chinese President and Communist Party leader Hu Jintao. ](/news/2012/04/26/revelations-surface-that-ousted-chinese-official-bo-xilai-spied-on-chinese-president-and-communist-party-leader-hu-jintao.md)
 Bo Xilai was toppled amid accusations that his wife arranged the killing of a British businessman, but wiretapping may have been another compelling reason party officials turned on him.
 
-### [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the ''News of the World'', but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-k.md)
+### [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the "News of the World", but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-kep.md)
 Rupert Murdoch tells the Leveson Inquiry into media ethics there was a &quot;cover-up&quot; at the News of the World but that it was kept hidden from him.
 
 ## [Previous Day...](/news/2012/04/25/index.md)

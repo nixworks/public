@@ -1,6 +1,6 @@
 ## [2008-02-5](/news/2008/02/5/index.md)
 
-### [ United States presidential election, 2008: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-p-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md)
+### [ United States presidential election, 2008:. Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md)
 Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a victorythat could help him stay a contender in the Republicannominating race, U.S. media projected.
 
 ### [ The Red Cross estimates that hundreds of civilians have been killed in the Battle of N'Djamena in Chad. ](/news/2008/02/5/the-red-cross-estimates-that-hundreds-of-civilians-have-been-killed-in-the-battle-of-n-djamena-in-chad.md)
@@ -10,7 +10,7 @@ _Context: Chad, Red Cross, military assault_
 _Context: Dimona attack, Gaza Strip, Hamas, Israel_
 
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
-_Context: Davao City, Jose de Venecia, Philippine House Speaker, Prospero Nograles_
+_Context: Davao City, Jose de Venecia, Prospero Nograles, Speaker_
 
 ### [ 2008 Chinese winter storms: Chinese Premier Wen Jiabao visits disaster-affected region in Guizhou Province, one of the worst-hit provinces, to direct relief efforts. This is his third trip to disaster regions in eight days. ](/news/2008/02/5/2008-chinese-winter-storms-chinese-premier-wen-jiabao-visits-disaster-affected-region-in-guizhou-province-one-of-the-worst-hit-provinces.md)
 _Context: 2008 Chinese winter storms, Guizhou, Premier of the People's Republic of China, Wen Jiabao_

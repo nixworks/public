@@ -12,7 +12,7 @@ _Context: Pakistan, Shaheen-II, ballistic missile_
 ### [ G20 group of the developing countries calls on rich nations to end their farming subsidies in five years ](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.md)
 Business news & Financial news from Reuters.com.
 
-### [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches.  Morales won the 12-round bout by unanimous decision.  Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pa.md)
+### [ Manny Pacquiao and Erik Morales met for their first of three epic boxing matches. Morales won the 12-round bout by unanimous decision. Pacquiao would later revenge the bout, fighting Morales two more times, winning both by knockout.](/news/2005/03/19/manny-pacquiao-and-erik-morales-met-for-their-first-of-three-epic-boxing-matches-morales-won-the-12-round-bout-by-unanimous-decision-pacq.md)
 _Context: Erik Morales, Manny Pacquiao_
 
 ## [Previous Day...](/news/2005/03/18/index.md)

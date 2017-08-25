@@ -12,16 +12,16 @@ Boat smuggling scores of migrants overturns off southern Yemen coast, leaving at
 ### [A Boeing 787 controlled by Japan Airlines makes an emergency landing at Honolulu Airport in Honolulu, Hawaii, after oil pressure in their right engine dropped. ](/news/2014/03/9/a-boeing-787-controlled-by-japan-airlines-makes-an-emergency-landing-at-honolulu-airport-in-honolulu-hawaii-after-oil-pressure-in-their-ri.md)
 The Boeing 787 had engine troubles, forcing it to land early; same plane had experienced mysterious battery issues last year, but was allowed to fly again
 
-### [Malaysia Airlines Flight 370:The Ministry of Transport of Vietnam orders local airports and airlines to tighten their security, after the Malaysian plane vanished, on the first level of a three-level security alert system. ](/news/2014/03/9/malaysia-airlines-flight-370-pthe-ministry-of-transport-of-vietnam-orders-local-airports-and-airlines-to-tighten-their-security-after-the-m.md)
+### [Malaysia Airlines Flight 370:. The Ministry of Transport of Vietnam orders local airports and airlines to tighten their security, after the Malaysian plane vanished, on the first level of a three-level security alert system. ](/news/2014/03/9/malaysia-airlines-flight-370-the-ministry-of-transport-of-vietnam-orders-local-airports-and-airlines-to-tighten-their-security-after-the.md)
 The Ministry of Transport on Sunday ordered local airports and airlines to tighten their security after a Malaysian plane with 239 people aboard vanished near Vietnam, raising possibility of hijack.
 
-### [Swedish charismatic pastor Ulf Ekman, who established the ''Livets Ord'' ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholic.md)
+### [Swedish charismatic pastor Ulf Ekman, who established the "Livets Ord" ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholicis.md)
 Ulf Ekman reportedly shocked and upset the megachurch he founded in Sweden when he explained his personal journey toward converting to Roman Catholicism.
 
 ### [Vice President of Afghanistan Mohammed Fahim dies at the age of 57 due to natural causes. ](/news/2014/03/9/vice-president-of-afghanistan-mohammed-fahim-dies-at-the-age-of-57-due-to-natural-causes.md)
 _Context: Mohammed Fahim, Vice President of Afghanistan_
 
-### [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md)
+### [Colombian parliamentary election, 2014. President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/colombian-parliamentary-election-2014-president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe.md)
 _Context: Alvaro Uribe, Colombian parliamentary election, 2014, Juan Manuel Santos_
 
 ## [Previous Day...](/news/2014/03/8/index.md)

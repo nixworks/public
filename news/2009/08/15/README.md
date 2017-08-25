@@ -15,7 +15,7 @@ _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World W
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
 JOHANNESBURG: A former president of Zambia faces jail after a trial that may send a shiver down the spines of Africa&#039;s once-untouchable autocrats.
 
-### [  A ransom demand is made for the missing ship. ](/news/2009/08/15/a-ransom-demand-is-made-for-the-missing-ship.md)
+### [ MV "Arctic Sea". A ransom demand is made for the missing ship. ](/news/2009/08/15/mv-arctic-sea-a-ransom-demand-is-made-for-the-missing-ship.md)
 The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)

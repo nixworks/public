@@ -1,6 +1,6 @@
 ## [2006-11-16](/news/2006/11/16/index.md)
 
-### [ 2006 Tonga riots: Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-p-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md)
+### [ 2006 Tonga riots:. Rioters smash windows, overturn cars and loot and burn buildings in Tonga's capital Nuku'alofa following a pro-democracy rally. ](/news/2006/11/16/2006-tonga-riots-rioters-smash-windows-overturn-cars-and-loot-and-burn-buildings-in-tonga-s-capital-nuku-alofa-following-a-pro-democracy.md)
 _Context: 2006 riots, Nuku'alofa, Tonga_
 
 ### [ Segolene Royal wins the Socialist Party's nomination to run for President of France in next year's election; she becomes France's first-ever female presidential candidate representing a major party. ](/news/2006/11/16/sa-c-gola-ne-royal-wins-the-socialist-party-s-nomination-to-run-for-president-of-france-in-next-year-s-election-she-becomes-france-s-first-e.md)
@@ -21,7 +21,7 @@ _Context: Iraq, Nasiriyah_
 ### [ At least eight people die as a tornado hits Riegelwood, North Carolina as thunderstorms move through the southern United States. One other person died in the larger tornado outbreak. ](/news/2006/11/16/at-least-eight-people-die-as-a-tornado-hits-riegelwood-north-carolina-as-thunderstorms-move-through-the-southern-united-states-one-other.md)
 _Context: Riegelwood, North Carolina, Southern United States, as a tornado hits, tornado outbreak_
 
-### [ The European Commission plan to charge EUR39.60 ($51 / PS27) green tax per return ticket on long haul flights from and to the EU by 2011, angering U.S. airline companies as they will need to buy permits to cover their European emissions. ](/news/2006/11/16/the-european-commission-plan-to-charge-a-39-60-51-aps27-green-tax-per-return-ticket-on-long-haul-flights-from-and-to-the-eu-by-2011-a.md)
+### [ The European Commission plan to charge -39.60 ($51 / GBP27) green tax per return ticket on long haul flights from and to the EU by 2011, angering U.S. airline companies as they will need to buy permits to cover their European emissions. ](/news/2006/11/16/the-european-commission-plan-to-charge-39-60-51-agbp27-green-tax-per-return-ticket-on-long-haul-flights-from-and-to-the-eu-by-2011.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Mirza Tahir Hussain, a British citizen sentenced to death in Pakistan, has his sentence commuted to life imprisonment after intervention by the President of Pakistan, Pervez Musharraf. ](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.md)

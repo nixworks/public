@@ -1,12 +1,12 @@
 ## [2012-02-13](/news/2012/02/13/index.md)
 
-### [Syria:The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-pthe-syrian-army-continues-its-bombardment-of-homs.md)
+### [Syria:. The Syrian Army continues its bombardment of Homs. ](/news/2012/02/13/syria-the-syrian-army-continues-its-bombardment-of-homs.md)
 The UN human rights chief has ramped up pressure on the Syrian president, accusing Bashar al-Assad of attacking civilians.
 
-### [13 February 2012 attacks on Israeli diplomats:An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-pan-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy-i.md)
+### [13 February 2012 attacks on Israeli diplomats:. An explosion tears through an Israeli diplomat's car in the vicinity of the Israeli Embassy in New Delhi, India; one woman is injured. ](/news/2012/02/13/13-february-2012-attacks-on-israeli-diplomats-an-explosion-tears-through-an-israeli-diplomat-s-car-in-the-vicinity-of-the-israeli-embassy.md)
 Blast takes out Israeli diplomatic vehicle near New Delhi embassy; envoy&#39;s wife, driver wounded. Explosive device neutralized near Israeli mission in Tbilisi 
 
-### [2011-2012 Bahraini uprising: Police use tear gas on protesters attempting to occupy the Pearl Roundabout in the capital Manama a day before the anniversary of the start of anti-government protests. ](/news/2012/02/13/2011a2012-bahraini-uprising-police-use-tear-gas-on-protesters-attempting-to-occupy-the-pearl-roundabout-in-the-capital-manama-a-day-befor.md)
+### [2011-2012 Bahraini uprising: Police use tear gas on protesters attempting to occupy the Pearl Roundabout in the capital Manama a day before the anniversary of the start of anti-government protests. ](/news/2012/02/13/2011-2012-bahraini-uprising-police-use-tear-gas-on-protesters-attempting-to-occupy-the-pearl-roundabout-in-the-capital-manama-a-day-befor.md)
 Tear gas fired on protesters trying to occupy Pearl Roundabout before one-year anniversary of uprising.
 
 ### [Beverly Hills police confirm Whitney Houston was underwater and unconscious when found in a bath in her Los Angeles hotel room last Saturday. ](/news/2012/02/13/beverly-hills-police-confirm-whitney-houston-was-underwater-and-unconscious-when-found-in-a-bath-in-her-los-angeles-hotel-room-last-saturday.md)
@@ -15,7 +15,7 @@ Whitney Houston was unconscious and underwater in a bath when found on Saturday 
 ### [David Kelly, the "grand old man of Irish acting", dies in Dublin. ](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.md)
 _Context: David Kelly, Dublin_
 
-### [The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film ''The Italian Job''. ](/news/2012/02/13/the-uk-broadcaster-itv1-screens-the-first-ever-british-advert-aimed-specifically-at-dogs-the-60-second-commercial-for-the-bakers-dog-food-b.md)
+### [The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film "The Italian Job". ](/news/2012/02/13/the-uk-broadcaster-itv1-screens-the-first-ever-british-advert-aimed-specifically-at-dogs-the-60-second-commercial-for-the-bakers-dog-food-b.md)
 If your dog starts barking at the television this evening, don&#039;t be alarmed.
 
 ### [Barack Obama, the President of the United States, presents 16 people with the National Medal of Arts at the White House including actor Al Pacino, country music singer Mel Tillis and former United States Poet Laureate Rita Dove. ](/news/2012/02/13/barack-obama-the-president-of-the-united-states-presents-16-people-with-the-national-medal-of-arts-at-the-white-house-including-actor-al-p.md)

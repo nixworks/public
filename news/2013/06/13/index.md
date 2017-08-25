@@ -1,6 +1,6 @@
 ## [2013-06-13](/news/2013/06/13/index.md)
 
-### [Syrian civil war:The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-pthe-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md)
+### [Syrian civil war:. The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md)
 Navi Pillay, the United Nations human rights chief, said the figure was probably understated and called for an end to the violence.
 
 ### [Greek unions call for a general strike following the closure of public broadcaster ERT. ](/news/2013/06/13/greek-unions-call-for-a-general-strike-following-the-closure-of-public-broadcaster-ert.md)
@@ -24,7 +24,7 @@ Briton Malcolm Primrose, who was kidnapped in Indonesia on Tuesday, has now retu
 ### [Four people are killed in a murder-suicide at a home health care business in St. Louis, Missouri, United States, by the owner of the business, 59-year-old Ahmed Dirir. ](/news/2013/06/13/four-people-are-killed-in-a-murder-suicide-at-a-home-health-care-business-in-st-louis-missouri-united-states-by-the-owner-of-the-busines.md)
 Police sorting out what happened; victims &mdash; some of them related &mdash; all worked at home health care firm.
 
-### [Czech investigative authorities start a raid against organized crime, affecting  the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister.md)
+### [Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister-p.md)
 Several officials, including a top aide to Prime Minister Petr Necas, are reported to have been detained. The coalition government has been rocked by a series of corruption scandals.
 
 ### [Gunmen ambush and kill eight police officers and kidnap the chief of police in Salcaja, Guatemala. ](/news/2013/06/13/gunmen-ambush-and-kill-eight-police-officers-and-kidnap-the-chief-of-police-in-salcaja-guatemala.md)

@@ -1,6 +1,6 @@
 ### [2005-08-24](/news/2005/08/24/index.md)
 
-#  Chinese railroad workers in Tibet laid rail tracks on the Tanggula Mountain Pass in the Tanggula Mountains in Tibet at 5,072 m (16,640 ft) above sea level, surpassing the altitude of the highest Peruvian railway by 255 m (837 ft).  This section of the Qinghai-Tibet Railway is now the highest railway in the world.  The railway also includes the highest railway station in the world at Lhasa, 5,068 m (16,627 ft) above sea level.  The railway is expected to open later in 2005. 
+#  Chinese railroad workers in Tibet laid rail tracks on the Tanggula Mountain Pass in the Tanggula Mountains in Tibet at 5,072 m (16,640 ft) above sea level, surpassing the altitude of the highest Peruvian railway by 255 m (837 ft). This section of the Qinghai-Tibet Railway is now the highest railway in the world. The railway also includes the highest railway station in the world at Lhasa, 5,068 m (16,627 ft) above sea level. The railway is expected to open later in 2005. 
 
 
 

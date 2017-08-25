@@ -24,7 +24,7 @@ _Context: Hezbollah, Israel, forming a government_
 ### [ Voters in Mongolia go to the polls for the Mongolian legislative election, 2008. ](/news/2008/06/29/voters-in-mongolia-go-to-the-polls-for-the-mongolian-legislative-election-2008.md)
 _Context: Mongolia, legislative elections_
 
-### [ An investigation into the crash of a Black Hawk helicopter on HMAS ''Kanimbla'' that killed two concludes excessive loading on the engine caused it to lose power. ](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk-helicopter-on-hmas-kanimbla-that-killed-two-concludes-excessive-loading-on-the-engine-c.md)
+### [ An investigation into the crash of a Black Hawk helicopter on HMAS "Kanimbla" that killed two concludes excessive loading on the engine caused it to lose power. ](/news/2008/06/29/an-investigation-into-the-crash-of-a-black-hawk-helicopter-on-hmas-kanimbla-that-killed-two-concludes-excessive-loading-on-the-engine-cau.md)
 _Context: HMAS ''Kanimbla'', UH-60 Black Hawk_
 
 ### [ Robert Mugabe is sworn in for his sixth term as President of Zimbabwe after a controversial run-off presidential election in which opposition leader Morgan Tsvangirai withdraws his candidacy due to election-related violence. ](/news/2008/06/29/robert-mugabe-is-sworn-in-for-his-sixth-term-as-president-of-zimbabwe-after-a-controversial-run-off-presidential-election-in-which-oppositi.md)

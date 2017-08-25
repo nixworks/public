@@ -9,7 +9,7 @@ Nato air strikes are said to have killed at least 25 Afghans, hours after US tro
 ### [At least 17 more people are killed during a third day of violence in Karachi, with police given orders to shoot on sight as buildings burn. Current death toll: At least 80. ](/news/2010/08/5/at-least-17-more-people-are-killed-during-a-third-day-of-violence-in-karachi-with-police-given-orders-to-shoot-on-sight-as-buildings-burn.md)
 _Context: Karachi, a third day of violence_
 
-### [Kyrgyzstan:Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-ptroops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-ky.md)
+### [Kyrgyzstan:. Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md)
 Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting an opposition politician recently returned from overseas.
 
 ### [At least six Afghan policemen are killed during a suicide attack in Kunduz, by the Tajikistan border. ](/news/2010/08/5/at-least-six-afghan-policemen-are-killed-during-a-suicide-attack-in-kunduz-by-the-tajikistan-border.md)
@@ -18,7 +18,7 @@ _Context: Kunduz, Tajikistan_
 ### [Somali pirates seized a Syrian freighter flagged in Saint Vincent and the Grenadines carrying sugar with 24 crew (22 Syrian and 2 Egyptian) in the Gulf of Aden. ](/news/2010/08/5/somali-pirates-seized-a-syrian-freighter-flagged-in-saint-vincent-and-the-grenadines-carrying-sugar-with-24-crew-22-syrian-and-2-egyptian.md)
 _Context: Egypt, Gulf of Aden, Saint Vincent and the Grenadines, Somali pirates, Syria_
 
-### [Israel releases the MV ''Mavi Marmara'', the aid ship which it impounded after killing nine activists during May's Gaza flotilla raid. ](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.md)
+### [Israel releases the MV "Mavi Marmara", the aid ship which it impounded after killing nine activists during May's Gaza flotilla raid. ](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.md)
 Israel releases an impounded Turkish aid ship on which nine activists were killed as they tried to break the Gaza blockade two months ago.
 
 ### [A Salvador Dal exhibition in Atlanta, United States, is to feature items from Canada, Japan and Scotland. ](/news/2010/08/5/a-salvador-dali-exhibition-in-atlanta-united-states-is-to-feature-items-from-canada-japan-and-scotland.md)
@@ -96,10 +96,10 @@ Brazilian police investigating allegations of corruption at a prison in Rio find
 ### [The U.S. Government charges 14 people as participants in "a deadly pipeline" sending money and fighters from the United States to the Somalian insurgency group Al-Shabaab. ](/news/2010/08/5/the-u-s-government-charges-14-people-as-participants-in-a-deadly-pipeline-sending-money-and-fighters-from-the-united-states-to-the-somali.md)
 US officials charge 14 people with providing money, personnel and services to the Somali militant group al-Shabab.
 
-### [Kenyan constitutional referendum, 2010:Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-ppreliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-pe.md)
+### [Kenyan constitutional referendum, 2010:. Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-p.md)
 _Context: Kenya, Kenyan constitutional referendum, 2010, the new constitution_
 
-### [Rwanda:The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-pthe-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md)
+### [Rwanda:. The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md)
 _Context: Rwanda_
 
 ### [Former Prime Minister of Australia Kevin Rudd joins Julia Gillard's election campaign while recovering from gallbladder surgery by attacking the opposition leader Tony Abbott. ](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.md)
@@ -115,7 +115,7 @@ Hip hop star Wyclef Jean formally registers to stand for president of his native
 _Context: Elena Kagan, Justice, U.S. Supreme Court, United States Senate, confirms_
 
 ### [Newly released files, which can be ](/news/2010/08/5/newly-released-files-which-can-be.md)
-Wartime British prime minister Winston Churchill banned the reporting of an alleged UFO incident because of fears it would create mass panic, according to new claims made public.
+Declassified files from the last century show government concerns over UFOs, and reveal that Winston Churchill ordered a cover-up to prevent &quot;mass panic&quot;.
 
 ### [Anil Khanna, treasurer of the 2010 Commonwealth Games in Delhi, resigns the position due to corrupt allegations. ](/news/2010/08/5/anil-khanna-treasurer-of-the-2010-commonwealth-games-in-delhi-resigns-the-position-due-to-corrupt-allegations.md)
 _Context: 2010 Commonwealth Games, Anil Khanna, Delhi_

@@ -1,6 +1,6 @@
 ## [2007-09-16](/news/2007/09/16/index.md)
 
-### [ ''The Sopranos'' wins the Primetime Emmy Award for Outstanding Drama Series in the Primetime Emmy Awards. ](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.md)
+### [ "The Sopranos" wins the Primetime Emmy Award for Outstanding Drama Series in the Primetime Emmy Awards. ](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.md)
 _Context: Primetime Emmy Award, Primetime Emmy Award for Outstanding Drama Series, The Sopranos_
 
 ### [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md)

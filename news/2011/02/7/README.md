@@ -1,6 +1,6 @@
 ## [2011-02-7](/news/2011/02/7/index.md)
 
-### [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md)
+### [Cambodian-Thai border stand-off. Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md)
 _Context: Cambodia, Cambodian-Thai border stand-off, Preah Vihear Temple, Thailand_
 
 ### [Tunisia calls up recently retired soldiers to contain recent unrest. ](/news/2011/02/7/tunisia-calls-up-recently-retired-soldiers-to-contain-recent-unrest.md)
@@ -18,7 +18,7 @@ _Context: Continental Airlines, Houston, Texas, Texas, United Airlines_
 ### [Bushfires in Perth, Western Australia continue to burn out of control after having destroyed up to 40 homes. ](/news/2011/02/7/bushfires-in-perth-western-australia-continue-to-burn-out-of-control-after-having-destroyed-up-to-40-homes.md)
 RAGING bushfires that destroyed 64 homes are contained and under control but residents are still on alert as conditions in Kelmscott and Roleystone remain unpredictable.
 
-### [United States diplomatic cables leak:Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-pnewly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-sh.md)
+### [United States diplomatic cables leak:. Newly released cables reveal Australia and the United States formed an alliance in February 2008 to share secret intelligence from spy satellite. ](/news/2011/02/7/united-states-diplomatic-cables-leak-newly-released-cables-reveal-australia-and-the-united-states-formed-an-alliance-in-february-2008-to-s.md)
 AUSTRALIA and the US have formed a partnership to share top-secret intelligence from spy satellites as Australia moves to acquire a satellite to boost surveillance of Asia and the Pacific.
 
 ### [Thirty-one North Koreans arrive in South Korea after crossing the Yellow Sea by boat. ](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.md)
@@ -27,7 +27,7 @@ _Context: North Korea, South Korea, Yellow Sea_
 ### [Israel approves plans for two new buildings to be built in East Jerusalem, Palestine with the Palestinians currently living there to be evicted.](/news/2011/02/7/israel-approves-plans-for-two-new-buildings-to-be-built-in-east-jerusalem-palestine-with-the-palestinians-currently-living-there-to-be-evic.md)
 _Context: East Jerusalem, Israel, Palestinian_
 
-### [Julian Assange and the WikiLeaks website:The defence team for Julian Assange, facing allegations of sex crimes, prepares to argue that Assange cannot receive a fair trial in Sweden as such cases are heard in secret without any transparency. ](/news/2011/02/7/julian-assange-and-the-wikileaks-website-pthe-defence-team-for-julian-assange-facing-allegations-of-sex-crimes-prepares-to-argue-that-assa.md)
+### [Julian Assange and the WikiLeaks website:. The defence team for Julian Assange, facing allegations of sex crimes, prepares to argue that Assange cannot receive a fair trial in Sweden as such cases are heard in secret without any transparency. ](/news/2011/02/7/julian-assange-and-the-wikileaks-website-the-defence-team-for-julian-assange-facing-allegations-of-sex-crimes-prepares-to-argue-that-ass.md)
 LONDON: Julian Assange&#039;s defence team is to argue that he cannot be given a fair trial in Sweden because all rape cases are heard in secret - and justice cannot be seen to be done.
 
 ### [Using Google Maps, an archaeologist finds nearly 2,000 potential archaeological sites in Saudi Arabia. ](/news/2011/02/7/using-google-maps-an-archaeologist-finds-nearly-2-000-potential-archaeological-sites-in-saudi-arabia.md)

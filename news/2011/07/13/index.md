@@ -1,9 +1,9 @@
 ## [2011-07-13](/news/2011/07/13/index.md)
 
-### [13 July 2011 Mumbai bombings:Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-pseveral-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md)
+### [13 July 2011 Mumbai bombings:. Several explosions shake Mumbai, India, killing 20 and injuring over 100 persons. ](/news/2011/07/13/13-july-2011-mumbai-bombings-several-explosions-shake-mumbai-india-killing-20-and-injuring-over-100-persons.md)
 At least 21 dead and scores wounded after Indian city is targeted in what the home minister said was a terrorist attack.
 
-### [Arab Spring:2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-p2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md)
+### [Arab Spring:. 2011 Syrian uprising: Fire damages a pipeline in the Deir ez-Zor Governorate, according to regime officials and state media. ](/news/2011/07/13/arab-spring-2011-syrian-uprising-fire-damages-a-pipeline-in-the-deir-ez-zor-governorate-according-to-regime-officials-and-state-media.md)
 Fire has damaged an oil pipeline in north-east Syria, the oil ministry says, though it is unclear if the blaze was accidental or caused by sabotage.
 
 ### [In response to rocket fire into Israel, a Palestinian woman is injured in an airstrike on Gaza. ](/news/2011/07/13/in-response-to-rocket-fire-into-israel-a-palestinian-woman-is-injured-in-an-airstrike-on-gaza.md)
@@ -30,26 +30,26 @@ _Context: Mark Kennedy, Sir Christopher Rose_
 ### [The High Court of Malaysia sets dates for the trial of Opposition Leader Anwar Ibrahim on sodomy charges from August 8 to 26. ](/news/2011/07/13/the-high-court-of-malaysia-sets-dates-for-the-trial-of-opposition-leader-anwar-ibrahim-on-sodomy-charges-from-august-8-to-26.md)
 _Context: Anwar Ibrahim, High Court, Malaysia, trial_
 
-### [Sexual abuse scandal in Cloyne diocese:Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-pireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md)
+### [Sexual abuse scandal in Cloyne diocese:. Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md)
 THE LONG-AWAITED report into the handling of clerical sexual abuse allegations in the Catholic Diocese of Cloyne is to be published&hellip;
 
 ### [A Palestinian university student is killed as he attempts to defy arrest after residents throw stones at Israeli soldiers in a community north of Nablus. ](/news/2011/07/13/a-palestinian-university-student-is-killed-as-he-attempts-to-defy-arrest-after-residents-throw-stones-at-israeli-soldiers-in-a-community-nor.md)
 A Palestinian man is killed in an Israeli military raid on a West Bank refugee camp as Israel carries out overnight air strikes in Gaza.
 
-### [Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md)
+### [Mexican Drug War. Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexican-drug-war-mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md)
 _Context: Knights Templar, Mexican Drug War, Mexican Police, drug cartel_
 
 ### [U.S. senators call for a legal investigation into allegations that Rupert Murdoch's News Corporation hacked victims of the September 11 attacks as the phone hacking scandal continues. ](/news/2011/07/13/u-s-senators-call-for-a-legal-investigation-into-allegations-that-rupert-murdoch-s-news-corporation-hacked-victims-of-the-september-11-atta.md)
 _Context: News Corporation, Rupert Murdoch, September 11 attacks, phone hacking_
 
-### [David Cameron, the Prime Minister of the United Kingdom, makes a statement to the House of Commons in relation to the judicial inquiry into the ''News of the World'' phone hacking affair, hours before the announcement that Rupert Murdoch's News Corporation had withdrawn its bid to take full ownership of BSkyB. ](/news/2011/07/13/david-cameron-the-prime-minister-of-the-united-kingdom-makes-a-statement-to-the-house-of-commons-in-relation-to-the-judicial-inquiry-into.md)
+### [David Cameron, the Prime Minister of the United Kingdom, makes a statement to the House of Commons in relation to the judicial inquiry into the "News of the World" phone hacking affair, hours before the announcement that Rupert Murdoch's News Corporation had withdrawn its bid to take full ownership of BSkyB. ](/news/2011/07/13/david-cameron-the-prime-minister-of-the-united-kingdom-makes-a-statement-to-the-house-of-commons-in-relation-to-the-judicial-inquiry-into.md)
 The scandal enveloping Murdoch&rsquo;s News Corp. is also sullying Britain&rsquo;s prime minister.
 
 ### [Norman Moore, a senior politician in the Australian state of Western Australia, calls on the state to consider secession. ](/news/2011/07/13/norman-moore-a-senior-politician-in-the-australian-state-of-western-australia-calls-on-the-state-to-consider-secession.md)
 Premier Colin Barnett has refused to back a call from one of his most senior ministers for Western Australia to consider seceding from the nation over the carbon tax and Minerals Resource Rent Tax.
 
 ### [Thailand's Election Commission fails to endorse 142 prospective members of the House of Representatives including incoming Prime Minister Yingluck Shinawatra and outgoing Prime Minister Abhisit Vejjajiva. ](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.md)
-_Context: Abhisit Vejjajiva, House of Representatives, Prime Minister of Thailand, Thailand, Yingluck Shinawatra_
+_Context: Abhisit Vejjajiva, House of Representatives, Prime Minister, Thailand, Yingluck Shinawatra_
 
 ### [Prime Minister of Japan Naoto Kan tells a news conference of his plans to wean the country off nuclear energy after the Fukushima Daiichi nuclear disaster. ](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.md)
 Japanese prime minister vows to move country towards renewable energy after disaster-triggered Fukushima meltdown.

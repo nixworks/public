@@ -11,4 +11,4 @@ As country prepares to hold vote, ruling party is accused of violence and intimi
 
 ### Related:
 
-1. [Ethiopian general election, 2010:Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-pvoters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _Context: Ethiopian general election, 2010_
+1. [Ethiopian general election, 2010:. Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md) _Context: Ethiopian general election, 2010_

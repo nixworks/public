@@ -7,4 +7,5 @@
 
 ### Source:
 
-1. [USA Track and Field][http://www.flocasts.com/flotrack/coverage.php?c=69&id=4440 (Flo](http://www.usatf.org/news/view.aspx?DUID=USATF_2007_07_21_13_57_35)
+1. [Flo](http://www.flocasts.com/flotrack/coverage.php?c=69&id=4440)
+2. [USA Track and Field](http://www.usatf.org/news/view.aspx?DUID=USATF_2007_07_21_13_57_35)

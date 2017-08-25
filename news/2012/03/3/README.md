@@ -1,6 +1,6 @@
 ## [2012-03-3](/news/2012/03/3/index.md)
 
-### [Syria:The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-pthe-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md)
+### [Syria:. The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md)
 A suicide bomber killed two people and wounded several others in the southern Syrian town of Deraa on Saturday, the Syrian state news agency Sana said.
 
 ### [At least three people are killed in a bombing that targeted a Republican Guard building in Badya, Yemen. ](/news/2012/03/3/at-least-three-people-are-killed-in-a-bombing-that-targeted-a-republican-guard-building-in-badya-yemen.md)
@@ -21,7 +21,7 @@ _Context: Guinea_
 ### [Egypt appoints new judges for the trial of 43 non-government organisation workers including six Americans who left earlier in the week. ](/news/2012/03/3/egypt-appoints-new-judges-for-the-trial-of-43-non-government-organisation-workers-including-six-americans-who-left-earlier-in-the-week.md)
 _Context: American, Egypt, non-government organisation_
 
-### [The criminal case associated with the wreck of the ''Costa Concordia'' starts in Italy. ](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.md)
+### [The criminal case associated with the wreck of the "Costa Concordia" starts in Italy. ](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.md)
 Lawyers and survivors of the Costa Concordia accident converged on Saturday for the first evidence hearing in the case against the ship’s captain and others.
 
 ### [Residents of Wukan in southern China that staged a revolt against officials hold council elections. ](/news/2012/03/3/residents-of-wukan-in-southern-china-that-staged-a-revolt-against-officials-hold-council-elections.md)

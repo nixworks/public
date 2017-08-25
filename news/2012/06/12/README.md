@@ -1,6 +1,6 @@
 ## [2012-06-12](/news/2012/06/12/index.md)
 
-### [Arab Spring:Bahraini uprising: The 11-year-old child imprisoned by the regime speaks of being chased down while playing in the street. ](/news/2012/06/12/arab-spring-pbahraini-uprising-the-11-year-old-child-imprisoned-by-the-regime-speaks-of-being-chased-down-while-playing-in-the-street.md)
+### [Arab Spring:. Bahraini uprising: The 11-year-old child imprisoned by the regime speaks of being chased down while playing in the street. ](/news/2012/06/12/arab-spring-bahraini-uprising-the-11-year-old-child-imprisoned-by-the-regime-speaks-of-being-chased-down-while-playing-in-the-street.md)
 Tunisia declares a curfew in eight regions, including the capital, after rioting which the government blames on Islamists angered by an art show.
 
 ### [Russian and Polish football fans clash in Warsaw ahead of their UEFA Euro 2012 match. ](/news/2012/06/12/russian-and-polish-football-fans-clash-in-warsaw-ahead-of-their-uefa-euro-2012-match.md)
@@ -27,10 +27,10 @@ Six flood warnings and 42 flood alerts remain in place across London and the sou
 ### [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md)
 _Context: Gaza flotilla raid, Israel, Mediterranean Sea, Turkey, genocide of Armenians, international waters_
 
-### [The ''NME'' issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-fals.md)
+### [The "NME" issues a public apology to English singer and lyricist Steven Patrick Morrissey over an article it published in 2007, which falsely suggested he was racist and led to a libel case. ](/news/2012/06/12/the-nme-issues-a-public-apology-to-english-singer-and-lyricist-steven-patrick-morrissey-over-an-article-it-published-in-2007-which-falsel.md)
 The NME publicly apologises to singer Morrissey for an article it published in 2007 which, the singer claimed, suggested he was racist.
 
-### [John Major, who was British Prime Minister between 1990 and 1997, tells the Leveson Inquiry that Rupert Murdoch warned him before the 1997 general election to switch policy on Europe or his newspapers would not support him. The Conservative Party subsequently lost power to Labour, with Murdoch's ''The Sun'' tabloid daily supporting Major's rival Tony Blair. ](/news/2012/06/12/john-major-who-was-british-prime-minister-between-1990-and-1997-tells-the-leveson-inquiry-that-rupert-murdoch-warned-him-before-the-1997-g.md)
+### [John Major, who was British Prime Minister between 1990 and 1997, tells the Leveson Inquiry that Rupert Murdoch warned him before the 1997 general election to switch policy on Europe or his newspapers would not support him. The Conservative Party subsequently lost power to Labour, with Murdoch's "The Sun" tabloid daily supporting Major's rival Tony Blair. ](/news/2012/06/12/john-major-who-was-british-prime-minister-between-1990-and-1997-tells-the-leveson-inquiry-that-rupert-murdoch-warned-him-before-the-1997-g.md)
 Rupert Murdoch warned John Major to change his policy on Europe or his papers would not support him, the former PM tells the Leveson Inquiry.
 
 ### [A coroner in Australia's Northern Territory rules that a dingo was responsible for the death of baby Azaria Chamberlain at Uluru in August 1980. ](/news/2012/06/12/a-coroner-in-australia-s-northern-territory-rules-that-a-dingo-was-responsible-for-the-death-of-baby-azaria-chamberlain-at-uluru-in-august-1.md)

@@ -1,6 +1,6 @@
 ### [2010-05-23](/news/2010/05/23/index.md)
 
-# The Rolling Stones achieve their first UK number one album for 16 years with a re-release of ''Exile on Main St.''. 
+# The Rolling Stones achieve their first UK number one album for 16 years with a re-release of "Exile on Main St.". 
 
 The Rolling Stones score their first number one album since 1994 with a reissue of Exile On Main Street.
 

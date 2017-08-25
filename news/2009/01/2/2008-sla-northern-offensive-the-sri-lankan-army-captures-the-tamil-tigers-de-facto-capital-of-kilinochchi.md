@@ -1,6 +1,6 @@
 ### [2009-01-2](/news/2009/01/2/index.md)
 
-#  2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' ''de facto'' capital of Kilinochchi. 
+#  2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' "de facto" capital of Kilinochchi. 
 
 
 

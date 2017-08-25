@@ -6,7 +6,7 @@ _Context: Boeing 747, Henry Obering, Iran, Missile Defense Agency, North Korea, 
 ### [ Cuban television shows images of convalescing leader Fidel Castro walking and reading the day's newspapers showing that he is recovering from his emergency surgery in July. ](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ The Russian political parties Rodina, the Russian Party of Life and the Russian Pensioners' Party merge to form a new leftist party, Fair Russia, effectively making Sergey Mironov the new leader of the opposition in the Russian legislature.  ](/news/2006/10/28/the-russian-political-parties-rodina-the-russian-party-of-life-and-the-russian-pensioners-party-merge-to-form-a-new-leftist-party-fair-r.md)
+### [ The Russian political parties Rodina, the Russian Party of Life and the Russian Pensioners' Party merge to form a new leftist party, Fair Russia, effectively making Sergey Mironov the new leader of the opposition in the Russian legislature. ](/news/2006/10/28/the-russian-political-parties-rodina-the-russian-party-of-life-and-the-russian-pensioners-party-merge-to-form-a-new-leftist-party-fair-r.md)
 _Context: Fair Russia, Federal Assembly, Rodina, Russia, Russian Party of Life, Russian Pensioners' Party, Sergey Mironov, opposition party, political parties_
 
 ### [ Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." ](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.md)
@@ -18,7 +18,7 @@ _Context: Nepal, bus crash_
 ### [ Violence breaks out during street protests in Bangladesh, causing the deaths of at least 9 people, as confusion continues over who will take over governing the country from former Prime Minister Begum Khaleda Zia. ](/news/2006/10/28/violence-breaks-out-during-street-protests-in-bangladesh-causing-the-deaths-of-at-least-9-people-as-confusion-continues-over-who-will-tak.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ The genome of the honeybee ''Apis mellifera'' has been fully sequenced and analyzed. ](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.md)
+### [ The genome of the honeybee "Apis mellifera" has been fully sequenced and analyzed. ](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.md)
 _Context: Apis mellifera, genome, honeybee_
 
 ### [ German newspaper Bild publishes photos allegedly showing Bundeswehr troops posing with human remains in Afghanistan while on peacekeeping duties there. ](/news/2006/10/28/german-newspaper-bild-publishes-photos-allegedly-showing-bundeswehr-troops-posing-with-human-remains-in-afghanistan-while-on-peacekeeping-d.md)

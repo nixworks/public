@@ -11,5 +11,5 @@ The rain has affected 148900 people there and forced the evacuation of 2788 8.Di
 
 ### Related:
 
-1. [Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast-in-f.md) _Context: South China_
+1. [2017 China floods. Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/2017-china-floods-floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-ra.md) _Context: South China_
 2. [A week of heavy rains and flooding in south China results in at least 25 deaths, six people missing and 33,000 people displaced. ](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.md) _Context: South China_

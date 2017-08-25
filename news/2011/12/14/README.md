@@ -3,7 +3,7 @@
 ### [Thirteen people are killed in Hama, Syria, during the latest violence in the ongoing uprising. ](/news/2011/12/14/thirteen-people-are-killed-in-hama-syria-during-the-latest-violence-in-the-ongoing-uprising.md)
 Activists say reprisal ambush in Hama province left eight soldiers dead after government forces killed five civilians.
 
-### [''Time'' names "The Protester" the magazine's 2011 Person of the Year, as a result of the Arab Spring and subsequent movements. ](/news/2011/12/14/time-names-the-protester-the-magazine-s-2011-person-of-the-year-as-a-result-of-the-arab-spring-and-subsequent-movements.md)
+### ["Time" names "The Protester" the magazine's 2011 Person of the Year, as a result of the Arab Spring and subsequent movements. ](/news/2011/12/14/time-names-the-protester-the-magazine-s-2011-person-of-the-year-as-a-result-of-the-arab-spring-and-subsequent-movements.md)
 _Context: Arab Spring, Person of the Year, Time, subsequent movements_
 
 ### [United Kingdom unemployment rises to 2.64m. ](/news/2011/12/14/united-kingdom-unemployment-rises-to-2-64m.md)

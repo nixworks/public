@@ -1,6 +1,6 @@
 ## [2013-02-18](/news/2013/02/18/index.md)
 
-### [Artist Ruth Stage, who uses the ancient egg tempera painting technique, wins the 2013 Lynn Painter-Stainers art prize for her work ''The Isabella Plantation''. ](/news/2013/02/18/artist-ruth-stage-who-uses-the-ancient-egg-tempera-painting-technique-wins-the-2013-lynn-painter-stainers-art-prize-for-her-work-the-isa.md)
+### [Artist Ruth Stage, who uses the ancient egg tempera painting technique, wins the 2013 Lynn Painter-Stainers art prize for her work "The Isabella Plantation". ](/news/2013/02/18/artist-ruth-stage-who-uses-the-ancient-egg-tempera-painting-technique-wins-the-2013-lynn-painter-stainers-art-prize-for-her-work-the-isab.md)
 Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,000 Lynn Painter-Stainers prize.
 
 ### [English singer-songwriter Kevin Ayers dies at the age of 68. ](/news/2013/02/18/english-singer-songwriter-kevin-ayers-dies-at-the-age-of-68.md)

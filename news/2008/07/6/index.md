@@ -15,7 +15,7 @@ _Context: Iraq, United Arab Emirates, foreign debt_
 ### [ World leaders arrive in Japan for the G8 summit to be held in Toyako, Hokkaido. ](/news/2008/07/6/world-leaders-arrive-in-japan-for-the-g8-summit-to-be-held-in-tayako-hokkaida.md)
 _Context: 34th G8 summit, G8 group of nations, Japan, Toyako, Hokkaido_
 
-### [ An explosion near the Red Mosque in the Pakistani capital  Islamabad kills at least 10 people. The attack came on the first anniversary of the deadly siege and storming of the Red Mosque. ](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistani-capital-islamabad-kills-at-least-10-people-the-attack-came-on-the-first-anniversary-of.md)
+### [ An explosion near the Red Mosque in the Pakistani capital Islamabad kills at least 10 people. The attack came on the first anniversary of the deadly siege and storming of the Red Mosque. ](/news/2008/07/6/an-explosion-near-the-red-mosque-in-the-pakistani-capital-islamabad-kills-at-least-10-people-the-attack-came-on-the-first-anniversary-of-t.md)
 _Context: An explosion, Islamabad, Pakistan, Red Mosque, deadly siege and storming of the Red Mosque_
 
 ## [Previous Day...](/news/2008/07/5/index.md)

@@ -1,18 +1,18 @@
 ## [2014-01-20](/news/2014/01/20/index.md)
 
-### [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md)
+### [War in North-West Pakistan. A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/war-in-north-west-pakistan-a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md)
 _Context: Pakistan, Rawalpindi, War in North-West Pakistan, killing at least 13 people, suicide bomber_
 
-### [An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic-games-to-be-held-in-sochi.md)
+### [December 2013 Volgograd bombings. An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/december-2013-volgograd-bombings-an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic.md)
 Two men said by Islamist militants to have carried out suicide attacks in south Russia appeared in a video donning explosive belts and warning Vladimir Putin to expect a &quot;present&quot; at the Sochi Winter Olympics from fighters following after them.
 
-### [Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/violence-spreads-in-kiev-as-protesters-clash-with-police.md)
+### [Euromaidan. Violence spreads in Kiev as protesters clash with police. ](/news/2014/01/20/euromaidan-violence-spreads-in-kiev-as-protesters-clash-with-police.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The United Kingdom rejects its involvement in combat drone attacks by the United States in Pakistan. ](/news/2014/01/20/the-united-kingdom-rejects-its-involvement-in-combat-drone-attacks-by-the-united-states-in-pakistan.md)
 Judges reject a legal challenge against the UK government by the son of a man killed in Pakistan by a US drone.
 
-### [Syrian Civil War:Two car bombs hit a rebel-held post on the Syrian border with Turkey, killing at least 16 people amidst continuing fighting between Turkey-supported rebels and Saudi-supported rebels. ](/news/2014/01/20/syrian-civil-war-ptwo-car-bombs-hit-a-rebel-held-post-on-the-syrian-border-with-turkey-killing-at-least-16-people-amidst-continuing-fightin.md)
+### [Syrian Civil War:. Two car bombs hit a rebel-held post on the Syrian border with Turkey, killing at least 16 people amidst continuing fighting between Turkey-supported rebels and Saudi-supported rebels. ](/news/2014/01/20/syrian-civil-war-two-car-bombs-hit-a-rebel-held-post-on-the-syrian-border-with-turkey-killing-at-least-16-people-amidst-continuing-fighti.md)
 Two car bombs hit a rebel-held post on the Syrian border with Turkey on Monday, killing at least 16 people and closing the frontier, opposition activists and fighters said.
 
 ### [More than 20 million South Koreans' credit cards are hacked. ](/news/2014/01/20/more-than-20-million-south-koreans-credit-cards-are-hacked.md)
@@ -42,7 +42,7 @@ _Context: Iran, Syria, United Nations, United States_
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
 _Context: European Union, Iran, United States_
 
-### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
+### [Global surveillance disclosures (2013-present). Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/global-surveillance-disclosures-2013-present-mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
 Several senior US lawmakers allege that intelligence leaker Edward Snowden may have been working with a foreign power, possibly Russia.
 
 ### [Kenneth Bae, an American prisoner in North Korea, releases a message to the United States for help. ](/news/2014/01/20/kenneth-bae-an-american-prisoner-in-north-korea-releases-a-message-to-the-united-states-for-help.md)
@@ -63,7 +63,7 @@ A Vietnamese court sentences 30 people to death over heroin smuggling in what is
 ### [The transitional National Assembly of the Central African Republic chooses Catherine Samba-Panza as the interim President, making her the country's first female head of state. ](/news/2014/01/20/the-transitional-national-assembly-of-the-central-african-republic-chooses-catherine-samba-panza-as-the-interim-president-making-her-the-co.md)
 Marin Ngoupana and Adrian Croft
 
-### [Kim Guadagno denies accusations that she withheld funds for the victims of Hurricane Sandy. ](/news/2014/01/20/kim-guadagno-denies-accusations-that-she-withheld-funds-for-the-victims-of-hurricane-sandy.md)
+### [Bridgegate scandal. Kim Guadagno denies accusations that she withheld funds for the victims of Hurricane Sandy. ](/news/2014/01/20/bridgegate-scandal-kim-guadagno-denies-accusations-that-she-withheld-funds-for-the-victims-of-hurricane-sandy.md)
 New Jersey Lt. Gov. Kim Guadagno denies accusation that she tied Superstorm Sandy relief funds to a Hoboken development project
 
 ### [President Robert Mugabe of Zimbabwe makes his first public appearance in several weeks. ](/news/2014/01/20/president-robert-mugabe-of-zimbabwe-makes-his-first-public-appearance-in-several-weeks.md)
@@ -72,7 +72,7 @@ Zimbabwe President Robert Mugabe appeared in public for the first time in severa
 ### [India launches the Agni-IV missile today. ](/news/2014/01/20/india-launches-the-agni-iv-missile-today.md)
 India’s nuclear deterrence programme received a boost on Monday when its Agni-IV, a surface-to-surface missile with a range of about 4,000 km, was successfully test-fired from the Wheeler Island, off
 
-### [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P/Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md)
+### [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P/Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumov-gerasimenko.md)
 European Space Agency controllers wait for a signal from the Rosetta probe that confirms it is awake and ready to resume the audacious mission to chase down a comet.
 
 ### [Dolphin hunting in the Japanese town of Taiji is criticized by US Ambassador to Japan Caroline Kennedy after protests by environmental groups. ](/news/2014/01/20/dolphin-hunting-in-the-japanese-town-of-taiji-is-criticized-by-us-ambassador-to-japan-caroline-kennedy-after-protests-by-environmental-group.md)

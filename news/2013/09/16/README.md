@@ -1,9 +1,9 @@
 ## [2013-09-16](/news/2013/09/16/index.md)
 
-### [Syrian civil war:The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-pthe-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
+### [Syrian civil war:. The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
 Follow live updates as a UN report into last month&#x27;s chemical weapons attack in Syria is expected to be published and France, Britain and the US meet to draft a new UN resolution
 
-### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the  city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)
+### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)
 _Context: Armed Forces, Battle of Zamboanga City, Moro National Liberation Front, Zamboanga City_
 
 ### [Hurricane Ingrid is due to make landfall in Mexico as the remnants of Tropical Storm Manuel causes heavy rain on the Pacific coast. So far, 21 people have died as a result of the two storms including 14 people in Guerrero state. ](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.md)
@@ -15,7 +15,7 @@ _Context: 2013 Pacific typhoon season, Fukushima Daiichi Nuclear Power Plant, Ja
 ### [Rain continues in the American state of Colorado as more than 1,200 people remain unaccounted for in the current floods. ](/news/2013/09/16/rain-continues-in-the-american-state-of-colorado-as-more-than-1-200-people-remain-unaccounted-for-in-the-current-floods.md)
 As rain continued for a seventh day, inundating much of the state and creating a virtual moat around the closed Rocky Mountain National Park, Sandra Ellison waited at the Timberline Church here...
 
-### [The Singaporean container ship ''Sima Sapphire'' collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-n.md)
+### [The Singaporean container ship "Sima Sapphire" collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.md)
 Vietnamese port authorities confirmed that early Monday morning a cargo ship transiting to Malaysia collided with a fishing vessel with 16 fishermen
 
 ### [The United States and Russia agree to a deal to eradicate chemical weapons in Syria. ](/news/2013/09/16/the-united-states-and-russia-agree-to-a-deal-to-eradicate-chemical-weapons-in-syria.md)

@@ -1,0 +1,25 @@
+### [2016-05-2](/news/2016/05/2/index.md)
+
+# Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. 
+
+The newly discovered worlds are now the most promising targets in the search for life among the stars—and the race to take a closer look at them has begun.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2016/05/02/health/three-habitable-planets-earth-dwarf-star/)
+2. [Nature](http://www.nature.com/articles/nature17448.epdf?referrer_access_token=iiEdYLP4HdMl6uPKm2T7G9RgN0jAjWel9jnR3ZoTv0MIFXhO48LwbcrnV_fG0uzdTXDH0U-GZiE_QhzwpCK3vvWAYKfh9dBqs7si1lc7aEfLj8EfY1mfB67qKa1pyy8EZbcYsGLGzKGi6-g-aRae6zCv6otzBHGaSV8SdhZT3_-SiNixjmizRm-uSgxwruni9Sa8aVEslAVfuHK3JAtq1A%3D%3D&tracking_referrer=www.cnn.com)
+3. [The Atlantic](http://www.theatlantic.com/science/archive/2016/05/astronomers-have-found-planets-in-the-habitable-zone/480690/)
+
+### Related:
+
+1. [Cosmic Vision. The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/cosmic-vision-the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: exoplanet_
+2. [NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. ](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.md) _Context: TRAPPIST-1_
+3. [ A research team led by an evolutionary biologist at the University of Arizona publishes a paper in "Nature" on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. ](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologist-at-the-university-of-arizona-publishes-a-paper-in-nature-on-the-genetic-history-of-hiv-p.md) _Context: Nature_
+4. [A study published in Nature finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. ](/news/2016/09/26/a-study-published-in-nature-finds-the-earth-s-surface-is-warmer-than-it-has-been-in-about-120-000-years-and-is-locked-into-eventually-hitti.md) _Context: Nature_
+5. [Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. ](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.md) _Context: exoplanet_
+6. [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P/Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md) _Context: Nature_
+7. [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md) _Context: exoplanet_
+8. [Research published in the journal "Nature" claims that a large portion of the lithium in the universe was produced by novae. ](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.md) _Context: Nature_
+9. ["The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.md) _Context: exoplanet_
+10. ["Nature" publishes Penn State University findings of Ancient shells with 430,000-year-old engravings believed to be made by "Homo erectus", changing beliefs on artistic expression and tool use by ancestors of "Homo sapiens". Dutch anthropologist Eugene Dubois found the collection in Java in 1891 and Penn State discovered the markings in a museum in the city of Leiden. ](/news/2014/12/9/nature-publishes-penn-state-university-findings-of-ancient-shells-with-430-000-year-old-engravings-believed-to-be-made-by-homo-erectus.md) _Context: Nature_

@@ -6,13 +6,13 @@ Nearly 2,000 Ethiopian migrants trapped in violence-hit Yemen are being evacuate
 ### [2011 Syrian uprising: Security forces kill seven people during clashes between opposition and pro-government supporters in three cities. ](/news/2011/06/21/2011-syrian-uprising-security-forces-kill-seven-people-during-clashes-between-opposition-and-pro-government-supporters-in-three-cities.md)
 Activists say seven people killed as government supporters and opponents clash in three cities.
 
-### [2011 Libyan civil war:NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-pnato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-lib.md)
+### [2011 Libyan civil war:. NATO's command centre in Naples loses contact with an MQ-8 Fire Scout drone during reconnaissance operations over Libya. ](/news/2011/06/21/2011-libyan-civil-war-nato-s-command-centre-in-naples-loses-contact-with-an-mq-8-fire-scout-drone-during-reconnaissance-operations-over-li.md)
 Nato says it has lost an unmanned helicopter drone over Libya, as state TV shows images of what it describes as a downed attack helicopter.
 
 ### [At least 20 people are killed when a car bomb explodes outside a local governor's house in Al Diwaniyah in Iraq. ](/news/2011/06/21/at-least-20-people-are-killed-when-a-car-bomb-explodes-outside-a-local-governor-s-house-in-al-diwaniyah-in-iraq.md)
 _Context: Al Diwaniyah, At least 20 people are killed, Iraq, car bomb_
 
-### [European sovereign debt crisis:Greece:The Greek parliament holds a vote of confidence in government cuts associated with a new EUR12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-pgreece-pthe-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-a-12-billi.md)
+### [European sovereign debt crisis:. Greece:. The Greek parliament holds a vote of confidence in government cuts associated with a new -12 billion loan from the European Union and the International Monetary Fund. ](/news/2011/06/21/european-sovereign-debt-crisis-greece-the-greek-parliament-holds-a-vote-of-confidence-in-government-cuts-associated-with-a-new-12-bil.md)
 Greek MPs begin voting on a motion of confidence as the government battles to win support for new austerity measures.
 
 ### [Pilot error is suspected to be the cause of the crash of RusAir Flight 9605 in Petrozavodsk, Russia, which killed 44 people on 20 June.](/news/2011/06/21/pilot-error-is-suspected-to-be-the-cause-of-the-crash-of-rusair-flight-9605-in-petrozavodsk-russia-which-killed-44-people-on-20-june.md)
@@ -24,7 +24,7 @@ _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, Chile_
 ### [At least 28 children die mysteriously in the Indian state of Bihar. ](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.md)
 At least 28 children in the northern Indian state of Bihar have died in the past week from an unidentified illness, officials say
 
-### [Central United States stormsMore than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-stormspmore-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-with.md)
+### [Central United States storms. More than 270,000 people in the US city of Chicago, Illinois, are left without power due to thunder storms with some reports of funnel clouds. ](/news/2011/06/21/central-united-states-storms-more-than-270-000-people-in-the-us-city-of-chicago-illinois-are-left-without-power-due-to-thunder-storms-wit.md)
 Commonwealth Edison expects to restore power to most of its customers by Thursday night, two days after a violent wave of storms that spawned at least two tornadoes and packed 80 mph winds at one point left about 440,000 customers without electricity throughout the Chicago area.
 
 ### [A 2014 deadline that would have moved a U.S. airbase opposed by politicians and civilians off Okinawa is cancelled following last year's resignation of Prime Minister of Japan Yukio Hatoyama over his own inability to remove the base. ](/news/2011/06/21/a-2014-deadline-that-would-have-moved-a-u-s-airbase-opposed-by-politicians-and-civilians-off-okinawa-is-cancelled-following-last-year-s-res.md)

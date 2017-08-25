@@ -1,6 +1,6 @@
 ### [2016-08-2](/news/2016/08/2/index.md)
 
-# At least five people are killed and dozens injured when a charter bus swerved into a support pole on California Highway 99 near the town of Livingston in Merced County. The bus was headed to   Pasco, Washington. 
+# At least five people are killed and dozens injured when a charter bus swerved into a support pole on California Highway 99 near the town of Livingston in Merced County. The bus was headed to Pasco, Washington. 
 
 The charter bus swerved into a support pole, apparently at full speed, and trapped some of the injured in their seats for hours.
 
@@ -12,4 +12,4 @@ The charter bus swerved into a support pole, apparently at full speed, and trapp
 
 ### Related:
 
-1. [The Merced County Sheriff identifies the attacker of four students at the University of California, Merced as freshman Faisal Mohammad. ](/news/2015/11/5/the-merced-county-sheriff-identifies-the-attacker-of-four-students-at-the-university-of-california-merced-as-freshman-faisal-mohammad.md) _Context: Merced County_
+1. [2015 University of California, Merced stabbing attack. The Merced County Sheriff identifies the attacker of four students at the University of California, Merced as freshman Faisal Mohammad. ](/news/2015/11/5/2015-university-of-california-merced-stabbing-attack-the-merced-county-sheriff-identifies-the-attacker-of-four-students-at-the-university.md) _Context: Merced County_

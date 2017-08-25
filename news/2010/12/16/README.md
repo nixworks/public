@@ -3,7 +3,7 @@
 ### [An Israeli Air Force F-16 shoots down a balloon that flew near the Dimona Nuclear Reactor after entering Israeli airspace from Jordan. ](/news/2010/12/16/an-israeli-air-force-f-16-shoots-down-a-balloon-that-flew-near-the-dimona-nuclear-reactor-after-entering-israeli-airspace-from-jordan.md)
 F-16 jet shoots down apparent engine-powered balloon that flew in forbidden zone over Dimona; military says it was unmanned 
 
-### [Riots in Sidi Bouzid, Tunisia.     ](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.md)
+### [Riots in Sidi Bouzid, Tunisia. ](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.md)
 Images posted on social-network sites show police intervening to halt disturbances ignored by national media.
 
 ### [Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. ](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.md)
@@ -63,7 +63,7 @@ Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off sta
 ### [The European Court of Human Rights rules that Ireland's ban on abortion in life-threatening cases is illegal. ](/news/2010/12/16/the-european-court-of-human-rights-rules-that-ireland-s-ban-on-abortion-in-life-threatening-cases-is-illegal.md)
 _Context: European Court of Human Rights, Ireland, abortion_
 
-### [The Scottish Government rules out re-introducing tuition fees for Scottish university students, but students from other parts of the United Kingdom attending university in Scotland may face fees of 6,000. ](/news/2010/12/16/the-scottish-government-rules-out-re-introducing-tuition-fees-for-scottish-university-students-but-students-from-other-parts-of-the-united.md)
+### [The Scottish Government rules out re-introducing tuition fees for Scottish university students, but students from other parts of the United Kingdom attending university in Scotland may face fees of GBP6,000. ](/news/2010/12/16/the-scottish-government-rules-out-re-introducing-tuition-fees-for-scottish-university-students-but-students-from-other-parts-of-the-united.md)
 Students from England, Wales and Northern Ireland who go to Scottish universities could face annual tuition fees of up to £6,000.
 
 ### [The Government of Northern Ireland announces an inquiry into child abuse inside institutions. ](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.md)

@@ -1,6 +1,6 @@
 ## [2014-01-27](/news/2014/01/27/index.md)
 
-### [Islamist insurgency in Nigeria:Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-psixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md)
+### [Islamist insurgency in Nigeria:. Sixty-one people are feared to have been killed following gun attacks in the states of Adamawa and Borno. ](/news/2014/01/27/islamist-insurgency-in-nigeria-sixty-one-people-are-feared-to-have-been-killed-following-gun-attacks-in-the-states-of-adamawa-and-borno.md)
 _Context: Adamawa State, Borno State, Islamist insurgency in Nigeria_
 
 ### [American folk singer Pete Seeger dies at the age of 94. ](/news/2014/01/27/american-folk-singer-pete-seeger-dies-at-the-age-of-94.md)

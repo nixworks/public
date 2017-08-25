@@ -57,7 +57,7 @@ An Australian Muslim cleric has reportedly called for the beheading of the Dutch
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
 _Context: Britain, Royal Mail, image recognition, postage stamp_
 
-### [A study published in the journal ''Cell'' reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with.md)
+### [A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with-m.md)
 _Context: cerebral cortex, mushroom bodies_
 
 ## [Previous Day...](/news/2010/09/2/index.md)

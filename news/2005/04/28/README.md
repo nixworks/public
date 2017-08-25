@@ -9,7 +9,7 @@ _Context: Arkansas, extinct, ivory-billed woodpecker_
 ### [ British Prime Minister Tony Blair publishes the advice of Lord Goldsmith, the Attorney General, on the legality of the 2003 invasion of Iraq. ](/news/2005/04/28/british-prime-minister-tony-blair-publishes-the-advice-of-lord-goldsmith-the-attorney-general-on-the-legality-of-the-2003-invasion-of-ira.md)
 _Context: 2003 invasion of Iraq, Attorney General for England and Wales, Lord Goldsmith, Prime Minister, Tony Blair_
 
-### [ The Edvard Munch paintings ''The Scream'' and ''Madonna'', which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been.md)
+### [ The Edvard Munch paintings "The Scream" and "Madonna", which were stolen from the Munch Museum in Oslo on August 22 2004, may have been burned, says the Norwegian newspaper Dagbladet. The Oslo police do not confirm the rumour. ](/news/2005/04/28/the-edvard-munch-paintings-the-scream-and-madonna-which-were-stolen-from-the-munch-museum-in-oslo-on-august-22-2004-may-have-been-bur.md)
 _Context: ''Madonna'', 2004, August 22, Edvard Munch, Munch Museum, Norway, Oslo, The Scream, newspaper, painter_
 
 ### [ The death toll in the Amagasaki rail crash in Japan rises to 104. Rescuers find the body of the train's driver. ](/news/2005/04/28/the-death-toll-in-the-amagasaki-rail-crash-in-japan-rises-to-104-rescuers-find-the-body-of-the-train-s-driver.md)

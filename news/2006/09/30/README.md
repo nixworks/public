@@ -1,12 +1,12 @@
 ## [2006-09-30](/news/2006/09/30/index.md)
 
-### [ The ''Los Angeles Times'' has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-o.md)
+### [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md)
 _Context: Andy Pettitte, Jason Grimsley, Los Angeles Times, Major League Baseball, Miguel Tejada, Roger Clemens, doping_
 
 ### [ In Nigeria, the collapse of a dam wall kills forty people in Gusau, Zamfara state. ](/news/2006/09/30/in-nigeria-the-collapse-of-a-dam-wall-kills-forty-people-in-gusau-zamfara-state.md)
 _Context: Gusau, Nigeria, Zamfara state_
 
-### [ Eighteen-year-old Tatana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taay-a-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-kon.md)
+### [ Eighteen-year-old TaCNYana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taacnya-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-k.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Ireland the controversy continues over payments by businessmen friends to Taoiseach (Prime Minister) Bertie Ahern in 1993 when he was Minister for Finance; it has come to light that the largest of the payments was drawn on a company cheque. ](/news/2006/09/30/in-ireland-the-controversy-continues-over-payments-by-businessmen-friends-to-taoiseach-prime-minister-bertie-ahern-in-1993-when-he-was-mi.md)

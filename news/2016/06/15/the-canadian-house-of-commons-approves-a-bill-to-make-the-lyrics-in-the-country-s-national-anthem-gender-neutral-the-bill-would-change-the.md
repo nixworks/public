@@ -1,6 +1,6 @@
 ### [2016-06-15](/news/2016/06/15/index.md)
 
-# The Canadian  House of Commons approves a bill to make the lyrics in the country's national anthem gender neutral. The bill would change the words in ''O Canada'' from "in all thy sons command" to "in all of us command." 
+# The Canadian House of Commons approves a bill to make the lyrics in the country's national anthem gender neutral. The bill would change the words in "O Canada" from "in all thy sons command" to "in all of us command." 
 
 
 

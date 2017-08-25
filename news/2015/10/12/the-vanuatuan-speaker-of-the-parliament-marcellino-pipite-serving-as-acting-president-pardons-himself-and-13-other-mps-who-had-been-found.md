@@ -11,5 +11,5 @@ Vanuatu&#039;s acting president has used his executive powers to pardon himself 
 
 ### Related:
 
-1. [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md) _Context: Parliament_
+1. [Politics of Vanuatu. Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/politics-of-vanuatu-baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon.md) _Context: Parliament_
 2. [ Thirty prisoners burn down and escape their jail in Vanuatu. Two Members of Parliament are later arrested for harboring some of the fugitives. ](/news/2008/12/19/thirty-prisoners-burn-down-and-escape-their-jail-in-vanuatu-two-members-of-parliament-are-later-arrested-for-harboring-some-of-the-fugitiv.md) _Context: Parliament_

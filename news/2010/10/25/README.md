@@ -30,7 +30,7 @@ _Context: Sony, Walkman, cassette_
 ### [US financial regulators launch an investigation into the foreclosure practices of various US financial institutions. ](/news/2010/10/25/us-financial-regulators-launch-an-investigation-into-the-foreclosure-practices-of-various-us-financial-institutions.md)
 US banking regulators plan their own investigation into whether lenders were wrong to repossess hundreds of thousands of homes.
 
-### [CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md)
+### [BP. CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/bp-ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md)
 _Context: BP, Bob Dudley, Deepwater Horizon oil spill_
 
 ### [American International Group CEO Robert Benmosche has cancer, the company said, and he is receiving "aggressive chemotherapy," but his prognosis is not clear. ](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.md)
@@ -42,19 +42,19 @@ BP Canada employees aboard aircraft that went down near Conklin
 ### [Leading Nepalese Sherpa Chhewang Nima, known for climbing Mount Everest 19 times, is now feared dead. ](/news/2010/10/25/leading-nepalese-sherpa-chhewang-nima-known-for-climbing-mount-everest-19-times-is-now-feared-dead.md)
 A famed Sherpa guide was last night feared dead after being struck by an avalanche while nearing the peak of the 7,129m Mount Baruntse in eaastern Nepal.
 
-### [Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md)
+### [Indonesia. Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. ](/news/2010/10/25/indonesia-authorities-evacuate-40-000-people-in-java-due-to-fears-of-an-explosion-by-mount-merapi.md)
 A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggering a tsunami watch, which is later lifted.
 
 ### [At least 27 people are killed and eighty injured after oil leaks from a pipeline near the town of Pakokku in Burma. ](/news/2010/10/25/at-least-27-people-are-killed-and-eighty-injured-after-oil-leaks-from-a-pipeline-near-the-town-of-pakokku-in-burma.md)
 At least 12 people are thought to have been killed and up to 80 injured after oil leaking from a pipeline in Burma caught fire.
 
-### [Israeli officials criticize the concluding document of the Vatican's synod on the Middle East, with Israeli deputy foreign minister Danny Ayalon accusing the synod of being "a forum for Arab propaganda". ](/news/2010/10/25/israeli-officials-criticize-the-concluding-document-of-the-vaticanas-synod-on-the-middle-east-with-israeli-deputy-foreign-minister-danny.md)
+### [Israeli officials criticize the concluding document of the Vatican-s synod on the Middle East, with Israeli deputy foreign minister Danny Ayalon accusing the synod of being "a forum for Arab propaganda". ](/news/2010/10/25/israeli-officials-criticize-the-concluding-document-of-the-vatican-s-synod-on-the-middle-east-with-israeli-deputy-foreign-minister-danny.md)
 THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical note this weekend when Israeli deputy foreign minister&hellip;
 
 ### [Japan lodges a formal protest with China after two Chinese fishing boats were seen near the Senkaku Islands. ](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.md)
 _Context: China, Japan, Senkaku Islands_
 
-### [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md)
+### [Afghanistan. President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/afghanistan-president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that.md)
 A Dutch aid worker and his Afghan driver have been abducted by gunmen in north eastern Afghanistan, officials say.
 
 ### [U.S. Senator John Kerry of Massachusetts claims the government of Sudan{{spaced ndash}}which has been subject to U.S. sanctions since 1997{{spaced ndash}}has assured him it will hold a referendum on independence for the south. ](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.md)

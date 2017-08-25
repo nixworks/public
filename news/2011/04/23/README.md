@@ -3,7 +3,7 @@
 ### [Cambodia and Thailand clash on their border. ](/news/2011/04/23/cambodia-and-thailand-clash-on-their-border.md)
 At least four soldiers die in renewed fighting on the Thai-Cambodia border, bringing the death toll to 10 in two days.
 
-### [2011 Syrian protests:At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/2011-syrian-protests-pat-least-twelve-people-are-killed-by-security-forces-during-funerals.md)
+### [Arab Spring. 2011 Syrian protests:. At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/arab-spring-2011-syrian-protests-at-least-twelve-people-are-killed-by-security-forces-during-funerals.md)
 NATO carried out another series of air strikes on Tripoli early Saturday, Libyan government officials said.
 
 ### [The guest list for the wedding of Prince William and Catherine Middleton is announced. ](/news/2011/04/23/the-guest-list-for-the-wedding-of-prince-william-and-catherine-middleton-is-announced.md)

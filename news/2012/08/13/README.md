@@ -1,18 +1,18 @@
 ## [2012-08-13](/news/2012/08/13/index.md)
 
-### [Syrian civil war:Syrian forces kill at least 10 people at the entrance of Jdeidet Artouz district of Damascus according to opposition sources. ](/news/2012/08/13/syrian-civil-war-psyrian-forces-kill-at-least-10-people-at-the-entrance-of-jdeidet-artouz-district-of-damascus-according-to-opposition-sourc.md)
+### [Syrian civil war:. Syrian forces kill at least 10 people at the entrance of Jdeidet Artouz district of Damascus according to opposition sources. ](/news/2012/08/13/syrian-civil-war-syrian-forces-kill-at-least-10-people-at-the-entrance-of-jdeidet-artouz-district-of-damascus-according-to-opposition-sour.md)
 Rebels in eastern Syria said they downed a government fighter jet on Monday and captured the pilot, but state television said the plane crashed due to technical difficulties.
 
-### [WikiLeaks revelations and attack:WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-pwikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civil.md)
+### [WikiLeaks revelations and attack:. WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civi.md)
 Emails obtained via a hack of intelligence agency Stratfor have shed light on a secret, comprehensive U.S. surveillance effort led by Virginia-based TrapWire.
 
-### [American publisher and editor Helen Gurley Brown, editor-in-chief of ''Cosmopolitan'' magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies.md)
+### [American publisher and editor Helen Gurley Brown, editor-in-chief of "Cosmopolitan" magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies-at.md)
 Cosmopolitan editor Helen Gurley Brown, who decreed good girls go to heaven but bad girls go everywhere, has died aged 90.
 
 ### [Two new potential pyramid sites are discovered in Egypt. ](/news/2012/08/13/two-new-potential-pyramid-sites-are-discovered-in-egypt.md)
 _Context: Egypt_
 
-### [Outgoing BBC Director-General Mark Thompson is appointed CEO of ''The New York Times'', taking up his role in November. ](/news/2012/08/13/outgoing-bbc-director-general-mark-thompson-is-appointed-ceo-of-the-new-york-times-taking-up-his-role-in-november.md)
+### [Outgoing BBC Director-General Mark Thompson is appointed CEO of "The New York Times", taking up his role in November. ](/news/2012/08/13/outgoing-bbc-director-general-mark-thompson-is-appointed-ceo-of-the-new-york-times-taking-up-his-role-in-november.md)
 The New York Times Company announces that outgoing BBC director general Mark Thompson will become its chief executive and president in November.
 
 ### [Iran announces that the death toll from the 2012 Ahar-Varzaqan earthquakes is 306 with 3,037 injured. ](/news/2012/08/13/iran-announces-that-the-death-toll-from-the-2012-ahar-varzaqan-earthquakes-is-306-with-3-037-injured.md)

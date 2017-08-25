@@ -9,7 +9,7 @@ Projectile strikes open area in Eshkol region, after two others hit near Ashkelo
 ### [Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility. ](/news/2014/02/6/fighting-between-syrian-rebels-and-government-forces-rages-around-the-aleppo-central-prison-in-the-war-torn-city-of-aleppo-but-it-is-unclea.md)
 _Context: Aleppo, Syrian Military, Syrian rebels_
 
-### [Jay Leno finally says farewell for the second time to ''The Tonight Show'' with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md)
+### [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md)
 There was a moderate amount of crazy over the course of Leno&apos;s last hour, but it was mostly business as usual, with old friends.
 
 ### [Sony says it will sell its PC unit and split its TV division into a separate subsidiary as part of its restructuring programme. ](/news/2014/02/6/sony-says-it-will-sell-its-pc-unit-and-split-its-tv-division-into-a-separate-subsidiary-as-part-of-its-restructuring-programme.md)

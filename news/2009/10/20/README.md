@@ -12,7 +12,7 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 ### [ Nine North Koreans who entered the Danish embassy in Hanoi, Vietnam, last month leave for South Korea. ](/news/2009/10/20/nine-north-koreans-who-entered-the-danish-embassy-in-hanoi-vietnam-last-month-leave-for-south-korea.md)
 _Context: Denmark, Hanoi, North Korea, South Korea, Vietnam_
 
-### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md)
+### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbana-champaign-as-a-result-of-an-admissions-scandal.md)
 _Context: Richard Herman, University of Illinois at Urbana-Champaign, admissions scandal_
 
 ### [ Sun Microsystems announces plans to lay off up to 3,000 workers as it prepares for a merger with Oracle Corp. ](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.md)
@@ -27,7 +27,7 @@ _Context: ECOWAS, Niger, Nigerien President, Tandja Mamadou, parliamentary elect
 ### [ At least four students are killed and many injured in bomb explosions at an Islamic university in Islamabad, Pakistan. ](/news/2009/10/20/at-least-four-students-are-killed-and-many-injured-in-bomb-explosions-at-an-islamic-university-in-islamabad-pakistan.md)
 _Context: Islamabad, Islamic university, bomb explosions_
 
-### [ China pledges to rescue the crew aboard the Chinese ship ''De Xin Hai'' after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pir.md)
+### [ China pledges to rescue the crew aboard the Chinese ship "De Xin Hai" after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pirat.md)
 _Context: Piracy off the coast of Somalia_
 
 ### [ Detectives arrest a man in Belfast in connection with the Massereene Barracks shooting in County Antrim, Northern Ireland, in March 2009. ](/news/2009/10/20/detectives-arrest-a-man-in-belfast-in-connection-with-the-massereene-barracks-shooting-in-county-antrim-northern-ireland-in-march-2009.md)
@@ -45,7 +45,7 @@ _Context: Silvio Berlusconi_
 ### [ Rare footage of the abuse of suspected witches causes controversy in India. ](/news/2009/10/20/rare-footage-of-the-abuse-of-suspected-witches-causes-controversy-in-india.md)
 _Context: witch_
 
-### [ The United States observes the National Day on Writing, sponsored by the National Council of Teachers of English (''Pittsburgh Post-Gazette'') [http://www.post-gazette.com/pg/09293/1006870-44.stmP].](/news/2009/10/20/the-united-states-observes-the-national-day-on-writing-sponsored-by-the-national-council-of-teachers-of-english-pittsburgh-post-gazette.md)
+### [ The United States observes the National Day on Writing, sponsored by the National Council of Teachers of English ("Pittsburgh Post-Gazette") [http://www.post-gazette.com/pg/09293/1006870-44.stmP].](/news/2009/10/20/the-united-states-observes-the-national-day-on-writing-sponsored-by-the-national-council-of-teachers-of-english-pittsburgh-post-gazette.md)
 _Context: National Council of Teachers of English, National Day on Writing, United States_
 
 ## [Previous Day...](/news/2009/10/19/index.md)

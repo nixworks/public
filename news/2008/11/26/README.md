@@ -9,7 +9,7 @@ _Context: Czech Constitution, Czech Republic, Lisbon Treaty_
 ### [ Woolworths Group PLC agrees to put its chain of 815 stores in the United Kingdom and DVD distribution businesses into administration with 30,000 jobs at risk. ](/news/2008/11/26/woolworths-group-plc-agrees-to-put-its-chain-of-815-stores-in-the-united-kingdom-and-dvd-distribution-businesses-into-administration-with-3.md)
 _Context: Britain, DVD, Woolworths Group PLC_
 
-### [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md)
+### [ The European Union proposes a -200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-200-billion-stimulus-package-that-will-include-already-spent-money.md)
 _Context: EUR, European Union_
 
 ### [ U.S. President-elect Barack Obama announces that he will create a new "economic recovery board," headed by Paul Volcker, designed to provide "fresh perspective" on the current economic issues ](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.md)
@@ -21,7 +21,7 @@ At least six foreigners have been killed and the death toll has gone up to 101 i
 ### [ Vitaly Karayev, the mayor of Vladikavkaz, the capital of North Ossetia-Alania in Russia is assassinated. ](/news/2008/11/26/vitaly-karayev-the-mayor-of-vladikavkaz-the-capital-of-north-ossetia-alania-in-russia-is-assassinated.md)
 _Context: North Ossetia, Russia, Vitaly Karayev, Vladikavkaz, assassinated_
 
-### [ 2008 Thai political crisis: The People's Alliance for Democracy claims to be in complete control of Suvarnabhumi Airport, Bangkok's international airport. [http://www.smh.com.au/news/travel/protesters-we-control-bangkok-airport/2008/11/26/1227491584334.html?page=fullpage#contentSwap1 (Sydney Morning Herald)] Thai authorities evacuate thousands of passengers from Suvarnabhumi Airport. [http://www.abc.net.au/news/stories/2008/11/26/2430615.htm (ABC News Australia)] Thai Prime Minister Somchai Wongsawat rejects calls for election. [http://news.bbc.co.uk/2/hi/asia-pacific/7750737.stm BBC News] adde](/news/2008/11/26/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-claims-to-be-in-complete-control-of-suvarnabhumi-airport-bangkok-s-intern.md)
+### [ 2008 Thai political crisis:. The People's Alliance for Democracy claims to be in complete control of Suvarnabhumi Airport, Bangkok's international airport. [http://www.smh.com.au/news/travel/protesters-we-control-bangkok-airport/2008/11/26/1227491584334.html?page=fullpage#contentSwap1 (Sydney Morning Herald)]. Thai authorities evacuate thousands of passengers from Suvarnabhumi Airport. [http://www.abc.net.au/news/stories/2008/11/26/2430615.htm (ABC News Australia)]. Thai Prime Minister Somchai Wongsawat rejects calls for election. [http://news.bbc.co.uk/2/hi/asia-pacific/7750737.stm BBC News] adde](/news/2008/11/26/2008-thai-political-crisis-the-people-s-alliance-for-democracy-claims-to-be-in-complete-control-of-suvarnabhumi-airport-bangkok-s-intern.md)
 _Context: Bangkok, Prime Minister, Somchai Wongsawat, Suvarnabhumi Airport, assemble, yellow shirt_
 
 ### [ The Greenlandic self-government referendum passes with 75% approval. ](/news/2008/11/26/the-greenlandic-self-government-referendum-passes-with-75-approval.md)

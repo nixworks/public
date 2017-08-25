@@ -9,7 +9,7 @@ _Context: Guantanamo Bay Detention Camp, Robert Gates, Secretary of Defense_
 ### [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md)
 _Context: Colorado, Oklahoma!, Texas, United States, tornado_
 
-### [ War in Iraq: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-p-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md)
+### [ War in Iraq:. King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/war-in-iraq-king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md)
 _Context: Abdullah, Saudi Arabia, U.S. presence in Iraq, War in Iraq, occupied_
 
 ### [ The U.S. House of Representatives narrowly passes a US$2.9 trillion budget blueprint which results in a surplus after five years but relies heavily on the expiration of the Bush tax cuts to do so. The U.S. Senate passed a similar budget blueprint last week with negotiations to ensue.](/news/2007/03/29/the-u-s-house-of-representatives-narrowly-passes-a-us-2-9-trillion-budget-blueprint-which-results-in-a-surplus-after-five-years-but-relies.md)

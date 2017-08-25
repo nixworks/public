@@ -30,7 +30,7 @@ Get the latest on the results of the state election with our live blog Poll Call
 ### [Voters in the US state of Louisiana go to the polls for the Louisiana Republican primary with Rick Santorum winning. ](/news/2012/03/24/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-the-louisiana-republican-primary-with-rick-santorum-winning.md)
 Rick Santorum is charging into the Louisiana primary Saturday holding onto a healthy lead in the polls as he looks to shake off his latest losses to Mitt Romney. 
 
-### [''The Sunday Times'' releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for 250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters.md)
+### ["The Sunday Times" releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for GBP250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.md)
 The Sunday Times says it has film footage of Tory Party co-treasurer Peter Cruddas offering access to the prime minister for payments up to £250,000.
 
 ### [Former United States Vice President Dick Cheney receives a heart transplant from an unknown donor. ](/news/2012/03/24/former-united-states-vice-president-dick-cheney-receives-a-heart-transplant-from-an-unknown-donor.md)

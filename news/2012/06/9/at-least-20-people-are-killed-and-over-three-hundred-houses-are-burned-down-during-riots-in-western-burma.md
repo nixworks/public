@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Burma declares a state of emergency after  several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md) _Context: Burma, sectarian violence_
+1. [Burma declares a state of emergency after several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md) _Context: Burma, sectarian violence_
 2. [A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. ](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-burma-after-clashes-between-buddhists-and-muslims.md) _Context: Burma, sectarian violence_
 3. [Burma pledges to release 3000 prisoners a month before it hosts a Southeast Asian summit. ](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.md) _Context: Burma_
 4. [Burmese hard-line monk, Ashin Wirathu, and a hardline group in Sri Lanka, Bodu Bala Sena, say they would work together to rally other Buddhist groups and defend their faith against militant Islamists. ](/news/2014/09/30/burmese-hard-line-monk-ashin-wirathu-and-a-hardline-group-in-sri-lanka-bodu-bala-sena-say-they-would-work-together-to-rally-other-buddhi.md) _Context: Burma_

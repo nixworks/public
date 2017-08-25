@@ -1,6 +1,6 @@
 ## [2008-02-24](/news/2008/02/24/index.md)
 
-### [ 80th Academy Awards: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in ''La Vie en rose'', while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in ''There Will Be Blood''. ](/news/2008/02/24/80th-academy-awards-p-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while.md)
+### [ 80th Academy Awards:. Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". ](/news/2008/02/24/80th-academy-awards-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-d.md)
 No Country For Old Men scoops four awards on the film industry&#039;s night of nights.
 
 ### [ A Virgin Atlantic Boeing 747 becomes the first commercial aircraft to make a flight powered by biofuel flying between Heathrow and Amsterdam. ](/news/2008/02/24/a-virgin-atlantic-boeing-747-becomes-the-first-commercial-aircraft-to-make-a-flight-powered-by-biofuel-flying-between-heathrow-and-amsterda.md)

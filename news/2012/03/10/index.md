@@ -1,9 +1,9 @@
 ## [2012-03-10](/news/2012/03/10/index.md)
 
-### [Arab Spring:Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-psyrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president.md)
+### [Arab Spring:. Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/arab-spring-syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-presiden.md)
 _Context: 2011-2012 Syrian uprising, Arab Spring, Bashar al-Assad, Homs, President, United Nations_
 
-### [March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region.  ](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.md)
+### [March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region. ](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.md)
 Iron Dome intercepts 27 out of 30 rockets fired at Beersheba, Ashdod, Ashkelon; IAF kills 15 Islamic Jihad operatives in Gaza strikes. Gantz: IDF to respond with determination to any attack
 
 ### [Clashes take place in Somalia, where Al-Shabaab ambush Ethiopian troops. ](/news/2012/03/10/clashes-take-place-in-somalia-where-al-shabaab-ambush-ethiopian-troops.md)
@@ -24,7 +24,7 @@ A fire at an education ministry warehouse in Peru destroys 500,000 textbooks and
 ### [The leftist opposition party Smer-Social Democracy wins a clear majority in the Slovakian parliamentary election. ](/news/2012/03/10/the-leftist-opposition-party-smer-social-democracy-wins-a-clear-majority-in-the-slovakian-parliamentary-election.md)
 _Context: Slovakian parliamentary election, Smer-Social Democracy_
 
-### [U.S. Republican presidential caucuses:Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-pmitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md)
+### [U.S. Republican presidential caucuses:. Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/u-s-republican-presidential-caucuses-mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md)
 In Wyoming, Romney won seven delegates. Santorum gained three and Paul one.
 
 ### [New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. ](/news/2012/03/10/new-protests-erupt-in-russia-after-last-week-s-election-of-vladimir-putin-as-president-for-a-third-term.md)

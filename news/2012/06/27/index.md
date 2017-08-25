@@ -1,6 +1,6 @@
 ## [2012-06-27](/news/2012/06/27/index.md)
 
-### [Syrian uprising:President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-ppresident-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md)
+### [Syrian uprising:. President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md)
 Seven people have been killed at a Syrian pro-government TV channel, state media report, as the UN calls a key meeting for Saturday.
 
 ### [Police in Bolivia end their violent rebellion after a pay deal is reached ](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.md)
@@ -18,7 +18,7 @@ Missiles target compound in South Waziristan allegedly being used by warlord Haf
 ### [The Glastonbury Festival and promoters Festival Republic "go their separate ways" after working together since 2001. ](/news/2012/06/27/the-glastonbury-festival-and-promoters-festival-republic-go-their-separate-ways-after-working-together-since-2001.md)
 The Glastonbury festival and promoters Festival Republic to &quot;go their separate ways&quot; after working together since 2001, it is announced.
 
-### [Barclays Bank plc is fined PS290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-aps290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md)
+### [Barclays Bank plc is fined GBP290m after trying to manipulate interbank interest rates. Chief Executive Bob Diamond also forgoes his bonus. ](/news/2012/06/27/barclays-bank-plc-is-fined-agbp290m-after-trying-to-manipulate-interbank-interest-rates-chief-executive-bob-diamond-also-forgoes-his-bonus.md)
 Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus after it tried to manipulate the interest rates at which banks lend to each other.
 
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)

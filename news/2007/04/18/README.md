@@ -9,13 +9,13 @@ _Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_
 ### [ A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. ](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.md)
 _Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat, uranium_
 
-### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of ''Gonzales v. Carhart''. ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carh.md)
+### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)
 _Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, U.S. Supreme Court_
 
-### [ Virginia Tech massacre: Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-p-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md)
+### [ Virginia Tech massacre:. Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md)
 _Context: United States, Virginia Tech, massacre, shooting spree_
 
-### [ Iraqi insurgency: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-p-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md)
+### [ Iraqi insurgency:. At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md)
 _Context: Baghdad, Iraqi insurgency, series of bombings_
 
 ### [ At least 16 secondary school students die in Egypt's Al Jizah governorate as the truck they were traveling to school on collides with another vehicle. ](/news/2007/04/18/at-least-16-secondary-school-students-die-in-egypt-s-al-jizah-governorate-as-the-truck-they-were-traveling-to-school-on-collides-with-anoth.md)

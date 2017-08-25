@@ -1,15 +1,15 @@
 ## [2010-06-4](/news/2010/06/4/index.md)
 
-### [Gaza flotilla raid:Anti-Israel protests take place outside the Israeli embassy in Dublin, Ireland, and  outside the US embassy in Kuala Lumpur, Malaysia. ](/news/2010/06/4/gaza-flotilla-raid-panti-israel-protests-take-place-outside-the-israeli-embassy-in-dublin-ireland-and-outside-the-us-embassy-in-kuala-lum.md)
+### [Gaza flotilla raid:. Anti-Israel protests take place outside the Israeli embassy in Dublin, Ireland, and outside the US embassy in Kuala Lumpur, Malaysia. ](/news/2010/06/4/gaza-flotilla-raid-anti-israel-protests-take-place-outside-the-israeli-embassy-in-dublin-ireland-and-outside-the-us-embassy-in-kuala-lum.md)
 About 50 people are continuing to blockade the Israeli embassy in Dublin today in protest at Israel&rsquo;s policies on Gaza.
 
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
 _Context: Ahlu Sunnah Waljama, Islamist, Somalia_
 
-### [Cumbria shootings:Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-pprime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
+### [Cumbria shootings:. Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
 The BBC apologises for airing a radio play about a murderer featuring gunshots, a day after the shootings in Cumbria.
 
-### [McDonalds recalls 12 million promotional glasses for the movie ''Shrek Forever After'' due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)
+### [McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)
 _Context: McDonalds, Shrek Forever After, cadmium, glasses_
 
 ### [163 people die from lead poisoning in Zamfara State, Nigeria: confirmed cases being treated number 355. ](/news/2010/06/4/163-people-die-from-lead-poisoning-in-zamfara-state-nigeria-confirmed-cases-being-treated-number-355.md)
@@ -24,7 +24,7 @@ Seven Italian officials are under investigation for manslaughter for failing to 
 ### [Secretary-General of the United Nations Ban Ki-moon requests an independent investigation in into the death of human rights activist Floribert Chebeya in the Democratic Republic of the Congo and promises to help in any way he can. ](/news/2010/06/4/secretary-general-of-the-united-nations-ban-ki-moon-requests-an-independent-investigation-in-into-the-death-of-human-rights-activist-floribe.md)
 UN chief Ban Ki-Moon calls for an independent investigation in DR Congo into the death of human rights activist Floribert Chebeya.
 
-### [''BMJ'' finds scientists behind World Health Organization advice on stockpiling of pandemic flu drugs had financial ties with companies which stood to profit. ](/news/2010/06/4/bmj-finds-scientists-behind-world-health-organization-advice-on-stockpiling-of-pandemic-flu-drugs-had-financial-ties-with-companies-whic.md)
+### ["BMJ" finds scientists behind World Health Organization advice on stockpiling of pandemic flu drugs had financial ties with companies which stood to profit. ](/news/2010/06/4/bmj-finds-scientists-behind-world-health-organization-advice-on-stockpiling-of-pandemic-flu-drugs-had-financial-ties-with-companies-which.md)
 Links between WHO experts and drug firms that profited from H1N1 pandemic under scrutiny.
 
 ### [Joran van der Sloot, a suspect in the disappearance of Natalee Holloway in Aruba, is extradited from Chile to Peru to face charges in the killing of a Peruvian woman. ](/news/2010/06/4/joran-van-der-sloot-a-suspect-in-the-disappearance-of-natalee-holloway-in-aruba-is-extradited-from-chile-to-peru-to-face-charges-in-the-ki.md)

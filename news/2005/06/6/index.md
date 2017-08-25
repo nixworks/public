@@ -15,7 +15,7 @@ _Context: Kyrgyzstan, Nikolai Tanayev_
 ### [ Bolivian president Carlos Mesa offers his resignation when unrest continues.](/news/2005/06/6/bolivian-president-carlos-mesa-offers-his-resignation-when-unrest-continues.md)
 _Context: Bolivia, Carlos Mesa_
 
-### [ Debian GNU/Linux: Version 3.1, codenamed ''sarge'', is released. ](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.md)
+### [ Debian GNU/Linux: Version 3.1, codenamed "sarge", is released. ](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.md)
 _Context: Debian GNU/Linux_
 
 ### [ Apple Computer announces they would change the processors for their Macintosh computer lineup from IBM to Intel. - ](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.md)

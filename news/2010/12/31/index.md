@@ -18,7 +18,7 @@ _Context: EUR, Estonia, Soviet_
 ### [Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois and Oklahoma, with a few tornadoes in the early hours of January 1, 2011. A total 36 tornadoes touched down, resulting in the deaths of 9 people.](/news/2010/12/31/tornadoes-touch-down-in-midwestern-and-southern-united-states-including-washington-county-arkansas-greater-st-louis-sunset-hills-misso.md)
 _Context: Illinois, Oklahoma!, Southern United States, St. Louis-area municipalities, Sunset Hills, Missouri, United States, Washington County, Arkansas, midwestern, tornado outbreak_
 
-### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to  jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting.md)
+### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation- ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting-a.md)
 _Context: Chinese police, Tibetan writers_
 
 ### [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md)
@@ -33,7 +33,7 @@ _Context: China, Ministry of Industry and Information Technology, voice-over-Int
 ### [Italy bans plastic bags. ](/news/2010/12/31/italy-bans-plastic-bags.md)
 A ban on plastic bags is about to come into effect in Italy, where about 20 billion are used every year.
 
-### [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country's blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-countryas-blasphemy-laws.md)
+### [Sunni Muslim clerics organize strikes across Pakistan to protest against possible changes to the country-s blasphemy laws. ](/news/2010/12/31/sunni-muslim-clerics-organize-strikes-across-pakistan-to-protest-against-possible-changes-to-the-country-s-blasphemy-laws.md)
 A 24-hour strike organised by Sunni Muslim clerics has taken place across Pakistan to protest against possible changes to blasphemy laws.
 
 ## [Previous Day...](/news/2010/12/30/index.md)

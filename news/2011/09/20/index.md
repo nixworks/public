@@ -12,7 +12,7 @@ Gunmen in Baluchistan Province attacked a bus carrying Shiite pilgrims to Iran, 
 ### [A bombing attack in the centre of the Turkish capital Ankara kills at least 3 people and injures 34. ](/news/2011/09/20/a-bombing-attack-in-the-centre-of-the-turkish-capital-ankara-kills-at-least-3-people-and-injures-34.md)
 A bombing attack in central Ankara on Tuesday killed three people and wounded at least 34 in the first deadly bombing in Turkey’s capital in more than four years.
 
-### [''Gears of War 3'', the final game in the acclaimed ''Gears of War'' video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the.md)
+### ["Gears of War 3", the final game in the acclaimed "Gears of War" video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the-worl.md)
 _Context: Gears of War, Gears of War 3, video game_
 
 ### [Qantas flights throughout Australia are disrupted by a four-hour strike by airport ground staff and baggage handlers. ](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.md)

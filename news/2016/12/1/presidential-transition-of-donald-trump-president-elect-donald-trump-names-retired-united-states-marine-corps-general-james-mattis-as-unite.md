@@ -1,0 +1,23 @@
+### [2016-12-1](/news/2016/12/1/index.md)
+
+# Presidential transition of Donald Trump. President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. 
+
+WASHINGTON – President-elect Donald Trump has selected James Mattis, a legendary, tough-talking retired Marine Corps general who favors a robust military and criticized the Obama administration&#39;s approach to war, to lead the Defense Department, accor
+
+
+### Source:
+
+1. [USA Today](http://www.usatoday.com/story/news/politics/2016/12/01/trump-picks-mattis-defense-secretary/94608474/)
+
+### Related:
+
+1. [Cabinet of Donald Trump. The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/cabinet-of-donald-trump-the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-ma.md) _Context: Donald Trump, James Mattis, Secretary of Defense_
+2. [Presidential transition of Donald Trump. United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/presidential-transition-of-donald-trump-united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-d.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+3. [Presidential transition of Donald Trump. President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/presidential-transition-of-donald-trump-president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+4. [Presidential transition of Donald Trump. U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/presidential-transition-of-donald-trump-u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-neg.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+5. [Presidential transition of Donald Trump. President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/presidential-transition-of-donald-trump-president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-adviso.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+6. [ Presidential transition of Donald Trump. Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/presidential-transition-of-donald-trump-donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+7. [Presidential transition of Donald Trump. President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/presidential-transition-of-donald-trump-president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+8. [Presidential transition of Donald Trump. President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/presidential-transition-of-donald-trump-president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+9. [Presidential transition of Donald Trump. President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/presidential-transition-of-donald-trump-president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory.md) _Context: Donald Trump, Presidential transition of Donald Trump_
+10. [Presidential transition of Donald Trump. President-elect Donald Trump formally announces ExxonMobil CEO Rex Tillerson as his choice for United States Secretary of State. ](/news/2016/12/13/presidential-transition-of-donald-trump-president-elect-donald-trump-formally-announces-exxonmobil-ceo-rex-tillerson-as-his-choice-for-unit.md) _Context: Donald Trump, Presidential transition of Donald Trump_

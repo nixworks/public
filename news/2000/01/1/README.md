@@ -3,13 +3,13 @@
 ### [For popular culture, it was the first day of the new millennium and new century.](/news/2000/01/1/for-popular-culture-it-was-the-first-day-of-the-new-millennium-and-new-century.md)
 _Context: century, millennium_
 
-### [Y2K passes without the serious, widespread computer failures and malfunctions that had been predicted.](/news/2000/01/1/y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.md)
+### [Year 2000 problem. Y2K passes without the serious, widespread computer failures and malfunctions that had been predicted.](/news/2000/01/1/year-2000-problem-y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.md)
 _Context: Year 2000 problem_
 
 ### [It is the first day of the 2000s decade.](/news/2000/01/1/it-is-the-first-day-of-the-2000s-decade.md)
 _Context: 2000s decade_
 
-### [The piece ''Longplayer'' begins. It will last 1000 years, finishing on December 31, 2999.](/news/2000/01/1/the-piece-longplayer-begins-it-will-last-1000-years-finishing-on-december-31-2999.md)
+### [The piece "Longplayer" begins. It will last 1000 years, finishing on December 31, 2999.](/news/2000/01/1/the-piece-longplayer-begins-it-will-last-1000-years-finishing-on-december-31-2999.md)
 _Context: Longplayer_
 
 ### [Following the creation of Ottawa "megacity", the city adopts a new flag.](/news/2000/01/1/following-the-creation-of-ottawa-megacity-the-city-adopts-a-new-flag.md)

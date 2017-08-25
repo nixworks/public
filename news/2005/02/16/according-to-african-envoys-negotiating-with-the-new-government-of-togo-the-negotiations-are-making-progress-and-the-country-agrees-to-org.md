@@ -13,9 +13,9 @@
 
 ### Related:
 
-1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md) _Context: diplomat_
+1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966-1968-and-president-jimmy-carter-s-national-s.md) _Context: diplomat_
 2. [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md) _Context: Togo_
-3. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_
+3. [Togolese presidential election, 2015. Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/togolese-presidential-election-2015-voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_
 4. [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md) _Context: Togo_
 5. [At least 48 people die and 15 are severely injured after a bus crashes into a truck 150 kilometres north of Lom, capital of the West African nation of Togo. ](/news/2014/04/15/at-least-48-people-die-and-15-are-severely-injured-after-a-bus-crashes-into-a-truck-150-kilometres-north-of-lome-capital-of-the-west-africa.md) _Context: Togo_
 6. [The Togolese electoral commission releases official results for the recent parliamentary election with President Faure Gnassingbe's Union for the Republic party winning 62 of 91 seats with the Opposition threatening to challenge the results. ](/news/2013/07/28/the-togolese-electoral-commission-releases-official-results-for-the-recent-parliamentary-election-with-president-faure-gnassingbe-s-union-fo.md) _Context: Togo_

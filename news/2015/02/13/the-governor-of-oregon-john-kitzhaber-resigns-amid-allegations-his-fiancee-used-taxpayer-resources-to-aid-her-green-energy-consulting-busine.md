@@ -1,6 +1,6 @@
 ### [2015-02-13](/news/2015/02/13/index.md)
 
-# The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State.  
+# The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State. 
 
 
 

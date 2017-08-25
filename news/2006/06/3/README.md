@@ -1,6 +1,6 @@
 ## [2006-06-3](/news/2006/06/3/index.md)
 
-### [ Pakistan bans ''The Da Vinci Code'' film because it is said to contain blasphemous material about Jesus. ](/news/2006/06/3/pakistan-bans-the-da-vinci-code-film-because-it-is-said-to-contain-blasphemous-material-about-jesus.md)
+### [ Pakistan bans "The Da Vinci Code" film because it is said to contain blasphemous material about Jesus. ](/news/2006/06/3/pakistan-bans-the-da-vinci-code-film-because-it-is-said-to-contain-blasphemous-material-about-jesus.md)
 _Context: Jesus, Pakistan, The Da Vinci Code_
 
 ### [ A strong quake measuring 5.2 on the Richter scale hits Southern Iran killing a young girl in the village of Ramkan. ](/news/2006/06/3/a-strong-quake-measuring-5-2-on-the-richter-scale-hits-southern-iran-killing-a-young-girl-in-the-village-of-ramkan.md)
@@ -21,7 +21,7 @@ _Context: Baghdad, Russia, attack near the Russian embassy_
 ### [ In a special session of parliament, Montenegro declares its independence from the State Union of Serbia and Montenegro. ](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.md)
 _Context: Montenegro, Serbia and Montenegro_
 
-### [ 2006 Toronto terrorism arrests: The Royal Canadian Mounted Police announce the arrest of 17 suspected Islamic terrorists in connection with a planned terrorist attack around Toronto.  The RCMP say that three tons of ammonium nitrate was seized.  In comparison, the 1995 Oklahoma City bombing used one ton. ](/news/2006/06/3/2006-toronto-terrorism-arrests-the-royal-canadian-mounted-police-announce-the-arrest-of-17-suspected-islamic-terrorists-in-connection-with.md)
+### [ 2006 Toronto terrorism arrests: The Royal Canadian Mounted Police announce the arrest of 17 suspected Islamic terrorists in connection with a planned terrorist attack around Toronto. The RCMP say that three tons of ammonium nitrate was seized. In comparison, the 1995 Oklahoma City bombing used one ton. ](/news/2006/06/3/2006-toronto-terrorism-arrests-the-royal-canadian-mounted-police-announce-the-arrest-of-17-suspected-islamic-terrorists-in-connection-with.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Czech parliament election leaves the Czech Republic with an even split between party blocs. ](/news/2006/06/3/czech-parliament-election-leaves-the-czech-republic-with-an-even-split-between-party-blocs.md)

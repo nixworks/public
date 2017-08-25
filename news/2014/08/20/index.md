@@ -1,9 +1,9 @@
 ## [2014-08-20](/news/2014/08/20/index.md)
 
-### [In response to rocket fire six hours before the end of a cease-fire, Israeli airstrikes kill 11 Palestinians including the wife and infant son of Hamas military leader Mohammed Deif - the first deaths in a week - while Hamas launches over 130 missiles at Israel during the day. This is the 11th cease-fire broken by rocket fire from Hamas. ](/news/2014/08/20/in-response-to-rocket-fire-six-hours-before-the-end-of-a-cease-fire-israeli-airstrikes-kill-11-palestinians-including-the-wife-and-infant-s.md)
+### [2014 Israel-Gaza conflict. In response to rocket fire six hours before the end of a cease-fire, Israeli airstrikes kill 11 Palestinians including the wife and infant son of Hamas military leader Mohammed Deif - the first deaths in a week - while Hamas launches over 130 missiles at Israel during the day. This is the 11th cease-fire broken by rocket fire from Hamas. ](/news/2014/08/20/2014-israel-gaza-conflict-in-response-to-rocket-fire-six-hours-before-the-end-of-a-cease-fire-israeli-airstrikes-kill-11-palestinians-in.md)
 Hamas says militant chief Mohammed Deif is alive and leading its response to Israeli air strikes that killed 19 people in Gaza, including his wife and child.
 
-### [Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md)
+### [War in Donbass. Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/war-in-donbass-dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md)
 DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebels left dozens of civilians dead on Wednesday as Ukrainian troops pushed on with a bloody offensive to break the insurgency in the east of the country.Deadly battles to crush the ailing rebellion appeared to intensify ah...
 
 ### [Glencore announces a share buyback program returning $1 billion to its investors, while reporting above-expectations first-half profit. ](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.md)

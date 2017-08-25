@@ -1,0 +1,24 @@
+### [2016-11-3](/news/2016/11/3/index.md)
+
+# European migration crisis. November 2016 Libya migrant shipwrecks. The United Nations believes that at least 239 migrants drowned in shipwrecks near the coast of Libya. 
+
+More than 4,000 people have died this year trying to cross the Mediterranean to reach Europe. 
+
+
+### Source:
+
+1. [ABC Online](http://www.abc.net.au/news/2016-11-04/un-says-240-asylum-seekers-drowned-off-libyan-coast/7994674)
+2. [USA Today](http://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/)
+
+### Related:
+
+1. [Libyan Civil War (2014-present). The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/libyan-civil-war-2014-present-the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-f.md) _Context: Libya, United Nations_
+2. [Libyan Civil War. An oil tanker, sent from Eastern Libya by a rival to the internationally recognized Government of National Accord, returns with its cargo to the refinery at Zawiya in western Libya. The United Nations blacklisted the shipment on Wednesday. ](/news/2016/05/1/libyan-civil-war-an-oil-tanker-sent-from-eastern-libya-by-a-rival-to-the-internationally-recognized-government-of-national-accord-returns.md) _Context: Libya, United Nations_
+3. [Libyan Civil War (2014-present). The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. ](/news/2016/04/6/libyan-civil-war-2014-present-the-self-declared-national-salvation-government-one-of-the-rival-governments-of-libya-resigns-and-gives.md) _Context: Libya, United Nations_
+4. [Libyan Civil War. In response to the U.N.-backed Government of National Accord's plea, the United Nations Security Council blacklists the tanker shipping crude oil by the unrecognized rival House of Representatives government in eastern Libya. ](/news/2016/04/28/libyan-civil-war-in-response-to-the-u-n-backed-government-of-national-accord-s-plea-the-united-nations-security-council-blacklists-the-ta.md) _Context: Libya, United Nations_
+5. [Libyan Civil War. The unrecognized House of Representatives, one of the rival governments based in eastern Libya, ships its first cargo of crude oil in defiance of the U.N.-backed authorities in the capital Tripoli in a move that could deepen divisions within the country. The Tripoli-based government asked the United Nations Security Council yesterday to blacklist the tanker. ](/news/2016/04/27/libyan-civil-war-the-unrecognized-house-of-representatives-one-of-the-rival-governments-based-in-eastern-libya-ships-its-first-cargo-of-c.md) _Context: Libya, United Nations_
+6. [Libyan Civil War. Delegates from Libya's warring factions sign a U.N.-brokered agreement to form a national unity government. Some of Libya's armed brigades are closely allied with political leaders who oppose this agreement. ](/news/2015/12/17/libyan-civil-war-delegates-from-libya-s-warring-factions-sign-a-u-n-brokered-agreement-to-form-a-national-unity-government-some-of-libya.md) _Context: Libya, United Nations_
+7. [Libyan Civil War (2014-present). Martin Kobler, United Nations envoy to Libya, announces the country's two rival parliaments agreement to set a target date of Dec. 16 to sign a U.N.-sponsored agreement on forming a national unity government. ](/news/2015/12/11/libyan-civil-war-2014-present-martin-kobler-united-nations-envoy-to-libya-announces-the-country-s-two-rival-parliaments-agreement-to.md) _Context: Libya, United Nations_
+8. [Libyan Civil War (2014-present). The United Nations envoy for Libya, Bernardino Leon, proposes a government of national unity for Libya led by Fayez Sarraj as Prime Minister. ](/news/2015/10/9/libyan-civil-war-2014-present-the-united-nations-envoy-for-libya-bernardino-lea3n-proposes-a-government-of-national-unity-for-libya-l.md) _Context: Libya, United Nations_
+9. [Libyan Civil War (2014-present). At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/libyan-civil-war-2014-present-at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-m.md) _Context: Libya, United Nations_
+10. [The United Nations says detainees from Libya's civil war are being tortured. ](/news/2012/01/26/the-united-nations-says-detainees-from-libya-s-civil-war-are-being-tortured.md) _Context: Libya, United Nations_

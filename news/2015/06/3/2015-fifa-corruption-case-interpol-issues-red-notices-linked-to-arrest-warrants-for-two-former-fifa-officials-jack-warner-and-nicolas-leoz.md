@@ -1,0 +1,26 @@
+### [2015-06-3](/news/2015/06/3/index.md)
+
+# 2015 FIFA corruption case. Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. 
+
+“#INTERPOL Red Notices for 2 former #FIFA officials &amp; 4 execs on charges inc #racketeering #conspiracy #corruption”
+
+
+### Source:
+
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-03-SOC-FIFA-Investigation-Interpol-/id-ee6ca3c3a7984a11b9de1fce6068a586)
+2. [CNN](http://edition.cnn.com/2015/06/03/us/fifa-chuck-blazer-transcript/index.html?eref=edition)
+3. [ITV](http://www.itv.com/news/2015-06-03/revealed-shamed-fifa-executives-corruption-confession-to-secret-us-court/)
+4. [Interpol via Twitter](https://twitter.com/INTERPOL_HQ/status/606004728795959296)
+
+### Related:
+
+1. [2015 FIFA corruption case. FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/2015-fifa-corruption-case-fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-o.md) _Context: 2015 FIFA corruption case, FIFA_
+2. [2015 FIFA corruption case. Reuters reports that a million dollars in FIFA funding is missing from the accounts of the National Football Federation of Guatemala. ](/news/2016/01/30/2015-fifa-corruption-case-reuters-reports-that-a-million-dollars-in-fifa-funding-is-missing-from-the-accounts-of-the-national-football-fede.md) _Context: 2015 FIFA corruption case, FIFA_
+3. [2015 FIFA corruption case. U.S. Attorney General Loretta Lynch announces criminal corruption charges against 16 FIFA officials in an indictment that expands Justice's May filing that indicted 14 officials associated with FIFA (Federation Internationale de Football Association) and related sports marketing companies. At U.S. authorities request, Swiss police arrest two South American FIFA (Federation Internationale de Football Association) officials at the five-star Baur au Lac hotel in Zurich, on suspicion of accepting "millions of dollars" in bribes. In addition, eight of the defendants indicted in May have pleaded guilty. ](/news/2015/12/3/2015-fifa-corruption-case-u-s-attorney-general-loretta-lynch-announces-criminal-corruption-charges-against-16-fifa-officials-in-an-indictm.md) _Context: 2015 FIFA corruption case, FIFA_
+4. [2015 FIFA corruption case. Longtime FIFA corporate sponsors -- Coca-Cola Co., McDonald's, Visa Inc., and Budweiser owner Anheuser-Busch InBev -- demand FIFA President Sepp Blatter step down immediately following last week's announcement of his criminal investigation by the Swiss attorney general. Blatter refused. ](/news/2015/10/2/2015-fifa-corruption-case-longtime-fifa-corporate-sponsors-coca-cola-co-mcdonald-s-visa-inc-and-budweiser-owner-anheuser-busch-inbe.md) _Context: 2015 FIFA corruption case, FIFA_
+5. [Swiss police seize computer records from FIFA in an investigation into alleged corruption by the world governing body of association football. ](/news/2015/06/9/swiss-police-seize-computer-records-from-fifa-in-an-investigation-into-alleged-corruption-by-the-world-governing-body-of-association-footbal.md) _Context: 2015 FIFA corruption case, FIFA_
+6. [FIFA corruption scandal. Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/fifa-corruption-scandal-six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-c.md) _Context: FIFA, Jack Warner_
+7. [Chuck Blazer, the FIFA official who blew the whistle on corruption within the governing body last year, faces accusations by Jack Warner of secretly funding the rent on a luxury New York apartment using funds from the football federation he ran. ](/news/2012/06/8/chuck-blazer-the-fifa-official-who-blew-the-whistle-on-corruption-within-the-governing-body-last-year-faces-accusations-by-jack-warner-of.md) _Context: FIFA, Jack Warner_
+8. [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md) _Context: FIFA, Jack Warner_
+9. [Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. ](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.md) _Context: Interpol_
+10. [2015 FIFA corruption case. The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/2015-fifa-corruption-case-the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-b.md) _Context: 2015 FIFA corruption case_

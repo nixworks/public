@@ -1,6 +1,6 @@
 ### [2007-10-23](/news/2007/10/23/index.md)
 
-#  Carrie Underwood releases her second album, entitled ''Carnival Ride''.
+#  Carrie Underwood releases her second album, entitled "Carnival Ride".
 
 
 

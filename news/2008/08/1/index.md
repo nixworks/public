@@ -6,7 +6,7 @@ _Context: India, International Atomic Energy Agency, United States_
 ### [ Unemployment in the United States rises to 5.7 per cent, its highest rate in more than four years. ](/news/2008/08/1/unemployment-in-the-united-states-rises-to-5-7-per-cent-its-highest-rate-in-more-than-four-years.md)
 _Context: United States, unemployment_
 
-### [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md)
+### [ Vietnam's capital Hanoi absorbs the neighboring province of H T-y, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-t-y-tripling-its-area-and-doubling-its-population.md)
 _Context: H Ty, Hanoi, Vietnam, province_
 
 ### [ U.S. government officials conclude that elements of Pakistan's intelligence service, the Inter-Services Intelligence, aided militants in the July 7 suicide car bomb attack on India's embassy in Kabul, Afghanistan. The government of Pakistan denied involvement. ](/news/2008/08/1/u-s-government-officials-conclude-that-elements-of-pakistan-s-intelligence-service-the-inter-services-intelligence-aided-militants-in-th.md)
@@ -15,8 +15,8 @@ U.S. intelligence agencies have concluded that Pakistan’s spy service helped p
 ### [ At least 20 people are killed after a fire breaks out on a passenger train in Warangal, Andhra Pradesh, India. ](/news/2008/08/1/at-least-20-people-are-killed-after-a-fire-breaks-out-on-a-passenger-train-in-warangal-andhra-pradesh-india.md)
 _Context: Andhra Pradesh, India, Warangal_
 
-### [ 2008 Summer Olympics: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-p-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md)
-_Context: 2008 Olympic Games, Beijing Olympiad, Beijing Organizing Committee, International Olympic Committee, Internet access_
+### [ 2008 Summer Olympics:. The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md)
+_Context: 2008 Olympic Games, 2008 Summer Olympics, Beijing Organizing Committee, International Olympic Committee, Internet access_
 
 ### [ King Tupou V is crowned as the 23rd Monarch of Tonga. ](/news/2008/08/1/king-tupou-v-is-crowned-as-the-23rd-monarch-of-tonga.md)
 _Context: King Tupou V, Monarch of Tonga_

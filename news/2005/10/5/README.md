@@ -12,7 +12,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 ### [ U.S. Marine Leandro Aragoncillo is indicted for espionage, accused of passing classified information from the Vice President's office to the Philippines. ](/news/2005/10/5/u-s-marine-leandro-aragoncillo-is-indicted-for-espionage-accused-of-passing-classified-information-from-the-vice-president-s-office-to-th.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [ The Roman Catholic bishops of England, Wales, and Scotland issue a teaching guide which explains biblical passages should not be taken literally. The Creation, Garden of Eden  and the creation of Eve from Adam's rib are considered to be "symbolic language". ](/news/2005/10/5/the-roman-catholic-bishops-of-england-wales-and-scotland-issue-a-teaching-guide-which-explains-biblical-passages-should-not-be-taken-lite.md)
+### [ The Roman Catholic bishops of England, Wales, and Scotland issue a teaching guide which explains biblical passages should not be taken literally. The Creation, Garden of Eden and the creation of Eve from Adam's rib are considered to be "symbolic language". ](/news/2005/10/5/the-roman-catholic-bishops-of-england-wales-and-scotland-issue-a-teaching-guide-which-explains-biblical-passages-should-not-be-taken-lite.md)
 _Context: Adam, Bible, Creation, England, Garden of Eden, Roman Catholic, Scotland, Wales_
 
 ### [ Russian President Vladimir Putin in a ceremony at 10 Downing Street awards the Order of Maritime Service to six British military and civilian personnel responsible for the rescue of the mini-submarine AS-28 off the Kamchatka Peninsula. ](/news/2005/10/5/russian-president-vladimir-putin-in-a-ceremony-at-10-downing-street-awards-the-order-of-maritime-service-to-six-british-military-and-civili.md)
@@ -33,7 +33,7 @@ At least 66 people have died as Hurricane Stan sweeps across Mexico and Central 
 ### [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md)
 _Context: Democratic, George W. Bush, Republican, United States, United States Senate, veto_
 
-### [ The National Hockey League returns after a year-long lockout.  Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-deb.md)
+### [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-debu.md)
 _Context: Alexander Ovechkin, Columbus Blue Jackets, National Hockey League, New Jersey Devils, Sidney Crosby_
 
 ## [Previous Day...](/news/2005/10/4/index.md)

@@ -1,12 +1,12 @@
 ## [2014-10-30](/news/2014/10/30/index.md)
 
-### [Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildings-the-chief-of-the-army.md)
+### [2014 Burkinab uprising. Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. ](/news/2014/10/30/2014-burkinabe-uprising-protestors-demanding-the-resignation-of-president-blaise-compaore-set-fire-to-parliament-and-other-official-buildin.md)
 There have been continuing protests in Burkina Faso against President Blaise Compaore’s plan to seek re-election for a fifth term. Thousands
 
-### [Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md)
+### [Piracy in Somalia. Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md)
 _Context: India, Somali pirates_
 
-### [2014 War in Donbass:Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-prussian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukr.md)
+### [2014 War in Donbass:. Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/2014-war-in-donbass-russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-uk.md)
 _Context: 2014 War in Donbass, Donetsk International Airport, Mikhail Porechenkov_
 
 ### [A Beechcraft King Air B200 crashes into a FlightSafety International building in Wichita, Kansas - there are four dead. ](/news/2014/10/30/a-beechcraft-king-air-b200-crashes-into-a-flightsafety-international-building-in-wichita-kansas-there-are-four-dead.md)

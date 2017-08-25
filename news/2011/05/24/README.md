@@ -15,16 +15,16 @@ _Context: Kazakhstan, suicide bomber_
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
 _Context: Afghanistan's, Kandahar Province_
 
-### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
+### [2011 Syrian protests. Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/2011-syrian-protests-human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.
 
-### [Situation in Sudan:The United Nations claims that about  20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-pthe-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md)
+### [Situation in Sudan:. The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/situation-in-sudan-the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese.md)
 _Context: Abyei, Agok, Southern Sudan, Sudan, United Nations_
 
-### [US television personality Oprah Winfrey records the final episode of ''The Oprah Winfrey Show''. ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
+### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
 _Context: Oprah Winfrey, Oprah Winfrey Show_
 
-### [Gearbox Software announces that the video game ''Duke Nukem Forever'', infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-p.md)
+### [Gearbox Software announces that the video game "Duke Nukem Forever", infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-pre.md)
 Back in January, Gearbox Software released a Duke Nukem Forever trailer, and our inner 13 year-old -- only a lascivious gleam in his father&#039;s eye when the ga...
 
 ### [The Tokyo Electric Power Company (TEPCO) claims that three reactors at the Fukushima Daiichi Nuclear Power Plant suffered partial meltdowns following the 2011 Tohoku earthquake and tsunami; it had previously announced that only one reactor had suffered a meltdown. ](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.md)
@@ -36,7 +36,7 @@ Airlines canceled about 500 European flights as the ash cloud from the Grimsvotn
 ### [An explosion at an Abadan oil refinery in southwestern Iran during a visit by the President of Iran Mahmoud Ahmadinejad leads to a fire killing two workers and injuring 20. ](/news/2011/05/24/an-explosion-at-an-abadan-oil-refinery-in-southwestern-iran-during-a-visit-by-the-president-of-iran-mahmoud-ahmadinejad-leads-to-a-fire-kill.md)
 A deadly blast during the inauguration of a major oil refinery by Iranian President Mahmoud Ahmadinejad killed at least four and injured 20.
 
-### [May 2011 tornado outbreak in the The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-unaccounted-for-in-the-us.md)
+### [May 2011 tornado outbreak in the Central United States. The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/may-2011-tornado-outbreak-in-the-central-united-states-the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-un.md)
 Many residents cannot contact possible survivors, and officials have not shared names of the dead and missing.
 
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint session of the United States Congress and says he is prepared to make "far-reaching compromises" for a peace deal with Palestinians, but states that Israel will not return to its pre-1967 borders. ](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.md)

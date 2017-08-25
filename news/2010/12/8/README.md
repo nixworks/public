@@ -39,10 +39,10 @@ _Context: Paris-Charles de Gaulle Airport_
 ### [The Eiffel Tower is closed due to snow. ](/news/2010/12/8/the-eiffel-tower-is-closed-due-to-snow.md)
 Heavy snow hits Paris, briefly closing Charles de Gaulle airport and bringing buses to a halt.
 
-### [United States diplomatic cables leak:Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-pnewly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relations.md)
+### [United States diplomatic cables leak:. Newly released cables report that the British government feared Libya might reduce political relations if Abdelbaset al-Megrahi were to die in jail in Scotland. ](/news/2010/12/8/united-states-diplomatic-cables-leak-newly-released-cables-report-that-the-british-government-feared-libya-might-reduce-political-relation.md)
 Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in response to latest action against WikiLeaks.
 
-### [Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeliapalestinian-conflict-ppalestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-st.md)
+### [Israeli-Palestinian conflict:. Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-s.md)
 _Context: Israel, Israeli settlement, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian National Authority, resume negotiations_
 
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
@@ -63,13 +63,13 @@ _Context: International Criminal Court, North Korea, war crime_
 ### [India's Central Bureau of Investigation raids the homes of former telecommunications minister A. Raja, his family and associates in connection with a corruption scandal. ](/news/2010/12/8/india-s-central-bureau-of-investigation-raids-the-homes-of-former-telecommunications-minister-a-raja-his-family-and-associates-in-connecti.md)
 The CBI today conducted searches at the premises of former Telecom Minister A. Raja, his relatives and associates in different parts of Tamil Nadu. The raids, which started this morning, were being he
 
-### [Haiti election protests:Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-pthousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-rou.md)
+### [Haiti election protests:. Thousands of Haitians riot in Port-Au-Prince, Haiti to protest the exclusion of Michel Martelly from the second round of voting in the Haitian presidential election. ](/news/2010/12/8/haiti-election-protests-thousands-of-haitians-riot-in-port-au-prince-haiti-to-protest-the-exclusion-of-michel-martelly-from-the-second-ro.md)
 Thousands of protesters rampage in Haitian towns, torching buildings in armed clashes that left four dead, after election results triggered bitter accusations of vote-rigging.
 
-### [SpaceX Dragon -- SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-a-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-launch-complex-40-ca.md)
+### [SpaceX Dragon - COTS Demo Flight 1. SpaceX launched the first working Dragon spacecraft on a test flight at 10:43am EST (15:43 UTC) from Launch Complex 40, Cape Canaveral Air Force Station in Florida. ](/news/2010/12/8/spacex-dragon-cots-demo-flight-1-spacex-launched-the-first-working-dragon-spacecraft-on-a-test-flight-at-10-43am-est-15-43-utc-from-l.md)
 Private US company sends a spacecraft into orbit in a move that could pave way for the first commercial space station.
 
-### [The Japan Aerospace Exploration Agency says its probe ''Akatsuki'' has failed to enter the orbit around Venus. ](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.md)
+### [The Japan Aerospace Exploration Agency says its probe "Akatsuki" has failed to enter the orbit around Venus. ](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.md)
 _Context: ''Akatsuki'', Japan Aerospace Exploration Agency, Venus_
 
 ### [A cheetah is captured roaming the streets in the emirate of Sharjah. ](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.md)

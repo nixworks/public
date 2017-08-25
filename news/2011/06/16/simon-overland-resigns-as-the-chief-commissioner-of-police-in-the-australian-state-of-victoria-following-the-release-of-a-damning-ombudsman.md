@@ -1,6 +1,6 @@
 ### [2011-06-16](/news/2011/06/16/index.md)
 
-# Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria  following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. 
+# Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. 
 
 
 
@@ -19,5 +19,5 @@
 6. [Bushfires in the Australian state of Victoria claim at least one life with towns in the Grampians National Park region evacuated. ](/news/2014/01/17/bushfires-in-the-australian-state-of-victoria-claim-at-least-one-life-with-towns-in-the-grampians-national-park-region-evacuated.md) _Context: Australia, Victoria_
 7. [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md) _Context: Australia, Victoria_
 8. [Ted Baillieu resigns as the Premier of the Australian state of Victoria as his embattled government was pushed close to collapse. ](/news/2013/03/6/ted-baillieu-resigns-as-the-premier-of-the-australian-state-of-victoria-as-his-embattled-government-was-pushed-close-to-collapse.md) _Context: Australia, Victoria_
-9. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian  state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-who.md) _Context: Australia, Victoria_
+9. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-whol.md) _Context: Australia, Victoria_
 10. [The remains of Australian bushranger Ned Kelly are found in the former HM Prison Pentridge in Melbourne, Victoria. ](/news/2011/09/1/the-remains-of-australian-bushranger-ned-kelly-are-found-in-the-former-hm-prison-pentridge-in-melbourne-victoria.md) _Context: Australia, Victoria_

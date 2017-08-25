@@ -1,6 +1,6 @@
 ### [2006-05-29](/news/2006/05/29/index.md)
 
-#  A  labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded.  
+#  A labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded. 
 
 
 

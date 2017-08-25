@@ -12,7 +12,7 @@ A German engineer abducted in January by gunmen in Kano in northern Nigeria has 
 ### [American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. ](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.md)
 _Context: DC, Marvel Comics, One Million Moms, conservative Christian, gay_
 
-### [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's ''Ulysses'' on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-f.md)
+### [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's "Ulysses" on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-fir.md)
 _Context: BBC Radio 4, Bloomsday, James Joyce, Ulysses_
 
 ### [A nationwide strike against rising petrol prices closes shops and disrupts public transport in India, with the government facing widespread criticism over its economic management. ](/news/2012/05/31/a-nationwide-strike-against-rising-petrol-prices-closes-shops-and-disrupts-public-transport-in-india-with-the-government-facing-widespread.md)

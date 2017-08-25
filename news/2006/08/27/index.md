@@ -1,12 +1,12 @@
 ## [2006-08-27](/news/2006/08/27/index.md)
 
-### [ 2006 Israel-Lebanon conflict: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-p-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md)
+### [ 2006 Israel-Lebanon conflict:. Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md)
 DURING THE RECENT month-long war between Hezbollah and Israel, U.N. peacekeeping forces made a startling contribution: They openly published daily real-time intelligence, of obvious usefulness to Hezbollah, on the location, equipment, and force structure of Israeli troops in Lebanon. UNIFIL--the Uni...
 
 ### [ The Games Convention, the largest video game expo on both sides of the Atlantic closes with a record attendance of 183,000 visitors in 4 days of exhibiting. The projected attendance was set at 150,000. There are expansion plans of the expo for 2007 and beyond. ](/news/2006/08/27/the-games-convention-the-largest-video-game-expo-on-both-sides-of-the-atlantic-closes-with-a-record-attendance-of-183-000-visitors-in-4-da.md)
 _Context: Games Convention_
 
-### [ Comair Flight 5191 crashes in Lexington, Kentucky.  Only one person, out of three crew and 47 passengers, survived. ](/news/2006/08/27/comair-flight-5191-crashes-in-lexington-kentucky-only-one-person-out-of-three-crew-and-47-passengers-survived.md)
+### [ Comair Flight 5191 crashes in Lexington, Kentucky. Only one person, out of three crew and 47 passengers, survived. ](/news/2006/08/27/comair-flight-5191-crashes-in-lexington-kentucky-only-one-person-out-of-three-crew-and-47-passengers-survived.md)
 _Context: Comair Flight 5191, Lexington, Kentucky_
 
 ### [ Iran test-fires a Sagheb missile during exercises in the Persian Gulf. ](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.md)

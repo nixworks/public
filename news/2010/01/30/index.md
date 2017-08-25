@@ -6,7 +6,7 @@ _Context: Bavaria, North Rhine-Westphalia_
 ### [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md)
 _Context: 2010 Africa Cup of Nations, Angola, Confederation of African Football, Government of Angola, Togo national football team, Togo national football team attack_
 
-### [Aftermath of the 2010 Haiti earthquake:The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-pthe-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md)
+### [Aftermath of the 2010 Haiti earthquake:. The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/aftermath-of-the-2010-haiti-earthquake-the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to.md)
 The United States has suspended its evacuations of critically injured Haitians until a dispute over who will pay for their care in Florida and other states is settled.
 
 ### [Tunisian journalist Taoufik Ben Brik, who criticised the country's leader and who is, according to Amnesty International, a "prisoner of conscience", loses his appeal against a six-month prison sentence for assault. ](/news/2010/01/30/tunisian-journalist-taoufik-ben-brik-who-criticised-the-country-s-leader-and-who-is-according-to-amnesty-international-a-prisoner-of-con.md)
@@ -36,7 +36,7 @@ _Context: Google, Internet Explorer 6, cyber-attack_
 ### [Honda recalls 650,000 of the Honda Fit (also known as Honda Jazz) vehicles worldwide over potential electrical faults. ](/news/2010/01/30/honda-recalls-650-000-of-the-honda-fit-also-known-as-honda-jazz-vehicles-worldwide-over-potential-electrical-faults.md)
 _Context: Fit, Honda Motor Co._
 
-### [Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader.  ](/news/2010/01/30/publishing-company-macmillan-said-that-on-line-retailer-amazon-com-inc-has-removed-all-macmillan-print-and-e-books-from-its-site-due-to-a.md)
+### [Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader. ](/news/2010/01/30/publishing-company-macmillan-said-that-on-line-retailer-amazon-com-inc-has-removed-all-macmillan-print-and-e-books-from-its-site-due-to-a.md)
 _Context: Amazon.com Inc, Kindle, MacMillan, e-books_
 
 ## [Previous Day...](/news/2010/01/29/index.md)

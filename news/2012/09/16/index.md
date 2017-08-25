@@ -3,16 +3,16 @@
 ### [Syrian Civil War: Violence between government forces and rebels continues in several Syrian provinces. ](/news/2012/09/16/syrian-civil-war-violence-between-government-forces-and-rebels-continues-in-several-syrian-provinces.md)
 Rebel-held areas in Aleppo and Rastan pounded by government troops, as deadly clashes continue across the country.
 
-### [Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional-revolutionary-part.md)
+### [Mexican Drug War. Jaime Serrano Cedillo, a deputy of the State of Mexico, is assassinated; he is the second politician of the Institutional Revolutionary Party (PRI) to be killed in just two days. Eduardo Castro Luque was killed by unknown assailants on Friday night. ](/news/2012/09/16/mexican-drug-war-jaime-serrano-cedillo-a-deputy-of-the-state-of-mexico-is-assassinated-he-is-the-second-politician-of-the-institutional.md)
 _Context: Eduardo Castro Luque, Institutional Revolutionary Party, Jaime Serrano Cedillo, Mexican Drug War, State of Mexico_
 
 ### [Militants attack an Egyptian security headquarters in the Sinai Peninsula, injuring several officers. Operation Sinai is extended "until its goals are achieved". ](/news/2012/09/16/militants-attack-an-egyptian-security-headquarters-in-the-sinai-peninsula-injuring-several-officers-operation-sinai-is-extended-until-its.md)
 Anti-state fighters attack security headquarters in el-Arish with rocket-propelled grenades and machineguns.
 
-### [2012 diplomatic missions attacks falloutPresident of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-falloutppresident-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md)
+### [2012 diplomatic missions attacks fallout. President of Libya Mohamed el-Magariaf announces Libya has made at least 50 arrests in conjunction with the U.S. Consulate attack in Benghazi. ](/news/2012/09/16/2012-diplomatic-missions-attacks-fallout-president-of-libya-mohamed-el-magariaf-announces-libya-has-made-at-least-50-arrests-in-conjunction.md)
 Suspects comprise affiliates, sympathizers, few foreigners says Libyan National Congress president, AFP reports.
 
-### [War in Afghanistan:Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-peight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrike.md)
+### [War in Afghanistan:. Eight female civilians are killed in a NATO airstrike in the eastern Afghan province of Laghman; NATO said the airstrike was attempting to target insurgents. ](/news/2012/09/16/war-in-afghanistan-eight-female-civilians-are-killed-in-a-nato-airstrike-in-the-eastern-afghan-province-of-laghman-nato-said-the-airstrik.md)
 At least eight women have died in an air strike in the eastern Afghan province of Laghman, local officials say - Nato concedes civilians may have died.
 
 ### [A roadside bombing carried out by Kurdistan Workers' Party (PKK) militants in the southern Turkish province of Bingol kills at least eight police officers. ](/news/2012/09/16/a-roadside-bombing-carried-out-by-kurdistan-workers-party-pkk-militants-in-the-southern-turkish-province-of-bingapl-kills-at-least-eight.md)
@@ -24,7 +24,7 @@ At least 14 people are killed by a roadside bomb in the Lower Dir area of northw
 ### [Super Typhoon Sanba reaches the Ryukyu Islands on its way to Korea. ](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.md)
 _Context: Korean Peninsula, Ryukyu Islands, Typhoon, Typhoon Sanba_
 
-### [Senkaku Islands dispute:Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-panti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md)
+### [Senkaku Islands dispute:. Anti-Japan protesters in China ransack Japanese businesses; set fire to a Panasonic plant in Qingdao. ](/news/2012/09/16/senkaku-islands-dispute-anti-japan-protesters-in-china-ransack-japanese-businesses-set-fire-to-a-panasonic-plant-in-qingdao.md)
 Chinese police used pepper spray, tear gas and water cannon to break up an anti-Japan protest in southern China on Sunday as demonstrators took to the streets in scores of cities across the country in a long-running row over a group of disputed islands.
 
 ### [Japan's ambassador designate to China, Shinichi Nishimiya, dies after suddenly collapsing outside his home in Tokyo on Thursday. ](/news/2012/09/16/japan-s-ambassador-designate-to-china-shinichi-nishimiya-dies-after-suddenly-collapsing-outside-his-home-in-tokyo-on-thursday.md)

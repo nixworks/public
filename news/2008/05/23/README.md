@@ -24,8 +24,8 @@ Seven people have been killed in a bus crash in central France.
 ### [ An independent investigation into $8.2 billion in United States Department of Defense spending in Iraq, as well as aid to Egypt and Kuwait since 2001 finds that 95% of payments to contractors failed to meet requirements for documentation to determine what was paid for. ](/news/2008/05/23/an-independent-investigation-into-8-2-billion-in-united-states-department-of-defense-spending-in-iraq-as-well-as-aid-to-egypt-and-kuwait.md)
 An audit of $8.2 billion spent on contractors in Iraq found that almost none of the payments followed federal rules.
 
-### [ 2006 Lathen maglev train accident: Germany fines two test track managers over the 23 deaths and 11 injuries. A third defendant remains to be tried due to suicide fears. ](/news/2008/05/23/2006-lathen-maglev-train-accident-germany-fines-two-test-track-managers-over-the-23-deaths-and-11-injuries-a-third-defendant-remains-to-b.md)
-_Context: 2006 Lathen maglev train accident, Germany, suicide_
+### [ 2006 Lathen maglev train accident: Germany fines two test track managers over the 23 deaths and 11 injuries. A third defendant remains to be tried due to suicide fears. [http://www.bloomberg.com/apps/news?pid=20601100&sid=aOU9MgAJN2eY&refer=germany (Bloomberg)] (Wikinews)](/news/2008/05/23/2006-lathen-maglev-train-accident-germany-fines-two-test-track-managers-over-the-23-deaths-and-11-injuries-a-third-defendant-remains-to-b.md)
+_Context: (Wikinews), 2006 Lathen maglev train accident, Germany, suicide_
 
 ### [ A coroner suggests the entire fleet of British Royal Air Force Hawker Siddeley Nimrod aircraft should be grounded on safety concerns. ](/news/2008/05/23/a-coroner-suggests-the-entire-fleet-of-british-royal-air-force-hawker-siddeley-nimrod-aircraft-should-be-grounded-on-safety-concerns.md)
 _Context: Hawker Siddeley Nimrod, Royal Air Force_

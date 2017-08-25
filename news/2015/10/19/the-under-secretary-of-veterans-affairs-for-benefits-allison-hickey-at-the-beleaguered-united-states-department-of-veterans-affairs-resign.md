@@ -1,6 +1,6 @@
 ### [2015-10-19](/news/2015/10/19/index.md)
 
-# The Under Secretary of Veterans Affairs for Benefits, Allison Hickey, at the beleaguered United States Department of Veterans Affairs resigned.  She held the post since June 2011. 
+# The Under Secretary of Veterans Affairs for Benefits, Allison Hickey, at the beleaguered United States Department of Veterans Affairs resigned. She held the post since June 2011. 
 
 VA benefits chief Allison Hickey, arguably the most polarizing figure in the VA leadership, has stepped down amid both praise and criticism.
 

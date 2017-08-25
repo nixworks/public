@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md) _Context: China, Sichuan, deadly earthquake_
+1. [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. [http://www.guardian.co.uk/world/2009/may/07/china-quake-pupils-death-toll "(The Guardian)"]](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008-http-www-guardian-co-uk-world-2009-may-0.md) _Context: China, Sichuan, deadly earthquake_
 2. [Three more Tibetan protesters set themselves on fire in Sichuan, China. ](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.md) _Context: China, Sichuan_
 3. [A Tibetan protester sets himself on fire in Sichuan, China. ](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.md) _Context: China, Sichuan_
 4. [A Tibetan monk is shot dead in Sichuan, China, in the second violent clash this week as unrest spreads. ](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.md) _Context: China, Sichuan_

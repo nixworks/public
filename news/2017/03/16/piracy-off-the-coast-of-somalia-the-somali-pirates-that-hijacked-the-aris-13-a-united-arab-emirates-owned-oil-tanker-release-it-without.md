@@ -1,0 +1,23 @@
+### [2017-03-16](/news/2017/03/16/index.md)
+
+# Piracy off the coast of Somalia. The Somali pirates that hijacked the "Aris 13", a United Arab Emirates-owned oil tanker, release it without condition. 
+
+The hijackers let the ship go hours after exchanging gunfire with naval forces.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-africa-39295936)
+
+### Related:
+
+1. [Piracy off the coast of Somalia. Off the northern coast of Somalia, Somali pirates hijack the "Aris 13", a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. ](/news/2017/03/14/piracy-off-the-coast-of-somalia-off-the-northern-coast-of-somalia-somali-pirates-hijack-the-aris-13-a-united-arab-emirates-owned-oil-ta.md) _Context: Piracy off the coast of Somalia, Somalia, United Arab Emirates_
+2. [Piracy off the coast of Somalia. Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/piracy-off-the-coast-of-somalia-somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: Piracy off the coast of Somalia, Somalia_
+3. [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md) _Context: Somalia, United Arab Emirates_
+4. [2017 Dubai skyscraper fire. A fire at the 79-story Dubai Torch Tower in the United Arab Emirates, which forced nighttime evacuations, was under control in a few hours with no serious injuries immediately reported. The building's exterior was still being renovated from a fire in February, 2015, which investigators had blamed, at least in part, to flammable siding, echoing the findings of this past June's Grenfell Tower fire in London. ](/news/2017/08/4/2017-dubai-skyscraper-fire-a-fire-at-the-79-story-dubai-torch-tower-in-the-united-arab-emirates-which-forced-nighttime-evacuations-was-un.md) _Context: United Arab Emirates_
+5. [2017 Qatar crisis. Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/2017-qatar-crisis-qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt.md) _Context: United Arab Emirates_
+6. [Saudi Arabian-led intervention in Yemen. Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/saudi-arabian-led-intervention-in-yemen-human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-pe.md) _Context: United Arab Emirates_
+7. [2017 Qatar diplomatic crisis. Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/2017-qatar-diplomatic-crisis-bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognize.md) _Context: United Arab Emirates_
+8. [2017 Qatar diplomatic crisis. The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/2017-qatar-diplomatic-crisis-the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab.md) _Context: United Arab Emirates_
+9. [Human trafficking in Belgium. A Belgian court condemns a United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/human-trafficking-in-belgium-a-belgian-court-condemns-a-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sen.md) _Context: United Arab Emirates_
+10. [War in Somalia (2009-present). A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/war-in-somalia-2009-present-a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-a.md) _Context: Somalia_

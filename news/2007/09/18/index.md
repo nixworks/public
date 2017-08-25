@@ -9,19 +9,19 @@ _Context: Iran, United Nations Security Council, United States, nuclear scientis
 ### [ The United States Federal Reserve cuts a key short-term interest rate by a half-percentage point, resulting in a stock market rally. ](/news/2007/09/18/the-united-states-federal-reserve-cuts-a-key-short-term-interest-rate-by-a-half-percentage-point-resulting-in-a-stock-market-rally.md)
 _Context: United States Federal Reserve, interest rates, stock market_
 
-### [ Bangladeshi cartoonist Arifur Rahman is detained on suspicion of disrespecting Muhammad. The Interim Government confiscates copies of the ''Prothom Alo'' newspaper issue in which Muhammad is caricatured. ](/news/2007/09/18/bangladeshi-cartoonist-arifur-rahman-is-detained-on-suspicion-of-disrespecting-muhammad-the-interim-government-confiscates-copies-of-the.md)
+### [ Bangladeshi cartoonist Arifur Rahman is detained on suspicion of disrespecting Muhammad. The Interim Government confiscates copies of the "Prothom Alo" newspaper issue in which Muhammad is caricatured. ](/news/2007/09/18/bangladeshi-cartoonist-arifur-rahman-is-detained-on-suspicion-of-disrespecting-muhammad-the-interim-government-confiscates-copies-of-the.md)
 _Context: Arifur Rahman, Bangladesh, Muhammad, Prothom Alo, caricature, cartoonist_
 
 ### [ China confirms a bird flu outbreak in Guangzhou.](/news/2007/09/18/china-confirms-a-bird-flu-outbreak-in-guangzhou.md)
 _Context: Avian flu virus, China, Guangzhou_
 
-### [ More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas.  ](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.md)
+### [ More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas. ](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.md)
 _Context: Buddhists, Myanmar, monk, teargas_
 
-### [ The Bank of England injects 4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after 2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-ps4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-crisi.md)
+### [ The Bank of England injects GBP4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after GBP2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-gbp4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-cri.md)
 _Context: 2007 subprime mortgage financial crisis, Bank of England, Northern Rock_
 
-### [ Russia claims to have killed  top Dagestani militant Rappani Khalilov along with another militant in a day-long battle. ](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.md)
+### [ Russia claims to have killed top Dagestani militant Rappani Khalilov along with another militant in a day-long battle. ](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.md)
 _Context: Dagestan, Rappani Khalilov, Russia_
 
 ### [ North Korea denies allegations that it is helping Syria to develop a nuclear weapons facility. ](/news/2007/09/18/north-korea-denies-allegations-that-it-is-helping-syria-to-develop-a-nuclear-weapons-facility.md)

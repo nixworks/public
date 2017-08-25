@@ -1,6 +1,6 @@
 ### [2010-09-28](/news/2010/09/28/index.md)
 
-# 300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew.  
+# 300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew. 
 
 A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a number of houses, officials say.
 

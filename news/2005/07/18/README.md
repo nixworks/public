@@ -21,7 +21,7 @@ _Context: Malaysia, Sky Kingdom_
 ### [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
-### [ In Morocco, Ali Salem Tamek, human rights activist and supporter of independence of Western Sahara, is arrested when he returns from Europe. Government accuses him of fomenting riots  ](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.md)
+### [ In Morocco, Ali Salem Tamek, human rights activist and supporter of independence of Western Sahara, is arrested when he returns from Europe. Government accuses him of fomenting riots ](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.md)
 _Context: Ali Salem Tamek, Europe, Morocco, Western Sahara_
 
 ### [ The European Union is planning an operation to monitor peace process in Aceh ](/news/2005/07/18/the-european-union-is-planning-an-operation-to-monitor-peace-process-in-aceh.md)

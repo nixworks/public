@@ -1,6 +1,6 @@
 ## [2008-03-8](/news/2008/03/8/index.md)
 
-### [ United States presidential election, 2008: Illinois  Senator Barack Obama  wins the Wyoming Democratic caucus. ](/news/2008/03/8/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-wyoming-democratic-caucus.md)
+### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Wyoming Democratic caucus. ](/news/2008/03/8/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-wyoming-democratic-caucus.md)
 Senator Barack Obama beat Senator Hillary Rodham Clinton by a wide margin, continuing his string of victories in caucus states.
 
 ### [ Swedish Minister for Foreign Affairs Carl Bildt becomes the first foreign minister to visit Kosovo since the country declared its independence. ](/news/2008/03/8/swedish-minister-for-foreign-affairs-carl-bildt-becomes-the-first-foreign-minister-to-visit-kosovo-since-the-country-declared-its-independe.md)
@@ -12,7 +12,7 @@ _Context: Memphis, Tennessee, police_
 ### [ Serbian Prime Minister Vojislav Kostunica resigns, dissolving a coalition too divided over the loss of Kosovo to carry on governing. ](/news/2008/03/8/serbian-prime-minister-vojislav-koa-tunica-resigns-dissolving-a-coalition-too-divided-over-the-loss-of-kosovo-to-carry-on-governing.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-### [ Voters in Malta go to the polls for the Maltese general election, 2008. [http://www.iht.com/articles/ap/2008/03/08/europe/EU-POL-Malta-Elections.php (AP via ''International Herald Tribune'')] hggfd](/news/2008/03/8/voters-in-malta-go-to-the-polls-for-the-maltese-general-election-2008-http-www-iht-com-articles-ap-2008-03-08-europe-eu-pol-malta-elec.md)
+### [ Voters in Malta go to the polls for the Maltese general election, 2008. [http://www.iht.com/articles/ap/2008/03/08/europe/EU-POL-Malta-Elections.php (AP via "International Herald Tribune")] hggfd](/news/2008/03/8/voters-in-malta-go-to-the-polls-for-the-maltese-general-election-2008-http-www-iht-com-articles-ap-2008-03-08-europe-eu-pol-malta-elec.md)
 _Context: Malta, general election_
 
 ### [ Vietnam bans ownership of pet hamsters. ](/news/2008/03/8/vietnam-bans-ownership-of-pet-hamsters.md)

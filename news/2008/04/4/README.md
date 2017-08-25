@@ -1,6 +1,6 @@
 ## [2008-04-4](/news/2008/04/4/index.md)
 
-### [ Former commander of the rebel Kosovo Liberation Army during the 1998-99 war Ramush Haradinaj is acquitted of war crimes charges by the International Criminal Tribunal for the former Yugoslavia. (AP via ''The International Herald Tribune'')](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-army-during-the-1998a99-war-ramush-haradinaj-is-acquitted-of-war-crimes-charges-by-the-in.md)
+### [ Former commander of the rebel Kosovo Liberation Army during the 1998-99 war Ramush Haradinaj is acquitted of war crimes charges by the International Criminal Tribunal for the former Yugoslavia. (AP via "The International Herald Tribune")](/news/2008/04/4/former-commander-of-the-rebel-kosovo-liberation-army-during-the-1998-99-war-ramush-haradinaj-is-acquitted-of-war-crimes-charges-by-the-in.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Ramush Haradinaj_
 
 ### [ United States airline Skybus announces that it will be shutting down Saturday and cancels all flights. ](/news/2008/04/4/united-states-airline-skybus-announces-that-it-will-be-shutting-down-saturday-and-cancels-all-flights.md)

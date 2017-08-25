@@ -1,6 +1,6 @@
 ## [2011-11-3](/news/2011/11/3/index.md)
 
-### [2011 Syrian uprising:At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-pat-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md)
+### [2011 Syrian uprising:. At least 20 people and 13 soldiers are killed in ongoing fighting in the city of Homs. ](/news/2011/11/3/2011-syrian-uprising-at-least-20-people-and-13-soldiers-are-killed-in-ongoing-fighting-in-the-city-of-homs.md)
 _Context: 2011 Syrian uprising, Homs_
 
 ### [The Port of Oakland in the US state of California reopens after a second police crackdown on Occupy Oakland. ](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.md)
@@ -12,7 +12,7 @@ _Context: Advanced Micro Devices_
 ### [An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. ](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.md)
 More than 1,200 passengers are evacuated from a ferry that caught fire in the Red Sea, and one Jordanian reportedly dies after jumping overboard.
 
-### [Eurozone debt crisis:The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-pthe-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md)
+### [Eurozone debt crisis:. The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/eurozone-debt-crisis-the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing.md)
 _Context: 2011 G-20 summit, Cannes, France, an ongoing debt crisis_
 
 ### [Police fire tear gas at Occupy Oakland protesters after they blocked the Port of Oakland. ](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.md)

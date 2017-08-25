@@ -18,7 +18,7 @@ More than 3,000 Toyota workers are striking for a fifth day this month over a pa
 ### [Floods in the Filipino province of Maguindanao affect 16,000 families. ](/news/2011/09/23/floods-in-the-filipino-province-of-maguindanao-affect-16-000-families.md)
 _Context: Maguindanao, Philippines, flood_
 
-### [During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national-authority-mahmoud-abbas-makes.md)
+### [Israeli-Palestinian conflict. During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/israeli-palestinian-conflict-during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national.md)
 The Middle East Quartet urges Israel and the Palestinians to resume peace talks within a month, after the Palestinians ask the UN to recognise their state.
 
 ### [South Korean prosecutors raid the offices of seven savings banks whose operations were suspended last week, with the president of one bank committing suicide. ](/news/2011/09/23/south-korean-prosecutors-raid-the-offices-of-seven-savings-banks-whose-operations-were-suspended-last-week-with-the-president-of-one-bank-c.md)

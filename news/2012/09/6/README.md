@@ -1,9 +1,9 @@
 ## [2012-09-6](/news/2012/09/6/index.md)
 
-### [Syrian civil war:Vladimir Putin urges the Western and Arab world to review their position. He asks to end the violence first, then sit around the table and only then move on to "these practical steps about the internal organisation of the country itself". ](/news/2012/09/6/syrian-civil-war-pvladimir-putin-urges-the-western-and-arab-world-to-review-their-position-he-asks-to-end-the-violence-first-then-sit-arou.md)
+### [Syrian civil war:. Vladimir Putin urges the Western and Arab world to review their position. He asks to end the violence first, then sit around the table and only then move on to "these practical steps about the internal organisation of the country itself". ](/news/2012/09/6/syrian-civil-war-vladimir-putin-urges-the-western-and-arab-world-to-review-their-position-he-asks-to-end-the-violence-first-then-sit-aro.md)
 _Context: Arab world, Syria, Syrian Civil War, Vladimir Putin, Westerners_
 
-### [Colombian armed conflict (1964-present):The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964apresent-pthe-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md)
+### [Colombian armed conflict (1964-present):. The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964-present-the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md)
 _Context: Colombian armed conflict (1964-present), Norway, Oslo, Revolutionary Armed Forces of Colombia, armistice, truce_
 
 ### [61 people, illegal immigrants traveling below deck, die after a fishing boat capsizes fifty meters off the Izmir Province coast of Turkey, near the Greek Aegean islands. ](/news/2012/09/6/61-people-illegal-immigrants-traveling-below-deck-die-after-a-fishing-boat-capsizes-fifty-meters-off-the-izmir-province-coast-of-turkey-n.md)

@@ -11,5 +11,5 @@ Punk pioneers the Ramones, British actress and singer Julie Andrews and jazz dru
 
 ### Related:
 
-1. [At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dolly-parton-s-dollywood-resort.md) _Context: Dolly Parton_
+1. [2016 Southeastern United States wildfires. At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dol.md) _Context: Dolly Parton_
 2. [Gospel singer George Beverly Shea died at the age of 104, following a brief illness. ](/news/2013/04/16/gospel-singer-george-beverly-shea-died-at-the-age-of-104-following-a-brief-illness.md) _Context: George Beverly Shea_

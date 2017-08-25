@@ -1,6 +1,6 @@
 ## [2009-07-7](/news/2009/07/7/index.md)
 
-### [  Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md)
+### [ July 2009 rmqi riots. Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/july-2009-urumqi-riots-chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md)
 Rival ethnic Uighur and Han Chinese groups take to streets defying security crackdown.
 
 ### [ A public memorial for Michael Jackson takes place at the Staples Center in Los Angeles, California, with over 17,000 viewing in Los Angeles, and millions more viewing around the world. ](/news/2009/07/7/a-public-memorial-for-michael-jackson-takes-place-at-the-staples-center-in-los-angeles-california-with-over-17-000-viewing-in-los-angeles.md)
@@ -15,7 +15,7 @@ _Context: Cherokee County, Patrick Tracy Burris, serial killer_
 ### [ Tunisian police charge nine men&mdash;including two air force officers&mdash;with plotting several deaths during joint military exercises with the US. ](/news/2009/07/7/tunisian-police-charge-nine-men-mdash-including-two-air-force-officers-mdash-with-plotting-several-deaths-during-joint-military-exercises-w.md)
 _Context: Tunisia_
 
-### [ A 1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-ps1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md)
+### [ A GBP1m permanent memorial to the victims of the July 7, 2005 London bombings is unveiled in the city's Hyde Park. ](/news/2009/07/7/a-gbp1m-permanent-memorial-to-the-victims-of-the-july-7-2005-london-bombings-is-unveiled-in-the-city-s-hyde-park.md)
 Relatives of the 52 victims of the 7 July 2005 bombings in London have marked the fourth anniversary of the attacks.
 
 ### [ An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. ](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested-in-ireland-by-the-labour-party-s-ruairi-quinn-with-education-minister-batt-o-keeffe-criti.md)

@@ -1,18 +1,18 @@
 ## [2013-04-12](/news/2013/04/12/index.md)
 
-### [War in Afghanistan (2001-present):Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001apresent-pthirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-eastern.md)
+### [War in Afghanistan (2001-present):. Thirteen soldiers of the Afghan National Army are killed and one is injured in an ambush in the eastern Kunar Province. ](/news/2013/04/12/war-in-afghanistan-2001-present-thirteen-soldiers-of-the-afghan-national-army-are-killed-and-one-is-injured-in-an-ambush-in-the-easter.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Iraqi insurgency (post-U.S. withdrawal):At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-pat-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bagh.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/iraqi-insurgency-post-u-s-withdrawal-at-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-bag.md)
 _Context: Baghdad, Diyala Province, Iraqi insurgency (post-U.S. withdrawal), Sunni_
 
-### [Northern Mali conflict (2012-present):2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012apresent-p2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civ.md)
+### [Northern Mali conflict (2012-present):. 2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012-present-2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-ci.md)
 _Context: 2013 Kidal suicide attack, Chad, Kidal, Mali, Military, Northern Mali conflict (2012-present)_
 
 ### [The BBC confirms that it will not be playing "Ding-Dong! The Witch Is Dead" in full when it counts down the UK pop chart on Sunday, saying it finds "distasteful" the timing of the song's rise up the charts in the wake of Margaret Thatcher's death. ](/news/2013/04/12/the-bbc-confirms-that-it-will-not-be-playing-ding-dong-the-witch-is-dead-in-full-when-it-counts-down-the-uk-pop-chart-on-sunday-saying-i.md)
 The bitter row over Margaret Thatcher&#039;s legacy continues — and this time it&#039;s spilling onto the BBC&#039;s Top 40 radio program. 
 
-### [''Colorless Tsukuru Tazaki and His Years of Pilgrimage'' is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-boo.md)
+### ["Colorless Tsukuru Tazaki and His Years of Pilgrimage" is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-books.md)
 _Context: Colorless Tsukuru Tazaki and His Years of Pilgrimage, Haruki Murakami, Japan, Tokyo_
 
 ### [Veteran Bollywood actor Pran is announced as the winner of the 2012 Dadasaheb Phalke Award. ](/news/2013/04/12/veteran-bollywood-actor-pran-is-announced-as-the-winner-of-the-2012-dadasaheb-phalke-award.md)
@@ -33,7 +33,7 @@ _Context: Indonesia, National Search and Rescue Agency, Sunda Strait, asylum see
 ### [A powerful storm system hits Midwestern and Southern United States spawning a dozen tornadoes and killing 3 people. ](/news/2013/04/12/a-powerful-storm-system-hits-midwestern-and-southern-united-states-spawning-a-dozen-tornadoes-and-killing-3-people.md)
 Storms packing snow, ice and dangerous winds knocked out power in communities throughout the Midwest.&#160;
 
-### [2013 Korean crisis:South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-psouth-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-as.md)
+### [2013 Korean crisis:. South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-south-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-a.md)
 Pyongyang issued a warning to Tokyo that it if doesn&#8217;t stop its &#8220;hostile posture&#8221; against North Korea, Japan will be the main target if they push through with the threatened war i…
 
 ### [British Prime Minister David Cameron travels to Berlin to discuss his demands for sweeping reform of the European Union with German Chancellor Angela Merkel. ](/news/2013/04/12/british-prime-minister-david-cameron-travels-to-berlin-to-discuss-his-demands-for-sweeping-reform-of-the-european-union-with-german-chancell.md)
@@ -48,7 +48,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 ### [The United States imposes sanctions on 18 "Magnitsky list" Russians accused of human rights violations. Russia threatens to retaliate. ](/news/2013/04/12/the-united-states-imposes-sanctions-on-18-magnitsky-list-russians-accused-of-human-rights-violations-russia-threatens-to-retaliate.md)
 The Obama administration imposed sanctions on about two dozen Russians under a new law that has soured ties with Moscow, but avoided targeting many high-level government figures.
 
-### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
+### [A representative from the Vietnamese Foreign Ministry-s National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministry-s-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
 _Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
 ### [India's Supreme Court clears the way for the execution of Devinder Pal Singh Bhullar, a Sikh militant, rejecting his appeal for his sentence to be commuted to life imprisonment. ](/news/2013/04/12/india-s-supreme-court-clears-the-way-for-the-execution-of-devinder-pal-singh-bhullar-a-sikh-militant-rejecting-his-appeal-for-his-sentence.md)

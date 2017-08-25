@@ -1,9 +1,9 @@
 ## [2010-08-12](/news/2010/08/12/index.md)
 
-### [War in Afghanistan:The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-pthe-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massa.md)
+### [War in Afghanistan:. The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-mass.md)
 _Context: 2010 Badakhshan massacre, Afghanistan's, International Assistance Mission, Taliban, War in Afghanistan (2001-present)_
 
-### [Human Rights Watch accuses the northern Ugandan  Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-duri.md)
+### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
 _Context: Central Africa, Human Rights Watch, Lord's Resistance Army, Uganda_
 
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -21,7 +21,7 @@ Nine people injured by a car bomb planted outside a radio station in Bogota.
 ### [Three people are arrested following a grenade attack in the Rwandan capital Kigali which injured several people. ](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.md)
 Police arrest three people after a grenade explosion in the capital Kigali injures at least seven days after the election.
 
-### [Russia marks with ceremonies the 10th anniversary of the K-141 ''Kursk'' explosion in the Barents Sea. ](/news/2010/08/12/russia-marks-with-ceremonies-the-10th-anniversary-of-the-k-141-kursk-explosion-in-the-barents-sea.md)
+### [Russia marks with ceremonies the 10th anniversary of the K-141 "Kursk" explosion in the Barents Sea. ](/news/2010/08/12/russia-marks-with-ceremonies-the-10th-anniversary-of-the-k-141-kursk-explosion-in-the-barents-sea.md)
 Ceremonies are being held in Russia and on board its naval vessels to commemorate the 10th anniversary of the Kursk nuclear submarine disaster.
 
 ### [A national search uncovers 200 missing Japanese centenarians so far. ](/news/2010/08/12/a-national-search-uncovers-200-missing-japanese-centenarians-so-far.md)
@@ -45,7 +45,7 @@ _Context: Daniel Akerson, Edward Whitacre, Jr., General Motors, chief executive 
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
 _Context: Greek_
 
-### [2010 Pakistan floods:The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-pthe-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakista.md)
+### [2010 Pakistan floods:. The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakist.md)
 Zardari meets flood victims after heavy criticism of decision to continue European tour.
 
 ### [Portuguese firefighters battle dozens of forest fires, with 2 dead so far. ](/news/2010/08/12/portuguese-firefighters-battle-dozens-of-forest-fires-with-2-dead-so-far.md)

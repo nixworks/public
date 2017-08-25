@@ -27,7 +27,7 @@ _Context: China, retirement_
 ### [Japan intervenes in the foreign exchange market for the first time in six years to reduce the exchange rate for the yen in order to stimulate the Japanese economy. ](/news/2010/09/15/japan-intervenes-in-the-foreign-exchange-market-for-the-first-time-in-six-years-to-reduce-the-exchange-rate-for-the-yen-in-order-to-stimulat.md)
 _Context: Japan, Japanese economy, exchange rate, foreign exchange, yen_
 
-### [News Corporation sells the ''Fiji Times'' to Fijian company Motibhai two weeks before a deadline set by the government of interim Prime Minister Frank Bainimarama. ](/news/2010/09/15/news-corporation-sells-the-fiji-times-to-fijian-company-motibhai-two-weeks-before-a-deadline-set-by-the-government-of-interim-prime-mini.md)
+### [News Corporation sells the "Fiji Times" to Fijian company Motibhai two weeks before a deadline set by the government of interim Prime Minister Frank Bainimarama. ](/news/2010/09/15/news-corporation-sells-the-fiji-times-to-fijian-company-motibhai-two-weeks-before-a-deadline-set-by-the-government-of-interim-prime-minist.md)
 Australia&#39;s News Limited has sold the Fiji Times for an undisclosed sum to Fiji company Motibhai.
 
 ### [Malaysia considers suing Israel in the International Court of Justice over the blockade of the Gaza Strip. ](/news/2010/09/15/malaysia-considers-suing-israel-in-the-international-court-of-justice-over-the-blockade-of-the-gaza-strip.md)
@@ -51,7 +51,7 @@ _Context: Goodluck Jonathan, Nigeria, President, presidential election_
 ### [An anti-American protest in Kabul, sparked in part by the 2010 Qur'an-burning controversy, turns violent with five members of the Afghan National Police being injured and two demonstrators being shot. ](/news/2010/09/15/an-anti-american-protest-in-kabul-sparked-in-part-by-the-2010-qur-an-burning-controversy-turns-violent-with-five-members-of-the-afghan-nat.md)
 _Context: 2010 Qur'an-burning controversy, Afghan police, Kabul, United States_
 
-### [North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu  but sparking speculation about the health of Kim Jong-il. ](/news/2010/09/15/north-korea-s-ruling-workers-party-of-korea-cancels-its-largest-political-convention-in-thirty-years-officially-due-to-floods-caused-by-typ.md)
+### [North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu but sparking speculation about the health of Kim Jong-il. ](/news/2010/09/15/north-korea-s-ruling-workers-party-of-korea-cancels-its-largest-political-convention-in-thirty-years-officially-due-to-floods-caused-by-typ.md)
 _Context: Kim Jong-il, North Korea, Typhoon Kompasu, Workers' Party of Korea, flood_
 
 ## [Previous Day...](/news/2010/09/14/index.md)

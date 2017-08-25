@@ -1,9 +1,9 @@
 ## [2013-04-13](/news/2013/04/13/index.md)
 
-### [War in North-West Pakistan:A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-pa-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md)
+### [War in North-West Pakistan:. A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md)
 At least eight people have been killed in a bomb explosion on a bus in Peshawar in north-western Pakistan, officials say.
 
-### [Syrian civil war:Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-ptwenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md)
+### [Syrian civil war:. Twenty civilians are killed in Saraqib, Idlib, after a government warplane bombs the city. ](/news/2013/04/13/syrian-civil-war-twenty-civilians-are-killed-in-saraqib-idlib-after-a-government-warplane-bombs-the-city.md)
 The British press has released details of the use of chemical weapons in the Syrian conflict. The Times reported that evidence has been discovered
 
 ### [An earthquake estimated at a magnitude of 6.0 hits Kobe, Japan, injuring at least 22 people. ](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.md)
@@ -18,7 +18,7 @@ _Context: Honduras, Tegucigalpa, forest fire, main airport, smoke_
 ### [A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. ](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first-person-in-beijing-china-to-catch-the-influenza-a-virus-subtype-h7n9-bird-flu.md)
 _Context: Beijing, China, H7N9 avian flu virus, bird flu, girl_
 
-### [2013 Korean crisis:South Korean police stop a planned launch of anti-North Korean leaflets across the border, as the government of South Korea seeks to open dialogue with the North and defuse soaring tensions in the Korean Peninsula. ](/news/2013/04/13/2013-korean-crisis-psouth-korean-police-stop-a-planned-launch-of-anti-north-korean-leaflets-across-the-border-as-the-government-of-south-ko.md)
+### [2013 Korean crisis:. South Korean police stop a planned launch of anti-North Korean leaflets across the border, as the government of South Korea seeks to open dialogue with the North and defuse soaring tensions in the Korean Peninsula. ](/news/2013/04/13/2013-korean-crisis-south-korean-police-stop-a-planned-launch-of-anti-north-korean-leaflets-across-the-border-as-the-government-of-south-k.md)
 South Korean police on Saturday stopped a planned launch of anti-North Korea leaflets across the border, an activist said, as Seoul seeks to open dialogue and defuse soaring tensions with Pyongyang.
 
 ### [The Iranian Army announces the successful completion of three rocket tests. ](/news/2013/04/13/the-iranian-army-announces-the-successful-completion-of-three-rocket-tests.md)

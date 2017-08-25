@@ -1,6 +1,6 @@
 ## [2011-10-8](/news/2011/10/8/index.md)
 
-### [2011 Libyan civil war: After a lengthy and  bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-fac.md)
+### [2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-faci.md)
 _Context: Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [Rocket fire and gunshots are reported in the Afghan city of Kandahar. ](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.md)

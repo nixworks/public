@@ -1,6 +1,6 @@
 ## [2010-04-14](/news/2010/04/14/index.md)
 
-### [Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-suggest-there-were-six-quakes.md)
+### [2010 Yushu earthquake. Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/2010-yushu-earthquake-chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-sugges.md)
 Chinese authorities raced against time, distance, altitude and wind in a remote corner of the Tibetan plateau as they tried to rescue victims of a magnitude 7.1 earthquake that killed at least 617...
 
 ### [At least 100 people are killed in India after a powerful storm demolished thousands of homes in West Bengal. ](/news/2010/04/14/at-least-100-people-are-killed-in-india-after-a-powerful-storm-demolished-thousands-of-homes-in-west-bengal.md)
@@ -15,7 +15,7 @@ _Context: Eyjafjallajokull, Iceland_
 ### [It is reported that U.S. President Barack Obama on Thursday will unveil a "bold and daring" new space mission to send astronauts to Mars months after he controversially scrapped a project to return to the Moon. ](/news/2010/04/14/it-is-reported-that-u-s-president-barack-obama-on-thursday-will-unveil-a-bold-and-daring-new-space-mission-to-send-astronauts-to-mars-mon.md)
 _Context: Barack Obama, Mars_
 
-### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
+### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow-a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3w-a-place-reserved-for-poland-s.md)
 _Context: Lech Kaczynski, Polish, Wawel Cathedral_
 
 ### [Tokelau outlaws whaling within its territorial waters. ](/news/2010/04/14/tokelau-outlaws-whaling-within-its-territorial-waters.md)

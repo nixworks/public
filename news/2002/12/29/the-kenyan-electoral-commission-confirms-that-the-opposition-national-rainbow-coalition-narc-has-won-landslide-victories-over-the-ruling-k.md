@@ -1,6 +1,6 @@
 ### [2002-12-29](/news/2002/12/29/index.md)
 
-# The Kenyan electoral commission confirms that the opposition National Rainbow Coalition (NARC) has won landslide victories over the ruling KANU party in Friday's elections, ending 40 years of single party rule and 24 years of rule by Daniel arap Moi.  The NARC's presidential candidate, Mwai Kibaki, led by more than 30 percentage points over the KANU's official candidate.
+# The Kenyan electoral commission confirms that the opposition National Rainbow Coalition (NARC) has won landslide victories over the ruling KANU party in Friday's elections, ending 40 years of single party rule and 24 years of rule by Daniel arap Moi. The NARC's presidential candidate, Mwai Kibaki, led by more than 30 percentage points over the KANU's official candidate.
 
 
 

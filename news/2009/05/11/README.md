@@ -15,7 +15,7 @@ _Context: Baghdad, Camp Liberty, Iraq, United States, United States Army, comrad
 ### [ A gunman kills two people and commits suicide near Oslo, Norway. ](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.md)
 _Context: Norway, Oslo, kills, suicide_
 
-### [ Tata Motors intends to raise PS1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-aps1-billion-to-sustain-jaguar-land-rover.md)
+### [ Tata Motors intends to raise GBP1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-agbp1-billion-to-sustain-jaguar-land-rover.md)
 Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 billion by September to keep the cash-starved company afloat without the British government&rsquo;s help, according to British publication The Guardian.
 
 ### [ Guatemalan President Alvaro Colom is accused of ordering the assassination of lawyer Rodrigo Rosenberg. ](/news/2009/05/11/guatemalan-president-alvaro-colom-is-accused-of-ordering-the-assassination-of-lawyer-rodrigo-rosenberg.md)

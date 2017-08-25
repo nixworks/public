@@ -1,6 +1,6 @@
 ### [2010-04-25](/news/2010/04/25/index.md)
 
-# Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. ''[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]''
+# Chennai Super Kings defeat Mumbai Indians to win the third Indian Premier League cricket tournament. "[http://edition.cnn.com/2010/SPORT/04/25/cricket.ipl.chennai.win.tendulkar/index.html?hpt=T2 CNN], [http://english.aljazeera.net/sport/ Al Jazeera], [http://www.smh.com.au/sport/cricket/chennai-win-ipl-with-22run-win-over-mumbai-20100426-tm1h.html Sydney Morning Herald]"
 
 
 

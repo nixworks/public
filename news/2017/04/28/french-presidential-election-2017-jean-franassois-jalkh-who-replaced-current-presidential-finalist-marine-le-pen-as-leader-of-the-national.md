@@ -1,0 +1,23 @@
+### [2017-04-28](/news/2017/04/28/index.md)
+
+# French presidential election, 2017. Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. 
+
+Her party’s top official was forced to step aside after he was cited questioning the Holocaust.
+
+
+### Source:
+
+1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-04-28/national-front-president-steps-down-after-death-camp-remarks)
+
+### Related:
+
+1. [French presidential election, 2017. With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/french-presidential-election-2017-with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-nation.md) _Context: Marine Le Pen, National Front, last month's presidential election_
+2. [Politics of France. France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/politics-of-france-france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md) _Context: Marine Le Pen, National Front_
+3. [French presidential election, 2017. Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/french-presidential-election-2017-voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as.md) _Context: Marine Le Pen, last month's presidential election_
+4. [French presidential election, 2017. Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/french-presidential-election-2017-voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of.md) _Context: Marine Le Pen, last month's presidential election_
+5. [French presidential election, 2017. Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/french-presidential-election-2017-candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: Marine Le Pen, last month's presidential election_
+6. [French presidential election, 2017. Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/french-presidential-election-2017-far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _Context: Marine Le Pen, last month's presidential election_
+7. [2017 French presidential election. Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/2017-french-presidential-election-presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _Context: Marine Le Pen, National Front_
+8. [French presidential election, 2017. New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/french-presidential-election-2017-new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-m.md) _Context: Marine Le Pen, last month's presidential election_
+9. [French presidential election, 2017. The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/french-presidential-election-2017-the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-headi.md) _Context: Marine Le Pen, last month's presidential election_
+10. [France-Russia relations. French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/france-russia-relations-french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterw.md) _Context: Marine Le Pen, National Front_

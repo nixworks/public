@@ -48,7 +48,7 @@ TAIPEI (Reuters Life!) - A region of Taiwan that prides itself on puppetry, an a
 ### [ Eight children drown after a boat carrying 35 pupils capsizes in Kerala, southern India. ](/news/2009/11/4/eight-children-drown-after-a-boat-carrying-35-pupils-capsizes-in-kerala-southern-india.md)
 _Context: India, Kerala_
 
-### [  Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md)
+### [ United States elections, 2009. Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/united-states-elections-2009-michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md)
 NYC&#39;s narrow reelection&nbsp;makes Dems skeptical.
 
 ## [Previous Day...](/news/2009/11/3/index.md)

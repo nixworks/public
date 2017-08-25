@@ -1,6 +1,6 @@
 ### [2010-04-3](/news/2010/04/3/index.md)
 
-# Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp.  
+# Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp. 
 
 South African white far-right leader Eugene Terre&#39;blanche was beaten and hacked to death at his farm, local media said.
 

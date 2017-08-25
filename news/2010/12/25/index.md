@@ -1,7 +1,7 @@
 ## [2010-12-25](/news/2010/12/25/index.md)
 
-### [At least 45 people are killed and at least 50 others are injured in Khar, Bajaur, Pakistan when a woman throws two hand grenades and detonates her vest at a World Food Programme (WFP) distribution centre in the early morning. ](/news/2010/12/25/at-least-45-people-are-killed-and-at-least-50-others-are-injured-in-khar-bajaur-pakistan-when-a-woman-throws-two-hand-grenades-and-detonat.md)
-At least 43 people are killed by a female suicide bomber who targeted a crowd receiving food aid in north-west Pakistan, officials say.
+### [At least 45 people are killed and at least 50 others are injured in Khar, Bajaur, Pakistan when a woman throws two hand grenades and detonates her vest at a World Food Programme (WFP) distribution centre in the early morning. [http://www.bbc.co.uk/news/world-south-asia-12078248 (BBC)] [http://www.voanews.com/english/news/Suspected-Suicide-Bomber-Kills-40-in-Pakistan-112448854.html (Voice of America)] [http://www.jpost.com/International/Article.aspx?id=200936 ("The Jerusalem Post") ]](/news/2010/12/25/at-least-45-people-are-killed-and-at-least-50-others-are-injured-in-khar-bajaur-pakistan-when-a-woman-throws-two-hand-grenades-and-detonat.md)
+_Context: Khar, Bajaur, Pakistan, World Food Programme_
 
 ### [The Sudanese army says it has killed at least 40 rebels and wounded many more in a new offensive in the Darfur region, when army forces attacked joint positions of the Justice and Equality Movement and the Sudan Liberation Movement. ](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.md)
 _Context: Darfur, Justice and Equality Movement, Sudan Liberation Movement, Sudanese government troops, conflict_
@@ -12,14 +12,14 @@ Blasts in Philippines and Nigeria kill at least 38 as church leaders call for pe
 ### [UN: Approximately 14,000 people have fled Cote d'Ivoire and headed to Liberia due to the recent presidential election dispute. ](/news/2010/12/25/un-approximately-14-000-people-have-fled-ca-te-d-ivoire-and-headed-to-liberia-due-to-the-recent-presidential-election-dispute.md)
 _Context: Cote d'Ivoire, Liberia_
 
-### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel "ceases to exist". ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
+### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel -ceases to exist-. ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
 Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, head of its armed wing says Israel will &#39;cease to exist and we will have Palestine. Spokesman: We have something that will worry the occupation
 
 ### [Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". ](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.md)
 _Context: Albania's national selection, Aurela Gace, Eurovision Song Contest 2011, Kenga ime_
 
 ### [Leading writers criticise the British government for what they describe as its "repugnant, foolish and pointlessly destructive" decision to axe all funding for a free children's book scheme. ](/news/2010/12/25/leading-writers-criticise-the-british-government-for-what-they-describe-as-its-repugnant-foolish-and-pointlessly-destructive-decision-to.md)
-### [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders.  ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
+### [Vietnam-s credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnam-s-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
 _Context: Vietnam, Vinashin, credit rating agencies, inflation, state owned, trade deficit_
 
 ### [A magnitude 7.3 earthquake strikes Vanuatu. A tsunami warning is issued for the region and later cancelled after a minor tsunami was recorded. ](/news/2010/12/25/a-magnitude-7-3-earthquake-strikes-vanuatu-a-tsunami-warning-is-issued-for-the-region-and-later-cancelled-after-a-minor-tsunami-was-recorde.md)
@@ -28,7 +28,7 @@ _Context: Vanuatu, warnings_
 ### [An overcrowded bus plunges into ravine near El Carmen, Ecuador, killing 41. ](/news/2010/12/25/an-overcrowded-bus-plunges-into-ravine-near-el-carmen-ecuador-killing-41.md)
 _Context: Ecuador, El Carmen_
 
-### [International filmmakers condemn the  sentencing of Iranian director Jafar Panahi and a colleague to six-year sentences in jail and their being barred from writing-directing and producing films for 20-year, for opposition to the government. ](/news/2010/12/25/international-filmmakers-condemn-the-sentencing-of-iranian-director-jafar-panahi-and-a-colleague-to-six-year-sentences-in-jail-and-their-be.md)
+### [International filmmakers condemn the sentencing of Iranian director Jafar Panahi and a colleague to six-year sentences in jail and their being barred from writing-directing and producing films for 20-year, for opposition to the government. ](/news/2010/12/25/international-filmmakers-condemn-the-sentencing-of-iranian-director-jafar-panahi-and-a-colleague-to-six-year-sentences-in-jail-and-their-bei.md)
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.
 
 ### [Turkey's foreign minister Ahmet Davutoglu reiterates his request for an apology from Israel for killing 9 Turks during May's Gaza flotilla raid ](/news/2010/12/25/turkey-s-foreign-minister-ahmet-davutoalu-reiterates-his-request-for-an-apology-from-israel-for-killing-9-turks-during-may-s-gaza-flotilla.md)
@@ -43,7 +43,7 @@ _Context: Ecuador, Palestinian, officially recognises_
 ### [Mossad announces an intention to apologize to Britain for using fake British passports during the assassination of Mahmoud al-Mabhouh in Dubai in January 2010. ](/news/2010/12/25/mossad-announces-an-intention-to-apologize-to-britain-for-using-fake-british-passports-during-the-assassination-of-mahmoud-al-mabhouh-in-dub.md)
 Israel will apologize for using British passports in the assassination of a Hamas operative in Dubai, Mossad insiders said.
 
-### [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been  acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acqui.md)
+### [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acquit.md)
 _Context: Darfur, Sudanese government_
 
 ### [Dutch police arrest 12 Somalis on suspicion of plotting an imminent terrorist attack in the Netherlands. ](/news/2010/12/25/dutch-police-arrest-12-somalis-on-suspicion-of-plotting-an-imminent-terrorist-attack-in-the-netherlands.md)

@@ -33,7 +33,7 @@ _Context: China, Cross-Strait relations, Taiwan_
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
 _Context: European Union, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_
 
-### [ In ''Boumediene v. Bush'', the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights.md)
+### [ In "Boumediene v. Bush", the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights-to.md)
 The Supreme Court rejected the Bush administration’s argument that the Guantánamo Bay detainees had adequate protections under a 2005 law.
 
 ### [ Washington Capitals forward Alexander Ovechkin wins the Hart Memorial Trophy as most valuable player for the National Hockey League 2007-2008 season as well as the Art Ross Trophy for most points and the Rocket Richard Trophy for top goal scorer. ](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.md)

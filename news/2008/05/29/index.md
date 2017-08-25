@@ -1,16 +1,16 @@
 ## [2008-05-29](/news/2008/05/29/index.md)
 
-### [ 2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the  Sichuan earthquake, searching for clues about why they crumbled. ](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting-the-ruins-of-thousands-of-schools-that-collapsed-in-the-sichuan-earthquake-searching-for.md)
+### [ 2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the Sichuan earthquake, searching for clues about why they crumbled. ](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting-the-ruins-of-thousands-of-schools-that-collapsed-in-the-sichuan-earthquake-searching-for.md)
 _Context: China, deadly earthquake_
 
 ### [ Tornadoes of 2008: The Governor of Nebraska Dave Heineman declares a state of emergency in relation to tornadoes in the towns of Kearney, Nebraska, and Aurora, Nebraska. ](/news/2008/05/29/tornadoes-of-2008-the-governor-of-nebraska-dave-heineman-declares-a-state-of-emergency-in-relation-to-tornadoes-in-the-towns-of-kearney-n.md)
 _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoes of 2008, state of emergency, tornado_
 
-### [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6a5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md)
+### [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6-5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md)
 _Context: Brazil, Supreme Federal Court, embryonic stem cell_
 
 ### [ The National Indian Foundation publishes photographs of a tribe of uncontacted peoples in a remote area of Amazonia. ](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.md)
-_Context: Amazonia, Fundacao Nacional do Indio, photograph, uncontacted peoples_
+_Context: Amazonia, FundacGBPo Nacional do Indio, photograph, uncontacted peoples_
 
 ### [ A helicopter crashes into a building in Panama City, killing the Director-general of the Carabiniers of Chile and several civilians. ](/news/2008/05/29/a-helicopter-crashes-into-a-building-in-panama-city-killing-the-director-general-of-the-carabiniers-of-chile-and-several-civilians.md)
 _Context: Carabiniers of Chile, Director-general, Panama City_
@@ -42,10 +42,10 @@ _Context: China, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintan
 ### [ Twenty-six people are dead and fifty-one missing as a result of snowstorms in eastern Mongolia. ](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missing-as-a-result-of-snowstorms-in-eastern-mongolia.md)
 _Context: Mongolia, snowstorms_
 
-### [ Luxembourg ratifies the Treaty of Lisbon becoming the fifteenth country to do so.  ](/news/2008/05/29/luxembourg-ratifies-the-treaty-of-lisbon-becoming-the-fifteenth-country-to-do-so.md)
+### [ Luxembourg ratifies the Treaty of Lisbon becoming the fifteenth country to do so. ](/news/2008/05/29/luxembourg-ratifies-the-treaty-of-lisbon-becoming-the-fifteenth-country-to-do-so.md)
 _Context: Luxembourg, Treaty of Lisbon_
 
-### [ Iraq delivers a report on security, reconstruction, and economic progress at the U.N. conference on Iraq in Stockholm. Iraq seeks debt forgiveness and foreign investment to aid with  reconstruction. ](/news/2008/05/29/iraq-delivers-a-report-on-security-reconstruction-and-economic-progress-at-the-u-n-conference-on-iraq-in-stockholm-iraq-seeks-debt-forg.md)
+### [ Iraq delivers a report on security, reconstruction, and economic progress at the U.N. conference on Iraq in Stockholm. Iraq seeks debt forgiveness and foreign investment to aid with reconstruction. ](/news/2008/05/29/iraq-delivers-a-report-on-security-reconstruction-and-economic-progress-at-the-u-n-conference-on-iraq-in-stockholm-iraq-seeks-debt-forg.md)
 _Context:  reconstruction, Iraq, Stockholm, U.N. conference on Iraq, debt forgiveness_
 
 ### [ Torrential rain causes flash flooding across half of Somerset, United Kingdom. ](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-half-of-somerset-united-kingdom.md)

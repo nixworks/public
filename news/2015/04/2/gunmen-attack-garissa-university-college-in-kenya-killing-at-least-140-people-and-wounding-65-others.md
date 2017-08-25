@@ -12,4 +12,4 @@ At least 147 people have died in an attack by al-Shabab on Garissa University, K
 
 ### Related:
 
-1. [Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university-college.md) _Context: Garissa University College_
+1. [Garissa University College attack. Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/garissa-university-college-attack-kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university.md) _Context: Garissa University College_

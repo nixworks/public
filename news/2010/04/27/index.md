@@ -1,6 +1,6 @@
 ## [2010-04-27](/news/2010/04/27/index.md)
 
-### [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md)
+### [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a -45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md)
 _Context: EUR, European Union, Greek, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
 
 ### [Norway and Russia settle a 40-year-old conflict over their maritime border in the Barents Sea, announced during President Medvedev's state visit in Norway. ](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.md)
@@ -33,7 +33,7 @@ _Context: Kenya, Moses Wetangula, United Arab Emirates, terrorism_
 ### [Haiti drops kidnapping charges against U.S. missionaries detained for trying to take children out of the country after the January earthquake. ](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.md)
 _Context: 2010 Haiti earthquake, Haiti_
 
-### [The  Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-w.md)
+### [The Metropolitan Police in London publish a long suppressed report on the 1979 death of Blair Peach which concludes that a police officer was probably responsible for his killing. ](/news/2010/04/27/the-metropolitan-police-in-london-publish-a-long-suppressed-report-on-the-1979-death-of-blair-peach-which-concludes-that-a-police-officer-wa.md)
 _Context: Blair Peach, Metropolitan Police_
 
 ### [The Israeli military disciplines four officers involved in two clashes with West Bank protesters in which four Palestinian civilians were killed. ](/news/2010/04/27/the-israeli-military-disciplines-four-officers-involved-in-two-clashes-with-west-bank-protesters-in-which-four-palestinian-civilians-were-ki.md)

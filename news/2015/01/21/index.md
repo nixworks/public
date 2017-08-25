@@ -3,7 +3,7 @@
 ### [A Palestinian man from the West Bank, Hamza Muhammad Hassan Matrouk, illegally crosses into Israel for the express purpose to stab people attacking over a dozen Israelis on a bus in central Tel Aviv. Security forces capture the assailant as he continued to indiscriminately stab people in the street. ](/news/2015/01/21/a-palestinian-man-from-the-west-bank-hamza-muhammad-hassan-matrouk-illegally-crosses-into-israel-for-the-express-purpose-to-stab-people-at.md)
 _Context: Israelis, Palestinian, Tel Aviv, West Bank_
 
-### [2014-15 Russian military intervention in Ukraine:The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014a15-russian-military-intervention-in-ukraine-pthe-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-he.md)
+### [2014-15 Russian military intervention in Ukraine:. The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014-15-russian-military-intervention-in-ukraine-the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-h.md)
 Ukrainian President Petro Poroshenko accused Russia on Wednesday of sending 9,000 troops to back separatist rebels in the east of his country, and the IMF chief said she backed extra financial help for Kiev as the conflict inflicts severe economic damage.
 
 ### [Lutz Bachmann resigns as a leader of PEGIDA, a German anti-Islamist organisation, after controversy was sparked by a headshot photo of himself posing as Adolf Hitler. ](/news/2015/01/21/lutz-bachmann-resigns-as-a-leader-of-pegida-a-german-anti-islamist-organisation-after-controversy-was-sparked-by-a-headshot-photo-of-himse.md)
@@ -24,7 +24,7 @@ An extra-alarm fire destroyed hundreds of apartemnts Wednesday evening in comple
 ### [The government-installed pollution gauges that were set up along roadside stations to monitor Hong Kong reach the maximum level of their ranges. ](/news/2015/01/21/the-government-installed-pollution-gauges-that-were-set-up-along-roadside-stations-to-monitor-hong-kong-reach-the-maximum-level-of-their-ran.md)
 _Context: Hong Kong_
 
-### [The ''New England Journal of Medicine'' publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cance.md)
+### [The "New England Journal of Medicine" publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cancer.md)
 _Context: New England Journal of Medicine, Portland State University, carcinogen, e-cigarette, formaldehyde_
 
 ### [Russian state-owned gas company Gazprom announces a plan to shift its European natural gas pipeline from Ukraine to Turkey, through a proposed link under the Black Sea to Turkey. ](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.md)

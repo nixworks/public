@@ -3,8 +3,8 @@
 ### [ Hamas and Islamic Jihad have declared, in principle, their intention to join the Palestine Liberation Organization (PLO). ](/news/2005/04/1/hamas-and-islamic-jihad-have-declared-in-principle-their-intention-to-join-the-palestine-liberation-organization-plo.md)
 _Context: Hamas, Islamic Jihad Movement in Palestine, Palestine Liberation Organization's_
 
-### [ A death squad guns down at least 30 people in the Brazilian state of Rio de Janeiro. Several teenagers and a child were among those killed in the districts of Queimados and Nova Iguacu on Thursday night. Authorities blame rogue police officers for the massacre. ](/news/2005/04/1/a-death-squad-guns-down-at-least-30-people-in-the-brazilian-state-of-rio-de-janeiro-several-teenagers-and-a-child-were-among-those-killed.md)
-_Context: Brazil, Rio de Janeiro, death squad_
+### [ A death squad guns down at least 30 people in the Brazilian state of Rio de Janeiro. Several teenagers and a child were among those killed in the districts of Queimados and Nova Iguacu on Thursday night. Authorities blame rogue police officers for the massacre. [http://news.bbc.co.uk/1/hi/world/americas/4401525.stm (BBC)] (Wikinews)](/news/2005/04/1/a-death-squad-guns-down-at-least-30-people-in-the-brazilian-state-of-rio-de-janeiro-several-teenagers-and-a-child-were-among-those-killed.md)
+_Context: (Wikinews), Brazil, Rio de Janeiro, death squad_
 
 ### [ Google doubles the storage space of its Gmail service to two gigabytes. ](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.md)
 _Context: Gmail, Google, gigabyte_
@@ -18,7 +18,7 @@ _Context: Darfur, International Criminal Court, United Nations Security Council,
 ### [ Zimbabwe parliamentary elections, 2005: In Zimbabwe, the ruling Zanu-PF gains a two-thirds majority over opposition party Movement for Democratic Change amidst claims of dis-enfranchisement and fraud. ](/news/2005/04/1/zimbabwe-parliamentary-elections-2005-in-zimbabwe-the-ruling-zanu-pf-gains-a-two-thirds-majority-over-opposition-party-movement-for-demo.md)
 _Context: Movement for Democratic Change, Zimbabwe, opposition party, parliamentary elections, ruling party_
 
-### [ Indian security forces launch an offensive against the United Liberation Front of Assam.  ](/news/2005/04/1/indian-security-forces-launch-an-offensive-against-the-united-liberation-front-of-assam.md)
+### [ Indian security forces launch an offensive against the United Liberation Front of Assam. ](/news/2005/04/1/indian-security-forces-launch-an-offensive-against-the-united-liberation-front-of-assam.md)
 _Context: India, United Liberation Front of Assam_
 
 ### [ The World Bank agrees to fund a controversial hydroelectric dam project in Laos. ](/news/2005/04/1/the-world-bank-agrees-to-fund-a-controversial-hydroelectric-dam-project-in-laos.md)

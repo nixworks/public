@@ -1,24 +1,24 @@
 ## [2011-06-15](/news/2011/06/15/index.md)
 
-### [2011 Greek uprising:Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-pgreek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-di.md)
+### [2011 Greek uprising:. Greek unions initiate a general strike, with protesters vowing to surround the Hellenic Parliament as it prepares to discuss its plans for financial cuts. ](/news/2011/06/15/2011-greek-uprising-greek-unions-initiate-a-general-strike-with-protesters-vowing-to-surround-the-hellenic-parliament-as-it-prepares-to-d.md)
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [2011 Spanish protests: Protesters blockade parliament buildings in Barcelona, in a protest simultaneous with events in Greece, to express their annoyance with government cuts after camping outside overnight. The Presidents of Catalan Government and Parliament avoid the protesters by flying in on helicopters. ](/news/2011/06/15/2011-spanish-protests-protesters-blockade-parliament-buildings-in-barcelona-in-a-protest-simultaneous-with-events-in-greece-to-express-th.md)
 More than 2,000 anti-austerity protesters try to blockade the Catalan parliament in Barcelona as a key budget debate gets under way.
 
-### [Bank of Ireland chairman Pat Molloy and chief executive Richie Boucher, gathered for a meeting at University College Dublin (UCD), are attacked with eggs amid calls to have them all "taken out and bloody shot".  ](/news/2011/06/15/bank-of-ireland-chairman-pat-molloy-and-chief-executive-richie-boucher-gathered-for-a-meeting-at-university-college-dublin-ucd-are-attac.md)
+### [Bank of Ireland chairman Pat Molloy and chief executive Richie Boucher, gathered for a meeting at University College Dublin (UCD), are attacked with eggs amid calls to have them all "taken out and bloody shot". ](/news/2011/06/15/bank-of-ireland-chairman-pat-molloy-and-chief-executive-richie-boucher-gathered-for-a-meeting-at-university-college-dublin-ucd-are-attac.md)
 Eggs have been thrown at Bank of Ireland&#39;s Chairman and CEO at the Annual General Meeting.
 
-### [2011 Libyan civil war:Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-prebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md)
+### [2011 Libyan civil war:. Rebels make fresh gains against forces of Muammar Gaddafi in the east and west of the country. ](/news/2011/06/15/2011-libyan-civil-war-rebels-make-fresh-gains-against-forces-of-muammar-gaddafi-in-the-east-and-west-of-the-country.md)
 Gains come as NATO bombs Tripoli, with strikes hitting eastern neighbourhoods of the capital city.
 
-### [2011 Yemeni uprising:The Associated Press claims that the U.S. Central Intelligence Agency is building an airbase in the Persian Gulf to target terrorists in the event of a terrorist element taking control of Yemen. ](/news/2011/06/15/2011-yemeni-uprising-pthe-associated-press-claims-that-the-u-s-central-intelligence-agency-is-building-an-airbase-in-the-persian-gulf-to-ta.md)
+### [2011 Yemeni uprising:. The Associated Press claims that the U.S. Central Intelligence Agency is building an airbase in the Persian Gulf to target terrorists in the event of a terrorist element taking control of Yemen. ](/news/2011/06/15/2011-yemeni-uprising-the-associated-press-claims-that-the-u-s-central-intelligence-agency-is-building-an-airbase-in-the-persian-gulf-to-t.md)
 The fighters are expanding their reach in a nearly lawless region of southern Yemen.
 
 ### [Admiral Kim Sung-chan, the head of the Republic of Korea Navy, vows a stronger response to aggression from North Korea. ](/news/2011/06/15/admiral-kim-sung-chan-the-head-of-the-republic-of-korea-navy-vows-a-stronger-response-to-aggression-from-north-korea.md)
 _Context: Kim Sung-chan, North Korea, South Korean Navy_
 
-### [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel ''Let the Great World Spin''. ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spi.md)
+### [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.md)
 Irish author Colum McCann wins the International Impac Dublin Literary Award for his latest novel, Let The Great World Spin.
 
 ### [Mario Vargas Llosa, last year's recipient of the Nobel Prize in Literature, speaks out against authoritarian governments and calls on all citizens to participate in political life while addressing students at Shanghai International Studies University. ](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.md)
@@ -39,10 +39,10 @@ _Context: Dish Network, October 2010, TerreStar Networks, bankruptcy, stalking h
 ### [British public-owned bank Northern Rock is to be privatised by the coalition government. ](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.md)
 Chancellor George Osborne announces that he wants to sell Northern Rock to a single buyer to try to raise the most cash for taxpayers.
 
-### [New South Wales floods:Thousands of  people living on the Mid North Coast of the Australian state of New South Wales face a flooding risk, with the town of Kempsey under particular threat and with ten thousand people isolated. ](/news/2011/06/15/new-south-wales-floods-pthousands-of-people-living-on-the-mid-north-coast-of-the-australian-state-of-new-south-wales-face-a-flooding-risk.md)
+### [New South Wales floods:. Thousands of people living on the Mid North Coast of the Australian state of New South Wales face a flooding risk, with the town of Kempsey under particular threat and with ten thousand people isolated. ](/news/2011/06/15/new-south-wales-floods-thousands-of-people-living-on-the-mid-north-coast-of-the-australian-state-of-new-south-wales-face-a-flooding-risk.md)
 A close watch is being kept on river levels across the lower mid-north coast of NSW as floodwaters continue to rise.
 
-### [2011 Puyehue eruption:Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-paustralian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eru.md)
+### [2011 Puyehue eruption:. Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/2011-puyehue-eruption-australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-er.md)
 _Context: 2011 Puyehue eruption, Australia, Chile, New Zealand, Perth, Qantas, Tasmania, Virgin Australia_
 
 ### [The Yonhap news agency reports that nine North Koreans have defected to South Korea across the Yellow Sea. ](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.md)

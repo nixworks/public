@@ -4,7 +4,7 @@
 _Context: United States Federal Reserve_
 
 ### [ Two United States Air Force F-15 Eagle fighter planes crash in mid-air over the Gulf of Mexico near Florida. ](/news/2008/02/20/two-united-states-air-force-f-15-eagle-fighter-planes-crash-in-mid-air-over-the-gulf-of-mexico-near-florida.md)
-_Context: Air Force, F-15 Eagle, Florida, Gulf_
+_Context: Air Force, F-15 Eagle, Florida, Gulf of Mexico_
 
 ### [ The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. ](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.md)
 _Context: Indonesia, Sumatra, United States Geological Survey_
@@ -21,7 +21,7 @@ _Context: Alternative Civilization, Morocco, Mustapha Moatassim_
 ### [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md)
 _Context: Armenia, Armenian President, OSCE, Prime Minister, Serzh Sargsyan, presidential election_
 
-### [ The Space Shuttle ''Atlantis'' lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international.md)
+### [ The Space Shuttle "Atlantis" lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international-sp.md)
 NASA.gov brings you the latest images, videos and news from America&#039;s space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.
 
 ## [Previous Day...](/news/2008/02/19/index.md)

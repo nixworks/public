@@ -9,7 +9,7 @@ An Angolan journalist and human rights campaigner says the African Union should 
 ### [Mexican Federal Police arrest a mayor and his wife, the alleged masterminds of the kidnapping of 43 students in Iguala, Guerrero. ](/news/2014/11/4/mexican-federal-police-arrest-a-mayor-and-his-wife-the-alleged-masterminds-of-the-kidnapping-of-43-students-in-iguala-guerrero.md)
 The capture Tuesday of a fugitive Mexican mayor suspected of ordering the disappearance of 43 college students raises expectations of progress in the unsuccessful five-week-long search for the missing men.
 
-### [Voters in the United States go to the polls for House of Representatives, Senate and local elections. ](/news/2014/11/4/voters-in-the-united-states-go-to-the-polls-for-house-of-representatives-senate-and-local-elections.md)
+### [United States elections, 2014. Voters in the United States go to the polls for House of Representatives, Senate and local elections. ](/news/2014/11/4/united-states-elections-2014-voters-in-the-united-states-go-to-the-polls-for-house-of-representatives-senate-and-local-elections.md)
 NBC News projects that Republicans will retain their majority in the U.S. House of Representatives.
 
 ## [Previous Day...](/news/2014/11/3/index.md)

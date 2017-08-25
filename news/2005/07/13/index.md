@@ -9,7 +9,7 @@ _Context: Bernard Ebbers, SEC filings, WorldCom, conspiracy, fraud, imprisonment
 ### [ U.S. Supreme Court Chief Justice William Rehnquist is hospitalized with a fever. There have been no indications when Rehnquist, who is fighting thyroid cancer, will be released. ](/news/2005/07/13/u-s-supreme-court-chief-justice-william-rehnquist-is-hospitalized-with-a-fever-there-have-been-no-indications-when-rehnquist-who-is-figh.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ NASA's planned launch of STS-114, Space Shuttle ''Discovery'' from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of ''Columbia'' over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed.md)
+### [ NASA's planned launch of STS-114, Space Shuttle "Discovery" from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of "Columbia" over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed-du.md)
 _Context: Discovery, Kennedy Space Center, NASA, STS-114, disintegrated during re-entry, fly humans to space_
 
 ### [ The Australian Government announces it will send back 150 elite Special Air Service troops to Afghanistan, to take part in covert operations and to help thwart a resurgent Taliban. A further 200 troops may also be dispatched to aid reconstruction efforts. ](/news/2005/07/13/the-australian-government-announces-it-will-send-back-150-a-c-lite-special-air-service-troops-to-afghanistan-to-take-part-in-covert-operatio.md)
@@ -27,7 +27,7 @@ _Context: China, Xinjiang_
 ### [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md)
 _Context: Indonesia, Java, Mounts Merapi, volcanic activity_
 
-### [ In the Philippines, thousands of protestors gather in Manila to demand the resignation of president Gloria Arroyo, who has reshuffled her cabinet.  The military is on alert in case of violence. ](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.md)
+### [ In the Philippines, thousands of protestors gather in Manila to demand the resignation of president Gloria Arroyo, who has reshuffled her cabinet. The military is on alert in case of violence. ](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.md)
 _Context: Gloria Arroyo, Manila, Philippines_
 
 ### [ In Pakistan, a collision of three express trains near Ghotki leaves at least 120 dead after 13 carriages derail, according to Pakistan Railways and local police. ](/news/2005/07/13/in-pakistan-a-collision-of-three-express-trains-near-ghotki-leaves-at-least-120-dead-after-13-carriages-derail-according-to-pakistan-rail.md)
@@ -55,7 +55,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### [ The US State Department says it may withhold aid to Uzbekistan unless the Uzbek government agrees to an international inquiry about the unrest in Andijan. The official death toll has risen to 187. ](/news/2005/07/13/the-us-state-department-says-it-may-withhold-aid-to-uzbekistan-unless-the-uzbek-government-agrees-to-an-international-inquiry-about-the-unr.md)
 _Context: Andijan, State Department, Uzbekistan_
 
-### [ Bones of a mammoth are found in Silicon Valley: Paleontologist Mark Goodwin said that bones discovered Saturday by Roger Castillo, an environmental activist, may be the femur, tusks and pelvic bones of a Columbian mammoth, a species of ancient elephant that roamed the area tens of thousands of years ago.  ](/news/2005/07/13/bones-of-a-mammoth-are-found-in-silicon-valley-paleontologist-mark-goodwin-said-that-bones-discovered-saturday-by-roger-castillo-an-envir.md)
+### [ Bones of a mammoth are found in Silicon Valley: Paleontologist Mark Goodwin said that bones discovered Saturday by Roger Castillo, an environmental activist, may be the femur, tusks and pelvic bones of a Columbian mammoth, a species of ancient elephant that roamed the area tens of thousands of years ago. ](/news/2005/07/13/bones-of-a-mammoth-are-found-in-silicon-valley-paleontologist-mark-goodwin-said-that-bones-discovered-saturday-by-roger-castillo-an-envir.md)
 _Context: Paleontologists, Roger Castillo, Silicon Valley, femur, mammoth, pelvis, tusk_
 
 ## [Previous Day...](/news/2005/07/12/index.md)

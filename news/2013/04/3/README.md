@@ -1,12 +1,12 @@
 ## [2013-04-3](/news/2013/04/3/index.md)
 
-### [Israeli-Palestinian conflict:Israeli warplanes strike targets in the Gaza Strip in response to rocket fire, the first air strikes launched by Israel since an informal ceasefire ended eight days of cross-border fighting between Israel and Hamas-ruled Gaza in November 2012. ](/news/2013/04/3/israeliapalestinian-conflict-pisraeli-warplanes-strike-targets-in-the-gaza-strip-in-response-to-rocket-fire-the-first-air-strikes-launche.md)
+### [Israeli-Palestinian conflict:. Israeli warplanes strike targets in the Gaza Strip in response to rocket fire, the first air strikes launched by Israel since an informal ceasefire ended eight days of cross-border fighting between Israel and Hamas-ruled Gaza in November 2012. ](/news/2013/04/3/israeli-palestinian-conflict-israeli-warplanes-strike-targets-in-the-gaza-strip-in-response-to-rocket-fire-the-first-air-strikes-launch.md)
 _Context: Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, air strikes, informal ceasefire, ruled Gaza_
 
-### [War in Afghanistan (2001-present):At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001apresent-pat-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md)
+### [War in Afghanistan (2001-present):. At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001-present-at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md)
 A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves more than 50 people dead and 90 wounded, most of them civilians.
 
-### [War in North-West Pakistan:Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-psuspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan-k.md)
+### [War in North-West Pakistan:. Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. ](/news/2013/04/3/war-in-north-west-pakistan-suspected-militants-throw-a-grenade-at-a-vehicle-carrying-paramilitary-security-officers-in-southern-pakistan.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Writer Ruth Prawer Jhabvala, the only person to have won both an Academy Award and a Booker Prize, dies at the age of 85. ](/news/2013/04/3/writer-ruth-prawer-jhabvala-the-only-person-to-have-won-both-an-academy-award-and-a-booker-prize-dies-at-the-age-of-85.md)
@@ -18,7 +18,7 @@ _Context: Iain Banks, gallbladder cancer_
 ### [U.S. intellectual Noam Chomsky is awarded the Ulysses Medal by University College Dublin. ](/news/2013/04/3/u-s-intellectual-noam-chomsky-is-awarded-the-ulysses-medal-by-university-college-dublin.md)
 Veteran US political activist and intellectual Noam Chomsky has received another accolade.
 
-### [U.S. commercial TV network NBC announces the departure of Jay Leno from the ''The Tonight Show'' in spring 2014. Leno is to be replaced by Jimmy Fallon, host of ''Late Night with Jimmy Fallon''. ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-j.md)
+### [U.S. commercial TV network NBC announces the departure of Jay Leno from the "The Tonight Show" in spring 2014. Leno is to be replaced by Jimmy Fallon, host of "Late Night with Jimmy Fallon". ](/news/2013/04/3/u-s-commercial-tv-network-nbc-announces-the-departure-of-jay-leno-from-the-the-tonight-show-in-spring-2014-leno-is-to-be-replaced-by-jim.md)
 _Context: Jay Leno, Jimmy Fallon, Late Night with Jimmy Fallon, NBC, TV network, The Tonight Show, U.S._
 
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
@@ -39,7 +39,7 @@ _Context: Berlin, Soviet, World War II_
 ### [At least 24 people are killed and two are critically injured after a bus carrying tribesmen plunges off a cliff near Mount Hagen, Papua New Guinea. ](/news/2013/04/3/at-least-24-people-are-killed-and-two-are-critically-injured-after-a-bus-carrying-tribesmen-plunges-off-a-cliff-near-mount-hagen-papua-new.md)
 _Context: Mount Hagen, Papua New Guinea, bus, tribesmen_
 
-### [2013 Korean crisis:South Korea's Ministry of Unification says that North Korea is denying workers entry to joint-Korean Kaesong complex amid tensions on the peninsula. The Ministry of Defence will consider a military action if the workers' security is threatened. The U.S. Navy sends USS ''John McCain'' and USS ''Decatur'' into the area. ](/news/2013/04/3/2013-korean-crisis-psouth-korea-s-ministry-of-unification-says-that-north-korea-is-denying-workers-entry-to-joint-korean-kaesong-complex-ami.md)
+### [2013 Korean crisis:. South Korea's Ministry of Unification says that North Korea is denying workers entry to joint-Korean Kaesong complex amid tensions on the peninsula. The Ministry of Defence will consider a military action if the workers' security is threatened. The U.S. Navy sends USS "John McCain" and USS "Decatur" into the area. ](/news/2013/04/3/2013-korean-crisis-south-korea-s-ministry-of-unification-says-that-north-korea-is-denying-workers-entry-to-joint-korean-kaesong-complex-am.md)
 South Korean workers denied entry to Kaesong joint border complex for second day amid escalating tensions.
 
 ### [According to a new study, more than one million people per year die prematurely due to the air pollution in China. ](/news/2013/04/3/according-to-a-new-study-more-than-one-million-people-per-year-die-prematurely-due-to-the-air-pollution-in-china.md)
@@ -60,8 +60,8 @@ _Context: India, Uttar Pradesh, acid, motorcyclist_
 ### [Thirty-five American teachers from Atlanta are indicted on fraud charges for allegedly facilitating cheating on standardized tests dating back to 2001. ](/news/2013/04/3/thirty-five-american-teachers-from-atlanta-are-indicted-on-fraud-charges-for-allegedly-facilitating-cheating-on-standardized-tests-dating-ba.md)
 All but a handful of the 35 educators accused in a massive cheating scandal in Atlanta&#39;s public schools had turned themselves in and been freed on bond by early Wednesday, Fulton County authorities said.
 
-### [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. ](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county.md)
-WILLIAMSON, W.Va. -- The newly elected Mingo County sheriff, intent on cleaning up the county&#39;s drug problem, was gunned down at midday Wednesday in downtown Williamson.
+### [In the U.S. state of West Virginia, a sheriff is shot and killed in Mingo County. [http://www.wvgazette.com/News/201304030091 "(The Charleston Gazette)"]](/news/2013/04/3/in-the-u-s-state-of-west-virginia-a-sheriff-is-shot-and-killed-in-mingo-county-http-www-wvgazette-com-news-201304030091-the-charlest.md)
+_Context: Mingo County, U.S. state, West Virginia, sheriff_
 
 ### [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md)
 _Context: Hugo Chavez, Nicolas Maduro, President, Venezuela, last month's presidential election_

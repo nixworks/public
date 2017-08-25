@@ -9,7 +9,7 @@ _Context: Libya, Libyan Prime Minister, Mahmoud Jibril, Muammar Gaddafi, chemica
 ### [Fair Work Australia orders the Australian airline Qantas and its unions to reach an agreement within 21 days meaning that services will resume on Monday. ](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.md)
 QANTAS CEO Alan Joyce says the Federal Government was warned the airline was in crisis weeks ahead of the grounding of the fleet.
 
-### [The Commonwealth Heads of Government Meeting 2011 finishes in the Australian city of  Perth. ](/news/2011/10/30/the-commonwealth-heads-of-government-meeting-2011-finishes-in-the-australian-city-of-perth.md)
+### [The Commonwealth Heads of Government Meeting 2011 finishes in the Australian city of Perth. ](/news/2011/10/30/the-commonwealth-heads-of-government-meeting-2011-finishes-in-the-australian-city-of-perth.md)
 _Context: Australia, Commonwealth Heads of Government Meeting 2011, Perth_
 
 ### [Voters in Colombia go to the polls for local gubernatorial and mayoral elections, including the mayors of Bogot, Medelln, and Cali. ](/news/2011/10/30/voters-in-colombia-go-to-the-polls-for-local-gubernatorial-and-mayoral-elections-including-the-mayors-of-bogota-medellin-and-cali.md)

@@ -1,6 +1,6 @@
 ### [2007-05-25](/news/2007/05/25/index.md)
 
-#  The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the  murder of her husband. 
+#  The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the murder of her husband. 
 
 
 

@@ -9,7 +9,7 @@ Venezuelan President Hugo Chavez said Thursday he was expelling a U.S. Embassy m
 ### [ Representative John Boehner of Ohio becomes the U.S. House Majority Leader, beating out acting majority leader Roy Blunt in a house vote. ](/news/2006/02/2/representative-john-boehner-of-ohio-becomes-the-u-s-house-majority-leader-beating-out-acting-majority-leader-roy-blunt-in-a-house-vote.md)
 _Context: John Boehner, Majority Leader, Ohio, Roy Blunt, United States House of Representatives_
 
-### [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md)
+### [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of GBP13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-gbp13-12bn.md)
 _Context: Royal Dutch Shell_
 
 ### [ The oil tanker Seabulk Pride, carrying approx 100000|oilbbl|m3 (approx. 16 million L) of oil, runs aground in the port of Nikiski, Alaska. ](/news/2006/02/2/the-oil-tanker-seabulk-pride-carrying-approx-100000-oilbbl-m3-approx-16-million-l-of-oil-runs-aground-in-the-port-of-nikiski-alaska.md)

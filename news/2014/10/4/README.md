@@ -1,6 +1,6 @@
 ## [2014-10-4](/news/2014/10/4/index.md)
 
-### [The Kurdish city of Kobane in the Raqqa governate is on the brink of catastrophe as ISIL fighters besiege the city. ](/news/2014/10/4/the-kurdish-city-of-kobane-in-the-raqqa-governate-is-on-the-brink-of-catastrophe-as-isil-fighters-besiege-the-city.md)
+### [Syrian civil war. The Kurdish city of Kobane in the Raqqa governate is on the brink of catastrophe as ISIL fighters besiege the city. ](/news/2014/10/4/syrian-civil-war-the-kurdish-city-of-kobane-in-the-raqqa-governate-is-on-the-brink-of-catastrophe-as-isil-fighters-besiege-the-city.md)
 Turkey orders troops to border but refuses to intervene to repel brutal jihadist advance as refugees report atrocities
 
 ### [Sweden's new centre-left government creates a surprise by announcing that the country will recognise the state of Palestine, and becomes the first European country to do so while a member of the European Union. ](/news/2014/10/4/sweden-s-new-centre-left-government-creates-a-surprise-by-announcing-that-the-country-will-recognise-the-state-of-palestine-and-becomes-the.md)
@@ -9,7 +9,7 @@ Sweden has presented its new centre-left government and created a surprise by an
 ### [After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. ](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.md)
 _Context: ACT, Green Party, New Zealand National Party, New Zealand general election, United Future, minority government, special vote_
 
-### [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md)
+### [Latvian parliamentary election, 2014. Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvian-parliamentary-election-2014-latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-major.md)
 The incumbent prime minister of Latvia and her centre-right coalition look likely to retain power after Saturday’s general election. That is
 
 ### [Jean-Claude Duvalier (Baby Doc), leader of Haiti from his father's death in 1971 until his overthrow by a popular uprising in 1986, dies of a heart attack. ](/news/2014/10/4/jean-claude-duvalier-baby-doc-leader-of-haiti-from-his-father-s-death-in-1971-until-his-overthrow-by-a-popular-uprising-in-1986-dies-of.md)

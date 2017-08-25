@@ -9,7 +9,7 @@ _Context: 2011 Egyptian revolution, Egypt, Egyptian President, Mohamed Morsi_
 ### [Sinai insurgency: In response to Morsi's sentence, gunmen fatally shoot three Egyptian judges in the Sinai Peninsula. ](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.md)
 _Context: Sinai, Sinai insurgency, term_
 
-### [An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot.  ](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-over-terrorism-accusations-in-2012-over-70-football-fans-were-killed-and-500-injured-in-the.md)
+### [An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot. ](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-over-terrorism-accusations-in-2012-over-70-football-fans-were-killed-and-500-injured-in-the.md)
 _Context: Port Said Stadium riot, football_
 
 ### [A passenger train collides with a tractor and trailer on a level crossing at Ibbenbren, Germany. Two people are killed and twenty are injured.](/news/2015/05/16/a-passenger-train-collides-with-a-tractor-and-trailer-on-a-level-crossing-at-ibbenburen-germany-two-people-are-killed-and-twenty-are-injur.md)

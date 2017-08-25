@@ -1,0 +1,25 @@
+### [2016-03-11](/news/2016/03/11/index.md)
+
+# A report from the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures, while efforts trying to attribute droughts and extreme rainfall has medium confidence. 
+
+Man-made climate change is worsening some extreme weather events, according to a report made public Friday by a top science group in Washington.
+
+
+### Source:
+
+1. [AP via ''Business Insider](http://www.businessinsider.com/ap-panel-finding-climate-fingerprints-in-wild-weather-is-valid-2016-3)
+2. [National Academies](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=21852)
+3. [USA Today'' via WLTX](http://www.wltx.com/weather/forecast/climate/national-academy-of-sciences-report-links-extreme-weather-to-climate-change/78152696)
+
+### Related:
+
+1. [Global warming. A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/global-warming-a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-prev.md) _Context: Global warming_
+2. [French national public television broadcaster France Televisions fires France 2 TV channel's weatherman Philippe Verdier, who has been suspended since mid-October. Verdier, known as -Monsieur Meteo- (Mr Weather), has been promoting his recently published book, "Climat Investigation" (Climate Investigation), in which he throws doubt on the global warning findings of leading climate scientists and political leaders. France Televisions said its rules, "prevent anyone using their professional status - to push forward their personal opinions." ](/news/2015/11/2/french-national-public-television-broadcaster-france-ta-c-la-c-visions-fires-france-2-tv-channel-s-weatherman-philippe-verdier-who-has-been-sus.md) _Context: Global warming_
+3. [A new study by scientists finds that areas around the Persian Gulf could become uninhabitable to humans in less than 100 years due to rising temperatures. ](/news/2015/10/26/a-new-study-by-scientists-finds-that-areas-around-the-persian-gulf-could-become-uninhabitable-to-humans-in-less-than-100-years-due-to-rising.md) _Context: Global warming_
+4. [Recent climate change would still cause a 6-meter (20-feet) sea-level rise even if greenhouse gas emissions were reduced today per a scientific paper in "Science".](/news/2015/07/14/recent-climate-change-would-still-cause-a-6-meter-20-feet-sea-level-rise-even-if-greenhouse-gas-emissions-were-reduced-today-per-a-scienti.md) _Context: Global warming_
+5. [New data published independently by NASA and the National Oceanic and Atmospheric Administration show that the global warming trend is continuing. ](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.md) _Context: Global warming_
+6. [Top NASA scientist James Hansen retires in order to concentrate on global warming activism. ](/news/2013/04/2/top-nasa-scientist-james-hansen-retires-in-order-to-concentrate-on-global-warming-activism.md) _Context: Global warming_
+7. [The United States Supreme Court overturned 8-0 a U.S. appeals court ruling against five big power utility companies, brought by U.S. states, New York City, and Land trusts, attempting to force cuts in United States greenhouse gas emissions regarding global warming. The decision gives deference to reasonable interpretations of the United States Clean Air Act by the Environmental Protection Agency. ](/news/2011/06/20/the-united-states-supreme-court-overturned-8-0-a-u-s-appeals-court-ruling-against-five-big-power-utility-companies-brought-by-u-s-states.md) _Context: Global warming_
+8. [NOAA states that 2011 is already one of the most extreme weather years on record. ](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.md) _Context: extreme weather_
+9. [The Arctic Sun rises over Ilulissat, Greenland two days earlier than expected. A possible explanation is alterations in atmospheric refraction or inversion from ice crystals that may or may not be the result of global warming. ](/news/2011/01/11/the-arctic-sun-rises-over-ilulissat-greenland-two-days-earlier-than-expected-a-possible-explanation-is-alterations-in-atmospheric-refracti.md) _Context: Global warming_
+10. [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md) _Context: Global warming_

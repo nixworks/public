@@ -7,7 +7,7 @@ _Context: George W. Bush, National Security Agency, United States, president, wa
 _Context: Dan Halutz, Hezbollah, Israel, Israel Defense Forces_
 
 ### [ Ali al-Sadig, spokesman for the Sudanese Foreign Ministry, accuses U.S. troops of raiding Sudan's defunct embassy in Iraq. The U.S. government denies that any raid took place. ](/news/2007/01/17/ali-al-sadig-spokesman-for-the-sudanese-foreign-ministry-accuses-u-s-troops-of-raiding-sudan-s-defunct-embassy-in-iraq-the-u-s-governm.md)
-### [ U.S. television network NBC officially pulls out of the soap opera market by canceling ''Passions'', which is aired both domestically and internationally. NBC Universal Television president Jeff Zucker remarks that the network's other daytime drama, ''Days of Our Lives'', is "unlikely to continue" when its contract expires in 2009. ](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out-of-the-soap-opera-market-by-canceling-passions-which-is-aired-both-domestically-and-i.md)
+### [ U.S. television network NBC officially pulls out of the soap opera market by canceling "Passions", which is aired both domestically and internationally. NBC Universal Television president Jeff Zucker remarks that the network's other daytime drama, "Days of Our Lives", is "unlikely to continue" when its contract expires in 2009. ](/news/2007/01/17/u-s-television-network-nbc-officially-pulls-out-of-the-soap-opera-market-by-canceling-passions-which-is-aired-both-domestically-and-int.md)
 _Context: Days of Our Lives, Jeff Zucker, NBC, NBC Universal Television, Passions, soap opera_
 
 ### [ The Philippine Army kills Abu Sulaiman, the leader of Abu Sayyaf, a terrorist organization affiliated with Al Qaeda that operates in the Philippines. ](/news/2007/01/17/the-philippine-army-kills-abu-sulaiman-the-leader-of-abu-sayyaf-a-terrorist-organization-affiliated-with-al-qaeda-that-operates-in-the-ph.md)
@@ -22,7 +22,7 @@ _Context: National Democratic Institute, think tank_
 ### [ The minute hand on the Doomsday clock of the Bulletin of Atomic Scientists is moved to five minutes to midnight. ](/news/2007/01/17/the-minute-hand-on-the-doomsday-clock-of-the-bulletin-of-atomic-scientists-is-moved-to-five-minutes-to-midnight.md)
 _Context: Bulletin of Atomic Scientists, Doomsday Clock_
 
-### [ Walter Forbes, the former chair of Cendant, is sentenced to twelve and a half years in jail and ordered to pay $3.28 billion in restitution for his role in the biggest accounting fraud in the 1990s.  ](/news/2007/01/17/walter-forbes-the-former-chair-of-cendant-is-sentenced-to-twelve-and-a-half-years-in-jail-and-ordered-to-pay-3-28-billion-in-restitution.md)
+### [ Walter Forbes, the former chair of Cendant, is sentenced to twelve and a half years in jail and ordered to pay $3.28 billion in restitution for his role in the biggest accounting fraud in the 1990s. ](/news/2007/01/17/walter-forbes-the-former-chair-of-cendant-is-sentenced-to-twelve-and-a-half-years-in-jail-and-ordered-to-pay-3-28-billion-in-restitution.md)
 _Context: Cendant, Walter Forbes_
 
 ### [ The Indian Government has waded into the alleged bullying and racial abuse of contestant Shilpa Shetty on Celebrity Big Brother UK, which is said to have sparked more viewer complaints to media regulator Ofcom than any other show in the history of British television. ](/news/2007/01/17/the-indian-government-has-waded-into-the-alleged-bullying-and-racial-abuse-of-contestant-shilpa-shetty-on-celebrity-big-brother-uk-which-i.md)

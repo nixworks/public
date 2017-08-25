@@ -1,15 +1,15 @@
 ## [2013-11-21](/news/2013/11/21/index.md)
 
-### [Drone attacks in Pakistan:Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-ppakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-t.md)
+### [Drone attacks in Pakistan:. Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/drone-attacks-in-pakistan-pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including.md)
 _Context: Haqqani network, Islam, Pakistan, Taliban, drone, drones launch, seminary_
 
-### [Iraqi insurgency (post-U.S. withdrawal):A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-pa-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A truck bomb detonates in a vegetable market in northeastern Iraq, killing at least 31 people. ](/news/2013/11/21/iraqi-insurgency-post-u-s-withdrawal-a-truck-bomb-detonates-in-a-vegetable-market-in-northeastern-iraq-killing-at-least-31-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [2013 Riga Maxima superstore collapse:At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-pat-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md)
+### [2013 Riga Maxima superstore collapse:. At least six people are killed and 35 injured as a Maxima superstore collapses in the Latvian capital Riga. ](/news/2013/11/21/2013-riga-maxima-superstore-collapse-at-least-six-people-are-killed-and-35-injured-as-a-maxima-superstore-collapses-in-the-latvian-capital.md)
 Six people are killed, including two firefighters, after the roof of a supermarket collapses in Latvia&#039;s capital Riga.
 
-### [2013 global surveillance disclosures:Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of  President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-pindonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md)
+### [2013 global surveillance disclosures:. Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. ](/news/2013/11/21/2013-global-surveillance-disclosures-indonesian-protesters-gather-outside-the-australian-embassy-in-jakarta-and-protesters-burn-australian.md)
 _Context: 2013 global surveillance disclosures, Australia, Australian flags, Indonesia, Jakarta, President of Indonesia, Susilo Bambang Yudhoyono_
 
 ### [A Honduran Vice-minister of Defense states that the Sinaloa Cartel boss Joaqun "El Chapo" Guzmn, Mexico's most-wanted drug lord, may be hiding in Honduras. ](/news/2013/11/21/a-honduran-vice-minister-of-defense-states-that-the-sinaloa-cartel-boss-joaquin-el-chapo-guzman-mexico-s-most-wanted-drug-lord-may-be-hi.md)

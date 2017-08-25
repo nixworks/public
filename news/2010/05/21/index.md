@@ -18,7 +18,7 @@ _Context: Delhi High Court, India's Prime Minister, Indira Gandhi, North Delhi_
 ### [At least 22 people are killed and at least 53 others are injured after a car bomb explodes at a market in Al Khalis, Diyala in Iraq. ](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.md)
 At least 30 people killed and 80 wounded in car bomb at market in Diyala province.
 
-### [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md)
+### [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md)
 What to do... what to do...
 
 ### [Campaigners against an immigration law in the U.S. state of Arizona adopt children's cartoon character Dora the Explorer as a symbol of their cause. ](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u-s-state-of-arizona-adopt-children-s-cartoon-character-dora-the-explorer-as-a-symbol-of-thei.md)
@@ -42,19 +42,19 @@ _Context: Jamiatul Ulama Transvaal, Jonathan Shapiro, Muhammad, South Africa_
 ### [Six girls aged between eight and twelve years drown in the Rapti in Balrampur while bathing. ](/news/2010/05/21/six-girls-aged-between-eight-and-twelve-years-drown-in-the-rapti-in-balrampur-while-bathing.md)
 _Context: Balrampur, Rapti_
 
-### [Middle East:Israeli troops kill two Palestinian militants as they attempt to infiltrate into Israel from the Gaza Strip. [http://news.bbc.co.uk/2/hi/world/middle_east/10138251.stm (BBC)]An Israeli soldier patrolling the Gaza border is wounded by a Palestinian sniper firing from inside Gaza. [http://www.ynetnews.com/articles/0,7340,L-3892384,00.html (Ynetnews)]Israeli warplanes bomb three tunnels in Gaza in response to a rocket attack on Israel the previous day. [http://www.haaretz.com/news/diplomacy-defense/idf-soldier-wounded-by-palestinian-sniper-fire-on-gaza-border-1.291399 (Haaretz)](/news/2010/05/21/middle-east-pisraeli-troops-kill-two-palestinian-militants-as-they-attempt-to-infiltrate-into-israel-from-the-gaza-strip-http-news-bbc-c.md)
+### [Middle East:. Israeli troops kill two Palestinian militants as they attempt to infiltrate into Israel from the Gaza Strip. [http://news.bbc.co.uk/2/hi/world/middle_east/10138251.stm (BBC)]. An Israeli soldier patrolling the Gaza border is wounded by a Palestinian sniper firing from inside Gaza. [http://www.ynetnews.com/articles/0,7340,L-3892384,00.html (Ynetnews)]. Israeli warplanes bomb three tunnels in Gaza in response to a rocket attack on Israel the previous day. [http://www.haaretz.com/news/diplomacy-defense/idf-soldier-wounded-by-palestinian-sniper-fire-on-gaza-border-1.291399 (Haaretz)](/news/2010/05/21/middle-east-israeli-troops-kill-two-palestinian-militants-as-they-attempt-to-infiltrate-into-israel-from-the-gaza-strip-http-news-bbc.md)
 _Context: Gaza Strip, Israel, Middle East, sniper_
 
-### [Deepwater Horizon oil spill :The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-pthe-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md)
-_Context: BP, Deepwater Horizon oil spill, Gulf_
+### [Deepwater Horizon oil spill :. The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md)
+_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
 
-### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation.  (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
+### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation. (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
 _Context: Dennis C. Blair, Director of National Intelligence, United States_
 
 ### [Around 125 people become ill at a wedding ceremony in Khanpur. ](/news/2010/05/21/around-125-people-become-ill-at-a-wedding-ceremony-in-khanpur.md)
 _Context: Khanpur_
 
-### [French prosecutors seek a suspended prison sentence in the manslaughter trial of the former head of the Concorde programme over Air France Flight 4590 which crashed near Paris in 2000, killing 113 people.  ](/news/2010/05/21/french-prosecutors-seek-a-suspended-prison-sentence-in-the-manslaughter-trial-of-the-former-head-of-the-concorde-programme-over-air-france-f.md)
+### [French prosecutors seek a suspended prison sentence in the manslaughter trial of the former head of the Concorde programme over Air France Flight 4590 which crashed near Paris in 2000, killing 113 people. ](/news/2010/05/21/french-prosecutors-seek-a-suspended-prison-sentence-in-the-manslaughter-trial-of-the-former-head-of-the-concorde-programme-over-air-france-f.md)
 French prosecutors seek a suspended jail sentence against the ex-head of the Concorde programme over the 2000 crash.
 
 ### [JAXA successfully launched venus probe and IKAROS, the first interplanetary spacecraft with a solar-sail.](/news/2010/05/21/jaxa-successfully-launched-venus-probe-and-ikaros-the-first-interplanetary-spacecraft-with-a-solar-sail.md)

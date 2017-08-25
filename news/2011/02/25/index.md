@@ -1,12 +1,12 @@
 ## [2011-02-25](/news/2011/02/25/index.md)
 
-### [At least twenty-nine are killed in a "Day of Rage" protesting against economic problems and corruption in the country. ](/news/2011/02/25/at-least-twenty-nine-are-killed-in-a-day-of-rage-protesting-against-economic-problems-and-corruption-in-the-country.md)
+### [2011 Iraqi protests. At least twenty-nine are killed in a "Day of Rage" protesting against economic problems and corruption in the country. ](/news/2011/02/25/2011-iraqi-protests-at-least-twenty-nine-are-killed-in-a-day-of-rage-protesting-against-economic-problems-and-corruption-in-the-country.md)
 Thousands gather in Baghdad and northern Iraq demanding improved services and an end to corruption and food scarcity.
 
-### [Thousands of people stage an anti-government protest in the capital Manama, on a day of mourning declared by the government following the deaths of protesters. ](/news/2011/02/25/thousands-of-people-stage-an-anti-government-protest-in-the-capital-manama-on-a-day-of-mourning-declared-by-the-government-following-the-de.md)
+### [2011 Bahraini protests. Thousands of people stage an anti-government protest in the capital Manama, on a day of mourning declared by the government following the deaths of protesters. ](/news/2011/02/25/2011-bahraini-protests-thousands-of-people-stage-an-anti-government-protest-in-the-capital-manama-on-a-day-of-mourning-declared-by-the-gov.md)
 _Context: 2011 Bahraini protests, Manama_
 
-### [Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md)
+### [2011 Libyan civil war. Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. ](/news/2011/02/25/2011-libyan-civil-war-leader-muammar-gaddafi-addresses-a-crowd-of-supporters-in-the-capital-tripoli.md)
 _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
 
 ### [2011 Yemeni protests, ](/news/2011/02/25/2011-yemeni-protests.md)
@@ -21,7 +21,7 @@ Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns t
 ### [Victorian era photographs and parole details for women prisoners in the United Kingdom are published on Ancestry.com. ](/news/2011/02/25/victorian-era-photographs-and-parole-details-for-women-prisoners-in-the-united-kingdom-are-published-on-ancestry-com.md)
 _Context: Ancestry.com, Britain, Victorian era, parole_
 
-### [The video game ''Mortal Kombat'' is refused classification in Australia. ](/news/2011/02/25/the-video-game-mortal-kombat-is-refused-classification-in-australia.md)
+### [The video game "Mortal Kombat" is refused classification in Australia. ](/news/2011/02/25/the-video-game-mortal-kombat-is-refused-classification-in-australia.md)
 _Context: Australia, Mortal Kombat_
 
 ### [Christian Dior suspends fashion designer John Galliano following his arrest in Paris for allegedly making an anti-Semetic rant towards a couple in a cafe as well as an assault. ](/news/2011/02/25/christian-dior-suspends-fashion-designer-john-galliano-following-his-arrest-in-paris-for-allegedly-making-an-anti-semetic-rant-towards-a-cou.md)
@@ -33,7 +33,7 @@ _Context: Japan, census, population of Japan, slowest increase_
 ### [A Seoul court orders Chung Mong-koo, the Chairman of the South Korean Hyundai Kia Automotive Group, to pay US$73.1 million in compensation to his own company. ](/news/2011/02/25/a-seoul-court-orders-chung-mong-koo-the-chairman-of-the-south-korean-hyundai-kia-automotive-group-to-pay-us-73-1-million-in-compensation-t.md)
 _Context: Chung Mong-koo, Hyundai Kia Automotive Group, Seoul, South Korea_
 
-### [The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md)
+### [2011 Canterbury earthquake. The death toll from the 2011 Canterbury earthquake in New Zealand rises to 113 with at least 226 people missing. ](/news/2011/02/25/2011-canterbury-earthquake-the-death-toll-from-the-2011-canterbury-earthquake-in-new-zealand-rises-to-113-with-at-least-226-people-missing.md)
 _Context: 2011 Canterbury earthquake, New Zealand_
 
 ### [A heavy snowstorm hits the East Coast of the United States causing flight cancellations and school closures. ](/news/2011/02/25/a-heavy-snowstorm-hits-the-east-coast-of-the-united-states-causing-flight-cancellations-and-school-closures.md)

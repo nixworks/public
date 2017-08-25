@@ -33,8 +33,8 @@ Cyclone makes landfall on western coast, flattening homes, cutting off power and
 ### [The death toll from Typhoon Megi in Taiwan has reached as least eleven with at least 23 people from two Chinese tour groups missing. It has now made landfall in China's Fujian province. ](/news/2010/10/23/the-death-toll-from-typhoon-megi-in-taiwan-has-reached-as-least-eleven-with-at-least-23-people-from-two-chinese-tour-groups-missing-it-has.md)
 _Context: Chinese, Fujian, Taiwan, Typhoon Megi_
 
-### [Seven people are killed at Nyayo National Stadium in the Kenyan capital Nairobi as fans try to enter a Kenyan Premier League football match between Gor Mahia and AFC Leopards. ](/news/2010/10/23/seven-people-are-killed-at-nyayo-national-stadium-in-the-kenyan-capital-nairobi-as-fans-try-to-enter-a-kenyan-premier-league-football-match.md)
-_Context: AFC Leopards, Gor Mahia, Kenya, Kenyan Premier League, Nairobi, Nyayo National Stadium, footballer_
+### [Seven people are killed at Nyayo National Stadium in the Kenyan capital Nairobi as fans try to enter a Kenyan Premier League football match between Gor Mahia and AFC Leopards. [http://english.aljazeera.net/news/africa/2010/10/2010102318591713110.html (Al Jazeera)] (BBC)](/news/2010/10/23/seven-people-are-killed-at-nyayo-national-stadium-in-the-kenyan-capital-nairobi-as-fans-try-to-enter-a-kenyan-premier-league-football-match.md)
+_Context: (BBC), AFC Leopards, Gor Mahia, Kenya, Nairobi, Nyayo National Stadium, footballer_
 
 ### [Several people are killed in a helicopter crash in the Mourne Mountains, County Down. ](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.md)
 _Context: County Down, Mourne Mountains_
@@ -42,7 +42,7 @@ _Context: County Down, Mourne Mountains_
 ### [The Centers for Disease Control and Prevention project that as many as 1 in 3 adult Americans will have diabetes by 2050 if current trends in diet and exercise continue.](/news/2010/10/23/the-centers-for-disease-control-and-prevention-project-that-as-many-as-1-in-3-adult-americans-will-have-diabetes-by-2050-if-current-trends-i.md)
 Up to a third of U.S. adults could have diabetes by 2050 if Americans continue to gain weight and avoid exercise, the Centers for Disease Control and Prevention projected on Friday.
 
-### [Israeli-Palestinian conflict:Richard Falk, a UN human rights rapporteur, issues a report to the United Nations General Assembly saying continued settlement construction would probably make Israel's occupation of Palestinian land irreversible and that said the UN, the US and Israel had failed to uphold the rights of Palestinians. ](/news/2010/10/23/israeliapalestinian-conflict-prichard-falk-a-un-human-rights-rapporteur-issues-a-report-to-the-united-nations-general-assembly-saying-co.md)
+### [Israeli-Palestinian conflict:. Richard Falk, a UN human rights rapporteur, issues a report to the United Nations General Assembly saying continued settlement construction would probably make Israel's occupation of Palestinian land irreversible and that said the UN, the US and Israel had failed to uphold the rights of Palestinians. ](/news/2010/10/23/israeli-palestinian-conflict-richard-falk-a-un-human-rights-rapporteur-issues-a-report-to-the-united-nations-general-assembly-saying-c.md)
 In a final communiqué at the end of a two-week meeting at the Vatican on the plight of Christians in the Middle East, the bishops condemned terrorism and anti-Semitism.
 
 ### [Rival demonstrations take place in China and Japan over the disputed Senkaku Islands. ](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.md)
@@ -60,7 +60,7 @@ _Context: LTTE, Sri Lanka_
 ### [Gunmen kill thirteen people and wound fifteen at a birthday party in the Mexican border city of Ciudad Juarez. ](/news/2010/10/23/gunmen-kill-thirteen-people-and-wound-fifteen-at-a-birthday-party-in-the-mexican-border-city-of-ciudad-jua-rez.md)
 Gunmen raid house party in violent border city of Ciudad Juarez, killing at least 13 and wounding 15 others.
 
-### [David Thompson, the Prime Minister of Barbados, dies of pancreatic cancer with  Freundel Stuart being sworn in as the new Prime Minister. ](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.md)
+### [David Thompson, the Prime Minister of Barbados, dies of pancreatic cancer with Freundel Stuart being sworn in as the new Prime Minister. ](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.md)
 _Context:  Freundel Stuart, David Thompson, Prime Minister of Barbados, pancreatic cancer_
 
 ### [Voters in Bahrain go to the polls for the Bahraini parliamentary election. ](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.md)

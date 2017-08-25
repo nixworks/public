@@ -1,0 +1,23 @@
+### [2016-04-23](/news/2016/04/23/index.md)
+
+# Philippine presidential election, 2016. Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. 
+
+
+
+
+### Source:
+
+1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/130498-lawyers-human-rights-defenders-advocates-leni-robredo)
+
+### Related:
+
+1. [Philippine presidential election, 2016. Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/philippine-presidential-election-2016-bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-presi.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+2. [Philippine presidential election, 2016. Bongbong Marcos pays -36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/philippine-presidential-election-2016-bongbong-marcos-pays-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+3. [Philippine presidential election, 2016. The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/philippine-presidential-election-2016-the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-mar.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+4. [ Philippine presidential election, 2016. The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/philippine-presidential-election-2016-the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-v.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+5. [Philippine presidential election, 2016. Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/philippine-presidential-election-2016-rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+6. [Philippine presidential election, 2016. Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/philippine-presidential-election-2016-rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos.md) _Context: Leni Robredo, Philippine presidential election, 2016_
+7. [Freedom of speech in the Philippines. President of the Philippines Rodrigo Duterte threatens the "Philippine Daily Inquirer" with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. ](/news/2017/07/1/freedom-of-speech-in-the-philippines-president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c.md) _Context: Leni Robredo_
+8. [Philippine Drug War. Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-drug-war-philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-t.md) _Context: Leni Robredo_
+9. [The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. ](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.md) _Context: Leni Robredo_
+10. [Philippine vice president Leni Robredo defends her fellow Liberal party-mate Leila de Lima who was arrested for alleged drug trafficking. Robredo calls de Lima's arrest political harassment. ](/news/2017/02/24/philippine-vice-president-leni-robredo-defends-her-fellow-liberal-party-mate-leila-de-lima-who-was-arrested-for-alleged-drug-trafficking-ro.md) _Context: Leni Robredo_

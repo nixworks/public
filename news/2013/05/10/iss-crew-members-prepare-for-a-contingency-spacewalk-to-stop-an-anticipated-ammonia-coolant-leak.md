@@ -13,7 +13,7 @@ Station managers and international partners approved plans Friday for Saturday s
 
 ### Related:
 
-1. [NASA astronauts on board ''Atlantis'' complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international.md) _Context: ammonia, spacewalk_
+1. [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md) _Context: ammonia, spacewalk_
 2. [NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. ](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.md) _Context: spacewalk_
 3. [Russian rocket Soyuz TMA-18M launches a crew of three to the ISS. ](/news/2015/09/2/russian-rocket-soyuz-tma-18m-launches-a-crew-of-three-to-the-iss.md) _Context: ISS_
 4. [NASA astronauts perform the third of three ISS spacewalks completing the cabling reroutings needed in preparation for the 2017 arrival of the first commercial spacecraft capable of transporting astronauts. ](/news/2015/03/1/nasa-astronauts-perform-the-third-of-three-iss-spacewalks-completing-the-cabling-reroutings-needed-in-preparation-for-the-2017-arrival-of-th.md) _Context: ISS_

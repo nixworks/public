@@ -1,6 +1,6 @@
 ## [2013-02-6](/news/2013/02/6/index.md)
 
-### [Liquidation of Irish Bank Resolution Corporation (IBRC):Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. ](/news/2013/02/6/liquidation-of-irish-bank-resolution-corporation-ibrc-pplans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank-a.md)
+### [Liquidation of Irish Bank Resolution Corporation (IBRC):. Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. ](/news/2013/02/6/liquidation-of-irish-bank-resolution-corporation-ibrc-plans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank.md)
 The Dáil is debating emergency legislation to wind up the Irish Bank Resolution Corporation from midnight.
 
 ### [John Malone's Liberty Global acquires Virgin Media for $23 billion. ](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.md)
@@ -15,7 +15,7 @@ STATE-RESCUED Royal Bank of Scotland says it will pay fines totalling $US612 mil
 ### [The U.S. Securities and Exchange Commission hosts a roundtable in which experts and the representatives of affected industries discuss the consequences that decimalisation has had on the market for equity in the U.S., especially regarding small caps. ](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.md)
 _Context: Securities and Exchange Commission, U.S., decimalisation, equity, roundtable, small caps_
 
-### [2013 Solomon Islands earthquake:A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-pa-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqua.md)
+### [2013 Solomon Islands earthquake:. A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/2013-solomon-islands-earthquake-a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthqu.md)
 SIX bodies, including that of a child, have been found in the sodden wreckage left by a tsunami that smashed into villages in the Solomon Islands.
 
 ### [In United States, two children and one woman are killed in a Denver apartment shooting. ](/news/2013/02/6/in-united-states-two-children-and-one-woman-are-killed-in-a-denver-apartment-shooting.md)

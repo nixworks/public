@@ -1,12 +1,12 @@
 ## [2011-03-9](/news/2011/03/9/index.md)
 
-### [Libyan Civil War:The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-pthe-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md)
+### [Libyan Civil War:. The Gaddafi regime offers US$400,000 bounty for rebel leader Mustafa Abdul Jalil. ](/news/2011/03/9/libyan-civil-war-the-gaddafi-regime-offers-us-400-000-bounty-for-rebel-leader-mustafa-abdul-jalil.md)
 Squatters have taken over a London house thought to belong to Saif al-Islam Gaddafi, the Metropolitan Police has confirmed.
 
-### [2011 Yemeni protests:Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-ptwo-people-die-in-continuing-demonstrations-across-the-country.md)
+### [2011 Yemeni protests:. Two people die in continuing demonstrations across the country. ](/news/2011/03/9/2011-yemeni-protests-two-people-die-in-continuing-demonstrations-across-the-country.md)
 Saleh supporter killed in Hadramaut, while anti-government protester shot in police raid succumbs to wounds.
 
-### [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md)
+### [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010-2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md)
 _Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire_
 
 ### [Police in Uganda fire tear gas at demonstrators protesting the win of incumbent President Yoweri Museveni in elections. ](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.md)
@@ -24,7 +24,7 @@ Republicans said Wednesday that the resignation of NPR&#8217;s top executive in 
 ### [Buckingham Palace confirms that the wedding of Zara Phillips and Mike Tindall will be held on 30 July 2011 at the Canongate Kirk in Edinburgh, Scotland. ](/news/2011/03/9/buckingham-palace-confirms-that-the-wedding-of-zara-phillips-and-mike-tindall-will-be-held-on-30-july-2011-at-the-canongate-kirk-in-edinburg.md)
 Zara Phillips and her rugby player fiance Mike Tindall are to be married at the Canongate Kirk, Edinburgh, on 30 July, Buckingham Palace says.
 
-### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of  oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
+### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
 _Context: Athabasca River, Canada, aromatic, oil sands, polycyclic_
 
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
@@ -57,7 +57,7 @@ A Lubbock federal grand jury indicts Khalid Aldawsari, 20, on a single charge of
 ### [United States Government investigates are looking at possible breaches of air cargo screening regulations by US Air at Philadelphia Airport. ](/news/2011/03/9/united-states-government-investigates-are-looking-at-possible-breaches-of-air-cargo-screening-regulations-by-us-air-at-philadelphia-airport.md)
 The NBC10 Investigators have found that there is federal investigation into US Air and possible lapses of security in the screening of cargo in Philadelphia.
 
-### [Arab Spring:Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-pintellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md)
+### [Arab Spring:. Intellectuals in the United Arab Emirates petition the country's government for free and fair elections. ](/news/2011/03/9/arab-spring-intellectuals-in-the-united-arab-emirates-petition-the-country-s-government-for-free-and-fair-elections.md)
 Mostly Shia protesters demand changes to naturalisation policy, which they say favours foreigners at their expense.
 
 ### [Police in India break up a demonstration of pro-Tibet protestors outside the Chinese embassy in New Delhi. ](/news/2011/03/9/police-in-india-break-up-a-demonstration-of-pro-tibet-protestors-outside-the-chinese-embassy-in-new-delhi.md)
@@ -75,7 +75,7 @@ Fine Gael leader Enda Kenny has been elected Taoiseach of the 31st D&aacute;il a
 ### [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md)
 _Context: Canadian House of Commons, Canadian Prime Minister, Canadian government, Stephen Harper, no confidence motion_
 
-### [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md)
+### [2011 Wisconsin budget protests. Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/2011-wisconsin-budget-protests-republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separat.md)
 Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers of most collective bargaining rights.
 
 ### [The Senate in the US state of Michigan approves a proposal to allow state-appointed emergency managers authority to break labor deals to turn around failing schools and cities most notably in Detroit. ](/news/2011/03/9/the-senate-in-the-us-state-of-michigan-approves-a-proposal-to-allow-state-appointed-emergency-managers-authority-to-break-labor-deals-to-tur.md)
@@ -87,7 +87,7 @@ _Context: King Mohammed VI of Morocco, Morocco_
 ### [The Governor of the US state of Illinois, Pat Quinn, signs a law banning the death penalty and commutes the sentence of 15 death row prisoners to life without parole. ](/news/2011/03/9/the-governor-of-the-us-state-of-illinois-pat-quinn-signs-a-law-banning-the-death-penalty-and-commutes-the-sentence-of-15-death-row-prisone.md)
 _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 
-### [The Space Shuttle ''Discovery'' makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)
+### [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)

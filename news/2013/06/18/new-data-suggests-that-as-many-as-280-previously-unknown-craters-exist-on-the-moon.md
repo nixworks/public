@@ -11,4 +11,4 @@ Australian astronomers may have uncovered 280 new craters on the Moon using data
 
 ### Related:
 
-1. [ Europe's first lunar probe, ''SMART-1,'' successfully crash-lands onto the moon, ending its 16-month mission. ](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.md) _Context: The Moon_
+1. [ Europe's first lunar probe, "SMART-1," successfully crash-lands onto the moon, ending its 16-month mission. ](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.md) _Context: The Moon_

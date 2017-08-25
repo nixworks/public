@@ -6,8 +6,8 @@ _Context: 2007 attack, Paisley, Royal Alexandra Hospital, controlled explosion_
 ### [ Authorities evacuate part of Heathrow Airport while they investigate a suspect package. ](/news/2007/07/1/authorities-evacuate-part-of-heathrow-airport-while-they-investigate-a-suspect-package.md)
 _Context: London Heathrow Airport_
 
-### [ An evacuation is made of the American Airlines terminal of JFK airport because of a suspicious package. The package was found at 10:20 AM local time, and bomb squad was sent to the scene. The package turned out to be carrying cologne, so the terminal was cleared and operations returned to normal within an hour. ](/news/2007/07/1/an-evacuation-is-made-of-the-american-airlines-terminal-of-jfk-airport-because-of-a-suspicious-package-the-package-was-found-at-10-20-am-l.md)
-Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
+### [ An evacuation is made of the American Airlines terminal of JFK airport because of a suspicious package. The package was found at 10:20 AM local time, and bomb squad was sent to the scene. The package turned out to be carrying cologne, so the terminal was cleared and operations returned to normal within an hour. [http://www.newsday.com/news/local/wire/newyork/ny-bc-ny--suspiciouspackage0701jul01,0,352029.story?coll=ny-region-apnewyork (Newsday)] [http://www.mercurynews.com/natbreakingnews/ci_6276485?nclick_check=1 (San Jose Mercury News)] (Wikinews)](/news/2007/07/1/an-evacuation-is-made-of-the-american-airlines-terminal-of-jfk-airport-because-of-a-suspicious-package-the-package-was-found-at-10-20-am-l.md)
+_Context: (Wikinews), American Airlines, New York_
 
 ### [ Avraham Hirschson resigns as the Finance Minister of Israel as an investigation into alleged fraud and embezzlement continues. ](/news/2007/07/1/avraham-hirschson-resigns-as-the-finance-minister-of-israel-as-an-investigation-into-alleged-fraud-and-embezzlement-continues.md)
 _Context: Avraham Hirschson, Israel, embezzlement, fraud_

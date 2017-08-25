@@ -12,7 +12,7 @@ _Context: Alaska, Mount Redoubt, volcanic activity_
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Banking in the United States, United States, United States Treasury Department, junk_
 
-### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmroadpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
+### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmro-dpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
 _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential, second round_
 
 ### [ FedEx Express Flight 80 crashes at Narita International Airport in Tokyo, Japan, killing both pilots. ](/news/2009/03/23/fedex-express-flight-80-crashes-at-narita-international-airport-in-tokyo-japan-killing-both-pilots.md)

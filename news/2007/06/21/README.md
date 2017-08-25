@@ -6,13 +6,13 @@ _Context: 2007 Lebanon conflict, Fatah al-Islam, Lebanon, al-Qaeda, refugee_
 ### [ Inflation in Zimbabwe reaches 9,000%, the highest in the world. ](/news/2007/06/21/inflation-in-zimbabwe-reaches-9-000-the-highest-in-the-world.md)
 _Context: Zimbabwe, dollar_
 
-### [ NASA postpones the landing of ''Atlantis'' at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day.  NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-stat.md)
+### [ NASA postpones the landing of "Atlantis" at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day. NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-states.md)
 _Context: June 24, Kennedy Space Center, NASA, STS-117, Space Shuttle Atlantis_
 
 ### [ A polar blast moving north over the South Island of New Zealand causes major disruptions and claims at least one life. ](/news/2007/06/21/a-polar-blast-moving-north-over-the-south-island-of-new-zealand-causes-major-disruptions-and-claims-at-least-one-life.md)
 _Context: New Zealand, South Island, polar blast moving north_
 
-### [ The United Nations-backed Special Court for  Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. ](/news/2007/06/21/the-united-nations-backed-special-court-for-sierra-leone-finds-three-leaders-of-the-armed-forces-revolutionary-council-mdash-alex-tamba-br.md)
+### [ The United Nations-backed Special Court for Sierra Leone finds three leaders of the Armed Forces Revolutionary Council&mdash;Alex Tamba Brima, Brima Bazzy Kamara, and Santigie Borbor Kanu&mdash;guilty of war crimes. ](/news/2007/06/21/the-united-nations-backed-special-court-for-sierra-leone-finds-three-leaders-of-the-armed-forces-revolutionary-council-mdash-alex-tamba-bri.md)
 _Context: Alex Tamba Brima, Armed Forces Revolutionary Council, Brima Bazzy Kamara, Santigie Borbor Kanu, Special Court for Sierra Leone, United Nations, war crimes_
 
 ### [ The President of Egypt, Hosni Mubarak, invites the leaders of the Palestinian Authority, Israel, and Jordan to a summit on Sunday to discuss the Palestinian crisis. ](/news/2007/06/21/the-president-of-egypt-hosni-mubarak-invites-the-leaders-of-the-palestinian-authority-israel-and-jordan-to-a-summit-on-sunday-to-discus.md)
@@ -22,7 +22,7 @@ An aide to Palestinian President Mahmoud Abbas said on Thursday that Egypt has i
 _Context: Iran, Kuwait_
 
 ### [ Deposed Prime Minister of Thailand Thaksin Shinawatra is ordered to return to Thailand to face charges in an asset-concealment case. ](/news/2007/06/21/deposed-prime-minister-of-thailand-thaksin-shinawatra-is-ordered-to-return-to-thailand-to-face-charges-in-an-asset-concealment-case.md)
-_Context: Prime Minister of Thailand, Thailand, Thaksin_
+_Context: Prime Minister, Thailand, Thaksin_
 
 ### [ Japan changes the name of Iwo Jima to its original name, Iwo To, to reflect the wishes of its original inhabitants. ](/news/2007/06/21/japan-changes-the-name-of-iwo-jima-to-its-original-name-iwo-to-to-reflect-the-wishes-of-its-original-inhabitants.md)
 _Context: Iwo Jima, Iwo To, Japan_

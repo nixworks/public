@@ -1,6 +1,6 @@
 ## [2012-04-17](/news/2012/04/17/index.md)
 
-### [South Sudan-Sudan border conflict:Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudanasudan-border-conflict-psudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terri.md)
+### [South Sudan-Sudan border conflict:. Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudan-sudan-border-conflict-sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terr.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [The Prime Minister of Australia, Julia Gillard, announces a withdrawal of Australian troops fighting the war in Afghanistan by the end of 2013. ](/news/2012/04/17/the-prime-minister-of-australia-julia-gillard-announces-a-withdrawal-of-australian-troops-fighting-the-war-in-afghanistan-by-the-end-of-20.md)
@@ -9,7 +9,7 @@ Prime Minister Julia Gillard says Australia will withdraw its troops from Afghan
 ### [Palestinian inmates held in Israeli jails from Hamas, Islamic Jihad, the PFLP and the DFLP go on hunger strike on the Palestinian "Prisoners' Day". Thousands of people rally in towns and cities in both the West Bank and the Gaza Strip in support of their action, waving Palestinian flags and displaying photos of imprisoned relatives. ](/news/2012/04/17/palestinian-inmates-held-in-israeli-jails-from-hamas-islamic-jihad-the-pflp-and-the-dflp-go-on-hunger-strike-on-the-palestinian-prisoners.md)
 _Context: DFLP, Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, PFLP, Palestinian inmates held in Israeli jails, West Bank, hunger strike_
 
-### [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show ''The World Tomorrow'', hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md)
+### [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md)
 Hezbollah chief Hassan Nasrallah says he would be willing to mediate in the Syrian crisis, in a rare interview with Wikileaks founder Julian Assange.
 
 ### [It is announced that more than 20 writers are still needed for a week-long event to include a poet from every nation competing in the 2012 Olympics and Paralympics: among those attending are Jo Shapcott (Great Britain) and Nobel laureates Seamus Heaney (Ireland) and Wole Soyinka (Nigeria). ](/news/2012/04/17/it-is-announced-that-more-than-20-writers-are-still-needed-for-a-week-long-event-to-include-a-poet-from-every-nation-competing-in-the-2012-o.md)
@@ -24,7 +24,7 @@ Adele, Kate Bush and PJ Harvey will battle it out for best album at the Ivor Nov
 ### [The shortlist for the Orange Prize for Fiction is announced, featuring Ann Patchett and Anne Enright. ](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.md)
 _Context: Ann Patchett, Anne Enright, Orange Prize for Fiction_
 
-### [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the PS9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-aps9-million-raised-for-purchase-by-the-britis.md)
+### [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the GBP9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-agbp9-million-raised-for-purchase-by-the-brit.md)
 The British Library raises £9m to buy the 7th Century St Cuthbert Gospel - the earliest surviving intact European book - for the nation.
 
 ### [Billionaire investor Warren Buffett admits he has prostate cancer. ](/news/2012/04/17/billionaire-investor-warren-buffett-admits-he-has-prostate-cancer.md)
@@ -51,7 +51,7 @@ _Context: Cheick Modibo Diarra, Mali, Mali's coup, Microsoft, NASA_
 ### [Israeli Prime Minister Benjamin Netanyahu receives a Palestinian delegation delivering a letter from Palestinian Authority President Mahmoud Abbas detailing his demands for restarting peace talks after previous negotiations on a two-state solution stalled. ](/news/2012/04/17/israeli-prime-minister-benjamin-netanyahu-receives-a-palestinian-delegation-delivering-a-letter-from-palestinian-authority-president-mahmoud.md)
 Liberman slams PA president after Fayyad avoids meeting; PM pledges to respond to PA with letter within 2 weeks.
 
-### [Hezbollah leader Hassan Nasrallah appears in his first interview with the West in six years, in the first episode of a new interview show ''The World Tomorrow'', hosted by Julian Assange, and announces that Hezbollah are willing to mediate between the Syrian government and the opposition. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-appears-in-his-first-interview-with-the-west-in-six-years-in-the-first-episode-of-a-new-interview-show.md)
+### [Hezbollah leader Hassan Nasrallah appears in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange, and announces that Hezbollah are willing to mediate between the Syrian government and the opposition. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-appears-in-his-first-interview-with-the-west-in-six-years-in-the-first-episode-of-a-new-interview-show-t.md)
 Hezbollah chief Hassan Nasrallah says he would be willing to mediate in the Syrian crisis, in a rare interview with Wikileaks founder Julian Assange.
 
 ## [Previous Day...](/news/2012/04/16/index.md)

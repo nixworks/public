@@ -3,7 +3,7 @@
 ### [NATO planes launch an air strike on Afghanistan, allegedly killing civilians in the process. ](/news/2012/06/6/nato-planes-launch-an-air-strike-on-afghanistan-allegedly-killing-civilians-in-the-process.md)
 Nato planes carry out an air strike in Logar province, south of the Afghan capital Kabul, with several civilians reported dead.
 
-### [Arab Spring:Syrian uprising: Opposition activists on the ground in Syria report that a massacre has been committed in the small village of Qubair, Hama, by the government-hired Shabiha militia. Activists report 78 dead, mostly women and children. ](/news/2012/06/6/arab-spring-psyrian-uprising-opposition-activists-on-the-ground-in-syria-report-that-a-massacre-has-been-committed-in-the-small-village-of.md)
+### [Arab Spring:. Syrian uprising: Opposition activists on the ground in Syria report that a massacre has been committed in the small village of Qubair, Hama, by the government-hired Shabiha militia. Activists report 78 dead, mostly women and children. ](/news/2012/06/6/arab-spring-syrian-uprising-opposition-activists-on-the-ground-in-syria-report-that-a-massacre-has-been-committed-in-the-small-village-of.md)
 Activists accuse Syrian government forces of massacring 78 in a village near Hama, condemned by the US as &quot;unconscionable&quot;.
 
 ### [2012 Armenian-Azeri border clashes: a new clash kills an Armenian soldier. ](/news/2012/06/6/2012-armenian-azeri-border-clashes-a-new-clash-kills-an-armenian-soldier.md)
@@ -16,16 +16,16 @@ Afghan officials and villagers said 18 people, including women and children, wer
 ### [J. M. Coetzee and Nadine Gordimer are among those to criticise South Africa's "secrecy bill" which they say could fundamentally threaten free speech and investigative journalism. ](/news/2012/06/6/j-m-coetzee-and-nadine-gordimer-are-among-those-to-criticise-south-africa-s-secrecy-bill-which-they-say-could-fundamentally-threaten-fre.md)
 _Context: J. M. Coetzee, Nadine Gordimer, South Africa_
 
-### [Ray Bradbury, author of ''The Martian Chronicles'' and ''Fahrenheit 451'', dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborho.md)
+### [Ray Bradbury, author of "The Martian Chronicles" and "Fahrenheit 451", dies at the age of 91 in his home in the Cheviot Hills neighborhood of Los Angeles. ](/news/2012/06/6/ray-bradbury-author-of-the-martian-chronicles-and-fahrenheit-451-dies-at-the-age-of-91-in-his-home-in-the-cheviot-hills-neighborhood-o.md)
 The imaginative evocations of the future in Mr. Bradbury’s science fiction reflected both the optimism and the anxieties of his own postwar America.
 
-### [Broadway's ''Once'' wins four prizes at the Drama Desk Awards in New York. ](/news/2012/06/6/broadway-s-once-wins-four-prizes-at-the-drama-desk-awards-in-new-york.md)
+### [Broadway's "Once" wins four prizes at the Drama Desk Awards in New York. ](/news/2012/06/6/broadway-s-once-wins-four-prizes-at-the-drama-desk-awards-in-new-york.md)
 Broadway musical Once is the big winner at the Drama Desk Awards in New York, picking up four prizes.
 
 ### [An MRI reveals that singer-songwriter Sheryl Crow has a growth on her brain. ](/news/2012/06/6/an-mri-reveals-that-singer-songwriter-sheryl-crow-has-a-growth-on-her-brain.md)
 The singer has told her fans not to worry after she was diagnosed with a benign brain tumour.
 
-### [Diamond Jubilee of Elizabeth II:The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-pthe-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-a.md)
+### [Diamond Jubilee of Elizabeth II:. The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii.md)
 _Context: Commonwealth of Nations, Elizabeth II, Marlborough House, Pall Mall, diamond jubilee_
 
 ### [A group of Irish people are thrown out of the European Central Bank in Frankfurt after attempting to hand a letter of protest to the bank's president Mario Draghi. ](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.md)

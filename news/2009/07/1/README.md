@@ -30,7 +30,7 @@ _Context: Britain, Iran, Tehran_
 ### [ The remains of Jane Deasy are positively identified in the bodies recovered from Air France Flight 447. ](/news/2009/07/1/the-remains-of-jane-deasy-are-positively-identified-in-the-bodies-recovered-from-air-france-flight-447.md)
 The remains of Jane Deasy have been positively identified among the bodies recovered after the Air France flight AF447 crash.
 
-### [ Up to 30 people are feared dead after the MV ''Demas Victory'' capsizes and sinks in choppy Persian Gulf waters off the Qatari capital Doha. ](/news/2009/07/1/up-to-30-people-are-feared-dead-after-the-mv-demas-victory-capsizes-and-sinks-in-choppy-persian-gulf-waters-off-the-qatari-capital-doha.md)
+### [ Up to 30 people are feared dead after the MV "Demas Victory" capsizes and sinks in choppy Persian Gulf waters off the Qatari capital Doha. ](/news/2009/07/1/up-to-30-people-are-feared-dead-after-the-mv-demas-victory-capsizes-and-sinks-in-choppy-persian-gulf-waters-off-the-qatari-capital-doha.md)
 _Context: Doha, Persian Gulf, Qatar_
 
 ## [Previous Day...](/news/2009/06/30/index.md)

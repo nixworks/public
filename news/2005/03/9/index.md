@@ -6,13 +6,13 @@ _Context: Cape York Peninsula, Cyclone Ingrid, Queensland, Saffir-Simpson Hurric
 ### [ In Australia, immigration minister Amanda Vanstone grants Cui Yu Hu permanent residency ](/news/2005/03/9/in-australia-immigration-minister-amanda-vanstone-grants-cui-yu-hu-permanent-residency.md)
 _Context: Amanda Vanstone, Cui Yu Hu_
 
-### [ In Bolivia, Congress refuses to accept resignation of President Carlos Mesa and he withdraws it  ](/news/2005/03/9/in-bolivia-congress-refuses-to-accept-resignation-of-president-carlos-mesa-and-he-withdraws-it.md)
+### [ In Bolivia, Congress refuses to accept resignation of President Carlos Mesa and he withdraws it ](/news/2005/03/9/in-bolivia-congress-refuses-to-accept-resignation-of-president-carlos-mesa-and-he-withdraws-it.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Akhmed Zakayev, envoy of the killed Chechen separatist leader Aslan Maskhadov, states that Maskhadov's death does not end resistance to Russian rule and that his successor would be chosen in a couple of days ](/news/2005/03/9/akhmed-zakayev-envoy-of-the-killed-chechen-separatist-leader-aslan-maskhadov-states-that-maskhadov-s-death-does-not-end-resistance-to-rus.md)
 _Context: Akhmed Zakayev, Aslan Maskhadov, Chechnya_
 
-### [ Colombia extradites captured FARC leader Omaira Rojas Cabrera, also known as ''Sonia'', to [US to face drug trafficking charges ](/news/2005/03/9/colombia-extradites-captured-farc-leader-omaira-rojas-cabrera-also-known-as-sonia-to-us-to-face-drug-trafficking-charges.md)
+### [ Colombia extradites captured FARC leader Omaira Rojas Cabrera, also known as "Sonia", to [US to face drug trafficking charges ](/news/2005/03/9/colombia-extradites-captured-farc-leader-omaira-rojas-cabrera-also-known-as-sonia-to-us-to-face-drug-trafficking-charges.md)
 _Context: Omaira Rojas Cabrera, Revolutionary Armed Forces of Colombia, drug trafficking, extradited_
 
 ### [ Conflict in Iraq: Iraqi police discover the bullet-riddled and/or headless bodies of 41 people at two sites, one near the Syrian border, the other just south of Baghdad. ](/news/2005/03/9/conflict-in-iraq-iraqi-police-discover-the-bullet-riddled-and-or-headless-bodies-of-41-people-at-two-sites-one-near-the-syrian-border-th.md)
@@ -42,7 +42,7 @@ _Context: Hartebeestfontein, Johannesburg, Richter scale, South Africa, earthqua
 ### [ In Spain, Alfredo Galn, a serial killer who left playing cards on the bodies of some of his victims, is sentenced to jail for 142 years ](/news/2005/03/9/in-spain-alfredo-galan-a-serial-killer-who-left-playing-cards-on-the-bodies-of-some-of-his-victims-is-sentenced-to-jail-for-142-years.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ In Guinea, president Lansana Cont sacks three senior ministers, security minister Moussa Sampil, foreign affairs minister Mamadi Cond and mines minister Alpha Mady Soumah, to replace them with the members of his own Party of Unity and Progress. Journalists and students welcome sacking of Sampil because of his handling of an alleged assassination attempt against the president in January.  ](/news/2005/03/9/in-guinea-president-lansana-conte-sacks-three-senior-ministers-security-minister-moussa-sampil-foreign-affairs-minister-mamadi-conde-and.md)
+### [ In Guinea, president Lansana Cont sacks three senior ministers, security minister Moussa Sampil, foreign affairs minister Mamadi Cond and mines minister Alpha Mady Soumah, to replace them with the members of his own Party of Unity and Progress. Journalists and students welcome sacking of Sampil because of his handling of an alleged assassination attempt against the president in January. ](/news/2005/03/9/in-guinea-president-lansana-conte-sacks-three-senior-ministers-security-minister-moussa-sampil-foreign-affairs-minister-mamadi-conde-and.md)
 _Context: Alpha Mady Soumah, Guinea, Lansana Cont, Mamadi Cond, Moussa Sampil, Party of Unity and Progress, assassinated_
 
 ### [ World Health Organization issues a warning that cases of malaria have increased to 500 million- much more than they anticipated ](/news/2005/03/9/world-health-organization-issues-a-warning-that-cases-of-malaria-have-increased-to-500-million-much-more-than-they-anticipated.md)

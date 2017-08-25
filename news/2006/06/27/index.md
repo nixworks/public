@@ -27,8 +27,8 @@ _Context: Anfal campaign, August 21, Iraqi Special Tribunal, Kurd, Saddam Hussei
 ### [ A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. ](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.md)
 _Context: Chen Shui-bian, President of Taiwan, legislative chamber_
 
-### [ Nguyen Minh Triet becomes President of Vietnam with Nguyen Tan Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taoy-n-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md)
-_Context: Nguyen Minh Triet, Nguyen Tan Dung, President of Vietnam, prime minister_
+### [ Nguyen Minh Triet becomes President of Vietnam with Nguyen TCNYn Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taocnyn-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md)
+_Context: Nguyen Minh Triet, Nguyen TCNYn Dung, President of Vietnam, prime minister_
 
 ### [ Ronaldo broke the all-time FIFA World Cup finals goal-scoring record of 14 goals set by Gerd Muller of Germany, scoring his 15th World Cup goal, and Brazil's first goal of the match (Round of 16), against Ghana in his 18th World Cup match.](/news/2006/06/27/ronaldo-broke-the-all-time-fifa-world-cup-finals-goal-scoring-record-of-14-goals-set-by-gerd-ma1-4ller-of-germany-scoring-his-15th-world-cup.md)
 _Context: Gerd Muller, Ronaldo, World Cup_

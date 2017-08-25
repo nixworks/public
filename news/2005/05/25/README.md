@@ -6,13 +6,13 @@ _Context: 1984, AC Milan, Ataturk Olympic Stadium, Istanbul, Liverpool, Steven G
 ### [ Carrie Underwood won the fourth season of American Idol. ](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.md)
 _Context: American Idol, Carrie Underwood_
 
-### [ Human Rights: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-p-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md)
+### [ Human Rights:. Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md)
 _Context: Amnesty International, Human rights_
 
 ### [ Elections in Suriname: General elections are underway in Suriname. Likely winner could be former dictator and drug smuggler, Desi Bouterse. ](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.md)
 _Context: Desi Bouterse, Elections in Suriname, Suriname, dictator, drug, smuggling_
 
-### [ The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book ''One of the Guys'' by Robert Clark Young. [http://www.newsday.com/news/nationworld/nation/orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.md)
+### [ The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book "One of the Guys" by Robert Clark Young. [http://www.newsday.com/news/nationworld/nation/orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.md)
 _Context: Abercrombie & Fitch, American Family Association, Christian, Kmart, One of the Guys, Robert Clark Young, Walt Disney Company_
 
 ### [ Voyager 1, the most distant man-made object, has entered the heliosheath and is on the cusp of leaving the Solar System and entering the interstellar medium. ](/news/2005/05/25/voyager-1-the-most-distant-man-made-object-has-entered-the-heliosheath-and-is-on-the-cusp-of-leaving-the-solar-system-and-entering-the-in.md)
@@ -48,7 +48,7 @@ _Context: Bolivia, Luis Aranda, coup_
 ### [ NATO soldiers raid the home of son of Radovan Karadzic but fail to apprehend him. ](/news/2005/05/25/nato-soldiers-raid-the-home-of-son-of-radovan-karada3-4ia-but-fail-to-apprehend-him.md)
 _Context: NATO, Radovan Karadzic_
 
-### [ Slovenian government charges former communist leader Mitja Ribicic of genocide when he was a Yugoslavian security chief after World War II  ](/news/2005/05/25/slovenian-government-charges-former-communist-leader-mitja-ribiaia-of-genocide-when-he-was-a-yugoslavian-security-chief-after-world-war-i.md)
+### [ Slovenian government charges former communist leader Mitja Ribicic of genocide when he was a Yugoslavian security chief after World War II ](/news/2005/05/25/slovenian-government-charges-former-communist-leader-mitja-ribiaia-of-genocide-when-he-was-a-yugoslavian-security-chief-after-world-war-i.md)
 _Context: Mitja Ribicic, Slovenia, World War II, Yugoslavia, genocide_
 
 ### [ In Haiti, former prime minister Yvon Neptune is formally charged with political killings in 2004. He has been in a hunger strike. ](/news/2005/05/25/in-haiti-former-prime-minister-yvon-neptune-is-formally-charged-with-political-killings-in-2004-he-has-been-in-a-hunger-strike.md)

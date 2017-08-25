@@ -9,8 +9,8 @@ _Context: Ambassador to the United Nations, Dayton Peace Accords, Kosovo, Richar
 ### [ An Israeli Special committee decides the recent conflict between Israel and Hezbullah is to be named the Second Lebanon War. ](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.md)
 Special committee decides conflict between Israel, Hizbullah to be named Second Lebanon War. Government expected to officially approve name in next weekly meeting
 
-### [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS ''Tireless'' in the Arctic Ocean. ](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean.md)
-_Context: Arctic Ocean, HMS ''Tireless'', Royal Navy, nuclear submarine_
+### [ Two British sailors die and a third is injured as a result of an accident on the nuclear submarine HMS "Tireless" in the Arctic Ocean. [http://www.news.com.au/story/0,10117,21426111-2,00.html (AFP via News Limited)] (Wikinews)](/news/2007/03/21/two-british-sailors-die-and-a-third-is-injured-as-a-result-of-an-accident-on-the-nuclear-submarine-hms-tireless-in-the-arctic-ocean-htt.md)
+_Context: (Wikinews), Arctic Ocean, HMS ''Tireless'', Royal Navy, nuclear submarine_
 
 ### [ United States Secretary of State Condoleezza Rice announces that the Bush administration will cut its security package to the government of the Palestinian National Authority by nearly half in order to ensure that Hamas does not receive funding. ](/news/2007/03/21/united-states-secretary-of-state-condoleezza-rice-announces-that-the-bush-administration-will-cut-its-security-package-to-the-government-of.md)
 _Context: Condoleezza Rice, George W. Bush, Hamas, Palestinian National Authority, United States Secretary of State, administration_
@@ -21,7 +21,7 @@ _Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader of Iran, United Nations 
 ### [ A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. ](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.md)
 _Context: Histadrut, Israel, strike, unionize_
 
-### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
+### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007-present-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
 _Context:  Insurgency in Somalia, Ethiopia, Ethiopian army, Mogadishu, Somalia, heavy fighting_
 
 ### [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md)

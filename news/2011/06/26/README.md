@@ -1,9 +1,9 @@
 ## [2011-06-26](/news/2011/06/26/index.md)
 
-### [Arab Spring:2011 Syrian uprising:A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence.  ](/news/2011/06/26/arab-spring-p2011-syrian-uprising-pa-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-months.md)
+### [Arab Spring:. 2011 Syrian uprising:. A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence. ](/news/2011/06/26/arab-spring-2011-syrian-uprising-a-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-month.md)
 _Context: 2011 Syrian uprising, Arab Spring, Syrian Army_
 
-### [Israeli-Palestinian conflict:Following accusations by the Foreign Press Association that Israel is intimidating journalists on the 10-ship flotilla due to sail to the Gaza Strip, Prime Minister Benjamin Netanyahu says that the journalists will not to be sanctioned. ](/news/2011/06/26/israeliapalestinian-conflict-pfollowing-accusations-by-the-foreign-press-association-that-israel-is-intimidating-journalists-on-the-10-shi.md)
+### [Israeli-Palestinian conflict:. Following accusations by the Foreign Press Association that Israel is intimidating journalists on the 10-ship flotilla due to sail to the Gaza Strip, Prime Minister Benjamin Netanyahu says that the journalists will not to be sanctioned. ](/news/2011/06/26/israeli-palestinian-conflict-following-accusations-by-the-foreign-press-association-that-israel-is-intimidating-journalists-on-the-10-sh.md)
 Israeli troops begin to dismantle part of the West Bank barrier near Bilin, for years a flashpoint for clashes with Palestinians.
 
 ### [Vietnamese protesters march in the capital Hanoi for the fourth successive week calling on the People's Republic of China to stop entering Vietnamese territorial waters on the South China Sea. ](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.md)
@@ -12,16 +12,16 @@ _Context: China, Hanoi, South China Sea, Vietnamese, territorial waters_
 ### [At least 25 people are killed and many others are wounded after a bomb explodes in Maiduguri. ](/news/2011/06/26/at-least-25-people-are-killed-and-many-others-are-wounded-after-a-bomb-explodes-in-maiduguri.md)
 Gunmen believed to be from the Boko Haram Islamist sect throw bombs at a beer garden in the Nigerian town of Maiduguri killing at least 25 people, security sources say.
 
-### [More than one million people participate in Sao Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sapso-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforded.md)
-_Context: Sao Paulo_
+### [More than one million people participate in SGBPo Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sagbpo-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforde.md)
+_Context: SGBPo Paulo_
 
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
 _Context: Academy Award, Daniel Craig, James Bond, New York State, Rachel Weisz, U.S. state_
 
-### [Glastonbury Festival 2011 in Pilton, Somerset:Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-pbeyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md)
+### [Glastonbury Festival 2011 in Pilton, Somerset:. Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md)
 US star Beyonce makes her debut at Glastonbury, bringing the three-day festival to a close.
 
-### [Eruption of Puyehue-Cordon Caulle in Chile:Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-pash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-au.md)
+### [Eruption of Puyehue-Cordon Caulle in Chile:. Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-a.md)
 _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand_
 
 ### [The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. ](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-neige-cordier-in-the-french-alps-after-apparently-having-been-killed-by-an-avalanche.md)

@@ -1,9 +1,9 @@
 ## [2005-05-2](/news/2005/05/2/index.md)
 
 ### [ Data withheld from an annual report on terrorism by the U.S. State Department show a sharp increase in attacks in 2004. ](/news/2005/05/2/data-withheld-from-an-annual-report-on-terrorism-by-the-u-s-state-department-show-a-sharp-increase-in-attacks-in-2004.md)
-_Context: State Department's, terrorism_
+_Context: United States State Department, terrorism_
 
-### [ Israeli-Palestinian conflict: Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/israeli-palestinian-conflict-p-following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-lead.md)
+### [ Israeli-Palestinian conflict:. Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/israeli-palestinian-conflict-following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-lead.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, Palestinian Islamic Jihad, Tel Aviv, Tulkarm_
 
 ### [ Dozens of people reportedly die after a large explosion in a munitions dump in Pagja, Afghanistan 50 miles north of Kabul. ](/news/2005/05/2/dozens-of-people-reportedly-die-after-a-large-explosion-in-a-munitions-dump-in-pagja-afghanistan-50-miles-north-of-kabul.md)
@@ -15,7 +15,7 @@ _Context: Al Amarah, Britain, Iraq, Newcastle upon Tyne_
 ### [ Europe's largest sporting goods maker Adidas-Salomon sold its Salomon division for 485 million euros to Finnish company Amer Sports (which owns Wilson Sporting Goods). ](/news/2005/05/2/europe-s-largest-sporting-goods-maker-adidas-salomon-sold-its-salomon-division-for-485-million-euros-to-finnish-company-amer-sports-which.md)
 _Context: Adidas, Amer Sports, Finland, Wilson Sporting Goods_
 
-### [ The government of Nepal ends the house arrest of two parliamentarian communist leaders, Madhav Kumar Nepal and Amrit Bohara.  ](/news/2005/05/2/the-government-of-nepal-ends-the-house-arrest-of-two-parliamentarian-communist-leaders-madhav-kumar-nepal-and-amrit-bohara.md)
+### [ The government of Nepal ends the house arrest of two parliamentarian communist leaders, Madhav Kumar Nepal and Amrit Bohara. ](/news/2005/05/2/the-government-of-nepal-ends-the-house-arrest-of-two-parliamentarian-communist-leaders-madhav-kumar-nepal-and-amrit-bohara.md)
 _Context: Amrit Bohara, Madhav Kumar Nepal, Nepal, house arrest_
 
 ### [ In Togo, opposition party Union of Forces for Change refuses to join a new government, accusing Faure Gnassingb of electoral fraud. About 12,000 people have fled the violence to Ghana and Benin. The Economic Community of West African States (ECOWAS) tries to mediate. ](/news/2005/05/2/in-togo-opposition-party-union-of-forces-for-change-refuses-to-join-a-new-government-accusing-faure-gnassingbe-of-electoral-fraud-about.md)

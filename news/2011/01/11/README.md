@@ -1,9 +1,9 @@
 ## [2011-01-11](/news/2011/01/11/index.md)
 
-### [2010-2011 Tunisian protests:Fresh protests break out in Tunisia, in the capital Tunis. ](/news/2011/01/11/2010a2011-tunisian-protests-pfresh-protests-break-out-in-tunisia-in-the-capital-tunis.md)
+### [2010-2011 Tunisian protests:. Fresh protests break out in Tunisia, in the capital Tunis. ](/news/2011/01/11/2010-2011-tunisian-protests-fresh-protests-break-out-in-tunisia-in-the-capital-tunis.md)
 Police fire into the air to disperse protesters throwing stones and smashing up shops in a Tunis suburb.
 
-### [Assassination of Masoud Alimohammadi:The Iranian government says an Israeli spying network - since dismantled - assassinated the University of Tehran's distinguished professor of elementary particle physics Masoud Alimohammadi; an Iranian foreign ministry spokesperson vows to sue. ](/news/2011/01/11/assassination-of-masoud-alimohammadi-pthe-iranian-government-says-an-israeli-spying-network-since-dismantled-assassinated-the-university.md)
+### [Assassination of Masoud Alimohammadi:. The Iranian government says an Israeli spying network - since dismantled - assassinated the University of Tehran's distinguished professor of elementary particle physics Masoud Alimohammadi; an Iranian foreign ministry spokesperson vows to sue. ](/news/2011/01/11/assassination-of-masoud-alimohammadi-the-iranian-government-says-an-israeli-spying-network-since-dismantled-assassinated-the-universit.md)
 _Context: Iran, Israel, Masoud Alimohammadi, University of Tehran_
 
 ### [Lawyers for Julian Assange warn that he could be killed if he is extradited to the U.S. from Britain; Assange draws parallels between the rhetoric of the 2011 Tucson shooting and the language used against him by commentators such as Joe Biden, U.S. Vice President. ](/news/2011/01/11/lawyers-for-julian-assange-warn-that-he-could-be-killed-if-he-is-extradited-to-the-u-s-from-britain-assange-draws-parallels-between-the-rh.md)
@@ -27,7 +27,7 @@ _Context: Nigeria_
 ### [At least 13 people are killed by floods and mudslides in Sao Paulo state, Brazil. ](/news/2011/01/11/at-least-13-people-are-killed-by-floods-and-mudslides-in-sao-paulo-state-brazil.md)
 _Context: Brazil, Sao Paulo_
 
-### [2010-2011 Queensland floods:The floods in the Australian state of Queensland continue to worsen, with ten people confirmed dead as search and rescue efforts continue to locate dozens of missing people. ](/news/2011/01/11/2010a2011-queensland-floods-pthe-floods-in-the-australian-state-of-queensland-continue-to-worsen-with-ten-people-confirmed-dead-as-search.md)
+### [2010-2011 Queensland floods:. The floods in the Australian state of Queensland continue to worsen, with ten people confirmed dead as search and rescue efforts continue to locate dozens of missing people. ](/news/2011/01/11/2010-2011-queensland-floods-the-floods-in-the-australian-state-of-queensland-continue-to-worsen-with-ten-people-confirmed-dead-as-searc.md)
 The Brisbane River has broken its banks amid dire predictions of the biggest floods to hit Queensland&#039;s capital since 1974.
 
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
@@ -36,10 +36,10 @@ _Context: Great Lakes, Southern United States, United States, commercial air tra
 ### [An official investigation in Kyrgzstan into deadly ethnic riots last year reports that local Uzbek leaders were to blame. ](/news/2011/01/11/an-official-investigation-in-kyrgzstan-into-deadly-ethnic-riots-last-year-reports-that-local-uzbek-leaders-were-to-blame.md)
 An official investigation in Kyrgyzstan into deadly ethnic clashes last year says local Uzbek leaders were to blame.
 
-### [Former British Labour Party MP Eric Illsley, now an Independent, pleads guilty to charges he fraudulently claimed more than PS14,000 in parliamentary expenses. ](/news/2011/01/11/former-british-labour-party-mp-eric-illsley-now-an-independent-pleads-guilty-to-charges-he-fraudulently-claimed-more-than-aps14-000-in-parl.md)
+### [Former British Labour Party MP Eric Illsley, now an Independent, pleads guilty to charges he fraudulently claimed more than GBP14,000 in parliamentary expenses. ](/news/2011/01/11/former-british-labour-party-mp-eric-illsley-now-an-independent-pleads-guilty-to-charges-he-fraudulently-claimed-more-than-agbp14-000-in-pa.md)
 MP Eric Illsley is facing calls to quit after pleading guilty to fraudulently claiming thousands of pounds in parliamentary expenses.
 
-### [British television presenter Miriam O'Reilly, 53, wins an employment tribunal case against the BBC for ageism and victimisation, but the tribunal rejects claims of sexism. She had claimed victimisation after being dropped from the BBC One programme ''Countryfile'' when it was rescheduled to an evening slot in 2009. ](/news/2011/01/11/british-television-presenter-miriam-o-reilly-53-wins-an-employment-tribunal-case-against-the-bbc-for-ageism-and-victimisation-but-the-tri.md)
+### [British television presenter Miriam O'Reilly, 53, wins an employment tribunal case against the BBC for ageism and victimisation, but the tribunal rejects claims of sexism. She had claimed victimisation after being dropped from the BBC One programme "Countryfile" when it was rescheduled to an evening slot in 2009. ](/news/2011/01/11/british-television-presenter-miriam-o-reilly-53-wins-an-employment-tribunal-case-against-the-bbc-for-ageism-and-victimisation-but-the-tri.md)
 Miriam O&#039;Reilly, the former Countryfile presenter who has today won her case against the BBC in a tribunal case brought on grounds of ageism, is set to work for the corporation again.
 
 ### [Dr Conrad Murray is ordered to face a trial for the manslaughter of Michael Jackson in California. ](/news/2011/01/11/dr-conrad-murray-is-ordered-to-face-a-trial-for-the-manslaughter-of-michael-jackson-in-california.md)

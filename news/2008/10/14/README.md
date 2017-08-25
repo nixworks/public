@@ -3,10 +3,10 @@
 ### [ The United Arab Emirates recognizes Kosovo as an independent and sovereign state. ](/news/2008/10/14/the-united-arab-emirates-recognizes-kosovo-as-an-independent-and-sovereign-state.md)
 _Context: Kosovo, United Arab Emirates, officially recognizes_
 
-### [ Indian novelist Aravind Adiga wins the Man Booker Prize for his debut ''The White Tiger''. ](/news/2008/10/14/indian-novelist-aravind-adiga-wins-the-man-booker-prize-for-his-debut-the-white-tiger.md)
+### [ Indian novelist Aravind Adiga wins the Man Booker Prize for his debut "The White Tiger". ](/news/2008/10/14/indian-novelist-aravind-adiga-wins-the-man-booker-prize-for-his-debut-the-white-tiger.md)
 _Context: Aravind Adiga, India, Man Booker Prize, The White Tiger, novelist_
 
-### [ In Canada's 40th general election, the ruling Conservative Party gains 19 seats and wins another minority government.  Stephen Harper is re-elected as Prime Minister. ](/news/2008/10/14/in-canada-s-40th-general-election-the-ruling-conservative-party-gains-19-seats-and-wins-another-minority-government-stephen-harper-is-re.md)
+### [ In Canada's 40th general election, the ruling Conservative Party gains 19 seats and wins another minority government. Stephen Harper is re-elected as Prime Minister. ](/news/2008/10/14/in-canada-s-40th-general-election-the-ruling-conservative-party-gains-19-seats-and-wins-another-minority-government-stephen-harper-is-re.md)
 _Context: Canada, Canadian Prime Minister, Conservative Party's, Stephen Harper, elected, minority government_
 
 ### [ Zimbabwe riot police disrupt a student protest in Harare as the students attempt to present a petition to Parliament. ](/news/2008/10/14/zimbabwe-riot-police-disrupt-a-student-protest-in-harare-as-the-students-attempt-to-present-a-petition-to-parliament.md)

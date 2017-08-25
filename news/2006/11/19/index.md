@@ -36,10 +36,10 @@ The Age 404 Page
 ### [ The annual APEC meeting in Hanoi concludes with a call for the resumption of World Trade Organization talks, but references to climate change were removed from the final statement. ](/news/2006/11/19/the-annual-apec-meeting-in-hanoi-concludes-with-a-call-for-the-resumption-of-world-trade-organization-talks-but-references-to-climate-chan.md)
 _Context: Asia-Pacific Economic Cooperation, Hanoi, World Trade Organization, climate change_
 
-### [ Sri Lankan Army troopers opened fire on a group of minority Sri Lankan Tamil and  Muslim students at an Agricultural College at Thandikulam close to Vavuniya in Sri Lanka. Five students were killed along with 10 injured. ](/news/2006/11/19/sri-lankan-army-troopers-opened-fire-on-a-group-of-minority-sri-lankan-tamil-and-muslim-students-at-an-agricultural-college-at-thandikulam.md)
+### [ Sri Lankan Army troopers opened fire on a group of minority Sri Lankan Tamil and Muslim students at an Agricultural College at Thandikulam close to Vavuniya in Sri Lanka. Five students were killed along with 10 injured. ](/news/2006/11/19/sri-lankan-army-troopers-opened-fire-on-a-group-of-minority-sri-lankan-tamil-and-muslim-students-at-an-agricultural-college-at-thandikulam.md)
 _Context: Muslims, Sri Lankan Army, Sri Lankan Tamil, Thandikulam, Vavuniya, minorities_
 
-### [ Nintendo releases its 7th generation video game console in North America with 21 launch titles, the Wii.  ](/news/2006/11/19/nintendo-releases-its-7th-generation-video-game-console-in-north-america-with-21-launch-titles-the-wii.md)
+### [ Nintendo releases its 7th generation video game console in North America with 21 launch titles, the Wii. ](/news/2006/11/19/nintendo-releases-its-7th-generation-video-game-console-in-north-america-with-21-launch-titles-the-wii.md)
 _Context: Nintendo, Wii_
 
 ## [Previous Day...](/news/2006/11/18/index.md)

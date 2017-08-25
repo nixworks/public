@@ -1,21 +1,21 @@
 ## [2013-04-23](/news/2013/04/23/index.md)
 
-### [Syrian civil war:An Israeli military intelligence analyst states that Syria has used chemical weapons repeatedly over the past month. He also criticizes the international community for not responding to the use of the weapons. ](/news/2013/04/23/syrian-civil-war-pan-israeli-military-intelligence-analyst-states-that-syria-has-used-chemical-weapons-repeatedly-over-the-past-month-he-al.md)
+### [Syrian civil war:. An Israeli military intelligence analyst states that Syria has used chemical weapons repeatedly over the past month. He also criticizes the international community for not responding to the use of the weapons. ](/news/2013/04/23/syrian-civil-war-an-israeli-military-intelligence-analyst-states-that-syria-has-used-chemical-weapons-repeatedly-over-the-past-month-he-a.md)
 Tel Aviv made its most definitive statement accusing Syria of using chemical weapons, which President Obama has called a “red line” Syria cannot cross.
 
-### [War on Terror:A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-pa-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensiv.md)
+### [War on Terror:. A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensi.md)
 _Context: French-born, Libya, Tripoli, War on Terror, car bomb_
 
-### [2013 Hawija clashes:At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-pat-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sun.md)
+### [2013 Hawija clashes:. At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-su.md)
 _Context: 2013 Hawija clashes, Hawija, Iraq, Sunni Muslim_
 
-### [War in North-West Pakistan:Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-ppakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-mushar.md)
+### [War in North-West Pakistan:. Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musha.md)
 _Context: Pakistan, Pakistani police, Pervez Musharraf, President, War in North-West Pakistan, car bomb, house arrest_
 
-### [2013 Xinjiang unrest:Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/2013-xinjiang-unrest-pviolence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-and.md)
+### [2013 Xinjiang unrest:. Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/2013-xinjiang-unrest-violence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-an.md)
 _Context: 2013 Xinjiang unrest, Bachu County, China, Chinese, Kashgar Prefecture, Mongolia, Uighur, Xinjiang_
 
-### [Senkaku Islands dispute:The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-pthe-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ship.md)
+### [Senkaku Islands dispute:. The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-shi.md)
 Japanese prime minister threatens force if China attempts to land on island chain in East China Sea.
 
 ### [The United States stock market undergoes a flash crash (similar to 2010) of 1 percent when the Twitter feed from the Associated Press news agency is hacked and erroneously states that several explosions have injured President Barack Obama. ](/news/2013/04/23/the-united-states-stock-market-undergoes-a-flash-crash-similar-to-2010-of-1-percent-when-the-twitter-feed-from-the-associated-press-news-a.md)

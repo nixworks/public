@@ -1,9 +1,9 @@
 ## [2009-08-13](/news/2009/08/13/index.md)
 
-### [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country's mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-countryas-mediation-in-the-conflict-between-that-country.md)
+### [ On an official visit to Colombia, Mexican President Felipe Calderon offers his country-s mediation in the conflict between that country, Ecuador and Venezuela. ](/news/2009/08/13/on-an-official-visit-to-colombia-mexican-president-felipe-caldera3n-offers-his-country-s-mediation-in-the-conflict-between-that-country.md)
 Mexican president Felipe Calder&oacute;n on an official visit to Colombia offered his country&rsquo;s mediation in the conflict between Bogot&aacute; and neighbouring Ecuador and Venezuela.
 
-### [ Ousted Honduran President Manuel Zelaya praises Chile for its "great image" as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-agreat-imagea-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md)
+### [ Ousted Honduran President Manuel Zelaya praises Chile for its -great image- as he meets its President Michelle Bachelet in Santiago and says he expects the United States to take "more drastic actions" against the de facto government of Roberto Micheletti. ](/news/2009/08/13/ousted-honduran-president-manuel-zelaya-praises-chile-for-its-great-image-as-he-meets-its-president-michelle-bachelet-in-santiago-and.md)
 Ousted Honduran president Manuel Zelaya said he expects the US administration to take more drastic actions against the de facto government of Roberto Micheletti. Zelaya held a three and a half hour meeting on Thursday with Chilean president Michelle Bachelet in Santiago as part of his round of visit...
 
 ### [ Eleven people, including four policemen, are killed in several separate insurgent attacks in Russia's Republic of Dagestan. ](/news/2009/08/13/eleven-people-including-four-policemen-are-killed-in-several-separate-insurgent-attacks-in-russia-s-republic-of-dagestan.md)
@@ -24,7 +24,7 @@ _Context: Europe, Eurozone, France, Germany, global crisis_
 ### [ The European Union will extend its sanctions on Burma to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi. ](/news/2009/08/13/the-european-union-will-extend-its-sanctions-on-burma-to-cover-members-of-the-judiciary-responsible-for-the-verdict-in-the-trial-of-opposit.md)
 The European Union on Thursday said it was extending its sanctions on Myanmar to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi.
 
-### [ A rare signed copy of Adolf Hitler's ''Mein Kampf'' sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for PS21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-aps21-000-a-2.md)
+### [ A rare signed copy of Adolf Hitler-s "Mein Kampf" sells at the Mullock-s auction at Ludlow Racecourse, Shropshire, for GBP21,000 (-24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitler-s-mein-kampf-sells-at-the-mullock-s-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-2.md)
 The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auction in England yesterday for &pound;21,000 (&euro;24,400) is from&hellip;
 
 ## [Previous Day...](/news/2009/08/12/index.md)

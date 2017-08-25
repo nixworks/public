@@ -1,6 +1,6 @@
 ## [2007-05-9](/news/2007/05/9/index.md)
 
-### [ ''The Times'' and Phoenix TV reports that Huang Ju, Executive Vice Premier of the People's Republic of China and a member of the Standing Committee of the Communist Party of China, has died in Beijing. However, the State Council of the People's Republic of China denies these reports.](/news/2007/05/9/the-times-and-phoenix-tv-reports-that-huang-ju-executive-vice-premier-of-the-people-s-republic-of-china-and-a-member-of-the-standing-c.md)
+### [ "The Times" and Phoenix TV reports that Huang Ju, Executive Vice Premier of the People's Republic of China and a member of the Standing Committee of the Communist Party of China, has died in Beijing. However, the State Council of the People's Republic of China denies these reports.](/news/2007/05/9/the-times-and-phoenix-tv-reports-that-huang-ju-executive-vice-premier-of-the-people-s-republic-of-china-and-a-member-of-the-standing-com.md)
 _Context: China's State Council, Huang Ju, Phoenix TV, Standing Committee of the Communist Party of China, Times, Vice Premier_
 
 ### [ At least nine Colombian policeman are killed and six others injured from a bomb planted by the Revolutionary Armed Forces of Colombia in Santander Department. ](/news/2007/05/9/at-least-nine-colombian-policeman-are-killed-and-six-others-injured-from-a-bomb-planted-by-the-revolutionary-armed-forces-of-colombia-in-sa.md)
@@ -15,13 +15,13 @@ _Context: Iran, Mohammad Baqer Qalibaf, Tehran, mayor_
 ### [ Pope Benedict XVI arrives in Brazil on his first visit to Latin America to reaffirm Catholicism in the region. ](/news/2007/05/9/pope-benedict-xvi-arrives-in-brazil-on-his-first-visit-to-latin-america-to-reaffirm-catholicism-in-the-region.md)
 _Context: Brazil, Catholic faithful, Latin America, Pope Benedict XVI_
 
-### [ The first named storm of the 2007 Atlantic hurricane season, Subtropical Storm Andrea, forms  off the southeastern United States. ](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.md)
+### [ The first named storm of the 2007 Atlantic hurricane season, Subtropical Storm Andrea, forms off the southeastern United States. ](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.md)
 _Context: 2007 Atlantic hurricane season, Southeastern United States, Subtropical Storm Andrea_
 
 ### [ Four people in the United Kingdom are arrested in connection with the 7 July 2005 London bombings. ](/news/2007/05/9/four-people-in-the-united-kingdom-are-arrested-in-connection-with-the-7-july-2005-london-bombings.md)
 _Context: 7 July, Britain_
 
-### [ Iraq War: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-p-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md)
+### [ Iraq War:. Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md)
 _Context: Baghdad, Dick Cheney, Iraq War, U.S. Vice President_
 
 ### [ People in East Timor finish voting in the second round of the country's first presidential election since it gained independence from Indonesia in 2002. ](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.md)

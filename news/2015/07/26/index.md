@@ -1,15 +1,15 @@
 ## [2015-07-26](/news/2015/07/26/index.md)
 
-### [A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-injuring-another-70.md)
+### [Boko Haram insurgency in Cameroon. A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/boko-haram-insurgency-in-cameroon-a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-inju.md)
 Officials in northern Cameroon have ordered the closure of mosques and Islamic schools following a series of suicide bombing attacks that have left dozens dead.
 
-### [A suicide bomber detonates a vehicle loaded with explosives at a hotel in the Somali capital of Mogadishu, killing 15 people.  ](/news/2015/07/26/a-suicide-bomber-detonates-a-vehicle-loaded-with-explosives-at-a-hotel-in-the-somali-capital-of-mogadishu-killing-15-people.md)
+### [A suicide bomber detonates a vehicle loaded with explosives at a hotel in the Somali capital of Mogadishu, killing 15 people. ](/news/2015/07/26/a-suicide-bomber-detonates-a-vehicle-loaded-with-explosives-at-a-hotel-in-the-somali-capital-of-mogadishu-killing-15-people.md)
 _Context: Mogadishu, Somalia_
 
 ### [A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. ](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.md)
 _Context: Arish, Egypt_
 
-### [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md)
+### [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for -725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-725-million.md)
 Deutsche Börse said it is buying over-the-counter trading platform 360T for $796.4 million, in a move that strengthens the German exchange operator’s trading operations away from exchanges.
 
 ### [Verizon employees in nine states (Connecticut, Delaware, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Rhode Island, Virginia) and Washington, D.C. vote to go on strike on August 1 if disputes between the union and the company result in no new contracts. ](/news/2015/07/26/verizon-employees-in-nine-states-connecticut-delaware-maryland-massachusetts-new-jersey-new-york-pennsylvania-rhode-island-virginia.md)

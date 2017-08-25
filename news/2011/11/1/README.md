@@ -6,7 +6,7 @@ President Barack Obama created the first national monument of his presidency on 
 ### [The FBI and U.S. Securities and Exchange Commission launch an investigation into MF Global after $600 million of customers' money went missing. ](/news/2011/11/1/the-fbi-and-u-s-securities-and-exchange-commission-launch-an-investigation-into-mf-global-after-600-million-of-customers-money-went-missi.md)
 The FBI and federal prosecutors are investigating how some $600 million of MF Global customers money has gone missing, CNN has learned Tuesday from sources close to the probe.
 
-### [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services.  A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palesti.md)
+### [The Palestinian Authority is hit by hackers disrupting Palestinian internet and mobile phone services. A link has been suggested to Palestine's UNESCO bid. ](/news/2011/11/1/the-palestinian-authority-is-hit-by-hackers-disrupting-palestinian-internet-and-mobile-phone-services-a-link-has-been-suggested-to-palestin.md)
 Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip onTuesday, the Palestinian telecoms minister said, alleging that aforeign government was behind the interference.
 
 ### [The United Kingdom Office for National Statistics releases GDP figures indicating growth of 0.5% compared to a 0.1% figure in the previous quarter. ](/news/2011/11/1/the-united-kingdom-office-for-national-statistics-releases-gdp-figures-indicating-growth-of-0-5-compared-to-a-0-1-figure-in-the-previous-q.md)

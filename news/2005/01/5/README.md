@@ -1,6 +1,6 @@
 ## [2005-01-5](/news/2005/01/5/index.md)
 
-### [ According to the 2005 ''the 2005 Index of Economic Freedom'', the US has for the first time dropped from the top 10 free nations of the world, Hong Kong continues its number one ranking for the 11th consecutive year, released by The Heritage Foundation and ''The Wall Street Journal''. ](/news/2005/01/5/according-to-the-2005-the-2005-index-of-economic-freedom-the-us-has-for-the-first-time-dropped-from-the-top-10-free-nations-of-the-wor.md)
+### [ According to the 2005 "the 2005 Index of Economic Freedom", the US has for the first time dropped from the top 10 free nations of the world, Hong Kong continues its number one ranking for the 11th consecutive year, released by The Heritage Foundation and "The Wall Street Journal". ](/news/2005/01/5/according-to-the-2005-the-2005-index-of-economic-freedom-the-us-has-for-the-first-time-dropped-from-the-top-10-free-nations-of-the-world.md)
 _Context: Hong Kong, The Heritage Foundation, The Wall Street Journal, the 2005 Index of Economic Freedom_
 
 ### [ Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. ](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.md)

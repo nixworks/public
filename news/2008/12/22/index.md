@@ -24,7 +24,7 @@ _Context: US$, bailout, dealers, global crisis_
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
 _Context: Merida Initiative, United States, anti-drug plan, money laundering_
 
-### [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)
+### [ Toyota Motor Corporation, the world-s largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-world-s-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)
 Underscoring how the economic crisis is spreading across the global auto industry, Toyota said it will lose money in its core automaking business.
 
 ## [Previous Day...](/news/2008/12/21/index.md)

@@ -1,9 +1,9 @@
 ## [2010-04-20](/news/2010/04/20/index.md)
 
-### [Air travel disruption after the 2010 eruptions of Eyjafjallajkull:Another plume threatens to cause further disruptions. ](/news/2010/04/20/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajokull-panother-plume-threatens-to-cause-further-disruptions.md)
+### [Air travel disruption after the 2010 eruptions of Eyjafjallajkull:. Another plume threatens to cause further disruptions. ](/news/2010/04/20/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajokull-another-plume-threatens-to-cause-further-disruptions.md)
 More planes began taking off from airports across Europe on Tuesday after days of enforced idleness, but a new cloud of volcanic ash moving toward the continent has thrown into doubt any resumption...
 
-### [Iraq:Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-ptwo-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-said.md)
+### [Iraq:. Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-sai.md)
 Human rights group urges action after allegations of abuse at Baghdad prison.
 
 ### [The Transocean-owned oil rig Deepwater Horizon explodes, leaking about 4,900,000 barrels of crude oil into the Gulf of Mexico. At least seven people were injured and over a dozen were missing at sea. ](/news/2010/04/20/the-transocean-owned-oil-rig-deepwater-horizon-explodes-leaking-about-4-900-000-barrels-of-crude-oil-into-the-gulf-of-mexico-at-least-seve.md)
@@ -48,7 +48,7 @@ _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
 _Context: Barack Obama, Israel, president_
 
-### [The United States Supreme Court, in ruling on ''United States v. Stevens'', strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
+### [The United States Supreme Court, in ruling on "United States v. Stevens", strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
 _Context: United States Supreme Court, United States v. Stevens_
 
 ### [Two Canadian men are accused of committing an act of "flag desecration" in La Quinta, California, United States for allegedly replacing an American flag with a Canadian flag following Canada's ice hockey victory at the 2010 Winter Olympics. ](/news/2010/04/20/two-canadian-men-are-accused-of-committing-an-act-of-flag-desecration-in-la-quinta-california-united-states-for-allegedly-replacing-an-a.md)

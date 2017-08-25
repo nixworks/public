@@ -1,6 +1,6 @@
 ### [2005-09-7](/news/2005/09/7/index.md)
 
-#  Michael Jackson has announced he will record and release a charity single dedicated to the victims of Hurricane Katrina. Jackson has asked other recording stars to provide vocals for the single. Babyface has confirmed he will be participating. The single is titled "From The Bottom of My Heart" and is due for release in two weeks. All proceeds will go to the victims of Hurricane Katrina.  However, over one year later the single has not been released.
+#  Michael Jackson has announced he will record and release a charity single dedicated to the victims of Hurricane Katrina. Jackson has asked other recording stars to provide vocals for the single. Babyface has confirmed he will be participating. The single is titled "From The Bottom of My Heart" and is due for release in two weeks. All proceeds will go to the victims of Hurricane Katrina. However, over one year later the single has not been released.
 
 
 

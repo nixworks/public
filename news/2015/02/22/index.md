@@ -1,18 +1,18 @@
 ## [2015-02-22](/news/2015/02/22/index.md)
 
-### [Pro-Russian rebels start a two-week process of removing heavy weapons from the front lines in eastern Ukraine in accordance with the ceasefire agreement. ](/news/2015/02/22/pro-russian-rebels-start-a-two-week-process-of-removing-heavy-weapons-from-the-front-lines-in-eastern-ukraine-in-accordance-with-the-ceasefi.md)
+### [War in Donbass. Pro-Russian rebels start a two-week process of removing heavy weapons from the front lines in eastern Ukraine in accordance with the ceasefire agreement. ](/news/2015/02/22/war-in-donbass-pro-russian-rebels-start-a-two-week-process-of-removing-heavy-weapons-from-the-front-lines-in-eastern-ukraine-in-accordance.md)
 Ukrainian government forces and pro-Russian separatists exchange dozens of prisoners in east Ukraine, a Ukrainian Security Council aide confirmed on Sunday.
 
 ### [Jeh Johnson, the United States Secretary of Homeland Security, warns Americans to take a threat by Somalia-based al-Shabab to attack shopping malls in the US, United Kingdom, and Canada seriously. ](/news/2015/02/22/jeh-johnson-the-united-states-secretary-of-homeland-security-warns-americans-to-take-a-threat-by-somalia-based-al-shabab-to-attack-shoppin.md)
 The head of US homeland security urges vigilance after Somali-based militants call for attacks on shopping centres in the US, Canada and Britain.
 
-### [Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tripoli-and-a-rocket-attack-on-al-abraq-inter.md)
+### [Second Libyan Civil War (2014-present). Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/second-libyan-civil-war-2014-present-islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tri.md)
 _Context: Al Abraq International Airport, ISIL, Iran, Second Libyan Civil War (2014-present), Tripoli_
 
-### [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
+### [Islamic State of Iraq and the Levant. ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/islamic-state-of-iraq-and-the-levant-isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
 More than 8,000 rare books and manuscripts – including books printed in Iraq’s first printing house in the 19th century – have been burned by Islamic State militants in Mosul, despite pleas from the public.
 
-### [Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for ''Birdman''. ''Birdman'' then wins the Academy Award for Best Picture. ](/news/2015/02/22/alejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman-birdman-then.md)
+### [87th Academy Awards. Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for "Birdman". "Birdman" then wins the Academy Award for Best Picture. ](/news/2015/02/22/87th-academy-awards-alejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman.md)
 The full list of winners at the 2015 Oscars
 
 ### [A rescue operation is underway in Bangladesh as a ferry carrying 100 passengers capsizes in the Padma River after colliding with a trawler. The death toll has reached 41. ](/news/2015/02/22/a-rescue-operation-is-underway-in-bangladesh-as-a-ferry-carrying-100-passengers-capsizes-in-the-padma-river-after-colliding-with-a-trawler.md)

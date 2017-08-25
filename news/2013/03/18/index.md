@@ -1,15 +1,15 @@
 ## [2013-03-18](/news/2013/03/18/index.md)
 
-### [Syrian civil war:Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-pfighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
+### [Syrian civil war:. Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
 _Context: Lebanon, Syrian Air Force, Syrian Civil War_
 
-### [War in Somalia:A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-pa-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
+### [War in Somalia:. A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
 _Context: Mogadishu, Somalia, War in Somalia (2009-present), car bombing_
 
-### [Terrorism in Pakistan:A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-pa-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4.md)
+### [Terrorism in Pakistan:. A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least.md)
 Militants kill at least four people and injure 29 in an attack on a court and prison complex in the north-west Pakistani city of Peshawar.
 
-### [Nigerian Sharia conflict:A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-pa-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
+### [Nigerian Sharia conflict:. A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
 _Context: Kano, Nigeria, Nigerian Sharia conflict, bus park_
 
 ### [Seven U.S. Marines are killed and seven others are injured when a mortar explodes during a training exercise in the Hawthorne Army Depot in Hawthorne, Nevada, United States. ](/news/2013/03/18/seven-u-s-marines-are-killed-and-seven-others-are-injured-when-a-mortar-explodes-during-a-training-exercise-in-the-hawthorne-army-depot-in.md)
@@ -33,7 +33,7 @@ Bosco Ntaganda, accused of massacring civilians, said he wanted to be sent to th
 ### [Six men accused of raping a Swiss woman tourist appear in an Indian court. ](/news/2013/03/18/six-men-accused-of-raping-a-swiss-woman-tourist-appear-in-an-indian-court.md)
 _Context: Indians, Swiss_
 
-### [''The Sun'' newspaper apologizes for accessing private information on a stolen mobile phone belonging to Labour MP Siobhain McDonagh. ](/news/2013/03/18/the-sun-newspaper-apologizes-for-accessing-private-information-on-a-stolen-mobile-phone-belonging-to-labour-mp-siobhain-mcdonagh.md)
+### ["The Sun" newspaper apologizes for accessing private information on a stolen mobile phone belonging to Labour MP Siobhain McDonagh. ](/news/2013/03/18/the-sun-newspaper-apologizes-for-accessing-private-information-on-a-stolen-mobile-phone-belonging-to-labour-mp-siobhain-mcdonagh.md)
 The Sun newspaper apologises for accessing private information on a stolen mobile phone belonging to Labour MP Siobhain McDonagh.
 
 ### [James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. ](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the-university-of-central-florida-pulls-the-fire-alarm-and-plans-to-attack-the-school-instead.md)

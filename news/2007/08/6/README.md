@@ -42,8 +42,8 @@ _Context: Bangladesh, Sheikh Hasina_
 ### [ North Korea and South Korea exchange gun fire over the border, the first such incident in a year. ](/news/2007/08/6/north-korea-and-south-korea-exchange-gun-fire-over-the-border-the-first-such-incident-in-a-year.md)
 _Context: North Korea, South Korea, border_
 
-### [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md)
-_Context: East Timor, Jose Ramos-Horta, President, Prime Minister, Xanana Gusmao_
+### [ Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.md)
+_Context: East Timor, Jose Ramos-Horta, President, Prime Minister, Xanana GusmGBPo_
 
 ### [ A truck bomb in Tal Afar in northern Iraq kills at least 25 people and destroys 10 homes. ](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.md)
 _Context: Iraq, Tal Afar, truck bomb_

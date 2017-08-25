@@ -1,6 +1,6 @@
 ## [2009-06-4](/news/2009/06/4/index.md)
 
-### [ United Kingdom Secretary of State for Work and Pensions James Purnell announces his resignation and requests that Prime Minister Gordon Brown also resign. ](/news/2009/06/4/united-kingdom-secretary-of-state-for-work-and-pensions-james-purnell-announces-his-resignation-and-requests-that-prime-minister-gordon-bro.md)
+### [ United Kingdom Secretary of State for Work and Pensions James Purnell announces his resignation and requests that Prime Minister Gordon Brown also resign. [http://www.guardian.co.uk/politics/2009/jun/04/james-purnell-resigns-gordon-brown-cabinet "(Guardian)"]](/news/2009/06/4/united-kingdom-secretary-of-state-for-work-and-pensions-james-purnell-announces-his-resignation-and-requests-that-prime-minister-gordon-bro.md)
 _Context: Britain, Gordon Brown, James Purnell, Prime Minister, Secretary of State for Work and Pensions_
 
 ### [ Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. ](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.md)

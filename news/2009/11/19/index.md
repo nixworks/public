@@ -9,7 +9,7 @@ Google on Thursday released the code for its upcoming Chrome OS, and plans to ha
 ### [ U.S. media mogul and talk show host Oprah Winfrey announces she will end her long running talk show in 2011. ](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.md)
 _Context: Oprah Winfrey, Oprah Winfrey Show_
 
-### [ European Union / Three new positions created by the Treaty of Lisbon: The Prime Minister of Belgium, Herman Van Rompuy, is chosen as the first permanent President of the European Council by European Union leaders. ](/news/2009/11/19/european-union-three-new-positions-created-by-the-treaty-of-lisbon-p-the-prime-minister-of-belgium-herman-van-rompuy-is-chosen-as-the-f.md)
+### [ European Union / Three new positions created by the Treaty of Lisbon:. The Prime Minister of Belgium, Herman Van Rompuy, is chosen as the first permanent President of the European Council by European Union leaders. ](/news/2009/11/19/european-union-three-new-positions-created-by-the-treaty-of-lisbon-the-prime-minister-of-belgium-herman-van-rompuy-is-chosen-as-the-f.md)
 Gordon Brown insisted tonight that Britain would remain a powerful voice in Brussels after Labour peer Baroness Ashton was appointed as the European Union&#039;s first foreign minister.
 
 ### [ Yemeni government forces say they have killed a leader during fighting with Houthi rebels in the north of the country. ](/news/2009/11/19/yemeni-government-forces-say-they-have-killed-a-leader-during-fighting-with-houthi-rebels-in-the-north-of-the-country.md)
@@ -21,7 +21,7 @@ _Context: 2010 FIFA World Cup, Algeria, Egypt, Sudan, play off_
 ### [ Irish politicians, including Taoiseach Brian Cowen, call for a controversial football playoff for the 2010 FIFA World Cup between France and Republic of Ireland to be replayed as the Football Association of Ireland lodges an official complaint with FIFA. ](/news/2009/11/19/irish-politicians-including-taoiseach-brian-cowen-call-for-a-controversial-football-playoff-for-the-2010-fifa-world-cup-between-france-an.md)
 The Taoiseach has joined the FAI in calling for a replay following last night&#39;s controversial World Cup play-off match.
 
-### [ The discovery of three ancient crocodile species, ''Kaprosuchus saharicus'', ''Araripesuchus rattoides'' and ''Laganosuchus thaumastos'', is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-i.md)
+### [ The discovery of three ancient crocodile species, "Kaprosuchus saharicus", "Araripesuchus rattoides" and "Laganosuchus thaumastos", is announced. ](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-species-kaprosuchus-saharicus-araripesuchus-rattoides-and-laganosuchus-thaumastos-is-anno.md)
 _Context: Araripesuchus rattoides, Kaprosuchus saharicus, Laganosuchus thaumastos, crocodile_
 
 ### [ The European Court of Justice rules that airlines will have to pay compensation to passengers who experience delays of more than three hours. ](/news/2009/11/19/the-european-court-of-justice-rules-that-airlines-will-have-to-pay-compensation-to-passengers-who-experience-delays-of-more-than-three-hour.md)

@@ -9,13 +9,13 @@ _Context: Britain, His Majesty's Government, Lloyds Banking Group_
 ### [ NASA launches its Kepler spacecraft from Cape Canaveral Air Force Station in Florida. ](/news/2009/03/7/nasa-launches-its-kepler-spacecraft-from-cape-canaveral-air-force-station-in-florida.md)
 _Context: Cape Canaveral Air Force Station, Florida, Kepler Mission, NASA_
 
-### [ A car bomb in Peshawar, Pakistan, kills at least eight people.  ](/news/2009/03/7/a-car-bomb-in-peshawar-pakistan-kills-at-least-eight-people.md)
+### [ A car bomb in Peshawar, Pakistan, kills at least eight people. ](/news/2009/03/7/a-car-bomb-in-peshawar-pakistan-kills-at-least-eight-people.md)
 _Context: Pakistan, Peshawar, car bomb_
 
 ### [ Malaysia's Royal Police quell demonstrations in Kuala Lumpur against the use of the English language in schools. ](/news/2009/03/7/malaysia-s-royal-police-quell-demonstrations-in-kuala-lumpur-against-the-use-of-the-english-language-in-schools.md)
 _Context: English, Kuala Lumpur, Malaysia, Royal Police, demonstration, school_
 
-### [ More than 1,000 people participate in a pro-Tibet protest in London.  ](/news/2009/03/7/more-than-1-000-people-participate-in-a-pro-tibet-protest-in-london.md)
+### [ More than 1,000 people participate in a pro-Tibet protest in London. ](/news/2009/03/7/more-than-1-000-people-participate-in-a-pro-tibet-protest-in-london.md)
 _Context: London, Tibet, protest_
 
 ### [ Anti-Israel protestors and Sweden's Police Service clash in Malm, where the two countries were playing a Davis Cup tennis match. ](/news/2009/03/7/anti-israel-protestors-and-sweden-s-police-service-clash-in-malmo-where-the-two-countries-were-playing-a-davis-cup-tennis-match.md)

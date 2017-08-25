@@ -1,0 +1,29 @@
+### [2010-12-4](/news/2010/12/4/index.md)
+
+# United States diplomatic cables leak:. Reporters Without Borders condemns "the blocking, cyber-attacks and political pressure" against the WikiLeaks website, describing it as the first "attempt at the international community level to censor a website dedicated to the principle of transparency" and comparing the behaviour of France and the United States to that of China. American payment service provider PayPal cuts off the account the WikiLeaks website uses to collect donations. 
+
+American payment service provider cuts relationship, as whistle-blower struggles to keep website available to public.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012416730850792.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012415822722373.html)
+3. [BBC](http://www.bbc.co.uk/news/uk-11917398)
+4. [Beehivecity.com](http://www.beehivecity.com/hightech/wikileaks-supporters-embrace-twitter-facebook-as-accounts-boom114012132/)
+5. [The Age](http://www.theage.com.au/world/berlusconiputin-ties-set-off-us-alarm-bells-20101203-18jqy.html)
+6. [The New York Times](http://www.nytimes.com/2010/12/05/world/asia/05wikileaks-china.html?_r=1&emc=na)
+7. [Wikileaks Facebook's fan page](http://www.facebook.com/wikileaks?v=wall)
+
+### Related:
+
+1. [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md) _Context: 250,000 documents, WikiLeaks_
+2. [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper "Aftenposten" reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on-i.md) _Context: 250,000 documents, WikiLeaks_
+3. [The WikiLeaks website honours a pledge made in July by offering financial aid to the legal team of Bradley Manning, a soldier accused by the United States of providing secret U.S. embassy cables for international public consumption. ](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.md) _Context: 250,000 documents, WikiLeaks_
+4. [United States diplomatic cables leak:. Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-co.md) _Context: 250,000 documents, WikiLeaks_
+5. [A national high-tech crime team in The Hague arrests a 16-year-old male they accuse of disrupting MasterCard and PayPal websites. Both companies previously cut off donations to the WikiLeaks website. ](/news/2010/12/9/a-national-high-tech-crime-team-in-the-hague-arrests-a-16-year-old-male-they-accuse-of-disrupting-mastercard-and-paypal-websites-both-compa.md) _Context: PayPal, WikiLeaks_
+6. [Attacks against WikiLeaks, Julian Assange and his lawyers:. The WikiLeaks website is forced offline again. ](/news/2010/12/5/attacks-against-wikileaks-julian-assange-and-his-lawyers-the-wikileaks-website-is-forced-offline-again.md) _Context: WikiLeaks, cyber-war_
+7. [Attacks against WikiLeaks, Julian Assange and "The Guardian" website:. As "massive" cyberwarfare against the WikiLeaks website continue, the website is forced to change its web address after EveryDNS kills its domain due to the disruption caused to its other customers by the attacks. United States authorities are accused of carrying out the cyber attacks against the website. ](/news/2010/12/3/attacks-against-wikileaks-julian-assange-and-the-guardian-website-as-massive-cyberwarfare-against-the-wikileaks-website-continue-the.md) _Context: WikiLeaks, cyber-war_
+8. [United States diplomatic cables leak:. Amazon.com cuts off its access to the WikiLeaks website following "heavy political pressure" applied by Joe Lieberman, a senator in the United States. The move is compared to the censorship of Google by China. ](/news/2010/12/2/united-states-diplomatic-cables-leak-amazon-com-cuts-off-its-access-to-the-wikileaks-website-following-heavy-political-pressure-applied.md) _Context: 250,000 documents, WikiLeaks_
+9. [Lawyers for Wikileaks-s founder Julian Assange express anger that incriminating police files regarding Assange-s alleged sexual assault of two Swedish women were published in The Guardian newspaper, which has used him as its source for hundreds of leaked US embassy cables. [http://www.theaustralian.com.au/in-depth/wikileaks/assange-anger-at-smear-campaign-after-leaked-police-files-published-in-the-guardian/story-fn775xjq-1225973443379 ("The Australian") ] ](/news/2010/12/19/lawyers-for-wikileaks-s-founder-julian-assange-express-anger-that-incriminating-police-files-regarding-assange-s-alleged-sexual-assault.md) _Context: 250,000 documents, WikiLeaks_
+10. [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md) _Context: 250,000 documents, WikiLeaks_

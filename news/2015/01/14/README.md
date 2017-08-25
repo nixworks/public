@@ -3,7 +3,7 @@
 ### [A bomb destroys a transmission tower in Pagalungan leaving much of the Philippine provinces of Maguindanao and North Cotabato without power. ](/news/2015/01/14/a-bomb-destroys-a-transmission-tower-in-pagalungan-leaving-much-of-the-philippine-provinces-of-maguindanao-and-north-cotabato-without-power.md)
 The bomb, which is planted on the post of Tower 26 in the town of Pagalungan, detonates at around 9:10 in the evening
 
-### [''Charlie Hebdo'' publishes an edition as a counterpoint to the ''Charlie Hebdo'' shootings. ](/news/2015/01/14/charlie-hebdo-publishes-an-edition-as-a-counterpoint-to-the-charlie-hebdo-shootings.md)
+### ["Charlie Hebdo" publishes an edition as a counterpoint to the "Charlie Hebdo" shootings. ](/news/2015/01/14/charlie-hebdo-publishes-an-edition-as-a-counterpoint-to-the-charlie-hebdo-shootings.md)
 _Context: ''Charlie Hebdo'' shooting, Charlie Hebdo_
 
 ### [Caesars Entertainment Corporation operating unit will file for bankruptcy on Thursday in Chicago. ](/news/2015/01/14/caesars-entertainment-corporation-operating-unit-will-file-for-bankruptcy-on-thursday-in-chicago.md)
@@ -18,7 +18,7 @@ A major highway in Mozambique splits as floods kill 73 people and displace tens 
 ### [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md)
 _Context: China, East China Sea, Japan, Lockheed Martin F-35 Lightning II, Prime Minister of Japan, Shinzo Abe_
 
-### [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
+### [Taiwan protests China-s new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-china-s-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
 _Context: China, Taiwan, Taiwan Strait_
 
 ### [On the second day of his papal visit to Sri Lanka, Pope Francis canonizes Saint Joseph Vaz at a beachfront park at the Indian Ocean, and later visits the northern portion of the island for a prayer service at the Sri Lankan Shrine of Our Lady of Madhu, which was a prominent area landmark damaged in the Sri Lankan Civil War. ](/news/2015/01/14/on-the-second-day-of-his-papal-visit-to-sri-lanka-pope-francis-canonizes-saint-joseph-vaz-at-a-beachfront-park-at-the-indian-ocean-and-lat.md)
@@ -27,7 +27,7 @@ _Context: Joseph Vaz, Shrine of Our Lady of Madhu_
 ### [The U.S. state of Georgia executes Vietnam War veteran Andrew Brannan for the 1998 murder of Laurens County sheriff's deputy Kyle Dinkheller. ](/news/2015/01/14/the-u-s-state-of-georgia-executes-vietnam-war-veteran-andrew-brannan-for-the-1998-murder-of-laurens-county-sheriff-s-deputy-kyle-dinkheller.md)
 _Context: Georgia, Kyle Dinkheller, Laurens County, executes_
 
-### [Police charge Indianapolis Colts linebacker Josh McNary with a December 1, 2014 rape.  ](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.md)
+### [Police charge Indianapolis Colts linebacker Josh McNary with a December 1, 2014 rape. ](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.md)
 _Context: Indianapolis Colts, Josh McNary_
 
 ### [President of Italy Giorgio Napolitano will announce his resignation today. ](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.md)

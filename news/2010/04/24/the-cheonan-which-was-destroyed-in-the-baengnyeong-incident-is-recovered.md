@@ -1,6 +1,6 @@
 ### [2010-04-24](/news/2010/04/24/index.md)
 
-# The ''Cheonan'', which was destroyed in the Baengnyeong incident, is recovered. 
+# The "Cheonan", which was destroyed in the Baengnyeong incident, is recovered. 
 
 
 
@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md) _Context: sinking_
-2. [ South Koreans pay tribute to the victims of the sinking of the ROKS ''Cheonan'' in March. ](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.md) _Context: sinking_
+1. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md) _Context: sinking_
+2. [ South Koreans pay tribute to the victims of the sinking of the ROKS "Cheonan" in March. ](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.md) _Context: sinking_

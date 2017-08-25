@@ -6,7 +6,7 @@ _Context: Abbotsford, British Columbia, Christian rock, Mennonite, church_
 ### [ Two people are killed and more than a dozen injured after a semitrailer crashes into a Chicago Transit Authority station during rush hour. ](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-injured-after-a-semitrailer-crashes-into-a-chicago-transit-authority-station-during-rush-hour.md)
 _Context: Chicago Transit Authority, rush hour, semitrailer_
 
-### [ Sri Lankan Civil War: At least 24 people are killed by a blast on a bus near  Colombo. ](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.md)
+### [ Sri Lankan Civil War: At least 24 people are killed by a blast on a bus near Colombo. ](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.md)
 _Context: Colombo, Sri Lankan Civil War_
 
 ### [ Actor Wesley Snipes is sentenced to three years in prison for tax violations. ](/news/2008/04/25/actor-wesley-snipes-is-sentenced-to-three-years-in-prison-for-tax-violations.md)

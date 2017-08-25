@@ -3,7 +3,7 @@
 ### [NATO admits it killed "between four and a dozen or more civilians" in Nangarhar Province as a result of air strikes on August 5. ](/news/2010/08/6/nato-admits-it-killed-between-four-and-a-dozen-or-more-civilians-in-nangarhar-province-as-a-result-of-air-strikes-on-august-5.md)
 NATO has admitted killing a number of civilians during military operations in eastern Afghanistan after President Hamid Karzai launched a probe into the case.
 
-### [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md)
+### [Germany offers compensation of -3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md)
 Germany will pay $5,000 each to the families of people killed or injured in an air strike near the Afghan town of Kunduz.
 
 ### [Pakistan's Major-General Tariq Khan urges NATO to do more to control the border with Afghanistan, amid increasing UK and U.S. pressure for Pakistan to deal with it. ](/news/2010/08/6/pakistan-s-major-general-tariq-khan-urges-nato-to-do-more-to-control-the-border-with-afghanistan-amid-increasing-uk-and-u-s-pressure-for-p.md)
@@ -12,10 +12,10 @@ A senior Pakistani security official calls on Nato forces to do more to control 
 ### [Israeli authorities shut down all crossings into Gaza for the day. ](/news/2010/08/6/israeli-authorities-shut-down-all-crossings-into-gaza-for-the-day.md)
 _Context: Gaza Strip, Israel_
 
-### [An international aid ship, the ''Saint Mariam'', bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-severa.md)
+### [An international aid ship, the "Saint Mariam", bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-several.md)
 _Context: Gaza Strip, Israel, May Hariri, Tripoli_
 
-### [The United Arab Emirates says the incident in which the Japanese tanker, the MV ''M. Star'', was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-l.md)
+### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)
 Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agency says.
 
 ### [An explosion at Zamboanga International Airport in the southern Philippines kills two people and injures 24. ](/news/2010/08/6/an-explosion-at-zamboanga-international-airport-in-the-southern-philippines-kills-two-people-and-injures-24.md)
@@ -75,10 +75,10 @@ Professor Karol Sikora, who examined Abdelbaset al-Megrahi in jail, insists the 
 ### [Britain's High Commission in Colombo lifts travel advice restrictions on Sri Lanka for the first time in approximately 30 years. ](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.md)
 A security assessment carried out by the UK in Sri Lanka concludes that the whole country is now safe for travellers.
 
-### [Asif Ali Zardari and David Cameron meeting:After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/asif-ali-zardari-and-david-cameron-meeting-pafter-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-un.md)
+### [Asif Ali Zardari and David Cameron meeting:. After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/asif-ali-zardari-and-david-cameron-meeting-after-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-u.md)
 David Cameron hails the &quot;unbreakable&quot; friendship between Britain and Pakistan after talks with President Asif Ali Zardari.
 
-### [Saudi Arabia Blackberry ban:Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-psaudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
+### [Saudi Arabia Blackberry ban:. Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)
@@ -126,10 +126,10 @@ Politicians in Nepal again fail to elect a new PM - meaning the country has been
 ### [Swaziland's justice minister and senator Ndumiso Mamba resigns from both positions over allegations of an affair with a wife of King Mswati III; the wife has denied the allegations. ](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.md)
 _Context: King Mswati III, Ndumiso Mamba, Swaziland_
 
-### [According to scientists, one million little brown bats (''Myotis lucifugus'') have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-am.md)
+### [According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-amer.md)
 A disease known as white-nose syndrome is likely to wipe out a once-common species of bat in the north-eastern US, according to scientists.
 
-### [U.S. scientists plan to rotate the Confederate submarine, the ''H. L. Hunley'', buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so.md)
+### [U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so-t.md)
 _Context: ''H. L. Hunley'', Charleston, South Carolina, Confederate, South Carolina, submarine_
 
 ### [American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. ](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.md)

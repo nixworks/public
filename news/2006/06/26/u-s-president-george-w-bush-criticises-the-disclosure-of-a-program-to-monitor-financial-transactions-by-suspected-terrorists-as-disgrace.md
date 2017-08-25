@@ -1,6 +1,6 @@
 ### [2006-06-26](/news/2006/06/26/index.md)
 
-#  U.S. President George W. Bush criticises the disclosure of a program to monitor financial transactions by suspected terrorists as "disgraceful". White House Press Secretary Tony Snow also states that news organizations, including the ''New York Times,'' should think if "the public's right to know, in some cases, might override somebody's right to live..." 
+#  U.S. President George W. Bush criticises the disclosure of a program to monitor financial transactions by suspected terrorists as "disgraceful". White House Press Secretary Tony Snow also states that news organizations, including the "New York Times," should think if "the public's right to know, in some cases, might override somebody's right to live..." 
 
 
 

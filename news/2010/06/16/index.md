@@ -9,13 +9,13 @@ Seattle police review training procedures after video of an officer punching a t
 ### [The United Nations Human Rights Council says Britain is arranging its third enforced removal of Iraqi asylum applicants to Baghdad despite appeals for it to stop amid safety fears for the individuals concerned. ](/news/2010/06/16/the-united-nations-human-rights-council-says-britain-is-arranging-its-third-enforced-removal-of-iraqi-asylum-applicants-to-baghdad-despite-a.md)
 Refugee agencies express concern over reported plans by the UK to deport about 50 Iraqi asylum seekers.
 
-### [Iranian nuclear program sanctions:Iran's  atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iranian-nuclear-program-sanctions-piran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enric.md)
+### [Iranian nuclear program sanctions:. Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iranian-nuclear-program-sanctions-iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enric.md)
 _Context: Iran, ban on ballistic missile tests, nuclear reactor, nuclear scientist_
 
-### [Gulf of Mexico oil disaster:U.S. President Barack Obama announces that  BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/gulf-of-mexico-oil-disaster-pu-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livel.md)
+### [Gulf of Mexico oil disaster:. U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/gulf-of-mexico-oil-disaster-u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livel.md)
 BP’s embattled chief executive, Tony Hayward, prepared to tell Congress on Thursday that he was “deeply sorry” for the oil disaster in the gulf.
 
-### [Middle East:Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-pisrael-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md)
+### [Middle East:. Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md)
 Security cabinet adjourns meeting on allowing entry of building materials and other goods.
 
 ### [At least 49 people are killed during landslides in Cox's Bazar, Bangladesh, with many swept to their deaths as they slept. ](/news/2010/06/16/at-least-49-people-are-killed-during-landslides-in-cox-s-bazar-bangladesh-with-many-swept-to-their-deaths-as-they-slept.md)
@@ -39,7 +39,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Two Sudanese, Abdallah Banda Abakaer Nourain and Saleh Mohammed Jerbo Jamus, surrender to the International Criminal Court in The Hague to be charged on Thursday with "murder", "intentionally directing attacks against peacekeeping personnel" and "stealing property" in relation to a 2007 attack on African Union peacekeepers in Darfur, which killed 12. ](/news/2010/06/16/two-sudanese-abdallah-banda-abakaer-nourain-and-saleh-mohammed-jerbo-jamus-surrender-to-the-international-criminal-court-in-the-hague-to-b.md)
 Two Sudan rebels surrender to the International Criminal Court to face charges over an attack on peacekeepers in Darfur.
 
-### [More than PS200 million in health funding to the Zambian government is suspended by the Global Fund to Fight AIDS, Tuberculosis and Malaria, though some aid is given to non-government groups and the fund's director of communications says life-saving treatments remain unaffected. ](/news/2010/06/16/more-than-aps200-million-in-health-funding-to-the-zambian-government-is-suspended-by-the-global-fund-to-fight-aids-tuberculosis-and-malaria.md)
+### [More than GBP200 million in health funding to the Zambian government is suspended by the Global Fund to Fight AIDS, Tuberculosis and Malaria, though some aid is given to non-government groups and the fund's director of communications says life-saving treatments remain unaffected. ](/news/2010/06/16/more-than-agbp200-million-in-health-funding-to-the-zambian-government-is-suspended-by-the-global-fund-to-fight-aids-tuberculosis-and-malari.md)
 More than $300m of HIV/Aids health funding to Zambia is being suspended over corruption concerns, aid officials say.
 
 ### [George Osborne scraps Britain's financial regulator and grants new powers to the Bank of England. ](/news/2010/06/16/george-osborne-scraps-britain-s-financial-regulator-and-grants-new-powers-to-the-bank-of-england.md)
@@ -48,7 +48,7 @@ _Context: Bank of England, George Osborne_
 ### [The National Army of Colombia says an unknown number of informants who aided the rescue of three police officers and a soldier from FARC on Sunday will receive a $1.2 million reward between them. ](/news/2010/06/16/the-national-army-of-colombia-says-an-unknown-number-of-informants-who-aided-the-rescue-of-three-police-officers-and-a-soldier-from-farc-on.md)
 Colombian informants share a $1.2m reward for helping the rescue of four security personnel after a decade in rebel hands.
 
-### [Shanghai International Film Festival:Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-pchinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-in.md)
+### [Shanghai International Film Festival:. Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-i.md)
 _Context: LeTV, Shanghai International Film Festival, Sohu, Voole_
 
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)
@@ -63,7 +63,7 @@ _Context: Jesus Christ, Ohio, United States_
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)
 Remains found in a Tuscany church almost certainly belong to Renaissance artist Caravaggio, researchers say.
 
-### [NCAA (U.S. college) conference realignment:The Pacific-10 Conference, after being turned down by several Texas and Oklahoma schools in its effort to expand to 12 or more members, invites the University of Utah to become its 12th member. ](/news/2010/06/16/ncaa-u-s-college-conference-realignment-pthe-pacific-10-conference-after-being-turned-down-by-several-texas-and-oklahoma-schools-in-its.md)
+### [NCAA (U.S. college) conference realignment:. The Pacific-10 Conference, after being turned down by several Texas and Oklahoma schools in its effort to expand to 12 or more members, invites the University of Utah to become its 12th member. ](/news/2010/06/16/ncaa-u-s-college-conference-realignment-the-pacific-10-conference-after-being-turned-down-by-several-texas-and-oklahoma-schools-in-its.md)
 Utah will join the Pac-10 Conference as its 12th team, with an announcement coming as soon as Friday, a source tells ESPN.
 
 ## [Previous Day...](/news/2010/06/15/index.md)

@@ -1,6 +1,6 @@
 ## [2012-08-30](/news/2012/08/30/index.md)
 
-### [Syrian civil war:Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/syrian-civil-war-pegyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-th.md)
+### [Syrian civil war:. Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/syrian-civil-war-egyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-t.md)
 _Context: Egypt, Iran, Mohammed Morsi, Non-aligned Movement, Palestinian, Syrian Civil War_
 
 ### [The Venezuelan government is to investigate an alleged massacre of indigenous people in the Amazon rainforest whom were attacked from a helicopter. ](/news/2012/08/30/the-venezuelan-government-is-to-investigate-an-alleged-massacre-of-indigenous-people-in-the-amazon-rainforest-whom-were-attacked-from-a-heli.md)
@@ -33,7 +33,7 @@ UN watchdog quarterly report says number of centrifuges at Fordo facility more t
 ### [An ex-Navy Seal's book that seems to contradict the official version of the death of Osama bin Laden is not written with politics in mind, says the author. ](/news/2012/08/30/an-ex-navy-seal-s-book-that-seems-to-contradict-the-official-version-of-the-death-of-osama-bin-laden-is-not-written-with-politics-in-mind-s.md)
 _Context: Osama bin Laden, book_
 
-### [Russian investigators find the bodies of two murdered women in an apartment in Kazan and the shout "''Free! Pussy Riot''" written on the wall. The perpetrator is as of yet unknown. Observers warn against radicalism and false flags. ](/news/2012/08/30/russian-investigators-find-the-bodies-of-two-murdered-women-in-an-apartment-in-kazan-and-the-shout-free-pussy-riot-written-on-the-wal.md)
+### [Russian investigators find the bodies of two murdered women in an apartment in Kazan and the shout ""Free! Pussy Riot"" written on the wall. The perpetrator is as of yet unknown. Observers warn against radicalism and false flags. ](/news/2012/08/30/russian-investigators-find-the-bodies-of-two-murdered-women-in-an-apartment-in-kazan-and-the-shout-free-pussy-riot-written-on-the-wall.md)
 _Context: Kazan, Russia, false flag_
 
 ### [Three journalists jailed in Eritrea for over a decade have died in prison, according to prison guards who fled the country. ](/news/2012/08/30/three-journalists-jailed-in-eritrea-for-over-a-decade-have-died-in-prison-according-to-prison-guards-who-fled-the-country.md)

@@ -12,7 +12,7 @@ _Context: 2008 Dakar Rally, Mauritanian_
 ### [ North Korean officials accuse the United States of not fulfilling its promise of humanitarian aid after an international disarmament agreement. ](/news/2008/01/4/north-korean-officials-accuse-the-united-states-of-not-fulfilling-its-promise-of-humanitarian-aid-after-an-international-disarmament-agreem.md)
 _Context: North Korea, United States, aid, international disarmament agreement_
 
-### [  Winter storms in California cause power outages, destruction of property and flight delays in San Francisco.](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.md)
+### [ Winter storms in California cause power outages, destruction of property and flight delays in San Francisco.](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.md)
 _Context:  Winter storms, California, San Francisco, power outage_
 
 ### [ Former Indonesian leader Suharto is taken to hospital in critical condition for anemia and low blood pressure. ](/news/2008/01/4/former-indonesian-leader-suharto-is-taken-to-hospital-in-critical-condition-for-anemia-and-low-blood-pressure.md)

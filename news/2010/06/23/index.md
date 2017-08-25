@@ -12,16 +12,16 @@ _Context: Iraq, Sunni Muslim_
 ### [An Indian colonel dies in Kashmir for the first time in three years. ](/news/2010/06/23/an-indian-colonel-dies-in-kashmir-for-the-first-time-in-three-years.md)
 _Context: India, Kashmir_
 
-### [25th anniversary of Air India Flight 182:Relatives of those killed in Air India Flight 182 gather with diplomats and politicians from Canada, India and Ireland in Cork to mark the 25th anniversary with a memorial service. ](/news/2010/06/23/25th-anniversary-of-air-india-flight-182-prelatives-of-those-killed-in-air-india-flight-182-gather-with-diplomats-and-politicians-from-canad.md)
+### [25th anniversary of Air India Flight 182:. Relatives of those killed in Air India Flight 182 gather with diplomats and politicians from Canada, India and Ireland in Cork to mark the 25th anniversary with a memorial service. ](/news/2010/06/23/25th-anniversary-of-air-india-flight-182-relatives-of-those-killed-in-air-india-flight-182-gather-with-diplomats-and-politicians-from-cana.md)
 Diplomats and relatives gathered today in west Cork to commemorate the 25th anniversary of the Air India crash.
 
-### [Southeast European Cooperation Process summit:Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-pslovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summit.md)
+### [Southeast European Cooperation Process summit:. Slovenia is approved as a new member of the organization in the opening session of the summit. ](/news/2010/06/23/southeast-european-cooperation-process-summit-slovenia-is-approved-as-a-new-member-of-the-organization-in-the-opening-session-of-the-summi.md)
 13 southeastern European countries, including Turkey, call for independent and internationally credible investigation on Gaza flotilla deaths.
 
-### [General Stanley A. McChrystal magazine remarks controversy:General Stanley A. McChrystal, America's top military commander in Afghanistan, submits his resignation after being summoned home by an "angry" Barack Obama due to his expression of critical opinions about senior American politicians and diplomats in a ''Rolling Stone'' magazine profile. Afghan President Hamid Karzai supports McChrystal, while the Taliban say the incident is "another sign of the start of the political defeat" for America's Afghan policies. ](/news/2010/06/23/general-stanley-a-mcchrystal-magazine-remarks-controversy-pgeneral-stanley-a-mcchrystal-america-s-top-military-commander-in-afghanistan.md)
+### [General Stanley A. McChrystal magazine remarks controversy:. General Stanley A. McChrystal, America's top military commander in Afghanistan, submits his resignation after being summoned home by an "angry" Barack Obama due to his expression of critical opinions about senior American politicians and diplomats in a "Rolling Stone" magazine profile. Afghan President Hamid Karzai supports McChrystal, while the Taliban say the incident is "another sign of the start of the political defeat" for America's Afghan policies. ](/news/2010/06/23/general-stanley-a-mcchrystal-magazine-remarks-controversy-general-stanley-a-mcchrystal-america-s-top-military-commander-in-afghanistan.md)
 An article on the top US general in Afghanistan was an &quot;enormous mistake&quot; and has angered the president, the White House says.
 
-### [Israeli-Palestinian conflict:The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeliapalestinian-conflict-pthe-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-surr.md)
+### [Israeli-Palestinian conflict:. The Association for Civil Rights writes to Israel's Attorney General after being alerted to the secrecy surrounding the jailing of a "Mister X" in a maximum security jail in Ayalon. ](/news/2010/06/23/israeli-palestinian-conflict-the-association-for-civil-rights-writes-to-israel-s-attorney-general-after-being-alerted-to-the-secrecy-sur.md)
 JERUSALEM: Speculation was widespread in Israel last night over the identity of a mysterious prisoner being held for unspecified crimes in the maximum security Ayalon jail.
 
 ### [Kenya permits prisoners to vote in a referendum on a new constitution in a landmark court ruling. ](/news/2010/06/23/kenya-permits-prisoners-to-vote-in-a-referendum-on-a-new-constitution-in-a-landmark-court-ruling.md)
@@ -43,7 +43,7 @@ _Context: Agadir, Iceland, International Whaling Commission , Japan, Morocco, No
 _Context: Albert II, Prince of Monaco, Charlene, Princess of Monaco, Palace of Monaco, South Africa_
 
 ### [BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". ](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.md)
-_Context: BP, Deepwater Horizon oil spill, Gulf, Tony Hayward, chief executive_
+_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico, Tony Hayward, chief executive_
 
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
 June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Command Builds
@@ -63,7 +63,7 @@ _Context: Midland, Ontario, Toronto_
 ### [Golfer Graeme McDowell returns home to celebrations after becoming the first European to win the U.S. Open since 1970. ](/news/2010/06/23/golfer-graeme-mcdowell-returns-home-to-celebrations-after-becoming-the-first-european-to-win-the-u-s-open-since-1970.md)
 &ldquo;I&rsquo;M RUNNING pretty much on adrenaline,&rdquo; said the US Open golf champion as the cheers died down
 
-### [Isner-Mahut match at the 2010 Wimbledon Championships becomes the longest match in Association of Tennis Professionals history, and is adjourned after 9 hours. ](/news/2010/06/23/isneramahut-match-at-the-2010-wimbledon-championships-becomes-the-longest-match-in-association-of-tennis-professionals-history-and-is-adj.md)
+### [Isner-Mahut match at the 2010 Wimbledon Championships becomes the longest match in Association of Tennis Professionals history, and is adjourned after 9 hours. ](/news/2010/06/23/isner-mahut-match-at-the-2010-wimbledon-championships-becomes-the-longest-match-in-association-of-tennis-professionals-history-and-is-adj.md)
 _Context: Association of Tennis Professionals, Isner-Mahut match at the 2010 Wimbledon Championships_
 
 ## [Previous Day...](/news/2010/06/22/index.md)

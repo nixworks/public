@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _Context: Iran, Muslim_
+1. [Iran-Saudi Arabia relations. The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/iran-saudi-arabia-relations-the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md) _Context: Iran, Muslim_
 2. [A dispute between a Muslim gold shop owner and Buddhist sellers escalates into communal violence that leaves 10 people dead, 20 injured, and 4 mosques burnt to the ground in Myanmar. ](/news/2013/03/21/a-dispute-between-a-muslim-gold-shop-owner-and-buddhist-sellers-escalates-into-communal-violence-that-leaves-10-people-dead-20-injured-and.md) _Context: Muslim, mosque_
 3. [Hundreds of Muslim villagers clash with riot police in the Ningxia region of northern China after a mosque is demolished by local authorities. ](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.md) _Context: Muslim, mosque_
 4. [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md) _Context: Muslim, Shi'ite_

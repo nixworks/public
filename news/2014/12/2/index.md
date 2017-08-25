@@ -1,21 +1,21 @@
 ## [2014-12-2](/news/2014/12/2/index.md)
 
-### [The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shabaab-militants-are.md)
+### [War in Somalia. The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/war-in-somalia-the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shaba.md)
 _Context: Kenya, Mandera County, Red Cross, War in Somalia, al-Shabaab militants_
 
-### [Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md)
+### [Syrian Civil War spillover in Lebanon. Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/syrian-civil-war-spillover-in-lebanon-unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md)
 At least six soldiers killed and one wounded as fighters ambush an army patrol, security official says.
 
-### [The Lebanese government arrests a wife and daughter of ISIL leader Abu Bakr al-Baghdadi. ](/news/2014/12/2/the-lebanese-government-arrests-a-wife-and-daughter-of-isil-leader-abu-bakr-al-baghdadi.md)
+### [Islamic State in Iraq and the Levant. The Lebanese government arrests a wife and daughter of ISIL leader Abu Bakr al-Baghdadi. ](/news/2014/12/2/islamic-state-in-iraq-and-the-levant-the-lebanese-government-arrests-a-wife-and-daughter-of-isil-leader-abu-bakr-al-baghdadi.md)
 One of ISIS leader Abu Bakr al-Baghdadi&#x27;s wives and children has been arrested in Lebanon, the country&#x27;s defense ministry confirmed to NBC News.
 
-### [The FBI launches a probe into a massive hacking attack on Sony Pictures, believing the leadership of North Korea to be responsible. ](/news/2014/12/2/the-fbi-launches-a-probe-into-a-massive-hacking-attack-on-sony-pictures-believing-the-leadership-of-north-korea-to-be-responsible.md)
+### [Sony Pictures Entertainment hack. The FBI launches a probe into a massive hacking attack on Sony Pictures, believing the leadership of North Korea to be responsible. ](/news/2014/12/2/sony-pictures-entertainment-hack-the-fbi-launches-a-probe-into-a-massive-hacking-attack-on-sony-pictures-believing-the-leadership-of-north.md)
 The FBI has launched an investigation into the massive cyberattack that wreaked havoc on Sony Pictures Entertainment.
 
 ### [A major Switzerland based commodities firm, Trafigura, played a "pivotal" role in the ability of the semi-autonomous Kurdish region of Iraq to export oil, exports that the central government in Baghdad has prohibited. ](/news/2014/12/2/a-major-switzerland-based-commodities-firm-trafigura-played-a-pivotal-role-in-the-ability-of-the-semi-autonomous-kurdish-region-of-iraq.md)
 _Context: Baghdad, Iraq, Kurd, Trafigura_
 
-### [Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the-official-death-toll-in-the-country-re.md)
+### [Ebola virus epidemic in West Africa. Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the.md)
 _Context: Ebola virus epidemic in West Africa, Sierra Leone, Tonkolili_
 
 ### [South Korea approves a plan by the Christian Council of Korea to set up a large Christmas tree near the border with North Korea despite ongoing tensions. ](/news/2014/12/2/south-korea-approves-a-plan-by-the-christian-council-of-korea-to-set-up-a-large-christmas-tree-near-the-border-with-north-korea-despite-ongo.md)
@@ -33,7 +33,7 @@ PM says he won&#8217;t tolerate presence of cabinet members who &#8216;attack go
 ### [The Sweden Democrats decide to vote for the opposition's budget proposal, likely forcing the collapse of Prime Minister Stefan Lofven's new government that came to power in the September elections. ](/news/2014/12/2/the-sweden-democrats-decide-to-vote-for-the-opposition-s-budget-proposal-likely-forcing-the-collapse-of-prime-minister-stefan-lapfven-s-new.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
-### [C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yesterday-s-clashes.md)
+### [2014 Hong Kong protests. C. Y. Leung, the Chief Executive of Hong Kong, warns pro-democracy activists not to return to the streets after yesterday's clashes. ](/news/2014/12/2/2014-hong-kong-protests-c-y-leung-the-chief-executive-of-hong-kong-warns-pro-democracy-activists-not-to-return-to-the-streets-after-yes.md)
 John Sudworth reports from Hong Kong a day after violent clashes between police and pro-democracy activists.
 
 ### [The Parliament of Ukraine approves the formation of a new government that includes three foreigners who have received Ukrainian citizenship just hours before the vote: Georgian-born Alexander Kvitashvili, US-national Natalie Jaresko and Lithuanian Aivaras Abromavicius. ](/news/2014/12/2/the-parliament-of-ukraine-approves-the-formation-of-a-new-government-that-includes-three-foreigners-who-have-received-ukrainian-citizenship.md)

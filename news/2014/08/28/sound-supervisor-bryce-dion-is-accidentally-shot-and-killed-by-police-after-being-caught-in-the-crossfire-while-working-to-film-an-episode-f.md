@@ -1,6 +1,6 @@
 ### [2014-08-28](/news/2014/08/28/index.md)
 
-# Sound supervisor Bryce Dion is accidentally shot and killed by police after being caught in the crossfire while working to film an episode for the reality series ''Cops''. 
+# Sound supervisor Bryce Dion is accidentally shot and killed by police after being caught in the crossfire while working to film an episode for the reality series "Cops". 
 
 
 

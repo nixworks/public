@@ -3,7 +3,7 @@
 ### [2011-2012 Syrian uprising: Dozens are killed as the Syrian army bombards the city of Homs with artillery fire. ](/news/2012/04/1/2011-2012-syrian-uprising-dozens-are-killed-as-the-syrian-army-bombards-the-city-of-homs-with-artillery-fire.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Mali:Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-ptuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md)
+### [Mali:. Tuareg rebels seize the town of Gao and the largest military base in Mali amid the ongoing Tuareg Rebellion ](/news/2012/04/1/mali-tuareg-rebels-seize-the-town-of-gao-and-the-largest-military-base-in-mali-amid-the-ongoing-tuareg-rebellion.md)
 Tuareg separatist rebels in Mali have seized Timbuktu, taking effective control of the entire north of the country, as coup leaders say they will cede power.
 
 ### [The 2012 Academy of Country Music Awards are held in the US city of Las Vegas, Nevada, with the Eli Young Band winning song of the year for "Crazy Girl" and Taylor Swift winning Entertainer of the Year. ](/news/2012/04/1/the-2012-academy-of-country-music-awards-are-held-in-the-us-city-of-las-vegas-nevada-with-the-eli-young-band-winning-song-of-the-year-for.md)
@@ -12,7 +12,7 @@ _Context: Academy of Country Music, Crazy Girl, Eli Young Band, Las Vegas, Nevad
 ### [Feist wins Artist of the Year at the Canadian Juno Awards. ](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.md)
 _Context: Canadian, Feist, Juno Awards_
 
-### [A state of emergency is declared in Fiji as nearly 7000 people are displaced and two people have been killed during floods  with conditions set to worsen with heavy storms expected following Tropical Depression 17F.](/news/2012/04/1/a-state-of-emergency-is-declared-in-fiji-as-nearly-7000-people-are-displaced-and-two-people-have-been-killed-during-floods-with-conditions.md)
+### [A state of emergency is declared in Fiji as nearly 7000 people are displaced and two people have been killed during floods with conditions set to worsen with heavy storms expected following Tropical Depression 17F.](/news/2012/04/1/a-state-of-emergency-is-declared-in-fiji-as-nearly-7000-people-are-displaced-and-two-people-have-been-killed-during-floods-with-conditions-s.md)
 _Context: Fiji, flood_
 
 ### [Voters in Burma go to the polls for by-elections for 45 seats, with Aung San Suu Kyi claiming victory in one election. ](/news/2012/04/1/voters-in-burma-go-to-the-polls-for-by-elections-for-45-seats-with-aung-san-suu-kyi-claiming-victory-in-one-election.md)

@@ -4,7 +4,7 @@
 _Context: Battle of Basra (2008), Iraq, Shiite_
 
 ### [ Libby Trickett of Australia sets a new world record (21.28 seconds) for the 50 metres freestyle at the selection trials for the Australian swimming team at the 2008 Summer Olympics. ](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.md)
-_Context: Australia, Beijing Olympiad, Libby Trickett, freestyle, world record_
+_Context: 2008 Summer Olympics, Australia, Libby Trickett, freestyle, world record_
 
 ### [ Zimbabweans vote in the presidential and parliamentary elections. ](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.md)
 _Context: Zimbabwe, parliamentary, run-off presidential election_

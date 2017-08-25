@@ -15,7 +15,7 @@ _Context: Elias Murr, Fatah al-Islam, Lebanon, Nahr el-Bared, Tripoli, Lebanon_
 ### [ At least 27 people die as a wall collapses in a bar in Tirupur in the South Indian state of Tamil Nadu. ](/news/2007/05/23/at-least-27-people-die-as-a-wall-collapses-in-a-bar-in-tirupur-in-the-south-indian-state-of-tamil-nadu.md)
 _Context: South India, Tamil Nadu, Tirupur, state_
 
-### [ 2007 Israel-Gaza conflict: Militants in the Gaza Strip fire eight rockets at the southern Israeli cities of Sderot and Kibbutz Nir Am. The IAF makes an air strike on the Gaza Strip, in which they destroy two buildings.  ](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.md)
+### [ 2007 Israel-Gaza conflict: Militants in the Gaza Strip fire eight rockets at the southern Israeli cities of Sderot and Kibbutz Nir Am. The IAF makes an air strike on the Gaza Strip, in which they destroy two buildings. ](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.md)
 Following relatively quiet day in southern Israel, two Qassams land south of Ashkelon, another two fall near Sderot, one of them killing mare in Kibbutz Nir Am. Two IDF soldiers lightly injured by gunshots in northern Gaza
 
 ### [ The British Government announce a carbon emissions trading scheme, the Carbon Reduction Commitment, that will apply to hotel chains, supermarkets, banks, and other large organisations. ](/news/2007/05/23/the-british-government-announce-a-carbon-emissions-trading-scheme-the-carbon-reduction-commitment-that-will-apply-to-hotel-chains-superm.md)

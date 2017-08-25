@@ -1,9 +1,9 @@
 ## [2010-04-6](/news/2010/04/6/index.md)
 
-### [Israeli-Palestinian conflict:Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks.  ](/news/2010/04/6/israeliapalestinian-conflict-ppalestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-t.md)
+### [Israeli-Palestinian conflict:. Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md)
 Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
 
-### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)
+### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxalite-maoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)
 In one of the bloodiest attacks on security forces, Naxals trapped and gunned down 75 personnel during a joint &quot;Operation Green Hunt&quot; offensive against the ultras in the thick forests of Mukrana in Dantewada district. 
 
 ### [Iraq War: At least eight explosions rock Baghdad and kill at least 35 people and wound over 140 others. ](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.md)
@@ -24,8 +24,8 @@ _Context: AOL, Bebo_
 ### [United States Court of Appeals for the District of Columbia Circuit rules that the FCC cannot enforce net neutrality and that Comcast can limit its customers' access to BitTorrent. ](/news/2010/04/6/united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-cannot-enforce-net-neutrality-and-that-comcast-can-li.md)
 A ruling would let providers slow down access to certain content and favor their services over those of competitors.
 
-### [About 103 people are killed in flooding and mudslides in Rio de Janeiro state in Brazil.  Of the total, thirty-three people died in the city of Rio de Janeiro, while 33 were killed in the neighbouring city of Niteroi, 12 people dead in Sao Goncalo, and one in Petropolis.  ](/news/2010/04/6/about-103-people-are-killed-in-flooding-and-mudslides-in-rio-de-janeiro-state-in-brazil-of-the-total-thirty-three-people-died-in-the-city.md)
-Torrential rain leads to mudslides, leaving at least 95 dead in Rio de Janeiro state.
+### [About 103 people are killed in flooding and mudslides in Rio de Janeiro state in Brazil. Of the total, thirty-three people died in the city of Rio de Janeiro, while 33 were killed in the neighbouring city of Niteroi, 12 people dead in SGBPo Goncalo, and one in Petropolis. [http://news.bbc.co.uk/2/hi/americas/8605386.stm (BBC)] [http://english.aljazeera.net/news/americas/2010/04/201046151148528719.html (Al Jazeera)] [http://news.xinhuanet.com/english2010/world/2010-04/06/c_13239687.htm (Xinhua)] [http://www.google.com/hostednews/ap/article/ALeqM5i3lzkJbjU27HrIF8LBB2DAuM3g-gD9ETMID82 (AP)] [http://www.estadao.com.br/noticias/geral,maior-temporal-em-44-anos-no-rj-ja-causou-103-mortes,534623,0.htm (O Estado de S. Paulo)]](/news/2010/04/6/about-103-people-are-killed-in-flooding-and-mudslides-in-rio-de-janeiro-state-in-brazil-of-the-total-thirty-three-people-died-in-the-city.md)
+_Context: Brazil, Niteroi, O Estado de S. Paulo, Petropolis, Rio de Janeiro, Rio de Janeiro, SGBPo Goncalo_
 
 ### [Details of North Korea's own Red Star operating system emerge. ](/news/2010/04/6/details-of-north-korea-s-own-red-star-operating-system-emerge.md)
 _Context: North Korea, Red Star operating system_

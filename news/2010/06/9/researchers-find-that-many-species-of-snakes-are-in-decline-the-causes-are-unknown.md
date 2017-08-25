@@ -1,6 +1,6 @@
 ### [2010-06-9](/news/2010/06/9/index.md)
 
-# Researchers find that many species of snakes are in decline.  The causes are unknown.
+# Researchers find that many species of snakes are in decline. The causes are unknown.
 
 Long-term studies have revealed population declines in fishes, amphibians, reptiles, birds and mammals. In birds, and particularly amphibians, these declines are a global phenomenon whose causes are often unclear. Among reptiles, snakes are top predators and therefore a decline in their numbers may have serious consequences for the functioning of many ecosystems. Our results show that, of 17 snake populations (eight species) from the UK, France, Italy, Nigeria and Australia, 11 have declined sharply over the same relatively short period of time with five remaining stable and one showing signs of a marginal increase. Although the causes of these declines are currently unknown, we suspect that they are multi-faceted (such as habitat quality deterioration, prey availability), and with a common cause, e.g. global climate change, at their root.
 

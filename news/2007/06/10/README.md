@@ -3,7 +3,7 @@
 ### [ The Palestinian Journalist Syndicate criticizes Islamic Jihad militants for using a vehicle marked with a "TV" sign to approach Gaza's frontier border with Israel in an attempt to kidnap an Israel Defense Forces soldier from a position across the border. ](/news/2007/06/10/the-palestinian-journalist-syndicate-criticizes-islamic-jihad-militants-for-using-a-vehicle-marked-with-a-tv-sign-to-approach-gaza-s-fron.md)
 _Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces, Palestinian Journalist Syndicate_
 
-### [ On the Sunday talk show ''Meet the Press'', former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-b.md)
+### [ On the Sunday talk show "Meet the Press", former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-bay.md)
 _Context: Colin Powell, Guantanamo Bay Detention Camp, Meet the Press, Sunday talk show, United States Secretary of State_
 
 ### [ France holds a parliamentary election; early projections indicate that President Nicolas Sarkozy's center-right UMP party will secure a comfortable victory. ](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.md)

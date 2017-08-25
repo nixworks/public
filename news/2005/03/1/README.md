@@ -18,13 +18,13 @@ _Context: Bangladesh, Democratic Republic of Congo, Floribert Ndjabu, Nationalis
 ### [ A French court in Angers prepares for a major child sex trial ](/news/2005/03/1/a-french-court-in-angers-prepares-for-a-major-child-sex-trial.md)
 _Context: Angers, sexual relations_
 
-### [ In Italy, a court sentences Laura Proietti, a member of the Red Brigades, to life in prison for involvement in the murder of Massimo D'Antona in 1999.  A second member, Cinzia Banelli, receives 20 years ](/news/2005/03/1/in-italy-a-court-sentences-laura-proietti-a-member-of-the-red-brigades-to-life-in-prison-for-involvement-in-the-murder-of-massimo-d-anto.md)
+### [ In Italy, a court sentences Laura Proietti, a member of the Red Brigades, to life in prison for involvement in the murder of Massimo D'Antona in 1999. A second member, Cinzia Banelli, receives 20 years ](/news/2005/03/1/in-italy-a-court-sentences-laura-proietti-a-member-of-the-red-brigades-to-life-in-prison-for-involvement-in-the-murder-of-massimo-d-anto.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 ### [ Protests break out in Indonesia over fuel price increases ](/news/2005/03/1/protests-break-out-in-indonesia-over-fuel-price-increases.md)
 _Context: Indonesia, fuel_
 
-### [ In Lebanon, opposition leaders call for the protest to continue even when the government has resigned. New protests demand that all Syrian troops leave the country  ](/news/2005/03/1/in-lebanon-opposition-leaders-call-for-the-protest-to-continue-even-when-the-government-has-resigned-new-protests-demand-that-all-syrian.md)
+### [ In Lebanon, opposition leaders call for the protest to continue even when the government has resigned. New protests demand that all Syrian troops leave the country ](/news/2005/03/1/in-lebanon-opposition-leaders-call-for-the-protest-to-continue-even-when-the-government-has-resigned-new-protests-demand-that-all-syrian.md)
 _Context: Lebanon, Syria_
 
 ### [ Malaysia begins to round up illegal immigrants after a 4-month amnesty ](/news/2005/03/1/malaysia-begins-to-round-up-illegal-immigrants-after-a-4-month-amnesty.md)
@@ -45,7 +45,7 @@ _Context: Ashgabat, Saparmurat Niyazov, Turkmenistan_
 ### [ The President of Ukraine, Viktor Yushchenko, announces that suspected killers of a journalist Georgiy Gongadze have been arrested ](/news/2005/03/1/the-president-of-ukraine-viktor-yushchenko-announces-that-suspected-killers-of-a-journalist-georgiy-gongadze-have-been-arrested.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ In Uruguay, Dr. Tabar Vzquez, the first leftist president in the country's 180-year history, takes office, announces his cabinet and restores diplomatic relations with Cuba.  ](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.md)
+### [ In Uruguay, Dr. Tabar Vzquez, the first leftist president in the country's 180-year history, takes office, announces his cabinet and restores diplomatic relations with Cuba. ](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.md)
 _Context: Cuba, Leftist, President, Tabar Vzquez, Uruguay, diplomatic relations, forming a government_
 
 ### [ In a major change to capital punishment in the United States, by a closely-divided vote, the US Supreme Court rules, in Roper v. Simmons, that imposition of the death penalty on persons convicted of capital crimes committed before they were 18 is unconstitutional. ](/news/2005/03/1/in-a-major-change-to-capital-punishment-in-the-united-states-by-a-closely-divided-vote-the-us-supreme-court-rules-in-roper-v-simmons-t.md)

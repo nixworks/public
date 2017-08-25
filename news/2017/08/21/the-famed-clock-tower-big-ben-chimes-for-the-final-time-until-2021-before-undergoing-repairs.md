@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md) _Context: Big Ben_
+1. [Big Ben. London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/big-ben-london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-perfor.md) _Context: Big Ben_

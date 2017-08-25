@@ -1,12 +1,12 @@
 ## [2012-07-19](/news/2012/07/19/index.md)
 
-### [Syrian uprising (2011-present):Clashes intensify in the Syrian capital Damascus. ](/news/2012/07/19/syrian-uprising-2011apresent-pclashes-intensify-in-the-syrian-capital-damascus.md)
+### [Syrian uprising (2011-present):. Clashes intensify in the Syrian capital Damascus. ](/news/2012/07/19/syrian-uprising-2011-present-clashes-intensify-in-the-syrian-capital-damascus.md)
 _Context: Damascus, Syrian uprising (2011-present)_
 
 ### [Russian Muslim leader Valiulla Yakupov is shot dead and the Mufti of Tatarstan, Ildus Fayzov, is wounded in two separate attacks in Kazan in the Russian Republic of Tatarstan. ](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.md)
 _Context: Ildus Fayzov, Kazan, Russian Republic of Tatarstan, Valiulla Yakupov_
 
-### [Economy of the United Kingdom:In an interview published by ''The Daily Telegraph'', British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-pin-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gove.md)
+### [Economy of the United Kingdom:. In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/economy-of-the-united-kingdom-in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-gover.md)
 The government should slow the pace of budget cuts next year if growth in the UK does not recover, the International Monetary Fund says.
 
 ### [Bangladeshi writer and film director Humayun Ahmed dies at 63 in New York while undergoing a treatment for colorectal cancer. ](/news/2012/07/19/bangladeshi-writer-and-film-director-humayun-ahmed-dies-at-63-in-new-york-while-undergoing-a-treatment-for-colorectal-cancer.md)
@@ -21,7 +21,7 @@ _Context: Hosni Mubarak, Omar Suleiman_
 ### [Ban Ki-moon, the Secretary-General of the United Nations, condemns yesterday's bombing that killed the Syrian defence minister and other senior officials. ](/news/2012/07/19/ban-ki-moon-the-secretary-general-of-the-united-nations-condemns-yesterday-s-bombing-that-killed-the-syrian-defence-minister-and-other-sen.md)
 _Context: Ban Ki-moon, Secretary General, bombing_
 
-### [Syrian leaders' assets with the worth of PS100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-aps100m-are-located-and-frozen-in-the-united-kingdom.md)
+### [Syrian leaders' assets with the worth of GBP100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-agbp100m-are-located-and-frozen-in-the-united-kingdom.md)
 Assets worth £100m belonging to Syrian regime leaders have been located and frozen in Britain, the BBC has learned.
 
 ### [Six people are killed and one is injured in Antwerp, New York when a tractor trailer carrying yogurt rear-ends a vehicle that had slowed for construction work. ](/news/2012/07/19/six-people-are-killed-and-one-is-injured-in-antwerp-new-york-when-a-tractor-trailer-carrying-yogurt-rear-ends-a-vehicle-that-had-slowed-for.md)

@@ -1,6 +1,6 @@
 ## [2011-02-3](/news/2011/02/3/index.md)
 
-### [2011 Egyptian protests:Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-panti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md)
+### [2011 Egyptian protests:. Anti-government protestors continue to protest against the Mubarak regime for a tenth day. ](/news/2011/02/3/2011-egyptian-protests-anti-government-protestors-continue-to-protest-against-the-mubarak-regime-for-a-tenth-day.md)
 Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo left seven dead and hundreds wounded.
 
 ### [The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. ](/news/2011/02/3/the-united-states-senate-passes-a-motion-supporting-democracy-in-egypt-and-calling-on-president-hosni-mubarak-to-begin-transferring-power.md)
@@ -9,7 +9,7 @@ _Context: Egyptian President, Hosni Mubarak, United States Senate, democratic pr
 ### [2011 Yemeni protests: Thousands of pro- and anti-government supporters demonstrate in Yemen over the rule of President Ali Abdullah Saleh in a planned "day of rage". ](/news/2011/02/3/2011-yemeni-protests-thousands-of-pro-and-anti-government-supporters-demonstrate-in-yemen-over-the-rule-of-president-ali-abdullah-saleh-in.md)
 Anti-government demonstrators reiterate calls for president to stand down while his supporters stage a counter rally.
 
-### [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010a2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md)
+### [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010-2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md)
 _Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, President_
 
 ### [2011 Syrian protests: Social media mobilises the people of Syria for rallies demanding freedom, human rights and the end to emergency law, scheduled for Friday and Saturday in front of the parliament in Damascus and at Syrian embassies internationally. ](/news/2011/02/3/2011-syrian-protests-social-media-mobilises-the-people-of-syria-for-rallies-demanding-freedom-human-rights-and-the-end-to-emergency-law-s.md)
@@ -27,7 +27,7 @@ Global food prices rose in January,with the FAO Food Price Index at a record hig
 ### [The price of a barrel of Brent crude oil rises to $103 following violent clashes in Egypt. ](/news/2011/02/3/the-price-of-a-barrel-of-brent-crude-oil-rises-to-103-following-violent-clashes-in-egypt.md)
 Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt raised concern of supply disruptions and unrest across the Middle East, overshadowing ample supplies in top consumer the United States.
 
-### [Cyclone YasiCyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasipcyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-inni.md)
+### [Cyclone Yasi. Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-inn.md)
 _Context: Australia, Cardwell, Cyclone Yasi, Innisfail, Mission Beach, Tully, north Queensland_
 
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)

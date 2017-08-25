@@ -1,9 +1,9 @@
 ## [2013-03-12](/news/2013/03/12/index.md)
 
-### [Syrian civil war:Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-psyrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md)
+### [Syrian civil war:. Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-syrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md)
 Loyalist Syrian forces killed at least 30 army deserters in an ambush on the Damascus Airport road on Tuesday as opposition fighters were guiding them on foot to a rebel-held district, opposition sources said.
 
-### [Israeli-Palestinian conflict:A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeliapalestinian-conflict-pa-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md)
+### [Israeli-Palestinian conflict:. A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeli-palestinian-conflict-a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md)
 Israeli troops shot to death a Palestinian man on Tuesday after he and others hurled rocks and firebombs at them in the West Bank, the military said.
 
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
@@ -63,7 +63,7 @@ Voters go to the polls in Greenland on Tuesday, in an election dominated by the 
 ### [Armenian presidential election runner-up Raffi Hovannisian goes on hunger strike after three weeks of mass rallies against the election results. ](/news/2013/03/12/armenian-presidential-election-runner-up-raffi-hovannisian-goes-on-hunger-strike-after-three-weeks-of-mass-rallies-against-the-election-resu.md)
 Former Armenian presidential candidate Raffi Hovannisian began a hunger strike on Sunday calling on President Serzh Sarksyan to resign, accusing him of rigging his re-election last month.
 
-### [Papal conclave, 2013:Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-proman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md)
+### [Papal conclave, 2013:. Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/papal-conclave-2013-roman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md)
 Black smoke has risen from the Vatican&#39;s Sistine Chapel, signalling that Roman Catholic cardinals have not elected a new pope in the first vote of their secret conclave.
 
 ### [NASA holds a media conference to announce new discoveries about Mars made by the Curiosity rover. It was found that the planet could have once supported life. ](/news/2013/03/12/nasa-holds-a-media-conference-to-announce-new-discoveries-about-mars-made-by-the-curiosity-rover-it-was-found-that-the-planet-could-have-on.md)

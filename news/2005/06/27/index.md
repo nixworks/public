@@ -3,7 +3,7 @@
 ### [ Domino Harvey dies of an OD, Harvey was a legendary bounty hunter and her biography was made a movie with Keira Knightley as Domino.](/news/2005/06/27/domino-harvey-dies-of-an-od-harvey-was-a-legendary-bounty-hunter-and-her-biography-was-made-a-movie-with-keira-knightley-as-domino.md)
 _Context: Domino Harvey, drug overdose_
 
-### [ The Supreme Court of the United States releases a unanimous decision in ''MGM Studios, Inc. v. Grokster, Ltd.'', finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-shar.md)
+### [ The Supreme Court of the United States releases a unanimous decision in "MGM Studios, Inc. v. Grokster, Ltd.", finding that P2P file sharing companies can be held liable for the copyright infringement of their users. ](/news/2005/06/27/the-supreme-court-of-the-united-states-releases-a-unanimous-decision-in-mgm-studios-inc-v-grokster-ltd-finding-that-p2p-file-sharin.md)
 _Context: File sharing, P2P, U.S. Supreme Court, a recent decision, copyright infringement_
 
 ### [ Walmart heir John T. Walton dies when his ultra-light plane crashes right after taking off in Jackson, Wyoming. ](/news/2005/06/27/walmart-heir-john-t-walton-dies-when-his-ultra-light-plane-crashes-right-after-taking-off-in-jackson-wyoming.md)

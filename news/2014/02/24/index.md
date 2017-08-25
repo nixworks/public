@@ -1,15 +1,15 @@
 ## [2014-02-24](/news/2014/02/24/index.md)
 
-### [2014 Ukrainian Revolution:The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-pthe-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md)
+### [2014 Ukrainian Revolution:. The European Commission recognizes Oleksandr Turchynov as Ukraine-s legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-the-european-commission-recognizes-oleksandr-turchynov-as-ukraine-s-legitimate-interim-president.md)
 _Context: 2014 Ukrainian revolution, European Commission, Oleksandr Turchynov, Ukraine_
 
-### [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
+### [War in Afghanistan:. Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
 _Context: Khyber Pakhtunkhwa, Taliban, War in Afghanistan (2001-present)_
 
-### [South China Sea dispute:Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-pchinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md)
+### [South China Sea dispute:. Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md)
 A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoal in the South China Sea, the top Philippine military chief says.
 
-### [Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the-city-of-benghazi.md)
+### [Post-civil war violence in Libya. Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/post-civil-war-violence-in-libya-libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the.md)
 Seven Egyptian Christians were found shot dead on a beach in eastern Libya after they were abducted from their apartments, security officials and local residents said, in the second such execution-style killing this year.
 
 ### [Israeli Air Force planes reportedly bomb a weapons shipment of SS-21 missiles destined for Hezbollah near a Hezbollah stronghold on the Lebanon-Syria border. ](/news/2014/02/24/israeli-air-force-planes-reportedly-bomb-a-weapons-shipment-of-ss-21-missiles-destined-for-hezbollah-near-a-hezbollah-stronghold-on-the-leba.md)
@@ -21,7 +21,7 @@ The WWE Network is ready to launch next month. It’s just not what you may have
 ### [Ugandan President Yoweri Museveni signs a bill discriminating against the LGBT community. ](/news/2014/02/24/ugandan-president-yoweri-museveni-signs-a-bill-discriminating-against-the-lgbt-community.md)
 Homosexuality was already banned, but new law makes it a crime not to report gay people to authorities 
 
-### [CNN cancels ''Piers Morgan Live'', starring British presenter Piers Morgan, due to low ratings. ](/news/2014/02/24/cnn-cancels-piers-morgan-live-starring-british-presenter-piers-morgan-due-to-low-ratings.md)
+### [CNN cancels "Piers Morgan Live", starring British presenter Piers Morgan, due to low ratings. ](/news/2014/02/24/cnn-cancels-piers-morgan-live-starring-british-presenter-piers-morgan-due-to-low-ratings.md)
 Former tabloid editor failed to engage with his American audience and network will end his three-year run
 
 ### [Pope Francis, in the most significant reform of the Roman Curia in 25 years, creates a second Secretariat, for Economic Affairs, headed by a Cardinal (which will work with the Vatican Secretariat of State, the reformed Vatican bank, or IOR, and the other economic departments of the Roman Curia), which will have an office with the power to audit any Vatican agency at any time. ](/news/2014/02/24/pope-francis-in-the-most-significant-reform-of-the-roman-curia-in-25-years-creates-a-second-secretariat-for-economic-affairs-headed-by-a.md)
@@ -39,10 +39,10 @@ _Context: Lai Chau Province, Vietnam_
 ### [Gary Melius, owner of Oheka Castle in Huntington, New York, the second largest private residence in the United States, is shot in the head in the castle parking lot. The gunman is still at large. ](/news/2014/02/24/gary-melius-owner-of-oheka-castle-in-huntington-new-york-the-second-largest-private-residence-in-the-united-states-is-shot-in-the-head-i.md)
 A prominent New York real estate developer and socialite told investigators he has no idea who shot him at his expansive Long Island estate, police said.
 
-### [2013-14 Thai political crisis:Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013a14-thai-political-crisis-pthai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
+### [2013-14 Thai political crisis:. Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
 _Context: 2013-14 Thai political crisis, Thailand, Yingluck Shinawatra_
 
-### [The government of Egypt resign ''en masse'', allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
+### [The government of Egypt resign "en masse", allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
 _Context: Abdel Fattah al-Sisi, Egypt_
 
 ### [The Pentagon announces plans to reduce the size of the United States Army to pre-World War II levels. ](/news/2014/02/24/the-pentagon-announces-plans-to-reduce-the-size-of-the-united-states-army-to-pre-world-war-ii-levels.md)

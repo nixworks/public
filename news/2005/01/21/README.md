@@ -1,15 +1,15 @@
 ## [2005-01-21](/news/2005/01/21/index.md)
 
-### [ In Belize, the unrest continues for a second day. Water has been cut and government buildings have been torched.  ](/news/2005/01/21/in-belize-the-unrest-continues-for-a-second-day-water-has-been-cut-and-government-buildings-have-been-torched.md)
+### [ In Belize, the unrest continues for a second day. Water has been cut and government buildings have been torched. ](/news/2005/01/21/in-belize-the-unrest-continues-for-a-second-day-water-has-been-cut-and-government-buildings-have-been-torched.md)
 _Context: Belize, unrest_
 
-### [ Israeli-Palestinian Conflict: The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-p-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md)
+### [ Israeli-Palestinian Conflict:. The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/israeli-palestinian-conflict-the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the.md)
 _Context: Al-Aqsa Intifada, Gaza Strip, Israeli-Palestinian conflict, Palestinian Authority_
 
 ### [ B15A, the world's largest iceberg with 160 km length, seems to have run aground in Antarctica, threatening to cut off supply ships for a number of scientific research stations and to starve tens of thousands of penguins. ](/news/2005/01/21/b15a-the-world-s-largest-iceberg-with-160-km-length-seems-to-have-run-aground-in-antarctica-threatening-to-cut-off-supply-ships-for-a-nu.md)
 _Context: Antarctica, B15A, iceberg_
 
-### [ Conflict in Iraq: 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-p-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md)
+### [ Conflict in Iraq:. 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md)
 _Context: Conflict in Iraq, Denmark, Iraq_
 
 ### [ In Lucerne, Switzerland, a trial opens against a nurse accused of killing 24 patients. ](/news/2005/01/21/in-lucerne-switzerland-a-trial-opens-against-a-nurse-accused-of-killing-24-patients.md)

@@ -1,9 +1,9 @@
 ## [2011-06-5](/news/2011/06/5/index.md)
 
-### [2011 Yemeni uprising:Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/2011-yemeni-uprising-ptwo-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility-in-sana-a-ye.md)
+### [Arab Spring. 2011 Yemeni uprising:. Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/arab-spring-2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility.md)
 A large protest in northwest Syria was the latest to turn deadly, as Syrian security forces killed 25 people, a human rights group said Sunday.
 
-### [Pakistan terrorism:Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-psix-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md)
+### [Pakistan terrorism:. Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md)
 Six people were killed and 15 were injured from an explosion at a bus stand the northern Pakistani village of Matni, a police official said.
 
 ### [Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. ](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.md)
@@ -21,7 +21,7 @@ _Context: South Kordofan, Sudan_
 ### [Pope Benedict XVI celebrates Mass in the Croatian capital Zagreb. ](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.md)
 Pope Benedict XVI said a mass for an estimated 300,000 people at a Zagreb racetrack on the last day of his visit to Croatia, officials said.
 
-### [Evacuations are ordered in  town of  Hamburg in the US state of Iowa as the Missouri River partially breaches levee banks. ](/news/2011/06/5/evacuations-are-ordered-in-town-of-hamburg-in-the-us-state-of-iowa-as-the-missouri-river-partially-breaches-levee-banks.md)
+### [Evacuations are ordered in town of Hamburg in the US state of Iowa as the Missouri River partially breaches levee banks. ](/news/2011/06/5/evacuations-are-ordered-in-town-of-hamburg-in-the-us-state-of-iowa-as-the-missouri-river-partially-breaches-levee-banks.md)
 A levee breach along the swollen Missouri River prompted the evacuation Sunday of about 600 people in the area between the river and Hamburg, Iowa, officials said.
 
 ### [At least one person is dead and 29 are injured after an underground fuel pipe explodes in Nairobi, Kenya. ](/news/2011/06/5/at-least-one-person-is-dead-and-29-are-injured-after-an-underground-fuel-pipe-explodes-in-nairobi-kenya.md)
@@ -33,7 +33,7 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
 _Context: PSD, Pedro Passos Coelho, Portugal, Portuguese legislative election, international bailout_
 
-### [Voters in the Republic of Macedonia go to the polls for  parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
+### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
 _Context: Macedonian, parliamentary elections_
 
 ### [Voters in Peru go to the polls for the second round of the Peruvian general election with Ollanta Humala claiming victory over Keiko Fujimori. ](/news/2011/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-the-peruvian-general-election-with-ollanta-humala-claiming-victory-over-keiko-fujimor.md)

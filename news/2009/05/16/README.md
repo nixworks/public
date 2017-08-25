@@ -33,7 +33,7 @@ _Context: Britain, Iraq, Royal Air Force_
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
 _Context: China, Hong Kong, acid, acid attack, acid attack_
 
-### [ Thousands of demonstrators protest unemployment in Berlin, Germany.  ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
+### [ Thousands of demonstrators protest unemployment in Berlin, Germany. ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
 Thousands of German workers marched through Berlin today to demand the government do more to protect jobs, highlighting popular&hellip;
 
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)

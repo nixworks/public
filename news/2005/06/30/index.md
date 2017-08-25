@@ -36,7 +36,7 @@ _Context: Arthur Yap, Philippines, tax evasion_
 ### [ In India, Gautam Goswami, main suspect of a massive flood relief scam connected to 2005 Indian Ocean earthquake, gives himself up after several weeks and is remanded to judicial custody. He is also under another investigation of misusing public funds meant for social programs.](/news/2005/06/30/in-india-gautam-goswami-main-suspect-of-a-massive-flood-relief-scam-connected-to-2005-indian-ocean-earthquake-gives-himself-up-after-sev.md)
 _Context: 2005 Indian Ocean earthquake, Gautam Goswami, judicial custody_
 
-### [ ''Time'' says that it will hand over records in compliance with a court order in the investigation of the leak of a covert CIA operative's name. This decision in the matter of Valerie Plame could avoid jail time for one of its reporters, Matthew Cooper.](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-compliance-with-a-court-order-in-the-investigation-of-the-leak-of-a-covert-cia-operative-s.md)
+### [ "Time" says that it will hand over records in compliance with a court order in the investigation of the leak of a covert CIA operative's name. This decision in the matter of Valerie Plame could avoid jail time for one of its reporters, Matthew Cooper.](/news/2005/06/30/time-says-that-it-will-hand-over-records-in-compliance-with-a-court-order-in-the-investigation-of-the-leak-of-a-covert-cia-operative-s-na.md)
 _Context: CIA, Matthew Cooper, Time, Valerie Plame_
 
 ### [ The EPA says that a chemical used to make Teflon is "likely" to cause cancer. The compound is used in the creation of cookware and clothing.](/news/2005/06/30/the-epa-says-that-a-chemical-used-to-make-teflon-is-likely-to-cause-cancer-the-compound-is-used-in-the-creation-of-cookware-and-clothing.md)
@@ -57,7 +57,7 @@ _Context: Ayman Ismail, Ayman Nour, Egypt_
 ### [ In the United States President George W. Bush names U.S. Securities and Exchange Commission (SEC) member Cynthia A. Glassman as acting chair, replacing William Donaldson, who announced his retirement early this month, effective today.](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.md)
 _Context: Cynthia A. Glassman, George W. Bush, SEC, William Donaldson_
 
-### [ In Minnesota, the state legislature fails to come to an agreement on the state budget for the 2006-2007 biennium. At midnight, the government shuts down, leading to cries of derision from state residents and both of the state's largest newspapers, the liberal-leaning ''Star Tribune'' and the conservative-leaning ''St. Paul Pioneer Press''.](/news/2005/06/30/in-minnesota-the-state-legislature-fails-to-come-to-an-agreement-on-the-state-budget-for-the-2006-2007-biennium-at-midnight-the-governme.md)
+### [ In Minnesota, the state legislature fails to come to an agreement on the state budget for the 2006-2007 biennium. At midnight, the government shuts down, leading to cries of derision from state residents and both of the state's largest newspapers, the liberal-leaning "Star Tribune" and the conservative-leaning "St. Paul Pioneer Press".](/news/2005/06/30/in-minnesota-the-state-legislature-fails-to-come-to-an-agreement-on-the-state-budget-for-the-2006-2007-biennium-at-midnight-the-governme.md)
 _Context: Minnesota, St. Paul Pioneer Press, Star Tribune, conservative, government shutdown, legislative, liberal_
 
 ## [Previous Day...](/news/2005/06/29/index.md)

@@ -1,9 +1,9 @@
 ## [2013-03-5](/news/2013/03/5/index.md)
 
-### [2013 Lahad Datu standoff:The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-pthe-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the-s.md)
+### [2013 Lahad Datu standoff:. The Malaysian Army launches an attack on an armed Filipino group on the island of Borneo in an effort to end the standoff. ](/news/2013/03/5/2013-lahad-datu-standoff-the-malaysian-army-launches-an-attack-on-an-armed-filipino-group-on-the-island-of-borneo-in-an-effort-to-end-the.md)
 Malaysian soldiers launch an assault on armed members of a Filipino clan in an ongoing conflict that has left at least 27 dead on Borneo island.
 
-### [Nigerian Sharia conflict:Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-pgunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md)
+### [Nigerian Sharia conflict:. Gunmen kill eight people in an attack on a police station and a bank in northeastern Nigeria. ](/news/2013/03/5/nigerian-sharia-conflict-gunmen-kill-eight-people-in-an-attack-on-a-police-station-and-a-bank-in-northeastern-nigeria.md)
 Gunmen killed eight people in an attack on a police station and a bank in north-eastern Nigeria, a witness and a security official said on Tuesday, in an area frequently targeted by Islamist militants.
 
 ### [Chinese Premier Wen Jiabao delivers his final annual address to the National People's Congress. The People's Republic of China sets its economic growth rate for 2013 at 7.5%. ](/news/2013/03/5/chinese-premier-wen-jiabao-delivers-his-final-annual-address-to-the-national-people-s-congress-the-people-s-republic-of-china-sets-its-econ.md)
@@ -21,10 +21,10 @@ _Context: 2013, China, Korean Armistice Agreement, Korean War, North Korea, Unit
 ### [A black American political candidate "was dragged and set on fire" during his murder in the U.S. state of Mississippi, say his family. The corpse of Marco McMillian was found bruised and burned near a levee on the Mississippi River. ](/news/2013/03/5/a-black-american-political-candidate-was-dragged-and-set-on-fire-during-his-murder-in-the-u-s-state-of-mississippi-say-his-family-the-c.md)
 One of the first openly gay political candidates in the southern US state of Mississippi was beaten, dragged and set on fire during his murder, his family has claimed.
 
-### [Eddie Maher, who spent almost 20 years as a fugitive in the United States, is jailed for five years for stealing a security van containing PS1.2m in Suffolk, England. ](/news/2013/03/5/eddie-maher-who-spent-almost-20-years-as-a-fugitive-in-the-united-states-is-jailed-for-five-years-for-stealing-a-security-van-containing-a.md)
+### [Eddie Maher, who spent almost 20 years as a fugitive in the United States, is jailed for five years for stealing a security van containing GBP1.2m in Suffolk, England. ](/news/2013/03/5/eddie-maher-who-spent-almost-20-years-as-a-fugitive-in-the-united-states-is-jailed-for-five-years-for-stealing-a-security-van-containing-a.md)
 A man who spent almost 20 years on the run in the US is jailed for five years for stealing a security van containing £1.2m in Suffolk.
 
-### [Death of Hugo Chavez:Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-phugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md)
+### [Death of Hugo Chavez:. Hugo Chavez, the President of Venezuela, dies in office at the age of 58 in the capital, Caracas. ](/news/2013/03/5/death-of-hugo-cha-vez-hugo-cha-vez-the-president-of-venezuela-dies-in-office-at-the-age-of-58-in-the-capital-caracas.md)
 Outspoken and divisive president dies after two-year battle with cancer, leaving future of oil-rich nation in question.
 
 ### [Kenyan general election, 2013: Early returns show that Uhuru Kenyatta has taken a lead in the presidential election. ](/news/2013/03/5/kenyan-general-election-2013-early-returns-show-that-uhuru-kenyatta-has-taken-a-lead-in-the-presidential-election.md)

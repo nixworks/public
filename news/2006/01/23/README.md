@@ -6,7 +6,7 @@ _Context: Brazil, Celso Amorim, Embraer, United States and Venezuela, Venezuela_
 ### [ In the Canadian federal election, the Conservatives win a plurality of seats in the House of Commons to form a minority government. Stephen Harper is to become the next Prime Minister. ](/news/2006/01/23/in-the-canadian-federal-election-the-conservatives-win-a-plurality-of-seats-in-the-house-of-commons-to-form-a-minority-government-stephen.md)
 _Context: Canadian House of Commons, Canadian Prime Minister, Canadian federal election, 2006, Conservative Party's, Stephen Harper, minority government, plurality_
 
-### [ An archeological expedition from Johns Hopkins University uncovers a statue of Queen Tiye, wife of Pharaoh Amenhotep&nbsp;III and mother of Akhenaten, at the temple complex at Karnak.  ](/news/2006/01/23/an-archeological-expedition-from-johns-hopkins-university-uncovers-a-statue-of-queen-tiye-wife-of-pharaoh-amenhotep-nbsp-iii-and-mother-of.md)
+### [ An archeological expedition from Johns Hopkins University uncovers a statue of Queen Tiye, wife of Pharaoh Amenhotep&nbsp;III and mother of Akhenaten, at the temple complex at Karnak. ](/news/2006/01/23/an-archeological-expedition-from-johns-hopkins-university-uncovers-a-statue-of-queen-tiye-wife-of-pharaoh-amenhotep-nbsp-iii-and-mother-of.md)
 _Context: Akhenaten, Amenhotep&nbsp;III, Johns Hopkins University, Karnak, Pharaoh, Tiye, archaeological_
 
 ### [ Kuwait emir Sheikh Saad Al-Abdullah Al-Salim Al-Sabah has agreed to abdicate his position. ](/news/2006/01/23/kuwait-emir-sheikh-saad-al-abdullah-al-salim-al-sabah-has-agreed-to-abdicate-his-position.md)

@@ -1,9 +1,9 @@
 ## [2013-05-15](/news/2013/05/15/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-pgunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelv.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md)
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), alcoholic beverage, stores_
 
-### [Syrian civil war:Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-prebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
+### [Syrian civil war:. Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
 Syrian rebel fighters launch an attack on Aleppo prison, and government forces respond with air raids and tank shells, reports say.
 
 ### [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md)
@@ -12,10 +12,10 @@ _Context: Beni, Democratic Republic of the Congo, FARDC, Mai Mai_
 ### [American graphic designer Richard Swanson dies after being struck by a pickup truck in Oregon while attempting to dribble a soccer ball all the way to Brazil to raise money for charity. ](/news/2013/05/15/american-graphic-designer-richard-swanson-dies-after-being-struck-by-a-pickup-truck-in-oregon-while-attempting-to-dribble-a-soccer-ball-all.md)
 Tributes are appearing online for Richard Swanson, the Seattle man whose plan to dribble a soccer ball all the way to Brazil to raise money for charity ended Tuesday after he was struck and killed by a pickup truck in Oregon.
 
-### [The 2013 Cannes Film Festival opens with a showing of ''The Great Gatsby''. ](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.md)
+### [The 2013 Cannes Film Festival opens with a showing of "The Great Gatsby". ](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.md)
 _Context: 2013 Cannes Film Festival, The Great Gatsby_
 
-### [Plans for a PS200m fifteen year expansion of Britain's Pinewood Studios are turned down by the local authority that oversees the area where the studios are situated. ](/news/2013/05/15/plans-for-a-aps200m-fifteen-year-expansion-of-britain-s-pinewood-studios-are-turned-down-by-the-local-authority-that-oversees-the-area-where.md)
+### [Plans for a GBP200m fifteen year expansion of Britain's Pinewood Studios are turned down by the local authority that oversees the area where the studios are situated. ](/news/2013/05/15/plans-for-a-agbp200m-fifteen-year-expansion-of-britain-s-pinewood-studios-are-turned-down-by-the-local-authority-that-oversees-the-area-wher.md)
 Plans for the £200m expansion of film company Pinewood Studios, seen as vital for the British movie industry, are turned down.
 
 ### [A man who found what he believes to be the secret recipe for Coca-Cola at an estate sale sells the instructions on eBay for $15 million. ](/news/2013/05/15/a-man-who-found-what-he-believes-to-be-the-secret-recipe-for-coca-cola-at-an-estate-sale-sells-the-instructions-on-ebay-for-15-million.md)
@@ -51,7 +51,7 @@ WASHINGTON &ndash; President Obama announced the resignation Wednesday evening o
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
 _Context: Britain, European Union, House of Commons, Queen's Speech_
 
-### [In a study published in ''Nature'', University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md)
+### [In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md)
 Breakthrough sets up showdown with induced adult lines.
 
 ### [NASA's Kepler telescope suffers a critical hardware failure, possibly putting an end to its planet hunting mission. ](/news/2013/05/15/nasa-s-kepler-telescope-suffers-a-critical-hardware-failure-possibly-putting-an-end-to-its-planet-hunting-mission.md)
@@ -63,7 +63,7 @@ Newfound species discovered point to a specific period in which monkeys and apes
 ### [New evidence suggests that Mount Everest's glaciers are melting. ](/news/2013/05/15/new-evidence-suggests-that-mount-everest-s-glaciers-are-melting.md)
 _Context: Mount Everest_
 
-### [Scientists release pictures of what they believe the lost city of la Ciudad Blanca in  La Mosquitia, Honduras.](/news/2013/05/15/scientists-release-pictures-of-what-they-believe-the-lost-city-of-la-ciudad-blanca-in-la-mosquitia-honduras.md)
+### [Scientists release pictures of what they believe the lost city of la Ciudad Blanca in La Mosquitia, Honduras.](/news/2013/05/15/scientists-release-pictures-of-what-they-believe-the-lost-city-of-la-ciudad-blanca-in-la-mosquitia-honduras.md)
 A high-tech team of scientists and filmmakers shared pictures of what appears to have been a centuries-old civilization in Honduras, one year after they used laser-mapping technology to identify traces of structures in the thick jungle. The square-shaped
 
 ### [A new study finds that the white blood cell levels in men decrease faster during aging than in women, possibly providing one clue as to why women have longer average lifespans. ](/news/2013/05/15/a-new-study-finds-that-the-white-blood-cell-levels-in-men-decrease-faster-during-aging-than-in-women-possibly-providing-one-clue-as-to-why.md)

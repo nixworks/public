@@ -1,6 +1,6 @@
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-#  South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997  
+#  South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 
 
 
 

@@ -3,7 +3,7 @@
 ### [The corpse of senior Rwandan opposition politician Andre Kagwa Rwisereka, who was recently reported missing, is found near his car with the head almost entirely severed off. ](/news/2010/07/14/the-corpse-of-senior-rwandan-opposition-politician-andre-kagwa-rwisereka-who-was-recently-reported-missing-is-found-near-his-car-with-the.md)
 The body of senior Rwandan opposition activist Andre Kagwa Rwisereka is found after he had been reported missing.
 
-### [Israeli warships force the Gaza-bound aid ship ''Amalthea'' to change course to El Arish port in Egypt. ](/news/2010/07/14/israeli-warships-force-the-gaza-bound-aid-ship-amalthea-to-change-course-to-el-arish-port-in-egypt.md)
+### [Israeli warships force the Gaza-bound aid ship "Amalthea" to change course to El Arish port in Egypt. ](/news/2010/07/14/israeli-warships-force-the-gaza-bound-aid-ship-amalthea-to-change-course-to-el-arish-port-in-egypt.md)
 Israeli warships force Libyan-sponsored Amalthea to change course to El Arish port.
 
 ### [More than 60 people are hospitalised after a suspected chlorine gas leak in Mumbai. ](/news/2010/07/14/more-than-60-people-are-hospitalised-after-a-suspected-chlorine-gas-leak-in-mumbai.md)

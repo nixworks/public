@@ -18,10 +18,10 @@ _Context: Human Rights Watch, Kenya, a crackdown_
 ### [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md)
 _Context: England, Grand Pier, Somerset, Weston-super-Mare_
 
-### [ The hole in Qantas Flight 30, a Boeing 747 that made an emergency landing on July 25, is believed to have been caused by the explosion of an oxygen tank.  Terrorism is not suspected. ](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.md)
+### [ The hole in Qantas Flight 30, a Boeing 747 that made an emergency landing on July 25, is believed to have been caused by the explosion of an oxygen tank. Terrorism is not suspected. ](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.md)
 _Context: Boeing 747, July 25, Qantas Flight 30, oxygen_
 
-### [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff.  No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-i.md)
+### [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff. No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-is.md)
 _Context: 737, Adelaide, undercarriage_
 
 ### [ Navanethem Pillay is appointed to succeed Louise Arbour as the United Nations High Commissioner for Human Rights. ](/news/2008/07/28/navanethem-pillay-is-appointed-to-succeed-louise-arbour-as-the-united-nations-high-commissioner-for-human-rights.md)

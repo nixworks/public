@@ -30,6 +30,6 @@ _Context: Flying Imams controversy, Newt Gingrich, Speaker of the United States 
 ### [ Alex Ovechkin of the Washington Capitals scores the fastest overtime goal in the history of the NHL in 6 seconds against the Atlanta Thrashers.](/news/2006/12/15/alex-ovechkin-of-the-washington-capitals-scores-the-fastest-overtime-goal-in-the-history-of-the-nhl-in-6-seconds-against-the-atlanta-thrash.md)
 _Context: Alex Ovechkin, Atlanta Thrashers, NHL, Washington Capitals_
 
-### [ The Financial Report of the United States Government for 2006  was released late Friday evening. The combined federal deficits now total more than 400% of GDP. [http://fms.treas.gov/fr/06frusg/06frusg.pdf]](/news/2006/12/15/the-financial-report-of-the-united-states-government-for-2006-was-released-late-friday-evening-the-combined-federal-deficits-now-total-mo.md)
+### [ The Financial Report of the United States Government for 2006 was released late Friday evening. The combined federal deficits now total more than 400% of GDP. [http://fms.treas.gov/fr/06frusg/06frusg.pdf]](/news/2006/12/15/the-financial-report-of-the-united-states-government-for-2006-was-released-late-friday-evening-the-combined-federal-deficits-now-total-mor.md)
 ## [Previous Day...](/news/2006/12/14/index.md)
 

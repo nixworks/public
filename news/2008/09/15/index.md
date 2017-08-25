@@ -3,7 +3,7 @@
 ### [ The government of Samoa recognizes the independence of Kosovo. ](/news/2008/09/15/the-government-of-samoa-recognizes-the-independence-of-kosovo.md)
 _Context: Kosovo, Samoa, officially recognizes_
 
-### [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at ''El Grito'' Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations.md)
+### [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at "El Grito" Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations-in.md)
 _Context: El Grito, Independence Day, Michoacan, Morelia, Morelia Bomb Attacks, main square, terrorist attack_
 
 ### [ Hewlett-Packard announces plans to cut 24,600 jobs. ](/news/2008/09/15/hewlett-packard-announces-plans-to-cut-24-600-jobs.md)
@@ -12,7 +12,7 @@ Hewlett-Packard Co plans to cut 7.5 percent of its work force, or 24,600 jobs, s
 ### [ Shots are fired into the air in a confrontation between US and Pakistani forces; US forces retreat; Pakistan denies involvement of their forces. ](/news/2008/09/15/shots-are-fired-into-the-air-in-a-confrontation-between-us-and-pakistani-forces-us-forces-retreat-pakistan-denies-involvement-of-their-fo.md)
 _Context: US and Pakistan_
 
-### [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. ](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support.md)
+### [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. [http://www.usatoday.com/news/world/2008-09-15-georgia-nato_N.htm?csp=34 (AP via "USA Today)"]](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support-http-www-usatoday-com-news-world-2008-09-15-g.md)
 _Context: Georgian, Jaap de Hoop Scheffer, Secretary General of NATO_
 
 ### [ Richard Wright, a founding member of the English rock group Pink Floyd, dies at the age of 65 after a long battle with cancer. ](/news/2008/09/15/richard-wright-a-founding-member-of-the-english-rock-group-pink-floyd-dies-at-the-age-of-65-after-a-long-battle-with-cancer.md)

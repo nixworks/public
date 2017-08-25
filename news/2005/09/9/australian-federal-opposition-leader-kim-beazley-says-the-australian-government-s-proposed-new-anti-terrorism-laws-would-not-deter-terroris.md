@@ -1,6 +1,6 @@
 ### [2005-09-9](/news/2005/09/9/index.md)
 
-#  Australian Federal Opposition Leader Kim Beazley says the Australian Government's proposed new anti-terrorism laws would not deter terrorism.  Others say the laws would radicalise young Muslims and   civil liberty groups say the laws would make Australian society more dangerous.
+#  Australian Federal Opposition Leader Kim Beazley says the Australian Government's proposed new anti-terrorism laws would not deter terrorism. Others say the laws would radicalise young Muslims and civil liberty groups say the laws would make Australian society more dangerous.
 
 
 

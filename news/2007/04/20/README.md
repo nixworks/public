@@ -18,7 +18,7 @@ _Context: India, Iran, United States_
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: U.S. state, Virginia, day of mourning, massacre_
 
-### [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md)
+### [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-march-april-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md)
 _Context: Ethiopia, Mogadishu, heavy clashes_
 
 ### [ Scientists prove that eating less salt reduces the chances of stroke or heart attack in the first long-term study on salt's effect on health. ](/news/2007/04/20/scientists-prove-that-eating-less-salt-reduces-the-chances-of-stroke-or-heart-attack-in-the-first-long-term-study-on-salt-s-effect-on-healt.md)
@@ -27,7 +27,7 @@ _Context: heart attack, salt, stroke_
 ### [ A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. ](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.md)
 _Context: Japan, Okinawa, earthquake, island, magnitude, tsunami_
 
-### [ The 2007 pet food recalls:  A new study of pigs at a hog farm in California points to the possibility that melamine has entered the human food supply.  ](/news/2007/04/20/the-2007-pet-food-recalls-a-new-study-of-pigs-at-a-hog-farm-in-california-points-to-the-possibility-that-melamine-has-entered-the-human-f.md)
+### [ The 2007 pet food recalls: A new study of pigs at a hog farm in California points to the possibility that melamine has entered the human food supply. ](/news/2007/04/20/the-2007-pet-food-recalls-a-new-study-of-pigs-at-a-hog-farm-in-california-points-to-the-possibility-that-melamine-has-entered-the-human-fo.md)
 _Context: 2007 pet food recalls, California, melamine, pig_
 
 ### [ Johnson Space Center Shooting: A NASA spokesperson says that one of the buildings at the Johnson Space Center in Houston, Texas has been evacuated after an employee opens fire. The gunman killed a male hostage as well as himself. ](/news/2007/04/20/johnson-space-center-shooting-a-nasa-spokesperson-says-that-one-of-the-buildings-at-the-johnson-space-center-in-houston-texas-has-been-ev.md)

@@ -3,7 +3,7 @@
 ### [Three Tunisian security officers are killed in a clash with gunmen in the north of the country. ](/news/2011/05/18/three-tunisian-security-officers-are-killed-in-a-clash-with-gunmen-in-the-north-of-the-country.md)
 _Context: Tunisia_
 
-### [2011 Libyan civil war:Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gro.md)
+### [2011 Libyan civil war:. Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md)
 Government forces seek to capture high ground as UN official calls for pause in fighting to facilitate humanitarian aid.
 
 ### [Militants attack a checkpoint near the city of Peshawar in northwest Pakistan, resulting in the deaths of two police officers and 15 insurgents. ](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.md)
@@ -36,7 +36,7 @@ The US Coast Guard re-opens a section of the swollen Mississippi River to shippi
 ### [A tornado hits the US city of Philadelphia, Pennsylvania for the first time since 1999. ](/news/2011/05/18/a-tornado-hits-the-us-city-of-philadelphia-pennsylvania-for-the-first-time-since-1999.md)
 _Context: Pennsylvania, Philadelphia, tornado_
 
-### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause.  ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
+### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause. ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
 _Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol Lneas Areas_
 
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)
@@ -69,7 +69,7 @@ South Africans go to the polls to vote in local elections after one of the most 
 ### [Voters in the US city of San Francisco, California, will vote on a proposition to ban male circumcision in November. ](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.md)
 _Context: California, San Francisco, California, male circumcision_
 
-### [The Space Shuttle ''Endeavour'' docks at the International Space Station for the final time. ](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.md)
+### [The Space Shuttle "Endeavour" docks at the International Space Station for the final time. ](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.md)
 _Context: International Space Station, Space Shuttle ''Endeavour'', final mission_
 
 ## [Previous Day...](/news/2011/05/17/index.md)

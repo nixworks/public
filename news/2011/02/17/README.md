@@ -1,15 +1,15 @@
 ## [2011-02-17](/news/2011/02/17/index.md)
 
-### [2011 Bahraini protests:Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-pbahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bato.md)
+### [2011 Bahraini protests:. Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bat.md)
 Bahrain protesters claim several among their ranks were killed during a violent government crackdown. Amid the violence, ABC News correspondent Miguel Marquez joined the list of journalists to be attacked during demonstration spreading through the region.
 
-### [Libyan Civil War:14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-p14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdown.md)
+### [Libyan Civil War:. 14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdow.md)
 Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal security forces arrest at least 14 demonstrators.
 
-### [2010-2011 Algerian protests:Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/2010a2011-algerian-protests-peighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-preside.md)
+### [2010-2011 Algerian protests:. Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/2010-2011-algerian-protests-eighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-presid.md)
 _Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
 
-### [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
+### [2011 Yemeni protests:. Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
 _Context: 2011 Yemeni protests, Sanaa, Yemen_
 
 ### [Two people are killed and 47 injured in a protest in the northern Iraqi city of Sulaimaniya. ](/news/2011/02/17/two-people-are-killed-and-47-injured-in-a-protest-in-the-northern-iraqi-city-of-sulaimaniya.md)
@@ -24,7 +24,7 @@ Forces join 800 current troops, will help guard natural gas pipeline to Israel a
 ### [Aretha Franklin announces a return to the stage. ](/news/2011/02/17/aretha-franklin-announces-a-return-to-the-stage.md)
 Singer Aretha Franklin announces she is to return to the stage in May, months after being admitted to hospital for an undisclosed illness.
 
-### [A rare red and white 6ft by 6ft Andy Warhol self-portrait sells for PS10.79 million at auction at Christie's in London. ](/news/2011/02/17/a-rare-red-and-white-6ft-by-6ft-andy-warhol-self-portrait-sells-for-aps10-79-million-at-auction-at-christie-s-in-london.md)
+### [A rare red and white 6ft by 6ft Andy Warhol self-portrait sells for GBP10.79 million at auction at Christie's in London. ](/news/2011/02/17/a-rare-red-and-white-6ft-by-6ft-andy-warhol-self-portrait-sells-for-agbp10-79-million-at-auction-at-christie-s-in-london.md)
 _Context: Andy Warhol, Christie's, London_
 
 ### [The private equity owners of Australian book sellers Angus & Robertson, the New Zealand news agency chain Whitcoulls and the Australasian franchise of Borders goes into voluntary administration. ](/news/2011/02/17/the-private-equity-owners-of-australian-book-sellers-angus-robertson-the-new-zealand-news-agency-chain-whitcoulls-and-the-australasian-fr.md)
@@ -40,13 +40,13 @@ There are now conflicting reports about whether an Australian tourist is among a
 A series of blasts at a military ammunition depot kills at least 20 people in Tanzanian capital Dar es Salaam.
 
 ### [The inquiry into the Deepwater Horizon oil spill in the Gulf of Mexico is released finding that the accident was entirely preventable. ](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.md)
-_Context: Deepwater Horizon oil spill, Gulf_
+_Context: Deepwater Horizon oil spill, Gulf of Mexico_
 
 ### [Palestinian National Authority President Mahmoud Abbas says that general elections in September would be canceled if Hamas refused to allow voting in the Gaza Strip. ](/news/2011/02/17/palestinian-national-authority-president-mahmoud-abbas-says-that-general-elections-in-september-would-be-canceled-if-hamas-refused-to-allow.md)
 PA president declares that elections must include West Bank and the Hamas-controlled Gaza Strip.
 
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)
-_Context: Burma, Indonesia, Rohingya refugees_
+_Context: Burma, Indonesia, Rohingya_
 
 ### [Riyad Mansour, the Palestinian United Nations observer, announces that the United Nations Security Council is to vote tomorrow on a resolution critical of Israeli settlement building in the West Bank and East Jerusalem. ](/news/2011/02/17/riyad-mansour-the-palestinian-united-nations-observer-announces-that-the-united-nations-security-council-is-to-vote-tomorrow-on-a-resoluti.md)
 _Context: East Jerusalem, Riyad Mansour, United Nations, United Nations Security Council, West Bank_
@@ -78,10 +78,10 @@ _Context: Ahmed Maghrabi, Egypt, Habib Ibrahim El Adly, National Democratic Part
 ### [Anthony Graves, an American man found innocent of the murders which left him on death row for 18 years, is denied restitution due to a technicality. ](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.md)
 FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports
 
-### [Wisconsin:Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit  collective bargaining for state employees. ](/news/2011/02/17/wisconsin-pschools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md)
+### [Wisconsin:. Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md)
 With the state Senate at an impasse over his temporary budget fix, and tens of thousands of protesters clogging the Capitol day after day, Gov. Scott Walker has pushed back
 
-### [Tunisia:French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-pfrench-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md)
+### [Tunisia:. French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md)
 Former Tunisian President Zine el-Abidine Ben Ali suffered a stroke and was in a coma in a Saudi Arabian hospital, a French online journalist reported.
 
 ### [Buckingham Palace confirms that the President of the United States Barack Obama will make a state visit to the United Kingdom in May. ](/news/2011/02/17/buckingham-palace-confirms-that-the-president-of-the-united-states-barack-obama-will-make-a-state-visit-to-the-united-kingdom-in-may.md)

@@ -1,6 +1,6 @@
 ### [2009-07-4](/news/2009/07/4/index.md)
 
-#  The Iranian state-owned newspaper ''Kayhan'' calls for Mir-Hossein Mousavi to stand trial. 
+#  The Iranian state-owned newspaper "Kayhan" calls for Mir-Hossein Mousavi to stand trial. 
 
 
 
@@ -16,8 +16,8 @@
 3. [ A senior General from the Iranian Revolutionary Guard calls for opposition leaders Mohammad Khatami, Mir Hossein Mousavi and Mehdi Karroubi to stand trial. ](/news/2009/08/9/a-senior-general-from-the-iranian-revolutionary-guard-calls-for-opposition-leaders-mohammad-khatami-mir-hossein-mousavi-and-mehdi-karroubi.md) _Context: Iran, Mir-Hossein Mousavi_
 4. [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md) _Context: Iran, Mir-Hossein Mousavi_
 5. [ Iranian police clash with mourners at a Tehranian cemetery for a memorial to those killed in post-election violence, using teargas to disperse crowds from the grave of Neda Agha-Soltan and forcing Opposition leader Mir-Hossein Mousavi to make his exit. ](/news/2009/07/30/iranian-police-clash-with-mourners-at-a-tehranian-cemetery-for-a-memorial-to-those-killed-in-post-election-violence-using-teargas-to-dispe.md) _Context: Iran, Mir-Hossein Mousavi_
-6. [  Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md) _Context: Iran, Mir-Hossein Mousavi_
+6. [ Iran. Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/iran-presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md) _Context: Iran, Mir-Hossein Mousavi_
 7. [ Mahmoud Ahmadinejad is reelected as the President of Iran, although opposition leader Mir-Hossein Mousavi demands a recount. ](/news/2009/06/13/mahmoud-ahmadinejad-is-reelected-as-the-president-of-iran-although-opposition-leader-mir-hossein-mousavi-demands-a-recount.md) _Context: Iran, Mir-Hossein Mousavi_
-8. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
-9. [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md) _Context: Iran_
-10. [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran_
+8. [Iran-Qatar relations. Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/iran-qatar-relations-qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
+9. [Syrian Civil War. ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/syrian-civil-war-isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syri.md) _Context: Iran_
+10. [Iran-United States relations. The United States Navy says the USS "Thunderbolt" fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/iran-united-states-relations-the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-ca.md) _Context: Iran_

@@ -1,13 +1,13 @@
 ## [2012-06-26](/news/2012/06/26/index.md)
 
-### [Arab Spring:Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-pbahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the.md)
+### [Arab Spring:. Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md)
 Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 17 relatives last year during an uprising suppressed by the Gulf Arab state, a government statement said.
 
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
 _Context: Apaxtla, Guerrero, Institutional Revolutionary Party, List of politicians killed in the Mexican Drug War, Mexican Drug War_
 
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Buddhist, Burma, Rohingya refugees_
+_Context: Buddhist, Burma, Rohingya_
 
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
 A bomb exploded outside the Tunisian consulate in Tripoli on Tuesday, causing damage but no injuries, a Libyan security official said, the latest in a rash of attacks on foreign targets in the North African state.
@@ -21,10 +21,10 @@ _Context: Khartoum, Sudan_
 ### [Pulitzer Prize-winning novelist Richard Russo boycotts e-books in a bid to encourage people to buy from their local bookstores. ](/news/2012/06/26/pulitzer-prize-winning-novelist-richard-russo-boycotts-e-books-in-a-bid-to-encourage-people-to-buy-from-their-local-bookstores.md)
 Pulitzer Prize-winning novelist Richard Russo says his new work is a &quot;tribute to the printed book&quot; and will not be sold online.
 
-### [The five members of the Spice Girls reunite to launch ''Viva Forever!'', a new West End musical based on their hit songs. ](/news/2012/06/26/the-five-members-of-the-spice-girls-reunite-to-launch-viva-forever-a-new-west-end-musical-based-on-their-hit-songs.md)
+### [The five members of the Spice Girls reunite to launch "Viva Forever!", a new West End musical based on their hit songs. ](/news/2012/06/26/the-five-members-of-the-spice-girls-reunite-to-launch-viva-forever-a-new-west-end-musical-based-on-their-hit-songs.md)
 The five members of the Spice Girls reunite to launch Viva Forever!, a new West End musical based on their hit songs.
 
-### [''The Stressful Life of Salman Rushdie and Implementation of his Verdict'', an in-development video game designed to introduce the younger generations to ''The Satanic Verses'' controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-g.md)
+### ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md)
 _Context: ''The Satanic Verses'' controversy, Salman Rushdie, Tehran_
 
 ### [The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. ](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.md)
@@ -36,7 +36,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 ### [Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. ](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.md)
 _Context: Bhutan, Wangdue Phodrang Dzong, monastery_
 
-### [2012 Atlantic hurricane season:Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-ptropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inter.md)
+### [2012 Atlantic hurricane season:. Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inte.md)
 The National Hurricane Center says Debby has weakened to a tropical depression as it continues to move across Florida.
 
 ### [Rescue efforts restart at Algo Centre Mall, after the Premier of Ontario, Dalton McGuinty, orders them resumed. Canadian Prime Minister Stephen Harper asks the Canadian Forces to ready for deployment, if they should be needed. ](/news/2012/06/26/rescue-efforts-restart-at-algo-centre-mall-after-the-premier-of-ontario-dalton-mcguinty-orders-them-resumed-canadian-prime-minister-step.md)
@@ -57,7 +57,7 @@ Colombia’s vice president has awoken from his induced coma is recovering well 
 ### [Social network Facebook perturbs some of its users by making its @facebook.com email system the default contact shown on profiles without asking for permission. ](/news/2012/06/26/social-network-facebook-perturbs-some-of-its-users-by-making-its-facebook-com-email-system-the-default-contact-shown-on-profiles-without-as.md)
 _Context: Facebook, Inc._
 
-### [Zynga unveils ''FarmVille 2''. ](/news/2012/06/26/zynga-unveils-farmville-2.md)
+### [Zynga unveils "FarmVille 2". ](/news/2012/06/26/zynga-unveils-farmville-2.md)
 Video game developer Zynga unveils a sequel to its most popular and highest earning title.
 
 ## [Previous Day...](/news/2012/06/25/index.md)

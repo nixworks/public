@@ -1,6 +1,6 @@
 ### [2010-12-16](/news/2010/12/16/index.md)
 
-# Riots in Sidi Bouzid, Tunisia.     
+# Riots in Sidi Bouzid, Tunisia. 
 
 Images posted on social-network sites show police intervening to halt disturbances ignored by national media.
 

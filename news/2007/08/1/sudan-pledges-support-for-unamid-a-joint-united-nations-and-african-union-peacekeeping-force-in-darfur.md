@@ -1,6 +1,6 @@
 ### [2007-08-1](/news/2007/08/1/index.md)
 
-#  Sudan pledges support for UNAMID, a joint United Nations and African  Union peacekeeping force in Darfur. 
+#  Sudan pledges support for UNAMID, a joint United Nations and African Union peacekeeping force in Darfur. 
 
 
 

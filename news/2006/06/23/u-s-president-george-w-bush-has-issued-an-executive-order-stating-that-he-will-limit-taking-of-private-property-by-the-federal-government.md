@@ -1,6 +1,6 @@
 ### [2006-06-23](/news/2006/06/23/index.md)
 
-#  U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..."  
+#  U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..." 
 
 
 
@@ -20,4 +20,4 @@
 7. [ United States President George W. Bush meets with French President Nicolas Sarkozy and European Commission President Jos Manuel Barroso to discuss a proposal for a summit of world leaders to discuss the current economic crisis. ](/news/2008/10/18/united-states-president-george-w-bush-meets-with-french-president-nicolas-sarkozy-and-european-commission-president-jose-manuel-barroso-to.md) _Context: George W. Bush, United States, president_
 8. [ United States President George W. Bush announces new measures to attack the current economic crisis including plans for the U.S. government to buy stakes in major banks. ](/news/2008/10/14/united-states-president-george-w-bush-announces-new-measures-to-attack-the-current-economic-crisis-including-plans-for-the-u-s-government.md) _Context: George W. Bush, United States, president_
 9. [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md) _Context: George W. Bush, United States, president_
-10. [  President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md) _Context: George W. Bush, United States, president_
+10. [ Subprime mortgage crisis. President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/subprime-mortgage-crisis-president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis.md) _Context: George W. Bush, United States, president_

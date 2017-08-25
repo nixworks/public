@@ -1,6 +1,6 @@
 ### [2008-07-7](/news/2008/07/7/index.md)
 
-#  The Church of England's governing body votes to allow female bishops.  
+#  The Church of England's governing body votes to allow female bishops. 
 
 
 

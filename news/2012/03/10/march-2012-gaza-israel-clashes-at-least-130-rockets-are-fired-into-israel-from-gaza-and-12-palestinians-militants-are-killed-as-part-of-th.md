@@ -1,6 +1,6 @@
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-# March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region.  
+# March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region. 
 
 Iron Dome intercepts 27 out of 30 rockets fired at Beersheba, Ashdod, Ashkelon; IAF kills 15 Islamic Jihad operatives in Gaza strikes. Gantz: IDF to respond with determination to any attack
 

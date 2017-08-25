@@ -3,7 +3,7 @@
 ### [ Discovery is announced of the Kerguelen Plateau, an Antarctic sunken large island formerly joined to India, from the icebreaker Polarstern at its homeport of Bremerhaven, Germany, after a 19-month research voyage to Antarctica. ](/news/2007/05/7/discovery-is-announced-of-the-kerguelen-plateau-an-antarctic-sunken-large-island-formerly-joined-to-india-from-the-icebreaker-polarstern.md)
 A mini-continent that was formerly joined to India has been discovered deep under the southern oceans.
 
-### [ Kenya Airways Flight 507: Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-p-search-officials-confirm-that-there-were-no-survivors.md)
+### [ Kenya Airways Flight 507:. Search officials confirm that there were no survivors. ](/news/2007/05/7/kenya-airways-flight-507-search-officials-confirm-that-there-were-no-survivors.md)
 _Context: Flight 507_
 
 ### [ NASA announces that the Chandra X-ray Observatory and ground-based telescopes have discovered a massive supernova designated SN 2006gy, the largest ever recorded, and possibly a new type that has been predicted but never observed. ](/news/2007/05/7/nasa-announces-that-the-chandra-x-ray-observatory-and-ground-based-telescopes-have-discovered-a-massive-supernova-designated-sn-2006gy-the.md)

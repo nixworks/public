@@ -6,10 +6,10 @@ _Context: North Waziristan, United States, drones launch_
 ### [The Iranian navy assists an American cargo ship that was attacked by pirates off the United Arab Emirates. ](/news/2012/05/23/the-iranian-navy-assists-an-american-cargo-ship-that-was-attacked-by-pirates-off-the-united-arab-emirates.md)
 _Context: Iranian Naval, United Arab Emirates, United States_
 
-### [Georgia-native Phillip Phillips is crowned the eleventh ''American Idol''. Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancest.md)
+### [Georgia-native Phillip Phillips is crowned the eleventh "American Idol". Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancestry.md)
 _Context: American Idol, Georgia, Jessica Sanchez, Phillip Phillips, eleventh_
 
-### [Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album ''Trespassing''. ](/news/2012/05/23/adam-lambert-became-the-first-openly-gay-artist-to-debuted-at-1-on-the-billboard-200-album-charts-with-his-album-trespassing.md)
+### [Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album "Trespassing". ](/news/2012/05/23/adam-lambert-became-the-first-openly-gay-artist-to-debuted-at-1-on-the-billboard-200-album-charts-with-his-album-trespassing.md)
 _Context: Adam Lambert, Billboard 200, Trespassing, openly gay_
 
 ### [The price of crude oil falls to a seven-month low due to high supply and constructive talks regarding Iran's nuclear program. ](/news/2012/05/23/the-price-of-crude-oil-falls-to-a-seven-month-low-due-to-high-supply-and-constructive-talks-regarding-iran-s-nuclear-program.md)

@@ -12,7 +12,7 @@ _Context: Britain, Old Bailey, Richard Reid, Saajid Badat, United States of Amer
 ### [ Following week-long public protests (in the wake of Rafik Hariri's assassination) and a no confidence vote, the entire government of Lebanon resigns. ](/news/2005/02/28/following-week-long-public-protests-in-the-wake-of-rafik-hariri-s-assassination-and-a-no-confidence-vote-the-entire-government-of-lebano.md)
 The president of Lebanon reappointed Omar Karami as the country&#39;s prime minister on Thursday, 10 days after the staunchly pro-Syrian Karami stepped down amid street protests and international pressure.
 
-### [ Israeli-Palestinian conflict: Israeli security forces intercept a car bomb in the Araba village near Jenin.  The 200 kg explosive device, believed to have been the work of Palestinian Islamic Jihad, is later defused by IDF sappers. ](/news/2005/02/28/israeli-palestinian-conflict-p-israeli-security-forces-intercept-a-car-bomb-in-the-araba-village-near-jenin-the-200-kg-explosive-device.md)
+### [ Israeli-Palestinian conflict:. Israeli security forces intercept a car bomb in the Araba village near Jenin. The 200 kg explosive device, believed to have been the work of Palestinian Islamic Jihad, is later defused by IDF sappers. ](/news/2005/02/28/israeli-palestinian-conflict-israeli-security-forces-intercept-a-car-bomb-in-the-araba-village-near-jenin-the-200-kg-explosive-device-b.md)
 _Context: Israeli security guard, Israeli-Palestinian conflict, Jenin, Palestinian Islamic Jihad, car bomb, explosive, sapping_
 
 ### [ A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.md)
@@ -33,7 +33,7 @@ _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, Cannes, Djamilia M'Ba
 ### [ In Haiti, police shoots at demonstrators who march in support of the former president Jean-Bertrand Aristide. Two deaths and several injuries are reported. Aristide left the country February 29 2004 ](/news/2005/02/28/in-haiti-police-shoots-at-demonstrators-who-march-in-support-of-the-former-president-jean-bertrand-aristide-two-deaths-and-several-injuri.md)
 At least 2 killed during pro-Aristide demonstration in Haiti.
 
-### [ In Ukraine, ''Razom nas bahato'', a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is.md)
+### [ In Ukraine, "Razom nas bahato", a song that was written in support of the Orange Revolution that led Viktor Yushchenko to presidency, is selected as the country's entry in the Eurovision Song Contest. Band Greenjolly will present it. ](/news/2005/02/28/in-ukraine-razom-nas-bahato-a-song-that-was-written-in-support-of-the-orange-revolution-that-led-viktor-yushchenko-to-presidency-is-se.md)
 _Context: Eurovision Song Contest, Greenjolly, Orange Revolution, Razom nas bahato, Ukraine, Viktor Yushchenko_
 
 ### [ Ukraine's government also trims the retirement benefits of the ex-president Leonid Kuchma ](/news/2005/02/28/ukraine-s-government-also-trims-the-retirement-benefits-of-the-ex-president-leonid-kuchma.md)
@@ -51,7 +51,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Bosnian Muslim general Rasim Delic gives himself up for the International War Crimes Tribunal in The Hague, as he had promised earlier ](/news/2005/02/28/bosnian-muslim-general-rasim-delic-gives-himself-up-for-the-international-war-crimes-tribunal-in-the-hague-as-he-had-promised-earlier.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-### [ Two leaders of separatist group the United Liberation Front of Asom (ULFA), spokesman Ruby Bhuyan and demolitions specialist Khagen Kachari,  surrender to Indian police ](/news/2005/02/28/two-leaders-of-separatist-group-the-united-liberation-front-of-asom-ulfa-spokesman-ruby-bhuyan-and-demolitions-specialist-khagen-kachari.md)
+### [ Two leaders of separatist group the United Liberation Front of Asom (ULFA), spokesman Ruby Bhuyan and demolitions specialist Khagen Kachari, surrender to Indian police ](/news/2005/02/28/two-leaders-of-separatist-group-the-united-liberation-front-of-asom-ulfa-spokesman-ruby-bhuyan-and-demolitions-specialist-khagen-kachari.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ In Israel the Israel Defense Forces reports that those who tell recruiters that they play role-playing games are automatically given low security clearance and are sent directly to a professional for an evaluation, usually a psychologist. ](/news/2005/02/28/in-israel-the-israel-defense-forces-reports-that-those-who-tell-recruiters-that-they-play-role-playing-games-are-automatically-given-low-se.md)

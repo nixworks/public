@@ -6,22 +6,22 @@ _Context: Khushali, Mir Ali, drones launch_
 ### [Rwanda withdraws a threat to remove its peacekeepers from Darfur after a United Nations report accused the Rwandan army of genocide in the Democratic Republic of the Congo. ](/news/2010/09/27/rwanda-withdraws-a-threat-to-remove-its-peacekeepers-from-darfur-after-a-united-nations-report-accused-the-rwandan-army-of-genocide-in-the-d.md)
 UN chief Ban Ki-moon thanks Rwanda for dropping its threat to withdraw peacekeepers from Darfur in response to a leaked report accusing its troops of genocide.
 
-### [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest  Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan.md)
+### [Around 70 insurgents are killed when two NATO helicopters strike inside Pakistan in its northwest Khost tribal area bordering Afghanistan. Pakistan strongly condemned the attack, calling it a violation of its airspace. ](/news/2010/09/27/around-70-insurgents-are-killed-when-two-nato-helicopters-strike-inside-pakistan-in-its-northwest-khost-tribal-area-bordering-afghanistan-p.md)
 Nato-led forces have killed more than 50 insurgents on Pakistani soil after a rare manned pursuit across the border from Afghanistan, officials say.
 
 ### [President of Colombia Juan Manuel Santos describes the killing of Mono Jojoy as the "beginning of the end" for the Farc organization. ](/news/2010/09/27/president-of-colombia-juan-manuel-santos-describes-the-killing-of-mono-jojoy-as-the-beginning-of-the-end-for-the-farc-organization.md)
 _Context: Colombian President, Juan Manuel Santos, Mono Jojoy, Revolutionary Armed Forces of Colombia_
 
-### [Afghanistan:Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-pthree-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-in.md)
+### [Afghanistan:. Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-i.md)
 Taliban militants are holding the British woman kidnapped in Afghanistan and want to exchange her for a female Pakistani scientist jailed last week in America, it has been reported.
 
 ### [Three Palestinians said to be members of the Islamic Jihad group are killed in an Israeli air strike on the southern part of the Gaza Strip. ](/news/2010/09/27/three-palestinians-said-to-be-members-of-the-islamic-jihad-group-are-killed-in-an-israeli-air-strike-on-the-southern-part-of-the-gaza-strip.md)
 At least three men are killed in the strike that targeted a car outside a refugee camp, near the Israeli-Gaza border.
 
-### [Gloria Stuart, the oldest-ever nominee for an Academy award, specifically the Academy Award for Best Supporting Actress for her role as the elder Rose in the 1997 film ''Titanic'', dies in Los Angeles, aged 100. ](/news/2010/09/27/gloria-stuart-the-oldest-ever-nominee-for-an-academy-award-specifically-the-academy-award-for-best-supporting-actress-for-her-role-as-the.md)
+### [Gloria Stuart, the oldest-ever nominee for an Academy award, specifically the Academy Award for Best Supporting Actress for her role as the elder Rose in the 1997 film "Titanic", dies in Los Angeles, aged 100. ](/news/2010/09/27/gloria-stuart-the-oldest-ever-nominee-for-an-academy-award-specifically-the-academy-award-for-best-supporting-actress-for-her-role-as-the.md)
 _Context: Academy Award, Academy Award for Best Supporting Actress, Gloria Stuart, Los Angeles, Titanic_
 
-### [Unilever plc, an Anglo-Dutch consumer products giant, has entered into an agreement to buy Alberto-Culver, a manufacturer of hair and skin care products, for $3.7 billion.  ](/news/2010/09/27/unilever-plc-an-anglo-dutch-consumer-products-giant-has-entered-into-an-agreement-to-buy-alberto-culver-a-manufacturer-of-hair-and-skin-c.md)
+### [Unilever plc, an Anglo-Dutch consumer products giant, has entered into an agreement to buy Alberto-Culver, a manufacturer of hair and skin care products, for $3.7 billion. ](/news/2010/09/27/unilever-plc-an-anglo-dutch-consumer-products-giant-has-entered-into-an-agreement-to-buy-alberto-culver-a-manufacturer-of-hair-and-skin-c.md)
 _Context: Alberto-Culver, Unilever_
 
 ### [At least thirteen people die in the Gulf of Aden after a small boat capsizes with a rescue effort by the USS Winston S. Churchill saving another 61 passengers. ](/news/2010/09/27/at-least-thirteen-people-die-in-the-gulf-of-aden-after-a-small-boat-capsizes-with-a-rescue-effort-by-the-uss-winston-s-churchill-saving-ano.md)
@@ -51,7 +51,7 @@ _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavi
 ### [Brandon Joseph Rhode is executed at a prison in Jackson, Georgia in the southern United States. ](/news/2010/09/27/brandon-joseph-rhode-is-executed-at-a-prison-in-jackson-georgia-in-the-southern-united-states.md)
 _Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
 
-### [North KoreaDelegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-koreapdelegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md)
+### [North Korea. Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-korea-delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md)
 _Context: Korean Workers' Party, North Korea, Pyongyang_
 
 ### [The President of Venezuela Hugo Chavez's United Socialist Party of Venezuela wins a majority of seats in the parliamentary election held yesterday but lost a two-thirds majority needed to pass major legislation unaided. ](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.md)

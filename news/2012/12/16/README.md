@@ -1,9 +1,9 @@
 ## [2012-12-16](/news/2012/12/16/index.md)
 
-### [Syrian civil war:A Palestinian refugee camp in the capital of Damascus is reported to be attacked by Syrian war planes. Syrian Observatory for Human Rights reported at least eight deaths. ](/news/2012/12/16/syrian-civil-war-pa-palestinian-refugee-camp-in-the-capital-of-damascus-is-reported-to-be-attacked-by-syrian-war-planes-syrian-observatory.md)
+### [Syrian civil war:. A Palestinian refugee camp in the capital of Damascus is reported to be attacked by Syrian war planes. Syrian Observatory for Human Rights reported at least eight deaths. ](/news/2012/12/16/syrian-civil-war-a-palestinian-refugee-camp-in-the-capital-of-damascus-is-reported-to-be-attacked-by-syrian-war-planes-syrian-observatory.md)
 A Palestinian refugee camp in the Syrian capital Damascus has been attacked, activists say, causing an unknown number of casualties.
 
-### [War in North-West Pakistan:Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-ptaliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing-a.md)
+### [War in North-West Pakistan:. Taliban militants launch a coordinated raid on Bacha Khan International Airport in Peshawar, Pakistan, killing at least four civilians and injuring more than 40 others. ](/news/2012/12/16/war-in-north-west-pakistan-taliban-militants-launch-a-coordinated-raid-on-bacha-khan-international-airport-in-peshawar-pakistan-killing.md)
 The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing at least four civilians and injuring 30, officials say.
 
 ### [Cyclone Evan bears down on Fiji, disrupting international flights after leaving at least 4 people dead in Samoa with 8 others missing. ](/news/2012/12/16/cyclone-evan-bears-down-on-fiji-disrupting-international-flights-after-leaving-at-least-4-people-dead-in-samoa-with-8-others-missing.md)
@@ -21,7 +21,7 @@ ECUADOR has issued an orange alert -- the second-highest warning level -- for to
 ### [Two police officers are fatally shot outside a supermarket in Topeka, Kansas, USA. A 22-year-old man wanted in connection with crime, David Edward Tiscareno, is at large. ](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.md)
 _Context: Kansas, Topeka, USA, at large_
 
-### [Japanese general election, 2012:Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-pjapanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by.md)
+### [Japanese general election, 2012:. Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-general-election-2012-japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-b.md)
 TOKYO -- The conservative party that dominated post-war Japan is back in power after a three-year absence, in a landslide election victory Sunday that will result in hawkish Shinzo Abe returning as...
 
 ### [Counting continues in the first round of the Egyptian constitutional referendum with unofficial results indicating majority support so far. ](/news/2012/12/16/counting-continues-in-the-first-round-of-the-egyptian-constitutional-referendum-with-unofficial-results-indicating-majority-support-so-far.md)

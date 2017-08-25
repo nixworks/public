@@ -1,18 +1,18 @@
 ## [2012-06-21](/news/2012/06/21/index.md)
 
-### [Arab Spring:Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-psyrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md)
+### [Arab Spring:. Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md)
 A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet across the border, as violence stops the Red Cross reaching civilians in Homs.
 
-### [War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-pmexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md)
+### [War on Drugs:. Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md)
 _Context: Jalisco, Joaquin Guzman Loera, Mexican Drug War, War on Drugs, most-wanted drug lords_
 
-### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages.  ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
+### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages. ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
 Afghan police say 18 people killed during 13-hour assault on hotel in Qargha Lake on the outskirts of the capital.
 
 ### [U.S. artist LeRoy Neiman, one of the world's most commercially successful contemporary artists and an official painter of five Olympiads famed for his instant renditions of sporting action, dies in New York. ](/news/2012/06/21/u-s-artist-leroy-neiman-one-of-the-world-s-most-commercially-successful-contemporary-artists-and-an-official-painter-of-five-olympiads-fam.md)
 US artist LeRoy Neiman, an official painter of five Olympiads famed for his instant renditions of sporting action, dies in New York aged 91.
 
-### [A Lucian Freud self-portrait painted on an egg shell is sold at auction to a private collector for PS27,000. ](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-shell-is-sold-at-auction-to-a-private-collector-for-aps27-000.md)
+### [A Lucian Freud self-portrait painted on an egg shell is sold at auction to a private collector for GBP27,000. ](/news/2012/06/21/a-lucian-freud-self-portrait-painted-on-an-egg-shell-is-sold-at-auction-to-a-private-collector-for-agbp27-000.md)
 _Context: Lucian Freud_
 
 ### [Vassilis Rapanos, chairman of Greece's largest private bank, is named finance minister. ](/news/2012/06/21/vassilis-rapanos-chairman-of-greece-s-largest-private-bank-is-named-finance-minister.md)
@@ -24,7 +24,7 @@ French airline Air France announces it is to cut more than 5,000 jobs by the end
 ### [Moody's downgrades the credit rating of 15 major world banks: UK (The Royal Bank of Scotland, Barclays and HSBC), US (Bank of America, Citigroup, Goldman Sachs and JPMorgan), Rest of world (Credit Suisse, UBS, BNP Paribas, Credit Agricole, Societe Generale, Deutsche Bank, Royal Bank of Canada and Morgan Stanley). ](/news/2012/06/21/moody-s-downgrades-the-credit-rating-of-15-major-world-banks-uk-the-royal-bank-of-scotland-barclays-and-hsbc-us-bank-of-america-citig.md)
 Moody&rsquo;s Investors Service downgraded the debt ratings of 15 major international banks and securities firms on Thursday, a move that could cost the banks billions of dollars in extra collateral. 
 
-### [Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future  ](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.md)
+### [Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future ](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.md)
 _Context: Avianca, Copa Airlines, Oneworld, Star Alliance, TACA Airlines, TAM Airlines_
 
 ### [The US Dow Jones Industrial Average falls by 251 points on the back of weak economic data and poor news from the Eurozone. ](/news/2012/06/21/the-us-dow-jones-industrial-average-falls-by-251-points-on-the-back-of-weak-economic-data-and-poor-news-from-the-eurozone.md)
@@ -48,7 +48,7 @@ Indonesian court finds Umar Patek, accused of assembling explosives for 2002 att
 ### [The father of previous President of Chile Michelle Bachelet was probably tortured to death after the 1973 coup led by Augusto Pinochet, a judge says. ](/news/2012/06/21/the-father-of-previous-president-of-chile-michelle-bachelet-was-probably-tortured-to-death-after-the-1973-coup-led-by-augusto-pinochet-a-ju.md)
 The father of ex-Chilean President Michelle Bachelet probably died as a result of torture after the 1973 coup led by Pinochet, a judge says.
 
-### [Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-pthe-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
+### [Penn State child sex abuse scandal:. The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
 _Context: American football, Jerry Sandusky, Penn State child sex abuse scandal, sexual abuse_
 
 ### [John Bryson resigns as United States Secretary of Commerce following a seizure that led to two car accidents. ](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.md)

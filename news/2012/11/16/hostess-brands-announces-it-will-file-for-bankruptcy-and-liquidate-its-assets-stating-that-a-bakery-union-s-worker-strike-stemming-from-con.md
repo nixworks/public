@@ -1,6 +1,6 @@
 ### [2012-11-16](/news/2012/11/16/index.md)
 
-# Hostess Brands announces it will file for bankruptcy and liquidate its assets, stating that a bakery union's worker strike stemming from contract disputes "crippled" its operations.  18,500 workers are expected to be laid off.  
+# Hostess Brands announces it will file for bankruptcy and liquidate its assets, stating that a bakery union's worker strike stemming from contract disputes "crippled" its operations. 18,500 workers are expected to be laid off. 
 
 
 

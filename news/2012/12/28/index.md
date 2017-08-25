@@ -1,6 +1,6 @@
 ## [2012-12-28](/news/2012/12/28/index.md)
 
-### [2012 Central African Republic rebellion:The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-pthe-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-week.md)
+### [2012 Central African Republic rebellion:. The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-wee.md)
 The government of the Central African Republic and a rebel coalition have agreed to hold talks after weeks of unrest.
 
 ### [Jiroemon Kimura of Japan becomes the world's oldest verified man ever. ](/news/2012/12/28/jiroemon-kimura-of-japan-becomes-the-world-s-oldest-verified-man-ever.md)
@@ -12,7 +12,7 @@ _Context: Dasarathpur, Nepal_
 ### [Russian President Vladimir Putin signs the Dima Yakovlev Law banning US citizens from adopting Russian children. ](/news/2012/12/28/russian-president-vladimir-putin-signs-the-dima-yakovlev-law-banning-us-citizens-from-adopting-russian-children.md)
 For months, life for Ann and Kurt Suhs has been a whirlwind of assembling documents, getting fingerprinted and scheduling evaluations of their Atlanta-area home in preparation for welcoming a Russian child into their family for a second time.
 
-### [South Sudan's ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudanas-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md)
+### [South Sudan-s ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudan-s-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md)
 _Context: Moscow, Russia, South Sudan, Sudan, United Nations_
 
 ### [US President Barack Obama says he is "modestly optimistic" that a deal to avoid the fiscal cliff is possible, after a last-ditch White House meeting. ](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.md)

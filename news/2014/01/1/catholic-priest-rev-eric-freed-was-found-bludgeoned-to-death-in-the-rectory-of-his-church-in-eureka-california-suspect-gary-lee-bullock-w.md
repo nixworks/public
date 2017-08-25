@@ -7,4 +7,5 @@
 
 ### Source:
 
-1. [Spero News] [http://www.seattlepi.com/news/crime/article/Police-No-reason-to-hold-priest-slaying-suspect-5110350.php Seattle PI](http://www.speroforum.com/a/HPTSLGARLQ52/74667-Vatican-releases-partial-list-of-martyrs-for-the-faith#.UtQsUdJDv9Y)
+1. [Seattle PI](http://www.seattlepi.com/news/crime/article/Police-No-reason-to-hold-priest-slaying-suspect-5110350.php)
+2. [Spero News](http://www.speroforum.com/a/HPTSLGARLQ52/74667-Vatican-releases-partial-list-of-martyrs-for-the-faith#.UtQsUdJDv9Y)

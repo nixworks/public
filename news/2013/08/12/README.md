@@ -1,9 +1,9 @@
 ## [2013-08-12](/news/2013/08/12/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-peight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-the.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Eight people are killed and 25 are injured in a suicide bomb attack on a cafe in Balad north of the Iraqi capital Baghdad. ](/news/2013/08/12/iraqi-insurgency-post-u-s-withdrawal-eight-people-are-killed-and-25-are-injured-in-a-suicide-bomb-attack-on-a-cafe-in-balad-north-of-th.md)
 Eight people were killed and 25 wounded in a suicide bomb attack on Monday on a cafe in Balad, 80 km (50 miles) north of the Iraqi capital Baghdad, medical sources said.
 
-### [Nigerian Sharia conflict:Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-pgunmen-kill-30-people-in-northeastern-nigeria.md)
+### [Nigerian Sharia conflict:. Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-gunmen-kill-30-people-in-northeastern-nigeria.md)
 Gunmen have killed at least 30 people in an attack in a farming region in northeast Nigeria where the Islamist sect Boko Haram is active, a military source and residents said on Monday.
 
 ### [The Tunisian Armed Forces launch air strikes on Islamist militants near the Algerian border. ](/news/2013/08/12/the-tunisian-armed-forces-launch-air-strikes-on-islamist-militants-near-the-algerian-border.md)

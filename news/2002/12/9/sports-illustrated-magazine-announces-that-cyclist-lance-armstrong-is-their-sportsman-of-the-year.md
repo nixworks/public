@@ -1,6 +1,6 @@
 ### [2002-12-9](/news/2002/12/9/index.md)
 
-# ''Sports Illustrated'' magazine announces that cyclist Lance Armstrong is their Sportsman of the Year.
+# "Sports Illustrated" magazine announces that cyclist Lance Armstrong is their Sportsman of the Year.
 
 
 

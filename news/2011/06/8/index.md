@@ -1,6 +1,6 @@
 ## [2011-06-8](/news/2011/06/8/index.md)
 
-### [Libyan Civil War:NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-pnato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md)
+### [Libyan Civil War:. NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md)
 POWERFUL explosions have again rocked the area around the residence of Libyan leader Muammar Gaddafi in the centre of Tripoli, only hours after it had been targeted by dozens of similar raids.
 
 ### [South Korea's Yonhap News agency reports that North Korea has test-fired a KN-06 missile. ](/news/2011/06/8/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-test-fired-a-kn-06-missile.md)
@@ -12,10 +12,10 @@ Another bloody crackdown is on the cards in Syria, with troops reportedly prepar
 ### [The Chinese Navy announces that it is building its first aircraft carrier in the city of Dalian to be launched later in 2011. ](/news/2011/06/8/the-chinese-navy-announces-that-it-is-building-its-first-aircraft-carrier-in-the-city-of-dalian-to-be-launched-later-in-2011.md)
 China has officially confirmed that it is building its first ever aircraft carrier, the centrepiece for an expanding naval force.
 
-### [The ''New York Times'' reports that the United States is intensifying a covert war in Yemen as instability worsens. ](/news/2011/06/8/the-new-york-times-reports-that-the-united-states-is-intensifying-a-covert-war-in-yemen-as-instability-worsens.md)
+### [The "New York Times" reports that the United States is intensifying a covert war in Yemen as instability worsens. ](/news/2011/06/8/the-new-york-times-reports-that-the-united-states-is-intensifying-a-covert-war-in-yemen-as-instability-worsens.md)
 The Obama administration has heightened a covert war, exploiting a power vacuum to strike at militant suspects, according to American officials.
 
-### [Serbian-American author Ta Obreht becomes the youngest author to win the Orange Prize for Fiction for her debut novel ''The Tiger's Wife''. ](/news/2011/06/8/serbian-american-author-tea-obreht-becomes-the-youngest-author-to-win-the-orange-prize-for-fiction-for-her-debut-novel-the-tiger-s-wife.md)
+### [Serbian-American author Ta Obreht becomes the youngest author to win the Orange Prize for Fiction for her debut novel "The Tiger's Wife". ](/news/2011/06/8/serbian-american-author-tea-obreht-becomes-the-youngest-author-to-win-the-orange-prize-for-fiction-for-her-debut-novel-the-tiger-s-wife.md)
 T&eacute;a Obreht, the little-known 25 year-old Serbian-American author, was the surprise winner of the Orange Prize for Fiction with her debut novel The Tiger&#039;s Wife.
 
 ### [The rate of increase in cases of the 2011 E. coli O104:H4 outbreak that started in Germany appears to be slowing down. ](/news/2011/06/8/the-rate-of-increase-in-cases-of-the-2011-e-coli-o104-h4-outbreak-that-started-in-germany-appears-to-be-slowing-down.md)

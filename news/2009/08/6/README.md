@@ -1,6 +1,6 @@
 ## [2009-08-6](/news/2009/08/6/index.md)
 
-### [  Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshima-was-hit-in-the-world-s-first-atomic-bomb-attack.md)
+### [ 64th anniversary of Hiroshima and Nagasaki atomic bombings. Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/64th-anniversary-of-hiroshima-and-nagasaki-atomic-bombings-japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshi.md)
 Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomic bomb attack with a call for a nuclear-weapons-free world.
 
 ### [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md)
@@ -12,7 +12,7 @@ Court sentences three people to death for their role in bombings that killed at 
 ### [ Malagasy crisis talks resume between interim leader Andry Rajoelina, ousted president Marc Ravalomanana and former presidents Didier Ratsiraka and Albert Zafy in Maputo, Mozambique. ](/news/2009/08/6/malagasy-crisis-talks-resume-between-interim-leader-andry-rajoelina-ousted-president-marc-ravalomanana-and-former-presidents-didier-ratsir.md)
 _Context: Albert Zafy, Andry Rajoelina, Didier Ratsiraka, Madagascar, Maputo, Marc Ravalomanana, Mozambique_
 
-### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
+### [ New Zealand-s Prime Minister John Key says he believes Fiji-s self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealand-s-prime-minister-john-key-says-he-believes-fiji-s-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
 _Context: Commodore, Fiji, John Key, New Zealand, Pacific Islands Forum, Prime Minister, Prime Minister, Voreqe Bainimarama_
 
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
@@ -57,7 +57,7 @@ _Context: Democratic Republic of Congo, Joseph Kabila, Paul Kagame, Rwanda_
 ### [ Scientists say they have decoded the entire genetic structure of HIV-1&mdash;the main cause of AIDS in humans. ](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.md)
 _Context: AIDS_
 
-### [ News Corp. announces its intent to start charging online customers for news content across all its websites, including ''The Times'', ''The Sun'', ''The Wall Street Journal'', ''New York Post'' and ''Herald Sun''. ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the.md)
+### [ News Corp. announces its intent to start charging online customers for news content across all its websites, including "The Times", "The Sun", "The Wall Street Journal", "New York Post" and "Herald Sun". ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the-su.md)
 _Context: Herald Sun, New York Post, News Corporation, The Sun, The Wall Street Journal, Times_
 
 ### [ At least 34 people are feared dead after their bus plunges into the Indus River in Pakistan. ](/news/2009/08/6/at-least-34-people-are-feared-dead-after-their-bus-plunges-into-the-indus-river-in-pakistan.md)

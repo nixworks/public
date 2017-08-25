@@ -1,6 +1,6 @@
 ## [2010-10-30](/news/2010/10/30/index.md)
 
-### [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi's Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.md)
+### [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi-s Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindi-s-civil-lines-area-of-pakistan.md)
 _Context: Pakistan, Rawalpindi_
 
 ### [Gunman opened fire on a group of people on a neighborhood sports field in northern Honduras and killed at least 14. ](/news/2010/10/30/gunman-opened-fire-on-a-group-of-people-on-a-neighborhood-sports-field-in-northern-honduras-and-killed-at-least-14.md)
@@ -9,10 +9,10 @@ _Context: Honduras_
 ### [NATO forces repel a Taliban attack on an outpost in Afghanistan's Paktika Province, killing at least 80 insurgents. ](/news/2010/10/30/nato-forces-repel-a-taliban-attack-on-an-outpost-in-afghanistan-s-paktika-province-killing-at-least-80-insurgents.md)
 At least 19 Taliban insurgents are killed after they launched an attack on a combat outpost in south-eastern Afghanistan, Nato forces say.
 
-### [The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogues.md)
+### [2010 cargo plane bomb plot. The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/2010-cargo-plane-bomb-plot-the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogu.md)
 The bomb found on a plane in the UK was designed to go off on the aircraft, the British PM says, as Yemen arrests a woman suspected of involvement.
 
-### [President of Afghanistan Hamid Karzai reprimands Russia after its forces enter the country without permission and "violate Afghan sovereignty" in a joint mission with United States agents. Karzai orders an investigation.  ](/news/2010/10/30/president-of-afghanistan-hamid-karzai-reprimands-russia-after-its-forces-enter-the-country-without-permission-and-violate-afghan-sovereignt.md)
+### [President of Afghanistan Hamid Karzai reprimands Russia after its forces enter the country without permission and "violate Afghan sovereignty" in a joint mission with United States agents. Karzai orders an investigation. ](/news/2010/10/30/president-of-afghanistan-hamid-karzai-reprimands-russia-after-its-forces-enter-the-country-without-permission-and-violate-afghan-sovereignt.md)
 Afghan President Hamid Karzai calls the first joint operation by Russian and US agents to destroy drug laboratories in his country a violation of sovereignty.
 
 ### [Thousands of people flee their homes in Guinea amid ethnic clashes ahead of a presidential run-off. ](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.md)
@@ -31,7 +31,7 @@ _Context: AMISOM, Mogadishu_
 ### [English pop group Take That sell 1 million 2011 reunion tour tickets within 24 hours amid crashing websites and jammed phone lines. ](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.md)
 Take That have sold one million tickets for their latest tour in less than 24 hours. Tickets agencies struggled to cope with fans reporting websites crashing and phone lines being constantly engaged under the weight of the massive demand. New dates were also added to the tour which will be the...
 
-### [18-year old Alexandria Mills from the USA wins  the 60th edition of the Miss World pageant in China. ](/news/2010/10/30/18-year-old-alexandria-mills-from-the-usa-wins-the-60th-edition-of-the-miss-world-pageant-in-china.md)
+### [18-year old Alexandria Mills from the USA wins the 60th edition of the Miss World pageant in China. ](/news/2010/10/30/18-year-old-alexandria-mills-from-the-usa-wins-the-60th-edition-of-the-miss-world-pageant-in-china.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [A large oil field is discovered off the coast of Brazil that could contain between 8 and 15 billion barrels. ](/news/2010/10/30/a-large-oil-field-is-discovered-off-the-coast-of-brazil-that-could-contain-between-8-and-15-billion-barrels.md)
@@ -40,7 +40,7 @@ A newly discovered oil-field off the coast of Brazil could contain up to 15 bill
 ### [At least 16 people drown and 70 are missing after an overcrowded ferry sinks in a river in West Bengal, eastern India. ](/news/2010/10/30/at-least-16-people-drown-and-70-are-missing-after-an-overcrowded-ferry-sinks-in-a-river-in-west-bengal-eastern-india.md)
 _Context: India, West Bengal_
 
-### [Aftermath of October 2010 Sumatra earthquake:The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-pthe-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-in.md)
+### [Aftermath of October 2010 Sumatra earthquake:. The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-i.md)
 Rescue workers in Indonesia find group hiding on higher ground, halving number of missing from 298 to 163.
 
 ### [Typhoon Chaba heads towards eastern Japan. ](/news/2010/10/30/typhoon-chaba-heads-towards-eastern-japan.md)
@@ -82,7 +82,7 @@ Gathering in Washington called attempt to inject humour and tone down partisan d
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
 _Context: Danny Alexander, Harriet Harman, Labour, red hair, tweets_
 
-### [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md)
+### [In an interview with "Al-Hayat" later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-pol.md)
 Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel following Gaza war and violations of the truce could result in anarchy.
 
 ## [Previous Day...](/news/2010/10/29/index.md)

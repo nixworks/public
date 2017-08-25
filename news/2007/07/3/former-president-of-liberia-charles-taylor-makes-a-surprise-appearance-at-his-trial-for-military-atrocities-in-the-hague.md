@@ -1,6 +1,6 @@
 ### [2007-07-3](/news/2007/07/3/index.md)
 
-#  Former President of Liberia Charles Taylor makes a surprise appearance at his trial for military atrocities in The Hague.  
+#  Former President of Liberia Charles Taylor makes a surprise appearance at his trial for military atrocities in The Hague. 
 
 
 

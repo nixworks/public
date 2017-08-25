@@ -3,7 +3,7 @@
 ### [ Bangkok's former Don Muang International Airport reopens for domestic flights to relieve strain on Suvarnabhumi Airport, which is undergoing repairs. ](/news/2007/03/25/bangkok-s-former-don-muang-international-airport-reopens-for-domestic-flights-to-relieve-strain-on-suvarnabhumi-airport-which-is-undergoin.md)
 _Context: Bangkok, Don Muang International Airport, Suvarnabhumi Airport_
 
-### [ Vanuatu is struck by an earthquake of 7.2 magnitude southeast of  its capital Port Vila. ](/news/2007/03/25/vanuatu-is-struck-by-an-earthquake-of-7-2-magnitude-southeast-of-its-capital-port-vila.md)
+### [ Vanuatu is struck by an earthquake of 7.2 magnitude southeast of its capital Port Vila. ](/news/2007/03/25/vanuatu-is-struck-by-an-earthquake-of-7-2-magnitude-southeast-of-its-capital-port-vila.md)
 _Context: Port Vila, Vanuatu_
 
 ### [ A tsunami occurs on the northern coast of Japan after an earthquake with a magnitude of 6.9 in the Sea of Japan. NHK reports that 1 person has died and 40 have been injured. ](/news/2007/03/25/a-tsunami-occurs-on-the-northern-coast-of-japan-after-an-earthquake-with-a-magnitude-of-6-9-in-the-sea-of-japan-nhk-reports-that-1-person.md)

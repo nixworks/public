@@ -1,15 +1,15 @@
 ## [2015-01-15](/news/2015/01/15/index.md)
 
-### [Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan-school-massacre.md)
+### [2014 Peshawar school massacre. Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/2014-peshawar-school-massacre-afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan.md)
 Five men accused of involvement in a Pakistan school massacre have been arrested in Afghanistan.
 
 ### [Police in eastern Belgium kill two suspected terrorists during an anti-terrorism raid near Verviers. ](/news/2015/01/15/police-in-eastern-belgium-kill-two-suspected-terrorists-during-an-anti-terrorism-raid-near-verviers.md)
 Police have launched an anti-terror operation in an eastern Belgian city, according to news reports, who said they heard gunfire and explosions near a train station.
 
-### [Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md)
+### [Pope Francis' visit to the Philippines. Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-visit-to-the-philippines-pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md)
 _Context: Manila, Philippines, Pope Francis, Pope Francis' visit to the Philippines, President of the Philippines, his predecessor_
 
-### [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are ''American Sniper'', ''Birdman'', ''Boyhood'', ''The Grand Budapest Hotel'', ''The Imitation Game'', ''Selma'', ''The Theory of Everything'', and ''Whiplash''. ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md)
+### [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are "American Sniper", "Birdman", "Boyhood", "The Grand Budapest Hotel", "The Imitation Game", "Selma", "The Theory of Everything", and "Whiplash". ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md)
 The impetus behind today’s announcement to reveal the Oscar nominees in 24 categories next Thursday wasn’t the result of an outcry by those nominees who are omitted from the short-burst telecast th…
 
 ### [The World Bank states that the Philippines can end poverty in a single generation. ](/news/2015/01/15/the-world-bank-states-that-the-philippines-can-end-poverty-in-a-single-generation.md)
@@ -36,7 +36,7 @@ Take a look at the latest and archived public health news releases published by 
 ### [Philippine authorities in Manila concentrate street children in cages with some even chained in anticipation of Pope Francis' pastoral visit. ](/news/2015/01/15/philippine-authorities-in-manila-concentrate-street-children-in-cages-with-some-even-chained-in-anticipation-of-pope-francis-pastoral-visit.md)
 Street children are rounded up and hidden away to provide the Pope with a more presentable tour of the Philippines. Filipino children are being &#39;rescued&#39; from the streets only to be forced ...
 
-### [Gyumri massacre:Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-pclashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-six.md)
+### [Gyumri massacre:. Clashes in Gyumri, Armenia between police and protesters demanding the handover of a Russian soldier accused of killing six members of a local family leaves at least twelve people wounded. ](/news/2015/01/15/gyumri-massacre-clashes-in-gyumri-armenia-between-police-and-protesters-demanding-the-handover-of-a-russian-soldier-accused-of-killing-si.md)
 At least 12 people are injured in Armenia police clash with protesters demanding the handover of a Russian soldier accused of killing a local family.
 
 ## [Previous Day...](/news/2015/01/14/index.md)

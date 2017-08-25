@@ -1,0 +1,23 @@
+### [2015-08-31](/news/2015/08/31/index.md)
+
+# 2015 Atlantic hurricane season. Hurricane Fred hits Cape Verde causing flooding and the closure of airports. 
+
+
+
+
+### Source:
+
+1. [ (AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/31/world/africa/ap-af-cape-verde-tropical-weather.html?gwh=36440C34758F32C549F3F002BB051538&gwt=pay)
+
+### Related:
+
+1. [2015 Atlantic hurricane season. Tropical Storm Fred's predicted track will turn northeast toward the Azores islands off the coast of Portugal as a Tropical Depression. ](/news/2015/09/4/2015-atlantic-hurricane-season-tropical-storm-fred-s-predicted-track-will-turn-northeast-toward-the-azores-islands-off-the-coast-of-portuga.md) _Context: 2015 Atlantic hurricane season, Tropical Storm Fred's_
+2. [ 2015-16 Zika virus epidemic. The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/2015-16-zika-virus-epidemic-the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-o.md) _Context: Cape Verde_
+3. [Monte Tchota massacre. Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/monte-tchota-massacre-eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a.md) _Context: Cape Verde_
+4. [Cape Verdean parliamentary election, 2016. Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/cape-verdean-parliamentary-election-2016-voters-in-cape-verde-go-to-the-polls-for-an-election.md) _Context: Cape Verde_
+5. [2015 Atlantic hurricane season. Hurricane Joaquin. The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/2015-atlantic-hurricane-season-hurricane-joaquin-the-united-states-national-transportation-safety-board-announces-it-has-completed-its-sea.md) _Context: 2015 Atlantic hurricane season_
+6. [2015 Atlantic hurricane season. Hurricane Joaquin. U.S. Coast Guard searchers, looking for the 790-foot El Faro cargo ship missing since Thursday, locate multiple objects, including life jackets, life rings, containers, and an oil sheen in the waters off The Bahamas. Connection to El Faro is not immediately confirmed. ](/news/2015/10/4/2015-atlantic-hurricane-season-hurricane-joaquin-u-s-coast-guard-searchers-looking-for-the-790-foot-el-faro-cargo-ship-missing-since-thu.md) _Context: 2015 Atlantic hurricane season_
+7. [2015 Atlantic hurricane season. Hurricane Joaquin. Hurricane Joaquin becomes a Category 4 hurricane with maximum sustained winds of 130 mph. Some additional strengthening is possible tomorrow. The storm, moving at just 6 mph, is predicted to drop 10 to 15 inches of rain in the central Bahamas with up to five inches expected for the rest of the archipelago. ](/news/2015/10/1/2015-atlantic-hurricane-season-hurricane-joaquin-hurricane-joaquin-becomes-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph.md) _Context: 2015 Atlantic hurricane season_
+8. [2015 Atlantic hurricane season. Hurricane Joaquin. Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/2015-atlantic-hurricane-season-hurricane-joaquin-hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-si.md) _Context: 2015 Atlantic hurricane season_
+9. [2015 Atlantic hurricane season. Dominican Prime Minister Roosevelt Skerrit declares disaster status for nine local areas where access by road is impossible after flooding and mudslides from Tropical Storm Erika which killed at least 20 people and left more than 50 missing. Skerrit also appealed for international aid. ](/news/2015/08/30/2015-atlantic-hurricane-season-dominican-prime-minister-roosevelt-skerrit-declares-disaster-status-for-nine-local-areas-where-access-by-roa.md) _Context: 2015 Atlantic hurricane season_
+10. [2015 Atlantic hurricane season. Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/2015-atlantic-hurricane-season-five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-a.md) _Context: 2015 Atlantic hurricane season_

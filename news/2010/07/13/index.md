@@ -3,7 +3,7 @@
 ### [82 police officers are injured overnight in riots across Northern Ireland, sparked by the annual Orange march through Catholic neighborhoods. ](/news/2010/07/13/82-police-officers-are-injured-overnight-in-riots-across-northern-ireland-sparked-by-the-annual-orange-march-through-catholic-neighborhoods.md)
 A policewoman suffers a head injury in a riot following an Orange parade through the nationalist Ardoyne area of Belfast.
 
-### [A ship bound from Libya, the ''Al-Amal'', due to deliver humanitarian aid from Algeria, Morocco and  Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-cour.md)
+### [A ship bound from Libya, the "Al-Amal", due to deliver humanitarian aid from Algeria, Morocco and Nigeria to the Gaza Strip, changes course for Egypt after being warned to stay away by the Israeli Navy and receiving pressure from the United States to "act responsibly". ](/news/2010/07/13/a-ship-bound-from-libya-the-al-amal-due-to-deliver-humanitarian-aid-from-algeria-morocco-and-nigeria-to-the-gaza-strip-changes-course.md)
 Libyan vessel changes course following warning from Israeli navy.
 
 ### [Pakistani embassy officials confirm missing Iranian nuclear scientist Shahram Amiri, who was reported to have been kidnapped by the United States Central Intelligence Agency, is taking refuge in the country's Washington, D.C. embassy. ](/news/2010/07/13/pakistani-embassy-officials-confirm-missing-iranian-nuclear-scientist-shahram-amiri-who-was-reported-to-have-been-kidnapped-by-the-united-s.md)

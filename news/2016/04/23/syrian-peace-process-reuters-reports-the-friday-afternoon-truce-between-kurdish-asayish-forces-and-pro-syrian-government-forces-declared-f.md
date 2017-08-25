@@ -1,0 +1,23 @@
+### [2016-04-23](/news/2016/04/23/index.md)
+
+# Syrian peace process. Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. 
+
+Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-qamashli-idUSKCN0XK05I)
+
+### Related:
+
+1. [Syrian Civil War. The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. The Syrian government says Israel struck the military site with several missiles. Israeli Intelligence Minister Yisrael Katz states that the strike "corresponds completely with Israel's policy". ](/news/2017/04/27/syrian-civil-war-the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire.md) _Context: military_
+2. [Syrian Civil War. The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/syrian-civil-war-the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at.md) _Context: military_
+3. [Syrian Civil War. Battle of al-Bab. Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-civil-war-battle-of-al-bab-syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-h.md) _Context: military_
+4. [Syrian peace process. The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/syrian-peace-process-the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-ira.md) _Context: Syrian peace process_
+5. [Syrian peace process. Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/syrian-peace-process-peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragil.md) _Context: Syrian peace process_
+6. [Syrian Civil War. Syrian peace process. The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/syrian-civil-war-syrian-peace-process-the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan.md) _Context: Syrian peace process_
+7. [Reuters reports, on the basis of anonymous Chinese bankers, that the State Administration of Foreign Exchange is instructing them to keep quiet about any negative analysis of prospects for the yuan. ](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.md) _Context: Reuters_
+8. [Syrian Civil War. Aleppo offensive (November 2016). Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-civil-war-aleppo-offensive-november-2016-syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third.md) _Context: military_
+9. [Aleppo offensive (November 2016). Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. ](/news/2016/11/27/aleppo-offensive-november-2016-syrian-armed-forces-have-captured-the-entire-hanano-district-in-eastern-aleppo-and-are-working-on-removing.md) _Context: military_
+10. [Syrian Civil War. Aleppo offensive (November 2016). Government forces have captured most of Hanano, the largest rebel-controlled district in eastern Aleppo, and have begun pushing into neighboring 'Ard Al-Hamra and Jabal Badro districts. ](/news/2016/11/26/syrian-civil-war-aleppo-offensive-november-2016-government-forces-have-captured-most-of-hanano-the-largest-rebel-controlled-district-in.md) _Context: military_

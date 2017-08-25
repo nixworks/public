@@ -1,6 +1,6 @@
 ## [2011-03-12](/news/2011/03/12/index.md)
 
-### [2011 Libyan civil war:The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/2011-libyan-civil-war-pthe-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-a.md)
+### [2011 Libyan civil war:. The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/2011-libyan-civil-war-the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi.md)
 Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fighting, leaving the key oil town in the hands of forces loyal to Colonel Gaddafi.
 
 ### [A Palestinian militant armed with a knife infiltrates the West Bank settlement of Itamar and stabs to death two Israeli parents and three of their children. ](/news/2011/03/12/a-palestinian-militant-armed-with-a-knife-infiltrates-the-west-bank-settlement-of-itamar-and-stabs-to-death-two-israeli-parents-and-three-of.md)
@@ -12,10 +12,10 @@ At least four people killed and more than 300 injured as security forces dispers
 ### [At least 23 people die in an attack on the South Sudan town of Malakal. ](/news/2011/03/12/at-least-23-people-die-in-an-attack-on-the-south-sudan-town-of-malakal.md)
 _Context: Malakal, South Sudan_
 
-### [Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabled-by-the-japanese-earthquake-with-a.md)
+### [2011 Tohoku earthquake and tsunami. Analysts believe that a nuclear meltdown may be occurring at the Fukushima I Nuclear Power Plant disabled by the Japanese earthquake with a state of emergency declared at five plants. ](/news/2011/03/12/2011-tahoku-earthquake-and-tsunami-analysts-believe-that-a-nuclear-meltdown-may-be-occurring-at-the-fukushima-i-nuclear-power-plant-disabl.md)
 A March 12 explosion at the earthquake-damaged Fukushima Daiichi nuclear power plant in Okuma, Japan, appears to have caused a reactor meltdown.
 
-### [Fifteen people die in a bus accident in The Bronx, New York, USA.  ](/news/2011/03/12/fifteen-people-die-in-a-bus-accident-in-the-bronx-new-york-usa.md)
+### [Fifteen people die in a bus accident in The Bronx, New York, USA. ](/news/2011/03/12/fifteen-people-die-in-a-bus-accident-in-the-bronx-new-york-usa.md)
 Fourteen people died Saturday when a bus returning from a casino flipped onto its side on a major highway in the Bronx and was sliced in half by the support pole for a large sign, authorities said. 
 
 ### [83 people are rescued from a floating restaurant after it drifted away carrying 150 passengers on the flooded Ohio River in Covington, Kentucky, USA, and became lodged under the Clay Wade Bailey Bridge. ](/news/2011/03/12/83-people-are-rescued-from-a-floating-restaurant-after-it-drifted-away-carrying-150-passengers-on-the-flooded-ohio-river-in-covington-kentu.md)

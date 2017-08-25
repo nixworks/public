@@ -11,4 +11,4 @@ Commodities group Glencore (GLEN.L) became the first of the large miners to hono
 
 ### Related:
 
-1. [The European Commission gives its backing to commodities giant Glencore's $31 billion (PS19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-aps19-5-billion-bid-to-take-over-mining-company-xstra.md) _Context: Glencore_
+1. [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md) _Context: Glencore_

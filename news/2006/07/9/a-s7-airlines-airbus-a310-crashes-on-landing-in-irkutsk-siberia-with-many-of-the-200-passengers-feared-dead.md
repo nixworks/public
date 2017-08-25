@@ -14,7 +14,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Related:
 
 1. [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md) _Context: Airbus_
-2. [The death toll from people who drank poisonous methanol in Irkutsk, Russia, rises to 76. ](/news/2017/01/9/the-death-toll-from-people-who-drank-poisonous-methanol-in-irkutsk-russia-rises-to-76.md) _Context: Irkutsk_
+2. [2016 Irkutsk mass methanol poisoning. The death toll from people who drank poisonous methanol in Irkutsk, Russia, rises to 76. ](/news/2017/01/9/2016-irkutsk-mass-methanol-poisoning-the-death-toll-from-people-who-drank-poisonous-methanol-in-irkutsk-russia-rises-to-76.md) _Context: Irkutsk_
 3. [At least 12 people, including 10 children, are killed in a bus crash in Siberia, Russia. ](/news/2016/12/4/at-least-12-people-including-10-children-are-killed-in-a-bus-crash-in-siberia-russia.md) _Context: Siberia_
 4. [At least 49 people die in Irkutsk, Russia after consuming hawthorn-scented bath essence as if it were alcohol. The product has been found to contain methanol. ](/news/2016/12/18/at-least-49-people-die-in-irkutsk-russia-after-consuming-hawthorn-scented-bath-essence-as-if-it-were-alcohol-the-product-has-been-found-to.md) _Context: Irkutsk_
 5. [A MiG-31 fighter jet crashes in the Krasnoyarsk Krai region in Siberia, Russia. The pilots were able to eject safely, according to the Russian Defence Ministry. ](/news/2016/01/25/a-mig-31-fighter-jet-crashes-in-the-krasnoyarsk-krai-region-in-siberia-russia-the-pilots-were-able-to-eject-safely-according-to-the-russi.md) _Context: Siberia_

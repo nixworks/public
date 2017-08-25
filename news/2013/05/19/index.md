@@ -1,12 +1,12 @@
 ## [2013-05-19](/news/2013/05/19/index.md)
 
-### [Syrian civil war:Heavy fighting is reported in Qusair, Syria, as the Syrian army launches a major counter-offensive against rebel forces. ](/news/2013/05/19/syrian-civil-war-pheavy-fighting-is-reported-in-qusair-syria-as-the-syrian-army-launches-a-major-counter-offensive-against-rebel-forces.md)
+### [Syrian civil war:. Heavy fighting is reported in Qusair, Syria, as the Syrian army launches a major counter-offensive against rebel forces. ](/news/2013/05/19/syrian-civil-war-heavy-fighting-is-reported-in-qusair-syria-as-the-syrian-army-launches-a-major-counter-offensive-against-rebel-forces.md)
 Fierce fighting is reported in the strategic Syrian town of Qusair, as rebels and government forces backed by Hezbollah militants fight for control.
 
 ### [Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. ](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.md)
 _Context: Billboard Music Awards, Taylor Swift_
 
-### [''Star Trek Into Darkness'' earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
+### ["Star Trek Into Darkness" earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
 _Context: Star Trek Into Darkness, US$_
 
 ### [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md)

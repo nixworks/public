@@ -15,7 +15,7 @@ _Context: 2006, North Korea, United Nations, United Nations Security Council Res
 ### [ The military of Fiji issues an ultimatum to the government to drop legislation which would give an amnesty to the leaders of the 2000 coup, or resign. ](/news/2006/10/17/the-military-of-fiji-issues-an-ultimatum-to-the-government-to-drop-legislation-which-would-give-an-amnesty-to-the-leaders-of-the-2000-coup.md)
 _Context: 2000 coup, military government_
 
-### [ Whaling in Iceland  is to resume, in contravention of a 20-year moratorium passed by the International Whaling Commission. ](/news/2006/10/17/whaling-in-iceland-is-to-resume-in-contravention-of-a-20-year-moratorium-passed-by-the-international-whaling-commission.md)
+### [ Whaling in Iceland is to resume, in contravention of a 20-year moratorium passed by the International Whaling Commission. ](/news/2006/10/17/whaling-in-iceland-is-to-resume-in-contravention-of-a-20-year-moratorium-passed-by-the-international-whaling-commission.md)
 _Context: International Whaling Commission , Whaling in Iceland, moratorium_
 
 ### [ Rapper Fabolous is shot at a Manhattan parking garage, spurring a sequence of events that left him both hospitalized in stable condition and under arrest.](/news/2006/10/17/rapper-fabolous-is-shot-at-a-manhattan-parking-garage-spurring-a-sequence-of-events-that-left-him-both-hospitalized-in-stable-condition-an.md)

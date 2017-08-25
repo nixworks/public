@@ -1,6 +1,6 @@
 ## [2009-12-8](/news/2009/12/8/index.md)
 
-### [ Japan unveils a new Y=7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-ay-7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md)
+### [ Japan unveils a new CNY7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-acny7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md)
 _Context: Japan, yen_
 
 ### [ Anti-government protests in Iran continue at universities for a second day, with over 200 arrests. ](/news/2009/12/8/anti-government-protests-in-iran-continue-at-universities-for-a-second-day-with-over-200-arrests.md)
@@ -9,7 +9,7 @@ _Context: Japan, yen_
 ### [ Gunmen in Honduras shoot dead the head of the country's anti-drug trafficking unit, Julian Aristides Gonzalez. ](/news/2009/12/8/gunmen-in-honduras-shoot-dead-the-head-of-the-country-s-anti-drug-trafficking-unit-julian-aristides-gonzalez.md)
 _Context: Honduras, Julian Aristides Gonzalez, drug trafficking_
 
-### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time ''As the World Turns'' after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in.md)
+### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md)
 _Context: As the World Turns, CBS, Procter & Gamble, United States, soap opera_
 
 ### [ President of Serbia Boris Tadic, his sports minister and FSS/FSS chief Tomislav Karadzic are punished for breaking FIFA's strict no-alcohol policy at the Stadion Crvena Zvezda on 10 October. ](/news/2009/12/8/president-of-serbia-boris-tadia-his-sports-minister-and-d-d-d-fss-chief-tomislav-karadzic-are-punished-for-breaking-fifa-s-strict-no-alc.md)

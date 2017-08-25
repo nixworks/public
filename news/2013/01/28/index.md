@@ -1,6 +1,6 @@
 ## [2013-01-28](/news/2013/01/28/index.md)
 
-### [Northern Mali conflict (2012-present):French troops take over Timbuktu Airport as they enter the city without any resistance from the Islamists. Residents report that the French now control all access to the city. ](/news/2013/01/28/northern-mali-conflict-2012apresent-pfrench-troops-take-over-timbuktu-airport-as-they-enter-the-city-without-any-resistance-from-the-isl.md)
+### [Northern Mali conflict (2012-present):. French troops take over Timbuktu Airport as they enter the city without any resistance from the Islamists. Residents report that the French now control all access to the city. ](/news/2013/01/28/northern-mali-conflict-2012-present-french-troops-take-over-timbuktu-airport-as-they-enter-the-city-without-any-resistance-from-the-is.md)
 French-led troops in Mali have entered the historic city of Timbuktu, after capturing the airport from militant Islamists, a French army officer says.
 
 ### [Swedish comedian and television host Petra Mede is announced as presenter for the Eurovision Song Contest 2013 in Malmo. ](/news/2013/01/28/swedish-comedian-and-television-host-petra-mede-is-announced-as-presenter-for-the-eurovision-song-contest-2013-in-malmap.md)
@@ -24,7 +24,7 @@ The gunman shot the bouncer once and his ex-girlfriend multiple times.
 ### [A Manila court finds Philippine social activist, artist and tour guide Carlos Celdran guilty of offending religious feeling and is sentenced with an indeterminate sentence of 2 months and 21 days of imprisonment to a maximum of one year, 1 month and 11 days of imprisonment. Celdran will file an appeal. ](/news/2013/01/28/a-manila-court-finds-philippine-social-activist-artist-and-tour-guide-carlos-celdran-guilty-of-offending-religious-feeling-and-is-sentenced.md)
 (UPDATED) A court punishes Carlos Celdran for disrupting a service at the Manila Cathedral in 2010
 
-### [According to a story by ''Haaretz'', Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-cl.md)
+### [According to a story by "Haaretz", Israel admits it has been giving Ethiopian Jewish immigrants birth-control injections, often without clearly explaining the effects of the drugs. ](/news/2013/01/28/according-to-a-story-by-haaretz-israel-admits-it-has-been-giving-ethiopian-jewish-immigrants-birth-control-injections-often-without-clea.md)
 Israel has admitted for the first time that it has been giving Ethiopian Jewish immigrants birth-control injections, often without their knowledge or consent.
 
 ### [Beatrix the Queen regnant of the Kingdom of the Netherlands announces her abdication in favour of her son, Prince Willem-Alexander, on April 30, 2013. ](/news/2013/01/28/beatrix-the-queen-regnant-of-the-kingdom-of-the-netherlands-announces-her-abdication-in-favour-of-her-son-prince-willem-alexander-on-april.md)

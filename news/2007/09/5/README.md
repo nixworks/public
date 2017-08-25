@@ -58,7 +58,7 @@ _Context: Gaza Strip, Israel_
 ### [ Singapore jails the leader of the Singapore Democratic Party Chee Soon Juan for failing to pay a fine of S$4,000 for trying to leave the city-state without permission. ](/news/2007/09/5/singapore-jails-the-leader-of-the-singapore-democratic-party-chee-soon-juan-for-failing-to-pay-a-fine-of-s-4-000-for-trying-to-leave-the-ci.md)
 Singapore has jailed a prominent opposition leader for three weeks after he failed to pay a fine for trying to leave the city-state without permission from the government, as required of him as a bankrupt.
 
-### [ A group of 50 asylum-seekers held in an Australian facility on Nauru have started a hunger strike.  ](/news/2007/09/5/a-group-of-50-asylum-seekers-held-in-an-australian-facility-on-nauru-have-started-a-hunger-strike.md)
+### [ A group of 50 asylum-seekers held in an Australian facility on Nauru have started a hunger strike. ](/news/2007/09/5/a-group-of-50-asylum-seekers-held-in-an-australian-facility-on-nauru-have-started-a-hunger-strike.md)
 _Context: Australia, Nauru, asylum seeker, hunger strike_
 
 ### [ Japanese and North Korean envoys begin in Ulan Bator, Mongolia to resolve long-standing differences. ](/news/2007/09/5/japanese-and-north-korean-envoys-begin-in-ulan-bator-mongolia-to-resolve-long-standing-differences.md)
@@ -73,10 +73,10 @@ The Sydney Morning Herald 404 Page
 ### [ Pakistani police arrest approximately 50 supporters of former Prime Minister Nawaz Sharif's Pakistan Muslim League in Punjab prior to his return to Pakistan next week. ](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, Punjab_
 
-### [  The Prime Minister of Australia John Howard and the President of the United States George W. Bush agree to discuss upgrading the defense relationship with Australia to enjoy the same access to US military technology as the United Kingdom. ](/news/2007/09/5/the-prime-minister-of-australia-john-howard-and-the-president-of-the-united-states-george-w-bush-agree-to-discuss-upgrading-the-defense-r.md)
+### [ APEC. The Prime Minister of Australia John Howard and the President of the United States George W. Bush agree to discuss upgrading the defense relationship with Australia to enjoy the same access to US military technology as the United Kingdom. ](/news/2007/09/5/apec-the-prime-minister-of-australia-john-howard-and-the-president-of-the-united-states-george-w-bush-agree-to-discuss-upgrading-the-defe.md)
 Prime Minister John Howard has announced that he and US President George W Bush have agreed to discuss a further upgrade of the defence relationship between the two nations.
 
-### [ The ''Military Times'' reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons.  In addition, the bombs were not reported as missing from the Minot weapons inventory.  The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident.  ](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dak.md)
+### [ The "Military Times" reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons. In addition, the bombs were not reported as missing from the Minot weapons inventory. The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident. ](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dakot.md)
 A B-52 bomber was mistakenly armed with six nuclear warheads and flown for more than three hours across several states last week, prompting an Air Force investigation and the firing of one commander, Pentagon officials said Wednesday. 
 
 ## [Previous Day...](/news/2007/09/4/index.md)

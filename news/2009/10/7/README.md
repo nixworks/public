@@ -24,7 +24,7 @@ _Context: Mazen Abdul-Jawad, Saudi Arabia_
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for a second time with the ruling junta after her offer to lobby for nations to lift sanctions on the country. ](/news/2009/10/7/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-a-second-time-with-the-ruling-junta-after-her-offer-to-lobby-for-na.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
 
-### [ Somali pirates attack the French Navy replenishment tanker ''Somme'' (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
+### [ Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
 _Context: France, French naval, Somali pirates, Somalia_
 
 ### [ More than a million people are affected in one of the worst droughts to affect Syria in decades. ](/news/2009/10/7/more-than-a-million-people-are-affected-in-one-of-the-worst-droughts-to-affect-syria-in-decades.md)
@@ -42,7 +42,7 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 ### [ A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. ](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-followed-15-minutes-later-by-a-7-3-magnitude-aftershock-a-tsunami-warning-is-issued.md)
 _Context: Aftershock, Vanuatu, earthquake, magnitude_
 
-### [ ''The Red Book'' by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
+### [ "The Red Book" by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
 _Context: Carl Jung, Switzerland, The Red Book, psychiatrist_
 
 ## [Previous Day...](/news/2009/10/6/index.md)

@@ -3,7 +3,7 @@
 ### [ Wildfires force the evacuation of thousands of residents of San Bernardino and San Diego Counties in the U.S. state of California. ](/news/2007/09/15/wildfires-force-the-evacuation-of-thousands-of-residents-of-san-bernardino-and-san-diego-counties-in-the-u-s-state-of-california.md)
 Thousands of people were evacuated as out-of-control wildfires tore through thousands of acres in Southern California on Saturday.
 
-### [ The ''Washington Post'' reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-ta.md)
+### [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md)
 _Context: Afghanistan's, Iran, NATO, Taliban, Washington Post_
 
 ### [ A bus crash in the western Mexican state of Nayarit kills at least 18 and injures 13. Many of the passengers were from a flight from Phoenix, Arizona, USA, to Guadalajara, Jalisco, that was forced to divert to Puerto Vallarta. ](/news/2007/09/15/a-bus-crash-in-the-western-mexican-state-of-nayarit-kills-at-least-18-and-injures-13-many-of-the-passengers-were-from-a-flight-from-phoeni.md)
@@ -45,7 +45,7 @@ _Context: September 2007 Sumatra earthquakes_
 ### [ Nineteen people are killed in Sri Lanka as a result of a roadside bomb and fighting between the Sri Lankan Army and the Tamil Tigers. ](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.md)
 _Context: Sri Lanka, Sri Lankan Army, Tamil Tigers_
 
-### [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md)
+### [ Zhao Yan, a Chinese journalist working for the "New York Times", is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for-le.md)
 _Context: China, New York Times, Zhao Yan, jail_
 
 ### [ Impact of Meteorite at Carancas in Peru.](/news/2007/09/15/impact-of-meteorite-at-carancas-in-peru.md)

@@ -1,0 +1,23 @@
+### [2016-07-7](/news/2016/07/7/index.md)
+
+# Human rights in the Philippines; Philippine Drug War. The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. 
+
+
+
+
+### Source:
+
+1. [GMA News](http://www.gmanetwork.com/news/story/572789/news/nation/solon-seeks-house-probe-on-killings-of-suspected-drug-offenders)
+
+### Related:
+
+1. [Human rights in the Philippines; Philippine Drug War. The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. ](/news/2016/07/8/human-rights-in-the-philippines-philippine-drug-war-the-left-wing-political-party-bagong-alyansang-makabayan-which-is-part-of-the-curren.md) _Context: decades-old problem, drug war, human rights violations_
+2. [Philippine Drug War. Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/philippine-drug-war-senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in.md) _Context: decades-old problem, drug war_
+3. [Philippine Drug War. A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/philippine-drug-war-a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-dru.md) _Context: drug war, human rights violations_
+4. [Philippine Drug War. The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/philippine-drug-war-the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: drug war, human rights violations_
+5. [Philippine Drug War. Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/philippine-drug-war-datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in.md) _Context: decades-old problem, drug war_
+6. [Philippine Drug War. Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. ](/news/2016/08/21/philippine-drug-war-rodrigo-duterte-threatens-to-withdraw-the-philippines-from-its-founding-membership-of-the-united-nations-after-the-inte.md) _Context: drug war, human rights violations_
+7. [Human rights in the Philippines. The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/human-rights-in-the-philippines-the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations.md) _Context: drug war, human rights violations_
+8. [Human rights in the Philippines; Philippine Drug War. Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. ](/news/2016/07/5/human-rights-in-the-philippines-philippine-drug-war-dozens-of-petty-criminals-and-alleged-drug-addicts-die-in-the-philippines-within-a-few.md) _Context: drug war, human rights violations_
+9. [CPP-NPA-NDF rebellion; Philippine Drug War. The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cpp-npa-ndf-rebellion-philippine-drug-war-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagon.md) _Context: decades-old problem, drug war_
+10. [Human rights in the Philippines; Philippine Drug War. Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/human-rights-in-the-philippines-philippine-drug-war-ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-du.md) _Context: drug war, human rights violations_

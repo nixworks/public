@@ -1,6 +1,6 @@
 ## [2012-07-26](/news/2012/07/26/index.md)
 
-### [Syrian civil war:The Syrian Army is reportedly preparing for a large-scale offensive in Aleppo, with the US State Department citing credible reports of tank columns moving into the city, backed by special forces, helicopter gunships and fixed-wing aircraft. ](/news/2012/07/26/syrian-civil-war-pthe-syrian-army-is-reportedly-preparing-for-a-large-scale-offensive-in-aleppo-with-the-us-state-department-citing-credibl.md)
+### [Syrian civil war:. The Syrian Army is reportedly preparing for a large-scale offensive in Aleppo, with the US State Department citing credible reports of tank columns moving into the city, backed by special forces, helicopter gunships and fixed-wing aircraft. ](/news/2012/07/26/syrian-civil-war-the-syrian-army-is-reportedly-preparing-for-a-large-scale-offensive-in-aleppo-with-the-us-state-department-citing-credib.md)
 _Context: Aleppo, Syrian Army, Syrian Civil War, US State Department_
 
 ### [A bomb explosion in a crowded market in northwestern Pakistan close to the Afghan border kills at least seven people. ](/news/2012/07/26/a-bomb-explosion-in-a-crowded-market-in-northwestern-pakistan-close-to-the-afghan-border-kills-at-least-seven-people.md)

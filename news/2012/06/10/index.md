@@ -6,7 +6,7 @@ At least 35 people were killed in Syrian army bombardment over the last 24 hours
 ### [A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. ](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-burma-after-clashes-between-buddhists-and-muslims.md)
 _Context: Buddhists, Burma, Muslim, sectarian violence, state of emergency_
 
-### [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with ''Clybourne Park'' winning the Tony Award for Best Play and ''Once'' winning the Tony Award for Best Musical''. ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for.md)
+### [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with "Clybourne Park" winning the Tony Award for Best Play and "Once" winning the Tony Award for Best Musical". ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for-b.md)
 Charles Isherwood and Dave Itzkoff live blog the Tony Awards.
 
 ### [Data released on the website of the General Administration of Customs in the People's Republic of China indicates that China is significantly increasing its importation of crude oil to a record high, and some refineries have increased their processing rate. ](/news/2012/06/10/data-released-on-the-website-of-the-general-administration-of-customs-in-the-people-s-republic-of-china-indicates-that-china-is-significantl.md)

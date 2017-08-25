@@ -9,13 +9,13 @@ Two separate bombings in Kandahar and Kunduz kill at least 10 people, including 
 ### [2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. ](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.md)
 _Context: Azerbaijan, Nagorno-Karabakh region_
 
-### [Tony Blair is met with a three-hundred person antiwar demonstration and has a small number of individuals throw objects (shoes, bottles and eggs), and encounters an attempted citizen's arrest for war crimes at Eason's in Dublin, Ireland, at his first public book signing for ''A Journey''; four are arrested.  Clashes between protesters and police lead to the closure of businesses and the Luas tram system. ](/news/2010/09/4/tony-blair-is-met-with-a-three-hundred-person-antiwar-demonstration-and-has-a-small-number-of-individuals-throw-objects-shoes-bottles-and.md)
+### [Tony Blair is met with a three-hundred person antiwar demonstration and has a small number of individuals throw objects (shoes, bottles and eggs), and encounters an attempted citizen's arrest for war crimes at Eason's in Dublin, Ireland, at his first public book signing for "A Journey"; four are arrested. Clashes between protesters and police lead to the closure of businesses and the Luas tram system. ](/news/2010/09/4/tony-blair-is-met-with-a-three-hundred-person-antiwar-demonstration-and-has-a-small-number-of-individuals-throw-objects-shoes-bottles-and.md)
 Four people were arrested during minor scuffles between gardaí and anti-war protestors as former British prime minister Tony Blair arrived to sign copies of his autobiography in Dublin.
 
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, curfew, state of emergency_
 
-### [Australian floods:Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/australian-floods-pheavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-lan.md)
+### [Australian floods:. Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/australian-floods-heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-la.md)
 Emergency crews are evacuating homes in and around Ballarat, as heavy rain falls across Victoria.
 
 ### [A plane crash near Fox Glacier in the South Island of New Zealand is believed to have killed 9 people. ](/news/2010/09/4/a-plane-crash-near-fox-glacier-in-the-south-island-of-new-zealand-is-believed-to-have-killed-9-people.md)
@@ -42,7 +42,7 @@ _Context: Belarus, Oleg Bebenin, suicide_
 ### [A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. ](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.md)
 An Argentine court reopens an investigation into alleged crimes against humanity under General Franco in Spain.
 
-### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after ''The Times'' publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an.md)
+### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md)
 _Context: Iran, Sakineh Mohammadi Ashtiani, Susan Hejrat, Times, adultery_
 
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)

@@ -36,7 +36,7 @@ _Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak_
 ### [The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. ](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.md)
 Authorities gave no new date for the announcement of the winner of the presidential election.
 
-### [Operation Fast and Furious:The United States House Committee on Oversight and Government Reform cites the Attorney-General Eric Holder for contempt of Congress for failing to cooperate with an investigation into Operation "Fast and Furious". ](/news/2012/06/20/operation-fast-and-furious-pthe-united-states-house-committee-on-oversight-and-government-reform-cites-the-attorney-general-eric-holder-for.md)
+### [Operation Fast and Furious:. The United States House Committee on Oversight and Government Reform cites the Attorney-General Eric Holder for contempt of Congress for failing to cooperate with an investigation into Operation "Fast and Furious". ](/news/2012/06/20/operation-fast-and-furious-the-united-states-house-committee-on-oversight-and-government-reform-cites-the-attorney-general-eric-holder-for.md)
 The president asserted executive privilege over documents related to the &ldquo;Fast and Furious&rdquo; operation as a House panel moved forward with plans to hold the attorney general in contempt.
 
 ## [Previous Day...](/news/2012/06/19/index.md)

@@ -1,6 +1,6 @@
 ## [2013-02-7](/news/2013/02/7/index.md)
 
-### [Eugne Delacroix's famous painting ''Liberty Leading the People'' is vandalized while on display at the new Louvre-Lens museum in France. ](/news/2013/02/7/eugene-delacroix-s-famous-painting-liberty-leading-the-people-is-vandalized-while-on-display-at-the-new-louvre-lens-museum-in-france.md)
+### [Eugne Delacroix's famous painting "Liberty Leading the People" is vandalized while on display at the new Louvre-Lens museum in France. ](/news/2013/02/7/eugene-delacroix-s-famous-painting-liberty-leading-the-people-is-vandalized-while-on-display-at-the-new-louvre-lens-museum-in-france.md)
 A woman was seized by security guards after using marker pen to deface one of the most famous paintings by Eugene Delacroix at an exhibition in northern France.
 
 ### [Irish lawmakers vote 113 to 36 to liquidate the Irish Bank Resolution Corporation (IBRC), with Joe Higgins of the opposition Socialist Party describing the rapid developments as "chaotic". ](/news/2013/02/7/irish-lawmakers-vote-113-to-36-to-liquidate-the-irish-bank-resolution-corporation-ibrc-with-joe-higgins-of-the-opposition-socialist-party.md)

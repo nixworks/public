@@ -1,9 +1,9 @@
 ## [2013-03-14](/news/2013/03/14/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. ](/news/2013/03/14/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-coordinated-car-bombs-and-suicide-bombers-strike-central-baghdad-followed-by-a-militan.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. ](/news/2013/03/14/iraqi-insurgency-post-u-s-withdrawal-a-string-of-coordinated-car-bombs-and-suicide-bombers-strike-central-baghdad-followed-by-a-milita.md)
 Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday near the heavily fortified Green Zone, where several Western embassies are located, police and medics said.
 
-### [Mexican Drug War:Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-pgunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege.md)
+### [Mexican Drug War:. Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-alleg.md)
 _Context: Cancun, Mexican Drug War, Mexico_
 
 ### [Former Khmer Rouge senior official and Foreign Minister of Kampuchea Ieng Sary dies during a genocide trial in Phnom Penh, Cambodia. ](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.md)

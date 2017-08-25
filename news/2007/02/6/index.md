@@ -1,6 +1,6 @@
 ## [2007-02-6](/news/2007/02/6/index.md)
 
-### [ At least three domain name system root nameservers are under denial-of-service attack. [http://www.theregister.co.uk/2007/02/07/root_server_attack/ (The Register)]. See ''DNS Backbone DDoS Attacks''](/news/2007/02/6/at-least-three-domain-name-system-root-nameservers-are-under-denial-of-service-attack-http-www-theregister-co-uk-2007-02-07-root_server.md)
+### [ At least three domain name system root nameservers are under denial-of-service attack. [http://www.theregister.co.uk/2007/02/07/root_server_attack/ (The Register)]. See "DNS Backbone DDoS Attacks"](/news/2007/02/6/at-least-three-domain-name-system-root-nameservers-are-under-denial-of-service-attack-http-www-theregister-co-uk-2007-02-07-root_server.md)
 _Context: DNS, DNS Backbone DDoS Attacks, denial-of-service attack, root nameserver_
 
 ### [ Representatives of the Lord's Resistance Army say they will continue fighting with the Government of Uganda if negotiations are not moved to another location outside of southern Sudan. ](/news/2007/02/6/representatives-of-the-lord-s-resistance-army-say-they-will-continue-fighting-with-the-government-of-uganda-if-negotiations-are-not-moved-t.md)
@@ -21,7 +21,7 @@ _Context: Britain, Iran, Prime Minister, Tony Blair, nuclear scientist_
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
 _Context: Baghdad, Iran, Iranian government, Iraqi army, United States_
 
-### [ UK newspaper ''The Sun'' has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-ki.md)
+### [ UK newspaper "The Sun" has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-kill.md)
 _Context: Air Force, Britain, Iraq War, The Sun, friendly fire_
 
 ### [ Three people in the United Kingdom have been jailed after plotting over internet chatrooms to abduct and rape two teenage girls. ](/news/2007/02/6/three-people-in-the-united-kingdom-have-been-jailed-after-plotting-over-internet-chatrooms-to-abduct-and-rape-two-teenage-girls.md)

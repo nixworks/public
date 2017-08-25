@@ -9,7 +9,7 @@ _Context: Cat Stevens, Hall & Oates, KISS, Linda Ronstadt, Nirvana, Peter Gabrie
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
 _Context: Chapter 11, Coldwater Creek_
 
-### [Cyclone Ita:Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-presidents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
+### [Cyclone Ita:. Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
 _Context: Cape Flattery, Cooktown, Cyclone Ita, Queensland_
 
 ### [A magnitude 7.1 earthquake strikes off the coast of Papua New Guinea, setting off tsunami warnings for the country. ](/news/2014/04/11/a-magnitude-7-1-earthquake-strikes-off-the-coast-of-papua-new-guinea-setting-off-tsunami-warnings-for-the-country.md)
@@ -18,7 +18,7 @@ A powerful magnitude 7.1 earthquake has struck off Papua New Guinea with a 6.7-m
 ### [The United Nations votes to send 12,000 peacekeepers to the Central African Republic to help protect citizens as Christians and Muslims continue to fight in the country. ](/news/2014/04/11/the-united-nations-votes-to-send-12-000-peacekeepers-to-the-central-african-republic-to-help-protect-citizens-as-christians-and-muslims-cont.md)
 Thousands of UN peacekeepers will be sent to the Central African Republic after violence sparks concerns of genocide.
 
-### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
+### [2014 Crimean crisis. Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/2014-crimean-crisis-montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-t.md)
 _Context: 2014 Crimean crisis, Albania, Iceland, Montenegro, Norway, supporting sanctions_
 
 ### [The 4-year prison sentence of New Citizens' Movement founder Xu Zhiyong is upheld in a Chinese court. ](/news/2014/04/11/the-4-year-prison-sentence-of-new-citizens-movement-founder-xu-zhiyong-is-upheld-in-a-chinese-court.md)
@@ -30,7 +30,7 @@ LAS VEGAS - A woman was taken into federal custody yesterday after throwing a sh
 ### [$1.8 billion in fines are imposed on S.A.C. Capital Advisors by the United States for insider trading violations. ](/news/2014/04/11/1-8-billion-in-fines-are-imposed-on-s-a-c-capital-advisors-by-the-united-states-for-insider-trading-violations.md)
 A US court accepts a $1.8bn (£1.07bn) settlement for insider trading by US hedge fund group SAC Capital Advisors.
 
-### [Seamus Daly, a suspect in the Omagh bombing of 1998 in Ireland, is remanded without bail and will face 29 counts of murder.  ](/news/2014/04/11/seamus-daly-a-suspect-in-the-omagh-bombing-of-1998-in-ireland-is-remanded-without-bail-and-will-face-29-counts-of-murder.md)
+### [Seamus Daly, a suspect in the Omagh bombing of 1998 in Ireland, is remanded without bail and will face 29 counts of murder. ](/news/2014/04/11/seamus-daly-a-suspect-in-the-omagh-bombing-of-1998-in-ireland-is-remanded-without-bail-and-will-face-29-counts-of-murder.md)
 A man accused of murdering 29 people in the 1998 Omagh bombing is remanded in custody.
 
 ### [President of the United States Barack Obama nominates Sylvia Mathews Burwell to be the next United States Secretary of Health and Human Services to replace the resigning Kathleen Sebelius. ](/news/2014/04/11/president-of-the-united-states-barack-obama-nominates-sylvia-mathews-burwell-to-be-the-next-united-states-secretary-of-health-and-human-serv.md)

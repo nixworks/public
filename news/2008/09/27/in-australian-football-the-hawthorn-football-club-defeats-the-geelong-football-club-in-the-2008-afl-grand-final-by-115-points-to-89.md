@@ -12,4 +12,4 @@ Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically top
 ### Related:
 
 1. [ Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.md) _Context: Geelong_
-2. [ The Geelong Football Club wins the 2007 AFL Grand Final at the Melbourne Cricket Ground in Melbourne, Australia by a record 119 points, the first win for the club since 1963. ](/news/2007/09/29/the-geelong-football-club-wins-the-2007-afl-grand-final-at-the-melbourne-cricket-ground-in-melbourne-australia-by-a-record-119-points-the.md) _Context: Geelong_
+2. [ The Geelong Football Club wins the 2007 AFL Grand Final at the Melbourne Cricket Ground in Melbourne, Australia by a record 119 points, the first win for the club since 1963. [http://www.realfooty.com.au/news/news/simply-smashing-cats-sweep-aside-years-of-pain/2007/09/29/1190486637657.html (BigFooty (part of The Age))]](/news/2007/09/29/the-geelong-football-club-wins-the-2007-afl-grand-final-at-the-melbourne-cricket-ground-in-melbourne-australia-by-a-record-119-points-the.md) _Context: Geelong_

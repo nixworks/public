@@ -15,7 +15,7 @@ Dissident republican group the Real IRA says it carried out a car bomb attack in
 ### [A state of emergency in place in Ecuador after the 2010 Ecuador crisis is extended to Friday. ](/news/2010/10/5/a-state-of-emergency-in-place-in-ecuador-after-the-2010-ecuador-crisis-is-extended-to-friday.md)
 _Context: Ecuador, protested against being stripped of their bonuses, state of emergency_
 
-### [TVNZ ''Breakfast'' race row:''Breakfast'' broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry.  ](/news/2010/10/5/tvnz-breakfast-race-row-p-breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial.md)
+### [TVNZ "Breakfast" race row:. "Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/tvnz-breakfast-race-row-breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-in.md)
 Paul Henry has been suspended by TVNZ for comments he made yesterday about the Governor-General Sir Anand Satyanand. - New Zealand Herald
 
 ### [Google lines up Internet TV programming partners like TBS, TNT, CNN, HBO, NBA, CNBC. ](/news/2010/10/5/google-lines-up-internet-tv-programming-partners-like-tbs-tnt-cnn-hbo-nba-cnbc.md)
@@ -42,7 +42,7 @@ _Context: Bahamas, Cessna 402_
 ### [President of Indonesia Susilo Bambang Yudhoyono cancels a state visit to the Netherlands in protest of a possible court arrest. ](/news/2010/10/5/president-of-indonesia-susilo-bambang-yudhoyono-cancels-a-state-visit-to-the-netherlands-in-protest-of-a-possible-court-arrest.md)
 Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoyono arrested.
 
-### [Former Pakistani President Pervez Musharraf tells ''Der Spiegel'' that a blind eye was turned to militant groups fighting in Kashmir. ](/news/2010/10/5/former-pakistani-president-pervez-musharraf-tells-der-spiegel-that-a-blind-eye-was-turned-to-militant-groups-fighting-in-kashmir.md)
+### [Former Pakistani President Pervez Musharraf tells "Der Spiegel" that a blind eye was turned to militant groups fighting in Kashmir. ](/news/2010/10/5/former-pakistani-president-pervez-musharraf-tells-der-spiegel-that-a-blind-eye-was-turned-to-militant-groups-fighting-in-kashmir.md)
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
@@ -72,7 +72,7 @@ Twelve people are detained in two raids targeting groups linked to armed fighter
 ### [Steven Hayes is found guilty of murdering three women of the same family in Connecticut during a home invasion in 2007, now he is facing the death sentence or life imprisonment.](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.md)
 A paroled burglar was found guilty Tuesday of murdering a mother and her two daughters in a 2007 home invasion in an affluent Connecticut town. The killer, Steven Hayes, one of two men charged in the murders, now could be sentenced to death.
 
-### [Ahmed Ghailani will have the first civilian trial for a  Guantanamo inmate which will begin tomorrow in New York. ](/news/2010/10/5/ahmed-ghailani-will-have-the-first-civilian-trial-for-a-guantanamo-inmate-which-will-begin-tomorrow-in-new-york.md)
+### [Ahmed Ghailani will have the first civilian trial for a Guantanamo inmate which will begin tomorrow in New York. ](/news/2010/10/5/ahmed-ghailani-will-have-the-first-civilian-trial-for-a-guantanamo-inmate-which-will-begin-tomorrow-in-new-york.md)
 The judge in the first civilian case against an ex-Guantanamo inmate bars a key government witness, in a blow to US prosecutors.
 
 ### [Serbia mark the tenth anniversary of the overthrow of Slobodan Milosevic. EU and U.S. politicians send their congratulations. ](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.md)
@@ -96,7 +96,7 @@ Sudan has set November 14 as the start date for voter registration in a historic
 ### [Guinea announces that the second round of voting for the Guinea presidential election will be on October 24 after months of delay. ](/news/2010/10/5/guinea-announces-that-the-second-round-of-voting-for-the-guinea-presidential-election-will-be-on-october-24-after-months-of-delay.md)
 _Context: Guinea, November's presidential poll_
 
-### [Physicists Andre Geim and Konstantin Novoselov at the University of Manchester win the 2010 Nobel Prize in Physics  "for groundbreaking experiments regarding the two-dimensional material graphene". ](/news/2010/10/5/physicists-andre-geim-and-konstantin-novoselov-at-the-university-of-manchester-win-the-2010-nobel-prize-in-physics-for-groundbreaking-expe.md)
+### [Physicists Andre Geim and Konstantin Novoselov at the University of Manchester win the 2010 Nobel Prize in Physics "for groundbreaking experiments regarding the two-dimensional material graphene". ](/news/2010/10/5/physicists-andre-geim-and-konstantin-novoselov-at-the-university-of-manchester-win-the-2010-nobel-prize-in-physics-for-groundbreaking-exper.md)
 Two Russian-born physicists honoured for work on graphene, which is both the thinnest and toughest material known.
 
 ## [Previous Day...](/news/2010/10/4/index.md)

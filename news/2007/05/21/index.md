@@ -9,7 +9,7 @@ _Context: 2008, Bill Richardson, California, Democratic, Governor of New Mexico,
 ### [ The Battle of Nahr al-Bared continues at the Nahr al-Bared refugee camp in Tripoli, Lebanon for a second successive day. ](/news/2007/05/21/the-battle-of-nahr-al-bared-continues-at-the-nahr-al-bared-refugee-camp-in-tripoli-lebanon-for-a-second-successive-day.md)
 _Context: Battle of Nahr al-Bared, Nahr al-Bared, Tripoli, Lebanon, refugee_
 
-### [ The historic tea clipper ''Cutty Sark'', the last surviving preserved vessel of its kind, catches fire in a drydock in Greenwich, London. Arson is being considered as a possible cause. ](/news/2007/05/21/the-historic-tea-clipper-cutty-sark-the-last-surviving-preserved-vessel-of-its-kind-catches-fire-in-a-drydock-in-greenwich-london-a.md)
+### [ The historic tea clipper "Cutty Sark", the last surviving preserved vessel of its kind, catches fire in a drydock in Greenwich, London. Arson is being considered as a possible cause. ](/news/2007/05/21/the-historic-tea-clipper-cutty-sark-the-last-surviving-preserved-vessel-of-its-kind-catches-fire-in-a-drydock-in-greenwich-london-ars.md)
 _Context: Cutty Sark, Greenwich, London, arson, clipper, drydock_
 
 ## [Previous Day...](/news/2007/05/20/index.md)

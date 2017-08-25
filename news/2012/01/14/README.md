@@ -9,7 +9,7 @@ _Context: Bucharest, Clashes, President, Romania, Traian Basescu, austerity meas
 ### [A power transformer malfunction in Bursa, Turkey, leaves millions without electricity, including the metropolis of Istanbul. ](/news/2012/01/14/a-power-transformer-malfunction-in-bursa-turkey-leaves-millions-without-electricity-including-the-metropolis-of-istanbul.md)
 _Context: Bursa, Istanbul, Turkey, transformer_
 
-### [Rescue teams find two survivors trapped inside the capsized cruise ship ''Costa Concordia'', which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-j.md)
+### [Rescue teams find two survivors trapped inside the capsized cruise ship "Costa Concordia", which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-jan.md)
 _Context: Costa Concordia, Tuscany_
 
 ### [The Emir of Qatar, Sheikh Hamad bin Khalifa al-Thani, proposes that Arab League troops be sent to Syria to end ongoing violence in the country. ](/news/2012/01/14/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-proposes-that-arab-league-troops-be-sent-to-syria-to-end-ongoing-violence-in-the-count.md)

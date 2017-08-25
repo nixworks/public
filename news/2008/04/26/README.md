@@ -3,7 +3,7 @@
 ### [ The death toll from a fire in a mattress factory in the Hay Hassani district of Casablanca rises to 55. ](/news/2008/04/26/the-death-toll-from-a-fire-in-a-mattress-factory-in-the-hay-hassani-district-of-casablanca-rises-to-55.md)
 _Context: Casablanca, factory, fire, mattress_
 
-### [ The 26 members of the Spanish FV ''Playa de Bakio'' are released by Somali pirates. ](/news/2008/04/26/the-26-members-of-the-spanish-fv-playa-de-bakio-are-released-by-somali-pirates.md)
+### [ The 26 members of the Spanish FV "Playa de Bakio" are released by Somali pirates. ](/news/2008/04/26/the-26-members-of-the-spanish-fv-playa-de-bakio-are-released-by-somali-pirates.md)
 _Context: Piracy off the coast of Somalia_
 
 ### [ Canada's largest transit agency; the Toronto Transit Commission is shut down by a surprise transit strike. ](/news/2008/04/26/canada-s-largest-transit-agency-the-toronto-transit-commission-is-shut-down-by-a-surprise-transit-strike.md)

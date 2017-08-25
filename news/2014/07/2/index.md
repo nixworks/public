@@ -1,15 +1,15 @@
 ## [2014-07-2](/news/2014/07/2/index.md)
 
-### [A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md)
+### [Taliban insurgency. A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/taliban-insurgency-a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md)
 A suicide bomber kills at least eight military officers in an attack on an air force bus in the Afghan capital Kabul, officials say.
 
-### [A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. ](/news/2014/07/2/a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-israeli-teenagers-clashes-break.md)
+### [Israeli-Palestinian conflict. A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. ](/news/2014/07/2/israeli-palestinian-conflict-a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-i.md)
 The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many residents of Beit Hanina and Shuafat.
 
 ### [Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. ](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.md)
 _Context: Genentech Inc., Roche Holding AG, biotechnology_
 
-### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
+### [2014 Atlantic hurricane season. Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/2014-atlantic-hurricane-season-tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-ca.md)
 _Context: 2014 Atlantic hurricane season, Arthur, Hatteras Island, North Carolina, Outer Banks_
 
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)
@@ -21,7 +21,7 @@ A propane tank on a food truck in Philadelphia exploded into a fireball, critica
 ### [At least 70 asylum seekers drown at sea after their boat sinks off the coast of Sicily with 27 rescued. ](/news/2014/07/2/at-least-70-asylum-seekers-drown-at-sea-after-their-boat-sinks-off-the-coast-of-sicily-with-27-rescued.md)
 Some 70 people are lost at sea after their boat capsized off Sicily, survivors say, in the latest disaster to hit migrants crossing to Italy.
 
-### [The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra-ghana-to-discuss-ways-of-combat.md)
+### [2014 West Africa Ebola outbreak. The World Health Organisation convenes an emergency meeting of health ministers from 11 countries in Accra, Ghana, to discuss ways of combatting the outbreak which has so far infected 763 people, leading to 468 deaths. ](/news/2014/07/2/2014-west-africa-ebola-outbreak-the-world-health-organisation-convenes-an-emergency-meeting-of-health-ministers-from-11-countries-in-accra.md)
 Health ministers from 11 African countries are meeting in Accra, Ghana, in an attempt to &quot;get a grip&quot; on the deadly and worsening Ebola outbreak.
 
 ### [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md)

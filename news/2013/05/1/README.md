@@ -1,15 +1,15 @@
 ## [2013-05-1](/news/2013/05/1/index.md)
 
-### [South Thailand insurgency:Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-pinsurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md)
+### [South Thailand insurgency:. Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Boston Marathon bombing:Boston Police state that three more individuals are implicated and arrested. ](/news/2013/05/1/boston-marathon-bombing-pboston-police-state-that-three-more-individuals-are-implicated-and-arrested.md)
+### [Boston Marathon bombing:. Boston Police state that three more individuals are implicated and arrested. ](/news/2013/05/1/boston-marathon-bombing-boston-police-state-that-three-more-individuals-are-implicated-and-arrested.md)
 _Context: Boston Marathon bombing, Boston Police_
 
-### [Insurgency in the North Caucasus:A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-pa-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-othe.md)
+### [Insurgency in the North Caucasus:. A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-oth.md)
 _Context: Dagestan, Insurgency in the North Caucasus, Makhachkala, Russia_
 
-### [Iraqi insurgency (post-U.S. withdrawal):Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-pmultiple-bomb-attacks-across-iraq-kill-at-least-15-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md)
 At least 22 people are killed in attacks across Iraq, police and medics say, after weeks of intensifying violence that threatens all-out sectarian conflict.
 
 ### [T-Mobile US debuts on the New York Stock Exchange with the ticker symbol TMUS. ](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.md)
@@ -30,19 +30,19 @@ Bermuda and other British overseas territories with financial centres have signe
 ### [A May Day protest in Seattle, United States, escalates into violence, causing injuries to eight police officers and damage to storefront property. ](/news/2013/05/1/a-may-day-protest-in-seattle-united-states-escalates-into-violence-causing-injuries-to-eight-police-officers-and-damage-to-storefront-pro.md)
 A May Day protest in Seattle turned violent Wednesday night and ended with 17 arrests, eight injured police officers and several damaged Capitol Hill storefronts. This after an earlier peaceful immigrant rights march and rally.
 
-### [British ''Coronation Street'' star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping.md)
+### [British "Coronation Street" star William Roache, the world's longest-serving soap actor, is arrested and charged with two counts of raping a 15-year-old girl in 1967. ](/news/2013/05/1/british-coronation-street-star-william-roache-the-world-s-longest-serving-soap-actor-is-arrested-and-charged-with-two-counts-of-raping-a.md)
 _Context: Coronation Street, William Roache, sexual assault_
 
 ### [Seven Venezuelan legislators are injured as a fight breaks out between the Socialist Party and the opposition over the outcome of the last month's presidential election. ](/news/2013/05/1/seven-venezuelan-legislators-are-injured-as-a-fight-breaks-out-between-the-socialist-party-and-the-opposition-over-the-outcome-of-the-last-m.md)
 _Context: National Assembly, United Social Party of Venezuela, last month's presidential election_
 
-### [In San Jose, California, IBM researchers release ''A Boy and His Atom'', the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-ind.md)
+### [In San Jose, California, IBM researchers release "A Boy and His Atom", the smallest movie ever made, which was created by manipulating individual carbon monoxide molecules with a scanning tunneling microscope. ](/news/2013/05/1/in-san-jose-california-ibm-researchers-release-a-boy-and-his-atom-the-smallest-movie-ever-made-which-was-created-by-manipulating-indiv.md)
 _Context: A Boy and His Atom, IBM, San Jose, California, carbon monoxide, scanning tunneling microscope_
 
-### [An international group of researchers announce in ''Nature'' the creation of a digital camera that can mimic the compound eyes of insects. ](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.md)
+### [An international group of researchers announce in "Nature" the creation of a digital camera that can mimic the compound eyes of insects. ](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.md)
 _Context: Nature, compound eye, digital camera_
 
-### [The Wyoming, United States discovery of a tiny prehistoric bird, ''Eocypselus rowei'', may help explain the origins of hummingbirds. ](/news/2013/05/1/the-wyoming-united-states-discovery-of-a-tiny-prehistoric-bird-eocypselus-rowei-may-help-explain-the-origins-of-hummingbirds.md)
+### [The Wyoming, United States discovery of a tiny prehistoric bird, "Eocypselus rowei", may help explain the origins of hummingbirds. ](/news/2013/05/1/the-wyoming-united-states-discovery-of-a-tiny-prehistoric-bird-eocypselus-rowei-may-help-explain-the-origins-of-hummingbirds.md)
 A tiny, winged fossil could shed light on the origins of swift and hummingbird flight. The bird fossil, which was discovered in Wyoming, offers clues to the precursors of the speedy wings that these species use.
 
 ## [Previous Day...](/news/2013/04/30/index.md)

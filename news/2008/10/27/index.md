@@ -1,12 +1,12 @@
 ## [2008-10-27](/news/2008/10/27/index.md)
 
-### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents.  ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
+### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents. ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
 _Context: Alaska, Ted Stevens, United States, United States Senate_
 
 ### [ The Washington, D.C. Metro announces it will randomly search "backpacks, gym bags and any other containers that riders carry with them onto the bus and rail system" during periods of increased threat. ](/news/2008/10/27/the-washington-d-c-metro-announces-it-will-randomly-search-backpacks-gym-bags-and-any-other-containers-that-riders-carry-with-them-onto.md)
 _Context: Washington Metro, Washington, D.C._
 
-### [ Kivu conflict: Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-p-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md)
+### [ Kivu conflict:. Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/kivu-conflict-tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Goma, Kivu conflict, Laurent Nkunda, Tutsi_
 
 ### [ Nine major US banks will receive a $US123 billion capital injection from the federal government, says a Treasury Department official. ](/news/2008/10/27/nine-major-us-banks-will-receive-a-us123-billion-capital-injection-from-the-federal-government-says-a-treasury-department-official.md)

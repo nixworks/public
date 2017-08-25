@@ -1,12 +1,12 @@
 ## [2012-05-30](/news/2012/05/30/index.md)
 
-### [Syrian uprising:Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/syrian-uprising-pseveral-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
+### [Syrian uprising:. Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/syrian-uprising-several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
 Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rules out any action by the UN Security Council soon.
 
 ### [Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. ](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.md)
 _Context: Colombia, France 24, Revolutionary Armed Forces of Colombia_
 
-### [The South African gallery which exhibited Brett Murray's controversial painting ''The Spear'' reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-nationa.md)
+### [The South African gallery which exhibited Brett Murray's controversial painting "The Spear" reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-national.md)
 A South African art gallery agrees not to display a painting of President Jacob Zuma with his genitals exposed after reaching a deal with the ANC.
 
 ### [It is announced that a UK concert by the Orquesta Sinfonica Simon Bolivar, Venezuela's premier youth orchestra, is to be live-streamed online on 23 and 26 June, after live tickets sold out eight months in advance. ](/news/2012/05/30/it-is-announced-that-a-uk-concert-by-the-orquesta-sinfa3nica-sima3n-bolavar-venezuela-s-premier-youth-orchestra-is-to-be-live-streamed-on.md)
@@ -30,7 +30,7 @@ US President Barack Obama has caused an outcry in Poland after referring to a Na
 ### [Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. ](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.md)
 _Context: Bilderberg Group, Chantilly, Virginia_
 
-### [''Assange v The Swedish Judicial Authority'':Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-pwikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-a.md)
+### ["Assange v The Swedish Judicial Authority":. Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-ag.md)
 Wikileaks founder Julian Assange loses his Supreme Court fight against extradition to Sweden to face accusations of sex offences.
 
 ### [The former President of Liberia, Charles Taylor, is sentenced to 50 years' imprisonment by the Special Court for Sierra Leone in The Hague for aiding and abetting war crimes during Sierra Leone's civil war. ](/news/2012/05/30/the-former-president-of-liberia-charles-taylor-is-sentenced-to-50-years-imprisonment-by-the-special-court-for-sierra-leone-in-the-hague-f.md)
@@ -54,7 +54,7 @@ The High Court has refused an application by a Sinn Féin TD seeking to have the
 ### [The Parliament of Albania fails without a vote in the first round to elect the President of the republic. ](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.md)
 _Context: President of Albania, elects, parliament_
 
-### [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with ''de facto'' Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-pri.md)
+### [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with "de facto" Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-prime.md)
 Papua New Guinea&#039;s parliament is preparing to elect a new Prime Minister this morning, just a month before the country&#039;s general election. It comes after a dramatic u-turn by Peter O&#039;Neill&#039;s government, which now accepts Sir Michael Somare as PNG&#039;s legitimate leader.
 
 ### [Doctors in the United Kingdom agree to stage a day of industrial action on 21 June, the first such action by the British medical profession since 1975. The strike will lead to cancellations of routine medical appointments, but will not affect emergency care. ](/news/2012/05/30/doctors-in-the-united-kingdom-agree-to-stage-a-day-of-industrial-action-on-21-june-the-first-such-action-by-the-british-medical-profession.md)
@@ -66,7 +66,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [Following the successful sequencing of the tomato genome, scientists state that tastier and more pesticide-resistant tomato varieties can be engineered for commercial use within five years. ](/news/2012/05/30/following-the-successful-sequencing-of-the-tomato-genome-scientists-state-that-tastier-and-more-pesticide-resistant-tomato-varieties-can-be.md)
 Scientists have sequenced the tomato genome and say it will yield tastier fruit as a result.
 
-### [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-a-erupting-within-just-a-few-hundred-years-of-thei.md)
+### [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-erupting-within-just-a-few-hundred-years-of-thei.md)
 _Context: supervolcano_
 
 ## [Previous Day...](/news/2012/05/29/index.md)

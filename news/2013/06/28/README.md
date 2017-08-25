@@ -30,13 +30,13 @@ A New Mexico meat plant received federal approval on Friday to slaughter horses 
 ### [News Corp. completes a planned split into two companies, creating 21st Century Fox. ](/news/2013/06/28/news-corp-completes-a-planned-split-into-two-companies-creating-21st-century-fox.md)
 Rupert Murdoch &apos;s sprawling, $75-billion global empire has broken into two separate companies: 21st Century Fox and a much smaller News Corp.
 
-### [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling EUR20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-a-20-million-into-italy-from.md)
+### [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling -20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-20-million-into-italy-from.md)
 Monsignor Nunzio Scarano is arrested over allegations of corruption and fraud in connection with an inquiry into the scandal-hit Vatican bank.
 
 ### [French businessman Bernard Tapie is placed under investigation for improperly using political influence to benefit his businesses. ](/news/2013/06/28/french-businessman-bernard-tapie-is-placed-under-investigation-for-improperly-using-political-influence-to-benefit-his-businesses.md)
 _Context: Bernard Tapie_
 
-### [A man is arrested in England on charges related to an attack on the John Constable painting ''The Hay Wain''. ](/news/2013/06/28/a-man-is-arrested-in-england-on-charges-related-to-an-attack-on-the-john-constable-painting-the-hay-wain.md)
+### [A man is arrested in England on charges related to an attack on the John Constable painting "The Hay Wain". ](/news/2013/06/28/a-man-is-arrested-in-england-on-charges-related-to-an-attack-on-the-john-constable-painting-the-hay-wain.md)
 _Context: John Constable, The Hay Wain_
 
 ### [Gay marriage in the state of California is legalized after the stay held on the unconstitutional California Proposition 8 is lifted. Two women who successfully challenged Proposition 8 in the Supreme Court of the United States are married in San Francisco. ](/news/2013/06/28/gay-marriage-in-the-state-of-california-is-legalized-after-the-stay-held-on-the-unconstitutional-california-proposition-8-is-lifted-two-wom.md)

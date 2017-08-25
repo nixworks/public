@@ -30,19 +30,19 @@ _Context: Ukraine, Ukrainian President, Viktor Yanukovych_
 ### [A fire at the Garib & Garib Sweater Factory clothes factory in Gazipur, Bangladesh kills at least 18 people and injures more than 50 others. ](/news/2010/02/25/a-fire-at-the-garib-garib-sweater-factory-clothes-factory-in-gazipur-bangladesh-kills-at-least-18-people-and-injures-more-than-50-others.md)
 _Context: Bangladesh, Gazipur_
 
-### [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murderasuicide.md)
+### [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murder-suicide.md)
 _Context: Algeria, Ali Tounsi, murder-suicide_
 
 ### [The International Criminal Tribunal for Rwanda (ICTR) jails Lieut-Col Eprem Setako, the Ministry of Defence's former head of legal affairs, for 25 years after finding him guilty of genocide and crimes against humanity. ](/news/2010/02/25/the-international-criminal-tribunal-for-rwanda-ictr-jails-lieut-col-eprem-setako-the-ministry-of-defence-s-former-head-of-legal-affairs.md)
 _Context: Eprem Setako, International Criminal Tribunal for Rwanda, crimes against humanity, genocide_
 
-### [The Congressional Black Caucus appeals to American President Barack Obama and Democratic congressional leaders  for tougher efforts to reduce racial disparities in the U.S. health system, saying there are four critical areas not addressed by Obama's plan. ](/news/2010/02/25/the-congressional-black-caucus-appeals-to-american-president-barack-obama-and-democratic-congressional-leaders-for-tougher-efforts-to-reduc.md)
+### [The Congressional Black Caucus appeals to American President Barack Obama and Democratic congressional leaders for tougher efforts to reduce racial disparities in the U.S. health system, saying there are four critical areas not addressed by Obama's plan. ](/news/2010/02/25/the-congressional-black-caucus-appeals-to-american-president-barack-obama-and-democratic-congressional-leaders-for-tougher-efforts-to-reduce.md)
 Black caucus wants Obama and top Dems to go after racial disparities in health-care system.
 
-### [Filming on the set of ''Coronation Street'' is suspended as actors and fans gather at Salford Cathedral to celebrate the life of veteran actress Maggie Jones (Blanche Hunt). ](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-suspended-as-actors-and-fans-gather-at-salford-cathedral-to-celebrate-the-life-of-veteran-act.md)
+### [Filming on the set of "Coronation Street" is suspended as actors and fans gather at Salford Cathedral to celebrate the life of veteran actress Maggie Jones (Blanche Hunt). ](/news/2010/02/25/filming-on-the-set-of-coronation-street-is-suspended-as-actors-and-fans-gather-at-salford-cathedral-to-celebrate-the-life-of-veteran-actre.md)
 _Context: Blanche Hunt, Coronation Street, Maggie Jones, Salford Cathedral_
 
-### [Odeon dispute with Disney: The boycott of Tim Burton's ''Alice in Wonderland'' is reversed. ](/news/2010/02/25/odeon-dispute-with-disney-the-boycott-of-tim-burton-s-alice-in-wonderland-is-reversed.md)
+### [Odeon dispute with Disney: The boycott of Tim Burton's "Alice in Wonderland" is reversed. ](/news/2010/02/25/odeon-dispute-with-disney-the-boycott-of-tim-burton-s-alice-in-wonderland-is-reversed.md)
 _Context: Alice in Wonderland, Disney, Tim Burton_
 
 ## [Previous Day...](/news/2010/02/24/index.md)

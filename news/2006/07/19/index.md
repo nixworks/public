@@ -12,10 +12,10 @@ _Context: Ben Bernanke, United States Federal Reserve, United States Senate, inf
 ### [ Internet censorship: In an unprecedented move for a leading democracy, India bans some blogs; Huge outrage reported. ](/news/2006/07/19/internet-censorship-in-an-unprecedented-move-for-a-leading-democracy-india-bans-some-blogs-huge-outrage-reported.md)
 Indian bloggers have reacted with anger and confusion, accusing the government of censorship and demanding to know why their sites have been jammed.
 
-### [ 2006 Israel-Lebanon conflict: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-p-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md)
+### [ 2006 Israel-Lebanon conflict:. Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/2006-israel-lebanon-conflict-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md)
 _Context: Hezbollah, Israel, Kofi Annan, Lebanon, UN, war_
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains): At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-p-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):. At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md)
 _Context: Gaza Strip, Israeli-Palestinian conflict, Operation Summer Rains, Palestinians, West Bank_
 
 ### [ Independent reports say that over 100 people are dead and missing in North Korea as a result of floods and landslides, while the North's government-controlled media omitted mention of any casualties. More than 9,000 families are left homeless. There have been at least 25 deaths in South Korea. ](/news/2006/07/19/independent-reports-say-that-over-100-people-are-dead-and-missing-in-north-korea-as-a-result-of-floods-and-landslides-while-the-north-s-go.md)

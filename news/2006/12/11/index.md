@@ -24,16 +24,16 @@ News and opinion from The Times &amp; The Sunday Times
 ### [ Unidentified gunmen try to assassinate Baha Balousheh, a security chief associated with Fatah, but instead shoot and kill his three children in the Gaza Strip. The assassination attempt may have been a revenge attack for the attempted assassination of Interior Minister Sayid Seyam of Hamas. ](/news/2006/12/11/unidentified-gunmen-try-to-assassinate-baha-balousheh-a-security-chief-associated-with-fatah-but-instead-shoot-and-kill-his-three-childre.md)
 _Context: Baha Balousheh, Fatah, Gaza Strip, Sayid Seyam, interior minister_
 
-### [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-st.md)
+### [ The Space Shuttle "Discovery" successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-stat.md)
 _Context: Discovery, International Space Station, Space Shuttle_
 
-### [ In an interview with Jeff Stein, a national security editor for ''Congressional Quarterly'', Silvestre Reyes, the incoming Chairman of the U.S. House Intelligence Committee incorrectly claims that Al Qaeda is a "predominantly Shiite" organization. When asked if Hezbollah is a Sunni or a Shiite organization, Reyes said "It's hard to keep things in perspective and in the categories." ](/news/2006/12/11/in-an-interview-with-jeff-stein-a-national-security-editor-for-congressional-quarterly-silvestre-reyes-the-incoming-chairman-of-the.md)
+### [ In an interview with Jeff Stein, a national security editor for "Congressional Quarterly", Silvestre Reyes, the incoming Chairman of the U.S. House Intelligence Committee incorrectly claims that Al Qaeda is a "predominantly Shiite" organization. When asked if Hezbollah is a Sunni or a Shiite organization, Reyes said "It's hard to keep things in perspective and in the categories." ](/news/2006/12/11/in-an-interview-with-jeff-stein-a-national-security-editor-for-congressional-quarterly-silvestre-reyes-the-incoming-chairman-of-the-u.md)
 _Context: Congressional Quarterly, Hezbollah, Shiite, Silvestre Reyes, United States House of Representatives, al-Qaeda_
 
 ### [ A devastating bushfire rips through the town of Scamander, Tasmania in Australia, destroying 23 homes. ](/news/2006/12/11/a-devastating-bushfire-rips-through-the-town-of-scamander-tasmania-in-australia-destroying-23-homes.md)
 _Context: Australia, Scamander, Tasmania, bushfire_
 
-### [ American supercentenarian and oldest living personElizabeth Bolden dies and leaves Emiliano Mercado del Toro as the titleholder.  ](/news/2006/12/11/american-supercentenarian-and-oldest-living-personelizabeth-bolden-dies-and-leaves-emiliano-mercado-del-toro-as-the-titleholder.md)
+### [ American supercentenarian and oldest living personElizabeth Bolden dies and leaves Emiliano Mercado del Toro as the titleholder. ](/news/2006/12/11/american-supercentenarian-and-oldest-living-personelizabeth-bolden-dies-and-leaves-emiliano-mercado-del-toro-as-the-titleholder.md)
 _Context: Elizabeth Bolden, Emiliano Mercado del Toro_
 
 ## [Previous Day...](/news/2006/12/10/index.md)

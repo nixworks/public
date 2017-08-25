@@ -6,7 +6,7 @@ The Chinese government confirmed the test, but said it had no intention of parti
 ### [ Liberal MP Jean Lapierre resigns from the Canadian House of Commons. Justin Trudeau is likely to be the Liberals' candidate in the next election in the Outremont riding. ](/news/2007/01/11/liberal-mp-jean-lapierre-resigns-from-the-canadian-house-of-commons-justin-trudeau-is-likely-to-be-the-liberals-candidate-in-the-next-ele.md)
 _Context: Canada, Canadian House of Commons, Jean Lapierre, Justin Trudeau, Liberal Party's, Outremont riding_
 
-### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
+### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006-2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
 _Context: Bangladesh, Iajuddin Ahmed, curfew, current political crisis, state of emergency_
 
 ### [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md)
@@ -21,7 +21,7 @@ _Context: U.S., al-Qaeda, capture, two years of helping_
 ### [ In the ongoing Operation Mountain Fury, NATO forces kill as many as 150 Taliban militants in Afghanistan's Paktika province. ](/news/2007/01/11/in-the-ongoing-operation-mountain-fury-nato-forces-kill-as-many-as-150-taliban-militants-in-afghanistan-s-paktika-province.md)
 _Context: Afghanistan's, NATO, Operation Mountain Fury, Paktika Province, Taliban_
 
-### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people.  The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
+### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people. The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
 _Context: Canada, Canadian coin, Pentagon officials, U.S. Defense Department, radio transmitter_
 
 ### [ Pieces of wreckage and a body are recovered from the missing Adam Air flight 574. ](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.md)

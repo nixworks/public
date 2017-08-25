@@ -3,7 +3,7 @@
 ### [2013 Tiananmen Square incident: Police in China name two suspects from Xinjiang linked to an apparent suicide attack car crash outside the Forbidden City on Tiananmen Square in the capital Beijing. ](/news/2013/10/29/2013-tiananmen-square-incident-police-in-china-name-two-suspects-from-xinjiang-linked-to-an-apparent-suicide-attack-car-crash-outside-the-f.md)
 Chinese police seek two suspects from Xinjiang linked to a &quot;major incident&quot; in Beijing, after the deadly car crash in Tiananmen Square, state media say.
 
-### [Syrian civil war:Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-psyrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md)
+### [Syrian civil war:. Syrian civilians leave the besieged Damascus suburb of Moadamiya. ](/news/2013/10/29/syrian-civil-war-syrian-civilians-leave-the-besieged-damascus-suburb-of-moadamiya.md)
 Thousands of desperate civilians flee a suburb of the Syrian capital Damascus that has been blockaded by government forces since March.
 
 ### [Four French hostages held in Niger by an Al-Qaeda offshoot since 2010 are released. ](/news/2013/10/29/four-french-hostages-held-in-niger-by-an-al-qaeda-offshoot-since-2010-are-released.md)
@@ -12,10 +12,10 @@ _Context: French-born, Niger, al-Qaeda_
 ### [The Nasdaq Composite and NASDAQ-100 stock indices froze for an hour before resuming at around 1 PM EST. ](/news/2013/10/29/the-nasdaq-composite-and-nasdaq-100-stock-indices-froze-for-an-hour-before-resuming-at-around-1-pm-est.md)
 The Nasdaq was hit with another market glitch on Tuesday, as index data froze just before lunchtime. 
 
-### [Turkey opens a sea tunnel connecting Europe and Asia across the Bosphorus Strait  in Istanbul. ](/news/2013/10/29/turkey-opens-a-sea-tunnel-connecting-europe-and-asia-across-the-bosphorus-strait-in-istanbul.md)
+### [Turkey opens a sea tunnel connecting Europe and Asia across the Bosphorus Strait in Istanbul. ](/news/2013/10/29/turkey-opens-a-sea-tunnel-connecting-europe-and-asia-across-the-bosphorus-strait-in-istanbul.md)
 Dubbed the &quot;project of the century&quot; by the Turkish government, the ambitious railway link cost 3bn euros.
 
-### [St Jude storm:At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-pat-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md)
+### [St Jude storm:. At least 13 people are confirmed dead after the storm hits northern Europe. ](/news/2013/10/29/st-jude-storm-at-least-13-people-are-confirmed-dead-after-the-storm-hits-northern-europe.md)
 A once-in-a-decade storm claims lives in the Netherlands, France, Germany and southern England.
 
 ### [The United Nations confirms an outbreak of polio in Syria. ](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.md)

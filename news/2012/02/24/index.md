@@ -1,6 +1,6 @@
 ## [2012-02-24](/news/2012/02/24/index.md)
 
-### [Arab Spring:Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-paftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-mi.md)
+### [Arab Spring:. Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-m.md)
 World and Arab powers are urging Syria to immediately cease all violence but have not endorsed a military intervention.
 
 ### [A Palestinian man is shot and killed after clashes at an Israeli checkpoint near Ramallah in the West Bank. ](/news/2012/02/24/a-palestinian-man-is-shot-and-killed-after-clashes-at-an-israeli-checkpoint-near-ramallah-in-the-west-bank.md)

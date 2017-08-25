@@ -11,4 +11,4 @@ Two people employed at the US embassy in Mexico are wounded when police open fir
 
 ### Related:
 
-1. [Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police-officers-are-inju.md) _Context: Federal Police_
+1. [Mexican Drug War. Three Mexican Army soldiers die as gunfire downs a helicopter in the state of Jalisco. Ten soldiers and two Federal Police officers are injured. ](/news/2015/05/1/mexican-drug-war-three-mexican-army-soldiers-die-as-gunfire-downs-a-helicopter-in-the-state-of-jalisco-ten-soldiers-and-two-federal-police.md) _Context: Federal Police_

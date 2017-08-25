@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Indonesia, earthquake, magnitude_
+1. [2016 Sumatra earthquake. The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/2016-sumatra-earthquake-the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorol.md) _Context: Indonesia, earthquake, magnitude_
 2. [An earthquake estimated at a magnitude of 6.0 hits Kobe, Japan, injuring at least 22 people. ](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.md) _Context: Japan, earthquake, magnitude_
 3. [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md) _Context: Japan, earthquake, magnitude_
 4. [A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. ](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.md) _Context: Indonesia, earthquake, magnitude_

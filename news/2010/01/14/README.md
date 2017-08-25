@@ -18,7 +18,7 @@ _Context: Blaise Compaore, Burkina Faso, Guinea, Moussa Dadis Camara, Sekouba Ko
 ### [Mongolian President Tsakhiagiin Elbegdorj announces a moratorium on the death penalty, calling for it to be abolished. ](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.md)
 President Tsakhiagiin Elbegdorj cites cases of innocent people given death penalty.
 
-### [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor ''Cork Clipper'' hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indon.md)
+### [A crew of eight Irish sailors is rescued after the Clipper Round the World Yacht Race competitor "Cork Clipper" hits a rock in Java, Indonesia. ](/news/2010/01/14/a-crew-of-eight-irish-sailors-is-rescued-after-the-clipper-round-the-world-yacht-race-competitor-cork-clipper-hits-a-rock-in-java-indones.md)
 Eight Irish people were among crew rescued from a sinking racing yacht after it struck rocks in Indonesian waters.
 
 ### [A man is held in custody in Ireland after threatening that there was a bomb on board a transatlantic flight which had to land in an emergency at Shannon Airport. ](/news/2010/01/14/a-man-is-held-in-custody-in-ireland-after-threatening-that-there-was-a-bomb-on-board-a-transatlantic-flight-which-had-to-land-in-an-emergenc.md)
@@ -27,7 +27,7 @@ _Context: Ireland, Shannon Airport_
 ### [Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. ](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.md)
 Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played down the impact of the Iris Robinson scandal on&hellip;
 
-### [A suicide bombing at a market in  Afghanistan's Oruzgan Province kills 20 people. ](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.md)
+### [A suicide bombing at a market in Afghanistan's Oruzgan Province kills 20 people. ](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.md)
 _Context: Afghanistan's, Oruzgan Province_
 
 ## [Previous Day...](/news/2010/01/13/index.md)

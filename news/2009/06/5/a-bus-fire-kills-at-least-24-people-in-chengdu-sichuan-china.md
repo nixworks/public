@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: Chengdu, China_
+1. [Road incidents in China. At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _Context: Chengdu, China_
 2. [Three more Tibetan protesters set themselves on fire in Sichuan, China. ](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.md) _Context: China, Sichuan_
 3. [A Tibetan protester sets himself on fire in Sichuan, China. ](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.md) _Context: China, Sichuan_
 4. [A Tibetan monk is shot dead in Sichuan, China, in the second violent clash this week as unrest spreads. ](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.md) _Context: China, Sichuan_

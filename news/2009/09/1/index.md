@@ -3,7 +3,7 @@
 ### [ European leaders remember the victims of World War II at ceremonies marking the start of the conflict 70 years ago. ](/news/2009/09/1/european-leaders-remember-the-victims-of-world-war-ii-at-ceremonies-marking-the-start-of-the-conflict-70-years-ago.md)
 Germany&#39;s 1939 invasion of Poland opened the &#39;most tragic chapter&#39; in European history, German Chancellor Angela Merkel has said.
 
-### [ Muammar al-Gaddafi: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-p-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md)
+### [ Muammar al-Gaddafi:. Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md)
 Libyan leader Muammar Gaddafi is celebrating the 40th anniversary of the coup that brought him to power.
 
 ### [ President Tabare Vazquez of Uruguay shuffles his cabinet, with Gonzalo Fernandez, drafter of all major legislation, moving from Foreign Affairs to Defence. ](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.md)
@@ -12,7 +12,7 @@ With only two months left for Uruguay&rsquo;s October general election President
 ### [ Former heavyweight world champion boxer Muhammad Ali visits the birthplace of his great-grandfather in Ennis, Ireland. ](/news/2009/09/1/former-heavyweight-world-champion-boxer-muhammad-ali-visits-the-birthplace-of-his-great-grandfather-in-ennis-ireland.md)
 Ennis came to a standstill this afternoon with the arrival of Muhammad Ali for a host of events organised in his honour.
 
-### [ Speaking in Lima's ''El Comercio'' in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez.md)
+### [ Speaking in Lima's "El Comercio" in response to some ironic quotes by Peruvian President Alan Garcia, Venezuelan President Hugo Chavez says his country will continue to export oil to the United States because it is "in interest". ](/news/2009/09/1/speaking-in-lima-s-el-comercio-in-response-to-some-ironic-quotes-by-peruvian-president-alan-garcaa-venezuelan-president-hugo-cha-vez-sa.md)
 Venezuelan President Hugo Chavez said that his country will continue exporting oil to the United States because it is in interest. In a statement published in the Lima daily El Comercio that &ldquo;many people don&rsquo;t know&rdquo; that Venezuelan state oil giant PDVSA, through its Citgo subsidiar...
 
 ### [ Fiji is suspended from the Commonwealth of Nations, only the second full suspension in the organization's history. ](/news/2009/09/1/fiji-is-suspended-from-the-commonwealth-of-nations-only-the-second-full-suspension-in-the-organization-s-history.md)
@@ -24,7 +24,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 ### [ The unemployment rate across the Eurozone reaches a ten-year high of 9.5%. ](/news/2009/09/1/the-unemployment-rate-across-the-eurozone-reaches-a-ten-year-high-of-9-5.md)
 _Context: Eurozone, unemployment rate_
 
-### [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md)
+### [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its -Cambia tu Camion- (-Change your Truck-) program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-cambia-tu-camia3n.md)
 The Chilean government will subsidize the purchase of more fuel-efficient trucks for citizens through a program set to start later this year. The program, called &ldquo;Cambia tu Cami&oacute;n,&rdquo; or &ldquo;Change your Truck,&rdquo; will offer a bonus of 4, 8 or 12 million pesos (7.200, 14.500 o...
 
 ### [ The European Union bans the manufacture or import of 100 watt incandescent light bulbs, beginning a phase-out in favour of energy-saving compact fluorescent lamps. ](/news/2009/09/1/the-european-union-bans-the-manufacture-or-import-of-100-watt-incandescent-light-bulbs-beginning-a-phase-out-in-favour-of-energy-saving-co.md)
@@ -45,7 +45,7 @@ _Context: Ali Ben Bongo, Andre Mba Obame, Pierre Mamboundou, disputed presidenti
 ### [ 91 countries agree to the first ever global treaty focused specifically on the problem of IUU fishing. ](/news/2009/09/1/91-countries-agree-to-the-first-ever-global-treaty-focused-specifically-on-the-problem-of-iuu-fishing.md)
 91 FAO Members have agreed on an international agreement to implement &ldquo;port state measures&rdquo; to combat illegal fishing.
 
-### [ Documents released by the British government show that the United Kingdom gave in to Libyan demands that the Lockerbie bomber be eligible for transfer home to serve his sentence there.  ](/news/2009/09/1/documents-released-by-the-british-government-show-that-the-united-kingdom-gave-in-to-libyan-demands-that-the-lockerbie-bomber-be-eligible-f.md)
+### [ Documents released by the British government show that the United Kingdom gave in to Libyan demands that the Lockerbie bomber be eligible for transfer home to serve his sentence there. ](/news/2009/09/1/documents-released-by-the-british-government-show-that-the-united-kingdom-gave-in-to-libyan-demands-that-the-lockerbie-bomber-be-eligible-f.md)
 _Context: Britain, British government, Libyan, Lockerbie bomber_
 
 ### [ A Sri Lankan journalist is jailed for 20 years on charges of "inciting racial hatred" and "supporting terrorism" for writing articles critical of the government's military operations. ](/news/2009/09/1/a-sri-lankan-journalist-is-jailed-for-20-years-on-charges-of-inciting-racial-hatred-and-supporting-terrorism-for-writing-articles-criti.md)

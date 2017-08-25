@@ -3,8 +3,8 @@
 ### [ Eight people die in a car bomb explosion at a tourist site in Yemen. ](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-tourist-site-in-yemen.md)
 _Context: Ma'rib, Yemen, car bomb_
 
-### [ The Carlyle Group offers somewhere between PS4 billion and PS5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-aps4-billion-and-aps5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md)
-_Context: Carlyle Group, PS, Virgin Media_
+### [ The Carlyle Group offers somewhere between GBP4 billion and GBP5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-agbp4-billion-and-agbp5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md)
+_Context: Carlyle Group, GBP, Virgin Media_
 
 ### [ Corporal Bill Henry "Willie" Apiata of the Special Air Service of New Zealand is awarded the Victoria Cross for bravery under fire in Afghanistan in 2004. ](/news/2007/07/2/corporal-bill-henry-willie-apiata-of-the-special-air-service-of-new-zealand-is-awarded-the-victoria-cross-for-bravery-under-fire-in-afgha.md)
 A New Zealand soldier has been awarded the Victoria Cross for the first time since World War II.
@@ -18,7 +18,7 @@ _Context: George W. Bush, Iran, Kennebunkport, Maine, Russian President Vladimir
 ### [ The United States accuses Iran of using Hezbollah to train Shia militants in Iraq. The Iranian Defence Minister had earlier called the US the "biggest sponsor of terrorism" in the world. ](/news/2007/07/2/the-united-states-accuses-iran-of-using-hezbollah-to-train-shia-militants-in-iraq-the-iranian-defence-minister-had-earlier-called-the-us-t.md)
 _Context: Hezbollah, Iran, Iraq, Shia, United States_
 
-### [ Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-a-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md)
+### [ Garda Siochana find over 1.5 tonnes of cocaine worth over -105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md)
 Customs officials have recovered 61 bales of cocaine in west Cork in the largest seizure of the drug in the history of the State.
 
 ### [ Brahim Deby, heir apparent to President Idriss Deby of Chad, is murdered in Paris, France. ](/news/2007/07/2/brahim-da-c-by-heir-apparent-to-president-idriss-da-c-by-of-chad-is-murdered-in-paris-france.md)

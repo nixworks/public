@@ -1,6 +1,6 @@
 ### [2010-01-30](/news/2010/01/30/index.md)
 
-# Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader.  
+# Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader. 
 
 
 

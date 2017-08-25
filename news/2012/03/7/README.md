@@ -12,7 +12,7 @@ _Context: Homs, Syria, Under-Secretary-General for Humanitarian Affairs and Emer
 ### [The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. ](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-afghanistan-s-badakhshan-province-rises-to-50.md)
 _Context: Afghanistan's, Badakhshan, series of avalanches_
 
-### [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md)
+### [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murray-darling-basin.md)
 _Context: Australia, Murray-Darling basin, Yenda, New South Wales_
 
 ### [Swedish media report that the country has been helping Saudi Arabia plan the construction of a weapons factory. ](/news/2012/03/7/swedish-media-report-that-the-country-has-been-helping-saudi-arabia-plan-the-construction-of-a-weapons-factory.md)

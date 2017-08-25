@@ -3,7 +3,7 @@
 ### [ A zircon crystal, thought to be the oldest piece of Earth at about 4.4 billion years old, goes on a one-day display at the University of Wisconsin-Madison. ](/news/2005/04/9/a-zircon-crystal-thought-to-be-the-oldest-piece-of-earth-at-about-4-4-billion-years-old-goes-on-a-one-day-display-at-the-university-of-wi.md)
 _Context: Earth, University of Wisconsin-Madison, crystal, zircon_
 
-### [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing.  The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-aga.md)
+### [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing. The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-agai.md)
 _Context: (Wikinews), Beijing, China, Japan, Japanese history textbooks controversy, atrocities, conflict zones, embassies, history, riot, textbooks_
 
 ### [ The South African New National Party, successor to the National Party which governed in the apartheid era, votes to dissolve itself following poor results in last year's elections. Its elected representatives are expected to join the governing African National Congress. ](/news/2005/04/9/the-south-african-new-national-party-successor-to-the-national-party-which-governed-in-the-apartheid-era-votes-to-dissolve-itself-followi.md)
@@ -18,7 +18,7 @@ _Context: Associated Press, Egypt, Gush Katif, Hamas, Israel, Israel Defense For
 ### [ Prince Charles marries Camilla Parker Bowles in a 20-minute ceremony at Windsor Guildhall, which is followed by a blessing at St George's Chapel in Windsor Castle. ](/news/2005/04/9/prince-charles-marries-camilla-parker-bowles-in-a-20-minute-ceremony-at-windsor-guildhall-which-is-followed-by-a-blessing-at-st-george-s-c.md)
 _Context: Camilla Parker Bowles, Prince Charles, Windsor, Windsor Castle_
 
-### [ Conflict in Iraq: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-p-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md)
+### [ Conflict in Iraq:. 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md)
 _Context: Conflict in Iraq, Iraq, Latifiya_
 
 ### [ Pakistani President Pervez Musharraf says that despite his plans to go to New Delhi to watch the last Indo-Pak cricket ODI, Kashmir, and not cricket, was on top of his agenda. ](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.md)

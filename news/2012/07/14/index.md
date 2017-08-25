@@ -1,6 +1,6 @@
 ## [2012-07-14](/news/2012/07/14/index.md)
 
-### [Arab Spring:Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-psyrian-uprising-2011-present-pa-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-an.md)
+### [Arab Spring:. Syrian uprising (2011-present):. A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A suicide bomber kills 22 people and injures 22 at a wedding reception in northern Afghanistan, including prominent lawmaker Ahmad Khan Samangani who was the father of the bride. ](/news/2012/07/14/a-suicide-bomber-kills-22-people-and-injures-22-at-a-wedding-reception-in-northern-afghanistan-including-prominent-lawmaker-ahmad-khan-sama.md)
@@ -12,7 +12,7 @@ _Context: Van_
 ### [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md)
 _Context: Dagestan, Insurgency in the North Caucasus, Kabardino-Balkaria, Russia_
 
-### [The musical ''Chicago'' is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. ](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-15-years-on-london-s-west-end-the-longest-run-for-a-revival-in-british-theatre.md)
+### [The musical "Chicago" is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. ](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-15-years-on-london-s-west-end-the-longest-run-for-a-revival-in-british-theatre.md)
 Long-running West End show Chicago &amp;#8211; which has featured an array of star names &amp;#8211; is to close after nearly 15 years.
 
 ### [Italian and French rescue crews recover the bodies of two climbers on Mont Blanc in the Alps, two days following an avalanche that swept away nine climbers. ](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.md)
@@ -24,7 +24,7 @@ Evacuation order issued for 240,000 people hit by heavy rains on main southern i
 ### [A surfer is killed by a shark off near Wedge Island, about 160km (100 miles) north of Perth in Australia. ](/news/2012/07/14/a-surfer-is-killed-by-a-shark-off-near-wedge-island-about-160km-100-miles-north-of-perth-in-australia.md)
 A man is killed by a shark while surfing off the coast of Western Australia, in the fifth such attack in less than a year.
 
-### [A fire onboard the German container ship ''MSC Flaminia'' forces the crew to abandon ship in the middle of the Atlantic Ocean. ](/news/2012/07/14/a-fire-onboard-the-german-container-ship-msc-flaminia-forces-the-crew-to-abandon-ship-in-the-middle-of-the-atlantic-ocean.md)
+### [A fire onboard the German container ship "MSC Flaminia" forces the crew to abandon ship in the middle of the Atlantic Ocean. ](/news/2012/07/14/a-fire-onboard-the-german-container-ship-msc-flaminia-forces-the-crew-to-abandon-ship-in-the-middle-of-the-atlantic-ocean.md)
 One seafarer is confirmed dead and one is still missing as a result of a serious fire on a containership in the middle of a North Atlantic voyage.
 
 ### [Shipper International Port Corp, with permission from the United States, delivers the first shipment of humanitarian aid to Cuba, the first time in 50 years. ](/news/2012/07/14/shipper-international-port-corp-with-permission-from-the-united-states-delivers-the-first-shipment-of-humanitarian-aid-to-cuba-the-first.md)

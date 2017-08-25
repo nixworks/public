@@ -6,7 +6,7 @@ _Context: 2008 Mumbai attacks, Ajmal Kasab, India_
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
 _Context: Continental Airlines, United Airlines, United States_
 
-### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week.  ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
+### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week. ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
 _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
 
 ### [The death toll reaches 28 as flooding from weekend storms worsens in southern US towns and cities, including Nashville in Middle Tennessee, and parts of Kentucky, Alabama and Mississippi. ](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.md)
@@ -15,16 +15,16 @@ _Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee_
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
 _Context: Abhisit Vejjajiva, Thailand, political crisis_
 
-### [World Press Freedom Day:Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-pjournalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaound.md)
+### [World Press Freedom Day:. Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaoun.md)
 _Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaounde_
 
 ### [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md)
 Irish airspace will close from 7am tomorrow because of an ash cloud drifting down from Iceland.
 
-### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md)
+### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other-s countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-other-s-countries-nu.md)
 _Context: Hillary Clinton, Mahmoud Ahmadinejad, New York City, Nuclear Non-Proliferation Treaty, President, Review Conference, United Nations Headquarters, United States Secretary of State_
 
-### [Australian mining stocks plummet after the government passes a new 40% profit tax on the industry.  International mining companies warn that many new mining projects may be canceled. ](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.md)
+### [Australian mining stocks plummet after the government passes a new 40% profit tax on the industry. International mining companies warn that many new mining projects may be canceled. ](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.md)
 * PM Rudd plans mining tax in re-election gamble * Govt says Australians shortchanged by global miners * Future of tax uncertain as oppo
 
 ### [Norsk Hydro secures 100 years worth of bauxite supply in a US$4.9 billion deal. ](/news/2010/05/3/norsk-hydro-secures-100-years-worth-of-bauxite-supply-in-a-us-4-9-billion-deal.md)

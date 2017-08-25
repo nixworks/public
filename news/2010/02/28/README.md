@@ -1,12 +1,12 @@
 ## [2010-02-28](/news/2010/02/28/index.md)
 
-### [2010 Winter Olympics:International Olympic Committee president Jacques Rogge officially closes the Winter Olympics in Vancouver, Canada. Canada finishes in first place in the medal table with a record 14 gold medals, while the United States wins a record total of 37 medals. ](/news/2010/02/28/2010-winter-olympics-pinternational-olympic-committee-president-jacques-rogge-officially-closes-the-winter-olympics-in-vancouver-canada-ca.md)
+### [2010 Winter Olympics:. International Olympic Committee president Jacques Rogge officially closes the Winter Olympics in Vancouver, Canada. Canada finishes in first place in the medal table with a record 14 gold medals, while the United States wins a record total of 37 medals. ](/news/2010/02/28/2010-winter-olympics-international-olympic-committee-president-jacques-rogge-officially-closes-the-winter-olympics-in-vancouver-canada-c.md)
 Canada&rsquo;s fantasy has been brought to vivid life here in Vancouver. In what will be enshrined as a nation&rsquo;s finest sporting hour, their ice hockey men skated thrillingly to a 14th gold medal in the climactic final event of these Winter Games to break an all-time Olympic record.
 
 ### [Hundreds of people wearing pink wigs and pink clothing walk out of Catholic Mass in 's-Hertogenbosch in the Netherlands in protest of a gay Dutch man being refused communion in a nearby town. ](/news/2010/02/28/hundreds-of-people-wearing-pink-wigs-and-pink-clothing-walk-out-of-catholic-mass-in-s-hertogenbosch-in-the-netherlands-in-protest-of-a-gay.md)
 Hundreds of people walked out of a Catholic church in the Netherlands Sunday to protest church policy against giving communion to homosexuals, organizers said.
 
-### [2010 Chile earthquake and Pacific Ocean tsunamis:At least 708 people are confirmed dead in Chile ](/news/2010/02/28/2010-chile-earthquake-and-pacific-ocean-tsunamis-pat-least-708-people-are-confirmed-dead-in-chile.md)
+### [2010 Chile earthquake and Pacific Ocean tsunamis:. At least 708 people are confirmed dead in Chile ](/news/2010/02/28/2010-chile-earthquake-and-pacific-ocean-tsunamis-at-least-708-people-are-confirmed-dead-in-chile.md)
 With a rapt world watching the drama unfold live on television, the tsunami raced across the Pacific, forcing the evacuation of thousands of residents amid fears of a repeat of the - New Zealand Herald
 
 ### [Tajikistan votes in parliamentary elections. ](/news/2010/02/28/tajikistan-votes-in-parliamentary-elections.md)

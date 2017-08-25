@@ -15,7 +15,7 @@ _Context: Philippines, Richter scale_
 ### [ Paediatrician Sir Roy Meadow is struck off the medical register by the General Medical Council after finding that he had committed "serious professional misconduct" relating to his testimony as an expert witness in the trial of Sally Clark. ](/news/2005/07/15/paediatrician-sir-roy-meadow-is-struck-off-the-medical-register-by-the-general-medical-council-after-finding-that-he-had-committed-serious.md)
 _Context: General Medical Council, Paediatrician, Roy Meadow, Sally Clark, expert witness_
 
-### [ The United States opens its borders to Canadian live cattle after legal action in its courts.  ](/news/2005/07/15/the-united-states-opens-its-borders-to-canadian-live-cattle-after-legal-action-in-its-courts.md)
+### [ The United States opens its borders to Canadian live cattle after legal action in its courts. ](/news/2005/07/15/the-united-states-opens-its-borders-to-canadian-live-cattle-after-legal-action-in-its-courts.md)
 _Context: Canada, United States, cattle, court_
 
 ## [Previous Day...](/news/2005/07/14/index.md)

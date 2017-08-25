@@ -21,7 +21,7 @@ The dismembered body of a young albino boy is found in a river on the Burundi-Ta
 ### [Fifteen Latin American parliaments pass simultaneous resolutions demanding that the captive Israeli soldier Gilad Shalit, held incommunicado for over four years by Hamas, be released. ](/news/2010/10/24/fifteen-latin-american-parliaments-pass-simultaneous-resolutions-demanding-that-the-captive-israeli-soldier-gilad-shalit-held-incommunicado.md)
 Fifteen Latin American parliaments pass resolutions demanding Hamas-held soldier be released following work by Brazil-based non-profit NGO AMISRAEL. &#39;It is very touching to see that the matter of my son is no longer just an Israeli problem,&#39; Noam Shalit says
 
-### ["Israeli commandos fired 308 live bullets at the MV ''Mavi Marmara'' to repel passengers who attacked them with lethal weapons",says Israel's top general as he testifies before a state-appointed inquest into May's Gaza flotilla raid. ](/news/2010/10/24/israeli-commandos-fired-308-live-bullets-at-the-mv-mavi-marmara-to-repel-passengers-who-attacked-them-with-lethal-weapons-says-israel.md)
+### ["Israeli commandos fired 308 live bullets at the MV "Mavi Marmara" to repel passengers who attacked them with lethal weapons",says Israel's top general as he testifies before a state-appointed inquest into May's Gaza flotilla raid. ](/news/2010/10/24/israeli-commandos-fired-308-live-bullets-at-the-mv-mavi-marmara-to-repel-passengers-who-attacked-them-with-lethal-weapons-says-israel-s.md)
 Israeli commandos fired 308 live bullets aboard a Gaza-bound aid ship last May to repel passengers who attacked them with lethal&hellip;
 
 ### [The number of visitors to the Shanghai World Expo 2010 topped 70 million. ](/news/2010/10/24/the-number-of-visitors-to-the-shanghai-world-expo-2010-topped-70-million.md)
@@ -51,7 +51,7 @@ _Context: Bangladesh, China, Hasan Mahmud, National Development and Reform Commi
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
 _Context: Nwoya, Uganda_
 
-### [2010 Haitian cholera outbreak:Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-pcholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md)
+### [2010 Haitian cholera outbreak:. Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md)
 At least five cases of the disease discovered in Port-au-Prince, but UN official believes fatality rate is slowing.
 
 ### [Leading Nepalese Sherpa Chhewang Nima, known for climbing Mount Everest 19 times, disappears during an avalanche. ](/news/2010/10/24/leading-nepalese-sherpa-chhewang-nima-known-for-climbing-mount-everest-19-times-disappears-during-an-avalanche.md)
@@ -63,7 +63,7 @@ Nepalese Sherpa Chhewang Nima, who has climbed Mount Everest 19 times, is missin
 ### [The United Nations High Commissioner for Refugees starts an emergency airlift to Benin which is suffering its worst flooding in decade. ](/news/2010/10/24/the-united-nations-high-commissioner-for-refugees-starts-an-emergency-airlift-to-benin-which-is-suffering-its-worst-flooding-in-decade.md)
 The UN refugee agency is to start an emergency airlift of tents to the West African nation of Benin which has seen its worst flooding in decades.
 
-### [Scientists studying the Gulf of Mexico oil disaster's impact find substantial amounts of oil on the seafloor, contradicting statements by US government officials that the oil has largely disappeared ](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disasteras-impact-find-substantial-amounts-of-oil-on-the-seafloor-contradicting-statements-by.md)
+### [Scientists studying the Gulf of Mexico oil disaster-s impact find substantial amounts of oil on the seafloor, contradicting statements by US government officials that the oil has largely disappeared [http://www.usatoday.com/news/nation/2010-10-25-oilresearch25_ST_N.htm ("USA Today") ]](/news/2010/10/24/scientists-studying-the-gulf-of-mexico-oil-disaster-s-impact-find-substantial-amounts-of-oil-on-the-seafloor-contradicting-statements-by.md)
 _Context: Deepwater Horizon oil spill, government_
 
 ### [Charles, Prince of Wales's friend was among those killed in yesterday's helicopter crash. The family express their shock. ](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.md)

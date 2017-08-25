@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Scientists report fires raging in Indonesia have hit Borneo's orangutans particularly hard. Borneo is home to about 30 percent of the world's wild orangutans, an endangered species. Smoke has already displaced many orangutans and caused health problems related to smoke inhalation, according to the Borneo Orangutan Survival Foundation (BOSF). ](/news/2015/11/3/scientists-report-fires-raging-in-indonesia-have-hit-borneo-s-orangutans-particularly-hard-borneo-is-home-to-about-30-percent-of-the-world.md) _Context: orangutan_
+1. [2015 Southeast Asian haze. Scientists report fires raging in Indonesia have hit Borneo's orangutans particularly hard. Borneo is home to about 30 percent of the world's wild orangutans, an endangered species. Smoke has already displaced many orangutans and caused health problems related to smoke inhalation, according to the Borneo Orangutan Survival Foundation (BOSF). ](/news/2015/11/3/2015-southeast-asian-haze-scientists-report-fires-raging-in-indonesia-have-hit-borneo-s-orangutans-particularly-hard-borneo-is-home-to-abo.md) _Context: orangutan_

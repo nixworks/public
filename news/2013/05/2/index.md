@@ -3,10 +3,10 @@
 ### [The Chad government announces that it foiled a coup attempt that "had been in preparation for several months." ](/news/2013/05/2/the-chad-government-announces-that-it-foiled-a-coup-attempt-that-had-been-in-preparation-for-several-months.md)
 CHAD-COUP/(URGENT):Chad government says it foils coup attempt
 
-### [Iraqi insurgency (post-U.S. withdrawal):At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-pat-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md)
 At least 14 members of an anti-al-Qaeda Sunni militia are killed in two attacks by militants near the western Iraqi city of Fallujah, officials say.
 
-### [Syrian civil war:Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-pup-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md)
+### [Syrian civil war:. Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md)
 Fierce clashes between troops and rebels erupted on Thursday for the first time in a Sunni Muslim village in Syria&#39;s Alawite-majority coastal region of Banias, killing dozens, including soldiers, a watchdog said.
 
 ### [U.S. jobless claims fall to their lowest level in five years. ](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.md)
@@ -27,7 +27,7 @@ The last known rhinoceroses in Mozambique have been wiped out by poachers appare
 ### [The central northern United States experiences record snow fall. ](/news/2013/05/2/the-central-northern-united-states-experiences-record-snow-fall.md)
 A record-setting May snowstorm swept across the north-central U.S. on Thursday, causing travel headaches, canceling schools, and knocking out power to tens of thousands of winter-weary residents.
 
-### [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime.  The United States calls for amnesty.  ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-a.md)
+### [North Korea sentences American Kenneth Bae to 15 years of prison labor for "hostile acts" against the regime. The United States calls for amnesty. ](/news/2013/05/2/north-korea-sentences-american-kenneth-bae-to-15-years-of-prison-labor-for-hostile-acts-against-the-regime-the-united-states-calls-for-am.md)
 The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentenced to 15 years of hard labour for alleged anti-government crimes.
 
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)

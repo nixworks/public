@@ -1,15 +1,15 @@
 ## [2014-01-6](/news/2014/01/6/index.md)
 
-### [War in North-West Pakistan:A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-pa-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md)
+### [War in North-West Pakistan:. A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/war-in-north-west-pakistan-a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md)
 _Context: Khyber Agency, Pakistan, War in North-West Pakistan_
 
-### [War in Afghanistan (2001-present):A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001apresent-pa-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police.md)
+### [War in Afghanistan (2001-present):. A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001-present-a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-polic.md)
 _Context: Afghanistan's, Ghazni Province, War in Afghanistan (2001-present)_
 
-### [Islamist insurgency in Nigeria:Gunmen  kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-pgunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md)
+### [Islamist insurgency in Nigeria:. Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-gunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md)
 Gunmen killed 30 people in a village in central Nigeria on Monday, officials said, in a religiously-mixed region with a long history of ethnic and communal violence.
 
-### [Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to-drop-as-low-as-51-adegc-adegf.md)
+### [2014 North American cold wave. Record low temperatures are predicted for parts of the United States with wind chill temperatures expected to drop as low as -51|degC|degF. ](/news/2014/01/6/2014-north-american-cold-wave-record-low-temperatures-are-predicted-for-parts-of-the-united-states-with-wind-chill-temperatures-expected-to.md)
 A frigid weather system called the polar vortex gripped much of the Midwest on Monday as temperatures dropped to near-record, subzero lows, canceling school classes, grounding thousands of airline flights and prompting authorities to urge residents to stay home or go to emergency warming shelters.
 
 ### [The Czech Foreign Minister Jan Kohout uses strong words to condemn the discovery of illegal weapons at the Palestinian embassy complex where a possible booby-trapped safe killed the ambassador Jamal al-Jamal on January 1, saying it is "a serious violation of the Vienna Convention on Diplomatic Relations." ](/news/2014/01/6/the-czech-foreign-minister-jan-kohout-uses-strong-words-to-condemn-the-discovery-of-illegal-weapons-at-the-palestinian-embassy-complex-where.md)

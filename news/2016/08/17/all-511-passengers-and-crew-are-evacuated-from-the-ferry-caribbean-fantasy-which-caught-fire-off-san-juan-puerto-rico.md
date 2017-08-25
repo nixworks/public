@@ -1,6 +1,6 @@
 ### [2016-08-17](/news/2016/08/17/index.md)
 
-# All 511 passengers and crew are evacuated from the ferry ''Caribbean Fantasy'' which caught fire off San Juan, Puerto Rico. 
+# All 511 passengers and crew are evacuated from the ferry "Caribbean Fantasy" which caught fire off San Juan, Puerto Rico. 
 
 
 

@@ -1,18 +1,18 @@
 ## [2012-03-28](/news/2012/03/28/index.md)
 
-### [2012 Sabha conflict:Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-prenewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md)
+### [2012 Sabha conflict:. Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md)
 _Context: 2012 Sabha conflict, Sabha, Libya_
 
-### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)
+### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudan-sudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)
 _Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan, Sudan_
 
-### [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011a2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md)
+### [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011-2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md)
 Fighting continues in Syria as the Arab League meets over the crisis, with the government in Damascus rejecting co-operation with its peace moves.
 
 ### [Pope Benedict XVI calls for greater openness in Cuba during a speech in Revolution Square, Havana. ](/news/2012/03/28/pope-benedict-xvi-calls-for-greater-openness-in-cuba-during-a-speech-in-revolution-square-havana.md)
 HAVANA &#8212; Pope Benedict XVI on Wednesday concluded his first trip to the Spanish-speaking Americas, launched with a condemnation of Marxism and drug war violence and ending with a forceful plea...
 
-### [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas.  Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-contro.md)
+### [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md)
 _Context: Air Pacific, Australia, Government of Fiji, Qantas_
 
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)

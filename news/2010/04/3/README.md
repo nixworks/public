@@ -1,6 +1,6 @@
 ## [2010-04-3](/news/2010/04/3/index.md)
 
-### [Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp.  ](/news/2010/04/3/euga-ne-terre-blanche-founder-of-the-afrikaner-resistance-movement-is-killed-in-his-hometown-of-ventersdorp.md)
+### [Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp. ](/news/2010/04/3/euga-ne-terre-blanche-founder-of-the-afrikaner-resistance-movement-is-killed-in-his-hometown-of-ventersdorp.md)
 South African white far-right leader Eugene Terre&#39;blanche was beaten and hacked to death at his farm, local media said.
 
 ### [Three German soldiers are killed in north Afghanistan, five other Germans were wounded in fighting southwest of Kunduz. 22 German soldiers have been killed by fighting or attacks in Afghanistan since 2001 and another 138 wounded. ](/news/2010/04/3/three-german-soldiers-are-killed-in-north-afghanistan-five-other-germans-were-wounded-in-fighting-southwest-of-kunduz-22-german-soldiers-h.md)
@@ -15,7 +15,7 @@ Prime Minister Kevin Rudd has announced that Tony Burke will take on the new rol
 ### [Rescuers enter a flooded mine in Shanxi, China to help over 153 workers trapped there for over a week. ](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.md)
 _Context: China, Shanxi province_
 
-### [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md)
+### [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md)
 _Context: North Korea, Northern Limit Line, ROKS ''Cheonan'', South Korea, sinking_
 
 ### [The controversial African Renaissance Monument, which is taller than the Statue of Liberty, is inaugurated in the Senegalese capital Dakar. ](/news/2010/04/3/the-controversial-african-renaissance-monument-which-is-taller-than-the-statue-of-liberty-is-inaugurated-in-the-senegalese-capital-dakar.md)

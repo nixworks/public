@@ -1,6 +1,6 @@
 ### [2014-04-25](/news/2014/04/25/index.md)
 
-# Scientists announce the discovery of ''Kryptodrakon'', the oldest pterosaur yet found.
+# Scientists announce the discovery of "Kryptodrakon", the oldest pterosaur yet found.
 
 Scientists have discovered fossil of the earliest and most primitive reptile, the largest known flying creature to have ever existed that lived some 163 million years ago.
 

@@ -12,4 +12,4 @@
 ### Related:
 
 1. [ Sun Zhengcai, the Chinese Minister for Agriculture, states that China will clamp down on foods tainted with illegal and excessive chemicals. ](/news/2007/09/3/sun-zhengcai-the-chinese-minister-for-agriculture-states-that-china-will-clamp-down-on-foods-tainted-with-illegal-and-excessive-chemicals.md) _Context: chemical_
-2. [ The United States Food and Drug Administration identifies the chemical melamine in tainted wheat-gluten shipped from China and used by Menu Foods and an unnamed second company to manufacture pet food.  ](/news/2007/03/30/the-united-states-food-and-drug-administration-identifies-the-chemical-melamine-in-tainted-wheat-gluten-shipped-from-china-and-used-by-menu.md) _Context: chemical_
+2. [ The United States Food and Drug Administration identifies the chemical melamine in tainted wheat-gluten shipped from China and used by Menu Foods and an unnamed second company to manufacture pet food. ](/news/2007/03/30/the-united-states-food-and-drug-administration-identifies-the-chemical-melamine-in-tainted-wheat-gluten-shipped-from-china-and-used-by-menu.md) _Context: chemical_

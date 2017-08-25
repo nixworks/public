@@ -28,7 +28,7 @@ The European Commission on Wednesdayopened an in-depth investigation of British 
 _Context: George W. Bush, Georgian, NATO, Ukraine, president_
 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
-### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)
+### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean "'parliamentary"' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, ZANU-PF, Zimbabwe, parliamentary_
 
 ## [Previous Day...](/news/2008/04/1/index.md)

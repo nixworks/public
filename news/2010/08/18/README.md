@@ -42,11 +42,11 @@ _Context: General Motors, IPO, United States_
 ### [Japanese carmaker Mazda recalls 215,000 vehicles in the United States and 11,000 vehicles in China due to power steering flaws. ](/news/2010/08/18/japanese-carmaker-mazda-recalls-215-000-vehicles-in-the-united-states-and-11-000-vehicles-in-china-due-to-power-steering-flaws.md)
 _Context: Chinese, Japan, Mazda, United States, power steering_
 
-### [2010 Pakistan floods:Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-psaudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
+### [2010 Pakistan floods:. Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
 Only 40 per cent of funds needed for immediate flood relief have been received, UN says.
 
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
-_Context: Gulf, United States_
+_Context: Gulf of Mexico, United States_
 
 ### [A North Korean fighter plane crashes in China near the border, killing the pilot and possibly a second pilot bailing out. Pictures posted by local residents show a Soviet plane design which were used in the Korean War. It is suggested to have been a defection attempt. ](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.md)
 A North Korean aircraft, which may be a fighter jet carrying a suspected defector, has crashed in China, according to reports.
@@ -108,7 +108,7 @@ _Context: Brazil, Brazilian presidential election, general_
 ### [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md)
 _Context: "Ground zero" mosque and cultural centre, David Paterson, Ground Zero, Islam, New York City, New York Governor, New York State, U.S. state, mosque_
 
-### [Elections in Haiti:Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-phaiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had.md)
+### [Elections in Haiti:. Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md)
 Electoral commission to rule of presidential bid by Wyclef Jean and others on Friday.
 
 ## [Previous Day...](/news/2010/08/17/index.md)

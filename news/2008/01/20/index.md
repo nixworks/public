@@ -1,6 +1,6 @@
 ## [2008-01-20](/news/2008/01/20/index.md)
 
-### [ NFL playoffs, 2007-08: The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-p-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md)
+### [ NFL playoffs, 2007-08:. The New York Giants defeat the Green Bay Packers 23-20 in overtime to advance to Super Bowl XLII. ](/news/2008/01/20/nfl-playoffs-2007-08-the-new-york-giants-defeat-the-green-bay-packers-23-20-in-overtime-to-advance-to-super-bowl-xlii.md)
 Despite a shaky Tom Brady, the New England Patriots were still too much for the banged-up San Diego Chargers in the AFC Championship Game Sunday, pulling out a 21-12 victory that sent them back to the Super Bowl for the fourth time in seven seasons.
 
 ### [ Chinese President Hu Jintao shakes hands with Chinese Patriotic Catholic Association leader Liu Bainian at a party-sponsored New Year's tea party. ](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.md)

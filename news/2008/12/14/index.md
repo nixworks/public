@@ -1,6 +1,6 @@
 ## [2008-12-14](/news/2008/12/14/index.md)
 
-### [ At least 28 people are dead and 22 missing after the ferry ''Maejan'' capsizes in the northern Philippines. ](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-after-the-ferry-maejan-capsizes-in-the-northern-philippines.md)
+### [ At least 28 people are dead and 22 missing after the ferry "Maejan" capsizes in the northern Philippines. ](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-after-the-ferry-maejan-capsizes-in-the-northern-philippines.md)
 _Context: Philippines, ferry_
 
 ### [ A bus crash in Minya, Egypt, kills 57 people. ](/news/2008/12/14/a-bus-crash-in-minya-egypt-kills-57-people.md)

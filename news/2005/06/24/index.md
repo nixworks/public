@@ -20,7 +20,7 @@ The Sinn Féin President, Gerry Adams, has said that he is fairly certain that t
 ### [ Sir Donald Tsang is sworn in as the second Chief Executive of Hong Kong in the Great Hall of the People following his appointment by the Election Committee. ](/news/2005/06/24/sir-donald-tsang-is-sworn-in-as-the-second-chief-executive-of-hong-kong-in-the-great-hall-of-the-people-following-his-appointment-by-the-el.md)
 _Context: Chief Executive, Donald Tsang, Great Hall of the People, appointment by the Election Committee_
 
-### [  Second round of voting begins in presidential elections between candidates Akbar Hashemi Rafsanjani and Mahmoud Ahmadinejad. ](/news/2005/06/24/second-round-of-voting-begins-in-presidential-elections-between-candidates-akbar-hashemi-rafsanjani-and-mahmoud-ahmadinejad.md)
+### [ Iranian presidential election, 2005. Second round of voting begins in presidential elections between candidates Akbar Hashemi Rafsanjani and Mahmoud Ahmadinejad. ](/news/2005/06/24/iranian-presidential-election-2005-second-round-of-voting-begins-in-presidential-elections-between-candidates-akbar-hashemi-rafsanjani-an.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In China, death toll in summer floods has risen to 536 ](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.md)

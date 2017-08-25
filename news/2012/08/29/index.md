@@ -1,9 +1,9 @@
 ## [2012-08-29](/news/2012/08/29/index.md)
 
-### [Syrian civil war:Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-prussia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
+### [Syrian civil war:. Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
 _Context: Arab League, Russia, Syrian Civil War, United Nations, slaughters_
 
-### [War in Afghanistan:Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-pthree-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifor.md)
+### [War in Afghanistan:. Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifo.md)
 _Context: Afghan Army, Oruzgan, War in Afghanistan (2001-present), soldiers_
 
 ### [Anonymous officials say the Taliban has attacked a Pakistan Army post in South Waziristan killing nine soldiers. Pakistani Taliban say they killed twelve. ](/news/2012/08/29/anonymous-officials-say-the-taliban-has-attacked-a-pakistan-army-post-in-south-waziristan-killing-nine-soldiers-pakistani-taliban-say-they.md)
@@ -24,7 +24,7 @@ _Context: Barclays, Qatar Holding LLC, Serious Fraud Office, financial crisis in
 ### [Hurricane Isaac arrives in the US city of New Orleans on the seventh anniversary of Hurricane Katrina hitting the city. Damage is limited. ](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.md)
 Hurricane Isaac dumped heavy rains on the U.S. Gulf Coast and caused widespread flooding on Wednesday, but elaborate defenses built to protect New Orleans after the 2005 Hurricane Katrina disaster withstood the onslaught, officials said.
 
-### [UN Secretary General Ban Ki-Moon expresses "serious concerns on the human rights abuses and violations" in Iran at the meeting of non-aligned nations being held in  Teheran. ](/news/2012/08/29/un-secretary-general-ban-ki-moon-expresses-serious-concerns-on-the-human-rights-abuses-and-violations-in-iran-at-the-meeting-of-non-aligne.md)
+### [UN Secretary General Ban Ki-Moon expresses "serious concerns on the human rights abuses and violations" in Iran at the meeting of non-aligned nations being held in Teheran. ](/news/2012/08/29/un-secretary-general-ban-ki-moon-expresses-serious-concerns-on-the-human-rights-abuses-and-violations-in-iran-at-the-meeting-of-non-aligne.md)
 _Context: 16th Summit of the Non-Aligned Movement, Ban Ki-moon, Iranian human rights, UN Secretary General_
 
 ### [Japan and North Korea hold their first talks in four years in Beijing. ](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.md)

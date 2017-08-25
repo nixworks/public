@@ -1,9 +1,9 @@
 ## [2011-05-20](/news/2011/05/20/index.md)
 
-### [2011 Syrian protests:Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-psyrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md)
+### [2011 Syrian protests:. Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md)
 Thousands of Syrians took to the streets in what appeared to be a dangerous turn in the uprising. Rights groups said 26 people were killed by security forces.
 
-### [2011 Libyan civil war:The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-pthe-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-b.md)
+### [2011 Libyan civil war:. The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md)
 _Context: Anton Hammerl, Libya, Libyan Civil War, Muammar Gaddafi, South Africa_
 
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
@@ -27,7 +27,7 @@ TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has 
 ### [More than 850 people are injured after a train collision in Soweto, South Africa. ](/news/2011/05/20/more-than-850-people-are-injured-after-a-train-collision-in-soweto-south-africa.md)
 _Context: South Africa, Soweto_
 
-### [A mini-tornado hits the suburb of Canning Vale in  Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md)
+### [A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md)
 A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy delays on the roads during peak-hours after a cold front swept through the city.
 
 ### [A disaster alert is issued for Fiji, after giant waves triggered by a deep pressure system in the Southern Ocean hit the Coral Coast. ](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.md)
@@ -51,7 +51,7 @@ _Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Six Day War,
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
 Taiwan military prosecutors charge a senior general with spying for China - the highest-ranking officer involved in alleged espionage in decades.
 
-### [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than PS30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-aps30-000-in-parliamentary-exp.md)
+### [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md)
 Ex-Labour minister Elliot Morley, who has admitted dishonestly claiming more than £30,000 in his parliamentary expenses, is sentenced to 16 months in jail.
 
 ### [A report by senior judges in England and Wales has concluded that the media should have the chance to contest applications for injunctions and "superinjunctions" before they are granted, and that these should only be issued in exceptional circumstances. ](/news/2011/05/20/a-report-by-senior-judges-in-england-and-wales-has-concluded-that-the-media-should-have-the-chance-to-contest-applications-for-injunctions-a.md)

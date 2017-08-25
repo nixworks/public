@@ -1,6 +1,6 @@
 ## [2012-11-4](/news/2012/11/4/index.md)
 
-### [Syrian civil war:Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-psyrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md)
+### [Syrian civil war:. Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md)
 Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists say, the first time such a facility has been taken.
 
 ### [A car bomb detonates in Semdinli, Turkey, killing 1 and injuring 12. The attack is blamed on Kurdish rebels. ](/news/2012/11/4/a-car-bomb-detonates-in-semdinli-turkey-killing-1-and-injuring-12-the-attack-is-blamed-on-kurdish-rebels.md)
@@ -12,7 +12,7 @@ _Context: Garissa, Somalia_
 ### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
 _Context: Bandar Lengeh, Iranian Revolutionary guards, Strait of Hormuz_
 
-### [Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture ''Draped Seated Woman''. Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. ](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.md)
+### [Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture "Draped Seated Woman". Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. ](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.md)
 The Oscar-winning film-maker joins leading arts figures to write a letter protesting the sale of a Henry Moore sculpture by a London council.
 
 ### [Somalia's Prime Minister Abdi Farah Shirdon, who lives in Kenya, appoints a new 10-member cabinet, including Somalia's first female Foreign Minister, Fowsiyo Yussuf Haji Aadan. ](/news/2012/11/4/somalia-s-prime-minister-abdi-farah-shirdon-who-lives-in-kenya-appoints-a-new-10-member-cabinet-including-somalia-s-first-female-foreign.md)

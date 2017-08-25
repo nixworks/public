@@ -9,7 +9,7 @@ _Context: European Union, Iran, United States, enriched uranium, nuclear scienti
 ### [ 2008 Cambodian-Thai stand-off: Some 500 Thai and 1,000 Cambodian troops have massed near Prasat Preah Vihear temple on the border between the two countries, increasing their presence on the fifth day of the tense stand-off. ](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.md)
 _Context: Cambodia, Prasat Preah Vihear, Thailand, exchange gunfire_
 
-### [ Fourteen people are killed, 29 injured and several are missing after a bus crash in  Khare Khola, Nepal 100 miles west of Kathmandu. ](/news/2008/07/19/fourteen-people-are-killed-29-injured-and-several-are-missing-after-a-bus-crash-in-khare-khola-nepal-100-miles-west-of-kathmandu.md)
+### [ Fourteen people are killed, 29 injured and several are missing after a bus crash in Khare Khola, Nepal 100 miles west of Kathmandu. ](/news/2008/07/19/fourteen-people-are-killed-29-injured-and-several-are-missing-after-a-bus-crash-in-khare-khola-nepal-100-miles-west-of-kathmandu.md)
 _Context: Kathmandu, Nepal, bus_
 
 ### [ Pope Benedict XVI apologizes to victims of abuse by Roman Catholic Church clergy in Australia during a mass in St Mary's Cathedral, Sydney for World Youth Day 2008. ](/news/2008/07/19/pope-benedict-xvi-apologizes-to-victims-of-abuse-by-roman-catholic-church-clergy-in-australia-during-a-mass-in-st-mary-s-cathedral-sydney.md)

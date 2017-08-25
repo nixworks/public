@@ -1,0 +1,13 @@
+### [2005-05-7](/news/2005/05/7/index.md)
+
+#  The Time Traveler Convention was held at MIT, in the hopes of making contact with time travelers from the future. The convention was organized by Amal Dorai with help from current and former residents of the MIT living group Pi Tau Zeta. The convention was held at 22:45 EDT at the East Campus Courtyard and in Walker Memorial at MIT. That location is 42.360007 degrees north latitude, 71.087870 degrees west longitude. The spacetime coordinates continue to be publicized prominently and indefinitely, so that future time travelers will be aware and have the opportunity to have attended.[http://web.mit.edu/adorai/timetraveler]
+
+
+
+
+### Related:
+
+1. [Key sections of the Patriot Act expire at midnight (Eastern Daylight Time) due to failure of the United States Senate to agree to an extension. It is highly likely that USA Freedom Act will be passed soon, but the bulk collection of domestic telephone data by the National Security Agency is expected to end. ](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.md) _Context: Eastern Daylight Time_
+2. [MIT researchers discover that Herbertsmithite exhibits a quantum spin liquid behavior, a new kind of magnetism. ](/news/2012/12/21/mit-researchers-discover-that-herbertsmithite-exhibits-a-quantum-spin-liquid-behavior-a-new-kind-of-magnetism.md) _Context: MIT_
+3. [A SpaceX Dragon becomes the first commercial spacecraft ever to dock with the International Space Station, completing docking at 12:02 pm EDT (16:02 UTC). ](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.md) _Context: Eastern Daylight Time_
+4. [Near-Earth Asteroid 2011 MD passed within 12,000 kilometres (7,500 miles) of the Earth's surface at about 13:00 EDT flying over the South Atlantic Ocean, off the coast of Antarctica. ](/news/2011/06/27/near-earth-asteroid-2011-md-passed-within-12-000-kilometres-7-500-miles-of-the-earth-s-surface-at-about-13-00-edt-flying-over-the-south-at.md) _Context: Eastern Daylight Time_

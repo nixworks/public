@@ -33,7 +33,7 @@ _Context: African National Congress, IFP, South Africa, Thulani Zulu, Zulu, driv
 ### [ Zimbabwe intends to release 62 mercenaries connected to failed coup attempt in the Equatorial Guinea last year. Most of the suspected mercenaries are South African. ](/news/2005/03/3/zimbabwe-intends-to-release-62-mercenaries-connected-to-failed-coup-attempt-in-the-equatorial-guinea-last-year-most-of-the-suspected-merce.md)
 _Context: Equatorial Guinea, South Africa, Zimbabwe, coup, mercenaries_
 
-### [ FBI sends a special agent to Azerbaijan to help in the investigation of murder Elmar Huseynov. editor in chief of ''Monitor'' magazine. The magazine has often criticized the government of the country. ](/news/2005/03/3/fbi-sends-a-special-agent-to-azerbaijan-to-help-in-the-investigation-of-murder-elmar-huseynov-editor-in-chief-of-monitor-magazine-the.md)
+### [ FBI sends a special agent to Azerbaijan to help in the investigation of murder Elmar Huseynov. editor in chief of "Monitor" magazine. The magazine has often criticized the government of the country. ](/news/2005/03/3/fbi-sends-a-special-agent-to-azerbaijan-to-help-in-the-investigation-of-murder-elmar-huseynov-editor-in-chief-of-monitor-magazine-the-m.md)
 _Context: Azerbaijan, Elmar Huseynov, FBI_
 
 ### [ World Trade Organization upheld a ruling that orders US to stop subsidies to its cotton farmers. ](/news/2005/03/3/world-trade-organization-upheld-a-ruling-that-orders-us-to-stop-subsidies-to-its-cotton-farmers.md)
@@ -48,7 +48,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ In Naples, Italy, police has arrested at least 42 people during a large operation against Camorra. ](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.md)
 _Context: Camorra, Naples_
 
-### [ Scientists at Florida State University conclude that ''Homo floresiensis'' is a separate species from ''Homo sapiens'' and belongs in the ''Homo'' genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the.md)
+### [ Scientists at Florida State University conclude that "Homo floresiensis" is a separate species from "Homo sapiens" and belongs in the "Homo" genus through computer mapping of its brain. ](/news/2005/03/3/scientists-at-florida-state-university-conclude-that-homo-floresiensis-is-a-separate-species-from-homo-sapiens-and-belongs-in-the-homo.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 ### [ At 18:17Z, a 3500-tonne freighter, M/V Karen Danielsen, crashes into the Western bridge of the Great Belt Bridge of Denmark, 800 m from Funen. All traffic across the bridge stopped, effectively separating Denmark in two. ](/news/2005/03/3/at-18-17z-a-3500-tonne-freighter-m-v-karen-danielsen-crashes-into-the-western-bridge-of-the-great-belt-bridge-of-denmark-800-m-from-fun.md)

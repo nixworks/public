@@ -1,9 +1,9 @@
 ## [2014-11-19](/news/2014/11/19/index.md)
 
-### [Islamist insurgency in Nigeria:Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-pboko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md)
+### [Islamist insurgency in Nigeria:. Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
 
-### [The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md)
+### [Kachin conflict. The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/kachin-conflict-the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A car bomb targets a government building in the Iraqi Kurdish capital Irbil, resulting in four deaths. ](/news/2014/11/19/a-car-bomb-targets-a-government-building-in-the-iraqi-kurdish-capital-irbil-resulting-in-four-deaths.md)
@@ -12,7 +12,7 @@ A car bomb targets a government building in the Iraqi Kurdish capital, Irbil, wi
 ### [The American NBC television network scraps a project with comedian Bill Cosby after past sexual assault allegations resurface. ](/news/2014/11/19/the-american-nbc-television-network-scraps-a-project-with-comedian-bill-cosby-after-past-sexual-assault-allegations-resurface.md)
 US TV network NBC scraps a proposed Bill Cosby project after accusations that he sexually assaulted women resurfaced in recent weeks.
 
-### [German-born American director and producer Mike Nichols (''The Graduate'') dies at age 83. ](/news/2014/11/19/german-born-american-director-and-producer-mike-nichols-the-graduate-dies-at-age-83.md)
+### [German-born American director and producer Mike Nichols ("The Graduate") dies at age 83. ](/news/2014/11/19/german-born-american-director-and-producer-mike-nichols-the-graduate-dies-at-age-83.md)
 Mike Nichols, who won an Oscar for directing the 1967 film The Graduate, has died aged 83.
 
 ### [A giant snowstorm covers half the United States causing at least eight deaths and causing widespread disruption of flights. Areas near the city of Buffalo in New York state are worst affected with at least six deaths. ](/news/2014/11/19/a-giant-snowstorm-covers-half-the-united-states-causing-at-least-eight-deaths-and-causing-widespread-disruption-of-flights-areas-near-the-c.md)

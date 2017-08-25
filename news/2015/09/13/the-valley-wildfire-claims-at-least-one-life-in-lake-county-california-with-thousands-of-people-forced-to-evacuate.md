@@ -11,4 +11,4 @@ The fast-moving Valley Fire that started burning in Lake County yesterday has ex
 
 ### Related:
 
-1. [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md) _Context: Lake County, California_
+1. [2015 California wildfires. The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/2015-california-wildfires-the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claime.md) _Context: Lake County, California_

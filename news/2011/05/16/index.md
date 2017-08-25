@@ -21,7 +21,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 ### [The Congregation for the Doctrine of the Faith in the Vatican tells Roman Catholics to cooperate with police in investigating alleged cases of sexual abuse by clergy. ](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.md)
 _Context: Congregation for the Doctrine of the Faith, Holy See, Roman Catholic, alleged cases of sexual abuse by clergy_
 
-### [The Fox TV network cancels ''America's Most Wanted'' after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md)
+### [The Fox TV network cancels "America's Most Wanted" after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md)
 _Context: America's Most Wanted, Fox Broadcasting Company_
 
 ### [The Sahara Hotel and Casino in Las Vegas, Nevada, USA, closes down after 59 years of operation. ](/news/2011/05/16/the-sahara-hotel-and-casino-in-las-vegas-nevada-usa-closes-down-after-59-years-of-operation.md)
@@ -36,7 +36,7 @@ _Context: International Monetary Fund, Ireland_
 ### [Nasdaq OMX Group and the Intercontinental Exchange (ICE) withdraw their hostile bid for NYSE Euronext, apparently leaving a clear path for NYSE's friendly merger with Deutsche Boerse AG. ](/news/2011/05/16/nasdaq-omx-group-and-the-intercontinental-exchange-ice-withdraw-their-hostile-bid-for-nyse-euronext-apparently-leaving-a-clear-path-for-n.md)
 Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 billion bid for rival NYSE Euronext on Monday, citing opposition from U.S. antitrust regulators.
 
-### [It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-restarted-three-days-ago-after-a-ref.md)
+### [2011 Mississippi River floods. It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. ](/news/2011/05/16/2011-mississippi-river-floods-it-is-reported-that-the-waterford-nuclear-generating-station-in-st-charles-parish-louisiana-usa-was-resta.md)
 Deputies warned people Sunday to get out as water gushing from a floodgate for the first time in four decades crept ever closer to communities in the Louisiana Cajun country, slowly filling a river basin like a giant bathtub. 
 
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
@@ -72,7 +72,7 @@ _Context: Donald Trump, United States presidential election, 2012, nomination_
 ### [Queen Silvia of Sweden orders an investigation into her father Walther Sommerlath's alleged ties with the German Nazi Party. ](/news/2011/05/16/queen-silvia-of-sweden-orders-an-investigation-into-her-father-walther-sommerlath-s-alleged-ties-with-the-german-nazi-party.md)
 Sweden&#039;s Queen Silvia is investigating her late father&#039;s activities in Germany and Brazil during World War II to clarify reports about possible ties to Nazis.
 
-### [NASA's Space Shuttle ''Endeavour'' successfully launches from the Kennedy Space Center in the U.S. state of Florida on its final mission. ](/news/2011/05/16/nasa-s-space-shuttle-endeavour-successfully-launches-from-the-kennedy-space-center-in-the-u-s-state-of-florida-on-its-final-mission.md)
+### [NASA's Space Shuttle "Endeavour" successfully launches from the Kennedy Space Center in the U.S. state of Florida on its final mission. ](/news/2011/05/16/nasa-s-space-shuttle-endeavour-successfully-launches-from-the-kennedy-space-center-in-the-u-s-state-of-florida-on-its-final-mission.md)
 NASA launched the space shuttle Endeavour on its last flight, the STS-134 mission to the International Space Station, led by astronaut Mark Kelly. It was the second-to-last space shuttle launch for NASA.
 
 ## [Previous Day...](/news/2011/05/15/index.md)

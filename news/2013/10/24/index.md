@@ -1,6 +1,6 @@
 ## [2013-10-24](/news/2013/10/24/index.md)
 
-### [Nyanasamvara Suvaddhana, the 19th Supreme Patriarch of Buddhism in Thailand, dies at the age of 100.  ](/news/2013/10/24/nyanasamvara-suvaddhana-the-19th-supreme-patriarch-of-buddhism-in-thailand-dies-at-the-age-of-100.md)
+### [Nyanasamvara Suvaddhana, the 19th Supreme Patriarch of Buddhism in Thailand, dies at the age of 100. ](/news/2013/10/24/nyanasamvara-suvaddhana-the-19th-supreme-patriarch-of-buddhism-in-thailand-dies-at-the-age-of-100.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Twitter sets a modest-seeming goal of US$1.6 billion for its forthcoming initial public offering. ](/news/2013/10/24/twitter-sets-a-modest-seeming-goal-of-us-1-6-billion-for-its-forthcoming-initial-public-offering.md)

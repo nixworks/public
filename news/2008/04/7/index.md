@@ -1,16 +1,16 @@
 ## [2008-04-7](/news/2008/04/7/index.md)
 
-### [ The European Commission approves the use of mobile phones on European flights.  ](/news/2008/04/7/the-european-commission-approves-the-use-of-mobile-phones-on-european-flights.md)
+### [ The European Commission approves the use of mobile phones on European flights. ](/news/2008/04/7/the-european-commission-approves-the-use-of-mobile-phones-on-european-flights.md)
 _Context: European Commission, mobile phone_
 
 ### [ The Kansas Jayhawks defeat the Memphis Tigers in overtime, 75-68, to win the 2008 U.S. Division I men's college basketball championship. ](/news/2008/04/7/the-kansas-jayhawks-defeat-the-memphis-tigers-in-overtime-75-68-to-win-the-2008-u-s-division-i-men-s-college-basketball-championship.md)
 _Context: 2008 U.S. Division I men's college basketball championship, Kansas Jayhawks, Memphis Tigers_
 
-### [ The ''Washington Post'' wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-condition.md)
+### [ The "Washington Post" wins six Pulitzer Prizes including the Pulitzer Prize for Public Service for a series of articles of poor conditions for veterans at the Walter Reed Army Medical Center. ](/news/2008/04/7/the-washington-post-wins-six-pulitzer-prizes-including-the-pulitzer-prize-for-public-service-for-a-series-of-articles-of-poor-conditions.md)
 _Context: Pulitzer Prize, Walter Reed Army Medical Center, Washington Post, poor conditions for veterans_
 
-### [  The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay-through-paris.md)
-_Context: 2008 Summer Olympics torch relay, Beijing Olympiad, Olympic torch, Paris_
+### [ 2008 Summer Olympics. The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. ](/news/2008/04/7/2008-summer-olympics-the-olympic-torch-is-extinguished-by-officials-as-police-are-confronted-by-protesters-during-the-olympic-torch-relay.md)
+_Context: 2008 Summer Olympics, 2008 Summer Olympics torch relay, Olympic torch, Paris_
 
 ### [ China and New Zealand sign a free trade agreement. This is China's first trade agreement with a developed nation. ](/news/2008/04/7/china-and-new-zealand-sign-a-free-trade-agreement-this-is-china-s-first-trade-agreement-with-a-developed-nation.md)
 _Context: China and New Zealand, free trade agreement_

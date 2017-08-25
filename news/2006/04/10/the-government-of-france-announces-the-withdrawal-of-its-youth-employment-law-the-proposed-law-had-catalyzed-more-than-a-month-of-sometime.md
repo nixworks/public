@@ -1,6 +1,6 @@
 ### [2006-04-10](/news/2006/04/10/index.md)
 
-#  The government of France announces the withdrawal of its youth employment law. The proposed law had catalyzed more than a month of sometimes-violent protests on the streets of Paris and other cities.  
+#  The government of France announces the withdrawal of its youth employment law. The proposed law had catalyzed more than a month of sometimes-violent protests on the streets of Paris and other cities. 
 
 
 

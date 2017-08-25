@@ -1,6 +1,6 @@
 ### [2011-03-17](/news/2011/03/17/index.md)
 
-# A court in Burma denies bail to the chief of the ''Myanmar Times'' newspaper, charged with violating immigration law. 
+# A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. 
 
 
 

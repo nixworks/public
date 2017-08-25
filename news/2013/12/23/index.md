@@ -1,12 +1,12 @@
 ## [2013-12-23](/news/2013/12/23/index.md)
 
-### [War in North-West Pakistan:The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-pthe-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-ac.md)
+### [War in North-West Pakistan:. The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-a.md)
 _Context: Pakistani, Taliban, War in North-West Pakistan_
 
-### [Iraqi insurgency (post-U.S. withdrawal):A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-pa-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
-### [Syrian Civil War:Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-prussia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an-i.md)
+### [Syrian Civil War:. Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an.md)
 Russia has sent 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal, Defence Minister Sergei Shoigu said on Monday.
 
 ### [Palestinian militants fire a Kassam rocket from Gaza which lands next to a bus stop used by schoolchildren in the Ashkelon area in southern Israel; no injuries are reported. ](/news/2013/12/23/palestinian-militants-fire-a-kassam-rocket-from-gaza-which-lands-next-to-a-bus-stop-used-by-schoolchildren-in-the-ashkelon-area-in-southern.md)
@@ -18,7 +18,7 @@ His AK-47 assault rifle has killed more people than any other firearm in the wor
 ### [Political activists Maria Alyokhina and Nadezhda Tolokonnikova, of the Russian band Pussy Riot, are given amnesty less than three months before the end of their sentences. They had been convicted of "hooliganism motivated by religious hatred". ](/news/2013/12/23/political-activists-maria-alyokhina-and-nadezhda-tolokonnikova-of-the-russian-band-pussy-riot-are-given-amnesty-less-than-three-months-bef.md)
 Both jailed members of Russian punk protest band Pussy Riot, whose imprisonment sparked global outrage, are released as part of an amnesty.
 
-### [Former UK MP Denis MacShane is sentenced to six months in jail for expenses fraud after he admitted to submitting 19 false receipts totaling 12,900. ](/news/2013/12/23/former-uk-mp-denis-macshane-is-sentenced-to-six-months-in-jail-for-expenses-fraud-after-he-admitted-to-submitting-19-false-receipts-totaling.md)
+### [Former UK MP Denis MacShane is sentenced to six months in jail for expenses fraud after he admitted to submitting 19 false receipts totaling GBP12,900. ](/news/2013/12/23/former-uk-mp-denis-macshane-is-sentenced-to-six-months-in-jail-for-expenses-fraud-after-he-admitted-to-submitting-19-false-receipts-totaling.md)
 _Context: Britain, Denis MacShane_
 
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)

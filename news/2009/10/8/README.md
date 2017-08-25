@@ -12,10 +12,10 @@ China&rsquo;s fears about international Islamic militants getting excited over t
 ### [ The Government of Ireland announces Nicholas Kearns as its nomination for appointment as President of the High Court. ](/news/2009/10/8/the-government-of-ireland-announces-nicholas-kearns-as-its-nomination-for-appointment-as-president-of-the-high-court.md)
 Mr Justice Nicholas Kearns has been nominated for appointment by the President to the post of President of the High Court, the&hellip;
 
-### [ Wallace Souza, former Brazilian television presenter accused of ordering murders to boost the ratings of ''Canal Livre'', now a fugitive from justice, is at large following the end of his parliamentary immunity. ](/news/2009/10/8/wallace-souza-former-brazilian-television-presenter-accused-of-ordering-murders-to-boost-the-ratings-of-canal-livre-now-a-fugitive-fr.md)
+### [ Wallace Souza, former Brazilian television presenter accused of ordering murders to boost the ratings of "Canal Livre", now a fugitive from justice, is at large following the end of his parliamentary immunity. ](/news/2009/10/8/wallace-souza-former-brazilian-television-presenter-accused-of-ordering-murders-to-boost-the-ratings-of-canal-livre-now-a-fugitive-from.md)
 A Brazilian TV presenter accused of ordering murders to boost the ratings of his hit crime show has fled and remains a fugitive from justice, after a judge order him jailed this week, authorities said.
 
-### [ Yevgeny Dzhugashvili launches a court action claiming the ''Novaya Gazeta'' newspaper has defamed his grandfather, Joseph Stalin. ](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.md)
+### [ Yevgeny Dzhugashvili launches a court action claiming the "Novaya Gazeta" newspaper has defamed his grandfather, Joseph Stalin. ](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.md)
 Hearings began today in a libel case brought by the grandson of Joseph Stalin against a prominent Russian newspaper. Yevgeny Dzhugashvili, the Soviet dictator’s grandson, took offence at an article published by the liberal paper Novaya Gazeta that accused Stalin of personally signing death warrant...
 
 ### [ Guinea's military government announces it is setting up a commission to investigate the shooting of protesters last week. ](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.md)
@@ -24,7 +24,7 @@ _Context: Guinea, massacre of opposition protesters_
 ### [ At least two people are killed and dozens injured as Typhoon Melor makes landfall in Japan. ](/news/2009/10/8/at-least-two-people-are-killed-and-dozens-injured-as-typhoon-melor-makes-landfall-in-japan.md)
 At least two killed and dozens injured as storm sweeps up Japanese island of Honshu.
 
-### [ Treaty of Lisbon: Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/treaty-of-lisbon-p-polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing.md)
+### [ Treaty of Lisbon:. Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/treaty-of-lisbon-polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing.md)
 Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify document.
 
 ### [ DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. ](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.md)
@@ -33,7 +33,7 @@ _Context: British Royal Family, DNA_
 ### [ A new study reveals one in four people are Muslim, with the global Muslim population standing at 1.57 billion. ](/news/2009/10/8/a-new-study-reveals-one-in-four-people-are-muslim-with-the-global-muslim-population-standing-at-1-57-billion.md)
 _Context: Muslim_
 
-### [ Colombia's Administrative Department of Security to be dismantled and become newly named ''Agencia Central de Inteligencia'' (Central Intelligence Agency).](/news/2009/10/8/colombia-s-administrative-department-of-security-to-be-dismantled-and-become-newly-named-agencia-central-de-inteligencia-central-intel.md)
+### [ Colombia's Administrative Department of Security to be dismantled and become newly named "Agencia Central de Inteligencia" (Central Intelligence Agency).](/news/2009/10/8/colombia-s-administrative-department-of-security-to-be-dismantled-and-become-newly-named-agencia-central-de-inteligencia-central-intelli.md)
 _Context: Administrative Department of Security_
 
 ## [Previous Day...](/news/2009/10/7/index.md)

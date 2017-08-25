@@ -1,9 +1,9 @@
 ## [2012-12-20](/news/2012/12/20/index.md)
 
-### [Syrian civil war:The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-pthe-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md)
+### [Syrian civil war:. The United Nations Secretary-General Ban Ki-moon says there is no prospect of an end to the conflict in Syria. ](/news/2012/12/20/syrian-civil-war-the-united-nations-secretary-general-ban-ki-moon-says-there-is-no-prospect-of-an-end-to-the-conflict-in-syria.md)
 UN chief Ban Ki-moon says political settlement is only way to stop violence, and urges UN Security Council to unite.
 
-### [2012 Northern Mali conflict:The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-pthe-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-islam.md)
+### [2012 Northern Mali conflict:. The United Nations Security Council authorises African-led military intervention in northern Mali to oust Islamists and help reunify the country. ](/news/2012/12/20/2012-northern-mali-conflict-the-united-nations-security-council-authorises-african-led-military-intervention-in-northern-mali-to-oust-isla.md)
 The&#x20;UN&#x20;Security&#x20;Council&#x20;has&#x20;authorised&#x20;military&#x20;action&#x20;to&#x20;retake&#x20;northern&#x20;Mali&#x20;from&#x20;al&#x20;Qaeda-linked&#x20;extremists&#x20;who&#x20;took&#x20;advantage&#x20;of&#x20;a&#x20;March&#x20;coup&#x20;to&#x20;impose&#x20;a&#x20;brutal&#x20;...
 
 ### [The New York Stock Exchange, the largest stock exchange in the United States and the world, is sold to Atlanta-based IntercontinentalExchange. ](/news/2012/12/20/the-new-york-stock-exchange-the-largest-stock-exchange-in-the-united-states-and-the-world-is-sold-to-atlanta-based-intercontinentalexchang.md)

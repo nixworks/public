@@ -1,9 +1,9 @@
 ## [2014-03-19](/news/2014/03/19/index.md)
 
-### [Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base.  ](/news/2014/03/19/russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md)
+### [2014 Crimean crisis. Russian forces overrun the Ukrainian Navy headquarters in Sevastopol and another naval base. ](/news/2014/03/19/2014-crimean-crisis-russian-forces-overrun-the-ukrainian-navy-headquarters-in-sevastopol-and-another-naval-base.md)
 By Aleksandar Vasovic and Maria Kiselyova SEVASTOPOL, Ukraine/MOSCOW (Reuters) - The United States warned Moscow it was on a &quot;dark path&quot; to isolation on Wednesday as Russian troops seized two Ukrainian naval bases, including a headquarters in the Crimean port of Sevastopol where they raise...
 
-### [Syrian Civil War:The Israeli Air Force launches several air strikes on Syrian military sites, killing 1 Syrian soldier and wounding 7 others, in retaliation for a bombing that wounded four of its troops in the Golan Heights.](/news/2014/03/19/syrian-civil-war-pthe-israeli-air-force-launches-several-air-strikes-on-syrian-military-sites-killing-1-syrian-soldier-and-wounding-7-other.md)
+### [Syrian Civil War:. The Israeli Air Force launches several air strikes on Syrian military sites, killing 1 Syrian soldier and wounding 7 others, in retaliation for a bombing that wounded four of its troops in the Golan Heights.](/news/2014/03/19/syrian-civil-war-the-israeli-air-force-launches-several-air-strikes-on-syrian-military-sites-killing-1-syrian-soldier-and-wounding-7-othe.md)
 A Syrian soldier is killed in air strikes launched by Israel in retaliation for a bombing in the occupied Golan Heights, Syrian state media report.
 
 ### [Two Egyptian army officers and five militants are killed during a warehouse raid in Qalyubiya province north of Cairo. ](/news/2014/03/19/two-egyptian-army-officers-and-five-militants-are-killed-during-a-warehouse-raid-in-qalyubiya-province-north-of-cairo.md)

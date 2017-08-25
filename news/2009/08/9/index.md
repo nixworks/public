@@ -12,7 +12,7 @@ Almost a million people have been evacuated from southeastern China as authoriti
 ### [ A 6.9 magnitude earthquake hits Tokyo and eastern Japan. ](/news/2009/08/9/a-6-9-magnitude-earthquake-hits-tokyo-and-eastern-japan.md)
 A strong earthquake with a preliminary magnitude of 6.9 jolted central Japan on Sunday, halting some train services briefly but there were no immediate reports of damage.
 
-### [ Tonga raises the death toll from the MV ''Princess Ashika'' sinking to 93. ](/news/2009/08/9/tonga-raises-the-death-toll-from-the-mv-princess-ashika-sinking-to-93.md)
+### [ Tonga raises the death toll from the MV "Princess Ashika" sinking to 93. ](/news/2009/08/9/tonga-raises-the-death-toll-from-the-mv-princess-ashika-sinking-to-93.md)
 _Context: MV ''Princess Ashika'' ferry disaster, Tonga_
 
 ### [ Three bombs explode on the island of Majorca, Spain. ](/news/2009/08/9/three-bombs-explode-on-the-island-of-majorca-spain.md)

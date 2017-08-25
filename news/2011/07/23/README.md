@@ -24,7 +24,7 @@ _Context: Chile, Escondida_
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)
 Near Wenzhou, China, a train halted by lightning was struck by another train, derailing six cars, two of which were thrown from a bridge.
 
-### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
+### [2011 Horn of Africa famine. Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/2011-horn-of-africa-famine-unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
 _Context: Somalia, UNICEF, famine_
 
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
@@ -33,7 +33,7 @@ _Context: ASEAN, Bali, Indonesia, Kim Sung-hwan, North Korea, Pak Ui-chun, South
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
 Detainees in a remote immigration detention centre in Queensland have started self harm as part of a protest, an advocate says.
 
-### [Claims of phone hacking at the ''Daily Mirror'' and other Trinity Mirror publications are made by former ''Mirror'' journalist James Hipwell. ](/news/2011/07/23/claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-former-mirror-journalist-james-hipwell.md)
+### [News International phone hacking scandal. Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. ](/news/2011/07/23/news-international-phone-hacking-scandal-claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-fo.md)
 The phone-hacking story took a new and dramatic turn yesterday as a former journalist on the Daily Mirror claimed that the practice was &quot;endemic&quot; at the newspaper during his time there and that he would be willing to testify to investigating authorities.
 
 ### [A gunman fatally shoots six people, including himself, and wounds four others in a shooting in Grand Prairie, Texas. ](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.md)

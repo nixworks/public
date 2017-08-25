@@ -1,15 +1,15 @@
 ## [2013-05-20](/news/2013/05/20/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. ](/news/2013/05/20/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-violence-continues-with-attacks-across-the-country-killing-133-and-leaving-283-others-in.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. ](/news/2013/05/20/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-continues-with-attacks-across-the-country-killing-133-and-leaving-283-others-i.md)
 More than 70 people are killed and many more wounded by car bombs and suicide attacks in one of the worst days of violence in Iraq in recent months.
 
-### [Insurgency in the North Caucasus:Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/insurgency-in-the-north-caucasus-ptwin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injuring.md)
+### [Insurgency in the North Caucasus:. Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/insurgency-in-the-north-caucasus-twin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injurin.md)
 _Context: Dagestan, Insurgency in the North Caucasus, Makhachkala, Moscow, Republic_
 
 ### [North Korea launches short-ranged projectiles off its coast for the third day in a row. ](/news/2013/05/20/north-korea-launches-short-ranged-projectiles-off-its-coast-for-the-third-day-in-a-row.md)
 The North has been firing short-range projectiles off its east coast since Saturday, leaving regional officials puzzled over its motives.
 
-### [A massive two mile wide tornado strikes south of the US city of Oklahoma City, causing widespread damage and causing the National Weather Service to issue a rare tornado emergency.  ](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.md)
+### [A massive two mile wide tornado strikes south of the US city of Oklahoma City, causing widespread damage and causing the National Weather Service to issue a rare tornado emergency. ](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.md)
 Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 
 ### [A 6.5 magnitude earthquake strikes off the coast of Chile. ](/news/2013/05/20/a-6-5-magnitude-earthquake-strikes-off-the-coast-of-chile.md)
@@ -21,7 +21,7 @@ Rail services in Wellington have returned to normal after delays caused by a tra
 ### [A hot air balloon crashes in Cappadocia, Turkey, killing 2 tourists and injuring another 20. ](/news/2013/05/20/a-hot-air-balloon-crashes-in-cappadocia-turkey-killing-2-tourists-and-injuring-another-20.md)
 _Context: Cappadocia, Turkey_
 
-### [The BBC documentary series ''Panorama'' airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-a.md)
+### [The BBC documentary series "Panorama" airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-at.md)
 Crucial evidence from the 1989 Hillsborough football disaster, which was undermined at the original inquest, was true, BBC Panorama finds.
 
 ### [North Korea confirms a bird flu outbreak that has forced authorities to kill over 160,000 ducks in Pyongyang. ](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.md)

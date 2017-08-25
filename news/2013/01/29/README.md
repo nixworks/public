@@ -1,12 +1,12 @@
 ## [2013-01-29](/news/2013/01/29/index.md)
 
-### [War in Somalia (2009-present):A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009apresent-pa-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-moga.md)
+### [War in Somalia (2009-present):. A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009-present-a-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-mog.md)
 _Context: Mogadishu, Somali government, War in Somalia (2009-present)_
 
-### [Northern Mali conflict (2012-present):The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md)
+### [Northern Mali conflict (2012-present):. The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012-present-the-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md)
 The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
 
-### [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)
+### [Syrian civil war:. At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-at-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)
 The bodies of at least 71 young men, all apparently summarily executed, have been found in the northern Syrian city of Aleppo, rebels and activists say.
 
 ### [Vittorio Grilli, Italy's Economy Minister, contends before a committee of parliament that the central bank's handling of the supervision of Monte dei Paschi has been "attentive and appropriate". ](/news/2013/01/29/vittorio-grilli-italy-s-economy-minister-contends-before-a-committee-of-parliament-that-the-central-bank-s-handling-of-the-supervision-of.md)
@@ -18,7 +18,7 @@ _Context: Almaty, Bombardier CRJ200, Kazakhstan, SCAT Air, crashes_
 ### [A Ukrainian court sentences a former police chief Olexiy Pukach to life imprisonment for murdering journalist Georgiy Gongadze in 2000. ](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.md)
 A Ukrainian court convicts a former police surveillance chief of killing journalist Georgy Gongadze in 2000, a crime which rocked the country.
 
-### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md)
+### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94-3-kerry-succeeds-outgoing-secreta.md)
 _Context: Hillary Clinton, John Kerry, United States, United States Secretary of State, United States Senate_
 
 ### [UK government plans to redraw constituency boundaries before the next general election are defeated in the House of Commons by 334 to 292. ](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.md)

@@ -18,7 +18,7 @@ _Context: Centers for Disease Control and Prevention, ConAgra, United States, po
 ### [ Mahmoud Abbas, the President of the Palestinian Authority, spells out his conditions for a peace deal with Israel prior to a conference in Annapolis, Maryland next month. ](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.md)
 _Context: 2007 Mideast peace conference, Annapolis, Maryland, Israel, Mahmoud Abbas, Palestinian Authority_
 
-### [ The United Automobile Workers reaches a tentative agreement with  Chrysler shortly after workers commence strike action. ](/news/2007/10/10/the-united-automobile-workers-reaches-a-tentative-agreement-with-chrysler-shortly-after-workers-commence-strike-action.md)
+### [ The United Automobile Workers reaches a tentative agreement with Chrysler shortly after workers commence strike action. ](/news/2007/10/10/the-united-automobile-workers-reaches-a-tentative-agreement-with-chrysler-shortly-after-workers-commence-strike-action.md)
 The UAW and Chrysler have reached a tentative deal Wednesday afternoon, Forbes reports.
 
 ### [ The first Malaysian astronaut, Sheikh Muszaphar Shukor, and the first female space station commander, Peggy Whitson, are launched towards the International Space Station on board Soyuz TMA-11. ](/news/2007/10/10/the-first-malaysian-astronaut-sheikh-muszaphar-shukor-and-the-first-female-space-station-commander-peggy-whitson-are-launched-towards-t.md)

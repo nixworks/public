@@ -15,7 +15,7 @@ The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off 
 ### [Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.md)
 _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 
-### [Credit downgrades:Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/credit-downgrades-pmoody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
+### [Credit downgrades:. Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/credit-downgrades-moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
 _Context: Dutch, ING Bank, Moody's Investor Service, credit rating_
 
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
@@ -27,7 +27,7 @@ Major Chinese dairy firm Yili has recalls some of its baby formula products afte
 ### [An Apple I computer sells at an auction in New York for $374,500, setting a new record. ](/news/2012/06/15/an-apple-i-computer-sells-at-an-auction-in-new-york-for-374-500-setting-a-new-record.md)
 A rare functioning Apple 1 computer sells for more than double the estimated price at an auction in New York.
 
-### [2012 Pacific hurricane season:Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-phurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
+### [2012 Pacific hurricane season:. Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
 _Context: 2012 Pacific hurricane season, Hurricane Carlotta, Mexico_
 
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
@@ -39,7 +39,7 @@ Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for th
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
 _Context: Ankang city, China, Feng Jianmei_
 
-### [Baker Atyani, ''Al Arabiya{{'}}s'' TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine.md)
+### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
 _Context: Al Arabiya, Asia, Jolo_
 
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)

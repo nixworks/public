@@ -12,4 +12,4 @@ More than 80 officers search for 12-year-old Tia Sharp as Stuart Hazell is inter
 ### Related:
 
 1. [Investigators probing the disappearance of Tia Sharp find CCTV film of the missing girl. ](/news/2012/08/7/investigators-probing-the-disappearance-of-tia-sharp-find-cctv-film-of-the-missing-girl.md) _Context: Disappearance of Tia Sharp_
-2. [Disappearance of Tia Sharp:  A body is discovered in Tia Sharp's grandmother's house, and police announce that they are looking for the girl's step-grandfather. ](/news/2012/08/10/disappearance-of-tia-sharp-a-body-is-discovered-in-tia-sharp-s-grandmother-s-house-and-police-announce-that-they-are-looking-for-the-girl.md) _Context: Disappearance of Tia Sharp_
+2. [Disappearance of Tia Sharp: A body is discovered in Tia Sharp's grandmother's house, and police announce that they are looking for the girl's step-grandfather. ](/news/2012/08/10/disappearance-of-tia-sharp-a-body-is-discovered-in-tia-sharp-s-grandmother-s-house-and-police-announce-that-they-are-looking-for-the-girl.md) _Context: Disappearance of Tia Sharp_

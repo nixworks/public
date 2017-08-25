@@ -1,0 +1,23 @@
+### [2014-10-26](/news/2014/10/26/index.md)
+
+# War in North-West Pakistan. Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. 
+
+
+
+
+### Source:
+
+1. [AFP via ''Business Recorder](http://www.brecorder.com/top-news/1-front-top-news/201664-air-strikes-kill-18-militants-in-khyber-district.html)
+
+### Related:
+
+1. [War in North-West Pakistan. Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/war-in-north-west-pakistan-gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+2. [War in North-West Pakistan. Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/war-in-north-west-pakistan-pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-t.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+3. [War in North-West Pakistan:. A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/war-in-north-west-pakistan-a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+4. [War in North-West Pakistan:. At least 24 militants are killed in clashes between the Tehrik-e-Taliban and Ansarul Islam in Pakistan near the border with Afghanistan. ](/news/2013/01/26/war-in-north-west-pakistan-at-least-24-militants-are-killed-in-clashes-between-the-tehrik-e-taliban-and-ansarul-islam-in-pakistan-near-the.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+5. [War in North-West Pakistan:. Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-paki.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+6. [NATO invasion of Pakistani airspace:. A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-a-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakis.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+7. [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md) _Context: Afghanistan's, Pakistan, War in North-West Pakistan_
+8. [War in North-West Pakistan. August 2017 Quetta suicide bombing. A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/war-in-north-west-pakistan-august-2017-quetta-suicide-bombing-a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochist.md) _Context: Pakistan, War in North-West Pakistan_
+9. [War in North-West Pakistan. Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/war-in-north-west-pakistan-chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan.md) _Context: Pakistan, War in North-West Pakistan_
+10. [War in North-West Pakistan. A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/war-in-north-west-pakistan-a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-an.md) _Context: Afghanistan's, War in North-West Pakistan_

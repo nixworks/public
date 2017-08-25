@@ -1,21 +1,21 @@
 ## [2013-11-16](/news/2013/11/16/index.md)
 
-### [Syrian civil war:The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-pthe-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md)
+### [Syrian civil war:. The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-the-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md)
 _Context: Organisation for the Prohibition of Chemical Weapons, Syrian Civil War_
 
-### [Post-civil war violence in Libya:Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40. ](/news/2013/11/16/post-civil-war-violence-in-libya-psecond-day-of-fighting-in-tripoli-as-death-toll-from-violence-at-anti-militia-protest-topped-40.md)
+### [Post-civil war violence in Libya:. Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40. ](/news/2013/11/16/post-civil-war-violence-in-libya-second-day-of-fighting-in-tripoli-as-death-toll-from-violence-at-anti-militia-protest-topped-40.md)
 Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40.
 
-### [Islamist protests in Egypt (July 2013-present):Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013apresent-plawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-july.md)
+### [Islamist protests in Egypt (July 2013-present):. Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013-present-lawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-jul.md)
 _Context: Islamist protests in Egypt (July 2013-present), Mohamed Morsi_
 
-### [War in Afghanistan (2001-present):Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001apresent-psuicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md)
+### [War in Afghanistan (2001-present):. Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001-present-suicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md)
 Large blast near Kabul compound where Afghan security pact with US is to be debated at Loya Jirga kills six people.
 
-### [Iraqi insurgency (post-U.S. withdrawal):A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. A series of attacks in Baghdad and north Iraq kills four policemen and wounds dozens. ](/news/2013/11/16/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-in-baghdad-and-north-iraq-kills-four-policemen-and-wounds-dozens.md)
 A series of attacks in Baghdad and north Iraq leave four policemen dead and a dozen people wounded, in the latest in a months-long surge in nationwide bloodshed.
 
-### [Typhoon Haiyan:David Cameron commits an additional PS30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-pdavid-cameron-commits-an-additional-aps30-million-to-the-victims.md)
+### [Typhoon Haiyan:. David Cameron commits an additional GBP30 million to the victims. ](/news/2013/11/16/typhoon-haiyan-david-cameron-commits-an-additional-agbp30-million-to-the-victims.md)
 The British government will give an extra £30m in emergency aid - a total of £50m - following the devastating Philippines typhoon, David Cameron announces.
 
 ### [A San Diego, California family of four, who disappeared in 2010, is found buried in the desert; local authorities are now treating the case as multiple homicides. ](/news/2013/11/16/a-san-diego-california-family-of-four-who-disappeared-in-2010-is-found-buried-in-the-desert-local-authorities-are-now-treating-the-case.md)

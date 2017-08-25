@@ -9,7 +9,7 @@ _Context: Arbaeen, Balad Ruz, Diyala Governorate, Iraq, Karbala, Shia, cafe, sui
 ### [ Three Jordanians go on trial for plotting to assassinate U.S. President George W. Bush. ](/news/2007/03/7/three-jordanians-go-on-trial-for-plotting-to-assassinate-u-s-president-george-w-bush.md)
 _Context: George W. Bush, Jordan, assassinate, president_
 
-### [ The People's Republic of China announces that its first probe to the Moon, Chang'e 1, will be launched later in 2007, with the eventual goal of landing a man on the moon by 2022.  The probe is supposed to orbit the Moon at least three times. ([http://news.bbc.co.uk/2/hi/science/nature/6423323.stm BBC])](/news/2007/03/7/the-people-s-republic-of-china-announces-that-its-first-probe-to-the-moon-chang-e-1-will-be-launched-later-in-2007-with-the-eventual-goa.md)
+### [ The People's Republic of China announces that its first probe to the Moon, Chang'e 1, will be launched later in 2007, with the eventual goal of landing a man on the moon by 2022. The probe is supposed to orbit the Moon at least three times. ([http://news.bbc.co.uk/2/hi/science/nature/6423323.stm BBC])](/news/2007/03/7/the-people-s-republic-of-china-announces-that-its-first-probe-to-the-moon-chang-e-1-will-be-launched-later-in-2007-with-the-eventual-goa.md)
 _Context: 2007, 2022, Chang'e 1, China, Moon, space probe_
 
 ### [ President of Mauritius Anerood Jugnauth threatens to leave the Commonwealth of Nations over the British government's treatment of the lois of the Chagos Archipelago. ](/news/2007/03/7/president-of-mauritius-anerood-jugnauth-threatens-to-leave-the-commonwealth-of-nations-over-the-british-government-s-treatment-of-the-ilois.md)
@@ -21,10 +21,10 @@ _Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, United Nation
 ### [ The Israel Defence Forces raid the Palestinian Authority's military intelligence headquarters in Ramallah. ](/news/2007/03/7/the-israel-defence-forces-raid-the-palestinian-authority-s-military-intelligence-headquarters-in-ramallah.md)
 _Context: Israel Defence Forces, Palestinian Authority, Ramallah, military intelligence_
 
-### [ The Taliban claim that they have kidnapped Daniele Mastrogiacomo, an Italian journalist working for ''La Repubblica'' newspaper. ](/news/2007/03/7/the-taliban-claim-that-they-have-kidnapped-daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-newspaper.md)
+### [ The Taliban claim that they have kidnapped Daniele Mastrogiacomo, an Italian journalist working for "La Repubblica" newspaper. ](/news/2007/03/7/the-taliban-claim-that-they-have-kidnapped-daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-newspaper.md)
 _Context: Italian, Kidnap, La Repubblica, Taliban, journalist, newspaper_
 
-### [ Rogerio Lobato, former Interior Minister of East Timor, is found guilty on five counts of arming hit squads during  civil unrest in 2006. ](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.md)
+### [ Rogerio Lobato, former Interior Minister of East Timor, is found guilty on five counts of arming hit squads during civil unrest in 2006. ](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.md)
 The Age 404 Page
 
 ### [ Voters in Northern Ireland go to the polls to elect new members to the Northern Ireland Assembly. ](/news/2007/03/7/voters-in-northern-ireland-go-to-the-polls-to-elect-new-members-to-the-northern-ireland-assembly.md)
@@ -34,7 +34,7 @@ _Context: Assembly election, Northern Ireland, Northern Ireland Assembly_
 _Context: Garuda Indonesia, Indonesia, Marwoto Komar, Yogyakarta_
 
 ### [ The United States Department of State issues a report saying that human rights in Fiji have sharply deteriorated since the 2006 coup. ](/news/2007/03/7/the-united-states-department-of-state-issues-a-report-saying-that-human-rights-in-fiji-have-sharply-deteriorated-since-the-2006-coup.md)
-_Context: Fiji, Human rights, State Department's, coup in 2006_
+_Context: Fiji, Human rights, United States State Department, coup in 2006_
 
 ### [ Iranian general Ali Reza Askari is reported to have to defected to US custody after disappearing on February 7 in Istanbul.](/news/2007/03/7/iranian-general-ali-reza-askari-is-reported-to-have-to-defected-to-us-custody-after-disappearing-on-february-7-in-istanbul.md)
 _Context: Ali Reza Askari, Iran, Istanbul_

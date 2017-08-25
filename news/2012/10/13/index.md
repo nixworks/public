@@ -15,13 +15,13 @@ _Context: Manuel Torres Felix, Mexican Drug War, Sinaloa Cartel_
 ### [Insurgency in the North Caucasus: A Russian army soldier and three Islamic militants die in a skirmish in the North Caucasus republic of Dagestan. ](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.md)
 _Context: Dagestan, Insurgency in the North Caucasus_
 
-### [Gerhard Richter's ''Abstraktes Bild'', painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-reco.md)
+### [Gerhard Richter's "Abstraktes Bild", painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-record.md)
 An oil painting by Gerhard Richter owned by Eric Clapton sells for £21m ($34m) - an auction record for a work by a living artist.
 
 ### [Reuters reports on the basis of "people familiar with the matter" that the U.S. Federal Trade Commission is close to bringing an antitrust lawsuit against Google over its dominance of the search engine market. ](/news/2012/10/13/reuters-reports-on-the-basis-of-people-familiar-with-the-matter-that-the-u-s-federal-trade-commission-is-close-to-bringing-an-antitrust-l.md)
 The majority of top decision-makers at the Federal Trade Commission believe that an antitrust case should be brought against Google Inc, meaning the search giant could soon be headed into tough negotiations, three people familiar with the matter said.
 
-### [Residents of Los Angeles watch in awe as U.S. Space Shuttle ''Endeavour'' inches through the city on a giant trolley, bound for a museum. Hundreds of trees in its path are chopped down. ](/news/2012/10/13/residents-of-los-angeles-watch-in-awe-as-u-s-space-shuttle-endeavour-inches-through-the-city-on-a-giant-trolley-bound-for-a-museum-hu.md)
+### [Residents of Los Angeles watch in awe as U.S. Space Shuttle "Endeavour" inches through the city on a giant trolley, bound for a museum. Hundreds of trees in its path are chopped down. ](/news/2012/10/13/residents-of-los-angeles-watch-in-awe-as-u-s-space-shuttle-endeavour-inches-through-the-city-on-a-giant-trolley-bound-for-a-museum-hund.md)
 The retired US space shuttle Endeavour finally reaches its new home in a Los Angeles museum after long delays caused by trees along the route.
 
 ### [Syria announces Turkish civilian flights over Syrian territory are banned, days after Turkey intercepted a Syrian flight that was suspected to be carrying illegal cargo. ](/news/2012/10/13/syria-announces-turkish-civilian-flights-over-syrian-territory-are-banned-days-after-turkey-intercepted-a-syrian-flight-that-was-suspected.md)

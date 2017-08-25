@@ -1,6 +1,6 @@
 ## [2008-01-3](/news/2008/01/3/index.md)
 
-### [ United States presidential election, 2008: Voters in Iowa  go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-p-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md)
+### [ United States presidential election, 2008:. Voters in Iowa go to the polls for the first caucus to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/01/3/united-states-presidential-election-2008-voters-in-iowa-go-to-the-polls-for-the-first-caucus-to-determine-presidential-nominees-for-the.md)
 _Context:  go to the polls, 2008, Democratic, Iowa, Republican, Vote, caucus_
 
 ### [ Benazir Bhutto assassination: President of Pakistan Pervez Musharraf denies any role in Benazir Bhutto's death. ](/news/2008/01/3/benazir-bhutto-assassination-president-of-pakistan-pervez-musharraf-denies-any-role-in-benazir-bhutto-s-death.md)

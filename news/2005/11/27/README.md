@@ -6,7 +6,7 @@ _Context: 23rd Southeast Asian Games, Manila, Philippines_
 ### [ A tornado outbreak across four U.S. states kills at least two people. ](/news/2005/11/27/a-tornado-outbreak-across-four-u-s-states-kills-at-least-two-people.md)
 _Context: U.S. state, tornado outbreak_
 
-### [ The former Prime Minister of Iraq, Iyad Allawi, has claimed in ''The Observer'' newspaper, that human rights abuses by members of the Government of Iraq are as bad now as they were in the time of Saddam Hussein. ](/news/2005/11/27/the-former-prime-minister-of-iraq-iyad-allawi-has-claimed-in-the-observer-newspaper-that-human-rights-abuses-by-members-of-the-gover.md)
+### [ The former Prime Minister of Iraq, Iyad Allawi, has claimed in "The Observer" newspaper, that human rights abuses by members of the Government of Iraq are as bad now as they were in the time of Saddam Hussein. ](/news/2005/11/27/the-former-prime-minister-of-iraq-iyad-allawi-has-claimed-in-the-observer-newspaper-that-human-rights-abuses-by-members-of-the-governm.md)
 _Context: Government of Iraq, Iraq Prime Minister, Iyad Allawi, Saddam Hussein, The Observer, human rights violation_
 
 ### [ Incumbent President Omar Bongo Ondimba seeks another seven-year term against four other candidates in Gabonese presidential election, 2005. ](/news/2005/11/27/incumbent-president-omar-bongo-ondimba-seeks-another-seven-year-term-against-four-other-candidates-in-gabonese-presidential-election-2005.md)

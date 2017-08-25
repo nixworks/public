@@ -1,15 +1,15 @@
 ## [2012-12-3](/news/2012/12/3/index.md)
 
-### [Syrian civil war:The United Nations suspends operations in Syria and withdraws non-essential staff as the Syrian civil war worsens. ](/news/2012/12/3/syrian-civil-war-pthe-united-nations-suspends-operations-in-syria-and-withdraws-non-essential-staff-as-the-syrian-civil-war-worsens.md)
+### [Syrian civil war:. The United Nations suspends operations in Syria and withdraws non-essential staff as the Syrian civil war worsens. ](/news/2012/12/3/syrian-civil-war-the-united-nations-suspends-operations-in-syria-and-withdraws-non-essential-staff-as-the-syrian-civil-war-worsens.md)
 There are unconfirmed reports that Jihad Makdissi has either defected or been fired and is in the UK.
 
-### [2012 East D.R. Congo conflict:The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-pthe-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md)
+### [2012 East D.R. Congo conflict:. The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/2012-east-d-r-congo-conflict-the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md)
 _Context: 2012 East D.R. Congo conflict, Democratic Republic of the Congo, Goma, M23, government_
 
 ### [The Duke and Duchess of Cambridge announce they are expecting their first child. The baby could be third in line to the throne, after Prince Charles and Prince William. The Duchess is admitted to hospital with severe morning sickness. ](/news/2012/12/3/the-duke-and-duchess-of-cambridge-announce-they-are-expecting-their-first-child-the-baby-could-be-third-in-line-to-the-throne-after-prince.md)
 _Context: Cambridge, Catherine, Duchess of Cambridge, Duke of Cambridge, Prince Charles, morning sickness_
 
-### [Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation ''The Woolworths Choir of 1979''. ](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.md)
+### [Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation "The Woolworths Choir of 1979". ](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.md)
 Former 1980s pop musician Elizabeth Price was tonight awarded the Turner Prize for her “seductive and immersive” video trilogy, the first video artist to win for over a decade.
 
 ### [The U.S. Supreme Court is allowing former employees of General Motors to pursue a lawsuit against a unit of State Street Corp. over the alleged mismanagement of their retirement savings. ](/news/2012/12/3/the-u-s-supreme-court-is-allowing-former-employees-of-general-motors-to-pursue-a-lawsuit-against-a-unit-of-state-street-corp-over-the-alle.md)

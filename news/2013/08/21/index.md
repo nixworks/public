@@ -1,6 +1,6 @@
 ## [2013-08-21](/news/2013/08/21/index.md)
 
-### [Syrian civil war:Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-psyrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md)
+### [Syrian civil war:. Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md)
 Security council to meet later on Wednesday in response to claims that hundreds of people have been killed in attacks
 
 ### [JC Penney reports a notable decrease in third quarter income. ](/news/2013/08/21/jc-penney-reports-a-notable-decrease-in-third-quarter-income.md)
@@ -9,7 +9,7 @@ _Context: JC Penney_
 ### [Japan upgrades the recent leak of radioactive water from the Fukushima nuclear disaster site to Level 3, a "serious incident," on the International Nuclear Event Scale. ](/news/2013/08/21/japan-upgrades-the-recent-leak-of-radioactive-water-from-the-fukushima-nuclear-disaster-site-to-level-3-a-serious-incident-on-the-intern.md)
 “FLASH: Japan raises severity of latest Fukushima leak to level 3 (&quot;serious&quot; radiation &quot;incident&quot;) on international scale”
 
-### [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md)
+### [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-china-russia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md)
 _Context: Flash flooding, Qinghai, devastating floods in summer_
 
 ### [37 killed, 16 injured in a bus crash in Malaysia, near the Chin Swee Temple. ](/news/2013/08/21/37-killed-16-injured-in-a-bus-crash-in-malaysia-near-the-chin-swee-temple.md)
@@ -27,7 +27,7 @@ _Context: Abubakar Shekau, Boko Haram, Nigerian Army_
 ### [A Cairo criminal court releases former President Hosni Mubarak, initiating further investigation of corruption. ](/news/2013/08/21/a-cairo-criminal-court-releases-former-president-hosni-mubarak-initiating-further-investigation-of-corruption.md)
 An Egyptian court orders the release of ex-President Hosni Mubarak, amid reports he could leave prison on Thursday and be placed under house arrest.
 
-### [''United States v Bradley Manning'': United States Army private Chelsea Manning (legally Bradley Manning) is sentenced to 35 years in jail for providing classified material to WikiLeaks. ](/news/2013/08/21/united-states-v-bradley-manning-united-states-army-private-chelsea-manning-legally-bradley-manning-is-sentenced-to-35-years-in-jail-f.md)
+### ["United States v Bradley Manning": United States Army private Chelsea Manning (legally Bradley Manning) is sentenced to 35 years in jail for providing classified material to WikiLeaks. ](/news/2013/08/21/united-states-v-bradley-manning-united-states-army-private-chelsea-manning-legally-bradley-manning-is-sentenced-to-35-years-in-jail-for.md)
 Bradley Manning, the Army private convicted of leaking hundreds of thousands of classified documents to the website WikiLeaks, was sentenced to 35 years in a military prison today.
 
 ### [British businessman Gary Bolton is sentenced 7 years for selling fraudulent bomb detectors. ](/news/2013/08/21/british-businessman-gary-bolton-is-sentenced-7-years-for-selling-fraudulent-bomb-detectors.md)

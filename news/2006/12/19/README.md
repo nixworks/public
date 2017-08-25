@@ -9,7 +9,7 @@ _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, 
 ### [ Kazakh President Nursultan Nazarbayev condemns the Iranian government for acting "as the center of growing insecurity in Asia" by supporting terrorism, weapons and drug trafficking, the spread of weapons of mass destruction, and illegal migration. The Foreign Ministry later says news agencies misquoted him. ](/news/2006/12/19/kazakh-president-nursultan-nazarbayev-condemns-the-iranian-government-for-acting-as-the-center-of-growing-insecurity-in-asia-by-supportin.md)
 _Context: Kazakh President, Nursultan Nazarbayev's, Tehran, drug trafficking, terrorism, weapons of mass destruction_
 
-### [ Palestinian civil skirmishes: Five people have been killed and 12 injured after gun battles erupted between armed Palestinians loyal to Hamas and Fatah in the Gaza Strip.  ](/news/2006/12/19/palestinian-civil-skirmishes-p-five-people-have-been-killed-and-12-injured-after-gun-battles-erupted-between-armed-palestinians-loyal-to-ha.md)
+### [ Palestinian civil skirmishes:. Five people have been killed and 12 injured after gun battles erupted between armed Palestinians loyal to Hamas and Fatah in the Gaza Strip. ](/news/2006/12/19/palestinian-civil-skirmishes-five-people-have-been-killed-and-12-injured-after-gun-battles-erupted-between-armed-palestinians-loyal-to-ha.md)
 _Context: Fatah, Gaza Strip, Hamas, Palestinian civil skirmishes, Palestinians_
 
 ### [ Hugo Chvez announces his plans to merge the parties which support the Bolivarian Revolution into the United Socialist Party of Venezuela. ](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.md)

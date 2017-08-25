@@ -6,7 +6,7 @@ _Context: Europe, Greek, Middle East, Turkey, natural gas_
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 
-### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty  for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty.md)
+### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty-f.md)
 _Context: United States Army, gang rape, plea deals_
 
 ### [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md)
@@ -27,7 +27,7 @@ The political fallout from the worst plane crash in Brazilian history continued 
 ### [ San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. ](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.md)
 _Context: Alex Rodriguez, Barry Bonds, Hank Aaron, Major League Baseball, San Francisco Giants, home run_
 
-### [ Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of ''The Oakland Post''. ](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.md)
+### [ Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of "The Oakland Post". ](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.md)
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)

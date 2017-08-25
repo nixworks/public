@@ -15,7 +15,7 @@ _Context: Governor of Illinois, Illinois, Rod Blagojevich, corruption_
 ### [Security expert and anti-corruption activist Alfredo Landaverde is killed in Honduras, a day after journalist Luz Marina Paz Villalobos is killed, leading to a ban on a motorcycle passengers. ](/news/2011/12/7/security-expert-and-anti-corruption-activist-alfredo-landaverde-is-killed-in-honduras-a-day-after-journalist-luz-marina-paz-villalobos-is-k.md)
 After two high-profile killings this week, legislators approved a decree late Wednesday banning motorcyclists from riding with passengers.
 
-### [Former President of the Soviet Union, Mikhail Gorbachev says that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday's parliamentary election and hold a new poll. ](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.md)
+### [Former President of the Soviet Union, Mikhail Gorbachev says that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday-s parliamentary election and hold a new poll. ](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.md)
 The first and only president of the Soviet Union, Mikhail Gorbachev has said that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday’s parliamentary election and hold a new poll.
 
 ### [Egypt's Freedom and Justice Party claims to have won a majority of seats in the runoff election. ](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.md)

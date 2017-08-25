@@ -1,6 +1,6 @@
 ### [2015-10-30](/news/2015/10/30/index.md)
 
-# ''Happy Days'' actor Al Molinaro dies at 96. 
+# "Happy Days" actor Al Molinaro dies at 96. 
 
 On &lsquo;Happy Days,&rsquo; Mr. Molinaro was part of an ensemble of endearing 1950s archetypes.
 

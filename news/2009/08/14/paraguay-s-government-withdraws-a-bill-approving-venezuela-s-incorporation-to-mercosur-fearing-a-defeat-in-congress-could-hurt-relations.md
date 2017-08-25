@@ -1,0 +1,23 @@
+### [2009-08-14](/news/2009/08/14/index.md)
+
+#  Paraguay-s government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. 
+
+Paraguay&#039;s government withdrew a bill that would approve the incorporation of Venezuela to the Mercosur trade bloc fearing a defeat in Congress that could hurt relations between the two countries.
+
+
+### Source:
+
+1. [MercoPress](http://en.mercopress.com/2009/08/14/paraguayan-government-withdraws-bill-for-venezuelas-mercosur-incorporation)
+
+### Related:
+
+1. [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela-s incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuela-s-incorporation-to-merc.md) _Context: Congress's, Mercosur, Venezuela_
+2. [Venezuelan Constitutional Assembly election, 2017. South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely, furthering its past temporary suspension, and not allow the country back until internal political issues have been resolved. ](/news/2017/08/3/venezuelan-constitutional-assembly-election-2017-south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-sus.md) _Context: Mercosur, Venezuela_
+3. [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on a constitutional amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago. ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md) _Context: Congress's, Paraguay_
+4. [Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. ](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.md) _Context: Mercosur, Venezuela_
+5. [Human rights in Venezuela. The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/human-rights-in-venezuela-the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-e.md) _Context: Mercosur, Venezuela_
+6. [Mercosur grants full membership for Venezuela. ](/news/2012/07/31/mercosur-grants-full-membership-for-venezuela.md) _Context: Mercosur, Venezuela_
+7. [The South American trade bloc Mercosur suspends Paraguay's membership following the impeachment of Fernando Lugo but will not impose sanctions. ](/news/2012/06/29/the-south-american-trade-bloc-mercosur-suspends-paraguay-s-membership-following-the-impeachment-of-fernando-lugo-but-will-not-impose-sanctio.md) _Context: Mercosur, Paraguay_
+8. [ The Brazilian Senate condemns Venezuelan President Hugo Chvez for his restrictions on the press, further delaying its Mercosur bid. ](/news/2009/09/4/the-brazilian-senate-condemns-venezuelan-president-hugo-chavez-for-his-restrictions-on-the-press-further-delaying-its-mercosur-bid.md) _Context: Mercosur, Venezuela_
+9. [United States-Venezuela relations. The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/united-states-venezuela-relations-the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constitue.md) _Context: Venezuela_
+10. [Crisis in Venezuela. Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. ](/news/2017/08/4/crisis-in-venezuela-socorro-flores-liera-mexico-s-deputy-foreign-minister-for-latin-america-and-the-caribbean-speaks-during-an-interview.md) _Context: Venezuela_

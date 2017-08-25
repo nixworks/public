@@ -1,6 +1,6 @@
 ### [2006-02-22](/news/2006/02/22/index.md)
 
-#  Securitas depot robbery: The United Kingdom's largest robbery when a Securitas depot in Tonbridge, Kent, was robbed and the thieves made off with Bank of England banknotes worth 53 million. 
+#  Securitas depot robbery: The United Kingdom's largest robbery when a Securitas depot in Tonbridge, Kent, was robbed and the thieves made off with Bank of England banknotes worth GBP53 million. 
 
 
 

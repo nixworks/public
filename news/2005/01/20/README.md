@@ -9,10 +9,10 @@ _Context: Belize, Britain, unrest_
 ### [ Israeli-Palestinian Conflict: Israeli soldiers shoot dead a 13- or 14-year-old Palestinian boy, after he points a toy rifle at them, and kill another 13-year-old boy walking with his parents near Rafah. ](/news/2005/01/20/israeli-palestinian-conflict-israeli-soldiers-shoot-dead-a-13-or-14-year-old-palestinian-boy-after-he-points-a-toy-rifle-at-them-and-ki.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, rifle, toy_
 
-### [ United States: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-p-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)
+### [ United States:. U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
-### [ Hajj: Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as ''qurbani''. Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/hajj-p-pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-new.md)
+### [ Hajj:. Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as "qurbani". Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/hajj-pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-new.md)
 _Context: Eid ul-Adha, Hajj, Satan, Saudi Arabia, pillars_
 
 ### [ The Republic of Ireland, one of the last countries to use non-metric speed limits, officially changes all road signage and regulations to use kilometres per hour (km/h). Speed limits in Northern Ireland remain in miles per hour (mph). ](/news/2005/01/20/the-republic-of-ireland-one-of-the-last-countries-to-use-non-metric-speed-limits-officially-changes-all-road-signage-and-regulations-to-u.md)
@@ -36,7 +36,7 @@ _Context: Cigar, Cuba, tobacco smoking_
 ### [ The trial of Bernie Ebbers, former CEO of WorldCom, begins in New York with the jury selection. ](/news/2005/01/20/the-trial-of-bernie-ebbers-former-ceo-of-worldcom-begins-in-new-york-with-the-jury-selection.md)
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
-### [ Mars rover ''Opportunity'' uses its spectrometers to prove that Heat Shield Rock is a meteorite, the first to be found on another planet. ](/news/2005/01/20/mars-rover-opportunity-uses-its-spectrometers-to-prove-that-heat-shield-rock-is-a-meteorite-the-first-to-be-found-on-another-planet.md)
+### [ Mars rover "Opportunity" uses its spectrometers to prove that Heat Shield Rock is a meteorite, the first to be found on another planet. ](/news/2005/01/20/mars-rover-opportunity-uses-its-spectrometers-to-prove-that-heat-shield-rock-is-a-meteorite-the-first-to-be-found-on-another-planet.md)
 The discovery of an iron meteorite sitting on Mars by NASA’s Opportunity rover has kick-started a wide-ranging discussion as to what the find may be telling us about the planet itself, past water conditions there, and just how peppered the red planet migh
 
 ### [ The Walt Disney Company announces that the water park River Country will be closed permanently.](/news/2005/01/20/the-walt-disney-company-announces-that-the-water-park-river-country-will-be-closed-permanently.md)

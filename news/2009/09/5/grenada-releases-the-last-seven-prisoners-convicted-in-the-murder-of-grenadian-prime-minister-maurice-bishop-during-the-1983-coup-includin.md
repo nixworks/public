@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md) _Context: Grenada_
+1. [Grenadian constitutional referendum, 2016. Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/grenadian-constitutional-referendum-2016-voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-a.md) _Context: Grenada_
 2. [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md) _Context: Grenada_
 3. [ Tillman Thomas succeeds Keith Mitchell as the new Prime Minister of Grenada following the general elections. ](/news/2008/07/9/tillman-thomas-succeeds-keith-mitchell-as-the-new-prime-minister-of-grenada-following-the-general-elections.md) _Context: Grenada_
 4. [ 2005 Atlantic hurricane season: Rain from Hurricane Emily causes flooding and mudslides in Grenada, as the hurricane continues to grow to near Category 3 strength. ](/news/2005/07/14/2005-atlantic-hurricane-season-rain-from-hurricane-emily-causes-flooding-and-mudslides-in-grenada-as-the-hurricane-continues-to-grow-to-n.md) _Context: Grenada_

@@ -1,6 +1,6 @@
 ## [2011-09-17](/news/2011/09/17/index.md)
 
-### [2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte.  ](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-libyan-dictator-muammar-gaddafi-launch-a-counter-attack-against-opposition-fighters-in-the-to.md)
+### [2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte. ](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-libyan-dictator-muammar-gaddafi-launch-a-counter-attack-against-opposition-fighters-in-the-to.md)
 Fighting comes as NTC offers last chance to loyalists of deposed leader to join its ranks or be accused of treason.
 
 ### [At least three people are killed and 25 injured in a train crash near the Alawwa railway station, 60 kilometres north of Colombo in Sri Lanka. ](/news/2011/09/17/at-least-three-people-are-killed-and-25-injured-in-a-train-crash-near-the-alawwa-railway-station-60-kilometres-north-of-colombo-in-sri-lank.md)
@@ -16,7 +16,7 @@ _Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North America
 _Context: Aftershock, Honshu Island, Japan, earthquake_
 
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Cambodia, Government of Cambodia, Preah Vihear Temple, Prime Minister of Thailand, Thaksin_
+_Context: Cambodia, Government of Cambodia, Preah Vihear Temple, Prime Minister, Thaksin_
 
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
 Finnish authorities were holding a man and a woman on Saturday for alleged involvement in international terrorist activities.

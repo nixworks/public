@@ -1,0 +1,24 @@
+### [2013-04-7](/news/2013/04/7/index.md)
+
+# 2013 Korean crisis:. The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. 
+
+Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/2013471341732178.html)
+2. [CNN](http://www.cnn.com/2013/04/06/world/asia/koreas-tensions)
+
+### Related:
+
+1. [2013 Korean crisis:. North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/2013-korean-crisis-north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-aga.md) _Context: 2013 Korean crisis, North Korea, United States_
+2. [Aftermath of the 2013 Korean crisis:. North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stati.md) _Context: 2013 Korean crisis, North Korea, United States_
+3. [2013 Korean crisis:. The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md) _Context: 2013 Korean crisis, North Korea, United States_
+4. [2013 Korean crisis:. North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-state.md) _Context: 2013 Korean crisis, North Korea, United States_
+5. [2013 Korean crisis:. South Korea's defense ministry says it doubts North Korea has the ability to launch a nuclear-armed ballistic missile as claimed in a report by the United States Defense Intelligence Agency. ](/news/2013/04/12/2013-korean-crisis-south-korea-s-defense-ministry-says-it-doubts-north-korea-has-the-ability-to-launch-a-nuclear-armed-ballistic-missile-a.md) _Context: 2013 Korean crisis, North Korea, United States_
+6. [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md) _Context: 2013 Korean crisis, North Korea, United States_
+7. [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md) _Context: North Korea, United States, intercontinental ballistic missile_
+8. [Sanctuary cities. California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/sanctuary-cities-california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California, United States_
+9. [North Korea and weapons of mass destruction. North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-and-weapons-of-mass-destruction-north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-9.md) _Context: North Korea, intercontinental ballistic missile_
+10. [North Korea-United States relations. American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/north-korea-united-states-relations-american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-nort.md) _Context: North Korea, United States_

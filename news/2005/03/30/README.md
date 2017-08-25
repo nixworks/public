@@ -18,13 +18,13 @@ _Context: India_
 ### [ A Shanghai online game player stabs a competitor to death for selling his cyber-sword. ](/news/2005/03/30/a-shanghai-online-game-player-stabs-a-competitor-to-death-for-selling-his-cyber-sword.md)
 Get the latest breaking news and top news headlines at Reuters.com
 
-### [ In Israel, Jerusalem police deny members of Jewish organization Revava access to Temple Mount during Passover because of danger that they could use the situation to encourage violence. Revava has planned a pilgrimage to the site in April 10  ](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.md)
+### [ In Israel, Jerusalem police deny members of Jewish organization Revava access to Temple Mount during Passover because of danger that they could use the situation to encourage violence. Revava has planned a pilgrimage to the site in April 10 ](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.md)
 _Context: 10, Israel, Jerusalem, Jew, Passover, Revava, Temple Mount_
 
 ### [ In Guatemala, dozens of disguised AIDS patients protest government ruling that gives pharmaceutical companies 5-10 years to keep their drug trial data secret, limiting access to cheap generic AIDS drugs ](/news/2005/03/30/in-guatemala-dozens-of-disguised-aids-patients-protest-government-ruling-that-gives-pharmaceutical-companies-5-10-years-to-keep-their-drug.md)
 _Context: AIDS, Guatemala_
 
-### [ European nations has expressed support of UN secretary general Kofi Annan after US probe found no evidence of his involvement with the foul play in Oil-for-Food Program  ](/news/2005/03/30/european-nations-has-expressed-support-of-un-secretary-general-kofi-annan-after-us-probe-found-no-evidence-of-his-involvement-with-the-foul.md)
+### [ European nations has expressed support of UN secretary general Kofi Annan after US probe found no evidence of his involvement with the foul play in Oil-for-Food Program ](/news/2005/03/30/european-nations-has-expressed-support-of-un-secretary-general-kofi-annan-after-us-probe-found-no-evidence-of-his-involvement-with-the-foul.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In India, the state of Maharashtra closes its dance bars outside the city of Mumbai as breeding grounds for prostitution ](/news/2005/03/30/in-india-the-state-of-maharashtra-closes-its-dance-bars-outside-the-city-of-mumbai-as-breeding-grounds-for-prostitution.md)

@@ -24,7 +24,7 @@ _Context: Canton Fair, barometer_
 ### [The Central Committee of the Communist Party of China opens its fifth plenary session in Beijing to discuss the country's next five-year economic and social development plan. ](/news/2010/10/15/the-central-committee-of-the-communist-party-of-china-opens-its-fifth-plenary-session-in-beijing-to-discuss-the-country-s-next-five-year-eco.md)
 Party officials gather to outline five-year economic and social development plan amid speculation over political reform.
 
-### [United Kingdom consumer goods company Reckitt Benckiser agrees to pay a fine of PS10.2 million for abusing its market position for Gaviscon in the United Kingdom. ](/news/2010/10/15/united-kingdom-consumer-goods-company-reckitt-benckiser-agrees-to-pay-a-fine-of-aps10-2-million-for-abusing-its-market-position-for-gaviscon.md)
+### [United Kingdom consumer goods company Reckitt Benckiser agrees to pay a fine of GBP10.2 million for abusing its market position for Gaviscon in the United Kingdom. ](/news/2010/10/15/united-kingdom-consumer-goods-company-reckitt-benckiser-agrees-to-pay-a-fine-of-agbp10-2-million-for-abusing-its-market-position-for-gavisco.md)
 Reckitt Benckiser agrees to pay a £10.2m fine after admitting to abusing its market position for the supply of Gaviscon.
 
 ### [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md)
@@ -42,7 +42,7 @@ _Context: Ajka, Hungary, Veszprem County, accident earlier this month, alumina_
 ### [Four miners are trapped underground in southern Ecuador. ](/news/2010/10/15/four-miners-are-trapped-underground-in-southern-ecuador.md)
 _Context: Ecuador_
 
-### [United Nations Security Council:The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-pthe-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md)
+### [United Nations Security Council:. The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md)
 The U.N. Security Council voted to extend the mandate for the mission to Darfur as South Sudan gets set for a January vote for self-determination.
 
 ### [Israel unveils preliminary plans for 238 new homes for Jewish settlers in East Jerusalem with Palestinians protesting in response. ](/news/2010/10/15/israel-unveils-preliminary-plans-for-238-new-homes-for-jewish-settlers-in-east-jerusalem-with-palestinians-protesting-in-response.md)

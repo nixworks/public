@@ -1,12 +1,12 @@
 ## [2010-04-29](/news/2010/04/29/index.md)
 
-### [Deepwater Horizon drilling rig explosion in the The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled-in-the-aftermat.md)
+### [Deepwater Horizon drilling rig explosion in the Gulf of Mexico. The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled.md)
 Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil giant BPPlc (BP.L) and owners of the drilling platform that exploded inthe Gulf of Mexico, as claims for economic losses anticipatedfrom the disaster began to mount.
 
-### [A U.S. government panel, the U.S. Commission on International Religious Freedom,  names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-mos.md)
+### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)
 _Context: China, Saudi Arabia, U.S. Commission on International Religious Freedom, United States, religious freedom_
 
-### [Millions of mostly Asian women who work in countries  like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffi.md)
+### [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md)
 _Context: Human Rights Watch, Lebanon, New York City, Saudi Arabia, United Arab Emirates, forced labor, human trafficking, incarceration, migrant workers, sexual violence_
 
 ### [India and Pakistan agree to reopen discussion on "all issues of mutual concern." ](/news/2010/04/29/india-and-pakistan-agree-to-reopen-discussion-on-all-issues-of-mutual-concern.md)

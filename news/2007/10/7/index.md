@@ -15,7 +15,7 @@ Costa Ricans on Sunday appeared to narrowly vote in favor of joining the Central
 ### [ Pro-Taliban militants capture 28 Pakistan soldiers in the North Waziristan tribal region.date=December 2007 ](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldiers-in-the-north-waziristan-tribal-region-date-december-2007.md)
 _Context: Pakistan, Taliban, Waziristan, militant, soldier_
 
-### [ 2007 Pacific typhoon season: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-p-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md)
+### [ 2007 Pacific typhoon season:. Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md)
 _Context: 2007 Pacific typhoon season, China, Fujian, Zhejiang_
 
 ### [ A Syrian military plane crashes near Damascus, killing all three on board. ](/news/2007/10/7/a-syrian-military-plane-crashes-near-damascus-killing-all-three-on-board.md)
@@ -24,7 +24,7 @@ _Context: Damascus, Syria_
 ### [ Record-setting temperatures cause the 2007 Chicago Marathon to shut down after only three and a half hours and after the race has a men's open division photo finish, a death, and sprint finishes in the women's open and men's wheelchair divisions. ](/news/2007/10/7/record-setting-temperatures-cause-the-2007-chicago-marathon-to-shut-down-after-only-three-and-a-half-hours-and-after-the-race-has-a-men-s-o.md)
 _Context: Chicago Marathon, photo finish_
 
-### [ Vandals punch a 10-cm (4") tear in the Claude Monet painting ''Le Pont d'Argenteuil'' at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival.  ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanch.md)
+### [ Vandals punch a 10-cm (4") tear in the Claude Monet painting "Le Pont d'Argenteuil" at the Orsay Museum during Paris's annual Nuit Blanche all-night cultural festival. ](/news/2007/10/7/vandals-punch-a-10-cm-4-tear-in-the-claude-monet-painting-le-pont-d-argenteuil-at-the-orsay-museum-during-paris-s-annual-nuit-blanche.md)
 _Context: Le Pont d'Argenteuil, Monet, Nuit Blanche, Orsay Museum, Paris_
 
 ### [ Randy Orton is awarded the vacant WWE Championship which he loses in 10 minutes to Triple H, who defeats Umaga in the second title defense of the night, but loses in the 3rd to Randy Orton in a Last Man Standing match.](/news/2007/10/7/randy-orton-is-awarded-the-vacant-wwe-championship-which-he-loses-in-10-minutes-to-triple-h-who-defeats-umaga-in-the-second-title-defense.md)

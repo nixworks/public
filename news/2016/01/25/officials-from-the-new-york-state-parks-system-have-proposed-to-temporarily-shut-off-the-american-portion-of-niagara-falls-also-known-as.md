@@ -1,6 +1,6 @@
 ### [2016-01-25](/news/2016/01/25/index.md)
 
-# Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as ''American Falls'') within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. 
+# Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as "American Falls") within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. 
 
 It would be the second time the famous falls have been shut down as authorities weigh up a $37.3m bill to fix two bridges.
 

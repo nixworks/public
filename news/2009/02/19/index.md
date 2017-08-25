@@ -12,7 +12,7 @@ _Context: Allen Stanford, FBI, SEC, Stanford Financial Group, United States, Vir
 ### [ China claims it has artificially produced snowfall by cloud seeding to ease drought. ](/news/2009/02/19/china-claims-it-has-artificially-produced-snowfall-by-cloud-seeding-to-ease-drought.md)
 _Context: China, artificially produced, cloud seeding, drought, snow_
 
-### [ Palestinian militants fire three rockets into Israel.  ](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.md)
+### [ Palestinian militants fire three rockets into Israel. ](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.md)
 _Context: Israel, Palestinian, fire, militant, rocket_
 
 ### [ General Motors says it may provide its struggling Swedish subsidiary Saab Automobile with US$400 million. ](/news/2009/02/19/general-motors-says-it-may-provide-its-struggling-swedish-subsidiary-saab-automobile-with-us-400-million.md)
@@ -24,7 +24,7 @@ _Context: Air Force, Kyrgyzstan, Manas Air Base, Supreme Council, United States_
 ### [ A Russian court acquits three men of aiding the 2006 murder of investigative journalist Anna Politkovskaya. ](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.md)
 _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative reporter, murder_
 
-### [ The French battleship ''Danton'' is discovered in the Mediterranean Sea. ](/news/2009/02/19/the-french-battleship-danton-is-discovered-in-the-mediterranean-sea.md)
+### [ The French battleship "Danton" is discovered in the Mediterranean Sea. ](/news/2009/02/19/the-french-battleship-danton-is-discovered-in-the-mediterranean-sea.md)
 _Context: ''Danton'', France, Mediterranean Sea, battleship_
 
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)

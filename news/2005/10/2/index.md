@@ -6,7 +6,7 @@ _Context: Brazil, FIFA U-17 Men's Championship, Lima, Mexico, Peru_
 ### [ Severely injured victims of the 2005 Bali bombings are being evacuated to medical facilities in Australia and Singapore. The Australian Government has made moves to assist Indonesia in its response, dispatching Australian Federal Police officers and forensic experts to assist in investigations. ](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.md)
 _Context: Australia, Australia's government, Bali bombings, Indonesia, Singapore, police_
 
-### [ The ''Ethan Allen'', a boat on Lake George, in Upstate New York, capsized killing 20 people. The boat has been raised by investigators. ](/news/2005/10/2/the-ethan-allen-a-boat-on-lake-george-in-upstate-new-york-capsized-killing-20-people-the-boat-has-been-raised-by-investigators.md)
+### [ The "Ethan Allen", a boat on Lake George, in Upstate New York, capsized killing 20 people. The boat has been raised by investigators. ](/news/2005/10/2/the-ethan-allen-a-boat-on-lake-george-in-upstate-new-york-capsized-killing-20-people-the-boat-has-been-raised-by-investigators.md)
 _Context: Ethan Allen, Lake George, Upstate New York, boat, capsize_
 
 ### [ The Ugandan Army is deploying troops to West Nile in readiness for an imminent military combat against the Lord's Resistance Army at the border with the Democratic Republic of Congo. ](/news/2005/10/2/the-ugandan-army-is-deploying-troops-to-west-nile-in-readiness-for-an-imminent-military-combat-against-the-lord-s-resistance-army-at-the-bo.md)

@@ -6,10 +6,10 @@ _Context: Crime in Mexico, Mexico_
 ### [ The 2008 Panzhihua earthquake in China's Sichuan province kills at least 15 people and injures dozens more. ](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.md)
 Chinese rescue teams carrying tents, quilts and sacks of rice rushed to reach survivors of an earthquake that killed at least 32 people, turned tens of thousands of homes into rubble and cracked reservoirs. 
 
-### [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md)
+### [ 2008 South Ossetia war:. Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md)
 _Context: 2008 South Ossetia war, South Ossetia_
 
-### [ Hurricane Gustav: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-p-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md)
+### [ Hurricane Gustav:. The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md)
 _Context: Hurricane Gustav, National Hurricane Center_
 
 ### [ An overcrowded Indian Army boat carrying dozens of victims of the 2008 Indian floods capsizes killing at least 25 people and taking the death toll to 85. ](/news/2008/08/30/an-overcrowded-indian-army-boat-carrying-dozens-of-victims-of-the-2008-indian-floods-capsizes-killing-at-least-25-people-and-taking-the-dea.md)

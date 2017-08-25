@@ -1,6 +1,6 @@
 ### [2007-05-22](/news/2007/05/22/index.md)
 
-#  Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference.  
+#  Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference. 
 
 
 
@@ -19,5 +19,5 @@
 6. [ Pope Benedict XVI prepares to enact new rules restricting homosexual men from entering the seminary, claiming that the action will help to curb the Roman Catholic Church sex abuse scandal. In response, Gene Robinson, the first openly gay U.S. ordained Episcopalian bishop, calls it "an act of violence that needs to be confronted." ](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.md) _Context: Anglican, Gene Robinson_
 7. [ The Archbishop of Canterbury Rowan Williams, the leader of the world-wide Anglican Communion, is challenged to rethink his personal stance on the ordination of gay clergy in the light of scripture by nearly half of all the Anglican Primates. ](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.md) _Context: Archbishop of Canterbury, Rowan Williams_
 8. [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md) _Context: gay_
-9. [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _Context: gay_
-10. [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _Context: New Hampshire_
+9. [LGBT rights in Indonesia. Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/lgbt-rights-in-indonesia-two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _Context: gay_
+10. [2016-17 North American winter. The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/2016-17-north-american-winter-the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md) _Context: New Hampshire_

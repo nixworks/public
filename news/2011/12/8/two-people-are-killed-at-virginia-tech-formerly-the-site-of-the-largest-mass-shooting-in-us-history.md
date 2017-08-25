@@ -1,6 +1,6 @@
 ### [2011-12-8](/news/2011/12/8/index.md)
 
-# Two people are killed at Virginia Tech, formerly the site of the largest mass shooting in US history.  
+# Two people are killed at Virginia Tech, formerly the site of the largest mass shooting in US history. 
 
 
 
@@ -19,6 +19,6 @@
 5. [ Queen Elizabeth II of the United Kingdom begins a tour of Virginia with a speech to the General Assembly of Virginia in Richmond in honour of the 400th anniversary of the first permanent English settlement in Jamestown, Virginia. She also meets with victims of the Virginia Tech Massacre before departing for Colonial Williamsburg. ](/news/2007/05/3/queen-elizabeth-ii-of-the-united-kingdom-begins-a-tour-of-virginia-with-a-speech-to-the-general-assembly-of-virginia-in-richmond-in-honour.md) _Context: massacre_
 6. [ The Governor of Virginia Timothy Kaine tightens gun laws after the Virginia Tech massacre. ](/news/2007/04/30/the-governor-of-virginia-timothy-kaine-tightens-gun-laws-after-the-virginia-tech-massacre.md) _Context: massacre_
 7. [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md) _Context: massacre_
-8. [ Virginia Tech massacre: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-p-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _Context: massacre_
-9. [ Virginia Tech massacre: Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-p-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md) _Context: massacre_
+8. [ Virginia Tech massacre:. Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md) _Context: massacre_
+9. [ Virginia Tech massacre:. Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md) _Context: massacre_
 10. [ Virginia Tech massacre:](/news/2007/04/17/virginia-tech-massacre.md) _Context: massacre_

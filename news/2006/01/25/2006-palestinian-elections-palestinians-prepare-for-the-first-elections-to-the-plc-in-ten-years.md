@@ -1,6 +1,6 @@
 ### [2006-01-25](/news/2006/01/25/index.md)
 
-#  2006 Palestinian elections: Palestinians prepare for the first elections to the  PLC in ten years. 
+#  2006 Palestinian elections: Palestinians prepare for the first elections to the PLC in ten years. 
 
 
 

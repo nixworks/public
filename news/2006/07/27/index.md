@@ -18,13 +18,13 @@ _Context: Rome, Venice Biennale, Venice Film Festival_
 ### [ 2006 Kodori crisis: the rebel renegade Emzar Kvitsiani escapes as one civilian gets killed in the fighting. ](/news/2006/07/27/2006-kodori-crisis-the-rebel-renegade-emzar-kvitsiani-escapes-as-one-civilian-gets-killed-in-the-fighting.md)
 _Context: 2006 Kodori crisis, Emzar Kvitsiani_
 
-### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam,  concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
+### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
 _Context: China, Fu Xiancai, Three Gorges Dam, displacement, vertebra_
 
 ### [ The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. ](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ 2006 Israel-Lebanon conflict: Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-p-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md)
+### [ 2006 Israel-Lebanon conflict:. Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/2006-israel-lebanon-conflict-al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad.md)
 As the battles raged, a meeting of U.S., European and Arab countries in Rome failed to reach agreement on a plan to end the fighting.
 
 ### [ Already-convicted murder Robert Charles Browne pleads guilty to another killing, and leads authorities to suspect he might be America's most prolific serial killer ](/news/2006/07/27/already-convicted-murder-robert-charles-browne-pleads-guilty-to-another-killing-and-leads-authorities-to-suspect-he-might-be-america-s-mos.md)

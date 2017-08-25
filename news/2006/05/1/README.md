@@ -1,6 +1,6 @@
 ## [2006-05-1](/news/2006/05/1/index.md)
 
-### [ Chinese Patriotic Catholic Association outraged Vatican by planning to  ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http://www.guardian.co.uk/worldlatest/story/0,,-5793952,00.html]](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-vatican-by-planning-to-ordain-another-bishop-liu-xinhong-in-anhui-province-on-sunday-ch.md)
+### [ Chinese Patriotic Catholic Association outraged Vatican by planning to ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http://www.guardian.co.uk/worldlatest/story/0,,-5793952,00.html]](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-vatican-by-planning-to-ordain-another-bishop-liu-xinhong-in-anhui-province-on-sunday-chi.md)
 _Context: Anhui, Cardinal, China, Holy See, Hong Kong, Joseph Zen, Liu Xinhong, Ma Yinglin, Yunnan, state-backed church_
 
 ### [ King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". ](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.md)
@@ -33,7 +33,7 @@ _Context: 2006 Immigration Policy Boycott in the United States, Latin America, U
 ### [ Asian Pacific American Heritage Month: The first day of Asian American and Pacific Islander Heritage Month in the United States.](/news/2006/05/1/asian-pacific-american-heritage-month-the-first-day-of-asian-american-and-pacific-islander-heritage-month-in-the-united-states.md)
 _Context: Asian Pacific American Heritage Month_
 
-### [ Sri Lankan Civil War: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-p-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md)
+### [ Sri Lankan Civil War:. Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)

@@ -18,7 +18,7 @@ _Context: Jyllands-Posten Muhammad cartoons controversy, Kofi Annan, Secretary G
 ### [ A medium-sized earthquake, registering 4.9, shook central Chile, rattling buildings, but there were no immediate reports of injuries or damages. ](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ H5N1 bird flu virus: The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-p-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md)
+### [ H5N1 bird flu virus:. The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. ](/news/2006/02/10/h5n1-bird-flu-virus-the-deadly-strain-of-h5n1-avian-flu-has-been-found-in-wild-birds-in-azerbaijan-s-caspian-sea-coast.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ At least eight people are killed and 22 wounded by a car bomb in the southern Doura district of the Iraqi capital, Baghdad. ](/news/2006/02/10/at-least-eight-people-are-killed-and-22-wounded-by-a-car-bomb-in-the-southern-doura-district-of-the-iraqi-capital-baghdad.md)

@@ -1,6 +1,6 @@
 ### [2005-09-27](/news/2005/09/27/index.md)
 
-#  The Australian Government dismissed a suggestion from former Australian Prime Minister Bob Hawke that the Australian economy would benefit significantly from storing the world's nuclear waste in the country's desert interior.  
+#  The Australian Government dismissed a suggestion from former Australian Prime Minister Bob Hawke that the Australian economy would benefit significantly from storing the world's nuclear waste in the country's desert interior. 
 
 
 

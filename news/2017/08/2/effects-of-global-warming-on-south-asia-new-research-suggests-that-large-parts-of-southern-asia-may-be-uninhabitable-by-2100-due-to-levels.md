@@ -1,0 +1,23 @@
+### [2017-08-2](/news/2017/08/2/index.md)
+
+# Effects of global warming on South Asia. New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. 
+
+Unless carbon emissions are curtailed, climate change may expose 1.5 billion people in South Asia to potentially lethal heat and humidity in the near future.
+
+
+### Source:
+
+1. [National Geographic](http://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/)
+
+### Related:
+
+1. [Gene editing. Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/gene-editing-teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece.md) _Context: human_
+2. [Health effects of coffee. Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/health-effects-of-coffee-coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency.md) _Context: human_
+3. [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md) _Context: Southern_
+4. [2015-16 Zika virus epidemic. The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/2015-16-zika-virus-epidemic-the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _Context: Asia_
+5. [2016 Southeast Asian haze. In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/2016-southeast-asian-haze-in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires.md) _Context: Asia_
+6. [Pulitzer Prizes. The Associated Press wins the Pulitzer Prize for Public Service for documenting the use of slave labor in Southeast Asia to supply seafood to American tables. ](/news/2016/04/18/pulitzer-prizes-the-associated-press-wins-the-pulitzer-prize-for-public-service-for-documenting-the-use-of-slave-labor-in-southeast-asia-to.md) _Context: Asia_
+7. [2014-16 El Nino event. A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/2014-16-el-nia-o-event-a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-b.md) _Context: Asia_
+8. [Myanmar general election, 2015. Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/myanmar-general-election-2015-senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-t.md) _Context: Asia_
+9. [Scientists warn a new strain of the Panama Disease fungus, which in the 1950s nearly wiped out the most popular banana in the world, the Gros Michel, is threatening today's favorite, the Cavendish, according to a new study published in "PLOS Pathogens". This untreatable fungal disease, called Tropical Race 4, has been active for decades in Southeast Asia. It recently has spread to other parts of Asia, Africa, the Middle East, and Australia, and is expected to make its way to Latin America, where the vast majority of the world's exported bananas are grown. ](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.md) _Context: Asia_
+10. [Islamic State of Iraq and the Levant. Singapore says the Islamist group plans to take the conflict into Southeast Asia. ](/news/2015/05/29/islamic-state-of-iraq-and-the-levant-singapore-says-the-islamist-group-plans-to-take-the-conflict-into-southeast-asia.md) _Context: Asia_

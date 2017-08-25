@@ -11,4 +11,4 @@ Claims that a woman was forced to have sex with Prince Andrew when she was 17 ar
 
 ### Related:
 
-1. [Sarah, Duchess of York's involvement in a "cash for royal access" scandal is filmed by undercover reporter Mazher Mahmood; she asked for a $40,000 (27,650) golden handshake in cash and for 500,000 to be sent to her bank in return for access to Prince Andrew. ](/news/2010/05/23/sarah-duchess-of-york-s-involvement-in-a-cash-for-royal-access-scandal-is-filmed-by-undercover-reporter-mazher-mahmood-she-asked-for-a.md) _Context: Prince Andrew, Duke of York_
+1. [Sarah, Duchess of York's involvement in a "cash for royal access" scandal is filmed by undercover reporter Mazher Mahmood; she asked for a $40,000 (GBP27,650) golden handshake in cash and for GBP500,000 to be sent to her bank in return for access to Prince Andrew. ](/news/2010/05/23/sarah-duchess-of-york-s-involvement-in-a-cash-for-royal-access-scandal-is-filmed-by-undercover-reporter-mazher-mahmood-she-asked-for-a.md) _Context: Prince Andrew, Duke of York_

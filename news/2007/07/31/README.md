@@ -36,10 +36,10 @@ _Context: Beijing, China, Hubei, Three Gorges Dam, Yangtze River, flood_
 ### [ Khang Khek Ieu aka Comrade Duch, a former Khmer Rouge prison chief, has been handed over to a United Nations backed genocide tribunal. ](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.md)
 A former Khmer Rouge prison chief has been handed over to the UN-backed tribunal in Cambodia, becoming the first suspect to be detained by the court, officials said.
 
-### [ Operation Banner, the deployment of British Army soldiers in Northern Ireland to support the Police Service of Northern Ireland, ends at midnight marking the conclusion of the Northern Ireland peace process. Operation Banner  has been the longest British Army operation in history, lasting 38 years. ](/news/2007/07/31/operation-banner-the-deployment-of-british-army-soldiers-in-northern-ireland-to-support-the-police-service-of-northern-ireland-ends-at-mi.md)
+### [ Operation Banner, the deployment of British Army soldiers in Northern Ireland to support the Police Service of Northern Ireland, ends at midnight marking the conclusion of the Northern Ireland peace process. Operation Banner has been the longest British Army operation in history, lasting 38 years. ](/news/2007/07/31/operation-banner-the-deployment-of-british-army-soldiers-in-northern-ireland-to-support-the-police-service-of-northern-ireland-ends-at-mi.md)
 The Minister for Foreign Affairs, Dermot Ahern, has welcomed the ending of British Army operations in Northern Ireland after 38 years.
 
-### [ Zimbabwe: The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-p-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md)
+### [ Zimbabwe:. The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/zimbabwe-the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-presi.md)
 Prices in Zimbabwe could be 1,000 times higher at the end of this year than they were at the beginning, the International Monetary Fund (IMF) has predicted.
 
 ### [ The Australian Synchrotron officially opens in Melbourne, Victoria. ](/news/2007/07/31/the-australian-synchrotron-officially-opens-in-melbourne-victoria.md)

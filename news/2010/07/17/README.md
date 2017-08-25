@@ -3,10 +3,10 @@
 ### [Dozens of English football fans clash with dogs and riot police in a busy shopping square in York, causing its closure. ](/news/2010/07/17/dozens-of-english-football-fans-clash-with-dogs-and-riot-police-in-a-busy-shopping-square-in-york-causing-its-closure.md)
 _Context: York_
 
-### [At least 50 automobiles sustain burns in Grenoble, France, as people protest the fatal shooting of a man by police. The man was shot during a chase following a robbery after firing on police.   ](/news/2010/07/17/at-least-50-automobiles-sustain-burns-in-grenoble-france-as-people-protest-the-fatal-shooting-of-a-man-by-police-the-man-was-shot-during.md)
+### [At least 50 automobiles sustain burns in Grenoble, France, as people protest the fatal shooting of a man by police. The man was shot during a chase following a robbery after firing on police. ](/news/2010/07/17/at-least-50-automobiles-sustain-burns-in-grenoble-france-as-people-protest-the-fatal-shooting-of-a-man-by-police-the-man-was-shot-during.md)
 The French government vows to restore order after rioting in the eastern city of Grenoble over a shooting by police.
 
-### [300 JEM rebels and 86 Sudanese Army soldiers are killed in  Darfur. ](/news/2010/07/17/300-jem-rebels-and-86-sudanese-army-soldiers-are-killed-in-darfur.md)
+### [300 JEM rebels and 86 Sudanese Army soldiers are killed in Darfur. ](/news/2010/07/17/300-jem-rebels-and-86-sudanese-army-soldiers-are-killed-in-darfur.md)
 Sudan rebel group denies reports in state media of nearly 400 killed in troubled region.
 
 ### [At least eight people are killed by machete-wielding attackers near Jos, Nigeria in scenes reminiscent of events earlier this year. ](/news/2010/07/17/at-least-eight-people-are-killed-by-machete-wielding-attackers-near-jos-nigeria-in-scenes-reminiscent-of-events-earlier-this-year.md)
@@ -75,7 +75,7 @@ Police in northern Bangladesh arrest an army major for allegedly carrying hundre
 ### [Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. ](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.md)
 _Context: Hugo Chavez, Simon Bolivar_
 
-### [The Prime Minister of Papua New Guinea Michael Somare will reportedly be asked to resign as both prime minister and leader of the National Alliance Party on Monday. (''PNG Post-Courier'')](/news/2010/07/17/the-prime-minister-of-papua-new-guinea-michael-somare-will-reportedly-be-asked-to-resign-as-both-prime-minister-and-leader-of-the-national-a.md)
+### [The Prime Minister of Papua New Guinea Michael Somare will reportedly be asked to resign as both prime minister and leader of the National Alliance Party on Monday. ("PNG Post-Courier")](/news/2010/07/17/the-prime-minister-of-papua-new-guinea-michael-somare-will-reportedly-be-asked-to-resign-as-both-prime-minister-and-leader-of-the-national-a.md)
 _Context: Michael Somare, National Alliance Party, Prime Minister_
 
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)
@@ -99,7 +99,7 @@ A tornado hits the venue for the Central American and Caribbean games in Puerto 
 ### [Salman Butt captains Pakistan for the rest of their tour after Shahid Afridi's retirement from Tests. ](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.md)
 _Context: Salman Butt, Shahid Afridi_
 
-### [One of the balls used in the 2010 FIFA World Cup Final sells for PS48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-aps48-200-on-ebay.md)
+### [One of the balls used in the 2010 FIFA World Cup Final sells for GBP48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-agbp48-200-on-ebay.md)
 _Context: 2010 FIFA World Cup Final, eBay_
 
 ## [Previous Day...](/news/2010/07/16/index.md)

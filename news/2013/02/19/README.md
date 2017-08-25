@@ -1,9 +1,9 @@
 ## [2013-02-19](/news/2013/02/19/index.md)
 
-### [Nigerian Sharia conflict:Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria.  President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/nigerian-sharia-conflict-pseven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with-n.md)
+### [Nigerian Sharia conflict:. Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/nigerian-sharia-conflict-seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with.md)
 Gunmen abduct seven French tourists in northern Cameroon, French President Francois Hollande says, blaming Nigerian-based militants.
 
-### [War in North-West Pakistan:Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-ppakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people.md)
+### [War in North-West Pakistan:. Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-peopl.md)
 _Context: February 2013 Quetta bombing, Pakistan, Pakistani police, War in North-West Pakistan_
 
 ### [A Yemeni Air Force plane crashes in Sana'a, the capital of Yemen, killing 12 people and injuring 11 others. ](/news/2013/02/19/a-yemeni-air-force-plane-crashes-in-sana-a-the-capital-of-yemen-killing-12-people-and-injuring-11-others.md)
@@ -12,13 +12,13 @@ A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at lea
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)
 _Context: Country Club Plaza, Kansas City, Missouri, United States_
 
-### [European sovereign-debt crisis: Workers for the Spanish  flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
+### [European sovereign-debt crisis: Workers for the Spanish flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
 _Context: European sovereign-debt crisis, Iberia, Spain, commercial air traffic, flag carrier_
 
 ### [The governments of Singapore and Malaysia announce plans to build a high-speed rail link between the city-state of Singapore and Kuala Lumpur by 2020. ](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.md)
 SINGAPORE and Malaysia announced that they will build a high-speed rail link between the city-state and Kuala Lumpur with a target to complete it around 2020.
 
-### [''The New York Times'' publishes allegations that a Chinese People's Liberation Army unit called PLA Unit 61398 may be the source of hacking attacks on the West. ](/news/2013/02/19/the-new-york-times-publishes-allegations-that-a-chinese-people-s-liberation-army-unit-called-pla-unit-61398-may-be-the-source-of-hacking.md)
+### ["The New York Times" publishes allegations that a Chinese People's Liberation Army unit called PLA Unit 61398 may be the source of hacking attacks on the West. ](/news/2013/02/19/the-new-york-times-publishes-allegations-that-a-chinese-people-s-liberation-army-unit-called-pla-unit-61398-may-be-the-source-of-hacking-a.md)
 An overwhelming percentage of the attacks on American companies and government agencies start in a building on the edge of Shanghai, say cybersecurity experts and American intelligence officials.
 
 ### [The People's Republic of China rejects an attempt by the Philippines to seek international arbitration over conflicting claims to the South China Sea. ](/news/2013/02/19/the-people-s-republic-of-china-rejects-an-attempt-by-the-philippines-to-seek-international-arbitration-over-conflicting-claims-to-the-south.md)

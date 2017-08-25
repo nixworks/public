@@ -21,13 +21,13 @@ _Context: 2007 South Korean hostage crisis in Afghanistan, Taliban_
 ### [ 2007 Pacific hurricane season: A state of emergency is declared on the island of Hawaii as Category 3 Hurricane Flossie approaches. ](/news/2007/08/13/2007-pacific-hurricane-season-a-state-of-emergency-is-declared-on-the-island-of-hawaii-as-category-3-hurricane-flossie-approaches.md)
 Hurricane Flossie weakened on Tuesday before it approached the waters off Hawaii, where residents braced for high winds and surf and torrential rain after an overnight earthquake jolt.
 
-### [ A 5.3 magnitude earthquake strikes  the island of Hawaii about 25 miles south of Hilo, Hawaii. ](/news/2007/08/13/a-5-3-magnitude-earthquake-strikes-the-island-of-hawaii-about-25-miles-south-of-hilo-hawaii.md)
+### [ A 5.3 magnitude earthquake strikes the island of Hawaii about 25 miles south of Hilo, Hawaii. ](/news/2007/08/13/a-5-3-magnitude-earthquake-strikes-the-island-of-hawaii-about-25-miles-south-of-hilo-hawaii.md)
 _Context: Hilo, Hawaii, earthquake, island of Hawaii_
 
 ### [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md)
 _Context: Iran, Iraq, Shiite, Sunni, United States, War in Iraq, al-Qaeda_
 
-### [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea.  ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md)
+### [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md)
 _Context: Busan, Ferris wheel, South Korea, amusement park_
 
 ### [ A Russian luxury train going from Moscow to Saint Petersburg derails near Malaya Vishera. ](/news/2007/08/13/a-russian-luxury-train-going-from-moscow-to-saint-petersburg-derails-near-malaya-vishera.md)
@@ -45,7 +45,7 @@ _Context: Australia, Federal Court of Australia, High Court of Australia, Philip
 ### [ Eric Laroche, the United Nations Humanitarian Co-ordinator for Somalia raises concerns about recent killings of eminent Somali journalists. ](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.md)
 _Context: Somalia, United Nations_
 
-### [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the ''Wall Street Journal'' that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-inte.md)
+### [ Karl Rove, Deputy White House Chief of Staff and George W. Bush's leading political adviser, tells the "Wall Street Journal" that he intends to resign at the end of August. ](/news/2007/08/13/karl-rove-deputy-white-house-chief-of-staff-and-george-w-bush-s-leading-political-adviser-tells-the-wall-street-journal-that-he-intend.md)
 _Context: Deputy White House Chief of Staff, George W. Bush, Karl Rove, Wall Street Journal_
 
 ### [ Solidarity, a South African trade union, calls a strike in coal mines. ](/news/2007/08/13/solidarity-a-south-african-trade-union-calls-a-strike-in-coal-mines.md)

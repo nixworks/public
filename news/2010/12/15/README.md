@@ -6,7 +6,7 @@ _Context: Christmas, New People's Army, Philippines_
 ### [Dozens of people are dead following an explosion outside a mosque in the Iranian city of Chabahar. ](/news/2010/12/15/dozens-of-people-are-dead-following-an-explosion-outside-a-mosque-in-the-iranian-city-of-chabahar.md)
 At least 41 people killed and dozens injured after a suicide bombing near a mosque in the Iranian city of Chabahar.
 
-### [The mummified remains of the head of King Henri IV of France  have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
+### [The mummified remains of the head of King Henri IV of France have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
 _Context: Henri IV of France, mummified_
 
 ### [Cuba unveils its own version of Wikipedia. ](/news/2010/12/15/cuba-unveils-its-own-version-of-wikipedia.md)

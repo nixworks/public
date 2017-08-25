@@ -1,6 +1,6 @@
 ## [2008-07-9](/news/2008/07/9/index.md)
 
-### [ Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of  the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9/11 Commission. ](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.md)
+### [ Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9/11 Commission. ](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.md)
 _Context: 9/11 Commission, John McCain, New Citizenship Project, Project for the New American Century, neo-conservative_
 
 ### [ India formally submits the nuclear safeguards agreement to IAEA to implement the United States-India Peaceful Atomic Energy Cooperation Act. ](/news/2008/07/9/india-formally-submits-the-nuclear-safeguards-agreement-to-iaea-to-implement-the-united-states-india-peaceful-atomic-energy-cooperation-act.md)

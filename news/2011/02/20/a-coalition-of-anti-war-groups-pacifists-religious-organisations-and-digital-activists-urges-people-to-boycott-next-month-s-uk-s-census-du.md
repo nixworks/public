@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [''The Daily Telegraph'' publishes WikiLeaks cables stating that the United States provided Russia with the United Kingdom's serial numbers of every Trident missile, which are manufactured and maintained in the U.S. and supplied to Britain, in return for the Russians signing the ''New START'' treaty. ](/news/2011/02/5/the-daily-telegraph-publishes-wikileaks-cables-stating-that-the-united-states-provided-russia-with-the-united-kingdom-s-serial-numbers-o.md) _Context: Trident_
+1. ["The Daily Telegraph" publishes WikiLeaks cables stating that the United States provided Russia with the United Kingdom's serial numbers of every Trident missile, which are manufactured and maintained in the U.S. and supplied to Britain, in return for the Russians signing the "New START" treaty. ](/news/2011/02/5/the-daily-telegraph-publishes-wikileaks-cables-stating-that-the-united-states-provided-russia-with-the-united-kingdom-s-serial-numbers-of.md) _Context: Trident_
 2. [ The Bush administration selects a design from the Lawrence Livermore National Laboratory for a new generation of nuclear warheads that could replace the Trident missile on submarines by 2012. ](/news/2007/03/2/the-bush-administration-selects-a-design-from-the-lawrence-livermore-national-laboratory-for-a-new-generation-of-nuclear-warheads-that-coul.md) _Context: Trident_

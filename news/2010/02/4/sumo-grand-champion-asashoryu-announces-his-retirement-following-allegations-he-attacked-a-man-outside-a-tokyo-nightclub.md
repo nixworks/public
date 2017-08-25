@@ -1,6 +1,6 @@
 ### [2010-02-4](/news/2010/02/4/index.md)
 
-# Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub.  
+# Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub. 
 
 
 

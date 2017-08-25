@@ -12,13 +12,13 @@ _Context: 2005 peace agreement, Southern Sudan, renewed violence_
 ### [At least six Coptic Christians are killed in a drive-by shooting at a church in Nag Hammadi, southern Egypt, with clashes later taking place between police and Copts. ](/news/2010/01/7/at-least-six-coptic-christians-are-killed-in-a-drive-by-shooting-at-a-church-in-nag-hammadi-southern-egypt-with-clashes-later-taking-place.md)
 More than 2,000 Christian Copts confront police after Christmas Eve drive-by killings.
 
-### [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried "hijack" the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.md)
+### [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried -hijack- the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-hijack-the-copenhagen-summit-s-accord-by-clai.md)
 _Context: Copenhagen Accord, Copenhagen summit, December 17, Premier of the People's Republic of China, The Guardian, Wen Jiabao, Xinhua_
 
-### [James Cameron's film ''Avatar'' is expected to become the second-highest grossing movie of all time, just passing ''The Lord of the Rings: The Return of the King''. ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-t.md)
+### [James Cameron's film "Avatar" is expected to become the second-highest grossing movie of all time, just passing "The Lord of the Rings: The Return of the King". ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-the.md)
 The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It&amp;#039;s pop culture on steroids.
 
-### [The BBC's ''Spotlight'' programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-y.md)
+### [The BBC's "Spotlight" programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.md)
 _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister of Northern Ireland_
 
 ### [The United States approves arms sales to Taiwan, amid opposition from China. ](/news/2010/01/7/the-united-states-approves-arms-sales-to-taiwan-amid-opposition-from-china.md)

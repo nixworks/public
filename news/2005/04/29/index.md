@@ -1,6 +1,6 @@
 ## [2005-04-29](/news/2005/04/29/index.md)
 
-### [ The next launch of the Space Shuttle ''Discovery'', STS-114,  is delayed until at least July 13. This is to be the first Space Shuttle launch since the ''Columbia'' disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-laun.md)
+### [ The next launch of the Space Shuttle "Discovery", STS-114, is delayed until at least July 13. This is to be the first Space Shuttle launch since the "Columbia" disaster in February 2003. ](/news/2005/04/29/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-delayed-until-at-least-july-13-this-is-to-be-the-first-space-shuttle-launch.md)
 _Context: ''Columbia'' disaster, Discovery, February 2003, July 13, STS-114_
 
 ### [ U.S. Congressman Rob Portman was confirmed by the United States Senate to be United States Trade Representative. ](/news/2005/04/29/u-s-congressman-rob-portman-was-confirmed-by-the-united-states-senate-to-be-united-states-trade-representative.md)

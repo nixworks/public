@@ -27,10 +27,10 @@ _Context: Federal Minister of Justice, Germany, Holy See, Sabine Leutheusser-Sch
 ### [Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. ](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-and-links-to-al-qaeda-in-belgium.md)
 _Context: Belgium, al-Qaeda, terrorism_
 
-### [Middle East:Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-pisrael-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settle.md)
+### [Middle East:. Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-israel-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settl.md)
 Israel has approved the construction of 112 new Jewish homes in the occupied West Bank, in spite of a settlement freeze announced last year.
 
-### [A Pakistani Taliban car bomb attack on a Federal Investigation Agency (FIA) building  in Lahore kills at least 11, wounds 60. ](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.md)
+### [A Pakistani Taliban car bomb attack on a Federal Investigation Agency (FIA) building in Lahore kills at least 11, wounds 60. ](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.md)
 _Context: Federal Investigation Agency, Lahore, Pakistani Taliban, car bomb_
 
 ### [12 people &mdash; 10 civilian passengers and 2 policemen &mdash; die in two separate roadside bombs in Badghis Province, Afghanistan. ](/news/2010/03/8/12-people-mdash-10-civilian-passengers-and-2-policemen-mdash-die-in-two-separate-roadside-bombs-in-badghis-province-afghanistan.md)
@@ -51,7 +51,7 @@ _Context: Federally Administered Tribal Areas_
 ### [President of East Timor Jose Ramos-Horta begins his two-day first official state visit to Ireland by meeting Taoiseach Brian Cowen, urging the country to continue providing economic support as a priority nation and receiving an honorary doctorate from University College Dublin. ](/news/2010/03/8/president-of-east-timor-josa-c-ramos-horta-begins-his-two-day-first-official-state-visit-to-ireland-by-meeting-taoiseach-brian-cowen-urging.md)
 The President of East Timor has called on Ireland to continue its support for the country despite the economic circumstances here.
 
-### [Chilean looters return PS1.3 million ($2million) of stolen goods, according to the government. ](/news/2010/03/8/chilean-looters-return-aps1-3-million-2million-of-stolen-goods-according-to-the-government.md)
+### [Chilean looters return GBP1.3 million ($2million) of stolen goods, according to the government. ](/news/2010/03/8/chilean-looters-return-agbp1-3-million-2million-of-stolen-goods-according-to-the-government.md)
 Looters in Chile have handed back stolen goods worth &pound;1.3 million ($2million), the government said, as the country mourned the hundreds killed in last month&#039;s earthquake and tsunami.
 
 ### [New research based on a previous study indicates climate may be responsible for Scotland having more and Africa having fewer people with red hair. ](/news/2010/03/8/new-research-based-on-a-previous-study-indicates-climate-may-be-responsible-for-scotland-having-more-and-africa-having-fewer-people-with-red.md)
@@ -60,7 +60,7 @@ Scotland&rsquo;s notoriously bad weather appears to be behind why more of the co
 ### [Tibet Governor Padma Choling announces to the National People's Congress that China will decide Tenzin Gyatso's reincarnation as Dalai Lama. ](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.md)
 The Chinese government says that it will have the final say, rather than the Dalai Lama, on who succeeds him as Tibet&#039;s spiritual leader.
 
-### [Plans by the Scottish Maritime Museum (SMM) to scrap ''City of Adelaide''/HMS ''Carrick'', one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunde.md)
+### [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"/HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md)
 _Context: ''City of Adelaide''/HMS ''Carrick'', Australia, Scottish Maritime Museum, Sunderland, clipper_
 
 ## [Previous Day...](/news/2010/03/7/index.md)

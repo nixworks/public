@@ -1,9 +1,9 @@
 ## [2010-04-15](/news/2010/04/15/index.md)
 
-### [2010 Yushu earthquake:President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-ppresident-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-vene.md)
+### [2010 Yushu earthquake:. President Hu Jintao, attending a BRIC summit in Brasilia, announces postponement of his state visits to Peru and Venezuela. ](/news/2010/04/15/2010-yushu-earthquake-president-hu-jintao-attending-a-bric-summit-in-brasilia-announces-postponement-of-his-state-visits-to-peru-and-ven.md)
 _Context: BRIC, Brasilia, Hu Jintao, an earthquake struck on 14 April_
 
-### [Sudanese general election, 2010:Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-psudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md)
+### [Sudanese general election, 2010:. Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. ](/news/2010/04/15/sudanese-general-election-2010-sudanese-newspapers-report-the-death-of-9-members-of-the-national-congress-during-general-elections-in-the.md)
 SPLM denies ruling party claims that southern soldiers shot dead nine of its members.
 
 ### [Due to the eruption of Eyjafjallajkull volcano, Belgian, British, Czech, Danish, Dutch, Finnish, French, German, Icelandic, Irish, Norwegian, Polish, Russian and Swedish airspaces are affected by the eruption. ](/news/2010/04/15/due-to-the-eruption-of-eyjafjallajokull-volcano-belgian-british-czech-danish-dutch-finnish-french-german-icelandic-irish-norwegia.md)

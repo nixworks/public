@@ -1,0 +1,19 @@
+### [2006-01-20](/news/2006/01/20/index.md)
+
+#  At 4 o'clock UTC NASA's Pluto probe "New Horizons" crossed the orbit of the Moon, eight hours and thirty-five minutes after launch. This is a new Earth-to-Moon-distance flight record.
+
+
+
+
+### Related:
+
+1. [ At 10 o'clock UTC NASA's Pluto probe "New Horizons" crossed the orbit of Mars, after 78 days journey. This is a new Earth-to-Mars-distance flight record.](/news/2006/04/7/at-10-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-mars-after-78-days-journey-this-is-a-new-earth-to-mars-distance.md) _Context: NASA, New Horizons, Pluto, UTC_
+2. [NASA announces the return of the final piece of data collected during "New Horizons"' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. ](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of-data-collected-during-new-horizons-flyby-of-pluto-in-july-2015-the-data-taking-about-fi.md) _Context: NASA, New Horizons, Pluto_
+3. [NASA publishes the first close up photos of Pluto from the New Horizons spacecraft. They show geologically young mountains made of water ice. ](/news/2015/07/15/nasa-publishes-the-first-close-up-photos-of-pluto-from-the-new-horizons-spacecraft-they-show-geologically-young-mountains-made-of-water-ice.md) _Context: NASA, New Horizons, Pluto_
+4. [NASA's "New Horizons" spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-high.md) _Context: NASA, New Horizons, Pluto_
+5. [NASA's New Horizons spacecraft reawakens at 20:00&nbsp;UTC in preparation for observing the dwarf planet Pluto and its satellites. New Horizons, launched on January 19, 2006, will begin distant observations on January 15, 2015, culminating with its July 14, 2015 closest approach flyby. ](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.md) _Context: NASA, New Horizons, Pluto_
+6. [ NASA Pluto probe "New Horizons" successfully launches at 14:00 EST. ](/news/2006/01/19/nasa-pluto-probe-new-horizons-successfully-launches-at-14-00-est.md) _Context: NASA, New Horizons, Pluto_
+7. [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md) _Context: Moon, NASA_
+8. [NASA publishes LRO images of the two craters on the Moon, where twin GRAIL probes ended their gravity-mapping mission in December 2012. ](/news/2013/03/19/nasa-publishes-lro-images-of-the-two-craters-on-the-moon-where-twin-grail-probes-ended-their-gravity-mapping-mission-in-december-2012.md) _Context: Moon, NASA_
+9. [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the "Mona Lisa", to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting-t.md) _Context: Moon, NASA_
+10. [NASA's twin GRAIL probes have revealed the surface of the Moon in unprecedented detail, showing unexpectedly-deep cracks, craters and tectonic structures. ](/news/2012/12/6/nasa-s-twin-grail-probes-have-revealed-the-surface-of-the-moon-in-unprecedented-detail-showing-unexpectedly-deep-cracks-craters-and-tecton.md) _Context: Moon, NASA_

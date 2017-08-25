@@ -1,30 +1,30 @@
 ## [2016-09-16](/news/2016/09/16/index.md)
 
-### [A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar-claims-the-responsibility.md)
+### [War in North-West Pakistan. A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/war-in-north-west-pakistan-a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar.md)
 At least 25 people have been killed in a suicide bombing claimed by a Taliban splinter group at a mosque in Pakistan. The blast struck as Muslims gathered for Friday prayers in the village of Payee Khan in Mohmand Agency district. “The suicide bomber was in crowded mosque, he shouted &#039;Allahu ...
 
 ### [The iPhone 7 was released by Apple, along with the Plus version. [http://www.techinsight.com/about-techinsights/overview/blog/apple-iphone-7-teardown/]](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version-http-www-techinsight-com-about-techinsights-overview-blog-apple-iphone-7.md)
 _Context: iPhone 7_
 
-### [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md)
+### [2016 Pacific typhoon season. Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/2016-pacific-typhoon-season-typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md)
 At least eight people have been reported dead after a powerful typhoon lashed parts of southeastern China and Taiwan.
 
-### [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md)
+### [South China Sea disputes. Japan-United States relations. The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/south-china-sea-disputes-japan-united-states-relations-the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-jap.md)
 _Context: Japan, Japan-United States relations, Obama Administration, South China Sea, South China Sea disputes, United States military personnel_
 
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)
 An autistic man suspected of hacking into US government computer systems is to be extradited from Britain to face trial, a court rules.
 
-### [In response to American criticism of the Duterte regime, Filipino foreign secretary Perfecto Yasay says the Philippines cannot remain as the "little brown brother" of the United States. ](/news/2016/09/16/in-response-to-american-criticism-of-the-duterte-regime-filipino-foreign-secretary-perfecto-yasay-says-the-philippines-cannot-remain-as-the.md)
+### [Philippine Drug War. Philippines-United States relations. In response to American criticism of the Duterte regime, Filipino foreign secretary Perfecto Yasay says the Philippines cannot remain as the "little brown brother" of the United States. ](/news/2016/09/16/philippine-drug-war-philippines-united-states-relations-in-response-to-american-criticism-of-the-duterte-regime-filipino-foreign-secret.md)
 The European Parliament has condemned the current wave of extrajudicial killings in the Philippines and urged the government to “put an end” to these amid the war against illegal drugs. 
 
 ### [Former Prime Minister and President of Italy Carlo Azeglio Ciampi dies at the age of 95. ](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.md)
 Former Italian president, prime minister and central bank governor Carlo Azeglio Ciampi, who played a key role in guiding the country into the European single currency, has died, the government said on Friday.
 
-### [Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md)
+### [UK Independence Party leadership election, 2016. Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/uk-independence-party-leadership-election-2016-members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md)
 UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and tells PM Theresa May to &quot;get on&quot; with Brexit.
 
-### [The Commission on Presidential Debates officially announces the invitation of Democratic Party nominee Hillary Clinton, and GOP nominee Donald Trump, to the first presidential debate at Hofstra University in Hempstead, New York, on September 26. However, third party candidates, Gary Johnson and Jill Stein, have not met the criteria, and will not be participants in the debate. ](/news/2016/09/16/the-commission-on-presidential-debates-officially-announces-the-invitation-of-democratic-party-nominee-hillary-clinton-and-gop-nominee-dona.md)
+### [United States presidential election, 2016. The Commission on Presidential Debates officially announces the invitation of Democratic Party nominee Hillary Clinton, and GOP nominee Donald Trump, to the first presidential debate at Hofstra University in Hempstead, New York, on September 26. However, third party candidates, Gary Johnson and Jill Stein, have not met the criteria, and will not be participants in the debate. ](/news/2016/09/16/united-states-presidential-election-2016-the-commission-on-presidential-debates-officially-announces-the-invitation-of-democratic-party-no.md)
 Libertarian Party presidential candidate Gary Johnson and Green Party hopeful Jill Stein have failed to quality for the first planned U.S. presidential debate on Sept. 26, the Commission on Presidential Debates said on Friday.
 
 ## [Previous Day...](/news/2016/09/15/index.md)

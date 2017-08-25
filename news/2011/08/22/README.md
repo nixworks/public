@@ -1,6 +1,6 @@
 ## [2011-08-22](/news/2011/08/22/index.md)
 
-### [Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-gaddafi-s-regime-has-collapsed.md)
+### [2011 Libyan civil war. 2011 Battle of Tripoli. Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md)
 Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and opposition fighters surge into the symbolic Green Square in Tripoli.
 
 ### [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md)
@@ -27,7 +27,7 @@ _Context: Australia, BlueScope Steel, Port Kembla, Western Port_
 ### [The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. ](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.md)
 _Context: Muammar Gaddafi, crude oil_
 
-### [Hurricane Irene:Twenty people including British billionaire Richard Branson and actress Kate Winslet have to be rescued after Hurricane Irene destroys Branson's mansion on Necker Island in the Caribbean Sea. ](/news/2011/08/22/hurricane-irene-ptwenty-people-including-british-billionaire-richard-branson-and-actress-kate-winslet-have-to-be-rescued-after-hurricane-ire.md)
+### [Hurricane Irene:. Twenty people including British billionaire Richard Branson and actress Kate Winslet have to be rescued after Hurricane Irene destroys Branson's mansion on Necker Island in the Caribbean Sea. ](/news/2011/08/22/hurricane-irene-twenty-people-including-british-billionaire-richard-branson-and-actress-kate-winslet-have-to-be-rescued-after-hurricane-ir.md)
 Hurricane Irene could hit the Southeast United States as a major Category 3 storm on the weekend after sweeping north of the Dominican Republic and pummeling Puerto Rico on Monday, forecasters said.
 
 ### [Prosecutors in New York City ask for charges against former International Monetary Fund head Dominique Strauss-Kahn to be dropped. ](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.md)

@@ -16,7 +16,7 @@ _Context: China, China, MV Hong Wei, cargo ship_
 ### [Israeli police say negligence caused a large forest fire burning out of control in the north of the country that killed at least 40 people. ](/news/2010/12/4/israeli-police-say-negligence-caused-a-large-forest-fire-burning-out-of-control-in-the-north-of-the-country-that-killed-at-least-40-people.md)
 Negligence, not arson, is the likely cause of the deadly forest fire burning out of control in Mount Carmel, near the northern port city of Haifa, police say.
 
-### [United States diplomatic cables leak:Reporters Without Borders condemns "the blocking, cyber-attacks and political pressure" against the WikiLeaks website, describing it as the first "attempt at the international community level to censor a website dedicated to the principle of transparency" and comparing the behaviour of France and the United States to that of China. American payment service provider PayPal cuts off the account the WikiLeaks website uses to collect donations. ](/news/2010/12/4/united-states-diplomatic-cables-leak-preporters-without-borders-condemns-the-blocking-cyber-attacks-and-political-pressure-against-the-wi.md)
+### [United States diplomatic cables leak:. Reporters Without Borders condemns "the blocking, cyber-attacks and political pressure" against the WikiLeaks website, describing it as the first "attempt at the international community level to censor a website dedicated to the principle of transparency" and comparing the behaviour of France and the United States to that of China. American payment service provider PayPal cuts off the account the WikiLeaks website uses to collect donations. ](/news/2010/12/4/united-states-diplomatic-cables-leak-reporters-without-borders-condemns-the-blocking-cyber-attacks-and-political-pressure-against-the-w.md)
 American payment service provider cuts relationship, as whistle-blower struggles to keep website available to public.
 
 ### [President of the Palestinian Authority Mahmoud Abbas speaks of the possibility of dissolving the Authority if Israel continues its construction on occupied Palestinian land in the West Bank, saying there is little point remaining "the president of an authority that doesn't exist". ](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.md)
@@ -28,13 +28,13 @@ _Context: CIA, International Atomic Energy Agency, Iran, MI6, Majid Shahriari, M
 ### [A proposed law in South Korea is to ban online gaming after midnight for young people amid concerns over Internet addiction. ](/news/2010/12/4/a-proposed-law-in-south-korea-is-to-ban-online-gaming-after-midnight-for-young-people-amid-concerns-over-internet-addiction.md)
 _Context: Internet addiction, South Korea_
 
-### [The China Academy of Telecommunication Research tells ''China Daily'' that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by.md)
+### [The China Academy of Telecommunication Research tells "China Daily" that China should merge identity management systems, currently run by different ministries, in order to fight online fraud and hacking. ](/news/2010/12/4/the-china-academy-of-telecommunication-research-tells-china-daily-that-china-should-merge-identity-management-systems-currently-run-by-di.md)
 _Context: China Academy of Telecommunication Research, China Daily, hackers, online fraud_
 
 ### [Three people are arrested in China's Guangdong Province in relation to a $90 million gold heist, the biggest in Hong Kong history. ](/news/2010/12/4/three-people-are-arrested-in-china-s-guangdong-province-in-relation-to-a-90-million-gold-heist-the-biggest-in-hong-kong-history.md)
 _Context: China, Guangdong province, Hong Kong_
 
-### [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md)
+### [Ivorian political crisis:. A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-a-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-c.md)
 Ivory Coast is in a deep political crisis, as rival presidential candidates both swear themselves in after a disputed poll.
 
 ## [Previous Day...](/news/2010/12/3/index.md)

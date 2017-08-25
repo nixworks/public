@@ -3,7 +3,7 @@
 ### [ Thousands of Chinese policemen rescue 450 slave workers while arresting 120 suspects. ](/news/2007/06/15/thousands-of-chinese-policemen-rescue-450-slave-workers-while-arresting-120-suspects.md)
 _Context: Ministry of Public Security of the People's Republic of China_
 
-### [ Mike Nifong, facing disbarment for his actions in the 2006 Duke University lacrosse case, agrees to resign his position as district attorney for Durham County in the U.S. state of  North Carolina. ](/news/2007/06/15/mike-nifong-facing-disbarment-for-his-actions-in-the-2006-duke-university-lacrosse-case-agrees-to-resign-his-position-as-district-attorne.md)
+### [ Mike Nifong, facing disbarment for his actions in the 2006 Duke University lacrosse case, agrees to resign his position as district attorney for Durham County in the U.S. state of North Carolina. ](/news/2007/06/15/mike-nifong-facing-disbarment-for-his-actions-in-the-2006-duke-university-lacrosse-case-agrees-to-resign-his-position-as-district-attorne.md)
 The district attorney who prosecuted three Duke University lacrosse players accused of rape took the stand in his own ethics trial Friday and acknowledged he made some inappropriate statements during the investigation.
 
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)

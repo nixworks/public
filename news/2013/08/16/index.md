@@ -1,6 +1,6 @@
 ## [2013-08-16](/news/2013/08/16/index.md)
 
-### [Aftermath of 2013 Egyptian coup d'etat:Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-psecurity-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brother.md)
+### [Aftermath of 2013 Egyptian coup d'etat:. Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md)
 Security in Cairo tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide.
 
 ### [Yemen changes its weekend from Thursday and Friday to Friday and Saturday. ](/news/2013/08/16/yemen-changes-its-weekend-from-thursday-and-friday-to-friday-and-saturday.md)
@@ -15,7 +15,7 @@ Marlborough bore the brunt of a rattling 6.6 quake, and a series of continuing a
 ### [The ferry Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md)
 At least 31 people die and around 170 are missing after a ferry with more than 800 on board collides with a cargo ship in the Philippines.
 
-### [The Ministry of External Relations of Brazil rejects John Kerry's official statement concerning that the electronic surveillance by the National Security Agency was part of a strategy to "combat terrorism". ](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.md)
+### [The Ministry of External Relations of Brazil rejects John Kerry's official statement concerning that the electronic surveillance by the National Security Agency was part of a strategy to -combat terrorism-. ](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.md)
 U.S. may lose $4 billion fighter jet deal
 
 ### [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md)

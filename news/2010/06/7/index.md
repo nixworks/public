@@ -3,7 +3,7 @@
 ### [The Israeli Navy kills four Palestinians wearing diving gear; Israel says they were carrying weapons and planning an attack, off the coast of Gaza. ](/news/2010/06/7/the-israeli-navy-kills-four-palestinians-wearing-diving-gear-israel-says-they-were-carrying-weapons-and-planning-an-attack-off-the-coast-o.md)
 Senior IDF officer says investigation of incident off Gaza&#39;s coastline determined Al-Aqsa Brigades men planned attack on Israel&#39;s home front 
 
-### [Canadian poet Anne Michaels's novel ''Fugitive Pieces'' has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. ''Fugitive Pieces'' won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-i.md)
+### [Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.md)
 _Context: Anne Michaels, Canada, Fugitive Pieces, Orange Prize for Fiction, adolescents_
 
 ### [Chinese stock markets closed down Monday on weaker global recovery prospects. ](/news/2010/06/7/chinese-stock-markets-closed-down-monday-on-weaker-global-recovery-prospects.md)
@@ -24,7 +24,7 @@ Two people are killed and 14 others injured in Rwanda after a car ploughs into a
 ### [Police say 55 bodies have been recovered so far from an abandoned mine in Guerrero, Mexico. ](/news/2010/06/7/police-say-55-bodies-have-been-recovered-so-far-from-an-abandoned-mine-in-guerrero-mexico.md)
 Mexico police find 55 bodies in an abandoned mine that appears to have been used as a mass grave by drugs gangs.
 
-### [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this.  ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md)
+### [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this. ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md)
 _Context: 2010 Polish Air Force Tu-154 crash, Polish, Polish zloty, Russia, Smolensk_
 
 ### [9 passengers are injured and a train carriage left dangling over an embankment after a derailment in Scotland. ](/news/2010/06/7/9-passengers-are-injured-and-a-train-carriage-left-dangling-over-an-embankment-after-a-derailment-in-scotland.md)
@@ -36,7 +36,7 @@ _Context: South Korea, migrant workers_
 ### [The Cyprus-based Free Gaza Movement packs up and leaves Cyprus for London after the Cypriot government's decision to interfere with and disrupt last week's international aid flotilla. ](/news/2010/06/7/the-cyprus-based-free-gaza-movement-packs-up-and-leaves-cyprus-for-london-after-the-cypriot-government-s-decision-to-interfere-with-and-disr.md)
 _Context: Cyprus, Free Gaza Movement, London_
 
-### [Veteran American journalist Helen Thomas announces she is retiring, after apologizing for making remarks saying Jews should leave Israel and return to Europe  are widely condemned in the United States. ](/news/2010/06/7/veteran-american-journalist-helen-thomas-announces-she-is-retiring-after-apologizing-for-making-remarks-saying-jews-should-leave-israel-and.md)
+### [Veteran American journalist Helen Thomas announces she is retiring, after apologizing for making remarks saying Jews should leave Israel and return to Europe are widely condemned in the United States. ](/news/2010/06/7/veteran-american-journalist-helen-thomas-announces-she-is-retiring-after-apologizing-for-making-remarks-saying-jews-should-leave-israel-and.md)
 (Video) CNN says veteran White House correspondent quits after calling on Israelis to &#39;get the hell out of Palestine. Comment &#39;offensive and reprehensible,&#39; Press Secretary Robert Gibbs says
 
 ### [13 executed in Iran's Qezel Hessar Prison. ](/news/2010/06/7/13-executed-in-iran-s-qezel-hessar-prison.md)
@@ -52,7 +52,7 @@ A Chubb security guard has died after being shot in the chest during a routine c
 ### [22-year-old U.S. Army intelligence analyst, SPC Bradley Manning, is named as the alleged source of the leak of the Collateral murder video, along with the Granai massacre video and other documents, said to be in the possession of Wikileaks. ](/news/2010/06/7/22-year-old-u-s-army-intelligence-analyst-spc-bradley-manning-is-named-as-the-alleged-source-of-the-leak-of-the-collateral-murder-video.md)
 A US military analyst is arrested on suspicion of leaking combat video and thousands of classified documents.
 
-### [Chancellor Angela Merkel agrees EUR80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
+### [Chancellor Angela Merkel agrees -80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
 _Context: Angela Merkel, German Chancellor, her coalition cabinet_
 
 ### [North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. ](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.md)
@@ -61,7 +61,7 @@ _Context: Choe Yong-rim, Kim Yong-il, North Korea, Premier, its parliament_
 ### [The genetically modified variety of maize known as NK603, outlawed across the European Union, is sown and contaminates fields in seven German states. ](/news/2010/06/7/the-genetically-modified-variety-of-maize-known-as-nk603-outlawed-across-the-european-union-is-sown-and-contaminates-fields-in-seven-germa.md)
 A genetically modified (GM) variety of maize banned in the EU has contaminated fields in seven German states.
 
-### [A nearly 25-year study published today in ''Paediatrics'' concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adj.md)
+### [A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.md)
 _Context: lesbian_
 
 ### [International Olympic Committee (IOC) President Jacques Rogge inspects the site of the 2014 Winter Olympics in Sochi, Russia. ](/news/2010/06/7/international-olympic-committee-ioc-president-jacques-rogge-inspects-the-site-of-the-2014-winter-olympics-in-sochi-russia.md)

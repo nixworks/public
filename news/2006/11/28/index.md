@@ -1,6 +1,6 @@
 ## [2006-11-28](/news/2006/11/28/index.md)
 
-### [ U.S. District Judge for the District of Columbia James Robertson  orders the U.S. Treasury Department to make paper currency more recognizable to blind people in ''American Council for the Blind v. Secretary of the Treasury''. ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recogniza.md)
+### [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in "American Council for the Blind v. Secretary of the Treasury". ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.md)
 Judge rules that the Treasury Department has denied blind people reasonable access to paper money by keeping it the same size and texture.
 
 ### [ Speaker-designate of the United States House of Representatives Nancy Pelosi announces that controversial Democratic Rep. Alcee Hastings will not be the chairman of the House Permanent Select Committee on Intelligence in the 110th Congress. ](/news/2006/11/28/speaker-designate-of-the-united-states-house-of-representatives-nancy-pelosi-announces-that-controversial-democratic-rep-alcee-hastings-wi.md)
@@ -15,10 +15,10 @@ _Context: Canada, Canadian House of Commons, Quebec, nation_
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
 _Context: Ben Bernanke, Federal Reserve, United States, inflation_
 
-### [ War in Chad (2005-present): Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/war-in-chad-2005apresent-p-chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-figh.md)
+### [ War in Chad (2005-present):. Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/war-in-chad-2005-present-chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-figh.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Central African Republic Bush War: Government troops in the Central African Republic, backed by French forces, have launched an offensive to retake the northeast town of Birao from rebels, and have recaptured its airport, a French military spokesman said. ](/news/2006/11/28/central-african-republic-bush-war-p-government-troops-in-the-central-african-republic-backed-by-french-forces-have-launched-an-offensive.md)
+### [ Central African Republic Bush War:. Government troops in the Central African Republic, backed by French forces, have launched an offensive to retake the northeast town of Birao from rebels, and have recaptured its airport, a French military spokesman said. ](/news/2006/11/28/central-african-republic-bush-war-government-troops-in-the-central-african-republic-backed-by-french-forces-have-launched-an-offensive.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Pope Benedict XVI arrives in Turkey at the start of a four day tour that has sparked protests. ](/news/2006/11/28/pope-benedict-xvi-arrives-in-turkey-at-the-start-of-a-four-day-tour-that-has-sparked-protests.md)

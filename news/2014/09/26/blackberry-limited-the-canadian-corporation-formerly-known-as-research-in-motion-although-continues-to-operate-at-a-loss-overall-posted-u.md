@@ -11,5 +11,5 @@ BlackBerry Ltd (BB.TO) (BBRY.O) reported a smaller quarterly loss on Friday and 
 
 ### Related:
 
-1. [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which  would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md) _Context: BlackBerry Limited_
+1. [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md) _Context: BlackBerry Limited_
 2. [BlackBerry Limited announces it will purchase Good Technology, a provider of mobile software, as part of its broader shift to a services role within the internet of things. ](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.md) _Context: BlackBerry Limited_

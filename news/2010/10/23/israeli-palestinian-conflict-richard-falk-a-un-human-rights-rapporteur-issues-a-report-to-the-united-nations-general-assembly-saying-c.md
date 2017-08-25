@@ -1,0 +1,27 @@
+### [2010-10-23](/news/2010/10/23/index.md)
+
+# Israeli-Palestinian conflict:. Richard Falk, a UN human rights rapporteur, issues a report to the United Nations General Assembly saying continued settlement construction would probably make Israel's occupation of Palestinian land irreversible and that said the UN, the US and Israel had failed to uphold the rights of Palestinians. 
+
+In a final communiqué at the end of a two-week meeting at the Vatican on the plight of Christians in the Middle East, the bishops condemned terrorism and anti-Semitism.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11611658)
+2. [RIA Novosti](http://en.rian.ru/world/20101024/161066944.html)
+3. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=192368)
+4. [The New York Times](http://www.nytimes.com/2010/10/24/world/europe/24vatican.html)
+5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3973715,00.html)
+
+### Related:
+
+1. [Israeli-Palestinian conflict. Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/israeli-palestinian-conflict-following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-you.md) _Context: Israeli-Palestinian conflict, occupied territories_
+2. [Israeli-Palestinian conflict. Indonesian President Joko -Jokowi- Widodo calls on Muslim leaders at the Organisation of Islamic Cooperation (OIC) summit meeting in Jakarta to unite and be part of the solution on Palestine, noting the entire world is concerned about its deteriorating situation. Jokowi also criticizes what he calls Israel's "unilateral and illegal policies." ](/news/2016/03/7/israeli-palestinian-conflict-indonesian-president-joko-jokowi-widodo-calls-on-muslim-leaders-at-the-organisation-of-islamic-coopera.md) _Context: Israeli-Palestinian conflict, Palestinian_
+3. [Israeli-Palestinian conflict:. Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-palestinian-conflict-israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violenc.md) _Context: Israeli-Palestinian conflict, Palestinian_
+4. [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeli-palestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md) _Context: Israeli-Palestinian conflict, Palestinian_
+5. [Israeli-Palestinian conflict:. A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/israeli-palestinian-conflict-a-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-wes.md) _Context: Israeli-Palestinian conflict, Palestinian_
+6. [Israeli-Palestinian conflict:. A Palestinian protestor is killed by Israeli forces after hurling stones and incendiary bottles in the West Bank. ](/news/2013/03/12/israeli-palestinian-conflict-a-palestinian-protestor-is-killed-by-israeli-forces-after-hurling-stones-and-incendiary-bottles-in-the-west.md) _Context: Israeli-Palestinian conflict, Palestinian_
+7. [Israeli-Palestinian conflict:. Israel presses on with the construction of thousands of new homes in West Bank and East Jerusalem, despite worldwide criticism and suggestions that officials in Palestine may go to the International Criminal Court. ](/news/2012/12/19/israeli-palestinian-conflict-israel-presses-on-with-the-construction-of-thousands-of-new-homes-in-west-bank-and-east-jerusalem-despite.md) _Context: Israeli-Palestinian conflict, Palestinian_
+8. [The 67th session of the United Nations General Assembly approves to upgrade Palestine's status from an "observer" to an "observer state", with 138 voting in favor, 9 against and 41 abstaining. ](/news/2012/11/29/the-67th-session-of-the-united-nations-general-assembly-approves-to-upgrade-palestine-s-status-from-an-observer-to-an-observer-state-wi.md) _Context: Palestinian, United Nations General Assembly_
+9. [Israeli-Palestinian conflict. During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/israeli-palestinian-conflict-during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national.md) _Context: Israeli-Palestinian conflict, Palestinian_
+10. [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md) _Context: Palestinian, United Nations General Assembly_

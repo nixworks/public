@@ -6,7 +6,7 @@ _Context: F/A-18 Hornet, Iraq, Marines_
 ### [ India bans Monsanto Company genetically modified cotton seeds. ](/news/2005/05/3/india-bans-monsanto-company-genetically-modified-cotton-seeds.md)
 _Context: India, Monsanto Company, genetically modified_
 
-### [ In Nepal, thousands of journalists march in protest to restore press freedoms on World Press Freedom Day.  ](/news/2005/05/3/in-nepal-thousands-of-journalists-march-in-protest-to-restore-press-freedoms-on-world-press-freedom-day.md)
+### [ In Nepal, thousands of journalists march in protest to restore press freedoms on World Press Freedom Day. ](/news/2005/05/3/in-nepal-thousands-of-journalists-march-in-protest-to-restore-press-freedoms-on-world-press-freedom-day.md)
 _Context: Nepal, World Press Freedom Day, journalist, press freedom, protest_
 
 ### [ United Nations chief prosecutor of Sierra Leone's war crimes court David Crane claims that Charles Taylor, former president of Liberia, is still plotting to kill Guinean leader Lansana Cont. Cont has been in a hospital since he survived an assassination attempt in January.](/news/2005/05/3/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-claims-that-charles-taylor-former-president-of-liberia-is.md)

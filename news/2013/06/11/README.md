@@ -1,15 +1,15 @@
 ## [2013-06-11](/news/2013/06/11/index.md)
 
-### [2013 protests in Turkey:Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-pturkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-ot.md)
+### [2013 protests in Turkey:. Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-o.md)
 Turkish police have taken several dozen lawyers into custody for joining the ongoing protests. The arrests in Istanbul come as police launched a crackdown on protesters in the city’s Taksim Square.
 
 ### [Riot police pursue activists in central London's "Carnival Against Capitalism" organised by the group Stop G8. ](/news/2013/06/11/riot-police-pursue-activists-in-central-london-s-carnival-against-capitalism-organised-by-the-group-stop-g8.md)
 Riot police surround building occupied by activists in central London ahead of summit.
 
-### [Syrian civil war:Twin suicide bombings in Marjeh Square in Damascus kill at least 14 people and injure 31. ](/news/2013/06/11/syrian-civil-war-ptwin-suicide-bombings-in-marjeh-square-in-damascus-kill-at-least-14-people-and-injure-31.md)
+### [Syrian civil war:. Twin suicide bombings in Marjeh Square in Damascus kill at least 14 people and injure 31. ](/news/2013/06/11/syrian-civil-war-twin-suicide-bombings-in-marjeh-square-in-damascus-kill-at-least-14-people-and-injure-31.md)
 _Context: Damascus, Marjeh Square, Syrian Civil War, suicide bombing_
 
-### [War in Afghanistan:A bomb detonates near the Afghan Supreme Court killing 8 people and wounding dozens. ](/news/2013/06/11/war-in-afghanistan-pa-bomb-detonates-near-the-afghan-supreme-court-killing-8-people-and-wounding-dozens.md)
+### [War in Afghanistan:. A bomb detonates near the Afghan Supreme Court killing 8 people and wounding dozens. ](/news/2013/06/11/war-in-afghanistan-a-bomb-detonates-near-the-afghan-supreme-court-killing-8-people-and-wounding-dozens.md)
 A suspected Taliban suicide bomber in a car detonated a bomb close to minibuses taking Supreme Court staff home in the Afghan capital Kabul on Tuesday, killing at least 17 people and wounding almost 40, police said.
 
 ### [Former senior Indian cabinet minister Vidya Charan Shukla dies from his injury from a Naxalite raid in the Sukma district in Chhattisgarh state. ](/news/2013/06/11/former-senior-indian-cabinet-minister-vidya-charan-shukla-dies-from-his-injury-from-a-naxalite-raid-in-the-sukma-district-in-chhattisgarh-st.md)
@@ -24,7 +24,7 @@ The Greek public broadcaster ERT is to close down almost immediately, the govern
 ### [A charter bus carrying a group of students from a Louisville, Kentucky high school to Eastern Kentucky University crashes on the return trip to Louisville, injuring 35 people in all. ](/news/2013/06/11/a-charter-bus-carrying-a-group-of-students-from-a-louisville-kentucky-high-school-to-eastern-kentucky-university-crashes-on-the-return-trip.md)
 _Context: Eastern Kentucky University, Louisville, Kentucky, high school_
 
-### [U.S. government surveillance programs (including PRISM):European Union officials send a letter to U.S. attorney general Eric Holder with seven detailed questions requesting concrete explanations about the country's data snooping programs and how it affects EU citizens ahead of a meeting in Dublin this Friday. ](/news/2013/06/11/u-s-government-surveillance-programs-including-prism-peuropean-union-officials-send-a-letter-to-u-s-attorney-general-eric-holder-with-se.md)
+### [U.S. government surveillance programs (including PRISM):. European Union officials send a letter to U.S. attorney general Eric Holder with seven detailed questions requesting concrete explanations about the country's data snooping programs and how it affects EU citizens ahead of a meeting in Dublin this Friday. ](/news/2013/06/11/u-s-government-surveillance-programs-including-prism-european-union-officials-send-a-letter-to-u-s-attorney-general-eric-holder-with-s.md)
 The European Commission says it will ask the US for assurances about the legality of its data harvesting this week.
 
 ### [Due to lack of evidence, a French court drops a case against former IMF chief Dominique Strauss-Kahn for allegedly running a prostitution ring. ](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.md)

@@ -12,13 +12,13 @@ _Context: Italian Prime Minister, Parmalat, Politics of Italy, Silvio Berlusconi
 ### [ Egyptian Foreign Minister Ahmed Maher is assaulted by Palestinians during prayer at the al-Aqsa Mosque in Jerusalem. Mr. Maher was taken to an Israeli hospital for observation as a result of the incident after being treated at the scene by the Magen David Adom. After several hours care in the hospital, he was escorted to his airplane by an Israeli cardiologist and paramedic. ](/news/2003/12/22/egyptian-foreign-minister-ahmed-maher-is-assaulted-by-palestinians-during-prayer-at-the-al-aqsa-mosque-in-jerusalem-mr-maher-was-taken-to.md)
 _Context: Ahmed Maher, Al-Aqsa Mosque, Egypt, Foreign Minister, Jerusalem, Magen David Adom, Palestinians, prayer_
 
-### [ A list of people who have declined a British honour was leaked to ''The Sunday Times''. The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldou.md)
+### [ A list of people who have declined a British honour was leaked to "The Sunday Times". The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldous.md)
 _Context: Aldous Huxley, David Bowie, David Hockney, Harold Pinter, Nigella Lawson, The Sunday Times (UK), list of people who have declined a British honour_
 
 ### [ The Gulf Cooperation Council announces that they will revise school textbooks and remove from them material describing followers of other religions as infidels and enemies of Islam. [http://english.aljzeera.net/NR/exeres/B97096D6-41FB-416A-9980-818FF4E26AAC.htm]](/news/2003/12/22/the-gulf-cooperation-council-announces-that-they-will-revise-school-textbooks-and-remove-from-them-material-describing-followers-of-other-r.md)
 _Context: Gulf Cooperation Council, Islam, infidel_
 
-### [ SCO v. IBM: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-p-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md)
+### [ SCO v. IBM:. SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement ](/news/2003/12/22/sco-v-ibm-sco-claims-in-a-press-release-to-be-sending-dmca-notification-letters-alleging-copyright-infringement.md)
 _Context: DMCA, SCO Group, SCO v. IBM_
 
 ### [ An earthquake strikes near San Simeon, California, at 19:15 UTC (11:15 PST). The quake registers a 6.5 magnitude on the Richter magnitude scale, and causes two deaths from the collapse of a building in the town of Paso Robles. [http://www.cnn.com/2003/US/West/12/22/ca.earthquake/index.html],[http://earthquake.usgs.gov/recenteqsUS/Quakes/nc40148755.htm]](/news/2003/12/22/an-earthquake-strikes-near-san-simeon-california-at-19-15-utc-11-15-pst-the-quake-registers-a-6-5-magnitude-on-the-richter-magnitude-s.md)

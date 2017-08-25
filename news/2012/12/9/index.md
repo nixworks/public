@@ -33,7 +33,7 @@ _Context: Ghana, John Mahama, President of Ghana, general election_
 ### [Voters in Romania go to the polls for parliamentary elections with the governing Social Liberal Union led by Prime Minister Victor Ponta winning by a landslide majority in both the Chamber of Deputies and the Senate. ](/news/2012/12/9/voters-in-romania-go-to-the-polls-for-parliamentary-elections-with-the-governing-social-liberal-union-led-by-prime-minister-victor-ponta-win.md)
 _Context: Chamber of Deputies, Prime Minister, Romania, Senate, Social Liberal Union, Victor Ponta, landslide, parliamentary election_
 
-### [British astronomer and broadcaster Sir Patrick Moore, presenter of ''The Sky at Night'' for over 55 years, dies aged 89. ](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-moore-presenter-of-the-sky-at-night-for-over-55-years-dies-aged-89.md)
+### [British astronomer and broadcaster Sir Patrick Moore, presenter of "The Sky at Night" for over 55 years, dies aged 89. ](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-moore-presenter-of-the-sky-at-night-for-over-55-years-dies-aged-89.md)
 Astronomer, broadcaster and author Sir Patrick Moore has died at his home at the age of 89.
 
 ### [Khrunichev Center and International Launch Services report an anomaly during the launch of the Yamal-402 satellite on 8 December. Briz-M stage failure 4 minutes before scheduled shut down on its fourth burn. ](/news/2012/12/9/khrunichev-center-and-international-launch-services-report-an-anomaly-during-the-launch-of-the-yamal-402-satellite-on-8-december-briz-m-sta.md)

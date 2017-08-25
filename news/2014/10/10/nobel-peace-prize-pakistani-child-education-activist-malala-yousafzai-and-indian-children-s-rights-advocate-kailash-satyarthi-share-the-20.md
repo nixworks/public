@@ -1,0 +1,24 @@
+### [2014-10-10](/news/2014/10/10/index.md)
+
+# Nobel Peace Prize:. Pakistani child education activist Malala Yousafzai and Indian children's rights advocate Kailash Satyarthi share the 2014 Nobel Peace Prize. 
+
+Pakistani child education activist Malala Yousafzai and Indian child rights campaigner Kailash Satyarthi win the Nobel Peace Prize.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-29564935)
+2. [Huffington Post](http://www.huffingtonpost.com/2014/10/10/nobel-peace-prize_n_5963634.html?ir=World)
+
+### Related:
+
+1. [Eight out of the ten allegedly involved in shooting Pakistani schoolgirl and Nobel Peace Prize winner Malala Yousafzai have been secretly set free. ](/news/2015/06/5/eight-out-of-the-ten-allegedly-involved-in-shooting-pakistani-schoolgirl-and-nobel-peace-prize-winner-malala-yousafzai-have-been-secretly-se.md) _Context: Malala Yousafzai, Nobel Peace Prize, Pakistan_
+2. [2008 Mumbai attacks. Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/2008-mumbai-attacks-pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-found.md) _Context: India, Pakistan_
+3. [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md) _Context: India, Pakistan_
+4. [India-Pakistan relations. Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/india-pakistan-relations-pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india.md) _Context: India, Pakistan_
+5. [2016 India-Pakistan military confrontation. Kashmir conflict. Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/2016-india-pakistan-military-confrontation-kashmir-conflict-pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tension.md) _Context: India, Pakistan_
+6. [2016 India-Pakistan military confrontation. Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/2016-india-pakistan-military-confrontation-pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit.md) _Context: India, Pakistan_
+7. [2016 India-Pakistan military confrontation. Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/2016-india-pakistan-military-confrontation-pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-b.md) _Context: India, Pakistan_
+8. [India-Pakistan relations. India and Pakistan each expel a diplomat from the other country as tensions grow over Kashmir. ](/news/2016/10/27/india-pakistan-relations-india-and-pakistan-each-expel-a-diplomat-from-the-other-country-as-tensions-grow-over-kashmir.md) _Context: India, Pakistan_
+9. [19th SAARC summit. Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/19th-saarc-summit-members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-dur.md) _Context: India, Pakistan_
+10. [China-Pakistan relations. China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-pakistan-relations-china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-china-pakistan-economic-cor.md) _Context: India, Pakistan_

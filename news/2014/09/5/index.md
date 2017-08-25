@@ -1,9 +1,9 @@
 ## [2014-09-5](/news/2014/09/5/index.md)
 
-### [War in Donbass:The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-pthe-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md)
+### [War in Donbass:. The government of Ukraine and pro-Russian rebels agree to a cease-fire, fighting continues after the announcement. ](/news/2014/09/5/war-in-donbass-the-government-of-ukraine-and-pro-russian-rebels-agree-to-a-cease-fire-fighting-continues-after-the-announcement.md)
 Ukraine and pro-Russian rebels reached a ceasefire agreement on Friday, the first step toward ending fighting in eastern Ukraine that has caused the worst standoff between Moscow and the West since the Cold War ended.
 
-### [Somali Civil War:The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-pthe-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septem.md)
+### [Somali Civil War:. The Pentagon confirms that leader of the terrorist group al-Shabaab Moktar Ali Zubeyr was killed in an airstrike on September 1. ](/news/2014/09/5/somali-civil-war-the-pentagon-confirms-that-leader-of-the-terrorist-group-al-shabaab-moktar-ali-zubeyr-was-killed-in-an-airstrike-on-septe.md)
 The Pentagon confirmed on Friday that Ahmed Abdi Godane, a leader of the al Shabaab Islamist group, was killed in a U.S. airstrike in Somalia this week, calling it a &quot;major symbolic and operational loss&quot; for the al Qaeda-affiliated militants.
 
 ### [A privately owned Socata TBM-900 (flight number N900KN) from the US flies without a conscious pilot for a thousand miles after a suspected cabin depressurization (see also) and crashes 14 miles off the coast of northeastern Jamaica. ](/news/2014/09/5/a-privately-owned-socata-tbm-900-flight-number-n900kn-from-the-us-flies-without-a-conscious-pilot-for-a-thousand-miles-after-a-suspected-c.md)

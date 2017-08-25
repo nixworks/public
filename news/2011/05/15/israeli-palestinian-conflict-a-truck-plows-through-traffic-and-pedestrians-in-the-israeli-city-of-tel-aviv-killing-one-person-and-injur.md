@@ -1,0 +1,37 @@
+### [2011-05-15](/news/2011/05/15/index.md)
+
+# Israeli-Palestinian conflict:. A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.
+
+Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing; driver, a Kfar Qasm resident, says he hit cars by accident.
+
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011515131427646668.html)
+2. [Bloomberg](http://www.bloomberg.com/news/2011-05-15/israeli-stocks-retreat-most-in-2-months-as-israel-arabs-clash.html)
+3. [CBS News](http://www.cbsnews.com/stories/2011/05/15/501364/main20063028.shtml)
+4. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.border.violence/index.html?hpt=T1)
+5. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/israel.truck.attack/index.html)
+6. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0515/Nakba-clashes-Iran-Syria-trying-to-turn-Arab-Spring-fury-into-attacks-on-Israel)
+7. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1-killed-16-hurt-as-truck-plows-into-cars-pedestrians-in-suspected-tel-aviv-terror-attack-1.361806)
+8. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/eight-said-killed-as-idf-fires-on-infiltrators-from-syria-and-lebanon-1.361841)
+9. [Nowlebanon](http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=271481)
+10. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/05/15/bloomberg1376-LL87506S972H01-792SF38CHMIRAD6NDU45J09DRA.DTL)
+11. [The Australian](http://www.theaustralian.com.au/news/world/deadly-nakba-clashes-hit-israel-at-three-frontiers/story-e6frg6so-1226056427879)
+12. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=220656)
+13. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220575)
+14. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=220604)
+15. [Voice of America](http://www.voanews.com/english/news/Dozens-Shot-Injured-Near-Israel-Gaza-Border--121853324.html)
+
+### Related:
+
+1. [Israeli-Palestinian conflict. A shooting takes place at a pub in Tel Aviv, Israel, leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ](/news/2016/01/1/israeli-palestinian-conflict-a-shooting-takes-place-at-a-pub-in-tel-aviv-israel-leaving-two-dead-and-eight-injured-the-gunman-managed.md) _Context: Israel, Israeli-Palestinian conflict, Tel Aviv_
+2. [Israeli-Palestinian conflict:. 2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeli-palestinian-conflict-2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-avi.md) _Context: Israel, Israeli-Palestinian conflict, Tel Aviv_
+3. [Israeli-Palestinian conflict. 2017 Temple Mount crisis. The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/israeli-palestinian-conflict-2017-temple-mount-crisis-the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recent.md) _Context: Israel, Israeli-Palestinian conflict_
+4. [Israeli-Palestinian conflict. 2017 Temple Mount crisis. Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.. Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and Turkey. Three Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.. 2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.. United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.. Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.. Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.. Palestinian President Mahmoud Abbas says the Palestinian leadership will -freeze contacts- with Israel -on all levels.-. ](/news/2017/07/21/israeli-palestinian-conflict-2017-temple-mount-crisis-several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and.md) _Context: Israel, Israeli-Palestinian conflict_
+5. [Israeli-Palestinian conflict. Israeli authorities approve 153 construction permits for settlement homes in East Jerusalem, and plan to approve another 11,000 in the coming months. ](/news/2017/01/27/israeli-palestinian-conflict-israeli-authorities-approve-153-construction-permits-for-settlement-homes-in-east-jerusalem-and-plan-to-app.md) _Context: Israel, Israeli-Palestinian conflict_
+6. [Israeli-Palestinian conflict. The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/israeli-palestinian-conflict-the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertise.md) _Context: Israel, Israeli-Palestinian conflict_
+7. [Israeli-Palestinian conflict. The Israeli Supreme Court questions the demolition of convicted terrorists' homes by the Israeli government after claims that the practice is used against Palestinians and not Israelis. The government has 30 days to respond before the court makes a decision on the practice. ](/news/2016/11/25/israeli-palestinian-conflict-the-israeli-supreme-court-questions-the-demolition-of-convicted-terrorists-homes-by-the-israeli-government.md) _Context: Israel, Israeli-Palestinian conflict_
+8. [A Tel Aviv, Israel, four story parking lot under construction collapses and kills at least two people and injures 18 others. ](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.md) _Context: Israel, Tel Aviv_
+9. [Israeli-Palestinian conflict (2015-present). Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. ](/news/2016/06/9/israeli-palestinian-conflict-2015-present-israel-suspends-83-000-entry-permits-for-palestinians-for-ramadan-following-a-mass-shooting.md) _Context: Israel, Tel Aviv_
+10. [Israeli-Palestinian conflict (2015-present). June 2016 Tel Aviv shooting. Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/israeli-palestinian-conflict-2015-present-june-2016-tel-aviv-shooting-two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-av.md) _Context: Israel, Tel Aviv_

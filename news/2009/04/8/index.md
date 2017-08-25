@@ -1,9 +1,9 @@
 ## [2009-04-8](/news/2009/04/8/index.md)
 
-### [ Thousands of people in Pyongyang, North Korea, celebrate the "successful" launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-asuccessfula-launch-of-the-bright-star-2-communications-satellite-into-ear.md)
+### [ Thousands of people in Pyongyang, North Korea, celebrate the -successful- launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-successful-launch-of-the-bright-star-2-communications-satellite-into-ear.md)
 _Context: Earth, Kwangmyongsong-2, North Korea, Pyongyang, communications satellite, orbit_
 
-### [ Chinese and Russian cyber-spies allegedly infiltrate the United States' electrical grid. ](/news/2009/04/8/chinese-and-russian-cyber-spies-allegedly-infiltrate-the-united-states-electrical-grid.md)
+### [ Chinese and Russian cyber-spies allegedly infiltrate the United States' electrical grid. [http://www.google.com/hostednews/ap/article/ALeqM5gTamvV9J8BmeVmQift2odb--mBigD97EDNPO1 (AP)] [http://online.wsj.com/article/SB123914805204099085.html "(Wall Street Journal)"]](/news/2009/04/8/chinese-and-russian-cyber-spies-allegedly-infiltrate-the-united-states-electrical-grid-http-www-google-com-hostednews-ap-article-aleqm.md)
 _Context: China, Russia, United States, cyber espionage, electrical grid_
 
 ### [ Police in Chisinau reclaim Moldova's Parliament from protesters of the Communist Party's absolute majority in the country's legislative election. ](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.md)
@@ -18,7 +18,7 @@ _Context: Beijing, China, Chinese President, Hu Jintao, Hugo Chavez, Venezuela, 
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
 _Context: California, Temecula, United States_
 
-### [ Somali pirates hijack the Danish container ship MV ''Maersk Alabama'' in the Indian Ocean. ](/news/2009/04/8/somali-pirates-hijack-the-danish-container-ship-mv-maersk-alabama-in-the-indian-ocean.md)
+### [ Somali pirates hijack the Danish container ship MV "Maersk Alabama" in the Indian Ocean. ](/news/2009/04/8/somali-pirates-hijack-the-danish-container-ship-mv-maersk-alabama-in-the-indian-ocean.md)
 _Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia, container ship_
 
 ### [ A rogue French Foreign Legionnaire kills four people in Chad. ](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.md)

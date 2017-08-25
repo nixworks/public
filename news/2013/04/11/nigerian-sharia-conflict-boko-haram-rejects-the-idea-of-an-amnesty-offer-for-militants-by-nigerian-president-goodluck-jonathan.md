@@ -1,0 +1,23 @@
+### [2013-04-11](/news/2013/04/11/index.md)
+
+# Nigerian Sharia conflict:. Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-22105476)
+
+### Related:
+
+1. [Nigerian Sharia conflict:. Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+2. [Nigerian Sharia conflict:. Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+3. [Nigerian Sharia conflict:. An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+4. [Nigerian Sharia conflict:. The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md) _Context: Goodluck Jonathan, Nigerian Sharia conflict, President_
+5. [Nigerian Sharia conflict:. The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianit.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+6. [Nigerian Sharia conflict:. The Nigerian Army kills 14 suspected Boko Haram members in a raid on a building, with the death of one soldier and the capture of a potential suicide bomber in a car full of explosives in the northern city of Kano. ](/news/2013/03/31/nigerian-sharia-conflict-the-nigerian-army-kills-14-suspected-boko-haram-members-in-a-raid-on-a-building-with-the-death-of-one-soldier-an.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+7. [Nigerian Sharia conflict:. Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nigerian-sharia-conflict-nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-p.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+8. [Nigerian Sharia conflict:. Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/nigerian-sharia-conflict-seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+9. [Nigerian Sharia conflict:. Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/nigerian-sharia-conflict-suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
+10. [Nigerian Sharia conflict:. Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md) _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_

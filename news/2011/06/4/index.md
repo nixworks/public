@@ -1,6 +1,6 @@
 ## [2011-06-4](/news/2011/06/4/index.md)
 
-### [Arab Spring:NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-pnato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md)
+### [Arab Spring:. NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md)
 Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Arabia, amid uncertainty over whether he will return.
 
 ### [At least seven people are killed in an exchange of fire between pro-government forces and mutineering soldiers in Bobo-Dioulasso, Burkina Faso. ](/news/2011/06/4/at-least-seven-people-are-killed-in-an-exchange-of-fire-between-pro-government-forces-and-mutineering-soldiers-in-bobo-dioulasso-burkina-fa.md)
@@ -27,10 +27,10 @@ _Context: Chile, Puyehue-Cordn Caulle_
 ### [The Philippines accuses China of intimidating rival claimants to areas of the South China Sea, and violating its territorial waters. ](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.md)
 _Context: Philippines, South China Sea_
 
-### [Japan and  the People's Republic of China agree to resume defense relationships suspended since a disagreement over the Senkaku Islands. ](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.md)
+### [Japan and the People's Republic of China agree to resume defense relationships suspended since a disagreement over the Senkaku Islands. ](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.md)
 _Context: Senkaku Islands_
 
-### [The Cairo Criminal Court sentences former finance minister Youssef Boutros Ghali to 30 years imprisonment ''in absentia'' for abuse of power. ](/news/2011/06/4/the-cairo-criminal-court-sentences-former-finance-minister-youssef-boutros-ghali-to-30-years-imprisonment-in-absentia-for-abuse-of-power.md)
+### [The Cairo Criminal Court sentences former finance minister Youssef Boutros Ghali to 30 years imprisonment "in absentia" for abuse of power. ](/news/2011/06/4/the-cairo-criminal-court-sentences-former-finance-minister-youssef-boutros-ghali-to-30-years-imprisonment-in-absentia-for-abuse-of-power.md)
 _Context: Cairo Criminal Court, Youssef Boutros Ghali, in absentia_
 
 ### [Indian guru Swami Ramdev starts a hunger strike against corruption in the Government with thousands joining in but the camp is broken up. ](/news/2011/06/4/indian-guru-swami-ramdev-starts-a-hunger-strike-against-corruption-in-the-government-with-thousands-joining-in-but-the-camp-is-broken-up.md)

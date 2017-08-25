@@ -1,6 +1,6 @@
 ## [2011-08-15](/news/2011/08/15/index.md)
 
-### [2011 Syrian uprising:The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-pthe-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-re.md)
+### [2011 Syrian uprising:. The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-r.md)
 Activists say 25 people killed as warships and tanks reportedly shell the northern port in an ongoing assault.
 
 ### [Libyan leader Muammar Gaddafi gives a live address to the nation after rebels claim a number of victories in the 2011 Libyan civil war. ](/news/2011/08/15/libyan-leader-muammar-gaddafi-gives-a-live-address-to-the-nation-after-rebels-claim-a-number-of-victories-in-the-2011-libyan-civil-war.md)
@@ -12,7 +12,7 @@ A barrage of attacks struck Monday across Iraq, killing at least 84 people and w
 ### [Japan's economy shrinks by 0.3% in the April-June quarter confirming the country is in a recession caused in part by the 2011 Tohoku earthquake and tsunami and subsequent Fukushima Daiichi nuclear disaster. ](/news/2011/08/15/japan-s-economy-shrinks-by-0-3-in-the-april-june-quarter-confirming-the-country-is-in-a-recession-caused-in-part-by-the-2011-tahoku-earthq.md)
 _Context: Fukushima Daiichi nuclear disaster, Japan, Japanese economy, an earthquake and tsunami_
 
-### [Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens  went on a protest "stroll" in the southeastern city of Xiamen in June 2007. ](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.md)
+### [Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens went on a protest "stroll" in the southeastern city of Xiamen in June 2007. ](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.md)
 A protest in China shows the complications of the country&#39;s successes and failures
 
 ### [Google announces a proposed acquisition of Motorola Mobility. ](/news/2011/08/15/google-announces-a-proposed-acquisition-of-motorola-mobility.md)

@@ -1,9 +1,9 @@
 ## [2008-02-9](/news/2008/02/9/index.md)
 
-### [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007apresent-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md)
+### [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007-present-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md)
 _Context: Hollywood, Writers Guild of America strike (2007-present), movie studio_
 
-### [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md)
+### [ United States presidential election, 2008:. Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md)
 _Context: 2008, Governor of Arkansas, Kansas, Louisiana, Mike Huckabee, Republican, caucus, primary election_
 
 ### [ A suicide bomber kills 20 people at an opposition rally in Pakistan. ](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.md)

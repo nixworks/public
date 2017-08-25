@@ -21,7 +21,7 @@ George Tenet, the agency’s former director, failed to fully prepare for the th
 ### [ 2007 Lebanon conflict: Fatah al-Islam fighters battling the Lebanese army in a refugee camp have asked for a ceasefire to allow their families and remaining civilians to be evacuated. ](/news/2007/08/21/2007-lebanon-conflict-fatah-al-islam-fighters-battling-the-lebanese-army-in-a-refugee-camp-have-asked-for-a-ceasefire-to-allow-their-famil.md)
 _Context: 2007 Lebanon conflict, Fatah al-Islam, Lebanese Army_
 
-### [ Space Shuttle ''Endeavour''  lands safely at Kennedy Space Center at 12:32:29 EDT (16:32:29 UTC). ](/news/2007/08/21/space-shuttle-endeavour-lands-safely-at-kennedy-space-center-at-12-32-29-edt-16-32-29-utc.md)
+### [ Space Shuttle "Endeavour" lands safely at Kennedy Space Center at 12:32:29 EDT (16:32:29 UTC). ](/news/2007/08/21/space-shuttle-endeavour-lands-safely-at-kennedy-space-center-at-12-32-29-edt-16-32-29-utc.md)
 _Context: Kennedy Space Center, Space Shuttle ''Endeavour'', lands safely_
 
 ### [ Five thousand Dhaka University students in Bangladesh riot, resulting in major disruption to the university with 150 students being injured. ](/news/2007/08/21/five-thousand-dhaka-university-students-in-bangladesh-riot-resulting-in-major-disruption-to-the-university-with-150-students-being-injured.md)
@@ -30,7 +30,7 @@ _Context: Bangladesh, Dhaka University_
 ### [ Saif al-Islam Gaddafi, a son of Libyan leader Muammar Gaddafi, has called for independent institutions in Libya including a central bank, a high court and media. ](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.md)
 _Context: Libya, Muammar Gaddafi, Saif al-Islam Gaddafi, Supreme Court, central bank_
 
-### [ Hurricane Dean: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-p-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md)
+### [ Hurricane Dean:. Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md)
 _Context: Belize, Chetumal, Hurricane Dean, Mexico, Yucatn Peninsula_
 
 ### [ The governments of Angola and the Democratic Republic of the Congo are negotiating over a line demarcating each nation's respective rights to petroleum in the Atlantic Ocean. The DRC is expected to gain exploration rights to billions of untapped barrels worth of oil. ](/news/2007/08/21/the-governments-of-angola-and-the-democratic-republic-of-the-congo-are-negotiating-over-a-line-demarcating-each-nation-s-respective-rights.md)

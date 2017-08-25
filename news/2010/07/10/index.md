@@ -18,7 +18,7 @@ A ship with supplies for Gaza will dock in Egypt, officials say, following press
 ### [A new bill is introduced in the Israeli Knesset that would force Haredi Jewish schools to teach core subjects such as mathematics, science, English, and civics, or lose state funding. ](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.md)
 _Context: Israel, parliament in Israel, ultra-orthodox_
 
-### [Between 1.1 and 1.5 million people, according to organisers, and 56000 demonstrators, according to spanish protesters-counting specialized company ''Lynce'', demonstrate in central Barcelona demanding greater autonomy for Catalonia within Spain. ](/news/2010/07/10/between-1-1-and-1-5-million-people-according-to-organisers-and-56000-demonstrators-according-to-spanish-protesters-counting-specialized-c.md)
+### [Between 1.1 and 1.5 million people, according to organisers, and 56000 demonstrators, according to spanish protesters-counting specialized company "Lynce", demonstrate in central Barcelona demanding greater autonomy for Catalonia within Spain. ](/news/2010/07/10/between-1-1-and-1-5-million-people-according-to-organisers-and-56000-demonstrators-according-to-spanish-protesters-counting-specialized-c.md)
 More than a million people take part in a rally in north-eastern Spain seeking greater autonomy for the Catalan region.
 
 ### [A breakaway group from the National League for Democracy in Burma registers to participate in the general election later this year. ](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.md)
@@ -39,7 +39,7 @@ Leaders meet to form strategy to deal with results of referendum on separation.
 ### [The Rosetta probe makes a flyby past the 21 Lutetia asteroid to gather scientific data. ](/news/2010/07/10/the-rosetta-probe-makes-a-flyby-past-the-21-lutetia-asteroid-to-gather-scientific-data.md)
 _Context: ''Rosetta'' space probe, 21 Lutetia_
 
-### [BP is set to remove the containment cap over the destroyed Deepwater Horizon oil well in the Gulf of Mexico, and replace it with a bigger cap. Oil and gas will spew unrestricted from the well for an estimated four to seven days until the new cap is in place.  ](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.md)
+### [BP is set to remove the containment cap over the destroyed Deepwater Horizon oil well in the Gulf of Mexico, and replace it with a bigger cap. Oil and gas will spew unrestricted from the well for an estimated four to seven days until the new cap is in place. ](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.md)
 Underwater robots successfully remove a leaking cap as BP tries again to halt the Gulf of Mexico oil leak.
 
 ### [2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. ](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.md)

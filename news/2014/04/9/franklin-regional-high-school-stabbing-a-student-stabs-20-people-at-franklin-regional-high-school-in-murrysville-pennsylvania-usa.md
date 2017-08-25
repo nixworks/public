@@ -1,0 +1,23 @@
+### [2014-04-9](/news/2014/04/9/index.md)
+
+# Franklin Regional High School stabbing.. A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. 
+
+The stabbings were reported at Franklin Regional High School, in the suburb of Murrysville.
+
+
+### Source:
+
+1. [NBC](http://www.nbcnews.com/news/us-news/school-stabbing-spree-20-hurt-pittsburgh-area-attack-n75536)
+
+### Related:
+
+1. [Shooting of Robert Godwin. The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/shooting-of-robert-godwin-the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-ex.md) _Context: Pennsylvania_
+2. [Authorities in the state of Pennsylvania discover the Seoul virus, a member of the Hantavirus family, in a contained scientific breeding-facility for rats. ](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.md) _Context: Pennsylvania_
+3. [2016 United States presidential election recounts. Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. ](/news/2016/12/3/2016-united-states-presidential-election-recounts-jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in.md) _Context: Pennsylvania_
+4. [2016 United States presidential election recount and audit. The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-s.md) _Context: Pennsylvania_
+5. [2016 United States presidential election recount and audit. The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-republican-president-elect-donald-trump-has-called-the-planned.md) _Context: Pennsylvania_
+6. [2016 United States presidential election recount and audit. The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/2016-united-states-presidential-election-recount-and-audit-the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recoun.md) _Context: Pennsylvania_
+7. [United States presidential election, 2016. Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. ](/news/2016/11/25/united-states-presidential-election-2016-jill-stein-s-campaign-to-hold-recounts-in-michigan-pennsylvania-and-wisconsin-receives-grassroo.md) _Context: Pennsylvania_
+8. [United States presidential election, 2016. Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/united-states-presidential-election-2016-former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in.md) _Context: Pennsylvania_
+9. [United States elections, 2016. Four state Democratic Parties sue the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal" group founder Roger Stone for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/united-states-elections-2016-four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and.md) _Context: Pennsylvania_
+10. [Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. ](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.md) _Context: Pennsylvania_

@@ -1,6 +1,6 @@
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-# The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation.  
+# The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation. 
 
 
 

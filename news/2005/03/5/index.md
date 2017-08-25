@@ -6,7 +6,7 @@ _Context: Bashar al-Assad, Lebanon, President, Syria_
 ### [ Scientists flock to an area about 300|mi|km off the coast of U.S. state of Washington to study what appears to be an ongoing undersea volcanic eruption. Accompanying earthquakes measuring up to magnitude 4.0 have numbered thousands per day. ](/news/2005/03/5/scientists-flock-to-an-area-about-300-mi-km-off-the-coast-of-u-s-state-of-washington-to-study-what-appears-to-be-an-ongoing-undersea-volca.md)
 _Context: Richter scale, Scientist, U.S. state, Washington, earthquake, volcanic activity_
 
-### [ The South African film director Zola Maseko wins the top prize at the 2005 FESPACO African film festival for his film ''Drum''. ](/news/2005/03/5/the-south-african-film-director-zola-maseko-wins-the-top-prize-at-the-2005-fespaco-african-film-festival-for-his-film-drum.md)
+### [ The South African film director Zola Maseko wins the top prize at the 2005 FESPACO African film festival for his film "Drum". ](/news/2005/03/5/the-south-african-film-director-zola-maseko-wins-the-top-prize-at-the-2005-fespaco-african-film-festival-for-his-film-drum.md)
 _Context: Drum, FESPACO, South Africa, Zola Maseko_
 
 ### [ The Pakistani government is appealing to the Supreme Court of Pakistan after the Lahore High Court overturned the death sentences of five of the six men convicted for the alleged gang rape of Mukhtaran Bibi in a tribal feud. ](/news/2005/03/5/the-pakistani-government-is-appealing-to-the-supreme-court-of-pakistan-after-the-lahore-high-court-overturned-the-death-sentences-of-five-o.md)

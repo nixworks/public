@@ -24,13 +24,13 @@ _Context: China, Guantanamo Bay Detention Camp, Hozaifa Parhat, U.S. Appeals Cou
 ### [ The European Union agrees to new sanctions against Iran including a freeze on the assets of Bank Melli, Iran's largest bank, over the refusal to curb its nuclear program. ](/news/2008/06/23/the-european-union-agrees-to-new-sanctions-against-iran-including-a-freeze-on-the-assets-of-bank-melli-iran-s-largest-bank-over-the-refus.md)
 _Context: Bank Melli, European Union, Iran, nuclear program, sanctions_
 
-### [ Zimbabwean Electoral Crisis: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-p-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md)
+### [ Zimbabwean Electoral Crisis:. Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md)
 It will be impossible for Zimbabwe to hold a free and fair run-off election on Friday amid violent assaults on the opposition and such a poll will not legitimize the government of President Robert Mugabe, U.S. Secretary of State Condoleezza Rice said on Monday.
 
 ### [ The 2008 Wimbledon Championships begins in London. ](/news/2008/06/23/the-2008-wimbledon-championships-begins-in-london.md)
 _Context: 2008 Wimbledon Championships_
 
-### [ 2008 Pacific typhoon season: Typhoon Fengshen in the  An additional 28 survivors from the MV ''Princess of the Stars'' are found but there are still more than 800 missing from the vessel that sunk during Typhoon Fengshen. ](/news/2008/06/23/2008-pacific-typhoon-season-typhoon-fengshen-in-the-an-additional-28-survivors-from-the-mv-princess-of-the-stars-are-found-but-there.md)
+### [ 2008 Pacific typhoon season: Typhoon Fengshen in the Philippines. An additional 28 survivors from the MV "Princess of the Stars" are found but there are still more than 800 missing from the vessel that sunk during Typhoon Fengshen. ](/news/2008/06/23/2008-pacific-typhoon-season-typhoon-fengshen-in-the-philippines-an-additional-28-survivors-from-the-mv-princess-of-the-stars-are-found.md)
 Rescuers scoured theseas around a capsized ferry in the Philippines on Monday formore than 800 people missing after it sank two days ago, as theofficial death toll from a typhoon rose to about 160.
 
 ### [ An Australian air safety group claims that Yogyakarta International Airport was operating illegally with no valid license at the time Garuda Indonesia Flight 200 crashed, killing 21. They also accuse two other airports of similar violations and three official bodies of keeping it from public knowledge. ](/news/2008/06/23/an-australian-air-safety-group-claims-that-yogyakarta-international-airport-was-operating-illegally-with-no-valid-license-at-the-time-garud.md)

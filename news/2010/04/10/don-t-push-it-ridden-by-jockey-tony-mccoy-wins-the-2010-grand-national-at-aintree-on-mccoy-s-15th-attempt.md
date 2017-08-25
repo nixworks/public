@@ -1,6 +1,6 @@
 ### [2010-04-10](/news/2010/04/10/index.md)
 
-# ''Don't Push It'', ridden by jockey Tony McCoy, wins the 2010 Grand National at Aintree on McCoy's 15th attempt.  
+# "Don't Push It", ridden by jockey Tony McCoy, wins the 2010 Grand National at Aintree on McCoy's 15th attempt. 
 
 Tony McCoy has finally won the Grand National as Don&#039;t Push It - his 15th ride in the race - provided the champion jockey with a famous victory at Aintree.
 

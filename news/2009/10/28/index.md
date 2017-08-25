@@ -18,7 +18,7 @@ _Context: Germany, Heinrich Boere, Nazi, Netherlands_
 ### [ Ares I-X, the first test article for NASA's Ares I rocket, launches successfully from Launch Complex 39B at Kennedy Space Center in Florida on a sub-orbital test flight. ](/news/2009/10/28/ares-i-x-the-first-test-article-for-nasa-s-ares-i-rocket-launches-successfully-from-launch-complex-39b-at-kennedy-space-center-in-florida.md)
 _Context: Ares I, Ares I-X, Florida, Kennedy Space Center, Launch Complex 39B, NASA, sub-orbital_
 
-### [ The Lebanese army says it has found and deactivated four 107-mm rockets in the garden of a partly built house a day after a rocket fired from Houla hit the northern Israeli border town of Kiryat Shmona. This is the fifth time rocket attacks have been used to try to break the cease-fire.  ](/news/2009/10/28/the-lebanese-army-says-it-has-found-and-deactivated-four-107-mm-rockets-in-the-garden-of-a-partly-built-house-a-day-after-a-rocket-fired-fr.md)
+### [ The Lebanese army says it has found and deactivated four 107-mm rockets in the garden of a partly built house a day after a rocket fired from Houla hit the northern Israeli border town of Kiryat Shmona. This is the fifth time rocket attacks have been used to try to break the cease-fire. ](/news/2009/10/28/the-lebanese-army-says-it-has-found-and-deactivated-four-107-mm-rockets-in-the-garden-of-a-partly-built-house-a-day-after-a-rocket-fired-fr.md)
 The Lebanese army said on Wednesday it found and deactivated more rockets in an area from where a similar device had been fired into Israel.
 
 ### [ Chinese police rescue over 2,000 children in a six month campaign against human trafficking. ](/news/2009/10/28/chinese-police-rescue-over-2-000-children-in-a-six-month-campaign-against-human-trafficking.md)
@@ -45,7 +45,7 @@ _Context: Barack Obama, Matthew Shepard Act, United States, gay and bisexual men
 ### [ Federal agents attached to the FBI fatally shoot the leader of a Sunni Muslim group wanted on firearm charges in Detroit, USA. ](/news/2009/10/28/federal-agents-attached-to-the-fbi-fatally-shoot-the-leader-of-a-sunni-muslim-group-wanted-on-firearm-charges-in-detroit-usa.md)
 Federal authorities said that a leader of what they called a radical group was killed during an F.B.I. raid.
 
-### [ In an appearance before the House of Lords Communications Select Committee, BBC Director-General Mark Thompson denies that the appearance of British National Party leader Nick Griffin on ''Question Time'' was a bid for ratings. ](/news/2009/10/28/in-an-appearance-before-the-house-of-lords-communications-select-committee-bbc-director-general-mark-thompson-denies-that-the-appearance-o.md)
+### [ In an appearance before the House of Lords Communications Select Committee, BBC Director-General Mark Thompson denies that the appearance of British National Party leader Nick Griffin on "Question Time" was a bid for ratings. ](/news/2009/10/28/in-an-appearance-before-the-house-of-lords-communications-select-committee-bbc-director-general-mark-thompson-denies-that-the-appearance-o.md)
 The BNP could be invited on to Question Time up to once a year, according to the head of the BBC.
 
 ## [Previous Day...](/news/2009/10/27/index.md)

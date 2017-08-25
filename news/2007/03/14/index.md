@@ -39,7 +39,7 @@ _Context: 2006 riots, Nuku`alofa, Tonga_
 ### [ The U.S. state of Colorado adopts "Rocky Mountain High", written by John Denver, as its second official state song. ](/news/2007/03/14/the-u-s-state-of-colorado-adopts-rocky-mountain-high-written-by-john-denver-as-its-second-official-state-song.md)
 _Context: Colorado, John Denver, Rocky Mountain High, state song_
 
-### [ The trial against former media baron Conrad Black begins in Chicago.  He is accused of defrauding Hollinger's shareholders of millions of dollars. ](/news/2007/03/14/the-trial-against-former-media-baron-conrad-black-begins-in-chicago-he-is-accused-of-defrauding-hollinger-s-shareholders-of-millions-of-d.md)
+### [ The trial against former media baron Conrad Black begins in Chicago. He is accused of defrauding Hollinger's shareholders of millions of dollars. ](/news/2007/03/14/the-trial-against-former-media-baron-conrad-black-begins-in-chicago-he-is-accused-of-defrauding-hollinger-s-shareholders-of-millions-of-do.md)
 _Context: Conrad Black, Hollinger, media baron_
 
 ### [ The WWF declares a new species, the Bornean clouded leopard. ](/news/2007/03/14/the-wwf-declares-a-new-species-the-bornean-clouded-leopard.md)

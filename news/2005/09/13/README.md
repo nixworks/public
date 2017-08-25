@@ -9,13 +9,13 @@ _Context: 2005 fuel protests, Britain, petrol station_
 ### [ Sony recalls 3.5 million faulty PlayStation 2 power adapters. ](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.md)
 _Context: PlayStation 2, Sony_
 
-### [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush  at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-g.md)
+### [ President of the People's Republic of China Hu Jintao meets with U.S. President George W. Bush at the United Nations during the Leaders' Gathering in honor of the 60th Anniversary of the UN's founding. ](/news/2005/09/13/president-of-the-people-s-republic-of-china-hu-jintao-meets-with-u-s-president-george-w-bush-at-the-united-nations-during-the-leaders-ga.md)
 _Context: China, Chinese President, George W. Bush, Hu Jintao, United Nations, president_
 
 ### [ Chief Justice nominee John G. Roberts affirms before the Senate Judiciary Committee today his belief in a constitutional right to privacy, which underpins many Constitutional amendments (viz. 1, 4, 5, 9, 13 and 14) as well as Roe v. Wade. (This does not translate to support specifically for Roe v. Wade.) He answers questions regarding civil rights in wartime, torture and the role on international law in interpreting the Constitution. ](/news/2005/09/13/chief-justice-nominee-john-g-roberts-affirms-before-the-senate-judiciary-committee-today-his-belief-in-a-constitutional-right-to-privacy.md)
 John G. Roberts Jr., appearing before a Senate panel considering his nomination to be the new Chief Justice of the United States, answered questions about the right to privacy, the importance of precedence and Roe v. Wade in the opening round of questioning.
 
-### [ The Arthur Vining Davis Foundations added ''Dedicated to Strathening America's Future through Education''.](/news/2005/09/13/the-arthur-vining-davis-foundations-added-dedicated-to-strathening-america-s-future-through-education.md)
+### [ The Arthur Vining Davis Foundations added "Dedicated to Strathening America's Future through Education".](/news/2005/09/13/the-arthur-vining-davis-foundations-added-dedicated-to-strathening-america-s-future-through-education.md)
 _Context: The Arthur Vining Davis Foundations_
 
 ## [Previous Day...](/news/2005/09/12/index.md)

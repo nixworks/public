@@ -1,6 +1,6 @@
 ## [2012-02-28](/news/2012/02/28/index.md)
 
-### [2011-2012 Syrian uprising:The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011a2012-syrian-uprising-pthe-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-de.md)
+### [2011-2012 Syrian uprising:. The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011-2012-syrian-uprising-the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-d.md)
 UN rights chief condemns attacks on civilians and demands humanitarian access, prompting walkout by Syrian envoy.
 
 ### [Pakistani gunmen open fire on a passenger bus in Kohistan, killing 18. ](/news/2012/02/28/pakistani-gunmen-open-fire-on-a-passenger-bus-in-kohistan-killing-18.md)
@@ -33,7 +33,7 @@ Occupy London: anti-capitalist protesters evicted from St Paul&#039;s Cathedral.
 ### [Senator Olympia Snowe of Maine announces that she will not seek re-election in 2012. ](/news/2012/02/28/senator-olympia-snowe-of-maine-announces-that-she-will-not-seek-re-election-in-2012.md)
 The retirement of the Republican senator from Maine could reconfigure the race for control of the Senate.
 
-### [Two new species of prehistoric penguin are discovered - ''Kairuku grebneffi'' and ''Kairuku waitaki''.  Standing nearly 5ft tall, ''Kairuku grebneffi'' is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku.md)
+### [Two new species of prehistoric penguin are discovered - "Kairuku grebneffi" and "Kairuku waitaki". Standing nearly 5ft tall, "Kairuku grebneffi" is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku-grebne.md)
 The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.
 
 ## [Previous Day...](/news/2012/02/27/index.md)

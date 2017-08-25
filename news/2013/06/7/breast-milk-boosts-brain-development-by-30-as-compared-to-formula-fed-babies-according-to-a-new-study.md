@@ -12,4 +12,4 @@
 ### Related:
 
 1. [Chinese manufacturer Yili Group recalls baby formula after some products are discovered with high mercury levels. ](/news/2012/06/15/chinese-manufacturer-yili-group-recalls-baby-formula-after-some-products-are-discovered-with-high-mercury-levels.md) _Context: formula_
-2. [New guidelines published in the ''BMJ'' (''British Medical Journal'') call on mothers to begin weaning their babies off breast milk before six months, contradicting World Health Organization advice from 2001. ](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-medical-journal-call-on-mothers-to-begin-weaning-their-babies-off-breast-milk-before-s.md) _Context: Breast milk_
+2. [New guidelines published in the "BMJ" ("British Medical Journal") call on mothers to begin weaning their babies off breast milk before six months, contradicting World Health Organization advice from 2001. ](/news/2011/01/14/new-guidelines-published-in-the-bmj-british-medical-journal-call-on-mothers-to-begin-weaning-their-babies-off-breast-milk-before-six-m.md) _Context: Breast milk_

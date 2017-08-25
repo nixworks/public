@@ -1,9 +1,9 @@
 ## [2012-12-8](/news/2012/12/8/index.md)
 
-### [Syrian civil war:Russia arms Syria with Iskander missiles in response to NATO's stationing of Patriot missile defense systems in Turkey. ](/news/2012/12/8/syrian-civil-war-prussia-arms-syria-with-iskander-missiles-in-response-to-nato-s-stationing-of-patriot-missile-defense-systems-in-turkey.md)
+### [Syrian civil war:. Russia arms Syria with Iskander missiles in response to NATO's stationing of Patriot missile defense systems in Turkey. ](/news/2012/12/8/syrian-civil-war-russia-arms-syria-with-iskander-missiles-in-response-to-nato-s-stationing-of-patriot-missile-defense-systems-in-turkey.md)
 Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of the crisis in Syria, Russia delivered its first shipment of Iskander missiles to Syria. The superior Iskander can travel at hypersonic speed of over 1.3 miles per second (Mach 6-7) and has a range of over 280 miles with...
 
-### [2012 Egyptian protests:Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-ptens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md)
+### [2012 Egyptian protests:. Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/2012-egyptian-protests-tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md)
 The Egyptian opposition maintains protests outside the presidential palace in Cairo, as it rejects a call for dialogue by President Mohammed Morsi.
 
 ### [The President of the Philippines Benigno Aquino declares a state of national calamity in the country following Typhoon Bopha, which has claimed over 450 lives. ](/news/2012/12/8/the-president-of-the-philippines-benigno-aquino-declares-a-state-of-national-calamity-in-the-country-following-typhoon-bopha-which-has-clai.md)
@@ -30,7 +30,7 @@ Ghana has been forced to extend voting in its presidential election by another d
 ### [The Government of Burma apologises to Buddhist monks injured in a protest outside a copper mine last month. ](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.md)
 The Burmese government apologises to Buddhist monks for the injuries caused during a police operation at a copper mine.
 
-### [Politics of Italy:Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/politics-of-italy-pitalian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
+### [Politics of Italy:. Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/politics-of-italy-italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
 _Context: Italian, Italian Prime Minister, Mario Monti, Politics of Italy_
 
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)

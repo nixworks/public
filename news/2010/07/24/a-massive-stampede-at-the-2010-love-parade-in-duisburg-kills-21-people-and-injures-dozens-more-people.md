@@ -15,7 +15,7 @@ At least 19 people are killed in a stampede at the Love Parade dance music festi
 
 ### Related:
 
-1. [Love Parade stampede:Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-psurvivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _Context: Duisburg, Love Parade, yesterday's death stampede_
+1. [Love Parade stampede:. Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md) _Context: Duisburg, Love Parade, yesterday's death stampede_
 2. [Germany holds a memorial service for the 21 victims of the Love Parade disaster. ](/news/2010/07/31/germany-holds-a-memorial-service-for-the-21-victims-of-the-love-parade-disaster.md) _Context: Love Parade_
 3. [North Rhine-Westphalians party on the autobahn between Duisburg and Dortmund. ](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.md) _Context: Duisburg_
 4. [ Six Italians are found shot to death in the town of Duisburg, Germany. Police say they were connected to 'Ndrangheta. ](/news/2007/08/15/six-italians-are-found-shot-to-death-in-the-town-of-duisburg-germany-police-say-they-were-connected-to-ndrangheta.md) _Context: Duisburg_

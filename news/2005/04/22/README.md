@@ -24,7 +24,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Togolese interior minister Franois Boko wants to postpone next Sunday's presidential election, claiming that there is a threat of civil war. ECOWAS wants them to continue as scheduled. ](/news/2005/04/22/togolese-interior-minister-francois-boko-wants-to-postpone-next-sunday-s-presidential-election-claiming-that-there-is-a-threat-of-civil-wa.md)
 _Context: ECOWAS, Franois Boko, Togo, Togolese presidential election, civil war, interior minister_
 
-### [ Nepal releases 61 political prisoners, including the former deputy prime minister.  ](/news/2005/04/22/nepal-releases-61-political-prisoners-including-the-former-deputy-prime-minister.md)
+### [ Nepal releases 61 political prisoners, including the former deputy prime minister. ](/news/2005/04/22/nepal-releases-61-political-prisoners-including-the-former-deputy-prime-minister.md)
 _Context: Nepal, political prisoner_
 
 ### [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http://www.nytimes.com/2005/04/23/business/23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md)

@@ -1,12 +1,12 @@
 ## [2013-05-5](/news/2013/05/5/index.md)
 
-### [Syrian civil war:Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-pisraeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-he.md)
+### [Syrian civil war:. Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/syrian-civil-war-israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-h.md)
 Multiple explosions shake the suburbs of Damascus, with Syria accusing Israel of launching its second attack in two days.
 
-### [Communist insurgency in the Philippines:New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-pnew-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefigh.md)
+### [Communist insurgency in the Philippines:. New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/communist-insurgency-in-the-philippines-new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefig.md)
 Five soldiers were killed and two others were wounded yesterday during pursuit operations against communist New People’s Army (NPA) rebels who attacked a mining complex in Sipalay City, Negros Occidental late Friday. 
 
-### [War in Somalia (2009-present):Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/war-in-somalia-2009apresent-peight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-offi.md)
+### [War in Somalia (2009-present):. Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/war-in-somalia-2009-present-eight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-off.md)
 _Context: Mogadishu, Qatar, Somalia, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md)
@@ -15,7 +15,7 @@ At least three people were killed and over 200 injured as radical Islamists of H
 ### [One person is dead and another 57 are injured after a bomb detonates inside a Roman Catholic church in Arusha, Tanzania. ](/news/2013/05/5/one-person-is-dead-and-another-57-are-injured-after-a-bomb-detonates-inside-a-roman-catholic-church-in-arusha-tanzania.md)
 A suspected bomb attack on a new Catholic church in the northern Tanzanian town of Arusha killed at least one person and wounded dozens of others on Sunday, police said.
 
-### [Nigerian Sharia conflict:10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-p10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md)
+### [Nigerian Sharia conflict:. 10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md)
 _Context: Adamawa State, Nigeria, Nigerian Sharia conflict_
 
 ### [A limousine catches fire on the San Mateo Bridge in Hayward, California, United States killing five women and injuring four trapped inside. ](/news/2013/05/5/a-limousine-catches-fire-on-the-san-mateo-bridge-in-hayward-california-united-states-killing-five-women-and-injuring-four-trapped-inside.md)
@@ -24,7 +24,7 @@ _Context: California, Hayward, San Mateo Bridge, United States, limousine_
 ### [A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. ](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.md)
 _Context: Madrid, Spain, air show_
 
-### [2013 Savar building collapse:The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md)
+### [2013 Savar building collapse:. The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-622.md)
 _Context: 2013 Savar building collapse, Bangladesh_
 
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)

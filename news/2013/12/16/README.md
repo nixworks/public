@@ -1,15 +1,15 @@
 ## [2013-12-16](/news/2013/12/16/index.md)
 
-### [2013 South Sudanese political crisis:Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-pheavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md)
+### [2013 South Sudanese political crisis:. Heavy gunfire and explosions are reported in Juba, the capital of South Sudan. The government says it has quelled an attempted coup. ](/news/2013/12/16/2013-south-sudanese-political-crisis-heavy-gunfire-and-explosions-are-reported-in-juba-the-capital-of-south-sudan-the-government-says-it.md)
 _Context: 2013 South Sudanese political crisis, Juba, South Sudan_
 
-### [Syrian Civil War:The Syrian Observatory for Human Rights claims that barrel bomb airstrikes by the Syrian government on the city of Aleppo kill at least 76 people. ](/news/2013/12/16/syrian-civil-war-pthe-syrian-observatory-for-human-rights-claims-that-barrel-bomb-airstrikes-by-the-syrian-government-on-the-city-of-aleppo.md)
+### [Syrian Civil War:. The Syrian Observatory for Human Rights claims that barrel bomb airstrikes by the Syrian government on the city of Aleppo kill at least 76 people. ](/news/2013/12/16/syrian-civil-war-the-syrian-observatory-for-human-rights-claims-that-barrel-bomb-airstrikes-by-the-syrian-government-on-the-city-of-aleppo.md)
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights, barrel bomb_
 
 ### [The Israeli Army exchanges fire with the Lebanese Army after a suspected sniper attack occurs in the border killing an Israeli soldier. ](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.md)
 Military liaison officers met with representatives of the United Nations peacekeeping force after an Israeli soldier was killed and Israeli forces returned fire.
 
-### [The 'stars' of the reality show ''Sister Wives'' win a landmark ruling that struck out a portion of a polygamy law in Utah. ](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.md)
+### [The 'stars' of the reality show "Sister Wives" win a landmark ruling that struck out a portion of a polygamy law in Utah. ](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.md)
 _Context: Sister Wives, Utah, polygamy_
 
 ### [For an undisclosed price, Google acquires the robot-making company Boston Dynamics which had previously been contracted by the U.S. military. ](/news/2013/12/16/for-an-undisclosed-price-google-acquires-the-robot-making-company-boston-dynamics-which-had-previously-been-contracted-by-the-u-s-military.md)
@@ -21,7 +21,7 @@ Van passing underneath crushed as passenger bus falls from elevated highway in t
 ### [Four buildings are evacuated on the Harvard University campus after unconfirmed claims that bombs were planted in them. ](/news/2013/12/16/four-buildings-are-evacuated-on-the-harvard-university-campus-after-unconfirmed-claims-that-bombs-were-planted-in-them.md)
 Harvard University says all buildings are clear after four were evacuated on its Cambridge, Mass., campus earlier in the day over unconfirmed reports of explosives.
 
-### [American judge Richard J. Leon of the United States District Court for the District of Columbia rules that the National Security Agency collecting domestic phone records was unconstitutional in ''Klayman vs Obama''. A stay has been placed on the ruling pending an appeal by the US Government. ](/news/2013/12/16/american-judge-richard-j-leon-of-the-united-states-district-court-for-the-district-of-columbia-rules-that-the-national-security-agency-coll.md)
+### [American judge Richard J. Leon of the United States District Court for the District of Columbia rules that the National Security Agency collecting domestic phone records was unconstitutional in "Klayman vs Obama". A stay has been placed on the ruling pending an appeal by the US Government. ](/news/2013/12/16/american-judge-richard-j-leon-of-the-united-states-district-court-for-the-district-of-columbia-rules-that-the-national-security-agency-coll.md)
 _Context: Klayman, National Security Agency, Richard Leon, U.S. District Court for the District of Columbia_
 
 ### [An amnesty deal is being floated by the National Security Agency for the leaker Edward Snowden. ](/news/2013/12/16/an-amnesty-deal-is-being-floated-by-the-national-security-agency-for-the-leaker-edward-snowden.md)

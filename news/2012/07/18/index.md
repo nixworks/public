@@ -1,12 +1,12 @@
 ## [2012-07-18](/news/2012/07/18/index.md)
 
-### [2012 Burgas bus bombing:At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus  at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-pat-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-on.md)
+### [2012 Burgas bus bombing:. At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-o.md)
 Over 30 wounded in explosion on bus carrying Israelis inside Burgas airport; Netanyahu says, &#8216;All signs point to Iran&#8217;; Israeli medical teams fly to the scene
 
 ### [A bomb explodes in Pakistan's Orakzai Agency, killing at least 14 people. ](/news/2012/07/18/a-bomb-explodes-in-pakistan-s-orakzai-agency-killing-at-least-14-people.md)
 _Context: Orakzai Tribal Area, Pakistan_
 
-### [Syrian uprising (2011-present):97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011apresent-p97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md)
+### [Syrian uprising (2011-present):. 97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011-present-97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md)
 Nearly 100 people were killed on Wednesday in violence across Syria, including 16 in Damascus, said the Syrian Observatory for Human Rights.
 
 ### [The US city of San Bernardino, California, declares that it has an "immediate and severe" fiscal emergency allowing it to declare bankruptcy without negotiating with creditors. ](/news/2012/07/18/the-us-city-of-san-bernardino-california-declares-that-it-has-an-immediate-and-severe-fiscal-emergency-allowing-it-to-declare-bankruptcy.md)
@@ -33,7 +33,7 @@ Indonesia will send its front-line Sukhoi jet fighters to take part in Australia
 ### [In Mexico, the PRD candidate, Andres Manuel Lopez Obrador, accuses the Institutional Revolutionary Party (PRI) of using illicit funds and laundering money to finance the campaign of Enrique Pena Nieto, the president-elect in the recent presidential elections. The PRI denies the claims and retorts that Lopez Obrador is acting out of desperation and irrationality. ](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.md)
 _Context: Andres Manuel Lopez Obrador, Enrique Pena Nieto, Institutional Revolutionary Party, Mexican presidential elections, Party of the Democratic Revolution_
 
-### [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied ''de facto'' since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death.md)
+### [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied "de facto" since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death-h.md)
 NORTH Korea has made &quot;an important announcement&quot; - Kim Jong-un is the Supreme Leader.
 
 ## [Previous Day...](/news/2012/07/17/index.md)

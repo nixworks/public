@@ -12,7 +12,7 @@ _Context: Columbia, Holocaust, Mahmoud Ahmadinejad, President, September 11, 200
 ### [ The Secretary-General of the United Nations Ban Ki-Moon called for a new commitment by world leaders on climate change at a special United Nations session to discuss climate change. ](/news/2007/09/24/the-secretary-general-of-the-united-nations-ban-ki-moon-called-for-a-new-commitment-by-world-leaders-on-climate-change-at-a-special-united.md)
 _Context: Ban Ki-moon, Secretary General, United Nations, climate change_
 
-### [ Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract.  ](/news/2007/09/24/members-of-the-united-automobile-workers-union-walk-off-their-jobs-at-general-motors-plants-across-the-united-states-as-union-and-company-o.md)
+### [ Members of the United Automobile Workers Union walk off their jobs at General Motors plants across the United States as union and company officials fail to reach agreement on a new contract. ](/news/2007/09/24/members-of-the-united-automobile-workers-union-walk-off-their-jobs-at-general-motors-plants-across-the-united-states-as-union-and-company-o.md)
 The first national strike against G.M. by the auto workers union since 1970 began today after the two sides failed to reach an agreement on a contract.
 
 ### [ President Luiz Incio Lula da Silva says that he will defend Brazil's record on global climate change when he addresses the United Nations General Assembly this week. ](/news/2007/09/24/president-luiz-inacio-lula-da-silva-says-that-he-will-defend-brazil-s-record-on-global-climate-change-when-he-addresses-the-united-nations.md)

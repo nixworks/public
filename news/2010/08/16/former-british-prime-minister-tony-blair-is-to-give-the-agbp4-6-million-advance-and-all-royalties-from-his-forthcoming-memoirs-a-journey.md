@@ -1,0 +1,25 @@
+### [2010-08-16](/news/2010/08/16/index.md)
+
+# Former British Prime Minister Tony Blair is to give the GBP4.6 million advance and all royalties from his forthcoming memoirs, "A Journey", to a sports centre for badly injured soldiers; pacifists and the families of soldiers killed under his leadership call it "blood money". 
+
+Former Prime Minister Tony Blair is to donate the reported £4m advance and all royalties from his memoirs to a sports centre for wounded soldiers.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-10988478)
+2. [Sky News](http://news.sky.com/skynews/Home/Politics/Tony-Blairs-Donated-Book-Profits-To-The-Royal-British-Legion-Branded-Blood-Money/Article/201008315687765?lpos=Politics_First_Poilitics_Article_Teaser_Regi_0&lid=ARTICLE_15687765_Tony_Blairs_Donated_Book_Profits_To_The_Royal_British_Legion_Branded_Blood_Money)
+3. [The Guardian](http://www.guardian.co.uk/politics/2010/aug/16/tony-blair-british-legion-donation)
+
+### Related:
+
+1. [Former Prime Minister of the United Kingdom Tony Blair cancels a London book signing for his memoir, "A Journey," because of protests by the British National Party and anti-Iraq War demonstrators. ](/news/2010/09/6/former-prime-minister-of-the-united-kingdom-tony-blair-cancels-a-london-book-signing-for-his-memoir-a-journey-because-of-protests-by-the.md) _Context: A Journey, Tony Blair_
+2. [Tony Blair is met with a three-hundred person antiwar demonstration and has a small number of individuals throw objects (shoes, bottles and eggs), and encounters an attempted citizen's arrest for war crimes at Eason's in Dublin, Ireland, at his first public book signing for "A Journey"; four are arrested. Clashes between protesters and police lead to the closure of businesses and the Luas tram system. ](/news/2010/09/4/tony-blair-is-met-with-a-three-hundred-person-antiwar-demonstration-and-has-a-small-number-of-individuals-throw-objects-shoes-bottles-and.md) _Context: A Journey, Tony Blair_
+3. [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md) _Context: A Journey, Tony Blair_
+4. [Former Prime Minister of the United Kingdom Tony Blair resigns as the peace envoy of the Quartet on the Middle East. ](/news/2015/05/27/former-prime-minister-of-the-united-kingdom-tony-blair-resigns-as-the-peace-envoy-of-the-quartet-on-the-middle-east.md) _Context: Tony Blair_
+5. [Former British Prime Minister Tony Blair agrees to become Egyptian President Abdel Fattah el-Sisi's economic adviser as part of a program funded by the United Arab Emirates. ](/news/2014/07/2/former-british-prime-minister-tony-blair-agrees-to-become-egyptian-president-abdel-fattah-el-sisi-s-economic-adviser-as-part-of-a-program-fu.md) _Context: Tony Blair_
+6. [John Major, who was British Prime Minister between 1990 and 1997, tells the Leveson Inquiry that Rupert Murdoch warned him before the 1997 general election to switch policy on Europe or his newspapers would not support him. The Conservative Party subsequently lost power to Labour, with Murdoch's "The Sun" tabloid daily supporting Major's rival Tony Blair. ](/news/2012/06/12/john-major-who-was-british-prime-minister-between-1990-and-1997-tells-the-leveson-inquiry-that-rupert-murdoch-warned-him-before-the-1997-g.md) _Context: Tony Blair_
+7. [Leveson Inquiry:. Former British Prime Minister Tony Blair tells the Leveson Inquiry he had a "working relationship" with News Corporation chairman Rupert Murdoch, but that Murdoch did not influence policy during his time in office. ](/news/2012/05/28/leveson-inquiry-former-british-prime-minister-tony-blair-tells-the-leveson-inquiry-he-had-a-working-relationship-with-news-corporation-c.md) _Context: Tony Blair_
+8. [News Corporation scandal:. Tony Blair's former Director of Communications, Alastair Campbell, tells the Leveson Inquiry that there was no "express deal" between Blair and News Corporation CEO Rupert Murdoch in the run-up to the 1997 UK general election. ](/news/2012/05/14/news-corporation-scandal-tony-blair-s-former-director-of-communications-alastair-campbell-tells-the-leveson-inquiry-that-there-was-no-e.md) _Context: Tony Blair_
+9. [Alleged personal details of former Prime Minister of the United Kingdom Tony Blair are published online by computer hackers. ](/news/2011/06/25/alleged-personal-details-of-former-prime-minister-of-the-united-kingdom-tony-blair-are-published-online-by-computer-hackers.md) _Context: Tony Blair_
+10. [Iraq War: Jeremy Paxman faces being punished by the BBC after being judged to have violated the corporation's strict impartiality rules by writing an article for "The Guardian" in which he stated that Tony Blair's "lies" had led Britain to war with Iraq. ](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.md) _Context: Tony Blair_

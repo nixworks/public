@@ -13,4 +13,4 @@
 ### Related:
 
 1. [U.S. President Barack Obama signs the myRA at a visit to U.S. Steel's Irvin Works in metropolitan Pittsburgh. ](/news/2014/01/29/u-s-president-barack-obama-signs-the-myra-at-a-visit-to-u-s-steel-s-irvin-works-in-metropolitan-pittsburgh.md) _Context: U.S. Steel_
-2. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-c-4-9-billio.md) _Context: Hamilton, Ontario_
+2. [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-the-latest-bid-c-4-9-billio.md) _Context: Hamilton, Ontario_

@@ -1,6 +1,6 @@
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-#  A gunman opens fire at the New York-New York Hotel & Casino in Las Vegas, Nevada, wounding three before being captured.  
+#  A gunman opens fire at the New York-New York Hotel & Casino in Las Vegas, Nevada, wounding three before being captured. 
 
 
 

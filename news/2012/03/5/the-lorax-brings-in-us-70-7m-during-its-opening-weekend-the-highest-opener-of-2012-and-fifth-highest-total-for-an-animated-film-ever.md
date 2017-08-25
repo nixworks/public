@@ -1,6 +1,6 @@
 ### [2012-03-5](/news/2012/03/5/index.md)
 
-# ''The Lorax'' brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. 
+# "The Lorax" brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. 
 
 
 

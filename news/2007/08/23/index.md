@@ -1,6 +1,6 @@
 ## [2007-08-23](/news/2007/08/23/index.md)
 
-### [ ''Chororapithecus abyssinicus'', a 10-million-year-old fossil found in Ethiopia, may prove that the last common ancestor of gorillas and humans existed 2 million years earlier than previously thought.](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-old-fossil-found-in-ethiopia-may-prove-that-the-last-common-ancestor-of-gorillas-and-hu.md)
+### [ "Chororapithecus abyssinicus", a 10-million-year-old fossil found in Ethiopia, may prove that the last common ancestor of gorillas and humans existed 2 million years earlier than previously thought.](/news/2007/08/23/chororapithecus-abyssinicus-a-10-million-year-old-fossil-found-in-ethiopia-may-prove-that-the-last-common-ancestor-of-gorillas-and-huma.md)
 _Context: Chororapithecus abyssinicus, Ethiopia, gorilla, human_
 
 ### [ The Governor General of Jamaica Kenneth Octavius Hall announces that the Jamaican general election, 2007 is postponed to September 3 due to the impact of Hurricane Dean. ](/news/2007/08/23/the-governor-general-of-jamaica-kenneth-octavius-hall-announces-that-the-jamaican-general-election-2007-is-postponed-to-september-3-due-to.md)

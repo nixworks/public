@@ -21,7 +21,7 @@ _Context: Sri Lanka, Tamil Tigers, Trincomalee, maritime forces_
 ### [The Australian Department of Foreign Affairs and Trade warns of an imminent terrorist threat in Indonesia. ](/news/2007/07/8/the-australian-department-of-foreign-affairs-and-trade-warns-of-an-imminent-terrorist-threat-in-indonesia.md)
 _Context: Australia, Department of Foreign Affairs and Trade, Indonesia, terrorist_
 
-### [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md)
+### [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7-6-4-6-7-6-2-6-6-2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md)
 _Context: Bjorn Borg, Open Era, Rafael Nadal, Roger Federer, Wimbledon Championships_
 
 ### [Portia Simpson-Miller, prime minister of Jamaica, announces that the Jamaican general election, 2007 will be held on August 27th, 2007 at a rally for People's National Party in Kingston, Jamaica. ](/news/2007/07/8/portia-simpson-miller-prime-minister-of-jamaica-announces-that-the-jamaican-general-election-2007-will-be-held-on-august-27th-2007-at-a.md)

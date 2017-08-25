@@ -12,4 +12,4 @@ A 12-year-old boy armed with a shotgun opened fire at a middle school in New Mex
 
 ### Related:
 
-1. [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the ''Red Bull Stratos'' helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon.md) _Context: Roswell, New Mexico_
+1. [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md) _Context: Roswell, New Mexico_

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas.  The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of.md) _Context: Visaginas_
+1. [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of-t.md) _Context: Visaginas_

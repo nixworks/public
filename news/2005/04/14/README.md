@@ -9,7 +9,7 @@ _Context: al-Qaeda, ricin_
 ### [ Researchers from the University of Miami have published a study which claims that prisoners executed by lethal injection in the U.S. may have been aware of what was happening to them. ](/news/2005/04/14/researchers-from-the-university-of-miami-have-published-a-study-which-claims-that-prisoners-executed-by-lethal-injection-in-the-u-s-may-ha.md)
 _Context: University of Miami, capital punishment, lethal injection_
 
-### [ Israeli-Palestinian conflict: Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. ](/news/2005/04/14/israeliapalestinian-conflict-p-israel-kills-a-member-of-the-al-aqsa-martyrs-brigade-following-a-raid-into-the-palestinian-town-of-nablus.md)
+### [ Israeli-Palestinian conflict:. Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. ](/news/2005/04/14/israeli-palestinian-conflict-israel-kills-a-member-of-the-al-aqsa-martyrs-brigade-following-a-raid-into-the-palestinian-town-of-nablus.md)
 _Context: Al Aqsa Martyrs Brigade, Arab, Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Nablus, Palestinian, raid_
 
 ### [ Conflict in Iraq: At least 11 people have been killed following a double suicide bombing in the Iraqi capital of Baghdad. ](/news/2005/04/14/conflict-in-iraq-at-least-11-people-have-been-killed-following-a-double-suicide-bombing-in-the-iraqi-capital-of-baghdad.md)
@@ -18,7 +18,7 @@ _Context: Baghdad, Conflict in Iraq, Iraq, capital, suicide bomb_
 ### [ In Quito, Ecuador, riot police clash with demonstrators and strikers that protest against the government of president Lucio Gutierrez. Congress replaced the entire supreme court last December and has not come to an agreement with the political opposition. ](/news/2005/04/14/in-quito-ecuador-riot-police-clash-with-demonstrators-and-strikers-that-protest-against-the-government-of-president-lucio-gutia-c-rrez-con.md)
 Business news & Financial news from Reuters.com.
 
-### [ The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister.  ](/news/2005/04/14/the-czech-coalition-government-agrees-to-form-a-new-cabinet-jan-kohout-is-expected-to-succeed-stanislav-gross-as-the-new-prime-minister.md)
+### [ The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister. ](/news/2005/04/14/the-czech-coalition-government-agrees-to-form-a-new-cabinet-jan-kohout-is-expected-to-succeed-stanislav-gross-as-the-new-prime-minister.md)
 _Context: Czech Republic, Jan Kohout, Prime Minister, Stanislav Gross, governing coalition_
 
 ### [ Police in China arrest 15 people involved with illegal blood trade that may have contributed to the spread of AIDS. ](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.md)
@@ -30,7 +30,7 @@ The Latest International Human Rights News, Information, and Reports
 ### [ Three paparazzi who were pursuing Diana and Dodi Al-Fayed when they died face a new trial in France. ](/news/2005/04/14/three-paparazzi-who-were-pursuing-diana-and-dodi-al-fayed-when-they-died-face-a-new-trial-in-france.md)
 _Context: Dodi al Fayed, grandmother, paparazzi_
 
-### [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murrayadarling-basin-river-system-in-australia.md)
+### [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murray-darling-basin-river-system-in-australia.md)
 _Context: Murray-Darling basin, river system_
 
 ### [ The trial of Schapelle Corby, an Australian facing drug smuggling charges in Indonesia, is adjourned after she collapses in the Bali courtroom. ](/news/2005/04/14/the-trial-of-schapelle-corby-an-australian-facing-drug-smuggling-charges-in-indonesia-is-adjourned-after-she-collapses-in-the-bali-courtr.md)
@@ -51,7 +51,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### [ United States Attorney General Alberto Gonzales announces that law enforcement agencies have arrested 10,340 fugitives in Operation Falcon between April 4-10. ](/news/2005/04/14/united-states-attorney-general-alberto-gonzales-announces-that-law-enforcement-agencies-have-arrested-10-340-fugitives-in-operation-falcon.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
-### [ In Zimbabwe, two British journalists, ''Sunday Telegraph'' correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they.md)
+### [ In Zimbabwe, two British journalists, "Sunday Telegraph" correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they-w.md)
 _Context: Julian Simmonds, Sunday Telegraph, Toby Harnden, Zimbabwe, bail, visa-free travel_
 
 ### [ Three students of MIT successfully submit a paper "Rooter: A Methodology for the Typical Unification of Access Points and Redundancy" into World Multiconference on Systemics, Cybernetics and Informatics. The paper was made of computer-generated nonsense. ](/news/2005/04/14/three-students-of-mit-successfully-submit-a-paper-rooter-a-methodology-for-the-typical-unification-of-access-points-and-redundancy-into.md)

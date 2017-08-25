@@ -15,7 +15,7 @@ A hot air balloon crashes and catches fire in Slovenia, killing four people and 
 ### [A new, seemingly chronic but non-contagious, immunodeficiency disease is diagnosed since 2004, affecting mainly people of Asian genotype aged around 50. Most patients create interferon-gamma-blocking autoantibodies more frequently. Genetic factors are suspected but it would not "run in families". Also, something in the environment may trigger the disease. ](/news/2012/08/23/a-new-seemingly-chronic-but-non-contagious-immunodeficiency-disease-is-diagnosed-since-2004-affecting-mainly-people-of-asian-genotype-age.md)
 _Context: Asia, autoantibodies, chronic, contagious, disease, environment, genetic, genotype, immunodeficiency, interferon-gamma, new_
 
-### [The ''Waddenvereniging'' in the Netherlands expects the human-friendly starry smooth-hound shark to return to the Wadden Sea in a few years, after specimina were marked in the Oosterschelde and in another Zeeland part of the Rhine-Meuse-Scheldt delta. ](/news/2012/08/23/the-waddenvereniging-in-the-netherlands-expects-the-human-friendly-starry-smooth-hound-shark-to-return-to-the-wadden-sea-in-a-few-years.md)
+### [The "Waddenvereniging" in the Netherlands expects the human-friendly starry smooth-hound shark to return to the Wadden Sea in a few years, after specimina were marked in the Oosterschelde and in another Zeeland part of the Rhine-Meuse-Scheldt delta. ](/news/2012/08/23/the-waddenvereniging-in-the-netherlands-expects-the-human-friendly-starry-smooth-hound-shark-to-return-to-the-wadden-sea-in-a-few-years-a.md)
 _Context: Netherlands, Oosterschelde, Rhine-Meuse-Scheldt delta, Wadden Sea, Waddenvereniging, Zeeland, shark, specimina, starry smooth-hound_
 
 ### [Israel's President Shimon Peres stresses that circumcision is "at the core of Jewish identity", in a letter on a controversy in Germany over circumcision. ](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.md)
@@ -27,10 +27,10 @@ _Context: Baltasar Garzon, Julian Assange, London, Swedish_
 ### [Russia says that it is working closely with the Syrian government to establish guarantees that Assad won't move or use Syria's chemical weapons. ](/news/2012/08/23/russia-says-that-it-is-working-closely-with-the-syrian-government-to-establish-guarantees-that-assad-won-t-move-or-use-syria-s-chemical-weap.md)
 Speaking in an interview to The Associated Press, Deputy Foreign Minister Gennady Gatilov said Russia is working closely with the Assad regime to make sure its arsenal of chemical weapons is secure.
 
-### [Pakistan again officially protests against the U.S. drone strikes, calling them unlawful, against international law and a violation of Pakistan's sovereignty. Pakistan states emphatically that the attacks are "unacceptable". ](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.md)
+### [Pakistan again officially protests against the U.S. drone strikes, calling them unlawful, against international law and a violation of Pakistan-s sovereignty. Pakistan states emphatically that the attacks are "unacceptable". ](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.md)
 _Context: Pakistan, drones launch_
 
-### [Former Polly Peck tycoon Asil Nadir is jailed for 10 years for stealing PS29m ($46m) from the company. ](/news/2012/08/23/former-polly-peck-tycoon-asil-nadir-is-jailed-for-10-years-for-stealing-aps29m-46m-from-the-company.md)
+### [Former Polly Peck tycoon Asil Nadir is jailed for 10 years for stealing GBP29m ($46m) from the company. ](/news/2012/08/23/former-polly-peck-tycoon-asil-nadir-is-jailed-for-10-years-for-stealing-agbp29m-46m-from-the-company.md)
 Former fugitive tycoon Asil Nadir is jailed for 10 years for stealing nearly £29m from his Polly Peck business empire more than 20 years ago.
 
 ### [The 7th parole request of Mark David Chapman, murderer of former Beatle John Lennon, is denied. ](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.md)

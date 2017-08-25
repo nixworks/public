@@ -19,7 +19,7 @@ Anders Behring Breivik, who killed 77 people in a bomb blast and gun rampage in 
 _Context: California, Oakland, California, music video_
 
 ### [The Prime Minister of Thailand, Yingluck Shinawatra, is hospitalised in Bangkok with suspected food poisoning. ](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.md)
-_Context: Bangkok, Prime Minister of Thailand, Yingluck Shinawatra_
+_Context: Bangkok, Prime Minister, Yingluck Shinawatra_
 
 ## [Previous Day...](/news/2011/11/28/index.md)
 

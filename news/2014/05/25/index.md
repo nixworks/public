@@ -1,9 +1,9 @@
 ## [2014-05-25](/news/2014/05/25/index.md)
 
-### [Al-Qaeda insurgency in Yemen:The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-pthe-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
+### [Al-Qaeda insurgency in Yemen:. The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/al-qaeda-insurgency-in-yemen-the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
 _Context: Al-Qaeda insurgency in Yemen, Sanaa, Yemeni, al-Qaeda_
 
-### [Syrian Civil War:3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-p3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
+### [Syrian Civil War:. 3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
 _Context: Homs, Syria, Syrian Civil War_
 
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
@@ -18,22 +18,22 @@ _Context: Mahmoud Abbas, Palestinian President, Pope Francis, President, Shimon 
 ### [Lebanese security forces arrest Islamist militant leader Omar Bakri Muhammad. ](/news/2014/05/25/lebanese-security-forces-arrest-islamist-militant-leader-omar-bakri-muhammad.md)
 _Context: Lebanon, Omar Bakri Muhammad, radical Islamists_
 
-### [Colombian presidential election, 2014:Voters in Colombia go to the polls for the first round in the presidential election. Opposition candidate Oscar Ivan Zuluaga wins a plurality of votes and will face the incumbent Juan Manuel Santos in the second round. ](/news/2014/05/25/colombian-presidential-election-2014-pvoters-in-colombia-go-to-the-polls-for-the-first-round-in-the-presidential-election-opposition-candi.md)
+### [Colombian presidential election, 2014:. Voters in Colombia go to the polls for the first round in the presidential election. Opposition candidate Oscar Ivan Zuluaga wins a plurality of votes and will face the incumbent Juan Manuel Santos in the second round. ](/news/2014/05/25/colombian-presidential-election-2014-voters-in-colombia-go-to-the-polls-for-the-first-round-in-the-presidential-election-opposition-cand.md)
 _Context: Colombia, Juan Manuel Santos, Oscar Ivan Zuluaga, presidential election_
 
-### [Ukrainian presidential election, 2014:Voters in Ukraine go to the polls for the first round of voting in the presidential election amidst ongoing violence in the east of the country with exit polls indicating that businessman Petro Poroshenko is headed for victory. ](/news/2014/05/25/ukrainian-presidential-election-2014-pvoters-in-ukraine-go-to-the-polls-for-the-first-round-of-voting-in-the-presidential-election-amidst-o.md)
+### [Ukrainian presidential election, 2014:. Voters in Ukraine go to the polls for the first round of voting in the presidential election amidst ongoing violence in the east of the country with exit polls indicating that businessman Petro Poroshenko is headed for victory. ](/news/2014/05/25/ukrainian-presidential-election-2014-voters-in-ukraine-go-to-the-polls-for-the-first-round-of-voting-in-the-presidential-election-amidst.md)
 As Ukrainians vote for a new leader today, the people who live in Novgorodskoe are unlikely to turn out in big numbers.
 
-### [European Parliament election, 2014:Voters in 21 member states of the European Union go to the polls on the final day of voting. Far right, hard leftdate=June 2014 and Eurosceptic parties have performed strongly aided by a weak turnout. ](/news/2014/05/25/european-parliament-election-2014-pvoters-in-21-member-states-of-the-european-union-go-to-the-polls-on-the-final-day-of-voting-far-right.md)
+### [European Parliament election, 2014:. Voters in 21 member states of the European Union go to the polls on the final day of voting. Far right, hard leftdate=June 2014 and Eurosceptic parties have performed strongly aided by a weak turnout. ](/news/2014/05/25/european-parliament-election-2014-voters-in-21-member-states-of-the-european-union-go-to-the-polls-on-the-final-day-of-voting-far-right.md)
 By Luke Baker and Paul Taylor BRUSSELS (Reuters) - Marine Le Pen&#x27;s far right National Front scored a stunning first victory in European Parliament elections in France on Sunday as critics of the European Union registered a continent-wide protest vote against austerity and mass unemployment. Wit...
 
-### [Belgian federal election, 2014 and Belgian regional elections, 2014:Voters go to the polls to elect the members of the federal and regional parliaments, simultaneously with the European election. The country faces protracted negotiations on forming a federal government as Flemish nationalist N-VA wins in Flanders while the Socialist Party of Prime Minister Di Rupo remains the largest in Wallonia.](/news/2014/05/25/belgian-federal-election-2014-and-belgian-regional-elections-2014-pvoters-go-to-the-polls-to-elect-the-members-of-the-federal-and-regional.md)
+### [Belgian federal election, 2014 and Belgian regional elections, 2014:. Voters go to the polls to elect the members of the federal and regional parliaments, simultaneously with the European election. The country faces protracted negotiations on forming a federal government as Flemish nationalist N-VA wins in Flanders while the Socialist Party of Prime Minister Di Rupo remains the largest in Wallonia.](/news/2014/05/25/belgian-federal-election-2014-and-belgian-regional-elections-2014-voters-go-to-the-polls-to-elect-the-members-of-the-federal-and-regiona.md)
 On May 25 Belgium will hold its regional, federal and European elections. Like in 2010, the centre-right and Flemish nationalist New Flemish Alliance (Nieuw-Vlaamse Alliantie or N-VA) is expected to be…
 
-### [Lithuanian presidential election, 2014:Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-pvoters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-se.md)
+### [Lithuanian presidential election, 2014:. Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-voters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-s.md)
 _Context: Dalia Grybauskaite, Lithuania, Lithuanian presidential election, 2014_
 
-### [Greece votes in European and second-round local elections ](/news/2014/05/25/greece-votes-in-european-and-second-round-local-elections.md)
+### [Greek local elections, 2014. Greece votes in European and second-round local elections ](/news/2014/05/25/greek-local-elections-2014-greece-votes-in-european-and-second-round-local-elections.md)
 Greece votes in the European elections and the second round of local elections. Greek political parties have been playing on voters’ fears of more
 
 ### [Former communist leader of Poland from 1981 to 1989, Wojciech Jaruzelski dies at age 90. ](/news/2014/05/25/former-communist-leader-of-poland-from-1981-to-1989-wojciech-jaruzelski-dies-at-age-90.md)

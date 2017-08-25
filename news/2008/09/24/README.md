@@ -3,7 +3,7 @@
 ### [ At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. ](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.md)
 _Context: African Union, Islamist, Mogadishu, Somalia, militant_
 
-### [  President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md)
+### [ Subprime mortgage crisis. President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/subprime-mortgage-crisis-president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis.md)
 Barack Obama rejected John McCain’s call to halt the campaign for president during the financial crisis.
 
 ### [ Preliminary findings made for the American Geophysical Union that support the Clathrate gun hypothesis, indicate the possible release of millions of tons of methane, a greenhouse gas, from Arctic seabeds. ](/news/2008/09/24/preliminary-findings-made-for-the-american-geophysical-union-that-support-the-clathrate-gun-hypothesis-indicate-the-possible-release-of-mi.md)

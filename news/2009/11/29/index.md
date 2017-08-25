@@ -1,9 +1,9 @@
 ## [2009-11-29](/news/2009/11/29/index.md)
 
-### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on  glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)
+### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)
 _Context: Global warming, Mount Everest, Nepal, Retreat of glaciers since 1850_
 
-### [ Somali pirates capture the Greek owned oil tanker ''Maran Centaurus'' 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
+### [ Somali pirates capture the Greek owned oil tanker "Maran Centaurus" 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
 _Context: Greek, Somali pirates, Somalia, oil tanker_
 
 ### [ Uruguayan voters elect Broad Front candidate Jos Mujica as their new president. ](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.md)
@@ -24,7 +24,7 @@ Bad weather has resulted in flooding in parts of Dublin and Kildare and the Rive
 ### [ Voters in Switzerland approve a referendum to ban the construction of new minarets in the country. ](/news/2009/11/29/voters-in-switzerland-approve-a-referendum-to-ban-the-construction-of-new-minarets-in-the-country.md)
 To the great surprise of pollsters and the regret of the government, the Swiss on Sunday said yes to a ban on the construction of ...
 
-### [ Nuclear program of Iran: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-p-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
+### [ Nuclear program of Iran:. The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
 _Context: International Atomic Energy Agency, Iran, Iran and weapons of mass destruction, government, nuclear scientist, parliament_
 
 ### [ Russian police issue an appeal for witnesses following the Nevsky Express bombing. ](/news/2009/11/29/russian-police-issue-an-appeal-for-witnesses-following-the-nevsky-express-bombing.md)
@@ -48,7 +48,7 @@ Indian officials are investigating the leak of a radioactive substance into drin
 ### [ The Peruvian government apologizes to citizens of African origin for centuries of abuse. ](/news/2009/11/29/the-peruvian-government-apologizes-to-citizens-of-african-origin-for-centuries-of-abuse.md)
 _Context: African origin, Government of Peru, Peru_
 
-### [ Honduras holds its first general election five months after a ''coup d'tat'' ousted Manuel Zelaya as President. ](/news/2009/11/29/honduras-holds-its-first-general-election-five-months-after-a-coup-d-etat-ousted-manuel-zelaya-as-president.md)
+### [ Honduras holds its first general election five months after a "coup d'tat" ousted Manuel Zelaya as President. ](/news/2009/11/29/honduras-holds-its-first-general-election-five-months-after-a-coup-d-etat-ousted-manuel-zelaya-as-president.md)
 Hondurans are voting on Sunday for a new president, hoping to unlock a political paralysis months after a coup.
 
 ### [ Voters in Equatorial Guinea take part in a presidential election. ](/news/2009/11/29/voters-in-equatorial-guinea-take-part-in-a-presidential-election.md)

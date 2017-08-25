@@ -3,13 +3,13 @@
 ### [2011 Syrian uprising: Syrian forces mass along the Turkish border near where thousands of refugees are camped. ](/news/2011/06/23/2011-syrian-uprising-syrian-forces-mass-along-the-turkish-border-near-where-thousands-of-refugees-are-camped.md)
 Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,escalating tensions with Ankara as President Bashar al-Assaduses increasing military force to try to crush a popular revolt.
 
-### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
+### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010-2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
 _Context: Afghanistan's, Barack Obama, France, United States, president_
 
-### [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md)
+### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
 
 ### [Dozens of gay and lesbian couples tie knots under the new same-sex union laws in Brazil in a world record attempt for mass gay weddings. ](/news/2011/06/23/dozens-of-gay-and-lesbian-couples-tie-knots-under-the-new-same-sex-union-laws-in-brazil-in-a-world-record-attempt-for-mass-gay-weddings.md)
@@ -39,7 +39,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
 _Context: 2011 Pacific typhoon season, China, Guangdong province, tropical storm_
 
-### [2011 Missouri River floods:U.S. nuclear regulators say two  nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-pu-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
+### [2011 Missouri River floods:. U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.
 
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)
@@ -81,7 +81,7 @@ _Context: Barack Obama, New York City, gay and bisexual men, president_
 ### [The New Jersey General Assembly passes a bill overhauling the health and pension benefits of public employees. ](/news/2011/06/23/the-new-jersey-general-assembly-passes-a-bill-overhauling-the-health-and-pension-benefits-of-public-employees.md)
 After three hours of debate, the bill overhauling public worker pension and benefits passed 46-32 
 
-### [A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous ''E. coli'' strains. ](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.md)
+### [A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous "E. coli" strains. ](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.md)
 _Context: E. coli, E. coli blamed for 46 deaths_
 
 ## [Previous Day...](/news/2011/06/22/index.md)

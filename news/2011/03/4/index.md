@@ -1,6 +1,6 @@
 ## [2011-03-4](/news/2011/03/4/index.md)
 
-### [2011 Libyan civil war:The United Kingdom Foreign and Commonwealth Office is investigating claims that a man from the English city of Manchester has been killed in the 2011 Libyan civil war. ](/news/2011/03/4/2011-libyan-civil-war-pthe-united-kingdom-foreign-and-commonwealth-office-is-investigating-claims-that-a-man-from-the-english-city-of-manche.md)
+### [2011 Libyan civil war:. The United Kingdom Foreign and Commonwealth Office is investigating claims that a man from the English city of Manchester has been killed in the 2011 Libyan civil war. ](/news/2011/03/4/2011-libyan-civil-war-the-united-kingdom-foreign-and-commonwealth-office-is-investigating-claims-that-a-man-from-the-english-city-of-manch.md)
 Libyan forces loyal to leader Muammar Gaddafi fought their way into a town near the capital that has for days defied his rule, killing a rebel commander and pinning fighters into pockets of resistance.
 
 ### [A bomb explodes outside a mosque in Peshawar in the Pakistani province of Khyber-Pakhtunkhwa with casualties feared. ](/news/2011/03/4/a-bomb-explodes-outside-a-mosque-in-peshawar-in-the-pakistani-province-of-khyber-pakhtunkhwa-with-casualties-feared.md)
@@ -15,7 +15,7 @@ Protesters in Alexandria enter state security headquarters, saying officers dest
 ### [Fifty-three African Union peacekeepers were killed in fighting in Somalia. ](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.md)
 _Context: African Union, Somalia_
 
-### [The Broadway production ''Spider-Man: Turn Off the Dark'' is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osh.md)
+### [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md)
 _Context: Broadway, OSHA, Spider-Man: Turn Off the Dark, occupational safety and health_
 
 ### [The marketing chief at Research in Motion, the Canadian company best known for the BlackBerry smart phone, is leaving. This surprise announcement concerning Keith Pardy may have an impact on the launch of a new product, the PlayBook tablet. ](/news/2011/03/4/the-marketing-chief-at-research-in-motion-the-canadian-company-best-known-for-the-blackberry-smart-phone-is-leaving-this-surprise-announc.md)
@@ -51,7 +51,7 @@ _Context: China_
 ### [Japan's Prime Minister Naoto Kan apologises over a fundraising scandal. ](/news/2011/03/4/japan-s-prime-minister-naoto-kan-apologises-over-a-fundraising-scandal.md)
 _Context: Japan, Naoto Kan_
 
-### [Following a Yes vote in the referendum held across Wales on 3 March 2011, the Welsh Assembly obtains primary law-making powers, making it possible for it to legislate without having to consult the United Kingdom parliament, nor the Secretary of State for Wales in 20 previously devolved areas of legislation.  ](/news/2011/03/4/following-a-yes-vote-in-the-referendum-held-across-wales-on-3-march-2011-the-welsh-assembly-obtains-primary-law-making-powers-making-it-po.md)
+### [Following a Yes vote in the referendum held across Wales on 3 March 2011, the Welsh Assembly obtains primary law-making powers, making it possible for it to legislate without having to consult the United Kingdom parliament, nor the Secretary of State for Wales in 20 previously devolved areas of legislation. ](/news/2011/03/4/following-a-yes-vote-in-the-referendum-held-across-wales-on-3-march-2011-the-welsh-assembly-obtains-primary-law-making-powers-making-it-po.md)
 Wales says a resounding Yes in the referendum on direct law-making powers for the assembly.
 
 ### [The British Labour Party retains the seat of Barnsley Central following a by-election. The Lib Dems, who had come second at the 2010 general election slump to sixth place behind the British National Party and UKIP. ](/news/2011/03/4/the-british-labour-party-retains-the-seat-of-barnsley-central-following-a-by-election-the-lib-dems-who-had-come-second-at-the-2010-general.md)

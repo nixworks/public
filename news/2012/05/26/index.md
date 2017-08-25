@@ -1,6 +1,6 @@
 ## [2012-05-26](/news/2012/05/26/index.md)
 
-### [War in Afghanistan:CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-pcnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md)
+### [War in Afghanistan:. CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md)
 A sombre milestone has been reached in the Afghanistan war after an American sailor became the 3000th member of the Nato coalition to lose his life.
 
 ### [Two rebel groups in northern Mali, Ansar Dine and the National Movement for the Liberation of the Azawad join forces to form an independent Islamic state in the territory they occupy. ](/news/2012/05/26/two-rebel-groups-in-northern-mali-ansar-dine-and-the-national-movement-for-the-liberation-of-the-azawad-join-forces-to-form-an-independent.md)
@@ -9,7 +9,7 @@ _Context: Ansar Dine, Islamic State, Mali, National Movement for the Liberation 
 ### [There are widespread reports of at least 92 people being killed in the village of Houla in Syria Homs Governorate. ](/news/2012/05/26/there-are-widespread-reports-of-at-least-92-people-being-killed-in-the-village-of-houla-in-syria-homs-governorate.md)
 Calls for Western military action against Syria intensified last night after grisly footage of the bodies of dozens of children killed in fresh violence laid bare the failure of the United Nations-brokered peace plan.
 
-### [Swedish pop music singer Loreen wins the Eurovision Song Contest 2012 with her song ''Euphoria''. ](/news/2012/05/26/swedish-pop-music-singer-loreen-wins-the-eurovision-song-contest-2012-with-her-song-euphoria.md)
+### [Swedish pop music singer Loreen wins the Eurovision Song Contest 2012 with her song "Euphoria". ](/news/2012/05/26/swedish-pop-music-singer-loreen-wins-the-eurovision-song-contest-2012-with-her-song-euphoria.md)
 Sweden&#039;s Loreen wins Eurovision in Azerbaijan before a television audience of 100 million.
 
 ### [At least six people are dead and another six missing after a landslide at an illegal gold mine in the Bogor district in Indonesia's West Java area. ](/news/2012/05/26/at-least-six-people-are-dead-and-another-six-missing-after-a-landslide-at-an-illegal-gold-mine-in-the-bogor-district-in-indonesia-s-west-jav.md)
@@ -33,7 +33,7 @@ _Context: Miami cannibal attack_
 ### [Voters in Lesotho go to the polls for a general election with a close result expected. ](/news/2012/05/26/voters-in-lesotho-go-to-the-polls-for-a-general-election-with-a-close-result-expected.md)
 _Context: Lesotho, general election_
 
-### [In Singapore, the Hougang by-election conclude with almost 22,000 voters casting ballots.  Png Eng Huat of the Workers' Party emerged as the winner with 62.08% of the valid votes cast. This was the first Singaporean by-election after over 19 years. ](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.md)
+### [In Singapore, the Hougang by-election conclude with almost 22,000 voters casting ballots. Png Eng Huat of the Workers' Party emerged as the winner with 62.08% of the valid votes cast. This was the first Singaporean by-election after over 19 years. ](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.md)
 _Context: Hougang by-election, Png Eng Huat, Singapore, Workers' Party_
 
 ## [Previous Day...](/news/2012/05/25/index.md)

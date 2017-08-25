@@ -1,0 +1,23 @@
+### [2017-02-9](/news/2017/02/9/index.md)
+
+# Syrian Civil War. Battle of al-Bab. At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. 
+
+
+
+
+### Source:
+
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/russia-turkey-air-strike-soldiers-killed/28300387.html)
+
+### Related:
+
+1. [Syrian Civil War. Battle of al-Bab. Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-civil-war-battle-of-al-bab-syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-h.md) _Context: Battle of al-Bab, Syrian Civil War, Turkish troops, al-Bab_
+2. [Syrian Civil War. The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/syrian-civil-war-the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-k.md) _Context: Russia, Syria, Syrian Civil War_
+3. [Syrian Civil War. Military intervention against ISIL. The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/syrian-civil-war-military-intervention-against-isil-the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria.md) _Context: Russia, Syria, Syrian Civil War_
+4. [Syrian Civil War. After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/syrian-civil-war-after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-air.md) _Context: Russia, Syria, Syrian Civil War_
+5. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Russia, Syria, Syrian Civil War_
+6. [Syrian Civil War. Syrian rebels, with backing from the Turkish Armed Forces, advance on ISIL-held al-Bab, capturing the outskirts of the town. ](/news/2017/02/8/syrian-civil-war-syrian-rebels-with-backing-from-the-turkish-armed-forces-advance-on-isil-held-al-bab-capturing-the-outskirts-of-the-tow.md) _Context: Syrian Civil War, Turkish troops, al-Bab_
+7. [Syrian Civil War. American-led intervention in Syria. At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/syrian-civil-war-american-led-intervention-in-syria-at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-f.md) _Context: Syrian Civil War, Turkish troops, al-Bab_
+8. [Syrian Civil War. Battle of al-Bab. The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/syrian-civil-war-battle-of-al-bab-the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _Context: Battle of al-Bab, Syrian Civil War, al-Bab_
+9. [Syrian Civil War. The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/syrian-civil-war-the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-eff.md) _Context: Russia, Syria, Syrian Civil War_
+10. [Syrian Civil War. Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/syrian-civil-war-russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ce.md) _Context: Russia, Syria, Syrian Civil War_

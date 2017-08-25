@@ -1,0 +1,25 @@
+### [2014-05-19](/news/2014/05/19/index.md)
+
+# 2014 pro-Russian unrest in Ukraine:. Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. 
+
+
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-27467807)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/nato-sees-no-signs-of-russian-troops-withdrawal-from-ukrainian-border-for-now-348442.html)
+3. [New York Times](http://www.nytimes.com/2014/05/20/world/europe/kremlin-announces-ukraine-pullback-but-nato-doesnt-see-it.html)
+
+### Related:
+
+1. [2014 pro-Russian unrest in Ukraine. Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/2014-pro-russian-unrest-in-ukraine-vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-th.md) _Context: 2014 pro-Russian unrest in Ukraine, Russian President Vladimir Putin, Vladimir Putin_
+2. [2014 pro-Russian unrest in Ukraine:. The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/2014-pro-russian-unrest-in-ukraine-the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-b.md) _Context: 2014 pro-Russian unrest in Ukraine, Russian President Vladimir Putin, Vladimir Putin_
+3. [2014 pro-Russian unrest in Ukraine:. Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-e.md) _Context: 2014 pro-Russian unrest in Ukraine, Russian President Vladimir Putin, Vladimir Putin_
+4. [2017 G20 Hamburg summit. Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/2017-g20-hamburg-summit-leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-presi.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+5. [Russia and the United Nations. Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russia-and-the-united-nations-russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+6. [Philippines-Russia relations. Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippines-russia-relations-philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-at.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+7. [Russia-United States relations. When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump, raised the possibility of extending the 2010 New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump declined, stating that this treaty is a bad deal for the United States. ](/news/2017/02/9/russia-united-states-relations-when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-tru.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+8. [Women in Russia. President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/women-in-russia-president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+9. [Russian President Vladimir Putin signs a symbolic order to withdraw Russia's signature from the Rome Statute of the International Criminal Court (ICC) amid calls by pro-rebel western Non-governmental organisations for an investigation into alleged Russian war crimes in Syria. ](/news/2016/11/16/russian-president-vladimir-putin-signs-a-symbolic-order-to-withdraw-russia-s-signature-from-the-rome-statute-of-the-international-criminal-c.md) _Context: Russian President Vladimir Putin, Vladimir Putin_
+10. [2016 G20 Hangzhou summit. U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/2016-g20-hangzhou-summit-u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syria.md) _Context: Russian President Vladimir Putin, Vladimir Putin_

@@ -1,15 +1,15 @@
 ## [2014-02-11](/news/2014/02/11/index.md)
 
-### [Iraqi insurgency (post-U.S withdraw):16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-p16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipeline.md)
+### [Iraqi insurgency (post-U.S withdraw):. 16 Iraqi soldiers are killed by militants in an attack on military outposts protecting an oil pipeline in northern Iraq. ](/news/2014/02/11/iraqi-insurgency-post-u-s-withdraw-16-iraqi-soldiers-are-killed-by-militants-in-an-attack-on-military-outposts-protecting-an-oil-pipelin.md)
 Militants in pick-up trucks ambushed Iraqi army outposts protecting a major oil export pipeline in the north of the country overnight, killing at least 16 soldiers by shooting them and slitting their throats, security and medical sources said.
 
-### [War in North-West Pakistan:At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-pat-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md)
+### [War in North-West Pakistan:. At least 11 people are killed after a grenade is thrown into a movie theatre in the city of Peshawar. ](/news/2014/02/11/war-in-north-west-pakistan-at-least-11-people-are-killed-after-a-grenade-is-thrown-into-a-movie-theatre-in-the-city-of-peshawar.md)
 _Context: Peshawar, War in North-West Pakistan_
 
-### [2013-14 Australian bushfire season:Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013a14-australian-bushfire-season-pbushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md)
+### [2013-14 Australian bushfire season:. Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013-14-australian-bushfire-season-bushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md)
 _Context: 2013-14 Australian bushfire season, Victoria_
 
-### [2013-14 United Kingdom floods:The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-pthe-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-ground.md)
+### [2013-14 United Kingdom floods:. The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groun.md)
 Some 1.6 million properties across Britain are now at risk of groundwater flooding and there is no end in sight, an expert says.
 
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)

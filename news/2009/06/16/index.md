@@ -1,6 +1,6 @@
 ## [2009-06-16](/news/2009/06/16/index.md)
 
-### [  The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md)
+### [ Iran. The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/iran-the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md)
 Authorities in Iran have banned foreign media from covering &#39;unauthorised&#39; rallies in Tehran.
 
 ### [ The state funeral in Libreville of former President of Gabon Omar Bongo is attended by dignitaries from 40 nations. ](/news/2009/06/16/the-state-funeral-in-libreville-of-former-president-of-gabon-omar-bongo-is-attended-by-dignitaries-from-40-nations.md)

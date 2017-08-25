@@ -6,8 +6,8 @@ _Context: Hans Morten Hansen, Norwegian, stand-up comedian_
 ### [A spectator commits suicide during a concert by The Swell Season in the U.S. state of California. ](/news/2010/08/20/a-spectator-commits-suicide-during-a-concert-by-the-swell-season-in-the-u-s-state-of-california.md)
 Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said they are &quot;shocked and saddened&quot; by the news that&hellip;
 
-### [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. ](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md)
-Singer downed beer and vodka before hanging himself with belt, finds inquest
+### [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. [http://www.nme.com/news/ou-est-le-swimming-pool/52576 "(NME)"]](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md)
+_Context: Belgium, Britain, Ou Est Le Swimming Pool, Pukkelpop, synthpop_
 
 ### [Novelist A. S. Byatt and critic John Carey win the James Tait Black Memorial Prizes, Britain's oldest literary awards. ](/news/2010/08/20/novelist-a-s-byatt-and-critic-john-carey-win-the-james-tait-black-memorial-prizes-britain-s-oldest-literary-awards.md)
 _Context: A. S. Byatt, James Tait Black Memorial Prize, John Carey_
@@ -36,10 +36,10 @@ An air traffic control problem delays hundreds of flights in northern Europe ove
 ### [For failure to deal with the recent wildfires the head of Russia's forestry agency is fired by Vladimir Putin and replaced with his deputy. ](/news/2010/08/20/for-failure-to-deal-with-the-recent-wildfires-the-head-of-russia-s-forestry-agency-is-fired-by-vladimir-putin-and-replaced-with-his-deputy.md)
 Russian Prime Minister Vladimir Putin sacks the head of the forestry agency for failing to deal adequately with recent wildfires.
 
-### [2010 Pakistan floods:After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-pafter-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very-w.md)
+### [2010 Pakistan floods:. After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very.md)
 Pakistan has welcomed flood aid from its neighbour India, as the countries look to improve their tense relations.
 
-### [Gas leak in a hardware store in Santa Cruz, Chile produces a massive evacuation in the surrounding area. (''Wikinews'')](/news/2010/08/20/gas-leak-in-a-hardware-store-in-santa-cruz-chile-produces-a-massive-evacuation-in-the-surrounding-area-wikinews.md)
+### [Gas leak in a hardware store in Santa Cruz, Chile produces a massive evacuation in the surrounding area. ("Wikinews")](/news/2010/08/20/gas-leak-in-a-hardware-store-in-santa-cruz-chile-produces-a-massive-evacuation-in-the-surrounding-area-wikinews.md)
 _Context: (''Wikinews''), Chile, Santa Cruz_
 
 ### [France continues deporting Romani as the Vatican condemns this act. ](/news/2010/08/20/france-continues-deporting-romani-as-the-vatican-condemns-this-act.md)
@@ -87,7 +87,7 @@ The last of the three inmates who escaped from an Arizona prison was captured wi
 ### [A man sues game-maker NCsoft, stating he would not have begun to play one of their games, Lineage II, if he had known it was addictive and claims it has left him unable to function. ](/news/2010/08/20/a-man-sues-game-maker-ncsoft-stating-he-would-not-have-begun-to-play-one-of-their-games-lineage-ii-if-he-had-known-it-was-addictive-and-c.md)
 _Context: Lineage II, NCsoft_
 
-### [Solomon Islands general election, 2010:The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/solomon-islands-general-election-2010-pthe-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands-f.md)
+### [Solomon Islands general election, 2010:. The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/solomon-islands-general-election-2010-the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands.md)
 _Context: 2010 general election, Danny Philip, Democratic Party, Foreign Minister, Prime Minister of the Solomon Islands, Solomon Islands, Steve Abana_
 
 ### [Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. ](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.md)
@@ -117,13 +117,13 @@ _Context: recent election_
 ### [The world's first solar-diesel power station opens in Marble Bar, Western Australia. ](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-opens-in-marble-bar-western-australia.md)
 _Context: Marble Bar, Solar-powered, Western Australia, diesel fuel, power station_
 
-### [Scientists publish a report in the ''Journal of Evolutionary Biology'' about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http://www.bbc.co.uk/news/science-environment-11023530 (BBC)] 10.1111/j.1420-9101.2010.02074.x|(''J. Evol. Biol.'')](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-spec.md)
+### [Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http://www.bbc.co.uk/news/science-environment-11023530 (BBC)] 10.1111/j.1420-9101.2010.02074.x|("J. Evol. Biol.")](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-specie.md)
 _Context: Chernobyl, DNA mutation, Journal of Evolutionary Biology, mitochondrial DNA, species_
 
-### [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http://www.telegraph.co.uk/health/healthnews/7953967/Ketamine-is-magic-drug-for-depression.html (''The Daily Telegraph'')] 10.1126/science.1190287|(''Science'')](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md)
+### [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http://www.telegraph.co.uk/health/healthnews/7953967/Ketamine-is-magic-drug-for-depression.html ("The Daily Telegraph")] 10.1126/science.1190287|("Science")](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md)
 _Context: ketamine, mTOR, nervous system, synapse_
 
-### [A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http://today.msnbc.msn.com/id/38763223/ns/health-kids_and_parenting/ (MSNBC)] 10.1289/ehp.1002056|(''Env. Health Persp.'')](/news/2010/08/20/a-study-links-the-risk-of-attention-deficit-hyperactivity-disorder-to-pesticide-exposure-before-birth-http-today-msnbc-msn-com-id-387632.md)
+### [A study links the risk of Attention-deficit hyperactivity disorder to pesticide exposure before birth. [http://today.msnbc.msn.com/id/38763223/ns/health-kids_and_parenting/ (MSNBC)] 10.1289/ehp.1002056|("Env. Health Persp.")](/news/2010/08/20/a-study-links-the-risk-of-attention-deficit-hyperactivity-disorder-to-pesticide-exposure-before-birth-http-today-msnbc-msn-com-id-387632.md)
 _Context: Attention-deficit hyperactivity disorder, pesticides_
 
 ## [Previous Day...](/news/2010/08/19/index.md)

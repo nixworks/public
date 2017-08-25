@@ -15,7 +15,7 @@ A bomb exploded outside a court building in central Athens and a smaller device 
 ### [A bomb explodes at the Greek Embassy in Buenos Aires; there are no injuries. Some windows are broken. ](/news/2010/12/30/a-bomb-explodes-at-the-greek-embassy-in-buenos-aires-there-are-no-injuries-some-windows-are-broken.md)
 _Context: Buenos Aires_
 
-### [North Korea's state-run television broadcasts its first Western film, ''Bend It Like Beckham''. ](/news/2010/12/30/north-korea-s-state-run-television-broadcasts-its-first-western-film-bend-it-like-beckham.md)
+### [North Korea's state-run television broadcasts its first Western film, "Bend It Like Beckham". ](/news/2010/12/30/north-korea-s-state-run-television-broadcasts-its-first-western-film-bend-it-like-beckham.md)
 North Korea broadcasts British film Bend It Like Beckham, in what the UK ambassador to the South says is the first ever Western-made film to air on state television.
 
 ### [Newly released papers show Gwynfor Evans, former Plaid Cymru MP for Carmarthen, said he would fast to death if the British government did not provide a Welsh language television service. S4C resulted. ](/news/2010/12/30/newly-released-papers-show-gwynfor-evans-former-plaid-cymru-mp-for-carmarthen-said-he-would-fast-to-death-if-the-british-government-did-no.md)
@@ -72,7 +72,7 @@ _Context: Bertie Ahern, Dail Eireann, Fianna Fail, Taoiseach, recently claimed b
 ### [Burmese opposition leader Aung San Suu Kyi meets with opposition leaders who broke away from the National League for Democracy party. ](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.md)
 Burma&#039;s opposition leader Aung San Suu Kyi has met with former colleagues who disagreed with her election boycott and formed a new party to fight the controversial poll, the breakaway group said.
 
-### [Newly released papers show more than EUR130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-a-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md)
+### [Newly released papers show more than -130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md)
 _Context: Charles Haughey, Taoiseach_
 
 ## [Previous Day...](/news/2010/12/29/index.md)

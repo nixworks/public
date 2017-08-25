@@ -12,7 +12,7 @@ _Context: George W. Bush, Samuel Alito, Third Circuit Court of Appeals, U.S. Sup
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
 _Context: Chief Cabinet Secretary, Foreign Minister, Heizo Takenaka, Interior Minister, Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe, Taro Aso_
 
-### [ Conflict in Iraq: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-p-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md)
+### [ Conflict in Iraq:. A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md)
 _Context: 2004, Conflict in Iraq, Iraq, United States military_
 
 ### [ Israeli-Palestinian Conflict: 3 Palestinian militants die following an Israeli attack in the West Bank city of Jenin. ](/news/2005/10/31/israeli-palestinian-conflict-3-palestinian-militants-die-following-an-israeli-attack-in-the-west-bank-city-of-jenin.md)
@@ -21,7 +21,7 @@ _Context: Israel, Israeli-Palestinian conflict, Jenin, Palestinian, West Bank_
 ### [ Roman Catholic priest, Father Athanase Seromba, denies charges of genocide at the International Criminal Tribunal for Rwanda. ](/news/2005/10/31/roman-catholic-priest-father-athanase-seromba-denies-charges-of-genocide-at-the-international-criminal-tribunal-for-rwanda.md)
 _Context: Athanase Seromba, International Criminal Tribunal for Rwanda, Roman Catholic, genocide, priest_
 
-### [ The Spanish telco Telefnica announces a 18 billion deal to buy the British mobile network operator O2 plc. ](/news/2005/10/31/the-spanish-telco-telefonica-announces-a-ps18-billion-deal-to-buy-the-british-mobile-network-operator-o2-plc.md)
+### [ The Spanish telco Telefnica announces a GBP18 billion deal to buy the British mobile network operator O2 plc. ](/news/2005/10/31/the-spanish-telco-telefonica-announces-a-gbp18-billion-deal-to-buy-the-british-mobile-network-operator-o2-plc.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Infanta Leonor of Spain, second in the succession line to the Spanish throne, is born in Madrid at 01:46 AM, local time. ](/news/2005/10/31/infanta-leonor-of-spain-second-in-the-succession-line-to-the-spanish-throne-is-born-in-madrid-at-01-46-am-local-time.md)

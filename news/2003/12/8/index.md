@@ -1,6 +1,6 @@
 ## [2003-12-8](/news/2003/12/8/index.md)
 
-### [ The European Commission refuse to approve a controversial genetically modified sweet corn, thus ''de facto'' refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.](/news/2003/12/8/the-european-commission-refuse-to-approve-a-controversial-genetically-modified-sweet-corn-thus-de-facto-refusing-to-lift-the-moratoriu.md)
+### [ The European Commission refuse to approve a controversial genetically modified sweet corn, thus "de facto" refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.](/news/2003/12/8/the-european-commission-refuse-to-approve-a-controversial-genetically-modified-sweet-corn-thus-de-facto-refusing-to-lift-the-moratorium.md)
 _Context: GMO, Trade war over genetically modified food, genetically modified wheat_
 
 ### [The United States Congress passes the Can Spam Act of 2003. [http://www.infoworld.com/article/03/12/08/HNspambill_1.html]](/news/2003/12/8/the-united-states-congress-passes-the-can-spam-act-of-2003-http-www-infoworld-com-article-03-12-08-hnspambill_1-html.md)

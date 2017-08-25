@@ -3,13 +3,13 @@
 ### [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md)
 _Context: Jonglei, Pibor, Sudan_
 
-### [Afghanistan and PakistanThree soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistanpthree-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md)
+### [Afghanistan and Pakistan. Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md)
 Three people were killed on Monday and up to eight others wounded when about 20 NATO oil tankers were attacked and set ablaze near the Pakistani capital, in the second mass torching in days.
 
 ### [Jewish settlers in the West Bank set fire to the Muslim Al-Anbiaa mosque in Beit Fajjar area near the Palestinian city of Bethlehem. Its rug ground and some parts of the Qur'an are burnt and anti-Islamic and anti-Palestinian slogans are written. ](/news/2010/10/4/jewish-settlers-in-the-west-bank-set-fire-to-the-muslim-al-anbiaa-mosque-in-beit-fajjar-area-near-the-palestinian-city-of-bethlehem-its-rug.md)
 Emotions run high after mosque in occupied territory is set ablaze by settlers in early morning attack in Beit Fajjar.
 
-### [War in Iraq89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraqp89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televis.md)
+### [War in Iraq. 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md)
 BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on Monday, including a journalist for a US-funded television station, medical...
 
 ### [5 Tajik policemen are killed in a clash in East Tajikistan. ](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.md)
@@ -18,7 +18,7 @@ _Context: Tajikistan_
 ### [4 people, including two Central Reserve Police Force men, are killed and 2 others are injured in an evening landmine blast in the remote parts of South Gadchiroli. The attack is carried out by Maoists. ](/news/2010/10/4/4-people-including-two-central-reserve-police-force-men-are-killed-and-2-others-are-injured-in-an-evening-landmine-blast-in-the-remote-par.md)
 Four securitymen killed as Naxals trigger blast in Gadchiroli - Initial reports suggest that the Maoists blew off a landmine at Perimili village, 200 km from the district headquarters.
 
-### [TVNZ ''Breakfast'' race row: ](/news/2010/10/4/tvnz-breakfast-race-row.md)
+### [TVNZ "Breakfast" race row: ](/news/2010/10/4/tvnz-breakfast-race-row.md)
 Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion and reader comment from New Zealand and around the World - NZ Herald
 
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
@@ -30,7 +30,7 @@ The head of MI5 had admitted he was attracted by &#034;the intrigue&#034; of I, 
 ### [British comic actor and songwriter Sir Norman Wisdom dies in an Isle of Man nursing home. ](/news/2010/10/4/british-comic-actor-and-songwriter-sir-norman-wisdom-dies-in-an-isle-of-man-nursing-home.md)
 Sir Norman Wisdom, famous for his slapstick film roles, has died at the age of 95 after suffering a series of strokes in the past six months.
 
-### [The industrial dispute surrounding ''The Hobbit'' film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and.md)
+### [The industrial dispute surrounding "The Hobbit" film project is mediated by New Zealand's Economic Development Minister Gerry Brownlee and Arts and Culture Minister Chris Finlayson. ](/news/2010/10/4/the-industrial-dispute-surrounding-the-hobbit-film-project-is-mediated-by-new-zealand-s-economic-development-minister-gerry-brownlee-and-a.md)
 Two senior ministers have made themselves available to mediate in the industrial dispute surrounding The Hobbit . - New Zealand Herald
 
 ### [Hundreds of people attend the public funeral of actor Tony Curtis who died last week. ](/news/2010/10/4/hundreds-of-people-attend-the-public-funeral-of-actor-tony-curtis-who-died-last-week.md)
@@ -42,13 +42,13 @@ Nobel laureate economist Joseph Stiglitz has warned a &quot;wave of austerity&qu
 ### [The Greek government announces additional harsher austerity measures in its 2011 draft budget. ](/news/2010/10/4/the-greek-government-announces-additional-harsher-austerity-measures-in-its-2011-draft-budget.md)
 _Context: austerity measures_
 
-### [Visa and MasterCard agreed to settle an antitrust lawsuit brought by the U.S. Department of Justice and the attorneys-general of seven states.  They agreed to allow their participating merchants to steer customers toward lower-cost options.  American Express will fight rather than agree to the terms, it said. ](/news/2010/10/4/visa-and-mastercard-agreed-to-settle-an-antitrust-lawsuit-brought-by-the-u-s-department-of-justice-and-the-attorneys-general-of-seven-state.md)
+### [Visa and MasterCard agreed to settle an antitrust lawsuit brought by the U.S. Department of Justice and the attorneys-general of seven states. They agreed to allow their participating merchants to steer customers toward lower-cost options. American Express will fight rather than agree to the terms, it said. ](/news/2010/10/4/visa-and-mastercard-agreed-to-settle-an-antitrust-lawsuit-brought-by-the-u-s-department-of-justice-and-the-attorneys-general-of-seven-state.md)
 The suit centers on rules and fees the companies impose on merchants. They are charged with making it difficult for businesses to allow alternative forms of payment.
 
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
 _Context: Agung Laksono, Indonesia, Wasior, West Papua_
 
-### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
+### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University-s faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
 _Context: Guzelburc, Hatay Province, Mustafa Kemal University_
 
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
@@ -57,10 +57,10 @@ _Context: Netravati Express, Panachuvadu, Punnapra_
 ### [At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. ](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.md)
 _Context: Indonesia, Papua_
 
-### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
+### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asia-europe-meeting.md)
 _Context: Asia-Europe Meeting, Naoto Kan, Wen Jiabao_
 
-### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
+### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asia-europe-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
 _Context: Asia-Europe Meeting_
 
 ### [China's State Councilor Dai Bingguo delivers a speech at the opening session of the United Nations Framework Convention on Climate Change meeting in Tianjin before the U.N. climate summit in Mexico at year's end. ](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.md)
@@ -69,13 +69,13 @@ UN climate chief urges nations to find common ground on curbing greenhouse gases
 ### [An angry stand-off results from a row over the ongoing presence of dozens of United States military bases on the Japanese island of Okinawa, all of which remain through intense U.S. pressure despite protests from tens of thousands of residents. ](/news/2010/10/4/an-angry-stand-off-results-from-a-row-over-the-ongoing-presence-of-dozens-of-united-states-military-bases-on-the-japanese-island-of-okinawa.md)
 _Context: Okinawa_
 
-### [Federal Minister of the Interior Thomas de Maiziere tells a news conference in Berlin that there is no concrete evidence of an imminent attack and "no reason to be alarmist at this time"; the Japanese government alerts its citizens to watch out for any attacks in Europe. The United States and UK have both done so in recent times.  ](/news/2010/10/4/federal-minister-of-the-interior-thomas-de-maizia-re-tells-a-news-conference-in-berlin-that-there-is-no-concrete-evidence-of-an-imminent-att.md)
+### [Federal Minister of the Interior Thomas de Maiziere tells a news conference in Berlin that there is no concrete evidence of an imminent attack and "no reason to be alarmist at this time"; the Japanese government alerts its citizens to watch out for any attacks in Europe. The United States and UK have both done so in recent times. ](/news/2010/10/4/federal-minister-of-the-interior-thomas-de-maizia-re-tells-a-news-conference-in-berlin-that-there-is-no-concrete-evidence-of-an-imminent-att.md)
 Japan and Sweden issue terror alerts to their citizens in Europe, following similar warnings from the UK and US.
 
 ### [Israel decides to deport 1976 Nobel Peace Prize laureate Mairead Maguire, whom it has kept locked up in a detention facility since last Tuesday when she arrived to attend a conference with 5 other Nobel peace laureates. An Israeli court orders her to keep "her propaganda to herself". Israel claims it has banned her from entering its land but she says she is unaware of such a ban. ](/news/2010/10/4/israel-decides-to-deport-1976-nobel-peace-prize-laureate-mairead-maguire-whom-it-has-kept-locked-up-in-a-detention-facility-since-last-tues.md)
 THE ISRAELI supreme court yesterday rejected an appeal by Mairead Maguire against her deportation from Israel.
 
-### [Dutch MP Geert Wilders is put on trial in Amsterdam on charges of inciting hatred against Muslims in his 17-minute film ''Fitna''. Anti-Wilders protests occur outside court. ](/news/2010/10/4/dutch-mp-geert-wilders-is-put-on-trial-in-amsterdam-on-charges-of-inciting-hatred-against-muslims-in-his-17-minute-film-fitna-anti-wild.md)
+### [Dutch MP Geert Wilders is put on trial in Amsterdam on charges of inciting hatred against Muslims in his 17-minute film "Fitna". Anti-Wilders protests occur outside court. ](/news/2010/10/4/dutch-mp-geert-wilders-is-put-on-trial-in-amsterdam-on-charges-of-inciting-hatred-against-muslims-in-his-17-minute-film-fitna-anti-wilder.md)
 Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he goes on trial accused of inciting hatred.
 
 ### [Syria issues arrest warrants for more than 30 people accused of misleading an investigation into the 2005 assassination of Lebanon's former prime minister Rafic Hariri. ](/news/2010/10/4/syria-issues-arrest-warrants-for-more-than-30-people-accused-of-misleading-an-investigation-into-the-2005-assassination-of-lebanon-s-former.md)
@@ -96,7 +96,7 @@ _Context: Gainesville, Florida_
 ### [Tens of thousands of people protest about tree-felling in Stuttgart and are confronted by police wielding water cannon and pepper spray. ](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.md)
 Clashes between police and protesters in Stuttgart hit a raw nerve in Germany as railway modernisation involves digging up a park.
 
-### [Brazilian elections:The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-pthe-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
+### [Brazilian elections:. The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
 A Brazilian clown is elected to Congress with more votes than any other candidate, while ex-footballer Romario is also chosen to represent Rio de Janeiro.
 
 ### [A Japanese judicial panel calls for charges against top Democratic Party (DPJ) figure Ichiro Ozawa. ](/news/2010/10/4/a-japanese-judicial-panel-calls-for-charges-against-top-democratic-party-dpj-figure-ichira-ozawa.md)
@@ -108,7 +108,7 @@ _Context: Lima, Susana Villaran_
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)
 The Cuban government is considering another large-scale release of political prisoners, reports say.
 
-### [Nobel Prize in Physiology or Medicine:Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-probert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md)
+### [Nobel Prize in Physiology or Medicine:. Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md)
 The man who devised the fertility treatment IVF is awarded the Nobel prize for medicine.
 
 ### [The first Census of Marine Life (CoML), a 10-year major international project described as the most comprehensive study of its kind, is completed, sparking celebration among scientists. ](/news/2010/10/4/the-first-census-of-marine-life-coml-a-10-year-major-international-project-described-as-the-most-comprehensive-study-of-its-kind-is-comp.md)

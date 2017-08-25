@@ -27,7 +27,7 @@ _Context: Afghanistan's, Kabul, Taliban, suicide bomber_
 ### [A suspicious package is discovered at the Israeli Embassy in Dublin. ](/news/2010/02/26/a-suspicious-package-is-discovered-at-the-israeli-embassy-in-dublin.md)
 Restrictions were lifted around the Israeli Embassy in Dublin following the discovery of a suspicious package.
 
-### [The cruise ship MS ''Costa Europa'' crashes into a dock in the Egyptian port of Sharm al-Sheikh, killing three people. ](/news/2010/02/26/the-cruise-ship-ms-costa-europa-crashes-into-a-dock-in-the-egyptian-port-of-sharm-al-sheikh-killing-three-people.md)
+### [The cruise ship MS "Costa Europa" crashes into a dock in the Egyptian port of Sharm al-Sheikh, killing three people. ](/news/2010/02/26/the-cruise-ship-ms-costa-europa-crashes-into-a-dock-in-the-egyptian-port-of-sharm-al-sheikh-killing-three-people.md)
 _Context: Egypt, MS ''Costa Europa'', Sharm al-Sheikh_
 
 ### [At least 16 people are killed in a stampede at Djinguereber Mosque in Mali's northwestern city of Timbuktu. ](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-djinguereber-mosque-in-mali-s-northwestern-city-of-timbuktu.md)
@@ -45,7 +45,7 @@ A legal action by promoters MCD against the singer Prince and his US agents has 
 ### [It is reported that an iceberg the size of Luxembourg has struck the Mertz Glacier, breaking it in half. ](/news/2010/02/26/it-is-reported-that-an-iceberg-the-size-of-luxembourg-has-struck-the-mertz-glacier-breaking-it-in-half.md)
 _Context: Luxembourg, Mertz Glacier, iceberg_
 
-### [''Politiken'' apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by.md)
+### ["Politiken" apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by-ot.md)
 _Context: Denmark, Muhammad, Politiken_
 
 ### [An experiment in Minnesota's Soudan Mine reports detection of weakly interacting massive particles, a form of cold dark matter, with masses of 7-11 billion electronvolts.](/news/2010/02/26/an-experiment-in-minnesota-s-soudan-mine-reports-detection-of-weakly-interacting-massive-particles-a-form-of-cold-dark-matter-with-masses.md)

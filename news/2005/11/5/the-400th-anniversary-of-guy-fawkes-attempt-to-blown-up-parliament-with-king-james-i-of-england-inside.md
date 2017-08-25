@@ -7,4 +7,4 @@
 
 ### Related:
 
-1. [An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-police-officer-and-subsequent.md) _Context: Houses of Parliament_
+1. [2017 Westminster attack. An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/2017-westminster-attack-an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-poli.md) _Context: Houses of Parliament_

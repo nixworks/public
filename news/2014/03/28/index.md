@@ -1,6 +1,6 @@
 ## [2014-03-28](/news/2014/03/28/index.md)
 
-### [Russia  announces that it will raise the price Ukraine pays for Russian natural gas by 80%. ](/news/2014/03/28/russia-announces-that-it-will-raise-the-price-ukraine-pays-for-russian-natural-gas-by-80.md)
+### [Russia announces that it will raise the price Ukraine pays for Russian natural gas by 80%. ](/news/2014/03/28/russia-announces-that-it-will-raise-the-price-ukraine-pays-for-russian-natural-gas-by-80.md)
 * Russia accounts for 25 pct of Ukrainian exports* Price Ukraine pays for Russian gas to rise 80 pct* Trade issues with Russia could spark so
 
 ### [General Motors recalls 172,000 Chevrolet Cruzes, citing faulty front axle shafts. ](/news/2014/03/28/general-motors-recalls-172-000-chevrolet-cruzes-citing-faulty-front-axle-shafts.md)

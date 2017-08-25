@@ -3,10 +3,10 @@
 ### [ A 15-year Palestinian boy was caught in Hawara checkpoint (near Nablus), hiding five pipe bombs under his coat. He apparently tried to ignite them with a match when the soldiers apprehended him. Soldiers later pose for photographs with the boy. His brother says he did so in order to study for his high-school matriculation exams in an Israeli prison. ](/news/2005/04/12/a-15-year-palestinian-boy-was-caught-in-hawara-checkpoint-near-nablus-hiding-five-pipe-bombs-under-his-coat-he-apparently-tried-to-igni.md)
 _Context: Hawara, Nablus, Palestinian, pipe bomb_
 
-### [ Andrus Ansip is confirmed by the ''Riigikogu'', the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resig.md)
+### [ Andrus Ansip is confirmed by the "Riigikogu", the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resigna.md)
 _Context: 24 March, Andrus Ansip, Estonia, Juhan Parts, Prime Minister of Estonia, Riigikogu, parliament_
 
-### [ Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany.  ](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours-are-freed-from-a-house-in-ennepetal-in-the-state-of-north-rhine-westphalia-germany.md)
+### [ Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany. ](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours-are-freed-from-a-house-in-ennepetal-in-the-state-of-north-rhine-westphalia-germany.md)
 _Context: Ennepetal, Germany, North Rhine-Westphalia, held hostage_
 
 ### [ Israeli citizens against the proposed Israeli dismantling of Jewish settlements on the Gaza Strip have chained shut 167 schools and nurseries in Tel Aviv as part of their protest. The Fire Service quickly cut through the chains. ](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.md)
@@ -24,7 +24,7 @@ _Context: Barcelona Supercomputing Center, Europe, MareNostrum, Spain, booted up
 ### [ In Hungary, a group of people that claim descent from Attila the Hun demand minority status. ](/news/2005/04/12/in-hungary-a-group-of-people-that-claim-descent-from-attila-the-hun-demand-minority-status.md)
 _Context: Attila the Hun, Hungary_
 
-### [ Three British men are indicted by a United States court in a 2004 alleged plot to destroy financial institutions in the USA, including such notable landmarks as the New York Stock Exchange in New York City, the Prudential building in New Jersey, and the World Bank and the International Monetary Fund in Washington, D.C..  The U.S. claims that one is a senior Al-Qaeda member. ](/news/2005/04/12/three-british-men-are-indicted-by-a-united-states-court-in-a-2004-alleged-plot-to-destroy-financial-institutions-in-the-usa-including-such.md)
+### [ Three British men are indicted by a United States court in a 2004 alleged plot to destroy financial institutions in the USA, including such notable landmarks as the New York Stock Exchange in New York City, the Prudential building in New Jersey, and the World Bank and the International Monetary Fund in Washington, D.C.. The U.S. claims that one is a senior Al-Qaeda member. ](/news/2005/04/12/three-british-men-are-indicted-by-a-united-states-court-in-a-2004-alleged-plot-to-destroy-financial-institutions-in-the-usa-including-such.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Same-sex marriage in Canada: The Canadian government's Bill C-38 survives a vote on a wrecking amendment which would have defined marriage as a union between a man and a woman, introduced by the Conservative Party of Canada. ](/news/2005/04/12/same-sex-marriage-in-canada-the-canadian-government-s-bill-c-38-survives-a-vote-on-a-wrecking-amendment-which-would-have-defined-marriage.md)

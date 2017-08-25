@@ -1,6 +1,6 @@
 ### [2011-09-16](/news/2011/09/16/index.md)
 
-# Hurricane Maria hits  the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. 
+# Hurricane Maria hits the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. 
 
 
 

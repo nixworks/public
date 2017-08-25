@@ -15,7 +15,7 @@ _Context: I-35W Mississippi River bridge, Minneapolis, US$, United States Congre
 ### [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md)
 The US Senate has voted to extend the power of intelligence agents to eavesdrop on terrorism suspects, in a victory for the White House after a tense showdown with congressional Democrats.
 
-### [ Raids at the Your Black Muslim Bakery in Oakland, California allegedly produces evidence that links the bakery to the murder of Chauncey Bailey, editor of ''The Oakland Post'', and two other people. ](/news/2007/08/3/raids-at-the-your-black-muslim-bakery-in-oakland-california-allegedly-produces-evidence-that-links-the-bakery-to-the-murder-of-chauncey-ba.md)
+### [ Raids at the Your Black Muslim Bakery in Oakland, California allegedly produces evidence that links the bakery to the murder of Chauncey Bailey, editor of "The Oakland Post", and two other people. ](/news/2007/08/3/raids-at-the-your-black-muslim-bakery-in-oakland-california-allegedly-produces-evidence-that-links-the-bakery-to-the-murder-of-chauncey-ba.md)
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, Your Black Muslim Bakery, murder_
 
 ### [ The Canadian government agrees to make available a judicial report on the treatment of Maher Arar falsely accused of terrorism. ](/news/2007/08/3/the-canadian-government-agrees-to-make-available-a-judicial-report-on-the-treatment-of-maher-arar-falsely-accused-of-terrorism.md)

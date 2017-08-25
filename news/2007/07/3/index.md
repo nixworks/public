@@ -6,7 +6,7 @@ _Context: Britain, United States, al-Qaeda in Iraq, counter-terrorism_
 ### [ The British government will designate and ban Tehreek-e-Nafaz-e-Shariat-e-Mohammadi and Jamaat-ul-Mujahideen Bangladesh as terrorist organizations. ](/news/2007/07/3/the-british-government-will-designate-and-ban-tehreek-e-nafaz-e-shariat-e-mohammadi-and-jamaat-ul-mujahideen-bangladesh-as-terrorist-organi.md)
 _Context: British government, Jamaat-ul-Mujahideen Bangladesh, Tehreek-e-Nafaz-e-Shariat-e-Mohammadi_
 
-### [ Former President of Liberia Charles Taylor makes a surprise appearance at his trial for military atrocities in The Hague.  ](/news/2007/07/3/former-president-of-liberia-charles-taylor-makes-a-surprise-appearance-at-his-trial-for-military-atrocities-in-the-hague.md)
+### [ Former President of Liberia Charles Taylor makes a surprise appearance at his trial for military atrocities in The Hague. ](/news/2007/07/3/former-president-of-liberia-charles-taylor-makes-a-surprise-appearance-at-his-trial-for-military-atrocities-in-the-hague.md)
 _Context: Charles Taylor, President of Liberia, The Hague_
 
 ### [ Former Prime Minister Benazir Bhutto says she will return to Pakistan and is considering contesting the next presidential election. ](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.md)

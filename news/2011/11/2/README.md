@@ -1,6 +1,6 @@
 ## [2011-11-2](/news/2011/11/2/index.md)
 
-### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel ''L'Art franais de la guerre''. ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
+### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel "L'Art franais de la guerre". ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
 _Context: Alexis Jenni, France, L'Art franais de la guerre, Prix Goncourt_
 
 ### [Eight people are killed and dozens injured after a freight train collides with a bus at a level crossing in central Argentina. ](/news/2011/11/2/eight-people-are-killed-and-dozens-injured-after-a-freight-train-collides-with-a-bus-at-a-level-crossing-in-central-argentina.md)
@@ -18,13 +18,13 @@ _Context: Colombia, FARC, New York City, Russian, Viktor Bout_
 ### [American actress Lindsay Lohan is sentenced to 30 days in a Los Angeles jail for breaching the terms of her parole. ](/news/2011/11/2/american-actress-lindsay-lohan-is-sentenced-to-30-days-in-a-los-angeles-jail-for-breaching-the-terms-of-her-parole.md)
 _Context: American, Lindsay Lohan, Los Angeles_
 
-### [Gaza aid flotilla:An international flotilla of ships makes its way to the Gaza Strip on a purported humanitarian mission, with participants including Irish MEP Paul Murphy and former Irish parliamentarian Chris Andrews. ](/news/2011/11/2/gaza-aid-flotilla-pan-international-flotilla-of-ships-makes-its-way-to-the-gaza-strip-on-a-purported-humanitarian-mission-with-participants.md)
+### [Gaza aid flotilla:. An international flotilla of ships makes its way to the Gaza Strip on a purported humanitarian mission, with participants including Irish MEP Paul Murphy and former Irish parliamentarian Chris Andrews. ](/news/2011/11/2/gaza-aid-flotilla-an-international-flotilla-of-ships-makes-its-way-to-the-gaza-strip-on-a-purported-humanitarian-mission-with-participant.md)
 An Irish and a Canadian aid ship are currently in international waters on their way to Gaza to take part in a humanitarian mission.
 
 ### [Russia and Georgia strike a deal that will allow Russia to enter the World Trade Organization. ](/news/2011/11/2/russia-and-georgia-strike-a-deal-that-will-allow-russia-to-enter-the-world-trade-organization.md)
 _Context: Georgian, Russia, World Trade Organization_
 
-### [Greek economic referendum:The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-pthe-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-euro.md)
+### [Greek economic referendum:. The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-eur.md)
 _Context: European Union, George Papandreou, Greek, Greek Prime Minister, referendum_
 
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)

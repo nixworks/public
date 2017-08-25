@@ -12,7 +12,7 @@ Activists say four students killed and 200 arrested when security forces raid un
 ### [Farhan Jeemis Abdulle, a Somali journalist and well-known local reporter for Radio Daljir is shot and killed by an unidentified gunman in Galkayo while walking to his home district of Garsor. Puntland authorities arrived on scene to investigate the killing but no arrests have been made. Abdulle is the fifth journalist to be murdered in Somalia this year, and the second in Galkayo. ](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.md)
 _Context: Galkayo, Puntland, Somalia_
 
-### [The 59th National Film Awards is held in New Delhi with ''Deool'' and ''Byari'' winning the Award for Best Feature Film. ](/news/2012/05/3/the-59th-national-film-awards-is-held-in-new-delhi-with-deool-and-byari-winning-the-award-for-best-feature-film.md)
+### [The 59th National Film Awards is held in New Delhi with "Deool" and "Byari" winning the Award for Best Feature Film. ](/news/2012/05/3/the-59th-national-film-awards-is-held-in-new-delhi-with-deool-and-byari-winning-the-award-for-best-feature-film.md)
 Veteran Bengali film personality Soumitra Chatterjee was conferred the prestigious Dada Saheb Phalke award by Vice President M Hamid Ansari for his life-time contribution to Indian cinema, here on Thursday.
 
 ### [At least 15 die and 21 are injured when a bus plunges into a ravine in a mountainous region of northern Pakistan. ](/news/2012/05/3/at-least-15-die-and-21-are-injured-when-a-bus-plunges-into-a-ravine-in-a-mountainous-region-of-northern-pakistan.md)

@@ -1,6 +1,6 @@
 ### [2006-03-4](/news/2006/03/4/index.md)
 
-#  The Deep Space Network tries one final contact attempt to Pioneer 10.  
+#  The Deep Space Network tries one final contact attempt to Pioneer 10. 
 
 
 

@@ -1,6 +1,6 @@
 ## [2008-04-28](/news/2008/04/28/index.md)
 
-### [  Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md)
+### [ Tornadoes of 2008. Tornadoes sweep through central and southeastern Virginia injuring more than 200 people and damaging multiple houses. ](/news/2008/04/28/tornadoes-of-2008-tornadoes-sweep-through-central-and-southeastern-virginia-injuring-more-than-200-people-and-damaging-multiple-houses.md)
 _Context: Tornadoes of 2008, Virginia, tornado_
 
 ### [ Officials with the Texas Department of Family and Protective Services find that 31 of the 53 girls between ages 14 and 17 seized from the YFZ Ranch have been, or are currently, pregnant. ](/news/2008/04/28/officials-with-the-texas-department-of-family-and-protective-services-find-that-31-of-the-53-girls-between-ages-14-and-17-seized-from-the-y.md)

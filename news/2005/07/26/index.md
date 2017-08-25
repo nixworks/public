@@ -1,6 +1,6 @@
 ## [2005-07-26](/news/2005/07/26/index.md)
 
-### [ Conflict in Iraq: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-p-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md)
+### [ Conflict in Iraq:. At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md)
 _Context: Abu Ghraib, Conflict in Iraq, Iraqi insurgency, nationalises_
 
 ### [ Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. ](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rain-storms-in-maharashtra-india-described-by-the-chief-minister-of-the-state-as-the-heaviest.md)
@@ -9,13 +9,13 @@ Life in Mumbai and the rest of Maharashtra came to a standstill as torrential ra
 ### [ Several protesters have been injured again in India on this second day of protests. ](/news/2005/07/26/several-protesters-have-been-injured-again-in-india-on-this-second-day-of-protests.md)
 _Context: India_
 
-### [ The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-l.md)
+### [ The Space Shuttle "Discovery" lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-lif.md)
 _Context: Discovery, NASA, STS-114_
 
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)
 _Context: Lebanon, Samir Geagea, militia_
 
-### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997  ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
+### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
 _Context: Hong Seok-Hyun, slush fund_
 
 ### [ Burma/Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)

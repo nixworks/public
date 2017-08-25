@@ -15,13 +15,13 @@ _Context: Greenwich, Millennium Dome, Queen Elizabeth_
 ### [ Concerns of serious Y2K problems with computer systems.](/news/1999/12/31/concerns-of-serious-y2k-problems-with-computer-systems.md)
 _Context: Y2K_
 
-### [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijosacarter-treaties.md)
+### [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijos-carter-treaties.md)
 _Context: Panama Canal, Panama Canal Authority, Torrijos-Carter Treaties_
 
 ### [ Sony removes support of all games on their PlayStation video game console.](/news/1999/12/31/sony-removes-support-of-all-games-on-their-playstation-video-game-console.md)
 _Context: PlayStation, Sony_
 
-### [ ''Godzilla 2000: Millennium'' is released in Japan](/news/1999/12/31/godzilla-2000-millennium-is-released-in-japan.md)
+### [ "Godzilla 2000: Millennium" is released in Japan](/news/1999/12/31/godzilla-2000-millennium-is-released-in-japan.md)
 _Context: Godzilla 2000: Millennium_
 
 ## [Previous Day...](/news/1999/12/30/index.md)

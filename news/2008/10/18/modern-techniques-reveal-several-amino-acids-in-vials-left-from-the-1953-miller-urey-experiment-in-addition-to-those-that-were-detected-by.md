@@ -12,4 +12,4 @@
 ### Related:
 
 1. [ Condoleezza Rice becomes the first United States Secretary of State to visit Libya since 1953. ](/news/2008/09/5/condoleezza-rice-becomes-the-first-united-states-secretary-of-state-to-visit-libya-since-1953.md) _Context: 1953_
-2. [ An article in the journal ''Science'' reports that a new naturally occurring amino acid has been found in a certain type of archaic bacteria. Scientists are calling this new amino acid Pyrrolysine.](/news/2002/05/24/an-article-in-the-journal-science-reports-that-a-new-naturally-occurring-amino-acid-has-been-found-in-a-certain-type-of-archaic-bacteri.md) _Context: amino acid_
+2. [ An article in the journal "Science" reports that a new naturally occurring amino acid has been found in a certain type of archaic bacteria. Scientists are calling this new amino acid Pyrrolysine.](/news/2002/05/24/an-article-in-the-journal-science-reports-that-a-new-naturally-occurring-amino-acid-has-been-found-in-a-certain-type-of-archaic-bacteria.md) _Context: amino acid_

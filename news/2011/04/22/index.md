@@ -6,13 +6,13 @@ Thailand and Cambodia exchanged gunfire along their border on Friday, with each 
 ### [3 people are killed and 3 others are wounded as a result of a blast in a factory in the Gaza Strip. ](/news/2011/04/22/3-people-are-killed-and-3-others-are-wounded-as-a-result-of-a-blast-in-a-factory-in-the-gaza-strip.md)
 _Context: Gaza Strip_
 
-### [2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-protests-across-t.md)
+### [Arab Spring. 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md)
 Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welcome to GCC plan to defuse crisis.
 
 ### [Amid a protest against the construction of a new Tesco superstore in the Stokes Croft area of the English city of Bristol, 9 people are arrested and 8 police officers are injured. ](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.md)
 Nine people are arrested and eight police officers hurt during violent clashes sparked by a raid on opponents of a new Tesco store in Bristol.
 
-### [A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. ''[http://www.wlos.com/template/inews_wire/wires.international/3f78254a-www.wlos.com.shtml (WLOS)]''](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.md)
+### [A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. "[http://www.wlos.com/template/inews_wire/wires.international/3f78254a-www.wlos.com.shtml (WLOS)]"](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.md)
 _Context: Los Pozos, Mexico, Veracruz_
 
 ### [Good Friday celebrations occur internationally. ](/news/2011/04/22/good-friday-celebrations-occur-internationally.md)
@@ -24,7 +24,7 @@ _Context: Manila, San Fernando, Syrian uprising_
 ### [Pope Benedict XVI becomes the first pontiff to take part in a televised question-and-answer session, a pre-recorded programme for Italian television. ](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.md)
 Pope Benedict makes history by taking part in a TV question-and-answer programme that aired on Good Friday.
 
-### [Anne Robinson leaves ''The Weakest Link'', prompting the BBC to end the quiz show. ](/news/2011/04/22/anne-robinson-leaves-the-weakest-link-prompting-the-bbc-to-end-the-quiz-show.md)
+### [Anne Robinson leaves "The Weakest Link", prompting the BBC to end the quiz show. ](/news/2011/04/22/anne-robinson-leaves-the-weakest-link-prompting-the-bbc-to-end-the-quiz-show.md)
 _Context: Anne Robinson, BBC, The Weakest Link_
 
 ### [Dozens of people are feared dead in a landslide in the southern Philippines. ](/news/2011/04/22/dozens-of-people-are-feared-dead-in-a-landslide-in-the-southern-philippines.md)

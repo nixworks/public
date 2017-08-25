@@ -15,7 +15,7 @@ _Context: Central African Republic, amnesty_
 ### [ Militants in Delta State, Nigeria, blow up a Chevron oil pipeline leading to a cessation of production by Chevron in Nigeria. ](/news/2008/06/21/militants-in-delta-state-nigeria-blow-up-a-chevron-oil-pipeline-leading-to-a-cessation-of-production-by-chevron-in-nigeria.md)
 _Context: Chevron Corporation, Delta State, Nigeria_
 
-### [ 2008 Pacific typhoon season: Typhoon Fengshen in the  The death toll in the Philippines from Typhoon Fengshen rises to at least 20 from flooding and landslides. Ten people drown after the Rifao River overflows its banks and sweeps away three houses in South Upi, Maguindanao. ](/news/2008/06/21/2008-pacific-typhoon-season-typhoon-fengshen-in-the-the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flo.md)
+### [ 2008 Pacific typhoon season: Typhoon Fengshen in the Philippines. The death toll in the Philippines from Typhoon Fengshen rises to at least 20 from flooding and landslides. Ten people drown after the Rifao River overflows its banks and sweeps away three houses in South Upi, Maguindanao. ](/news/2008/06/21/2008-pacific-typhoon-season-typhoon-fengshen-in-the-philippines-the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least.md)
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
@@ -27,7 +27,7 @@ Roadside bombs killed five foreign troops in Afghanistan on Saturday, military o
 ### [ Sudan Airways is grounded for a month by the Civil Aviation Authority of Sudan for violations prior to their most recent crash. ](/news/2008/06/21/sudan-airways-is-grounded-for-a-month-by-the-civil-aviation-authority-of-sudan-for-violations-prior-to-their-most-recent-crash.md)
 _Context: Civil Aviation Authority, Sudan, Sudan Airways_
 
-### [ UEFA Euro 2008: Russia beat Netherlands 3-1 after extra time, advancing to the semi-finals.  ](/news/2008/06/21/uefa-euro-2008-russia-beat-netherlands-3-1-after-extra-time-advancing-to-the-semi-finals.md)
+### [ UEFA Euro 2008: Russia beat Netherlands 3-1 after extra time, advancing to the semi-finals. ](/news/2008/06/21/uefa-euro-2008-russia-beat-netherlands-3-1-after-extra-time-advancing-to-the-semi-finals.md)
 _Context: Netherlands, Russia, UEFA Euro 2008_
 
 ## [Previous Day...](/news/2008/06/20/index.md)

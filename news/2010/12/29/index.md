@@ -9,7 +9,7 @@ _Context: Boko Haram, Islamist, Nigeria, Nigerian Sharia conflict_
 ### [Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". ](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.md)
 Group claiming to belong to Zetas cartel issues warning on radio broadcasts after Guatemalan forces launch crackdown.
 
-### [Five suspected Islamist militants are arrested for planning to attack ''Jyllands-Posten'' newspaper in Denmark. ](/news/2010/12/29/five-suspected-islamist-militants-are-arrested-for-planning-to-attack-jyllands-posten-newspaper-in-denmark.md)
+### [Five suspected Islamist militants are arrested for planning to attack "Jyllands-Posten" newspaper in Denmark. ](/news/2010/12/29/five-suspected-islamist-militants-are-arrested-for-planning-to-attack-jyllands-posten-newspaper-in-denmark.md)
 Five men are arrested for planning a gun attack on the offices of a Danish newspaper that printed cartoons of Muhammad in 2005, police say.
 
 ### [The Iraqi cilivian death toll due to violence has fallen to just under 4,000 in 2010, the lowest since the 2003 invasion of Iraq according to the Iraq Body Count.](/news/2010/12/29/the-iraqi-cilivian-death-toll-due-to-violence-has-fallen-to-just-under-4-000-in-2010-the-lowest-since-the-2003-invasion-of-iraq-according-t.md)

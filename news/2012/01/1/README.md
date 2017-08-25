@@ -1,6 +1,6 @@
 ## [2012-01-1](/news/2012/01/1/index.md)
 
-### [Arab Spring:2011-2012 Syrian uprising:The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. ](/news/2012/01/1/arab-spring-p2011a2012-syrian-uprising-pthe-arab-inter-parliamentary-union-an-advisory-body-to-the-arab-league-calls-for-the-removal-of.md)
+### [Arab Spring:. 2011-2012 Syrian uprising:. The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. ](/news/2012/01/1/arab-spring-2011-2012-syrian-uprising-the-arab-inter-parliamentary-union-an-advisory-body-to-the-arab-league-calls-for-the-removal-o.md)
 Arab League observers face calls for their immediate withdrawal, while divisions re-emerge among Syria opposition.
 
 ### [At least two people are killed in attacks on bars in northern Kenya near the border with Somalia, with Islamist al-Shabaab militants possibly responsible. ](/news/2012/01/1/at-least-two-people-are-killed-in-attacks-on-bars-in-northern-kenya-near-the-border-with-somalia-with-islamist-al-shabaab-militants-possibl.md)
@@ -21,7 +21,7 @@ _Context: Alma, Canadian, Quebec, Rio Tinto Alcan, locks out, smelter_
 ### [A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. ](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.md)
 A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japan on Sunday, but there were no immediate reports of injuries or damages and no tsunami warning was issued.
 
-### [A boat capsizes near  Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md)
+### [A boat capsizes near Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md)
 _Context: Kenya, Lamu Island_
 
 ### [The Iranian Navy test-fires a surface-to-air missile. ](/news/2012/01/1/the-iranian-navy-test-fires-a-surface-to-air-missile.md)

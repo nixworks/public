@@ -1,6 +1,6 @@
 ## [2014-06-7](/news/2014/06/7/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):Islamic State of Iraq and the Levant gunmen storm the campus of  the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-pislamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Islamic State of Iraq and the Levant gunmen storm the campus of the University of Anbar, killing 3 guards and holding dozens of students hostage before withdrawing. ](/news/2014/06/7/iraqi-insurgency-post-u-s-withdrawal-islamic-state-of-iraq-and-the-levant-gunmen-storm-the-campus-of-the-university-of-anbar-killing-3.md)
 Gunman stormed a university, killed three guards and blew up a bridge leading to the main gate, police say.
 
 ### [At least 37 people are killed in an attack in the Democratic Republic of the Congo's South Kivu province. ](/news/2014/06/7/at-least-37-people-are-killed-in-an-attack-in-the-democratic-republic-of-the-congo-s-south-kivu-province.md)

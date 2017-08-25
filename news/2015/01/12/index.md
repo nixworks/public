@@ -1,9 +1,9 @@
 ## [2015-01-12](/news/2015/01/12/index.md)
 
-### [Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and-youtube.md)
+### [Islamic State of Iraq and the Levant. Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/islamic-state-of-iraq-and-the-levant-apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and.md)
 The Twitter and YouTube accounts for the U.S. military command that oversees operations in the Middle East were hacked on Monday by people claiming to be sympathetic toward the Islamic State militant group being targeted in American bombing raids.
 
-### [Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.md)
+### [Boko Haram. Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md)
 At least 143 Boko Haram fighters were killed in an attack on a military camp in Cameroon on Monday, a minister said, adding that it was the heaviest loss sustained by the Nigerian Islamist group in the country.
 
 ### [The eruption of the Hunga Tonga volcano disrupts flights to and from Tonga. ](/news/2015/01/12/the-eruption-of-the-hunga-tonga-volcano-disrupts-flights-to-and-from-tonga.md)

@@ -27,7 +27,7 @@ Investing in smoking cessation treatments saves lives and it may be sound fiscal
 ### [British singer George Michael is given a sentence of eight weeks for driving under the influence of cannabis at the Highbury Corner Magistrates Court in London. ](/news/2010/09/14/british-singer-george-michael-is-given-a-sentence-of-eight-weeks-for-driving-under-the-influence-of-cannabis-at-the-highbury-corner-magistra.md)
 Singer George Michael is jailed for eight weeks for crashing his car while under the influence of cannabis.
 
-### [2010 Atlantic hurricane seasonHurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-seasonphurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md)
+### [2010 Atlantic hurricane season. Hurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. ](/news/2010/09/14/2010-atlantic-hurricane-season-hurricane-julia-becomes-the-fifth-hurricane-of-the-2010-atlantic-hurricane-season.md)
 Tropical Storm Julia grew tohurricane strength over the far eastern Atlantic Ocean onTuesday, the U.S. National Hurricane Center said.
 
 ### [A third Iranian diplomat defects and applies for asylum in Europe over the disputed presidential election last year. ](/news/2010/09/14/a-third-iranian-diplomat-defects-and-applies-for-asylum-in-europe-over-the-disputed-presidential-election-last-year.md)
@@ -69,7 +69,7 @@ U.S. Defense Secretary Robert Gates Tuesday gave a taste of his $100 billion, fi
 ### [Cecilia Romero resigns as the head of the Mexican National Institute of Migration in the wake of massacre of 72 migrants at the hands of a drug cartel. ](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.md)
 _Context: Cecilia Romero, National Institute of Migration, drug cartel_
 
-### [United States primary electionsChristine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-electionspchristine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
+### [United States primary elections. Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-elections-christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
 _Context: Christine O'Donnell, Delaware, Republican, US Senate race, primary election_
 
 ## [Previous Day...](/news/2010/09/13/index.md)

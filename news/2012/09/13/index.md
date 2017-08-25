@@ -15,13 +15,13 @@ _Context: China, Hubei, Wuhan_
 ### [Guatemala's Volcano of Fire (Volcn de Fuego) erupts, leading to the evacuation of more than 33,000 people. ](/news/2012/09/13/guatemala-s-volcano-of-fire-volcan-de-fuego-erupts-leading-to-the-evacuation-of-more-than-33-000-people.md)
 _Context: Guatemala, Volcano of Fire (Volcn de Fuego)_
 
-### [2012 diplomatic missions attacks:Protestors breach the walls of the U.S. embassy compound in Sana'a, Yemen.  Yemeni police fire warning shots in the air and four people are killed. The Egyptian ministry of health says 224 people are injured in demonstrations around the embassy in Cairo. In Kuwait, 500 people gather and chant near the embassy. ](/news/2012/09/13/2012-diplomatic-missions-attacks-pprotestors-breach-the-walls-of-the-u-s-embassy-compound-in-sana-a-yemen-yemeni-police-fire-warning-sho.md)
+### [2012 diplomatic missions attacks:. Protestors breach the walls of the U.S. embassy compound in Sana'a, Yemen. Yemeni police fire warning shots in the air and four people are killed. The Egyptian ministry of health says 224 people are injured in demonstrations around the embassy in Cairo. In Kuwait, 500 people gather and chant near the embassy. ](/news/2012/09/13/2012-diplomatic-missions-attacks-protestors-breach-the-walls-of-the-u-s-embassy-compound-in-sana-a-yemen-yemeni-police-fire-warning-sho.md)
 Protests against an anti-Islam film made in the US spread, as angry crowds gather outside US embassies in the Middle East and North Africa.
 
-### [Newly-appointed Japanese ambassador to China, Shinichi Nishimiya, is found collapsed on a street in Tokyo and hospitalized.  ](/news/2012/09/13/newly-appointed-japanese-ambassador-to-china-shinichi-nishimiya-is-found-collapsed-on-a-street-in-tokyo-and-hospitalized.md)
+### [Newly-appointed Japanese ambassador to China, Shinichi Nishimiya, is found collapsed on a street in Tokyo and hospitalized. ](/news/2012/09/13/newly-appointed-japanese-ambassador-to-china-shinichi-nishimiya-is-found-collapsed-on-a-street-in-tokyo-and-hospitalized.md)
 _Context: Tokyo_
 
-### [Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-of-the-most-wanted.md)
+### [Mexican Drug War. Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/mexican-drug-war-jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-o.md)
 _Context: Gulf Cartel, Jorge Eduardo Costilla Snchez, Mexican Drug War, Tamaulipas, most-wanted drug lords_
 
 ### [Former Khmer Rouge leader Ieng Thirith is unfit to face a genocide trial in Cambodia due to dementia. ](/news/2012/09/13/former-khmer-rouge-leader-ieng-thirith-is-unfit-to-face-a-genocide-trial-in-cambodia-due-to-dementia.md)
@@ -39,7 +39,7 @@ Dutch voters back pro-European centrist parties and inflict heavy losses on a fa
 ### [Dr. Mustafa Abushagur is elected as prime minister of Libya. ](/news/2012/09/13/dr-mustafa-abushagur-is-elected-as-prime-minister-of-libya.md)
 _Context: Libyan Prime Minister, Mustafa A.G. Abushagur_
 
-### [The old 'Earth's highest temp' has been discredited by the WMO.  ](/news/2012/09/13/the-old-earth-s-highest-temp-has-been-discredited-by-the-wmo.md)
+### [The old 'Earth's highest temp' has been discredited by the WMO. ](/news/2012/09/13/the-old-earth-s-highest-temp-has-been-discredited-by-the-wmo.md)
 _Context: Earth's highest temp, World Meteorological Organization_
 
 ## [Previous Day...](/news/2012/09/12/index.md)

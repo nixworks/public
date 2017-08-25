@@ -1,6 +1,6 @@
 ## [2007-08-12](/news/2007/08/12/index.md)
 
-### [ Bulk-carrier  M/V ''New Flame'' collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. ](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.md)
+### [ Bulk-carrier M/V "New Flame" collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. ](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.md)
 _Context: Gibraltar, M/V ''New Flame'', bulk carrier, oil tanker_
 
 ### [ African Union nations pledge up to 12,000 troops for the joint United Nations-African Union mission to Darfur. ](/news/2007/08/12/african-union-nations-pledge-up-to-12-000-troops-for-the-joint-united-nations-african-union-mission-to-darfur.md)
@@ -48,7 +48,7 @@ _Context: Iraq, Italian, Russia, smuggle_
 ### [ Five hundred people are evacuated from the slopes of Mount Karangetang, an active volcano that is spewing ash and lava, on the island of Siau in Indonesia. ](/news/2007/08/12/five-hundred-people-are-evacuated-from-the-slopes-of-mount-karangetang-an-active-volcano-that-is-spewing-ash-and-lava-on-the-island-of-si.md)
 More than 500 people have been evacuated from the slopes of Mount Karangetang, which has been spewing lava and hotclouds on the northern Indonesian island of Siau.
 
-### [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland  so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-so.md)
+### [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.md)
 _Context: Arctic, Denmark, Greenland, Lomonosov Ridge_
 
 ### [ A Jakarta conference of Islamists sponsored by the Hizb ut-Tahrir discusses plans to reestablish a caliphate. ](/news/2007/08/12/a-jakarta-conference-of-islamists-sponsored-by-the-hizb-ut-tahrir-discusses-plans-to-reestablish-a-caliphate.md)

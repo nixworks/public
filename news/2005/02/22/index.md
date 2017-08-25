@@ -6,7 +6,7 @@ _Context: Mars, Mars Express, life_
 ### [ Israel names former Israeli Air Force commander Major General Dan Halutz as the new Chief of Staff of the Israeli Defence Forces. He will replace General Moshe Ya'alon at the beginning of July. ](/news/2005/02/22/israel-names-former-israeli-air-force-commander-major-general-dan-halutz-as-the-new-chief-of-staff-of-the-israeli-defence-forces-he-will-r.md)
 _Context: Chief of Staff, Dan Halutz, General, Israel, Israeli Air Force, Israeli Defence Forces, Moshe Ya'alon, major general_
 
-### [ An earthquake, registering 6.4 on the Richter Scale, strikes the city of Zarand and several villages in Iran at 02:25 UTC, leaving at least 546 dead. (''see'' 2005 Zarand earthquake).](/news/2005/02/22/an-earthquake-registering-6-4-on-the-richter-scale-strikes-the-city-of-zarand-and-several-villages-in-iran-at-02-25-utc-leaving-at-least.md)
+### [ An earthquake, registering 6.4 on the Richter Scale, strikes the city of Zarand and several villages in Iran at 02:25 UTC, leaving at least 546 dead. ("see" 2005 Zarand earthquake).](/news/2005/02/22/an-earthquake-registering-6-4-on-the-richter-scale-strikes-the-city-of-zarand-and-several-villages-in-iran-at-02-25-utc-leaving-at-least.md)
 The death toll from an earthquake in central Iran climbed to at least 420 people by late Tuesday, with more than 900 hospitalized.
 
 ### [ Swiss medical company Novartis buys US company Eon Labs and German Hexal AG, increasing its share in the generic medical drugs market ](/news/2005/02/22/swiss-medical-company-novartis-buys-us-company-eon-labs-and-german-hexal-ag-increasing-its-share-in-the-generic-medical-drugs-market.md)

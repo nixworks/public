@@ -1,6 +1,6 @@
 ## [2011-02-10](/news/2011/02/10/index.md)
 
-### [2011 Egyptian protests:Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-pprotests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md)
+### [2011 Egyptian protests:. Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md)
 _Context: Hosni Mubarak, Protesters_
 
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
@@ -21,7 +21,7 @@ _Context: International Choir Festival, Vietnam_
 ### [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md)
 _Context: Perm, Russia_
 
-### [A Manx2 flight from Belfast  to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviatio.md)
+### [A Manx2 flight from Belfast to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviation.md)
 Two Irish citizens, three British passport holders and a Spaniard have been killed and six others are injured after a commuter flight from Belfast crashed at Cork Airport this morning.
 
 ### [Three people are dead, and two others are missing after a natural gas line rupture and explosion in the city of Allentown, Pennsylvania. ](/news/2011/02/10/three-people-are-dead-and-two-others-are-missing-after-a-natural-gas-line-rupture-and-explosion-in-the-city-of-allentown-pennsylvania.md)
@@ -48,7 +48,7 @@ _Context: Chen Guangcheng, China, house arrest_
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)
 The Commons overwhelmingly votes to keep the ban on prisoners voting, in defiance of a ruling by the European Court of Human Rights.
 
-### [Former British Labour MP Eric Illsley is jailed for 12 months for dishonestly claiming parliamentary expenses. The sentence comes on the same day that Jim Devine, another former Labour MP, is convicted of dishonestly claiming PS8,385 of expenses by using false invoices for cleaning and printing work. ](/news/2011/02/10/former-british-labour-mp-eric-illsley-is-jailed-for-12-months-for-dishonestly-claiming-parliamentary-expenses-the-sentence-comes-on-the-sam.md)
+### [Former British Labour MP Eric Illsley is jailed for 12 months for dishonestly claiming parliamentary expenses. The sentence comes on the same day that Jim Devine, another former Labour MP, is convicted of dishonestly claiming GBP8,385 of expenses by using false invoices for cleaning and printing work. ](/news/2011/02/10/former-british-labour-mp-eric-illsley-is-jailed-for-12-months-for-dishonestly-claiming-parliamentary-expenses-the-sentence-comes-on-the-sam.md)
 Former Labour MP Eric Illsley is sentenced to a year in jail for dishonestly claiming parliamentary expenses.
 
 ## [Previous Day...](/news/2011/02/9/index.md)

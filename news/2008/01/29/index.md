@@ -6,7 +6,7 @@ _Context: Madhu, Sri Lanka, school bus_
 ### [ Iran's judiciary sentences 54 Bah' religion followers for "anti-regime propaganda." ](/news/2008/01/29/iran-s-judiciary-sentences-54-baha-i-religion-followers-for-anti-regime-propaganda.md)
 _Context: Bah', Iran, propaganda, sentences_
 
-### [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's ''Chunyun'' period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md)
+### [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md)
 _Context: Beijing-Guangzhou railway, stranded in train stations_
 
 ### [ The United States House of Representatives passes a $146 billion economic stimulus package. ](/news/2008/01/29/the-united-states-house-of-representatives-passes-a-146-billion-economic-stimulus-package.md)
@@ -15,7 +15,7 @@ The House, seizing a rare moment of bipartisanship to respond to the economy’s
 ### [ Venezuelan gunmen hold 30 hostages in a bank in Gurico state before fleeing the scene in an ambulance with several hostages. The gunmen are subsequently captured. ](/news/2008/01/29/venezuelan-gunmen-hold-30-hostages-in-a-bank-in-guarico-state-before-fleeing-the-scene-in-an-ambulance-with-several-hostages-the-gunmen-ar.md)
 _Context: Gurico, Venezuela, ambulance, bank_
 
-### [ United States presidential election, 2008: Voters in Florida go to the polls to determine presidential nominees. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/united-states-presidential-election-2008-p-voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-p-new-york-senator-hillary.md)
+### [ United States presidential election, 2008:. Voters in Florida go to the polls to determine presidential nominees.. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/united-states-presidential-election-2008-voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-new-york-senator-hillary.md)
 Senator John McCain won the biggest delegate prize so far in a closely contested primary. After finishing third, Rudolph W. Giuliani is likely to endorse Mr. McCain, officials said.
 
 ### [ Near-Earth asteroid 2007 TU|24 passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-f.md)

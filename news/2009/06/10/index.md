@@ -15,13 +15,13 @@ Thousands of people have taken part in a silent march in solidarity with survivo
 ### [ Setanta Sports announce it has stopped taking on new subscriptions in order to "secure the future of the business". ](/news/2009/06/10/setanta-sports-announce-it-has-stopped-taking-on-new-subscriptions-in-order-to-secure-the-future-of-the-business.md)
 The fate of Setanta hangs in the balance, as the stricken broadcaster tries to stave off administration.
 
-### [  French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md)
+### [ Air France Flight 447. French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/air-france-flight-447-french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md)
 Search crews have now recovered 41 bodies from an area in the Atlantic where an Air France passenger plane went down over a week ago.
 
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)
 _Context: Bathaa, Dhiqar_
 
-### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend  the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitu.md)
+### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)
 _Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)

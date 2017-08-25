@@ -1,0 +1,23 @@
+### [2016-06-27](/news/2016/06/27/index.md)
+
+# Volkswagen emissions scandal. Volkswagen faces settlement costs of $15 billion to settle lawsuits in the United States resulting from the rigging of emissions tests. 
+
+Volkswagen AG’s price tag to settle lawsuits in the U.S. over its rigging of diesel emissions tests has jumped to more than $15 billion -- $5 billion more than previously reported -- on the eve of a settlement to be filed Tuesday in a San Francisco court.
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-27/volkswagen-said-to-face-15-billion-tab-in-u-s-settlement)
+
+### Related:
+
+1. [Volkswagen emissions scandal. Volkswagen executives admit the diesel emissions cheating was the result of a collection of failures within the company, rather than just the actions of rogue engineers. In 2005, VW began working on software after they were unable to find an affordable technical solution to U.S. nitrogen oxide emissions standards. ](/news/2015/12/10/volkswagen-emissions-scandal-volkswagen-executives-admit-the-diesel-emissions-cheating-was-the-result-of-a-collection-of-failures-within-th.md) _Context: United States, Volkswagen, Volkswagen emissions scandal_
+2. [Volkswagen diesel emissions cheating scandal. Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-diesel-emissions-cheating-scandal-volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-b.md) _Context: United States, Volkswagen_
+3. [Volkswagen emissions scandal. Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-emissions-scandal-volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-f.md) _Context: Volkswagen, Volkswagen emissions scandal_
+4. [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
+5. [Volkswagen emissions scandal. Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/volkswagen-emissions-scandal-litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
+6. [Volkswagen emissions scandal. Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-emissions-scandal-volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _Context: Volkswagen, Volkswagen emissions scandal_
+7. [Volkswagen emissions scandal. Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-emissions-scandal-volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensati.md) _Context: Volkswagen, Volkswagen emissions scandal_
+8. [Volkswagen emissions scandal. Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-emissions-scandal-volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-5.md) _Context: United States, Volkswagen emissions scandal_
+9. [Volkswagen emissions scandal. Volkswagen says it has found faulty emissions readings for the first time in gasoline-powered vehicles, widening a scandal that so far had centered on diesel engines. ](/news/2015/11/3/volkswagen-emissions-scandal-volkswagen-says-it-has-found-faulty-emissions-readings-for-the-first-time-in-gasoline-powered-vehicles-wideni.md) _Context: Volkswagen, Volkswagen emissions scandal_
+10. [Volkswagen emissions scandal. The U.S. Environmental Protection Agency (EPA) and California's CARB are widening the Volkswagen investigation into several more expensive VW, Porsche, and Audi automobiles with 3.0-liter diesel engines in model years 2014 through 2016. Volkswagen says it installed no defeat device software on its 3.0 litre V6 diesel cars and is cooperating with the agency to fully investigate the matter. ](/news/2015/11/2/volkswagen-emissions-scandal-the-u-s-environmental-protection-agency-epa-and-california-s-carb-are-widening-the-volkswagen-investigation.md) _Context: Volkswagen, Volkswagen emissions scandal_

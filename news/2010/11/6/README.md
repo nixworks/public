@@ -12,7 +12,7 @@ Relative calm in south disturbed as Palestinian terrorists launch rocket from no
 ### [Car bombs injure at least 37 people in the Iraqi cities of Baghdad and Kirkuk. ](/news/2010/11/6/car-bombs-injure-at-least-37-people-in-the-iraqi-cities-of-baghdad-and-kirkuk.md)
 _Context: Baghdad, Iraq, Kirkuk, car bomb_
 
-### [Somali pirates receive a record PS7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-aps7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md)
+### [Somali pirates receive a record GBP7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-agbp7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md)
 Somali pirates are reported to have received a total of about $12.3m (£7.6m) in ransom money to release two ships.
 
 ### [Armenia and Azerbaijan exchange the bodies of deceased soldiers and a civilian under the auspices of the International Committee of the Red Cross. ](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.md)
@@ -33,7 +33,7 @@ _Context: Haiti cholera outbreak_
 ### [At least 19 people are killed in a fire at a shopping mall in northeast China's Jilin City. ](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.md)
 A fire in a shopping centre in northern China kills at least 19 people and leaves 27 more injured, state media reports.
 
-### [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md)
+### [2010 eruption of Mount Merapi. Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md)
 _Context: Indonesia, Java, Mount Merapi volcanic eruption, Mounts Merapi_
 
 ### [Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. ](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.md)
@@ -48,10 +48,10 @@ _Context: Asia-Pacific Economic Cooperation, Japan, Tokyo, finance minister_
 ### [Pope Benedict XVI begins a visit to Spain at Santiago de Compostela. ](/news/2010/11/6/pope-benedict-xvi-begins-a-visit-to-spain-at-santiago-de-compostela.md)
 Pope Benedict XVI begins a visit to Spain, where the traditionally powerful Catholic Church feels under pressure from secular values.
 
-### [The jury in the Petit family home invasion murder trial continues to deliberate whether murderer Steven Hayes should receive the death penalty or life imprisonment.  ](/news/2010/11/6/the-jury-in-the-petit-family-home-invasion-murder-trial-continues-to-deliberate-whether-murderer-steven-hayes-should-receive-the-death-penal.md)
+### [The jury in the Petit family home invasion murder trial continues to deliberate whether murderer Steven Hayes should receive the death penalty or life imprisonment. ](/news/2010/11/6/the-jury-in-the-petit-family-home-invasion-murder-trial-continues-to-deliberate-whether-murderer-steven-hayes-should-receive-the-death-penal.md)
 _Context: Petit family home invasion_
 
-### [Prominent Russian journalist Oleg Kashin for the ''Kommersant'' newspaper is attacked outside his home in Moscow. ](/news/2010/11/6/prominent-russian-journalist-oleg-kashin-for-the-kommersant-newspaper-is-attacked-outside-his-home-in-moscow.md)
+### [Prominent Russian journalist Oleg Kashin for the "Kommersant" newspaper is attacked outside his home in Moscow. ](/news/2010/11/6/prominent-russian-journalist-oleg-kashin-for-the-kommersant-newspaper-is-attacked-outside-his-home-in-moscow.md)
 * Oleg Kashin worked for leading Russian daily Kommersant * Covered opposition protests, national politics * Medvedev personally orders in
 
 ### [Three Northern Ireland police officers are injured after a bomb is thrown at them while investigating a robbery in West Belfast. ](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.md)
@@ -60,10 +60,10 @@ Police say a bomb attack on officers in West Belfast could have ended in &quot;m
 ### [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md)
 _Context: Anwar al-Awlaki, Islam, Yemen_
 
-### [Armed attackers attempt to carjack Formula One World Champion Jensen Button in Sao Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sapso-paulo-as-he-was-returning-from-practice-for-the-brazilia.md)
+### [Armed attackers attempt to carjack Formula One World Champion Jensen Button in SGBPo Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sagbpo-paulo-as-he-was-returning-from-practice-for-the-brazil.md)
 F1 champion Jenson Button praises the actions of his police driver after armed men attempt to threaten him while driving in Sao Paulo, Brazil.
 
-### [Hamas leader Mahmoud Zahar says "the Jews will soon be expelled from Palestine" in the same way that they were "kicked out" by European countries  "because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-athe-jews-will-soon-be-expelled-from-palestinea-in-the-same-way-that-they-were-akicked-outa-by-europ.md)
+### [Hamas leader Mahmoud Zahar says -the Jews will soon be expelled from Palestine- in the same way that they were -kicked out- by European countries -because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-the-jews-will-soon-be-expelled-from-palestine-in-the-same-way-that-they-were-kicked-out-by-europ.md)
 Hamas leader says Jews were kicked out by France, Britain, Russia and Germany “because they betrayed, stole and corrupted these countries.&quot;
 
 ### [Tens of thousands of people participate in an anti-nuclear demonstration against a waste shipment on its way from France to Germany. ](/news/2010/11/6/tens-of-thousands-of-people-participate-in-an-anti-nuclear-demonstration-against-a-waste-shipment-on-its-way-from-france-to-germany.md)

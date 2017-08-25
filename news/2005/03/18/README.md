@@ -1,9 +1,9 @@
 ## [2005-03-18](/news/2005/03/18/index.md)
 
-### [ Woman Imam in NYC: Amina Wadud, an African American Muslim, and a professor of Islamic studies at Virginia Commonwealth University, led a congregation of about 60 women and 40 men in the weekly Muslim Friday, or Jumu'uah, prayer, despite the disapproval of mainstream Muslim scholars.  ](/news/2005/03/18/woman-imam-in-nyc-amina-wadud-an-african-american-muslim-and-a-professor-of-islamic-studies-at-virginia-commonwealth-university-led-a-c.md)
+### [ Woman Imam in NYC: Amina Wadud, an African American Muslim, and a professor of Islamic studies at Virginia Commonwealth University, led a congregation of about 60 women and 40 men in the weekly Muslim Friday, or Jumu'uah, prayer, despite the disapproval of mainstream Muslim scholars. ](/news/2005/03/18/woman-imam-in-nyc-amina-wadud-an-african-american-muslim-and-a-professor-of-islamic-studies-at-virginia-commonwealth-university-led-a-c.md)
 _Context: African-American, Amina Wadud, Islamic studies, Jumu'uah, Virginia Commonwealth University, Woman Imam in NYC_
 
-### [ Israeli-Palestinian conflict: In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now.  ](/news/2005/03/18/israeli-palestinian-conflict-p-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md)
+### [ Israeli-Palestinian conflict:. In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/israeli-palestinian-conflict-in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ari.md)
 Demonstrators march from Tel Aviv’s Rabin Square to Dizengoff Circle Saturday; hundreds of security personnel and volunteers to secure event
 
 ### [ South Koreans stand outside the Japanese embassy in Seoul, protesting over the disputed islands, the Liancourt Rocks ](/news/2005/03/18/south-koreans-stand-outside-the-japanese-embassy-in-seoul-protesting-over-the-disputed-islands-the-liancourt-rocks.md)
@@ -18,7 +18,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ US denies diplomatic visa to Indian politician Narendra Modi, chief minister of Gujarat ](/news/2005/03/18/us-denies-diplomatic-visa-to-indian-politician-narendra-modi-chief-minister-of-gujarat.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
-### [ In the Solomon Islands, militia leader Harold Keke and two others receive a life sentence for murdering Augustine Geve  ](/news/2005/03/18/in-the-solomon-islands-militia-leader-harold-keke-and-two-others-receive-a-life-sentence-for-murdering-augustine-geve.md)
+### [ In the Solomon Islands, militia leader Harold Keke and two others receive a life sentence for murdering Augustine Geve ](/news/2005/03/18/in-the-solomon-islands-militia-leader-harold-keke-and-two-others-receive-a-life-sentence-for-murdering-augustine-geve.md)
 _Context: Augustine Geve, Harold Keke, Solomon Islands, life sentence_
 
 ### [ The United Nations fires one employee and suspends six others without pay for allegations of sexual abuse in the Democratic Republic of Congo. ](/news/2005/03/18/the-united-nations-fires-one-employee-and-suspends-six-others-without-pay-for-allegations-of-sexual-abuse-in-the-democratic-republic-of-con.md)

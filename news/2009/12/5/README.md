@@ -1,6 +1,6 @@
 ## [2009-12-5](/news/2009/12/5/index.md)
 
-### [ CNN issues an apology to ''The Irish Times'' after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged ''The Irish Times'' had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-gol.md)
+### [ CNN issues an apology to "The Irish Times" after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged "The Irish Times" had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-golfe.md)
 CNN HAS apologised for printing a story on its website that incorrectly accused The Irish Times of printing faked naked photographs&hellip;
 
 ### [ Irish Independent Member of Parliament Noel Grealish withdraws his support for the country's government over the issue of pay cuts in the public sector. The move reduces the administration of Taoiseach Brian Cowen to a minority government. ](/news/2009/12/5/irish-independent-member-of-parliament-noel-grealish-withdraws-his-support-for-the-country-s-government-over-the-issue-of-pay-cuts-in-the-p.md)

@@ -3,7 +3,7 @@
 ### [2011 Syrian uprising: Syrian Army tanks shell the suburb of Bab Amro in the city of Homs, killing at least five people. ](/news/2011/05/11/2011-syrian-uprising-syrian-army-tanks-shell-the-suburb-of-bab-amro-in-the-city-of-homs-killing-at-least-five-people.md)
 Nineteen people reported killed in shelling of Homs and al-Harah despite calls from UN for end to crackdown on protests.
 
-### [2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)
+### [2011 Libyan civil war:. Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-opposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)
 Opposition fighters in besieged western city continue advance after breaking through government lines two days ago.
 
 ### [Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. ](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-consulate-in-karachi-pakistan-no-injures-are-reported.md)
@@ -15,7 +15,7 @@ _Context: Southern Sudan, Sudan, Zambia_
 ### [Venezuela starts rationing electricity in the wake of nationwide blackouts earlier in the week. ](/news/2011/05/11/venezuela-starts-rationing-electricity-in-the-wake-of-nationwide-blackouts-earlier-in-the-week.md)
 Venezuela begins rationing electricity after blackouts on Monday affected nearly half the country.
 
-### [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md)
+### [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijing-shanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md)
 _Context: Beijing-Shanghai High-Speed Railway, China_
 
 ### [The Bank of England says it expects inflation to reach 5% this year, due to higher fuel bills that could rise by up to 15%, and revises down its growth projection for the UK economy. ](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.md)
@@ -42,7 +42,7 @@ _Context: Bhopal disaster, Government of India, Supreme Court of India_
 ### [Former member of the Virginia House of Delegates Phillip A. Hamilton is convicted of bribery and extortion. ](/news/2011/05/11/former-member-of-the-virginia-house-of-delegates-phillip-a-hamilton-is-convicted-of-bribery-and-extortion.md)
 _Context: Phillip A. Hamilton, Virginia House of Delegates_
 
-### [A  judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-v.md)
+### [A judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-vi.md)
 _Context: John Hinckley Jr, Ronald Reagan, Washington DC, president, shot by John W. Hinckley_
 
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)

@@ -9,7 +9,7 @@ _Context: Norway, Oslo, U.S. embassy_
 ### [At least 21 people are killed in two car bomb blasts in Baghdad, Iraq. ](/news/2012/07/31/at-least-21-people-are-killed-in-two-car-bomb-blasts-in-baghdad-iraq.md)
 At least 19 people are killed as two car bombs explode within minutes of each other in the centre of the Iraqi capital, Baghdad, officials say.
 
-### [American writer Gore Vidal dies  at the age of 86 from complications of pneumonia. ](/news/2012/07/31/american-writer-gore-vidal-dies-at-the-age-of-86-from-complications-of-pneumonia.md)
+### [American writer Gore Vidal dies at the age of 86 from complications of pneumonia. ](/news/2012/07/31/american-writer-gore-vidal-dies-at-the-age-of-86-from-complications-of-pneumonia.md)
 _Context: American, Gore Vidal, pneumonia_
 
 ### [Advertiser accuses Facebook of fraud after discovering that 80% of the clicks they're paying for are from bots, and not actual potential customers. ](/news/2012/07/31/advertiser-accuses-facebook-of-fraud-after-discovering-that-80-of-the-clicks-they-re-paying-for-are-from-bots-and-not-actual-potential-cus.md)
@@ -21,7 +21,7 @@ _Context: hashtag, tweets_
 ### [German global financial services company Deutsche Bank announces plans to cut 1,900 jobs. ](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.md)
 _Context: Deutsche Bank_
 
-### [2012 northern India power grid failure:A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-pa-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md)
+### [2012 northern India power grid failure:. A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-a-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md)
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 
 ### [United States President Barack Obama announces additional sanctions against Iran for its nuclear program. ](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.md)

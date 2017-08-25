@@ -21,7 +21,7 @@ _Context: 19th century, Home Secretary, Jack Straw, Ken Livingstone, Mayor of Lo
 ### [ A Berlin underground train rear-ends a stationary maintenance vehicle at the busy Sdkreuz station injuring 33 people, two of them seriously, officials said. ](/news/2006/11/20/a-berlin-underground-train-rear-ends-a-stationary-maintenance-vehicle-at-the-busy-sudkreuz-station-injuring-33-people-two-of-them-seriousl.md)
 _Context: Berlin underground_
 
-### [ American stock exchange Nasdaq launches a formal bid of 2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-ps2-7-billion-to-take-over-the-london-stock-exchange.md)
+### [ American stock exchange Nasdaq launches a formal bid of GBP2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-gbp2-7-billion-to-take-over-the-london-stock-exchange.md)
 _Context: London Stock Exchange, Nasdaq_
 
 ### [ The President of the United States George W. Bush visits Indonesia to meet with the President of Indonesia Susilo Bambang Yudhoyono with large crowds protesting US foreign policy. ](/news/2006/11/20/the-president-of-the-united-states-george-w-bush-visits-indonesia-to-meet-with-the-president-of-indonesia-susilo-bambang-yudhoyono-with-la.md)

@@ -1,6 +1,6 @@
 ### [2011-07-19](/news/2011/07/19/index.md)
 
-# Tropical Storm Dora becomes a hurricane  with a tropical storm watch issued for southwestern Mexico. 
+# Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. 
 
 
 

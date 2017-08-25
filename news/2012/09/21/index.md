@@ -18,7 +18,7 @@ _Context: Elder Pastitsios, Greek, Pastafarian, blasphemy_
 ### [During a Green Day performance at Las Vegas' IHeartRadio music festival, Billie Joe Armstrong became agitated onstage and stopped the band's set midway through their performance. In an expletive-filled rant, Armstrong criticized the event's promoters for allegedly cutting short the band's performance before smashing his guitar and storming off stage.](/news/2012/09/21/during-a-green-day-performance-at-las-vegas-iheartradio-music-festival-billie-joe-armstrong-became-agitated-onstage-and-stopped-the-band-s.md)
 _Context: Billie Joe Armstrong, Green Day, IHeartRadio music festival_
 
-### [''Harvard Theological Review'' does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-m.md)
+### ["Harvard Theological Review" does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-my.md)
 _Context: Harvard Theological Review, Jesus of Nazareth, my wife_
 
 ### [A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. ](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.md)

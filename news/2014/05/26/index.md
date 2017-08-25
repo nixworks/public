@@ -1,12 +1,12 @@
 ## [2014-05-26](/news/2014/05/26/index.md)
 
-### [Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-voters-in-the-city-of-donetsk-from-casti.md)
+### [2014 pro-Russian unrest in Ukraine. Pro-Russian militants force the closure of Donetsk International Airport a day after preventing any voters in the city of Donetsk from casting a vote in the Ukrainian presidential election. ](/news/2014/05/26/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-force-the-closure-of-donetsk-international-airport-a-day-after-preventing-any-vote.md)
 DONETSK, Ukraine (Reuters) - Ukrainian government warplanes carried out airstrikes against pro-Russian rebels who seized Donetsk international airport on Monday, triggering a battle in and around...
 
-### [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md)
+### [2014 Chibok kidnapping. Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/2014-chibok-kidnapping-air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300.md)
 _Context: 276 girls kidnapped from northern Nigeria, Abuja, Boko Haram, Nigeria_
 
-### [Islamist insurgency in Nigeria:Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State.  ](/news/2014/05/26/islamist-insurgency-in-nigeria-pislamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeaste.md)
+### [Islamist insurgency in Nigeria:. Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-insurgency-in-nigeria-islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeast.md)
 _Context: Boko Haram, Islam, Islamist insurgency in Nigeria, Nigeria, Yobe State_
 
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
@@ -21,13 +21,13 @@ _Context: AstraZeneca, Pfizer_
 ### [At least 26 people are dead and 10 missing since Wednesday as storms hit southern and central China. ](/news/2014/05/26/at-least-26-people-are-dead-and-10-missing-since-wednesday-as-storms-hit-southern-and-central-china.md)
 Storms in southern and central China have left at least 26 people dead and 10 missing, state media says.
 
-### [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
+### [2014 Thai coup d'tat. Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/2014-thai-coup-d-etat-coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
 _Context: 2014 Thai coup d'tat, Bhumibol Adulyadej, King, Prayuth Chan-ocha_
 
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
 _Context: India's Prime Minister, Narendra Modi_
 
-### [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md)
+### [Egyptian presidential election, 2014. Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/egyptian-presidential-election-2014-voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fatta.md)
 _Context: Abdel Fattah el-Sisi, Egypt, Egyptian presidential election, 2014_
 
 ## [Previous Day...](/news/2014/05/25/index.md)

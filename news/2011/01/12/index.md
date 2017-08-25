@@ -3,7 +3,7 @@
 ### [Attacks by men armed with rifles and machetes kill 19 people in three villages, including Kuru Station and Fagawon in central Nigeria. ](/news/2011/01/12/attacks-by-men-armed-with-rifles-and-machetes-kill-19-people-in-three-villages-including-kuru-station-and-fagawon-in-central-nigeria.md)
 _Context: Nigeria_
 
-### [War in Afghanistan (2001-present):At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001apresent-pat-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md)
+### [War in Afghanistan (2001-present):. At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/war-in-afghanistan-2001-present-at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md)
 At least eight people are killed in attacks on Afghan intelligence forces in Kabul and the northern province of Kunduz.
 
 ### [The Jamaican Coast Guard intercepts a Honduran vessel fishing near Pedro Cays, killing the captain and wounding two crewmen. ](/news/2011/01/12/the-jamaican-coast-guard-intercepts-a-honduran-vessel-fishing-near-pedro-cays-killing-the-captain-and-wounding-two-crewmen.md)
@@ -12,7 +12,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md)
 _Context: Angela Merkel, EUR, German Chancellor, Germany, Italian, Italian Prime Minister, Silvio Berlusconi_
 
-### [Australian floodsThe floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floodspthe-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md)
+### [Australian floods. The floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floods-the-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md)
 Brisbane is preparing for the full impact of its worst flooding in more than 100 years, with officials warning almost 20,000 homes in the city will be flooded by early tomorrow morning.
 
 ### [At least 18 people are killed and one million are made homeless following flooding in Sri Lanka. ](/news/2011/01/12/at-least-18-people-are-killed-and-one-million-are-made-homeless-following-flooding-in-sri-lanka.md)
@@ -30,7 +30,7 @@ _Context: North Korea, Panmunjom, Red Cross, South Korea_
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
 _Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, Palestinian_
 
-### [2010-2011 Tunisian protests:Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010a2011-tunisian-protests-ptunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-order.md)
+### [2010-2011 Tunisian protests:. Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/2010-2011-tunisian-protests-tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orde.md)
 _Context: President, Tunisia, Zine El Abidine Ben Ali, demonstrations that toppled his regime_
 
 ### [The Sudan People's Liberation Army/Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. ](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.md)

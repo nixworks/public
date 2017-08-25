@@ -1,0 +1,23 @@
+### [2013-09-28](/news/2013/09/28/index.md)
+
+# Syrian civil war:. Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2013/09/28/us-syria-crisis-fighting-idUSBRE98R0A820130928)
+
+### Related:
+
+1. [Syrian Civil War. Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-civil-war-syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-o.md) _Context: Jordan, Syrian Civil War_
+2. [Syrian Civil War. The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. The Syrian government says Israel struck the military site with several missiles. Israeli Intelligence Minister Yisrael Katz states that the strike "corresponds completely with Israel's policy". ](/news/2017/04/27/syrian-civil-war-the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire.md) _Context: Syrian Civil War, military_
+3. [Syrian Civil War. The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/syrian-civil-war-the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at.md) _Context: Syrian Civil War, military_
+4. [Syrian Civil War. Battle of al-Bab. Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-civil-war-battle-of-al-bab-syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-h.md) _Context: Syrian Civil War, military_
+5. [Syrian Civil War. A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/syrian-civil-war-a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-n.md) _Context: Jordan, Syrian Civil War_
+6. [Syrian Civil War. Aleppo offensive (November 2016). Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-civil-war-aleppo-offensive-november-2016-syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third.md) _Context: Syrian Civil War, military_
+7. [Syrian Civil War. Aleppo offensive (November 2016). Government forces have captured most of Hanano, the largest rebel-controlled district in eastern Aleppo, and have begun pushing into neighboring 'Ard Al-Hamra and Jabal Badro districts. ](/news/2016/11/26/syrian-civil-war-aleppo-offensive-november-2016-government-forces-have-captured-most-of-hanano-the-largest-rebel-controlled-district-in.md) _Context: Syrian Civil War, military_
+8. [Syrian civil war. Hours after the Syrian military declares the end of the ceasefire, an airstrike hits a convoy of United Nations OCHA aid trucks near the town of Urum al-Kubra, in the Aleppo Governorate, with the Syrian Observatory for Human Rights reporting that at least 12 people have been killed. ](/news/2016/09/19/syrian-civil-war-hours-after-the-syrian-military-declares-the-end-of-the-ceasefire-an-airstrike-hits-a-convoy-of-united-nations-ocha-aid-t.md) _Context: Syrian Civil War, military_
+9. [Syrian Civil War. Russian war planes allegedly bomb a refugee camp near the border with Jordan, killing at least eight people. ](/news/2016/07/13/syrian-civil-war-russian-war-planes-allegedly-bomb-a-refugee-camp-near-the-border-with-jordan-killing-at-least-eight-people.md) _Context: Jordan, Syrian Civil War_
+10. [ Syrian civil war. Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-civil-war-syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-in.md) _Context: Syrian Civil War, military_

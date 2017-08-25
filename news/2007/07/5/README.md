@@ -3,10 +3,10 @@
 ### [ Scientists announce the discovery of a new species of cephalopod, dubbed 'octosquid', found off the coast of Hawaii. ](/news/2007/07/5/scientists-announce-the-discovery-of-a-new-species-of-cephalopod-dubbed-octosquid-found-off-the-coast-of-hawaii.md)
 _Context: Hawaii, cephalopod, octosquid_
 
-### [ A gunman opens fire at the New York-New York Hotel & Casino in Las Vegas, Nevada, wounding three before being captured.  ](/news/2007/07/5/a-gunman-opens-fire-at-the-new-york-new-york-hotel-casino-in-las-vegas-nevada-wounding-three-before-being-captured.md)
+### [ A gunman opens fire at the New York-New York Hotel & Casino in Las Vegas, Nevada, wounding three before being captured. ](/news/2007/07/5/a-gunman-opens-fire-at-the-new-york-new-york-hotel-casino-in-las-vegas-nevada-wounding-three-before-being-captured.md)
 _Context: Las Vegas, Nevada, New York-New York Hotel & Casino_
 
-### [ The Nigerian kidnappers of three-year-old British toddler Margaret Hill threaten to kill her, unless her father, Port Harcourt bar owner Mike Hill, takes her place.  ](/news/2007/07/5/the-nigerian-kidnappers-of-three-year-old-british-toddler-margaret-hill-threaten-to-kill-her-unless-her-father-port-harcourt-bar-owner-mi.md)
+### [ The Nigerian kidnappers of three-year-old British toddler Margaret Hill threaten to kill her, unless her father, Port Harcourt bar owner Mike Hill, takes her place. ](/news/2007/07/5/the-nigerian-kidnappers-of-three-year-old-british-toddler-margaret-hill-threaten-to-kill-her-unless-her-father-port-harcourt-bar-owner-mi.md)
 _Context: Britain, Nigeria, Port Harcourt_
 
 ### [ A 6.1 magnitude earthquake hits the southern state of Chiapas in Mexico. ](/news/2007/07/5/a-6-1-magnitude-earthquake-hits-the-southern-state-of-chiapas-in-mexico.md)
@@ -30,7 +30,7 @@ _Context: Longueuil, Montreal_
 ### [ Two die and seven are seriously injured when a small plane crashes after missing the runway at Aerfort na Minna, in County Galway, Ireland. ](/news/2007/07/5/two-die-and-seven-are-seriously-injured-when-a-small-plane-crashes-after-missing-the-runway-at-aerfort-na-minna-in-county-galway-ireland.md)
 Two people have been killed and seven others injured following a plane crash in Indreabhán in Connemara, Galway.
 
-### [ 12 boats capsize during a junior regatta in Dn Laoghaire, Ireland, on the Irish Sea, with 120 children swept out to sea. All have been rescued, according to the Irish Coast Guard, although 15 have been brought to hospital.  ](/news/2007/07/5/12-boats-capsize-during-a-junior-regatta-in-dun-laoghaire-ireland-on-the-irish-sea-with-120-children-swept-out-to-sea-all-have-been-res.md)
+### [ 12 boats capsize during a junior regatta in Dn Laoghaire, Ireland, on the Irish Sea, with 120 children swept out to sea. All have been rescued, according to the Irish Coast Guard, although 15 have been brought to hospital. ](/news/2007/07/5/12-boats-capsize-during-a-junior-regatta-in-dun-laoghaire-ireland-on-the-irish-sea-with-120-children-swept-out-to-sea-all-have-been-res.md)
 14 children and one adult have been taken to hospital after around 12 vessels capsized in high winds near Dún Laoghaire Harbour.
 
 ### [ Eleven people are injured when a staircase collapses at the Natural History Museum in Dublin. ](/news/2007/07/5/eleven-people-are-injured-when-a-staircase-collapses-at-the-natural-history-museum-in-dublin.md)

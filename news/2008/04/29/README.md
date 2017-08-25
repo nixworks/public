@@ -1,12 +1,12 @@
 ## [2008-04-29](/news/2008/04/29/index.md)
 
-### [  The S&P/Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-2.md)
+### [ Economy of the United States. The S&P/Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/economy-of-the-united-states-the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-t.md)
 _Context: Case-Shiller index, Economy of the United States, S&P, United States, real estate pricing_
 
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)
 _Context: Grand Theft Auto IV_
 
-### [ The Secretary-General of the United Nations Ban Ki-moon establishes a task force to tackle the 2007-2008 world food price crisis. ](/news/2008/04/29/the-secretary-general-of-the-united-nations-ban-ki-moon-establishes-a-task-force-to-tackle-the-2007a2008-world-food-price-crisis.md)
+### [ The Secretary-General of the United Nations Ban Ki-moon establishes a task force to tackle the 2007-2008 world food price crisis. ](/news/2008/04/29/the-secretary-general-of-the-united-nations-ban-ki-moon-establishes-a-task-force-to-tackle-the-2007-2008-world-food-price-crisis.md)
 _Context: Ban Ki-moon, Global food price crisis, Secretary General_
 
 ### [ An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. ](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.md)

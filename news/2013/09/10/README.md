@@ -1,12 +1,12 @@
 ## [2013-09-10](/news/2013/09/10/index.md)
 
-### [Syrian civil war:Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-phuman-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemica.md)
+### [Syrian civil war:. Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-human-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemic.md)
 _Context: Damascus, Human Rights Watch, Syria, Syrian Civil War, chemical weapons_
 
-### [Iraqi insurgency (post-U.S. withdrawal):Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-pbomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal)_
 
-### [2013 protests in Turkey:Clashes erupt across the country after the funeral of a 22-year-old student activist and security forces respond by teargas and water cannons. ](/news/2013/09/10/2013-protests-in-turkey-pclashes-erupt-across-the-country-after-the-funeral-of-a-22-year-old-student-activist-and-security-forces-respond-by.md)
+### [2013 protests in Turkey:. Clashes erupt across the country after the funeral of a 22-year-old student activist and security forces respond by teargas and water cannons. ](/news/2013/09/10/2013-protests-in-turkey-clashes-erupt-across-the-country-after-the-funeral-of-a-22-year-old-student-activist-and-security-forces-respond-b.md)
 Clashes have erupted across Turkey following an activist&#039;s funeral, whose death sparked anti-government scenes of violence similar to those that engulfed the country in the summer.
 
 ### [Miley Cyrus breaks the record for the greatest number of views in 24 hours with her latest video Wrecking Ball. The video, uploaded on Monday, has 19.3 million views after a single day, and many people complain about this video. This has been her second record, and the third Vevo record video to become a frequent target for negative comments, the others being Stupid Hoe by Nicki Minaj and We Can't Stop by Miley Cyrus, the latter record set earlier this year.](/news/2013/09/10/miley-cyrus-breaks-the-record-for-the-greatest-number-of-views-in-24-hours-with-her-latest-video-wrecking-ball-the-video-uploaded-on-monda.md)
@@ -15,7 +15,7 @@ Singer&#39;s provocative clip beats One Direction&#39;s Best Song Ever video wit
 ### [Alcoa, Hewlett-Packard, and Bank of America will be dropped from the Dow Jones Industrial Average from next week to be replaced by Visa Inc., Nike, Inc and Goldman Sachs. ](/news/2013/09/10/alcoa-hewlett-packard-and-bank-of-america-will-be-dropped-from-the-dow-jones-industrial-average-from-next-week-to-be-replaced-by-visa-inc.md)
 _Context: Alcoa, Bank of America, Dow Jones Industrial Average, Goldman Sachs, Hewlett-Packard, Nike, Inc., Visa Inc._
 
-### [Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS ''Amundsen'' crashes in the Arctic Ocean. ](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.md)
+### [Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS "Amundsen" crashes in the Arctic Ocean. ](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.md)
 A Canadian Coast Guard helicopter crashed into the Arctic Ocean Monday, killing all three people on board.
 
 ### [All four defendants in the 2012 Delhi gang rape case are found guilty of rape and murder. ](/news/2013/09/10/all-four-defendants-in-the-2012-delhi-gang-rape-case-are-found-guilty-of-rape-and-murder.md)

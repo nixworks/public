@@ -1,15 +1,15 @@
 ## [2011-04-11](/news/2011/04/11/index.md)
 
-### [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md)
+### [2011 Syrian protests. Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md)
 _Context: Damascus University, Syrian uprising_
 
-### [2011 Egyptian revolution:Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-pdemonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md)
+### [2011 Egyptian revolution:. Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md)
 Essam Sharaf apologises for violence against demonstrators in Tahrir Square and calls for judicial investigation.
 
 ### [At least 11 people are killed and dozens are injured in the blast at Oktyabrskaya metro station in Minsk. ](/news/2011/04/11/at-least-11-people-are-killed-and-dozens-are-injured-in-the-blast-at-oktyabrskaya-metro-station-in-minsk.md)
 Belarusian security forces confirmed that 12 people were killed when a blast ripped through Oktyabrskaya metro station in Minsk during the evening rush hour. At least 149 were injured.
 
-### [2010-2011 Ivorian crisis/Second Ivorian Civil War:Laurent Gbagbo is captured and arrested in Abidjan. Gbagbo has been reportedly taken to the headquarters of Alassane Ouattara. French reports claim he was captured by Ouattara supporters while contradictory reports suggest he was captured by French special forces. ](/news/2011/04/11/2010-2011-ivorian-crisis-second-ivorian-civil-war-plaurent-gbagbo-is-captured-and-arrested-in-abidjan-gbagbo-has-been-reportedly-taken-to-t.md)
+### [2010-2011 Ivorian crisis/Second Ivorian Civil War:. Laurent Gbagbo is captured and arrested in Abidjan. Gbagbo has been reportedly taken to the headquarters of Alassane Ouattara. French reports claim he was captured by Ouattara supporters while contradictory reports suggest he was captured by French special forces. ](/news/2011/04/11/2010-2011-ivorian-crisis-second-ivorian-civil-war-laurent-gbagbo-is-captured-and-arrested-in-abidjan-gbagbo-has-been-reportedly-taken-to.md)
 Ivory&#x20;Coast&#x20;strongman&#x20;Laurent&#x20;Gbagbo&#x20;has&#x20;been&#x20;captured&#x20;and&#x20;taken&#x20;to&#x20;the&#x20;Abidjan&#x20;headquarters&#x20;of&#x20;his&#x20;rival&#x20;for&#x20;the&#x20;presidency,&#x20;Alassane&#x20;Ouattara.&#x20;Look&#x20;back&#x20;on&#x20;Monday&#x27;s&#x2...
 
 ### [2011 Libyan civil war: Libyan rebels reject an African Union peace plan because it does not include the removal of Gaddafi from Libya. ](/news/2011/04/11/2011-libyan-civil-war-libyan-rebels-reject-an-african-union-peace-plan-because-it-does-not-include-the-removal-of-gaddafi-from-libya.md)
@@ -66,7 +66,7 @@ The Sex Discrimination Commissioner will hold a wide-ranging inquiry into the wa
 ### [The President of Yemen Ali Abdullah Saleh welcomes a proposal by the Gulf Cooperation Council that would see him stand aside for his Vice-President. ](/news/2011/04/11/the-president-of-yemen-ali-abdullah-saleh-welcomes-a-proposal-by-the-gulf-cooperation-council-that-would-see-him-stand-aside-for-his-vice-pr.md)
 _Context: Gulf Cooperation Council, Saleh, Yemeni President_
 
-### [British Prime Minister David Cameron is criticised by the University of Oxford for an  "incorrect and highly misleading" claim that only one black student was enrolled there in 2009. During a question and answer session on the effect of higher tuition fees on poorer students, Cameron had called the figures "disgraceful". The University says that at least 26 black students started there that year. ](/news/2011/04/11/british-prime-minister-david-cameron-is-criticised-by-the-university-of-oxford-for-an-incorrect-and-highly-misleading-claim-that-only-one.md)
+### [British Prime Minister David Cameron is criticised by the University of Oxford for an "incorrect and highly misleading" claim that only one black student was enrolled there in 2009. During a question and answer session on the effect of higher tuition fees on poorer students, Cameron had called the figures "disgraceful". The University says that at least 26 black students started there that year. ](/news/2011/04/11/british-prime-minister-david-cameron-is-criticised-by-the-university-of-oxford-for-an-incorrect-and-highly-misleading-claim-that-only-one.md)
 Oxford University hits back at Prime Minister David Cameron after he says only one black UK student started studying there in 2009.
 
 ### [In a confidential letter to Liberal Democrat leader Nick Clegg, the party's former leader of Liverpool City Council, Warren Bradley, urges Clegg to pull out of the coalition government before the Lib Dems "disappears into the annals of history". ](/news/2011/04/11/in-a-confidential-letter-to-liberal-democrat-leader-nick-clegg-the-party-s-former-leader-of-liverpool-city-council-warren-bradley-urges-c.md)

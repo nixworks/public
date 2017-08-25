@@ -1,0 +1,24 @@
+### [2010-10-5](/news/2010/10/5/index.md)
+
+# TVNZ "Breakfast" race row:. "Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. 
+
+Paul Henry has been suspended by TVNZ for comments he made yesterday about the Governor-General Sir Anand Satyanand. - New Zealand Herald
+
+
+### Source:
+
+1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678313)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678459)
+
+### Related:
+
+1. [TVNZ "Breakfast" race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviour.md) _Context: Breakfast, Paul Henry, TVNZ_
+2. [TVNZ "Breakfast" race row:. Suspended TVNZ broadcaster Paul Henry is embroiled in further controversy as his mockery of Delhi Chief Minister Sheila Dikshit is declared "racist" and "unacceptable" and New Zealand's ambassador to India is summoned for a dressing down. ](/news/2010/10/7/tvnz-breakfast-race-row-suspended-tvnz-broadcaster-paul-henry-is-embroiled-in-further-controversy-as-his-mockery-of-delhi-chief-minister.md) _Context: Breakfast, Paul Henry, TVNZ_
+3. [TVNZ race row:. John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henr.md) _Context: John Key, Paul Henry, TVNZ_
+4. [Minister of Maori Affairs Pita Sharples adds his name to calls for suspended TVNZ broadcaster Paul Henry to be sacked after he manages to upset most of India. ](/news/2010/10/9/minister-of-maori-affairs-pita-sharples-adds-his-name-to-calls-for-suspended-tvnz-broadcaster-paul-henry-to-be-sacked-after-he-manages-to-u.md) _Context: Paul Henry, TVNZ_
+5. [New Zealand National Party leadership election, 2016. Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/new-zealand-national-party-leadership-election-2016-australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-maj.md) _Context: John Key_
+6. [John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. ](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.md) _Context: John Key_
+7. [Fiji-New Zealand relations. New Zealand Prime Minister John Key visits Fiji, the first time a Kiwi leader has done so since the 2006 coup d'etat. Key is hoping to improve relations between the two countries though it's clear their political tensions don't have easy solutions. ](/news/2016/06/9/fiji-new-zealand-relations-new-zealand-prime-minister-john-key-visits-fiji-the-first-time-a-kiwi-leader-has-done-so-since-the-2006-coup.md) _Context: John Key_
+8. [Tea tape scandal. New Zealand Prime Minister John Key settles a defamation case with freelance cameraman Bradley Ambrose, acknowledging comments he made about the man caused him professional and personal harm. ](/news/2016/03/21/tea-tape-scandal-new-zealand-prime-minister-john-key-settles-a-defamation-case-with-freelance-cameraman-bradley-ambrose-acknowledging-comm.md) _Context: John Key_
+9. [New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru-s detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-de.md) _Context: John Key_
+10. [Military intervention against ISIL. John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md) _Context: John Key_

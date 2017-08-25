@@ -1,6 +1,6 @@
 ### [2016-04-28](/news/2016/04/28/index.md)
 
-# Comcast's NBCUniversal acquires  Dreamworks Animation for $3.8 billion. 
+# Comcast's NBCUniversal acquires Dreamworks Animation for $3.8 billion. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Comcast_
+1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.-s Web business, including Yahoo Japan Corp., next week. Google, Time Inc., and private equity funds Bain and TPG are considering bidding for Yahoo-s core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-s-web-business-including-yahoo-japan-corp-next-week-google-t.md) _Context: Comcast_
 2. [Bloomberg News reports that Comcast will walk away from its $45 billion takeover for Time Warner Cable. ](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.md) _Context: Comcast_
 3. [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md) _Context: Comcast_
 4. [NBCUniversal buys full control of the US news website MSNBC.com and rebrands it as NBCNews.com. ](/news/2012/07/16/nbcuniversal-buys-full-control-of-the-us-news-website-msnbc-com-and-rebrands-it-as-nbcnews-com.md) _Context: NBCUniversal_

@@ -12,7 +12,7 @@ _Context: Iran, Sajjil, medium-range ballistic missile, nuclear scientist, surfa
 ### [ An Air Force C-130 Hercules aircraft crashes in Java, Indonesia, killing at least 98 people. ](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.md)
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.
 
-### [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md)
+### [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md)
 _Context: Brian Mulroney, Canada, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, defense contractor, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
@@ -27,7 +27,7 @@ _Context: AMISOM, African Union, Mogadishu, Somalia, War in Somalia (2009-), civ
 ### [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Japan, Japanese economy, fiscal year_
 
-### [ Ireland's Commission to Inquire into Child Abuse concludes that the Roman Catholic Church and the Department of Education knew sexual abuse was "endemic" in boys' institutions. ](/news/2009/05/20/ireland-s-commission-to-inquire-into-child-abuse-concludes-that-the-roman-catholic-church-and-the-department-of-education-knew-sexual-abuse.md)
+### [ Ireland's Commission to Inquire into Child Abuse concludes that the Roman Catholic Church and the Department of Education knew sexual abuse was "endemic" in boys- institutions. ](/news/2009/05/20/ireland-s-commission-to-inquire-into-child-abuse-concludes-that-the-roman-catholic-church-and-the-department-of-education-knew-sexual-abuse.md)
 _Context:  within the church, Commission to Inquire into Child Abuse, Department of Education, Ireland, Roman Catholic Church, boys' institutions, endemic, sexual abuse_
 
 ### [ A car bomb kills at least 34 people and injures 72 others in Baghdad, Iraq. ](/news/2009/05/20/a-car-bomb-kills-at-least-34-people-and-injures-72-others-in-baghdad-iraq.md)
@@ -39,7 +39,7 @@ _Context: Canada, Ontario, Ontario Provincial Police, Victoria Stafford, Woodsto
 ### [ FC Shakhtar Donetsk defeat SV Werder Bremen to win the final UEFA Cup. ](/news/2009/05/20/fc-shakhtar-donetsk-defeat-sv-werder-bremen-to-win-the-final-uefa-cup.md)
 Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League...
 
-### [ Kris Allen is crowned the new ''American Idol''.](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.md)
+### [ Kris Allen is crowned the new "American Idol".](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.md)
 _Context: American Idol, Kris Allen_
 
 ## [Previous Day...](/news/2009/05/19/index.md)

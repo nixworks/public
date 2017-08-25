@@ -1,6 +1,6 @@
 ## [2010-02-24](/news/2010/02/24/index.md)
 
-### [The discovery of the sauropod genus ''Abydosaurus'' is announced. ](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus-is-announced.md)
+### [The discovery of the sauropod genus "Abydosaurus" is announced. ](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus-is-announced.md)
 FOSSIL HUNTERS have done it again, unearthing a previously unknown species of dinosaur
 
 ### [Toyota's President Akio Toyoda apologises to the United States Congress for safety problems that led to deaths and worldwide recalls of its vehicles. ](/news/2010/02/24/toyota-s-president-akio-toyoda-apologises-to-the-united-states-congress-for-safety-problems-that-led-to-deaths-and-worldwide-recalls-of-its.md)

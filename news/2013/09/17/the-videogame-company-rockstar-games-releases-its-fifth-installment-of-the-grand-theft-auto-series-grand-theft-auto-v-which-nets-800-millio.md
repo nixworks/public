@@ -7,4 +7,4 @@
 
 ### Related:
 
-1. [The video game ''Grand Theft Auto V'' becomes the fastest single entertainment product to reach sales of US$1 billion. ](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-fastest-single-entertainment-product-to-reach-sales-of-us-1-billion.md) _Context: Grand Theft Auto V_
+1. [The video game "Grand Theft Auto V" becomes the fastest single entertainment product to reach sales of US$1 billion. ](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-fastest-single-entertainment-product-to-reach-sales-of-us-1-billion.md) _Context: Grand Theft Auto V_

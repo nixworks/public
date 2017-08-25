@@ -21,7 +21,7 @@ _Context: "Jack" Thomas, Appeals Court, Australian Anti-Terrorism Act 2005, Paki
 ### [ The United States military claims to have captured a senior leader of Al-Qaeda in Iraq. ](/news/2006/12/20/the-united-states-military-claims-to-have-captured-a-senior-leader-of-al-qaeda-in-iraq.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ The EUR752 million, 5-kilometre Dublin Port Tunnel opens almost 2 years (23 months) after its originally planned date. ](/news/2006/12/20/the-a-752-million-5-kilometre-dublin-port-tunnel-opens-almost-2-years-23-months-after-its-originally-planned-date.md)
+### [ The -752 million, 5-kilometre Dublin Port Tunnel opens almost 2 years (23 months) after its originally planned date. ](/news/2006/12/20/the-752-million-5-kilometre-dublin-port-tunnel-opens-almost-2-years-23-months-after-its-originally-planned-date.md)
 Dublin Port Tunnel was opened to trucks this afternoon after suffering last-minute delays.
 
 ## [Previous Day...](/news/2006/12/19/index.md)

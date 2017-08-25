@@ -1,6 +1,6 @@
 ### [2009-08-31](/news/2009/08/31/index.md)
 
-#  Jason Mraz's ''I'm Yours'' becomes the longest running single in the Billboard Hot 100's history at 71 weeks on the chart. 
+#  Jason Mraz's "I'm Yours" becomes the longest running single in the Billboard Hot 100's history at 71 weeks on the chart. 
 
 
 

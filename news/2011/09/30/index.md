@@ -3,7 +3,7 @@
 ### [Al Qaeda in the Arabian Peninsula leader and U.S. citizen Anwar al-Awlaki is reported killed in Yemen. ](/news/2011/09/30/al-qaeda-in-the-arabian-peninsula-leader-and-u-s-citizen-anwar-al-awlaki-is-reported-killed-in-yemen.md)
 _Context: Anwar al-Awlaki, U.S. citizen, Yemen, al-Qaida_
 
-### [Heather Shanholtz received an award for ''Best Swimwear Model'' for 2011 at the Women in the Arts Awards. ](/news/2011/09/30/heather-shanholtz-received-an-award-for-best-swimwear-model-for-2011-at-the-women-in-the-arts-awards.md)
+### [Heather Shanholtz received an award for "Best Swimwear Model" for 2011 at the Women in the Arts Awards. ](/news/2011/09/30/heather-shanholtz-received-an-award-for-best-swimwear-model-for-2011-at-the-women-in-the-arts-awards.md)
 Women in the Arts Awards and Pachi Lake&#8217;s Fashion Show 09/30/2011, Press Meet/Greet @ 8:00 pm Red Carpet 9pm The Newport Beach Hotel and Resort 16701 Collins Avenue Miami Beach, Florida 33160 Dinner Reservations for guests at 305.949.1300 No cover charge. The Ladies being honored will be a par...
 
 ### [The death toll in the Philippines from Typhoon Nesat reaches 43 with Typhoon Nalgae expected to cause further flood problems. ](/news/2011/09/30/the-death-toll-in-the-philippines-from-typhoon-nesat-reaches-43-with-typhoon-nalgae-expected-to-cause-further-flood-problems.md)

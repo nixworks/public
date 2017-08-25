@@ -1,6 +1,6 @@
 ### [2014-05-10](/news/2014/05/10/index.md)
 
-# ''Rise Like a Phoenix'' by Austrian singer Conchita Wurst wins the Eurovision Song Contest. 
+# "Rise Like a Phoenix" by Austrian singer Conchita Wurst wins the Eurovision Song Contest. 
 
 
 

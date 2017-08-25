@@ -1,6 +1,6 @@
 ## [2009-07-12](/news/2009/07/12/index.md)
 
-### [ Chinese Foreign Minister  Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-br.md)
+### [ Chinese Foreign Minister Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-bro.md)
 _Context: Ahmet Davutoglu, Xinjiang Uighur Autonomous Region, Yang, ethnic riots_
 
 ### [ Countries in the Middle East take precautionary measures to control the spread of H1N1 during and after the Hajj, where several million Muslims from all over the world will arrive in Mecca for the annual pilgrimage in late November. ](/news/2009/07/12/countries-in-the-middle-east-take-precautionary-measures-to-control-the-spread-of-h1n1-during-and-after-the-hajj-where-several-million-mus.md)

@@ -1,6 +1,6 @@
 ## [2012-06-25](/news/2012/06/25/index.md)
 
-### [Syrian uprising (2011-present):At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/syrian-uprising-2011-present-pat-least-33-army-officers-including-a-general-defect-to-turkey.md)
+### [Syrian uprising (2011-present):. At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/syrian-uprising-2011-present-at-least-33-army-officers-including-a-general-defect-to-turkey.md)
 Several high-ranking Syrian military figures reportedly defect to Turkey, amid heightened tensions over the downing of a Turkish warplane.
 
 ### [At least 40 people are injured due to a fire attack by protesters on a religious shrine in India. ](/news/2012/06/25/at-least-40-people-are-injured-due-to-a-fire-attack-by-protesters-on-a-religious-shrine-in-india.md)
@@ -36,7 +36,7 @@ _Context: Bradley Manning, Fort Meade, Maryland_
 ### [The mother of Julian Assange reports that the WikiLeaks editor-in-chief has been "buoyed" by the public's support since he sought refuge in Ecuador's London embassy, refers to U.S. threats to withdraw billions of dollars in aid from Ecuador if it granted asylum, and condemns the Australian government, which has not sought to intervene on behalf of her son, as "nothing more than a puppet" of the United States. ](/news/2012/06/25/the-mother-of-julian-assange-reports-that-the-wikileaks-editor-in-chief-has-been-buoyed-by-the-public-s-support-since-he-sought-refuge-in.md)
 The mother of Wikileaks founder Julian Assange says he is &quot;buoyed&quot; by the support he has received since seeking refuge in the Ecuadorean embassy.
 
-### [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the ''Daily Mail'' and ''Mail on Sunday'', is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md)
+### [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md)
 _Context: Associated Newspapers, Channel 4, Daily Mail, Jon Snow, Leveson Inquiry, Mail on Sunday, News International_
 
 ### [Indian police report that Sayed Zabiuddin, a key figure allegedly involved in the planning of the deadly Mumbai attacks of 2008, is arrested. ](/news/2012/06/25/indian-police-report-that-sayed-zabiuddin-a-key-figure-allegedly-involved-in-the-planning-of-the-deadly-mumbai-attacks-of-2008-is-arrested.md)

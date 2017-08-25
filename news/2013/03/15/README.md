@@ -33,7 +33,7 @@ SEOUL - North Korea has tested short-range missiles in the Sea of Japan (known a
 ### [The Vatican denies claims that Pope Francis failed to speak out against human rights abuses during military dictatorship in Argentina. ](/news/2013/03/15/the-vatican-denies-claims-that-pope-francis-failed-to-speak-out-against-human-rights-abuses-during-military-dictatorship-in-argentina.md)
 The Vatican has denied that Pope Francis failed to speak out against human rights abuses during military rule in his native Argentina.
 
-### [Scientists working on the Lazarus Project announce that they have successfully rejuvenated cells of ''Rheobatrachus silus'', a species of frog extinct since 1983. ](/news/2013/03/15/scientists-working-on-the-lazarus-project-announce-that-they-have-successfully-rejuvenated-cells-of-rheobatrachus-silus-a-species-of-fr.md)
+### [Scientists working on the Lazarus Project announce that they have successfully rejuvenated cells of "Rheobatrachus silus", a species of frog extinct since 1983. ](/news/2013/03/15/scientists-working-on-the-lazarus-project-announce-that-they-have-successfully-rejuvenated-cells-of-rheobatrachus-silus-a-species-of-frog.md)
 The Lazarus Project team says they have been able to recover cell nuclei of the extinct gastric-brooding frog, Rheobatrachus silus, from tissues collected in the 1970s and kept for 40 years in a conventional deep freezer. The genome of Rheobatrachus silus, extinct since 1983, has been revived and re...
 
 ## [Previous Day...](/news/2013/03/14/index.md)

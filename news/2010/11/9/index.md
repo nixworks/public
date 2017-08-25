@@ -48,7 +48,7 @@ _Context: Taiwan, breastfeed_
 ### [Seventeen people including six employees of the Claims Conference in the United States have been charged with theft of $42 million from Holocaust compensation funds provided by the Government of Germany. ](/news/2010/11/9/seventeen-people-including-six-employees-of-the-claims-conference-in-the-united-states-have-been-charged-with-theft-of-42-million-from-holo.md)
 Seventeen people are charged in the US with stealing $42m of Holocaust compensation funds provided by the German government.
 
-### [Jordanian elections:Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-pjordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md)
+### [Jordanian elections:. Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md)
 Jordanians vote in parliamentary elections that have been boycotted by the strongest opposition party, the Islamic Action Front.
 
 ### [Hamas bans Fatah supporters from holding a rally in the Gaza Strip as representatives of the two parties prepare to meet in Syria to discuss ways of resolving the conflict between them. ](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.md)
@@ -60,7 +60,7 @@ _Context: Union Solidarity and Development Party, general elections_
 ### [The Chinese government prevents the lawyer for Nobel Peace Prize winner Liu Xiaobo from going to London to speak at a conference organised by the International Bar Association. ](/news/2010/11/9/the-chinese-government-prevents-the-lawyer-for-nobel-peace-prize-winner-liu-xiaobo-from-going-to-london-to-speak-at-a-conference-organised-b.md)
 David Cameron&#039;s visit to China has been overshadowed by human rights concerns after Chinese security forces barred the lawyer of Liu Xiaobo, the Chinese Nobel Peace prize winner, from leaving the country.
 
-### [Construction of a factory for the first fleet of commercial spaceships begins  at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
+### [Construction of a factory for the first fleet of commercial spaceships begins at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
 _Context: Mojave Air and Space Port, SpaceShipTwo, United States_
 
 ## [Previous Day...](/news/2010/11/8/index.md)

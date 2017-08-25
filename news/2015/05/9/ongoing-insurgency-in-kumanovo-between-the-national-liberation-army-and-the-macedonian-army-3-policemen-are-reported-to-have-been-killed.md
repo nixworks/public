@@ -12,4 +12,4 @@ Smoke, explosions and gunfire filled the streets of Kumanovo Saturday as Macedon
 
 ### Related:
 
-1. [Macedonia's Army begins erecting a metal fence on its southern border with Greece. Around 250 migrants later clash with Macedonian police on the border. ](/news/2015/11/28/macedonia-s-army-begins-erecting-a-metal-fence-on-its-southern-border-with-greece-around-250-migrants-later-clash-with-macedonian-police-on.md) _Context: Army_
+1. [European migrant crisis. Macedonian border crisis. Macedonia's Army begins erecting a metal fence on its southern border with Greece. Around 250 migrants later clash with Macedonian police on the border. ](/news/2015/11/28/european-migrant-crisis-macedonian-border-crisis-macedonia-s-army-begins-erecting-a-metal-fence-on-its-southern-border-with-greece-around.md) _Context: Army_

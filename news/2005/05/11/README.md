@@ -3,7 +3,7 @@
 ### [ President George W. Bush signs the Real ID Act into effect.](/news/2005/05/11/president-george-w-bush-signs-the-real-id-act-into-effect.md)
 _Context: George W. Bush, Real ID Act_
 
-### [ Guantnamo Bay Qur'an desecration allegations: Riots over a ''Newsweek'' story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-th.md)
+### [ Guantnamo Bay Qur'an desecration allegations: Riots over a "Newsweek" story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A Katyusha rocket hits the northern Israeli town of Shlomi, damaging a bakery but no injuries. The rocket appears to have been launched from within Lebanon while Israel celebrated its 57th Independence Day. ](/news/2005/05/11/a-katyusha-rocket-hits-the-northern-israeli-town-of-shlomi-damaging-a-bakery-but-no-injuries-the-rocket-appears-to-have-been-launched-fro.md)

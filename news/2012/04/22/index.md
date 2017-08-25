@@ -1,6 +1,6 @@
 ## [2012-04-22](/news/2012/04/22/index.md)
 
-### [Bahraini uprising:Renewed protests against the regime break out overnight with police firing tear gas and stun grenades at civilians. Chants of "Down with Hamad," calling for the King of Bahrain to be ousted from power, are reported by witnesses. ](/news/2012/04/22/bahraini-uprising-prenewed-protests-against-the-regime-break-out-overnight-with-police-firing-tear-gas-and-stun-grenades-at-civilians-chant.md)
+### [Bahraini uprising:. Renewed protests against the regime break out overnight with police firing tear gas and stun grenades at civilians. Chants of "Down with Hamad," calling for the King of Bahrain to be ousted from power, are reported by witnesses. ](/news/2012/04/22/bahraini-uprising-renewed-protests-against-the-regime-break-out-overnight-with-police-firing-tear-gas-and-stun-grenades-at-civilians-chan.md)
 Renewed clashes broke out in Bahrain overnight between hundreds of anti-government protesters and police just a few hours before a Formula One race.
 
 ### [One RKK (Runda Kumpulan Kecil) separatist group member and a Thai policeman are killed in a firefight in the village of Ruso in Thailand's Narathiwat Province. ](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.md)

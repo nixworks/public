@@ -1,19 +1,19 @@
 ## [2010-11-28](/news/2010/11/28/index.md)
 
-### [United States diplomatic cables leak and attack on WikiLeaks:The WikiLeaks website is attacked by a computer-hacking operation and undergoes "a mass distributed denial of service attack" as it prepares to release more secret U.S. documents. Julian Assange says U.S. authorities are afraid of being held accountable for their actions. ](/news/2010/11/28/united-states-diplomatic-cables-leak-and-attack-on-wikileaks-pthe-wikileaks-website-is-attacked-by-a-computer-hacking-operation-and-undergoe.md)
+### [United States diplomatic cables leak and attack on WikiLeaks:. The WikiLeaks website is attacked by a computer-hacking operation and undergoes "a mass distributed denial of service attack" as it prepares to release more secret U.S. documents. Julian Assange says U.S. authorities are afraid of being held accountable for their actions. ](/news/2010/11/28/united-states-diplomatic-cables-leak-and-attack-on-wikileaks-the-wikileaks-website-is-attacked-by-a-computer-hacking-operation-and-undergo.md)
 Whistle-blowing website Wikileaks says it is under attack from a computer-hacking operation ahead of a suspected release of secret US government documents.
 
-### [Korean peninsula:The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-pthe-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-fr.md)
+### [Korean peninsula:. The United States Navy and South Korean Navy hold exercises in the waters west of the Korean Peninsula despite warnings from North Korea. ](/news/2010/11/28/korean-peninsula-the-united-states-navy-and-south-korean-navy-hold-exercises-in-the-waters-west-of-the-korean-peninsula-despite-warnings-f.md)
 gyun and Jo Yong-hak
 
 ### [Israeli soldiers shoot and wound four Palestinians who were digging for gravel in northern Gaza Strip. ](/news/2010/11/28/israeli-soldiers-shoot-and-wound-four-palestinians-who-were-digging-for-gravel-in-northern-gaza-strip.md)
-### [Leslie Nielsen, famed for his roles in ''Airplane!'' and ''The Naked Gun'' series, dies at the age of 84 in Fort Lauderdale, Florida. ](/news/2010/11/28/leslie-nielsen-famed-for-his-roles-in-airplane-and-the-naked-gun-series-dies-at-the-age-of-84-in-fort-lauderdale-florida.md)
+### [Leslie Nielsen, famed for his roles in "Airplane!" and "The Naked Gun" series, dies at the age of 84 in Fort Lauderdale, Florida. ](/news/2010/11/28/leslie-nielsen-famed-for-his-roles-in-airplane-and-the-naked-gun-series-dies-at-the-age-of-84-in-fort-lauderdale-florida.md)
 Leslie Nielsen went from drama to inspired bumbling as a hapless doctor in Airplane! and the accident-prone detective Frank Drebin in The Naked Gun comedies.
 
 ### [Central China's Hunan Province begins building the country's third National Supercomputing Center (NSCC), where the world's fastest supercomputer, the Tianhe-1A, will be installed. ](/news/2010/11/28/central-china-s-hunan-province-begins-building-the-country-s-third-national-supercomputing-center-nscc-where-the-world-s-fastest-supercom.md)
 _Context: Hunan Province, National Supercomputing Center, Tianhe-1A, central China_
 
-### [Irish financial crisis:European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/irish-financial-crisis-peuropean-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agre.md)
+### [Irish financial crisis:. European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/irish-financial-crisis-european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agr.md)
 Europe’s finance ministers approved an 85 billion euro bailout and agreed on a fund to rescue indebted nations.
 
 ### [Fire damages Turkey's historic Haydarpasa Terminal in Istanbul. ](/news/2010/11/28/fire-damages-turkey-s-historic-haydarpaaa-terminal-in-istanbul.md)
@@ -34,10 +34,10 @@ _Context: Mogadishu, Somalia, Uganda, Yoweri Museveni_
 ### [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md)
 _Context: African Union, European Union, Libya, Omar al-Bashir, Sudan, Tripoli_
 
-### [More than 2,000 Brazilian police and military personnel enter the Alemao slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemapso-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts-t.md)
+### [More than 2,000 Brazilian police and military personnel enter the AlemGBPo slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemagbpo-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts.md)
 Security forces seized control of a violent slum, claiming victory in a weeklong battle against drug gangs that has claimed dozens of lives.
 
-### [Haitian general election, 2010:Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-pvoters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-th.md)
+### [Haitian general election, 2010:. Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/haitian-general-election-2010-voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-t.md)
 _Context: 2010 Haiti earthquake, Haiti, Haiti's presidential election, worst epidemic of cholera_
 
 ### [Voters in the Ivory Coast go to the polls for the second round of the Ivorian presidential election with violent clashes having occurred between rival supporters. ](/news/2010/11/28/voters-in-the-ivory-coast-go-to-the-polls-for-the-second-round-of-the-ivorian-presidential-election-with-violent-clashes-having-occurred-bet.md)

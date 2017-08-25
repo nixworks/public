@@ -30,7 +30,7 @@ Brazil, Argentina and Uruguay agree to close their ports to shipping bearing fla
 ### [Russian blogger Alexei Navalny and opposition leader Ilya Yashin are released. ](/news/2011/12/21/russian-blogger-alexei-navalny-and-opposition-leader-ilya-yashin-are-released.md)
 Alexei Navalny, a key figure in rallies that swept Russia after disputed parliamentary elections, leaves jail in Moscow promising new protests.
 
-### [Former ''Daily Mirror'' journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the.md)
+### [Former "Daily Mirror" journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the-pa.md)
 Phone hacking appeared to be a &quot;bog-standard journalistic tool&quot; for gathering information, a former Daily Mirror financial reporter says.
 
 ### [John Terry, the captain of the England football team is to face criminal charges over allegations he used racist language towards a black player during a Premier League game. ](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.md)

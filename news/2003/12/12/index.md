@@ -34,7 +34,7 @@ _Context: Ariel Sharon, Israel, Maariv_
 ### [ In the central province Bie, Angola, a land mine explodes and kills 6 Angolan staff of the international humanitarian organization, CARE. [http://story.news.yahoo.com/news?tmpl=story&u=/ap/20031218/ap_on_re_af/angola_mine_explosion]](/news/2003/12/12/in-the-central-province-bie-angola-a-land-mine-explodes-and-kills-6-angolan-staff-of-the-international-humanitarian-organization-care.md)
 _Context: Angola, land mine_
 
-### [ The documentary ''Anatomy of t.A.T.u.'', aired on STS, reveals that the two women of the Russian band t.A.T.u. are not lesbians, among other revelations.](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts-reveals-that-the-two-women-of-the-russian-band-t-a-t-u-are-not-lesbians-among-othe.md)
+### [ The documentary "Anatomy of t.A.T.u.", aired on STS, reveals that the two women of the Russian band t.A.T.u. are not lesbians, among other revelations.](/news/2003/12/12/the-documentary-anatomy-of-t-a-t-u-aired-on-sts-reveals-that-the-two-women-of-the-russian-band-t-a-t-u-are-not-lesbians-among-other.md)
 _Context: Anatomy of t.A.T.u., STS, lesbian, t.A.T.u._
 
 ### [ Saddam Hussein, former President of Iraq, was captured in Tikrit by the U.S. 4th Infantry Division](/news/2003/12/12/saddam-hussein-former-president-of-iraq-was-captured-in-tikrit-by-the-u-s-4th-infantry-division.md)

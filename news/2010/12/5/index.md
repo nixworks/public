@@ -1,6 +1,6 @@
 ## [2010-12-5](/news/2010/12/5/index.md)
 
-### [Attacks against WikiLeaks, Julian Assange and his lawyers:The WikiLeaks website is forced offline again. ](/news/2010/12/5/attacks-against-wikileaks-julian-assange-and-his-lawyers-pthe-wikileaks-website-is-forced-offline-again.md)
+### [Attacks against WikiLeaks, Julian Assange and his lawyers:. The WikiLeaks website is forced offline again. ](/news/2010/12/5/attacks-against-wikileaks-julian-assange-and-his-lawyers-the-wikileaks-website-is-forced-offline-again.md)
 _Context: Julian Assange, WikiLeaks, cyber-war_
 
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
@@ -18,7 +18,7 @@ Festivities mark 83rd birthday of Bhumibol Adulyadej amid concerns for his healt
 ### [An unpublished poem by Philip Larkin is found. ](/news/2010/12/5/an-unpublished-poem-by-philip-larkin-is-found.md)
 A newly-discovered poem by Philip Larkin will be heard for the first time on a BBC TV documentary about his relationship with his secretary.
 
-### [Roman Polanski's ''The Ghost Writer'' wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via  Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-sk.md)
+### [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md)
 _Context: Estonia, European Film Awards, Paris, Roman Polanski, Skype, The Ghost Writer_
 
 ### [20-year-old Nicole Faria from Bangalore, Miss India, wins the Miss Earth 2010 crown in Vinpearl Land, Nha Trang, Vietnam. ](/news/2010/12/5/20-year-old-nicole-faria-from-bangalore-miss-india-wins-the-miss-earth-2010-crown-in-vinpearl-land-nha-trang-vietnam.md)
@@ -52,7 +52,7 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
 _Context: Palestinian, West Bank_
 
-### [United States diplomatic cables leak:Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-pnewly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapa.md)
+### [United States diplomatic cables leak:. Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zap.md)
 _Context: 250,000 documents, Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)

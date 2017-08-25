@@ -36,7 +36,7 @@ Two apartment buildings collapsed in the southeastern Italian town of Conversano
 ### [At least 16 people die and 32 are injured after a bus falls into a ravine north of the Bolivian capital La Paz. ](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.md)
 _Context: Bolivia, La Paz, ravine_
 
-### [A small Pilatus PC-12/47 aircraft crashes in a remote rural area of Florida in the Tiger Creek Swamp area near Lake Wales, Florida, southeast of Lakeland, Florida in the central portion of the state.  The airplane began to break up at around 26,000 feet in southeastern Polk County, Florida. ](/news/2012/06/7/a-small-pilatus-pc-12-47-aircraft-crashes-in-a-remote-rural-area-of-florida-in-the-tiger-creek-swamp-area-near-lake-wales-florida-southeas.md)
+### [A small Pilatus PC-12/47 aircraft crashes in a remote rural area of Florida in the Tiger Creek Swamp area near Lake Wales, Florida, southeast of Lakeland, Florida in the central portion of the state. The airplane began to break up at around 26,000 feet in southeastern Polk County, Florida. ](/news/2012/06/7/a-small-pilatus-pc-12-47-aircraft-crashes-in-a-remote-rural-area-of-florida-in-the-tiger-creek-swamp-area-near-lake-wales-florida-southeas.md)
 _Context: Florida, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
 
 ### [CIA director David Petraeus makes an unofficial visit to Bulgaria, meeting the president and prime minister. ](/news/2012/06/7/cia-director-david-petraeus-makes-an-unofficial-visit-to-bulgaria-meeting-the-president-and-prime-minister.md)
@@ -45,7 +45,7 @@ _Context: Bulgaria, CIA, David Petraeus_
 ### [U.S. Secretary of Defense Leon Panetta makes an unannounced trip to Kabul and warns that his country is "reaching the limits of our patience here" with regard to Pakistan. ](/news/2012/06/7/u-s-secretary-of-defense-leon-panetta-makes-an-unannounced-trip-to-kabul-and-warns-that-his-country-is-reaching-the-limits-of-our-patience.md)
 Washington is losing patience with Pakistan over alleged safe havens for Taliban militants, US Defence Secretary Leon Panetta warns.
 
-### [An additional 550 settler homes are announced by Israeli construction minister Ariel Attias in addition to the 300 new settler homes ordered yesterday by the land's prime minister Benjamin Netanyahu at the Jewish settlement of Beit El in the West Bank.  ](/news/2012/06/7/an-additional-550-settler-homes-are-announced-by-israeli-construction-minister-ariel-attias-in-addition-to-the-300-new-settler-homes-ordered.md)
+### [An additional 550 settler homes are announced by Israeli construction minister Ariel Attias in addition to the 300 new settler homes ordered yesterday by the land's prime minister Benjamin Netanyahu at the Jewish settlement of Beit El in the West Bank. ](/news/2012/06/7/an-additional-550-settler-homes-are-announced-by-israeli-construction-minister-ariel-attias-in-addition-to-the-300-new-settler-homes-ordered.md)
 _Context: Ariel Attias, Beit El, Benjamin Netanyahu, Israel, West Bank_
 
 ### [UK government ministers announce their intention to boycott group games involving the England national football team at UEFA Euro 2012 in Ukraine. ](/news/2012/06/7/uk-government-ministers-announce-their-intention-to-boycott-group-games-involving-the-england-national-football-team-at-uefa-euro-2012-in-uk.md)

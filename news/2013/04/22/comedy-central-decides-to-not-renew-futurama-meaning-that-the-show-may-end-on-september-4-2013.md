@@ -1,6 +1,6 @@
 ### [2013-04-22](/news/2013/04/22/index.md)
 
-# Comedy Central decides to not renew ''Futurama'', meaning that the show may end on September 4, 2013. 
+# Comedy Central decides to not renew "Futurama", meaning that the show may end on September 4, 2013. 
 
 
 
@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [South African comedian Trevor Noah will succeed Jon Stewart as host of the television program ''The Daily Show'' on the Comedy Central network. ](/news/2015/03/30/south-african-comedian-trevor-noah-will-succeed-jon-stewart-as-host-of-the-television-program-the-daily-show-on-the-comedy-central-netwo.md) _Context: Comedy Central_
-2. [American comedian and satirist Jon Stewart, host of Comedy Central's ''The Daily Show'',  announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-du.md) _Context: Comedy Central_
+1. [South African comedian Trevor Noah will succeed Jon Stewart as host of the television program "The Daily Show" on the Comedy Central network. ](/news/2015/03/30/south-african-comedian-trevor-noah-will-succeed-jon-stewart-as-host-of-the-television-program-the-daily-show-on-the-comedy-central-network.md) _Context: Comedy Central_
+2. [American comedian and satirist Jon Stewart, host of Comedy Central's "The Daily Show", announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-due-t.md) _Context: Comedy Central_

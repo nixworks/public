@@ -3,7 +3,7 @@
 ### [ Australian Democrats leader Andrew Bartlett stands aside after allegedly assaulting Liberal Jeannie Ferris on the floor of Parliament. [http://www.abc.net.au/news/newsitems/s1005103.htm]](/news/2003/12/6/australian-democrats-leader-andrew-bartlett-stands-aside-after-allegedly-assaulting-liberal-jeannie-ferris-on-the-floor-of-parliament-htt.md)
 _Context: Andrew Bartlett, Australia, Democrats, Liberal Party, Parliament_
 
-### [ Occupation of Iraq: George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-p-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md)
+### [ Occupation of Iraq:. George W. Bush asks James Baker to oversee the reconstruction of Iraq's USD $125 billion foreign debt. ](/news/2003/12/6/occupation-of-iraq-george-w-bush-asks-james-baker-to-oversee-the-reconstruction-of-iraq-s-usd-125-billion-foreign-debt.md)
 _Context: George W. Bush, James Baker, USD_
 
 ### [ The USA admits that at least nine children have been mistakenly killed in a bombing attack near Ghazni, Afghanistan. [http://news.bbc.co.uk/2/hi/south_asia/3297575.stm][http://interestalert.com/brand/siteia.shtml?Story=st/sn/12060000aaa06ae9.upi&Sys=siteia&Fid=LATEBRKN&Type=News&Filter=Late%20Breaking]](/news/2003/12/6/the-usa-admits-that-at-least-nine-children-have-been-mistakenly-killed-in-a-bombing-attack-near-ghazni-afghanistan-http-news-bbc-co-uk.md)

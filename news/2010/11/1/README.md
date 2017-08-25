@@ -3,7 +3,7 @@
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
 _Context: Afghanistan's, Garmser, Helmand River, Lashkar Gah_
 
-### [Battle of Mogadishu (2010):At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-pat-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-tr.md)
+### [Battle of Mogadishu (2010):. At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md)
 _Context: African Union, Battle of Mogadishu (2010), Islamist, Mogadishu, Somalia, al-Shabaab militants_
 
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
@@ -33,7 +33,7 @@ China begins its first national census in 10 years as it tries to document its 1
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
 _Context: China, India, Japan_
 
-### [Ambac Financial Group announces that it may have to declare bankruptcy, though it is still in talks with its senior bondholders about a consensual rescheduling of its debts.  Before the 2008 financial crisis, Ambac was one of the two dominant bond insurance companies. ](/news/2010/11/1/ambac-financial-group-announces-that-it-may-have-to-declare-bankruptcy-though-it-is-still-in-talks-with-its-senior-bondholders-about-a-cons.md)
+### [Ambac Financial Group announces that it may have to declare bankruptcy, though it is still in talks with its senior bondholders about a consensual rescheduling of its debts. Before the 2008 financial crisis, Ambac was one of the two dominant bond insurance companies. ](/news/2010/11/1/ambac-financial-group-announces-that-it-may-have-to-declare-bankruptcy-though-it-is-still-in-talks-with-its-senior-bondholders-about-a-cons.md)
 * Chapter 11 possible this year, creditor talks continue * Bond insurer misses $2.8 million debt payment * Shares slide 50.4 percent (Add
 
 ### [An examiner appointed by the Delaware Bankruptcy court says that there is no value left in the estate of defunct bank Washington Mutual for the stockholders to receive anything. ](/news/2010/11/1/an-examiner-appointed-by-the-delaware-bankruptcy-court-says-that-there-is-no-value-left-in-the-estate-of-defunct-bank-washington-mutual-for.md)
@@ -48,7 +48,7 @@ _Context: Andhra Pradesh, Elamanchili, India, Nakapalli, Payakaraopeta, Rambilli
 ### [A large crater appears in the early hours in the central German town of Schmalkalden. ](/news/2010/11/1/a-large-crater-appears-in-the-early-hours-in-the-central-german-town-of-schmalkalden.md)
 _Context: Schmalkalden_
 
-### [Disputed islands:The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-pthe-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-ku.md)
+### [Disputed islands:. The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-k.md)
 _Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian President Vladimir Putin, rival territorial claims_
 
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
@@ -63,7 +63,7 @@ _Context: Canada, Canadian government, Guantanamo Bay Detention Camp, Omar Khadr
 ### [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md)
 _Context: Burma, general elections, go on sale_
 
-### [While attempting to open a mental health care facility in Dublin, Irish Health Minister Mary Harney is pelted with red paint by an opposition politician highlighting the "blood budget" which "will result in the unnecessary and avoidable deaths of hundreds, if not thousands, of people over the coming years". Harney is overseeing hospital cuts of EUR1 billion. ](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.md)
+### [While attempting to open a mental health care facility in Dublin, Irish Health Minister Mary Harney is pelted with red paint by an opposition politician highlighting the "blood budget" which "will result in the unnecessary and avoidable deaths of hundreds, if not thousands, of people over the coming years". Harney is overseeing hospital cuts of -1 billion. ](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.md)
 A councillor from the Éirígí party has been questioned by gardaí after red paint was thrown at Minister for Health Mary Harney at an event in Dublin.
 
 ## [Previous Day...](/news/2010/10/31/index.md)

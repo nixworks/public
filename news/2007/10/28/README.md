@@ -9,7 +9,7 @@ _Context: Ehud Olmert, Israeli Prime Minister, Recep Tayyip Erdogan, Turkey, Tur
 ### [ Numerous locations and machines in North America are affected by newly instituted rules governing daylight saving time. ](/news/2007/10/28/numerous-locations-and-machines-in-north-america-are-affected-by-newly-instituted-rules-governing-daylight-saving-time.md)
 Baltimore, Maryland issues tickets to legally parked motorists after smart parking meters implement daylight saving time a week early.
 
-### [ Apparel manufacturer Gap Inc. convenes all of its Indian suppliers to "forcefully reiterate" its prohibition on child labor after ''The Observer'' found children  young as 10 making clothing for it in a New Delhi sweatshop. ](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-its-indian-suppliers-to-forcefully-reiterate-its-prohibition-on-child-labor-after-the-obs.md)
+### [ Apparel manufacturer Gap Inc. convenes all of its Indian suppliers to "forcefully reiterate" its prohibition on child labor after "The Observer" found children young as 10 making clothing for it in a New Delhi sweatshop. ](/news/2007/10/28/apparel-manufacturer-gap-inc-convenes-all-of-its-indian-suppliers-to-forcefully-reiterate-its-prohibition-on-child-labor-after-the-obse.md)
 _Context: Gap Inc., India, New Delhi, The Observer, child labor, sweatshop_
 
 ### [ Israel reduces the flow of oil to the Hamas-controlled Gaza Strip. ](/news/2007/10/28/israel-reduces-the-flow-of-oil-to-the-hamas-controlled-gaza-strip.md)

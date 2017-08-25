@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [The Montreal band Arcade Fire wins the 2011 Polaris Music Prize for best Canadian album for ''The Suburbs''. ](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.md) _Context: Arcade Fire_
+1. [The Montreal band Arcade Fire wins the 2011 Polaris Music Prize for best Canadian album for "The Suburbs". ](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.md) _Context: Arcade Fire_

@@ -1,6 +1,6 @@
 ### [2007-10-1](/news/2007/10/1/index.md)
 
-#  The Colorado Rockies beat The San Diego Padres in  an extra-innings tiebreaker game to clinch a wild card birth to the playoffs
+#  The Colorado Rockies beat The San Diego Padres in an extra-innings tiebreaker game to clinch a wild card birth to the playoffs
 
 
 

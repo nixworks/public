@@ -3,7 +3,7 @@
 ### [Umaru Yar'Adua, President of Nigeria, dies at age 58. Acting President Goodluck Jonathan succeeds Yar'Adua as President in his own right. ](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.md)
 _Context: Goodluck Jonathan, President, Umaru Yar'Adua_
 
-### [One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-the-recent-papandreo.md)
+### [2010 Greek riots. One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/2010-greek-riots-one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-th.md)
 Protests against proposed spending cuts by the Greek government have turned violent, as protesters clashed with riot police and torched buildings, killing at least three people.
 
 ### [The Supreme Court of India in a landmark judgment declares the use of narco tests, brain mapping tests and lie detector tests by investigative agencies unconstitutional. ](/news/2010/05/5/the-supreme-court-of-india-in-a-landmark-judgment-declares-the-use-of-narco-tests-brain-mapping-tests-and-lie-detector-tests-by-investigati.md)
@@ -27,7 +27,7 @@ Press releases and news articles on the work of the European Parliament
 ### [A prominent journalist in Somalia, Sheikh Nur Abkey, is kidnapped and then killed in Mogadishu. ](/news/2010/05/5/a-prominent-journalist-in-somalia-sheikh-nur-abkey-is-kidnapped-and-then-killed-in-mogadishu.md)
 Islamist gunmen have shot deada prominent journalist in Mogadishu, the first reporter to bekilled in Somalia this year, one of his colleagues said onWednesday.
 
-### [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia's Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russiaas-caucasian-republic.md)
+### [Two men are killed and another one is wounded when unidentified gunmen open fire at a Lexus in the capital of Russia-s Caucasian republic of Dagestan, Makhachkala. ](/news/2010/05/5/two-men-are-killed-and-another-one-is-wounded-when-unidentified-gunmen-open-fire-at-a-lexus-in-the-capital-of-russia-s-caucasian-republic.md)
 _Context: Caucasus, Dagestan, Lexus, Makhachkala_
 
 ### [The European Parliament calls for tougher EU fiscal rulebook. ](/news/2010/05/5/the-european-parliament-calls-for-tougher-eu-fiscal-rulebook.md)

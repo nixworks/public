@@ -1,15 +1,15 @@
 ## [2014-08-18](/news/2014/08/18/index.md)
 
-### [War in Donbass:Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-pukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isolat.md)
+### [War in Donbass:. Ukrainian forces say they recapture control of Mala Ivanivka and Andrianivka from pro-Russian insurgents, effectively isolating the rebel controlled city of Horlivka. ](/news/2014/08/18/war-in-donbass-ukrainian-forces-say-they-recapture-control-of-mala-ivanivka-and-andrianivka-from-pro-russian-insurgents-effectively-isola.md)
 Ukrainian government forces pressed pro-Russian separatists in fighting overnight into Monday, encircling the rebel-held town of Horlivka and taking control of smaller settlements in eastern Ukraine, the military said.
 
-### [2014 Israel-Gaza conflict:Israeli Defence Forces destroy the homes of the three suspected murderers of the kidnapped teenagers on the West Bank. ](/news/2014/08/18/2014-israelagaza-conflict-pisraeli-defence-forces-destroy-the-homes-of-the-three-suspected-murderers-of-the-kidnapped-teenagers-on-the-wes.md)
+### [2014 Israel-Gaza conflict:. Israeli Defence Forces destroy the homes of the three suspected murderers of the kidnapped teenagers on the West Bank. ](/news/2014/08/18/2014-israel-gaza-conflict-israeli-defence-forces-destroy-the-homes-of-the-three-suspected-murderers-of-the-kidnapped-teenagers-on-the-we.md)
 Two of the suspects, Marwan Kawasame and Amar Abu Aysha remain at large; IDF says destruction of homes sends a severe deterrent message to terrorists and their helpers.
 
 ### [At least 160 people are reported dead in floods and landslides following days of heavy rain in northern India and Nepal. ](/news/2014/08/18/at-least-160-people-are-reported-dead-in-floods-and-landslides-following-days-of-heavy-rain-in-northern-india-and-nepal.md)
 At least 160 people are reported to have been killed in floods and landslides following days of torrential rain in Nepal and northern India.
 
-### [Death of Michael Brown:The Governor of the US state of Missouri, Jay Nixon, dispatches the Missouri National Guard to the St. Louis suburb of Ferguson following a week of often violent protest after the shooting of Michael Brown. ](/news/2014/08/18/death-of-michael-brown-pthe-governor-of-the-us-state-of-missouri-jay-nixon-dispatches-the-missouri-national-guard-to-the-st-louis-suburb.md)
+### [Death of Michael Brown:. The Governor of the US state of Missouri, Jay Nixon, dispatches the Missouri National Guard to the St. Louis suburb of Ferguson following a week of often violent protest after the shooting of Michael Brown. ](/news/2014/08/18/death-of-michael-brown-the-governor-of-the-us-state-of-missouri-jay-nixon-dispatches-the-missouri-national-guard-to-the-st-louis-suburb.md)
 _Context: Ferguson, Missouri, Governor, Jay Nixon, Missouri, Missouri National Guard, St. Louis's, deaths of Michael Brown_
 
 ### [Wikileaks founder Julian Assange, who is wanted for questioning in Sweden, says that he will leave his refuge in the Ecuadorean embassy in London "soon". ](/news/2014/08/18/wikileaks-founder-julian-assange-who-is-wanted-for-questioning-in-sweden-says-that-he-will-leave-his-refuge-in-the-ecuadorean-embassy-in-l.md)

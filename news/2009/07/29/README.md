@@ -1,6 +1,6 @@
 ## [2009-07-29](/news/2009/07/29/index.md)
 
-### [  The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md)
+### [ Nigerian battles. The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/nigerian-battles-the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md)
 _Context: Nigeria, Nigerian battles, alive when captured_
 
 ### [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md)
@@ -43,7 +43,7 @@ _Context: France, Nicolas Sarkozy, President of France, fainting, seizure_
 _Context: International Monetary Fund_
 
 ### [ Cuba and Russia sign a deal which allows Russia to begin oil exploration in the Gulf of Mexico. ](/news/2009/07/29/cuba-and-russia-sign-a-deal-which-allows-russia-to-begin-oil-exploration-in-the-gulf-of-mexico.md)
-_Context: Cuba, Gulf, Russia, crude oil_
+_Context: Cuba, Gulf of Mexico, Russia, crude oil_
 
 ### [ A rocket is launched from Kazakhstan carrying two British-built satellites designed to help monitor natural disasters. ](/news/2009/07/29/a-rocket-is-launched-from-kazakhstan-carrying-two-british-built-satellites-designed-to-help-monitor-natural-disasters.md)
 _Context: Britain, Kazakhstan, natural disaster_

@@ -12,6 +12,6 @@
 
 ### Related:
 
-1. [American actor Larry Hagman, best known for starring roles in ''Dallas'', ''I Dream of Jeannie'', and the 2012 revival of ''Dallas'', dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-f.md) _Context: throat cancer_
+1. [American actor Larry Hagman, best known for starring roles in "Dallas", "I Dream of Jeannie", and the 2012 revival of "Dallas", dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.md) _Context: throat cancer_
 2. [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md) _Context: Michael Douglas_
 3. [Catherine Zeta-Jones marries Michael Douglas at the Plaza Hotel, New York City.](/news/2000/11/18/catherine-zeta-jones-marries-michael-douglas-at-the-plaza-hotel-new-york-city.md) _Context: Michael Douglas_

@@ -6,7 +6,7 @@ _Context: Electricity, Paul VI Audience Hall, Vatican City, photovoltaic panels_
 ### [ A United States Department of Defense report warns of the growing power of the Chinese military. ](/news/2007/05/25/a-united-states-department-of-defense-report-warns-of-the-growing-power-of-the-chinese-military.md)
 _Context: Pentagon officials, defense spending_
 
-### [ The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the  murder of her husband. ](/news/2007/05/25/the-widow-of-anthony-ashley-cooper-10th-earl-of-shaftesbury-and-her-brother-are-found-guilty-of-the-murder-of-her-husband.md)
+### [ The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the murder of her husband. ](/news/2007/05/25/the-widow-of-anthony-ashley-cooper-10th-earl-of-shaftesbury-and-her-brother-are-found-guilty-of-the-murder-of-her-husband.md)
 _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, widow_
 
 ### [ Six foreign oil workers (two British, three American and one South African) have been kidnapped in Nigeria. ](/news/2007/05/25/six-foreign-oil-workers-two-british-three-american-and-one-south-african-have-been-kidnapped-in-nigeria.md)
@@ -24,7 +24,7 @@ _Context: Baltics, Nasdaq, OMX AB, SKr, Scandinavians, USD, stock exchange_
 ### [ Exit polls indicate that Taoiseach Bertie Ahern's Fianna Fil leads in the Irish General Election. ](/news/2007/05/25/exit-polls-indicate-that-taoiseach-bertie-ahern-s-fianna-fail-leads-in-the-irish-general-election.md)
 With all first counts completed, the RTE/Lansdowne Market Research poll, which was first broadcast on Morning Ireland this morning, was extremely close to the final first preference total.
 
-### [  The IAF carried out an air strike near the residence of Palestinian Prime Minister Ismail Haniyeh. The IDF said that the air strike was not targeting the Prime Minister, and was on a structure used by Hamas, located in the Shati refugee camp. Local residents said that an IAF missile hit a vehicle patrolling Haniyeh's home in Gaza, and that the attack wounded one person. ](/news/2007/05/25/the-iaf-carried-out-an-air-strike-near-the-residence-of-palestinian-prime-minister-ismail-haniyeh-the-idf-said-that-the-air-strike-was-no.md)
+### [ 2007 Israel-Gaza conflict. The IAF carried out an air strike near the residence of Palestinian Prime Minister Ismail Haniyeh. The IDF said that the air strike was not targeting the Prime Minister, and was on a structure used by Hamas, located in the Shati refugee camp. Local residents said that an IAF missile hit a vehicle patrolling Haniyeh's home in Gaza, and that the attack wounded one person. ](/news/2007/05/25/2007-israel-gaza-conflict-the-iaf-carried-out-an-air-strike-near-the-residence-of-palestinian-prime-minister-ismail-haniyeh-the-idf-said.md)
 _Context: 2007 Israel-Gaza conflict, Hamas, Ismail Haniyeh, Israeli Air Force, Israeli Defense Forces, Palestinian National Authority, Prime Minister_
 
 ### [ The Ostankino Tower has once again caught fire. The BBC reports that the fire is believed to be not as serious as that in 2000 and was isolated to a platform on the outside of the tower. The fire was successfully extinguished, with no casualties. ](/news/2007/05/25/the-ostankino-tower-has-once-again-caught-fire-the-bbc-reports-that-the-fire-is-believed-to-be-not-as-serious-as-that-in-2000-and-was-isol.md)

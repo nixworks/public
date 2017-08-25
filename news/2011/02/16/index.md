@@ -1,6 +1,6 @@
 ## [2011-02-16](/news/2011/02/16/index.md)
 
-### [PiracySouth Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/piracypsouth-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mog.md)
+### [Piracy. South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/piracy-south-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mo.md)
 _Context: Mogadishu, Muscat, Oman, Somali pirates, Somalia, South Korea, cargo ship_
 
 ### [Iranian state TV reports clashes between pro-government and anti-government forces at a funeral for someone killed in the 2011 Iranian protests. ](/news/2011/02/16/iranian-state-tv-reports-clashes-between-pro-government-and-anti-government-forces-at-a-funeral-for-someone-killed-in-the-2011-iranian-prote.md)
@@ -48,7 +48,7 @@ One of the first men charged with piracy in the United States since the Civil Wa
 ### [Three U.S. marshals are shot in Elkins, West Virginia, while trying to serve a warrant, resulting in the death of one marshal and the shooter. ](/news/2011/02/16/three-u-s-marshals-are-shot-in-elkins-west-virginia-while-trying-to-serve-a-warrant-resulting-in-the-death-of-one-marshal-and-the-shoote.md)
 _Context: Elkins, U.S. Marshal, West Virginia, arrest warrant_
 
-### [In an FBI Eurasian Organized Crime Task Force '''Operation Power Outage''', 74 members of Armenian Power criminal syndicate have been arrested on charges of racketeering offenses, bank fraud schemes, kidnappings, and drug trafficking. ](/news/2011/02/16/in-an-fbi-eurasian-organized-crime-task-force-operation-power-outage-74-members-of-armenian-power-criminal-syndicate-have-been-arrest.md)
+### [In an FBI Eurasian Organized Crime Task Force "'Operation Power Outage"', 74 members of Armenian Power criminal syndicate have been arrested on charges of racketeering offenses, bank fraud schemes, kidnappings, and drug trafficking. ](/news/2011/02/16/in-an-fbi-eurasian-organized-crime-task-force-operation-power-outage-74-members-of-armenian-power-criminal-syndicate-have-been-arrested.md)
 _Context: Armenian Power, Operation Power Outage_
 
 ### [An ally of outgoing Burmese ruler General Than Shwe resigns two weeks into the new parliament. ](/news/2011/02/16/an-ally-of-outgoing-burmese-ruler-general-than-shwe-resigns-two-weeks-into-the-new-parliament.md)
@@ -63,7 +63,7 @@ Anti-government protests continue in tiny kingdom, despite apology by king for t
 ### [The Hawaii Senate approves Hawaii Senate Bill 232 legalising civil unions for gay and lesbian couples and will be sent to the Governor Neil Abercrombie for approval. ](/news/2011/02/16/the-hawaii-senate-approves-hawaii-senate-bill-232-legalising-civil-unions-for-gay-and-lesbian-couples-and-will-be-sent-to-the-governor-neil.md)
 _Context: Governor, Hawaii Senate, Hawaii Senate Bill 232, Neil Abercrombie, civil union_
 
-### [IBM's Watson artificial intelligence program wins on the U.S. quiz show ''Jeopardy!'', defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121 (PC Mag)]  ''Watson'' used Wikipedia, among other sources, as its knowledge base ''[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]'' ''[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]'' ''[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]''](/news/2011/02/16/ibm-s-watson-artificial-intelligence-program-wins-on-the-u-s-quiz-show-jeopardy-defeating-brad-rutter-and-ken-jennings-the-series-m.md)
+### [IBM's Watson artificial intelligence program wins on the U.S. quiz show "Jeopardy!", defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121 (PC Mag)] "Watson" used Wikipedia, among other sources, as its knowledge base "[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]" "[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]" "[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]"](/news/2011/02/16/ibm-s-watson-artificial-intelligence-program-wins-on-the-u-s-quiz-show-jeopardy-defeating-brad-rutter-and-ken-jennings-the-series-mos.md)
 _Context: Brad Rutter, IBM, Jeopardy!, Ken Jennings, Watson, Wikipedia, artificial intelligence, knowledge base_
 
 ### [It is announced that people who suffer from Laron syndrome have a gene that inhibits cancer. ](/news/2011/02/16/it-is-announced-that-people-who-suffer-from-laron-syndrome-have-a-gene-that-inhibits-cancer.md)

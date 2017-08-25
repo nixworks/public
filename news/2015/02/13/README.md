@@ -1,27 +1,27 @@
 ## [2015-02-13](/news/2015/02/13/index.md)
 
-### [Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-with-dozens-wounded.md)
+### [Internal conflict in Burma. Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/internal-conflict-in-burma-several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-w.md)
 _Context: Internal conflict in Burma, Kokang offensive, Kokang rebels, Myanmar Army_
 
-### [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md)
+### [Assam conflict. A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/assam-conflict-a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-p.md)
 _Context: Assam, Assam conflict, India, Sepon, United Liberation Front of Assam_
 
-### [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md)
+### [War in Donbass. Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/war-in-donbass-ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-u.md)
 Eight Ukrainian service personnel have been killed and 34 wounded in fighting against separatists in eastern Ukraine in the past 24 hours, a Kiev military spokesman said on Friday, despite a four-power peace deal worked out in Belarus.
 
-### [Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-last-year-s-school-massacre.md)
+### [War in North-West Pakistan. Pakistan announces the arrest of twelve Tehrik-i-Taliban Pakistan in relation to their alleged involvement in last year's school massacre. ](/news/2015/02/13/war-in-north-west-pakistan-pakistan-announces-the-arrest-of-twelve-tehrik-i-taliban-pakistan-in-relation-to-their-alleged-involvement-in-la.md)
 At least 12 Taliban fighters held for their alleged involvement in attack that killed 150 people in December.
 
-### [Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attacked-the-village-of-ngoub.md)
+### [Boko Haram insurgency. Boko Haram militants attack Chad for the first time after 30 fighters crossed Lake Chad in four motorboats and attacked the village of Ngouboua. Chad recently joined Nigeria, Niger, and Cameroon in a military coalition against Boko Haram. ](/news/2015/02/13/boko-haram-insurgency-boko-haram-militants-attack-chad-for-the-first-time-after-30-fighters-crossed-lake-chad-in-four-motorboats-and-attack.md)
 Boko Haram militants from Nigeria attack a village on the shores of Lake Chad overnight, the first such attack on Chadian soil, officials say.
 
 ### [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md)
 _Context: Fitch Ratings, Ukraine, credit rating, junk bond_
 
-### [A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30.  ](/news/2015/02/13/a-bus-crashes-with-a-freight-train-in-the-mexican-state-of-nuevo-leon-killing-at-least-sixteen-people-and-injuring-30.md)
+### [A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30. ](/news/2015/02/13/a-bus-crashes-with-a-freight-train-in-the-mexican-state-of-nuevo-leon-killing-at-least-sixteen-people-and-injuring-30.md)
 At least 16 were killed and 30 injured in a collision between a freight train and a bus on a highway in the north of Mexico on Friday evening, an emergency official said.
 
-### [Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisherman.md)
+### [Ebola virus epidemic in West Africa. Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/ebola-virus-epidemic-in-west-africa-sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisher.md)
 _Context: Aberdeen, Ebola virus epidemic in West Africa, Freetown, Sierra Leone_
 
 ### [United Nations negotiators produce an early draft on an agreement to be put to a conference on climate change in Paris in December. ](/news/2015/02/13/united-nations-negotiators-produce-an-early-draft-on-an-agreement-to-be-put-to-a-conference-on-climate-change-in-paris-in-december.md)
@@ -36,7 +36,7 @@ Queensland Labor leader Annastacia Palaszczuk is confirmed as the state&#039;s n
 ### [Voters elect Wang Rong Chairman of the People's Political Consultative Conference of Guangdong province, in China, replacing Zhu Mingguo, who was dismissed for corruption. ](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.md)
 _Context: Guangdong, Wang Rong, Zhu Mingguo_
 
-### [The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State.  ](/news/2015/02/13/the-governor-of-oregon-john-kitzhaber-resigns-amid-allegations-his-fiancee-used-taxpayer-resources-to-aid-her-green-energy-consulting-busine.md)
+### [The Governor of Oregon John Kitzhaber resigns amid allegations his fiancee used taxpayer resources to aid her green-energy consulting business. Kate Brown moves up to Governor from being the Secretary of State. ](/news/2015/02/13/the-governor-of-oregon-john-kitzhaber-resigns-amid-allegations-his-fiancee-used-taxpayer-resources-to-aid-her-green-energy-consulting-busine.md)
 _Context: Governor of Oregon, John Kitzhaber, Kate Brown, Secretary of State_
 
 ## [Previous Day...](/news/2015/02/12/index.md)

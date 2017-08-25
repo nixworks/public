@@ -1,6 +1,6 @@
 ### [2009-03-12](/news/2009/03/12/index.md)
 
-#  Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial.  
+#  Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial. 
 
 
 

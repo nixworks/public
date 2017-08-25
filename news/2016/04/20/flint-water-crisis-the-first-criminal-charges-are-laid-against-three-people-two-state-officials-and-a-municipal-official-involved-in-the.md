@@ -1,0 +1,23 @@
+### [2016-04-20](/news/2016/04/20/index.md)
+
+# Flint water crisis. The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. 
+
+
+
+
+### Source:
+
+1. [New York Times](http://www.nytimes.com/2016/04/21/us/first-criminal-charges-are-filed-in-flint-water-crisis.html?emc=edit_na_20160420&nlid=66213151&ref=cta)
+
+### Related:
+
+1. [Flint water crisis. A Federal appeals court upholds the November 10 lower court order that Michigan must deliver bottled water or provide in-home filtration to all qualified residents affected by lead contamination in the city of Flint. ](/news/2016/12/16/flint-water-crisis-a-federal-appeals-court-upholds-the-november-10-lower-court-order-that-michigan-must-deliver-bottled-water-or-provide-in.md) _Context: Flint water crisis, Flint, Michigan_
+2. [Flint water crisis. According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/flint-water-crisis-according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-again.md) _Context: Flint water crisis, Flint, Michigan_
+3. [Flint water crisis. The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/flint-water-crisis-the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deli.md) _Context: Flint water crisis, Flint, Michigan_
+4. [U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply. ](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.md) _Context: Flint water crisis, Flint, Michigan_
+5. [The U.S. state of Michigan asks for assistance from the federal government to assist with a water crisis in the city of Flint. ](/news/2016/01/15/the-u-s-state-of-michigan-asks-for-assistance-from-the-federal-government-to-assist-with-a-water-crisis-in-the-city-of-flint.md) _Context: Flint water crisis, Flint, Michigan_
+6. [2017 Bishop International Airport incident. A police officer is stabbed in the neck at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. The suspect was arrested on scene and charged with a federal count of violence at an international airport. The victim survived. ](/news/2017/06/21/2017-bishop-international-airport-incident-a-police-officer-is-stabbed-in-the-neck-at-bishop-international-airport-in-flint-michigan-the.md) _Context: Flint, Michigan_
+7. [Flint water crisis. Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/flint-water-crisis-michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health.md) _Context: Flint water crisis_
+8. [Michigan Attorney General Bill Schuette files criminal charges against six state employees in connection with the Flint water crisis. ](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-criminal-charges-against-six-state-employees-in-connection-with-the-flint-water-crisis.md) _Context: Flint water crisis_
+9. [The U.S. mayor of Flint, Michigan, declares a state of emergency because of lead levels in children-s blood caused by problems with the city's water system. ](/news/2015/12/14/the-u-s-mayor-of-flint-michigan-declares-a-state-of-emergency-because-of-lead-levels-in-children-s-blood-caused-by-problems-with-the-ci.md) _Context: Flint, Michigan_
+10. [Israeli citizen Elias Abuelazam, a suspected serial killer from Flint, Michigan, is arrested while attempting to leave the United States. ](/news/2010/08/12/israeli-citizen-elias-abuelazam-a-suspected-serial-killer-from-flint-michigan-is-arrested-while-attempting-to-leave-the-united-states.md) _Context: Flint, Michigan_

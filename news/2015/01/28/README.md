@@ -1,6 +1,6 @@
 ## [2015-01-28](/news/2015/01/28/index.md)
 
-### [Following a January 18 airstrike against a Hezbollah convoy, Hezbollah targets an Israeli military convoy near the Lebanon border at the Shebaa farms area, killing two and wounding another seven. While the Israeli military responds with artillery fire upon several South Lebanon border villages and Shebaa Farms, Hezbollah responds with mortar shells. Cross fire fighting kills a Spanish UN peacekeeper in the town of Ghajar. ](/news/2015/01/28/following-a-january-18-airstrike-against-a-hezbollah-convoy-hezbollah-targets-an-israeli-military-convoy-near-the-lebanon-border-at-the-she.md)
+### [Israeli-Lebanese conflict. Following a January 18 airstrike against a Hezbollah convoy, Hezbollah targets an Israeli military convoy near the Lebanon border at the Shebaa farms area, killing two and wounding another seven. While the Israeli military responds with artillery fire upon several South Lebanon border villages and Shebaa Farms, Hezbollah responds with mortar shells. Cross fire fighting kills a Spanish UN peacekeeper in the town of Ghajar. ](/news/2015/01/28/israeli-lebanese-conflict-following-a-january-18-airstrike-against-a-hezbollah-convoy-hezbollah-targets-an-israeli-military-convoy-near.md)
 Two Israeli soldiers and a Spanish UN peacekeeper are killed as Hezbollah militants trade fire with Israeli forces along the Lebanese border.
 
 ### [The Chinese yuan becomes the fifth most-highly-used currency in the world. ](/news/2015/01/28/the-chinese-yuan-becomes-the-fifth-most-highly-used-currency-in-the-world.md)
@@ -24,7 +24,7 @@ _Context: Chief Justice, Mahinda Rajapaksa, Maithripala Sirisena, President of S
 ### [Akram Hasson becomes leader of Israel's former government party Kadima and thus the first Druze ever to lead a Jewish party. ](/news/2015/01/28/akram-hasson-becomes-leader-of-israel-s-former-government-party-kadima-and-thus-the-first-druze-ever-to-lead-a-jewish-party.md)
 _Context: Akram Hasson, Druze, Israel, Kadima_
 
-### [''The Astrophysical Journal'' publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-e.md)
+### ["The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.md)
 Astronomers say they have found the first-ever ringed planet beyond our Solar System.
 
 ## [Previous Day...](/news/2015/01/27/index.md)

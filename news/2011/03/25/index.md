@@ -1,9 +1,9 @@
 ## [2011-03-25](/news/2011/03/25/index.md)
 
-### [Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.md)
+### [Arab Spring. Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/arab-spring-libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-e.md)
 Heavy gunfire reported in the southern Syrian city of Daraa as anti-government protesters defy a week-long crackdown.
 
-### [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
+### [2010-2011 Ivorian crisis. Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan, Cote d'Ivoire_
 
 ### [A bomb blast in the Ethiopian capital Addis Ababa injures two people. ](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.md)
@@ -12,7 +12,7 @@ _Context: Addis Ababa, Ethiopia_
 ### [A bomb in the city of Peshawar in Pakistan results in nineteen people being injured. ](/news/2011/03/25/a-bomb-in-the-city-of-peshawar-in-pakistan-results-in-nineteen-people-being-injured.md)
 _Context: Pakistan, Peshawar_
 
-### [Archaeologist Michael R. Waters and associates report in ''Science'' that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-m.md)
+### [Archaeologist Michael R. Waters and associates report in "Science" that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-may.md)
 Archaeologists unearth thousands of stone tools in North America they say predate the technology widely assumed to have been carried by the first settlers.
 
 ### [More than 600 workers at a Chinese-owned mine in Zambia strike over pay. ](/news/2011/03/25/more-than-600-workers-at-a-chinese-owned-mine-in-zambia-strike-over-pay.md)

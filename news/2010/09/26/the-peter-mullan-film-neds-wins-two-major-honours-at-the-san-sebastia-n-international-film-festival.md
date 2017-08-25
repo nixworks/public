@@ -1,6 +1,6 @@
 ### [2010-09-26](/news/2010/09/26/index.md)
 
-# The Peter Mullan film ''Neds'' wins two major honours at the San Sebastian International Film Festival. 
+# The Peter Mullan film "Neds" wins two major honours at the San Sebastian International Film Festival. 
 
 
 

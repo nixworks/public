@@ -1,9 +1,9 @@
 ## [2012-07-8](/news/2012/07/8/index.md)
 
-### [Syrian uprising (2011-present):United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011apresent-punited-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md)
+### [Syrian uprising (2011-present):. United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011-present-united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md)
 Peace envoy Kofi Annan arrives for talks with President Bashar al-Assad amid escalating combat and no negotiations.
 
-### [Nigeria violence:Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-pgunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md)
+### [Nigeria violence:. Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md)
 Two Nigerian politicians die during an attack by gunmen on a funeral for victims of communal violence that has flared around Jos in Plateau state.
 
 ### [Rebels from the March 23 Movement seize three more towns in eastern Democratic Republic of the Congo. ](/news/2012/07/8/rebels-from-the-march-23-movement-seize-three-more-towns-in-eastern-democratic-republic-of-the-congo.md)
@@ -18,7 +18,7 @@ Six NATO soldiers were killed by a roadside bomb in eastern Afghanistan on Sunda
 ### [The Saudi Ministry of Interior reports that a prominent Shi'ite Muslim cleric, Sheikh Nimr al Nimr, is arrested in the Qatif region of the Eastern Province after being shot in the leg by police in an exchange of fire. ](/news/2012/07/8/the-saudi-ministry-of-interior-reports-that-a-prominent-shi-ite-muslim-cleric-sheikh-nimr-al-nimr-is-arrested-in-the-qatif-region-of-the-e.md)
 _Context: Eastern Province, Interior Ministry, Nimr al-Nimr, Qatif, Shi'ite Muslim_
 
-### [American actor Ernest Borgnine, winner of an Academy Award in the film ''Marty'', dies at the age of 95. ](/news/2012/07/8/american-actor-ernest-borgnine-winner-of-an-academy-award-in-the-film-marty-dies-at-the-age-of-95.md)
+### [American actor Ernest Borgnine, winner of an Academy Award in the film "Marty", dies at the age of 95. ](/news/2012/07/8/american-actor-ernest-borgnine-winner-of-an-academy-award-in-the-film-marty-dies-at-the-age-of-95.md)
 _Context: Academy Award, Ernest Borgnine, Marty_
 
 ### [The President of Russia Vladimir Putin orders an inquiry into flash floods that have claimed at least 150 lives in the Krasnodar region. ](/news/2012/07/8/the-president-of-russia-vladimir-putin-orders-an-inquiry-into-flash-floods-that-have-claimed-at-least-150-lives-in-the-krasnodar-region.md)

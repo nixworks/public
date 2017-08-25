@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Proceedings begin in the trial of Maurice "Hank" Greenberg, former chairman of the giant insurance company AIG, on charges of accounting fraud. The 2005 indictment accuses Greenberg and  AIG's former CFO of setting up bogus reinsurance transactions to conceal the insurer's financial difficulties in 2000 and 2001. ](/news/2016/09/13/proceedings-begin-in-the-trial-of-maurice-hank-greenberg-former-chairman-of-the-giant-insurance-company-aig-on-charges-of-accounting-fra.md) _Context: reinsurance_
+1. [Proceedings begin in the trial of Maurice "Hank" Greenberg, former chairman of the giant insurance company AIG, on charges of accounting fraud. The 2005 indictment accuses Greenberg and AIG's former CFO of setting up bogus reinsurance transactions to conceal the insurer's financial difficulties in 2000 and 2001. ](/news/2016/09/13/proceedings-begin-in-the-trial-of-maurice-hank-greenberg-former-chairman-of-the-giant-insurance-company-aig-on-charges-of-accounting-fra.md) _Context: reinsurance_
 2. [ Reinsurer Swiss Re will cut 1,000 jobs. ](/news/2009/04/2/reinsurer-swiss-re-will-cut-1-000-jobs.md) _Context: reinsurance_

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [British-American Academy Award-winning film actress Olivia de Havilland, one of the last leading movie stars of the Golden Age of Hollywood, celebrates her 100th birthday. ](/news/2016/07/1/britishaamerican-academy-awardawinning-film-actress-olivia-de-havilland-one-of-the-last-leading-movie-stars-of-the-golden-age-of-hollyw.md) _Context: Golden Age of Hollywood_
+1. [British-American Academy Award-winning film actress Olivia de Havilland, one of the last leading movie stars of the Golden Age of Hollywood, celebrates her 100th birthday. ](/news/2016/07/1/british-american-academy-award-winning-film-actress-olivia-de-havilland-one-of-the-last-leading-movie-stars-of-the-golden-age-of-hollyw.md) _Context: Golden Age of Hollywood_

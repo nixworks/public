@@ -1,6 +1,6 @@
 ### [2016-10-4](/news/2016/10/4/index.md)
 
-# The journal JAMA Neurology publishes findings from the Medical Research Council of a simple urine test for  Creutzfeldt-Jakob disease (known as the human variant of mad cow disease), which is caused by deposits of prions. The current testing protocol is to obtain a sample of cerebrospinal fluid or brain tissue, or wait for a post-mortem after death. 
+# The journal JAMA Neurology publishes findings from the Medical Research Council of a simple urine test for Creutzfeldt-Jakob disease (known as the human variant of mad cow disease), which is caused by deposits of prions. The current testing protocol is to obtain a sample of cerebrospinal fluid or brain tissue, or wait for a post-mortem after death. 
 
 UK scientists believe urine could be used for a quick and simple way to test for CJD or &quot;human mad cow disease&quot;.
 

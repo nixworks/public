@@ -1,6 +1,6 @@
 ## [2006-06-15](/news/2006/06/15/index.md)
 
-### [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in ''Hudson v. Michigan'', allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where.md)
+### [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in "Hudson v. Michigan", allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where-p.md)
 _Context: Hudson v. Michigan, Samuel Alito, U.S. Supreme Court, knock and announce, police, search warrant_
 
 ### [ Hundreds are wounded in fighting between rival factions of the Movement of the Democratic Forces of Casamance led by Salif Sadio, who supports the continuation of the Casamance Conflict, and Magne Dieme, who supports reconciliation with the Government of Senegal. The fighting has spread to The Gambia and Guinea-Bissau may intervene. ](/news/2006/06/15/hundreds-are-wounded-in-fighting-between-rival-factions-of-the-movement-of-the-democratic-forces-of-casamance-led-by-salif-sadio-who-suppo.md)

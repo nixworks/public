@@ -6,7 +6,7 @@ _Context: North Waziristan, Pakistan, drones launch_
 ### [Five prisoners of the United States at Guantanamo Bay, including Khalid Sheikh Mohammed (a reported subject of torture by U.S. authorities), appear before a military judge. ](/news/2012/05/5/five-prisoners-of-the-united-states-at-guantanamo-bay-including-khalid-sheikh-mohammed-a-reported-subject-of-torture-by-u-s-authorities.md)
 Five men, including alleged mastermind Khalid Sheikh Mohammed, refuse to enter plea in US military court in Cuba.
 
-### [Arab Spring:Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-pbahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arriv.md)
+### [Arab Spring:. Bahrain Centre for Human Rights's president Nabeel Rajab is arrested by representatives of Bahrain's Interior Ministry on arrival at Manama airport from Lebanon ahead of his scheduled court appearance. ](/news/2012/05/5/arab-spring-bahrain-centre-for-human-rights-s-president-nabeel-rajab-is-arrested-by-representatives-of-bahrain-s-interior-ministry-on-arri.md)
 Nabeel Rajab has been arrested on the eve of his court appearance.
 
 ### [Japan shuts down its last nuclear reactor, leaving the country without nuclear power for the first time since 1970. ](/news/2012/05/5/japan-shuts-down-its-last-nuclear-reactor-leaving-the-country-without-nuclear-power-for-the-first-time-since-1970.md)

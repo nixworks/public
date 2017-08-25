@@ -1,6 +1,6 @@
 ## [2014-02-22](/news/2014/02/22/index.md)
 
-### [Euromaidan:The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-pthe-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-suppo.md)
+### [Euromaidan:. The Ukrainian parliament votes to free Yulia Tymoshenko, the former prime minister jailed for more than two years for what supporters say are politically tainted charges. She is released later in the day. ](/news/2014/02/22/euromaidan-the-ukrainian-parliament-votes-to-free-yulia-tymoshenko-the-former-prime-minister-jailed-for-more-than-two-years-for-what-supp.md)
  President Yanukovych signs agreement as parliament passes law that could free Yulia Tymoshenko
 
 ### [Pope Francis creates 19 new cardinals in a ceremony at St Peter's Basilica in Rome. In addition, the Pope emeritus Benedict XVI makes his first public appearance at the Vatican since his resignation in 2013. ](/news/2014/02/22/pope-francis-creates-19-new-cardinals-in-a-ceremony-at-st-peter-s-basilica-in-rome-in-addition-the-pope-emeritus-benedict-xvi-makes-his-fi.md)

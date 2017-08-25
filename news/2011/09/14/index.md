@@ -1,6 +1,6 @@
 ## [2011-09-14](/news/2011/09/14/index.md)
 
-### [Taliban attack on Kabul:A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-pa-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md)
+### [Taliban attack on Kabul:. A Taliban attack on the centre of the Afghan capital Kabul ends with 11 people dead. ](/news/2011/09/14/taliban-attack-on-kabul-a-taliban-attack-on-the-centre-of-the-afghan-capital-kabul-ends-with-11-people-dead.md)
 The last survivors of a Taliban suicide squad have been killed ending a 20 hour stand off which had brought central Kabul to a standstill.
 
 ### [More than twenty people are killed and scores injured in attacks in Iraq, including 16 people killed in a car bombing in Babil Province. ](/news/2011/09/14/more-than-twenty-people-are-killed-and-scores-injured-in-attacks-in-iraq-including-16-people-killed-in-a-car-bombing-in-babil-province.md)

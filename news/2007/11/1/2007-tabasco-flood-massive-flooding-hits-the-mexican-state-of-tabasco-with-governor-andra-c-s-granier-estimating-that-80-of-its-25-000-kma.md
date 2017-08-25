@@ -12,5 +12,5 @@
 
 ### Related:
 
-1. [Four people die and 35 are injured when the notorious ''tren de la muerte'' train derails in Huimanguillo, Tabasco, Mexico. ](/news/2013/08/25/four-people-die-and-35-are-injured-when-the-notorious-tren-de-la-muerte-train-derails-in-huimanguillo-tabasco-mexico.md) _Context: Tabasco_
+1. [Four people die and 35 are injured when the notorious "tren de la muerte" train derails in Huimanguillo, Tabasco, Mexico. ](/news/2013/08/25/four-people-die-and-35-are-injured-when-the-notorious-tren-de-la-muerte-train-derails-in-huimanguillo-tabasco-mexico.md) _Context: Tabasco_
 2. [ The number of people in southern Mexico displaced by the 2007 Tabasco flood nears a million ](/news/2007/11/5/the-number-of-people-in-southern-mexico-displaced-by-the-2007-tabasco-flood-nears-a-million.md) _Context: 2007 Tabasco flood_

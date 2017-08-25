@@ -21,16 +21,16 @@ _Context: India, Satyajit Ray_
 ### [Hanif Kureishi is awarded the PEN/Pinter prize. ](/news/2010/09/17/hanif-kureishi-is-awarded-the-pen-pinter-prize.md)
 _Context: Hanif Kureishi, PEN/Pinter Prize_
 
-### [Producers on the South African version of the ''Big Brother'' TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-pre.md)
+### [Producers on the South African version of the "Big Brother" TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-press.md)
 _Context: Big Brother, South Africa_
 
-### [American soap opera ''As the World Turns'' airs its final episode on CBS after a 54-year run on television. ](/news/2010/09/17/american-soap-opera-as-the-world-turns-airs-its-final-episode-on-cbs-after-a-54-year-run-on-television.md)
+### [American soap opera "As the World Turns" airs its final episode on CBS after a 54-year run on television. ](/news/2010/09/17/american-soap-opera-as-the-world-turns-airs-its-final-episode-on-cbs-after-a-54-year-run-on-television.md)
 _Context: As the World Turns, CBS_
 
 ### [US entertainer Paris Hilton agrees to a plea bargain with prosecutors in Las Vegas, Nevada, to avoid a jail sentence. ](/news/2010/09/17/us-entertainer-paris-hilton-agrees-to-a-plea-bargain-with-prosecutors-in-las-vegas-nevada-to-avoid-a-jail-sentence.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
-### [United Airlines shareholders  meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md)
+### [United Airlines shareholders meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md)
 _Context: Continental Airlines, Elk Grove, Illinois, United Airlines, shareholder_
 
 ### [The United Nations launches an appeal for more than $2 billion in the wake of the 2010 Pakistan floods: this represents the organisation's biggest response to a natural disaster. ](/news/2010/09/17/the-united-nations-launches-an-appeal-for-more-than-2-billion-in-the-wake-of-the-2010-pakistan-floods-this-represents-the-organisation-s-b.md)
@@ -48,11 +48,11 @@ A drill reaches the 33 men trapped in a Chilean mine since early August, but it 
 ### [A large storm hits New Zealand with severe weather warnings in place for both the North and South Island for several days. ](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.md)
 _Context: New Zealand, North Island, South Island, weather warnings_
 
-### [2010 Atlantic hurricane season:Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-phurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-pe.md)
+### [2010 Atlantic hurricane season:. Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-p.md)
 * Flash flooding, mudslides possible in Veracruz state * Karl weakens to Category 1 hurricane * Mexico oil industry spared big d
 
 ### [BP starts pumping cement into the Deepwater Horizon oil well in the Gulf of Mexico at the culmination of cleanup efforts for the Deepwater Horizon oil spill. ](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.md)
-_Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Gulf_
+_Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Gulf of Mexico_
 
 ### [Japan says China has shipped drilling equipment to a disputed gas field amid a diplomatic row over the seizure of a Chinese fishing boat captain near the disputed Senkaku Islands. ](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.md)
 Japan says China has shipped drilling equipment to a disputed gas field in the East China Sea, fuelling diplomatic tensions between the Asian giants.
@@ -91,7 +91,7 @@ _Context: Afghanistan's, Taliban, parliamentary election, police, security check
 _Context: Foreign Minister, Naoto Kan, Prime Minister of Japan, Seiji Maehara, forming a government_
 
 ### [Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. ](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.md)
-_Context: Prime Minister of Thailand, Thailand, Thaksin, United Front for Democracy Against Dictatorship_
+_Context: Prime Minister, Thailand, Thaksin, United Front for Democracy Against Dictatorship_
 
 ## [Previous Day...](/news/2010/09/16/index.md)
 

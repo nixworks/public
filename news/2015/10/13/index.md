@@ -1,12 +1,12 @@
 ## [2015-10-13](/news/2015/10/13/index.md)
 
-### [Two shells hit the Russian embassy in Syria's capital Damascus, as hundreds of pro-government supporters rallied outside in support of Russian airstrikes. Russian Foreign Minister Sergey Lavrov described the shelling as "a terrorist act." ](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.md)
+### [Syrian Civil War. Russian involvement in the Syrian Civil War. Two shells hit the Russian embassy in Syria's capital Damascus, as hundreds of pro-government supporters rallied outside in support of Russian airstrikes. Russian Foreign Minister Sergey Lavrov described the shelling as "a terrorist act." ](/news/2015/10/13/syrian-civil-war-russian-involvement-in-the-syrian-civil-war-two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-o.md)
 Two shells have struck the Russian embassy compound in the Syrian capital Damascus as pro-government supporters rallied outside, reports say.
 
-### [Two stabbing attacks take place in Ra'anana: one outside city hall in which one man is injured and the attacker is subdued by civilians; in a second incident, the attacker stabs civilians in front of a cafe, injuring one critically and three lightly until he is subdued by civilians. ](/news/2015/10/13/two-stabbing-attacks-take-place-in-ra-anana-one-outside-city-hall-in-which-one-man-is-injured-and-the-attacker-is-subdued-by-civilians-in.md)
+### [Israeli-Palestinian conflict. Palestinian political violence. Two stabbing attacks take place in Ra'anana: one outside city hall in which one man is injured and the attacker is subdued by civilians; in a second incident, the attacker stabs civilians in front of a cafe, injuring one critically and three lightly until he is subdued by civilians. ](/news/2015/10/13/israeli-palestinian-conflict-palestinian-political-violence-two-stabbing-attacks-take-place-in-ra-anana-one-outside-city-hall-in-which.md)
 Civilians subdued the terrorist until police forces arrived on the scene.
 
-### [Jamaican author Marlon James wins the 2015 Man Booker Prize for his novel ''A Brief History of Seven Killings'' inspired by the attempted assassination of Bob Marley in the 1970s. ](/news/2015/10/13/jamaican-author-marlon-james-wins-the-2015-man-booker-prize-for-his-novel-a-brief-history-of-seven-killings-inspired-by-the-attempted-as.md)
+### [Jamaican author Marlon James wins the 2015 Man Booker Prize for his novel "A Brief History of Seven Killings" inspired by the attempted assassination of Bob Marley in the 1970s. ](/news/2015/10/13/jamaican-author-marlon-james-wins-the-2015-man-booker-prize-for-his-novel-a-brief-history-of-seven-killings-inspired-by-the-attempted-assa.md)
 Author Marlon James wins the £50,000 Man Booker Prize for his novel A Brief History of Seven Killings - inspired by the attempted assassination of Bob Marley.
 
 ### [The Dutch Safety Board releases their final report into the Malaysia Airlines Flight 17 (MH17) disaster that concludes that the flight from Amsterdam to Kuala Lumpur was shot-down by a Russian-made Buk missile system on 17 July 2014 killing 298 people. ](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.md)
@@ -15,16 +15,16 @@ Dutch safety team&#39;s final report into the downed Malaysian airliner will not
 ### [At least 13 people are killed as a rockslide hits shanties in the Gulistan-i-Jauhar in the Pakistani city of Karachi. ](/news/2015/10/13/at-least-13-people-are-killed-as-a-rockslide-hits-shanties-in-the-gulistan-i-jauhar-in-the-pakistani-city-of-karachi.md)
 Bodies of three women, three men and seven children have been recovered from beneath the rubble. 
 
-### [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for PS68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-aps68-billion-104-billion-in-the-biggest-beer-deal-ever.md)
+### [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for GBP68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-agbp68-billion-104-billion-in-the-biggest-beer-deal-ever.md)
 SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super brewery with sales of $55 billion, and marking the biggest beer deal ever. 
 
-### [The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given-by-a-predecessor-for-landfill-work-to-replace-a.md)
+### [Relocation of Marine Corps Air Station Futenma. The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/relocation-of-marine-corps-air-station-futenma-the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given.md)
 _Context: Japan, Marines, Okinawa, Takeshi Onaga, relocate MCAS Futenma to Henoko Bay in Nago_
 
 ### [Iran's Islamic Consultative Assembly approves the deal on its nuclear program agreed with six world powers. ](/news/2015/10/13/iran-s-islamic-consultative-assembly-approves-the-deal-on-its-nuclear-program-agreed-with-six-world-powers.md)
 _Context: Iran, Islamic Consultative Assembly, Joint Comprehensive Plan of Action, nuclear scientist_
 
-### [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and  express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express.md)
+### [Territorial disputes in the South China Sea. The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China-s construction of artificial islands in the disputed waters. ](/news/2015/10/13/territorial-disputes-in-the-south-china-sea-the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-th.md)
 The United States and its Pacific ally Australia warned China on Tuesday that they remain committed to freedom of navigation in the waters of the South China Sea.
 
 ### [Burkina Faso's presidential and parliamentary elections are deferred to November 29 due to a recent coup. ](/news/2015/10/13/burkina-faso-s-presidential-and-parliamentary-elections-are-deferred-to-november-29-due-to-a-recent-coup.md)

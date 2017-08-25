@@ -3,7 +3,7 @@
 ### [ Tony Blair, the Prime Minister of the United Kingdom, meets with the President of the United States George W. Bush for the final time before his departure from politics. ](/news/2007/05/16/tony-blair-the-prime-minister-of-the-united-kingdom-meets-with-the-president-of-the-united-states-george-w-bush-for-the-final-time-befor.md)
 _Context: George W. Bush, Prime Minister, Tony Blair, president_
 
-### [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland.  ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md)
+### [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland. ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md)
 _Context: Alex Salmond, First Minister, Scottish Labour Party, Scottish National Party_
 
 ### [ Nicolas Sarkozy succeeds Jacques Chirac as President of the French Republic after prevailing over Sgolne Royal in the 2007 French presidential election. ](/news/2007/05/16/nicolas-sarkozy-succeeds-jacques-chirac-as-president-of-the-french-republic-after-prevailing-over-segolene-royal-in-the-2007-french-preside.md)

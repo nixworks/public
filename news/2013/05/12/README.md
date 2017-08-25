@@ -1,9 +1,9 @@
 ## [2013-05-12](/news/2013/05/12/index.md)
 
-### [Syrian civil war:Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-pfour-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md)
+### [Syrian civil war:. Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md)
 BEIRUT--Syrian rebels released four U.N. peacekeepers Sunday, five days after the Filipino troops were seized in the increasingly volatile buffer zone between Syria and the Israeli-occupied Golan...
 
-### [2013 Savar building collapse:The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. ](/news/2013/05/12/2013-savar-building-collapse-pthe-death-toll-reaches-1-126-with-many-people-still-missing-the-accident-is-now-the-third-worst-industrial-di.md)
+### [2013 Savar building collapse:. The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. ](/news/2013/05/12/2013-savar-building-collapse-the-death-toll-reaches-1-126-with-many-people-still-missing-the-accident-is-now-the-third-worst-industrial-d.md)
 _Context: 2013 Savar building collapse, industrial disaster_
 
 ### [At least 28 people are killed in a mining accident in China's Sichuan Province. ](/news/2013/05/12/at-least-28-people-are-killed-in-a-mining-accident-in-china-s-sichuan-province.md)
@@ -27,7 +27,7 @@ Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl w
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
 _Context: Britain, Costa Blanca, Spain_
 
-### [2013 Pakistani general election:Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-ppartial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obta.md)
+### [2013 Pakistani general election:. Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obt.md)
 _Context: 2013 Pakistani general election, Nawaz Sharif_
 
 ### [Voters in Bulgaria go to the polls for a parliamentary election. Boyko Borisov's GERB party wins between 30% and 32% of the votes, closely followed by Sergei Stanishev's resurgent BSP with 26 to 28 percent. No party manages to obtain a majority, while analysts predict a political deadlock amid low voter turnout and economic woes. ](/news/2013/05/12/voters-in-bulgaria-go-to-the-polls-for-a-parliamentary-election-boyko-borisov-s-gerb-party-wins-between-30-and-32-of-the-votes-closely-f.md)
@@ -36,10 +36,10 @@ _Context: Boyko Borisov, Bulgaria, GERB, Sergei Stanishev, Socialist Party, parl
 ### [The Murrawarri Republic begins a sovereignty campaign with the UN. ](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.md)
 Activists in northern New South Wales, who&#039;ve declared an Aboriginal republic, say they will take their campaign to the United Nations.
 
-### [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam.  ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md)
+### [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam. ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md)
 _Context: Catholic Church, Martyrs of Otranto, Pope Benedict XVI, Pope Francis_
 
-### [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md)
+### [In a study by SUNY Buffalo, it is discovered that "Utricularia gibba", a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequence.md)
 How much of your DNA is constructive? Of the 3 billion letters that make up your genome, only 1.5 percent consists of genes-DNA actually does something useful, which carry the information for protein synthesis. Of the remaining 98.5 percent-the vast majority of the genetic material known as noncodin...
 
 ## [Previous Day...](/news/2013/05/11/index.md)

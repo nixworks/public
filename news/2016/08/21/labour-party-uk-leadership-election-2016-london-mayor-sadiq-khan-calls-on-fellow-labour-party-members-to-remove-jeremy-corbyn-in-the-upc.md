@@ -1,0 +1,24 @@
+### [2016-08-21](/news/2016/08/21/index.md)
+
+# Labour Party (UK) leadership election, 2016. London Mayor Sadiq Khan calls on fellow Labour Party members to remove Jeremy Corbyn in the upcoming party leadership election. 
+
+London mayor throws weight behind challenger Owen Smith, after condemning party leader for failing to show leadership over Brexit
+
+
+### Source:
+
+1. [Reuters](http://in.reuters.com/article/britain-labour-idINKCN10W04A)
+2. [The Observer'' via The Guardian](http://www.theguardian.com/politics/2016/aug/20/ditch-jeremy-corbyn-before-too-late-sadiq-khan-tells-labour)
+
+### Related:
+
+1. [Politics of London. The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/politics-of-london-the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md) _Context: Mayor of London, Sadiq Khan_
+2. [United Kingdom general election, 2017. Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/united-kingdom-general-election-2017-polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-c.md) _Context: Jeremy Corbyn, Labour_
+3. [United Kingdom general election, 2017. Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/united-kingdom-general-election-2017-labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md) _Context: Jeremy Corbyn, Labour_
+4. [United Kingdom general election, 2017. The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be -the first step towards a formation of left-led government at Westminster-. ](/news/2017/04/24/united-kingdom-general-election-2017-the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-ele.md) _Context: Jeremy Corbyn, Labour_
+5. [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md) _Context: Mayor of London, Sadiq Khan_
+6. [Labour Party (UK) leadership election, 2016. Incumbent Jeremy Corbyn wins the leadership contest over Owen Smith with 61.8% of the vote. ](/news/2016/09/24/labour-party-uk-leadership-election-2016-incumbent-jeremy-corbyn-wins-the-leadership-contest-over-owen-smith-with-61-8-of-the-vote.md) _Context: Jeremy Corbyn, Labour Party (UK) leadership election, 2016_
+7. [Labour Party leadership election, 2016. Britain's Court of Appeal, reversing Monday's High Court decision, rules the Labour Party has the right to prevent up to 130,000 new members who joined less than six months ago from voting in the party's leadership contest between incumbent Jeremy Corbyn and legislator Owen Smith. An appeal to the United Kingdom Supreme Court is possible. ](/news/2016/08/12/labour-party-leadership-election-2016-britain-s-court-of-appeal-reversing-monday-s-high-court-decision-rules-the-labour-party-has-the-ri.md) _Context: Jeremy Corbyn, Labour_
+8. [Labour Party (UK) leadership election, 2016. Angela Eagle drops out of the race and announces her endorsement of Owen Smith, the last remaining candidate to challenge incumbent party leader Jeremy Corbyn. ](/news/2016/07/19/labour-party-uk-leadership-election-2016-angela-eagle-drops-out-of-the-race-and-announces-her-endorsement-of-owen-smith-the-last-remain.md) _Context: Jeremy Corbyn, Labour Party (UK) leadership election, 2016_
+9. [Labour Party (UK) leadership crisis, 2016. The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/labour-party-uk-leadership-crisis-2016-the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-becom.md) _Context: Jeremy Corbyn, Labour_
+10. [United Kingdom local elections, 2016. London votes Sadiq Khan to succeed Boris Johnson as Mayor of London; Khan is the first Muslim to be elected London's Mayor. ](/news/2016/05/6/united-kingdom-local-elections-2016-london-votes-sadiq-khan-to-succeed-boris-johnson-as-mayor-of-london-khan-is-the-first-muslim-to-be-el.md) _Context: Mayor of London, Sadiq Khan_

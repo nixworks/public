@@ -3,13 +3,13 @@
 ### [Macedonia declares a state of emergency and deploys police units on its borders as immigrants from the Middle East, mainly from Syria and Iraq, block the railway line between Thessaloniki and Skopje. ](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.md)
 _Context: Macedonian, Middle East, Skopje, Thessaloniki_
 
-### [Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers-injured.md)
+### [August 2015 Egypt bombings. Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/august-2015-egypt-bombings-large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers.md)
 “Reports: Blasts hit Cairo &amp; Giza in Egypt. Cairo explosion near State Security Building http://t.co/HsTzPcZXB8”
 
-### [North and South Korea exchange artillery fire over the border at Yeoncheon, prompting South Korea to order evacuations of its citizens in the area. ](/news/2015/08/20/north-and-south-korea-exchange-artillery-fire-over-the-border-at-yeoncheon-prompting-south-korea-to-order-evacuations-of-its-citizens-in-th.md)
+### [North Korea-South Korea relations. Korean Demilitarized Zone. North and South Korea exchange artillery fire over the border at Yeoncheon, prompting South Korea to order evacuations of its citizens in the area. ](/news/2015/08/20/north-korea-south-korea-relations-korean-demilitarized-zone-north-and-south-korea-exchange-artillery-fire-over-the-border-at-yeoncheon.md)
 Reports say Pyongyang fired a shell at a South Korean border town, which prompted Seoul to respond with artillery fire.
 
-### [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md)
+### [Spillover of the Syrian Civil War. Israel-Syria relations. The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/spillover-of-the-syrian-civil-war-israel-syria-relations-the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-hei.md)
 _Context: Golan Heights, Israel-Syria relations, Israeli Army, Spike missile, Spillover of the Syrian Civil War, military_
 
 ### [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md)
@@ -27,10 +27,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [An unknown shooter kills a newspaper publisher in Mindanao, Philippines. ](/news/2015/08/20/an-unknown-shooter-kills-a-newspaper-publisher-in-mindanao-philippines.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.md)
+### [2015 Bangkok bombing. Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/2015-bangkok-bombing-thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-b.md)
 _Context: 2015 Bangkok bombing, Erawan Shrine, Thai police officers_
 
-### [In Brazil, prosecutors lodge corruption charges against Speaker of the Lower House Eduardo Cunha and former President Fernando Collor de Mello, alleging illegal activities involving the state-owned oil company, Petrobras. ](/news/2015/08/20/in-brazil-prosecutors-lodge-corruption-charges-against-speaker-of-the-lower-house-eduardo-cunha-and-former-president-fernando-collor-de-mel.md)
+### [Operation Car Wash. In Brazil, prosecutors lodge corruption charges against Speaker of the Lower House Eduardo Cunha and former President Fernando Collor de Mello, alleging illegal activities involving the state-owned oil company, Petrobras. ](/news/2015/08/20/operation-car-wash-in-brazil-prosecutors-lodge-corruption-charges-against-speaker-of-the-lower-house-eduardo-cunha-and-former-president-fe.md)
 Speaker of lower house and ex-president named by prosecutors in investigation into kickbacks scheme linked to Petrobras.
 
 ### [Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. ](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.md)

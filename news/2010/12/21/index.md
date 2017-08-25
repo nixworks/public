@@ -6,7 +6,7 @@ Israeli jets carry out air strikes in the Gaza Strip, injuring at least two Pale
 ### [North Korea silences its guns to prevent confrontation with South Korea as the South's "reckless" and ""childish play with fire" military drills continue. North Korea also invites International Atomic Energy Agency inspectors into the country. ](/news/2010/12/21/north-korea-silences-its-guns-to-prevent-confrontation-with-south-korea-as-the-south-s-reckless-and-childish-play-with-fire-military-dr.md)
 North Korean guns remain silent as South Korea conducts controversial live-fire artillery exercise.
 
-### [Pope Benedict XVI comments on condoms and pedophilia:Survivors of child sexual abuse carried out by priests react with fury after Pope Benedict XVI's claims that pedophilia wasn't considered an "absolute evil" as recently as the 1970s and that society considers child pornography "normal". ](/news/2010/12/21/pope-benedict-xvi-comments-on-condoms-and-pedophilia-psurvivors-of-child-sexual-abuse-carried-out-by-priests-react-with-fury-after-pope-bene.md)
+### [Pope Benedict XVI comments on condoms and pedophilia:. Survivors of child sexual abuse carried out by priests react with fury after Pope Benedict XVI's claims that pedophilia wasn't considered an "absolute evil" as recently as the 1970s and that society considers child pornography "normal". ](/news/2010/12/21/pope-benedict-xvi-comments-on-condoms-and-pedophilia-survivors-of-child-sexual-abuse-carried-out-by-priests-react-with-fury-after-pope-ben.md)
 The Vatican clarifies comments by Pope Benedict XVI on condoms, saying he did not mean they could be used to avoid pregnancy.
 
 ### [Buckingham Palace announces the engagement of the Queen's granddaughter Zara Phillips and Rugby Union player Mike Tindall. ](/news/2010/12/21/buckingham-palace-announces-the-engagement-of-the-queen-s-granddaughter-zara-phillips-and-rugby-union-player-mike-tindall.md)
@@ -15,13 +15,13 @@ _Context: Buckingham Palace, Mike Tindall, Queen Elizabeth, Zara Phillips, rugby
 ### [Toyota agrees to pay the US government $32.4 million over its handling of car recalls in 2010 where over 10 million cars were recalled worldwide, over 14 separate recalls. ](/news/2010/12/21/toyota-agrees-to-pay-the-us-government-32-4-million-over-its-handling-of-car-recalls-in-2010-where-over-10-million-cars-were-recalled-world.md)
 Toyota agrees to pay a record fine in the US of $32.4m over its handling of millions of car recalls.
 
-### [BSKYB takeoverThe European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeoverpthe-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md)
+### [BSKYB takeover. The European Commission approves News Corporation's bid to take full control of British satellite broadcaster BSkyB. However, the deal will be reviewed by Ofcom before a final decision is made. ](/news/2010/12/21/bskyb-takeover-the-european-commission-approves-news-corporation-s-bid-to-take-full-control-of-british-satellite-broadcaster-bskyb-however.md)
 Business Secretary Vince Cable will stay in his job despite saying he had &quot;declared war&quot; on Rupert Murdoch, Downing Street says.
 
 ### [At least 39 people are killed and hundreds injured in a 6.5 magnitude earthquake in southeastern Iran. ](/news/2010/12/21/at-least-39-people-are-killed-and-hundreds-injured-in-a-6-5-magnitude-earthquake-in-southeastern-iran.md)
 _Context: Iran_
 
-### [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas' violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamasa-violent-takeover.md)
+### [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas- violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamas-violent-takeover.md)
 _Context: Fatah, Hamas, Israel, Mahmoud Abbas, Palestinian Authority, WikiLeaks, seized control of the territory_
 
 ### [The Turkish government warns US President Barack Obama that a congressional vote on a resolution recognizing the Armenian genocide during World War I will severely damage Turkey-United States relations. ](/news/2010/12/21/the-turkish-government-warns-us-president-barack-obama-that-a-congressional-vote-on-a-resolution-recognizing-the-armenian-genocide-during-wo.md)
@@ -54,7 +54,7 @@ _Context: Milo Dukanovic, Montenegro, Prime Minister_
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)
 _Context: Prime Minister of Tonga, Siale'ataonga Tu'ivakano_
 
-### [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md)
+### [2010 United States Census. The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/2010-united-states-census-the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have.md)
 _Context: 2010 Census, US Census Bureau headquarters, United States_
 
 ### [A total lunar eclipse will take place on December 20/21, 2010. ](/news/2010/12/21/a-total-lunar-eclipse-will-take-place-on-december-20-21-2010.md)

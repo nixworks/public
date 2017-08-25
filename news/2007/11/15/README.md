@@ -18,7 +18,7 @@ _Context: Balibo Five, East Timor, Indonesia, New South Wales_
 ### [ Major League Baseball player Barry Bonds is indicted by a federal grand jury in San Francisco for perjury and obstruction of justice, having allegedly lied under oath about his use of steroids. ](/news/2007/11/15/major-league-baseball-player-barry-bonds-is-indicted-by-a-federal-grand-jury-in-san-francisco-for-perjury-and-obstruction-of-justice-havin.md)
 Barry Bonds was charged Thursday with perjury and obstruction of justice, the culmination of a four-year federal probe into whether he lied under oath to a grand jury investigating steroid use by elite athletes.
 
-### [ Nuclear program of Iran: The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-p-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md)
+### [ Nuclear program of Iran:. The White House urges more sanctions on Iran, saying that "selective co-operation" is "not good enough". ](/news/2007/11/15/nuclear-program-of-iran-the-white-house-urges-more-sanctions-on-iran-saying-that-selective-co-operation-is-not-good-enough.md)
 _Context: Iran, White House, nuclear scientist_
 
 ### [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md)
@@ -51,7 +51,7 @@ _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_
 ### [ The Russian Ground Forces shut down their last remaining base in Georgia, located in the city of Batumi. ](/news/2007/11/15/the-russian-ground-forces-shut-down-their-last-remaining-base-in-georgia-located-in-the-city-of-batumi.md)
 _Context: Batumi, Georgian, Russia, Russian Army_
 
-### [ 2007 Pakistani state of emergency: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-p-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md)
+### [ 2007 Pakistani state of emergency:. President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md)
 _Context: 2007 Pakistani state of emergency, Chairman, Muhammad Mian Soomro, Pervez Musharraf, President, Prime Minister of Pakistan, Senate, interim_
 
 ### [ President of the Palestinian National Authority Mahmoud Abbas states in a speech that "we have to bring down" Hamas. ](/news/2007/11/15/president-of-the-palestinian-national-authority-mahmoud-abbas-states-in-a-speech-that-we-have-to-bring-down-hamas.md)

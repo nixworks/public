@@ -15,7 +15,7 @@ Palestinians often present exaggerated picture to advance their own interests, h
 ### [ A fire and smoke buildup occurres on the CTA Blue Line train in the U.S. city of Chicago. Most injuries are from smoke inhalation. No fatalities have been stated at this time. Emergency personnel are on scene. The cause is from a rear derailment. ](/news/2006/07/11/a-fire-and-smoke-buildup-occurres-on-the-cta-blue-line-train-in-the-u-s-city-of-chicago-most-injuries-are-from-smoke-inhalation-no-fatal.md)
 Get the latest Chicago local news and US & World news. See recent updates on politics, sports, health, tech, and weird news on NBC Chicago.
 
-### [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in ''Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in.md)
+### [ U.S. broadcaster Bob Novak reveals his involvement in the Plame leak, stating "I learned Valerie Plame's name from Joe Wilson's entry in "Who's Who in America." ](/news/2006/07/11/u-s-broadcaster-bob-novak-reveals-his-involvement-in-the-plame-leak-stating-i-learned-valerie-plame-s-name-from-joe-wilson-s-entry-in-w.md)
 _Context: Bob Novak, CIA leak scandal, United States, Valerie Plame, Who's Who in America_
 
 ### [ News Corp's MySpace.com surpasses Yahoo! Mail for the first time, and has become the number-one most visited website in the United States. ](/news/2006/07/11/news-corp-s-myspace-com-surpasses-yahoo-mail-for-the-first-time-and-has-become-the-number-one-most-visited-website-in-the-united-states.md)

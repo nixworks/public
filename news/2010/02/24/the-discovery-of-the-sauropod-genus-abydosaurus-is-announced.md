@@ -1,6 +1,6 @@
 ### [2010-02-24](/news/2010/02/24/index.md)
 
-# The discovery of the sauropod genus ''Abydosaurus'' is announced. 
+# The discovery of the sauropod genus "Abydosaurus" is announced. 
 
 FOSSIL HUNTERS have done it again, unearthing a previously unknown species of dinosaur
 
@@ -12,4 +12,4 @@ FOSSIL HUNTERS have done it again, unearthing a previously unknown species of di
 
 ### Related:
 
-1. [ A new type of sauropod has been discovered with a short, stubby neck. Unlike all other known sauropods, whose long necks could get up to four times the length of their backs, ''Brachytrachelopan'''s neck was shorter than its backbone. This species was also unable to lift its neck and head above horizontal. ](/news/2005/06/7/a-new-type-of-sauropod-has-been-discovered-with-a-short-stubby-neck-unlike-all-other-known-sauropods-whose-long-necks-could-get-up-to-fo.md) _Context: sauropod_
+1. [ A new type of sauropod has been discovered with a short, stubby neck. Unlike all other known sauropods, whose long necks could get up to four times the length of their backs, "Brachytrachelopan"'s neck was shorter than its backbone. This species was also unable to lift its neck and head above horizontal. ](/news/2005/06/7/a-new-type-of-sauropod-has-been-discovered-with-a-short-stubby-neck-unlike-all-other-known-sauropods-whose-long-necks-could-get-up-to-fo.md) _Context: sauropod_

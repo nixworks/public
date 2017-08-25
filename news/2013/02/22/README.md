@@ -1,12 +1,12 @@
 ## [2013-02-22](/news/2013/02/22/index.md)
 
-### [Syrian civil war:Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-pthree-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-lea.md)
+### [Syrian civil war:. Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/syrian-civil-war-three-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-le.md)
 At least 12 civilians are killed by rockets in Aleppo, activists say, as opposition groups agree to form a rebel government.
 
-### [Northern Mali conflict:13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-p13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md)
+### [Northern Mali conflict:. 13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/northern-mali-conflict-13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md)
 _Context: Chad, Islamist, Mali, Northern Mali conflict_
 
-### [2013 Bangladesh protests:At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-pat-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md)
+### [2013 Bangladesh protests:. At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/2013-bangladesh-protests-at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md)
 _Context: 2013 Bangladesh protests, Bangladesh, Islamists, police officers_
 
 ### [For the first time ever, Moody's Investors Service downgrades the United Kingdom's bond credit rating from AAA to AA1. ](/news/2013/02/22/for-the-first-time-ever-moody-s-investors-service-downgrades-the-united-kingdom-s-bond-credit-rating-from-aaa-to-aa1.md)
@@ -42,7 +42,7 @@ UKIP MEP Marta Andreasen announces she is defecting to the Conservatives, but pa
 ### [Plans are announced to attempt to intercept 65803 Didymos, a non-threatening near-Earth asteroid, in 2022 using AIDA. ](/news/2013/02/22/plans-are-announced-to-attempt-to-intercept-65803-didymos-a-non-threatening-near-earth-asteroid-in-2022-using-aida.md)
 A mission that aims to slam a spacecraft into a near-Earth asteroid now has a target — a space rock called Didymos.
 
-### [Koryo Tours and Nosotek release the first North Korean video game, titled ''Pyongyang Racer''. ](/news/2013/02/22/koryo-tours-and-nosotek-release-the-first-north-korean-video-game-titled-pyongyang-racer.md)
+### [Koryo Tours and Nosotek release the first North Korean video game, titled "Pyongyang Racer". ](/news/2013/02/22/koryo-tours-and-nosotek-release-the-first-north-korean-video-game-titled-pyongyang-racer.md)
 You know how much fun you have driving around and finding places to fill up your car with fuel? North Korea has come up with a fascinatingly awful simulation of this mind-numbing menial chore.
 
 ## [Previous Day...](/news/2013/02/21/index.md)

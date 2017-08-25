@@ -3,10 +3,10 @@
 ### [Police in Indonesia exchange gunfire with suspected militants near Jakarta, killing six people. ](/news/2014/01/1/police-in-indonesia-exchange-gunfire-with-suspected-militants-near-jakarta-killing-six-people.md)
 Six suspected terrorists killed in a shootout had a stash of explosives and links to other small terrorism cells in Indonesia.
 
-### [Syrian Civil War spillover in Lebanon:Sources confirm that Lebanon has captured Majid bin Mohammad al-Majid, leader of the al-Qaeda-linked group Abdullah Azzam Brigades responsible for the recent bombing of the Iranian embassy in Beirut, Lebanon. ](/news/2014/01/1/syrian-civil-war-spillover-in-lebanon-psources-confirm-that-lebanon-has-captured-majid-bin-mohammad-al-majid-leader-of-the-al-qaeda-linked.md)
+### [Syrian Civil War spillover in Lebanon:. Sources confirm that Lebanon has captured Majid bin Mohammad al-Majid, leader of the al-Qaeda-linked group Abdullah Azzam Brigades responsible for the recent bombing of the Iranian embassy in Beirut, Lebanon. ](/news/2014/01/1/syrian-civil-war-spillover-in-lebanon-sources-confirm-that-lebanon-has-captured-majid-bin-mohammad-al-majid-leader-of-the-al-qaeda-linked.md)
 Ghosn denies he confirmed reports of the arrest of Majid bin Mohammad al-Majid, a Saudi who heads an Al-Qaeda-linked group that claimed responsibility for the deadly attack on the Iranian Embassy in Beirut.
 
-### [11 people are killed in bomb attacks outside a hotel in the Somali capital Mogadishu. ](/news/2014/01/1/11-people-are-killed-in-bomb-attacks-outside-a-hotel-in-the-somali-capital-mogadishu.md)
+### [War in Somalia (2009-present). 11 people are killed in bomb attacks outside a hotel in the Somali capital Mogadishu. ](/news/2014/01/1/war-in-somalia-2009-present-11-people-are-killed-in-bomb-attacks-outside-a-hotel-in-the-somali-capital-mogadishu.md)
 Two car bombs have exploded outside a hotel in the Somali capital Mogadishu, with reports of casualties.
 
 ### [Latvia officially adopts the Euro as its currency and becomes the 18th member of the Eurozone. ](/news/2014/01/1/latvia-officially-adopts-the-euro-as-its-currency-and-becomes-the-18th-member-of-the-eurozone.md)

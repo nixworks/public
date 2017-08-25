@@ -24,7 +24,7 @@ _Context: 2008 Mumbai attacks, Mumbai, Pakistan_
 ### [ Prosecutors in the trial of a former Khmer Rouge prison chief Kaing Guek Eav request a 40 year prison sentence. ](/news/2009/11/25/prosecutors-in-the-trial-of-a-former-khmer-rouge-prison-chief-kaing-guek-eav-request-a-40-year-prison-sentence.md)
 _Context: Extraordinary Chambers in the Courts of Cambodia, Kaing Guek Eav, Khmer Rouge_
 
-### [  Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-massacre.md)
+### [ Maguindanao massacre. Philippine police name a political ally of President Gloria Macapagal Arroyo as prime suspect in the Maguindanao massacre. ](/news/2009/11/25/maguindanao-massacre-philippine-police-name-a-political-ally-of-president-gloria-macapagal-arroyo-as-prime-suspect-in-the-maguindanao-mass.md)
 MANILA - Police on Wednesday named a political ally of President Gloria Arroyo as the prime suspect in an election-linked massacre of at least 50 people.
 
 ## [Previous Day...](/news/2009/11/24/index.md)

@@ -13,4 +13,4 @@
 ### Related:
 
 1. [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md) _Context: stranded in train stations_
-2. [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's ''Chunyun'' period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md) _Context: stranded in train stations_
+2. [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md) _Context: stranded in train stations_

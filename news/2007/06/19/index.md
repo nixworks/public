@@ -18,7 +18,7 @@ _Context: Crdit Lyonnais, hostage_
 ### [ Cadbury Schweppes announces plans to axe around 7,800 jobs from its workforce, closing as many as ten manufacturing sites worldwide. ](/news/2007/06/19/cadbury-schweppes-announces-plans-to-axe-around-7-800-jobs-from-its-workforce-closing-as-many-as-ten-manufacturing-sites-worldwide.md)
 _Context: Cadbury Schweppes_
 
-### [ ''Iraq War:'' The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-p-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troo.md)
+### [ "Iraq War:". The United States military launches Operation Arrowhead Ripper near Baqubah, Diyala province, with approximately 10,000 troops involved. ](/news/2007/06/19/iraq-war-the-united-states-military-launches-operation-arrowhead-ripper-near-baqubah-diyala-province-with-approximately-10-000-troops.md)
 The U.S. military said it had launched a major offensive against al Qaeda north of the Iraqi capital Baghdad on Tuesday involving around 10,000 soldiers.
 
 ### [ An early fossil proving that the giant panda was once a pygmy is found. ](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.md)

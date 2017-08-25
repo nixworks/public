@@ -1,6 +1,6 @@
 ## [2013-10-3](/news/2013/10/3/index.md)
 
-### [Islamist insurgency in Nigeria:Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-pair-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-response.md)
+### [Islamist insurgency in Nigeria:. Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/islamist-insurgency-in-nigeria-air-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-respons.md)
 Fighter jets have bombed camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college, an army spokesman said on Thursday.
 
 ### [The Tehrik-i-Taliban Pakistan attacks a compound belonging to former Tehrik-i-Taliban Pakistan commander Nabi Hanfi leaving 15 dead near the border of North Waziristan. ](/news/2013/10/3/the-tehrik-i-taliban-pakistan-attacks-a-compound-belonging-to-former-tehrik-i-taliban-pakistan-commander-nabi-hanfi-leaving-15-dead-near-the.md)

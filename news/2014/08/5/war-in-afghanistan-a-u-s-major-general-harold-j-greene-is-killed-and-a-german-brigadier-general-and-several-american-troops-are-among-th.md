@@ -1,0 +1,25 @@
+### [2014-08-5](/news/2014/08/5/index.md)
+
+# War in Afghanistan. A U.S. major general Harold J. Greene is killed, and a German brigadier general and several American troops are among the 15 wounded, in a attack by an Afghan soldier gunman - who was killed by Afghan soldiers - at Kabul's Marshal Fahim National Defense University. 
+
+
+
+
+### Source:
+
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-05-AS--Afghanistan-Insider%20Attacks/id-5c84b6bca73442a7939ef7cb09369e91)
+2. [CNN](http://www.cnn.com/2014/08/05/world/asia/afghanistan-violence/index.html?hpt=hp_t1)
+3. [MSN](http://news.msn.com/world/us-officials-us-general-killed-in-afghan-attack)
+
+### Related:
+
+1. [War in Afghanistan. A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/war-in-afghanistan-a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities.md) _Context: Kabul, War in Afghanistan_
+2. [Human rights in China. Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, UK, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/human-rights-in-china-nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-chart.md) _Context: Germany, United States_
+3. [War in Afghanistan. June 2017 Kabul attack. According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/war-in-afghanistan-june-2017-kabul-attack-according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-fig.md) _Context: Kabul, War in Afghanistan_
+4. [War in Afghanistan. June 2017 Kabul mosque attack. A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/war-in-afghanistan-june-2017-kabul-mosque-attack-a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afgh.md) _Context: Kabul, War in Afghanistan_
+5. [War in Afghanistan (2015-present). May 2017 Kabul attack. A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/war-in-afghanistan-2015-present-may-2017-kabul-attack-a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-kille.md) _Context: Germany, Kabul_
+6. [War in Afghanistan. 10 January 2017 Afghanistan bombings. Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/war-in-afghanistan-10-january-2017-afghanistan-bombings-two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _Context: Kabul, War in Afghanistan_
+7. [War in Afghanistan. November 2016 Kabul suicide bombing. At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/war-in-afghanistan-november-2016-kabul-suicide-bombing-at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabu.md) _Context: Kabul, War in Afghanistan_
+8. [Volkswagen diesel emissions cheating scandal. Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-diesel-emissions-cheating-scandal-volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-b.md) _Context: Germany, United States_
+9. [War in Afghanistan. Violence against Shia Muslims. A bomb explosion among crowds of Shiite Muslims gathered to mark Ashura, one of their holiest commemorations, kills at least 12 people and wounds 28 others. Also, authorities revise the death toll to 17 from yesterday's attack on a Kabul Shiite shrine. ](/news/2016/10/12/war-in-afghanistan-violence-against-shia-muslims-a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-hol.md) _Context: Kabul, War in Afghanistan_
+10. [War in Afghanistan. Violence against Shia Muslims. A gunman, reportedly wearing an Afghan police uniform, kills at least 14 people and wounds dozens more in the Shiite Karte Sakhi shrine in Kabul on the beginning of Ashura. Police kill the attacker. ](/news/2016/10/11/war-in-afghanistan-violence-against-shia-muslims-a-gunman-reportedly-wearing-an-afghan-police-uniform-kills-at-least-14-people-and-wound.md) _Context: Kabul, War in Afghanistan_

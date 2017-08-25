@@ -1,6 +1,6 @@
 ## [2010-11-17](/news/2010/11/17/index.md)
 
-### [After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea's capital, Conakry. ](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.md)
+### [After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea-s capital, Conakry. ](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.md)
 _Context: Alpha Conde's, Conakry, Guinea_
 
 ### [Germany heightens its police security presence at its airports after identifying "concrete indications" that a terrorist attack is planned for the end of November ](/news/2010/11/17/germany-heightens-its-police-security-presence-at-its-airports-after-identifying-concrete-indications-that-a-terrorist-attack-is-planned-f.md)
@@ -9,10 +9,10 @@ Germany tightens security at airports and railway stations in light of &quot;con
 ### [Israel approves plans to withdraw IDF troops from the northern half of Ghajar, a village on the Israeli-Lebanese border. ](/news/2010/11/17/israel-approves-plans-to-withdraw-idf-troops-from-the-northern-half-of-ghajar-a-village-on-the-israeli-lebanese-border.md)
 Israel approves plans to withdraw its troops from the northern half of a village deemed by the UN to be inside Lebanon, Israeli officials say.
 
-### [At least 21 people die in a fight between an armed group and  African Union peacekeepers in Mogadishu, Somalia. ](/news/2010/11/17/at-least-21-people-die-in-a-fight-between-an-armed-group-and-african-union-peacekeepers-in-mogadishu-somalia.md)
+### [At least 21 people die in a fight between an armed group and African Union peacekeepers in Mogadishu, Somalia. ](/news/2010/11/17/at-least-21-people-die-in-a-fight-between-an-armed-group-and-african-union-peacekeepers-in-mogadishu-somalia.md)
 At least 21 people killed and many more injured after fighters clash with African Union peacekeepers in Mogadishu.
 
-### [Thirty-six minutes of the film ''Harry Potter and the Deathly Hallows - Part 1'' is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.md)
+### [Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-part-1-is-leaked.md)
 _Context: Harry Potter and the Deathly Hallows - Part 1_
 
 ### [A Roman settlement filled with ancient artifacts and human remains is unearthed at a construction site in London. ](/news/2010/11/17/a-roman-settlement-filled-with-ancient-artifacts-and-human-remains-is-unearthed-at-a-construction-site-in-london.md)
@@ -27,7 +27,7 @@ European finance ministers say they did not hold detailed discussions on a poten
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 _Context: Bank of America, Lehman Brothers, US$, United States_
 
-### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
+### [Economy of the United States. New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/economy-of-the-united-states-new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, Economy of the United States_
 
 ### [Floods and gale-force winds cause widespread disruption and damage across the United Kingdom county of Cornwall. ](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.md)
@@ -54,13 +54,13 @@ _Context: Democratic, John Boehner, Minority Leader, Nancy Pelosi, Republican, S
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
 _Context: Guinea, November's presidential poll, state of emergency_
 
-### [Senator Lisa Murkowski wins the Alaska senate  election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
+### [Senator Lisa Murkowski wins the Alaska senate election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
 _Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook, Inc._
 
-### [A study published by ''The Lancet'' medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md)
+### [A study published by "The Lancet" medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md)
 A short blast of radio waves to the kidneys can help control high blood pressure in patients who do not respond to medication, a study shows.
 
 ### [CERN has managed to trap antihydrogen atoms for the first time. ](/news/2010/11/17/cern-has-managed-to-trap-antihydrogen-atoms-for-the-first-time.md)

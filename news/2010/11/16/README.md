@@ -15,7 +15,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 ### [The Beatles release their back catalogue on iTunes. ](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.md)
 &#039;It has been a long and winding road to get here,&#039; says Steve Jobs
 
-### [UNESCO adds traditional dishes of  France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committ.md)
+### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
 _Context: France, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
 
 ### [New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. ](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.md)
@@ -60,7 +60,7 @@ The Government is close to finalising its four-year fiscal plan and pending appr
 ### [The United States House Committee on Standards of Official Conduct finds Charlie Rangel guilty of multiple violations of House of Representatives rules. ](/news/2010/11/16/the-united-states-house-committee-on-standards-of-official-conduct-finds-charlie-rangel-guilty-of-multiple-violations-of-house-of-representa.md)
 _Context: Charlie Rangel, United States House Committee on Standards of Official Conduct, United States House of Representatives_
 
-### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to  Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salva.md)
+### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
 _Context: Barack Obama, Medal of Honor, Salvatore Giunta, United States, White House, president_
 
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)

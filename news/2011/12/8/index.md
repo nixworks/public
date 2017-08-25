@@ -36,7 +36,7 @@ _Context: Canada, Japan, POWs, World War II_
 ### [British serial killer Robert Black is sentenced to a minimum of 25 years imprisonment for the 1981 murder of Northern Ireland schoolgirl Jennifer Cardy. ](/news/2011/12/8/british-serial-killer-robert-black-is-sentenced-to-a-minimum-of-25-years-imprisonment-for-the-1981-murder-of-northern-ireland-schoolgirl-jen.md)
 The brother of Jennifer Cardy says the family would have forgiven Robert Black if he had asked
 
-### [Two people are killed at Virginia Tech, formerly the site of the largest mass shooting in US history.  ](/news/2011/12/8/two-people-are-killed-at-virginia-tech-formerly-the-site-of-the-largest-mass-shooting-in-us-history.md)
+### [Two people are killed at Virginia Tech, formerly the site of the largest mass shooting in US history. ](/news/2011/12/8/two-people-are-killed-at-virginia-tech-formerly-the-site-of-the-largest-mass-shooting-in-us-history.md)
 _Context: Two people are killed, Virginia Tech, massacre_
 
 ### [Security is increased in the Congolese capital Kinshasa prior to the announcement of results from presidential and parliamentary elections. ](/news/2011/12/8/security-is-increased-in-the-congolese-capital-kinshasa-prior-to-the-announcement-of-results-from-presidential-and-parliamentary-elections.md)

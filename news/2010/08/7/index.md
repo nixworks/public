@@ -6,7 +6,7 @@ BEIRUT: Hezbollah&#039;s leader, Hassan Nasrallah, will present evidence on Mond
 ### [Israel announces that Benjamin Netanyahu, Ehud Barak and Avigdor Lieberman have chosen Yosef Ciechanover, who formerly held posts in the Foreign Ministry, Defence Ministry and defence mission to the United States, to represent it on the United Nations panel to investigate May's Gaza flotilla raid. ](/news/2010/08/7/israel-announces-that-benjamin-netanyahu-ehud-barak-and-avigdor-lieberman-have-chosen-yosef-ciechanover-who-formerly-held-posts-in-the-for.md)
 Former Foreign Ministry director general and Defense Ministry legal adviser named as the Israeli representative to the United Nations review panel. 
 
-### [The MV ''Mavi Marmara'' arrives in Turkey; the remaining three non-Turkish flotilla vessels plus the MV ''Rachel Corrie'' cargo ship, which followed days later, remain in Israeli custody. ](/news/2010/08/7/the-mv-mavi-marmara-arrives-in-turkey-the-remaining-three-non-turkish-flotilla-vessels-plus-the-mv-rachel-corrie-cargo-ship-which.md)
+### [The MV "Mavi Marmara" arrives in Turkey; the remaining three non-Turkish flotilla vessels plus the MV "Rachel Corrie" cargo ship, which followed days later, remain in Israeli custody. ](/news/2010/08/7/the-mv-mavi-marmara-arrives-in-turkey-the-remaining-three-non-turkish-flotilla-vessels-plus-the-mv-rachel-corrie-cargo-ship-which-foll.md)
 Mavi Marmara will be inspected by Turkish authorities and a UN delegation.
 
 ### [10 people, including 2 Afghan civilians and 8 International Assistance Mission aid workers, are killed in Nuristan Province. ](/news/2010/08/7/10-people-including-2-afghan-civilians-and-8-international-assistance-mission-aid-workers-are-killed-in-nuristan-province.md)
@@ -22,7 +22,7 @@ _Context: Baghdad, Fallujah, Iraq_
 Zsa Zsa Gabor was not released from hospital on Saturday as expected after going into shock, her publicist says.
 
 ### [The Gulf of Mexico seafood industry starts to reopen after the Gulf of Mexico oil spill. ](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.md)
-_Context: Deepwater Horizon oil spill, Gulf, seafood_
+_Context: Deepwater Horizon oil spill, Gulf of Mexico, seafood_
 
 ### [Pakistan issues a red alert as the worst floods in its history move south towards Sindh, with hundreds of thousands of people being evacuated, at least 10,000 cows killed and Prime Minister Yousaf Raza Gillani appealing on television for help from the international community. ](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.md)
 Pakistan issues a red alert as floods that have devastated northern areas sweep south into the agricultural heartland of Sindh province.
@@ -63,7 +63,7 @@ _Context: Iran, Mehdi Karroubi_
 ### [A man accused by witnesses of domestic violence informs a New Zealand court that he and his wife were performing the Turkish kolbasti traditional dance at the time of the alleged incident in Hawera. ](/news/2010/08/7/a-man-accused-by-witnesses-of-domestic-violence-informs-a-new-zealand-court-that-he-and-his-wife-were-performing-the-turkish-kolbasti-tradit.md)
 A man accused of beating his wife tells a New Zealand court they were performing a traditional dance, not fighting.
 
-### [Saudi Arabia BlackBerry ban:Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-psaudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-fe.md)
+### [Saudi Arabia BlackBerry ban:. Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-f.md)
 Saudi Arabia and the makers of the BlackBerry smartphone have reached a deal to prevent a ban on the phone&#039;s messenger service.
 
 ### [President of Paraguay Fernando Lugo is diagnosed with lymphoma. ](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.md)

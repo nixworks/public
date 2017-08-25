@@ -1,6 +1,6 @@
 ## [2010-04-10](/news/2010/04/10/index.md)
 
-### [2010 Polish Air Force Tu-154 crash: A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. ](/news/2010/04/10/2010-polish-air-force-tu-154-crash-p-a-tu-154-from-the-36th-special-aviation-regiment-crashes-while-landing-at-military-airport-severny-in-s.md)
+### [2010 Polish Air Force Tu-154 crash:. A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. ](/news/2010/04/10/2010-polish-air-force-tu-154-crash-a-tu-154-from-the-36th-special-aviation-regiment-crashes-while-landing-at-military-airport-severny-in-s.md)
 The aging jet was taking a delegation to a ceremony marking the 70th anniversary of the slaughter of thousands of Polish military officers by Soviet secret police when it went down.
 
 ### [Nineteen people die after violence breaks out between government forces and protesters in Thailand. ](/news/2010/04/10/nineteen-people-die-after-violence-breaks-out-between-government-forces-and-protesters-in-thailand.md)
@@ -27,7 +27,7 @@ _Context: London_
 ### [The Shroud of Turin is displayed in public for the first time in 10 years. ](/news/2010/04/10/the-shroud-of-turin-is-displayed-in-public-for-the-first-time-in-10-years.md)
 _Context: Shroud of Turin_
 
-### [''Don't Push It'', ridden by jockey Tony McCoy, wins the 2010 Grand National at Aintree on McCoy's 15th attempt.  ](/news/2010/04/10/don-t-push-it-ridden-by-jockey-tony-mccoy-wins-the-2010-grand-national-at-aintree-on-mccoy-s-15th-attempt.md)
+### ["Don't Push It", ridden by jockey Tony McCoy, wins the 2010 Grand National at Aintree on McCoy's 15th attempt. ](/news/2010/04/10/don-t-push-it-ridden-by-jockey-tony-mccoy-wins-the-2010-grand-national-at-aintree-on-mccoy-s-15th-attempt.md)
 Tony McCoy has finally won the Grand National as Don&#039;t Push It - his 15th ride in the race - provided the champion jockey with a famous victory at Aintree.
 
 ## [Previous Day...](/news/2010/04/9/index.md)

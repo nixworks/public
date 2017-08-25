@@ -1,6 +1,6 @@
 ### [2016-03-15](/news/2016/03/15/index.md)
 
-# Linn Energy, an oil-and-gas producer with about $10 billion in debt, says a bankruptcy filing may be unavoidable. The company was founded in 2003  and had its initial public offering in 2006. 
+# Linn Energy, an oil-and-gas producer with about $10 billion in debt, says a bankruptcy filing may be unavoidable. The company was founded in 2003 and had its initial public offering in 2006. 
 
 Linn Energy LLC said on Tuesday thatbankruptcy may be unavoidable as the oil-and-gas producer missedinterest payments amid a slump in oil prices.
 

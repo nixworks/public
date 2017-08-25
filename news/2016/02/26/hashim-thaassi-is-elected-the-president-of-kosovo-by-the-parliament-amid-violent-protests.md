@@ -1,6 +1,6 @@
 ### [2016-02-26](/news/2016/02/26/index.md)
 
-# Hashim Thaci is elected  the President of Kosovo by the Parliament amid violent protests. 
+# Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. 
 
 
 

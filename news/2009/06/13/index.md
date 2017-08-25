@@ -6,13 +6,13 @@ _Context: Iran, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, President, re-election
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
 _Context: Arnold Schwarzenegger, California, Governor of California, bond, state's financial crisis_
 
-### [ North Korea: North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-p-north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-counci.md)
+### [ North Korea:. North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-counci.md)
 Pyongyang threatens increased nuclear activity and military action after UN vote.
 
 ### [ China begins the third large-scale excavation of the Mausoleum of the First Qin Emperor in 24 years. ](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.md)
 _Context: China, Terracotta Army_
 
-### [ The planned launch of Space Shuttle ''Endeavour'' is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md)
+### [ The planned launch of Space Shuttle "Endeavour" is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md)
 NASA.gov brings you images, videos and interactive features from the unique perspective of America&rsquo;s space agency. Get the latest updates on NASA missions, subscribe to blogs, RSS feeds and podcasts, watch NASA TV live, or simply read about our mission to pioneer the future in space exploratio...
 
 ### [ Pakistani warplanes strike a stronghold of Taliban leader Baitullah Mehsud in South Waziristan. ](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.md)

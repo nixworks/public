@@ -1,6 +1,6 @@
 ### [2007-09-28](/news/2007/09/28/index.md)
 
-#  ''Lehendakari'' Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. 
+#  "Lehendakari" Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. 
 
 
 

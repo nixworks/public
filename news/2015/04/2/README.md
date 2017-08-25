@@ -3,10 +3,10 @@
 ### [Gunmen attack Garissa University College in Kenya, killing at least 140 people and wounding 65 others. ](/news/2015/04/2/gunmen-attack-garissa-university-college-in-kenya-killing-at-least-140-people-and-wounding-65-others.md)
 At least 147 people have died in an attack by al-Shabab on Garissa University, Kenya - the deadliest assault yet by the Islamist group.
 
-### [Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md)
+### [Yemeni Crisis (2011-present). Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/yemeni-crisis-2011-present-al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md)
 _Context: Al Mukalla, Yemeni Crisis (2011-present), al-Qaeda_
 
-### [Germanwings Flight 9525:The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-pthe-flight-data-recorder-is-recovered-from-the-crash-site.md)
+### [Germanwings Flight 9525:. The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-the-flight-data-recorder-is-recovered-from-the-crash-site.md)
 The co-pilot suspected of deliberately crashing a plane into the Alps had researched suicide methods and the security of cockpit doors, prosecutors say.
 
 ### [The Ministry of Foreign Affairs of the People's Republic of China files a protest after two American jet fighters landed on April 1 at an air base in Taiwan. ](/news/2015/04/2/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-files-a-protest-after-two-american-jet-fighters-landed-on-april-1-at-an-ai.md)
@@ -18,7 +18,7 @@ _Context: Britain, China, European Union, France, Germany, Iran, Russia, United 
 ### [Denial of the Armenian Genocide is criminalized in the Republic of Cyprus. ](/news/2015/04/2/denial-of-the-armenian-genocide-is-criminalized-in-the-republic-of-cyprus.md)
 Cyprus on Thursday made it a crime to deny that Ottoman Turks committed genocide against Armenian Turks a century ago, a move likely to rile its old rival Turkey as peace talks on the ethnically-split island remain stalled.
 
-### [A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-restaurant-s-saying-it-woul.md)
+### [Indiana Senate Bill 101. A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/indiana-senate-bill-101-a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-re.md)
 Supporters of the Indiana family under attack for refusing to cater a hypothetical gay wedding stepped up Thursday, raising hundreds of thousands of dollars and dropping by Memories Pizza even though it remained closed after a rash of threats. 
 
 ## [Previous Day...](/news/2015/04/1/index.md)

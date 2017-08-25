@@ -3,7 +3,7 @@
 ### [United States Department of Labor announces second solid growth in jobs since the recession. ](/news/2010/04/2/united-states-department-of-labor-announces-second-solid-growth-in-jobs-since-the-recession.md)
 Like a breath of spring air hinting at better days ahead, a government report Friday showed the U.S. economy added 162,000 jobs in March, the most in three years. Though encouraging, the boost...
 
-### [Bishop of Down and Connor Noel Treanor says at St Peter's Cathedral, Belfast in Northern Ireland that the "crimes and sins of abuse of children and minors by clergy and religious"  are "faith-shaking". ](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.md)
+### [Bishop of Down and Connor Noel Treanor says at St Peter's Cathedral, Belfast in Northern Ireland that the "crimes and sins of abuse of children and minors by clergy and religious" are "faith-shaking". ](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.md)
 The Bishop of Down and Connor has described as &#39;faith-shaking&#39; the &#39;crimes and sins of abuse of minors by clergy and religious&#39;.
 
 ### [Rescue teams attempting to reach 153 miners trapped in a flooded coal pit in Shanxi report "signs of life", including "tapping", "banging" and "shouts", as relatives allege an official cover-up of the incident. ](/news/2010/04/2/rescue-teams-attempting-to-reach-153-miners-trapped-in-a-flooded-coal-pit-in-shanxi-report-signs-of-life-including-tapping-banging-a.md)

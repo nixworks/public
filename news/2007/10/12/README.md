@@ -12,7 +12,7 @@ _Context: Al Gore, Intergovernmental Panel on Climate Change, Nobel Peace Prize,
 ### [ Indonesia and Australia commemorate the fifth anniversary of the 2002 Bali bombings. ](/news/2007/10/12/indonesia-and-australia-commemorate-the-fifth-anniversary-of-the-2002-bali-bombings.md)
 _Context: 2002 Bali bombings, Australia, Indonesia_
 
-### [ Three people are dead  at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-coll.md)
+### [ Three people are dead at the Newhall Pass interchange on Interstate 5 just north of Los Angeles, California after thirty-one vehicles collide in a highway tunnel, closing the freeway entirely. ](/news/2007/10/12/three-people-are-dead-at-the-newhall-pass-interchange-on-interstate-5-just-north-of-los-angeles-california-after-thirty-one-vehicles-colli.md)
 _Context: California, Interstate 5, Los Angeles, California, Newhall Pass interchange, freeway, tunnel_
 
 ## [Previous Day...](/news/2007/10/11/index.md)

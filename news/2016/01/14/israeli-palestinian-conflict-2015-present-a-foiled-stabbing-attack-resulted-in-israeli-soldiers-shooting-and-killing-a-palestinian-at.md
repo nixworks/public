@@ -1,0 +1,23 @@
+### [2016-01-14](/news/2016/01/14/index.md)
+
+# Israeli-Palestinian conflict (2015-present). A foiled stabbing attack resulted in Israeli soldiers shooting and killing a Palestinian at Beit Einun. 
+
+No Israelis were injured in the event.
+
+
+### Source:
+
+1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Security-forces-shoot-kill-suspected-terrorist-in-thwarted-knife-attack-in-West-Bank-441477)
+
+### Related:
+
+1. [Israeli-Palestinian conflict (2015-present). A Palestinian gunman opens fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem, killing at least two people, including a police officer, and injuring six others. Israeli police kill the gunman. ](/news/2016/10/9/israeli-palestinian-conflict-2015-present-a-palestinian-gunman-opens-fire-from-a-vehicle-on-people-waiting-at-a-train-station-and-the.md) _Context: Israeli-Palestinian conflict (2015-present)_
+2. [Israeli-Palestinian conflict (2015-present). Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. ](/news/2016/06/9/israeli-palestinian-conflict-2015-present-israel-suspends-83-000-entry-permits-for-palestinians-for-ramadan-following-a-mass-shooting.md) _Context: Israeli-Palestinian conflict (2015-present)_
+3. [Israeli-Palestinian conflict (2015-present). June 2016 Tel Aviv shooting. Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/israeli-palestinian-conflict-2015-present-june-2016-tel-aviv-shooting-two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-av.md) _Context: Israeli-Palestinian conflict (2015-present)_
+4. [Israeli-Palestinian conflict (2015-present). Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. ](/news/2016/05/11/israeli-palestinian-conflict-2015-present-israel-seals-off-the-west-bank-and-gaza-strip-for-two-days-while-yom-ha-atzmaut-israel-s-r.md) _Context: Israeli-Palestinian conflict (2015-present)_
+5. [Israeli-Palestinian conflict (2015-present). 2016 Jerusalem bus bombing. A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/israeli-palestinian-conflict-2015-present-2016-jerusalem-bus-bombing-a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured.md) _Context: Israeli-Palestinian conflict (2015-present)_
+6. [Israeli-Palestinian conflict (2015-present). Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. ](/news/2016/04/11/israeli-palestinian-conflict-2015-present-israeli-security-forces-arrest-18-palestinians-on-the-west-bank-for-alleged-terrorism-relat.md) _Context: Israeli-Palestinian conflict (2015-present)_
+7. [Israeli-Palestinian conflict (2015-present). Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-palestinian-conflict-2015-present-israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md) _Context: Israeli-Palestinian conflict (2015-present)_
+8. [Israeli-Palestinian conflict (2015-present). Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/israeli-palestinian-conflict-2015-present-three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-ov.md) _Context: Israeli-Palestinian conflict (2015-present)_
+9. [Israeli-Palestinian conflict (2015-present). Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-i.md) _Context: Israeli-Palestinian conflict (2015-present)_
+10. [Israeli-Palestinian conflict (2015-present). Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-i.md) _Context: Israeli-Palestinian conflict (2015-present)_

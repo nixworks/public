@@ -1,9 +1,9 @@
 ## [2012-04-14](/news/2012/04/14/index.md)
 
-### [Anti-austerity demonstrators take place at the ruling Labour Party's centenary conference with protesters using a  coffin draped in the Irish tricolour. ](/news/2012/04/14/anti-austerity-demonstrators-take-place-at-the-ruling-labour-party-s-centenary-conference-with-protesters-using-a-coffin-draped-in-the-iris.md)
+### [Anti-austerity demonstrators take place at the ruling Labour Party's centenary conference with protesters using a coffin draped in the Irish tricolour. ](/news/2012/04/14/anti-austerity-demonstrators-take-place-at-the-ruling-labour-party-s-centenary-conference-with-protesters-using-a-coffin-draped-in-the-irish.md)
 There were rowdy scenes outside the Labour Party conference this afternoon as protesters broke through a Garda barrier to register&hellip;
 
-### [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011a2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md)
+### [2011-2012 Bahraini uprising: A 15-year-old is shot through the chest by police in Bahrain. ](/news/2012/04/14/2011-2012-bahraini-uprising-a-15-year-old-is-shot-through-the-chest-by-police-in-bahrain.md)
 Boy among several people wounded when police opened fire as thousands joined funeral procession, opposition group says.
 
 ### [Sudanese forces advance on the town of Heglig that is occupied by South Sudanese forces during days of cross-border clashes. ](/news/2012/04/14/sudanese-forces-advance-on-the-town-of-heglig-that-is-occupied-by-south-sudanese-forces-during-days-of-cross-border-clashes.md)

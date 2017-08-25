@@ -9,13 +9,13 @@ France and Germany follow the US and Britain in withdrawing civilian staff from 
 ### [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, kidnapped_
 
-### [84th Academy Awards:The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-pthe-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-ca.md)
+### [84th Academy Awards:. The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md)
 _Context: 84th Academy Awards, California, Hollywood, Hollywood and Highland Center Theatre (formerly Kodak Theatre)_
 
 ### [Chandra Bahadur Dangi is verified by Guinness World Records to be the world's shortest person ever, beating the record long held by Gul Mohammed. ](/news/2012/02/26/chandra-bahadur-dangi-is-verified-by-guinness-world-records-to-be-the-world-s-shortest-person-ever-beating-the-record-long-held-by-gul-moha.md)
 _Context: Chandra Bahadur Dangi, Guinness World Records, Gul Mohammed_
 
-### [Rupert Murdoch's News Corporation launches the ''The Sun on Sunday'' to replace the ''News of the World'', which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacki.md)
+### [Rupert Murdoch's News Corporation launches the "The Sun on Sunday" to replace the "News of the World", which closed due to a phone hacking controversy. ](/news/2012/02/26/rupert-murdoch-s-news-corporation-launches-the-the-sun-on-sunday-to-replace-the-news-of-the-world-which-closed-due-to-a-phone-hacking-c.md)
 _Context: News Corporation, News of the World, Rupert Murdoch, The Sun_
 
 ### [A bus plunges off a cliff in Shanxi, China, killing 15 tourists. ](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.md)

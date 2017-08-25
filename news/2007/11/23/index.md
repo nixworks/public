@@ -3,7 +3,7 @@
 ### [ Polish parliament speaker Bronislaw Komorowski said that Poland's new government is set to be the first to ratify the EU's Reform Treaty. ](/news/2007/11/23/polish-parliament-speaker-bronislaw-komorowski-said-that-poland-s-new-government-is-set-to-be-the-first-to-ratify-the-eu-s-reform-treaty.md)
 _Context: Bronislaw Komorowski, European Union, Polish, Reform Treaty_
 
-### [ 2007 Pakistani state of emergency: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-p-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md)
+### [ 2007 Pakistani state of emergency:. The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md)
 _Context: 2007 Pakistani presidential election, 2007 Pakistani state of emergency, Election Commission, Pervez Musharraf, Supreme Court_
 
 ### [ The term of Lebanese President Emile Lahoud ends with no successor and a political dispute over who is in power. ](/news/2007/11/23/the-term-of-lebanese-president-emile-lahoud-ends-with-no-successor-and-a-political-dispute-over-who-is-in-power.md)

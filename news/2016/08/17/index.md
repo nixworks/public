@@ -12,7 +12,7 @@ _Context: Chapter 11, Delaware, Energy Future Holdings, bankruptcy court, electr
 ### [Eight people are seriously injured when a passenger train collides with a tree that had fallen across the railway line at Saint-Auns, Hrault, France. ](/news/2016/08/17/eight-people-are-seriously-injured-when-a-passenger-train-collides-with-a-tree-that-had-fallen-across-the-railway-line-at-saint-aunes-herau.md)
 Dozens of people are hurt, eight of them seriously, when a regional train hits a tree uprooted during a hailstorm in the south of France.
 
-### [All 511 passengers and crew are evacuated from the ferry ''Caribbean Fantasy'' which caught fire off San Juan, Puerto Rico. ](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.md)
+### [All 511 passengers and crew are evacuated from the ferry "Caribbean Fantasy" which caught fire off San Juan, Puerto Rico. ](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.md)
 _Context: San Juan, Puerto Rico_
 
 ### [An unusual kiting incident in India leaves three people dead. 500 birds were also injured in similar incidents. ](/news/2016/08/17/an-unusual-kiting-incident-in-india-leaves-three-people-dead-500-birds-were-also-injured-in-similar-incidents.md)
@@ -21,13 +21,13 @@ _Context: India, kiting, leaves three people dead_
 ### [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md)
 Immigration Minister Peter Dutton confirms Australia will work with Papua New Guinea to close the Manus Island detention centre.
 
-### [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to  South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
+### [North Korean defectors. North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korean-defectors-north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
 _Context: Britain, North Korea, North Korean defectors, South Korea, Thae Yong-ho_
 
-### [A Malaysian oil tanker, MT ''Vier Harmoni'', is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-n.md)
+### [A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-nea.md)
 A Malaysian oil tanker that was believed to have been hijacked was actually commandeered by its own crew, officials say.
 
-### [Judge Keyla Blanc, of Brazil's Special Tribunal for Fans and Major Events, orders Brazil police to question U.S. swimmer Ryan Lochte over inconsistencies describing the armed robbery of himself and three other American Olympians. Gunnar Bentz and Jack Conger are later removed from a plane returning to the United States.  ](/news/2016/08/17/judge-keyla-blanc-of-brazil-s-special-tribunal-for-fans-and-major-events-orders-brazil-police-to-question-u-s-swimmer-ryan-lochte-over-in.md)
+### [Judge Keyla Blanc, of Brazil's Special Tribunal for Fans and Major Events, orders Brazil police to question U.S. swimmer Ryan Lochte over inconsistencies describing the armed robbery of himself and three other American Olympians. Gunnar Bentz and Jack Conger are later removed from a plane returning to the United States. ](/news/2016/08/17/judge-keyla-blanc-of-brazil-s-special-tribunal-for-fans-and-major-events-orders-brazil-police-to-question-u-s-swimmer-ryan-lochte-over-in.md)
 Brazilian police stopped two U.S. Olympic swimmers from boarding a flight home on Wednesday to question them about how they and two team mates were robbed at gunpoint in Rio de Janeiro at the weekend, after a judge raised doubts over their accounts.
 
 ### [The U.S. National Security Agency's website goes down amid hacking fears. ](/news/2016/08/17/the-u-s-national-security-agency-s-website-goes-down-amid-hacking-fears.md)

@@ -15,7 +15,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ Queen Elizabeth II of the United Kingdom firmly warns newspaper editors in a letter to cease publication of personal pictures of the British Royal Family after years of being "hounded" by paparazzi. ](/news/2009/12/6/queen-elizabeth-ii-of-the-united-kingdom-firmly-warns-newspaper-editors-in-a-letter-to-cease-publication-of-personal-pictures-of-the-britis.md)
 Queen Elizabeth wrote to editors over the issue of paparazzi photographers intruding on the royal family&#039;s privacy.
 
-### [ An HIV-positive man is accused of attempting to intentionally infect his wife with the virus, the first case of its kind in New Zealand.  ](/news/2009/12/6/an-hiv-positive-man-is-accused-of-attempting-to-intentionally-infect-his-wife-with-the-virus-the-first-case-of-its-kind-in-new-zealand.md)
+### [ An HIV-positive man is accused of attempting to intentionally infect his wife with the virus, the first case of its kind in New Zealand. ](/news/2009/12/6/an-hiv-positive-man-is-accused-of-attempting-to-intentionally-infect-his-wife-with-the-virus-the-first-case-of-its-kind-in-new-zealand.md)
 A MAN who is HIV-positive injected his wife with his blood while she slept, infecting her with the virus that causes AIDS.
 
 ### [ Voters in Bolivia go to the polls for a general election with exit polls indicating that the President of Bolivia Evo Morales has won. ](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.md)

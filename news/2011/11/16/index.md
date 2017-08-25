@@ -1,6 +1,6 @@
 ## [2011-11-16](/news/2011/11/16/index.md)
 
-### [Syrian uprising:The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-pthe-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-in.md)
+### [Syrian uprising:. The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-i.md)
 FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime demonstrators storm US, French diplomatic offices 
 
 ### [Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. ](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.md)
@@ -9,13 +9,13 @@ _Context: Pakistan, South Waziristan, drones launch_
 ### [The chairman of the U.S. House of Representatives' Oversight Committee, Darrell Issa, whose panel has been investigating charges that defunct lender Countrywide Financial used its VIP-lending program to buy influence, says that a forthcoming report will include "significant new findings" on that point. ](/news/2011/11/16/the-chairman-of-the-u-s-house-of-representatives-oversight-committee-darrell-issa-whose-panel-has-been-investigating-charges-that-defunc.md)
 _Context: Countrywide Financial, Darrell Issa, House Oversight Committee, United States House of Representatives_
 
-### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would  hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cub.md)
+### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md)
 _Context: Bangkok, Thai authorities, floods, super-canal_
 
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
 _Context: China, Gansu province, collides_
 
-### [2011 Tibetan self-immolation protests:Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/2011-tibetan-self-immolation-protests-ptibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations.md)
+### [2011 Tibetan self-immolation protests:. Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/2011-tibetan-self-immolation-protests-tibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations.md)
 The spiritual leader of the Kirti monastery, the starting point for a spate of self-immolation protests, says Chinese authorities have imposed new repressive measures.
 
 ### [The President of the United States Barack Obama arrives in Australia for a visit to commemorate the 60th anniversary of the signing of the ANZUS treaty; the United States and Australia announce an agreement to expand military cooperation between them, including the stationing of up to 2,500 U.S. Marines near Darwin. ](/news/2011/11/16/the-president-of-the-united-states-barack-obama-arrives-in-australia-for-a-visit-to-commemorate-the-60th-anniversary-of-the-signing-of-the-a.md)

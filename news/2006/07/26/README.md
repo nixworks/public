@@ -1,6 +1,6 @@
 ## [2006-07-26](/news/2006/07/26/index.md)
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains): At least nine people are killed in Israeli air raids in the east of Gaza City, including a three-year-old girl, according to medical sources. ](/news/2006/07/26/israeli-palestinian-conflict-operation-summer-rains-p-at-least-nine-people-are-killed-in-israeli-air-raids-in-the-east-of-gaza-city-incl.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):. At least nine people are killed in Israeli air raids in the east of Gaza City, including a three-year-old girl, according to medical sources. ](/news/2006/07/26/israeli-palestinian-conflict-operation-summer-rains-at-least-nine-people-are-killed-in-israeli-air-raids-in-the-east-of-gaza-city-incl.md)
 _Context: Gaza, Israel, Israeli-Palestinian conflict, Operation Summer Rains_
 
 ### [ Andrea Yates, a U.S. woman who killed her five children in 2001, is found not guilty of murder by reason of insanity. ](/news/2006/07/26/andrea-yates-a-u-s-woman-who-killed-her-five-children-in-2001-is-found-not-guilty-of-murder-by-reason-of-insanity.md)
@@ -21,7 +21,7 @@ _Context: Fran P. Mainella, National Park Service, United States_
 ### [ 2006 Kodori Gorge clashes: Georgian forces attack surrounded rebels after an ultimatum expires. ](/news/2006/07/26/2006-kodori-gorge-clashes-georgian-forces-attack-surrounded-rebels-after-an-ultimatum-expires.md)
 _Context: 2006 Kodori Gorge clashes, Georgian_
 
-### [ 2006 Israel-Lebanon conflict: Four United Nations observers are killed in an Israeli air strike on an observation post in south Lebanon. An initial UN report says they contacted the Israeli troops 10 times before an incoming bomb killed four of them. ](/news/2006/07/26/2006-israel-lebanon-conflict-p-four-united-nations-observers-are-killed-in-an-israeli-air-strike-on-an-observation-post-in-south-lebanon-a.md)
+### [ 2006 Israel-Lebanon conflict:. Four United Nations observers are killed in an Israeli air strike on an observation post in south Lebanon. An initial UN report says they contacted the Israeli troops 10 times before an incoming bomb killed four of them. ](/news/2006/07/26/2006-israel-lebanon-conflict-four-united-nations-observers-are-killed-in-an-israeli-air-strike-on-an-observation-post-in-south-lebanon-a.md)
 (VIDEO) Heavy exchanges of fire continue in Hizbullah&#39;s &#39;capital&#39; in south Lebanon; at least 13 troops hurt Rocket barrages fired on Tiberias, Safed, no injuries reported
 
 ## [Previous Day...](/news/2006/07/25/index.md)

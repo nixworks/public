@@ -1,6 +1,6 @@
 ## [2009-09-26](/news/2009/09/26/index.md)
 
-### [ Second South America-Africa Summit (ASA) on Isla Margarita: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-p-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md)
+### [ Second South America-Africa Summit (ASA) on Isla Margarita:. The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md)
 The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Venezuela, signed on Saturday night an agreement establishing the South Bank with an initial capital of 20 billion U.S. dollars.
 
 ### [ More than 100 ministers and heads of state attend a United Nations meeting on the global hunger crisis. Bangladesh Prime Minister Sheikh Hasina tables a five-pronged set of recommendations to raise a hunger-free world. ](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.md)
@@ -33,7 +33,7 @@ The weather bureau is using satellite imagery to monitor another dust storm whic
 ### [ Pope Benedict XVI arrives for a three day visit to the Czech Republic. ](/news/2009/09/26/pope-benedict-xvi-arrives-for-a-three-day-visit-to-the-czech-republic.md)
 _Context: Czech Republic, Pope, Pope Benedict XVI_
 
-### [ Twenty-two large banks in Europe may have accumulated credit losses of close to EUR400 billion for this year and next, according to officials who have seen a draft of conclusions of "stress tests" conducted by European regulators.  ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-a-400-billion-for-this-year-and-next-according-to-officia.md)
+### [ Twenty-two large banks in Europe may have accumulated credit losses of close to -400 billion for this year and next, according to officials who have seen a draft of conclusions of -stress tests- conducted by European regulators. ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-400-billion-for-this-year-and-next-according-to-officia.md)
 Europe’s 22 biggest banks may have accumulated about 400 billion euros in credit losses for 2009 and 2010, say officials who have seen the results of “stress tests” conducted by European regulators.
 
 ### [ Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.md)

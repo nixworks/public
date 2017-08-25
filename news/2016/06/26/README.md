@@ -1,12 +1,12 @@
 ## [2016-06-26](/news/2016/06/26/index.md)
 
-### [The head of the counter terrorism forces which partook in the offensive says that the city of Fallujah has been "fully liberated". ](/news/2016/06/26/the-head-of-the-counter-terrorism-forces-which-partook-in-the-offensive-says-that-the-city-of-fallujah-has-been-fully-liberated.md)
+### [Iraqi Civil War (2014-present). Battle of Fallujah (2016). The head of the counter terrorism forces which partook in the offensive says that the city of Fallujah has been "fully liberated". ](/news/2016/06/26/iraqi-civil-war-2014-present-battle-of-fallujah-2016-the-head-of-the-counter-terrorism-forces-which-partook-in-the-offensive-says-th.md)
 BAGHDAD (AP) — Five weeks after a military operation began, a senior Iraqi commander declared Sunday that the city of Fallujah was &quot;fully liberated&quot; from the Islamic State group, giving a major boost to the country&#039;s security…
 
-### [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md)
+### [Boko Haram insurgency. Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/boko-haram-insurgency-fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-milit.md)
 One civilian and six Boko Haram fighters killed during operation to evacuate four villages in the country&#39;s northeast.
 
-### [Airstrikes reportedly kill at least 82 people, including 58 civilians, in Syria's eastern Deir ez-Zor Governorate, according to the Syrian Observatory for Human Rights. ](/news/2016/06/26/airstrikes-reportedly-kill-at-least-82-people-including-58-civilians-in-syria-s-eastern-deir-ez-zor-governorate-according-to-the-syrian-o.md)
+### [Syrian Civil War. Airstrikes reportedly kill at least 82 people, including 58 civilians, in Syria's eastern Deir ez-Zor Governorate, according to the Syrian Observatory for Human Rights. ](/news/2016/06/26/syrian-civil-war-airstrikes-reportedly-kill-at-least-82-people-including-58-civilians-in-syria-s-eastern-deir-ez-zor-governorate-accordi.md)
 Reports say 58 civilians among victims of Syrian-Russian raids on ISIL-held town amid claims of use of incendiary bombs.
 
 ### [The expanded Panama Canal opens after a $4.5 billion expansion allowing larger ships to use it. ](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.md)
@@ -24,16 +24,16 @@ Two adults and three children were killed after an Amtrak train collided with th
 ### [Unidentified men with bush knives attack the Papua New Guinea University of Technology in the city of Lae, killing one student, and set fire to various buildings on the campus. ](/news/2016/06/26/unidentified-men-with-bush-knives-attack-the-papua-new-guinea-university-of-technology-in-the-city-of-lae-killing-one-student-and-set-fire.md)
 One person has died after violent clashes at a university campus in the northern Papua New Guinea city of Lae on Saturday night.
 
-### [Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-near-molochio-in-calabria.md)
+### [Organized crime in Italy. Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/organized-crime-in-italy-ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-n.md)
 Ernesto Fazzalari of Calabrian ’Ndrangheta faces life sentence having been found guilty of murder and drug trafficking
 
-### [Police report multiple stabbings at a planned  "white pride" rally in Sacramento, California between the Traditionalist Workers Party  and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-c.md)
+### [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-cou.md)
 Gathering of many West Coast white supremacist groups in Sacramento took sudden violent turn
 
-### [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md)
+### [Spanish general election, 2016. Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/spanish-general-election-2016-voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indi.md)
 _Context: Spain, Spanish general election, 2016_
 
-### [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md)
+### [United Kingdom withdrawal from the European Union. Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/united-kingdom-withdrawal-from-the-european-union-nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-po.md)
 Labour leader Jeremy Corbyn announces a reshaped shadow cabinet following a wave of resignations in protest at his leadership.
 
 ## [Previous Day...](/news/2016/06/25/index.md)

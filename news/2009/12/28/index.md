@@ -6,7 +6,7 @@ _Context: Hirohisa Fujii, Japan, finance minister_
 ### [ Two Argentine men become the first gay couple to legally marry in Latin America at a civil ceremony. ](/news/2009/12/28/two-argentine-men-become-the-first-gay-couple-to-legally-marry-in-latin-america-at-a-civil-ceremony.md)
 _Context: Argentine, Latin America, civil ceremony, homosexuality, same-sex marriage_
 
-### [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md)
+### [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md)
 _Context: China, China, De Xin Hai, Somalia, Xinhua_
 
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
@@ -30,10 +30,10 @@ _Context: Najafabad, martial law, recent demonstrations_
 ### [ Ireland's most senior Cardinal, Cahal Daly, is reported to be "seriously ill" in hospital. ](/news/2009/12/28/ireland-s-most-senior-cardinal-cahal-daly-is-reported-to-be-seriously-ill-in-hospital.md)
 Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast City Hospital.
 
-### [ 25 dead and dozens injured in a suicide bombing on a Shia procession on the  day of Ashura, in Karachi, Pakistan. ](/news/2009/12/28/25-dead-and-dozens-injured-in-a-suicide-bombing-on-a-shia-procession-on-the-day-of-ashura-in-karachi-pakistan.md)
+### [ 25 dead and dozens injured in a suicide bombing on a Shia procession on the day of Ashura, in Karachi, Pakistan. ](/news/2009/12/28/25-dead-and-dozens-injured-in-a-suicide-bombing-on-a-shia-procession-on-the-day-of-ashura-in-karachi-pakistan.md)
 _Context: Ashura, Karachi, Pakistan, Shia, suicide bombing_
 
-### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md)
+### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-pacific-ocean-oil-pipeline.md)
 _Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
 
 ### [ At least 2,000 hectares and 20 homes are destroyed and hundreds of people are evacuated after a suspected arson causes forest fires in Valparaiso, Chile. ](/news/2009/12/28/at-least-2-000-hectares-and-20-homes-are-destroyed-and-hundreds-of-people-are-evacuated-after-a-suspected-arson-causes-forest-fires-in-valp.md)

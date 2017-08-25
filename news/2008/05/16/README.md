@@ -22,7 +22,7 @@ _Context: North Korea, United States, food aid, tonne_
 The government’s revised death toll almost doubled, and it also raised the number of missing to 55,917.
 
 ### [ The Court of Arbitration for Sport overturns the IAAF's decision to ban South African double-amputee runner Oscar Pistorius from its competitions, thus clearing the way for him to attempt to become the first leg amputee to participate in the Olympic Games. ](/news/2008/05/16/the-court-of-arbitration-for-sport-overturns-the-iaaf-s-decision-to-ban-south-african-double-amputee-runner-oscar-pistorius-from-its-compet.md)
-_Context: Beijing Olympiad, Court of Arbitration for Sport, IAAF, Oscar Pistorius, South Africa, amputee_
+_Context: 2008 Summer Olympics, Court of Arbitration for Sport, IAAF, Oscar Pistorius, South Africa, amputee_
 
 ### [ A suicide bomber kills at least nine people, including 7 police, and wounds 90 in Sri Lanka's capital Colombo. ](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.md)
 _Context: Colombo, Sri Lanka_

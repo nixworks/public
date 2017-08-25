@@ -1,6 +1,6 @@
 ### [2005-01-17](/news/2005/01/17/index.md)
 
-#  Investigative reporter Seymour Hersh writes in ''The New Yorker'' 
+#  Investigative reporter Seymour Hersh writes in "The New Yorker" 
 
 
 

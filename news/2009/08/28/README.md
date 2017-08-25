@@ -3,10 +3,10 @@
 ### [ A suicide bomber lightly wounds Prince Muhammad bin Nayef, deputy interior minister of Saudi Arabia, in his Jeddah office. ](/news/2009/08/28/a-suicide-bomber-lightly-wounds-prince-muhammad-bin-nayef-deputy-interior-minister-of-saudi-arabia-in-his-jeddah-office.md)
 A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism efforts, the official news agency reported from the Saudi capital, Riyadh.
 
-### [ ''Reading Rainbow'', the third longest-running children's show on United States public-service television network PBS, ends its 26-year run.  ](/news/2009/08/28/reading-rainbow-the-third-longest-running-children-s-show-on-united-states-public-service-television-network-pbs-ends-its-26-year-run.md)
+### [ "Reading Rainbow", the third longest-running children's show on United States public-service television network PBS, ends its 26-year run. ](/news/2009/08/28/reading-rainbow-the-third-longest-running-children-s-show-on-united-states-public-service-television-network-pbs-ends-its-26-year-run.md)
 _Context: PBS, Reading Rainbow, United States_
 
-### [ The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques,  but the new method even shows up chemical bonds. ](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-molecule-has-been-imaged-for-the-first-time-the-physical-shape-of-single-carbon-nanotubes-has.md)
+### [ The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques, but the new method even shows up chemical bonds. ](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-molecule-has-been-imaged-for-the-first-time-the-physical-shape-of-single-carbon-nanotubes-has.md)
 _Context: carbon nanotubes, chemical bonds, chemical structure, molecule, similar techniques_
 
 ### [ The United Nations warns that poultry farms could become infected with the H1N1 virus, following the discovery of the virus in turkeys in Chile last week. ](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.md)
@@ -24,7 +24,7 @@ _Context: Britain, Iceland, Icesave, Netherlands, US$, parliament (Althing)_
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
 _Context: Los Angeles County, California, Michael Jackson, United States, coronial, death, drug, homicide, intoxication, propofol_
 
-### [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly ''Nouvel Observateur'', Spanish newspaper ''El Pas'', and Italian newspaper ''La Repubblica'', and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel.  ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais.md)
+### [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md)
 Italian Prime Minister Silvio Berlusconi is launching legal actions against media in Italy and abroad, including Britain, France and Spain, for libel in their coverage of his private life, his lawyer said on Friday.
 
 ### [ King Mohammed VI of Morocco is hospitalized for five days for treatment of a rotavirus and dehydration. ](/news/2009/08/28/king-mohammed-vi-of-morocco-is-hospitalized-for-five-days-for-treatment-of-a-rotavirus-and-dehydration.md)
@@ -39,7 +39,7 @@ _Context: Iran, North Korea, United Arab Emirates, United Nations, United Nation
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
 
-### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo.  This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)
+### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)
 Space shuttle Discovery has launched on a mission to deliver new science equipme..
 
 ## [Previous Day...](/news/2009/08/27/index.md)

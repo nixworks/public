@@ -12,7 +12,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### [ The World Economic Forum begins in Davos, Switzerland ](/news/2005/01/26/the-world-economic-forum-begins-in-davos-switzerland.md)
 _Context: Davos, World Economic Forum_
 
-### [ In Glendale, California, a commuter train crashes into a sport utility vehicle left on the tracks, derailing the train and sending it into another commuter train, killing 11 and injuring at least 100.  Juan Manuel lvarez, who allegedly drove the car to the railway in an attempt to commit suicide, is accused of eleven murders. ](/news/2005/01/26/in-glendale-california-a-commuter-train-crashes-into-a-sport-utility-vehicle-left-on-the-tracks-derailing-the-train-and-sending-it-into.md)
+### [ In Glendale, California, a commuter train crashes into a sport utility vehicle left on the tracks, derailing the train and sending it into another commuter train, killing 11 and injuring at least 100. Juan Manuel lvarez, who allegedly drove the car to the railway in an attempt to commit suicide, is accused of eleven murders. ](/news/2005/01/26/in-glendale-california-a-commuter-train-crashes-into-a-sport-utility-vehicle-left-on-the-tracks-derailing-the-train-and-sending-it-into.md)
 _Context: Glendale, California, Juan Manuel lvarez, SUV, commuter train crashes_
 
 ### [ United States Supreme Court rejects appeal of Florida governor Jeb Bush to keep brain damaged Terri Schiavo alive against the wishes of her husband. Her parents try to remove her husband from the post of her guardian ](/news/2005/01/26/united-states-supreme-court-rejects-appeal-of-florida-governor-jeb-bush-to-keep-brain-damaged-terri-schiavo-alive-against-the-wishes-of-her.md)

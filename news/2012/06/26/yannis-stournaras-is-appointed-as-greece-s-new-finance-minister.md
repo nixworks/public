@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-supported-his-views.md) _Context: Greek Minister of Finance_
+1. [Greek bailout referendum, 2015. Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/greek-bailout-referendum-2015-yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-support.md) _Context: Greek Minister of Finance_

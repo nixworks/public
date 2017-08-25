@@ -1,6 +1,6 @@
 ### [2005-03-25](/news/2005/03/25/index.md)
 
-#  Doctors at a Monaco hospital call the condition of Prince Rainier III "worrying" and are unsure if he will recover from heart and renal failure.  He remains on a ventilator. 
+#  Doctors at a Monaco hospital call the condition of Prince Rainier III "worrying" and are unsure if he will recover from heart and renal failure. He remains on a ventilator. 
 
 
 

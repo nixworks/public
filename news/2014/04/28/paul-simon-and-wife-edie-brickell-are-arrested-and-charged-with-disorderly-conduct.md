@@ -1,6 +1,6 @@
 ### [2014-04-28](/news/2014/04/28/index.md)
 
-# Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct.  
+# Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct. 
 
 Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct, according to police in New Canaan, Connecticut.
 

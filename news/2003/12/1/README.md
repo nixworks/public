@@ -1,9 +1,9 @@
 ## [2003-12-1](/news/2003/12/1/index.md)
 
-### [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md)
+### [ Occupation of Iraq:. The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md)
 _Context: Iraq, Occupation of Iraq, currency_
 
-### [ World AIDS Day: US Health Secretary Tommy Thompson warns that the world is losing the war against AIDS. Thompson said, "We need America, the European Union and everybody. Nobody is going to be spared unless we all come together in the fight against this disease." ](/news/2003/12/1/world-aids-day-p-us-health-secretary-tommy-thompson-warns-that-the-world-is-losing-the-war-against-aids-thompson-said-we-need-america-t.md)
+### [ World AIDS Day:. US Health Secretary Tommy Thompson warns that the world is losing the war against AIDS. Thompson said, "We need America, the European Union and everybody. Nobody is going to be spared unless we all come together in the fight against this disease." ](/news/2003/12/1/world-aids-day-us-health-secretary-tommy-thompson-warns-that-the-world-is-losing-the-war-against-aids-thompson-said-we-need-america-t.md)
 _Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thompson, United States, World Aids Day_
 
 ### [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http://story.news.yahoo.com/news?tmpl=story&cid=515&ncid=723&e=5&u=/ap/20031201/ap_on_re_af/un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-for-his-ro.md)
@@ -21,10 +21,10 @@ _Context: Boeing, Boeing 767, CFO, Harry Stonecipher, Hewlett-Packard, Lewis Pla
 ### [ In Flandreau, South Dakota, jury selection begins in the manslaughter trial of former South Dakota Governor and current US Congressman Bill Janklow. [http://www.foxnews.com/story/0,2933,104431,00.html]](/news/2003/12/1/in-flandreau-south-dakota-jury-selection-begins-in-the-manslaughter-trial-of-former-south-dakota-governor-and-current-us-congressman-bill.md)
 _Context: Bill Janklow, Flandreau, South Dakota Governor, United States House of Representatives, jury, jury trial, manslaughter by gross negligence_
 
-### [  The cross country cycling organization "LOCO" was founded in Shreveport / Bossier City.](/news/2003/12/1/the-cross-country-cycling-organization-loco-was-founded-in-shreveport-bossier-city.md)
+### [ The cross country cycling organization "LOCO" was founded in Shreveport / Bossier City.](/news/2003/12/1/the-cross-country-cycling-organization-loco-was-founded-in-shreveport-bossier-city.md)
 _Context: Bossier City, LOCO, Shreveport, cross country cycling_
 
-### [  The Xbox Music Mixer was released.](/news/2003/12/1/the-xbox-music-mixer-was-released.md)
+### [ The Xbox Music Mixer was released.](/news/2003/12/1/the-xbox-music-mixer-was-released.md)
 _Context: Xbox Music Mixer_
 
 ## [Previous Day...](/news/2003/11/30/index.md)

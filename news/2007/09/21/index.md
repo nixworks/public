@@ -18,7 +18,7 @@ _Context: Angola, Jomo Gbomo, Movement for the Emancipation of the Niger Delta, 
 ### [ At least 27 people have died in the Karachi area of Pakistan after drinking poisonous alcohol. ](/news/2007/09/21/at-least-27-people-have-died-in-the-karachi-area-of-pakistan-after-drinking-poisonous-alcohol.md)
 _Context: Karachi, Pakistan, alcohol_
 
-### [ War in Afghanistan: NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-p-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md)
+### [ War in Afghanistan:. NATO's alliance forces say that its warplanes killed an unspecified number of civilians during a battle with Taliban forces. ](/news/2007/09/21/war-in-afghanistan-nato-s-alliance-forces-say-that-its-warplanes-killed-an-unspecified-number-of-civilians-during-a-battle-with-taliban-f.md)
 NATO&#039;s alliance force in Afghanistan says its warplanes killed an unspecified number of Afghan civilians in an air strike during a battle with Taliban fighters.
 
 ### [ The Dutch Cabinet meets to decide whether to hold a referendum on the European Union's Reform Treaty. ](/news/2007/09/21/the-dutch-cabinet-meets-to-decide-whether-to-hold-a-referendum-on-the-european-union-s-reform-treaty.md)

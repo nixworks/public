@@ -21,7 +21,7 @@ Three large explosions rocked Brazzaville, the capital of Congo Republic, and a 
 ### [A truck accident in Guinea kills at least 50 people and injures 20, according to Agence France Presse. ](/news/2012/03/4/a-truck-accident-in-guinea-kills-at-least-50-people-and-injures-20-according-to-agence-france-presse.md)
 Reports from Guinea say up to 50 people have died after a lorry taking people to market crashed in the east of the country.
 
-### [A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at  Christ Church Cathedral in Dublin. ](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.md)
+### [A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at Christ Church Cathedral in Dublin. ](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.md)
 _Context:  Christ Church Cathedral, Dublin, Laurence O'Toole, heart, saints, thief_
 
 ### [Paul McBride QC, Scotland's most senior lawyer, is found dead in a hotel room while on a visit to Pakistan. ](/news/2012/03/4/paul-mcbride-qc-scotland-s-most-senior-lawyer-is-found-dead-in-a-hotel-room-while-on-a-visit-to-pakistan.md)

@@ -12,7 +12,7 @@ _Context: North Korea, Roh Moo-hyun, South Korea_
 ### [Pope John Paul II will approve the miracle needed to beatify Mother Teresa, whose dedication to the destitute earned her a special place in the pontiff's heart. A second miracle then will be needed to declare Mother Teresa a saint.](/news/2002/12/19/pope-john-paul-ii-will-approve-the-miracle-needed-to-beatify-mother-teresa-whose-dedication-to-the-destitute-earned-her-a-special-place-in.md)
 _Context: Mother Teresa, Pope John Paul II, beatify, miracle, saints_
 
-### [AOL Time Warner announces that they have been issued a patent for instant messaging.  AOL says that they have no plans to enforce the patent, but it could cause problems for the purveyors of other instant messaging systems, in particular Microsoft and Yahoo!.](/news/2002/12/19/aol-time-warner-announces-that-they-have-been-issued-a-patent-for-instant-messaging-aol-says-that-they-have-no-plans-to-enforce-the-patent.md)
+### [AOL Time Warner announces that they have been issued a patent for instant messaging. AOL says that they have no plans to enforce the patent, but it could cause problems for the purveyors of other instant messaging systems, in particular Microsoft and Yahoo!.](/news/2002/12/19/aol-time-warner-announces-that-they-have-been-issued-a-patent-for-instant-messaging-aol-says-that-they-have-no-plans-to-enforce-the-patent.md)
 _Context: AOL Time Warner, Microsoft, Yahoo!, instant messaging_
 
 ### [Rebels in the Cte d'Ivoire seize the key western city of Man from government forces.](/news/2002/12/19/rebels-in-the-cote-d-ivoire-seize-the-key-western-city-of-man-from-government-forces.md)

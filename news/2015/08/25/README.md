@@ -1,9 +1,9 @@
 ## [2015-08-25](/news/2015/08/25/index.md)
 
-### [A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md)
+### [Boko Haram. A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/boko-haram-a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md)
 Police say a girl suicide bomber killing five people in an attack at the crowded entrance to a bus station in Damaturu in northeast Nigeria.
 
-### [Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md)
+### [Islamic State in Iraq and the Levant. Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/islamic-state-in-iraq-and-the-levant-fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md)
 Authorities crack down on recruiters working with the Islamic State group to send foreign fighters to Syria
 
 ### [North Korea and South Korea agree to stop airing propaganda at the border and stand down preparations for war. ](/news/2015/08/25/north-korea-and-south-korea-agree-to-stop-airing-propaganda-at-the-border-and-stand-down-preparations-for-war.md)
@@ -12,7 +12,7 @@ South Korea has agreed to stop blaring propaganda from speakers across the borde
 ### [The People's Bank of China cuts interest rates and lowers minimum requirements for bank reserves for the second time in two months. ](/news/2015/08/25/the-people-s-bank-of-china-cuts-interest-rates-and-lowers-minimum-requirements-for-bank-reserves-for-the-second-time-in-two-months.md)
 _Context: People's Bank of China_
 
-### [Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-death-toll-in-the-philippines-ri.md)
+### [2015 Pacific typhoon season. Typhoon Goni makes landfall in southwestern Japan with at least 26 people injured but no people killed. The death toll in the Philippines rises to 21 while South Korea is on alert. ](/news/2015/08/25/2015-pacific-typhoon-season-typhoon-goni-makes-landfall-in-southwestern-japan-with-at-least-26-people-injured-but-no-people-killed-the-dea.md)
  South Korea was on alert Tuesday as powerful Typhoon Goni approached after causing casualties and property damage in Southeast Asia, weather officials said.
 
 ### [A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. ](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.md)

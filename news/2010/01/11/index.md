@@ -24,8 +24,8 @@ _Context: AIDS, Kenya, Michel Sidib, Millennium Villages Project, Sauri, United 
 ### [North Korea proposes a peace treaty, replacing the Korean War armistice. ](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.md)
 _Context: Korean War, North Korea_
 
-### [The '''Low Couch diplomatic spat''' between Israel and Turkey. Turkey demands Israeli apology.[http://www.reuters.com/article/idUSTRE60B5T820100112]](/news/2010/01/11/the-low-couch-diplomatic-spat-between-israel-and-turkey-turkey-demands-israeli-apology-http-www-reuters-com-article-idustre60b5t82.md)
-### [''Perry v. Schwarzenegger'', a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-un.md)
+### [The "'Low Couch diplomatic spat"' between Israel and Turkey. Turkey demands Israeli apology.[http://www.reuters.com/article/idUSTRE60B5T820100112]](/news/2010/01/11/the-low-couch-diplomatic-spat-between-israel-and-turkey-turkey-demands-israeli-apology-http-www-reuters-com-article-idustre60b5t8201.md)
+### ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md)
 _Context: Perry v. Schwarzenegger, San Francisco, landmark case, reversed its legalization, same-sex marriage_
 
 ### [Hundreds of prisoners are transferred from the Ignacio Allende prison in Veracruz, Mexico, in preparation for a controversial Mel Gibson film shoot. Protests from relatives of the prisoners are ignored. ](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.md)

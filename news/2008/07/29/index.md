@@ -1,7 +1,7 @@
 ## [2008-07-29](/news/2008/07/29/index.md)
 
 ### [ The International Olympic Committee lifts its ban on Iraqi athletes participating in the Beijing Olympics following assurances from the Government of Iraq about the independence of the Iraqi Olympic Committee. ](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.md)
-_Context: Beijing Olympiad, Government of Iraq, International Olympic Committee, Iraqi Olympic Committee, Iraqi athletes_
+_Context: 2008 Summer Olympics, Government of Iraq, International Olympic Committee, Iraqi Olympic Committee, Iraqi athletes_
 
 ### [ United States Senator Ted Stevens of Alaska is indicted on seven counts related to his conduct as a Senator. ](/news/2008/07/29/united-states-senator-ted-stevens-of-alaska-is-indicted-on-seven-counts-related-to-his-conduct-as-a-senator.md)
 _Context: Alaska, Senator, Ted Stevens, United States, indicted_

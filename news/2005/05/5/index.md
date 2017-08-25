@@ -18,7 +18,7 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 ### [ A Hong Kong court overturns convictions of 8 members of Falun Gong. ](/news/2005/05/5/a-hong-kong-court-overturns-convictions-of-8-members-of-falun-gong.md)
 _Context: Falun Gong, Hong Kong_
 
-### [ The government of Kazakhstan closes the pro-opposition paper ''Respublica''. ](/news/2005/05/5/the-government-of-kazakhstan-closes-the-pro-opposition-paper-respublica.md)
+### [ The government of Kazakhstan closes the pro-opposition paper "Respublica". ](/news/2005/05/5/the-government-of-kazakhstan-closes-the-pro-opposition-paper-respublica.md)
 _Context: Kazakhstan_
 
 ### [ The Ugandan parliament votes in favour of holding a referendum on the return of multi-party democracy. Political opposition intends to boycott the referendum because they think that president Yoweri Museveni would use it stay in power. ](/news/2005/05/5/the-ugandan-parliament-votes-in-favour-of-holding-a-referendum-on-the-return-of-multi-party-democracy-political-opposition-intends-to-boyc.md)

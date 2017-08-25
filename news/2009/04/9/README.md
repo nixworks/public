@@ -15,7 +15,7 @@ _Context: Baloch National Movement, Ghulam Mohammed Baloch, Pakistan, President,
 ### [ Kim Jong-il appears publicly for the first time since August 2008 for reelection as North Korea's Great Leader. ](/news/2009/04/9/kim-jong-il-appears-publicly-for-the-first-time-since-august-2008-for-reelection-as-north-korea-s-great-leader.md)
 North Korean leader Kim Jong-il appeared at his first major event since he was suspected of suffering a stroke last year when&hellip;
 
-### [ ''Harry Potter'' author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
+### [ "Harry Potter" author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
 _Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scotland, author, patron_
 
 ### [ Forty-six foreign nationals depart Belfast, Northern Ireland, after riots during 2010 FIFA World Cup qualifying matches. ](/news/2009/04/9/forty-six-foreign-nationals-depart-belfast-northern-ireland-after-riots-during-2010-fifa-world-cup-qualifying-matches.md)

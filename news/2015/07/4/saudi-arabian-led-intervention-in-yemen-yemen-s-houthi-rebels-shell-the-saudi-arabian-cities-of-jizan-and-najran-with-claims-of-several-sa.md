@@ -1,0 +1,23 @@
+### [2015-07-4](/news/2015/07/4/index.md)
+
+#  Saudi Arabian-led intervention in Yemen. Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. 
+
+Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.
+
+
+### Source:
+
+1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-04/305134-yemens-houthis-attack-saudi-arabias-najran-and-jizan.ashx)
+
+### Related:
+
+1. [Yemeni Civil War (2015). Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/yemeni-civil-war-2015-two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defen.md) _Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+2. [Saudi Arabian-led intervention in Yemen. A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/saudi-arabian-led-intervention-in-yemen-a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md) _Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+3. [Saudi Arabian-led intervention in Yemen. Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabian-led-intervention-in-yemen-saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-me.md) _Context: Houthi, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+4. [Saudi Arabian-led intervention in Yemen. At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/saudi-arabian-led-intervention-in-yemen-at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen_
+5. [Saudi Arabia-United States relations. Yemeni Civil War (2015-present). The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/saudi-arabia-united-states-relations-yemeni-civil-war-2015-present-the-united-states-is-to-limit-military-support-to-saudi-arabia-s.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+6. [Yemeni Civil War (2015-present). Saudi Arabian-led intervention in Yemen. The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/yemeni-civil-war-2015-present-saudi-arabian-led-intervention-in-yemen-the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-f.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+7. [Saudi Arabian-led intervention in Yemen. Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/saudi-arabian-led-intervention-in-yemen-two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+8. [Saudi Arabian-led intervention in Yemen. The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/saudi-arabian-led-intervention-in-yemen-the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+9. [Saudi Arabian-led intervention in Yemen. At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/saudi-arabian-led-intervention-in-yemen-at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-ca.md) _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
+10. [Yemeni Civil War (2015-present). At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/yemeni-civil-war-2015-present-at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi.md) _Context: Houthi, Saudi Arabia, Yemen_

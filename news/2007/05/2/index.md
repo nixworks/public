@@ -3,7 +3,7 @@
 ### [ Gunmen in Afghanistan kill Abdul Sabur Farid, a member of the House of Elders and former Prime Minister. ](/news/2007/05/2/gunmen-in-afghanistan-kill-abdul-sabur-farid-a-member-of-the-house-of-elders-and-former-prime-minister.md)
 _Context: Abdul Sabur Farid, Afghanistan's, House of Elders, Prime Minister_
 
-### [ Voters in The Bahamas go to the polls in elections for the House of Assembly  ](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.md)
+### [ Voters in The Bahamas go to the polls in elections for the House of Assembly ](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.md)
 _Context: Bahamas, House of Assembly, go to the polls_
 
 ### [ Antonio Villaraigosa, the Mayor of Los Angeles, California, orders an inquiry into a clash that occurred at a May Day Rally between the Los Angeles Police Department and pro-immigration demonstrators. ](/news/2007/05/2/antonio-villaraigosa-the-mayor-of-los-angeles-california-orders-an-inquiry-into-a-clash-that-occurred-at-a-may-day-rally-between-the-los.md)

@@ -1,6 +1,6 @@
 ### [2008-10-14](/news/2008/10/14/index.md)
 
-#  In Canada's 40th general election, the ruling Conservative Party gains 19 seats and wins another minority government.  Stephen Harper is re-elected as Prime Minister. 
+#  In Canada's 40th general election, the ruling Conservative Party gains 19 seats and wins another minority government. Stephen Harper is re-elected as Prime Minister. 
 
 
 

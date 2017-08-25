@@ -9,7 +9,7 @@ _Context: Canada, Parkinson's-like, Samuel Lunenfeld Research Institute, embryon
 ### [ The United States Coast Guard searches Florida's west coast for a fishing vessel carrying National Football League players Marquis Cooper and Corey Smith. ](/news/2009/03/1/the-united-states-coast-guard-searches-florida-s-west-coast-for-a-fishing-vessel-carrying-national-football-league-players-marquis-cooper-a.md)
 The boat departed from a ramp in Clearwater Pass early Saturday morning with four people in board and was supposed to return sometimes after dark, but never did.
 
-### [ China's first lunar probe, Chang'e 1, impacts the Moon.  ](/news/2009/03/1/china-s-first-lunar-probe-chang-e-1-impacts-the-moon.md)
+### [ China's first lunar probe, Chang'e 1, impacts the Moon. ](/news/2009/03/1/china-s-first-lunar-probe-chang-e-1-impacts-the-moon.md)
 _Context: Chang'e 1, China, Moon, explore_
 
 ### [ The United States, Israel, and Canada will boycott the Durban Review Conference. ](/news/2009/03/1/the-united-states-israel-and-canada-will-boycott-the-durban-review-conference.md)

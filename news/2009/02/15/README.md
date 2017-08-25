@@ -33,7 +33,7 @@ _Context: Cancer Research UK, London Research Institute, cancer, modified immune
 ### [ The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md)
 _Context: Khyber Pakhtunkhwa, Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, ceasefire_
 
-### [ NASCAR driver Matt Kenseth wins the rain-shortened 2009 Daytona 500  at Daytona International Speedway after 152 of 200 laps. ](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.md)
+### [ NASCAR driver Matt Kenseth wins the rain-shortened 2009 Daytona 500 at Daytona International Speedway after 152 of 200 laps. ](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.md)
 _Context: 2009 Daytona 500, Daytona International Speedway, Matt Kenseth, NASCAR_
 
 ## [Previous Day...](/news/2009/02/14/index.md)

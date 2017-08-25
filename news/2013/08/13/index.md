@@ -15,7 +15,7 @@ _Context: Jesse Jackson Jr., Sandi Jackson, United States House of Representativ
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
 _Context: American Airlines, U.S. Department of Justice, US Airways, reduced competition and higher prices_
 
-### [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md)
+### [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeli-palestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md)
 _Context: Peace talks_
 
 ## [Previous Day...](/news/2013/08/12/index.md)

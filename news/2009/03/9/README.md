@@ -9,7 +9,7 @@ _Context: Kosovo, Kosovo, Palau_
 ### [ A Police Service officer is killed in Craigavon, County Armagh, Northern Ireland. ](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.md)
 _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern Ireland, police officer_
 
-### [ The United States government claims five Chinese ships "harass[ed]" the USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
+### [ The United States government claims five Chinese ships "harass[ed]" the USNS "Impeccable" in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
 _Context: ''Impeccable'', China, South China Sea, USNS, United States, United States_
 
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
@@ -42,7 +42,7 @@ _Context: Antananarivo, Madagascan Army, Madagascar, government, mutinying_
 ### [ An Ilyushin Il-76 crashes into Lake Victoria after taking off from Entebbe International Airport in Uganda, likely killing all eleven passengers. ](/news/2009/03/9/an-ilyushin-il-76-crashes-into-lake-victoria-after-taking-off-from-entebbe-international-airport-in-uganda-likely-killing-all-eleven-passe.md)
 _Context: Entebbe International Airport, Ilyushin Il-76, Lake Victoria, Uganda_
 
-### [ At least 13 people are missing or dead after the cargo ship MV ''Ibn al-Battuta'' sinks near Port Safaga, Egypt. ](/news/2009/03/9/at-least-13-people-are-missing-or-dead-after-the-cargo-ship-mv-ibn-al-battuta-sinks-near-port-safaga-egypt.md)
+### [ At least 13 people are missing or dead after the cargo ship MV "Ibn al-Battuta" sinks near Port Safaga, Egypt. ](/news/2009/03/9/at-least-13-people-are-missing-or-dead-after-the-cargo-ship-mv-ibn-al-battuta-sinks-near-port-safaga-egypt.md)
 _Context: Egypt, MV, Port Safaga, cargo ship_
 
 ### [ Standing Committee Chairman Wu Bangguo tells the National People's Congress that China will not adopt Western democracy. ](/news/2009/03/9/standing-committee-chairman-wu-bangguo-tells-the-national-people-s-congress-that-china-will-not-adopt-western-democracy.md)

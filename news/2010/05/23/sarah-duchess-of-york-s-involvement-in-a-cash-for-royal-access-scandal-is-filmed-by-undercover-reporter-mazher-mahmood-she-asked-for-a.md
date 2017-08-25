@@ -1,6 +1,6 @@
 ### [2010-05-23](/news/2010/05/23/index.md)
 
-# Sarah, Duchess of York's involvement in a "cash for royal access" scandal is filmed by undercover reporter Mazher Mahmood; she asked for a $40,000 (27,650) golden handshake in cash and for 500,000 to be sent to her bank in return for access to Prince Andrew. 
+# Sarah, Duchess of York's involvement in a "cash for royal access" scandal is filmed by undercover reporter Mazher Mahmood; she asked for a $40,000 (GBP27,650) golden handshake in cash and for GBP500,000 to be sent to her bank in return for access to Prince Andrew. 
 
 The Duchess of York has allegedly become the victim of a tabloid sting aimed at embarrassing her over her troubled finances.
 

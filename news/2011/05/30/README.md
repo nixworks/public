@@ -6,13 +6,13 @@ _Context: Nigeria_
 ### [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md)
 _Context: Adolf Hitler, Britain, Rudolf Hess, Russia, Winston Churchill, World War II_
 
-### [War in Afghanistan (2001-present):United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/war-in-afghanistan-2001apresent-punited-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-af.md)
+### [War in Afghanistan (2001-present):. United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/war-in-afghanistan-2001-present-united-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-a.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-### [Arab Spring:2011 Syrian uprising:11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-p2011-syrian-uprising-p11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md)
+### [Arab Spring:. 2011 Syrian uprising:. 11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md)
 Four Yemeni soldiers were killed and dozens injured in what appeared to be an ambush as they were traveling to the al Qaeda-held city of Zinjibar, a security official said.
 
-### [2011 Spanish protests:Thousands of anti-government demonstrators vote to continue a mass sit-in against economic cuts in Madrid, following last Friday's targeting of civilians in Barcelona by police with batons and rubber bullets. ](/news/2011/05/30/2011-spanish-protests-pthousands-of-anti-government-demonstrators-vote-to-continue-a-mass-sit-in-against-economic-cuts-in-madrid-following.md)
+### [2011 Spanish protests:. Thousands of anti-government demonstrators vote to continue a mass sit-in against economic cuts in Madrid, following last Friday's targeting of civilians in Barcelona by police with batons and rubber bullets. ](/news/2011/05/30/2011-spanish-protests-thousands-of-anti-government-demonstrators-vote-to-continue-a-mass-sit-in-against-economic-cuts-in-madrid-following.md)
 Thousands of Spaniards vow to remain camping in central Madrid, two weeks after launching their protest against austerity.
 
 ### [Germany's ruling coalition led by Chancellor Angela Merkel pledges to end all nuclear power by 2022. ](/news/2011/05/30/germany-s-ruling-coalition-led-by-chancellor-angela-merkel-pledges-to-end-all-nuclear-power-by-2022.md)
@@ -21,7 +21,7 @@ Germany says all of its nuclear power plants will be shut by 2022 in the wake of
 ### [The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.md)
 _Context: Development Bank of Japan, an earthquake and tsunami, yen_
 
-### [The death toll from an ''E. coli'' outbreak in Germany rises to 14 as it spreads to other parts of northern Europe. ](/news/2011/05/30/the-death-toll-from-an-e-coli-outbreak-in-germany-rises-to-14-as-it-spreads-to-other-parts-of-northern-europe.md)
+### [The death toll from an "E. coli" outbreak in Germany rises to 14 as it spreads to other parts of northern Europe. ](/news/2011/05/30/the-death-toll-from-an-e-coli-outbreak-in-germany-rises-to-14-as-it-spreads-to-other-parts-of-northern-europe.md)
 An E. coli outbreak that has killed 14 people and made more than 300 seriously ill in Germany has spread to other north European countries and is expected to worsen in the coming week.
 
 ### [The Associated Press claims that an unreleased U.S. Agency for International Development report claims that the death toll from the 2010 Haiti earthquake was much less than claimed by the Government of Haiti. ](/news/2011/05/30/the-associated-press-claims-that-an-unreleased-u-s-agency-for-international-development-report-claims-that-the-death-toll-from-the-2010-hai.md)
@@ -31,7 +31,7 @@ _Context: 2010 Haiti earthquake, Associated Press, Government of Haiti, U.S. Age
 _Context: Assam, Guwahati, India_
 
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)
-_Context: Lee Myung-bak, South Korean President, bribes_
+_Context: Lee Myung-bak, President of South Korea, bribes_
 
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
 _Context: Saudi Arabia_

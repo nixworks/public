@@ -3,7 +3,7 @@
 ### [ A six-year-old boy is killed after Southwest Airlines Flight 1248 skids off a runway at Chicago Midway International Airport. ](/news/2005/12/8/a-six-year-old-boy-is-killed-after-southwest-airlines-flight-1248-skids-off-a-runway-at-chicago-midway-international-airport.md)
 _Context: Chicago Midway International Airport, Southwest Airlines Flight 1248_
 
-### [ Israeli-Palestinian Conflict: Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/israeli-palestinian-conflict-p-hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-w.md)
+### [ Israeli-Palestinian Conflict:. Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/israeli-palestinian-conflict-hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-w.md)
 _Context: Damascus, Hamas, Israel, Israeli-Palestinian conflict, Khaled Mashal, Syria_
 
 ### [ President of Iran Mahmoud Ahmadinejad remarks that Israel should be moved to Europe and the "issue will be resolved." His remarks were widely condemned as Holocaust denial by Israeli, European and American politicians, The Secretary General of the United Nations, Kofi Annan, issued a statement indicating that he "was shocked", while Saudi, Turkish and Iranian officials criticized his speech because it undermined a Mecca summit dedicated to showing Islam's moderate face.](/news/2005/12/8/president-of-iran-mahmoud-ahmadinejad-remarks-that-israel-should-be-moved-to-europe-and-the-issue-will-be-resolved-his-remarks-were-wide.md)
@@ -21,7 +21,7 @@ _Context: Margaret Thatcher, Prime Minister_
 ### [ The International Red Cross and Red Crescent Movement adopt a Red Crystal design, allowing Israel to join as a fully participating member. ](/news/2005/12/8/the-international-red-cross-and-red-crescent-movement-adopt-a-red-crystal-design-allowing-israel-to-join-as-a-fully-participating-member.md)
 _Context: Israel, Red Crescent, Red Crystal_
 
-### [ UK Law Lords rule in ''A v. Secretary of State for the Home Department'' that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-us.md)
+### [ UK Law Lords rule in "A v. Secretary of State for the Home Department" that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-used.md)
 _Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, Britain, terrorism, torture_
 
 ### [ Lawyers for convicted murderer and Crips co-founder Stanley "Tookie" Williams meet with Governor of California Arnold Schwarzenegger in a final plea for clemency. ](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.md)

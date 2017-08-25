@@ -1,9 +1,9 @@
 ## [2014-01-2](/news/2014/01/2/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-parmed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-v.md)
+### [Iraqi insurgency (post-U.S. withdrawal):. Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-armed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of.md)
 _Context: Fallujah, Iraqi insurgency (post-U.S. withdrawal), Islamic State of Iraq and the Levant, Ramadi_
 
-### [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md)
+### [Syrian Civil War spillover in Lebanon:. Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-five-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capi.md)
 A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing at least five people and injuring more than 60.
 
 ### [The Swedish Academy releases secret documents of the 1963 Nobel Prize in Literature that ultimately was awarded the Greek poet Giorgos Seferis, revealing that writers such as Samuel Beckett and Vladimir Nabokov were dismissed early in the selection process.](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.md)

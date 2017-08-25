@@ -3,7 +3,7 @@
 ### [The EU Council votes to extend the copyright on sound recordings from 50 to 70 years. ](/news/2011/09/12/the-eu-council-votes-to-extend-the-copyright-on-sound-recordings-from-50-to-70-years.md)
 Musicians are set to receive royalties from sales and airplay well into their old age after the EU agrees to extend the copyright on sound recordings from 50 to 70 years.
 
-### [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising PS1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-aps1-million-in-aid-of-the-bbc-s-sport-reli.md)
+### [British comedian David Walliams completes a 140-mile charity swim along the River Thames, raising GBP1 million in aid of the BBC's Sport Relief. ](/news/2011/09/12/british-comedian-david-walliams-completes-a-140-mile-charity-swim-along-the-river-thames-raising-agbp1-million-in-aid-of-the-bbc-s-sport-re.md)
 Comedian David Walliams says he is relieved after swimming 140 miles of the River Thames for charity.
 
 ### [Leila Lopes of Angola is named Miss Universe 2011. ](/news/2011/09/12/leila-lopes-of-angola-is-named-miss-universe-2011.md)

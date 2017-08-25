@@ -12,7 +12,7 @@ Microsoft will tap Satya Nadella as chief executive, while founder Bill Gates wi
 ### [At least 10 people are dead and 35 injured when a bus falls into a ditch while travelling between the Indian cities of Pune and Satara. ](/news/2014/02/4/at-least-10-people-are-dead-and-35-injured-when-a-bus-falls-into-a-ditch-while-travelling-between-the-indian-cities-of-pune-and-satara.md)
 Ten people died and 35 others were injured as a bus fell into a ditch on the Pune-Satara highway today.
 
-### [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105a18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md)
+### [The Scottish Parliament votes overwhelmingly (105-18) in favor of a bill legalizing same-sex marriage in Scotland. ](/news/2014/02/4/the-scottish-parliament-votes-overwhelmingly-105-18-in-favor-of-a-bill-legalizing-same-sex-marriage-in-scotland.md)
 A bill which allows same-sex weddings to take place in Scotland is passed by MSPs in the Scottish Parliament.
 
 ### [The New York City Police Department questions four suspected heroin dealers in connection with Philip Seymour Hoffman's death. ](/news/2014/02/4/the-new-york-city-police-department-questions-four-suspected-heroin-dealers-in-connection-with-philip-seymour-hoffman-s-death.md)

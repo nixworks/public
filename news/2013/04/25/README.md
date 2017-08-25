@@ -1,6 +1,6 @@
 ## [2013-04-25](/news/2013/04/25/index.md)
 
-### [Boston Marathon bombings:Michael Bloomberg, the Mayor of New York City, claims that the US Federal Bureau of Investigation briefed him that suspect Dzhokhar Tsarnaev said that the bombers intended to attack New York City next. ](/news/2013/04/25/boston-marathon-bombings-pmichael-bloomberg-the-mayor-of-new-york-city-claims-that-the-us-federal-bureau-of-investigation-briefed-him-that.md)
+### [Boston Marathon bombings:. Michael Bloomberg, the Mayor of New York City, claims that the US Federal Bureau of Investigation briefed him that suspect Dzhokhar Tsarnaev said that the bombers intended to attack New York City next. ](/news/2013/04/25/boston-marathon-bombings-michael-bloomberg-the-mayor-of-new-york-city-claims-that-the-us-federal-bureau-of-investigation-briefed-him-tha.md)
 The two suspects in the Boston Marathon bombings intended to attack New York City next, Mayor Michael Bloomberg says.
 
 ### [The Israeli Air Force shoots down a Hezbollah drone from Lebanon off the coast of Haifa. ](/news/2013/04/25/the-israeli-air-force-shoots-down-a-hezbollah-drone-from-lebanon-off-the-coast-of-haifa.md)
@@ -12,10 +12,10 @@ _Context: AK-47s, France, Istres_
 ### [French unemployment reaches a record level of 3.22 million. ](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.md)
 _Context: French-born_
 
-### [Northern Mali conflict (2012-present):The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012apresent-pthe-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-an.md)
+### [Northern Mali conflict (2012-present):. The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012-present-the-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-a.md)
 THE UN Security Council has unanimously backed sending up to 12,600 international troops and police to take over from French and African forces battling Islamist guerrillas in Mali.
 
-### [Syrian Civil War:The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/syrian-civil-war-pthe-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying.md)
+### [Syrian Civil War:. The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/syrian-civil-war-the-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying.md)
 _Context: Britain, Chuck Hagel, Government of Syria, Israel, Syrian Civil War, United States Secretary of Defence, sarin gas_
 
 ### [The United Kingdom reopens its embassy in Somalia 22 years after it closed as a result of the chaos after the fall of Mohamed Siad Barre's government and subsequent Somali Civil War. ](/news/2013/04/25/the-united-kingdom-reopens-its-embassy-in-somalia-22-years-after-it-closed-as-a-result-of-the-chaos-after-the-fall-of-mohamed-siad-barre-s-g.md)

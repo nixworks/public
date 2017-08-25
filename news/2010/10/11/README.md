@@ -3,13 +3,13 @@
 ### [A Telugu Desam leader is murdered in broad daylight in a restaurant near Srikantam circle in Anantapur, India. ](/news/2010/10/11/a-telugu-desam-leader-is-murdered-in-broad-daylight-in-a-restaurant-near-srikantam-circle-in-anantapur-india.md)
 _Context: Anantapur, Srikantam, Telugu Desam_
 
-### [Afghanistan:Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-pafghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-yea.md)
+### [Afghanistan:. Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md)
 _Context: Afghanistan President, Afghanistan's, Hamid Karzai, Taliban, War in Afghanistan (2001-present)_
 
 ### [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md)
 _Context: Indian Army, Kashmir_
 
-### [''The Hobbit'' is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planne.md)
+### ["The Hobbit" is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planned.md)
 The film adaptation of The Hobbit could become the most expensive movie of all time and may be just days away from getting the green light to start shooting. - New Zealand Herald
 
 ### [British pop singer George Michael is released from a Suffolk prison after serving 4 weeks for driving while under the influence of cannabis. ](/news/2010/10/11/british-pop-singer-george-michael-is-released-from-a-suffolk-prison-after-serving-4-weeks-for-driving-while-under-the-influence-of-cannabis.md)
@@ -36,7 +36,7 @@ _Context: 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010),
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
 _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Palestinian_
 
-### [Liu Xiaobo:China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/liu-xiaobo-pchina-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-prize.md)
+### [Liu Xiaobo:. China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/liu-xiaobo-china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-priz.md)
 _Context: China, Lisbeth Berg-Hansen, Liu Xiaobo, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
@@ -45,7 +45,7 @@ _Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute 
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.
 
-### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings.  ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
+### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
 _Context: 7 July, Britain, Heather Hallett, inquest_
 
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
@@ -57,7 +57,7 @@ _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, s
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
 _Context: Germany, Iran, Sakineh Mohammadi Ashtiani, journalist_
 
-### [Kyrgyzstani parliamentary election:Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-pfive-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-res.md)
+### [Kyrgyzstani parliamentary election:. Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-five-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-re.md)
 _Context: Ar-Namys, Ata Meken, Ata-Zhurt, Kyrgyzstani parliamentary election, Respublika, Social Democratic Party of Kyrgyzstan_
 
 ### [The Bharatiya Janata Party government of India's Karnataka state wins a vote of no confidence after 16 members of the Karnataka Legislative Assembly are disqualified from voting. ](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.md)

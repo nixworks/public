@@ -1,9 +1,9 @@
 ## [2011-04-30](/news/2011/04/30/index.md)
 
-### [2011 Syrian protests:The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-pthe-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md)
+### [2011 Syrian protests:. The Syrian army continues its assault on the city of Deraa using tanks and snipers. ](/news/2011/04/30/2011-syrian-protests-the-syrian-army-continues-its-assault-on-the-city-of-deraa-using-tanks-and-snipers.md)
 Six people are killed as Syrian troops seize control of a mosque which was a centre for anti-government protests in the city of Deraa, witnesses say.
 
-### [Libyan Civil War:Muammar Gaddafi, the leader of Libya, says on state television that he is prepared to enter a ceasefire in the Libyan Civil War but it must apply to both sides. Muammar Gaddafi has made such claims before but each time he failed to uphold one. ](/news/2011/04/30/libyan-civil-war-pmuammar-gaddafi-the-leader-of-libya-says-on-state-television-that-he-is-prepared-to-enter-a-ceasefire-in-the-libyan-civi.md)
+### [Libyan Civil War:. Muammar Gaddafi, the leader of Libya, says on state television that he is prepared to enter a ceasefire in the Libyan Civil War but it must apply to both sides. Muammar Gaddafi has made such claims before but each time he failed to uphold one. ](/news/2011/04/30/libyan-civil-war-muammar-gaddafi-the-leader-of-libya-says-on-state-television-that-he-is-prepared-to-enter-a-ceasefire-in-the-libyan-civ.md)
 Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his country, while suggesting negotiations with Nato.
 
 ### [Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. ](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.md)

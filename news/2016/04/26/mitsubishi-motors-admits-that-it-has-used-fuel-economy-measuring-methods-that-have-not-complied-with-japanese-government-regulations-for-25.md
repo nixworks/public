@@ -1,6 +1,6 @@
 ### [2016-04-26](/news/2016/04/26/index.md)
 
-# Mitsubishi Motors admits that it has used  fuel economy measuring methods that have not complied with Japanese government regulations for 25 years. 
+# Mitsubishi Motors admits that it has used fuel economy measuring methods that have not complied with Japanese government regulations for 25 years. 
 
 Japanese car maker Mitsubishi Motors Corp (7211.T) said on Tuesday it used fuel economy testing methods that did not comply with Japanese regulations for 25 years, much longer than previously known.
 

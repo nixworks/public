@@ -6,7 +6,7 @@ _Context: Philippine general election, Philippines_
 ### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
 _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapping_
 
-### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)
+### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakk-ri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakk-ri-candidates-to-the-2007-general-election-in-turk.md)
 _Context: CHP, DYP, Hakkri, Kurdistan Workers' Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
 
 ### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
@@ -42,13 +42,13 @@ _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_
 ### [ A new species of hummingbird is discovered in Colombia. ](/news/2007/05/14/a-new-species-of-hummingbird-is-discovered-in-colombia.md)
 _Context: Colombia, hummingbird, new species_
 
-### [ DaimlerChrysler announces it has sold 80.1% of its stake in the Chrysler Group to Cerberus Capital Management, a private equity firm for $7.4 Billion. It is announced that the corporate names are to be changed to ''Daimler AG'' and ''Chrysler Holding LLC''. ](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.md)
+### [ DaimlerChrysler announces it has sold 80.1% of its stake in the Chrysler Group to Cerberus Capital Management, a private equity firm for $7.4 Billion. It is announced that the corporate names are to be changed to "Daimler AG" and "Chrysler Holding LLC". ](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.md)
 _Context: $, Cerberus Capital Management, Chrysler Group, DaimlerChrysler, private equity_
 
-### [ The Alaskan cruise ship ''Empress of the North'' strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passenger.md)
+### [ The Alaskan cruise ship "Empress of the North" strikes an underwater rock on day two of a seven-day tour, and evacuates all 281 passengers on board. ](/news/2007/05/14/the-alaskan-cruise-ship-empress-of-the-north-strikes-an-underwater-rock-on-day-two-of-a-seven-day-tour-and-evacuates-all-281-passengers.md)
 _Context: Alaska, Empress of the North, cruise ship, strikes an underwater rock_
 
-### [ Twenty four members of a marriage party killed and 30 more injured when their van collides with a truck in the district of Adilabad, in Andhra Pradesh, India.  ](/news/2007/05/14/twenty-four-members-of-a-marriage-party-killed-and-30-more-injured-when-their-van-collides-with-a-truck-in-the-district-of-adilabad-in-and.md)
+### [ Twenty four members of a marriage party killed and 30 more injured when their van collides with a truck in the district of Adilabad, in Andhra Pradesh, India. ](/news/2007/05/14/twenty-four-members-of-a-marriage-party-killed-and-30-more-injured-when-their-van-collides-with-a-truck-in-the-district-of-adilabad-in-and.md)
 _Context: Adilabad, Andhra Pradesh, India_
 
 ## [Previous Day...](/news/2007/05/13/index.md)

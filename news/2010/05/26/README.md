@@ -18,7 +18,7 @@ _Context: Brandenburg, Neisse, Oder, continue to rise_
 ### [Israel launches two night-time air strikes on the Gaza Strip in response to mortar attacks and the detonation of 200&nbsp;kg of explosives laden on a donkey-cart next to the border fence. ](/news/2010/05/26/israel-launches-two-night-time-air-strikes-on-the-gaza-strip-in-response-to-mortar-attacks-and-the-detonation-of-200-nbsp-kg-of-explosives-l.md)
 Israeli jets launch a night time bombing raid on the Gaza strip injuring several people.
 
-### [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were "hijacked, at the hands of the Iranians"; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-ahijacked-at-the-hands-of-the-iraniansa-possibly-r.md)
+### [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were -hijacked, at the hands of the Iranians-; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-hijacked-at-the-hands-of-the-iranians-possibly-r.md)
 _Context: Fatah, Hamas, Iran, Mahmoud Abbas, Palestinian Authority, Palestinian municipal elections_
 
 ### [Palestinian Authority security forces arrest scores of Hamas officials and supporters in the West Bank a day after Hamas announced that it would boycott the Palestinian municipal elections scheduled for July 17. ](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.md)
@@ -27,7 +27,7 @@ _Context: Palestinian Authority, Palestinian municipal elections_
 ### [The chief rabbi of a West Bank settlement declares that women should be prohibited from standing in a local community election. ](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.md)
 The chief rabbi of a West Bank settlement prohibits women from standing in a local election, saying they must be heard through their husbands.
 
-### [Nuclear program of Iran:Iranian President Mahmoud Ahmadinejad and Russian President Dmitry Medvedev disagree over Russia's support for United Nations sanctions concerning Iran's nuclear program, with some analysts describing it as the worst row between the countries for several years. ](/news/2010/05/26/nuclear-program-of-iran-piranian-president-mahmoud-ahmadinejad-and-russian-president-dmitry-medvedev-disagree-over-russia-s-support-for-unit.md)
+### [Nuclear program of Iran:. Iranian President Mahmoud Ahmadinejad and Russian President Dmitry Medvedev disagree over Russia's support for United Nations sanctions concerning Iran's nuclear program, with some analysts describing it as the worst row between the countries for several years. ](/news/2010/05/26/nuclear-program-of-iran-iranian-president-mahmoud-ahmadinejad-and-russian-president-dmitry-medvedev-disagree-over-russia-s-support-for-uni.md)
 Iran and Russia clashed on Wednesday over Kremlin support for draft U.N. sanctions against the Islamic Republic, in one of the worst rows between the two powers since the Cold War.
 
 ### [Lori Berenson is freed on parole after serving 15 years in a Peruvian prison for aiding the Tupac Amaru Revolutionary Movement. ](/news/2010/05/26/lori-berenson-is-freed-on-parole-after-serving-15-years-in-a-peruvian-prison-for-aiding-the-taopac-amaru-revolutionary-movement.md)
@@ -39,7 +39,7 @@ Airline to close in three years to avoid asset claims from Kuwait over their 199
 ### [The International Criminal Court reports Sudan to the United Nations Security Council for refusing to arrest former Minister Ahmed Haroun and militia leader Ali Muhammad Al Abd-Al-Rahman. ](/news/2010/05/26/the-international-criminal-court-reports-sudan-to-the-united-nations-security-council-for-refusing-to-arrest-former-minister-ahmed-haroun-an.md)
 The International Criminal Court reports Sudan to the UN Security Council for refusing to arrest two suspected Darfur war criminals.
 
-### [A Lusaka court convicts former Zambian Finance Minister Katele Kalumba of corruption and sentences him to five years with hard labour. Six other people, including former officials in the finance ministry, are also found guilty of corruption.   ](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.md)
+### [A Lusaka court convicts former Zambian Finance Minister Katele Kalumba of corruption and sentences him to five years with hard labour. Six other people, including former officials in the finance ministry, are also found guilty of corruption. ](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.md)
 Former Zambian Finance Minister Katele Kalumba is jailed for five years with hard labour for corruption.
 
 ### [Two people are injured and several vehicles are destroyed during a blast in Kandahar. ](/news/2010/05/26/two-people-are-injured-and-several-vehicles-are-destroyed-during-a-blast-in-kandahar.md)
@@ -48,7 +48,7 @@ Vehicles damaged in blast in southern province of Kandahar but no deaths reporte
 ### [Charles Djou is sworn into the United States House of Representatives, representing Hawaii's 1st congressional district. ](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.md)
 _Context: 1st congressional district, Charles Djou, Hawaii, United States House of Representatives_
 
-### [Space Shuttle ''Atlantis'' completes its final scheduled mission after landing at Kennedy Space Center, Florida. ](/news/2010/05/26/space-shuttle-atlantis-completes-its-final-scheduled-mission-after-landing-at-kennedy-space-center-florida.md)
+### [Space Shuttle "Atlantis" completes its final scheduled mission after landing at Kennedy Space Center, Florida. ](/news/2010/05/26/space-shuttle-atlantis-completes-its-final-scheduled-mission-after-landing-at-kennedy-space-center-florida.md)
 The Atlantis space shuttle touches down at Kennedy Space Center in Florida after what looks to have been its final mission.
 
 ### [Elton John makes his Moroccan debut at the Mawazine festival in Rabat, ignoring calls for him to be banned by Islamists who feared he would offend public morals. ](/news/2010/05/26/elton-john-makes-his-moroccan-debut-at-the-mawazine-festival-in-rabat-ignoring-calls-for-him-to-be-banned-by-islamists-who-feared-he-would.md)

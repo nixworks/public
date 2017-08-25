@@ -18,7 +18,7 @@ Czech President Vaclav Klaus has said he will not sign the EU&#39;s Lisbon Treat
 ### [ Guinea withdraws ambassadors from 30 countries worldwide. ](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.md)
 _Context: Guinea, ambassador, withdraws_
 
-### [ Somali pirates hijack Germany's MV ''Victoria'' and release the United Arab Emirates' MV ''Al Meezan''. ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
+### [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
 _Context: Germany, MV, Somali pirates, Somalia, United Arab Emirates, pirate_
 
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)

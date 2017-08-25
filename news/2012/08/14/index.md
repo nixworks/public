@@ -1,9 +1,9 @@
 ## [2012-08-14](/news/2012/08/14/index.md)
 
-### [Syrian civil war:One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-pone-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md)
+### [Syrian civil war:. One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-one-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md)
 _Context: Free Syrian Army, Syrian Civil War_
 
-### [Mexican Drug War:Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-palleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md)
+### [Mexican Drug War:. Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md)
 _Context: Gulf Cartel, Mexican Drug War, Monterrey_
 
 ### [A series of suicide bombings across Afghanistan kill at least 46 people and injure up to 80 others. ](/news/2012/08/14/a-series-of-suicide-bombings-across-afghanistan-kill-at-least-46-people-and-injure-up-to-80-others.md)

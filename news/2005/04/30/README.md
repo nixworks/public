@@ -15,7 +15,7 @@ _Context: Giuliana Sgrena, Italian, Nicola Calipari_
 ### [ In Roraima, Brazil, Macuxi Indians release four policemen they had held as hostages since April 22. The Macuxi protested against the creation of a huge reservation and demanded better living conditions. ](/news/2005/04/30/in-roraima-brazil-macuxi-indians-release-four-policemen-they-had-held-as-hostages-since-april-22-the-macuxi-protested-against-the-creati.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ In Honduras, six children die in a grenade accident.  ](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.md)
+### [ In Honduras, six children die in a grenade accident. ](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Severo Moto, exiled politician from Equatorial Guinea, reappears in Spain. He says that he survived an assassination attempt in Croatia. ](/news/2005/04/30/severo-moto-exiled-politician-from-equatorial-guinea-reappears-in-spain-he-says-that-he-survived-an-assassination-attempt-in-croatia.md)

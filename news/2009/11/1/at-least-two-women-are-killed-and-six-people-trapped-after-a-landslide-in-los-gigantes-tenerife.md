@@ -14,7 +14,7 @@ At least two people were killed and as many as six were thought to be trapped in
 
 ### Related:
 
-1. [The death toll rises to seven from Thursday's building collapse  in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-islan.md) _Context: Tenerife_
+1. [The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-island.md) _Context: Tenerife_
 2. [At least two people are killed and five missing after a building collapses in Tenerife in the Canary Islands. ](/news/2016/04/15/at-least-two-people-are-killed-and-five-missing-after-a-building-collapses-in-tenerife-in-the-canary-islands.md) _Context: Tenerife_
 3. [It is reported that Jennifer Mills-Westley, a British woman recently decapitated in a random attack in Tenerife, complained of harassment moments before being attacked in a supermarket. ](/news/2011/05/15/it-is-reported-that-jennifer-mills-westley-a-british-woman-recently-decapitated-in-a-random-attack-in-tenerife-complained-of-harassment-mo.md) _Context: Tenerife_
 4. [Tenerife's randomly beheaded British woman is named by her family as 60-year-old Jennifer Mills-Westley. ](/news/2011/05/14/tenerife-s-randomly-beheaded-british-woman-is-named-by-her-family-as-60-year-old-jennifer-mills-westley.md) _Context: Tenerife_

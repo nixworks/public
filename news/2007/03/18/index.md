@@ -3,13 +3,13 @@
 ### [ A gas explosion in a coal mine in Shanxi province in northern China traps 21 miners. ](/news/2007/03/18/a-gas-explosion-in-a-coal-mine-in-shanxi-province-in-northern-china-traps-21-miners.md)
 A gas explosion at a mine in northern China has left 21 workers trapped.
 
-### [ Cesare Battisti, convicted ''in absentia'' of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested.md)
+### [ Cesare Battisti, convicted "in absentia" of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested-in.md)
 Accused of killings in his native Italy, militant 1970s leftist Cesare Battisti disappeared after losing safety in France but was found Sunday when police tracking a woman bringing him money found the fugitive novelist in Brazil.
 
 ### [ War in Iraq: Explosions in Baghdad kill eleven people. ](/news/2007/03/18/war-in-iraq-explosions-in-baghdad-kill-eleven-people.md)
 _Context: Baghdad, War in Iraq_
 
-### [ Two cargo ships collide in the East China Sea.  23 crew members are missing. ](/news/2007/03/18/two-cargo-ships-collide-in-the-east-china-sea-23-crew-members-are-missing.md)
+### [ Two cargo ships collide in the East China Sea. 23 crew members are missing. ](/news/2007/03/18/two-cargo-ships-collide-in-the-east-china-sea-23-crew-members-are-missing.md)
 _Context: East China Sea, cargo_
 
 ### [ Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. ](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.md)

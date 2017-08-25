@@ -9,7 +9,7 @@ Suspected Islamist fighters went on the rampage in northeast Nigeria overnight, 
 ### [The 2012 Kennedy Center Honors are announced in the United States with American actor Dustin Hoffman, American television host David Letterman, British rock group Led Zeppelin, American blues musician Buddy Guy and ballerina Natalia Makarova inducted. ](/news/2012/12/2/the-2012-kennedy-center-honors-are-announced-in-the-united-states-with-american-actor-dustin-hoffman-american-television-host-david-letterm.md)
 _Context: Buddy Guy, David Letterman, Dustin Hoffman, Kennedy Center Honors, Led Zeppelin, Natalia Makarova_
 
-### [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches EUR187,500 (PS151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-a-187-500-aps151-000-2.md)
+### [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches -187,500 (GBP151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-187-500-agbp151-000.md)
 A coded letter written by Napoleon containing his plan to defeat the Russians sells for more than 10 times the estimated price.
 
 ### [A section of the Sasago Tunnel in Japan collapses trapping 30 vehicles; at least 9 people are dead. ](/news/2012/12/2/a-section-of-the-sasago-tunnel-in-japan-collapses-trapping-30-vehicles-at-least-9-people-are-dead.md)

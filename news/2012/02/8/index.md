@@ -21,7 +21,7 @@ Checks are ordered on all Airbus A380 superjumbos after cracks were found in win
 ### [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md)
 _Context: European Central Bank, European Union, International Monetary Fund, government of Greece_
 
-### [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for 13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-ps13-7-million-at-chr.md)
+### [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for GBP13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-gbp13-7-million-at-c.md)
 _Context: Camille Pissarro, Christie's, Edgar Degas, Elizabeth Taylor, Van Gogh_
 
 ### [Zsa Zsa Gabor, suffering from life-threatening health problems, has a party for her 95th birthday. ](/news/2012/02/8/zsa-zsa-gabor-suffering-from-life-threatening-health-problems-has-a-party-for-her-95th-birthday.md)

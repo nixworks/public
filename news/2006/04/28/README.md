@@ -1,12 +1,12 @@
 ## [2006-04-28](/news/2006/04/28/index.md)
 
-### [ U.S. Army Lt. Col. Steven L. Jordan becomes the highest-ranking officer to have charges brought against him in connection with the Abu Ghraib abuse.  ](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.md)
+### [ U.S. Army Lt. Col. Steven L. Jordan becomes the highest-ranking officer to have charges brought against him in connection with the Abu Ghraib abuse. ](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.md)
 _Context: Abu Ghraib abuse, Steven L. Jordan, U.S. Army, lieutenant colonel_
 
 ### [ The Bush administration takes initial steps to use the States Secrets Privilege to block a lawsuit against AT&T and the NSA brought by the Electronic Frontier Foundation. The EFF has alleged that the government has secret computer rooms conducting broad, illegal surveillance of U.S. citizens. ](/news/2006/04/28/the-bush-administration-takes-initial-steps-to-use-the-states-secrets-privilege-to-block-a-lawsuit-against-at-t-and-the-nsa-brought-by-the.md)
 _Context: AT&T, Electronic Frontier Foundation, George W. Bush administration, NSA, States Secrets Privilege_
 
-### [ United States Congressman John Conyers and others file a lawsuit (''Conyers v. Bush'') against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violatio.md)
+### [ United States Congressman John Conyers and others file a lawsuit ("Conyers v. Bush") against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violation.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 ### [ Guilliame Mbairessem, the secretary-general of the Episcopal Conference of Bishops of Chad, joins U.S. Assistant Secretary of State for African Affairs Donald Yamamoto in calling for a delay of the upcoming presidential elections in Chad. ](/news/2006/04/28/guilliame-mbairessem-the-secretary-general-of-the-episcopal-conference-of-bishops-of-chad-joins-u-s-assistant-secretary-of-state-for-afr.md)

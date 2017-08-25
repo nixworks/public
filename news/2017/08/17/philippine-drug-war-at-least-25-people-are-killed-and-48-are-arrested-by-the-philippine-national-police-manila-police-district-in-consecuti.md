@@ -1,0 +1,24 @@
+### [2017-08-17](/news/2017/08/17/index.md)
+
+# Philippine Drug War. At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. 
+
+AT least 25 suspected criminals were killed in simultaneous police operations in Manila over 24 hours, an official said Thursday. Chief Superintendent Joel Napoleon Coronel, director of the Manila Police District (MPD), clarified that in the 40 separate operations that started at 7 a.m. on Wednesday until 7 a.m. on Thursday, 14 of the 25
+
+
+### Source:
+
+1. [GMA News](http://www.gmanetwork.com/news/news/metro/622230/grade-11-student-killed-during-anti-drug-op-in-caloocan/story/)
+2. [Manila Times](http://www.manilatimes.net/25-dead-over-24-hours-one-time-big-time-police-operations-manila/344991/)
+
+### Related:
+
+1. [Philippine Drug War. At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/philippine-drug-war-at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-w.md) _Context: Manila, drug war_
+2. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Philippine National Police, drug war_
+3. [Philippine Drug War. After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/philippine-drug-war-after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo.md) _Context: Philippine National Police, drug war_
+4. [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md) _Context: Manila, drug war_
+5. [Philippine Drug War. Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding -corrupt- officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-drug-war-philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-corrupt-officers.md) _Context: Philippine National Police, drug war_
+6. [Philippine Drug War. A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/philippine-drug-war-a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-nationa.md) _Context: Philippine National Police, drug war_
+7. [Musician James Taylor cancels a concert in Manila to protest the ongoing drug war. ](/news/2016/12/21/musician-james-taylor-cancels-a-concert-in-manila-to-protest-the-ongoing-drug-war.md) _Context: Manila, drug war_
+8. [Philippine Drug War. Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/philippine-drug-war-datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in.md) _Context: Philippine National Police, drug war_
+9. [Philippines-United States relations. The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/philippines-united-states-relations-the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-nation.md) _Context: Philippine National Police, drug war_
+10. [A police dispersal occurs between combined minority groups and anti-U.S. activists and the Philippine National Police in front of the U.S. Embassy in Manila. Police arrest 30 protesters with 60 people injured, several rammed by a police van driven during the dispersal. ](/news/2016/10/19/a-police-dispersal-occurs-between-combined-minority-groups-and-anti-u-s-activists-and-the-philippine-national-police-in-front-of-the-u-s-e.md) _Context: Manila, Philippine National Police_

@@ -3,10 +3,10 @@
 ### [Swedish poet Tomas Transtromer is awarded the 2011 Nobel Prize in Literature. ](/news/2011/10/6/swedish-poet-tomas-transtrapmer-is-awarded-the-2011-nobel-prize-in-literature.md)
 _Context: Nobel Prize in Literature, Tomas Transtromer_
 
-### [Production at  the Japanese  plants of carmaker Toyota returns to normal following the 2011 Tohoku earthquake and tsunami. ](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.md)
+### [Production at the Japanese plants of carmaker Toyota returns to normal following the 2011 Tohoku earthquake and tsunami. ](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.md)
 _Context: Japan, Toyota, an earthquake and tsunami_
 
-### [The Bank of England injects a further PS75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-aps75bn-into-the-british-economy-through-quantitative-easing.md)
+### [The Bank of England injects a further GBP75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-agbp75bn-into-the-british-economy-through-quantitative-easing.md)
 The Bank of England says it will inject a further £75bn into the economy through quantitative easing (QE) but holds interest rates at 0.5%.
 
 ### [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md)

@@ -36,10 +36,10 @@ The first person to face a second murder trial after the discovery of new forens
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
 _Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, health care reform, health insurance_
 
-### [An American  Catholic nun pleads not guilty to charges of embezzling $850,000 from  Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
+### [An American Catholic nun pleads not guilty to charges of embezzling $850,000 from Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
 _Context:  Catholic nun,  Iona College, embezzled_
 
-### [Palestinian negotiator Saeb Erakat asks the European Union to  recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md)
+### [Palestinian negotiator Saeb Erakat asks the European Union to recognize -two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-two-states-israel-and-palestine-along-the-1967-borders.md)
 _Context: European Union, Israel, Palestinian, Saeb Erakat_
 
 ### [Europe reaffirms its readiness to recognise a Palestinian state at an "appropriate" time, stopping short of outright recognition despite mounting pressure to break the Middle East impasse. ](/news/2010/12/13/europe-reaffirms-its-readiness-to-recognise-a-palestinian-state-at-an-appropriate-time-stopping-short-of-outright-recognition-despite-mou.md)
@@ -64,7 +64,7 @@ Hashim Thaci, the incumbent prime minister, has claimed victory in Kosovo&#039;s
 ### [Iranian President Mahmoud Ahmadinejad dismisses Foreign Minister Manouchehr Mottaki for unknown reasons. He is replaced by Ali Akbar Salehi in an acting capacity. ](/news/2010/12/13/iranian-president-mahmoud-ahmadinejad-dismisses-foreign-minister-manouchehr-mottaki-for-unknown-reasons-he-is-replaced-by-ali-akbar-salehi.md)
 Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad has fired Foreign Minister Manouchehr Mottaki, state media reported...
 
-### [U.S. senator Bernie Sanders gives an 8.5 hour  senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large  inequality in income and  wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-v.md)
+### [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-ve.md)
 _Context:  inequality in income,  wealth, Banana republic, Bernie Sanders, United States Senate_
 
 ### [A new species of fork-marked lemur has been identified in northeast Madagascar. ](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-identified-in-northeast-madagascar.md)

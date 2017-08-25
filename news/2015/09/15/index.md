@@ -1,12 +1,12 @@
 ## [2015-09-15](/news/2015/09/15/index.md)
 
-### [The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md)
+### [Boko Haram insurgency. 2015 West African offensive. The Nigerian Army rescues dozens of women and children in Borno State. ](/news/2015/09/15/boko-haram-insurgency-2015-west-african-offensive-the-nigerian-army-rescues-dozens-of-women-and-children-in-borno-state.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Houthi militants backed by Yemeni troops reportedly seize control of al-Rabu'ah, a town in Saudi Arabia's southwestern Asir region near the Yemeni border, forcing Saudi forces to pull out of the area. ](/news/2015/09/15/houthi-militants-backed-by-yemeni-troops-reportedly-seize-control-of-al-rabuaah-a-town-in-saudi-arabia-s-southwestern-asir-region-near-th.md)
+### [Saudi Arabian-led intervention in Yemen. Houthi militants backed by Yemeni troops reportedly seize control of al-Rabu-ah, a town in Saudi Arabia's southwestern Asir region near the Yemeni border, forcing Saudi forces to pull out of the area. ](/news/2015/09/15/saudi-arabian-led-intervention-in-yemen-houthi-militants-backed-by-yemeni-troops-reportedly-seize-control-of-al-rabu-ah-a-town-in-saudi.md)
 Yemeni Ansarullah fighters, backed by allied forces, seize al-Rabu’ah town in Saudi Arabia’s southwestern Asir region.
 
-### [The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires-in-riau-jambi-and-south-su.md)
+### [2015 Southeast Asian haze. The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/2015-southeast-asian-haze-the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires.md)
 Indonesia has declared a haze emergency in Sumatra&#039;s Riau province, as the choking smoke surged way past already hazardous levels and forced thousands to flee Pekanbaru, Riau&#039;s capital, which is about 280km away from Singapore.. Read more at straitstimes.com.
 
 ### [Two students die and three others are injured after a school bus is struck by another vehicle and swerves off an Interstate 610 overpass in Houston, Texas. ](/news/2015/09/15/two-students-die-and-three-others-are-injured-after-a-school-bus-is-struck-by-another-vehicle-and-swerves-off-an-interstate-610-overpass-in.md)
@@ -15,7 +15,7 @@ Two students died and two others were hurt along with their bus driver Tuesday m
 ### [The death toll from yesterday's flash floods in the American towns of Hildale, Utah, and Colorado City, Arizona, rises to 12 with one person still missing. ](/news/2015/09/15/the-death-toll-from-yesterday-s-flash-floods-in-the-american-towns-of-hildale-utah-and-colorado-city-arizona-rises-to-12-with-one-person.md)
 Flash flooding triggered by a strong thunderstorm killed at least 12 people in southern Utah, authorities said early Tuesday.
 
-### [A floatplane crashes during takeoff near Iliamna in southwest Alaska, killing three people and injuring the other seven on board.  ](/news/2015/09/15/a-floatplane-crashes-during-takeoff-near-iliamna-in-southwest-alaska-killing-three-people-and-injuring-the-other-seven-on-board.md)
+### [A floatplane crashes during takeoff near Iliamna in southwest Alaska, killing three people and injuring the other seven on board. ](/news/2015/09/15/a-floatplane-crashes-during-takeoff-near-iliamna-in-southwest-alaska-killing-three-people-and-injuring-the-other-seven-on-board.md)
 ANCHORAGE, Alaska (AP) - The day started out as a perfect Alaska excursion: Excited tourists heading for adventure at a remote fishing spot on a river.
 
 ### [Seven mountain climbers die in an avalanche in the French Alps near the town of Pelvoux. ](/news/2015/09/15/seven-mountain-climbers-die-in-an-avalanche-in-the-french-alps-near-the-town-of-pelvoux.md)
@@ -24,10 +24,10 @@ The avalanche occurred near the town of Pelvoux in southeast France.
 ### [The U.S. Food and Drug Administration orders R. J. Reynolds Tobacco Company to stop further U.S. sale and distribution of four cigarette products because they may be more dangerous than similar older cigarettes. ](/news/2015/09/15/the-u-s-food-and-drug-administration-orders-r-j-reynolds-tobacco-company-to-stop-further-u-s-sale-and-distribution-of-four-cigarette-pro.md)
 Reynolds American Inc can no longer sell Camel Crush Bold or three other cigarette products in the United States because they may be more dangerous than similar older cigarettes, the Food and Drug Administration said on Tuesday.
 
-### [Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at-preventing-asylum-seeker.md)
+### [European migrant crisis. Hungary declares a state of emergency in two of its southeastern counties as tougher laws come into effect aimed at preventing asylum-seekers and other migrants from entering the country. ](/news/2015/09/15/european-migrant-crisis-hungary-declares-a-state-of-emergency-in-two-of-its-southeastern-counties-as-tougher-laws-come-into-effect-aimed-at.md)
 Hungary declares a state of emergency in two southern counties as tough new laws to stop migrants entering illegally come into force.
 
-### [Malcolm Turnbull is sworn in as the Prime Minister of Australia following his election to the leadership of the Liberal Party of Australia. ](/news/2015/09/15/malcolm-turnbull-is-sworn-in-as-the-prime-minister-of-australia-following-his-election-to-the-leadership-of-the-liberal-party-of-australia.md)
+### [Liberal Party of Australia leadership spill, September 2015. Malcolm Turnbull is sworn in as the Prime Minister of Australia following his election to the leadership of the Liberal Party of Australia. ](/news/2015/09/15/liberal-party-of-australia-leadership-spill-september-2015-malcolm-turnbull-is-sworn-in-as-the-prime-minister-of-australia-following-his-e.md)
 Malcolm Turnbull is officially sworn in as Australia&#039;s 29th Prime Minister after ousting Tony Abbott in a late-night coup.
 
 ### [The Assembly of the Republic of Macedonia appoints a special prosecutor into a wiretapping scandal. ](/news/2015/09/15/the-assembly-of-the-republic-of-macedonia-appoints-a-special-prosecutor-into-a-wiretapping-scandal.md)

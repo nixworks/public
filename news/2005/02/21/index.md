@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Former US Presidents Bill Clinton and George H. W. Bush visit Sri Lanka to see marks of the 2004 Indian Ocean earthquake ](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.md)
 _Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, Sri Lanka_
 
-### [ Airport authorities evacuate the Virgin Blue terminal in Melbourne airport in Australia after 45 people become ill.  A chemical leak is suspected. ](/news/2005/02/21/airport-authorities-evacuate-the-virgin-blue-terminal-in-melbourne-airport-in-australia-after-45-people-become-ill-a-chemical-leak-is-sus.md)
+### [ Airport authorities evacuate the Virgin Blue terminal in Melbourne airport in Australia after 45 people become ill. A chemical leak is suspected. ](/news/2005/02/21/airport-authorities-evacuate-the-virgin-blue-terminal-in-melbourne-airport-in-australia-after-45-people-become-ill-a-chemical-leak-is-susp.md)
 _Context: Melbourne, Virgin Australia, airport_
 
 ### [ Syrian President Bashar al-Assad appoints his brother-in-law Assef Shawkat as head of the country's military intelligence service, replacing Hassan Khalil.](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.md)
@@ -24,7 +24,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### [ The United Kingdom's Royal Navy announces that it will allow same-sex couples live in family quarters if they are in registered partnership ](/news/2005/02/21/the-united-kingdom-s-royal-navy-announces-that-it-will-allow-same-sex-couples-live-in-family-quarters-if-they-are-in-registered-partnership.md)
 _Context: Royal Navy, registered partnership_
 
-### [ Israeli-Palestinian conflict: Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israeli-palestinian-conflict-p-israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its.md)
+### [ Israeli-Palestinian conflict:. Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israeli-palestinian-conflict-israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its.md)
 _Context: Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian, Palestinian Authority, goodwill_
 
 ## [Previous Day...](/news/2005/02/20/index.md)

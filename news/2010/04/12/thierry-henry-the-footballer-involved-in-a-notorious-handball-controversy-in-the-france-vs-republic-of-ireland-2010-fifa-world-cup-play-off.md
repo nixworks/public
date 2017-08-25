@@ -1,6 +1,6 @@
 ### [2010-04-12](/news/2010/04/12/index.md)
 
-# Thierry Henry, the footballer involved in a notorious handball controversy in the France vs Republic of Ireland 2010 FIFA World Cup play-off in November 2009, is not assured of playing for his team in the 2010 FIFA World Cup, according to his manager Raymond Domenech on French television show ''Canal Football Club''. 
+# Thierry Henry, the footballer involved in a notorious handball controversy in the France vs Republic of Ireland 2010 FIFA World Cup play-off in November 2009, is not assured of playing for his team in the 2010 FIFA World Cup, according to his manager Raymond Domenech on French television show "Canal Football Club". 
 
 
 

@@ -12,7 +12,7 @@ Iran&#39;s defeated presidential candidate Mir-Hossein Mousavi has urged his sup
 ### [ At least seven people are killed and 50 injured by a bomb blast in Dera Ismail Khan, Pakistan. ](/news/2009/06/14/at-least-seven-people-are-killed-and-50-injured-by-a-bomb-blast-in-dera-ismail-khan-pakistan.md)
 _Context: Dera Ismail Khan, Pakistan, bomb blast_
 
-### [ ''Jodhaa Akbar'' wins the prize for best film at the Tenth International Indian Film Academy Awards held in Macau, China. ](/news/2009/06/14/jodhaa-akbar-wins-the-prize-for-best-film-at-the-tenth-international-indian-film-academy-awards-held-in-macau-china.md)
+### [ "Jodhaa Akbar" wins the prize for best film at the Tenth International Indian Film Academy Awards held in Macau, China. ](/news/2009/06/14/jodhaa-akbar-wins-the-prize-for-best-film-at-the-tenth-international-indian-film-academy-awards-held-in-macau-china.md)
 _Context: Chinese, Jodhaa Akbar, Macau, Tenth International Indian Film Academy Awards_
 
 ### [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md)

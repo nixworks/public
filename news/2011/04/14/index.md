@@ -6,7 +6,7 @@ Ugandan opposition leader Kizza Besigye is injured as soldiers open fire to disp
 ### [A pro-Palestinian activist Vittorio Arrigoni is kidnapped in the Gaza Strip by an Islamic Salafite group with threats to execute him within hours. ](/news/2011/04/14/a-pro-palestinian-activist-vittorio-arrigoni-is-kidnapped-in-the-gaza-strip-by-an-islamic-salafite-group-with-threats-to-execute-him-within.md)
 An Italian pro-Palestinian activist is found dead in the Gaza Strip hours after being abducted, local security officials say.
 
-### [Barack Obama, the President of the United States, David Cameron, the Prime Minister of the United Kingdom and Nicolas Sarkozy, the President of France publish an op-ed in the ''International Herald Tribune'' outlining their strategy on the 2011 Libyan civil war. ](/news/2011/04/14/barack-obama-the-president-of-the-united-states-david-cameron-the-prime-minister-of-the-united-kingdom-and-nicolas-sarkozy-the-president.md)
+### [Barack Obama, the President of the United States, David Cameron, the Prime Minister of the United Kingdom and Nicolas Sarkozy, the President of France publish an op-ed in the "International Herald Tribune" outlining their strategy on the 2011 Libyan civil war. ](/news/2011/04/14/barack-obama-the-president-of-the-united-states-david-cameron-the-prime-minister-of-the-united-kingdom-and-nicolas-sarkozy-the-president.md)
 NATO and its allies are committed to ousting Qaddafi. But it is the Libyan people who must decide their own future.
 
 ### [Shots are fired in the compound of the President of Burkina Faso Blaise Compaore. ](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.md)

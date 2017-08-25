@@ -9,7 +9,7 @@ Trial of 48 medical workers accused of attempting to topple the monarchy opens a
 ### [Tunisian revolution: It is announced that the trial of Zine El Abidine Ben Ali, ousted from power during the popular revolution, is to begin on 20 June. ](/news/2011/06/13/tunisian-revolution-it-is-announced-that-the-trial-of-zine-el-abidine-ben-ali-ousted-from-power-during-the-popular-revolution-is-to-begin.md)
 _Context: Jasmine Revolution of 2011, Zine El Abidine Ben Ali_
 
-### [2011 Syrian uprising:The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/2011-syrian-uprising-pthe-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and-d.md)
+### [2011 Syrian uprising:. The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/2011-syrian-uprising-the-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and.md)
 _Context: 2011 Syrian uprising, Jisr al-Shughour_
 
 ### [Egyptian officials report the arrest of the 27-year-old Israeli-American Ilan Grapel on suspicion of espionage for Israel. Israeli officials have rejected the Egyptian accusations.](/news/2011/06/13/egyptian-officials-report-the-arrest-of-the-27-year-old-israeli-american-ilan-grapel-on-suspicion-of-espionage-for-israel-israeli-officials.md)
@@ -30,7 +30,7 @@ _Context: 2011 Yemeni protests, Abd al-Rab Mansur al-Hadi_
 ### [North and South Sudan agree to demilitarise the disputed Abyei region. ](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.md)
 _Context: Abyei, South Sudan, Sudan, demilitarise_
 
-### [Eruption of the Nabro Volcano:The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-pthe-long-dormant-nabro-volcano-erupts-in-eritrea.md)
+### [Eruption of the Nabro Volcano:. The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-the-long-dormant-nabro-volcano-erupts-in-eritrea.md)
 The US secretary of state cuts short a three-nation tour of Africa due to a volcanic eruption that threatened to leave her stranded in Ethiopia.
 
 ### [Tens of thousands of people in Christchurch, New Zealand, are left without power as the city is hit by powerful aftershocks of the 2011 Christchurch earthquake. ](/news/2011/06/13/tens-of-thousands-of-people-in-christchurch-new-zealand-are-left-without-power-as-the-city-is-hit-by-powerful-aftershocks-of-the-2011-chri.md)
@@ -54,7 +54,7 @@ _Context: South African Development Community, Zimbabwe_
 ### [The South African Development Community calls on Madagascar to allow political exiles, including former President Marc Ravalomanana to return to end the political deadlock. ](/news/2011/06/13/the-south-african-development-community-calls-on-madagascar-to-allow-political-exiles-including-former-president-marc-ravalomanana-to-retur.md)
 Southern African leaders have called on Madagascar&#39;s rulers to allow exiled leaders, including the deposed president, Marc Ravalomanana, to return home. However, the country&#39;s administration is reported to have rejected the call.
 
-### [The American destroyer USS ''McCampbell'' is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what ''The New York Times'' described as "several days of pressure" from the U.S. warship. ](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-reported-to-have-asked-to-board-a-north-korean-cargo-vessel-south-of-shanghai-the-vessel-s-cre.md)
+### [The American destroyer USS "McCampbell" is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what "The New York Times" described as "several days of pressure" from the U.S. warship. ](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-reported-to-have-asked-to-board-a-north-korean-cargo-vessel-south-of-shanghai-the-vessel-s-crew.md)
 The US Navy halted a North Korean cargo vessel bound for Burma two weeks ago over fears it was carrying weapons, US media report.
 
 ### [Prime Minister of Israel Benjamin Netanyahu, speaking alongside Silvio Berlusconi in Italy where he is rallying opposition to the possible recognition of a Palestinian state, expresses a wish for improved relations with Turkey after last year's killing of Turks by Israeli commandos during the Gaza flotilla raid in international waters of the Mediterranean Sea. ](/news/2011/06/13/prime-minister-of-israel-benjamin-netanyahu-speaking-alongside-silvio-berlusconi-in-italy-where-he-is-rallying-opposition-to-the-possible-r.md)

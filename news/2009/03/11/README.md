@@ -3,7 +3,7 @@
 ### [ The United Nations Children's Fund claims that a meningitis epidemic in Nigeria, Niger, Burkina Faso, and Mali has killed 931 people since January 2009. ](/news/2009/03/11/the-united-nations-children-s-fund-claims-that-a-meningitis-epidemic-in-nigeria-niger-burkina-faso-and-mali-has-killed-931-people-since.md)
 _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Children's Fund, epidemic, meningitis_
 
-### [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md)
+### [ The United States National Aeronautics and Space Administration delays the Space Shuttle "Discovery"'s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space-s.md)
 _Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
@@ -18,7 +18,7 @@ _Context: Germany, School shooting, Winnenden, killed_
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
 _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq, Tariq Aziz, crimes against humanity_
 
-### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command.  ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
+### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command. ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
 _Context: France, NATO, Nicolas Sarkozy, President of France, military command_
 
 ## [Previous Day...](/news/2009/03/10/index.md)

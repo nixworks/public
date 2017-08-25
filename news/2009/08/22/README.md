@@ -3,7 +3,7 @@
 ### [ Cardinal Sean Brady, Archbishop of Armagh and Primate of All Ireland, criticises Ireland's Civil Partnership Bill, which gives statutory partnership rights to same-sex couples. ](/news/2009/08/22/cardinal-sea-n-brady-archbishop-of-armagh-and-primate-of-all-ireland-criticises-ireland-s-civil-partnership-bill-which-gives-statutory-p.md)
 The legislation which gives statutory partnership rights to gay and lesbian couples has been criticised by Cardinal Sean Brady.
 
-### [ Argentina's Foreign Affairs Ministry "harshly condemns" the nomination of Ahmad Vahidi to serve as Iran's Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires. ](/news/2009/08/22/argentina-s-foreign-affairs-ministry-aharshly-condemnsa-the-nomination-of-ahmad-vahidi-to-serve-as-iran-s-defence-minister-as-he-is-a-s.md)
+### [ Argentina's Foreign Affairs Ministry -harshly condemns- the nomination of Ahmad Vahidi to serve as Iran's Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires. ](/news/2009/08/22/argentina-s-foreign-affairs-ministry-harshly-condemns-the-nomination-of-ahmad-vahidi-to-serve-as-iran-s-defence-minister-as-he-is-a-s.md)
 Argentina&#039;s Foreign Affairs Ministry &#147;harshly condemns&#148; the nomination of Ahmad Vahidi to serve as Iran&#039;s Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires.
 
 ### [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md)
@@ -27,7 +27,7 @@ _Context: Caracas, Hugo Chavez, Venezuelans_
 ### [ Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. ](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quarantined-over-fears-the-birds-have-caught-swine-influenza-from-humans.md)
 Two turkey farms in Chile have been put under quarantine restrictions after fears the birds have caught swine flu from humans. Vets in the country said the A/H1N1 flu virus had been discovered in the two poultry plants in Valparaiso.
 
-### [ Taliban official Hakeemullah Mehsud is selected as the new head of the Pakistani Taliban, a local Taliban commander in Pakistan's federally administered tribal areas confirms.  ](/news/2009/08/22/taliban-official-hakeemullah-mehsud-is-selected-as-the-new-head-of-the-pakistani-taliban-a-local-taliban-commander-in-pakistan-s-federally.md)
+### [ Taliban official Hakeemullah Mehsud is selected as the new head of the Pakistani Taliban, a local Taliban commander in Pakistan's federally administered tribal areas confirms. ](/news/2009/08/22/taliban-official-hakeemullah-mehsud-is-selected-as-the-new-head-of-the-pakistani-taliban-a-local-taliban-commander-in-pakistan-s-federally.md)
 _Context: Pakistani Taliban, Taliban_
 
 ## [Previous Day...](/news/2009/08/21/index.md)

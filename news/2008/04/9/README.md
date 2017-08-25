@@ -4,7 +4,7 @@
 _Context: 2008 Summer Olympics torch relay, San Francisco_
 
 ### [ The body representing all National Olympic Committees says it had deleted a mention of Tibet in its Beijing Games declaration after a debate among its members. ](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.md)
-_Context: Beijing Olympiad, Tibet_
+_Context: 2008 Summer Olympics, Tibet_
 
 ### [ American Airlines cancels more than 1,000 flights in order to make sure some wiring on its fleet of 300 MD-80 jetliners was secured correctly inside wheel wells. ](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.md)
 The airline is also expected to cancel 900 more flights on Thursday to make sure wiring on its fleet of 300 MD-80 jetliners was secured correctly.

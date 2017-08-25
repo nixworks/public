@@ -6,7 +6,7 @@ Best-selling author James Herbert who wrote the horror classic The Rats, dies ag
 ### [The last surviving member of the 1953 British Mount Everest Expedition George Lowe dies at the age of 89 after a long illness. ](/news/2013/03/20/the-last-surviving-member-of-the-1953-british-mount-everest-expedition-george-lowe-dies-at-the-age-of-89-after-a-long-illness.md)
 _Context: 1953 British Mount Everest Expedition, George Lowe_
 
-### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. ](/news/2013/03/20/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-presents-a-new-bailout-package-for-cypriot-banks-as-cyprus-is-h.md)
+### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. ](/news/2013/03/20/2012-2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-presents-a-new-bailout-package-for-cypriot-banks-as-cyprus-is-h.md)
 Cypriot leaders are set to decide on a new bailout plan as the US central bank plays down the impact of the crisis.
 
 ### [19 miners, who were trapped underground, are rescued from the Rudna mine after a small earthquake hits the heavily industrialized region of Silesia, Poland. ](/news/2013/03/20/19-miners-who-were-trapped-underground-are-rescued-from-the-rudna-mine-after-a-small-earthquake-hits-the-heavily-industrialized-region-of.md)

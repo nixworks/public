@@ -1,0 +1,25 @@
+### [2013-03-9](/news/2013/03/9/index.md)
+
+# Nigerian Sharia conflict:. Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. 
+
+Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21726993)
+2. [Reuters](http://www.reuters.com/article/2013/03/09/us-nigeria-hostages-idUSBRE9280BO20130309)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/9919656/Nigerian-militants-kill-seven-hostages-including-Briton.html)
+
+### Related:
+
+1. [Nigerian Sharia conflict:. Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md) _Context: Ansaru, Nigeria, Nigerian Sharia conflict_
+2. [Boko Haram insurgency. Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/boko-haram-insurgency-nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _Context: Ansaru, Nigeria_
+3. [Nigerian Sharia conflict:. Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeri.md) _Context: Nigeria, Nigerian Sharia conflict_
+4. [Nigerian Sharia conflict:. Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _Context: Nigeria, Nigerian Sharia conflict_
+5. [Nigerian Sharia conflict:. Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md) _Context: Nigeria, Nigerian Sharia conflict_
+6. [Nigerian Sharia conflict:. Gunmen kill 30 people in northeastern Nigeria. ](/news/2013/08/12/nigerian-sharia-conflict-gunmen-kill-30-people-in-northeastern-nigeria.md) _Context: Nigeria, Nigerian Sharia conflict_
+7. [Nigerian Sharia conflict:. Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/nigerian-sharia-conflict-islamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-scho.md) _Context: Nigeria, Nigerian Sharia conflict_
+8. [Nigerian Sharia conflict:. 28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md) _Context: Nigeria, Nigerian Sharia conflict_
+9. [Nigerian Sharia conflict:. An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md) _Context: Nigeria, Nigerian Sharia conflict_
+10. [Nigerian Sharia conflict:. 10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/nigerian-sharia-conflict-10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md) _Context: Nigeria, Nigerian Sharia conflict_

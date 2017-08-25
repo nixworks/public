@@ -1,6 +1,6 @@
 ## [2011-02-28](/news/2011/02/28/index.md)
 
-### [Arab Spring:Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-plibya-pal-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they.md)
+### [Arab Spring:. Libya:. Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/arab-spring-libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-the.md)
 Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hired mercenaries from sub-Saharan Africa.
 
 ### [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md)
@@ -12,7 +12,7 @@ _Context: Burma, Yangon_
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
 _Context: Charles Town, West Virginia, First World War, Frank Buckles, United States, last surviving veteran_
 
-### [Television advertising in the United KingdomThe ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on ''This Morning''. ](/news/2011/02/28/television-advertising-in-the-united-kingdompthe-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-fo.md)
+### [Television advertising in the United Kingdom. The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". ](/news/2011/02/28/television-advertising-in-the-united-kingdom-the-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-f.md)
 A ban on product placement is lifted, allowing advertisers to pay for their goods to be seen on British TV for the first time.
 
 ### [Hollywood actress and former sex symbol Jane Russell dies at age 89 of respiratory failure in Santa Maria, California. ](/news/2011/02/28/hollywood-actress-and-former-sex-symbol-jane-russell-dies-at-age-89-of-respiratory-failure-in-santa-maria-california.md)
@@ -21,7 +21,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 ### [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md)
 _Context: Arab Spring, Europe, United States, crude oil, stock market_
 
-### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-ps11-8bn-in-2010.md)
+### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md)
 _Context: Britain, HSBC_
 
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
@@ -30,7 +30,7 @@ _Context: Deepwater Horizon oil spill, Noble Energy, United States government, d
 ### [At least 16 people in Bandeira do Sul are killed after a high-voltage electric powerline crashed onto a float participating in a parade ahead of Brazil's carnival celebrations. ](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.md)
 _Context: Bandeira do Sul, Brazil, Brazilian Carnival_
 
-### [New Zealand earthquakes:New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-pnew-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md)
+### [New Zealand earthquakes:. New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-earthquakes-new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake.md)
 _Context: 2011 Canterbury earthquake, Christchurch, New Zealand_
 
 ### [Eleven Chinese fishermen are missing after their fishing boat sinks in the East China Sea. ](/news/2011/02/28/eleven-chinese-fishermen-are-missing-after-their-fishing-boat-sinks-in-the-east-china-sea.md)
@@ -72,7 +72,7 @@ Prosecutor also orders financial assets of former president and his family insid
 ### [Iran confirms that it is holding two Opposition leaders MirHosein Mousavi and Mehdi Karroubi under house arrest. ](/news/2011/02/28/iran-confirms-that-it-is-holding-two-opposition-leaders-mirhosein-mousavi-and-mehdi-karroubi-under-house-arrest.md)
 _Context: Iran, Mehdi Karroubi, Mir-Hossein Mousavi, house arrest, reformist_
 
-### [2011 Yemeni protests:President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-ppresident-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md)
+### [2011 Yemeni protests:. President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md)
 _Context: 2011 Yemeni protests, Saleh_
 
 ## [Previous Day...](/news/2011/02/27/index.md)

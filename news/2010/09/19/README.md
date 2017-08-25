@@ -24,7 +24,7 @@ Two Taiwanese tourists are injured after gunmen open fire in Delhi, weeks before
 ### [5 people are killed in an armed fight in Otlubayir in eastern Agri. ](/news/2010/09/19/5-people-are-killed-in-an-armed-fight-in-otlubaya-r-in-eastern-aara.md)
 _Context: Agri, Otlubayir_
 
-### [''The King's Speech'' is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
+### ["The King's Speech" is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
 _Context: 35th, The King's Speech, Toronto International Film Festival_
 
 ### [Original handwritten Harry Potter manuscripts are to be displayed at Scotland's Wigtown festival. ](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.md)
@@ -33,7 +33,7 @@ Original handwritten manuscripts by Harry Potter author JK Rowling are going on 
 ### [Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. ](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-northwest-china-s-xinjiang-uyghur-autonomous-region-s-in-atus.md)
 _Context: Atush, Xinjiang Uyghur Autonomous Region, northwest China_
 
-### [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died  in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in.md)
+### [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in-a.md)
 At Least 47 People Killed as Villages Devastated by Falling Boulders, Residents Swept Away by Floodwaters
 
 ### [Typhoon Fanapi (Inday) hits Taiwan with at least three people killed and dozens of people injured. The Peoples Republic of China steps up its emergency response in preparation for an impact on Monday. ](/news/2010/09/19/typhoon-fanapi-inday-hits-taiwan-with-at-least-three-people-killed-and-dozens-of-people-injured-the-peoples-republic-of-china-steps-up-it.md)
@@ -66,11 +66,11 @@ _Context: Guerrero, Mexican_
 ### [Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. ](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.md)
 Copac outreach meetings in Harare were Sunday abandoned after violence and chaos rocked the proceedings as youths — most of whom were apparently Zanu PF supporters — chased away suspected MDC-T supporters from the gatherings. Where the meetings took place, there was tension and high politicisati...
 
-### [Swedish general electionVoters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/swedish-general-electionpvoters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-mini.md)
+### [Swedish general election. Voters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/swedish-general-election-voters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-min.md)
 _Context: Fredrik Reinfeldt, Sweden, Swedish general election, The Alliance, prime minister_
 
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
-_Context: Prime Minister of Thailand, Thaksin, United Front for Democracy Against Dictatorship_
+_Context: Prime Minister, Thaksin, United Front for Democracy Against Dictatorship_
 
 ### [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md)
 _Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Vera_

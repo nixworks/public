@@ -1,6 +1,6 @@
 ## [2007-01-28](/news/2007/01/28/index.md)
 
-### [ State-owned Egyptian newspaper ''Al Ahram'' publishes an article stating that the Government of Iran ordered the assassination of Ihab al-Sherif, Egypt's ambassador to Iraq, in July 2005 in an effort to limit Egypt's influence in the region. ](/news/2007/01/28/state-owned-egyptian-newspaper-al-ahram-publishes-an-article-stating-that-the-government-of-iran-ordered-the-assassination-of-ihab-al-s.md)
+### [ State-owned Egyptian newspaper "Al Ahram" publishes an article stating that the Government of Iran ordered the assassination of Ihab al-Sherif, Egypt's ambassador to Iraq, in July 2005 in an effort to limit Egypt's influence in the region. ](/news/2007/01/28/state-owned-egyptian-newspaper-al-ahram-publishes-an-article-stating-that-the-government-of-iran-ordered-the-assassination-of-ihab-al-she.md)
 Attributed to anonymous sources and denied by the foreign ministries of both Egypt and Iran, the report could strain already tense relations between the countries.
 
 ### [ Battle of Najaf (2007): U.S. and Iraqi troops kill about 250 militants in fighting around Najaf, Iraq. ](/news/2007/01/28/battle-of-najaf-2007-u-s-and-iraqi-troops-kill-about-250-militants-in-fighting-around-najaf-iraq.md)

@@ -33,10 +33,10 @@ _Context: Kim Jong-il, Kim Jong-un, North Korea, Workers' Party of Korea_
 ### [In the Netherlands, Job Cohen, the leader of the Labour Party, resigns his position after increasing criticism of his performance. ](/news/2012/02/20/in-the-netherlands-job-cohen-the-leader-of-the-labour-party-resigns-his-position-after-increasing-criticism-of-his-performance.md)
 _Context: Job Cohen, Labour Party, Netherlands, party leader_
 
-### [In the United Kingdom, Home Secretary Theresa May announces plans to split the UK Border Agency into two separate organisations after  revelations that hundreds of thousands of people were let into the country without appropriate checks. ](/news/2012/02/20/in-the-united-kingdom-home-secretary-theresa-may-announces-plans-to-split-the-uk-border-agency-into-two-separate-organisations-after-revel.md)
+### [In the United Kingdom, Home Secretary Theresa May announces plans to split the UK Border Agency into two separate organisations after revelations that hundreds of thousands of people were let into the country without appropriate checks. ](/news/2012/02/20/in-the-united-kingdom-home-secretary-theresa-may-announces-plans-to-split-the-uk-border-agency-into-two-separate-organisations-after-revela.md)
 Home Secretary Theresa May is to split the UK Border Agency following revelations that hundreds of thousands of people were let into the country without appropriate checks.
 
-### [Scientists report regenerating specimens of ''Silene stenophylla'' from a 31,800 year old piece of fruit, greatly surpassing the previous record for oldest plant successfully regenerated. ](/news/2012/02/20/scientists-report-regenerating-specimens-of-silene-stenophylla-from-a-31-800-year-old-piece-of-fruit-greatly-surpassing-the-previous-re.md)
+### [Scientists report regenerating specimens of "Silene stenophylla" from a 31,800 year old piece of fruit, greatly surpassing the previous record for oldest plant successfully regenerated. ](/news/2012/02/20/scientists-report-regenerating-specimens-of-silene-stenophylla-from-a-31-800-year-old-piece-of-fruit-greatly-surpassing-the-previous-reco.md)
 A living plant has been generated from the fruit of a little arctic flower, making it the oldest plant by far that has ever been grown from ancient tissue.
 
 ## [Previous Day...](/news/2012/02/19/index.md)

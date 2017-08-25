@@ -24,7 +24,7 @@ _Context: Pakistan_
 ### [ Nine Chechen policeman are killed after their vehicle is attacked in neighbouring Ingushetia, southern Russia. ](/news/2009/07/4/nine-chechen-policeman-are-killed-after-their-vehicle-is-attacked-in-neighbouring-ingushetia-southern-russia.md)
 _Context: Chechnya, Ingushetia, Russia_
 
-### [ The Iranian state-owned newspaper ''Kayhan'' calls for Mir-Hossein Mousavi to stand trial. ](/news/2009/07/4/the-iranian-state-owned-newspaper-kayhan-calls-for-mir-hossein-mousavi-to-stand-trial.md)
+### [ The Iranian state-owned newspaper "Kayhan" calls for Mir-Hossein Mousavi to stand trial. ](/news/2009/07/4/the-iranian-state-owned-newspaper-kayhan-calls-for-mir-hossein-mousavi-to-stand-trial.md)
 _Context: Iran, Kayhan, Mir-Hossein Mousavi, state media_
 
 ### [ 35 people are arrested in Mazandran, northern Iran, during post-election protests. ](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.md)

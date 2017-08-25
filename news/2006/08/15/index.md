@@ -12,7 +12,7 @@ _Context: Britain, First World War, Post traumatic stress disorder, United Kingd
 ### [ New Jersey Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/new-jersey-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the.md)
 _Context: New Jersey Transit, New York City, Penn Station, Secaucus_
 
-### [ 2006 Israel-Lebanon conflict: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-p-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md)
+### [ 2006 Israel-Lebanon conflict:. Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md)
 _Context: Hezbollah, Israel, Katyusha, Southern Lebanon, war_
 
 ### [ The New Zealand Maori Queen, Te Arikinui Dame Te Atairangikaahu dies aged 75 at her official residence of Turangawaewae Marae Ngaruawahia, ending her 40 year reign, the longest of any Maori monarch within the Kingitanga movement and causing hundreds of thousands to flock to the Central North Island to attend her funeral.](/news/2006/08/15/the-new-zealand-maori-queen-te-arikinui-dame-te-atairangikaahu-dies-aged-75-at-her-official-residence-of-turangawaewae-marae-ngaruawahia.md)

@@ -1,6 +1,6 @@
 ### [2012-03-29](/news/2012/03/29/index.md)
 
-# Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report.  
+# Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report. 
 
 Research In Motion posted a net loss and its first slump in BlackBerry shipments for its holiday quarter since 2006, as its new CEO announced the initial steps in a strategic overhaul and would not rule out an eventual sale of the company.
 

@@ -27,7 +27,7 @@ _Context: Adriano Sofri, Clemente Mastella, Italian Justice Minister_
 ### [ A number of fake million dollar bill gospel tracts, printed by Living Waters Publications, are seized from The Great News Network by the United States Secret Service as possible counterfeits. ](/news/2006/06/1/a-number-of-fake-million-dollar-bill-gospel-tracts-printed-by-living-waters-publications-are-seized-from-the-great-news-network-by-the-un.md)
 _Context: Living Waters Publications, The Great News Network, United States Secret Service, gospel tracts, million dollar bill_
 
-### [ The Eureka Tower, the tallest residential tower in the world, exterior is completed at a height of 297.2m and 91 floors in Melbourne, Australia. It takes the  title from Q1 on the Gold Coast, Australia](/news/2006/06/1/the-eureka-tower-the-tallest-residential-tower-in-the-world-exterior-is-completed-at-a-height-of-297-2m-and-91-floors-in-melbourne-austr.md)
+### [ The Eureka Tower, the tallest residential tower in the world, exterior is completed at a height of 297.2m and 91 floors in Melbourne, Australia. It takes the title from Q1 on the Gold Coast, Australia](/news/2006/06/1/the-eureka-tower-the-tallest-residential-tower-in-the-world-exterior-is-completed-at-a-height-of-297-2m-and-91-floors-in-melbourne-austr.md)
 _Context: Australia, Eureka Tower, Gold Coast, Melbourne, Q1_
 
 ### [ Madaraka Day is celebrated in Kenya for the 44th time since the nation acquired internal self-government.](/news/2006/06/1/madaraka-day-is-celebrated-in-kenya-for-the-44th-time-since-the-nation-acquired-internal-self-government.md)

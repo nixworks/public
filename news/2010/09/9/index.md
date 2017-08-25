@@ -6,7 +6,7 @@ _Context: Bauchi, Boko Haram, Islam, Nigeria_
 ### [At least 16 people are killed and 98 injured in an apparent suicide bombing in the Russian Caucasus city of Vladikavkaz. ](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.md)
 _Context: 2010 Vladikavkaz bombing, Caucasus, Russia, Vladikavkaz, suicide bombing_
 
-### [A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/a-bomb-explodes-at-mogadishu-airport-in-somalia.md)
+### [Battle of Mogadishu (2010). A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/battle-of-mogadishu-2010-a-bomb-explodes-at-mogadishu-airport-in-somalia.md)
 _Context: Battle of Mogadishu (2010), Mogadishu Airport, Somalia_
 
 ### [United States Marines board and seize control of a German-owned vessel, Magellan Star, previously captured by pirates off the coast of Somalia. ](/news/2010/09/9/united-states-marines-board-and-seize-control-of-a-german-owned-vessel-magellan-star-previously-captured-by-pirates-off-the-coast-of-somal.md)
@@ -24,10 +24,10 @@ _Context: China, Fujian, Guangdong, Guangxi Zhuang, Hainan, Taiwan, Typhoon Chab
 ### [The 2010 San Bruno, California fire begins with a massive explosion in a natural gas line destroying dozens of houses, killing at least 6 people, and continues burning in San Bruno, California near the US city of San Francisco. ](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.md)
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
 
-### [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
+### [Iran. An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/iran-an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
 _Context: Iran, Sarah Shourd, United Nations, United States, diplomat_
 
-### ["Ground zero" mosque and cultural centre controversySusilo Bambang Yudhoyono, the President of Indonesia, and Asif Ali Zardari, the President of Pakistan, call on President of the United States, Barack Obama, to stop International Burn a Koran Day being organised by the Dove World Outreach Center. ](/news/2010/09/9/ground-zero-mosque-and-cultural-centre-controversypsusilo-bambang-yudhoyono-the-president-of-indonesia-and-asif-ali-zardari-the-preside.md)
+### ["Ground zero" mosque and cultural centre controversy. Susilo Bambang Yudhoyono, the President of Indonesia, and Asif Ali Zardari, the President of Pakistan, call on President of the United States, Barack Obama, to stop International Burn a Koran Day being organised by the Dove World Outreach Center. ](/news/2010/09/9/ground-zero-mosque-and-cultural-centre-controversy-susilo-bambang-yudhoyono-the-president-of-indonesia-and-asif-ali-zardari-the-presid.md)
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.
 
 ### [Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. ](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.md)

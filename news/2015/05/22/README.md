@@ -6,7 +6,7 @@ Islamic State militants reportedly seize the last Syrian government-controlled b
 ### [A suicide bomber targeting Shiites at a mosque in Qatif, Saudi Arabia, has killed 19 and injured 28, per Red Crescent authorities. ](/news/2015/05/22/a-suicide-bomber-targeting-shiites-at-a-mosque-in-qatif-saudi-arabia-has-killed-19-and-injured-28-per-red-crescent-authorities.md)
 A suicide bomber has targeted a mosque in eastern Saudi Arabia as worshippers commemorated the 7th century birth of a revered Shiite figure, the Interior Ministry and residents said.
 
-### [At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-state-of-michoacan.md)
+### [Mexican Drug War. At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/mexican-drug-war-at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-s.md)
 Government security forces killed 42 suspected drug cartel henchmen and suffered one fatality in a firefight in western Mexico on Friday, an official said, one of the bloodiest shootouts in a decade of gang violence wracking the country.
 
 ### [Li Hejun, formerly China's richest man, loses an estimated US$14 billion when his energy shares plunge nearly 50%. ](/news/2015/05/22/li-hejun-formerly-china-s-richest-man-loses-an-estimated-us-14-billion-when-his-energy-shares-plunge-nearly-50.md)
@@ -27,7 +27,7 @@ A high turnout is reported as polls close after the Republic of Ireland votes in
 ### [The United States Senate passes legislation to allow President Barack Obama to fast track trade negotiations with other countries. ](/news/2015/05/22/the-united-states-senate-passes-legislation-to-allow-president-barack-obama-to-fast-track-trade-negotiations-with-other-countries.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
-### [''Science'' publishes a series of papers on biodiversity in the deep sea, including tens of thousands of single-celled organisms most of which had not been previously identified. ](/news/2015/05/22/science-publishes-a-series-of-papers-on-biodiversity-in-the-deep-sea-including-tens-of-thousands-of-single-celled-organisms-most-of-whi.md)
+### ["Science" publishes a series of papers on biodiversity in the deep sea, including tens of thousands of single-celled organisms most of which had not been previously identified. ](/news/2015/05/22/science-publishes-a-series-of-papers-on-biodiversity-in-the-deep-sea-including-tens-of-thousands-of-single-celled-organisms-most-of-which.md)
 _Context: Science, biodiversity, single-celled organism_
 
 ## [Previous Day...](/news/2015/05/21/index.md)

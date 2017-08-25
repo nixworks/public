@@ -6,7 +6,7 @@ _Context: 2011 Norway attacks, Norway_
 ### [The Reserve Bank of India increases interest rates to 8% in an effort to contain inflation which is currently at 9.44%. ](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.md)
 _Context: Reserve Bank of India, inflation, interest rates_
 
-### [Britain's Trinity Mirror reviews its editorial guidelines in light of the ''News of the World'' phone hacking affair. ](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.md)
+### [Britain's Trinity Mirror reviews its editorial guidelines in light of the "News of the World" phone hacking affair. ](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.md)
 _Context: News of the World, Trinity Mirror, phone hacking affair_
 
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)

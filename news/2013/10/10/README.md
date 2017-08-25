@@ -1,15 +1,15 @@
 ## [2013-10-10](/news/2013/10/10/index.md)
 
-### [Post-civil war violence in Libya:The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-pthe-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
+### [Post-civil war violence in Libya:. The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
 _Context: Ali Zeidan, Libyan Prime Minister, Post-civil war violence in Libya, Tripoli_
 
 ### [The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. ](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.md)
 _Context: 2013, Alice Munro, Canadian writer, Nobel Prize in Literature_
 
-### [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and  Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-r.md)
+### [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-re.md)
 _Context:  Te Waipounamu, Maori language, New Zealand, North Island, South Island, Te Ika-a-Maui_
 
-### [The BBC announce the discovery of nine missing episodes of ''Doctor Who'' starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial ''The Enemy of the World'' and 4 of the 5 missing episodes of ''The Web of Fear''. ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-rema.md)
+### [The BBC announce the discovery of nine missing episodes of "Doctor Who" starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial "The Enemy of the World" and 4 of the 5 missing episodes of "The Web of Fear". ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-remain.md)
 _Context: BBC, Doctor Who, Patrick Troughton, The Enemy of the World, The Web of Fear, missing episodes_
 
 ### [French air traffic controllers begin strike action with the south of France expected to be worst affected. ](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.md)
@@ -27,7 +27,7 @@ Latest executions bring number of prisoners hanged this year to 132, as rights g
 ### [The Cabinet of Malawi is dissolved by President Joyce Banda amidst a graft scandal. ](/news/2013/10/10/the-cabinet-of-malawi-is-dissolved-by-president-joyce-banda-amidst-a-graft-scandal.md)
 Malawi President Joyce Bandadissolved the cabinet on Thursday after police arrested severaljunior officials in her government in recent weeks on suspicionof stealing state funds.
 
-### [Scott Carpenter, ''Mercury 7'' astronaut and second American to orbit the earth, dies at 88 following complications from a stroke.](/news/2013/10/10/scott-carpenter-mercury-7-astronaut-and-second-american-to-orbit-the-earth-dies-at-88-following-complications-from-a-stroke.md)
+### [Scott Carpenter, "Mercury 7" astronaut and second American to orbit the earth, dies at 88 following complications from a stroke.](/news/2013/10/10/scott-carpenter-mercury-7-astronaut-and-second-american-to-orbit-the-earth-dies-at-88-following-complications-from-a-stroke.md)
 Scott Carpenter, the fourth U.S. astronaut to fly in space and the second to orbit the Earth, died Thursday at a Denver hospice.
 
 ## [Previous Day...](/news/2013/10/9/index.md)

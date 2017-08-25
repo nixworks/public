@@ -24,7 +24,7 @@ _Context: British Columbia, Western Canada, snowmobile_
 ### [Drug-related violence kills 24 people in Mexico in 24 hours, 13 of them in the city of Acapulco. ](/news/2010/03/14/drug-related-violence-kills-24-people-in-mexico-in-24-hours-13-of-them-in-the-city-of-acapulco.md)
 Thirteen people are killed in and around Acapulco, with four victims found beheaded, security officials say. Another gunbattle in the state leaves 11 people dead.
 
-### [Spaniard Fernando Alonso wins the 2010 Bahrain Grand Prix Formula One race; Brazilian Felipe Massa comes in second.  ](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.md)
+### [Spaniard Fernando Alonso wins the 2010 Bahrain Grand Prix Formula One race; Brazilian Felipe Massa comes in second. ](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.md)
 _Context: 2010 Bahrain Grand Prix, Brazil, Felipe Massa, Fernando Alonso, Formula One, Spain_
 
 ### [Colombian legislative election, 2010: Over 2500 candidates can be chosen for 102 Senate seats and 166 Chamber of Representatives seats, as well as 5 Colombian representatives to the Andean Parliament (organ of the Andean Community of Nations) and a people's initiative in the Caribbean Region. ](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.md)
@@ -33,7 +33,7 @@ _Context: Andean Community of Nations, Chamber of Representatives, Colombian leg
 ### [Brazilian President Luiz Incio Lula da Silva lands in Israel at the start of his Middle East tour of Palestine and Jordan before his visit to Iran. ](/news/2010/03/14/brazilian-president-luiz-inacio-lula-da-silva-lands-in-israel-at-the-start-of-his-middle-east-tour-of-palestine-and-jordan-before-his-visit.md)
 _Context: Brazil, Brazilian President, Iran, Israel, Jordan, Luiz Incio Lula da Silva, Middle East, Palestinian_
 
-### [Earthquakes:A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-pa-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md)
+### [Earthquakes:. A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md)
 A strong earthquake hits off the eastern coast of central Japan, rattling buildings across a broad swath of the country, including Tokyo.
 
 ## [Previous Day...](/news/2010/03/13/index.md)

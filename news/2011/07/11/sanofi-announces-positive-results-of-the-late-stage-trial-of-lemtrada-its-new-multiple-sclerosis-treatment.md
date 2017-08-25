@@ -1,6 +1,6 @@
 ### [2011-07-11](/news/2011/07/11/index.md)
 
-# Sanofi announces positive results of the late-stage trial of Lemtrada, its new multiple sclerosis  treatment. 
+# Sanofi announces positive results of the late-stage trial of Lemtrada, its new multiple sclerosis treatment. 
 
 
 

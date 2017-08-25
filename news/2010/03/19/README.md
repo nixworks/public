@@ -18,16 +18,16 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
 _Context: Houthi, President, Saleh_
 
-### [Catholic sex abuse cases:Pope Benedict XVI signs his letter to Irish Catholics, sent as his first official documented response to the issue of child sex abuse and due to be published by the Vatican on Saturday and read at Sunday Mass. ](/news/2010/03/19/catholic-sex-abuse-cases-ppope-benedict-xvi-signs-his-letter-to-irish-catholics-sent-as-his-first-official-documented-response-to-the-issue.md)
+### [Catholic sex abuse cases:. Pope Benedict XVI signs his letter to Irish Catholics, sent as his first official documented response to the issue of child sex abuse and due to be published by the Vatican on Saturday and read at Sunday Mass. ](/news/2010/03/19/catholic-sex-abuse-cases-pope-benedict-xvi-signs-his-letter-to-irish-catholics-sent-as-his-first-official-documented-response-to-the-issu.md)
 Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithful addressing the question of clerical sex abuse&hellip;
 
 ### [China's State Commission of Disaster Relief says severe drought has affected 51 million Chinese and left more than 16 million people and 11 million livestock with drinking-water shortages. ](/news/2010/03/19/china-s-state-commission-of-disaster-relief-says-severe-drought-has-affected-51-million-chinese-and-left-more-than-16-million-people-and-11.md)
 _Context: drinking-water shortages_
 
-### [Middle East:Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-pcomplaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-du.md)
+### [Middle East:. Complaints are raised against a Saudi Arabian writer for allegedly describing a hadith of the Prophet Muhammad as "barbaric" during a program presented by Nadeen Al-Badr on Al-Hurra Channel. ](/news/2010/03/19/middle-east-complaints-are-raised-against-a-saudi-arabian-writer-for-allegedly-describing-a-hadith-of-the-prophet-muhammad-as-barbaric-d.md)
 Jeddah Summary Court sends copy of lawsuit filed against writer to justice minister.
 
-### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is  promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-incitin.md)
+### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Voice of America, genocide_
 
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
@@ -57,7 +57,7 @@ _Context: Abdullah, Amnesty International, Lebanon, Saudi Arabia_
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
 _Context: Colombia, Johnny Hurtado_
 
-### [Colombian journalist, radio reporter and ''El Pulso'' magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monter.md)
+### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
 _Context: Clodomiro Castilla, Colombia, El Pulso, Montera_
 
 ## [Previous Day...](/news/2010/03/18/index.md)

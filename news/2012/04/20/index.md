@@ -1,9 +1,9 @@
 ## [2012-04-20](/news/2012/04/20/index.md)
 
-### [Arab Spring:Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-pbahraini-uprising-psecurity-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regi.md)
+### [Arab Spring:. Bahraini uprising:. Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md)
 _Context: 2011-2012 Bahraini uprising, 2012 Bahrain Grand Prix, Arab Spring, Bahrain_
 
-### [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudanasudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md)
+### [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudan-sudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md)
 _Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan_
 
 ### [Disney Studios chairman Rich Ross resigns, less than three years after taking the position. ](/news/2012/04/20/disney-studios-chairman-rich-ross-resigns-less-than-three-years-after-taking-the-position.md)

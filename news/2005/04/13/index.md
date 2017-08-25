@@ -9,7 +9,7 @@ _Context: Lebanon, Omar Karami, Prime Minister, form of government_
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
 _Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 
-### [ Conflict in Iraq: At least nine Iraqi police have been killed by insurgents in Kirkuk.  The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-p-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-anothe.md)
+### [ Conflict in Iraq:. At least nine Iraqi police have been killed by insurgents in Kirkuk. The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-another.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
@@ -18,7 +18,7 @@ _Context: China, East China Sea, Japan, Politics of Japan, oil_
 ### [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md)
 _Context: 1957, 1969, Asian flu, Canada, College of American Pathologists, World Health Organization, antibody, flu_
 
-### [ The National Geographic Society and IBM support a project to take DNA samples from various people all over the world to track migration of ''Homo sapiens'' from Africa. ](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.md)
+### [ The National Geographic Society and IBM support a project to take DNA samples from various people all over the world to track migration of "Homo sapiens" from Africa. ](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 ### [ The death toll in the collapse of a factory in Dacca, Bangladesh increases to 30. ](/news/2005/04/13/the-death-toll-in-the-collapse-of-a-factory-in-dacca-bangladesh-increases-to-30.md)

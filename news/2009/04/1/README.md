@@ -1,6 +1,6 @@
 ## [2009-04-1](/news/2009/04/1/index.md)
 
-### [ The 72-year-old American soap opera ''Guiding Light'' will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
+### [ The 72-year-old American soap opera "Guiding Light" will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
 _Context: Guiding Light, United States, broadcaster, soap opera_
 
 ### [ The United States and Russia begin Strategic Arms Limitation Talks. ](/news/2009/04/1/the-united-states-and-russia-begin-strategic-arms-limitation-talks.md)
@@ -33,7 +33,7 @@ _Context: Albania, Croatia, Enlargement of NATO, NATO_
 ### [ The United States' World War II motor ship City of Rayville||2 is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-2-is-located-near-australia.md)
 Researchers mapping the sea floor off Victoria have uncovered the rusting wreck of the first American vessel to be sunk during World War II.
 
-### [ Sweden's Parliament legalizes same-sex marriage.  ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)
+### [ Sweden's Parliament legalizes same-sex marriage. ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)
 _Context: Riksdag, Sweden, decides, same-sex marriage_
 
 ### [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md)

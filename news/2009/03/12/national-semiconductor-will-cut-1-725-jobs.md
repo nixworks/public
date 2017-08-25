@@ -11,13 +11,13 @@
 
 ### Related:
 
-1. [The Hershey Company announces it will cut about 15 percent of its global workforce (~2,700 jobs) to return its international businesses to profitability as quickly as possible.  The layoffs will have a greater impact on the international workforce. ](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.md) _Context: layoff_
+1. [The Hershey Company announces it will cut about 15 percent of its global workforce (~2,700 jobs) to return its international businesses to profitability as quickly as possible. The layoffs will have a greater impact on the international workforce. ](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.md) _Context: layoff_
 2. [BBC journalists strike against layoffs being forced on them by the corporation. ](/news/2011/07/15/bbc-journalists-strike-against-layoffs-being-forced-on-them-by-the-corporation.md) _Context: layoff_
 3. [Texas Instruments announces plans to buy long-time rival National Semiconductor, in a transaction that would consolidate the market for analog chips. ](/news/2011/04/5/texas-instruments-announces-plans-to-buy-long-time-rival-national-semiconductor-in-a-transaction-that-would-consolidate-the-market-for-anal.md) _Context: National Semiconductor_
 4. [ Yahoo! will cut between 600 and 700 jobs. ](/news/2009/04/21/yahoo-will-cut-between-600-and-700-jobs.md) _Context: layoff_
 5. [ Reinsurer Swiss Re will cut 1,000 jobs. ](/news/2009/04/2/reinsurer-swiss-re-will-cut-1-000-jobs.md) _Context: layoff_
 6. [ Canadian aircraft manufacturer Bombardier Aerospace will cut 3,000 jobs. ](/news/2009/04/2/canadian-aircraft-manufacturer-bombardier-aerospace-will-cut-3-000-jobs.md) _Context: layoff_
 7. [ Swiss investment bank UBS AG will cut 8,700 jobs. ](/news/2009/04/15/swiss-investment-bank-ubs-ag-will-cut-8-700-jobs.md) _Context: layoff_
-8. [ Independent Television reports a loss of 2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-ps2-7-billion-for-2008-and-will-cut-600-jobs.md) _Context: layoff_
+8. [ Independent Television reports a loss of GBP2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-gbp2-7-billion-for-2008-and-will-cut-600-jobs.md) _Context: layoff_
 9. [ Nokia will cut 1,700 jobs. ](/news/2009/03/17/nokia-will-cut-1-700-jobs.md) _Context: layoff_
 10. [ U.S. department store Macy's announces it will cut 7,000 jobs. ](/news/2009/02/2/u-s-department-store-macy-s-announces-it-will-cut-7-000-jobs.md) _Context: layoff_

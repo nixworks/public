@@ -1,15 +1,15 @@
 ## [2015-02-6](/news/2015/02/6/index.md)
 
-### [ISIL claims that the  American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrikes-at-the-outskirts-of-raqqa-syria-t.md)
+### [Islamic State of Iraq and the Levant. ISIL claims that the American female hostage Kayla Jean Mueller has been killed by Jordanian airstrikes at the outskirts of Raqqa, Syria. The White House says that they have no proof of her death. ](/news/2015/02/6/islamic-state-of-iraq-and-the-levant-isil-claims-that-the-american-female-hostage-kayla-jean-mueller-has-been-killed-by-jordanian-airstrike.md)
 The parents of a US hostage who Islamic State militants say was killed by a Jordanian air strike in Syria say they are &quot;hopeful&quot; she is still alive.
 
-### [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md)
+### [Boko Haram. Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md)
 _Context: Boko Haram, Chad Air Force, Niger, Niger Army_
 
-### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000  of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
+### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000 of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
 _Context: German, Germany, Siemens_
 
-### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, ''The Floreana'', carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-janu.md)
+### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, "The Floreana", carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-januar.md)
 _Context: Ecuador, Galpagos Islands, state of emergency_
 
 ### [Mexican police find at least 61 bodies in an abandoned crematorium in Acapulco. ](/news/2015/02/6/mexican-police-find-at-least-61-bodies-in-an-abandoned-crematorium-in-acapulco.md)
@@ -24,7 +24,7 @@ Embattled Australian Prime Minister Tony Abbott said he will fight a challenge t
 ### [Xanana Gusmo resigns as the Prime Minister of East Timor ahead of an expected government restructure next week. ](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.md)
 _Context: Prime Minister of East Timor, Xanana Gusmo_
 
-### [Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md)
+### [Houthi insurgency in Yemen. Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-insurgency-in-yemen-houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md)
 _Context: Houthi insurgency in Yemen, Yemen, parliament_
 
 ## [Previous Day...](/news/2015/02/5/index.md)

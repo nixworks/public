@@ -1,6 +1,6 @@
 ### [2013-08-25](/news/2013/08/25/index.md)
 
-# Four people die and 35 are injured when the notorious ''tren de la muerte'' train derails in Huimanguillo, Tabasco, Mexico. 
+# Four people die and 35 are injured when the notorious "tren de la muerte" train derails in Huimanguillo, Tabasco, Mexico. 
 
 
 

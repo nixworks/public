@@ -1,6 +1,6 @@
 ## [2012-07-3](/news/2012/07/3/index.md)
 
-### [Syrian uprising (2011-present):A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-pa-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across-s.md)
+### [Syrian uprising (2011-present):. A Human Rights Watch report claims that Syrian intelligence agencies are running 27 torture centers across Syria. ](/news/2012/07/3/syrian-uprising-2011-present-a-human-rights-watch-report-claims-that-syrian-intelligence-agencies-are-running-27-torture-centers-across.md)
 _Context: Human Rights Watch, Syria, Syrian uprising (2011-present)_
 
 ### [At least 25 people are killed and 40 wounded in a truck bombing in the market place of the Iraqi city of Diwaniyah. ](/news/2012/07/3/at-least-25-people-are-killed-and-40-wounded-in-a-truck-bombing-in-the-market-place-of-the-iraqi-city-of-diwaniyah.md)

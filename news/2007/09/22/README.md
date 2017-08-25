@@ -3,7 +3,7 @@
 ### [ Turkish Foreign Minister Ali Babacan condemns US support of the PKK terrorist group, which is behind attacks on Turkish forces.](/news/2007/09/22/turkish-foreign-minister-ali-babacan-condemns-us-support-of-the-pkk-terrorist-group-which-is-behind-attacks-on-turkish-forces.md)
 _Context: Ali Babacan, Kurdistan Workers' Party_
 
-### [ 35 leaders of Pakistan's All Parties Democratic Movement (APDM) arrested on charges of disrupting public order  to prevent agitation against Pervez Musharraf in Islamabad, Pakistan ](/news/2007/09/22/35-leaders-of-pakistan-s-all-parties-democratic-movement-apdm-arrested-on-charges-of-disrupting-public-order-to-prevent-agitation-agains.md)
+### [ 35 leaders of Pakistan's All Parties Democratic Movement (APDM) arrested on charges of disrupting public order to prevent agitation against Pervez Musharraf in Islamabad, Pakistan ](/news/2007/09/22/35-leaders-of-pakistan-s-all-parties-democratic-movement-apdm-arrested-on-charges-of-disrupting-public-order-to-prevent-agitation-against.md)
 _Context: All Parties Democratic Movement, Islamabad, Pakistan, Pervez Musharraf_
 
 ### [ Several hundred Buddhist monks marched through Burma's second largest city Mandalay as activists urged people to join the protests against the ruling military junta. ](/news/2007/09/22/several-hundred-buddhist-monks-marched-through-burma-s-second-largest-city-mandalay-as-activists-urged-people-to-join-the-protests-against.md)

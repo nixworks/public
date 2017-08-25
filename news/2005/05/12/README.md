@@ -21,7 +21,7 @@ _Context: AIDS, Nigeria, Olusegun Obasanjo, blood transfusion_
 ### [ Western countries pledge funds to Ukraine so the country can cover the Chernobyl nuclear reactor. ](/news/2005/05/12/western-countries-pledge-funds-to-ukraine-so-the-country-can-cover-the-chernobyl-nuclear-reactor.md)
 _Context: Chernobyl, Ukraine, nuclear reactor_
 
-### [ In Colombia, former justice minister  Alberto Santofimio Botero is arrested suspected of complicity in the murder of presidential candidate Luis Carlos Galn in 1989. ](/news/2005/05/12/in-colombia-former-justice-minister-alberto-santofimio-botero-is-arrested-suspected-of-complicity-in-the-murder-of-presidential-candidate.md)
+### [ In Colombia, former justice minister Alberto Santofimio Botero is arrested suspected of complicity in the murder of presidential candidate Luis Carlos Galn in 1989. ](/news/2005/05/12/in-colombia-former-justice-minister-alberto-santofimio-botero-is-arrested-suspected-of-complicity-in-the-murder-of-presidential-candidate.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ A federal judge in Houston, Texas, sentences former Enron executive Dan Boyle to 3 years and 10 months in prison for his involvement with a barge scam with securities firm Merrill Lynch. Two Merrill Lynch executives also receive sentences. ](/news/2005/05/12/a-federal-judge-in-houston-texas-sentences-former-enron-executive-dan-boyle-to-3-years-and-10-months-in-prison-for-his-involvement-with-a.md)

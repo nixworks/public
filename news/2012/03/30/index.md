@@ -1,21 +1,21 @@
 ## [2012-03-30](/news/2012/03/30/index.md)
 
-### [Arab Spring:Syrian uprising:The Syrian government says that the revolt against the regime of President Bashar al-Assad has ended, but it will still keep soldiers inside cities, "for security". ](/news/2012/03/30/arab-spring-psyrian-uprising-pthe-syrian-government-says-that-the-revolt-against-the-regime-of-president-bashar-al-assad-has-ended-but-it-w.md)
+### [Arab Spring:. Syrian uprising:. The Syrian government says that the revolt against the regime of President Bashar al-Assad has ended, but it will still keep soldiers inside cities, "for security". ](/news/2012/03/30/arab-spring-syrian-uprising-the-syrian-government-says-that-the-revolt-against-the-regime-of-president-bashar-al-assad-has-ended-but-it.md)
 Syria says the year-old revolt to topple President Bashar al-Assad is over, but the army again shelled opposition areas on Saturday and rebels said they would not cease fire until tanks, artillery and heavy weapons are withdrawn.
 
-### [Pakistan:A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-pa-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
+### [Pakistan:. A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/pakistan-a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
 _Context: Miran Shah, North Waziristan, Pakistan, United States, drones launch_
 
 ### [Gunmen kill Zain-ul-Abdeen, a leader of the ethnic Pashtun Awami National Party, in Karachi. ](/news/2012/03/30/gunmen-kill-zain-ul-abdeen-a-leader-of-the-ethnic-pashtun-awami-national-party-in-karachi.md)
 _Context: Awami National Party, Karachi, Pashtun, Zain-ul-Abdeen_
 
-### [Land Day 2012:A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.](/news/2012/03/30/land-day-2012-pa-20-year-old-palestinian-is-killed-and-13-others-are-wounded-by-idf-gunfire-as-they-try-to-breach-the-gaza-border-fence-in-o.md)
+### [Land Day 2012:. A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.](/news/2012/03/30/land-day-2012-a-20-year-old-palestinian-is-killed-and-13-others-are-wounded-by-idf-gunfire-as-they-try-to-breach-the-gaza-border-fence-in.md)
 A Palestinian man has been shot dead by Israeli security forces in the Gaza Strip after a day of protests to mark Land Day, Palestinian medics say.
 
 ### [Amnesty International urges the release of imprisoned Bahraini human rights activist Abdulhadi al-Khawaja "immediately and unconditionally". ](/news/2012/03/30/amnesty-international-urges-the-release-of-imprisoned-bahraini-human-rights-activist-abdulhadi-al-khawaja-immediately-and-unconditionally.md)
 Amnesty International has demanded the jailed Bahraini human rights activist, Abdulhadi al-Khawaja, be released &quot;immediately and unconditionally&quot;.
 
-### [Australian artist Tim Storrier wins the 2012 Archibald Prize for a self-portrait ''The historic wayfarer (after Bosch)''. ](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.md)
+### [Australian artist Tim Storrier wins the 2012 Archibald Prize for a self-portrait "The historic wayfarer (after Bosch)". ](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.md)
 _Context: Archibald Prize, Australia, Tim Storrier_
 
 ### [The Spanish government cuts 27 billion euros from the country's budget as part of one of the toughest austerity drives in its history. ](/news/2012/03/30/the-spanish-government-cuts-27-billion-euros-from-the-country-s-budget-as-part-of-one-of-the-toughest-austerity-drives-in-its-history.md)

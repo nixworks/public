@@ -1,9 +1,9 @@
 ## [2010-08-3](/news/2010/08/3/index.md)
 
-### [Adaisseh incident:Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-pthree-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the-i.md)
+### [Adaisseh incident:. Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md)
 Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in the first serious clash since the 2006 Israel-Hezbollah conflict.
 
-### [Assassination of Raza Haider:Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-paround-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md)
+### [Assassination of Raza Haider:. Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md)
 _Context: Karachi, Raza Haider_
 
 ### [Twin explosions kill at least 3 people and injure at least 50 others in a crowded shopping area in Kut, Wasit; women and children are seen bleeding in the streets. ](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.md)
@@ -39,7 +39,7 @@ A letter which describes how Scottish poet Robert Burns was &quot;reduced and sh
 ### [Tokyo's "oldest woman" cannot be located, casting doubts upon her claim to the title. ](/news/2010/08/3/tokyo-s-oldest-woman-cannot-be-located-casting-doubts-upon-her-claim-to-the-title.md)
 _Context: Tokyo_
 
-### [2010 Khyber Pakhtunkhwa floods:More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-pmore-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md)
+### [2010 Khyber Pakhtunkhwa floods:. More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md)
 Pakistani rescue teams try to reach tens of thousands of people cut off by devastating floods now estimated to have affected 3m people.
 
 ### [Russian wildfires worsen. ](/news/2010/08/3/russian-wildfires-worsen.md)
@@ -48,10 +48,10 @@ Russia struggles to contain its disastrous wildfires with military aircraft hang
 ### [The family of Terry Jupp claim that the Ministry of Defence did not use "stringent procedures" during the secretive explosive experiment on an island in the Thames Estuary that led to his death. ](/news/2010/08/3/the-family-of-terry-jupp-claim-that-the-ministry-of-defence-did-not-use-stringent-procedures-during-the-secretive-explosive-experiment-on.md)
 A Ministry of Defence bomb expert was killed after &#034;inadequate&#034; safety procedures during tests of &#034;high national importance&#034;, a long-delayed inquest has heard.
 
-### [Nearly PS2 billion of savings are revealed to have been removed from the UK's nationalised Northern Rock bank. ](/news/2010/08/3/nearly-aps2-billion-of-savings-are-revealed-to-have-been-removed-from-the-uk-s-nationalised-northern-rock-bank.md)
+### [Nearly GBP2 billion of savings are revealed to have been removed from the UK's nationalised Northern Rock bank. ](/news/2010/08/3/nearly-agbp2-billion-of-savings-are-revealed-to-have-been-removed-from-the-uk-s-nationalised-northern-rock-bank.md)
 _Context: Northern Rock_
 
-### [Ecuador says it will not drill for oil in the Yasuni National Park for at least a decade after being provided with $3.6 billion (PS2.26 billion) - half the money it would receive from selling the oil - in a deal signed with the United Nations. ](/news/2010/08/3/ecuador-says-it-will-not-drill-for-oil-in-the-yasuni-national-park-for-at-least-a-decade-after-being-provided-with-3-6-billion-aps2-26-bill.md)
+### [Ecuador says it will not drill for oil in the Yasuni National Park for at least a decade after being provided with $3.6 billion (GBP2.26 billion) - half the money it would receive from selling the oil - in a deal signed with the United Nations. ](/news/2010/08/3/ecuador-says-it-will-not-drill-for-oil-in-the-yasuni-national-park-for-at-least-a-decade-after-being-provided-with-3-6-billion-agbp2-26-bi.md)
 Ecuador promises not to drill for oil in a pristine Amazon reserve in return for $3.6bn (£2.26bn) from donor countries.
 
 ### [Mexicana de Aviacion, Mexico's biggest airline, files for bankruptcy. ](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.md)
@@ -90,8 +90,8 @@ Jackie Selebi sentenced to 15 years in jail for accepting bribes from organised 
 ### [Former Rwandan administrator Dominique Ntawukulilyayo is given a 25-year sentence of imprisonment by the International Criminal Tribunal for Rwanda after being convicted of the transportation of soldiers during the Rwandan Genocide. ](/news/2010/08/3/former-rwandan-administrator-dominique-ntawukulilyayo-is-given-a-25-year-sentence-of-imprisonment-by-the-international-criminal-tribunal-for.md)
 A Rwandan ex-administrator arrested in France in 2007 is sentenced to 25 years for transporting soldiers during the genocide.
 
-### [The United States' Federal Bureau of Investigation (FBI) posts a letter to the offices of online encyclopedia project Wikipedia, threatening fines and imprisonments over what it claims is the "particularly problematic" use of the agency's seal. ](/news/2010/08/3/the-united-states-federal-bureau-of-investigation-fbi-posts-a-letter-to-the-offices-of-online-encyclopedia-project-wikipedia-threatening.md)
-A row has broken out between Wikipedia and the FBI over the use of the agency logo.
+### [The United States' Federal Bureau of Investigation (FBI) posts a letter to the offices of online encyclopedia project Wikipedia, threatening fines and imprisonments over what it claims is the "particularly problematic" use of the agency's seal. [http://www.bbc.co.uk/news/technology-10851394 (BBC)] [http://edition.cnn.com/2010/TECH/web/08/03/fbi.seal.wikipedia/index.html?eref=rss_topstories (CNN)] [http://www.vanityfair.com/online/daily/2010/08/today-in-intelligence-the-fbi-picks-a-fight-with-wikipedia.html ("Vanity Fair")] (Wikipedia entry)](/news/2010/08/3/the-united-states-federal-bureau-of-investigation-fbi-posts-a-letter-to-the-offices-of-online-encyclopedia-project-wikipedia-threatening.md)
+_Context: FBI, United States, Wikipedia_
 
 ### [Saudi Arabia announces it is to commence a ban on the "messenger function" on BlackBerry handsets from Friday due to security concerns over the Research In Motion (RIM) technological device. ](/news/2010/08/3/saudi-arabia-announces-it-is-to-commence-a-ban-on-the-messenger-function-on-blackberry-handsets-from-friday-due-to-security-concerns-over.md)
 The authorities in Saudi Arabia tell telecoms firms to block the messenger function on Blackberry handsets from Friday.

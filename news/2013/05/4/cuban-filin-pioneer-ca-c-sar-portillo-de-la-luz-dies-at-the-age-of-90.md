@@ -1,6 +1,6 @@
 ### [2013-05-4](/news/2013/05/4/index.md)
 
-# Cuban ''Filin'' pioneer Cesar Portillo de la Luz dies at the age of 90. 
+# Cuban "Filin" pioneer Cesar Portillo de la Luz dies at the age of 90. 
 
 
 

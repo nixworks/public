@@ -1,0 +1,23 @@
+### [2016-12-8](/news/2016/12/8/index.md)
+
+# New Zealand National Party leadership election, 2016. Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. 
+
+NZ Finance Minister Bill English is set to be appointed prime minister after two challengers withdrew.
+
+
+### Source:
+
+1. [AAP via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/12/08/bill-english-set-to-become-next-nz-pm.html)
+
+### Related:
+
+1. [New Zealand National Party leadership election, 2016. Bill English is elected as the leader of the New Zealand National Party and is now the country's Prime Minister. Paula Bennett is elected as English's deputy. ](/news/2016/12/12/new-zealand-national-party-leadership-election-2016-bill-english-is-elected-as-the-leader-of-the-new-zealand-national-party-and-is-now-the.md) _Context: Bill English, New Zealand National Party, New Zealand National Party leadership election, 2016, Prime Minister_
+2. [John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. ](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.md) _Context: John Key, New Zealand National Party, Prime Minister_
+3. [ John Key is elected leader of the opposition New Zealand National Party, with Bill English as his deputy. Both were unopposed. ](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.md) _Context: Bill English, John Key, New Zealand National Party_
+4. [Fiji-New Zealand relations. New Zealand Prime Minister John Key visits Fiji, the first time a Kiwi leader has done so since the 2006 coup d'etat. Key is hoping to improve relations between the two countries though it's clear their political tensions don't have easy solutions. ](/news/2016/06/9/fiji-new-zealand-relations-new-zealand-prime-minister-john-key-visits-fiji-the-first-time-a-kiwi-leader-has-done-so-since-the-2006-coup.md) _Context: John Key, Prime Minister_
+5. [Tea tape scandal. New Zealand Prime Minister John Key settles a defamation case with freelance cameraman Bradley Ambrose, acknowledging comments he made about the man caused him professional and personal harm. ](/news/2016/03/21/tea-tape-scandal-new-zealand-prime-minister-john-key-settles-a-defamation-case-with-freelance-cameraman-bradley-ambrose-acknowledging-comm.md) _Context: John Key, Prime Minister_
+6. [New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru-s detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-de.md) _Context: John Key, Prime Minister_
+7. [Military intervention against ISIL. John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md) _Context: John Key, Prime Minister_
+8. [John Key is sworn in for his third term as Prime Minister of New Zealand. ](/news/2014/10/8/john-key-is-sworn-in-for-his-third-term-as-prime-minister-of-new-zealand.md) _Context: John Key, Prime Minister_
+9. [New Zealand general election, 2014:. John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held.md) _Context: John Key, Prime Minister_
+10. [War on Terror:. Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanista.md) _Context: John Key, Prime Minister_

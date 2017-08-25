@@ -1,6 +1,6 @@
 ## [2011-10-10](/news/2011/10/10/index.md)
 
-### [Iranian actress Marzieh Vafamehr is sentenced to 90 lashes of the cane and a year's jail in Tehran for appearing in the film ''My Tehran For Sale'' which criticises the Government of Iran's harsh policies on the arts. ](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.md)
+### [Iranian actress Marzieh Vafamehr is sentenced to 90 lashes of the cane and a year's jail in Tehran for appearing in the film "My Tehran For Sale" which criticises the Government of Iran's harsh policies on the arts. ](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.md)
 An Iranian actress has been sentenced to 90 lashes and a year in jail for her part in an Australian-produced film critical of the regime in Tehran.
 
 ### [France and Belgium agree to break up and partially nationalize Dexia, Belgium's largest bank. ](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.md)

@@ -11,4 +11,4 @@ NBC News has acquired full control of msnbc.com and its digital network from Mic
 
 ### Related:
 
-1. [Comcast's NBCUniversal acquires  Dreamworks Animation for $3.8 billion. ](/news/2016/04/28/comcast-s-nbcuniversal-acquires-dreamworks-animation-for-3-8-billion.md) _Context: NBCUniversal_
+1. [Comcast's NBCUniversal acquires Dreamworks Animation for $3.8 billion. ](/news/2016/04/28/comcast-s-nbcuniversal-acquires-dreamworks-animation-for-3-8-billion.md) _Context: NBCUniversal_

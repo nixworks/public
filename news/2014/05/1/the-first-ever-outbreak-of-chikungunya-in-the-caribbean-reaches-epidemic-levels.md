@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Sindh Government officials declare a health emergency  in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the ''aedes aegypti'' mosquito is responsible for spreading the Chikungunya virus in  Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chik.md) _Context: Chikungunya_
+1. [Sindh Government officials declare a health emergency in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the "aedes aegypti" mosquito is responsible for spreading the Chikungunya virus in Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chiku.md) _Context: Chikungunya_

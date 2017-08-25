@@ -30,13 +30,13 @@ _Context: Facebook, Inc., Pakistan, Taliban, social network_
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
 _Context: Mexico, methamphetamine_
 
-### [  Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
+### [ Typhoon Parma. Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
 Philippine Islands President Gloria Arroyo has declared a &quot;state of calamity&quot; th..
 
 ### [ Thousands of people gather at a mosque in Guinea's capital, Conakry, to identify those killed in Monday's opposition rally against military rule. ](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.md)
 _Context: Conakry, Guinea, massacre of opposition protesters, mosque_
 
-### [ A bid to force publication of an internal BBC review of its Middle East coverage, ''EastEnders'' and ''Top Gear'' is rejected in the British High Court of Justice. ](/news/2009/10/2/a-bid-to-force-publication-of-an-internal-bbc-review-of-its-middle-east-coverage-eastenders-and-top-gear-is-rejected-in-the-britis.md)
+### [ A bid to force publication of an internal BBC review of its Middle East coverage, "EastEnders" and "Top Gear" is rejected in the British High Court of Justice. ](/news/2009/10/2/a-bid-to-force-publication-of-an-internal-bbc-review-of-its-middle-east-coverage-eastenders-and-top-gear-is-rejected-in-the-british-hi.md)
 _Context: BBC, Britain, EastEnders, High Court, Middle East, Top Gear_
 
 ## [Previous Day...](/news/2009/10/1/index.md)

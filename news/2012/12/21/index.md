@@ -1,12 +1,12 @@
 ## [2012-12-21](/news/2012/12/21/index.md)
 
-### [2012 Egyptian protests:Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-pclashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
+### [2012 Egyptian protests:. Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
 _Context: 2012 Egyptian protests, Alexandria, Egypt, constitutional referendum_
 
-### [2012 terrorist attacks in Kenya:At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/2012-terrorist-attacks-in-kenya-pat-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
+### [2012 terrorist attacks in Kenya:. At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/2012-terrorist-attacks-in-kenya-at-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
 At least 39 people have been killed in fresh clashes between rival communities in southern Kenya, police say, stoking fears of election violence.
 
-### [United Nations Flight 544 shootdown:A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-pa-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down-a.md)
+### [United Nations Flight 544 shootdown:. A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down.md)
 The UN says a helicopter from its peacekeeping mission has been shot down by the South Sudan army, killing all four crew, believed to be Russians.
 
 ### [The Mesoamerican Long Count calendar reaches the date 13.0.0.0.0, associated with various doomsday myths. ](/news/2012/12/21/the-mesoamerican-long-count-calendar-reaches-the-date-13-0-0-0-0-associated-with-various-doomsday-myths.md)
@@ -30,7 +30,7 @@ Ministry of Defence has spent $22.7m settling claims from 205 Iraqis who alleged
 ### [A shooting at a highway in Blair County, Pennsylvania kills three people and wounds three others. The gunman was killed in a shootout with police, and among the casualties were state troopers. ](/news/2012/12/21/a-shooting-at-a-highway-in-blair-county-pennsylvania-kills-three-people-and-wounds-three-others-the-gunman-was-killed-in-a-shootout-with-p.md)
 _Context: Blair County, Pennsylvania, Pennsylvania State Police, police, shootout_
 
-### [Steve Jobs' PS85m high-tech yacht ''Venus'' is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-aps85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md)
+### [Steve Jobs' GBP85m high-tech yacht "Venus" is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-agbp85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md)
 _Context: Philippe Starck, Port of Amsterdam, Steve Jobs, Venus, high-tech, yacht_
 
 ### [U.S. President Barack Obama nominates John Kerry to succeed Hillary Clinton as Secretary of State. ](/news/2012/12/21/u-s-president-barack-obama-nominates-john-kerry-to-succeed-hillary-clinton-as-secretary-of-state.md)
@@ -54,7 +54,7 @@ _Context: Deputy Prime Minister of the Netherlands, Els Borst, Herman Tjeenk Wil
 ### [After detailed study of the Sutter's Mill meteorite found in California on 22 April 2012, scientists report it contains some of the oldest material in the Solar System. ](/news/2012/12/21/after-detailed-study-of-the-sutter-s-mill-meteorite-found-in-california-on-22-april-2012-scientists-report-it-contains-some-of-the-oldest-m.md)
 One of the fastest and rarest ever. ;
 
-### [Expedition 34 Flight Engineers Tom Marshburn, Roman Romanenko and Chris Hadfield dock their Soyuz TMA-07M spacecraft to the International Space Station's Rassvet module. ](/news/2012/12/21/expedition-34-flight-engineers-tom-marshburn-roman-romanenko-and-chris-hadfield-dock-their-soyuz-tma-07m-spacecraft-to-the-international-sp.md)
+### [Expedition 34 Flight Engineers Tom Marshburn, Roman Romanenko and Chris Hadfield dock their Soyuz TMA-07M spacecraft to the International Space Station-s Rassvet module. ](/news/2012/12/21/expedition-34-flight-engineers-tom-marshburn-roman-romanenko-and-chris-hadfield-dock-their-soyuz-tma-07m-spacecraft-to-the-international-sp.md)
 Three new Expedition 34 crew members were welcomed aboard the station after the hatches between the vehicles were opened at 11:37 a.m. EST Friday.
 
 ### [MIT researchers discover that Herbertsmithite exhibits a quantum spin liquid behavior, a new kind of magnetism. ](/news/2012/12/21/mit-researchers-discover-that-herbertsmithite-exhibits-a-quantum-spin-liquid-behavior-a-new-kind-of-magnetism.md)

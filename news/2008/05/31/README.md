@@ -6,7 +6,7 @@ _Context: 100 metres, Icahn Stadium, Jamaica, New York City, Reebok Grand Prix, 
 ### [ In rugby union, the Crusaders defeat the New South Wales Waratahs in the 2008 Super 14 Final. ](/news/2008/05/31/in-rugby-union-the-crusaders-defeat-the-new-south-wales-waratahs-in-the-2008-super-14-final.md)
 _Context: 2008 Super 14 Final, Crusaders, New South Wales Waratahs, rugby union_
 
-### [ China: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-p-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md)
+### [ China:. Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md)
 Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 
 ### [ STS-124 is launched with a crew of seven and the main module of the Japanese laboratory Kibo. ](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.md)
@@ -34,12 +34,12 @@ _Context: Cyclone Nargis, Myanmar, Robert Gates, Secretary of Defense_
 _Context: Afghanistan's, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_
 
 ### [ Thai riot police assemble in Bangkok to disperse a rally led by the People's Alliance for Democracy against the government of the Prime Minister of Thailand Samak Sundaravej. ](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.md)
-_Context: Bangkok, Prime Minister of Thailand, Samak Sundaravej, Thailand, yellow shirt_
+_Context: Bangkok, Prime Minister, Samak Sundaravej, Thailand, yellow shirt_
 
 ### [ The government of Guinea starts paying junior officers of the Military of Guinea back pay in an attempt to end a five day mutiny. ](/news/2008/05/31/the-government-of-guinea-starts-paying-junior-officers-of-the-military-of-guinea-back-pay-in-an-attempt-to-end-a-five-day-mutiny.md)
 _Context: Guinea, Guinean military_
 
-### [ World Health Organization calls for complete  ban on tobacco advertising; the organization says recent studies prove the more young people are exposed to tobacco advertising, the more likely they are to start smoking. The call comes as part of the WHO's annual World No Tobacco Day. ](/news/2008/05/31/world-health-organization-calls-for-complete-ban-on-tobacco-advertising-the-organization-says-recent-studies-prove-the-more-young-people.md)
+### [ World Health Organization calls for complete ban on tobacco advertising; the organization says recent studies prove the more young people are exposed to tobacco advertising, the more likely they are to start smoking. The call comes as part of the WHO's annual World No Tobacco Day. ](/news/2008/05/31/world-health-organization-calls-for-complete-ban-on-tobacco-advertising-the-organization-says-recent-studies-prove-the-more-young-people-a.md)
 _Context:  ban on tobacco advertising, World Health Organization, World No Tobacco Day, smoking_
 
 ## [Previous Day...](/news/2008/05/30/index.md)

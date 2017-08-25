@@ -6,7 +6,7 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
 _Context: Gaza flotilla raid, Israel, Turkey, United Nations_
 
-### [An antiques dealer is imprisoned for handling a copy of the ''First Folio'' by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-ac.md)
+### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
 _Context: First Folio, William Shakespeare_
 
 ### [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md)
@@ -21,7 +21,7 @@ _Context: Nigel, Gauteng, South Africa_
 ### [Eleven people are killed and four survive after a passenger plane crashes in Russia's Krasnoyarsk territory. ](/news/2010/08/2/eleven-people-are-killed-and-four-survive-after-a-passenger-plane-crashes-in-russia-s-krasnoyarsk-territory.md)
 At least 15 people inlcuding 5 crew of a Russian Antonov An-24 aircraft are feared killed in a Siberian town, even as massive relief and rescue operations have been launched to search for the survivors. 
 
-### [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the ''Deepwater Horizon'' oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-g.md)
+### [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the "Deepwater Horizon" oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.md)
 Nearly five million barrels of oil have gushed from BP’s well, federal scientists said, announcing the most precise estimates yet of the flow. The number would make this the biggest known oil spill.
 
 ### [At least 33 people drown after a boat capsizes on Lake Albert in Uganda. ](/news/2010/08/2/at-least-33-people-drown-after-a-boat-capsizes-on-lake-albert-in-uganda.md)
@@ -45,7 +45,7 @@ Politicians in Nepal fail for a third time to elect a new prime minister after b
 ### [Several people are killed during protests in Indian-administered Kashmir after the worst anti-government violence in two years. ](/news/2010/08/2/several-people-are-killed-during-protests-in-indian-administered-kashmir-after-the-worst-anti-government-violence-in-two-years.md)
 Seven civilians died in continuing violence in the Kashmir Valley on Monday as thousands of people defied curfew at several places. At least 50 people were injured. Mobs set on fire several government
 
-### [A Greek truck drivers strike ends with the situation expected  to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
+### [A Greek truck drivers strike ends with the situation expected to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
 _Context: Greek, truck driver_
 
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)

@@ -1,6 +1,6 @@
 ### [2016-12-21](/news/2016/12/21/index.md)
 
-# The U.S. Financial Industry Regulatory Authority fines several companies, including Wells Fargo, RBC Capital Markets, and LPL Financial, a combined $14.4 million for record-keeping problems that could  have allowed company and customer documents to be altered. 
+# The U.S. Financial Industry Regulatory Authority fines several companies, including Wells Fargo, RBC Capital Markets, and LPL Financial, a combined $14.4 million for record-keeping problems that could have allowed company and customer documents to be altered. 
 
 The Financial Industry Regulatory Authority said it fined several Wells Fargo & Co businesses, RBC Capital Markets, LPL Financial and others a combined $14.4 million on Wednesday for record-keeping problems that may have allowed company and customer documents to be altered.
 

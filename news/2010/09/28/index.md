@@ -9,19 +9,19 @@ Palestinian sources say Israel Air Force strike in central Gaza leaves three al-
 ### [A U.S. service member is in custody in connection with the shooting deaths of two other service members and the injury of a third in Iraq. They were assigned to 3rd Infantry Division, Fort Stewart, Georgia. ](/news/2010/09/28/a-u-s-service-member-is-in-custody-in-connection-with-the-shooting-deaths-of-two-other-service-members-and-the-injury-of-a-third-in-iraq-t.md)
 _Context: 3rd Infantry Division, Fort Stewart, Georgia, Iraq_
 
-### [US movie director Arthur Penn best known as the director of ''Bonnie and Clyde'' dies of congestive heart failure in New York City. ](/news/2010/09/28/us-movie-director-arthur-penn-best-known-as-the-director-of-bonnie-and-clyde-dies-of-congestive-heart-failure-in-new-york-city.md)
+### [US movie director Arthur Penn best known as the director of "Bonnie and Clyde" dies of congestive heart failure in New York City. ](/news/2010/09/28/us-movie-director-arthur-penn-best-known-as-the-director-of-bonnie-and-clyde-dies-of-congestive-heart-failure-in-new-york-city.md)
 _Context: Arthur Penn, Bonnie and Clyde, New York City, United States, congestive heart failure, movie director_
 
-### [The business-software giant Oracle files a lawsuit in the U.S. District Court in San Francisco alleging that Micron Technology, a manufacturer of  memory chips, colluded with other manufacturers to fix prices. ](/news/2010/09/28/the-business-software-giant-oracle-files-a-lawsuit-in-the-u-s-district-court-in-san-francisco-alleging-that-micron-technology-a-manufactur.md)
+### [The business-software giant Oracle files a lawsuit in the U.S. District Court in San Francisco alleging that Micron Technology, a manufacturer of memory chips, colluded with other manufacturers to fix prices. ](/news/2010/09/28/the-business-software-giant-oracle-files-a-lawsuit-in-the-u-s-district-court-in-san-francisco-alleging-that-micron-technology-a-manufactur.md)
 Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of computermemory chips, in a continuance of litigation it inherited fromSun Microsystems.
 
 ### [A 4.5 earthquake shakes offshore of Oleron, France, with no reported casualties. ](/news/2010/09/28/a-4-5-earthquake-shakes-offshore-of-ola-c-ron-france-with-no-reported-casualties.md)
 _Context: France, Oleron_
 
-### [300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew.  ](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.md)
+### [300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew. ](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.md)
 A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a number of houses, officials say.
 
-### [The Israeli Navy intercepts the ship ''Irene'' carrying Israeli and Jewish activists bringing foreign aid to the Gaza Strip. ](/news/2010/09/28/the-israeli-navy-intercepts-the-ship-irene-carrying-israeli-and-jewish-activists-bringing-foreign-aid-to-the-gaza-strip.md)
+### [The Israeli Navy intercepts the ship "Irene" carrying Israeli and Jewish activists bringing foreign aid to the Gaza Strip. ](/news/2010/09/28/the-israeli-navy-intercepts-the-ship-irene-carrying-israeli-and-jewish-activists-bringing-foreign-aid-to-the-gaza-strip.md)
 Ship is 20 miles from Gaza coast; activist aboard the boat: 2 Israeli Navy ships have escorted us for half an hour.
 
 ### [A Sikh man is given a life sentence in Vienna, Austria, for murdering Rama Nand, a leader of the Dera Sach Khand sect in 2009; five other Indian-born defendants are given sentences of various lengths. ](/news/2010/09/28/a-sikh-man-is-given-a-life-sentence-in-vienna-austria-for-murdering-rama-nand-a-leader-of-the-dera-sach-khand-sect-in-2009-five-other-in.md)
@@ -45,7 +45,7 @@ _Context: U.S. Appeals Court Judge, United States government, embryonic stem cel
 ### [Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. ](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.md)
 _Context: Boston, Massachusetts, Mattapan, shooting spree_
 
-### [43rd Australian Parliament:The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-pthe-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-electi.md)
+### [43rd Australian Parliament:. The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md)
 A traditional smoking ceremony welcomed politicians to Canberra ahead of the official opening of Australia&#039;s 43rd Parliament.
 
 ### [The Workers' Party of Korea conference begins in Pyongyang, North Korea. ](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.md)
@@ -57,7 +57,7 @@ _Context: Dmitry Medvedev, Mayor of Moscow, Russian President Vladimir Putin, Vl
 ### [Ed Miliband, the new leader of the UK's Labour Party, makes his first major speech at the party's Annual Conference in Manchester telling delegates that his "new generation" will return the party to power. ](/news/2010/09/28/ed-miliband-the-new-leader-of-the-uk-s-labour-party-makes-his-first-major-speech-at-the-party-s-annual-conference-in-manchester-telling-de.md)
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.
 
-### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md)
+### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008-2012-icelandic-financial-crisis-against-form.md)
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, Landsdomur, parliament (Althing)_
 
 ## [Previous Day...](/news/2010/09/27/index.md)

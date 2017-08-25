@@ -34,7 +34,7 @@ _Context: Amado Boudou, Cristina Kirchner, President of Argentina, subdural hema
 ### [The Nobel Prize in Chemistry is awarded to Martin Karplus, Michael Levitt and Arieh Warshel for their work on multiscale models for complex chemical systems. ](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.md)
 The Nobel Prize in chemistry has been awarded to three scientists who &quot;took the chemical experiment into cyberspace&quot;.
 
-### [''Juno'' flies by Earth on its way to orbit Jupiter, but suffers a glitch during the fly-by that puts it in safe mode. ](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.md)
+### ["Juno" flies by Earth on its way to orbit Jupiter, but suffers a glitch during the fly-by that puts it in safe mode. ](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.md)
  A NASA spacecraft bound for Jupiter went into a precautionary safe mode today (Oct. 9), shortly after completing a speed-boosting flyby of Earth.
 
 ## [Previous Day...](/news/2013/10/8/index.md)

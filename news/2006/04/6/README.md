@@ -15,7 +15,7 @@ _Context: Hill of the Star, Mexico City, Pyramid_
 ### [ Orthodox Jews in Boro Park in New York City continue to protest after a 75-year-old Hasidic man was beaten and arrested by police for talking on a cell phone while driving. NYPD Chief Joseph Esposito allegedly cursed out the protestors in anti-Semitic terms, resulting in condemnations and calls for him to step down. ](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.md)
 _Context: Boro Park, Joseph Esposito, New York City Police Department, Orthodox Jews_
 
-### [ Palaeontologists announce the discovery of the ''Tiktaalik'' genus, an important fossil link between fish and land animals. ](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.md)
+### [ Palaeontologists announce the discovery of the "Tiktaalik" genus, an important fossil link between fish and land animals. ](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.md)
 The 375 million-year-old fish fossil exhibits changes that anticipate the emergence of land animals. 
 
 ### [ Israeli police arrest and release Khaled Abu Arafa, minister of Jerusalem affairs in the new Hamas-led government of the Palestinian Authority. ](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.md)

@@ -3,7 +3,7 @@
 ### [ Xbox 360 was released in Australia and New Zealand.](/news/2006/03/23/xbox-360-was-released-in-australia-and-new-zealand.md)
 _Context: Xbox 360_
 
-### [ French youths set fire to cars and loot shops in Paris during protests against the ''contrat premire embauche'' law that Prime Minister Dominique de Villepin had agreed to discuss with unions. ](/news/2006/03/23/french-youths-set-fire-to-cars-and-loot-shops-in-paris-during-protests-against-the-contrat-premiere-embauche-law-that-prime-minister-do.md)
+### [ French youths set fire to cars and loot shops in Paris during protests against the "contrat premire embauche" law that Prime Minister Dominique de Villepin had agreed to discuss with unions. ](/news/2006/03/23/french-youths-set-fire-to-cars-and-loot-shops-in-paris-during-protests-against-the-contrat-premiere-embauche-law-that-prime-minister-domi.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Adwaitya, a tortoise that once belonged to British colonial Lord Clive in the 18th Century has died at the age of 250 in a zoo in Calcutta. ](/news/2006/03/23/adwaitya-a-tortoise-that-once-belonged-to-british-colonial-lord-clive-in-the-18th-century-has-died-at-the-age-of-250-in-a-zoo-in-calcutta.md)

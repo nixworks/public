@@ -1,6 +1,6 @@
 ### [2000-11-2](/news/2000/11/2/index.md)
 
-# A mutiny takes place at the Queen Elizabeth Barracks in Suva, Fiji.  Four soldiers are killed.
+# A mutiny takes place at the Queen Elizabeth Barracks in Suva, Fiji. Four soldiers are killed.
 
 
 

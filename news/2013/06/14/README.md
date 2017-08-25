@@ -1,6 +1,6 @@
 ## [2013-06-14](/news/2013/06/14/index.md)
 
-### [Syrian civil war:The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-pthe-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemic.md)
+### [Syrian civil war:. The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemi.md)
 _Context: Syrian Civil War, United States_
 
 ### [A search and rescue operation gets underway after a Roll-on/roll-off ferry carrying about 60 people capsizes off the island of Burias in the Philippines Masbate province. So far 34 people have been rescued and at least one death confirmed. ](/news/2013/06/14/a-search-and-rescue-operation-gets-underway-after-a-roll-on-roll-off-ferry-carrying-about-60-people-capsizes-off-the-island-of-burias-in-the.md)
@@ -21,7 +21,7 @@ Malcolm Naden said he wanted a life sentence, and now the notorious double murde
 ### [Won Sei-hoon, former head of South Korea's National Intelligence Service is indicted on charges of interfering in last year's presidential election. ](/news/2013/06/14/won-sei-hoon-former-head-of-south-korea-s-national-intelligence-service-is-indicted-on-charges-of-interfering-in-last-year-s-presidential-e.md)
 _Context: South Korea, South Korea's intelligence agency, Won Sei-hoon, indicted, presidential election_
 
-### [Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer,  who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. ](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.md)
+### [Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer, who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. ](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.md)
 _Context: Nashville, Tennessee_
 
 ### [U.S. Army Judge Colonel Tara Osborn rules that the Fort Hood Massacre gunman Nidal Malik Hassan cannot claim as a part of his defense that he was defending the Taliban. ](/news/2013/06/14/u-s-army-judge-colonel-tara-osborn-rules-that-the-fort-hood-massacre-gunman-nidal-malik-hassan-cannot-claim-as-a-part-of-his-defense-that-h.md)
@@ -33,7 +33,7 @@ _Context: Newtown, Connecticut, Sandy Hook massacre_
 ### [Charla Nash, 59, of Stamford, Connecticut, is told she cannot sue the state and its Dept. of Energy for $150 million, after being blinded for life and receiving a full face transplant after receiving a brutal mauling by Travis, an escaped chimpanzee. ](/news/2013/06/14/charla-nash-59-of-stamford-connecticut-is-told-she-cannot-sue-the-state-and-its-dept-of-energy-for-150-million-after-being-blinded-fo.md)
 _Context: Charla Nash, Stamford, Connecticut, Travis_
 
-### [Iranian general election:Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-pvoters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)
+### [Iranian general election:. Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)
 IRAN-ELECTION/RESULTS:Rohani tops early Iran election results -interior minister
 
 ### [The Airbus A350 XWB makes its maiden flight from Toulouse-Blagnac Airport. ](/news/2013/06/14/the-airbus-a350-xwb-makes-its-maiden-flight-from-toulouse-blagnac-airport.md)

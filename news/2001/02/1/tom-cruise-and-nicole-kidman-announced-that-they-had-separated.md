@@ -7,4 +7,4 @@
 
 ### Related:
 
-1. [''People'' magazine reports that American actors Tom Cruise and Katie Holmes have announced they will be getting a divorce after five years of marriage. ](/news/2012/06/29/people-magazine-reports-that-american-actors-tom-cruise-and-katie-holmes-have-announced-they-will-be-getting-a-divorce-after-five-years.md) _Context: Tom Cruise_
+1. ["People" magazine reports that American actors Tom Cruise and Katie Holmes have announced they will be getting a divorce after five years of marriage. ](/news/2012/06/29/people-magazine-reports-that-american-actors-tom-cruise-and-katie-holmes-have-announced-they-will-be-getting-a-divorce-after-five-years-of.md) _Context: Tom Cruise_

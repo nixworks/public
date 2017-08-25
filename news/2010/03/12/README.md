@@ -6,10 +6,10 @@ _Context: 2010 Indian Premier League, DY Patil Stadium, Navi Mumbai_
 ### [Madagascar's disaster officials say at least 14 people have died and 32,000 have been affected by Tropical Storm Hubert. ](/news/2010/03/12/madagascar-s-disaster-officials-say-at-least-14-people-have-died-and-32-000-have-been-affected-by-tropical-storm-hubert.md)
 _Context: Madagascar, Tropical Storm Hubert_
 
-### [Nine suicide bombing attacks on the Pakistani military kill more than 350 people in Lahore.  ](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.md)
+### [Nine suicide bombing attacks on the Pakistani military kill more than 350 people in Lahore. ](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.md)
 Twin suicide attacks have targeted the Pakistani military, killing 45 people in the second attack to hit the country&#039;s cultural capital, Lahore.
 
-### [Middle East:Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-pisrael-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sout.md)
+### [Middle East:. Israel fires its first missiles into Gaza this month injuring several civilians, following a rocket attack on a kibbutz in southern Israel which causes damage but no injuries.](/news/2010/03/12/middle-east-israel-fires-its-first-missiles-into-gaza-this-month-injuring-several-civilians-following-a-rocket-attack-on-a-kibbutz-in-sou.md)
 In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smuggling tunnel, weapons lab in southern Strip. Gaza eyewitnesses tell AFP several people injured
 
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)

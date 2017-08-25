@@ -1,0 +1,23 @@
+### [2016-09-6](/news/2016/09/6/index.md)
+
+# Iraqi Civil War (2014-present). The Islamic State of Iraq and the Levant bans burqas in northern Iraq after a series of fatal attacks on its members by veiled women. 
+
+The group has made a U-turn on its burka stance following reports of a veiled woman targeting fighters.
+
+
+### Source:
+
+1. [International Business Times](https://amp.ibtimes.co.uk/islamic-state-bans-burka-northern-iraq-after-veiled-woman-kills-2-jihadists-1579804)
+
+### Related:
+
+1. [Iraqi Civil War (2014-present). A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/iraqi-civil-war-2014-present-a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+2. [Iraqi Civil War (2014-present). According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. ](/news/2017/04/5/iraqi-civil-war-2014-present-according-to-security-sources-dozens-of-people-are-killed-in-an-overnight-attack-in-tikrit-by-suspected-i.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+3. [Iraqi Civil War (2014-present). The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/iraqi-civil-war-2014-present-the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+4. [Iraqi Civil War (2014-present). A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/iraqi-civil-war-2014-present-a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-respon.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+5. [Iraqi Civil War (2014-present). Battle of Mosul (2016-17). The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/iraqi-civil-war-2014-present-battle-of-mosul-2016-17-the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-followin.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+6. [Iraqi Civil War (2014-present). November 2016 Hillah suicide truck bombing. At least 80 Shia pilgrims are killed in a truck bomb attack in Iraq. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/24/iraqi-civil-war-2014-present-november-2016-hillah-suicide-truck-bombing-at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+7. [ Iraqi Civil War (2014-present). Battle of Mosul (2016). The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+8. [Iraqi Civil War (2014-present). ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/iraqi-civil-war-2014-present-isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+9. [Iraqi Civil War (2014-present). Battle of Mosul (2016). The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/iraqi-civil-war-2014-present-battle-of-mosul-2016-the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
+10. [Iraqi Civil War (2014-present). ISIL militants launch attacks on government buildings, police stations, and a power station in the city of Kirkuk, Iraqi Kurdistan, killing dozens of people. ](/news/2016/10/21/iraqi-civil-war-2014-present-isil-militants-launch-attacks-on-government-buildings-police-stations-and-a-power-station-in-the-city-of.md) _Context: Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_

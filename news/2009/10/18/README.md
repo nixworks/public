@@ -15,8 +15,8 @@ A Rwandan doctor working at a hospital in northern France is suspected of being 
 ### [ At least 60 Taliban militants are killed in an ongoing offensive in South Waziristan, northwest Pakistan. ](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.md)
 _Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
 
-### [ Jenson Button wins the 2009 Formula One World Championship in Interlagos, Sao Paulo, Brazil, by finishing fifth in the 2009 Brazilian Grand Prix.](/news/2009/10/18/jenson-button-wins-the-2009-formula-one-world-championship-in-interlagos-sapso-paulo-brazil-by-finishing-fifth-in-the-2009-brazilian-gran.md)
-_Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, Sao Paulo_
+### [ Jenson Button wins the 2009 Formula One World Championship in Interlagos, SGBPo Paulo, Brazil, by finishing fifth in the 2009 Brazilian Grand Prix.](/news/2009/10/18/jenson-button-wins-the-2009-formula-one-world-championship-in-interlagos-sagbpo-paulo-brazil-by-finishing-fifth-in-the-2009-brazilian-gr.md)
+_Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, SGBPo Paulo_
 
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
 _Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
@@ -30,10 +30,10 @@ State of emergency declared in Queensland where homes have been destroyed.
 ### [ Eight people are jailed in Hubei, China, for "disrupting public order" after 10,000 people participated in riots following the controversial death of a chef in June. ](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.md)
 _Context: China, Hubei_
 
-### [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md)
+### [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md)
 Scotland Yard has said that it has received a complaint about an article written by a newspaper columnist about the death of Stephen Gately.
 
-### [ 2009 Pishin bombing: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-p-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md)
+### [ 2009 Pishin bombing:. Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
 
 ### [ Seven people are killed and 20 injured after gunmen open fire in a bar in Puerto Rico. ](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.md)

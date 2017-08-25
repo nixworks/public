@@ -9,7 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ A 6.9 magnitude earthquake strikes Sumatra in Indonesia. ](/news/2005/05/14/a-6-9-magnitude-earthquake-strikes-sumatra-in-indonesia.md)
 _Context: Indonesia, Richter scale, Sumatra, earthquake_
 
-### [ Unrest In Uzbekistan: Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-p-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md)
+### [ Unrest In Uzbekistan:. Thousands of protesters reappear on the streets of Andijan in Uzbekistan despite Friday's heavy bloodshed. ](/news/2005/05/14/unrest-in-uzbekistan-thousands-of-protesters-reappear-on-the-streets-of-andijan-in-uzbekistan-despite-friday-s-heavy-bloodshed.md)
 _Context: Andijan, Uzbekistan, unrest_
 
 ### [ In Taiwan, despite a low voter turnout, the Pan-Green Coalition wins the National Assembly election, with 49.6 % of the votes and 149 seats out of the 300 in the National Assembly of the Republic of China. ](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.md)

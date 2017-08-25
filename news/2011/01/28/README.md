@@ -1,6 +1,6 @@
 ## [2011-01-28](/news/2011/01/28/index.md)
 
-### [2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-pafter-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-a.md)
+### [2011 Egyptian protests:. After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md)
 Egypt goes off the digital map as authorities unplug the country entirely from the internet ahead of protests.
 
 ### [Thousands of people take to the streets of Jordan for the third consecutive Friday of protests over inflation, unemployment and rising prices, amid demands for the resignation of Prime Minister Samir Rifai. ](/news/2011/01/28/thousands-of-people-take-to-the-streets-of-jordan-for-the-third-consecutive-friday-of-protests-over-inflation-unemployment-and-rising-price.md)
@@ -24,10 +24,10 @@ Incident comes only a day after police confirmed Palestinian reports saying that
 ### [8 people are killed in a suicide attack at a Finest supermarket near the British embassy in the wealthy Wazir Akbar Khan suburb of Kabul. ](/news/2011/01/28/8-people-are-killed-in-a-suicide-attack-at-a-finest-supermarket-near-the-british-embassy-in-the-wealthy-wazir-akbar-khan-suburb-of-kabul.md)
 Eight people have died in a suicide attack at a supermarket popular with foreigners in the Afghan capital Kabul, officials say.
 
-### [The German film agency FSK (Voluntary Self-Regulation of the Movie Industry) permits the showing of the reportedly anti-Israel and anti-Semitic Turkish film, ''Valley of the Wolves: Palestine'', with an over 18 age restriction, saying it contains "propaganda tendencies" and "repetitive violence." The film, based on events surrounding last May's Gaza flotilla raid, has opened in cinemas in Turkey and Austria. ](/news/2011/01/28/the-german-film-agency-fsk-voluntary-self-regulation-of-the-movie-industry-permits-the-showing-of-the-reportedly-anti-israel-and-anti-semi.md)
+### [The German film agency FSK (Voluntary Self-Regulation of the Movie Industry) permits the showing of the reportedly anti-Israel and anti-Semitic Turkish film, "Valley of the Wolves: Palestine", with an over 18 age restriction, saying it contains -propaganda tendencies- and -repetitive violence.- The film, based on events surrounding last May's Gaza flotilla raid, has opened in cinemas in Turkey and Austria. ](/news/2011/01/28/the-german-film-agency-fsk-voluntary-self-regulation-of-the-movie-industry-permits-the-showing-of-the-reportedly-anti-israel-and-anti-semi.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [A 450-year-old ''Madonna and Child'' work sells for $16.9 million at Sotheby's in New York, a new auction record for Titian. ](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.md)
+### [A 450-year-old "Madonna and Child" work sells for $16.9 million at Sotheby's in New York, a new auction record for Titian. ](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.md)
 A 450-year-old Madonna and Child painting by Titian sells for $16.9m (£10.7m), setting a new auction record for the Renaissance master.
 
 ### [Japan's national credit rating is dropped to AA- by Standard & Poor's. ](/news/2011/01/28/japan-s-national-credit-rating-is-dropped-to-aa-by-standard-poor-s.md)
@@ -42,7 +42,7 @@ A fire on a crowded Indonesian ferry and a collision between two passenger train
 ### [President of Brazil Dilma Rousseff, speaking at a joint press conference with Rio de Janeiro state governor Sergio Cabral, vows to build 8,000 houses to be given free to people made homeless by the recent floods and landslides in Rio de Janeiro state. ](/news/2011/01/28/president-of-brazil-dilma-rousseff-speaking-at-a-joint-press-conference-with-rio-de-janeiro-state-governor-sa-c-rgio-cabral-vows-to-build-8.md)
 Brazil says it will build 8,000 free houses for people made homeless by floods and landslides in Rio de Janeiro state.
 
-### [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle ''Challenger'' disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle.md)
+### [Hundreds of people attend an event at Kennedy Space Center in the U.S. state of Florida to mark the 25th anniversary of the Space Shuttle "Challenger" disaster. ](/news/2011/01/28/hundreds-of-people-attend-an-event-at-kennedy-space-center-in-the-u-s-state-of-florida-to-mark-the-25th-anniversary-of-the-space-shuttle-c.md)
 Nasa officials gather at Kennedy Space Center in Florida to mark the 25th anniversary of the explosion of space shuttle Challenger.
 
 ### [At least 11 passengers of the Lautan Teduh ferry, which caught fire in the Sunda Strait, have been confirmed dead. The remains of nine of the passengers who died in the fire were taken to Krakatau Medika in Cilegon, while the other two were taken to Kalianda Hospital in Lampung. ](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.md)
@@ -51,10 +51,10 @@ _Context: Cilegon, Kalianda Hospital, Krakatau Medika, Lampung, Lautan Teduh, Su
 ### [Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. ](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.md)
 _Context: Jeddah_
 
-### [Murder of David Kato:The funeral is held in a village near Kampala for David Kato, a gay rights activist in Uganda. He was recently murdered after successfully suing ''Rolling Stone'' for naming him as gay on its front cover, and had been receiving death threats. A pastor causes controversy by preaching for homosexuals to repent but is swiftly taken away.  ](/news/2011/01/28/murder-of-david-kato-pthe-funeral-is-held-in-a-village-near-kampala-for-david-kato-a-gay-rights-activist-in-uganda-he-was-recently-murdere.md)
+### [Murder of David Kato:. The funeral is held in a village near Kampala for David Kato, a gay rights activist in Uganda. He was recently murdered after successfully suing "Rolling Stone" for naming him as gay on its front cover, and had been receiving death threats. A pastor causes controversy by preaching for homosexuals to repent but is swiftly taken away. ](/news/2011/01/28/murder-of-david-kato-the-funeral-is-held-in-a-village-near-kampala-for-david-kato-a-gay-rights-activist-in-uganda-he-was-recently-murder.md)
 A Ugandan priest is escorted away by police after telling homosexuals to repent at the funeral of gay rights activist David Kato, killed earlier this week.
 
-### [''The Daily Telegraph'' reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. ](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.md)
+### ["The Daily Telegraph" reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. ](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.md)
 _Context: Daily Telegraph, Protesters_
 
 ### [Turkey's foreign minister Ahmet Davutoglu expresses concerns that Israel's report into its own commando operation resulting in the Gaza flotilla raid is "neither credible nor unbiased", he tells a news conference before departing for Montenegro. ](/news/2011/01/28/turkey-s-foreign-minister-ahmet-davutoalu-expresses-concerns-that-israel-s-report-into-its-own-commando-operation-resulting-in-the-gaza-flo.md)
@@ -72,7 +72,7 @@ A US consular employee admits shooting dead two motorcyclists on a busy street i
 ### [Rwandan rebel leader Callixte Mbarushimana appears before war crimes judges in The Hague. He denies any involvement in the charges laid against him. ](/news/2011/01/28/rwandan-rebel-leader-callixte-mbarushimana-appears-before-war-crimes-judges-in-the-hague-he-denies-any-involvement-in-the-charges-laid-agai.md)
 A Rwandan Hutu rebel leader faces the International Criminal Court for the first time, accused of &quot;spreading terror&quot; in DR Congo.
 
-### [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court ''in absentia'' for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-traini.md)
+### [Colombia asks Israel to extradite former Israeli army Lt. Col. Yair Klein, who was convicted by a Colombian court "in absentia" for training drug lords' assassins in the 1980s. ](/news/2011/01/28/colombia-asks-israel-to-extradite-former-israeli-army-lt-col-yair-klein-who-was-convicted-by-a-colombian-court-in-absentia-for-training.md)
 Former IDF officer was sentenced in absentia to 11 years in prison for training illegal paramilitary groups.
 
 ### [Guillermo Farinas, known for his hunger strike campaigns, is detained by authorities for the second time in as many days. He is being held in the Cuban city of Santa Clara. ](/news/2011/01/28/guillermo-faria-as-known-for-his-hunger-strike-campaigns-is-detained-by-authorities-for-the-second-time-in-as-many-days-he-is-being-held.md)

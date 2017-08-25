@@ -3,7 +3,7 @@
 ### [ The Episcopal Church of the United States votes to overturn a three-year ban on the appointment of gay bishops. ](/news/2009/07/15/the-episcopal-church-of-the-united-states-votes-to-overturn-a-three-year-ban-on-the-appointment-of-gay-bishops.md)
 _Context: Episcopal Church of the United States_
 
-### [ The Catholic Church praises ''Harry Potter and the Half-Blood Prince'' after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the.md)
+### [ The Catholic Church praises "Harry Potter and the Half-Blood Prince" after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the-oc.md)
 _Context: Catholic Church, Harry Potter and the Half-Blood Prince_
 
 ### [ Caspian Airlines Flight 7908, flying from Tehran to Yerevan, Armenia with 153 passengers and 15 crew members on board, crashes in Iran shortly after takeoff. ](/news/2009/07/15/caspian-airlines-flight-7908-flying-from-tehran-to-yerevan-armenia-with-153-passengers-and-15-crew-members-on-board-crashes-in-iran-shor.md)
@@ -30,7 +30,7 @@ _Context: Israel's assault in Gaza, rules of engagement_
 ### [ Two people are killed and five are injured in the explosion at a Total petrochemicals plant in Carling, France. ](/news/2009/07/15/two-people-are-killed-and-five-are-injured-in-the-explosion-at-a-total-petrochemicals-plant-in-carling-france.md)
 An explosion at a Total petrochemicals plant in France has killed two people, injured five and left others buried under rubble.
 
-### [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper ''The Post'', is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-hea.md)
+### [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper "The Post", is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-healt.md)
 _Context: Chansa Kabwela, The Post, Zambia_
 
 ### [ The British government opts not to end the Common Travel Area between the United Kingdom and Ireland. ](/news/2009/07/15/the-british-government-opts-not-to-end-the-common-travel-area-between-the-united-kingdom-and-ireland.md)

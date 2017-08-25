@@ -27,7 +27,7 @@ _Context: Cameroon, Nigeria, Oron, Tiko_
 ### [ Germany beat Poland 29:24 in the final of the 2007 World Men's Handball Championship, becoming the new world champion in team handball. ](/news/2007/02/4/germany-beat-poland-29-24-in-the-final-of-the-2007-world-men-s-handball-championship-becoming-the-new-world-champion-in-team-handball.md)
 _Context: 2007 World Men's Handball Championship, Germany, Poland, handball_
 
-### [ American football: The AFC champion Indianapolis Colts defeat the NFC champion Chicago Bears 29-17 in Super Bowl XLI, claiming their first Super Bowl victory since winning Super Bowl V in 1971.  ](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.md)
+### [ American football: The AFC champion Indianapolis Colts defeat the NFC champion Chicago Bears 29-17 in Super Bowl XLI, claiming their first Super Bowl victory since winning Super Bowl V in 1971. ](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.md)
 _Context: AFC, American football, Chicago Bears, Indianapolis Colts, NFC, Super Bowl V, Super Bowl XLI_
 
 ## [Previous Day...](/news/2007/02/3/index.md)

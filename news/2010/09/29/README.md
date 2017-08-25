@@ -6,7 +6,7 @@ Russian forces report killing 14 rebels in the North Caucasus region of Dagestan
 ### [Comedian Greg Giraldo dies at the age of 44 in a New Brunswick, New Jersey, hospital after an accidental drug overdose four days ago. ](/news/2010/09/29/comedian-greg-giraldo-dies-at-the-age-of-44-in-a-new-brunswick-new-jersey-hospital-after-an-accidental-drug-overdose-four-days-ago.md)
 Get the latest news on celebrity scandals, engagements, and divorces! Check out our breaking stories on Hollywood?s hottest stars!
 
-### [Protests and strikes across Europe:Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-ptens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gover.md)
+### [Protests and strikes across Europe:. Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gove.md)
 Tens of thousands take to the streets of Brussels and other European cities in a day of protests against austerity measures, as a general strike grips Spain.
 
 ### [The United States House of Representatives approves legislation that would lead to trade sanctions against China, which is accused of undervaluing the yuan. ](/news/2010/09/29/the-united-states-house-of-representatives-approves-legislation-that-would-lead-to-trade-sanctions-against-china-which-is-accused-of-underv.md)
@@ -30,7 +30,7 @@ _Context: North Korea, South Korea_
 ### [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md)
 _Context: European Commission, European Union, France, Roma, freedom of movement_
 
-### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign  battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-c.md)
+### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-co.md)
 The Federal Government says it is hoping to resolve a dispute that is threatening a planned survey of Gallilopi battlefields in Turkey.
 
 ### [Ten prisoners die in a fight between rival gangs at a prison in Aragua, Venezuela. ](/news/2010/09/29/ten-prisoners-die-in-a-fight-between-rival-gangs-at-a-prison-in-aragua-venezuela.md)

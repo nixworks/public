@@ -9,7 +9,7 @@ Appeals court rules that opposition activists, including hunger striker Abdulhad
 ### [Troops loyal to Bosco Ntaganda &ndash; who is wanted by the International Criminal Court &ndash; take two towns in eastern Democratic Republic of the Congo. ](/news/2012/04/30/troops-loyal-to-bosco-ntaganda-ndash-who-is-wanted-by-the-international-criminal-court-ndash-take-two-towns-in-eastern-democratic-republ.md)
 Troops loyal to Bosco Ntaganda, wanted by the International Criminal Court, take control of two towns near Goma in eastern DR Congo after fierce fighting.
 
-### [The as of yet unfinished One World Trade Center becomes the tallest building in New York City, overtaking the Empire State Building.  ](/news/2012/04/30/the-as-of-yet-unfinished-one-world-trade-center-becomes-the-tallest-building-in-new-york-city-overtaking-the-empire-state-building.md)
+### [The as of yet unfinished One World Trade Center becomes the tallest building in New York City, overtaking the Empire State Building. ](/news/2012/04/30/the-as-of-yet-unfinished-one-world-trade-center-becomes-the-tallest-building-in-new-york-city-overtaking-the-empire-state-building.md)
 _Context: Empire State Building, One World Trade Center, tallest building in New York City_
 
 ### [Spain's economy double dips, with a quarter of the population out of work. ](/news/2012/04/30/spain-s-economy-double-dips-with-a-quarter-of-the-population-out-of-work.md)

@@ -3,7 +3,7 @@
 ### [The memoir of George W. Bush reveals his initial belief that he had United Airlines Flight 93 shot down during the September 11 attacks in 2001. ](/news/2010/10/29/the-memoir-of-george-w-bush-reveals-his-initial-belief-that-he-had-united-airlines-flight-93-shot-down-during-the-september-11-attacks-in-2.md)
 _Context: George W. Bush, September 11 attacks, United Airlines Flight 93_
 
-### [Israeli soldiers fire tear gas and sound grenades to shut down rallies across the West Bank held to protest an annexation of land by Israel. The events are attended by Norwegian politicians Torunn Kanutte Husvik and Stine Renate Hheim.  ](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.md)
+### [Israeli soldiers fire tear gas and sound grenades to shut down rallies across the West Bank held to protest an annexation of land by Israel. The events are attended by Norwegian politicians Torunn Kanutte Husvik and Stine Renate Hheim. ](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.md)
 _Context: West Bank_
 
 ### [Israeli crossings authorities shut Gaza for the weekend. ](/news/2010/10/29/israeli-crossings-authorities-shut-gaza-for-the-weekend.md)
@@ -39,10 +39,10 @@ Nato says it will halve its force in Kosovo to 5,000 soldiers over the next few 
 ### [The death toll from the suicide bombing of a cafe in the Diyala Governorate near Baghdad, Iraq reaches 22. ](/news/2010/10/29/the-death-toll-from-the-suicide-bombing-of-a-cafe-in-the-diyala-governorate-near-baghdad-iraq-reaches-22.md)
 The number of people killed whena suicide bomber attacked an Iraqi cafe northeast of Baghdad onFriday reached 22, with more than 45 injured, a provincialofficial said.
 
-### [Security alert in the United Kingdom and United States:Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/security-alert-in-the-united-kingdom-and-united-states-plaw-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious.md)
+### [Security alert in the United Kingdom and United States:. Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/security-alert-in-the-united-kingdom-and-united-states-law-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious.md)
 A &quot;suspicious object&quot; found to contain explosives at East Midlands Airport was on a plane flying from Yemen to Chicago.
 
-### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of ''The Hobbit'' film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
+### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of "The Hobbit" film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
 _Context: ''The Hobbit'' film project, Parliament of New Zealand, Warner Bros._
 
 ### [Kings of Leon are announced as headliner of the 30th anniversary of Ireland's Slane Concert, to be held at Slane Castle in May 2011. ](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.md)
@@ -57,7 +57,7 @@ _Context: Japan, Securities and Exchange Surveillance Commission, Tokyo Stock Ex
 ### [TeliaSonera, through its Nepal subsidiary Ncell, announces that a series of eight 3G wireless transmitters have been installed along the trail to base camps on Mount Everest, with coverage reaching the summit. ](/news/2010/10/29/teliasonera-through-its-nepal-subsidiary-ncell-announces-that-a-series-of-eight-3g-wireless-transmitters-have-been-installed-along-the-tra.md)
 _Context: 3G, Mount Everest, Ncell, Nepal, TeliaSonera_
 
-### [British Airways reports a half-year profit of 158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-ps158m-the-first-in-two-years.md)
+### [British Airways reports a half-year profit of GBP158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-gbp158m-the-first-in-two-years.md)
 British Airways reports a profit of £158m, its first in two years, as the company prepares to merge with Iberia of Spain.
 
 ### [German rail operator DB Fernverkehr conducts a test run of their high-speed Intercity-Express train inside the Channel Tunnel, with passengers on board. ](/news/2010/10/29/german-rail-operator-db-fernverkehr-conducts-a-test-run-of-their-high-speed-intercity-express-train-inside-the-channel-tunnel-with-passenge.md)
@@ -66,7 +66,7 @@ _Context: Channel Tunnel, DB Fernverkehr, Germany, Intercity-Express_
 ### [A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. ](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.md)
 Conrad Black faces the prospect of heading back to jail after a U.S. appeal court upheld two of four criminal charges against him.
 
-### [Indonesian tsunamiThe death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunamipthe-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md)
+### [Indonesian tsunami. The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md)
 Bad weather is again obstructing efforts to get aid to the survivors of the Indonesian tsunami as the death toll tops 400.
 
 ### [The death toll from the 2010 Haitian cholera outbreak reaches 300 as new cases are reported nearer the capital Port-au-Prince. ](/news/2010/10/29/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-300-as-new-cases-are-reported-nearer-the-capital-port-au-prince.md)

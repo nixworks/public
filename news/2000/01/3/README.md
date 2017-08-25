@@ -1,6 +1,6 @@
 ## [2000-01-3](/news/2000/01/3/index.md)
 
-### [The final daily original ''Peanuts'' comic strip is published.](/news/2000/01/3/the-final-daily-original-peanuts-comic-strip-is-published.md)
+### [The final daily original "Peanuts" comic strip is published.](/news/2000/01/3/the-final-daily-original-peanuts-comic-strip-is-published.md)
 _Context: Peanuts_
 
 ### [Yahoo! stocks closing at an all-time high of $118.75 a share.](/news/2000/01/3/yahoo-stocks-closing-at-an-all-time-high-of-118-75-a-share.md)

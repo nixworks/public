@@ -1,6 +1,6 @@
 ## [2006-06-18](/news/2006/06/18/index.md)
 
-### [ The ''Washington Post'' reveals that the current United States administration turned down an Iranian attempt to settle disagreements about recognizing the right of existence of Israel and alleged Iranian support of terrorism in 2003. ](/news/2006/06/18/the-washington-post-reveals-that-the-current-united-states-administration-turned-down-an-iranian-attempt-to-settle-disagreements-about.md)
+### [ The "Washington Post" reveals that the current United States administration turned down an Iranian attempt to settle disagreements about recognizing the right of existence of Israel and alleged Iranian support of terrorism in 2003. ](/news/2006/06/18/the-washington-post-reveals-that-the-current-united-states-administration-turned-down-an-iranian-attempt-to-settle-disagreements-about-re.md)
 _Context: 2003, Iran, Israel, United States, Washington Post, terrorism_
 
 ### [ According to an investigative report by Ron Suskind, Al-Qaeda was 45 days from launching a gas attack on the New York City subway when it was called off by Osama bin Laden's second-in-command, Ayman al-Zawahri, in 2003. ](/news/2006/06/18/according-to-an-investigative-report-by-ron-suskind-al-qaeda-was-45-days-from-launching-a-gas-attack-on-the-new-york-city-subway-when-it-w.md)

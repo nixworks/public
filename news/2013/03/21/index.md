@@ -1,18 +1,18 @@
 ## [2013-03-21](/news/2013/03/21/index.md)
 
-### [Gaza-Israel conflict:Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gazaaisrael-conflict-ptwo-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day.md)
+### [Gaza-Israel conflict:. Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/gaza-israel-conflict-two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-da.md)
 _Context: Gaza Strip, Gaza-Israel conflict, Israel, November 2012, Sderot, eight-day conflict, rockets_
 
-### [Terrorism in Pakistan:A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-pa-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md)
+### [Terrorism in Pakistan:. A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/terrorism-in-pakistan-a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up.md)
 At least 15 people are killed in a bombing at the Jalozai refugee camp close to the north-western Pakistani city of Peshawar, officials say.
 
-### [Kurdish-Turkish conflict:Jailed Kurdistan Workers' Party leader Abdullah Ocalan makes historic calls for dialogue with Turkey after almost thirty years of violent conflict. ](/news/2013/03/21/kurdishaturkish-conflict-pjailed-kurdistan-workers-party-leader-abdullah-acalan-makes-historic-calls-for-dialogue-with-turkey-after-almo.md)
+### [Kurdish-Turkish conflict:. Jailed Kurdistan Workers' Party leader Abdullah Ocalan makes historic calls for dialogue with Turkey after almost thirty years of violent conflict. ](/news/2013/03/21/kurdish-turkish-conflict-jailed-kurdistan-workers-party-leader-abdullah-acalan-makes-historic-calls-for-dialogue-with-turkey-after-alm.md)
 Jailed Kurdish rebel leader Abdullah Ocalan calls a truce and urges his fighters to withdraw from Turkey after years of war - a move welcomed by Ankara.
 
-### [Al-Qaeda insurgency in Yemen:Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/al-qaeda-insurgency-in-yemen-pthree-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-gove.md)
+### [Al-Qaeda insurgency in Yemen:. Three members of Ansar al-Sharia and two pro-government militia fighters are killed in an attack in Abyan Governorate. ](/news/2013/03/21/al-qaeda-insurgency-in-yemen-three-members-of-ansar-al-sharia-and-two-pro-government-militia-fighters-are-killed-in-an-attack-in-abyan-gov.md)
 At least five people were killed in Yemen when a pro-government militia attacked al Qaeda-linked Islamist militants on Thursday, residents and militia sources said.
 
-### [Syrian civil war:At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-pat-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md)
+### [Syrian civil war:. At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. ](/news/2013/03/21/syrian-civil-war-at-least-42-people-are-killed-and-84-injured-after-a-reported-suicide-bombing-at-a-damascus-mosque-senior-pro-government.md)
 An explosion at a mosque in the Syrian capital on Thursday killed at least 42 people, including a senior pro-government Muslim cleric, and wounded 84, the Syrian health ministry said.
 
 ### [Nigerian writer and literary icon Chinua Achebe dies at the age of 82. ](/news/2013/03/21/nigerian-writer-and-literary-icon-chinua-achebe-dies-at-the-age-of-82.md)
@@ -42,7 +42,7 @@ SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sen
 ### [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md)
 _Context: Chicago, Illinois, United States, nightclub_
 
-### [Several BBC Twitter accounts are hacked including its Weather, Arabic and  Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md)
+### [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electronic.md)
 The BBC has become the latest victim of Twitter hackers as several of its feeds, including @bbcweather, are taken over by pro-Syrian hackers.
 
 ### [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md)

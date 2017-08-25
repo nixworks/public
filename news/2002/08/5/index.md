@@ -1,6 +1,6 @@
 ## [2002-08-5](/news/2002/08/5/index.md)
 
-### [ ''Recent celebrity deaths:'' Chick Hearn, pro-basketball announcer dies at the age of 85.](/news/2002/08/5/recent-celebrity-deaths-chick-hearn-pro-basketball-announcer-dies-at-the-age-of-85.md)
+### [ "Recent celebrity deaths:" Chick Hearn, pro-basketball announcer dies at the age of 85.](/news/2002/08/5/recent-celebrity-deaths-chick-hearn-pro-basketball-announcer-dies-at-the-age-of-85.md)
 _Context: Chick Hearn, Recent celebrity deaths, basketball_
 
 ### [ Stock market downturn of 2002: U.S. indices continue heavy losses from the previous week and fall by over three percent on the day, NASDAQ falling below its July 23 low.](/news/2002/08/5/stock-market-downturn-of-2002-u-s-indices-continue-heavy-losses-from-the-previous-week-and-fall-by-over-three-percent-on-the-day-nasdaq.md)

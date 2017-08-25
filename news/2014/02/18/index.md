@@ -1,9 +1,9 @@
 ## [2014-02-18](/news/2014/02/18/index.md)
 
-### [2013-14 Thai political crisis:Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013a14-thai-political-crisis-pprotesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-police.md)
+### [2013-14 Thai political crisis:. Protesters and police clash after a crackdown ordered by Prime Minister Yingluck Shinawatra with one policeman shot dead and dozens wounded. ](/news/2014/02/18/2013-14-thai-political-crisis-protesters-and-police-clash-after-a-crackdown-ordered-by-prime-minister-yingluck-shinawatra-with-one-polic.md)
 At least four people are killed and dozens injured in violence that erupted as Thai police began clearing protest sites in the capital, Bangkok.
 
-### [Euromaidan:Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-pviolent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-of.md)
+### [Euromaidan:. Violent clashes between police forces and opposition demonstrators reignite in Kiev, Ukraine. The death toll rises to 14, six of them policemen who were shot dead during the confrontation. ](/news/2014/02/18/euromaidan-violent-clashes-between-police-forces-and-opposition-demonstrators-reignite-in-kiev-ukraine-the-death-toll-rises-to-14-six-o.md)
 At least nine people, including two policemen, are killed during anti-government protests in Kiev, in the worst violence seen in Ukraine in weeks.
 
 ### [A US$1 million vase made by Chinese dissident Ai Wei Wei is destroyed in Miami by a local vandal protesting the lack of exhibits promoting local art. ](/news/2014/02/18/a-us-1-million-vase-made-by-chinese-dissident-ai-wei-wei-is-destroyed-in-miami-by-a-local-vandal-protesting-the-lack-of-exhibits-promoting-l.md)

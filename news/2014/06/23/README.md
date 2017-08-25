@@ -1,27 +1,27 @@
 ## [2014-06-23](/news/2014/06/23/index.md)
 
-### [War in North-West Pakistan:Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-ppakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
+### [War in North-West Pakistan:. Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
 _Context: North Waziristan, Pakistan, War in North-West Pakistan_
 
-### [Arab-Israeli conflict:Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arabaisraeli-conflict-pisraeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-d.md)
+### [Arab-Israeli conflict:. Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arab-israeli-conflict-israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the.md)
 _Context: Arab-Israeli conflict, Israeli Air Force, Syria_
 
-### [Syrian Civil War:Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-psyria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-proh.md)
+### [Syrian Civil War:. Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-syria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-pro.md)
 _Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War, United Nations, chemical weapons_
 
-### [Islamist insurgency in Nigeria:An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-pan-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
+### [Islamist insurgency in Nigeria:. An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
 An explosion hits a college in the northern Nigerian city of Kano, killing at least eight people, police say.
 
-### [War in Somalia (2009-present):Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009apresent-pkenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-af.md)
+### [War in Somalia (2009-present):. Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009-present-kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-a.md)
 Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing more than 80 of its fighters, the African Union (AU) says.
 
-### [Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
+### [2014 pro-Russian conflict in Ukraine. Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/2014-pro-russian-conflict-in-ukraine-pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Kiev_
 
 ### [Denmark proper (not counting Greenland) gets its first natural UNESCO World Heritage Sites, in addition to its three cultural sites, as Stevns Klint and the Danish parts of the Wadden Sea are inscribed on the UNESCO list. ](/news/2014/06/23/denmark-proper-not-counting-greenland-gets-its-first-natural-unesco-world-heritage-sites-in-addition-to-its-three-cultural-sites-as-stev.md)
 Doha,&#x20;23&#x20;June&#x20;&amp;ndash&#x3b;&#x20;The&#x20;World&#x20;Heritage&#x20;Committee&#x20;this&#x20;morning&#x20;inscribed&#x20;properties&#x20;in&#x20;the&#x20;Russian&#x20;Federation,&#x20;Costa&#x20;Rica,&#x20;Viet&#x20;Nam,&#x20;India,&#x20;Philippines&#x20;and&#x20;Denmark&#x20;on&#x2...
 
-### [A painting in Claude Monet's Water Lilies series is sold at auction in London for PS31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-aps31-7-million-or-54-million-us-the-second-highest-price.md)
+### [A painting in Claude Monet's Water Lilies series is sold at auction in London for GBP31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.md)
 _Context: Monet, Water Lilies_
 
 ### [Oracle Corporation buys MICROS Systems in a $5.3 billion deal. ](/news/2014/06/23/oracle-corporation-buys-micros-systems-in-a-5-3-billion-deal.md)

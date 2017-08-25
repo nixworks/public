@@ -1,6 +1,6 @@
 ### [2015-09-11](/news/2015/09/11/index.md)
 
-# Britney Spears announces a two-year extension in performing ''Britney: Piece of Me'' on the Las Vegas Strip. 
+# Britney Spears announces a two-year extension in performing "Britney: Piece of Me" on the Las Vegas Strip. 
 
 
 

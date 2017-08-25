@@ -3,7 +3,7 @@
 ### [ The Haitian Senate votes to remove Prime Minister Michle Pierre-Louis. ](/news/2009/10/29/the-haitian-senate-votes-to-remove-prime-minister-michele-pierre-louis.md)
 _Context: Haiti, Michle Pierre-Louis, Prime Minister of Haiti, Senate_
 
-### [ The ''de facto'' regime in Honduras files suit with the International Court of Justice over Brazil's continued harbouring of exiled president Manuel Zelaya in its Tegucigalpa embassy. ](/news/2009/10/29/the-de-facto-regime-in-honduras-files-suit-with-the-international-court-of-justice-over-brazil-s-continued-harbouring-of-exiled-preside.md)
+### [ The "de facto" regime in Honduras files suit with the International Court of Justice over Brazil's continued harbouring of exiled president Manuel Zelaya in its Tegucigalpa embassy. ](/news/2009/10/29/the-de-facto-regime-in-honduras-files-suit-with-the-international-court-of-justice-over-brazil-s-continued-harbouring-of-exiled-president.md)
 _Context: Brazil, Honduras, International Court of Justice, Manuel Zelaya, Tegucigalpa, political crisis in the country_
 
 ### [ English Premier League footballer Marlon King is convicted of sexual assault, imprisoned and sacked by his club Wigan Athletic F.C. ](/news/2009/10/29/english-premier-league-footballer-marlon-king-is-convicted-of-sexual-assault-imprisoned-and-sacked-by-his-club-wigan-athletic-f-c.md)

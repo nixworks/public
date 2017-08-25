@@ -12,4 +12,4 @@ The Duke of York and Sheikh Hamad Bin Jassim Bin Jabor Al Thani, prime minister 
 
 ### Related:
 
-1. [Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. ](/news/2013/07/11/six-women-climb-western-europe-s-tallest-skyscraper-the-shard-towering-over-shell-s-headquarters-in-london-to-protest-against-arctic-dril.md) _Context: The Shard_
+1. [Six women climb western Europe's tallest skyscraper, The Shard, towering over Shell's headquarters in London, to protest against Arctic drilling. [http://www.bbc.co.uk/news/uk-england-london-23267743 (BBC) ]](/news/2013/07/11/six-women-climb-western-europe-s-tallest-skyscraper-the-shard-towering-over-shell-s-headquarters-in-london-to-protest-against-arctic-dril.md) _Context: The Shard_

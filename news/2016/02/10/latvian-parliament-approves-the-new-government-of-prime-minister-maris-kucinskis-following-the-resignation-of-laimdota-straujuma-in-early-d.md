@@ -11,4 +11,4 @@ Latvian parliament formally approved the new government of Prime Minister Maris 
 
 ### Related:
 
-1. [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md) _Context: Laimdota Straujuma_
+1. [Latvian parliamentary election, 2014. Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvian-parliamentary-election-2014-latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-major.md) _Context: Laimdota Straujuma_

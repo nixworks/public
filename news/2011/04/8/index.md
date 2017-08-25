@@ -9,13 +9,13 @@ _Context: Kashmir, Srinagar, mosque_
 ### [At least 25 people are killed and at least 320 others are wounded at Camp Ashraf. ](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.md)
 _Context: Camp Ashraf_
 
-### [Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md)
+### [Arab Spring. Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/arab-spring-today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md)
 At least 27 deaths reported in the city of Daraa as fresh pro-reform demonstrations rock the country.
 
-### [A crew member shoots two of his crew mates on board the nuclear submarine HMS ''Astute'' at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-a.md)
+### [A crew member shoots two of his crew mates on board the nuclear submarine HMS "Astute" at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-and.md)
 A Royal Navy crewman is killed and another is in a life-threatening condition after a shooting on board nuclear submarine HMS Astute.
 
-### [The European Union aims to complete Portugal's bailout of approximately EUR80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-a-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)
+### [The European Union aims to complete Portugal's bailout of approximately -80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)
 The European Union believes it can complete the Portuguese bail-out, set to be worth 80bn euros, before elections in June.
 
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
@@ -27,7 +27,7 @@ _Context: Australian Stock Exchange, Singapore Exchange, Treasurer of Australia,
 ### [Virtual economies in online games have become a billion dollar industry. ](/news/2011/04/8/virtual-economies-in-online-games-have-become-a-billion-dollar-industry.md)
 Playing online games to gather gear and cash for sale to Western players could aid development, a report suggests.
 
-### [The Rupert Murdoch-owned News International admits liability in several cases brought against ''The News of the World'' newspaper for alleged phone hacking, and issues an "unreserved apology". ](/news/2011/04/8/the-rupert-murdoch-owned-news-international-admits-liability-in-several-cases-brought-against-the-news-of-the-world-newspaper-for-allege.md)
+### [The Rupert Murdoch-owned News International admits liability in several cases brought against "The News of the World" newspaper for alleged phone hacking, and issues an "unreserved apology". ](/news/2011/04/8/the-rupert-murdoch-owned-news-international-admits-liability-in-several-cases-brought-against-the-news-of-the-world-newspaper-for-alleged.md)
 The owner of the News of the World says sorry over the phone hacking scandal and is to set up a compensation fund believed to be worth £20m.
 
 ### [Amgen, a U.S. based biotech firm, acquires Bergamo, a privately held Brazilian medical supplier. ](/news/2011/04/8/amgen-a-u-s-based-biotech-firm-acquires-bergamo-a-privately-held-brazilian-medical-supplier.md)
@@ -51,7 +51,7 @@ _Context: International Criminal Court, Kenya_
 ### [Mike Campbell, a white farmer who took President of Zimbabwe Robert Mugabe to court in 2007 over his programme of land seizures dies. ](/news/2011/04/8/mike-campbell-a-white-farmer-who-took-president-of-zimbabwe-robert-mugabe-to-court-in-2007-over-his-programme-of-land-seizures-dies.md)
 Mike Campbell - the white Zimbabwean farmer who took President Robert Mugabe to court in 2007 over his programme of land seizures -dies.
 
-### [The United States Congress reaches a deal on the 2011 United States federal budget an hour before the deadline to avoid a government shutdown.  ](/news/2011/04/8/the-united-states-congress-reaches-a-deal-on-the-2011-united-states-federal-budget-an-hour-before-the-deadline-to-avoid-a-government-shutdow.md)
+### [The United States Congress reaches a deal on the 2011 United States federal budget an hour before the deadline to avoid a government shutdown. ](/news/2011/04/8/the-united-states-congress-reaches-a-deal-on-the-2011-united-states-federal-budget-an-hour-before-the-deadline-to-avoid-a-government-shutdow.md)
 US politicians agree to slash spending, in a deal reached just one hour before a government shutdown would have been enforced.
 
 ## [Previous Day...](/news/2011/04/7/index.md)

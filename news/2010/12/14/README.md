@@ -24,11 +24,11 @@ EU foreign ministers say they will recognise a Palestinian state &quot;when appr
 ### [Former Nepalese Crown Prince Paras is detained for attempted murder after allegedly firing a gun during a drunken row in a restaurant. ](/news/2010/12/14/former-nepalese-crown-prince-paras-is-detained-for-attempted-murder-after-allegedly-firing-a-gun-during-a-drunken-row-in-a-restaurant.md)
 Kathmandu, Dec 14 (IANS) The shadow of arrest and criminal charges darkened over Nepals controversial former crown prince Paras Bir Bikram Shah after...
 
-### [The Supreme Court of the Philippines acquits Hubert Webb and six others of the controversial Vizconde massacre by a vote 7-4 with four justices abstaining. ](/news/2010/12/14/the-supreme-court-of-the-philippines-acquits-hubert-webb-and-six-others-of-the-controversial-vizconde-massacre-by-a-vote-7a4-with-four-jus.md)
+### [The Supreme Court of the Philippines acquits Hubert Webb and six others of the controversial Vizconde massacre by a vote 7-4 with four justices abstaining. ](/news/2010/12/14/the-supreme-court-of-the-philippines-acquits-hubert-webb-and-six-others-of-the-controversial-vizconde-massacre-by-a-vote-7-4-with-four-jus.md)
 MANILA, Philippines (4th UPDATE) - Hubert Webb and 5 others accused in the Vizconde massacre case were released from prison on Tuesday after the Supreme Court acquitted them.
 
-### [Julian Assange is to be released on bail of PS240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-aps240-000-gbp.md)
-_Context: Julian Assange, PS_
+### [Julian Assange is to be released on bail of GBP240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-agbp240-000-gbp.md)
+_Context: GBP, Julian Assange_
 
 ### [At least 30 Sudanese women are arrested after holding a protest march over a video that allegedly shows a policeman whipping a woman. ](/news/2010/12/14/at-least-30-sudanese-women-are-arrested-after-holding-a-protest-march-over-a-video-that-allegedly-shows-a-policeman-whipping-a-woman.md)
 A group of Sudanese women are arrested for holding a protest march over a video which allegedly shows two policemen whipping a woman.
@@ -42,13 +42,13 @@ Venezuelan parliament supports in first vote president’s controversial proposa
 ### [Michael Somare steps down as Prime Minister of Papua New Guinea for an upcoming leadership tribunal. Deputy Prime Minister Sam Abal becomes Prime Minister during the trial. ](/news/2010/12/14/michael-somare-steps-down-as-prime-minister-of-papua-new-guinea-for-an-upcoming-leadership-tribunal-deputy-prime-minister-sam-abal-becomes.md)
 _Context: Michael Somare, Prime Minister, Sam Abal_
 
-### [Italian politicsThe Prime Minister of Italy Silvio Berlusconi narrowly survives (314 to 311) a no-confidence vote in the parliament moved by Gianfranco Fini. A formal complaint about Mr Berlusconi allegedly trying to buy votes is being investigated. ](/news/2010/12/14/italian-politicspthe-prime-minister-of-italy-silvio-berlusconi-narrowly-survives-314-to-311-a-no-confidence-vote-in-the-parliament-moved-b.md)
+### [Italian politics. The Prime Minister of Italy Silvio Berlusconi narrowly survives (314 to 311) a no-confidence vote in the parliament moved by Gianfranco Fini. A formal complaint about Mr Berlusconi allegedly trying to buy votes is being investigated. ](/news/2010/12/14/italian-politics-the-prime-minister-of-italy-silvio-berlusconi-narrowly-survives-314-to-311-a-no-confidence-vote-in-the-parliament-moved.md)
 At least 90 people are injured as police and protesters clash in Rome after Italian PM Silvio Berlusconi narrowly wins a vote of confidence.
 
 ### [General Hwang Eui-don, the chief of the South Korean Army, resigns. ](/news/2010/12/14/general-hwang-eui-don-the-chief-of-the-south-korean-army-resigns.md)
 _Context: Army, Hwang Eui-don, South Korea_
 
-### [Supporters of Ivory Coast presidential aspirant Alassane Ouattara  conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electi.md)
+### [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electio.md)
 _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast, President_
 
 ## [Previous Day...](/news/2010/12/13/index.md)

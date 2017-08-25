@@ -18,7 +18,7 @@ About 10,000 black-clad gangsters, friends and family took part in the funeral o
 ### [ Three US senators visit Uzbekistan to demand investigation on the crackdown of unrest. ](/news/2005/05/29/three-us-senators-visit-uzbekistan-to-demand-investigation-on-the-crackdown-of-unrest.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Paolo Savoldelli wins the 2005 Giro d'Italia. <small>''<<NEWSLINK MISSING>>''</small>](/news/2005/05/29/paolo-savoldelli-wins-the-2005-giro-d-italia.md)
+### [ Paolo Savoldelli wins the 2005 Giro d'Italia. <small>"<<NEWSLINK MISSING>>"</small>](/news/2005/05/29/paolo-savoldelli-wins-the-2005-giro-d-italia.md)
 _Context: 2005 Giro d'Italia, Paolo Savoldelli_
 
 ### [ The Coca Cola League One Play Off Final is won by Sheffield Wednesday at the Millennium Stadium, Cardiff after they beat Hartlepool United 4-2 to gain promotion to the Coca Cola Championship.](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.md)

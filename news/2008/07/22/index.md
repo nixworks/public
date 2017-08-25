@@ -1,7 +1,7 @@
 ## [2008-07-22](/news/2008/07/22/index.md)
 
 ### [ 2008 Atlantic hurricane season: Tropical Storm Dolly strengthens to Hurricane Dolly in the Gulf of Mexico as it nears the coast of Texas. ](/news/2008/07/22/2008-atlantic-hurricane-season-tropical-storm-dolly-strengthens-to-hurricane-dolly-in-the-gulf-of-mexico-as-it-nears-the-coast-of-texas.md)
-_Context: 2008 Atlantic hurricane season, Gulf, Hurricane Dolly, Texas_
+_Context: 2008 Atlantic hurricane season, Gulf of Mexico, Hurricane Dolly, Texas_
 
 ### [ The United Progressive Alliance led government in India survives a crucial no-confidence vote based on disagreements between Indian National Congress and Left Front over the Indo-US nuclear deal. ](/news/2008/07/22/the-united-progressive-alliance-led-government-in-india-survives-a-crucial-no-confidence-vote-based-on-disagreements-between-indian-nationa.md)
 _Context: Government of India, Indian National Congress, Indo-US nuclear deal, Left Front, United Progressive Alliance, no-confidence vote_

@@ -1,6 +1,6 @@
 ### [2006-11-19](/news/2006/11/19/index.md)
 
-#  Nintendo releases its 7th generation video game console in North America with 21 launch titles, the Wii.  
+#  Nintendo releases its 7th generation video game console in North America with 21 launch titles, the Wii. 
 
 
 

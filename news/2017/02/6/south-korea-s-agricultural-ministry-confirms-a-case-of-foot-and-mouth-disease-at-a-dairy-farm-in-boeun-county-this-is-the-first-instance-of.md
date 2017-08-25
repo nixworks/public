@@ -1,6 +1,6 @@
 ### [2017-02-6](/news/2017/02/6/index.md)
 
-# South Korea's Agricultural Ministry confirms a case of foot-and-mouth disease at a dairy farm in Boeun County. This is the first instance of this disease in the country  since March 29, 2016. 
+# South Korea's Agricultural Ministry confirms a case of foot-and-mouth disease at a dairy farm in Boeun County. This is the first instance of this disease in the country since March 29, 2016. 
 
 South Korea confirmed a case of foot-and-mouth disease at a dairy farm, the agriculture ministry in Sejong said Monday. The Ministry of Agriculture, Food and Rural Affairs said that 195 cows at the farm in Boeun, 180 kilometers southeast of Seoul, of North Chungcheong Province, tested positive for the animal disease. Foot-and-mouth disease, which does not affect humans, is often fatal for cloven-hoofed animals, such as cows, sheep and pigs. 
 

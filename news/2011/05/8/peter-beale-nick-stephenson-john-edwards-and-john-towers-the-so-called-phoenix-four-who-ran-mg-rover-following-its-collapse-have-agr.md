@@ -11,4 +11,4 @@ The bosses who ran MG Rover when it collapsed have been banned from serving as d
 
 ### Related:
 
-1. [ British carmaker MG Rover receives a loan of 6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-ps6-5-million-from-the-british-government.md) _Context: MG Rover_
+1. [ British carmaker MG Rover receives a loan of GBP6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-gbp6-5-million-from-the-british-government.md) _Context: MG Rover_

@@ -1,13 +1,9 @@
 ### [2008-03-25](/news/2008/03/25/index.md)
 
-#  Adam Air Flight 574: A final report finds the 102 on board died when pilots preoccupied with an instrument failure did not realise the 737 was descending out of control. 
+#  Adam Air Flight 574: A final report finds the 102 on board died when pilots preoccupied with an instrument failure did not realise the 737 was descending out of control. [http://news.xinhuanet.com/english/2008-03/25/content_7855402.htm (Xinhua)] (Wikinews)
 
 
 
-
-### Source:
-
-1. [Xinhua](http://news.xinhuanet.com/english/2008-03/25/content_7855402.htm)
 
 ### Related:
 
@@ -20,4 +16,4 @@
 7. [ Earlier reports of the discovery of the wreckage of Adam Air Flight 574 are proved false. ](/news/2007/01/2/earlier-reports-of-the-discovery-of-the-wreckage-of-adam-air-flight-574-are-proved-false.md) _Context: Adam Air, Flight 574_
 8. [ Pieces of wreckage and a body are recovered from the missing Adam Air flight 574. ](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.md) _Context: Adam Air, Flight 574_
 9. [ Adam Air Flight 574 disappears over Indonesia with 102 people on board. ](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.md) _Context: Adam Air, Flight 574_
-10. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck  by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direc.md) _Context: 737_
+10. [Three aircraft, a Southwest Airlines 737, a Virgin America A319, and a private plane, were all struck by a laser coming from the same direction as they were about to land at Dallas's Love Field, according to the U.S. FAA. ](/news/2015/11/11/three-aircraft-a-southwest-airlines-737-a-virgin-america-a319-and-a-private-plane-were-all-struck-by-a-laser-coming-from-the-same-direct.md) _Context: 737_

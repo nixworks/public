@@ -1,9 +1,9 @@
 ## [2010-07-21](/news/2010/07/21/index.md)
 
-### [Turkey - Kurdistan Workers' Party conflict:Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/turkey-a-kurdistan-workers-party-conflict-pkurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-su.md)
+### [Turkey - Kurdistan Workers' Party conflict:. Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/turkey-kurdistan-workers-party-conflict-kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-s.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [Unidentified gunmen on motorcycles fatally shoot  Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md)
+### [Unidentified gunmen on motorcycles fatally shoot Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md)
 Gunmen have shot dead a civil rights campaigner and environmentalist in the western Indian state of Gujarat, police say.
 
 ### [At least 30 people are killed and 46 others are wounded, including women and children, as a car bomb explodes near a Shia mosque in Abu Sayeeda, Baqubah, Diyala in Iraq. ](/news/2010/07/21/at-least-30-people-are-killed-and-46-others-are-wounded-including-women-and-children-as-a-car-bomb-explodes-near-a-shia-mosque-in-abu-saye.md)
@@ -27,7 +27,7 @@ The wife of a senior Chinese government official was hospitalised after being be
 ### [Three policemen are killed by suspected left-wing extremists in Pabna, Bangladesh. ](/news/2010/07/21/three-policemen-are-killed-by-suspected-left-wing-extremists-in-pabna-bangladesh.md)
 _Context: Bangladesh, Pabna_
 
-### [Two Palestinian militants of the Islamic Jihad Movement in Palestine are killed and another six wounded by Israeli shelling as they approached the Gaza Strip-Israel border near Beit Hanoun. A ten-year-old girl is also wounded.  ](/news/2010/07/21/two-palestinian-militants-of-the-islamic-jihad-movement-in-palestine-are-killed-and-another-six-wounded-by-israeli-shelling-as-they-approach.md)
+### [Two Palestinian militants of the Islamic Jihad Movement in Palestine are killed and another six wounded by Israeli shelling as they approached the Gaza Strip-Israel border near Beit Hanoun. A ten-year-old girl is also wounded. ](/news/2010/07/21/two-palestinian-militants-of-the-islamic-jihad-movement-in-palestine-are-killed-and-another-six-wounded-by-israeli-shelling-as-they-approach.md)
 Top Islamic Jihad militant killed as Israeli tanks fire at militants after receiving reports they intended to attack a nearby IDF unit.
 
 ### [A Stonewall study indicates that young people rarely see positive portrayals of lesbian and gay people on television, usually depicted as "promiscuous, predatory, or figures of fun", particularly on BBC One. ](/news/2010/07/21/a-stonewall-study-indicates-that-young-people-rarely-see-positive-portrayals-of-lesbian-and-gay-people-on-television-usually-depicted-as-p.md)
@@ -39,10 +39,10 @@ _Context: London Review of Books, baboon, blog, racial bias, rottweiler_
 ### [The Margaret Hewson Prize for new writing talent, judged by Beryl Bainbridge 10 days before her recent hospitalisation and eventual death, is awarded to Laura McClelland. ](/news/2010/07/21/the-margaret-hewson-prize-for-new-writing-talent-judged-by-beryl-bainbridge-10-days-before-her-recent-hospitalisation-and-eventual-death-i.md)
 _Context: Beryl Bainbridge, Laura McClelland_
 
-### [Prime Minister of the United Kingdom David Cameron gifts President of the United States Barack Obama a painting, ''Twenty First Century City'', by graffiti artist Ben Eine, while Obama gifts Cameron a signed lithograph, ''Column with Speed Lines'', by Edward Ruscha. ](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.md)
+### [Prime Minister of the United Kingdom David Cameron gifts President of the United States Barack Obama a painting, "Twenty First Century City", by graffiti artist Ben Eine, while Obama gifts Cameron a signed lithograph, "Column with Speed Lines", by Edward Ruscha. ](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.md)
 A painting by a graffiti artist is among the official gifts to Barack Obama from David Cameron on his first trip to Washington as prime minister.
 
-### [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for ''Portrait of Wally'', stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from.md)
+### [Austria's Leopold Museum agrees to pay $19 million to the estate of Jewish art dealer Egon Schiele's for "Portrait of Wally", stolen from her by Nazism in World War II. ](/news/2010/07/21/austria-s-leopold-museum-agrees-to-pay-19-million-to-the-estate-of-jewish-art-dealer-egon-schiele-s-for-portrait-of-wally-stolen-from-he.md)
 A 12-year dispute has ended with an agreement that a 1912 oil painting will be returned to a Vienna museum and displayed with an acknowledgement that it was stolen from a Jewish art dealer by a Nazi agent.
 
 ### [Cecile Aubry, French film star, writer and ex-wife of Moroccan prince Si Brahim El Glaoui, dies. ](/news/2010/07/21/ca-c-cile-aubry-french-film-star-writer-and-ex-wife-of-moroccan-prince-si-brahim-el-glaoui-dies.md)
@@ -87,7 +87,7 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 ### [Despite pressure from Australia and New Zealand, a gathering of about 5 Pacific Island leaders is held in Fiji. ](/news/2010/07/21/despite-pressure-from-australia-and-new-zealand-a-gathering-of-about-5-pacific-island-leaders-is-held-in-fiji.md)
 _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacific_
 
-### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
+### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
 _Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, United States, United States Secretary of State, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
@@ -99,7 +99,7 @@ Man sentenced to 18 months in prison after telling an Israeli woman he was Jewis
 ### [San bushmen in Botswana lose a court case in which they requested the re-opening of their traditional Kalahari waterhole from which the government forced them out when diamonds were discovered there in the 1980s. ](/news/2010/07/21/san-bushmen-in-botswana-lose-a-court-case-in-which-they-requested-the-re-opening-of-their-traditional-kalahari-waterhole-from-which-the-gove.md)
 A group of San bushmen in Botswana have lost a court case to allow them to re-open a vital Kalahari waterhole.
 
-### [Four men go on trial in Nuku`alofa charged with a mother's manslaughter in the MV ''Princess Ashika'' ferry disaster. ](/news/2010/07/21/four-men-go-on-trial-in-nukue-alofa-charged-with-a-mother-s-manslaughter-in-the-mv-princess-ashika-ferry-disaster.md)
+### [Four men go on trial in Nuku`alofa charged with a mother's manslaughter in the MV "Princess Ashika" ferry disaster. ](/news/2010/07/21/four-men-go-on-trial-in-nukue-alofa-charged-with-a-mother-s-manslaughter-in-the-mv-princess-ashika-ferry-disaster.md)
 The manslaughter trial of four men for a death in the Princess Ashika ferry disaster, which killed 74 people, begins.
 
 ### [Kenya awards compensation in a landmark ruling to civilians tortured by police during Daniel arap Moi's time in power in the 1980s. ](/news/2010/07/21/kenya-awards-compensation-in-a-landmark-ruling-to-civilians-tortured-by-police-during-daniel-arap-moi-s-time-in-power-in-the-1980s.md)
@@ -111,7 +111,7 @@ UN court back appeal against acquittal over offences allegedly committed during 
 ### [Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. ](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.md)
 _Context: Andre Kagwa Rwisereka, Democratic Greens, Human Rights Watch, Rwanda, presidential election_
 
-### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
+### [Italian police announce 67 arrests, -250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
 _Context: Italian_
 
 ### [Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. ](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.md)
@@ -123,8 +123,8 @@ David Cameron is criticised after saying the UK was the &quot;junior partner&quo
 ### [Prime Minister of Papua New Guinea Michael Somare threatens the life of an opposition member after a vote of no confidence is thwarted. ](/news/2010/07/21/prime-minister-of-papua-new-guinea-michael-somare-threatens-the-life-of-an-opposition-member-after-a-vote-of-no-confidence-is-thwarted.md)
 PNG Prime Minister Michael Somare threatened to kill an opposition member after his government thwarted a vote of no confidence by a prolonged adjournment.
 
-### [The White House holds an official review after an employee of the United States Department of Agriculture was forced to resign regarding controversy about a video that surfaced on the Internet. ](/news/2010/07/21/the-white-house-holds-an-official-review-after-an-employee-of-the-united-states-department-of-agriculture-was-forced-to-resign-regarding-con.md)
-The White House apologises to a black US official fired after an edited video clip appeared to show her making racially charged remarks.
+### [The White House holds an official review after an employee of the United States Department of Agriculture was forced to resign regarding controversy about a video that surfaced on the Internet. [http://www.cnn.com/2010/POLITICS/07/21/agriculture.employee.usda/index.html?hpt=C2 (CNN)] [http://www.guardian.co.uk/world/2010/jul/21/white-house-shirley-sherrod ("The Guardian")] [http://www.bbc.co.uk/news/world-us-canada-10716237 (BBC News)] [http://www.nytimes.com/2010/07/22/us/politics/22sherrod.html?_r=1 ("The New York Times)"]](/news/2010/07/21/the-white-house-holds-an-official-review-after-an-employee-of-the-united-states-department-of-agriculture-was-forced-to-resign-regarding-con.md)
+_Context: Internet, United States, United States Department of Agriculture, White House, forced to resign_
 
 ### [President of the United States Barack Obama signs finance reforms into law, overhauling the country's Wall Street Financial District. ](/news/2010/07/21/president-of-the-united-states-barack-obama-signs-finance-reforms-into-law-overhauling-the-country-s-wall-street-financial-district.md)
 US president says act will create the strongest financial protections for US consumers.

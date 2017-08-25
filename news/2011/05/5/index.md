@@ -1,9 +1,9 @@
 ## [2011-05-5](/news/2011/05/5/index.md)
 
-### [Members of the multi-state coalition conducting the military campaign in Libya hold talks in Rome, Italy, and agree to set up a new fund to aid Libyan rebels, with US Secretary of State Hillary Clinton promising to use frozen assets of Muammar Gaddafi's regime. ](/news/2011/05/5/members-of-the-multi-state-coalition-conducting-the-military-campaign-in-libya-hold-talks-in-rome-italy-and-agree-to-set-up-a-new-fund-to.md)
+### [2011 Libyan civil war. Members of the multi-state coalition conducting the military campaign in Libya hold talks in Rome, Italy, and agree to set up a new fund to aid Libyan rebels, with US Secretary of State Hillary Clinton promising to use frozen assets of Muammar Gaddafi's regime. ](/news/2011/05/5/2011-libyan-civil-war-members-of-the-multi-state-coalition-conducting-the-military-campaign-in-libya-hold-talks-in-rome-italy-and-agree-t.md)
 The Obama administration intends to use some of the billions of dollars in frozen assets belonging to Libyan leader Moammar Gaddafi and his government to provide humanitarian and other assistance to Libyans affected by the ongoing civil war.
 
-### [2011 Syrian protests:Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-pdozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md)
+### [2011 Syrian protests:. Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md)
 Syrian troops storm a Damascus suburb as part of a wider crackdown on protests against the rule of President Bashar al-Assad.
 
 ### [A car bomb explodes in the southern Iraqi city of Hilla, killing at least 21 police officers and injuring 65; in northern Iraq and in Baghdad, four people are killed in other attacks. ](/news/2011/05/5/a-car-bomb-explodes-in-the-southern-iraqi-city-of-hilla-killing-at-least-21-police-officers-and-injuring-65-in-northern-iraq-and-in-baghda.md)
@@ -24,7 +24,7 @@ Mr. Laurents was a playwright, screenwriter and director who wrote and ultimatel
 ### [Foreign investment into Latin America grows by around 40%, with China named as the fastest growing investor in the region. ](/news/2011/05/5/foreign-investment-into-latin-america-grows-by-around-40-with-china-named-as-the-fastest-growing-investor-in-the-region.md)
 Foreign investment in Latin America grew by about 40% in 2010, with China the fastest growing investor, a UN study says.
 
-### [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following  the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-t.md)
+### [Workers enter one of the buildings at Japan's Fukushima I Nuclear Power Plant for the first time since an explosion in the days following the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/5/workers-enter-one-of-the-buildings-at-japan-s-fukushima-i-nuclear-power-plant-for-the-first-time-since-an-explosion-in-the-days-following-th.md)
 Workers entered a reactor building at the Fukushima Daiichi nuclear power plant Thursday for the first time since a magnitude-9.0 earthquake and ensuing tsunami damaged the facility, its operator Toyko Electric Power Co. said.
 
 ### [The body of Dorjee Khandu, the Chief Minister of the Indian state of Arunachal Pradesh is found near the crash site of the helicopter that crashed in the Himalayan foothills on April 30. ](/news/2011/05/5/the-body-of-dorjee-khandu-the-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-near-the-crash-site-of-the-helicopter-that-c.md)
@@ -33,7 +33,7 @@ India says the body of the chief minister of a northeastern state has been recov
 ### [Rising flood waters from the Mississippi River force evacuations around Memphis, Tennessee, as near-record flooding along the river occurs from Canada and the Dakotas down to the Gulf of Mexico. ](/news/2011/05/5/rising-flood-waters-from-the-mississippi-river-force-evacuations-around-memphis-tennessee-as-near-record-flooding-along-the-river-occurs-f.md)
 The rising Mississippi river lapped over downtown Memphis streets on Thursday as a massive wall of water threatened to unleash near record flooding all the way to the Gulf of Mexico.
 
-### [The Sudanese cabinet approves a bill to add two new states to Darfur's existing three, in what rebels have condemned as plan to strengthen the central government's control over the region. ](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.md)
+### [The Sudanese cabinet approves a bill to add two new states to Darfur's existing three, in what rebels have condemned as plan to strengthen the central government-s control over the region. ](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.md)
 _Context: Darfur, Sudanese cabinet_
 
 ### [The South Korean National Assembly ratifies a free trade agreement with the European Union. ](/news/2011/05/5/the-south-korean-national-assembly-ratifies-a-free-trade-agreement-with-the-european-union.md)
@@ -63,13 +63,13 @@ _Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silv
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
 _Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_
 
-### [British electionsVoters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/british-electionspvoters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for.md)
+### [British elections. Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/british-elections-voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for.md)
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
 _Context: Barack Obama, Ground Zero, New York City, September 11 attacks, father's killing, president_
 
-### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
+### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
 _Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_
 
 ### [The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. ](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.md)

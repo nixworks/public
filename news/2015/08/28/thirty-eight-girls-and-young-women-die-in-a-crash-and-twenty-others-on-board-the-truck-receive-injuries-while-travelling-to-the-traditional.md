@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Swaziland_
+1. [Foreign relations of Taiwan. Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/foreign-relations-of-taiwan-burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-bei.md) _Context: Swaziland_
 2. [An open truck smashes into the back of a van near Mbabane, Swaziland killing 65 girls and young women traveling to an annual dance festival. ](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.md) _Context: Swaziland_
 3. [Swaziland, Africa's last absolute monarchy, announces that it will hold elections in September. ](/news/2013/06/4/swaziland-africa-s-last-absolute-monarchy-announces-that-it-will-hold-elections-in-september.md) _Context: Swaziland_
 4. [Swaziland virgins perform an annual reed dance, paying homage to the king, pleasing tourists and compatriots. ](/news/2012/09/3/swaziland-virgins-perform-an-annual-reed-dance-paying-homage-to-the-king-pleasing-tourists-and-compatriots.md) _Context: Swaziland_

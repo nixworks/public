@@ -1,9 +1,9 @@
 ## [2013-04-26](/news/2013/04/26/index.md)
 
-### [Six police officers are poisoned and fatally shot in Kunduz Province, Afghanistan while another one is missing. ](/news/2013/04/26/six-police-officers-are-poisoned-and-fatally-shot-in-kunduz-province-afghanistan-while-another-one-is-missing.md)
+### [War in Afghanistan (2001-present). Six police officers are poisoned and fatally shot in Kunduz Province, Afghanistan while another one is missing. ](/news/2013/04/26/war-in-afghanistan-2001-present-six-police-officers-are-poisoned-and-fatally-shot-in-kunduz-province-afghanistan-while-another-one-is-mi.md)
 KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot to death Thursday night at a remote outpost in northern Afghanistan, the deputy governor of Kunduz province reported...
 
-### [The central bank of Mexico  announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announc.md)
+### [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announce.md)
 _Context: Mexico, central bank, interest rate_
 
 ### [Governor of the Bank of England Mervyn King announces that Winston Churchill will be featured on the 5 pound bank note which he says will likely begin circulation in 2016. ](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.md)
@@ -12,7 +12,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [A fire in a psychiatric hospital in the Russian town of Ramensky in Dmitrovsky District near Moscow kills 38 people. ](/news/2013/04/26/a-fire-in-a-psychiatric-hospital-in-the-russian-town-of-ramensky-in-dmitrovsky-district-near-moscow-kills-38-people.md)
 The fire broke out in the early hours of Friday in the one-story hospital in the town of Ramenye.
 
-### [2013 Savar building collapse:The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-401.md)
+### [2013 Savar building collapse:. The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-401.md)
 _Context: 2013 Savar building collapse, Bangladesh_
 
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)

@@ -1,6 +1,6 @@
 ### [2009-02-26](/news/2009/02/26/index.md)
 
-#  The Svalbard Global Seed Vault receives 90,000 food crop seed samples.  
+#  The Svalbard Global Seed Vault receives 90,000 food crop seed samples. 
 
 
 

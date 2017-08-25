@@ -9,7 +9,7 @@ _Context: Cardinal Joseph Ratzinger, Crimen sollicitationis, Pope_
 ### [ The Social Democratic Party of Austria has won today's election in Austria. ](/news/2006/10/1/the-social-democratic-party-of-austria-has-won-today-s-election-in-austria.md)
 _Context: Austria, October 2006 Austrian elections, Social Democratic Party_
 
-### [ Georgia-Russia spying dispute: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-p-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md)
+### [ Georgia-Russia spying dispute:. Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md)
 _Context: Russia, Vladimir Putin, hostage-taking, tensions, terrorism_
 
 ### [ General Elections 2006 in Brazil are taking place.](/news/2006/10/1/general-elections-2006-in-brazil-are-taking-place.md)
@@ -21,7 +21,7 @@ _Context: Levy Mwanawasa, President, Zambia, re-elected_
 ### [ General Surayud Chulanont is appointed interim prime minister of Thailand by the ruling military regime, following the recent coup. ](/news/2006/10/1/general-surayud-chulanont-is-appointed-interim-prime-minister-of-thailand-by-the-ruling-military-regime-following-the-recent-coup.md)
 _Context: Surayud Chulanont, Thailand, coup_
 
-### [ A superbug, ''Clostridium difficile'', is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-nationa.md)
+### [ A superbug, "Clostridium difficile", is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-national.md)
 _Context: Clostridium difficile, England, Leicester, National Health Service, coronial, superbug_
 
 ### [ The last Israeli troops leave Lebanon in accordance with UN Resolution 1701, two months after occupying the territory. UNIFIL officials, however, claim that they still occupy the border village of Ghajar. ](/news/2006/10/1/the-last-israeli-troops-leave-lebanon-in-accordance-with-un-resolution-1701-two-months-after-occupying-the-territory-unifil-officials-ho.md)

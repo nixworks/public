@@ -6,7 +6,7 @@ _Context: Cameroon, parliamentary elections_
 ### [ Gordon Brown, the Prime Minister of the United Kingdom, holds an Emergency Cabinet meeting to discuss floods with the British Army called in to help in the worst affected areas of England and Wales. ](/news/2007/07/22/gordon-brown-the-prime-minister-of-the-united-kingdom-holds-an-emergency-cabinet-meeting-to-discuss-floods-with-the-british-army-called-i.md)
 British Prime Minister Gordon Brown has held an emergency Cabinet meeting as severe floods continue to affect large areas of central England and Wales.
 
-### [ Khurshid Kasuri, the Foreign Minister of Pakistan  warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strik.md)
+### [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strike.md)
 _Context: Khurshid Kasuri, Pakistan, Taliban, United States, al-Qaeda_
 
 ### [ Several thousand protesters opposed to Thailand's military government clash with Thai police in Bangkok. ](/news/2007/07/22/several-thousand-protesters-opposed-to-thailand-s-military-government-clash-with-thai-police-in-bangkok.md)

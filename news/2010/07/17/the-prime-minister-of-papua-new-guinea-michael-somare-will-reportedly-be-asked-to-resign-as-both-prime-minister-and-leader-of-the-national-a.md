@@ -1,6 +1,6 @@
 ### [2010-07-17](/news/2010/07/17/index.md)
 
-# The Prime Minister of Papua New Guinea Michael Somare will reportedly be asked to resign as both prime minister and leader of the National Alliance Party on Monday. (''PNG Post-Courier'')
+# The Prime Minister of Papua New Guinea Michael Somare will reportedly be asked to resign as both prime minister and leader of the National Alliance Party on Monday. ("PNG Post-Courier")
 
 
 

@@ -1,0 +1,25 @@
+### [2016-05-29](/news/2016/05/29/index.md)
+
+#  Yemeni civil war (2015-present). At least 69 people are killed and 25 injured in fighting between the Houthis and government forces loyal to Yemeni President Abd Rabbuh Mansur Hadi. 
+
+Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
+
+
+### Source:
+
+1. [ABC News](http://abcnews.go.com/International/wireStory/fighting-central-yemen-kills-32-39467306)
+2. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3615204/South-Yemen-clashes-kill-39.html)
+3. [FOX News](http://www.foxnews.com/world/2016/05/29/fighting-in-central-yemen-kills-32.html)
+
+### Related:
+
+1. [Yemeni Crisis (2011-present). Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/yemeni-crisis-2011-present-abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-th.md) _Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni President_
+2. [Yemeni Civil War (2015-present). A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/yemeni-civil-war-2015-present-a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilian.md) _Context: Houthi, Yemeni conflict_
+3. [Yemeni Civil War (2015-present). Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/yemeni-civil-war-2015-present-coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Houthi, Yemeni conflict_
+4. [Yemeni Civil War (2015-present). A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/yemeni-civil-war-2015-present-a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-s.md) _Context: Houthi, Yemeni conflict_
+5. [Yemeni Civil War (2015-present). An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/yemeni-civil-war-2015-present-an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthi.md) _Context: Houthi, Yemeni conflict_
+6. [Yemeni President Abd Rabbuh Mansur Hadi sacks Prime Minister and Vice President of Yemen Khaled Mahfoudh Bahah. Hadi named top general Ali Mohsen al-Ahmar as his new Vice President and appointed Ahmed Obeid bin Daghr, a former official in Saleh's General People's Congress as the new Prime Minister. ](/news/2016/04/3/yemeni-president-abd-rabbuh-mansur-hadi-sacks-prime-minister-and-vice-president-of-yemen-khaled-mahfoudh-bahah-hadi-named-top-general-ali-m.md) _Context: Abd Rabbuh Mansur Hadi, Yemeni President_
+7. [Yemeni Civil War (2015-present). Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/yemeni-civil-war-2015-present-clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis.md) _Context: Houthi, Yemeni conflict_
+8. [Yemeni Civil War (2015-present). Saudi Arabian-led intervention in Yemen. The United Arab Emirates pulls its troops out of Yemen amid mounting casualties among its forces battling Shia Houthi militants and rising tensions with local fighters in Aden, southern Yemen, which escalated yesterday when Aden International Airport was stormed by local pro-government gunmen. The airport has now been closed. ](/news/2016/02/24/yemeni-civil-war-2015-present-saudi-arabian-led-intervention-in-yemen-the-united-arab-emirates-pulls-its-troops-out-of-yemen-amid-moun.md) _Context: Houthi, Yemeni conflict_
+9. [Yemeni Civil War (2015-present). A suicide bomber kills at least 13 recruits at a Yemeni Army base run by forces loyal to ousted President Abdrabbuh Mansur Hadi in the southern port city of Aden. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/02/17/yemeni-civil-war-2015-present-a-suicide-bomber-kills-at-least-13-recruits-at-a-yemeni-army-base-run-by-forces-loyal-to-ousted-president.md) _Context: Yemeni President, Yemeni conflict_
+10. [Yemeni Civil War (2015-present). A Saudi-led coalition airstrike kills a senior Yemeni judge and seven members of his family in Sana'a. The judge had previously presided over treason cases against ousted President Abd Rabbuh Mansur Hadi. ](/news/2016/01/25/yemeni-civil-war-2015-present-a-saudi-led-coalition-airstrike-kills-a-senior-yemeni-judge-and-seven-members-of-his-family-in-sana-a-th.md) _Context: Abd Rabbuh Mansur Hadi, Yemeni conflict_

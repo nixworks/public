@@ -2,14 +2,15 @@
 
 # A suspected terrorist attack in the western Indian city of Pune kills 9 people and injures more than 45 others. 
 
-
+9 people were killed and several wounded, including a foreigner, in a bomb blast at the popular German Bakery near a Jewish prayer house in Pune. In its neighbourhood is Osho Ashram, which had been frequently visited by LeT operative Headley.
 
 
 ### Source:
 
-1. [BBC news] [http://timesofindia.indiatimes.com/city/pune/8-confirmed-dead-33-injured-in-blast-at-Pune-bakery/articleshow/5569873.cms (''The Times of India](http://news.bbc.co.uk/2/hi/south_asia/8514232.stm)
+1. [BBC news](http://news.bbc.co.uk/2/hi/south_asia/8514232.stm)
 2. [The Hindu](http://beta.thehindu.com/incoming/article106274.ece)
-3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7026186.ece)
+3. [The Times of India](http://timesofindia.indiatimes.com/city/pune/8-confirmed-dead-33-injured-in-blast-at-Pune-bakery/articleshow/5569873.cms)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7026186.ece)
 
 ### Related:
 
@@ -20,6 +21,6 @@
 5. [Four coordinated low intensity bombs explode in the Indian city of Pune. ](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.md) _Context: India, Pune_
 6. [ Hundreds of panic-stricken people queue at hospitals in Pune, India, to be tested for swine flu following the first death from the disease in that country. ](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.md) _Context: India, Pune_
 7. [ 80 of the world's top radio astronomers meet in Pune, India to decide how and where to set up the world's biggest radio telescope, the Square Kilometre Array. ](/news/2005/11/2/80-of-the-world-s-top-radio-astronomers-meet-in-pune-india-to-decide-how-and-where-to-set-up-the-world-s-biggest-radio-telescope-the-squa.md) _Context: India, Pune_
-8. [A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries.  ](/news/2017/08/19/a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_
-9. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: India_
-10. [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md) _Context: India_
+8. [2017 Khatauli train derailment. A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_
+9. [August 2017 Nepal and India floods. Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/august-2017-nepal-and-india-floods-flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths.md) _Context: India_
+10. [2016-17 Rohingya persecution in Myanmar. India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/2016-17-rohingya-persecution-in-myanmar-india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-th.md) _Context: India_

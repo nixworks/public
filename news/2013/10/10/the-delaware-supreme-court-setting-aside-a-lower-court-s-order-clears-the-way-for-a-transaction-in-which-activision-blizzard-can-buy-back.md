@@ -11,6 +11,6 @@
 
 ### Related:
 
-1. [Activision Blizzard files papers with a California court, calling for unidentified programmers that created cheats for Starcraft II to be made to compensate them for copyright infringement.  ](/news/2014/05/22/activision-blizzard-files-papers-with-a-california-court-calling-for-unidentified-programmers-that-created-cheats-for-starcraft-ii-to-be-ma.md) _Context: Activision Blizzard_
+1. [Activision Blizzard files papers with a California court, calling for unidentified programmers that created cheats for Starcraft II to be made to compensate them for copyright infringement. ](/news/2014/05/22/activision-blizzard-files-papers-with-a-california-court-calling-for-unidentified-programmers-that-created-cheats-for-starcraft-ii-to-be-ma.md) _Context: Activision Blizzard_
 2. [Activision Blizzard announces that it is dissolving its Guitar Hero division and not publishing any more games. ](/news/2011/02/9/activision-blizzard-announces-that-it-is-dissolving-its-guitar-hero-division-and-not-publishing-any-more-games.md) _Context: Activision Blizzard_
 3. [ Vivendi Universal, the world's biggest music group, has signed a deal to make its music catalogue available on a free legal downloads service.](/news/2006/08/29/vivendi-universal-the-world-s-biggest-music-group-has-signed-a-deal-to-make-its-music-catalogue-available-on-a-free-legal-downloads-servi.md) _Context: Vivendi_

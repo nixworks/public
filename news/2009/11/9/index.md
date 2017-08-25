@@ -12,7 +12,7 @@ _Context: Hong Kong, Indian Ocean, Somali pirates, Somalia, oil tanker, rocket-p
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
 _Context: Hezbollah, Lebanon, Prime Minister, Saad Hariri, unity_
 
-### [  The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntorial-runoff-election-between-governor-benigno-fitial-and.md)
+### [ Northern Mariana Islands gubernatorial election, 2009. The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/northern-mariana-islands-gubernatorial-election-2009-the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntoria.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, runoff election_
 
 ### [ Iraq sets its next general election for January 21, 2010. ](/news/2009/11/9/iraq-sets-its-next-general-election-for-january-21-2010.md)
@@ -24,7 +24,7 @@ _Context: 2010 FIFA World Cup, Gautrain, South Africa_
 ### [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md)
 Iran&#039;s judiciary indicated yesterday that three young American trekkers who apparently blundered into Iran from neighbouring Iraq in July and who have been in custody since are to be tried for espionage.
 
-### [ Fifth outbreak of Shia insurgency in Yemen: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-p-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
+### [ Fifth outbreak of Shia insurgency in Yemen:. Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
 _Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen, due to fighting, white phosphorus_
 
 ### [ In China eight ethnic Uyghurs and one Han are executed for their role in the Urumqi riots in July, in the first executions to take place. ](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.md)
@@ -45,7 +45,7 @@ _Context: Afghanistan's, Downing Street, Gordon Brown, Prime Minister_
 ### [ "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. ](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.md)
 &#034;House of horrors&#034; murderer Jason Somerville strangled his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their bodies.
 
-### [ The South Korean newspaper ''Chosun Ilbo'' alleges that North Korean leader Kim Jong-il has six personal trains and 19 stations for his own use. ](/news/2009/11/9/the-south-korean-newspaper-chosun-ilbo-alleges-that-north-korean-leader-kim-jong-il-has-six-personal-trains-and-19-stations-for-his-own.md)
+### [ The South Korean newspaper "Chosun Ilbo" alleges that North Korean leader Kim Jong-il has six personal trains and 19 stations for his own use. ](/news/2009/11/9/the-south-korean-newspaper-chosun-ilbo-alleges-that-north-korean-leader-kim-jong-il-has-six-personal-trains-and-19-stations-for-his-own-u.md)
 The private train North Korean leader Kim Jong-il uses on his trips either withi..
 
 ### [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md)

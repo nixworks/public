@@ -3,7 +3,7 @@
 ### [ A curfew is imposed in Beirut after deadly clashes erupted between pro-government supporters and Hezbollah-led factions. ](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clashes-erupted-between-pro-government-supporters-and-hezbollah-led-factions.md)
 _Context: Beirut, Hezbollah, curfew_
 
-### [ 276 passengers and 28 crew onboard the Cunard Line's RMS ''Queen Elizabeth 2'' are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigati.md)
+### [ 276 passengers and 28 crew onboard the Cunard Line's RMS "Queen Elizabeth 2" are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigation.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Oleg Khinsagov is sentenced to 8.5 years imprisonment for smuggling highly enriched uranium from Russia to Georgia. ](/news/2007/01/25/oleg-khinsagov-is-sentenced-to-8-5-years-imprisonment-for-smuggling-highly-enriched-uranium-from-russia-to-georgia.md)

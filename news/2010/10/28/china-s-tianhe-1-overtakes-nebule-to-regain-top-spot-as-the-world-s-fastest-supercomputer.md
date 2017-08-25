@@ -1,6 +1,6 @@
 ### [2010-10-28](/news/2010/10/28/index.md)
 
-# China's Tianhe-1 overtakes Nebule to regain top spot as the world's fastest  supercomputer. 
+# China's Tianhe-1 overtakes Nebule to regain top spot as the world's fastest supercomputer. 
 
 China has wrested the title of the nation with the most powerful supercomputer on the planet away from the US.
 

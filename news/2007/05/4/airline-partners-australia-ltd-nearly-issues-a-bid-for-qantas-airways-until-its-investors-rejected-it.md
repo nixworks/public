@@ -15,4 +15,4 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ Qantas Airways cancelled half of a 30-plan order for  787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md) _Context: Qantas Airways_
+1. [ Qantas Airways cancelled half of a 30-plan order for 787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md) _Context: Qantas Airways_

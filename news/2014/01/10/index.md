@@ -3,13 +3,13 @@
 ### [Spain invites Sephardic Jews to return after 500 years of exile. ](/news/2014/01/10/spain-invites-sephardic-jews-to-return-after-500-years-of-exile.md)
 _Context: Sephardic Jews, Spain_
 
-### [Francois Hollande's photo with actress Julie Gayet is removed from the tabloid magazine ''Closer'' after an injuction by Gayet's lawyer. ](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.md)
+### [Francois Hollande's photo with actress Julie Gayet is removed from the tabloid magazine "Closer" after an injuction by Gayet's lawyer. ](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.md)
 _Context: Closer, Francois Hollande, Julie Gayet, tabloid_
 
-### [Amidst pressure for failing to resolve ongoing conflict, President of the Central African Republic Michel Djotodia resigns nine months after Seleka toppled Francois Bozize. Alexandre-Ferdinand Nguendet becomes acting president. ](/news/2014/01/10/amidst-pressure-for-failing-to-resolve-ongoing-conflict-president-of-the-central-african-republic-michel-djotodia-resigns-nine-months-after.md)
+### [Central African Republic crisis. Amidst pressure for failing to resolve ongoing conflict, President of the Central African Republic Michel Djotodia resigns nine months after Seleka toppled Francois Bozize. Alexandre-Ferdinand Nguendet becomes acting president. ](/news/2014/01/10/central-african-republic-crisis-amidst-pressure-for-failing-to-resolve-ongoing-conflict-president-of-the-central-african-republic-michel-d.md)
 President Michel Djotodia resigns as he is unable to stop the ethnic fighting in CAR
 
-### [A car bombing in Karachi, Pakistan, kills Chaudhry Aslam Khan, a senior police investigator known for pursuing Pakistani Taliban militants;  two other officers with him were also killed. ](/news/2014/01/10/a-car-bombing-in-karachi-pakistan-kills-chaudhry-aslam-khan-a-senior-police-investigator-known-for-pursuing-pakistani-taliban-militants.md)
+### [A car bombing in Karachi, Pakistan, kills Chaudhry Aslam Khan, a senior police investigator known for pursuing Pakistani Taliban militants; two other officers with him were also killed. ](/news/2014/01/10/a-car-bombing-in-karachi-pakistan-kills-chaudhry-aslam-khan-a-senior-police-investigator-known-for-pursuing-pakistani-taliban-militants.md)
 _Context: Chaudhry Aslam Khan, Karachi, Pakistan, Tehrik-i-Taliban Pakistan_
 
 ### [The Kenyan Air Force bombs a suspected militant camp in Garbahaareey, Somalia, killing 30 militants. ](/news/2014/01/10/the-kenyan-air-force-bombs-a-suspected-militant-camp-in-garbahaareey-somalia-killing-30-militants.md)

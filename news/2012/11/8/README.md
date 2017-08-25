@@ -3,7 +3,7 @@
 ### [Syrian civil war: Syrian President Bashar al-Assad rejects an offer to safely leave Syria and vows to "live and die" in the country. ](/news/2012/11/8/syrian-civil-war-syrian-president-bashar-al-assad-rejects-an-offer-to-safely-leave-syria-and-vows-to-live-and-die-in-the-country.md)
 Syrian President Bashar al-Assad vowed in an interview released today that he will &quot;live and die&quot; in his home country, as the crisis that has left at least 36,000 dead mounts to the point that the Red Cross says it is struggling to gain access to prisoners.
 
-### [Mario Draghi, president of the European Central Bank, confirms the overhaul of euro banknotes, beginning with the EUR5 note. ](/news/2012/11/8/mario-draghi-president-of-the-european-central-bank-confirms-the-overhaul-of-euro-banknotes-beginning-with-the-a-5-note.md)
+### [Mario Draghi, president of the European Central Bank, confirms the overhaul of euro banknotes, beginning with the -5 note. ](/news/2012/11/8/mario-draghi-president-of-the-european-central-bank-confirms-the-overhaul-of-euro-banknotes-beginning-with-the-5-note.md)
 The €5 note will be the first to get a facelift, with Europa&#8217;s face in the watermark and hologram. 
 
 ### [Jared Lee Loughner, the perpetrator in the 2011 Tucson shooting, is given 7 consecutive life sentences. ](/news/2012/11/8/jared-lee-loughner-the-perpetrator-in-the-2011-tucson-shooting-is-given-7-consecutive-life-sentences.md)

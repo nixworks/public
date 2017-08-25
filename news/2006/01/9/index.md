@@ -15,7 +15,7 @@ _Context: Dick Cheney, Vice President_
 ### [ Howard Stern debuted on Sirius Satellite Radio, ending a nearly 30 year run on terrestrial radio.](/news/2006/01/9/howard-stern-debuted-on-sirius-satellite-radio-ending-a-nearly-30-year-run-on-terrestrial-radio.md)
 _Context: Howard Stern_
 
-### [ ''The Phantom of the Opera'' surpassed ''Cats'' as the longest running Broadway musical with its 7,486th performance.](/news/2006/01/9/the-phantom-of-the-opera-surpassed-cats-as-the-longest-running-broadway-musical-with-its-7-486th-performance.md)
+### [ "The Phantom of the Opera" surpassed "Cats" as the longest running Broadway musical with its 7,486th performance.](/news/2006/01/9/the-phantom-of-the-opera-surpassed-cats-as-the-longest-running-broadway-musical-with-its-7-486th-performance.md)
 _Context: Broadway musical, Cats, The Phantom of the Opera_
 
 ### [ A bus catches fire in downtown Rio Grande. All passengers were rescued by bystanders and 27 people were injured.](/news/2006/01/9/a-bus-catches-fire-in-downtown-rio-grande-all-passengers-were-rescued-by-bystanders-and-27-people-were-injured.md)

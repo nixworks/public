@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Ciudad Juarez_
+1. [Ciudad Juarez-based newspaper "Norte" closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Ciudad Juarez_
 2. [Cisco announces a cut of 5,500 jobs in their shift from switches to software. ](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.md) _Context: Cisco_
 3. [Taiwanese electronics company Foxconn agrees to buy 60% of the Japanese Sharp Corporation for 389 billion yen ($3.5 billion). ](/news/2016/03/30/taiwanese-electronics-company-foxconn-agrees-to-buy-60-of-the-japanese-sharp-corporation-for-389-billion-yen-3-5-billion.md) _Context: Foxconn_
 4. [American networking equipment Cisco Systems announces plans to cut 4000 jobs. ](/news/2013/08/14/american-networking-equipment-cisco-systems-announces-plans-to-cut-4000-jobs.md) _Context: Cisco_

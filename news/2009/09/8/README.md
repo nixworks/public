@@ -9,7 +9,7 @@ _Context: Milwaukee, North Side Strangler, USA_
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
 _Context: Apollo, Hierapolis, Turkey, UNESCO, statue, world heritage site_
 
-### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal.  ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
+### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
 _Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norway, espionage, murder_
 
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)

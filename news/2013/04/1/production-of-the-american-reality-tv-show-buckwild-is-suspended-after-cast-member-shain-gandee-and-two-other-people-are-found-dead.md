@@ -1,6 +1,6 @@
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-# Production of the American reality TV show ''Buckwild'' is suspended after cast member Shain Gandee and two other people are found dead. 
+# Production of the American reality TV show "Buckwild" is suspended after cast member Shain Gandee and two other people are found dead. 
 
 
 

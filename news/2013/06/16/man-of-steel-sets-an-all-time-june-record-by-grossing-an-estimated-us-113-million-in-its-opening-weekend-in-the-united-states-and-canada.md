@@ -1,6 +1,6 @@
 ### [2013-06-16](/news/2013/06/16/index.md)
 
-# ''Man of Steel'' sets an all-time June record by grossing an estimated US$113 million in its opening weekend in the United States and Canada. 
+# "Man of Steel" sets an all-time June record by grossing an estimated US$113 million in its opening weekend in the United States and Canada. 
 
 
 

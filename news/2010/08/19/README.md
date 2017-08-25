@@ -36,10 +36,10 @@ _Context: Sail Amsterdam_
 ### [Foxconn states its intention to hire more workers following a rash of suicides among its workforce. ](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.md)
 _Context: Foxconn, suicide_
 
-### [An American egg company recalls 380 million products as outbreaks of ''salmonella'' poisoning spread across the United States. ](/news/2010/08/19/an-american-egg-company-recalls-380-million-products-as-outbreaks-of-salmonella-poisoning-spread-across-the-united-states.md)
+### [An American egg company recalls 380 million products as outbreaks of "salmonella" poisoning spread across the United States. ](/news/2010/08/19/an-american-egg-company-recalls-380-million-products-as-outbreaks-of-salmonella-poisoning-spread-across-the-united-states.md)
 A US egg company extends a nationwide food recall to 380 million eggs, after outbreaks of salmonella poisoning in a number of states.
 
-### [BP is accused by Transocean of trying to keep secret data required to investigate the ''Deepwater Horizon'' oil spill. ](/news/2010/08/19/bp-is-accused-by-transocean-of-trying-to-keep-secret-data-required-to-investigate-the-deepwater-horizon-oil-spill.md)
+### [BP is accused by Transocean of trying to keep secret data required to investigate the "Deepwater Horizon" oil spill. ](/news/2010/08/19/bp-is-accused-by-transocean-of-trying-to-keep-secret-data-required-to-investigate-the-deepwater-horizon-oil-spill.md)
 Energy giant BP is accused of withholding key data needed to investigate the Gulf of Mexico oil disaster.
 
 ### [The United Nations estimates that four million people have become homeless as a result of the 2010 Pakistan floods; Secretary-General of the United Nations Ban Ki-moon, speaking in New York, states that the floods are a "slow-motion tsunami" as he calls for more funds to assist those affected. ](/news/2010/08/19/the-united-nations-estimates-that-four-million-people-have-become-homeless-as-a-result-of-the-2010-pakistan-floods-secretary-general-of-the.md)
@@ -90,8 +90,8 @@ _Context: Brazil, Brazilian presidential election_
 ### [The Burmese authorities announce thirteen new campaigning rules for the general election in November. ](/news/2010/08/19/the-burmese-authorities-announce-thirteen-new-campaigning-rules-for-the-general-election-in-november.md)
 Military-ruled Myanmar Thursday announced restrictions on campaigning for Novembers general election that it said were to assure the polls are free and...
 
-### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo Bao Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baopso-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congres.md)
-_Context: Cedric Villani, Elon Lindenstrauss, Fields Medal, Hyderabad, International Congress of Mathematicians, Ngo Bao Chau, Stanislav Smirnov_
+### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo BGBPo Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baogbpo-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congr.md)
+_Context: Cedric Villani, Elon Lindenstrauss, Fields Medal, Hyderabad, International Congress of Mathematicians, Ngo BGBPo Chau, Stanislav Smirnov_
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

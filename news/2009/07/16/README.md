@@ -13,7 +13,7 @@ _Context: China, GDP, global economic crisis_
 _Context: First Vice President, Gholam Reza Aghazadeh, Iran nuclear chief_
 
 ### [ Former South Korean President and Nobel Peace Prize winner Kim Dae-jung is in an intensive care unit in a Seoul hospital being treated for pneumonia. ](/news/2009/07/16/former-south-korean-president-and-nobel-peace-prize-winner-kim-dae-jung-is-in-an-intensive-care-unit-in-a-seoul-hospital-being-treated-for.md)
-_Context: Kim Dae-jung, Nobel Peace Prize, Seoul, South Korea, South Korean President, pneumonia_
+_Context: Kim Dae-jung, Nobel Peace Prize, President of South Korea, Seoul, South Korea, pneumonia_
 
 ### [ President Kurbanguly Berdymukhamedov of Turkmenistan announces the latest stage of a plan to channel drainage water from the country's cotton fields through desert. ](/news/2009/07/16/president-kurbanguly-berdymukhamedov-of-turkmenistan-announces-the-latest-stage-of-a-plan-to-channel-drainage-water-from-the-country-s-cott.md)
 _Context: Gurbanguly Berdimuhamedow, Turkmenistan, cotton, president_

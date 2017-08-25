@@ -1,6 +1,6 @@
 ### [2010-10-16](/news/2010/10/16/index.md)
 
-# Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel ''The Picture of Dorian Gray''. 
+# Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel "The Picture of Dorian Gray". 
 
 
 

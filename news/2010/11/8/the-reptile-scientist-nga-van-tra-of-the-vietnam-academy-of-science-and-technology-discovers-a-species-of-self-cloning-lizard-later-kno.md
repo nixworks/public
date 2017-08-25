@@ -1,6 +1,6 @@
 ### [2010-11-8](/news/2010/11/8/index.md)
 
-# The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as ''Leiolepis ngovantrii'' when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. 
+# The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as "Leiolepis ngovantrii" when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. 
 
 
 
@@ -12,7 +12,7 @@
 ### Related:
 
 1. [After a two-year research project conducted by scientists at the National Chemistry Institute of the Vietnam Academy of Science and Technology, Vietnam becomes the world's tenth country to successfully apply nanotechnology to produce nano curcumin, a substance that can help treat cancer. ](/news/2013/10/31/after-a-two-year-research-project-conducted-by-scientists-at-the-national-chemistry-institute-of-the-vietnam-academy-of-science-and-technolo.md) _Context: Vietnam Academy of Science and Technology_
-2. [In a study published in ''Nature'', University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md) _Context: cloning_
+2. [In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md) _Context: cloning_
 3. [ South Korean cloning scientist Hwang Woo-Suk is convicted of fraud over his stem cell research. ](/news/2009/10/26/south-korean-cloning-scientist-hwang-woo-suk-is-convicted-of-fraud-over-his-stem-cell-research.md) _Context: cloning_
 4. [ The first transgenic, fluorescent dogs are cloned in South Korea. ](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.md) _Context: cloning_
 5. [ The Camel Reproduction Center in Dubai, United Arab Emirates, announces the birth of Injaz, the first cloned camel. ](/news/2009/04/14/the-camel-reproduction-center-in-dubai-united-arab-emirates-announces-the-birth-of-injaz-the-first-cloned-camel.md) _Context: cloning_

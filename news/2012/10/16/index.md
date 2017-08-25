@@ -3,7 +3,7 @@
 ### [Senkaku Islands dispute: Seven People's Liberation Army Navy warships are spotted by Japanese helicopters outside Japanese territorial waters near Yonaguni. ](/news/2012/10/16/senkaku-islands-dispute-seven-people-s-liberation-army-navy-warships-are-spotted-by-japanese-helicopters-outside-japanese-territorial-water.md)
 The Japanese government&#8217;s Defense Ministry stated on Tuesday that as many as seven Chinese Navy warships were found just outside of territorial waters not far from Okinawa. Government officia…
 
-### [Saudi Arabia's official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md)
+### [Saudi Arabia-s official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabia-s-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md)
 _Context: Riyadh, Saudi Arabia_
 
 ### [Several structures were set ablaze and as many as 24 militants were killed after suspected bombing Boko Haram attacks rocked the Nigerian city of Maiduguri. ](/news/2012/10/16/several-structures-were-set-ablaze-and-as-many-as-24-militants-were-killed-after-suspected-bombing-boko-haram-attacks-rocked-the-nigerian-ci.md)
@@ -15,7 +15,7 @@ Two al Qaeda militants and two tribesmen allied to the army were killed in an at
 ### [A United Nations expert panel reports that although the two governments deny it, Rwanda and Uganda continue to support the March 23 Movement. ](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.md)
 _Context: M23, Rwanda, Uganda, United Nations_
 
-### [Hilary Mantel wins the 2012 Man Booker Prize for her novel ''Bring Up the Bodies'', becoming the first British author to win the award twice, and the first female to do so. ](/news/2012/10/16/hilary-mantel-wins-the-2012-man-booker-prize-for-her-novel-bring-up-the-bodies-becoming-the-first-british-author-to-win-the-award-twice.md)
+### [Hilary Mantel wins the 2012 Man Booker Prize for her novel "Bring Up the Bodies", becoming the first British author to win the award twice, and the first female to do so. ](/news/2012/10/16/hilary-mantel-wins-the-2012-man-booker-prize-for-her-novel-bring-up-the-bodies-becoming-the-first-british-author-to-win-the-award-twice.md)
 Hilary Mantel wins the Man Booker Prize for her tale of Tudor treachery, Bring up the Bodies, becoming the first woman to win it twice.
 
 ### [Foxconn, Apple's main supplier in China, admits it employs interns as young as 14 years old. ](/news/2012/10/16/foxconn-apple-s-main-supplier-in-china-admits-it-employs-interns-as-young-as-14-years-old.md)
@@ -30,7 +30,7 @@ _Context: Fiestas, Ford, airbag_
 ### [A report on St. Patrick's Institution in Dublin finds a culture of human rights abuse. ](/news/2012/10/16/a-report-on-st-patrick-s-institution-in-dublin-finds-a-culture-of-human-rights-abuse.md)
 A damning report on St Patrick&#39;s Institution in Dublin has found a culture that led to the human rights of some children and young adults being either ignored or violated.
 
-### [The BBC appoints the heads of two separate inquiries into the sexual abuse scandal that has engulfed Jimmy Savile. Former High Court judge Dame Janet Smith will review the culture and practices of the BBC during the time Savile worked there, while Nick Pollard, a former Sky News executive will look at why a ''Newsnight'' investigation into Savile's activities was dropped shortly before transmission. ](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.md)
+### [The BBC appoints the heads of two separate inquiries into the sexual abuse scandal that has engulfed Jimmy Savile. Former High Court judge Dame Janet Smith will review the culture and practices of the BBC during the time Savile worked there, while Nick Pollard, a former Sky News executive will look at why a "Newsnight" investigation into Savile's activities was dropped shortly before transmission. ](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.md)
 The judge who led the inquiry into serial killer Harold Shipman will chair an investigation into Sir Jimmy Savile&rsquo;s alleged abuse of children at the BBC.
 
 ### [The United Kingdom announces its intention to close its consulate in Basra, Iraq. ](/news/2012/10/16/the-united-kingdom-announces-its-intention-to-close-its-consulate-in-basra-iraq.md)

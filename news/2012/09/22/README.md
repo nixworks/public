@@ -1,9 +1,9 @@
 ## [2012-09-22](/news/2012/09/22/index.md)
 
-### [2012 diplomatic missions attacks:Demanding the disbandment of armed groups, hundreds of demonstrators attack Ansar al-Sharia and Islamist militia compounds in Benghazi, Libya. Eleven people die in the clashes. Libyan authorities re-take control of deserted strongholds. ](/news/2012/09/22/2012-diplomatic-missions-attacks-pdemanding-the-disbandment-of-armed-groups-hundreds-of-demonstrators-attack-ansar-al-sharia-and-islamist-m.md)
+### [2012 diplomatic missions attacks:. Demanding the disbandment of armed groups, hundreds of demonstrators attack Ansar al-Sharia and Islamist militia compounds in Benghazi, Libya. Eleven people die in the clashes. Libyan authorities re-take control of deserted strongholds. ](/news/2012/09/22/2012-diplomatic-missions-attacks-demanding-the-disbandment-of-armed-groups-hundreds-of-demonstrators-attack-ansar-al-sharia-and-islamist.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Syrian civil war:An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/syrian-civil-war-pan-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside.md)
+### [Syrian civil war:. An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/syrian-civil-war-an-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside.md)
 The rebel Free Syrian Army announces it has moved its command centre from Turkey to &quot;liberated areas&quot; inside Syria.
 
 ### [Eight people die in clashes between Zaydi rebels and Salafis. The Zaidis oppose the nomination by Al-Islah of new provincial leaders in northern Yemen. ](/news/2012/09/22/eight-people-die-in-clashes-between-zaydi-rebels-and-salafis-the-zaidis-oppose-the-nomination-by-al-islah-of-new-provincial-leaders-in-nort.md)
@@ -21,7 +21,7 @@ The Roman Catholic Church in the Australian state of Victoria confirms that more
 ### [Belgian MEP and former PM Guy Verhofstadt warns that the Flemish N-VA party and the far right are "the same". N-VA dismisses the criticism as "gratuitous". ](/news/2012/09/22/belgian-mep-and-former-pm-guy-verhofstadt-warns-that-the-flemish-n-va-party-and-the-far-right-are-the-same-n-va-dismisses-the-criticism-a.md)
 _Context: Belgian Prime Minister, Guy Verhofstadt, Member of the European Parliament, New Flemish Alliance, far-right extremist_
 
-### [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of ''Innocence of Muslims''. The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-o.md)
+### [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of "Innocence of Muslims". The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-of.md)
 _Context: Ghulam Ahmad Bilour, Innocence of Muslims, Pakistan, government, minister of railways_
 
 ## [Previous Day...](/news/2012/09/21/index.md)

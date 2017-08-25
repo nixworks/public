@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approaches.md) _Context: Cook Islands_
+1. [2015-16 South Pacific cyclone season. A tropical cyclone warning is issued for the northern Cook Islands as Tropical Cyclone Victor approaches. ](/news/2016/01/15/2015-16-south-pacific-cyclone-season-a-tropical-cyclone-warning-is-issued-for-the-northern-cook-islands-as-tropical-cyclone-victor-approa.md) _Context: Cook Islands_
 2. [The Cook Islands announces the country's first ever HIV infection. ](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.md) _Context: Cook Islands_
 3. [The Cook Islands Party wins a majority of seats in the Cook Islands general election, defeating the incumbent Democratic Party. Henry Puna will become the next Prime Minister. ](/news/2010/11/19/the-cook-islands-party-wins-a-majority-of-seats-in-the-cook-islands-general-election-defeating-the-incumbent-democratic-party-henry-puna-w.md) _Context: Cook Islands_
 4. [People in the Pacific island nation of Cook Islands go to the polls for the general election as well as a referendum on reducing the number of MPs. ](/news/2010/11/17/people-in-the-pacific-island-nation-of-cook-islands-go-to-the-polls-for-the-general-election-as-well-as-a-referendum-on-reducing-the-number.md) _Context: Cook Islands_

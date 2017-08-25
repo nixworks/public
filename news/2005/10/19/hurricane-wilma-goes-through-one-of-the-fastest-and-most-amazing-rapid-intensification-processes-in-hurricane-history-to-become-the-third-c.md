@@ -1,6 +1,6 @@
 ### [2005-10-19](/news/2005/10/19/index.md)
 
-#  Hurricane Wilma goes through one of the fastest and most amazing rapid intensification processes in hurricane history to become the third Category 5 storm of 2005.  Its central pressure falls to 882 mb (hPa), becoming the most intense hurricane ever recorded in the Atlantic. To date, the 2005 Atlantic Basin Hurricane Season has seen 21 storms of tropical storm strength or greater and 12 hurricanes, both of which tie the records set in 1933 and 1969, respectively. 
+#  Hurricane Wilma goes through one of the fastest and most amazing rapid intensification processes in hurricane history to become the third Category 5 storm of 2005. Its central pressure falls to 882 mb (hPa), becoming the most intense hurricane ever recorded in the Atlantic. To date, the 2005 Atlantic Basin Hurricane Season has seen 21 storms of tropical storm strength or greater and 12 hurricanes, both of which tie the records set in 1933 and 1969, respectively. 
 
 
 

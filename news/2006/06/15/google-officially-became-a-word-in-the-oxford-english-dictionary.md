@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [The ''Oxford English Dictionary'' confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md) _Context: Oxford English Dictionary_
-2. [A vault containing non-words - those rejected by the ''Oxford English Dictionary'' - is uncovered. ](/news/2010/08/4/a-vault-containing-non-words-those-rejected-by-the-oxford-english-dictionary-is-uncovered.md) _Context: Oxford English Dictionary_
+1. [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md) _Context: Oxford English Dictionary_
+2. [A vault containing non-words - those rejected by the "Oxford English Dictionary" - is uncovered. ](/news/2010/08/4/a-vault-containing-non-words-those-rejected-by-the-oxford-english-dictionary-is-uncovered.md) _Context: Oxford English Dictionary_

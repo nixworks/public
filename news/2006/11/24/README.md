@@ -9,7 +9,7 @@ _Context: France, Jean-Louis Bruguire, Juvnal Habyarimana, Paul Kagame, Presiden
 ### [ Israeli-Palestinian conflict: Israel and Palestinians have agreed to a ceasefire.](/news/2006/11/24/israeli-palestinian-conflict-israel-and-palestinians-have-agreed-to-a-ceasefire.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 
-### [ Campaigning has ended in Bahrain's  parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is.md)
+### [ Campaigning has ended in Bahrain's parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is-e.md)
 _Context: Bahrain, International Herald Tribune, parliamentary elections_
 
 ### [ In the last statement before his death, poisoned former Russian spy Alexander Litvinenko accuses Russian president Vladimir Putin of his murder. ](/news/2006/11/24/in-the-last-statement-before-his-death-poisoned-former-russian-spy-alexander-litvinenko-accuses-russian-president-vladimir-putin-of-his-mu.md)

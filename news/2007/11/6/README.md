@@ -6,7 +6,7 @@ _Context: Brussels, Eurostar, High Speed 1, London, Paris, Queen Elizabeth, St P
 ### [ At least 35 people are killed and dozens more wounded in a suicide bombing in northern Afghanistan, officials say. ](/news/2007/11/6/at-least-35-people-are-killed-and-dozens-more-wounded-in-a-suicide-bombing-in-northern-afghanistan-officials-say.md)
 _Context: Afghanistan's, suicide bombing_
 
-### [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-a-149-days-have-pas.md)
+### [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-149-days-have-pas.md)
 _Context: Belgium, forms a temporary coalition government, general election_
 
 ### [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.date=December 2007](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.md)

@@ -1,18 +1,18 @@
 ## [2013-04-21](/news/2013/04/21/index.md)
 
-### [Syrian civil war:Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-plocals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md)
+### [Syrian civil war:. Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-locals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md)
 _Context: Damascus, Syrian Army, Syrian Civil War_
 
-### [Nigerian Sharia conflict:In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-pin-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md)
+### [Nigerian Sharia conflict:. In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-in-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md)
 BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extremists killed at least 185 people in a fishing community in the nation&#39;s far northeast, officials said Sunday, an attack that saw insurgents fire rocket-propelled grenades and soldiers spray machine-gun fire into neig...
 
-### [War in Somalia (2009-present):A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009apresent-pa-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md)
+### [War in Somalia (2009-present):. A Somali journalist is shot and killed in an attack by unknown gunmen. ](/news/2013/04/21/war-in-somalia-2009-present-a-somali-journalist-is-shot-and-killed-in-an-attack-by-unknown-gunmen.md)
 Mohamed Ibrahim Rageh had fled Mogadishu, the Somali capital, in 2009 after a spate of killings, but returned to continue his career.
 
 ### [American actress Reese Witherspoon is arrested in Atlanta, Georgia, on charges of disorderly conduct. ](/news/2013/04/21/american-actress-reese-witherspoon-is-arrested-in-atlanta-georgia-on-charges-of-disorderly-conduct.md)
 _Context: Atlanta, Georgia, Reese Witherspoon, U.S._
 
-### [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-a-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md)
+### [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md)
 Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from breast cancer and multiple sclerosis.
 
 ### [A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. ](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kills-at-least-18-people-and-injures-12-others.md)
@@ -21,7 +21,7 @@ _Context: China, Jilin province, mining accident_
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
 _Context: Mississippi River, Missouri, St. Louis's, United States, crest, flooding, midwestern_
 
-### [2013 Korean crisis:North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-pnorth-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md)
+### [2013 Korean crisis:. North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md)
 North Korea has moved two more missile launchers to its east coast, where preparations are apparently under way for a missile test as tensions simmer on the peninsula, reports say.
 
 ### [Twenty-three Brazilian police officers are sentenced to 156 years in jail each for their involvement in the 1992 Carandiru prison massacre. ](/news/2013/04/21/twenty-three-brazilian-police-officers-are-sentenced-to-156-years-in-jail-each-for-their-involvement-in-the-1992-carandiru-prison-massacre.md)

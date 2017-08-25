@@ -1,6 +1,6 @@
 ### [2016-06-6](/news/2016/06/6/index.md)
 
-# Researchers report that testing of 5,000 forgotten Cuyahoga County, Ohio, police rape kits for unsolved cases between 1993 and 2010  has led to more than 250 criminal convictions.  
+# Researchers report that testing of 5,000 forgotten Cuyahoga County, Ohio, police rape kits for unsolved cases between 1993 and 2010 has led to more than 250 criminal convictions. 
 
 The testing of thousands of old police &quot;rape kits&quot; has led to more than 250 convictions, and may change the way cases are handled, a new report said Monday.
 

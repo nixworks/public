@@ -9,7 +9,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 ### [ Hezbollah members demonstrate their opposition to the Siniora administration in Beirut, Lebanon. ](/news/2006/12/1/hezbollah-members-demonstrate-their-opposition-to-the-siniora-administration-in-beirut-lebanon.md)
 _Context: Beirut, Fouad Siniora, Hezbollah, Lebanon_
 
-### [ As Bahrain prepares for tomorrow's second round of its  parliamentary elections, a Member of Parliament from the Kingdom's largest party calls for legislation to restrict women's employment. ](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-of-its-parliamentary-elections-a-member-of-parliament-from-the-kingdom-s-largest-party-ca.md)
+### [ As Bahrain prepares for tomorrow's second round of its parliamentary elections, a Member of Parliament from the Kingdom's largest party calls for legislation to restrict women's employment. ](/news/2006/12/1/as-bahrain-prepares-for-tomorrow-s-second-round-of-its-parliamentary-elections-a-member-of-parliament-from-the-kingdom-s-largest-party-cal.md)
 _Context: Bahrain, MP, parliamentary elections_
 
 ### [ Felipe Caldern becomes the President of Mexico. ](/news/2006/12/1/felipe-calderon-becomes-the-president-of-mexico.md)

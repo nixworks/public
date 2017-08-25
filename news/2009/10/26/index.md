@@ -21,10 +21,10 @@ _Context: Japan, Noriko Sakai, Tokyo_
 ### [ South Korean cloning scientist Hwang Woo-Suk is convicted of fraud over his stem cell research. ](/news/2009/10/26/south-korean-cloning-scientist-hwang-woo-suk-is-convicted-of-fraud-over-his-stem-cell-research.md)
 _Context: Hwang Woo-Suk, South Korea, cloning, stem cell_
 
-### [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the ''Red Lines'' sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scand.md)
+### [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the "Red Lines" sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scandal.md)
 Saskatoon-based visual artist Zachari Logan explores spaces in Saskatchewan that are rarely given a second thought: the ditches by the side of the road.
 
-### [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of ''North Eastern Monthly'', and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charge.md)
+### [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of "North Eastern Monthly", and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charged.md)
 _Context: Colombo, North Eastern Monthly, Sri Lanka, Vetrivel Jaseeharan_
 
 ### [ It is announced that Silvio Berlusconi will stand trial on 16 November. ](/news/2009/10/26/it-is-announced-that-silvio-berlusconi-will-stand-trial-on-16-november.md)

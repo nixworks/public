@@ -15,7 +15,7 @@ _Context: House of Representatives, Nigeria, Patricia Etteh, speaker_
 ### [ The United States Supreme Court halts an execution in Mississippi pending its decision as to whether lethal injections are a form of cruel and unusual punishment. ](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.md)
 _Context: Mississippi, United States Supreme Court, cruel and unusual punishment, lethal injection_
 
-### [ The President of the United States George W. Bush  nominates James Peake as the next United States Secretary of Veterans Affairs. ](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.md)
+### [ The President of the United States George W. Bush nominates James Peake as the next United States Secretary of Veterans Affairs. ](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.md)
 President Bush on Tuesday named a retired Army lieutenant general and executive of a firm that earns most of its revenue from federal veterans programs to head the troubled Department of Veterans...
 
 ### [ The United States Congress votes to extend a ban on Internet taxes for another seven years. ](/news/2007/10/30/the-united-states-congress-votes-to-extend-a-ban-on-internet-taxes-for-another-seven-years.md)
