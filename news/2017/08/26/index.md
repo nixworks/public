@@ -1,8 +1,5 @@
 ## [2017-08-26](/news/2017/08/26/index.md)
 
-### [A U.S. Sikorsky UH-60 Black Hawk helicopter crashed off the coast of Yemen on Friday during a training mission and a search is currently under way for one U.S. service member. U.S. Central Command said in a statement that five other service members aboard the aircraft had been rescued after the crash, which took place about 20 miles (32 km) off the southern coast of Yemen. ](/news/2017/08/26/a-u-s-sikorsky-uh-60-black-hawk-helicopter-crashed-off-the-coast-of-yemen-on-friday-during-a-training-mission-and-a-search-is-currently-und.md)
-A U.S. Black Hawk helicopter crashed off the coast of Yemen on Friday during a training mission and a search was under way for one U.S. service member, the U.S. military said.
-
 ### [The South Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. ](/news/2017/08/26/the-south-korean-military-reports-north-korea-has-fired-several-short-range-projectiles-into-the-sea-from-its-eastern-kangwon-province-the.md)
 North Korea fired several short-range missiles into the sea off its east coast early on Saturday, South Korea and the U.S. military said, as the two allies conducted annual joint military drills that the North denounces as preparation for war.
 
