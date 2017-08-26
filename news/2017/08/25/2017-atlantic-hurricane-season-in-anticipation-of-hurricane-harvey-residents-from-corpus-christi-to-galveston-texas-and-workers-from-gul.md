@@ -1,6 +1,6 @@
 ### [2017-08-25](/news/2017/08/25/index.md)
 
-# 2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm's landfall, perhaps by late Friday, as a Category 3 hurricane, would be the strongest one to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. 
+# 2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm, now a Category 4 hurricane, will make landfall tonight as the strongest to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. 
 
 Hurricane Harvey intensified early on Friday, spinning into potentially the biggest hurricane to hit the U.S. mainland in more than a decade, with life-threatening floods expected along the Gulf Coast.
 
@@ -8,8 +8,9 @@ Hurricane Harvey intensified early on Friday, spinning into potentially the bigg
 ### Source:
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/250235.shtml)
-2. [Reuters](https://www.reuters.com/article/us-global-oil-idUSKCN1B503E?il=0)
-3. [Reuters](https://www.reuters.com/article/us-storm-harvey-nhc-idUSKCN1B409K)
+2. [National Hurricane Center²](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/252055.shtml?)
+3. [Reuters](https://www.reuters.com/article/us-global-oil-idUSKCN1B503E?il=0)
+4. [Reuters](https://www.reuters.com/article/us-storm-harvey-nhc-idUSKCN1B409K)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ### [2017-08-24](/news/2017/08/24/index.md)
 
-# Colombia-Venezuela relations: Censorship in Venezuela: Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels, Caracol Television and RCN Television, off air due to their coverage of the 2017 Venezuelan constitutional crisis. 
+# Colombia-Venezuela relations: Censorship in Venezuela: Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. 
 
 Colombian TV channels Caracol and RCN are the latest foreign media to be pulled from the airwaves.
 

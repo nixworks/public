@@ -12,7 +12,7 @@ Devastating rainfall flooding, dangerous storm surge and high winds are expected
 ### [Iran-Qatar relations: Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/iran-qatar-relations-qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md)
 _Context: Iran, Iran-Qatar relations, Qatar_
 
-### [Colombia-Venezuela relations: Censorship in Venezuela: Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels, Caracol Television and RCN Television, off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/colombia-venezuela-relations-censorship-in-venezuela-venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-tel.md)
+### [Colombia-Venezuela relations: Censorship in Venezuela: Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/colombia-venezuela-relations-censorship-in-venezuela-venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-tel.md)
 Colombian TV channels Caracol and RCN are the latest foreign media to be pulled from the airwaves.
 
 ### [Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats homes. ](/news/2017/08/24/cuba-united-states-relations-the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cu.md)
