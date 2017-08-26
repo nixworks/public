@@ -1,6 +1,6 @@
 ### [2007-05-7](/news/2007/05/7/index.md)
 
-#  Kenya Airways Flight 507:. Search officials confirm that there were no survivors. 
+#  Kenya Airways Flight 507:: Search officials confirm that there were no survivors. 
 
 
 

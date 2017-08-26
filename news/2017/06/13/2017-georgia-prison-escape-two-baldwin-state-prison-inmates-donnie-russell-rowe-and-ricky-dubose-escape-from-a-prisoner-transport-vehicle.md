@@ -1,6 +1,6 @@
 ### [2017-06-13](/news/2017/06/13/index.md)
 
-# 2017 Georgia prison escape. Two Baldwin State Prison inmates, Donnie Russell Rowe and Ricky Dubose, escape from a prisoner transport vehicle on Georgia State Route 16 after overpowering and killing two police officers. The prisoners then carjacked a passing Honda Civic and fled towards Eatonton, Georgia, according to officials. 
+# 2017 Georgia prison escape: Two Baldwin State Prison inmates, Donnie Russell Rowe and Ricky Dubose, escape from a prisoner transport vehicle on Georgia State Route 16 after overpowering and killing two police officers. The prisoners then carjacked a passing Honda Civic and fled towards Eatonton, Georgia, according to officials. 
 
 The escaped inmates are named Donnie Russell Rowe and Ricky Dubose.
 

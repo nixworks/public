@@ -1,6 +1,6 @@
 ## [2012-02-11](/news/2012/02/11/index.md)
 
-### [Arab Spring:. Syrian Civil War:. A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end.md)
+### [Arab Spring:: Syrian Civil War:: A draft resolution is circulated by Saudi Arabia at the United Nations General Assembly calling for an end to the violence, as the Syrian city of Homs is besieged by the Syrian army. ](/news/2012/02/11/arab-spring-syrian-civil-war-a-draft-resolution-is-circulated-by-saudi-arabia-at-the-united-nations-general-assembly-calling-for-an-end.md)
 Several wounded in second day of violence involving supporters and opponents of Syrian President Bashar Assad.
 
 ### [The Israeli Air Force conducts four air strikes in the Gaza Strip with claims that two people were injured. ](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.md)

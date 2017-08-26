@@ -1,6 +1,6 @@
 ### [2009-12-13](/news/2009/12/13/index.md)
 
-# 2009 United Nations Climate Change Conference. Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. 
+# 2009 United Nations Climate Change Conference: Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. 
 
 News and opinion from The Times &amp; The Sunday Times
 

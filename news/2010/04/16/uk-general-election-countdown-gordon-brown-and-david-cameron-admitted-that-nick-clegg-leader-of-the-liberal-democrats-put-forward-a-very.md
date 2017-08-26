@@ -1,6 +1,6 @@
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-# UK general election countdown:. Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. 
+# UK general election countdown:: Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. 
 
 
 

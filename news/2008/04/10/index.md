@@ -6,7 +6,7 @@ _Context: Anders Lago, Canada, Iraq, Sdertlje, Sweden, United States, refugee_
 ### [ Frontier Airlines files for bankruptcy protection. ](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.md)
 _Context: Frontier Airlines, bankruptcy_
 
-### [ 2008 Summer Olympics:. The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md)
+### [ 2008 Summer Olympics:: The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/2008-summer-olympics-the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md)
 The Olympic torch arrives in Argentina with organisers desperate to avoid repeat of San Francisco debacle.
 
 ### [ A suicide car bomber attacks a NATO convoy in Kandahar, resulting in the death of eight citizens. ](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-kandahar-resulting-in-the-death-of-eight-citizens.md)

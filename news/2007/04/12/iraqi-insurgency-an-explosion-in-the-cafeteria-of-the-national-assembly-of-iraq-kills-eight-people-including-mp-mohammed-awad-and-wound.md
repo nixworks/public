@@ -1,6 +1,6 @@
 ### [2007-04-12](/news/2007/04/12/index.md)
 
-#  Iraqi insurgency:. An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. 
+#  Iraqi insurgency:: An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. 
 
 A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, killing at least ten people and sending cars toppling into the Tigris River below, police and witnesses said.
 
@@ -23,4 +23,4 @@ A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, kill
 7. [ Iraqi insurgency: A roadside bomb kills two civilians near Baghdad's Green Zone. ](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.md) _Context: Iraqi insurgency_
 8. [ Iraq's main Sunni Arab political block, the Iraqi Accord Front, agrees to end its boycott of the Iraqi Council of Representatives. ](/news/2007/07/19/iraq-s-main-sunni-arab-political-block-the-iraqi-accord-front-agrees-to-end-its-boycott-of-the-iraqi-council-of-representatives.md) _Context: Iraqi Council of Representatives_
 9. [ Two-thirds of the Iraqi Council of Representatives removes Speaker of the Council of Representatives Mahmoud al-Mashhadani due to repeated acts of violence to other members by him or his staff. ](/news/2007/06/11/two-thirds-of-the-iraqi-council-of-representatives-removes-speaker-of-the-council-of-representatives-mahmoud-al-mashhadani-due-to-repeated.md) _Context: Iraqi Council of Representatives_
-10. [ Iraqi insurgency:. At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _Context: Iraqi insurgency_
+10. [ Iraqi insurgency:: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md) _Context: Iraqi insurgency_

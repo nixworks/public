@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2012 Benghazi attack:. CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _Context: 60 Minutes, CBS_
+1. [2012 Benghazi attack:: CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _Context: 60 Minutes, CBS_
 2. [ The CBS television program "60 Minutes" airs a story on a lawsuit against the hedge fund SAC, alleging that it orchestrated a fall in the stock price of Canadian drug company Biovail.](/news/2006/03/26/the-cbs-television-program-60-minutes-airs-a-story-on-a-lawsuit-against-the-hedge-fund-sac-alleging-that-it-orchestrated-a-fall-in-the-s.md) _Context: 60 Minutes, CBS_
 3. [Comedian David Letterman, host of CBS's "Late Show with David Letterman", announces his planned retirement in 2015. ](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.md) _Context: CBS_
 4. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show "The Late Late Show", effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-december.md) _Context: CBS_

@@ -1,9 +1,9 @@
 ## [2014-11-20](/news/2014/11/20/index.md)
 
-### [ADF insurgency. The Ugandan rebel group kills up to 80 people near Beni in North Kivu, Democratic Republic of the Congo. ](/news/2014/11/20/adf-insurgency-the-ugandan-rebel-group-kills-up-to-80-people-near-beni-in-north-kivu-democratic-republic-of-the-congo.md)
+### [ADF insurgency: The Ugandan rebel group kills up to 80 people near Beni in North Kivu, Democratic Republic of the Congo. ](/news/2014/11/20/adf-insurgency-the-ugandan-rebel-group-kills-up-to-80-people-near-beni-in-north-kivu-democratic-republic-of-the-congo.md)
 Suspected Ugandan ADF-NALU rebels have killed between 50 and 80 people in attacks near the eastern Congolese town of Beni, slitting the throats of many of their victims, local sources and witnesses said on Friday.
 
-### [15th Latin Grammy Awards:. Enrique Iglesias, Gente de Zona, and Descemer Bueno win three Latin Grammy Awards including Song of the Year for "Bailando". ](/news/2014/11/20/15th-latin-grammy-awards-enrique-iglesias-gente-de-zona-and-descemer-bueno-win-three-latin-grammy-awards-including-song-of-the-year-for.md)
+### [15th Latin Grammy Awards:: Enrique Iglesias, Gente de Zona, and Descemer Bueno win three Latin Grammy Awards including Song of the Year for "Bailando". ](/news/2014/11/20/15th-latin-grammy-awards-enrique-iglesias-gente-de-zona-and-descemer-bueno-win-three-latin-grammy-awards-including-song-of-the-year-for.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [North Korea threatens to conduct another nuclear test in response to a United Nations Human Rights Council resolution passed on Tuesday recommending the Security Council authorise a probe into human rights abuses. ](/news/2014/11/20/north-korea-threatens-to-conduct-another-nuclear-test-in-response-to-a-united-nations-human-rights-council-resolution-passed-on-tuesday-reco.md)
@@ -15,7 +15,7 @@ _Context: Eddie Obeid, Ian Macdonald, Independent Commission against Corruption,
 ### [A knife attack in a sanatorium dormitory in the Northern China resort of Beidahe kills seven people, including six nurses. ](/news/2014/11/20/a-knife-attack-in-a-sanatorium-dormitory-in-the-northern-china-resort-of-beidahe-kills-seven-people-including-six-nurses.md)
 _Context: Beidahe, northern China, sanatorium_
 
-### [Sinking of the MV Sewol. A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/sinking-of-the-mv-sewol-a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to.md)
+### [Sinking of the MV Sewol: A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/sinking-of-the-mv-sewol-a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to.md)
 _Context: Chonghaejin Marine, MV ''Sewol'', Sinking of the MV ''Sewol'', South Korea_
 
 ### [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md)

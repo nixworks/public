@@ -18,7 +18,7 @@ _Context: Istiqlal Party, Morocco, parliamentary elections_
 ### [ At least 18 people are injured in a car bomb blast in Peshawar, Pakistan. ](/news/2007/09/8/at-least-18-people-are-injured-in-a-car-bomb-blast-in-peshawar-pakistan.md)
 _Context: Pakistan, Peshawar_
 
-### [ Islamic insurgency in Algeria (2002-present):. At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md)
+### [ Islamic insurgency in Algeria (2002-present):: At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/islamic-insurgency-in-algeria-2002-present-at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barra.md)
 _Context: Algeria, Algiers, Dellys, Islamic insurgency in Algeria (2002-present)_
 
 ### [ At least 85 Hindu pilgrims have died after a lorry accident in India. (Wikinews) ](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.md)
@@ -27,10 +27,10 @@ _Context: (Wikinews), Hindu, India, pilgrims_
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)
 _Context: Tropical Storm Gabrielle, United States, tropical storm_
 
-### [ Democratic Republic of the Congo:. The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md)
+### [ Democratic Republic of the Congo:: The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/democratic-republic-of-the-congo-the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph.md)
 Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has accused government troops of breaking a cease-fire in the east of the country.
 
-### [ APEC. Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/apec-leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction.md)
+### [ APEC: Leaders at the Asia-Pacific Economic Cooperation meeting in Sydney considers an aspirational climate change target of a 25% reduction in greenhouse gas emissions by 2030. ](/news/2007/09/8/apec-leaders-at-the-asia-pacific-economic-cooperation-meeting-in-sydney-considers-an-aspirational-climate-change-target-of-a-25-reduction.md)
 The biggest march scheduled during the APEC summit has ended in central Sydney with nine arrests and injuries to two police officers.
 
 ## [Previous Day...](/news/2007/09/7/index.md)

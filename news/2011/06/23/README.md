@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan's, Barack Obama, France, United States, president_
+_Context: Afghanistan's, Barack Obama, France, President, United States_
 
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -39,7 +39,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
 _Context: 2011 Pacific typhoon season, China, Guangdong province, tropical storm_
 
-### [2011 Missouri River floods:. U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
+### [2011 Missouri River floods:: U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.
 
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)
@@ -76,7 +76,7 @@ _Context: Arizona, Don Lapre, Tempe, fraud, pitchman_
 Former nightclub doorman Levi Bellfield is found guilty of murdering 13-year-old Milly Dowler in Surrey in 2002.
 
 ### [The President of the United States Barack Obama states that gay and lesbian couples "deserve the same legal rights as every other couple in this country" at a function for LGBT people in New York City. ](/news/2011/06/23/the-president-of-the-united-states-barack-obama-states-that-gay-and-lesbian-couples-deserve-the-same-legal-rights-as-every-other-couple-in.md)
-_Context: Barack Obama, New York City, gay and bisexual men, president_
+_Context: Barack Obama, New York City, President, gay and bisexual men_
 
 ### [The New Jersey General Assembly passes a bill overhauling the health and pension benefits of public employees. ](/news/2011/06/23/the-new-jersey-general-assembly-passes-a-bill-overhauling-the-health-and-pension-benefits-of-public-employees.md)
 After three hours of debate, the bill overhauling public worker pension and benefits passed 46-32 

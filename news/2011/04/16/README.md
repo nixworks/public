@@ -1,12 +1,12 @@
 ## [2011-04-16](/news/2011/04/16/index.md)
 
-### [Burkina Faso unrest. Hundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrest-hundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md)
+### [Burkina Faso unrest: Hundreds of traders in Burkina Faso set fire to the ruling Congress for Democracy and Progress headquarters and ransack other government buildings, after mutinous soldiers looted their shops. ](/news/2011/04/16/burkina-faso-unrest-hundreds-of-traders-in-burkina-faso-set-fire-to-the-ruling-congress-for-democracy-and-progress-headquarters-and-ransack.md)
 Authorities in Burkina Faso place the capital Ouagadougou under curfew as unrest continues after a mutiny in the army.
 
 ### [Second Ivorian Civil War: Ivorian Popular Front, the party of ousted Ivory Coast President Laurent Gbagbo, calls upon its supporters to end the unrest in the country after his arrest. ](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.md)
 _Context: Ivorian Popular Front, Ivory Coast, Laurent Gbagbo, President, Second Ivorian Civil War_
 
-### [Arab Spring. 2011 Syrian protests. President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/arab-spring-2011-syrian-protests-president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md)
+### [Arab Spring: 2011 Syrian protests: President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/arab-spring-2011-syrian-protests-president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md)
 Fighting escalates in the Libyan port of Misrata and elsewhere as government forces attempt to retake the rebel-held city after a two-month siege.
 
 ### [Philippine Army soldiers kill two Abu Sayyaf fighters in Al-Barka, Basilan. ](/news/2011/04/16/philippine-army-soldiers-kill-two-abu-sayyaf-fighters-in-al-barka-basilan.md)

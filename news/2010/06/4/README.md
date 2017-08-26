@@ -1,12 +1,12 @@
 ## [2010-06-4](/news/2010/06/4/index.md)
 
-### [Gaza flotilla raid:. Anti-Israel protests take place outside the Israeli embassy in Dublin, Ireland, and outside the US embassy in Kuala Lumpur, Malaysia. ](/news/2010/06/4/gaza-flotilla-raid-anti-israel-protests-take-place-outside-the-israeli-embassy-in-dublin-ireland-and-outside-the-us-embassy-in-kuala-lum.md)
+### [Gaza flotilla raid:: Anti-Israel protests take place outside the Israeli embassy in Dublin, Ireland, and outside the US embassy in Kuala Lumpur, Malaysia. ](/news/2010/06/4/gaza-flotilla-raid-anti-israel-protests-take-place-outside-the-israeli-embassy-in-dublin-ireland-and-outside-the-us-embassy-in-kuala-lum.md)
 About 50 people are continuing to blockade the Israeli embassy in Dublin today in protest at Israel&rsquo;s policies on Gaza.
 
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
 _Context: Ahlu Sunnah Waljama, Islamist, Somalia_
 
-### [Cumbria shootings:. Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
+### [Cumbria shootings:: Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/cumbria-shootings-prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
 The BBC apologises for airing a radio play about a murderer featuring gunshots, a day after the shootings in Cumbria.
 
 ### [McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)

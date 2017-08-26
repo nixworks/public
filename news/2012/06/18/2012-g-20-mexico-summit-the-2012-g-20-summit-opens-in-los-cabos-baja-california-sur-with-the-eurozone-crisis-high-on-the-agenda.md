@@ -1,6 +1,6 @@
 ### [2012-06-18](/news/2012/06/18/index.md)
 
-# 2012 G-20 Mexico summit:. The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. 
+# 2012 G-20 Mexico summit:: The 2012 G-20 summit opens in Los Cabos, Baja California Sur, with the Eurozone crisis high on the agenda. 
 
 World leaders meeting at a G20 summit in Mexico urge Europe to take all necessary measures to overcome the eurozone debt crisis.
 

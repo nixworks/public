@@ -12,7 +12,7 @@ _Context: Baja California Peninsula, Hurricane John, PST, September 2, UTC_
 ### [ An Iranian passenger jet Tu-154, (Iran Air Flight 945) carrying 148 passengers crashes in Mashad, Iran killing 29 people. ](/news/2006/09/1/an-iranian-passenger-jet-tu-154-iran-air-flight-945-carrying-148-passengers-crashes-in-mashad-iran-killing-29-people.md)
 _Context: Flight 945, Iran, Iran Air, Mashad, Tu-154_
 
-### [ Israeli-Palestinian conflict. The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/israeli-palestinian-conflict-the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)
+### [ Israeli-Palestinian conflict: The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/israeli-palestinian-conflict-the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)
 _Context: European Union, Israeli-Palestinian conflict, Middle East, roadmap for peace_
 
 ### [ Spain approves plans to deploy 1,100 troops to Lebanon as part of a UN peacekeeping force. ](/news/2006/09/1/spain-approves-plans-to-deploy-1-100-troops-to-lebanon-as-part-of-a-un-peacekeeping-force.md)

@@ -1,6 +1,6 @@
 ## [2009-04-30](/news/2009/04/30/index.md)
 
-### [ Swine influenza outbreak:. President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
+### [ Swine influenza outbreak:: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
 The World Health Organisation (WHO), bowing to pressure from meat industry producers and concerned governments, said today it&hellip;
 
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)

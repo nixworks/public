@@ -1,6 +1,6 @@
 ## [2012-04-9](/news/2012/04/9/index.md)
 
-### [Arab Spring:. 2011-2012 Syrian uprising:. Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-2011-2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-th.md)
+### [Arab Spring:: 2011-2012 Syrian uprising:: Turkey claims that the Syrian Army has opened fire on a refugee camp on Turkish soil injuring three people. ](/news/2012/04/9/arab-spring-2011-2012-syrian-uprising-turkey-claims-that-the-syrian-army-has-opened-fire-on-a-refugee-camp-on-turkish-soil-injuring-th.md)
 Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the area of Wadi Khaled, north Lebanon, security sources said. Al-Jadeed blamed the Syrian army for the incident.
 
 ### [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md)

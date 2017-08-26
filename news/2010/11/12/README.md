@@ -12,7 +12,7 @@ Dublin Zoo is offering free entry to &quot;any type of red haired child under 16
 ### [The 23rd consecutive season of American cartoon "The Simpsons" is announced. ](/news/2010/11/12/the-23rd-consecutive-season-of-american-cartoon-the-simpsons-is-announced.md)
 Long-running US cartoon The Simpsons is to return for its 23rd series, Fox Television announces.
 
-### [G20 summit. Leaders from Germany, France and the United Kingdom hold an emergency meeting at the 2010 G-20 Seoul summit after panic selling of Irish debt spreads to Spain and Portugal. ](/news/2010/11/12/g20-summit-leaders-from-germany-france-and-the-united-kingdom-hold-an-emergency-meeting-at-the-2010-g-20-seoul-summit-after-panic-selling.md)
+### [G20 summit: Leaders from Germany, France and the United Kingdom hold an emergency meeting at the 2010 G-20 Seoul summit after panic selling of Irish debt spreads to Spain and Portugal. ](/news/2010/11/12/g20-summit-leaders-from-germany-france-and-the-united-kingdom-hold-an-emergency-meeting-at-the-2010-g-20-seoul-summit-after-panic-selling.md)
 Ireland is in talks to receive emergency funding from the European Union and is likely to become the second euro zone country after Greece to obtain an international rescue, official sources said on Friday.
 
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
@@ -30,7 +30,7 @@ President Barack Obama will nominate a state bank regulator to be director of th
 ### [Bing Search for Android now available in market. ](/news/2010/11/12/bing-search-for-android-now-available-in-market.md)
 _Context: Android devices, Bing Search_
 
-### [2010 Haiti cholera outbreak:. The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-h.md)
+### [2010 Haiti cholera outbreak:: The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/2010-haiti-cholera-outbreak-the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-h.md)
 The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti which has now claimed 724 lives.
 
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)
@@ -78,7 +78,7 @@ Thousands of Twitter users are backing Paul Chambers, the man convicted and fine
 ### [The corpse of missing 10-year-old Australian girl Zahra Baker is found in Caldwell County in the U.S. state of North Carolina; her father and stepmother, Adam and Elisa Baker, are the main suspects in her disappearance and homicide. ](/news/2010/11/12/the-corpse-of-missing-10-year-old-australian-girl-zahra-baker-is-found-in-caldwell-county-in-the-u-s-state-of-north-carolina-her-father-an.md)
 The human remains found in North Carolina Wednesday were confirmed to be those of missing Australian 10-year-old Zahra Baker, WCNC-TV reported Friday, citing a source close to the investigation.
 
-### [Burma. Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md)
+### [Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md)
 Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)

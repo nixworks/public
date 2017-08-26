@@ -1,6 +1,6 @@
 ### [2017-08-5](/news/2017/08/5/index.md)
 
-# Indian vice-presidential election, 2017. Venkaiah Naidu elected as India's 13th Vice-President of India.
+# Indian vice-presidential election, 2017: Venkaiah Naidu elected as India's 13th Vice-President of India.
 
 M Venkaiah Naidu, the ruling BJP-led National Democratic Alliance candidate, will be India&#039;s 13th Vice President. He received 516 votes defeating the opposition candidate former West Bengal Governor Gopalkrishna Gandhi who got 244 votes. For someone who came from a family of an ordinary farmer, 68-year-old former minister said his election &quot;speaks for the beauty and strength of our democracy&quot;. Mr Naidu also promised &quot;to uphold the Constitution and the high standards set by my esteemed predecessors&quot;.
 

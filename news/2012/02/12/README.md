@@ -1,18 +1,18 @@
 ## [2012-02-12](/news/2012/02/12/index.md)
 
-### [Syrian uprising:. The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md)
+### [Syrian uprising:: The Arab League calls for a peace keeping force to be sent to Syria to halt violence. ](/news/2012/02/12/syrian-uprising-the-arab-league-calls-for-a-peace-keeping-force-to-be-sent-to-syria-to-halt-violence.md)
 Arab League ministers agree to ask United Nations for joint force and special Arab envoy as crackdown on Homs continues.
 
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
 _Context: Iraq, Kurdistan Workers' Party, Turkey_
 
-### [Greek bailout and protests:. The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eur.md)
+### [Greek bailout and protests:: The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eur.md)
 Protests grow in the Greek capital, Athens, with buildings set alight as MPs vote on an unpopular austerity bill crucial for a 130bn euro bailout.
 
 ### [Comrade Artemio, leader of the Shining Path Peruvian rebel movement, is captured in the Huallaga Valley area by the Army and National Police. ](/news/2012/02/12/comrade-artemio-leader-of-the-shining-path-peruvian-rebel-movement-is-captured-in-the-huallaga-valley-area-by-the-army-and-national-police.md)
 _Context: Comrade Artemio, Huallaga Valley, National Police, Peru, Peruvian Army, Shining Path_
 
-### [Grammy Awards:. The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md)
+### [Grammy Awards:: The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/grammy-awards-the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being.md)
 _Context: 54th Grammy Awards, Grammy Awards, Los Angeles, Staples Center, Whitney Houston, music_
 
 ### [The British Academy of Film and Television Arts Film Awards is held in London with "The Artist" winning the Award for best film. ](/news/2012/02/12/the-british-academy-of-film-and-television-arts-film-awards-is-held-in-london-with-the-artist-winning-the-award-for-best-film.md)

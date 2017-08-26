@@ -27,7 +27,7 @@ _Context: Afghanistan's, Iran_
 ### [Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. ](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.md)
 _Context: Arthur Mutambara, Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 
-### [United Kingdom general election:. Voters in the United Kingdom head to the polls to elect Members of Parliament. ](/news/2010/05/6/united-kingdom-general-election-voters-in-the-united-kingdom-head-to-the-polls-to-elect-members-of-parliament.md)
+### [United Kingdom general election:: Voters in the United Kingdom head to the polls to elect Members of Parliament. ](/news/2010/05/6/united-kingdom-general-election-voters-in-the-united-kingdom-head-to-the-polls-to-elect-members-of-parliament.md)
 _Context: 2010 general election, Britain, Members of Parliament_
 
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)

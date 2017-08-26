@@ -1,6 +1,6 @@
 ### [2016-05-20](/news/2016/05/20/index.md)
 
-# Abkhaz-Georgian conflict. Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. 
+# Abkhaz-Georgian conflict: Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. 
 
 
 
@@ -20,4 +20,4 @@
 7. [Russian President Dmitry Medvedev arrives in Abkhazia on his first visit there since the territory declared independence from Georgia two years ago. ](/news/2010/08/8/russian-president-dmitry-medvedev-arrives-in-abkhazia-on-his-first-visit-there-since-the-territory-declared-independence-from-georgia-two-ye.md) _Context: Abkhazia, Georgian_
 8. [Russia announces that it has deployed S-300 anti-aircraft missiles in Abkhazia; the Georgian government expresses concern. ](/news/2010/08/11/russia-announces-that-it-has-deployed-s-300-anti-aircraft-missiles-in-abkhazia-the-georgian-government-expresses-concern.md) _Context: Abkhazia, Georgian_
 9. [ The Georgian breakaway region of Abkhazia holds its first presidential elections. ](/news/2009/12/12/the-georgian-breakaway-region-of-abkhazia-holds-its-first-presidential-elections.md) _Context: Abkhazia, Georgian_
-10. [ Georgian-Abkhazian conflict:. President of Abkhazia, Sergei Bagapsh, accused Georgia of 'massive provocations with the use of armed force' after Georgians opened 'heavy fire' on Abkhazian border guards on Inguri river, part of the Georgian-Abkhazian border. ](/news/2008/10/26/georgian-abkhazian-conflict-president-of-abkhazia-sergei-bagapsh-accused-georgia-of-massive-provocations-with-the-use-of-armed-force.md) _Context: Abkhazia, Georgian_
+10. [ Georgian-Abkhazian conflict:: President of Abkhazia, Sergei Bagapsh, accused Georgia of 'massive provocations with the use of armed force' after Georgians opened 'heavy fire' on Abkhazian border guards on Inguri river, part of the Georgian-Abkhazian border. ](/news/2008/10/26/georgian-abkhazian-conflict-president-of-abkhazia-sergei-bagapsh-accused-georgia-of-massive-provocations-with-the-use-of-armed-force.md) _Context: Abkhazia, Georgian_

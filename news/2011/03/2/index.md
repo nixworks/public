@@ -1,12 +1,12 @@
 ## [2011-03-2](/news/2011/03/2/index.md)
 
-### [2011 Libyan civil war. The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/2011-libyan-civil-war-the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md)
+### [2011 Libyan civil war: The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. ](/news/2011/03/2/2011-libyan-civil-war-the-south-korean-navy-ship-choi-young-arrives-off-the-coast-of-tripoli-to-evacuate-south-korean-citizens-from-libya.md)
 Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers loyal to Col Muammar Gaddafi.
 
-### [2011 Yemeni protests. Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/2011-yemeni-protests-thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-sa.md)
+### [2011 Yemeni protests: Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/2011-yemeni-protests-thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-sa.md)
 _Context: 2011 Yemeni protests, Saleh, Yemen_
 
-### [2011 Iranian protests. Iran's opposition says 200 people were arrested during protests in the capital Tehran yesterday. ](/news/2011/03/2/2011-iranian-protests-iran-s-opposition-says-200-people-were-arrested-during-protests-in-the-capital-tehran-yesterday.md)
+### [2011 Iranian protests: Iran's opposition says 200 people were arrested during protests in the capital Tehran yesterday. ](/news/2011/03/2/2011-iranian-protests-iran-s-opposition-says-200-people-were-arrested-during-protests-in-the-capital-tehran-yesterday.md)
 Iranian opposition groups say more than 200 people were arrested on Tuesday while trying to protest in Tehran over the reported imprisonment of two opposition leaders.
 
 ### [Dozens of people are killed in fighting between rebels and troops in Southern Sudan. ](/news/2011/03/2/dozens-of-people-are-killed-in-fighting-between-rebels-and-troops-in-southern-sudan.md)
@@ -48,7 +48,7 @@ _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
 _Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
-### [Frankfurt shootings. Two United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootings-two-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport.md)
+### [Frankfurt shootings: Two United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootings-two-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport.md)
 _Context: Air Force, Frankfurt Airport, Germany_
 
 ### [The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. ](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.md)
@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, United States government, president_
+_Context: Barack Obama, President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.

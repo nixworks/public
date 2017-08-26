@@ -1,6 +1,6 @@
 ## [2011-04-1](/news/2011/04/1/index.md)
 
-### [Arab Spring:. 2011 Libyan civil war:. An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-londo.md)
+### [Arab Spring:: 2011 Libyan civil war:: An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-londo.md)
 A Libyan envoy representing Colonel Gaddafi has been in London in the past few days for talks with British officials, the BBC understands.
 
 ### [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010-2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md)

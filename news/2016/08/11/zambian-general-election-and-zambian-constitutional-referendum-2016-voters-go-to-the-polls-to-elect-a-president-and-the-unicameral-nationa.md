@@ -1,6 +1,6 @@
 ### [2016-08-11](/news/2016/08/11/index.md)
 
-# Zambian general election and Zambian constitutional referendum, 2016. Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. 
+# Zambian general election and Zambian constitutional referendum, 2016: Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Zambian presidential election, 2015. Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/zambian-presidential-election-2015-voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumb.md) _Context: Edgar Lungu, Hakainde Hichilema, United Party for National Development_
+1. [Zambian presidential election, 2015: Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/zambian-presidential-election-2015-voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumb.md) _Context: Edgar Lungu, Hakainde Hichilema, United Party for National Development_
 2. [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md) _Context: Hakainde Hichilema_
 3. [Edgar Lungu of the ruling Patriotic Front party wins the Zambian presidential election. ](/news/2015/01/24/edgar-lungu-of-the-ruling-patriotic-front-party-wins-the-zambian-presidential-election.md) _Context: Edgar Lungu_
 4. [Former Zambian President Frederick Chiluba dies aged 68. ](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.md) _Context: President_

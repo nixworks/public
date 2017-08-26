@@ -1,6 +1,6 @@
 ## [2012-02-21](/news/2012/02/21/index.md)
 
-### [2011-2012 Syrian uprising:. The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011-2012-syrian-uprising-the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md)
+### [2011-2012 Syrian uprising:: The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/2011-2012-syrian-uprising-the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md)
 Syrian government forces killed at least 100 people on Tuesday in assaults on villages and an artillery barrage in the restive city of Homs, activists said, and the Red Cross called for daily ceasefires to allow in urgently needed aid.
 
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)

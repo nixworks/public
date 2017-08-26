@@ -1,6 +1,6 @@
 ### [2009-02-5](/news/2009/02/5/index.md)
 
-#  Late 2000s recession:. The Bank of England reduces the base rate of interest to a new historic low of 1%. 
+#  Late 2000s recession:: The Bank of England reduces the base rate of interest to a new historic low of 1%. 
 
 
 

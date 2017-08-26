@@ -3,7 +3,7 @@
 ### [2011 Bahraini uprising: The Bahraini government sentences 10 pro-democracy activists to life in prison for their role in the uprising. ](/news/2011/06/22/2011-bahraini-uprising-the-bahraini-government-sentences-10-pro-democracy-activists-to-life-in-prison-for-their-role-in-the-uprising.md)
 Protesters take to the streets, clashing with police after eight Shia activists are given life sentences.
 
-### [2011 Libyan civil war:. Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-t.md)
+### [2011 Libyan civil war:: Denmark officially recognizes the National Transitional Council of Libya as the "sole legitimate representative of the Libyan people" in the current transition period. ](/news/2011/06/22/2011-libyan-civil-war-denmark-officially-recognizes-the-national-transitional-council-of-libya-as-the-sole-legitimate-representative-of-t.md)
 _Context: Denmark, Libya, Libyan Civil War, National Transitional Council_
 
 ### [Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. ](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.md)

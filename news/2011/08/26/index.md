@@ -15,7 +15,7 @@ _Context: Ben Bernanke, Chairman of the Federal Reserve, Economy of the United S
 ### [The Federal Reserve announces that it will hold hearings on the proposed acquisition, by Capital One, of ING Direct, a potential $9 billion deal. ](/news/2011/08/26/the-federal-reserve-announces-that-it-will-hold-hearings-on-the-proposed-acquisition-by-capital-one-of-ing-direct-a-potential-9-billion.md)
 _Context: Capital One, ING Direct_
 
-### [Hurricane Irene:. Hurricane Irene approaches the east coast of the United States ahead of making landfall on Saturday with 50 million people in its path. ](/news/2011/08/26/hurricane-irene-hurricane-irene-approaches-the-east-coast-of-the-united-states-ahead-of-making-landfall-on-saturday-with-50-million-people.md)
+### [Hurricane Irene:: Hurricane Irene approaches the east coast of the United States ahead of making landfall on Saturday with 50 million people in its path. ](/news/2011/08/26/hurricane-irene-hurricane-irene-approaches-the-east-coast-of-the-united-states-ahead-of-making-landfall-on-saturday-with-50-million-people.md)
 Hurricane Irene was bearing down on North Carolina Thursday on track to make landfall in the Outer Banks Saturday afternoon, WRAL meteorologist Mike Maze said. The first signs of the storm could be felt in North Carolina Friday night as tropical storm force winds and heavy rain. 
 
 ### [The Japanese National Police Agency reveals that 90 per cent of cyberattacks on its web site on July 10 came from Internet Protocol addresses in the People's Republic of China. ](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.md)

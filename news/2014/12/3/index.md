@@ -1,6 +1,6 @@
 ## [2014-12-3](/news/2014/12/3/index.md)
 
-### [Somali Civil War. A suicide bomber attacks a United Nations convoy near Aden Adde International Airport killing six people. ](/news/2014/12/3/somali-civil-war-a-suicide-bomber-attacks-a-united-nations-convoy-near-aden-adde-international-airport-killing-six-people.md)
+### [Somali Civil War: A suicide bomber attacks a United Nations convoy near Aden Adde International Airport killing six people. ](/news/2014/12/3/somali-civil-war-a-suicide-bomber-attacks-a-united-nations-convoy-near-aden-adde-international-airport-killing-six-people.md)
 At least six people have been killed in a bomb attack targeting a UN convoy near the airport in the Somali capital, Mogadishu, police say.
 
 ### [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md)

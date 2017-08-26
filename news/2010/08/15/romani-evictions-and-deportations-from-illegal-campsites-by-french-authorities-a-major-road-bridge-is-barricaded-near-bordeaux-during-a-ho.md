@@ -1,6 +1,6 @@
 ### [2010-08-15](/news/2010/08/15/index.md)
 
-# Romani evictions and deportations from illegal campsites by French authorities:. A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. 
+# Romani evictions and deportations from illegal campsites by French authorities:: A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. 
 
 Roma (Gypsies) block a major road near Bordeaux in protest after hundreds of them were evicted from an illegal campsite.
 

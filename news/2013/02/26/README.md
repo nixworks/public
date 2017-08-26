@@ -1,12 +1,12 @@
 ## [2013-02-26](/news/2013/02/26/index.md)
 
-### [Israeli-Palestinian conflict:. A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/israeli-palestinian-conflict-a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-sign.md)
+### [Israeli-Palestinian conflict:: A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/israeli-palestinian-conflict-a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-sign.md)
 A militant group in Gaza said the first rocket strike in more than three months was conducted in retaliation for the death of a Palestinian prisoner.
 
-### [Mexican Drug War:. Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
+### [Mexican Drug War:: Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
 _Context: Ciudad Miguel Aleman, Mexican Drug War, Mexico, Tamaulipas_
 
-### [Nigerian Sharia conflict:. Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
+### [Nigerian Sharia conflict:: Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
 _Context: Nigeria, Nigerian Sharia conflict, Yobe State_
 
 ### [Low-lying parts of the Western Australian town of Port Hedland are evacuated with Severe Tropical Cyclone Rusty expected to reach the coast tomorrow. ](/news/2013/02/26/low-lying-parts-of-the-western-australian-town-of-port-hedland-are-evacuated-with-severe-tropical-cyclone-rusty-expected-to-reach-the-coast.md)

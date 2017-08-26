@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Economy of Japan. The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: recession_
+1. [Economy of Japan: The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: recession_
 2. [Brazil's economy falls into recession. ](/news/2014/08/29/brazil-s-economy-falls-into-recession.md) _Context: recession_
 3. [The Eurozone moves out of 18 months of recession because of Germany and France. There was a growth rate of 0.3% in the June quarter. ](/news/2013/08/14/the-eurozone-moves-out-of-18-months-of-recession-because-of-germany-and-france-there-was-a-growth-rate-of-0-3-in-the-june-quarter.md) _Context: recession_
 4. [The eurozone slides into deeper recession, making 2012 the first year with no growth in any quarter since tracking began in 1995. Economic experts, who had not expected this, say that 2013's "early indicators are all pointing upwards". ](/news/2013/02/14/the-eurozone-slides-into-deeper-recession-making-2012-the-first-year-with-no-growth-in-any-quarter-since-tracking-began-in-1995-economic-e.md) _Context: recession_

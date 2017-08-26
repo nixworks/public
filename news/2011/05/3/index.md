@@ -1,15 +1,15 @@
 ## [2011-05-3](/news/2011/05/3/index.md)
 
-### [Reaction to the death of Osama bin Laden:. White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up.md)
+### [Reaction to the death of Osama bin Laden:: White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up.md)
 The Pakistani government lashed out at the American raid that killed Osama bin Laden, saying that the United States made “an unauthorized unilateral action” that would be not be tolerated in the future.
 
-### [2011 Libyan civil war. Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/2011-libyan-civil-war-thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besiegi.md)
+### [2011 Libyan civil war: Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/2011-libyan-civil-war-thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besiegi.md)
 _Context: Libyan Civil War, Yafran_
 
-### [Saudi Arabian protests. Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/saudi-arabian-protests-human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-partic.md)
+### [Saudi Arabian protests: Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/saudi-arabian-protests-human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-partic.md)
 _Context: Human Rights Watch, Saudi Arabia, Saudi Arabian protests, rights activist_
 
-### [Syrian protests. Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-protests-syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-un.md)
+### [Syrian protests: Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-protests-syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-un.md)
 Senior Syrian officials are to face targeted European Union sanctions and travel bans, William Hague said on Tuesday.
 
 ### [At least nineteen people die in northern Kenya in clashes with raiders from Ethiopia. ](/news/2011/05/3/at-least-nineteen-people-die-in-northern-kenya-in-clashes-with-raiders-from-ethiopia.md)

@@ -1,6 +1,6 @@
 ## [2014-02-12](/news/2014/02/12/index.md)
 
-### [Syrian Civil War:. The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-the-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-sy.md)
+### [Syrian Civil War:: The Syrian Army and their Lebanese ally Hezbollah begin an assault to retake the strategic border town Yabrud from the Syrian rebels. ](/news/2014/02/12/syrian-civil-war-the-syrian-army-and-their-lebanese-ally-hezbollah-begin-an-assault-to-retake-the-strategic-border-town-yabrud-from-the-sy.md)
 More Syrians have been killed in the three weeks since peace talks began than at any other time in the civil war, activists said on Wednesday, as troops pounded rebel towns on the Lebanese border and negotiations faltered in Geneva.
 
 ### [Militants in northwestern Pakistan kill nine male family members of a slain leader of a pro-government militia in an attack on the family's house outside the city of Peshawar. ](/news/2014/02/12/militants-in-northwestern-pakistan-kill-nine-male-family-members-of-a-slain-leader-of-a-pro-government-militia-in-an-attack-on-the-family-s.md)

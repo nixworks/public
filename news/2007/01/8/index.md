@@ -12,7 +12,7 @@ _Context: Belarus, Germany, Polish, Russia, Ukraine, energy dispute_
 ### [ It is reported that Chinese police killed 18 members of the East Turkestan Islamic Movement organization and arrested 17 others in a raid in the Pamir Plateau on 5 January. ETIM members shot and killed one officer and wounded another. Police found 22 grenades and enough explosive material to make 1,500 more. ](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.md)
 _Context: 5 January, East Turkestan Islamic Movement, Pamir Plateau, a raid_
 
-### [ War in Somalia:. A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md)
+### [ War in Somalia:: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/war-in-somalia-a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md)
 _Context: AC-130, al-Qaeda, capture, two years of helping_
 
 ### [ Kazakh Prime Minister Daniyal Akhmetov unexpectedly resigns without explanation. Deputy Prime Minister Karim Masimov, Akhmetov's longtime rival, is expected to replace him. ](/news/2007/01/8/kazakh-prime-minister-daniyal-akhmetov-unexpectedly-resigns-without-explanation-deputy-prime-minister-karim-masimov-akhmetov-s-longtime-r.md)

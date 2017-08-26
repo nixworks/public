@@ -15,7 +15,7 @@ US retail sales rose by 1.1% in September, with vehicle sales showing the bigges
 ### [U.S. energy company Kinder Morgan agrees to buy natural gas exploration and pipeline company El Paso for $21.1 billion in cash and stock. ](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.md)
 _Context: El Paso, Kinder Morgan, natural gas_
 
-### [Occupy Wall Street protests:. Activists affiliated with the Occupy Wall Street movement, which opposes economic inequality and corporate greed, take to the streets in numerous cities worldwide, including Sydney, Rome, Bucharest, Taipei, Tokyo, Toronto, Berlin, and Madrid, in a day of coordinated mass protests. ](/news/2011/10/15/occupy-wall-street-protests-activists-affiliated-with-the-occupy-wall-street-movement-which-opposes-economic-inequality-and-corporate-gre.md)
+### [Occupy Wall Street protests:: Activists affiliated with the Occupy Wall Street movement, which opposes economic inequality and corporate greed, take to the streets in numerous cities worldwide, including Sydney, Rome, Bucharest, Taipei, Tokyo, Toronto, Berlin, and Madrid, in a day of coordinated mass protests. ](/news/2011/10/15/occupy-wall-street-protests-activists-affiliated-with-the-occupy-wall-street-movement-which-opposes-economic-inequality-and-corporate-gre.md)
 About 2,000 protesters with the Occupy Wall Street movement marched through New York’s financial district Saturday.
 
 ## [Previous Day...](/news/2011/10/14/index.md)

@@ -7,7 +7,7 @@ _Context: Fiji, Labasa, Vanua Levu, flood_
 _Context: China, Fushun, Shenyang, coal mine, flood, province_
 
 ### [ President George W. Bush approves 8,200 more United States troops for Iraq and Afghanistan. ](/news/2007/03/10/president-george-w-bush-approves-8-200-more-united-states-troops-for-iraq-and-afghanistan.md)
-_Context: Afghanistan's, George W. Bush, Iraq, United States, president_
+_Context: Afghanistan's, George W. Bush, Iraq, President, United States_
 
 ### [ Thousands of supporters of legislation giving equal rights on issues to heterosexual and gay couples in Italy attend a rally in Rome. ](/news/2007/03/10/thousands-of-supporters-of-legislation-giving-equal-rights-on-issues-to-heterosexual-and-gay-couples-in-italy-attend-a-rally-in-rome.md)
 _Context: Italian, Rome_
@@ -27,7 +27,7 @@ _Context: Gladys Nyirongo, Lusaka, Zambia_
 ### [ Yearlong talks on the future of Kosovo end in stalemate between the Serbian Government and the ethnic Albanian leaders of the province. ](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.md)
 _Context: Kosovo, Serbia, ethnic Albanian_
 
-### [ War in Iraq:. A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/war-in-iraq-a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syr.md)
+### [ War in Iraq:: A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/war-in-iraq-a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syr.md)
 _Context: Baghdad, Iran, Iraq, Syria, United States, War in Iraq_
 
 ## [Previous Day...](/news/2007/03/9/index.md)

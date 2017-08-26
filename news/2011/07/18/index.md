@@ -1,9 +1,9 @@
 ## [2011-07-18](/news/2011/07/18/index.md)
 
-### [Arab Spring:. 2011 Libyan civil war:. Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md)
+### [Arab Spring:: 2011 Libyan civil war:: Rebels claim victory in the eastern town of Brega. ](/news/2011/07/18/arab-spring-2011-libyan-civil-war-rebels-claim-victory-in-the-eastern-town-of-brega.md)
 Reports from the Syrian city of Hama say 50 protesters have been released and government offices have reopened after weeks of unrest.
 
-### [War in Afghanistan (2001-present):. US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001-present-us-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-cor.md)
+### [War in Afghanistan (2001-present):: US General David Petraeus hands over command of NATO forces in Afghanistan to United States Marine Corps Lieutenant General John R. Allen. ](/news/2011/07/18/war-in-afghanistan-2001-present-us-general-david-petraeus-hands-over-command-of-nato-forces-in-afghanistan-to-united-states-marine-cor.md)
 Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanistan, formally transferred authority Monday to incoming commander Marine Corps Gen. John Allen.
 
 ### [Rioting at a police station in Hotan in the Xinjiang region of western China kills at least four people. ](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.md)
@@ -54,7 +54,7 @@ _Context: 2011 Egyptian revolution, Cabinet, Egypt_
 ### [United Kingdom Secretary of State for Defence, Liam Fox announces plans to reduce the British Army to its smallest size since the start of the Second Boer War just over a century ago. By 2020, troop numbers will be reduced from the present 101,000 to 82,000, with a greater reliability on Territorial Army soldiers. ](/news/2011/07/18/united-kingdom-secretary-of-state-for-defence-liam-fox-announces-plans-to-reduce-the-british-army-to-its-smallest-size-since-the-start-of-t.md)
 _Context: Britain, British Army, Liam Fox, Second Boer War, Secretary of State for Defence, Territorial Army_
 
-### [News International scandal:. David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-wor.md)
+### [News International scandal:: David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/news-international-scandal-david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-wor.md)
 One of Scotland Yard&rsquo;s most senior detectives, John Yates, is set to be investigated over his links with former News of the World executive Neil Wallis, in a fresh twist to the hacking scandal.
 
 ### [Bob Stenehjem, the Senate Majority Leader in the US state of North Dakota, is killed in an accident in Alaska. ](/news/2011/07/18/bob-stenehjem-the-senate-majority-leader-in-the-us-state-of-north-dakota-is-killed-in-an-accident-in-alaska.md)

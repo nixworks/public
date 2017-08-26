@@ -1,6 +1,6 @@
 ### [2005-01-6](/news/2005/01/6/index.md)
 
-#  2004 United States election voting controversies:. House Judiciary Committee Democratic Staff releases a 
+#  2004 United States election voting controversies:: House Judiciary Committee Democratic Staff releases a 
 
 
 

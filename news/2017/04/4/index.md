@@ -1,18 +1,18 @@
 ## [2017-04-4](/news/2017/04/4/index.md)
 
-### [Syrian Civil War. A toxic gas attack, allegedly by Syrian warplanes, kills at least 83 and injures many more in rebel-held Khan Shaykhun, Idlib. ](/news/2017/04/4/syrian-civil-war-a-toxic-gas-attack-allegedly-by-syrian-warplanes-kills-at-least-83-and-injures-many-more-in-rebel-held-khan-shaykhun-id.md)
+### [Syrian Civil War: A toxic gas attack, allegedly by Syrian warplanes, kills at least 83 and injures many more in rebel-held Khan Shaykhun, Idlib. ](/news/2017/04/4/syrian-civil-war-a-toxic-gas-attack-allegedly-by-syrian-warplanes-kills-at-least-83-and-injures-many-more-in-rebel-held-khan-shaykhun-id.md)
 The Britain-based Syrian Observatory for Human Rights monitoring group says there were 58 killed, while Union of Medical Care Organizations says at least 100 were killed
 
-### [Battle of Mosul. The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/battle-of-mosul-the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-is.md)
+### [Battle of Mosul: The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/battle-of-mosul-the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-is.md)
 IRBIL: The UN said on Tuesday it is expanding camps for displaced people around Mosul, as airstrikes resumed on Daesh positions in Iraq’s second largest city.More than 300,000 people have fled Mosul since the start of the US-backed campaign in October, the office of the UN Humanitarian Coordinator...
 
-### [Tornadoes of 2017. Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/tornadoes-of-2017-robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-torn.md)
+### [Tornadoes of 2017: Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/tornadoes-of-2017-robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-torn.md)
 Another round of severe weather with damaging winds is expected to sweep across the South on Wednesday, bringing damaging winds in Alabama and Georgia, according to forecasters.
 
-### [2017 Batangas earthquakes. A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. ](/news/2017/04/4/2017-batangas-earthquakes-a-magnitude-5-5-earthquake-hits-batangas-causing-damage-to-buildings-and-are-felts-as-far-as-metro-manila-and-bu.md)
+### [2017 Batangas earthquakes: A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. ](/news/2017/04/4/2017-batangas-earthquakes-a-magnitude-5-5-earthquake-hits-batangas-causing-damage-to-buildings-and-are-felts-as-far-as-metro-manila-and-bu.md)
 (Updated) A magnitude-5.5 earthquake struck off the coast of Batangas on Tuesday night and was felt in Metro Manila. 
 
-### [LGBT rights in the United States. The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/lgbt-rights-in-the-united-states-the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects.md)
+### [LGBT rights in the United States: The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/lgbt-rights-in-the-united-states-the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects.md)
 The ruling is a major victory for LGBTQ community fighting discrimination
 
 ### [Bertha, once the world's largest tunnel boring machine, completes its 9,270|ft|m|adj=mid|-long tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington-after-four.md)

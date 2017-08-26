@@ -1,6 +1,6 @@
 ## [2011-11-16](/news/2011/11/16/index.md)
 
-### [Syrian uprising:. The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-i.md)
+### [Syrian uprising:: The opposition Free Syrian Army kills at least eight Syrian soldiers in attacks on bases near Damascus and other targets in the country. ](/news/2011/11/16/syrian-uprising-the-opposition-free-syrian-army-kills-at-least-eight-syrian-soldiers-in-attacks-on-bases-near-damascus-and-other-targets-i.md)
 FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime demonstrators storm US, French diplomatic offices 
 
 ### [Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. ](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.md)
@@ -15,7 +15,7 @@ _Context: Bangkok, Thai authorities, floods, super-canal_
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
 _Context: China, Gansu province, collides_
 
-### [2011 Tibetan self-immolation protests:. Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/2011-tibetan-self-immolation-protests-tibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations.md)
+### [2011 Tibetan self-immolation protests:: Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/2011-tibetan-self-immolation-protests-tibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations.md)
 The spiritual leader of the Kirti monastery, the starting point for a spate of self-immolation protests, says Chinese authorities have imposed new repressive measures.
 
 ### [The President of the United States Barack Obama arrives in Australia for a visit to commemorate the 60th anniversary of the signing of the ANZUS treaty; the United States and Australia announce an agreement to expand military cooperation between them, including the stationing of up to 2,500 U.S. Marines near Darwin. ](/news/2011/11/16/the-president-of-the-united-states-barack-obama-arrives-in-australia-for-a-visit-to-commemorate-the-60th-anniversary-of-the-signing-of-the-a.md)

@@ -1,6 +1,6 @@
 ## [2012-03-8](/news/2012/03/8/index.md)
 
-### [2011-2012 Syrian uprising:. Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011-2012-syrian-uprising-abdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md)
+### [2011-2012 Syrian uprising:: Abdo Hussameddin, the Syrian deputy oil minister, announces that he is resigning and joining the Opposition. ](/news/2012/03/8/2011-2012-syrian-uprising-abdo-hussameddin-the-syrian-deputy-oil-minister-announces-that-he-is-resigning-and-joining-the-opposition.md)
 Kofi Annan, the U.N.-Arab League envoy to Syria, said he would urge President Bashar al-Assad and his foes to stop fighting and seek a political solution, drawing angry rebukes from dissidents.
 
 ### [Police in Dublin remove the Occupy Dame Street camp during an overnight raid. ](/news/2012/03/8/police-in-dublin-remove-the-occupy-dame-street-camp-during-an-overnight-raid.md)

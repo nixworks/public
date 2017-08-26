@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Former Prime Minister and President of Italy Carlo Azeglio Ciampi dies at the age of 95. ](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.md) _Context: President of Italy_
-2. [Italian presidential election, 2015. Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/italian-presidential-election-2015-voters-elect-sergio-mattarella-president-of-italy.md) _Context: President of Italy_
+2. [Italian presidential election, 2015: Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/italian-presidential-election-2015-voters-elect-sergio-mattarella-president-of-italy.md) _Context: President of Italy_
 3. [President of Italy Giorgio Napolitano will announce his resignation today. ](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.md) _Context: President of Italy_
 4. [President of Italy Giorgio Napolitano announces his impending resignation, citing "old age". ](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.md) _Context: President of Italy_
 5. [Italian President Giorgio Napolitano gives vice-secretary of the Democratic Party Enrico Letta the mandate to form a new government. ](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.md) _Context: President of Italy_

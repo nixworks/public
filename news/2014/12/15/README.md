@@ -18,10 +18,10 @@ Denmark filed an official claim on the North Pole, making it the first country t
 ### [About ten thousand people, including those of Patriotic Europeans Against the Islamization of the Occident (PEGIDA), protest in Germany against the presence of Muslims. ](/news/2014/12/15/about-ten-thousand-people-including-those-of-patriotic-europeans-against-the-islamization-of-the-occident-pegida-protest-in-germany-agai.md)
 Chancellor Angela Merkel warned Germans Monday not to be duped by far-right rhetoric, amid concern about the growing number of people flocking to anti-Islam demonstrations in the country.
 
-### [2014 Sydney hostage crisis. A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/2014-sydney-hostage-crisis-a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md)
+### [2014 Sydney hostage crisis: A gunman, Man Haron Monis, takes 17 people hostage at Lindt Chocolate Cafe in Martin Place, Sydney. ](/news/2014/12/15/2014-sydney-hostage-crisis-a-gunman-man-haron-monis-takes-17-people-hostage-at-lindt-chocolate-cafa-c-in-martin-place-sydney.md)
 Hundreds of armed police seal off an area of central Sydney where a gunman is holding staff and customers hostage in a cafe.
 
-### [Montgomery County, Pennsylvania shootings. A shooting spree kills six people throughout Montgomery County in the Philadelphia, Pennsylvania suburbs. The suspect, Bradley William Stone, remains at large. ](/news/2014/12/15/montgomery-county-pennsylvania-shootings-a-shooting-spree-kills-six-people-throughout-montgomery-county-in-the-philadelphia-pennsylvania.md)
+### [Montgomery County, Pennsylvania shootings: A shooting spree kills six people throughout Montgomery County in the Philadelphia, Pennsylvania suburbs. The suspect, Bradley William Stone, remains at large. ](/news/2014/12/15/montgomery-county-pennsylvania-shootings-a-shooting-spree-kills-six-people-throughout-montgomery-county-in-the-philadelphia-pennsylvania.md)
 Investigators are releasing new details about the murder spree in Montgomery County that left six people dead and one person wounded.
 
 ### [The Supreme Court of the United States rules by an 8-1 vote that evidence collected based on a reasonable misinterpretation of the law can be used at trial and is not deemed an unreasonable search or seizure. ](/news/2014/12/15/the-supreme-court-of-the-united-states-rules-by-an-8-1-vote-that-evidence-collected-based-on-a-reasonable-misinterpretation-of-the-law-can.md)
@@ -30,7 +30,7 @@ The Supreme Court on Monday gave police additional leeway to use evidence they f
 ### [An appellate court in Vietnam upholds a 30-year prison sentence and convictions for Nguyen Duc Kien, a former businessman. ](/news/2014/12/15/an-appellate-court-in-vietnam-upholds-a-30-year-prison-sentence-and-convictions-for-nguyen-duc-kien-a-former-businessman.md)
 _Context: Nguyen Duc Kien_
 
-### [2014 Hong Kong protests. Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/2014-hong-kong-protests-authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md)
+### [2014 Hong Kong protests: Authorities remove the last remaining protest camp, the one at Causeway Bay, Hong Kong. ](/news/2014/12/15/2014-hong-kong-protests-authorities-remove-the-last-remaining-protest-camp-the-one-at-causeway-bay-hong-kong.md)
 Hong Kong police began to clear a small pro-democracy protest site in Causeway Bay, removing the last of the encampments that blocked roads across the city for over 10 weeks.
 
 ### [The United States Senate approves Vivek Murthy's nomination as Surgeon General by a 51-43 vote. ](/news/2014/12/15/the-united-states-senate-approves-vivek-murthy-s-nomination-as-surgeon-general-by-a-51-43-vote.md)

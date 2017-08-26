@@ -1,6 +1,6 @@
 ### [2007-03-29](/news/2007/03/29/index.md)
 
-#  War in Iraq:. King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." 
+#  War in Iraq:: King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." 
 
 
 

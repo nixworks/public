@@ -1,6 +1,6 @@
 ### [2013-03-7](/news/2013/03/7/index.md)
 
-# Nuclear program of North Korea:. North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. 
+# Nuclear program of North Korea:: North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. 
 
 North Korea threatened the United States on Thursday with a preemptive nuclear strike, raising the level of rhetoric as the U.N. Security Council approved new sanctions against the reclusive country.
 
@@ -13,7 +13,7 @@ North Korea threatened the United States on Thursday with a preemptive nuclear s
 
 ### Related:
 
-1. [North Korea-United States relations. Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/north-korea-united-states-relations-two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-lead.md) _Context: nuclear warfare_
+1. [North Korea-United States relations: Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/north-korea-united-states-relations-two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-lead.md) _Context: nuclear warfare_
 2. [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md) _Context: nuclear warfare_
 3. [ North Korea will depart the six-party talks and resume its nuclear program. ](/news/2009/04/14/north-korea-will-depart-the-six-party-talks-and-resume-its-nuclear-program.md) _Context: Nuclear program of North Korea_
 4. [ Chinese fishing vessels desert the Northern Limit Line, signaling a possible North Korean missile test. ](/news/2009/02/11/chinese-fishing-vessels-desert-the-northern-limit-line-signaling-a-possible-north-korean-missile-test.md) _Context: Nuclear program of North Korea_

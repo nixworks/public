@@ -1,6 +1,6 @@
 ### [2006-11-8](/news/2006/11/8/index.md)
 
-#  Beit Hanoun November 2006 incident:. Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. 
+#  Beit Hanoun November 2006 incident:: Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. 
 
 
 

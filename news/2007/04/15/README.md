@@ -15,7 +15,7 @@ _Context: 2003, Freedom of Information legislation, NASA, Space Shuttle ''Columb
 ### [ Iran announces plans for two more nuclear reactors. ](/news/2007/04/15/iran-announces-plans-for-two-more-nuclear-reactors.md)
 _Context: Iran, nuclear reactor_
 
-### [ Iraq War:. Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md)
+### [ Iraq War:: Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/iraq-war-shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to.md)
 Khairalla and Paul Tait
 
 ### [ Voters in Ecuador go to the polls to vote on a referendum on convening an assembly to draw up a new constitution. Preliminary results indicate a 78% "yes" vote. ](/news/2007/04/15/voters-in-ecuador-go-to-the-polls-to-vote-on-a-referendum-on-convening-an-assembly-to-draw-up-a-new-constitution-preliminary-results-indic.md)

@@ -15,7 +15,7 @@ _Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee_
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
 _Context: Abhisit Vejjajiva, Thailand, political crisis_
 
-### [World Press Freedom Day:. Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaoun.md)
+### [World Press Freedom Day:: Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaoun.md)
 _Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaounde_
 
 ### [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md)

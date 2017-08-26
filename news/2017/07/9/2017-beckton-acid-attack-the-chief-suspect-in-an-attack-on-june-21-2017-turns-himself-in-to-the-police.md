@@ -1,6 +1,6 @@
 ### [2017-07-9](/news/2017/07/9/index.md)
 
-# 2017 Beckton acid attack. The chief suspect in an attack on June 21, 2017, turns himself in to the police. 
+# 2017 Beckton acid attack: The chief suspect in an attack on June 21, 2017, turns himself in to the police. 
 
 Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
 
@@ -11,4 +11,4 @@ Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in eas
 
 ### Related:
 
-1. [2017 Beckton acid attack. Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/2017-beckton-acid-attack-two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _Context: 2017 Beckton acid attack_
+1. [2017 Beckton acid attack: Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/2017-beckton-acid-attack-two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md) _Context: 2017 Beckton acid attack_

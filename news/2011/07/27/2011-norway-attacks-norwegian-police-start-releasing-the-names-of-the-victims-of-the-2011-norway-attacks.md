@@ -1,6 +1,6 @@
 ### [2011-07-27](/news/2011/07/27/index.md)
 
-# 2011 Norway attacks. Norwegian police start releasing the names of the victims of the 2011 Norway attacks. 
+# 2011 Norway attacks: Norwegian police start releasing the names of the victims of the 2011 Norway attacks. 
 
 Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20;Wednesday&#x20;he&#x20;would&#x20;set&#x20;up&#x20;an&#x20;independent&#x20;commission&#x20;to&#x20;investigate&#x20;allegations&#x20;of&#x20;a&#x20;slow&#x20;police&#x20;response&#x20;to&#x20;the&#x20;bombing&#x20;and&#x20;shooting&#x20;spree&#x20;that&#x20;left&#x20;at&#x20;least&#x20;76&#x20;people&#x20;dead.
 

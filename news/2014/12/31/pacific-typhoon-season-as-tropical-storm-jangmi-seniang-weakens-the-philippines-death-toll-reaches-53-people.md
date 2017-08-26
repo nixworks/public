@@ -1,6 +1,6 @@
 ### [2014-12-31](/news/2014/12/31/index.md)
 
-# Pacific typhoon season. As Tropical Storm Jangmi (Seniang) weakens, the Philippines death toll reaches 53 people. 
+# Pacific typhoon season: As Tropical Storm Jangmi (Seniang) weakens, the Philippines death toll reaches 53 people. 
 
 
 

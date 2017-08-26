@@ -12,7 +12,7 @@ _Context: Canada, Jean Charest, March 26, Quebec, Quebec general election, premi
 ### [ Iran ignores a United Nations Security Council deadline for it to suspend its nuclear program. ](/news/2007/02/21/iran-ignores-a-united-nations-security-council-deadline-for-it-to-suspend-its-nuclear-program.md)
 _Context: Iran, United Nations Security Council, nuclear scientist_
 
-### [ Iraq War:. British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md)
+### [ Iraq War:: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md)
 _Context: British troops, Iraq, Iraq War, Prime Minister, Tony Blair, U.K._
 
 ### [ At least five people die as an apartment building collapses in Istanbul, Turkey. ](/news/2007/02/21/at-least-five-people-die-as-an-apartment-building-collapses-in-istanbul-turkey.md)

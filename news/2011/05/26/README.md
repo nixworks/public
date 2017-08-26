@@ -1,12 +1,12 @@
 ## [2011-05-26](/news/2011/05/26/index.md)
 
-### [2011 Libyan civil war:. Thousands of civilians are reportedly at risk of dying from starvation in the Libyan city of Yafran, as Muammar Gaddafi's forces have blockaded the city for over 7 weeks, and what food the people have left is quickly running out. ](/news/2011/05/26/2011-libyan-civil-war-thousands-of-civilians-are-reportedly-at-risk-of-dying-from-starvation-in-the-libyan-city-of-yafran-as-muammar-gadd.md)
+### [2011 Libyan civil war:: Thousands of civilians are reportedly at risk of dying from starvation in the Libyan city of Yafran, as Muammar Gaddafi's forces have blockaded the city for over 7 weeks, and what food the people have left is quickly running out. ](/news/2011/05/26/2011-libyan-civil-war-thousands-of-civilians-are-reportedly-at-risk-of-dying-from-starvation-in-the-libyan-city-of-yafran-as-muammar-gadd.md)
 Attacks come as UK gives clearance for the use of its attack Apache helicopters in ousting Gaddafi.
 
-### [2011 Syrian protests:. Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md)
+### [2011 Syrian protests:: Security forces reportedly fire on a night-time demonstration in the city of Deraa. ](/news/2011/05/26/2011-syrian-protests-security-forces-reportedly-fire-on-a-night-time-demonstration-in-the-city-of-deraa.md)
 Syrian security forces fired liverounds on Thursday at hundreds of protesters marching in a nightdemonstration in the southern city of Deraa to demand theremoval of President Bashar al-Assad, two witnesses said.
 
-### [2011 Yemeni protests:. Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/2011-yemeni-protests-large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali.md)
+### [2011 Yemeni protests:: Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/2011-yemeni-protests-large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali.md)
 Heavy explosions rocked the Yemeni capital Sanaa in the small hours of Thursday as fighting to topple the veteran president, Ali Abdullah Saleh, threatened to descend into civil war.
 
 ### [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md)

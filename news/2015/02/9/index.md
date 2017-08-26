@@ -1,9 +1,9 @@
 ## [2015-02-9](/news/2015/02/9/index.md)
 
-### [War in Donbass. Fighting in the past 24 hours kills at least nine Ukrainian soldiers. ](/news/2015/02/9/war-in-donbass-fighting-in-the-past-24-hours-kills-at-least-nine-ukrainian-soldiers.md)
+### [War in Donbass: Fighting in the past 24 hours kills at least nine Ukrainian soldiers. ](/news/2015/02/9/war-in-donbass-fighting-in-the-past-24-hours-kills-at-least-nine-ukrainian-soldiers.md)
 Fighting in Ukraine took an explosive turn Sunday night when residents of Donetsk felt the repercussions of a major blast.
 
-### [Boko Haram. Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md)
+### [Boko Haram: Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md)
 _Context: Boko Haram, Diffa, Niger_
 
 ### [Hooded gunmen attack French police in the city of Marseille, which Prime Minister Manuel Valls is due to visit. ](/news/2015/02/9/hooded-gunmen-attack-french-police-in-the-city-of-marseille-which-prime-minister-manuel-valls-is-due-to-visit.md)
@@ -15,7 +15,7 @@ _Context: Baghdad, Iraq_
 ### [Members of Ireland's police force Garda Siochana raid the Dublin home of former MEP Paul Murphy TD, taking Murphy into custody along with three other activists and politicians opposing the water-tax-rate change, stirring nationwide speculation of "political policing." The police later release all four without charges. ](/news/2015/02/9/members-of-ireland-s-police-force-garda-saocha-na-raid-the-dublin-home-of-former-mep-paul-murphy-td-taking-murphy-into-custody-along-with.md)
 Paul Murphy TD has been released from garda custody, following his arrest this morning.
 
-### [War in Somalia (2009-present). Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/war-in-somalia-2009-present-islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogad.md)
+### [War in Somalia (2009-present): Islamists from al-Shabab kill a member of the parliament Abdullahi Qayad Barre in the capital city of Mogadishu, Somalia. ](/news/2015/02/9/war-in-somalia-2009-present-islamists-from-al-shabab-kill-a-member-of-the-parliament-abdullahi-qayad-barre-in-the-capital-city-of-mogad.md)
 A Somali member of parliament is shot dead by al-Shabab militants in Mogadishu as lawmakers gather to vote on a new cabinet.
 
 ### [A Canadian gold mining company, Tahoe Resources, agrees to buy Rio Alto Mining for more than CAN$1 billion, part of an ongoing consolidation in the precious metals mining industry. ](/news/2015/02/9/a-canadian-gold-mining-company-tahoe-resources-agrees-to-buy-rio-alto-mining-for-more-than-can-1-billion-part-of-an-ongoing-consolidation.md)

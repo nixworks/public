@@ -1,15 +1,15 @@
 ## [2016-01-21](/news/2016/01/21/index.md)
 
-### [War in Somalia (2009-present). Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/war-in-somalia-2009-present-al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md)
+### [War in Somalia (2009-present): Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/war-in-somalia-2009-present-al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md)
 Somali security forces retake control of a popular beachside restaurant in the capital, Mogadishu, after an attack by Islamist militants that left 20 killed.
 
 ### [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convince.md)
 _Context: Muslim clothing, Soviet Republic, Tajikistan, hijab_
 
-### [Ebola virus epidemic in West Africa. The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md)
+### [Ebola virus epidemic in West Africa: The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/ebola-virus-epidemic-in-west-africa-the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md)
 A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday, the second since west Africa celebrated the end of the epidemic last week. The World Health Organization said the new case involved the aunt of 22-year-old Marie Jalloh, who died of Ebola on January 12. The 38-year-old
 
-### [Burundian unrest (2015-present). Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/burundian-unrest-2015-present-two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-pea.md)
+### [Burundian unrest (2015-present): Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/burundian-unrest-2015-present-two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-pea.md)
 Two former Burundi presidents pleaded for the United Nations Security Council on Thursday to back the deployment of international troops to the African state gripped by political violence because it &quot;runs the risk of becoming another Rwanda&quot;
 
 ### [Dominic Ongwen, a former commander of the Lord's Resistance Army in Uganda, appears before the International Criminal Court in a hearing to determine whether a criminal trial should go ahead. ](/news/2016/01/21/dominic-ongwen-a-former-commander-of-the-lord-s-resistance-army-in-uganda-appears-before-the-international-criminal-court-in-a-hearing-to.md)

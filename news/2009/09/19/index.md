@@ -21,7 +21,7 @@ _Context: Bali, Indonesia, Richter scale, earthquake_
 ### [ DNA tests confirm that Islamist bomber Noordin Mohamed Top is dead. ](/news/2009/09/19/dna-tests-confirm-that-islamist-bomber-noordin-mohamed-top-is-dead.md)
 _Context: DNA, Islamist, Noordin Mohamed Top, bomb_
 
-### [ Treaty of Lisbon:. President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md)
+### [ Treaty of Lisbon:: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md)
 European Commission President José Manuel Barroso has said a No vote will affect confidence and will create uncertainty that neither Ireland nor Europe needs at this time.
 
 ### [ Four people are seriously injured in a bear attack in Takayama, Gifu Prefecture, Japan. ](/news/2009/09/19/four-people-are-seriously-injured-in-a-bear-attack-in-takayama-gifu-prefecture-japan.md)

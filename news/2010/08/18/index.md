@@ -16,7 +16,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Barack Obama, Mexico, United States, president_
+_Context: Barack Obama, Mexico, President, United States_
 
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.
@@ -42,7 +42,7 @@ _Context: General Motors, IPO, United States_
 ### [Japanese carmaker Mazda recalls 215,000 vehicles in the United States and 11,000 vehicles in China due to power steering flaws. ](/news/2010/08/18/japanese-carmaker-mazda-recalls-215-000-vehicles-in-the-united-states-and-11-000-vehicles-in-china-due-to-power-steering-flaws.md)
 _Context: Chinese, Japan, Mazda, United States, power steering_
 
-### [2010 Pakistan floods:. Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
+### [2010 Pakistan floods:: Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/2010-pakistan-floods-saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
 Only 40 per cent of funds needed for immediate flood relief have been received, UN says.
 
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
@@ -108,7 +108,7 @@ _Context: Brazil, Brazilian presidential election, general_
 ### [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md)
 _Context: "Ground zero" mosque and cultural centre, David Paterson, Ground Zero, Islam, New York City, New York Governor, New York State, U.S. state, mosque_
 
-### [Elections in Haiti:. Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md)
+### [Elections in Haiti:: Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md)
 Electoral commission to rule of presidential bid by Wyclef Jean and others on Friday.
 
 ## [Previous Day...](/news/2010/08/17/index.md)

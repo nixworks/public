@@ -21,7 +21,7 @@ _Context: Manila, Philippine, residential apartment_
 ### [The Australian government proposes a new "flood tax" to raise funds for reconstruction work following severe flooding in the east of the country. ](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.md)
 Tax expected to raise $1.8bn of the estimated $5bn needed for repairs following havoc caused by widespread flooding.
 
-### [Murder of David Kato:. Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md)
+### [Murder of David Kato:: Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md)
 ONE OF Uganda&rsquo;s most prominent gay rights activists has been murdered, weeks after winning a court case against a newspaper that&hellip;
 
 ### [Hundreds of thousands of government workers protest against the killing of Yashwant Sonawane, an official in Maharashtra, a murder which is said to have shocked people across India. ](/news/2011/01/27/hundreds-of-thousands-of-government-workers-protest-against-the-killing-of-yashwant-sonawane-an-official-in-maharashtra-a-murder-which-is.md)
@@ -33,13 +33,13 @@ _Context: Macau, Stanley Ho_
 ### [A court in Botswana rules that indigenous Bushmen can drill wells for water in the Kalahari Desert. ](/news/2011/01/27/a-court-in-botswana-rules-that-indigenous-bushmen-can-drill-wells-for-water-in-the-kalahari-desert.md)
 An appeals court in Botswana says indigenous Bushmen can drill wells for water in the Kalahari desert, overturning a previous court ruling.
 
-### [2011 Egyptian protests:. Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-unrest-in-egypt-enters-its-third-day.md)
+### [2011 Egyptian protests:: Unrest in Egypt enters its third day. ](/news/2011/01/27/2011-egyptian-protests-unrest-in-egypt-enters-its-third-day.md)
 Authorities in Egypt brace for more demonstrations, following two days of unrest that have left at least four people dead.
 
-### [2011 Yemeni protests:. Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-al.md)
+### [2011 Yemeni protests:: Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/2011-yemeni-protests-tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-al.md)
 Tens of thousands of Yemenis demonstrate in the capital, Sanaa, calling on President Ali Abdullah Saleh to step down after more than 30 years in power.
 
-### [2010-2011 Tunisian uprising:. Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010-2011-tunisian-uprising-thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-be.md)
+### [2010-2011 Tunisian uprising:: Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/2010-2011-tunisian-uprising-thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-be.md)
 _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali, recent unrest_
 
 ### [Lebanese prime minister Najib Mikati begins consultations on forming a new government. ](/news/2011/01/27/lebanese-prime-minister-najib-mikati-begins-consultations-on-forming-a-new-government.md)
@@ -49,7 +49,7 @@ _Context: Lebanon, Najib Mikati_
 _Context: Burma, Human Rights Council, human rights record_
 
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: Barack Obama, Illinois, Mayor of Chicago, Rahm Emanuel, Supreme Court, U.S. state, president_
+_Context: Barack Obama, Illinois, Mayor of Chicago, President, Rahm Emanuel, Supreme Court, U.S. state_
 
 ### [Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. ](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.md)
 Breakthrough to fight resistant bacteria could lead to new generation of antibiotics.

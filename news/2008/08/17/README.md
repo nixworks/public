@@ -6,7 +6,7 @@ _Context: Chen Shui-bian_
 ### [ Gunmen massacre 14 people at a quinceanera celebration in Creel, Chihuahua, Mexico. ](/news/2008/08/17/gunmen-massacre-14-people-at-a-quinceaa-era-celebration-in-creel-chihuahua-mexico.md)
 _Context: Creel, Chihuahua, Mexico, quinceanera_
 
-### [ 2008 Atlantic hurricane season:. Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md)
+### [ 2008 Atlantic hurricane season:: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md)
 _Context: 2008 Atlantic hurricane season, Dominican Republic, Florida Keys, Haiti, Tropical Storm Fay_
 
 ### [ The Afghan National Army kills 28 Taliban insurgents as the militants attempt an ambush of a convoy in Zabul province. ](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.md)
@@ -15,10 +15,10 @@ Afghan soldiers killed 28 Taliban in a clash on Sunday after the guerrillas ambu
 ### [ Iran announces it has launched a satellite launch-capable Safir rocket. ](/news/2008/08/17/iran-announces-it-has-launched-a-satellite-launch-capable-safir-rocket.md)
 Iran said it had put a dummy satellite into orbit on a home-grown rocket for the first time on Sunday -- a move likely to increase Western concerns about its nuclear ambitions.
 
-### [ 2008 South Ossetia war:. Russian troops continue to withdraw from the Georgian city of Gori, where the major Georgian army base was dismantled by Russian troops soon after the conflict ended. Two Russian APCs still remain at a checkpoint near the city, Reuters reports. ](/news/2008/08/17/2008-south-ossetia-war-russian-troops-continue-to-withdraw-from-the-georgian-city-of-gori-where-the-major-georgian-army-base-was-dismant.md)
+### [ 2008 South Ossetia war:: Russian troops continue to withdraw from the Georgian city of Gori, where the major Georgian army base was dismantled by Russian troops soon after the conflict ended. Two Russian APCs still remain at a checkpoint near the city, Reuters reports. ](/news/2008/08/17/2008-south-ossetia-war-russian-troops-continue-to-withdraw-from-the-georgian-city-of-gori-where-the-major-georgian-army-base-was-dismant.md)
 Russia announced it would begin withdrawing forces from Georgia on Monday after a war that dealt a humiliating blow to the Black Sea state and raised fears for energy supplies to Europe.
 
-### [ 2008 Summer Olympics:. China, having won 8 gold medals in one day, overtakes its record (32 gold medals) at Athens and leads the medal table with 35 gold medals. ](/news/2008/08/17/2008-summer-olympics-china-having-won-8-gold-medals-in-one-day-overtakes-its-record-32-gold-medals-at-athens-and-leads-the-medal-tabl.md)
+### [ 2008 Summer Olympics:: China, having won 8 gold medals in one day, overtakes its record (32 gold medals) at Athens and leads the medal table with 35 gold medals. ](/news/2008/08/17/2008-summer-olympics-china-having-won-8-gold-medals-in-one-day-overtakes-its-record-32-gold-medals-at-athens-and-leads-the-medal-tabl.md)
 Swedish greco-roman wrestler Ara Abrahamian has been stripped of his 84kg-category bronze medal after he threw it down in protest at the refereeing, the International Olympic Committee (IOC) said on Saturday.
 
 ## [Previous Day...](/news/2008/08/16/index.md)

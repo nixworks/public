@@ -1,6 +1,6 @@
 ### [2017-04-4](/news/2017/04/4/index.md)
 
-# 2017 Batangas earthquakes. A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. 
+# 2017 Batangas earthquakes: A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. 
 
 (Updated) A magnitude-5.5 earthquake struck off the coast of Batangas on Tuesday night and was felt in Metro Manila. 
 
@@ -12,8 +12,8 @@
 
 ### Related:
 
-1. [2017 Batangas earthquakes. Two earthquakes, with magnitudes of 5.6 and 6.0 and related to the April 4 magnitude 5.5 earthquake, hits Batangas, and are felt as far as Metro Manila ](/news/2017/04/8/2017-batangas-earthquakes-two-earthquakes-with-magnitudes-of-5-6-and-6-0-and-related-to-the-april-4-magnitude-5-5-earthquake-hits-batanga.md) _Context: 2017 Batangas earthquakes, Batangas, Metro Manila_
-2. [2015-16 Zika virus epidemic. Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md) _Context: Metro Manila_
+1. [2017 Batangas earthquakes: Two earthquakes, with magnitudes of 5.6 and 6.0 and related to the April 4 magnitude 5.5 earthquake, hits Batangas, and are felt as far as Metro Manila ](/news/2017/04/8/2017-batangas-earthquakes-two-earthquakes-with-magnitudes-of-5-6-and-6-0-and-related-to-the-april-4-magnitude-5-5-earthquake-hits-batanga.md) _Context: 2017 Batangas earthquakes, Batangas, Metro Manila_
+2. [2015-16 Zika virus epidemic: Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md) _Context: Metro Manila_
 3. [Rodrigo Duterte, the Philippines presumptive president-elect, says he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdin.md) _Context: Metro Manila_
 4. [The Philippine Department of Health declares a measles outbreak in Metro Manila. ](/news/2014/01/3/the-philippine-department-of-health-declares-a-measles-outbreak-in-metro-manila.md) _Context: Metro Manila_
 5. [Four people are killed and 18 injured after a bus bombing in the Philippine capital Manila. ](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.md) _Context: Metro Manila_

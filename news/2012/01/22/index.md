@@ -3,7 +3,7 @@
 ### [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011-2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md)
 Saudi Arabia announces it is to pull out of the Arab League mission in Syria, and calls on the international community to put more pressure on the isolated regime.
 
-### [War in Somalia (2009-):. A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009-a-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md)
+### [War in Somalia (2009-):: A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009-a-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md)
 Bilal al-Barjawi, 27, who had been fighting alongside Shabab Islamic militants, was killed in an American drone strike a few miles south of the Somali capital.
 
 ### [Egyptian police shoot two African migrants dead as they attempt to cross the border into Israel. ](/news/2012/01/22/egyptian-police-shoot-two-african-migrants-dead-as-they-attempt-to-cross-the-border-into-israel.md)

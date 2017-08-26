@@ -1,15 +1,15 @@
 ## [2012-12-23](/news/2012/12/23/index.md)
 
-### [Syrian civil war:. Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md)
+### [Syrian civil war:: Up to 200 civilians are killed by Syrian government warplanes in the town of Helfaya, Hama province. ](/news/2012/12/23/syrian-civil-war-up-to-200-civilians-are-killed-by-syrian-government-warplanes-in-the-town-of-helfaya-hama-province.md)
 Dozens of people are killed in a government air strike on a bakery in central Syria, activists say, but Damascus blames the attack on a &quot;terrorist group&quot;.
 
-### [Piracy in Somalia:. Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
+### [Piracy in Somalia:: Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
 _Context: Puntland, Somali pirates, Somalia_
 
-### [2012 Northern Mali conflict:. Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous.md)
+### [2012 Northern Mali conflict:: Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous.md)
 Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu.
 
-### [2012 Central African Republic rebellion:. The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md)
+### [2012 Central African Republic rebellion:: The Seleka rebel coalition takes over Bambari, the country's third largest town, after a string of similar successes in recent weeks. ](/news/2012/12/23/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-takes-over-bambari-the-country-s-third-largest-town-after-a-string-of.md)
 Rebels in the Central AfricanRepublic on Sunday seized the town of Bambari, the biggest prizeyet in a push that has brought rebels to within 400 km (250miles) of the capital, Bangui.
 
 ### [The governments of Chile and Argentina issue volcanic activity alerts in areas close to the Copahue volcano after it started spewing ash. ](/news/2012/12/23/the-governments-of-chile-and-argentina-issue-volcanic-activity-alerts-in-areas-close-to-the-copahue-volcano-after-it-started-spewing-ash.md)
@@ -33,7 +33,7 @@ North Korea has the ability to fire a rocket more than 10,000km, theoretically p
 ### [Metropolitan Police Commissioner Bernard Hogan-Howe says his force will launch "a ruthless search for the truth" in the Andrew Mitchell "plebgate" controversy. ](/news/2012/12/23/metropolitan-police-commissioner-bernard-hogan-howe-says-his-force-will-launch-a-ruthless-search-for-the-truth-in-the-andrew-mitchell-ple.md)
 Metropolitan Police Commissioner Bernard Hogan-Howe says his force will launch &quot;a ruthless search for the truth&quot; in the Andrew Mitchell &quot;plebgate&quot; affair.
 
-### [Egyptian constitutional referendum, 2012:. A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md)
+### [Egyptian constitutional referendum, 2012:: A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md)
 Egyptians appear to have voted in favour of a deeply divisive new constitution, unofficial and preliminary referendum results suggest.
 
 ## [Previous Day...](/news/2012/12/22/index.md)

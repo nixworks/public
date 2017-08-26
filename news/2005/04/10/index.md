@@ -12,7 +12,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Former South African President FW de Klerk has called for a new political party to be set up following the dissolution of the New National Party. ](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.md)
 _Context: FW de Klerk, New National Party, President, South Africa, political party_
 
-### [ Israeli-Palestinian Conflict:. Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md)
+### [ Israeli-Palestinian Conflict:: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md)
 _Context: Al-Aqsa Mosque, Hamas, Israel, Israeli-Palestinian conflict, Ramallah, Sheikh Hassan Yousef, mosque_
 
 ### [ American spammer Jeremy Jaynes is sentenced for nine years in prison. The sentence is suspended until further appeals. ](/news/2005/04/10/american-spammer-jeremy-jaynes-is-sentenced-for-nine-years-in-prison-the-sentence-is-suspended-until-further-appeals.md)

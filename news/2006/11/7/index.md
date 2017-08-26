@@ -21,7 +21,7 @@ _Context: 2004 Financial buildings plot, Britain, Dhiren Barot, London, United S
 ### [ United States general elections, 2006: Voters go to the polls today in the United States. ](/news/2006/11/7/united-states-general-elections-2006-voters-go-to-the-polls-today-in-the-united-states.md)
 A woman who died two months ago won a county commissioner&#39;s race in Jerauld County on Tuesday. 
 
-### [ Trial of Saddam Hussein:. The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md)
+### [ Trial of Saddam Hussein:: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/trial-of-saddam-hussein-the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md)
 _Context: Anfal campaign, Kurd, Saddam Hussein, Trial of Saddam Hussein, genocide_
 
 ### [ Operation Autumn Clouds: The Israeli Defense Forces began to pull its troops out of the northern Gaza Strip town of Beit Hanun, Palestinian officials said. Fifty-three Palestinians, including 16 civilians, and an IDF soldier have been killed since the operation began on October 31. ](/news/2006/11/7/operation-autumn-clouds-the-israeli-defense-forces-began-to-pull-its-troops-out-of-the-northern-gaza-strip-town-of-beit-hanun-palestinian.md)

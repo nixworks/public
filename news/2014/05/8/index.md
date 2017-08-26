@@ -1,12 +1,12 @@
 ## [2014-05-8](/news/2014/05/8/index.md)
 
-### [Syrian Civil War. A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/syrian-civil-war-a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-sev.md)
+### [Syrian Civil War: A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/syrian-civil-war-a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-sev.md)
 _Context: Aleppo, Army of Syria, Syrian Civil War_
 
 ### [A roadside bomb near the Afghan border in North Waziristan, Pakistan, kills 8 Pakistani soldiers. ](/news/2014/05/8/a-roadside-bomb-near-the-afghan-border-in-north-waziristan-pakistan-kills-8-pakistani-soldiers.md)
 At least eight Pakistani soldiers were killed Thursday in a roadside explosion near the Afghan border in one of the deadliest attacks on security forces here in months, officials said.
 
-### [2014 pro-Russian unrest in Ukraine:. Pro-Russian rebels push forward with plans for a referendum on May 11th ignoring Putin's statement to delay the vote. ](/news/2014/05/8/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-push-forward-with-plans-for-a-referendum-on-may-11th-ignoring-putin-s-statement-to-d.md)
+### [2014 pro-Russian unrest in Ukraine:: Pro-Russian rebels push forward with plans for a referendum on May 11th ignoring Putin's statement to delay the vote. ](/news/2014/05/8/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-push-forward-with-plans-for-a-referendum-on-may-11th-ignoring-putin-s-statement-to-d.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Vladimir Putin_
 
 ### [British bank company Barclays announces that they plan to cut 19,000 jobs over the next 3 years and exit the retail bank market in Western Europe. ](/news/2014/05/8/british-bank-company-barclays-announces-that-they-plan-to-cut-19-000-jobs-over-the-next-3-years-and-exit-the-retail-bank-market-in-western-e.md)

@@ -1,6 +1,6 @@
 ### [2010-08-3](/news/2010/08/3/index.md)
 
-# 2010 Khyber Pakhtunkhwa floods:. More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. 
+# 2010 Khyber Pakhtunkhwa floods:: More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. 
 
 Pakistani rescue teams try to reach tens of thousands of people cut off by devastating floods now estimated to have affected 3m people.
 
@@ -14,4 +14,4 @@ Pakistani rescue teams try to reach tens of thousands of people cut off by devas
 
 ### Related:
 
-1. [Pakistan floods. The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _Context: Pakistan's worst floods_
+1. [Pakistan floods: The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md) _Context: Pakistan's worst floods_

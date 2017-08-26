@@ -6,7 +6,7 @@ _Context: Albert II of Belgium, Belgium, Yves Leterme, election, his government_
 ### [In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. ](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.md)
 _Context: Omar al-Bashir, Sudan, war crimes_
 
-### [ 2010 Thai political protests:. Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/2010-thai-political-protests-several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-m.md)
+### [ 2010 Thai political protests:: Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/2010-thai-political-protests-several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-m.md)
 Pro-establishment group threatens to move against red shirts if government fails to act.
 
 ### [ Robotic submarines attempt to stop leaking oil in the aftermath of the Deepwater Horizon drilling rig explosion. ](/news/2010/04/26/robotic-submarines-attempt-to-stop-leaking-oil-in-the-aftermath-of-the-deepwater-horizon-drilling-rig-explosion.md)

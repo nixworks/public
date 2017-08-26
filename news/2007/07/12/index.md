@@ -27,10 +27,10 @@ _Context: Fatah al-Islam, Lebanon, Nahr al-Bared, Tripoli, Lebanon, army, refuge
 ### [ A Philippines ferry, the MV "Blue Water Princess", sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being-de.md)
 _Context: Luzon, Philippines, ferry_
 
-### [ Iraq War:. An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
+### [ Iraq War:: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
 _Context: Government of Iraq, Iraq, Iraq War, U.S. Congress, interim_
 
-### [ Al-Qaeda:. A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)
+### [ Al-Qaeda:: A National Counterterrorism Center report claims that Al-Qaeda has "regrouped to an extent not seen since 2001." ](/news/2007/07/12/al-qaeda-a-national-counterterrorism-center-report-claims-that-al-qaeda-has-regrouped-to-an-extent-not-seen-since-2001.md)
 _Context: National Counterterrorism Center, al-Qaeda_
 
 ### [ Six Afghan policemen are killed by an improvised explosive device in the Khost Province. Another IED kills two civilians in the Paktika Province. ](/news/2007/07/12/six-afghan-policemen-are-killed-by-an-improvised-explosive-device-in-the-khost-province-another-ied-kills-two-civilians-in-the-paktika-pro.md)
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA, CIA leak scandal, George W. Bush, United States, Valerie Plame, president, press conference_
+_Context: CIA, CIA leak scandal, George W. Bush, President, United States, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

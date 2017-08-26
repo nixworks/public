@@ -1,6 +1,6 @@
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-# News International phone hacking scandal. The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. 
+# News International phone hacking scandal: The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. 
 
 Strathclyde Police are investigating phone hacking and breaches of data protection in Scotland, the Crown Office confirms.
 
@@ -12,7 +12,7 @@ Strathclyde Police are investigating phone hacking and breaches of data protecti
 
 ### Related:
 
-1. [R v Brooks, Coulson and six others. Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _Context: conspiracy to hack mobile phones_
+1. [R v Brooks, Coulson and six others: Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _Context: conspiracy to hack mobile phones_
 2. [Metropolitan Police detective April Casburn, who tried to sell information to the "News of the World", regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-phon.md) _Context: conspiracy to hack mobile phones_
 3. [Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. ](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-campaign-to-urge-british-prime-minister-david-cameron-to-fully-implement-the-recommendations-of.md) _Context: conspiracy to hack mobile phones_
 4. [Strathclyde Police warns against use of the legal intoxicant "Annihilation" (or "Mary Joy"), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shetland.md) _Context: Strathclyde Police_

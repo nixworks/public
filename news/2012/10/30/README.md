@@ -1,6 +1,6 @@
 ## [2012-10-30](/news/2012/10/30/index.md)
 
-### [Syrian civil war:. Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md)
+### [Syrian civil war:: Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md)
 _Context: Qatar, Syrian Civil War_
 
 ### [The Bahraini regime makes all opposition to its rule illegal. ](/news/2012/10/30/the-bahraini-regime-makes-all-opposition-to-its-rule-illegal.md)

@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [84th Academy Awards:. The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md) _Context: Hollywood_
+1. [84th Academy Awards:: The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md) _Context: Hollywood_
 2. [An unruly crowd riots on Hollywood Boulevard outside Grauman's Chinese Theatre in Hollywood, California after being refused admission to a documentary on the Electric Daisy Carnival. ](/news/2011/07/27/an-unruly-crowd-riots-on-hollywood-boulevard-outside-grauman-s-chinese-theatre-in-hollywood-california-after-being-refused-admission-to-a-d.md) _Context: Hollywood_
 3. [ Eleven World Wrestling Entertainment performers are suspended for suspected illegal steroid abuse.](/news/2007/09/1/eleven-world-wrestling-entertainment-performers-are-suspended-for-suspected-illegal-steroid-abuse.md) _Context: World Wrestling Entertainment_
 4. [ World Wrestling Entertainment's flagship pay-per-view, WrestleMania 23 takes place at Ford Field in Detroit, Michigan, setting an arena record of 80,103. ](/news/2007/04/1/world-wrestling-entertainment-s-flagship-pay-per-view-wrestlemania-23-takes-place-at-ford-field-in-detroit-michigan-setting-an-arena-rec.md) _Context: World Wrestling Entertainment_

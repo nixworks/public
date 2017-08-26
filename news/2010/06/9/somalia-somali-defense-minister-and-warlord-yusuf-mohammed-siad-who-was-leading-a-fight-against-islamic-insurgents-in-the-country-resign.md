@@ -1,6 +1,6 @@
 ### [2010-06-9](/news/2010/06/9/index.md)
 
-# Somalia:. Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. 
+# Somalia:: Somali Defense Minister and warlord Yusuf Mohammed Siad, who was leading a fight against Islamic insurgents in the country, resigns from government. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 1. [The governments of Somalia, Tajikistan and Brunei ban celebrations of Christmas, with punishments ranging up to a five-year jail term. Each country has a majority-Muslim population. ](/news/2015/12/23/the-governments-of-somalia-tajikistan-and-brunei-ban-celebrations-of-christmas-with-punishments-ranging-up-to-a-five-year-jail-term-each.md) _Context: Islam, Somalia_
 2. [More than 200 Islamist insurgents surrender to African Union troops in Jowhar, Somalia. Al-Shabaab kills a member of the Somali Parliament and threatens to kill more. ](/news/2012/09/23/more-than-200-islamist-insurgents-surrender-to-african-union-troops-in-jowhar-somalia-al-shabaab-kills-a-member-of-the-somali-parliament-a.md) _Context: Islam, Somalia_
 3. [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md) _Context: Islam, Somalia_
-4. [Somalia:. At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md) _Context: Islam, Somalia_
+4. [Somalia:: At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md) _Context: Islam, Somalia_
 5. [Somalia's state minister for defence Yusuf Mohammed Siad survives an attempt on his life from a suicide bomber in Mogadishu. ](/news/2010/02/15/somalia-s-state-minister-for-defence-yusuf-mohammed-siad-survives-an-attempt-on-his-life-from-a-suicide-bomber-in-mogadishu.md) _Context: Somalia, Yusuf Mohammed Siad_
 6. [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md) _Context: Islam, Somalia_
 7. [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md) _Context: Islam, Somalia_

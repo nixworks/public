@@ -1,9 +1,9 @@
 ## [2012-08-11](/news/2012/08/11/index.md)
 
-### [Syrian civil war:. U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md)
+### [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md)
 Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian rebels trying to topple President Bashar Al-Assad, the Foreign Office (FCO) said today.
 
-### [Mexican Drug War:. A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md)
+### [Mexican Drug War:: A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md)
 At least five dead as suspected gang members go on rampage in drug-violence-ravaged western state of Michoacan.
 
 ### [An Afghan policeman kills ten of his colleagues at a checkpoint in southwestern Afghanistan. ](/news/2012/08/11/an-afghan-policeman-kills-ten-of-his-colleagues-at-a-checkpoint-in-southwestern-afghanistan.md)
@@ -22,7 +22,7 @@ _Context: Himachal Pradesh, India_
 _Context: Bangladesh_
 
 ### [Mitt Romney, the presumptive Republican Party nominee for the United States presidency, names Wisconsin Congressman Paul Ryan as the Republican Party's vice presidential candidate in the presidential election in November. ](/news/2012/08/11/mitt-romney-the-presumptive-republican-party-nominee-for-the-united-states-presidency-names-wisconsin-congressman-paul-ryan-as-the-republi.md)
-_Context: Mitt Romney, Paul Ryan, Republican, United States presidential election, 2012, Wisconsin, president, presumptive nominee, vice presidential candidate_
+_Context: Mitt Romney, Paul Ryan, President, Republican, United States presidential election, 2012, Wisconsin, presumptive nominee, vice presidential candidate_
 
 ## [Previous Day...](/news/2012/08/10/index.md)
 

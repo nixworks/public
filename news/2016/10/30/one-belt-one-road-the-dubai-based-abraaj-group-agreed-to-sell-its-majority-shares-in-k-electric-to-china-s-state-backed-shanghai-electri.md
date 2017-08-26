@@ -1,6 +1,6 @@
 ### [2016-10-30](/news/2016/10/30/index.md)
 
-# One Belt, One Road. The Dubai based Abraaj Group agreed to sell its majority shares in K-Electric to China-s state-backed Shanghai Electric Power Company with a transaction of US $ 1.77 billion. 
+# One Belt, One Road: The Dubai based Abraaj Group agreed to sell its majority shares in K-Electric to China-s state-backed Shanghai Electric Power Company with a transaction of US $ 1.77 billion. 
 
 SEP was among a number of Chinese bidders, including China Southern Power Grid, which were lining up to acquire the stake, sources said
 

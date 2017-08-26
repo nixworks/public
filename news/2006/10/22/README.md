@@ -9,7 +9,7 @@ _Context: Al-Aqsa Martyrs' Brigades, Bureij, Fatah, Gaza Strip, Hamas, Mohammed 
 ### [ Alberto Fernandez, Director of Office of Press and Public Diplomacy in the Bureau of Near Eastern Affairs at the United States Department of State, apologises for saying the United States Government has shown "arrogance and stupidity" in Iraq. ](/news/2006/10/22/alberto-fernandez-director-of-office-of-press-and-public-diplomacy-in-the-bureau-of-near-eastern-affairs-at-the-united-states-department-o.md)
 Alberto Fernandez apologized for saying that the U.S. had acted with “arrogance” and “stupidity” in its campaign in Iraq.
 
-### [ Iraqi insurgency:. Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md)
+### [ Iraqi insurgency:: Gunmen kill 15 police recruits and wound 25 south of the city of Baqouba in Iraq. ](/news/2006/10/22/iraqi-insurgency-gunmen-kill-15-police-recruits-and-wound-25-south-of-the-city-of-baqouba-in-iraq.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Based on extraofficial partial results, Panama has approved in a referendum a $5.25 billion USD plan to expand the Panama Canal by 79% (40% of votes counted). ](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.md)

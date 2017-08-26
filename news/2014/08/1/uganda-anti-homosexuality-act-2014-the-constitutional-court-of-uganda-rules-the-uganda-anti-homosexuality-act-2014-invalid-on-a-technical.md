@@ -1,6 +1,6 @@
 ### [2014-08-1](/news/2014/08/1/index.md)
 
-# Uganda Anti-Homosexuality Act, 2014. The Constitutional Court of Uganda rules the Uganda Anti-Homosexuality Act, 2014 invalid on a technicality. 
+# Uganda Anti-Homosexuality Act, 2014: The Constitutional Court of Uganda rules the Uganda Anti-Homosexuality Act, 2014 invalid on a technicality. 
 
 Constitutional court petitioned to scrap law that calls for gay people to be jailed for life and obliges Ugandans to denounce them to authorities
 

@@ -1,6 +1,6 @@
 ### [2000-03-18](/news/2000/03/18/index.md)
 
-# 2000 Taiwanese presidential election. Chen Shui-bian is elected President of the Republic of China.
+# 2000 Taiwanese presidential election: Chen Shui-bian is elected President of the Republic of China.
 
 
 

@@ -15,7 +15,7 @@ _Context: Gothic Chapel, Maria Fyodorovna, Peterhof_
 ### [ U.S. Democrats urge the Bush administration to release in full a report linking the Iraq conflict and global terrorism. ](/news/2006/09/27/u-s-democrats-urge-the-bush-administration-to-release-in-full-a-report-linking-the-iraq-conflict-and-global-terrorism.md)
 _Context: Democratic, George W. Bush, Iraq conflict, terrorism_
 
-### [ Israeli-Palestinian conflict:. An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeli-palestinian-conflict-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md)
+### [ Israeli-Palestinian conflict:: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeli-palestinian-conflict-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md)
 _Context: Asher Weisgan, August 2005, Israel, Israeli-Palestinian conflict, NIS, Palestinians, life sentence_
 
 ## [Previous Day...](/news/2006/09/26/index.md)

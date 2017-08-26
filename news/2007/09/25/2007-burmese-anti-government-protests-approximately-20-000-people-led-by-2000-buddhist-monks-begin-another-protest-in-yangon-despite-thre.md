@@ -1,6 +1,6 @@
 ### [2007-09-25](/news/2007/09/25/index.md)
 
-#  2007 Burmese anti-government protests:. Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. 
+#  2007 Burmese anti-government protests:: Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. 
 
 
 

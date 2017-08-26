@@ -87,7 +87,7 @@ A row erupts after the firm behind World of Warcraft announced that users of its
 ### [The European Union reveals its list of 91 stress test banks. ](/news/2010/07/7/the-european-union-reveals-its-list-of-91-stress-test-banks.md)
 _Context: European Union_
 
-### [FIFA World Cup 2010. Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md)
+### [FIFA World Cup 2010: Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/fifa-world-cup-2010-spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world.md)
 _Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_
 
 ## [Previous Day...](/news/2010/07/6/index.md)

@@ -27,7 +27,7 @@ _Context: Fast food, Romania, tax_
 ### [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to -host communities-. ](/news/2010/02/19/to-persuade-its-volatile-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md)
 _Context: Conflict in the Niger Delta, Niger Delta, Nigeria_
 
-### [Assassination of senior Hamas commander Mahmoud al-Mabhouh in Dubai:. Hamas threatens Western nations and trades accusations with rival Palestinian faction Fatah over alleged involvement in the affair. ](/news/2010/02/19/assassination-of-senior-hamas-commander-mahmoud-al-mabhouh-in-dubai-hamas-threatens-western-nations-and-trades-accusations-with-rival-pale.md)
+### [Assassination of senior Hamas commander Mahmoud al-Mabhouh in Dubai:: Hamas threatens Western nations and trades accusations with rival Palestinian faction Fatah over alleged involvement in the affair. ](/news/2010/02/19/assassination-of-senior-hamas-commander-mahmoud-al-mabhouh-in-dubai-hamas-threatens-western-nations-and-trades-accusations-with-rival-pale.md)
 Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 
 ### [Social networking site Facebook closes down spontaneous support groups for a pilot who crashed his plane in Austin, United States. (Wikinews) ](/news/2010/02/19/social-networking-site-facebook-closes-down-spontaneous-support-groups-for-a-pilot-who-crashed-his-plane-in-austin-united-states-wikinews.md)

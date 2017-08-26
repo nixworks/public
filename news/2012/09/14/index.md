@@ -1,6 +1,6 @@
 ## [2012-09-14](/news/2012/09/14/index.md)
 
-### [2012 Anti-Islam film protests:. Protesters angered by an anti-Islamic film denigrating the Prophet Muhammad attack the German and British embassies in the Sudanese capital of Khartoum. In Khartoum, Tunis and Cairo, at least seven people die. An Egyptian fruit seller dies by rubber bullets. ](/news/2012/09/14/2012-anti-islam-film-protests-protesters-angered-by-an-anti-islamic-film-denigrating-the-prophet-muhammad-attack-the-german-and-british-em.md)
+### [2012 Anti-Islam film protests:: Protesters angered by an anti-Islamic film denigrating the Prophet Muhammad attack the German and British embassies in the Sudanese capital of Khartoum. In Khartoum, Tunis and Cairo, at least seven people die. An Egyptian fruit seller dies by rubber bullets. ](/news/2012/09/14/2012-anti-islam-film-protests-protesters-angered-by-an-anti-islamic-film-denigrating-the-prophet-muhammad-attack-the-german-and-british-em.md)
 At least seven people are killed as protests against a film which mocks Islam spread through the Muslim world and beyond.
 
 ### [The campus buildings of the University of Texas at Austin and North Dakota State University are evacuated due to bomb threats. ](/news/2012/09/14/the-campus-buildings-of-the-university-of-texas-at-austin-and-north-dakota-state-university-are-evacuated-due-to-bomb-threats.md)

@@ -1,9 +1,9 @@
 ## [2012-08-13](/news/2012/08/13/index.md)
 
-### [Syrian civil war:. Syrian forces kill at least 10 people at the entrance of Jdeidet Artouz district of Damascus according to opposition sources. ](/news/2012/08/13/syrian-civil-war-syrian-forces-kill-at-least-10-people-at-the-entrance-of-jdeidet-artouz-district-of-damascus-according-to-opposition-sour.md)
+### [Syrian civil war:: Syrian forces kill at least 10 people at the entrance of Jdeidet Artouz district of Damascus according to opposition sources. ](/news/2012/08/13/syrian-civil-war-syrian-forces-kill-at-least-10-people-at-the-entrance-of-jdeidet-artouz-district-of-damascus-according-to-opposition-sour.md)
 Rebels in eastern Syria said they downed a government fighter jet on Monday and captured the pilot, but state television said the plane crashed due to technical difficulties.
 
-### [WikiLeaks revelations and attack:. WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civi.md)
+### [WikiLeaks revelations and attack:: WikiLeaks reveals data showing that the U.S. government has been secretly spying on the public using civilian security cameras with Trapwire. ](/news/2012/08/13/wikileaks-revelations-and-attack-wikileaks-reveals-data-showing-that-the-u-s-government-has-been-secretly-spying-on-the-public-using-civi.md)
 Emails obtained via a hack of intelligence agency Stratfor have shed light on a secret, comprehensive U.S. surveillance effort led by Virginia-based TrapWire.
 
 ### [American publisher and editor Helen Gurley Brown, editor-in-chief of "Cosmopolitan" magazine and a leader of 1960s sexual revolution dies at the age of 90 in New York City. ](/news/2012/08/13/american-publisher-and-editor-helen-gurley-brown-editor-in-chief-of-cosmopolitan-magazine-and-a-leader-of-1960s-sexual-revolution-dies-at.md)

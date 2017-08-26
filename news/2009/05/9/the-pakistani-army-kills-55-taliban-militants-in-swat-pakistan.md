@@ -11,7 +11,7 @@ Pakistan has been roused to fight the &quot;existential threat&quot; of a growin
 
 ### Related:
 
-1. [ Pakistan:. The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _Context: Pakistan, Taliban, War in North-West Pakistan, militant, military_
+1. [ Pakistan:: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md) _Context: Pakistan, Taliban, War in North-West Pakistan, militant, military_
 2. [ Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. ](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.md) _Context: Pakistan, Taliban, War in North-West Pakistan, military_
 3. [ At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. ](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan_
 4. [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan_

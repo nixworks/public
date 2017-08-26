@@ -1,9 +1,9 @@
 ## [2013-05-12](/news/2013/05/12/index.md)
 
-### [Syrian civil war:. Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md)
+### [Syrian civil war:: Four Filipino UN peacekeepers that had been taken captive by Syrian rebels on May 7 are released. ](/news/2013/05/12/syrian-civil-war-four-filipino-un-peacekeepers-that-had-been-taken-captive-by-syrian-rebels-on-may-7-are-released.md)
 BEIRUT--Syrian rebels released four U.N. peacekeepers Sunday, five days after the Filipino troops were seized in the increasingly volatile buffer zone between Syria and the Israeli-occupied Golan...
 
-### [2013 Savar building collapse:. The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. ](/news/2013/05/12/2013-savar-building-collapse-the-death-toll-reaches-1-126-with-many-people-still-missing-the-accident-is-now-the-third-worst-industrial-d.md)
+### [2013 Savar building collapse:: The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. ](/news/2013/05/12/2013-savar-building-collapse-the-death-toll-reaches-1-126-with-many-people-still-missing-the-accident-is-now-the-third-worst-industrial-d.md)
 _Context: 2013 Savar building collapse, industrial disaster_
 
 ### [At least 28 people are killed in a mining accident in China's Sichuan Province. ](/news/2013/05/12/at-least-28-people-are-killed-in-a-mining-accident-in-china-s-sichuan-province.md)
@@ -27,7 +27,7 @@ Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl w
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
 _Context: Britain, Costa Blanca, Spain_
 
-### [2013 Pakistani general election:. Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obt.md)
+### [2013 Pakistani general election:: Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/2013-pakistani-general-election-partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obt.md)
 _Context: 2013 Pakistani general election, Nawaz Sharif_
 
 ### [Voters in Bulgaria go to the polls for a parliamentary election. Boyko Borisov's GERB party wins between 30% and 32% of the votes, closely followed by Sergei Stanishev's resurgent BSP with 26 to 28 percent. No party manages to obtain a majority, while analysts predict a political deadlock amid low voter turnout and economic woes. ](/news/2013/05/12/voters-in-bulgaria-go-to-the-polls-for-a-parliamentary-election-boyko-borisov-s-gerb-party-wins-between-30-and-32-of-the-votes-closely-f.md)

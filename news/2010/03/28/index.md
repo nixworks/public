@@ -3,14 +3,14 @@
 ### [The BBC reports it has found evidence of a massacre which occurred in Democratic Republic of Congo last December in which at least 321 people, including children, were killed. Human Rights Watch calls it "one of the worst massacres carried out by the LRA". ](/news/2010/03/28/the-bbc-reports-it-has-found-evidence-of-a-massacre-which-occurred-in-democratic-republic-of-congo-last-december-in-which-at-least-321-peopl.md)
 _Context: BBC, Democratic Republic of Congo, Human Rights Watch, Lord's Resistance Army, massacre_
 
-### [Catholic Church child sexual abuse scandal:. At a Palm Sunday mass in Saint Peter's Square, Rome, Pope Benedict XVI tells tens of thousands of people about the recent "petty gossip" he has been subjected to, thought to mean the child sexual abuse within the Roman Catholic Church, though he fails to directly mention the scandal. ](/news/2010/03/28/catholic-church-child-sexual-abuse-scandal-at-a-palm-sunday-mass-in-saint-peter-s-square-rome-pope-benedict-xvi-tells-tens-of-thousands.md)
+### [Catholic Church child sexual abuse scandal:: At a Palm Sunday mass in Saint Peter's Square, Rome, Pope Benedict XVI tells tens of thousands of people about the recent "petty gossip" he has been subjected to, thought to mean the child sexual abuse within the Roman Catholic Church, though he fails to directly mention the scandal. ](/news/2010/03/28/catholic-church-child-sexual-abuse-scandal-at-a-palm-sunday-mass-in-saint-peter-s-square-rome-pope-benedict-xvi-tells-tens-of-thousands.md)
 Cardinal Seán Brady has said a parish priest in his diocese has agreed to take leave in light of information relating to child safeguarding issues.
 
-### [Middle East:. Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holida.md)
+### [Middle East:: Israel announces its plan to seal off the West Bank from midnight tonight until midnight on 6 April during the Passover holiday. ](/news/2010/03/28/middle-east-israel-announces-its-plan-to-seal-off-the-west-bank-from-midnight-tonight-until-midnight-on-6-april-during-the-passover-holida.md)
 Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: Afghanistan President, Afghanistan's, Barack Obama, Hamid Karzai, president_
+_Context: Afghanistan President, Afghanistan's, Barack Obama, Hamid Karzai, President_
 
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)
 A 15-year-old boy was killed and his mother and sister injured late Sunday after a bomb exploded outside a building in central Athens, police said.

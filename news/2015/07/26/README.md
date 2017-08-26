@@ -1,6 +1,6 @@
 ## [2015-07-26](/news/2015/07/26/index.md)
 
-### [Boko Haram insurgency in Cameroon. A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/boko-haram-insurgency-in-cameroon-a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-inju.md)
+### [Boko Haram insurgency in Cameroon: A 13-year-old female suicide bomber attacks in the Cameroonian town of Maroua, killing 20 people and injuring another 70. ](/news/2015/07/26/boko-haram-insurgency-in-cameroon-a-13-year-old-female-suicide-bomber-attacks-in-the-cameroonian-town-of-maroua-killing-20-people-and-inju.md)
 Officials in northern Cameroon have ordered the closure of mosques and Islamic schools following a series of suicide bombing attacks that have left dozens dead.
 
 ### [A suicide bomber detonates a vehicle loaded with explosives at a hotel in the Somali capital of Mogadishu, killing 15 people. ](/news/2015/07/26/a-suicide-bomber-detonates-a-vehicle-loaded-with-explosives-at-a-hotel-in-the-somali-capital-of-mogadishu-killing-15-people.md)

@@ -1,6 +1,6 @@
 ### [2010-03-25](/news/2010/03/25/index.md)
 
-# Dennis Hopper:. The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. 
+# Dennis Hopper:: The lawyer for Dennis Hopper admits for the first time that the actor is terminally ill and unable to undergo chemotherapy treatment for his prostate cancer. 
 
 American actor Dennis Hopper is terminally ill and unable to undergo chemotherapy as he battles prostate cancer, his lawyer has said.
 

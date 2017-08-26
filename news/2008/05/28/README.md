@@ -18,7 +18,7 @@ _Context: Defense Minister, Ehud Barak, Ehud Olmert, Israeli Prime Minister, Lab
 ### [ The Majlis of Iran elects Ali Larijani as its new Speaker. ](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.md)
 _Context: Ali Larijani, Majlis of Iran, Speaker_
 
-### [ Nepal. The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/nepal-the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly.md)
+### [ Nepal: The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/nepal-the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly.md)
 _Context: Constituent Assembly, Constitution of Nepal, Nepal, Nepalese Constituent Assembly election, 2008_
 
 ## [Previous Day...](/news/2008/05/27/index.md)

@@ -15,13 +15,13 @@ It&#039;s a clean sweep for the Dixie Chicks
 ### [ Portugal votes on an abortion referendum which despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-prom.md)
 _Context: Jose Socrates, Portugal, Portuguese Prime Minister, abortion, abortion law, parliament, referendum_
 
-### [ Islamist insurgency in Somalia:. An explosion at a ceremony in Kismayo kills at least four people and injures 24 others, including senior military officers and regional leaders. General Abdi Mahdi, the recently appointed Somali military chief, is among the injured. ](/news/2007/02/11/islamist-insurgency-in-somalia-an-explosion-at-a-ceremony-in-kismayo-kills-at-least-four-people-and-injures-24-others-including-senior-m.md)
+### [ Islamist insurgency in Somalia:: An explosion at a ceremony in Kismayo kills at least four people and injures 24 others, including senior military officers and regional leaders. General Abdi Mahdi, the recently appointed Somali military chief, is among the injured. ](/news/2007/02/11/islamist-insurgency-in-somalia-an-explosion-at-a-ceremony-in-kismayo-kills-at-least-four-people-and-injures-24-others-including-senior-m.md)
 _Context:  Insurgency in Somalia, Abdi Mahdi, Kismayo_
 
 ### [ Two people die in protests in Pristina, Kosovo over a United Nations plan for the future of the Serbian province. ](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.md)
 _Context: Kosovo, Pristina, Serbia, United Nations_
 
-### [ Iran:. The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
+### [ Iran:: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
 _Context: Iran, Iranian government, Iraq, Iraqi insurgency, Military of the United States, sophisticated roadside bombs_
 
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)

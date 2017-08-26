@@ -1,6 +1,6 @@
 ### [2007-09-8](/news/2007/09/8/index.md)
 
-#  Islamic insurgency in Algeria (2002-present):. At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. 
+#  Islamic insurgency in Algeria (2002-present):: At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. 
 
 
 
@@ -21,4 +21,4 @@
 7. [ Al Qaida claims responsibility for the bombings in Algiers, Algeria. ](/news/2007/04/12/al-qaida-claims-responsibility-for-the-bombings-in-algiers-algeria.md) _Context: Algeria, Algiers_
 8. [ Several explosions in Algiers, Algeria, leave 23 dead and dozens of people injured. ](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-dead-and-dozens-of-people-injured.md) _Context: Algeria, Algiers_
 9. [ A heavy blizzard in Algeria causes death of at least 13 people and paralyzes traffic in the capital Algiers ](/news/2005/01/28/a-heavy-blizzard-in-algeria-causes-death-of-at-least-13-people-and-paralyzes-traffic-in-the-capital-algiers.md) _Context: Algeria, Algiers_
-10. [Algerian legislative election, 2017. Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/algerian-legislative-election-2017-voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-nati.md) _Context: Algeria_
+10. [Algerian legislative election, 2017: Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/algerian-legislative-election-2017-voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-nati.md) _Context: Algeria_

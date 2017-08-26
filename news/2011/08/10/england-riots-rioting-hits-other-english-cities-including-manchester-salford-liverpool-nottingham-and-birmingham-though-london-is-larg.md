@@ -1,6 +1,6 @@
 ### [2011-08-10](/news/2011/08/10/index.md)
 
-# England riots:. Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. 
+# England riots:: Rioting hits other English cities including Manchester, Salford, Liverpool, Nottingham and Birmingham, though London is largely quiet. 
 
 Rioting spreads to a number of cities with unrest in Manchester and Liverpool, while three men said to be protecting their community have been run over and killed in Birmingham.
 
@@ -14,9 +14,9 @@ Rioting spreads to a number of cities with unrest in Manchester and Liverpool, w
 
 ### Related:
 
-1. [English riots:. Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bi.md) _Context: 2011 England Riots, Birmingham, England, Liverpool, London, Manchester_
+1. [English riots:: Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bi.md) _Context: 2011 England Riots, Birmingham, England, Liverpool, London, Manchester_
 2. [British activists with the Black Lives Matter movement from America block the road to Heathrow Airport and to streets in Manchester, Birmingham, and Nottingham, marking the fifth anniversary of the deadly police shooting of Mark Duggan in north London. Ten protestors are arrested. ](/news/2016/08/5/british-activists-with-the-black-lives-matter-movement-from-america-block-the-road-to-heathrow-airport-and-to-streets-in-manchester-birming.md) _Context: Birmingham, London, Manchester, Nottingham_
-3. [One Love Manchester. The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/one-love-manchester-the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester.md) _Context: England, Manchester_
+3. [One Love Manchester: The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/one-love-manchester-the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester.md) _Context: England, Manchester_
 4. [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md) _Context: Birmingham, England_
 5. [A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. ](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.md) _Context: England, Manchester_
 6. [Thousands, including some from Australia, protest in London, England, against the renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. ](/news/2016/02/27/thousands-including-some-from-australia-protest-in-london-england-against-the-renewal-of-the-united-kingdom-s-trident-nuclear-deterrent.md) _Context: England, London_

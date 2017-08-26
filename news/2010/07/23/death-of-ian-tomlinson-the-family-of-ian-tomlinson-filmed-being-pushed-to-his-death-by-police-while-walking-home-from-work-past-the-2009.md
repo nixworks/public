@@ -1,6 +1,6 @@
 ### [2010-07-23](/news/2010/07/23/index.md)
 
-# Death of Ian Tomlinson:. The family of Ian Tomlinson, filmed being pushed to his death by police while walking home from work past the 2009 G-20 London summit protests, say the incident is being covered up by authorities. 
+# Death of Ian Tomlinson:: The family of Ian Tomlinson, filmed being pushed to his death by police while walking home from work past the 2009 G-20 London summit protests, say the incident is being covered up by authorities. 
 
 The police officer captured on film striking Ian Tomlinson during the G20 protests will not face criminal charges over his death because of conflicting opinions about the cause of death among the medical experts who conducted post-mortem examinations.
 

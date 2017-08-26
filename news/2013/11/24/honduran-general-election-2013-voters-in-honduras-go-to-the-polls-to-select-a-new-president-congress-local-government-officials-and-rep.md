@@ -1,6 +1,6 @@
 ### [2013-11-24](/news/2013/11/24/index.md)
 
-# Honduran general election, 2013:. Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. 
+# Honduran general election, 2013:: Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. 
 
 
 

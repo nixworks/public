@@ -1,12 +1,12 @@
 ## [2013-06-24](/news/2013/06/24/index.md)
 
-### [Syrian civil war spillover in Lebanon:. Clashes between the Lebanese Army and supporters of the Salafist cleric Ahmed Al-Assir continue for a second day around the Ain el-Hilweh camp near Sidon. The government reports at least 15 soldiers killed and 38 others injured in the violence, as it promises crackdown on ethnic strife across the country. ](/news/2013/06/24/syrian-civil-war-spillover-in-lebanon-clashes-between-the-lebanese-army-and-supporters-of-the-salafist-cleric-ahmed-al-assir-continue-for.md)
+### [Syrian civil war spillover in Lebanon:: Clashes between the Lebanese Army and supporters of the Salafist cleric Ahmed Al-Assir continue for a second day around the Ain el-Hilweh camp near Sidon. The government reports at least 15 soldiers killed and 38 others injured in the violence, as it promises crackdown on ethnic strife across the country. ](/news/2013/06/24/syrian-civil-war-spillover-in-lebanon-clashes-between-the-lebanese-army-and-supporters-of-the-salafist-cleric-ahmed-al-assir-continue-for.md)
 Residents flee scene of violence as 15 soldiers are killed in continuing clashes with followers of Sunni leader.
 
 ### [Israeli Air Force planes attack the Gaza Strip after two rockets were fired into southern Israel on Sunday night. ](/news/2013/06/24/israeli-air-force-planes-attack-the-gaza-strip-after-two-rockets-were-fired-into-southern-israel-on-sunday-night.md)
 Israeli warplanes attack targets in the Gaza Strip after missiles are fired into southern Israel late on Sunday night.
 
-### [2013 North India floods:. North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md)
+### [2013 North India floods:: North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/2013-north-india-floods-north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md)
 Northern India is bracing itself for further floods during what is believed to be the heaviest monsoon rains for 60 years.
 
 ### [The U.S. Supreme Court decides "Fisher v. University of Texas", tightening constitutional scrutiny of the consideration of race in the college admissions process. ](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-university-of-texas-tightening-constitutional-scrutiny-of-the-consideration-of-race-in-the-colle.md)

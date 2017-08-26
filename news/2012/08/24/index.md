@@ -1,9 +1,9 @@
 ## [2012-08-24](/news/2012/08/24/index.md)
 
-### [Syrian civil war:. Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in.md)
+### [Syrian civil war:: Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in.md)
 _Context: Lebanon, Sheikh, Syria, Syrian Civil War, Syrian rebels, Tripoli, Lebanon, combat_
 
-### [War on terror:. Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
+### [War on terror:: Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
 U.S. missiles slammed into three compounds close to the Afghan border Friday, killing 18 suspected militants, Pakistani officials said.
 
 ### [Typhoon Tembin makes landfall on Taiwan. ](/news/2012/08/24/typhoon-tembin-makes-landfall-on-taiwan.md)

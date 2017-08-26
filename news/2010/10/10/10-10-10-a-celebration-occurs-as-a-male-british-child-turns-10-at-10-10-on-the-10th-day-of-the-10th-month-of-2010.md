@@ -1,6 +1,6 @@
 ### [2010-10-10](/news/2010/10/10/index.md)
 
-# 10-10-10. A celebration occurs as a male British child turns 10 at 10:10 on the 10th day of the 10th month of 2010. 
+# 10-10-10: A celebration occurs as a male British child turns 10 at 10:10 on the 10th day of the 10th month of 2010. 
 
 More than 39,000 couples have chosen Sunday as their wedding day, figuring that “a perfect 10, times 3” is good luck.
 

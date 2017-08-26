@@ -1,21 +1,21 @@
 ## [2015-08-31](/news/2015/08/31/index.md)
 
-### [2015 Bangkok bombing. Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/2015-bangkok-bombing-thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md)
+### [2015 Bangkok bombing: Thai police say they have discovered bomb-making material in a raid in an apartment in an outer side of Bangkok. ](/news/2015/08/31/2015-bangkok-bombing-thai-police-say-they-have-discovered-bomb-making-material-in-a-raid-in-an-apartment-in-an-outer-side-of-bangkok.md)
 _Context: 2015 Bangkok bombing, Bangkok, Thai police officers_
 
 ### [Denali, the highest mountain peak in North America, officially regains its original Alaska Native name through an executive order issued by American President Barack Obama. Previously, since 1917, it had been known as Mount McKinley. ](/news/2015/08/31/denali-the-highest-mountain-peak-in-north-america-officially-regains-its-original-alaska-native-name-through-an-executive-order-issued-by.md)
-_Context: Alaska Native, Barack Obama, Denali, North America, executive order, president_
+_Context: Alaska Native, Barack Obama, Denali, North America, President, executive order_
 
-### [2015 Atlantic hurricane season. Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md)
+### [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md)
 _Context: 2015 Atlantic hurricane season, Cape Verde, Tropical Storm Fred's_
 
-### [Turkey-PKK conflict. A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/turkey-pkk-conflict-a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-i.md)
+### [Turkey-PKK conflict: A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/turkey-pkk-conflict-a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-i.md)
 _Context: ISIL, Turkey-PKK conflict, VICE News_
 
-### [Minsk II implementation. Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementation-riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md)
+### [Minsk II implementation: Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementation-riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md)
 At least one policeman killed and 90 people injured as protesters clash with security forces outside parliament.
 
-### [Syria-North Korea relations. Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syria-north-korea-relations-syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md)
+### [Syria-North Korea relations: Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syria-north-korea-relations-syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md)
 _Context: Damascus, Kim Il-sung, North Korea, Syria_
 
 ### [Czech authorities extradite from the United States Kevin Dahlgren, who is suspected of killing four Czech family members. ](/news/2015/08/31/czech-authorities-extradite-from-the-united-states-kevin-dahlgren-who-is-suspected-of-killing-four-czech-family-members.md)

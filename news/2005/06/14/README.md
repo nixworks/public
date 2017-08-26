@@ -15,7 +15,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Conflict in Iraq: 22 people have died following a suicide bombing in Kirkuk, northern Iraq. ](/news/2005/06/14/conflict-in-iraq-22-people-have-died-following-a-suicide-bombing-in-kirkuk-northern-iraq.md)
 _Context: Conflict in Iraq, Iraq, Kirkuk, suicide bomb_
 
-### [ Football (soccer) sex crime allegations:. George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md)
+### [ Football (soccer) sex crime allegations:: George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/football-soccer-sex-crime-allegations-george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-baile.md)
 _Context: George Best, Manchester United, Northern Ireland, arrest, footballer, indecently assaulting, sex crime_
 
 ### [ Sudan rejects the UN's decision to use the International Criminal Court to try criminals in relation to the atrocities of the Darfur conflict, and instead opens its own recently-created special court. ](/news/2005/06/14/sudan-rejects-the-un-s-decision-to-use-the-international-criminal-court-to-try-criminals-in-relation-to-the-atrocities-of-the-darfur-confli.md)

@@ -1,6 +1,6 @@
 ### [2014-05-29](/news/2014/05/29/index.md)
 
-# 87th Scripps National Spelling Bee. Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. 
+# 87th Scripps National Spelling Bee: Two Indian-American teenagers Sriram Hathwar of Painted Post, New York, and Ansun Sujoe of Fort Worth, Texas, share the title after tying in the final round. 
 
 
 

@@ -1,6 +1,6 @@
 ### [2010-12-4](/news/2010/12/4/index.md)
 
-# Ivorian political crisis:. A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. 
+# Ivorian political crisis:: A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. 
 
 Ivory Coast is in a deep political crisis, as rival presidential candidates both swear themselves in after a disputed poll.
 

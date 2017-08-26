@@ -1,6 +1,6 @@
 ## [2013-09-16](/news/2013/09/16/index.md)
 
-### [Syrian civil war:. The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
+### [Syrian civil war:: The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
 Follow live updates as a UN report into last month&#x27;s chemical weapons attack in Syria is expected to be published and France, Britain and the US meet to draft a new UN resolution
 
 ### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)

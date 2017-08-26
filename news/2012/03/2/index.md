@@ -27,10 +27,10 @@ _Context: Eurozone, Greek, Moody's Investor Services, credit rating_
 ### [Anglican Church officials in Christchurch, New Zealand, announce that the 131-year-old landmark ChristChurch Cathedral will need to be demolished, having suffered severe damage from the 2011 Christchurch earthquake and its aftershocks. ](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.md)
 A city councillor will chain himself to Christ Church Cathedral to prevent its demise. + CBD reopening delayed
 
-### [Australian floods:. Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-residents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md)
+### [Australian floods:: Residents in the New South Wales town of Bega evacuate as the Australian flood crisis continues to worsen. ](/news/2012/03/2/australian-floods-residents-in-the-new-south-wales-town-of-bega-evacuate-as-the-australian-flood-crisis-continues-to-worsen.md)
 _Context: Australia, Bega, New South Wales_
 
-### [US tornado outbreak. Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. ](/news/2012/03/2/us-tornado-outbreak-tornados-hit-the-midwestern-and-southern-united-states-two-days-after-the-2012-leap-day-tornado-outbreak.md)
+### [US tornado outbreak: Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. ](/news/2012/03/2/us-tornado-outbreak-tornados-hit-the-midwestern-and-southern-united-states-two-days-after-the-2012-leap-day-tornado-outbreak.md)
 At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as storms and tornadoes sweep across vast parts of the Midwest.
 
 ### [Around 30 people are injured and six of them taken to hospital when a stand collapses in Ericsson Globe Arena in Stockholm, Sweden, during a concert with Avicii. ](/news/2012/03/2/around-30-people-are-injured-and-six-of-them-taken-to-hospital-when-a-stand-collapses-in-ericsson-globe-arena-in-stockholm-sweden-during-a.md)
@@ -45,7 +45,7 @@ _Context: Abdelrahim Mohamed Hussein, Darfur, International Criminal Court, Suda
 ### [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [Iranian elections:. Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md)
+### [Iranian elections:: Voters in Iran head to the polls to elect Members of the Parliament. ](/news/2012/03/2/iranian-elections-voters-in-iran-head-to-the-polls-to-elect-members-of-the-parliament.md)
 _Context: Iran, MPs, legislative elections_
 
 ### [The Prime Minister of Australia Julia Gillard announces a Cabinet reshuffle with Bob Carr, a former Premier of New South Wales, appointed as Minister for Foreign Affairs to replace Kevin Rudd. ](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.md)

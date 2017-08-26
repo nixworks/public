@@ -1,6 +1,6 @@
 ### [2010-10-25](/news/2010/10/25/index.md)
 
-# Indonesia. Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. 
+# Indonesia: Authorities evacuate 40,000 people in Java due to fears of an explosion by Mount Merapi. 
 
 A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggering a tsunami watch, which is later lifted.
 
@@ -14,7 +14,7 @@ A major earthquake with a magnitude of 7.5 strikes off western Sumatra triggerin
 
 ### Related:
 
-1. [2010 eruption of Mount Merapi. Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md) _Context: Indonesia, Java, Mounts Merapi_
+1. [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md) _Context: Indonesia, Java, Mounts Merapi_
 2. [Indonesia evacuates thousands more people from their villages as Mount Merapi in central Java explodes again. ](/news/2010/11/4/indonesia-evacuates-thousands-more-people-from-their-villages-as-mount-merapi-in-central-java-explodes-again.md) _Context: Indonesia, Java, Mounts Merapi_
 3. [Continuing eruptions of Mount Merapi in Java, Indonesia, lead to cancellation of flights to the nearby city of Yogyakarta. ](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.md) _Context: Indonesia, Java, Mounts Merapi_
 4. [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md) _Context: Indonesia, Java, Mounts Merapi_

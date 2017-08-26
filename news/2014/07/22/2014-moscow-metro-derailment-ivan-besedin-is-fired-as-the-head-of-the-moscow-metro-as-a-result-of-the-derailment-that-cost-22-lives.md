@@ -1,6 +1,6 @@
 ### [2014-07-22](/news/2014/07/22/index.md)
 
-# 2014 Moscow Metro derailment:. Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. 
+# 2014 Moscow Metro derailment:: Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. 
 
 
 

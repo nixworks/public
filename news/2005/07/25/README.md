@@ -18,7 +18,7 @@ _Context: Ethiopia_
 ### [ A mystery illness spreading through Western China has claimed its 17th victim. Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor-s.md)
 _Context: Avian flu virus, SARS_
 
-### [ Conflict in Iraq:. Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md)
+### [ Conflict in Iraq:: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md)
 _Context: Conflict in Iraq, Iraqi constitution, Sunni_
 
 ### [ The New Zealand general election 2005 is set for Saturday September 17, 2005. ](/news/2005/07/25/the-new-zealand-general-election-2005-is-set-for-saturday-september-17-2005.md)

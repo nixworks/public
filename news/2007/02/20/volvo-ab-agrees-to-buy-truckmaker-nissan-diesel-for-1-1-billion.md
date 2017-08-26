@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Economy of the United States. Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/economy-of-the-united-states-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-onc.md) _Context: USD_
+1. [Economy of the United States: Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/economy-of-the-united-states-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-onc.md) _Context: USD_
 2. [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of -2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-2-69-billion-3-51-billion-in-th.md) _Context: USD_
 3. [Oil prices hit a four-month low, with oil now at USD $93 per barrel. ](/news/2011/06/18/oil-prices-hit-a-four-month-low-with-oil-now-at-usd-93-per-barrel.md) _Context: USD_
 4. [An internal Chinese government report, mistakenly made public, shows that more than ten thousand corrupt officials transferred US$123 billion worth of embezzled funds out of the country over 15 years. ](/news/2011/06/17/an-internal-chinese-government-report-mistakenly-made-public-shows-that-more-than-ten-thousand-corrupt-officials-transferred-us-123-billio.md) _Context: USD_

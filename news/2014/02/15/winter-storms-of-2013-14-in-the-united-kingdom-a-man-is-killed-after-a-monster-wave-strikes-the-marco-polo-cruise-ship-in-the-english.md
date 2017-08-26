@@ -1,6 +1,6 @@
 ### [2014-02-15](/news/2014/02/15/index.md)
 
-# Winter storms of 2013-14 in the United Kingdom:. A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. 
+# Winter storms of 2013-14 in the United Kingdom:: A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. 
 
 A passenger on a cruise ship has been killed in the English Channel and another airlifted to shore after their vessel was hit by a freak wave on Friday.
 
@@ -13,7 +13,7 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 
 ### Related:
 
-1. [Winter storms of 2013-14 in the United Kingdom:. Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013-14-in-the-united-kingdom-floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weat.md) _Context: Winter storms of 2013-14 in the United Kingdom_
+1. [Winter storms of 2013-14 in the United Kingdom:: Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013-14-in-the-united-kingdom-floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weat.md) _Context: Winter storms of 2013-14 in the United Kingdom_
 2. [ In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. ](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-irish-person-and-the-20th-person-ever-to-complete-a-two-way-crossing-of-the-english-channel.md) _Context: English Channel_
 3. [ Becky Simmons becomes the first Guernsey-born person to swim the English Channel. ](/news/2009/09/19/becky-simmons-becomes-the-first-guernsey-born-person-to-swim-the-english-channel.md) _Context: English Channel_
 4. [ The wreck of the British warship HMS "Victory" is discovered in the English Channel. ](/news/2009/02/1/the-wreck-of-the-british-warship-hms-victory-is-discovered-in-the-english-channel.md) _Context: English Channel_

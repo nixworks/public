@@ -3,7 +3,7 @@
 ### [A bomb detonates at a traffic police post in Cairo, Egypt, injuring 3 people. ](/news/2014/04/15/a-bomb-detonates-at-a-traffic-police-post-in-cairo-egypt-injuring-3-people.md)
 _Context: Cairo, Egypt_
 
-### [2014 pro-Russian unrest in Ukraine. Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/2014-pro-russian-unrest-in-ukraine-shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists.md)
+### [2014 pro-Russian unrest in Ukraine: Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/2014-pro-russian-unrest-in-ukraine-shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists.md)
 Ukrainian troops defy pro-Russian separatists and take control of an air base in the eastern city of Kramatorsk.
 
 ### [A group of terrorists, suspected to be Boko Haram, attack a Nigerian school, resulting in the deaths of two security force members and the abduction of 200 schoolgirls. ](/news/2014/04/15/a-group-of-terrorists-suspected-to-be-boko-haram-attack-a-nigerian-school-resulting-in-the-deaths-of-two-security-force-members-and-the-a.md)
@@ -12,7 +12,7 @@ _Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
 ### [At least 48 people die and 15 are severely injured after a bus crashes into a truck 150 kilometres north of Lom, capital of the West African nation of Togo. ](/news/2014/04/15/at-least-48-people-die-and-15-are-severely-injured-after-a-bus-crashes-into-a-truck-150-kilometres-north-of-lome-capital-of-the-west-africa.md)
 _Context: Lom, Togo_
 
-### [2014 West Africa Ebola outbreak. The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/2014-west-africa-ebola-outbreak-the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md)
+### [2014 West Africa Ebola outbreak: The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/2014-west-africa-ebola-outbreak-the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md)
 _Context: 2014 West Africa Ebola outbreak, West Africa_
 
 ### [In a landmark ruling, the Supreme Court of India recognizes transgender as a "third gender". ](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.md)

@@ -1,6 +1,6 @@
 ### [2005-11-9](/news/2005/11/9/index.md)
 
-#  2005 United States elections. California special election: voters reject all eight statewide ballot propositions, including four backed by Governor Arnold Schwarzenegger.. De Baca County, New Mexico sheriff Gary Graves is recalled from office following accusations of misappropriation of funds, mistreating prisoners, and sexual harassment. 
+#  2005 United States elections: California special election: voters reject all eight statewide ballot propositions, including four backed by Governor Arnold Schwarzenegger.: De Baca County, New Mexico sheriff Gary Graves is recalled from office following accusations of misappropriation of funds, mistreating prisoners, and sexual harassment. 
 
 
 

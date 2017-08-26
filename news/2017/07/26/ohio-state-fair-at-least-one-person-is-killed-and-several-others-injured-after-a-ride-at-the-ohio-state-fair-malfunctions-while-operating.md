@@ -1,6 +1,6 @@
 ### [2017-07-26](/news/2017/07/26/index.md)
 
-# Ohio State Fair. At least one person is killed and several others injured after a ride at the Ohio State Fair malfunctions while operating. 
+# Ohio State Fair: At least one person is killed and several others injured after a ride at the Ohio State Fair malfunctions while operating. 
 
 
 

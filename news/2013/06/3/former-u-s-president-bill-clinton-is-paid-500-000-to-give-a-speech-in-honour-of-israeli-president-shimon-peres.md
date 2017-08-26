@@ -13,7 +13,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 
 ### Related:
 
-1. [Death and funeral of Helmut Kohl. World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/death-and-funeral-of-helmut-kohl-world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend.md) _Context: Bill Clinton_
+1. [Death and funeral of Helmut Kohl: World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/death-and-funeral-of-helmut-kohl-world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend.md) _Context: Bill Clinton_
 2. [Former President and Prime Minister of Israel, and Nobel Peace Prize winner Shimon Peres dies at the age of 93. ](/news/2016/09/28/former-president-and-prime-minister-of-israel-and-nobel-peace-prize-winner-shimon-peres-dies-at-the-age-of-93.md) _Context: Shimon Peres_
 3. [Pope Francis urges President Shimon Peres of Israel and President Mahmoud Abbas of Palestine to work for peace at an historic joint prayer meeting at the Vatican. ](/news/2014/06/8/pope-francis-urges-president-shimon-peres-of-israel-and-president-mahmoud-abbas-of-palestine-to-work-for-peace-at-an-historic-joint-prayer-m.md) _Context: Shimon Peres_
 4. [Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. ](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.md) _Context: Bill Clinton_

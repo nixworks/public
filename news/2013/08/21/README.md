@@ -1,6 +1,6 @@
 ## [2013-08-21](/news/2013/08/21/index.md)
 
-### [Syrian civil war:. Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md)
+### [Syrian civil war:: Syrian activists claim that chemical weapon attacks have killed over 600 people in the outskirts of Damascus. ](/news/2013/08/21/syrian-civil-war-syrian-activists-claim-that-chemical-weapon-attacks-have-killed-over-600-people-in-the-outskirts-of-damascus.md)
 Security council to meet later on Wednesday in response to claims that hundreds of people have been killed in attacks
 
 ### [JC Penney reports a notable decrease in third quarter income. ](/news/2013/08/21/jc-penney-reports-a-notable-decrease-in-third-quarter-income.md)

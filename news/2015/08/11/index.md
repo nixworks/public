@@ -1,6 +1,6 @@
 ## [2015-08-11](/news/2015/08/11/index.md)
 
-### [Boko Haram insurgency. A bomb attack consistent with Boko Haram kills 50 people in Nigeria's Borno State. ](/news/2015/08/11/boko-haram-insurgency-a-bomb-attack-consistent-with-boko-haram-kills-50-people-in-nigeria-s-borno-state.md)
+### [Boko Haram insurgency: A bomb attack consistent with Boko Haram kills 50 people in Nigeria's Borno State. ](/news/2015/08/11/boko-haram-insurgency-a-bomb-attack-consistent-with-boko-haram-kills-50-people-in-nigeria-s-borno-state.md)
 A bomb attack on a packed market in northeastern Nigeria bearing the hallmarks of Boko Haram killed around 50 people on Tuesday, sources said.
 
 ### [The People's Bank of China devalues the Chinese yuan by two percent in an attempt to boost its economy, a move which could spark a currency war. ](/news/2015/08/11/the-people-s-bank-of-china-devalues-the-chinese-yuan-by-two-percent-in-an-attempt-to-boost-its-economy-a-move-which-could-spark-a-currency.md)

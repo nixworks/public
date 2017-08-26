@@ -3,7 +3,7 @@
 ### [ Brett Favre, quarterback of the Green Bay Packers announces his retirement from the NFL after 17 years.](/news/2008/03/4/brett-favre-quarterback-of-the-green-bay-packers-announces-his-retirement-from-the-nfl-after-17-years.md)
 _Context: Brett Favre, Green Bay Packers, NFL_
 
-### [ United States presidential election. Super Tuesday II. Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/united-states-presidential-election-super-tuesday-ii-arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republic.md)
+### [ United States presidential election: Super Tuesday II: Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/united-states-presidential-election-super-tuesday-ii-arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republic.md)
 Hillary Rodham Clinton threw up a roadblock to Barack Obama&#8217;s path to the Democratic presidential nomination by winning the giant Ohio and Texas primaries, NBC News projected Wednesday morning.
 
 ### [ First Minister of Northern Ireland Ian Paisley announces his intentions to stand down from the post in May 2008 and, at the same time, resign as leader of the DUP, a party he has led for almost 40 years. ](/news/2008/03/4/first-minister-of-northern-ireland-ian-paisley-announces-his-intentions-to-stand-down-from-the-post-in-may-2008-and-at-the-same-time-resi.md)

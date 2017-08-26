@@ -36,7 +36,7 @@ _Context: Istanbul_
 ### [8 Turkish troops are killed in an attack by Kurdish rebels in southeastern Turkey. In response, Kurdish positions are targeted by Turkish airstrikes in Northern Iraq. Twelve Kurdish rebels are killed. ](/news/2010/06/19/8-turkish-troops-are-killed-in-an-attack-by-kurdish-rebels-in-southeastern-turkey-in-response-kurdish-positions-are-targeted-by-turkish-ai.md)
 Ten Turkish soldiers have been killed in an attack by Kurdish rebels near the Iraqi border, reports say.
 
-### [Nauruan parliamentary election:. Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-ele.md)
+### [Nauruan parliamentary election:: Parliamentary elections take place, with 18 seats at stake in the Parliament of Nauru. The President is elected to serve a 3-year term. ](/news/2010/06/19/nauruan-parliamentary-election-parliamentary-elections-take-place-with-18-seats-at-stake-in-the-parliament-of-nauru-the-president-is-ele.md)
 _Context: Nauruan parliamentary election, Parliament, Parliamentary elections_
 
 ### [Flooding in South China kills at least 88 people, and forces nearly 750,000 people to leave their homes. ](/news/2010/06/19/flooding-in-south-china-kills-at-least-88-people-and-forces-nearly-750-000-people-to-leave-their-homes.md)

@@ -1,15 +1,15 @@
 ## [2013-08-14](/news/2013/08/14/index.md)
 
-### [Aftermath of the 2013 Egyptian coup d'etat:. Hundreds are reported dead - including 43 police - across Egypt as Morsi supporters clash with security forces in response to a crackdown on protests. ](/news/2013/08/14/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-hundreds-are-reported-dead-including-43-police-across-egypt-as-morsi-supporters-clash-with.md)
+### [Aftermath of the 2013 Egyptian coup d'etat:: Hundreds are reported dead - including 43 police - across Egypt as Morsi supporters clash with security forces in response to a crackdown on protests. ](/news/2013/08/14/aftermath-of-the-2013-egyptian-coup-d-a-c-tat-hundreds-are-reported-dead-including-43-police-across-egypt-as-morsi-supporters-clash-with.md)
 At least 278 people killed and month-long state of emergency imposed after security forces storm pro-Morsi camps.
 
 ### [Bahrain police fire tear gas to disperse protesters in response by activist for pro-democracy demonstrations. [http://www.reuters.com/article/2013/08/14/us-bahrain-protests-idUSBRE97D08520130814 (Reuters)], [http://english.ahram.org.eg/NewsContent/2/8/79040/World/Region/Bahrain-police-disperse-demonstrators-with-tear-ga.aspx (Ahram)]date=August 2013](/news/2013/08/14/bahrain-police-fire-tear-gas-to-disperse-protesters-in-response-by-activist-for-pro-democracy-demonstrations-http-www-reuters-com-articl.md)
 _Context: Bahrain, police_
 
-### [Nigerian Sharia conflict:. Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md)
+### [Nigerian Sharia conflict:: Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/nigerian-sharia-conflict-two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle.md)
 The radical group fighting for an Islamic state in Nigeria is seen as the biggest threat to the West African nation&#039;s stability.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombs explode in the Iraqi city of Baqubah killing 14 and wounding 26 people. ](/news/2013/08/14/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombs-explode-in-the-iraqi-city-of-baqubah-killing-14-and-wounding-26-people.md)
 Twin roadside bombs exploded in the Iraqi city of Baquba on Wednesday, killing 14 people and wounding 26, police said, the latest in a wave of summer attacks close to the capital Baghdad.
 
 ### [Rockets are fired from Gaza at civilians in the Sha-ar HaNegev regional council, in response an Israeli Air Force airstrike targeted concealed rocket launchers in the Northern Gaza Strip.](/news/2013/08/14/rockets-are-fired-from-gaza-at-civilians-in-the-sha-ar-hanegev-regional-council-in-response-an-israeli-air-force-airstrike-targeted-conce.md)

@@ -1,6 +1,6 @@
 ### [2013-06-24](/news/2013/06/24/index.md)
 
-# 2013 North India floods:. North India braces for more rain in what is believed to be the worst monsoon season in 50 years. 
+# 2013 North India floods:: North India braces for more rain in what is believed to be the worst monsoon season in 50 years. 
 
 Northern India is bracing itself for further floods during what is believed to be the heaviest monsoon rains for 60 years.
 

@@ -1,12 +1,12 @@
 ## [2011-06-29](/news/2011/06/29/index.md)
 
-### [Arab Spring:. 2011 Egyptian revolution:. At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-2011-egyptian-revolution-at-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s.md)
+### [Arab Spring:: 2011 Egyptian revolution:: At least 66 people are injured in violent clashes between protesters and security forces in Cairo's Tahrir Square. ](/news/2011/06/29/arab-spring-2011-egyptian-revolution-at-least-66-people-are-injured-in-violent-clashes-between-protesters-and-security-forces-in-cairo-s.md)
 Military spokesman says June air drops in Nafusa Mountains, south of Tripoli, contained assault rifles and machine guns.
 
 ### [Freedom Flotilla II: The international flotilla sets sail one year after the deadly raid on a previous flotilla by Israeli commandos in international waters of the Mediterranean Sea. ](/news/2011/06/29/freedom-flotilla-ii-the-international-flotilla-sets-sail-one-year-after-the-deadly-raid-on-a-previous-flotilla-by-israeli-commandos-in-inte.md)
 _Context: Freedom Flotilla II, Gaza flotilla raid, Mediterranean Sea, international waters_
 
-### [Greek protests against government cuts:. Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-barriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-aroun.md)
+### [Greek protests against government cuts:: Barriers, batons and tear gas are in use as hundreds of riot police engage with demonstrators around the Greek parliament building over the government cuts. ](/news/2011/06/29/greek-protests-against-government-cuts-barriers-batons-and-tear-gas-are-in-use-as-hundreds-of-riot-police-engage-with-demonstrators-aroun.md)
 Greek MPs vote in favour of unpopular austerity measures aimed at saving the country from defaulting on its debt, as violent protests continue outside parliament.
 
 ### [At least 5 people are killed during a gunfight in Lubumbashi in the Democratic Republic of the Congo, with President Joseph Kabila in town to view Independence Day ceremonies on Thursday. ](/news/2011/06/29/at-least-5-people-are-killed-during-a-gunfight-in-lubumbashi-in-the-democratic-republic-of-the-congo-with-president-joseph-kabila-in-town-t.md)

@@ -51,7 +51,7 @@ A Saudi judge has asked several hospitals whether they could damage a man&#039;s
 ### [Swedish prosecutors issue and then revoke an arrest warrant against Wikileaks spokesperson Julian Assange. Assange calls the incident "deeply disturbing" as Wikileaks prepares to release 15,000 documents which the U.S. military would like to keep secret. ](/news/2010/08/21/swedish-prosecutors-issue-and-then-revoke-an-arrest-warrant-against-wikileaks-spokesperson-julian-assange-assange-calls-the-incident-deepl.md)
 Swedish prosecutors have withdrawn an arrest warrant for WikiLeaks founder Julian Assange, saying the rape suspicions against him are unfounded.
 
-### [Australian federal election, 2010. Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australian-federal-election-2010-australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md)
+### [Australian federal election, 2010: Australians go to the polls with results indicating a hung parliament. ](/news/2010/08/21/australian-federal-election-2010-australians-go-to-the-polls-with-results-indicating-a-hung-parliament.md)
 First female PM fighting to keep power amid strong challenge from conservative coalition.
 
 ### [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md)

@@ -1,6 +1,6 @@
 ## [2005-07-26](/news/2005/07/26/index.md)
 
-### [ Conflict in Iraq:. At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md)
+### [ Conflict in Iraq:: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md)
 _Context: Abu Ghraib, Conflict in Iraq, Iraqi insurgency, nationalises_
 
 ### [ Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. ](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rain-storms-in-maharashtra-india-described-by-the-chief-minister-of-the-state-as-the-heaviest.md)

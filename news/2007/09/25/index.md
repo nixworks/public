@@ -12,7 +12,7 @@ _Context: Magna Carta, Sotheby's_
 ### [ The Parliament of Lebanon adjourns a session to elect a new President of Lebanon until 23 October 2007. ](/news/2007/09/25/the-parliament-of-lebanon-adjourns-a-session-to-elect-a-new-president-of-lebanon-until-23-october-2007.md)
 _Context: Lebanese lawmakers, President of Lebanon_
 
-### [ 2007 Burmese anti-government protests:. Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/2007-burmese-anti-government-protests-approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-thre.md)
+### [ 2007 Burmese anti-government protests:: Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/2007-burmese-anti-government-protests-approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-thre.md)
 _Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, Yangon, junta_
 
 ### [ The highly anticipated Halo 3 was released for the Xbox 360.](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.md)

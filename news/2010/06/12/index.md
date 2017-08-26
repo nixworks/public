@@ -6,10 +6,10 @@ _Context: Arkansas, floods_
 ### [The Ogaden National Liberation Front (ONLF) says the government of Ethiopia killed 71 civilians in a military operation last month. ](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.md)
 Ethiopia rejects claim by rebel group that government forces killed 71 civilians.
 
-### [2010 Kyrgyzstan crisis:. Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-souther.md)
+### [2010 Kyrgyzstan crisis:: Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/2010-kyrgyzstan-crisis-roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-souther.md)
 _Context: Kyrgyzstan, Osh, President, Roza Otunbayeva, Russia, the ongoing crisis_
 
-### [Iran:. The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/iran-the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-t.md)
+### [Iran:: The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/iran-the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-t.md)
 Opposition cancels rallies after preemptive arrests, threats.
 
 ### [Thousands of Palestinians cross the Rafah Border Crossing into the Gaza Strip following its opening by Egypt, but Egypt prevents hundreds of activists from entering and Hamas continues to refuse Red Cross visits for captured Israeli soldier, Gilad Shalit. ](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.md)

@@ -1,6 +1,6 @@
 ## [2005-10-10](/news/2005/10/10/index.md)
 
-### [ New Orleans:. Three New Orleans officers accused of near fatally beating Robert Davis and assaulting a cameraman who taped the ordeal, plead not guilty.. Allegations that New Orleans police looted 200 cars (41 Cadillacs) are under investigation by Louisiana police.](/news/2005/10/10/new-orleans-three-new-orleans-officers-accused-of-near-fatally-beating-robert-davis-and-assaulting-a-cameraman-who-taped-the-ordeal-plea.md)
+### [ New Orleans:: Three New Orleans officers accused of near fatally beating Robert Davis and assaulting a cameraman who taped the ordeal, plead not guilty.: Allegations that New Orleans police looted 200 cars (41 Cadillacs) are under investigation by Louisiana police.](/news/2005/10/10/new-orleans-three-new-orleans-officers-accused-of-near-fatally-beating-robert-davis-and-assaulting-a-cameraman-who-taped-the-ordeal-plea.md)
 _Context: New Orleans, Robert Davis, not guilty_
 
 ### [ The Japan Aerospace Exploration Agency successfully tests a $10 million jet that travels at twice the speed of sound. ](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.md)

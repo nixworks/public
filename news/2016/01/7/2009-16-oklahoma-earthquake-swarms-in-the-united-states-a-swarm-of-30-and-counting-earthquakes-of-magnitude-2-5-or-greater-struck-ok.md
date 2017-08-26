@@ -1,6 +1,6 @@
 ### [2016-01-7](/news/2016/01/7/index.md)
 
-# 2009-16 Oklahoma earthquake swarms. In the United States, a swarm of 30 ("and counting") earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude 4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. 
+# 2009-16 Oklahoma earthquake swarms: In the United States, a swarm of 30 ("and counting") earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude 4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. 
 
 Two of the stronger tremors in state history shook northwest Oklahoma. We have the latest.
 
@@ -19,5 +19,5 @@ Two of the stronger tremors in state history shook northwest Oklahoma. We have t
 6. [ Winter storms across the Midwestern United States have killed 19 people and cut electricity to 600,000 homes and businesses from Oklahoma to West Virginia. ](/news/2009/01/28/winter-storms-across-the-midwestern-united-states-have-killed-19-people-and-cut-electricity-to-600-000-homes-and-businesses-from-oklahoma-t.md) _Context: Oklahoma!, United States_
 7. [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md) _Context: Oklahoma!, United States_
 8. [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md) _Context: Oklahoma!, United States_
-9. [ Western U.S. Freeze of 2007:. 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md) _Context: Oklahoma!, United States_
-10. [115th United States Congress. U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _Context: United States_
+9. [ Western U.S. Freeze of 2007:: 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md) _Context: Oklahoma!, United States_
+10. [115th United States Congress: U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _Context: United States_

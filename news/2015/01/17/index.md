@@ -1,21 +1,21 @@
 ## [2015-01-17](/news/2015/01/17/index.md)
 
-### [Terrorism in Yemen. Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/terrorism-in-yemen-gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-ho.md)
+### [Terrorism in Yemen: Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/terrorism-in-yemen-gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-ho.md)
 _Context: Ahmed Awad bin Mubarak, Sanaa, Terrorism in Yemen, Yemen, al-Qaeda_
 
 ### [Violence surrounding various protests against "Charlie Hebdo" leaves five protesters dead as well as some churches set ablaze in Niger. ](/news/2015/01/17/violence-surrounding-various-protests-against-charlie-hebdo-leaves-five-protesters-dead-as-well-as-some-churches-set-ablaze-in-niger.md)
 Second day of violence in Niger as protests continue
 
-### [Islamist insurgency in Nigeria:. Following the January 16 Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents. ](/news/2015/01/17/islamist-insurgency-in-nigeria-following-the-january-16-chad-authorities-decision-to-send-troops-to-nigeria-and-cameroon-to-fight-boko-har.md)
+### [Islamist insurgency in Nigeria:: Following the January 16 Chad authorities decision to send troops to Nigeria and Cameroon to fight Boko Haram militants, the Russian ambassador to the country pledges to supply Cameroon with more modern weapons to combat the Islamist insurgents. ](/news/2015/01/17/islamist-insurgency-in-nigeria-following-the-january-16-chad-authorities-decision-to-send-troops-to-nigeria-and-cameroon-to-fight-boko-har.md)
 _Context: Boko Haram, Cameroon, Chad, Islamist insurgency in Nigeria, Nigeria_
 
-### [2013-15 Ukrainian crisis:. Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013-15-ukrainian-crisis-clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
+### [2013-15 Ukrainian crisis:: Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/2013-15-ukrainian-crisis-clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
 _Context: 2013-15 Ukrainian crisis, Donetsk International Airport, Russia, Ukraine, army_
 
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
 _Context: Athens, Belgium, Greek, terrorist_
 
-### [2015 Papal visit to Sri Lanka and the Philippines. Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/2015-papal-visit-to-sri-lanka-and-the-philippines-pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-aud.md)
+### [2015 Papal visit to Sri Lanka and the Philippines: Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/2015-papal-visit-to-sri-lanka-and-the-philippines-pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-aud.md)
 Pope Francis celebrates Mass in the Philippine city of Tacloban, devastated by a 2013 typhoon, but a storm forces him to leave early.
 
 ### [The rescue and recovery efforts at the wreckage of the January 15 capsized tugboat on China's Yangtze River near the city of Jingjiang finds that twenty-one people are dead while three are rescued. ](/news/2015/01/17/the-rescue-and-recovery-efforts-at-the-wreckage-of-the-january-15-capsized-tugboat-on-china-s-yangtze-river-near-the-city-of-jingjiang-finds.md)

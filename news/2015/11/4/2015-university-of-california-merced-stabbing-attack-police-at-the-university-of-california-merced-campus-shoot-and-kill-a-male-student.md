@@ -1,6 +1,6 @@
 ### [2015-11-4](/news/2015/11/4/index.md)
 
-# 2015 University of California, Merced stabbing attack. Police, at the University of California, Merced campus, shoot and kill a male student who went on a terrorist stabbing rampage that wounded four people. The University closed its campus, except for housing, and cancelled classes for Wednesday and Thursday. The school reported all of the wounded are expected to recover. 
+# 2015 University of California, Merced stabbing attack: Police, at the University of California, Merced campus, shoot and kill a male student who went on a terrorist stabbing rampage that wounded four people. The University closed its campus, except for housing, and cancelled classes for Wednesday and Thursday. The school reported all of the wounded are expected to recover. 
 
 Wednesday morning four people were wounded in a stabbing attack by a student at UC Merced, located in the San Joaquin Valley.
 
@@ -14,4 +14,4 @@ Wednesday morning four people were wounded in a stabbing attack by a student at 
 
 ### Related:
 
-1. [2015 University of California, Merced stabbing attack. The Merced County Sheriff identifies the attacker of four students at the University of California, Merced as freshman Faisal Mohammad. ](/news/2015/11/5/2015-university-of-california-merced-stabbing-attack-the-merced-county-sheriff-identifies-the-attacker-of-four-students-at-the-university.md) _Context: 2015 University of California, Merced stabbing attack, University of California, Merced_
+1. [2015 University of California, Merced stabbing attack: The Merced County Sheriff identifies the attacker of four students at the University of California, Merced as freshman Faisal Mohammad. ](/news/2015/11/5/2015-university-of-california-merced-stabbing-attack-the-merced-county-sheriff-identifies-the-attacker-of-four-students-at-the-university.md) _Context: 2015 University of California, Merced stabbing attack, University of California, Merced_

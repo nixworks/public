@@ -1,6 +1,6 @@
 ### [2013-02-6](/news/2013/02/6/index.md)
 
-# Liquidation of Irish Bank Resolution Corporation (IBRC):. Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. 
+# Liquidation of Irish Bank Resolution Corporation (IBRC):: Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. 
 
 The Dáil is debating emergency legislation to wind up the Irish Bank Resolution Corporation from midnight.
 

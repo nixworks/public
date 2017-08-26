@@ -4,7 +4,7 @@
 The Federal Reserve gave investors what they wanted today, but quietly warned Wall Street not to expect more reductions ahead.
 
 ### [ The President of the United States George W. Bush nominates Fmr. Governor of North Dakota Ed Schafer for United States Secretary of Agriculture. ](/news/2007/10/31/the-president-of-the-united-states-george-w-bush-nominates-fmr-governor-of-north-dakota-ed-schafer-for-united-states-secretary-of-agricul.md)
-_Context: Ed Schafer, George W. Bush, Governor, North Dakota, United States, United States Secretary of Agriculture, president_
+_Context: Ed Schafer, George W. Bush, Governor, North Dakota, President, United States, United States Secretary of Agriculture_
 
 ### [ At least 8 people are killed and 53 are injured when militants bomb a bus in Togliatti, Russia. ](/news/2007/10/31/at-least-8-people-are-killed-and-53-are-injured-when-militants-bomb-a-bus-in-togliatti-russia.md)
 _Context: Togliatti, Russia, bomb_

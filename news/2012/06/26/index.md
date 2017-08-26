@@ -1,6 +1,6 @@
 ## [2012-06-26](/news/2012/06/26/index.md)
 
-### [Arab Spring:. Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md)
+### [Arab Spring:: Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md)
 Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 17 relatives last year during an uprising suppressed by the Gulf Arab state, a government statement said.
 
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
@@ -36,7 +36,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 ### [Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. ](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.md)
 _Context: Bhutan, Wangdue Phodrang Dzong, monastery_
 
-### [2012 Atlantic hurricane season:. Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inte.md)
+### [2012 Atlantic hurricane season:: Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/2012-atlantic-hurricane-season-tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-inte.md)
 The National Hurricane Center says Debby has weakened to a tropical depression as it continues to move across Florida.
 
 ### [Rescue efforts restart at Algo Centre Mall, after the Premier of Ontario, Dalton McGuinty, orders them resumed. Canadian Prime Minister Stephen Harper asks the Canadian Forces to ready for deployment, if they should be needed. ](/news/2012/06/26/rescue-efforts-restart-at-algo-centre-mall-after-the-premier-of-ontario-dalton-mcguinty-orders-them-resumed-canadian-prime-minister-step.md)

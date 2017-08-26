@@ -1,6 +1,6 @@
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-# Australia:. Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. 
+# Australia:: Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. 
 
 Sydney has sweated through its hottest night on record to end its longest heatwave, but relief is only hours away.
 

@@ -1,6 +1,6 @@
 ### [2016-06-3](/news/2016/06/3/index.md)
 
-# 2016 Union Pacific oil train fire. Eleven cars from a 96-car Union Pacific oil train derail, and at least one catches fire, in the Columbia River Gorge near Mosier, Oregon, within about 20 feet of the city's sewage plant. Coincidentally, a Wasco County Planning Department public hearing is scheduled for Tuesday concerning a Union Pacific proposal to expand an existing railroad siding on either side of Mosier. 
+# 2016 Union Pacific oil train fire: Eleven cars from a 96-car Union Pacific oil train derail, and at least one catches fire, in the Columbia River Gorge near Mosier, Oregon, within about 20 feet of the city's sewage plant. Coincidentally, a Wasco County Planning Department public hearing is scheduled for Tuesday concerning a Union Pacific proposal to expand an existing railroad siding on either side of Mosier. 
 
 There were no reports of injuries or damage to local structures. Several cars were on fire and one had released some oil, but no oil had reached the river or its tributaries, officials said.
 

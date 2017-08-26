@@ -1,9 +1,9 @@
 ## [2017-04-6](/news/2017/04/6/index.md)
 
-### [2017 Saint Petersburg Metro bombing. Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/2017-saint-petersburg-metro-bombing-russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongo.md)
+### [2017 Saint Petersburg Metro bombing: Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/2017-saint-petersburg-metro-bombing-russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongo.md)
 A device is made safe as Russian police investigating the metro bombing make further arrests.
 
-### [Battle of Mosul. Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/battle-of-mosul-two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md)
+### [Battle of Mosul: Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/battle-of-mosul-two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md)
 Two Iraqi army pilots were killed on Thursday when their helicopter was shot down over the city of Mosul by Islamic State, according to a military statement.
 
 ### [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md)
@@ -24,7 +24,7 @@ The move allows for a return to democracy after a 2014 coup, but the military wi
 ### [United States House Permanent Select Committee on Intelligence Chairman Rep. Devin Nunes recuses himself from the committee-s probe into Russian interference in the 2016 presidential election; Rep. Mike Conaway will take the lead in this investigation. ](/news/2017/04/6/united-states-house-permanent-select-committee-on-intelligence-chairman-rep-devin-nunes-recuses-himself-from-the-committee-s-probe-into-r.md)
 The House intelligence chairman Devin Nunes is now himself under scrutiny from an ethics panel.
 
-### [Gambian parliamentary election, 2017. Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/gambian-parliamentary-election-2017-voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-l.md)
+### [Gambian parliamentary election, 2017: Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/gambian-parliamentary-election-2017-voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-l.md)
 West African country holding its first legislative election since the departure of long-time ruler Yahya Jammeh.
 
 ## [Previous Day...](/news/2017/04/5/index.md)

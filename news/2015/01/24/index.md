@@ -1,9 +1,9 @@
 ## [2015-01-24](/news/2015/01/24/index.md)
 
-### [War in Donbass:. A rocket attack on an open-air market in Mariupol, Ukraine, leaves at least 27 people killed and more than 90 injured. The pro-Russian rebel leader, Alexander Zakharchenko, announces an offensive on Mariupol. ](/news/2015/01/24/war-in-donbass-a-rocket-attack-on-an-open-air-market-in-mariupol-ukraine-leaves-at-least-27-people-killed-and-more-than-90-injured-the.md)
+### [War in Donbass:: A rocket attack on an open-air market in Mariupol, Ukraine, leaves at least 27 people killed and more than 90 injured. The pro-Russian rebel leader, Alexander Zakharchenko, announces an offensive on Mariupol. ](/news/2015/01/24/war-in-donbass-a-rocket-attack-on-an-open-air-market-in-mariupol-ukraine-leaves-at-least-27-people-killed-and-more-than-90-injured-the.md)
 Pro-Russian rebels claim responsibility for the attack on Mariupol city that killed at least 27 people.
 
-### [Islamic State of Iraq and the Levant:. The Islamic State kills eight Lebanese soldiers in the northeastern Lebanese village of Ras Baalbek. ](/news/2015/01/24/islamic-state-of-iraq-and-the-levant-the-islamic-state-kills-eight-lebanese-soldiers-in-the-northeastern-lebanese-village-of-ras-baalbek.md)
+### [Islamic State of Iraq and the Levant:: The Islamic State kills eight Lebanese soldiers in the northeastern Lebanese village of Ras Baalbek. ](/news/2015/01/24/islamic-state-of-iraq-and-the-levant-the-islamic-state-kills-eight-lebanese-soldiers-in-the-northeastern-lebanese-village-of-ras-baalbek.md)
 _Context: Islamic State of Iraq and the Levant, Lebanon, Ras Baalbek_
 
 ### [Subsequent to the January 15 announcement that Target Canada would close all 133 stores, they announce the layoff of 17,000 employees. ](/news/2015/01/24/subsequent-to-the-january-15-announcement-that-target-canada-would-close-all-133-stores-they-announce-the-layoff-of-17-000-employees.md)

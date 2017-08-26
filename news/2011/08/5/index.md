@@ -1,6 +1,6 @@
 ## [2011-08-5](/news/2011/08/5/index.md)
 
-### [2011 Syrian uprising:. Turkey confirms it has seized an Iranian arms shipment to Syria. ](/news/2011/08/5/2011-syrian-uprising-turkey-confirms-it-has-seized-an-iranian-arms-shipment-to-syria.md)
+### [2011 Syrian uprising:: Turkey confirms it has seized an Iranian arms shipment to Syria. ](/news/2011/08/5/2011-syrian-uprising-turkey-confirms-it-has-seized-an-iranian-arms-shipment-to-syria.md)
 Tens of thousands protest across Syria days after the bloody crackdown on the city of Hama where the opposition had taken control.
 
 ### [2011 Libyan civil war: Rebels claim that a NATO airstrike has killed Muammar Gaddafi's youngest son Khamis but this is later denied. ](/news/2011/08/5/2011-libyan-civil-war-rebels-claim-that-a-nato-airstrike-has-killed-muammar-gaddafi-s-youngest-son-khamis-but-this-is-later-denied.md)
@@ -21,7 +21,7 @@ _Context: Standard & Poor's, United States, credit rating_
 ### [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md)
 _Context: Abidjan, Ivory Coast, lagoon_
 
-### [Typhoon Muifa:. Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md)
+### [Typhoon Muifa:: Typhoon Muifa approaches the Japanese island of Okinawa causing localised flooding, cancellation of flights to and from Naha International Airport and 30,000 homes to lose power. ](/news/2011/08/5/typhoon-muifa-typhoon-muifa-approaches-the-japanese-island-of-okinawa-causing-localised-flooding-cancellation-of-flights-to-and-from-naha.md)
 _Context: Japan, Naha International Airport, Okinawa, Typhoon Muifa_
 
 ### [UNICEF calls on Australia not to send 18 asylum seekers who are allegedly unaccompanied minors to Malaysia as part of a people swap. ](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.md)

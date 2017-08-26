@@ -15,13 +15,13 @@ Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, aft
 ### [China successfully launches QUESS, the world's first ever quantum-communications quantum key distribution satellite. ](/news/2016/08/16/china-successfully-launches-quess-the-world-s-first-ever-quantum-communications-quantum-key-distribution-satellite.md)
 China launched the first-ever quantum satellite Monday (Aug. 15), in an effort to help develop an unhackable communications system.
 
-### [2016 California wildfires. The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/2016-california-wildfires-the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md)
+### [2016 California wildfires: The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/2016-california-wildfires-the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md)
 Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut Fire that has exploded to 18,000 acres and forced more than 82,000 people out of their homes since it broke out Tuesday morning in the Cajon Pass, officials said. The fire was first reported at 2 acres about 10:55 a.m. ne...
 
-### [California wildfires. California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-wildfires-california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-l.md)
+### [California wildfires: California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-wildfires-california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-l.md)
 _Context: California, California wildfires, Clearlake_
 
-### [Medical marijuana. A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment, cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws. ](/news/2016/08/16/medical-marijuana-a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-m.md)
+### [Medical marijuana: A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment, cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws. ](/news/2016/08/16/medical-marijuana-a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-m.md)
 The DOJ had been leaning on a &quot;tortured&quot; interpretation of a federal spending bill.
 
 ## [Previous Day...](/news/2016/08/15/index.md)

@@ -1,18 +1,18 @@
 ## [2015-06-30](/news/2015/06/30/index.md)
 
-### [al-Qaeda insurgency in Yemen. Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/al-qaeda-insurgency-in-yemen-some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md)
+### [al-Qaeda insurgency in Yemen: Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/al-qaeda-insurgency-in-yemen-some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md)
 A Yemeni security official says some 1,200 inmates fled a prison after guards deserted their posts.
 
-### [Asian Infrastructure Investment Bank. Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/asian-infrastructure-investment-bank-seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-pr.md)
+### [Asian Infrastructure Investment Bank: Seven out of 57 countries defer joining the China-dominated bank. While most of them cite temporary procedural constraints at home, political reasons are involved with the case of the Philippines amid a territorial dispute with China in South China Sea. ](/news/2015/06/30/asian-infrastructure-investment-bank-seven-out-of-57-countries-defer-joining-the-china-dominated-bank-while-most-of-them-cite-temporary-pr.md)
 The Philippines has put off signing an agreement to join the China-led Asian Infrastructure and Investment Bank (AIIB), noting the need to carefully study the proposal. 
 
-### [Greek government-debt crisis. The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/greek-government-debt-crisis-the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-intern.md)
+### [Greek government-debt crisis: The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/greek-government-debt-crisis-the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-intern.md)
 _Context: European Union, Greek, Greek government-debt crisis, International Monetary Fund_
 
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
 _Context: Towers Watson, Willis Group, reinsurance_
 
-### [ 2015 Indonesian military plane crash. A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/2015-indonesian-military-plane-crash-a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indon.md)
+### [ 2015 Indonesian military plane crash: A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/2015-indonesian-military-plane-crash-a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indon.md)
 More than 100 are feared killed as a military transport plane crashes in a residential area of the Indonesian city of Medan, officials say.
 
 ### [ A man self-immolates aboard a "Nozomi" Shinkansen train running from Tokyo to Osaka; the man and another passenger die. Eleven others were reported injured. ](/news/2015/06/30/a-man-self-immolates-aboard-a-nozomi-shinkansen-train-running-from-tokyo-to-osaka-the-man-and-another-passenger-die-eleven-others-were.md)
@@ -24,7 +24,7 @@ SACRAMENTO — Gov. Jerry Brown signed legislation Tuesday that will make Califo
 ### [The Supreme Court of the Philippines asks the government to respond to a petition seeking to repeal a law banning same-sex marriage in the country. ](/news/2015/06/30/the-supreme-court-of-the-philippines-asks-the-government-to-respond-to-a-petition-seeking-to-repeal-a-law-banning-same-sex-marriage-in-the-c.md)
 The Supreme Court en banc asks the Civil Registrar to respond to a petition filed by a young Filipino lawyer, who identified himself as openly gay 
 
-### [ United States presidential election, 2016:. New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md)
+### [ United States presidential election, 2016:: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md)
 _Context: 2016 U.S. presidential election, Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016_
 
 ### [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md)

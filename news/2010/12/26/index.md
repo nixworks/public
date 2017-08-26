@@ -1,6 +1,6 @@
 ## [2010-12-26](/news/2010/12/26/index.md)
 
-### [Jos attacks:. Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md)
+### [Jos attacks:: Further violence breaks out in the Nigerian city of Jos following bombings earlier this week. ](/news/2010/12/26/jos-attacks-further-violence-breaks-out-in-the-nigerian-city-of-jos-following-bombings-earlier-this-week.md)
 Further violence has broken out in the city of Jos in central Nigeria following bombings that killed 32 people on Christmas Eve.
 
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
@@ -48,7 +48,7 @@ Thousands in Istanbul greet the Mavi Marmara, the ship on which protesters were 
 ### [Industry, Trade and Labour Minister of Israel Binyamin Ben-Eliezer responds to Ecuador's formal recognition of Palestine as an independent state by saying that the "entire world" could recognise a Palestinian state in the next year. ](/news/2010/12/26/industry-trade-and-labour-minister-of-israel-binyamin-ben-eliezer-responds-to-ecuador-s-formal-recognition-of-palestine-as-an-independent-s.md)
 _Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, Palestinian_
 
-### [United States diplomatic cables leak:. Newly released cables from July 2004 reveal that American diplomats panicked about a screening of the film "Fahrenheit 9/11", which is critical of the U.S. government's response to the September 11 attacks. Diplomats stopped what they called a "potential fiasco" by intervening and contacting the offices of the New Zealand prime minister and Marian Hobbs, a government minister referred to as "Boo Boo" Hobbs by America. ](/news/2010/12/26/united-states-diplomatic-cables-leak-newly-released-cables-from-july-2004-reveal-that-american-diplomats-panicked-about-a-screening-of-the.md)
+### [United States diplomatic cables leak:: Newly released cables from July 2004 reveal that American diplomats panicked about a screening of the film "Fahrenheit 9/11", which is critical of the U.S. government's response to the September 11 attacks. Diplomats stopped what they called a "potential fiasco" by intervening and contacting the offices of the New Zealand prime minister and Marian Hobbs, a government minister referred to as "Boo Boo" Hobbs by America. ](/news/2010/12/26/united-states-diplomatic-cables-leak-newly-released-cables-from-july-2004-reveal-that-american-diplomats-panicked-about-a-screening-of-the.md)
 The US has been pressed by various government for help with wiretapping criminal and political adversaries, latest Wikileaks disclosures suggest.
 
 ### [A court in Iran convicts a man of spying for Israel. His identity is to be revealed after the sentence is confirmed. ](/news/2010/12/26/a-court-in-iran-convicts-a-man-of-spying-for-israel-his-identity-is-to-be-revealed-after-the-sentence-is-confirmed.md)
@@ -69,7 +69,7 @@ Human rights group urges Iran to &quot;show clemency, halt the imminent executio
 ### [Police in the UK say they are "satisfied" that a body found on Christmas Day is that of missing woman Joanna Yeates. ](/news/2010/12/26/police-in-the-uk-say-they-are-satisfied-that-a-body-found-on-christmas-day-is-that-of-missing-woman-joanna-yeates.md)
 Officers investigating the disappearance of Bristol landscape architect Joanna Yeates say they &quot;are satisfied&quot; a body found on Christmas Day is hers.
 
-### [2010 Ivorian presidential election controversy. Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/2010-ivorian-presidential-election-controversy-approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-pr.md)
+### [2010 Ivorian presidential election controversy: Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/2010-ivorian-presidential-election-controversy-approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-pr.md)
 _Context: 2010 Ivorian presidential election controversy, Cote d'Ivoire, Liberia, refugee_
 
 ### [More than 1,500 people protest in Moscow, Russia against a recent wave of ethnic unrest following the shooting dead of a football fan. ](/news/2010/12/26/more-than-1-500-people-protest-in-moscow-russia-against-a-recent-wave-of-ethnic-unrest-following-the-shooting-dead-of-a-football-fan.md)

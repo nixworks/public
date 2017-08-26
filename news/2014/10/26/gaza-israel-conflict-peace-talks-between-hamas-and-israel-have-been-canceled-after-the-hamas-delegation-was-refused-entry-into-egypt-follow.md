@@ -1,6 +1,6 @@
 ### [2014-10-26](/news/2014/10/26/index.md)
 
-# Gaza-Israel conflict. Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. 
+# Gaza-Israel conflict: Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. 
 
 
 
@@ -11,9 +11,9 @@
 
 ### Related:
 
-1. [Gaza-Israel conflict:. Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _Context: Gaza-Israel conflict, Hamas, Israel_
-2. [2014 Israel-Gaza conflict. Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/2014-israel-gaza-conflict-israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: Egypt, Hamas, Israel_
-3. [Operation Protective Edge:. A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _Context: Egypt, Hamas, Israel_
+1. [Gaza-Israel conflict:: Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/gaza-israel-conflict-hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md) _Context: Gaza-Israel conflict, Hamas, Israel_
+2. [2014 Israel-Gaza conflict: Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/2014-israel-gaza-conflict-israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: Egypt, Hamas, Israel_
+3. [Operation Protective Edge:: A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md) _Context: Egypt, Hamas, Israel_
 4. [Egyptian Prime Minister Hesham Qandil makes a visit to Gaza City in hopes of lulling the ongoing conflict between Israel and Hamas. ](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.md) _Context: Egypt, Hamas, Israel_
 5. [Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. ](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.md) _Context: Egypt, Hamas, Israel_
 6. [Hamas militants fire two Qassam rockets and mortar rounds into Israel from the Gaza Strip. Israeli aircraft then bombed a smuggling tunnel under the Gaza Strip's border with Egypt.](/news/2010/09/15/hamas-militants-fire-two-qassam-rockets-and-mortar-rounds-into-israel-from-the-gaza-strip-israeli-aircraft-then-bombed-a-smuggling-tunnel-u.md) _Context: Egypt, Hamas, Israel_

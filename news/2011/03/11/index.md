@@ -1,15 +1,15 @@
 ## [2011-03-11](/news/2011/03/11/index.md)
 
-### [2011 Libyan civil war:. European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-european-union-leaders-gather-in-brussels-for-an-urgent-summit.md)
+### [2011 Libyan civil war:: European Union leaders gather in Brussels for an urgent summit. ](/news/2011/03/11/2011-libyan-civil-war-european-union-leaders-gather-in-brussels-for-an-urgent-summit.md)
 Rebel fighters hold only isolated pockets of oil town after forces loyal to Libyan leader attack by air, land and sea.
 
-### [2011 Saudi Arabian protests:. Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md)
+### [2011 Saudi Arabian protests:: Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/2011-saudi-arabian-protests-protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md)
 _Context: 2011 Saudi Arabian protests, Hofuf_
 
-### [2011 Kuwaiti protests:. Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md)
+### [2011 Kuwaiti protests:: Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/2011-kuwaiti-protests-riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md)
 _Context: 2011 Kuwaiti protests, Arab, stateless_
 
-### [2011 Bahraini protests:. Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md)
+### [2011 Bahraini protests:: Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/2011-bahraini-protests-security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md)
 _Context: 2011 Bahraini protests_
 
 ### [India and Pakistan successfully conduct missile tests. ](/news/2011/03/11/india-and-pakistan-successfully-conduct-missile-tests.md)
@@ -18,7 +18,7 @@ BalasoreIslamabad, March 11 (IANS) India Friday successfully test-fired its home
 ### [American actor Mel Gibson is charged with misdemeanor battery for an alleged assault on his ex-girlfriend Oksana Grigorieva in January 2010. ](/news/2011/03/11/american-actor-mel-gibson-is-charged-with-misdemeanor-battery-for-an-alleged-assault-on-his-ex-girlfriend-oksana-grigorieva-in-january-2010.md)
 Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles Superior Court and is scheduled to appear in court at 1:30 PM to accept his plea deal on the case.
 
-### [2011 Tohoku earthquake and tsunami. A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/2011-tahoku-earthquake-and-tsunami-a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10.md)
+### [2011 Tohoku earthquake and tsunami: A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/2011-tahoku-earthquake-and-tsunami-a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10.md)
 Thousands of others were stranded on rooftops, surrounded by water left by the tsunami that washed over the low-lying farmland of the hardest-hit areas, sweeping away homes, cars, railroads and businesses.
 
 ### [The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. ](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a-state-of-emergency-in-all-77-counties-due-to-wildfires-burning-out-of-control-in-that-stat.md)

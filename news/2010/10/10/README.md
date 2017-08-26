@@ -24,13 +24,13 @@ _Context: Bonhams, Dubai, Iran_
 ### [Nelson Mandela's letters, written during his 27-year spell in jail, reveal new details of the agony he suffered in South Africa under apartheid. ](/news/2010/10/10/nelson-mandela-s-letters-written-during-his-27-year-spell-in-jail-reveal-new-details-of-the-agony-he-suffered-in-south-africa-under-aparth.md)
 Correspondence from former South African president Nelson Mandela during his 27 years in jail reveal the agony of being separated from his family.
 
-### [TVNZ race row:. John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henr.md)
+### [TVNZ race row:: John Key pledges to continue fronting TVNZ's "Breakfast" amid calls by MPs for disgraced and suspended broadcaster Paul Henry to be sacked. ](/news/2010/10/10/tvnz-race-row-john-key-pledges-to-continue-fronting-tvnz-s-breakfast-amid-calls-by-mps-for-disgraced-and-suspended-broadcaster-paul-henr.md)
 New Zealand television host Paul Henry resigns after provoking public outrage over his on-air comments about Delhi Chief Minister Sheila Dikshit.
 
 ### [Hanoi, Vietnam, celebrates its 1,000 birthday. ](/news/2010/10/10/hanoi-vietnam-celebrates-its-1-000-birthday.md)
 _Context: Hanoi, Vietnam_
 
-### [10-10-10. A celebration occurs as a male British child turns 10 at 10:10 on the 10th day of the 10th month of 2010. ](/news/2010/10/10/10-10-10-a-celebration-occurs-as-a-male-british-child-turns-10-at-10-10-on-the-10th-day-of-the-10th-month-of-2010.md)
+### [10-10-10: A celebration occurs as a male British child turns 10 at 10:10 on the 10th day of the 10th month of 2010. ](/news/2010/10/10/10-10-10-a-celebration-occurs-as-a-male-british-child-turns-10-at-10-10-on-the-10th-day-of-the-10th-month-of-2010.md)
 More than 39,000 couples have chosen Sunday as their wedding day, figuring that “a perfect 10, times 3” is good luck.
 
 ### [U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. ](/news/2010/10/10/u-s-soul-singer-solomon-burke-dies-at-amsterdam-s-airport-schiphol.md)
@@ -51,7 +51,7 @@ Hungarian workers are building an emergency dam amid fears a wall at a huge indu
 ### [At least 36 people die after an overloaded boat capsizes on the Ganges River in the Buxar district of India's Bihar state. ](/news/2010/10/10/at-least-36-people-die-after-an-overloaded-boat-capsizes-on-the-ganges-river-in-the-buxar-district-of-india-s-bihar-state.md)
 _Context: Bihar state, Buxar district, Ganges River, India_
 
-### [2010 Nobel Peace Prize:. 20 people are reported arrested in China over imprisoned human rights activist Liu Xiaobo's 2010 Nobel Peace Prize award. Liu's wife's whereabouts remain unknown after she was taken away by police with human rights group Freedom Now claiming she is in de facto house arrest. ](/news/2010/10/10/2010-nobel-peace-prize-20-people-are-reported-arrested-in-china-over-imprisoned-human-rights-activist-liu-xiaobo-s-2010-nobel-peace-prize.md)
+### [2010 Nobel Peace Prize:: 20 people are reported arrested in China over imprisoned human rights activist Liu Xiaobo's 2010 Nobel Peace Prize award. Liu's wife's whereabouts remain unknown after she was taken away by police with human rights group Freedom Now claiming she is in de facto house arrest. ](/news/2010/10/10/2010-nobel-peace-prize-20-people-are-reported-arrested-in-china-over-imprisoned-human-rights-activist-liu-xiaobo-s-2010-nobel-peace-prize.md)
 The silence was conspicuous in China on Saturday. Dissident Liu Xiaobo languished in a prison cell, possibly unaware that he had been awarded the Nobel Peace Prize a day earlier. His wife was...
 
 ### [The Israeli cabinet approves a bill requiring all non-Jews taking Israeli citizenship to swear loyalty to Israel as a "Jewish and democratic state". ](/news/2010/10/10/the-israeli-cabinet-approves-a-bill-requiring-all-non-jews-taking-israeli-citizenship-to-swear-loyalty-to-israel-as-a-jewish-and-democratic.md)
@@ -66,7 +66,7 @@ Two men are due in court in the Irish Republic on Sunday afternoon following a m
 ### [The men found guilty of the Vstberga helicopter robbery in Sweden are sentenced to lengthy prison terms. ](/news/2010/10/10/the-men-found-guilty-of-the-vastberga-helicopter-robbery-in-sweden-are-sentenced-to-lengthy-prison-terms.md)
 _Context: Sweden, Vstberga helicopter robbery_
 
-### [Dissolution of the Netherlands Antilles:. Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/dissolution-of-the-netherlands-antilles-bonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md)
+### [Dissolution of the Netherlands Antilles:: Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/dissolution-of-the-netherlands-antilles-bonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md)
 _Context: Bonaire, Dissolution of the Netherlands Antilles, Netherlands, Saba, Sint Eustatius_
 
 ### [Sudanese President Omar al-Bashir accuses authorities in Southern Sudan of breaching a peace deal and warns of a possible new conflict if issues are not resolved before the independence referendum. ](/news/2010/10/10/sudanese-president-omar-al-bashir-accuses-authorities-in-southern-sudan-of-breaching-a-peace-deal-and-warns-of-a-possible-new-conflict-if-is.md)

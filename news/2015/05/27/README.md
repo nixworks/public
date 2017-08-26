@@ -1,6 +1,6 @@
 ## [2015-05-27](/news/2015/05/27/index.md)
 
-### [Islamic State in Iraq and the Levant. Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-in-iraq-and-the-levant-islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-p.md)
+### [Islamic State in Iraq and the Levant: Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-in-iraq-and-the-levant-islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-p.md)
 _Context: Anbar province, ISIL, Iraqi Army, suicide bombing_
 
 ### [At least 12 people, associated with the Kangleyuan Rest Home in the Chinese city of Pingdingshan in Henan province which was destroyed by fire with the loss of 38 lives, are detained for questioning. ](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.md)
@@ -9,7 +9,7 @@ _Context: Chinese, Henan, Pingdingshan_
 ### [A sixth person is found to have died in this week's floods in Harris County, Texas, which contains the city of Houston. ](/news/2015/05/27/a-sixth-person-is-found-to-have-died-in-this-week-s-floods-in-harris-county-texas-which-contains-the-city-of-houston.md)
 A day after heavy storms left at least five dead and large swaths of the city under water, motorists in Houston cautiously began their Wednesday commutes.
 
-### [2015 Indian heat wave. The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/2015-indian-heat-wave-the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md)
+### [2015 Indian heat wave: The death toll in the two worst affected states Andhra Pradesh and Telangana passes 800. ](/news/2015/05/27/2015-indian-heat-wave-the-death-toll-in-the-two-worst-affected-states-andhra-pradesh-and-telangana-passes-800.md)
 _Context: 2015 Indian heat wave, Andhra Pradesh, Telangana_
 
 ### [Representatives from the United States, Japan and South Korea meet in Seoul on how to respond to North Korea's nuclear weapons program. ](/news/2015/05/27/representatives-from-the-united-states-japan-and-south-korea-meet-in-seoul-on-how-to-respond-to-north-korea-s-nuclear-weapons-program.md)
@@ -18,7 +18,7 @@ _Context: Japan, Seoul, South Korea, United States, intercontinental ballistic_
 ### [Former Prime Minister of the United Kingdom Tony Blair resigns as the peace envoy of the Quartet on the Middle East. ](/news/2015/05/27/former-prime-minister-of-the-united-kingdom-tony-blair-resigns-as-the-peace-envoy-of-the-quartet-on-the-middle-east.md)
 Former British prime minister Tony Blair resigns as envoy of the Middle East Quartet diplomatic group.
 
-### [FIFA corruption scandal. Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/fifa-corruption-scandal-six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-c.md)
+### [FIFA corruption scandal: Six FIFA officials are detained in Switzerland for extradition to the United States in relation to allegations of corruption between the 1990s and now. Those arrested include Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin. ](/news/2015/05/27/fifa-corruption-scandal-six-fifa-officials-are-detained-in-switzerland-for-extradition-to-the-united-states-in-relation-to-allegations-of-c.md)
 Officials were arrested in Switzerland, which is also probing corruption in award of World Cup to Qatar and Russia.
 
 ### [The Legislature of the US state of Nebraska votes to outlaw the death penalty, overriding a veto by Governor Pete Ricketts. ](/news/2015/05/27/the-legislature-of-the-us-state-of-nebraska-votes-to-outlaw-the-death-penalty-overriding-a-veto-by-governor-pete-ricketts.md)

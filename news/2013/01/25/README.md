@@ -1,18 +1,18 @@
 ## [2013-01-25](/news/2013/01/25/index.md)
 
-### [Syrian civil war:. Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
+### [Syrian civil war:: Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
 _Context: Golan Heights, Syrian Civil War_
 
-### [Northern Mali conflict:. The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
+### [Northern Mali conflict:: The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
 French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;Fr...
 
-### [2012-2013 Egyptian protests:. Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/2012-2013-egyptian-protests-massive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revoluti.md)
+### [2012-2013 Egyptian protests:: Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/2012-2013-egyptian-protests-massive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revoluti.md)
 Egyptian opposition protesters gather in Cairo&#39;s Tahrir Square to mark the second anniversary of the uprising that toppled Hosni Mubarak&#39;s autocratic regime.
 
-### [2013 Uribana prison riot:. A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md)
+### [2013 Uribana prison riot:: A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/2013-uribana-prison-riot-a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md)
 More than 50 people have been killed and dozens more injured in a prison riot in western Venezuela, hospital staff say.
 
-### [2011-2013 Iraqi protests:. Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/2011-2013-iraqi-protests-ongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly.md)
+### [2011-2013 Iraqi protests:: Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/2011-2013-iraqi-protests-ongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly.md)
 Iraq9 are killed as protesters, army clash
 
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)

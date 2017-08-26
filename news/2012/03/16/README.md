@@ -3,7 +3,7 @@
 ### [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011-2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md)
 Activists call for foreign intervention as UN-Arab League envoy Kofi Annan prepares to address Security Council.
 
-### [Afghanistan:. At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-th.md)
+### [Afghanistan:: At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-th.md)
 FOURTEEN people, including two children, are dead after a NATO helicopter crashed into a house and burst into flames on the outskirts of Kabul, officials said.
 
 ### [American actor George Clooney is arrested at a protest outside the Embassy of Sudan in Washington, D.C. together with Nick Clooney, Martin Luther King III, NAACP President Ben Jealous and several congressmen. ](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.md)

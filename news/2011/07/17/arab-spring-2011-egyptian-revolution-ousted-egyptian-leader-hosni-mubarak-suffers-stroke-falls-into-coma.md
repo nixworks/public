@@ -1,6 +1,6 @@
 ### [2011-07-17](/news/2011/07/17/index.md)
 
-# Arab Spring. 2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. 
+# Arab Spring: 2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. 
 
 Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just weeks before he is due to stand trial on charges of corruption and murder.
 
@@ -16,7 +16,7 @@ Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just
 
 ### Related:
 
-1. [Arab Spring:. post-Mubarak Egypt:. Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md) _Context: 2011 Egyptian revolution, Arab Spring, Hosni Mubarak_
+1. [Arab Spring:: post-Mubarak Egypt:: Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md) _Context: 2011 Egyptian revolution, Arab Spring, Hosni Mubarak_
 2. [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md) _Context: 2011 Egyptian revolution, Hosni Mubarak_
 3. [A retrial of former President of Egypt Hosni Mubarak begins in Cairo for his alleged complicity in the deaths of protesters in the 2011 Egyptian revolution. ](/news/2013/05/11/a-retrial-of-former-president-of-egypt-hosni-mubarak-begins-in-cairo-for-his-alleged-complicity-in-the-deaths-of-protesters-in-the-2011-egyp.md) _Context: 2011 Egyptian revolution, Hosni Mubarak_
 4. [Former Egyptian President Hosni Mubarak's retrial on charges of corruption and conspiracy to kill protesters during the 2011 Egyptian revolution is transferred to another court. ](/news/2013/04/13/former-egyptian-president-hosni-mubarak-s-retrial-on-charges-of-corruption-and-conspiracy-to-kill-protesters-during-the-2011-egyptian-revolu.md) _Context: 2011 Egyptian revolution, Hosni Mubarak_

@@ -1,15 +1,15 @@
 ## [2013-01-20](/news/2013/01/20/index.md)
 
-### [Syrian civil war:. Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-t.md)
+### [Syrian civil war:: Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-syrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-t.md)
 _Context: Jordan, Syrian Army, Syrian Civil War_
 
-### [Northern Mali conflict:. Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-th.md)
+### [Northern Mali conflict:: Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-islamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-th.md)
 Malian forces appeared close to recapturing key town of Diabaly where bands of al Qaeda-linked fighters had holed up
 
-### [Kachin conflict:. Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-burmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md)
+### [Kachin conflict:: Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire. ](/news/2013/01/20/kachin-conflict-burmese-troops-launch-an-attack-on-a-strategic-hilltop-held-by-rebel-kachin-forces-in-the-north-of-the-country-breaking-a.md)
 Burmese troops launch an attack on a strategic hilltop held by rebel Kachin forces in the north of the country, breaking a government ceasefire.
 
-### [In Amenas hostage crisis:. The death toll has risen to at least 48 hostages killed during a four-day siege at a gas plant, raising the number of militants and their captives killed to at least 80. Algerian troops had found the bodies of 25 hostages at the complex on Sunday. ](/news/2013/01/20/in-ama-c-nas-hostage-crisis-the-death-toll-has-risen-to-at-least-48-hostages-killed-during-a-four-day-siege-at-a-gas-plant-raising-the-numb.md)
+### [In Amenas hostage crisis:: The death toll has risen to at least 48 hostages killed during a four-day siege at a gas plant, raising the number of militants and their captives killed to at least 80. Algerian troops had found the bodies of 25 hostages at the complex on Sunday. ](/news/2013/01/20/in-ama-c-nas-hostage-crisis-the-death-toll-has-risen-to-at-least-48-hostages-killed-during-a-four-day-siege-at-a-gas-plant-raising-the-numb.md)
 The death toll has risen to at least 48 hostages killed during a four-day siege at a gas plant deep in the Sahara as a veteran Islamist fighter claimed responsibility on behalf of al Qaeda for the attack.
 
 ### [At least four miners are killed and four others trapped after a fire at a mine in Prokopyevsky District, Kemerovo Oblast, Russia. ](/news/2013/01/20/at-least-four-miners-are-killed-and-four-others-trapped-after-a-fire-at-a-mine-in-prokopyevsky-district-kemerovo-oblast-russia.md)
@@ -39,7 +39,7 @@ The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on 
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
 _Context: Angela Merkel, German Chancellor, Germany, Lower Saxony state election_
 
-### [Austrian conscription referendum, 2013:. Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austrian-conscription-referendum-2013-austria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-a.md)
+### [Austrian conscription referendum, 2013:: Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austrian-conscription-referendum-2013-austria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-a.md)
 _Context: Austria, army, community service, national referendum, professional army_
 
 ### [A NASA spacecraft, Mars Reconnaissance Orbiter, is providing new evidence of a wet underground environment on Mars that adds to an increasingly complex picture of the Red Planet's early evolution. ](/news/2013/01/20/a-nasa-spacecraft-mars-reconnaissance-orbiter-is-providing-new-evidence-of-a-wet-underground-environment-on-mars-that-adds-to-an-increasin.md)

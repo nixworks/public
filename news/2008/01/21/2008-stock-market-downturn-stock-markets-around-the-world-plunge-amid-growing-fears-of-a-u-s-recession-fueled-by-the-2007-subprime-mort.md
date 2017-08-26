@@ -1,6 +1,6 @@
 ### [2008-01-21](/news/2008/01/21/index.md)
 
-#  2008 stock market downturn:. Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. 
+#  2008 stock market downturn:: Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. 
 
 
 
@@ -18,7 +18,7 @@
 
 1. [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md) _Context: recession, stock market_
 2. [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md) _Context: stock market_
-3. [Economy of Japan. The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: recession_
+3. [Economy of Japan: The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: recession_
 4. [Brazil's economy falls into recession. ](/news/2014/08/29/brazil-s-economy-falls-into-recession.md) _Context: recession_
 5. [The Eurozone moves out of 18 months of recession because of Germany and France. There was a growth rate of 0.3% in the June quarter. ](/news/2013/08/14/the-eurozone-moves-out-of-18-months-of-recession-because-of-germany-and-france-there-was-a-growth-rate-of-0-3-in-the-june-quarter.md) _Context: recession_
 6. [Japan's stock market index, the Nikkei 225, hits its highest level in almost five years, after a Bank of Japan stimulus plan raises hope of economic revival. ](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.md) _Context: stock market_

@@ -1,6 +1,6 @@
 ### [2013-11-19](/news/2013/11/19/index.md)
 
-# Fort Lauderdale Air Ambulance crash:. An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. 
+# Fort Lauderdale Air Ambulance crash:: An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. 
 
 
 

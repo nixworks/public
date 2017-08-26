@@ -3,7 +3,7 @@
 ### [More than 230 people are killed and 200 injured after a fuel tanker overturns and explodes in the South Kivu province of the Democratic Republic of the Congo. ](/news/2010/07/3/more-than-230-people-are-killed-and-200-injured-after-a-fuel-tanker-overturns-and-explodes-in-the-south-kivu-province-of-the-democratic-repu.md)
 Lorry carrying oil overturns and bursts into flames, engulfing the village of Sange.
 
-### [Gaza. More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/gaza-more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafa.md)
+### [Gaza: More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/gaza-more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafa.md)
 Families cry foul as Hamas pulls down houses saying they were built on government land.
 
 ### [12 people are killed and 12 injured after a bus falls from a bridge near South Korea's main Incheon International Airport. ](/news/2010/07/3/12-people-are-killed-and-12-injured-after-a-bus-falls-from-a-bridge-near-south-korea-s-main-incheon-international-airport.md)

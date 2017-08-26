@@ -1,6 +1,6 @@
 ## [2011-06-9](/news/2011/06/9/index.md)
 
-### [2011 Syrian uprising:. The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md)
+### [2011 Syrian uprising:: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-the-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md)
 Video emerges appearing to show body of Syrian boy killed in crackdown, as Russia rejects Security Council resolution.
 
 ### [The Government of Somalia claims to have killed a Canadian member of the al-Shabab terrorist organization. ](/news/2011/06/9/the-government-of-somalia-claims-to-have-killed-a-canadian-member-of-the-al-shabab-terrorist-organization.md)
@@ -12,7 +12,7 @@ US newspaper says the move is aimed at preventing suspected fighters from consol
 ### [At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. ](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.md)
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
-### [2011 Libyan civil war:. Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. ](/news/2011/06/9/2011-libyan-civil-war-turkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
+### [2011 Libyan civil war:: Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional Council. ](/news/2011/06/9/2011-libyan-civil-war-turkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
 _Context: Libya, Libyan Civil War, National Transitional Council, Turkey_
 
 ### [2011 Yemeni uprising: President Ali Abdullah Saleh undergoes surgery in Saudi Arabia for injuries sustained in a bomb blast. ](/news/2011/06/9/2011-yemeni-uprising-president-ali-abdullah-saleh-undergoes-surgery-in-saudi-arabia-for-injuries-sustained-in-a-bomb-blast.md)
@@ -24,7 +24,7 @@ _Context: Citigroup, Financial Times, hackers_
 ### [The U.S. Supreme Court upholds a 2009 jury verdict in a patent dispute at the expense of software giant Microsoft in favor of Canadian company i4i. ](/news/2011/06/9/the-u-s-supreme-court-upholds-a-2009-jury-verdict-in-a-patent-dispute-at-the-expense-of-software-giant-microsoft-in-favor-of-canadian-compa.md)
 _Context: Microsoft, U.S. Supreme Court, i4i, jury, patent, software_
 
-### [Fukushima Daiichi nuclear disaster:. The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md)
+### [Fukushima Daiichi nuclear disaster:: The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md)
 _Context: Fukushima Daiichi nuclear disaster, International Atomic Energy Agency, Japanese government, nuclear reactor_
 
 ### [China denies claims by the United Nations that 300 Tibetan monks have forcibly disappeared over the past three months. ](/news/2011/06/9/china-denies-claims-by-the-united-nations-that-300-tibetan-monks-have-forcibly-disappeared-over-the-past-three-months.md)
@@ -39,7 +39,7 @@ _Context: Britain, Eritrea, espionage, terrorism_
 ### [Five Saudi women are arrested for practising driving. ](/news/2011/06/9/five-saudi-women-are-arrested-for-practising-driving.md)
 _Context: Saudi Arabia_
 
-### [Extradition of Cesare Battisti:. Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional.md)
+### [Extradition of Cesare Battisti:: Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-italian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional.md)
 _Context: Brazil, Cesare Battisti, Communist, Italian, Italian, Supreme Federal Court, extradited_
 
 ### [The Australian Federal Police are called in to quell another riot at the Christmas Island Immigration Reception and Processing Centre. ](/news/2011/06/9/the-australian-federal-police-are-called-in-to-quell-another-riot-at-the-christmas-island-immigration-reception-and-processing-centre.md)

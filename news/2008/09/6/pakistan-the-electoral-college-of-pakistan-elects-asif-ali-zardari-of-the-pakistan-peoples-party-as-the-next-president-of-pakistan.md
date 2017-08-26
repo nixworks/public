@@ -1,6 +1,6 @@
 ### [2008-09-6](/news/2008/09/6/index.md)
 
-#  Pakistan. The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. 
+#  Pakistan: The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. 
 
 Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and a controversial politician with little experience, was elected president of Pakistan.
 

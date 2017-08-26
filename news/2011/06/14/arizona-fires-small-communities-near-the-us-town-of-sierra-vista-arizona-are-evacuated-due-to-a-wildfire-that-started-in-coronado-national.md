@@ -1,6 +1,6 @@
 ### [2011-06-14](/news/2011/06/14/index.md)
 
-# Arizona fires. Small communities near the US town of Sierra Vista, Arizona are evacuated due to a wildfire that started in Coronado National Memorial. 
+# Arizona fires: Small communities near the US town of Sierra Vista, Arizona are evacuated due to a wildfire that started in Coronado National Memorial. 
 
 
 

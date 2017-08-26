@@ -1,18 +1,18 @@
 ## [2014-06-9](/news/2014/06/9/index.md)
 
-### [2014 Jinnah International Airport attack:. Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claime.md)
+### [2014 Jinnah International Airport attack:: Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/2014-jinnah-international-airport-attack-karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claime.md)
 _Context: 2014 Jinnah International Airport attack, Jinnah International Airport, Karachi_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A suicide truck bomber detonates his vehicle at the gate of a Patriotic Union of Kurdistan office in Tuz Khormato, Iraq, a second truck bomb detonated as people were gathering around the first one. Over 15 are killed and at least 110 injured. ](/news/2014/06/9/iraqi-insurgency-post-u-s-withdrawal-a-suicide-truck-bomber-detonates-his-vehicle-at-the-gate-of-a-patriotic-union-of-kurdistan-office.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A suicide truck bomber detonates his vehicle at the gate of a Patriotic Union of Kurdistan office in Tuz Khormato, Iraq, a second truck bomb detonated as people were gathering around the first one. Over 15 are killed and at least 110 injured. ](/news/2014/06/9/iraqi-insurgency-post-u-s-withdrawal-a-suicide-truck-bomber-detonates-his-vehicle-at-the-gate-of-a-patriotic-union-of-kurdistan-office.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Syrian civil war:. The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-the-syrian-government-declares-a-general-amnesty-for-all-citizens.md)
+### [Syrian civil war:: The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-the-syrian-government-declares-a-general-amnesty-for-all-citizens.md)
 _Context: Syrian Civil War, amnesty_
 
 ### [Brazilian riot police use tear gas to disperse protesters in So Paulo amid rising tensions between protestors and the government over the cost of the World Cup. ](/news/2014/06/9/brazilian-riot-police-use-tear-gas-to-disperse-protesters-in-sao-paulo-amid-rising-tensions-between-protestors-and-the-government-over-the-c.md)
 Metro workers in Sao Paulo suspend a strike that has caused traffic chaos, two days before the city is to host the opening match of the World Cup.
 
-### [Taliban insurgency in Afghanistan. Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md)
+### [Taliban insurgency in Afghanistan: Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md)
 Five American soldiers have been killed accidentally by their own side in southern Afghanistan, US military sources confirm.
 
 ### [Six Cuban National Ballet dancers arrive in the American city of Miami after defecting on tour. ](/news/2014/06/9/six-cuban-national-ballet-dancers-arrive-in-the-american-city-of-miami-after-defecting-on-tour.md)

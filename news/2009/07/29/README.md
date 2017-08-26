@@ -1,6 +1,6 @@
 ## [2009-07-29](/news/2009/07/29/index.md)
 
-### [ Nigerian battles. The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/nigerian-battles-the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md)
+### [ Nigerian battles: The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/nigerian-battles-the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md)
 _Context: Nigeria, Nigerian battles, alive when captured_
 
 ### [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md)

@@ -3,7 +3,7 @@
 ### [Two suicide bombers attack a church in the Pakistani city of Peshawar, killing at least 78 people. ](/news/2013/09/22/two-suicide-bombers-attack-a-church-in-the-pakistani-city-of-peshawar-killing-at-least-78-people.md)
 _Context: Pakistan, Peshawar, Suicide bombers, at least 78 people_
 
-### [Westgate centre shooting:. The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md)
+### [Westgate centre shooting:: The death toll from the Westgate centre shooting in Nairobi, Kenya, reaches 59 with 175 injured. ](/news/2013/09/22/westgate-centre-shooting-the-death-toll-from-the-westgate-centre-shooting-in-nairobi-kenya-reaches-59-with-175-injured.md)
 The latest on the stand-off at a shopping centre in Nairobi as a siege enters into its second day.
 
 ### [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md)

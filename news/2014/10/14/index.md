@@ -9,10 +9,10 @@ Australian author Richard Flanagan wins the £50,000 Man Booker Prize for his wa
 ### [A large French bank, Groupe BPCE launches a service that allows its customers to use the social network Twitter to send one another money. ](/news/2014/10/14/a-large-french-bank-groupe-bpce-launches-a-service-that-allows-its-customers-to-use-the-social-network-twitter-to-send-one-another-money.md)
 * BPCE to launch service to transfer money by tweet* Twitter testing ways to expand own e-commerce offerings* Tech giants Apple, Facebook, Tw
 
-### [2014 Pacific typhoon season. Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/2014-pacific-typhoon-season-typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-i.md)
+### [2014 Pacific typhoon season: Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/2014-pacific-typhoon-season-typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-i.md)
 _Context: 2014 Pacific typhoon season, Japan, Typhoon Vongfong, tropical storm_
 
-### [2014 North Indian Ocean cyclone season. The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/2014-north-indian-ocean-cyclone-season-the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-and.md)
+### [2014 North Indian Ocean cyclone season: The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/2014-north-indian-ocean-cyclone-season-the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-and.md)
 _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud, India, Orissa State_
 
 ### [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-rep.md)

@@ -1,6 +1,6 @@
 ### [2005-01-8](/news/2005/01/8/index.md)
 
-#  2004 Indian Ocean earthquake:. The United States National Oceanic and Atmospheric Administration (NOAA) reveals a detailed minute-to-minute Indian Ocean tsunami timeline. 
+#  2004 Indian Ocean earthquake:: The United States National Oceanic and Atmospheric Administration (NOAA) reveals a detailed minute-to-minute Indian Ocean tsunami timeline. 
 
 
 
@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [2017 Atlantic hurricane season. The U.S. National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and a weak or nonexistent El Nino. ](/news/2017/05/25/2017-atlantic-hurricane-season-the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-a.md) _Context: U.S.  National Oceanic and Atmospheric Administration_
+1. [2017 Atlantic hurricane season: The U.S. National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and a weak or nonexistent El Nino. ](/news/2017/05/25/2017-atlantic-hurricane-season-the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-a.md) _Context: U.S.  National Oceanic and Atmospheric Administration_
 2. [Global temperatures rose to the hottest level on record for 2016 for a third successive record according to NASA and the US National Oceanic and Atmospheric Administration. ](/news/2017/01/18/global-temperatures-rose-to-the-hottest-level-on-record-for-2016-for-a-third-successive-record-according-to-nasa-and-the-us-national-oceanic.md) _Context: U.S.  National Oceanic and Atmospheric Administration_
 3. [NASA projects that 2016 will have the warmest global temperature average on record. This year would be the third record-breaking year in a row. Per NOAA annals, April marked the 12th record warmest month in a row. ](/news/2016/05/22/nasa-projects-that-2016-will-have-the-warmest-global-temperature-average-on-record-this-year-would-be-the-third-record-breaking-year-in-a-r.md) _Context: NOAA_
 4. [NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. ](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.md) _Context: U.S.  National Oceanic and Atmospheric Administration_

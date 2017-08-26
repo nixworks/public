@@ -1,18 +1,18 @@
 ## [2013-02-8](/news/2013/02/8/index.md)
 
-### [Syrian civil war:. Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md)
+### [Syrian civil war:: Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md)
 _Context: Syria, Syrian Army, Syrian Civil War_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin.md)
 At least 31 people killed and dozens wounded in car bombings in Shia-dominated areas.
 
-### [Northern Mali conflict (2012-present):. The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012-present-the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier.md)
+### [Northern Mali conflict (2012-present):: The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. ](/news/2013/02/8/northern-mali-conflict-2012-present-the-country-s-first-reported-suicide-bomber-blows-himself-up-in-gao-injuring-one-malian-soldier.md)
 GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a military checkpoint Friday on the outskirts of Gao in the first suicide bombing attack since the French-led mission began, fueling fears of a looming insurgency by the jihadists who fled into the nearby desert just two we...
 
-### [War in North-West Pakistan:. A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md)
+### [War in North-West Pakistan:: A bomb at a market kills 16 people and wounds 27 others in Kalaya, capital of Orakzai Agency in Pakistan. ](/news/2013/02/8/war-in-north-west-pakistan-a-bomb-at-a-market-kills-16-people-and-wounds-27-others-in-kalaya-capital-of-orakzai-agency-in-pakistan.md)
 _Context: Kalaya, Orakzai Tribal Area, Pakistan, War in North-West Pakistan_
 
-### [Nigerian Sharia conflict:. Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nigerian-sharia-conflict-nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-p.md)
+### [Nigerian Sharia conflict:: Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nigerian-sharia-conflict-nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-p.md)
 _Context: Boko Haram, Kano, Nigeria, Nigerian Sharia conflict, polio_
 
 ### [The cover of the latest edition of Lucy Maud Montgomery's "Anne of Green Gables" arouses controversy among readers as the orphan with the "very thick, decidedly red hair" and the "much freckled" face is transformed into a blonde, buxom farm girl with come-hither eyes. This follows the recent controversy over a new cover for Sylvia Plath's "The Bell Jar" which portrays a young woman applying make-up. ](/news/2013/02/8/the-cover-of-the-latest-edition-of-lucy-maud-montgomery-s-anne-of-green-gables-arouses-controversy-among-readers-as-the-orphan-with-the-v.md)

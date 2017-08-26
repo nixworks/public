@@ -3,7 +3,7 @@
 ### [War in Afghanistan: A NATO air strike kills a family of eight, including six children. ](/news/2012/05/27/war-in-afghanistan-a-nato-air-strike-kills-a-family-of-eight-including-six-children.md)
 A Nato air strike has killed eight members of a family in the eastern Afghan province of Paktia, according to local officials.
 
-### [Arab Spring:. Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md)
+### [Arab Spring:: Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md)
 Six activists given up to 15 years in prison for allegedly working with Iran to topple government, charges they deny.
 
 ### [Michael Haneke scoops the Palme d'Or for "Love" at the 2012 Cannes Film Festival. ](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.md)

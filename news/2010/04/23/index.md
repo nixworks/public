@@ -24,7 +24,7 @@ _Context: European Union, Greek, downgrades_
 ### [A Spanish hospital claims to have performed the world's "first full-face transplant". ](/news/2010/04/23/a-spanish-hospital-claims-to-have-performed-the-world-s-first-full-face-transplant.md)
 _Context: face transplant_
 
-### [Response to child sexual abuse in the Roman Catholic Church:. Bishop of Bruges since 1984 Roger Joseph Vangheluwe admits sexually abusing a boy and resigns with immediate effect. ](/news/2010/04/23/response-to-child-sexual-abuse-in-the-roman-catholic-church-bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a.md)
+### [Response to child sexual abuse in the Roman Catholic Church:: Bishop of Bruges since 1984 Roger Joseph Vangheluwe admits sexually abusing a boy and resigns with immediate effect. ](/news/2010/04/23/response-to-child-sexual-abuse-in-the-roman-catholic-church-bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a.md)
 Pope accepts resignation of bishop after he admits sexually abusing a young boy.
 
 ### [The Boy Scouts of America are ordered to pay $18.5 million in damages following the sexual abuse of a 12-year-old boy. ](/news/2010/04/23/the-boy-scouts-of-america-are-ordered-to-pay-18-5-million-in-damages-following-the-sexual-abuse-of-a-12-year-old-boy.md)

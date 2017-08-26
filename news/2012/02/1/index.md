@@ -30,7 +30,7 @@ The loss-making parent company of American Airlines says it will shed 13,000 job
 ### [European antitrust authorities block a planned merger between NYSE Euronext and Deutsche Boerse. ](/news/2012/02/1/european-antitrust-authorities-block-a-planned-merger-between-nyse-euronext-and-deutsche-boerse.md)
 NYSE Euronext and DeutscheBoerse said they have terminated their merger plans,following the decision by the European Commission to block theproposed deal.
 
-### [Egyptian football riots. At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-football-riots-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-i.md)
+### [Egyptian football riots: At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. ](/news/2012/02/1/egyptian-football-riots-at-least-73-people-are-killed-as-a-result-of-clashes-between-fans-of-egyptian-football-teams-al-masry-and-al-ahly-i.md)
 At least 74 people are killed and many injured in clashes between rival football fans in the Egyptian city of Port Said.
 
 ### [Canadian national Naser al-Raas is arrested in Bahrain for attending a rally in the 2011-2012 Bahraini uprising. ](/news/2012/02/1/canadian-national-naser-al-raas-is-arrested-in-bahrain-for-attending-a-rally-in-the-2011-2012-bahraini-uprising.md)

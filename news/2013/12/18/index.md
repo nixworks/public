@@ -1,21 +1,21 @@
 ## [2013-12-18](/news/2013/12/18/index.md)
 
-### [2013 South Sudanese political crisis:. The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-a.md)
+### [2013 South Sudanese political crisis:: The United Nations says that 400 to 500 people may have been killed and up to 800 wounded in recent attacks in the country. ](/news/2013/12/18/2013-south-sudanese-political-crisis-the-united-nations-says-that-400-to-500-people-may-have-been-killed-and-up-to-800-wounded-in-recent-a.md)
 _Context: 2013 South Sudanese political crisis, United Nations_
 
-### [Mexican Drug War:. High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http://www.debate.com.mx/eldebate/noticias/default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/mexican-drug-war-high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasc.md)
+### [Mexican Drug War:: High-ranking Sinaloa Cartel leader Gonzalo Inzunza Inzunza is killed in a shootout with the Mexican Navy in Puerto Peasco, Sonora. [http://www.debate.com.mx/eldebate/noticias/default.asp?IdArt=13860743&IdCat=17402&sl=2 "(El Debate)"]](/news/2013/12/18/mexican-drug-war-high-ranking-sinaloa-cartel-leader-gonzalo-inzunza-inzunza-is-killed-in-a-shootout-with-the-mexican-navy-in-puerto-penasc.md)
 _Context: Gonzalo Inzunza Inzunza, Mexican Drug War, Puerto Peasco, Sonora, Sinaloa Cartel_
 
 ### [Chinese actress Zhang Ziyi settles out of court a U.S. sex scandal libel lawsuit against the U.S.-based overseas alternative news source website Boxun. ](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.md)
 Chinese film star Zhang Ziyi wins damages from a US-based website that published false reports she was paid to have sex with top Chinese officials.
 
-### [2014 Winter Olympics:. LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/2014-winter-olympics-lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-u.md)
+### [2014 Winter Olympics:: LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/2014-winter-olympics-lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-u.md)
 _Context: 2014 Winter Olympics, Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, United States, gay and bisexual men_
 
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
 _Context: China, bitcoin_
 
-### [Mega Millions lottery:. At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md)
+### [Mega Millions lottery:: At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md)
 _Context: Mega Millions, San Jose, California, Stone Mountain, Georgia_
 
 ### [The United Nations condemns Syria, Iran, and North Korea for human rights violations. ](/news/2013/12/18/the-united-nations-condemns-syria-iran-and-north-korea-for-human-rights-violations.md)
@@ -24,7 +24,7 @@ _Context: United Nations_
 ### [Bolotnaya square case prisoners, Pussy Riot and Greenpeace activists are likely to be freed after the Duma votes in favor of a law giving them amnesty. ](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.md)
 _Context: Bolotnaya square case, Duma, Greenpeace India's, Pussy Riot_
 
-### [2013 Little India riot:. Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst.md)
+### [2013 Little India riot:: Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/2013-little-india-riot-singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst.md)
 _Context: 2013 Little India riot, Singapore, foreign workers_
 
 ### [British criminal Ronnie Biggs, best known for his role in the Great Train Robbery and escape from Wandsworth Prison, dies in the North London suburb of East Barnet. ](/news/2013/12/18/british-criminal-ronnie-biggs-best-known-for-his-role-in-the-great-train-robbery-and-escape-from-wandsworth-prison-dies-in-the-north-londo.md)

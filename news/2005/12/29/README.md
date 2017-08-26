@@ -3,7 +3,7 @@
 ### [ At least 30 people are killed following a large landslide in a village close to Sanaa in Yemen. ](/news/2005/12/29/at-least-30-people-are-killed-following-a-large-landslide-in-a-village-close-to-sanaa-in-yemen.md)
 _Context: Sanaa, Yemen, landslide_
 
-### [ Arab-Israeli conflict:. A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arab-israeli-conflict-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md)
+### [ Arab-Israeli conflict:: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arab-israeli-conflict-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them. ](/news/2005/12/29/a-scottish-human-rights-worker-kate-burton-and-her-parents-have-been-kidnapped-in-gaza-palestinian-authorities-have-stepped-up-work-to-f.md)

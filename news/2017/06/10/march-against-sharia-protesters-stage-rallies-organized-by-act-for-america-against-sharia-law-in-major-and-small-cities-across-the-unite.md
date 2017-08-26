@@ -1,6 +1,6 @@
 ### [2017-06-10](/news/2017/06/10/index.md)
 
-# March Against Sharia. Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. 
+# March Against Sharia: Protesters stage rallies, organized by ACT! for America, against sharia law in major and small cities across the United States. Counter protesters also assembled at these locations. 
 
 Protesters held rallies across the United States on Saturday to denounce sharia law, the Islamic legal and moral code that organizers say poses a threat to American freedoms, but critics believe anti-Muslim hatred is behind the condemnation.
 

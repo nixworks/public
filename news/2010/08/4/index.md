@@ -21,7 +21,7 @@ Twin car bombs kill six in southern Iraq, hours after attacks in Baghdad leave e
 ### [A suicide attack kills 4 people, a paramilitary commander Sifwat Ghuyur and three bodyguards, in Peshawar. ](/news/2010/08/4/a-suicide-attack-kills-4-people-a-paramilitary-commander-sifwat-ghuyur-and-three-bodyguards-in-peshawar.md)
 Head of paramilitary police force and three others killed near market in Peshawar.
 
-### [Adaisseh incident:. The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-the-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing.md)
+### [Adaisseh incident:: The United Nations Peacekeeping Forces assert that Israeli soldiers were attacked in Israeli territory while performing routine maintenance, leading to yesterday's deadly clash. ](/news/2010/08/4/adaisseh-incident-the-united-nations-peacekeeping-forces-assert-that-israeli-soldiers-were-attacked-in-israeli-territory-while-performing.md)
 The UN tells Israel and Lebanon to show restraint, after a clash between troops on the border leaves five people dead.
 
 ### [Officials say more than 28,000 people have died in Mexican drug violence since December 2006, thousands more than previously thought. ](/news/2010/08/4/officials-say-more-than-28-000-people-have-died-in-mexican-drug-violence-since-december-2006-thousands-more-than-previously-thought.md)
@@ -48,10 +48,10 @@ _Context: IFPI, In Rainbows, RIAA, Radiohead_
 ### [Musician Wyclef Jean confirms he is to announce plans to stand for the presidency in Haiti. ](/news/2010/08/4/musician-wyclef-jean-confirms-he-is-to-announce-plans-to-stand-for-the-presidency-in-haiti.md)
 Haitian-born musician Wyclef Jean is to announce plans to stand for president of the earthquake-hit Caribbean country.
 
-### [2010 Pakistan floods:. Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md)
+### [2010 Pakistan floods:: Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/2010-pakistan-floods-nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md)
 Poor weather forces more evacuations as Pakistan endures its worst floods in 80 years, with yet more heavy rain forecast.
 
-### [Summer 2010 Russian wildfires:. President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-of.md)
+### [Summer 2010 Russian wildfires:: President of Russia Dmitry Medvedev interrupts his summer holiday to return and fire several top military officials after wildfires destroy a naval base outside Moscow. ](/news/2010/08/4/summer-2010-russian-wildfires-president-of-russia-dmitry-medvedev-interrupts-his-summer-holiday-to-return-and-fire-several-top-military-of.md)
 Russian president critical of government response to fire disaster.
 
 ### [The confirmed death toll from flooding in China rises above 1,000. ](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.md)
@@ -91,7 +91,7 @@ A lawyer who defended a woman sentenced to be stoned to death in Iran is now in 
 ### [A decision by Malacca to allow under-age marriage is criticised by groups of women. ](/news/2010/08/4/a-decision-by-malacca-to-allow-under-age-marriage-is-criticised-by-groups-of-women.md)
 _Context: Malacca_
 
-### [President of Iran Mahmoud Ahmadinejad's trip to Hamedan:. Ahmadinejad announces in Hamedan that Iran is ready to start talks this month about a possible nuclear fuel swap. ](/news/2010/08/4/president-of-iran-mahmoud-ahmadinejad-s-trip-to-hamedan-ahmadinejad-announces-in-hamedan-that-iran-is-ready-to-start-talks-this-month-abou.md)
+### [President of Iran Mahmoud Ahmadinejad's trip to Hamedan:: Ahmadinejad announces in Hamedan that Iran is ready to start talks this month about a possible nuclear fuel swap. ](/news/2010/08/4/president-of-iran-mahmoud-ahmadinejad-s-trip-to-hamedan-ahmadinejad-announces-in-hamedan-that-iran-is-ready-to-start-talks-this-month-abou.md)
 Iran denies President Ahmadinejad was targeted in an assassination attempt, after initial reports of a grenade attack on his convoy.
 
 ### [Fidel Castro is expected to address the Cuban national assembly on Saturday for the first time in four years; his speech is anticipated to talk of a possible nuclear war involving the United States, Israel and Iran. ](/news/2010/08/4/fidel-castro-is-expected-to-address-the-cuban-national-assembly-on-saturday-for-the-first-time-in-four-years-his-speech-is-anticipated-to-t.md)

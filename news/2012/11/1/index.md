@@ -1,12 +1,12 @@
 ## [2012-11-1](/news/2012/11/1/index.md)
 
-### [Syrian civil war. Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-civil-war-syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hou.md)
+### [Syrian civil war: Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-civil-war-syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hou.md)
 Observatory for Human Rights confirms ambush on three checkpoints around northern province of Idlib, bordering Turkey.
 
 ### [Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. ](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.md)
 _Context: ComScore, Gmail, Google, Hotmail, Microsoft, e-mail_
 
-### [Hurricane Sandy:. The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/hurricane-sandy-the-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-o.md)
+### [Hurricane Sandy:: The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/hurricane-sandy-the-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-o.md)
 New Jersey and New York, struggling to recover from the wreckage of Sandy, were staggered today by a gas shortage and an overwhelmed transit system as more victims of the deadly storm were found.
 
 ### [A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh killing 22 people and injuring 111. ](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-saudi-arabian-capital-riyadh-killing-22-people-and-injuring-111.md)

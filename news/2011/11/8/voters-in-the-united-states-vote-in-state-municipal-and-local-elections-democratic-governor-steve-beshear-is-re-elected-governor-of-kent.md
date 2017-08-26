@@ -1,6 +1,6 @@
 ### [2011-11-8](/news/2011/11/8/index.md)
 
-# Voters in the United States vote in state, municipal, and local elections.. Democratic Governor Steve Beshear is re-elected Governor of Kentucky. 
+# Voters in the United States vote in state, municipal, and local elections.: Democratic Governor Steve Beshear is re-elected Governor of Kentucky. 
 
 After months of campaigning and talking to local residents, initial poll results show Greg Stanton as the new mayor of Phoenix.
 
@@ -15,4 +15,4 @@ After months of campaigning and talking to local residents, initial poll results
 ### Related:
 
 1. [The Governor of Kentucky Steve Beshear declares a state of emergency due to rising flood waters from the Ohio and Mississippi Rivers. ](/news/2011/04/25/the-governor-of-kentucky-steve-beshear-declares-a-state-of-emergency-due-to-rising-flood-waters-from-the-ohio-and-mississippi-rivers.md) _Context: Governor of Kentucky, Steve Beshear_
-2. [ U.S. elections:. Gubernatorial. In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/u-s-elections-gubernatorial-in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent.md) _Context: Steve Beshear_
+2. [ U.S. elections:: Gubernatorial: In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/u-s-elections-gubernatorial-in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent.md) _Context: Steve Beshear_

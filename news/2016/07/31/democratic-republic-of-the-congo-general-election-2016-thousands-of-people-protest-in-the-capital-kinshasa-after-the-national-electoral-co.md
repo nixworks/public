@@ -1,6 +1,6 @@
 ### [2016-07-31](/news/2016/07/31/index.md)
 
-# Democratic Republic of the Congo general election, 2016. Thousands of people protest in the capital Kinshasa after the national electoral commission decides to postpone the election. 
+# Democratic Republic of the Congo general election, 2016: Thousands of people protest in the capital Kinshasa after the national electoral commission decides to postpone the election. 
 
 Congo&#x2019;s&#x20;veteran&#x20;opposition&#x20;chief&#x20;Etienne&#x20;Tshisekedi&#x20;on&#x20;Sunday&#x20;called&#x20;for&#x20;elections&#x20;to&#x20;be&#x20;held&#x20;this&#x20;year&#x20;and&#x20;for&#x20;President&#x20;Joseph&#x20;Kabila&#x20;to&#x20;step&#x20;down&#x20;as&#x20;scheduled&#x20;on&#x20;December&#x20;20.
 

@@ -1,12 +1,12 @@
 ## [2011-03-7](/news/2011/03/7/index.md)
 
-### [Libyan Civil War. NATO decides to increase surveillance flights over Libya to a 24/7 basis. ](/news/2011/03/7/libyan-civil-war-nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md)
+### [Libyan Civil War: NATO decides to increase surveillance flights over Libya to a 24/7 basis. ](/news/2011/03/7/libyan-civil-war-nato-decides-to-increase-surveillance-flights-over-libya-to-a-24-7-basis.md)
 Two Arab newspapers and alJazeera television said on Monday Libyan leader Muammar Gaddafiwas looking for an agreement allowing him to step down, butthere was no official confirmation of the reports.
 
-### [2011 Yemeni protests. Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/2011-yemeni-protests-protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shot.md)
+### [2011 Yemeni protests: Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/2011-yemeni-protests-protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shot.md)
 _Context: 2011 Yemeni protests, Saleh, Sanaa, Yemen_
 
-### [2010-2011 Ivorian crisis. Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/2010-2011-ivorian-crisis-rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
+### [2010-2011 Ivorian crisis: Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/2010-2011-ivorian-crisis-rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
 _Context: 2010-2011 Ivorian crisis, Ivory Coast_
 
 ### [Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. ](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.md)
@@ -33,7 +33,7 @@ _Context: Coffee, Ivory Coast, Laurent Gbagbo, President, cocoa_
 ### [AOL completes its purchase of the Huffington Post. ](/news/2011/03/7/aol-completes-its-purchase-of-the-huffington-post.md)
 _Context: AOL, Huffington Post_
 
-### [New Zealand earthquake. The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquake-the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md)
+### [New Zealand earthquake: The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. ](/news/2011/03/7/new-zealand-earthquake-the-state-of-emergency-put-in-place-after-the-2011-canterbury-earthquake-in-christchurch-new-zealand-is-extended.md)
 The national state of emergency imposed after last month&#039;s devastating Christchurch earthquake will be extended on Monday and is likely to be in place for some time, Prime Minister John Key says.
 
 ### [A strong 6.6 magnitude earthquake occurs off the coast of the Solomon Islands in the Pacific Ocean. ](/news/2011/03/7/a-strong-6-6-magnitude-earthquake-occurs-off-the-coast-of-the-solomon-islands-in-the-pacific-ocean.md)
@@ -73,7 +73,7 @@ _Context: 2012, John Ensign, Nevada, Senator_
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, China, Gary Locke, United States, United States Secretary of Commerce, president_
+_Context: ABC News, Barack Obama, China, Gary Locke, President, United States, United States Secretary of Commerce_
 
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the "Journal of Cosmology" by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-hoo.md)
 Top NASA scientists have hosed down claims from a colleague that fossils of alien microbes were found in meteorites.

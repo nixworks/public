@@ -1,12 +1,12 @@
 ## [2011-06-7](/news/2011/06/7/index.md)
 
-### [Syrian civil war:. The Syrian ambassador to France resigns in protest at the violence in a statement on French television; a denial claiming to be from the diplomat later airs on Syrian state TV. ](/news/2011/06/7/syrian-civil-war-the-syrian-ambassador-to-france-resigns-in-protest-at-the-violence-in-a-statement-on-french-television-a-denial-claiming.md)
+### [Syrian civil war:: The Syrian ambassador to France resigns in protest at the violence in a statement on French television; a denial claiming to be from the diplomat later airs on Syrian state TV. ](/news/2011/06/7/syrian-civil-war-the-syrian-ambassador-to-france-resigns-in-protest-at-the-violence-in-a-statement-on-french-television-a-denial-claiming.md)
 The northern Syrian town of Jisr al-Shughour braces for an army assault after the government says 120 security forces personnel were killed.
 
-### [Yemeni uprising:. Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-fighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md)
+### [Yemeni uprising:: Fighting resumes in the Al Qaeda in the Arabian Peninsula held city of Zinjibar with at least 15 people dead. ](/news/2011/06/7/yemeni-uprising-fighting-resumes-in-the-al-qaeda-in-the-arabian-peninsula-held-city-of-zinjibar-with-at-least-15-people-dead.md)
 Tribal fighters took control of a top Yemeni city on Tuesday, a setback for an embattled government whose wounded president is hospitalized in Saudi Arabia.
 
-### [Libyan Civil War:. Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md)
+### [Libyan Civil War:: Tripoli is hit by successive NATO air strikes, including a rare daytime strike. ](/news/2011/06/7/libyan-civil-war-tripoli-is-hit-by-successive-nato-air-strikes-including-a-rare-daytime-strike.md)
 Libyan leader Moammar Gadhafi vowed Tuesday that &quot;we will not surrender,&quot; even as NATO airstrikes bombarded his compound in Tripoli.
 
 ### [Three explosions and gunfire are heard in the northeastern Nigerian town of Maiduguri after suspected Islamist sect Boko Haram attack police stations. ](/news/2011/06/7/three-explosions-and-gunfire-are-heard-in-the-northeastern-nigerian-town-of-maiduguri-after-suspected-islamist-sect-boko-haram-attack-police.md)

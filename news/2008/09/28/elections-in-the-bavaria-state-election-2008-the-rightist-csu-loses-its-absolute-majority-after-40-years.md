@@ -1,6 +1,6 @@
 ### [2008-09-28](/news/2008/09/28/index.md)
 
-#  Elections. In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. 
+#  Elections: In the Bavaria state election, 2008, the rightist CSU loses its absolute majority after 40 years. 
 
 
 

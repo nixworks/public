@@ -3,16 +3,16 @@
 ### [Hamas fatally shoots two of the suspects in last week's murder of Italian pro-Palestinian activist Vittorio Arrigoni in Gaza. ](/news/2011/04/19/hamas-fatally-shoots-two-of-the-suspects-in-last-week-s-murder-of-italian-pro-palestinian-activist-vittorio-arrigoni-in-gaza.md)
 Two suspects in the killing of Vittorio Arrigoni, the slain peace activist, die in shootout with Hamas security forces.
 
-### [2011 Libyan civil war:. NATO and the civilian council of Misrata request ground troops to protect the city of Misrata from Gaddafi's forces, after NATO admits it is unable to stop the artillery shelling of Misrata. ](/news/2011/04/19/2011-libyan-civil-war-nato-and-the-civilian-council-of-misrata-request-ground-troops-to-protect-the-city-of-misrata-from-gaddafi-s-forces.md)
+### [2011 Libyan civil war:: NATO and the civilian council of Misrata request ground troops to protect the city of Misrata from Gaddafi's forces, after NATO admits it is unable to stop the artillery shelling of Misrata. ](/news/2011/04/19/2011-libyan-civil-war-nato-and-the-civilian-council-of-misrata-request-ground-troops-to-protect-the-city-of-misrata-from-gaddafi-s-forces.md)
 _Context: Libyan Civil War, Misrata, NATO_
 
-### [2011 Syrian protests:. Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md)
+### [2011 Syrian protests:: Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/2011-syrian-protests-thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in.md)
 _Context: Homs, Syria, Syrian uprising_
 
-### [2011 Yemeni protests:. The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continu.md)
+### [2011 Yemeni protests:: The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continu.md)
 _Context: 2011 Yemeni protests, United Nations Security Council, Yemen_
 
-### [2011 Egyptian revolution:. Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-o.md)
+### [2011 Egyptian revolution:: Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-long-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-o.md)
 _Context: 2011 Egyptian revolution, Hosni Mubarak, Omar Suleiman_
 
 ### [U.S. serviceman Bradley Manning is moved by officials to a military prison in Kansas amid increased international concerns about the U.S. military's policy of forcing him to strip naked in his cell and taking away his clothes. ](/news/2011/04/19/u-s-serviceman-bradley-manning-is-moved-by-officials-to-a-military-prison-in-kansas-amid-increased-international-concerns-about-the-u-s-mi.md)

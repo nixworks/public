@@ -21,7 +21,7 @@ _Context: hashtag, tweets_
 ### [German global financial services company Deutsche Bank announces plans to cut 1,900 jobs. ](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.md)
 _Context: Deutsche Bank_
 
-### [2012 northern India power grid failure:. A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-a-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md)
+### [2012 northern India power grid failure:: A second power cut hits northern India and leaves 670 million people without electricity. ](/news/2012/07/31/2012-northern-india-power-grid-failure-a-second-power-cut-hits-northern-india-and-leaves-670-million-people-without-electricity.md)
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 
 ### [United States President Barack Obama announces additional sanctions against Iran for its nuclear program. ](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.md)

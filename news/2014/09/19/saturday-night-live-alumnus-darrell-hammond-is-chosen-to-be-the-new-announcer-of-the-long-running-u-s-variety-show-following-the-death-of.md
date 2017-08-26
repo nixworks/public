@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [United States presidential election, 2016. GOP presidential candidate Donald Trump hosts "Saturday Night Live". According to NBC the show attained a 6.6 household rating, giving "Saturday Night Live" its best overnight ratings since January 2012 when Charles Barkley was the host. ](/news/2015/11/8/united-states-presidential-election-2016-gop-presidential-candidate-donald-trump-hosts-saturday-night-live-according-to-nbc-the-show-at.md) _Context: Saturday Night Live_
+1. [United States presidential election, 2016: GOP presidential candidate Donald Trump hosts "Saturday Night Live". According to NBC the show attained a 6.6 household rating, giving "Saturday Night Live" its best overnight ratings since January 2012 when Charles Barkley was the host. ](/news/2015/11/8/united-states-presidential-election-2016-gop-presidential-candidate-donald-trump-hosts-saturday-night-live-according-to-nbc-the-show-at.md) _Context: Saturday Night Live_

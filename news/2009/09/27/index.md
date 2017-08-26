@@ -12,7 +12,7 @@ Angela Merkel appears to have swept to victory in the German elections, with exi
 ### [ The Socialist Party win the Portuguese legislative election to elect members of the Assembly of the Republic, with 36.6% of the vote. ](/news/2009/09/27/the-socialist-party-win-the-portuguese-legislative-election-to-elect-members-of-the-assembly-of-the-republic-with-36-6-of-the-vote.md)
 With unemployment at its highest level in 20 years, Portugal went to the polls yesterday in an election that could bring greater political uncertainty as the ruling Socialists are expected to win but fall short of an absolute majority.
 
-### [ Second South America-Africa Summit (ASA) on Isla Margarita:. The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md)
+### [ Second South America-Africa Summit (ASA) on Isla Margarita:: The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md)
 South America-Africa summit aims to increase co-operation and trade between continents.
 
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)

@@ -1,6 +1,6 @@
 ## [2010-02-16](/news/2010/02/16/index.md)
 
-### [Assassination of a senior Hamas military commander in Dubai:. Dubai police release the passport photographs of 11 -Europeans- suspected of the murder of Mahmoud al-Mabhouh. ](/news/2010/02/16/assassination-of-a-senior-hamas-military-commander-in-dubai-dubai-police-release-the-passport-photographs-of-11-europeans-suspected.md)
+### [Assassination of a senior Hamas military commander in Dubai:: Dubai police release the passport photographs of 11 -Europeans- suspected of the murder of Mahmoud al-Mabhouh. ](/news/2010/02/16/assassination-of-a-senior-hamas-military-commander-in-dubai-dubai-police-release-the-passport-photographs-of-11-europeans-suspected.md)
 Members of a suspected hit squad blamed for the assassination of a Hamas commander in Dubai used fake British and Irish passports, it has emerged.
 
 ### [Pope Benedict XVI issues a statement after a two-day meeting with all Irish bishops in the Vatican, including labelling paedophilia a "heinous crime", but his nuncio refuses to appear before an inquiry in Dail Eireann. ](/news/2010/02/16/pope-benedict-xvi-issues-a-statement-after-a-two-day-meeting-with-all-irish-bishops-in-the-vatican-including-labelling-paedophilia-a-heino.md)

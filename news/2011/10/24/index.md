@@ -1,9 +1,9 @@
 ## [2011-10-24](/news/2011/10/24/index.md)
 
-### [Kenyan-Somalian military operation:. Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-kenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mi.md)
+### [Kenyan-Somalian military operation:: Kenyan and Somali forces prepare to take the Somali town of Afmadow, defended by Islamist al-Shabaab militiamen. ](/news/2011/10/24/kenyan-somalian-military-operation-kenyan-and-somali-forces-prepare-to-take-the-somali-town-of-afmadow-defended-by-islamist-al-shabaab-mi.md)
 Twin attacks in central Nairobi come two days after the US issued a terrorism alert in the Kenyan capital.
 
-### [Aftermath of the 2011 Libyan civil war:. The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-the-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summa.md)
+### [Aftermath of the 2011 Libyan civil war:: The corpses of 53 pro-Muammar Gaddafi fighters are found in Sirte, all having apparently been summarily executed by NTC troops. ](/news/2011/10/24/aftermath-of-the-2011-libyan-civil-war-the-corpses-of-53-pro-muammar-gaddafi-fighters-are-found-in-sirte-all-having-apparently-been-summa.md)
 The bodies of 53 Gaddafi supporters are found outside a hotel in the city of Sirte after apparently being executed, a rights group says.
 
 ### [The Tokyo Stock Exchange announces that it is asking for more disclosure from the embattled Japanese camera and imaging equipment manufacturer Olympus, which is facing a stock price collapse following the dismissal of its CEO, Michael Woodford. The TSE cannot at this time confirm violations of any listing requirements by Olympus. ](/news/2011/10/24/the-tokyo-stock-exchange-announces-that-it-is-asking-for-more-disclosure-from-the-embattled-japanese-camera-and-imaging-equipment-manufactur.md)

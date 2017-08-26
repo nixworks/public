@@ -1,6 +1,6 @@
 ## [2012-04-17](/news/2012/04/17/index.md)
 
-### [South Sudan-Sudan border conflict:. Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudan-sudan-border-conflict-sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terr.md)
+### [South Sudan-Sudan border conflict:: Sudan continues to bombard a disputed border town seized by South Sudan and claims to have seized territory as clashes spread along the border between the two states. ](/news/2012/04/17/south-sudan-sudan-border-conflict-sudan-continues-to-bombard-a-disputed-border-town-seized-by-south-sudan-and-claims-to-have-seized-terr.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [The Prime Minister of Australia, Julia Gillard, announces a withdrawal of Australian troops fighting the war in Afghanistan by the end of 2013. ](/news/2012/04/17/the-prime-minister-of-australia-julia-gillard-announces-a-withdrawal-of-australian-troops-fighting-the-war-in-afghanistan-by-the-end-of-20.md)

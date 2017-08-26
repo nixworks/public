@@ -1,6 +1,6 @@
 ### [2014-03-2](/news/2014/03/2/index.md)
 
-# 2014 Russian anti-war protests. In Russia, police detained several hundred anti-war protesters in Moscow. 
+# 2014 Russian anti-war protests: In Russia, police detained several hundred anti-war protesters in Moscow. 
 
 
 
@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [2014 Crimean crisis and 2014 Russian anti-war protests. The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/2014-crimean-crisis-and-2014-russian-anti-war-protests-the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000.md) _Context: March of Peace_
+1. [2014 Crimean crisis and 2014 Russian anti-war protests: The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/2014-crimean-crisis-and-2014-russian-anti-war-protests-the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000.md) _Context: March of Peace_

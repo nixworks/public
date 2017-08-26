@@ -1,6 +1,6 @@
 ### [2013-04-23](/news/2013/04/23/index.md)
 
-# War in North-West Pakistan:. Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. 
+# War in North-West Pakistan:: Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. 
 
 
 
@@ -20,4 +20,4 @@
 7. [Former Pakistani President Pervez Musharraf is arrested at his home on charges relating to unlawful detention of judges in 2007. He was present at the court when the arrest warrant was issued on Thursday, but had left before the warrant was served. ](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.md) _Context: Pakistan, Pervez Musharraf, President_
 8. [A Pakistani court issues an arrest warrant for former President Pervez Musharraf in connection with the house arrest of judges in 2007. ](/news/2013/04/18/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-in-connection-with-the-house-arrest-of-judges-in-2007.md) _Context: Pakistan, Pervez Musharraf, President_
 9. [A Pakistani lawyer throws a shoe at the former President Pervez Musharraf at the Sindh High Court, as Musharraf successfully extends his bail on charges of conspiracy to murder and sacking judges. ](/news/2013/03/29/a-pakistani-lawyer-throws-a-shoe-at-the-former-president-pervez-musharraf-at-the-sindh-high-court-as-musharraf-successfully-extends-his-bai.md) _Context: Pakistan, Pervez Musharraf, President_
-10. [War on Terror:. Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _Context: Pakistan, Pervez Musharraf, President_
+10. [War on Terror:: Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md) _Context: Pakistan, Pervez Musharraf, President_

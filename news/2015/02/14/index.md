@@ -1,12 +1,12 @@
 ## [2015-02-14](/news/2015/02/14/index.md)
 
-### [War in Donbass. Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/war-in-donbass-ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses.md)
+### [War in Donbass: Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/war-in-donbass-ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses.md)
 _Context: Petro Poroshenko, Russia, War in Donbass_
 
-### [Internal conflict in Burma. Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/internal-conflict-in-burma-myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens.md)
+### [Internal conflict in Burma: Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/internal-conflict-in-burma-myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens.md)
 _Context: Internal conflict in Burma, Kokang, Kokang offensive, Myanmar_
 
-### [2015 Copenhagen shootings. Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killin.md)
+### [2015 Copenhagen shootings: Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killin.md)
 One person dies after shots are fired at a Copenhagen cafe where a controversial cartoonist was attending a free speech debate.
 
 ### [ Premier Annastacia Palaszczuk is sworn in at Government House in Brisbane after officially winning minority government in the Queensland state election, 2015.](/news/2015/02/14/premier-annastacia-palaszczuk-is-sworn-in-at-government-house-in-brisbane-after-officially-winning-minority-government-in-the-queensland-st.md)
@@ -27,7 +27,7 @@ _Context: Massachusetts, Northeastern United States, blizzard_
 ### [Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. ](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.md)
 _Context: Gujarat, India, swine flu_
 
-### [Yemeni Crisis (2011-present). The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/yemeni-crisis-2011-present-the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-r.md)
+### [Yemeni Crisis (2011-present): The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/yemeni-crisis-2011-present-the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-r.md)
 _Context: United Arab Emirates, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)

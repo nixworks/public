@@ -1,6 +1,6 @@
 ## [2006-08-26](/news/2006/08/26/index.md)
 
-### [ 2006 Israel-Lebanon conflict:. EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md)
+### [ 2006 Israel-Lebanon conflict:: EU officials caution that the peacekeeping force in Lebanon will not disarm Hezbollah. Disarming Hezbollah is the responsibility of the Lebanese government and army. ](/news/2006/08/26/2006-israel-lebanon-conflict-eu-officials-caution-that-the-peacekeeping-force-in-lebanon-will-not-disarm-hezbollah-disarming-hezbollah-i.md)
 Officials cautioned that the peacekeeping force would not be used to disarm Hezbollah. 
 
 ### [ The Andover Inn Hotel in Liverpool was hit by a mystery fire in the early hours which led to 100 guests being evacuated. ](/news/2006/08/26/the-andover-inn-hotel-in-liverpool-was-hit-by-a-mystery-fire-in-the-early-hours-which-led-to-100-guests-being-evacuated.md)

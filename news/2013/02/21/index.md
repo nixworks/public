@@ -1,9 +1,9 @@
 ## [2013-02-21](/news/2013/02/21/index.md)
 
-### [Syrian civil war:. At least 61 people are killed and more than 200 injured following a car bombing near Syria's Baath Party headquarters in Damascus. Three other bombings kill 22 people and injure 50 others in the suburb of Barzeh, most of them government soldiers. These are the deadliest attacks in the Syrian capital since the outbreak of the civil war. ](/news/2013/02/21/syrian-civil-war-at-least-61-people-are-killed-and-more-than-200-injured-following-a-car-bombing-near-syria-s-baath-party-headquarters-in.md)
+### [Syrian civil war:: At least 61 people are killed and more than 200 injured following a car bombing near Syria's Baath Party headquarters in Damascus. Three other bombings kill 22 people and injure 50 others in the suburb of Barzeh, most of them government soldiers. These are the deadliest attacks in the Syrian capital since the outbreak of the civil war. ](/news/2013/02/21/syrian-civil-war-at-least-61-people-are-killed-and-more-than-200-injured-following-a-car-bombing-near-syria-s-baath-party-headquarters-in.md)
 A car bomb killed more than 50 people and wounded 200 in central Damascus on Thursday when it blew up on a busy highway close to ruling Baath Party offices and the Russian Embassy, state media and activists said.
 
-### [2013 Hyderabad blasts:. At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/2013-hyderabad-blasts-at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md)
+### [2013 Hyderabad blasts:: At least 20 people are dead and 54 injured following several bombings in the Indian city of Hyderabad. ](/news/2013/02/21/2013-hyderabad-blasts-at-least-20-people-are-dead-and-54-injured-following-several-bombings-in-the-indian-city-of-hyderabad.md)
 At least 12 people are killed by twin blasts in the southern Indian city of Hyderabad, which PM Manmohan Singh has called a &quot;dastardly attack&quot;.
 
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)

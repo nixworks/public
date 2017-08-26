@@ -1,6 +1,6 @@
 ## [2013-01-28](/news/2013/01/28/index.md)
 
-### [Northern Mali conflict (2012-present):. French troops take over Timbuktu Airport as they enter the city without any resistance from the Islamists. Residents report that the French now control all access to the city. ](/news/2013/01/28/northern-mali-conflict-2012-present-french-troops-take-over-timbuktu-airport-as-they-enter-the-city-without-any-resistance-from-the-is.md)
+### [Northern Mali conflict (2012-present):: French troops take over Timbuktu Airport as they enter the city without any resistance from the Islamists. Residents report that the French now control all access to the city. ](/news/2013/01/28/northern-mali-conflict-2012-present-french-troops-take-over-timbuktu-airport-as-they-enter-the-city-without-any-resistance-from-the-is.md)
 French-led troops in Mali have entered the historic city of Timbuktu, after capturing the airport from militant Islamists, a French army officer says.
 
 ### [Swedish comedian and television host Petra Mede is announced as presenter for the Eurovision Song Contest 2013 in Malmo. ](/news/2013/01/28/swedish-comedian-and-television-host-petra-mede-is-announced-as-presenter-for-the-eurovision-song-contest-2013-in-malmap.md)

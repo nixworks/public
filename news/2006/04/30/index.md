@@ -1,6 +1,6 @@
 ## [2006-04-30](/news/2006/04/30/index.md)
 
-### [ Darfur conflict:. The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md)
+### [ Darfur conflict:: The Sudanese government accepts a peace plan brokered by mediators of the African Union. ](/news/2006/04/30/darfur-conflict-the-sudanese-government-accepts-a-peace-plan-brokered-by-mediators-of-the-african-union.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The rebel group the Justice and Equality Movement refuses to sign on to the proposed peace agreement in its current form. ](/news/2006/04/30/the-rebel-group-the-justice-and-equality-movement-refuses-to-sign-on-to-the-proposed-peace-agreement-in-its-current-form.md)

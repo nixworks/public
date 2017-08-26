@@ -1,6 +1,6 @@
 ## [2012-02-17](/news/2012/02/17/index.md)
 
-### [Arab Spring:. 2011-2012 Syrian uprising:. The Syrian opposition warns that the Syrian army is preparing to "massacre" the neighborhood of Bab Amr, Homs, in a ground assault on the city. The city has been under constant artillery bombardment by the Syrian army for an 11th day in a row. ](/news/2012/02/17/arab-spring-2011-2012-syrian-uprising-the-syrian-opposition-warns-that-the-syrian-army-is-preparing-to-massacre-the-neighborhood-of-ba.md)
+### [Arab Spring:: 2011-2012 Syrian uprising:: The Syrian opposition warns that the Syrian army is preparing to "massacre" the neighborhood of Bab Amr, Homs, in a ground assault on the city. The city has been under constant artillery bombardment by the Syrian army for an 11th day in a row. ](/news/2012/02/17/arab-spring-2011-2012-syrian-uprising-the-syrian-opposition-warns-that-the-syrian-army-is-preparing-to-massacre-the-neighborhood-of-ba.md)
 _Context: 2011-2012 Syrian uprising, Arab Spring, Homs_
 
 ### [Insurgency in the North Caucasus: Dozens are killed and wounded as fighting intensifies between the Russian forces and the local Muslim insurgents in Chechnya and Dagestan. ](/news/2012/02/17/insurgency-in-the-north-caucasus-dozens-are-killed-and-wounded-as-fighting-intensifies-between-the-russian-forces-and-the-local-muslim-insu.md)
@@ -18,7 +18,7 @@ Raid at Khartoum university leads to arrest of 350 students who previously stage
 ### [The office of President of Haiti Michel Martelly claims that his motorcade was attacked by people throwing rocks when he was walking through Port-au-Prince. ](/news/2012/02/17/the-office-of-president-of-haiti-michel-martelly-claims-that-his-motorcade-was-attacked-by-people-throwing-rocks-when-he-was-walking-through.md)
 _Context: Michel Martelly, Port-au-Prince, President of Haiti_
 
-### [Archaeological Museum of Olympia robbery:. Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-art.md)
+### [Archaeological Museum of Olympia robbery:: Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/archaeological-museum-of-olympia-robbery-thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-art.md)
 Armed robbers steal dozens of priceless artefacts from a Greek museum in Olympia dedicated to the history of the ancient Olympic Games.
 
 ### [A US Federal Court judge orders Tampa-based Odyssey Marine Exploration to return treasures from the shipwreck of the "Nuestra Senora de las Mercedes" to Spain. ](/news/2012/02/17/a-us-federal-court-judge-orders-tampa-based-odyssey-marine-exploration-to-return-treasures-from-the-shipwreck-of-the-nuestra-sea-ora-de-las.md)

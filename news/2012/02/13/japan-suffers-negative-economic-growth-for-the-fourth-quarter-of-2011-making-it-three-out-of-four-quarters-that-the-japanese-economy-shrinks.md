@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Economy of Japan. The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: Japan, Japanese economy_
+1. [Economy of Japan: The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. ](/news/2015/11/16/economy-of-japan-the-japanese-economy-goes-into-recession-for-the-second-time-since-the-election-of-prime-minister-shinzo-abe.md) _Context: Japan, Japanese economy_
 2. [The Economy of Japan declined by 0.4% from October to December 2012 indicating that Japan is still in a recession. ](/news/2013/02/14/the-economy-of-japan-declined-by-0-4-from-october-to-december-2012-indicating-that-japan-is-still-in-a-recession.md) _Context: Japan, Japanese economy_
 3. [Moody's credit rating agency downgrades Japan to Aa3 due to weak economic growth prospects and high levels of public debt. ](/news/2011/08/24/moody-s-credit-rating-agency-downgrades-japan-to-aa3-due-to-weak-economic-growth-prospects-and-high-levels-of-public-debt.md) _Context: Japan, economic growth_
 4. [Japan's economy shrinks by 0.3% in the April-June quarter confirming the country is in a recession caused in part by the 2011 Tohoku earthquake and tsunami and subsequent Fukushima Daiichi nuclear disaster. ](/news/2011/08/15/japan-s-economy-shrinks-by-0-3-in-the-april-june-quarter-confirming-the-country-is-in-a-recession-caused-in-part-by-the-2011-tahoku-earthq.md) _Context: Japan, Japanese economy_
@@ -20,4 +20,4 @@
 7. [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md) _Context: Japan, Japanese economy_
 8. [ Japan reports its first annual trade deficit since 1981. ](/news/2009/04/22/japan-reports-its-first-annual-trade-deficit-since-1981.md) _Context: Japan, Japanese economy_
 9. [ Japan's economy posts a record deficit of 172.8 billion yen. ](/news/2009/03/9/japan-s-economy-posts-a-record-deficit-of-172-8-billion-yen.md) _Context: Japan, Japanese economy_
-10. [Tropical Storm Nanmadol (2017). The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/tropical-storm-nanmadol-2017-the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md) _Context: Japan_
+10. [Tropical Storm Nanmadol (2017): The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/tropical-storm-nanmadol-2017-the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md) _Context: Japan_

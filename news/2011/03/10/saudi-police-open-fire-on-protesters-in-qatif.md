@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Terrorism in Saudi Arabia. A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/terrorism-in-saudi-arabia-a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _Context: policeman_
+1. [ Terrorism in Saudi Arabia: A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/terrorism-in-saudi-arabia-a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md) _Context: policeman_
 2. [A suicide bomber targeting Shiites at a mosque in Qatif, Saudi Arabia, has killed 19 and injured 28, per Red Crescent authorities. ](/news/2015/05/22/a-suicide-bomber-targeting-shiites-at-a-mosque-in-qatif-saudi-arabia-has-killed-19-and-injured-28-per-red-crescent-authorities.md) _Context: Qatif_
 3. [The Saudi Ministry of Interior reports that a prominent Shi'ite Muslim cleric, Sheikh Nimr al Nimr, is arrested in the Qatif region of the Eastern Province after being shot in the leg by police in an exchange of fire. ](/news/2012/07/8/the-saudi-ministry-of-interior-reports-that-a-prominent-shi-ite-muslim-cleric-sheikh-nimr-al-nimr-is-arrested-in-the-qatif-region-of-the-e.md) _Context: Qatif_
 4. [Saudi security forces arrest a number of protesters in Qatif. ](/news/2012/07/27/saudi-security-forces-arrest-a-number-of-protesters-in-qatif.md) _Context: Qatif_

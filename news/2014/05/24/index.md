@@ -1,12 +1,12 @@
 ## [2014-05-24](/news/2014/05/24/index.md)
 
-### [Al-Qaeda insurgency in Yemen:. At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-at-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md)
+### [Al-Qaeda insurgency in Yemen:: At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. ](/news/2014/05/24/al-qaeda-insurgency-in-yemen-at-least-27-people-are-killed-in-an-al-qaeda-raid-on-the-town-of-seyoun-in-hadramout-province.md)
 YEMEN-MILITANTS/RAID (UPDATE 1):UPDATE 1-At least 27 dead in overnight raid on Yemeni city
 
-### [War in Somalia (2009-present):. An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009-present-an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-pol.md)
+### [War in Somalia (2009-present):: An al-Shabaab-led assault at the Parliament of Somalia in Mogadishu leaves at least 10 dead, including police and militants. ](/news/2014/05/24/war-in-somalia-2009-present-an-al-shabaab-led-assault-at-the-parliament-of-somalia-in-mogadishu-leaves-at-least-10-dead-including-pol.md)
 At least 10 people are reported killed as al-Shabab militants attack parliament in the Somali capital Mogadishu.
 
-### [Islamist insurgency in Nigeria:. Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md)
+### [Islamist insurgency in Nigeria:: Boko Haram militants rampage through three villages in northern Nigeria killing 28 people. ](/news/2014/05/24/islamist-insurgency-in-nigeria-boko-haram-militants-rampage-through-three-villages-in-northern-nigeria-killing-28-people.md)
 Suspected Islamist Boko Haram gunmen rampaged through three villages in northern Nigeria, killing 28 people and burning houses to the ground in a pattern of violence that has become almost a daily occurrence, according to police and witnesses.
 
 ### [Turkish film "Winter Sleep" directed by Nuri Bilge Ceylan wins the Palme d'Or at the 2014 Cannes Film Festival. ](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.md)
@@ -27,19 +27,19 @@ A gunman opens fire at the Jewish museum in the Belgian capital Brussels, killin
 ### [2014 Isla Vista killings: The suspected gunman in the May 23 spree killing in Santa Barbara, California, is named as Elliot Rodger. ](/news/2014/05/24/2014-isla-vista-killings-the-suspected-gunman-in-the-may-23-spree-killing-in-santa-barbara-california-is-named-as-elliot-rodger.md)
 _Context: 2014 Isla Vista killings, Santa Barbara, California, spree killing_
 
-### [2014 Thai coup d'etat:. The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-thai-military-arrests-35-more-individuals-including-prominent-academics.md)
+### [2014 Thai coup d'etat:: The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-thai-military-arrests-35-more-individuals-including-prominent-academics.md)
 _Context: military coup_
 
-### [European Parliament election:. Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvi.md)
+### [European Parliament election:: Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. ](/news/2014/05/24/european-parliament-election-voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-latvi.md)
 Voters in two European Union countries, the Czech Republic and Ireland, began voting on May 23 in the 2014 European Parliament elections. Voting in the Czech Republic continues on May 24, when Latv…
 
 ### [Jacob Zuma is sworn in for a second term as President of South Africa following his recent election victory. ](/news/2014/05/24/jacob-zuma-is-sworn-in-for-a-second-term-as-president-of-south-africa-following-his-recent-election-victory.md)
 _Context: Jacob Zuma, President, election_
 
-### [Malawian general election:. The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md)
+### [Malawian general election:: The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md)
 _Context: Joyce Banda, Malawian general election, 2014, President of Malawi_
 
-### [2014 Thai coup d'etat:. The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-military-leaders-announce-the-dissolution-of-the-thai-senate.md)
+### [2014 Thai coup d'etat:: The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/2014-thai-coup-d-a-c-tat-the-military-leaders-announce-the-dissolution-of-the-thai-senate.md)
 Military says it is assuming all political power, a day after arresting former prime minister Yingluck Shinawatra.
 
 ### [North America experiences a meteor shower. ](/news/2014/05/24/north-america-experiences-a-meteor-shower.md)

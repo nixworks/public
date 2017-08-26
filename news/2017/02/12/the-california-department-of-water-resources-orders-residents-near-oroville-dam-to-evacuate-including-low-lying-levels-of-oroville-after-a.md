@@ -11,4 +11,4 @@ Officials in northern California ordered residents near the Oroville Dam to evac
 
 ### Related:
 
-1. [2017 Oroville Dam crisis. Thousands of people are urged to evacuate in and around the vicinity of Yuba City due to the impending failure of an emergency spillway at Oroville Dam in Northern California. 188,000 people were reported to be evacuated. ](/news/2017/02/13/2017-oroville-dam-crisis-thousands-of-people-are-urged-to-evacuate-in-and-around-the-vicinity-of-yuba-city-due-to-the-impending-failure-of.md) _Context: Oroville Dam_
+1. [2017 Oroville Dam crisis: Thousands of people are urged to evacuate in and around the vicinity of Yuba City due to the impending failure of an emergency spillway at Oroville Dam in Northern California. 188,000 people were reported to be evacuated. ](/news/2017/02/13/2017-oroville-dam-crisis-thousands-of-people-are-urged-to-evacuate-in-and-around-the-vicinity-of-yuba-city-due-to-the-impending-failure-of.md) _Context: Oroville Dam_

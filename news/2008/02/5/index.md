@@ -1,6 +1,6 @@
 ## [2008-02-5](/news/2008/02/5/index.md)
 
-### [ United States presidential election, 2008:. Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md)
+### [ United States presidential election, 2008:: Voters in 24 states go to the polls to determine presidential nominees for the Democratic and Republican parties. ](/news/2008/02/5/united-states-presidential-election-2008-voters-in-24-states-go-to-the-polls-to-determine-presidential-nominees-for-the-democratic-and-r.md)
 Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a victorythat could help him stay a contender in the Republicannominating race, U.S. media projected.
 
 ### [ The Red Cross estimates that hundreds of civilians have been killed in the Battle of N'Djamena in Chad. ](/news/2008/02/5/the-red-cross-estimates-that-hundreds-of-civilians-have-been-killed-in-the-battle-of-n-djamena-in-chad.md)

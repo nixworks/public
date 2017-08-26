@@ -24,7 +24,7 @@ _Context: American Idol, Scotty McCreery, tenth season_
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
-### [Grimsvotn eruption:. Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-e.md)
+### [Grimsvotn eruption:: Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-e.md)
 _Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
 
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)
@@ -37,7 +37,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disas
 A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday, killing all on board. 3 more persons were killed on the ground. 
 
 ### [Barack Obama, the President of the United States, addresses the Parliament of the United Kingdom. ](/news/2011/05/25/barack-obama-the-president-of-the-united-states-addresses-the-parliament-of-the-united-kingdom.md)
-_Context: Barack Obama, Parliament, president_
+_Context: Barack Obama, Parliament, President_
 
 ### [Christine Lagarde, the French Minister for Finance, announces her candidacy to be head of the International Monetary Fund. ](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.md)
 Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance Minister Christine Lagarde of France has become a top candidate to lead the International Monetary Fund.

@@ -21,7 +21,7 @@ _Context: Hugo Chvez, President, Sidetur, Sivensa_
 ### [The Sony BMG CD copy protection scandal is triggered after Mark Russinovich publishes details of Sony's rootkit.](/news/2010/10/31/the-sony-bmg-cd-copy-protection-scandal-is-triggered-after-mark-russinovich-publishes-details-of-sony-s-rootkit.md)
 _Context: Mark Russinovich, Sony BMG CD copy protection scandal, rootkit_
 
-### [2010 Atlantic hurricane season:. The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later.md)
+### [2010 Atlantic hurricane season:: The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later.md)
 _Context: 2010 Atlantic hurricane season, Haiti cholera outbreak, Tropical Storm Tomas_
 
 ### [The death toll from the Sumatra tsunami reaches 435 with 110 people missing and feared dead. ](/news/2010/10/31/the-death-toll-from-the-sumatra-tsunami-reaches-435-with-110-people-missing-and-feared-dead.md)
@@ -46,7 +46,7 @@ _Context: Guantanamo Bay, Guantanamo military commission, Omar Khadr, United Sta
 Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x2...
 
 ### [Voters in Brazil go to the polls for the second round of the Brazilian presidential election between Dilma Rousseff and Jos Serra. Rousseff won 55% of the vote and will become the first female President of Brazil. ](/news/2010/10/31/voters-in-brazil-go-to-the-polls-for-the-second-round-of-the-brazilian-presidential-election-between-dilma-rousseff-and-jose-serra-rousseff.md)
-_Context: Brazil, Brazilian President, Brazilian presidential election, Dilma Rousseff, Jos Serra_
+_Context: Brazil, Brazilian presidential election, Dilma Rousseff, Jos Serra, President_
 
 ### [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md)
 _Context: 2010 presidential election, Ivory Coast_

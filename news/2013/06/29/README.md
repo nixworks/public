@@ -6,7 +6,7 @@ _Context: Krong Pinang District, Royal Thai Army, Yala, soldiers are killed, sou
 ### [One policeman is killed and 14 are wounded in a clash with the North Caucasian rebels in Chechnya, Russia. ](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.md)
 Rebels have killed a Russian policeman and injured 14 others in Chechnya, police said on Saturday, a rare clash in the now mostly calm North Caucasus republic which lies near to the venue for the 2014 Winter Olympics.
 
-### [Syrian civil war:. Three German Gruenhelme e.V. aid workers have been missing since May 19 in the town of Harem in northern Syria and are believed to have been kidnapped. ](/news/2013/06/29/syrian-civil-war-three-german-gruenhelme-e-v-aid-workers-have-been-missing-since-may-19-in-the-town-of-harem-in-northern-syria-and-are-be.md)
+### [Syrian civil war:: Three German Gruenhelme e.V. aid workers have been missing since May 19 in the town of Harem in northern Syria and are believed to have been kidnapped. ](/news/2013/06/29/syrian-civil-war-three-german-gruenhelme-e-v-aid-workers-have-been-missing-since-may-19-in-the-town-of-harem-in-northern-syria-and-are-be.md)
 Troops loyal to Damascus regime attempt to recapture rebel-held area at center of two year conflict.
 
 ### [The Australian Dollar falls to its lowest level against the US Dollar since 2010. ](/news/2013/06/29/the-australian-dollar-falls-to-its-lowest-level-against-the-us-dollar-since-2010.md)

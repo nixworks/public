@@ -1,9 +1,9 @@
 ## [2011-01-14](/news/2011/01/14/index.md)
 
-### [2010-2011 Tunisian protests:. Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md)
+### [2010-2011 Tunisian protests:: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md)
 Thousands of demonstrators stage an unprecedented protest in the Tunisian capital, calling on President Zine al-Abidine Ben Ali to quit immediately.
 
-### [Mexican Drug War:. 14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md)
+### [Mexican Drug War:: 14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md)
 Twelve suspected gang members and two soldiers have been killed in a shootout between the security forces and a drug gang in Veracruz, officials say.
 
 ### [At least 10 people arrested in clashes between police and protesters in Yemen. ](/news/2011/01/14/at-least-10-people-arrested-in-clashes-between-police-and-protesters-in-yemen.md)
@@ -15,7 +15,7 @@ Pirates operating off the Somali coast kidnap six crew from a Danish ship though
 ### [Israeli riot police and Palestinian youths clash in the East Jerusalem neighbourhood of Silwan. ](/news/2011/01/14/israeli-riot-police-and-palestinian-youths-clash-in-the-east-jerusalem-neighbourhood-of-silwan.md)
 Violence linked to influx of Jewish settlers into Silwan in recent years, angering its 60,000 Palestinian residents.
 
-### [2011 Tucson shooting:. American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-american-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-infla.md)
+### [2011 Tucson shooting:: American politician Sarah Palin uses the term "blood libel" to describe those who criticized her for the use of inflammatory rhetoric, leading to an uproar. ](/news/2011/01/14/2011-tucson-shooting-american-politician-sarah-palin-uses-the-term-blood-libel-to-describe-those-who-criticized-her-for-the-use-of-infla.md)
 Sarah Palin was straining to look presidential. With the Stars and Stripes at her side, the former Governor of Alaska read a scripted address in an effort to rebut persistent claims that she was guilty by association over the deaths of six people and the wounding of a further 13, including the Democ...
 
 ### [The death toll due to the political crisis in the Ivory Coast reaches 247 since the November 28th election.](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.md)
@@ -45,10 +45,10 @@ _Context: 2008-2009 Gaza War, Amnesty International, Israel, Watchkeeper WK450_
 ### [More than 100 pilgrims are killed in an evening stampede at Sabarimala. ](/news/2011/01/14/more-than-100-pilgrims-are-killed-in-an-evening-stampede-at-sabarimala.md)
 A stampede of pilgrims returning from one of India&#039;s most popular Hindu festivals has killed more than 100 people in the southern state of Kerala.
 
-### [January 2011 Rio de Janeiro floods and mudslides:. The disaster is declared Brazil's worst ever as the death toll exceeds 500, with additional people missing and more fatalities expected. ](/news/2011/01/14/january-2011-rio-de-janeiro-floods-and-mudslides-the-disaster-is-declared-brazil-s-worst-ever-as-the-death-toll-exceeds-500-with-addition.md)
+### [January 2011 Rio de Janeiro floods and mudslides:: The disaster is declared Brazil's worst ever as the death toll exceeds 500, with additional people missing and more fatalities expected. ](/news/2011/01/14/january-2011-rio-de-janeiro-floods-and-mudslides-the-disaster-is-declared-brazil-s-worst-ever-as-the-death-toll-exceeds-500-with-addition.md)
 Authorities struggle to cope with the aftermath of floods and landslides that have killed at least 626 people.
 
-### [Australian floods:. Brisbane cleans its mud and debris which was left behind during recent flooding there. ](/news/2011/01/14/australian-floods-brisbane-cleans-its-mud-and-debris-which-was-left-behind-during-recent-flooding-there.md)
+### [Australian floods:: Brisbane cleans its mud and debris which was left behind during recent flooding there. ](/news/2011/01/14/australian-floods-brisbane-cleans-its-mud-and-debris-which-was-left-behind-during-recent-flooding-there.md)
 _Context: Brisbane, floods_
 
 ### [Heavy rains hamper rescue efforts in Sri Lanka following flooding and mudslides that have killed at least 27 people. ](/news/2011/01/14/heavy-rains-hamper-rescue-efforts-in-sri-lanka-following-flooding-and-mudslides-that-have-killed-at-least-27-people.md)

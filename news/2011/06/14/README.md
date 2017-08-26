@@ -1,9 +1,9 @@
 ## [2011-06-14](/news/2011/06/14/index.md)
 
-### [2011 Syrian uprising:. Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-security-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md)
+### [2011 Syrian uprising:: Security forces widen an operation in the north of the country as part of a crackdown on protests. ](/news/2011/06/14/2011-syrian-uprising-security-forces-widen-an-operation-in-the-north-of-the-country-as-part-of-a-crackdown-on-protests.md)
 Security forces said to be pushing towards northern town of Maarat al-Numaan as new videos show army unit defecting.
 
-### [Iraq War:. "Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md)
+### [Iraq War:: "Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md)
 _Context: Abu Ghraib, CIA, Iraq, Iraq War, Time, grand jury, torture, war crime_
 
 ### [Canada recognises the rebel National Transitional Council of Libya as the country's legitimate government with the Canadian House of Commons voting to extend its mission in Libya by three and a half months. ](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.md)
@@ -33,7 +33,7 @@ _Context: Kenya, Nairobi_
 ### [The first child dies during the 2011 E. coli O104:H4 outbreak in Germany with a total of 36 deaths in Germany and one in Sweden. ](/news/2011/06/14/the-first-child-dies-during-the-2011-e-coli-o104-h4-outbreak-in-germany-with-a-total-of-36-deaths-in-germany-and-one-in-sweden.md)
 _Context: E. coli blamed for 46 deaths_
 
-### [Arizona fires. Small communities near the US town of Sierra Vista, Arizona are evacuated due to a wildfire that started in Coronado National Memorial. ](/news/2011/06/14/arizona-fires-small-communities-near-the-us-town-of-sierra-vista-arizona-are-evacuated-due-to-a-wildfire-that-started-in-coronado-national.md)
+### [Arizona fires: Small communities near the US town of Sierra Vista, Arizona are evacuated due to a wildfire that started in Coronado National Memorial. ](/news/2011/06/14/arizona-fires-small-communities-near-the-us-town-of-sierra-vista-arizona-are-evacuated-due-to-a-wildfire-that-started-in-coronado-national.md)
 _Context: Coronado National Memorial, Sierra Vista, Arizona_
 
 ### [The United Nations declares Nepal free of land mine fields after the last remaining land mine is destroyed. ](/news/2011/06/14/the-united-nations-declares-nepal-free-of-land-mine-fields-after-the-last-remaining-land-mine-is-destroyed.md)

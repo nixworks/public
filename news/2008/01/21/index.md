@@ -9,7 +9,7 @@ _Context: India, Israel, PSLV-C38, TecSAR, spy satellite_
 ### [ President of Venezuela Hugo Chvez disallows the exportation of agricultural goods and promises to nationalize any farm that does. ](/news/2008/01/21/president-of-venezuela-hugo-chavez-disallows-the-exportation-of-agricultural-goods-and-promises-to-nationalize-any-farm-that-does.md)
 _Context: Hugo Chvez, President, exportation, nationalises_
 
-### [ 2008 stock market downturn:. Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mort.md)
+### [ 2008 stock market downturn:: Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mort.md)
 _Context: 2007 subprime mortgage financial crisis, 2008 stock market downturn, recession, stock market_
 
 ### [ A gas explosion at an illegal mine in Shanxi, China kills at least 20. ](/news/2008/01/21/a-gas-explosion-at-an-illegal-mine-in-shanxi-china-kills-at-least-20.md)

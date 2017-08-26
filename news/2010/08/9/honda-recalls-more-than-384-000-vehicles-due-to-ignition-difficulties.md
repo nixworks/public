@@ -15,7 +15,7 @@ Japanese car maker Honda is recalling more than 384,000 vehicles in the US becau
 
 ### Related:
 
-1. [Takata Defective airbag recalls (2013-present). Nissan Motor Co. says it will not use airbag inflators made by Japanese auto parts supplier Takata Corp. in its cars, joining Toyota Motor Corp. and Honda Motor Co. ](/news/2015/11/7/takata-defective-airbag-recalls-2013-present-nissan-motor-co-says-it-will-not-use-airbag-inflators-made-by-japanese-auto-parts-supplier.md) _Context: Honda Motor Co._
+1. [Takata Defective airbag recalls (2013-present): Nissan Motor Co. says it will not use airbag inflators made by Japanese auto parts supplier Takata Corp. in its cars, joining Toyota Motor Corp. and Honda Motor Co. ](/news/2015/11/7/takata-defective-airbag-recalls-2013-present-nissan-motor-co-says-it-will-not-use-airbag-inflators-made-by-japanese-auto-parts-supplier.md) _Context: Honda Motor Co._
 2. [The Obama administration fines Honda $70 million for failing to report deaths and injury complaints from 2003 to 2014. ](/news/2015/01/8/the-obama-administration-fines-honda-70-million-for-failing-to-report-deaths-and-injury-complaints-from-2003-to-2014.md) _Context: Honda Motor Co._
 3. [Japanese automakers Honda, Nissan, Toyota and Mazda recall around 3.4 million cars due to airbag defects. ](/news/2013/04/11/japanese-automakers-honda-nissan-toyota-and-mazda-recall-around-3-4-million-cars-due-to-airbag-defects.md) _Context: Honda Motor Co._
 4. [Honda recalls nearly 700,000 vehicles in the Fit, Freed, and City model range due to a defective spring. ](/news/2011/02/17/honda-recalls-nearly-700-000-vehicles-in-the-fit-freed-and-city-model-range-due-to-a-defective-spring.md) _Context: Honda Motor Co._

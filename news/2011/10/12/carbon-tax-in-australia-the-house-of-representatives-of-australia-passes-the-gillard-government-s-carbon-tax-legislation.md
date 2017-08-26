@@ -1,6 +1,6 @@
 ### [2011-10-12](/news/2011/10/12/index.md)
 
-# Carbon tax in Australia:. The House of Representatives of Australia passes the Gillard government's carbon tax legislation. 
+# Carbon tax in Australia:: The House of Representatives of Australia passes the Gillard government's carbon tax legislation. 
 
 Australia&#039;s carbon tax is set to become law after the lower house of parliament passed the government&#039;s historic but controversial set of bills to establish the world’s most broadly based carbon pricing scheme.
 

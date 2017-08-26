@@ -1,6 +1,6 @@
 ## [2015-04-16](/news/2015/04/16/index.md)
 
-### [Yemeni Civil War. Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/yemeni-civil-war-al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-y.md)
+### [Yemeni Civil War: Al-Qaeda in the Arabian Peninsula captures Riyan Airport, seaport and oil terminal in the city of Al Mukalla in southern Yemen. ](/news/2015/04/16/yemeni-civil-war-al-qaeda-in-the-arabian-peninsula-captures-riyan-airport-seaport-and-oil-terminal-in-the-city-of-al-mukalla-in-southern-y.md)
 Military officials and residents say al Qaeda has taken control of a major airport, a sea port and an oil terminal in southern Yemen after brief clashes with troops.
 
 ### [WikiLeaks publishes 30,287 documents and 173,132 emails resulting from the Sony Pictures Entertainment hack believed to be undertaken by North Korea. ](/news/2015/04/16/wikileaks-publishes-30-287-documents-and-173-132-emails-resulting-from-the-sony-pictures-entertainment-hack-believed-to-be-undertaken-by-nor.md)

@@ -1,6 +1,6 @@
 ### [2017-01-13](/news/2017/01/13/index.md)
 
-# January 2017 European cold wave. A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. 
+# January 2017 European cold wave: A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. 
 
 
 
@@ -11,11 +11,11 @@
 
 ### Related:
 
-1. [European credit ratings:. Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/european-credit-ratings-fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-inc.md) _Context: Europe, France_
+1. [European credit ratings:: Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/european-credit-ratings-fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-inc.md) _Context: Europe, France_
 2. [Four European nations (the United Kingdom, France, Germany and Portugal) circulate a draft United Nations Security Council resolution condemning the Government of Syria for its recent crackdown on protesters. ](/news/2011/08/2/four-european-nations-the-united-kingdom-france-germany-and-portugal-circulate-a-draft-united-nations-security-council-resolution-condem.md) _Context: Europe, France_
 3. [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md) _Context: Europe, France_
 4. [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md) _Context: Europe, France_
-5. [ Presidency of the European Council:. Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md) _Context: Europe, France_
+5. [ Presidency of the European Council:: Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md) _Context: Europe, France_
 6. [ The French and German economies rebound, helping push the Eurozone to the brink of economic recovery in the second quarter, delivering a further signal that the worst of the global crisis may be coming to an end in Europe. ](/news/2009/08/13/the-french-and-german-economies-rebound-helping-push-the-eurozone-to-the-brink-of-economic-recovery-in-the-second-quarter-delivering-a-fu.md) _Context: Europe, France_
 7. [ A European windstorm across France and Spain kills 15 people with hurricane-force winds. ](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.md) _Context: Europe, France_
 8. [ European energy companies Gaz de France and Suez agree to merge in what would be a privatisation of the French state-owned Gaz de France. ](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.md) _Context: Europe, France_

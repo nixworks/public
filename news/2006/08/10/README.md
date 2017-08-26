@@ -1,6 +1,6 @@
 ## [2006-08-10](/news/2006/08/10/index.md)
 
-### [ 2006 transatlantic aircraft plot:. A terrorist plot to blow up planes in mid-flight from the UK to the US has been disrupted, Scotland Yard has said. ](/news/2006/08/10/2006-transatlantic-aircraft-plot-a-terrorist-plot-to-blow-up-planes-in-mid-flight-from-the-uk-to-the-us-has-been-disrupted-scotland-yard.md)
+### [ 2006 transatlantic aircraft plot:: A terrorist plot to blow up planes in mid-flight from the UK to the US has been disrupted, Scotland Yard has said. ](/news/2006/08/10/2006-transatlantic-aircraft-plot-a-terrorist-plot-to-blow-up-planes-in-mid-flight-from-the-uk-to-the-us-has-been-disrupted-scotland-yard.md)
 _Context: 2006 transatlantic aircraft plot, Britain, Scotland Yard, United States_
 
 ### [ Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. ](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.md)

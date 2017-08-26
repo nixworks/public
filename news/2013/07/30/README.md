@@ -1,9 +1,9 @@
 ## [2013-07-30](/news/2013/07/30/index.md)
 
-### [Nigerian Sharia conflict:. 28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md)
+### [Nigerian Sharia conflict:: 28 people are killed in a series of explosions targeting bars in the northern Nigerian city of Kano. ](/news/2013/07/30/nigerian-sharia-conflict-28-people-are-killed-in-a-series-of-explosions-targeting-bars-in-the-northern-nigerian-city-of-kano.md)
 At least 28 are people are killed in a series of explosions that targeted bars in the northern Nigerian city of Kano, a hospital source tells the BBC.
 
-### [Syrian civil war:. 17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md)
+### [Syrian civil war:: 17 people are killed and 26 wounded in a mortar attack in the government held district of Homs and the town of Dablan ](/news/2013/07/30/syrian-civil-war-17-people-are-killed-and-26-wounded-in-a-mortar-attack-in-the-government-held-district-of-homs-and-the-town-of-dablan.md)
 Syrian opposition and government forces battle for Homs; Kurdish leader killed
 
 ### [134 people are reported to have been killed in a new wave of violence between two rival tribes in Sudan's Darfur region. ](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.md)

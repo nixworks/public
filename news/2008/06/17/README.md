@@ -12,7 +12,7 @@ The Boston Celtics have beaten the LA Lakers 131-92 in game six of the NBA final
 ### [ President Nicolas Sarkozy announces that France intends to return to the military structure of NATO for the first time since Charles de Gaulle led it out of the organisation in 1966. ](/news/2008/06/17/president-nicolas-sarkozy-announces-that-france-intends-to-return-to-the-military-structure-of-nato-for-the-first-time-since-charles-de-gau.md)
 _Context: 1966, Charles de Gaulle, France, NATO, Nicolas Sarkozy, President of France_
 
-### [ Iraq:. A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
+### [ Iraq:: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
 _Context: Haditha killings, Iraq, Marines, military judge_
 
 ### [ In its annual report, the UNHCR says the number of refugees in the world rose to 11.4 million in 2007 from 9.9m in 2006. ](/news/2008/06/17/in-its-annual-report-the-unhcr-says-the-number-of-refugees-in-the-world-rose-to-11-4-million-in-2007-from-9-9m-in-2006.md)

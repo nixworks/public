@@ -1,6 +1,6 @@
 ### [2011-02-7](/news/2011/02/7/index.md)
 
-# Cambodian-Thai border stand-off. Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. 
+# Cambodian-Thai border stand-off: Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. 
 
 
 

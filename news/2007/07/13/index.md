@@ -15,7 +15,7 @@ The Philippines Government says a deal to expand intelligence sharing with Indon
 ### [ Iran and the International Atomic Energy Agency reach agreement on resolving the disputes over the Iranian nuclear program. ](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.md)
 _Context: International Atomic Energy Agency, Iran_
 
-### [ Typhoon Man-yi:. The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
+### [ Typhoon Man-yi:: The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
 _Context: Luzon, Philippines, Typhoon Man-yi_
 
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)

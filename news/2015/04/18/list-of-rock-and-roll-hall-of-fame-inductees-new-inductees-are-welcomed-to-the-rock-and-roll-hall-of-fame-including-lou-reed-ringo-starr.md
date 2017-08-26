@@ -1,6 +1,6 @@
 ### [2015-04-18](/news/2015/04/18/index.md)
 
-# List of Rock and Roll Hall of Fame inductees. New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. 
+# List of Rock and Roll Hall of Fame inductees: New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. 
 
 The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr speaks at his...
 

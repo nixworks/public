@@ -1,9 +1,9 @@
 ## [2015-02-12](/news/2015/02/12/index.md)
 
-### [War in Donbass. The President of Russia Vladimir Putin announces the third peace agreement. ](/news/2015/02/12/war-in-donbass-the-president-of-russia-vladimir-putin-announces-the-third-peace-agreement.md)
+### [War in Donbass: The President of Russia Vladimir Putin announces the third peace agreement. ](/news/2015/02/12/war-in-donbass-the-president-of-russia-vladimir-putin-announces-the-third-peace-agreement.md)
 A breakthrough in Minsk as Putin announces a ceasefire deal following marathon talks to end the fighting in east Ukraine. The Russian president said
 
-### [Yemeni Civil War. Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/yemeni-civil-war-fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md)
+### [Yemeni Civil War: Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/yemeni-civil-war-fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md)
 _Context: Ansar al-Sharia, Yemen, Yemeni Civil War, al-Qaeda_
 
 ### [Reporters without Borders's annual review finds "(t)here was a drastic decline in freedom of information in 2014" because of information wars and action by non-state groups. [http://en.rsf.org/world-press-freedom-index-2015-12-02-2015,47573.html (Reporters without Borders)] [http://www.dailystar.com.lb/News/World/2015/Feb-13/287288-press-freedom-sees-worldwide-drastic-decline.ashx ("The Daily Star" (Lebanon))]](/news/2015/02/12/reporters-without-borders-s-annual-review-finds-t-here-was-a-drastic-decline-in-freedom-of-information-in-2014-because-of-information-war.md)

@@ -3,7 +3,7 @@
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
 _Context: Afghanistan's, Garmser, Helmand River, Lashkar Gah_
 
-### [Battle of Mogadishu (2010):. At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md)
+### [Battle of Mogadishu (2010):: At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md)
 _Context: African Union, Battle of Mogadishu (2010), Islamist, Mogadishu, Somalia, al-Shabaab militants_
 
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
@@ -48,7 +48,7 @@ _Context: Andhra Pradesh, Elamanchili, India, Nakapalli, Payakaraopeta, Rambilli
 ### [A large crater appears in the early hours in the central German town of Schmalkalden. ](/news/2010/11/1/a-large-crater-appears-in-the-early-hours-in-the-central-german-town-of-schmalkalden.md)
 _Context: Schmalkalden_
 
-### [Disputed islands:. The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-k.md)
+### [Disputed islands:: The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-k.md)
 _Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian President Vladimir Putin, rival territorial claims_
 
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)

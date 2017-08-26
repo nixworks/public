@@ -1,9 +1,9 @@
 ## [2016-09-4](/news/2016/09/4/index.md)
 
-### [2016 Davao City bombing. In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/2016-davao-city-bombing-in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states.md)
+### [2016 Davao City bombing: In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/2016-davao-city-bombing-in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states.md)
 At least 5 countries issue travel warnings after the Davao City explosion that killed 14 and left more than 60 others wounded
 
-### [Syrian Civil War. Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-civil-war-syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md)
+### [Syrian Civil War: Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-civil-war-syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md)
 _Context: Aleppo, Syrian Civil War, Syrian Government, advance around and encircle_
 
 ### [Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. ](/news/2016/09/4/mother-teresa-known-for-working-with-the-desperately-poor-is-canonized-in-a-ceremony-at-the-vatican.md)
@@ -12,22 +12,22 @@ Mother Teresa, revered for her work with the poor in India, is proclaimed a sain
 ### [A 6.0 magnitude earthquake strikes Agusan del Sur province in Mindanao island. ](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.md)
 _Context: Agusan del Sur, Mindanao, earthquake_
 
-### [September 2016 Afghanistan road crash. At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/september-2016-afghanistan-road-crash-at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zab.md)
+### [September 2016 Afghanistan road crash: At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/september-2016-afghanistan-road-crash-at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zab.md)
 At least 35 people were killed and 25 others wounded after a passenger bus crashed with a fuel tanke
 
-### [2016 Pacific typhoon season. The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. ](/news/2016/09/4/2016-pacific-typhoon-season-the-death-toll-in-japan-from-typhoon-lionrock-rises-to-17-with-several-people-still-missing-typhoon-namtheun-i.md)
+### [2016 Pacific typhoon season: The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. ](/news/2016/09/4/2016-pacific-typhoon-season-the-death-toll-in-japan-from-typhoon-lionrock-rises-to-17-with-several-people-still-missing-typhoon-namtheun-i.md)
 TOKYO (AFP) - The death toll from Typhoon Lionrock has risen to 17 in Japan, with several people still missing, and officials said on Sunday (Sept 4) a new storm threatens the country&#039;s south-west.. Read more at straitstimes.com.
 
-### [2015-16 Zika virus epidemic. The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/2015-16-zika-virus-epidemic-the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md)
+### [2015-16 Zika virus epidemic: The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/2015-16-zika-virus-epidemic-the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md)
 The Zika virus behind an outbreak in Singapore was not imported from South America, Singapore’s Ministry of Health said in a statement Saturday.
 
-### [United States presidential election, 2016. The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/united-states-presidential-election-2016-the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson.md)
+### [United States presidential election, 2016: The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/united-states-presidential-election-2016-the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson.md)
 _Context: 2016 U.S. presidential election, Gary Johnson, Libertarian, Richmond Times-Dispatch, Virginia_
 
-### [Mecklenburg-Vorpommern state election, 2016. Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/mecklenburg-vorpommern-state-election-2016-voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-el.md)
+### [Mecklenburg-Vorpommern state election, 2016: Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/mecklenburg-vorpommern-state-election-2016-voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-el.md)
 _Context: Alternative for Germany, Germany, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016_
 
-### [Hong Kong legislative election, 2016. Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/hong-kong-legislative-election-2016-voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since.md)
+### [Hong Kong legislative election, 2016: Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/hong-kong-legislative-election-2016-voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since.md)
 _Context: 2014 pro-democracy street protests, Hong Kong, Hong Kong legislative election, 2016, legislature_
 
 ## [Previous Day...](/news/2016/09/3/index.md)

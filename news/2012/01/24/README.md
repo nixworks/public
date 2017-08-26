@@ -25,7 +25,7 @@ _Context: Mozambique_
 _Context: Augusto Pinochet, Baltasar Garzon, Franco, Spain_
 
 ### [United States President Barack Obama presents his 2012 State of the Union Address to the United States Congress. ](/news/2012/01/24/united-states-president-barack-obama-presents-his-2012-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: 2012 State of the Union Address, Barack Obama, United States Congress, president_
+_Context: 2012 State of the Union Address, Barack Obama, President, United States Congress_
 
 ## [Previous Day...](/news/2012/01/23/index.md)
 

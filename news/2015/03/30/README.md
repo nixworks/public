@@ -1,6 +1,6 @@
 ## [2015-03-30](/news/2015/03/30/index.md)
 
-### [Yemeni Crisis (2011-present). The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/yemeni-crisis-2011-present-the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md)
+### [Yemeni Crisis (2011-present): The People's Republic of China evacuates its citizens from Yemen due to concerns over declining security. ](/news/2015/03/30/yemeni-crisis-2011-present-the-people-s-republic-of-china-evacuates-its-citizens-from-yemen-due-to-concerns-over-declining-security.md)
 An air strike killed at least 40 people at a camp for displaced people in north Yemen on Monday, humanitarian workers said, in an attack which apparently targeted nearby Houthi fighters who are battling President Abd-Rabbu Mansour Hadi.
 
 ### [Creditors offer Puerto Rico's highly leveraged power authority $2 billion in new financing, including $1.2 billion for a new natural gas operation, in exchange for assurances that it will repay its debt. ](/news/2015/03/30/creditors-offer-puerto-rico-s-highly-leveraged-power-authority-2-billion-in-new-financing-including-1-2-billion-for-a-new-natural-gas-ope.md)
@@ -24,10 +24,10 @@ Former PM found guilty of accepting cash from US Jewish businessman for personal
 ### [In Fort George G. Meade, Maryland, base perimeter guards shoot and kill one person and injure another person as two men attempt to crash the entrance gate with their vehicle. The incident also injures a guard. The base is the headquarters for the National Security Agency. ](/news/2015/03/30/in-fort-george-g-meade-maryland-base-perimeter-guards-shoot-and-kill-one-person-and-injure-another-person-as-two-men-attempt-to-crash-the.md)
 Officials say two men dressed as women tried to break through a security gate to the National Security Agency headquarters.
 
-### [United Kingdom general election, 2015. Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
+### [United Kingdom general election, 2015: Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
 _Context: Elizabeth II, Parliament, newly elected_
 
-### [Nigerian general election, 2015. Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/nigerian-general-election-2015-challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes.md)
+### [Nigerian general election, 2015: Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/nigerian-general-election-2015-challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes.md)
 _Context: Goodluck Jonathan, Muhammadu Buhari, Niger Delta, Nigerian general election, 2015, President_
 
 ## [Previous Day...](/news/2015/03/29/index.md)

@@ -15,7 +15,7 @@ Costa Ricans on Sunday appeared to narrowly vote in favor of joining the Central
 ### [ Pro-Taliban militants capture 28 Pakistan soldiers in the North Waziristan tribal region.date=December 2007 ](/news/2007/10/7/pro-taliban-militants-capture-28-pakistan-soldiers-in-the-north-waziristan-tribal-region-date-december-2007.md)
 _Context: Pakistan, Taliban, Waziristan, militant, soldier_
 
-### [ 2007 Pacific typhoon season:. Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md)
+### [ 2007 Pacific typhoon season:: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. ](/news/2007/10/7/2007-pacific-typhoon-season-typhoon-krosa-moves-towards-china-s-southern-zhejiang-and-northern-fujian-provinces.md)
 _Context: 2007 Pacific typhoon season, China, Fujian, Zhejiang_
 
 ### [ A Syrian military plane crashes near Damascus, killing all three on board. ](/news/2007/10/7/a-syrian-military-plane-crashes-near-damascus-killing-all-three-on-board.md)

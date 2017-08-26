@@ -9,10 +9,10 @@ _Context: Edinburgh Evening News, Glen Roeder_
 ### [ Steve Jobs takes a six-month medical leave of absence as CEO of Apple Inc. ](/news/2009/01/14/steve-jobs-takes-a-six-month-medical-leave-of-absence-as-ceo-of-apple-inc.md)
 _Context: Apple Inc., Steve Jobs, chief executive officer, leave of absence_
 
-### [ Global financial crisis of 2008-2009:. United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md)
+### [ Global financial crisis of 2008-2009:: United States Federal Reserve Chairman Ben Bernanke and Philadelphia Fed Bank President Charles Plosser differ publicly on stabilizing the economy. ](/news/2009/01/14/global-financial-crisis-of-2008-2009-united-states-federal-reserve-chairman-ben-bernanke-and-philadelphia-fed-bank-president-charles-plos.md)
 _Context: Ben Bernanke, Chairman of the Federal Reserve, Charles Plosser, Economy of the United States, Philadelphia Fed Bank, U.S. Federal Reserve, United States, stimulating economic demand_
 
-### [ 2008-2009 Israel-Gaza conflict:. In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008-2009-israel-gaza-conflict-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md)
+### [ 2008-2009 Israel-Gaza conflict:: In an audio message, Osama bin Laden urges Muslims to launch a holy war on Israel. (](/news/2009/01/14/2008-2009-israel-gaza-conflict-in-an-audio-message-osama-bin-laden-urges-muslims-to-launch-a-holy-war-on-israel.md)
 _Context: Israel, Muslim, Osama bin Laden, fire, jihad_
 
 ### [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md)

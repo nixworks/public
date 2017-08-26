@@ -3,7 +3,7 @@
 ### [ The government of Angola and the Frente para a LibertacGBPo do Enclave de Cabinda sign a peace agreement ending the Independence War in Cabinda. ](/news/2006/07/18/the-government-of-angola-and-the-frente-para-a-libertaassagbpo-do-enclave-de-cabinda-sign-a-peace-agreement-ending-the-independence-war-in-c.md)
 _Context: Frente para a LibertacGBPo do Enclave de Cabinda, Independence War in Cabinda, government of Angola_
 
-### [ 2006 Israel-Lebanon conflict. Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/2006-israel-lebanon-conflict-western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md)
+### [ 2006 Israel-Lebanon conflict: Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/2006-israel-lebanon-conflict-western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md)
 While army continues to strike Hizbullah, limit its weapons resources, outside groups trying to rearm group. IAF manages to bomb trucks transporting missiles from Syria. IDF Maj.-Gen. Eisenkot: These rockets belong to Syrian army
 
 ### [ The death toll from the July 2006 Java earthquake and the tsunami rises to 339. As scores of people are missing, the death toll is expected to keep rising. ](/news/2006/07/18/the-death-toll-from-the-july-2006-java-earthquake-and-the-tsunami-rises-to-339-as-scores-of-people-are-missing-the-death-toll-is-expected.md)

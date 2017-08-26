@@ -1,7 +1,7 @@
 ## [2006-07-6](/news/2006/07/6/index.md)
 
 ### [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md)
-_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, United States, president_
+_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, President, Trial of Kenneth Lay and Jeffrey Skilling, United States_
 
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
 _Context: Hawaii, North Korea, U.S. state, United States, launch_
@@ -36,7 +36,7 @@ _Context: Iraq, Najaf, Shi'ite, sectarian conflict_
 ### [ An explosion, believed to be caused by a bomb, killed at least eight people in a minibus in the city of Tiraspol, in Transnistria, a breakaway region of Moldova. ](/news/2006/07/6/an-explosion-believed-to-be-caused-by-a-bomb-killed-at-least-eight-people-in-a-minibus-in-the-city-of-tiraspol-in-transnistria-a-breaka.md)
 _Context: Moldova, Tiraspol, Transnistria_
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains):. IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. ](/news/2006/07/6/israeli-palestinian-conflict-operation-summer-rains-idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):: IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. ](/news/2006/07/6/israeli-palestinian-conflict-operation-summer-rains-idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in.md)
 Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they endanger my son and not send Air Force?&#39; An hour before he was killed, Yehuda sends text message to his sister, says &#39;we are still in al-Atara. Everything is okay. We already killed three, but don’t tell anyon...
 
 ## [Previous Day...](/news/2006/07/5/index.md)

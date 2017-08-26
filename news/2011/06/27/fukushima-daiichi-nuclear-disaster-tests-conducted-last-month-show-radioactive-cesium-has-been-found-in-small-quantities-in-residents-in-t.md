@@ -1,6 +1,6 @@
 ### [2011-06-27](/news/2011/06/27/index.md)
 
-# Fukushima Daiichi nuclear disaster:. Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. 
+# Fukushima Daiichi nuclear disaster:: Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. 
 
 Japanese researchers have found radiation in all 15 people tested last month from the area near the crippled Fukushima Daiichi nuclear power plant.
 
@@ -13,7 +13,7 @@ Japanese researchers have found radiation in all 15 people tested last month fro
 
 ### Related:
 
-1. [Fukushima Daiichi nuclear disaster. According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster_
+1. [Fukushima Daiichi nuclear disaster: According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster_
 2. [Toshiba Corporation unveil a robot that they believe will help in nuclear disasters and could enter the crippled Fukushima Daiichi Nuclear Power Plant damaged during the Fukushima Daiichi nuclear disaster. ](/news/2012/11/21/toshiba-corporation-unveil-a-robot-that-they-believe-will-help-in-nuclear-disasters-and-could-enter-the-crippled-fukushima-daiichi-nuclear-p.md) _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster_
 3. [Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. ](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-is-found-in-tea-from-the-shizuoka-prefecture-located-300-kilometres-from-the-earthquake-dama.md) _Context: Fukushima Daiichi Nuclear Power Plant, cesium_
 4. [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md) _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disaster_

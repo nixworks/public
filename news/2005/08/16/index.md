@@ -7,7 +7,7 @@ _Context: 1940, Pope Benedict XVI, Roger Louis Schutz-Marsauche, Taize Community
 _Context: Russia, Sergei K. Krikalev, astronaut, record for the most days spent in space_
 
 ### [ In Richmond, Virginia, thousands of people stampede at the Richmond International Raceway to obtain one of 1000 $50 iBooks being liquidated by the Henrico County school district. Seventeen people suffer minor injuries, with four requiring hospital treatment. ](/news/2005/08/16/in-richmond-virginia-thousands-of-people-stampede-at-the-richmond-international-raceway-to-obtain-one-of-1000-50-ibooks-being-liquidated.md)
-_Context: Henrico County, Richmond International Raceway, Richmond, Virginia, iBook_
+A rush to purchase $50 used laptops turned into a violent stampede Tuesday, with people getting thrown to the pavement, beaten with a folding chair and nearly driven over. 
 
 ### [ Lena Baker is pardoned by the Georgia Board of Pardons and Paroles 60 years after her execution ](/news/2005/08/16/lena-baker-is-pardoned-by-the-georgia-board-of-pardons-and-paroles-60-years-after-her-execution.md)
 _Context: Georgia Board of Pardons and Paroles, Lena Baker, execution_

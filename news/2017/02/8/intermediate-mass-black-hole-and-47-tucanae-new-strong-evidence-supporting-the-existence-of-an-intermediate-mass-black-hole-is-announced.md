@@ -1,6 +1,6 @@
 ### [2017-02-8](/news/2017/02/8/index.md)
 
-# Intermediate-mass black hole and 47 Tucanae. New strong evidence supporting the existence of an intermediate-mass black hole is announced. 
+# Intermediate-mass black hole and 47 Tucanae: New strong evidence supporting the existence of an intermediate-mass black hole is announced. 
 
 An intermediate-mass black hole might be lurking within a dense stellar cluster — a discovery that could point toward how these oddities form.
 

@@ -1,6 +1,6 @@
 ### [2005-09-1](/news/2005/09/1/index.md)
 
-#  Hurricane Katrina:. U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" 
+#  Hurricane Katrina:: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" 
 
 
 

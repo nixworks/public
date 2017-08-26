@@ -15,7 +15,7 @@ Nissan recalls 2.1 million vehicles worldwide because of an ignition problem, in
 ### [American International Group says that if chief executive Robert Benmosche needs to step aside for treatment of his cancer, the chairman of the board, Steve Miller, will serve as interim CEO "for as long as it takes to identify" a permanent replacement. ](/news/2010/10/28/american-international-group-says-that-if-chief-executive-robert-benmosche-needs-to-step-aside-for-treatment-of-his-cancer-the-chairman-of.md)
 _Context: AIG, Robert Benmosche, cancer, chairman of the board_
 
-### [Indonesia. The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/indonesia-the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md)
+### [Indonesia: The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/indonesia-the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md)
 Rescue crews and relief workers are losing hope of finding survivors after a tsunami swept through a remote string of islands in Indonesia, killing at least 370 people and leaving hundreds missing.
 
 ### [Two volcanoes erupt on Russia's Kamchatka Peninsula, Klyuchevskaya Sopka and Shiveluch, forcing flights to divert and spewing volcanic ash over the nearby town of Ust-Kamchatsk. ](/news/2010/10/28/two-volcanoes-erupt-on-russia-s-kamchatka-peninsula-klyuchevskaya-sopka-and-shiveluch-forcing-flights-to-divert-and-spewing-volcanic-ash-o.md)
@@ -39,7 +39,7 @@ _Context: George Saitoti, Kenya, Moses Wetangula_
 ### [The Croatian government survives a motion of no confidence over economic problems and corruption. ](/news/2010/10/28/the-croatian-government-survives-a-motion-of-no-confidence-over-economic-problems-and-corruption.md)
 _Context: Croatia, anti-corruption, no confidence_
 
-### [Burma. Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md)
+### [Burma: Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md)
 _Context: Burma, Than Shwe, general elections_
 
 ### [Guinea sets November 7 as the new date for the presidential run-off. ](/news/2010/10/28/guinea-sets-november-7-as-the-new-date-for-the-presidential-run-off.md)

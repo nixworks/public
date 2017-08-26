@@ -1,6 +1,6 @@
 ## [2011-05-8](/news/2011/05/8/index.md)
 
-### [2011 Syrian protests:. Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-syrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md)
+### [2011 Syrian protests:: Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-syrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md)
 Syrian security forces enter the city of Homs making a number of arrests, as nationwide operations continue against anti-government protests.
 
 ### [Bahrain's King Hamad bin Isa Al Khalifa orders an end to the emergency law imposed after anti-government protests. ](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.md)
@@ -9,13 +9,13 @@ Royal decree, due to take effect on June 1, comes as opposition activists appear
 ### [Fourteen people are killed in fighting at the Iraqi Ministry of Interior including six members of the police. ](/news/2011/05/8/fourteen-people-are-killed-in-fighting-at-the-iraqi-ministry-of-interior-including-six-members-of-the-police.md)
 Iraqi officials say 14 killed in overnight clashes at Ministry of Interior, including 6 police.
 
-### [2011 Egyptian revolution:. The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-di.md)
+### [2011 Egyptian revolution:: The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/2011-egyptian-revolution-the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-di.md)
 _Context: 2011 Egyptian revolution, Cairo, Christians, Essam Sharaf, Imbaba, Muslim, prime minister_
 
 ### [Witnesses claim that there have been two large explosions in the Pakistan town of Abbottabad. ](/news/2011/05/8/witnesses-claim-that-there-have-been-two-large-explosions-in-the-pakistan-town-of-abbottabad.md)
 The U.S. wants access to Osama bin Laden&#39;s three widows and any intelligence material its commandos left behind at the al-Qaida leader&#39;s compound, a top American official said in comments broadcast Sunday. 
 
-### [2011 Libyan civil war. Alleged Libyan rape victim Iman al-Obeidi flees to Tunisia fearing reprisals from the regime of Muammar Gaddafi. ](/news/2011/05/8/2011-libyan-civil-war-alleged-libyan-rape-victim-iman-al-obeidi-flees-to-tunisia-fearing-reprisals-from-the-regime-of-muammar-gaddafi.md)
+### [2011 Libyan civil war: Alleged Libyan rape victim Iman al-Obeidi flees to Tunisia fearing reprisals from the regime of Muammar Gaddafi. ](/news/2011/05/8/2011-libyan-civil-war-alleged-libyan-rape-victim-iman-al-obeidi-flees-to-tunisia-fearing-reprisals-from-the-regime-of-muammar-gaddafi.md)
 Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations against the regime of Moammar Gadhafi, says she has fled Libya, fearing for her safety.
 
 ### [There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. ](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.md)
@@ -24,7 +24,7 @@ _Context: Apple Inc., Apple Store, Beijing, China, iPad 2_
 ### [Peter Beale, Nick Stephenson, John Edwards and John Towers - the so-called "Phoenix Four" who ran MG Rover following its collapse - have agreed to be disqualified from serving as company directors for between 3 and 6 years. The deal was made with the UK's Department of Business, Innovation and Skills, following a "lengthy and complex investigation" into the affair. ](/news/2011/05/8/peter-beale-nick-stephenson-john-edwards-and-john-towers-the-so-called-phoenix-four-who-ran-mg-rover-following-its-collapse-have-agr.md)
 The bosses who ran MG Rover when it collapsed have been banned from serving as directors of any company for up to six years.
 
-### [2011 Mississippi River floods. Flooding along the Mississippi and tributaries has worsened, exceeding record levels since a three day tornado outbreak over a week ago, with ten dead, more than a thousand homes ordered evacuated in Memphis, Tennessee, more than 2,000 in Mississippi state, and about 13% of US refinery output disrupted. ](/news/2011/05/8/2011-mississippi-river-floods-flooding-along-the-mississippi-and-tributaries-has-worsened-exceeding-record-levels-since-a-three-day-tornad.md)
+### [2011 Mississippi River floods: Flooding along the Mississippi and tributaries has worsened, exceeding record levels since a three day tornado outbreak over a week ago, with ten dead, more than a thousand homes ordered evacuated in Memphis, Tennessee, more than 2,000 in Mississippi state, and about 13% of US refinery output disrupted. ](/news/2011/05/8/2011-mississippi-river-floods-flooding-along-the-mississippi-and-tributaries-has-worsened-exceeding-record-levels-since-a-three-day-tornad.md)
 _Context: Memphis, Tennessee, flooding, three day tornado outbreak_
 
 ### [Radiation levels in the number 1 reactor building fall at the Fukushima Daiichi Nuclear Power Plant following the installation of ventilation. ](/news/2011/05/8/radiation-levels-in-the-number-1-reactor-building-fall-at-the-fukushima-daiichi-nuclear-power-plant-following-the-installation-of-ventilatio.md)
@@ -55,7 +55,7 @@ Nick Clegg promises the Lib Dems will be &quot;a moderating influence&quot; on t
 Thousands of Mexicans on Sunday marched into the capital city to protest the wave of killing that has claimed 38,000 lives since President Felipe Calderon launched his war on drug gangs in late 2006.
 
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, president_
+_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, President_
 
 ## [Previous Day...](/news/2011/05/7/index.md)
 

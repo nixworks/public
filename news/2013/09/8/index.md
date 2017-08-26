@@ -1,9 +1,9 @@
 ## [2013-09-8](/news/2013/09/8/index.md)
 
-### [Syrian civil war:. The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-prote.md)
+### [Syrian civil war:: The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. ](/news/2013/09/8/syrian-civil-war-the-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-prote.md)
 _Context: Christian, Ma'loula, Russia, Syrian Army, Syrian Civil War, al-Nusra_
 
-### [War in Afghanistan (2001-present):. The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md)
+### [War in Afghanistan (2001-present):: The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md)
 Taliban militants detonated a car bomb outside an Afghan intelligence office near the capital Sunday and then tried to attack it on foot with guns, officials and the insurgent group said. At least four soldiers guarding the compound were killed and six insurgents died in the assault, officials said.
 
 ### [A group of men in a car opens fire in a town on the outskirts of Guatemala City, Guatemala, with 11 killed and 18 others injured. ](/news/2013/09/8/a-group-of-men-in-a-car-opens-fire-in-a-town-on-the-outskirts-of-guatemala-city-guatemala-with-11-killed-and-18-others-injured.md)
@@ -15,7 +15,7 @@ _Context: Iasi, Romania, collision between a minibus and a train_
 ### [Six people were killed and nine injured after a collision between car and minibus in Jakarta, Indonesia. ](/news/2013/09/8/six-people-were-killed-and-nine-injured-after-a-collision-between-car-and-minibus-in-jakarta-indonesia.md)
 _Context: Indonesia, Jakarta_
 
-### [Russian elections:. Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-results-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md)
+### [Russian elections:: Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. ](/news/2013/09/8/russian-elections-results-indicate-that-sergei-sobyanin-will-be-elected-as-mayor-of-moscow-with-over-50-per-cent-of-the-vote.md)
 Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayoral election on Sunday, enough to secure victory without a second-round runoff, initial partial results showed.
 
 ### [Mohammad Bagher Ghalibaf is reelected for a third term as Mayor of Tehran. ](/news/2013/09/8/mohammad-bagher-ghalibaf-is-reelected-for-a-third-term-as-mayor-of-tehran.md)

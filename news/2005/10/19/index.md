@@ -9,7 +9,7 @@ _Context: 1933, 1969, 2005 Atlantic hurricane season, Wilma, hPa, mb_
 ### [ Saddam Hussein goes on trial in Baghdad for crimes against humanity. The former President of Iraq is led into court with seven associates, charged with ordering the killing of 143 Shi'a men in the town of Dujail in 1982. If convicted, Hussein could face capital punishment. ](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.md)
 _Context: 1982, Baghdad, Dujail, President, Saddam Hussein, Shi'a, capital punishment, trial_
 
-### [ Avian influenza:. China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md)
+### [ Avian influenza:: China reports 2600 birds have died of the H5N1 virus near Hohhot, Inner Mongolia. ](/news/2005/10/19/avian-influenza-china-reports-2600-birds-have-died-of-the-h5n1-virus-near-hohhot-inner-mongolia.md)
 _Context: Avian flu virus, China, Hohhot, Inner Mongolia, bird flu_
 
 ### [ Liverpool City Council, UK, issued an apology for the destruction of the Welsh community of Capel Celyn in 1965 to create the Llyn Celyn reservoir, which supplies Liverpool and the Wirral with drinking water. ](/news/2005/10/19/liverpool-city-council-uk-issued-an-apology-for-the-destruction-of-the-welsh-community-of-capel-celyn-in-1965-to-create-the-llyn-celyn-re.md)

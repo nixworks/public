@@ -1,15 +1,15 @@
 ## [2012-12-11](/news/2012/12/11/index.md)
 
-### [Syrian civil war:. At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md)
+### [Syrian civil war:: At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-at-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md)
 _Context: Alawite, Aqrab, Syria, Syrian Civil War, bombings_
 
-### [War on Terror:. A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md)
+### [War on Terror:: A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-a-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md)
 A MAJOR offensive launched by the Yemeni army against al-Qaeda following the assassination of a top officer has killed at least 24 people, including 17 soldiers, a military official says.
 
-### [2012 Egyptian protests:. Abdul Fatah al-Sisi, the Commander-in-Chief of the Egyptian Armed Forces, calls for talks on national unity as thousands of rival protesters are on the streets of Cairo and the International Monetary Fund delays a loan. ](/news/2012/12/11/2012-egyptian-protests-abdul-fatah-al-sisi-the-commander-in-chief-of-the-egyptian-armed-forces-calls-for-talks-on-national-unity-as-thou.md)
+### [2012 Egyptian protests:: Abdul Fatah al-Sisi, the Commander-in-Chief of the Egyptian Armed Forces, calls for talks on national unity as thousands of rival protesters are on the streets of Cairo and the International Monetary Fund delays a loan. ](/news/2012/12/11/2012-egyptian-protests-abdul-fatah-al-sisi-the-commander-in-chief-of-the-egyptian-armed-forces-calls-for-talks-on-national-unity-as-thou.md)
 Egypt&#039;s army chief calls for talks on national unity to end the country&#039;s mounting political crisis.
 
-### [Belfast City Hall flag protests:. Ulster Unionist Party leader Mike Nesbitt calls for an end to street protests over Belfast City Council's decision to restrict the flying of the union flag after loyalists threw a petrol bomb into a police vehicle in which a female officer was sitting at the time. ](/news/2012/12/11/belfast-city-hall-flag-protests-ulster-unionist-party-leader-mike-nesbitt-calls-for-an-end-to-street-protests-over-belfast-city-council-s.md)
+### [Belfast City Hall flag protests:: Ulster Unionist Party leader Mike Nesbitt calls for an end to street protests over Belfast City Council's decision to restrict the flying of the union flag after loyalists threw a petrol bomb into a police vehicle in which a female officer was sitting at the time. ](/news/2012/12/11/belfast-city-hall-flag-protests-ulster-unionist-party-leader-mike-nesbitt-calls-for-an-end-to-street-protests-over-belfast-city-council-s.md)
 _Context: Belfast City Council, Belfast City Hall flag protests, Mike Nesbitt, Ulster Unionist Party, Ulster loyalism, Union Flag, petrol bomb, police vehicle_
 
 ### [Russian soprano opera singer Galina Vishnevskaya, wife of Mstislav Rostropovich, dies in Moscow at the age of 86. ](/news/2012/12/11/russian-soprano-opera-singer-galina-vishnevskaya-wife-of-mstislav-rostropovich-dies-in-moscow-at-the-age-of-86.md)

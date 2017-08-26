@@ -1,6 +1,6 @@
 ### [2007-09-17](/news/2007/09/17/index.md)
 
-#  Flight OG 269 crash:. Fifty-five foreigners are among the 88 people who died in the crash of Flight OG 269 in Phuket. 
+#  Flight OG 269 crash:: Fifty-five foreigners are among the 88 people who died in the crash of Flight OG 269 in Phuket. 
 
 A total of 55 foreigners, including one Australian, have been confirmed among the 88 people killed after a budget Thai airliner crashed whilst attempting to land on the resort island of Phuket yesterday.
 

@@ -1,6 +1,6 @@
 ### [2016-09-15](/news/2016/09/15/index.md)
 
-# Death of Sandra Bland. Texas authorities agree to pay $1.9 million to the family of Sandra Bland, the woman who was found hanged in a jail cell in Waller County, Texas, in July 2015. A grand jury did not issue an indictment. 
+# Death of Sandra Bland: Texas authorities agree to pay $1.9 million to the family of Sandra Bland, the woman who was found hanged in a jail cell in Waller County, Texas, in July 2015. A grand jury did not issue an indictment. 
 
 Sandra Bland was found dead in jail cell following heated traffic stop in Texas
 

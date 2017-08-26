@@ -1,6 +1,6 @@
 ### [2011-08-11](/news/2011/08/11/index.md)
 
-# August 2011 stock markets fall and rebound. Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. 
+# August 2011 stock markets fall and rebound: Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. 
 
 
 

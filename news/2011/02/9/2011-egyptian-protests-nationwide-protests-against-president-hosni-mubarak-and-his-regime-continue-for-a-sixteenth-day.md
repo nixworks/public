@@ -1,6 +1,6 @@
 ### [2011-02-9](/news/2011/02/9/index.md)
 
-# 2011 Egyptian protests:. Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. 
+# 2011 Egyptian protests:: Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. 
 
 CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday as massive protests demanding its overthrow spilled out across the country ...
 
@@ -18,7 +18,7 @@ CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday
 
 ### Related:
 
-1. [2011 Egyptian protests. Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/2011-egyptian-protests-protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-s.md) _Context: Egyptian President, Hosni Mubarak, Protesters_
+1. [2011 Egyptian protests: Protesters plan a "million-man march" on President Hosni Mubarak's presidential palace in Cairo starting at Tahrir Square. ](/news/2011/02/1/2011-egyptian-protests-protesters-plan-a-million-man-march-on-president-hosni-mubarak-s-presidential-palace-in-cairo-starting-at-tahrir-s.md) _Context: Egyptian President, Hosni Mubarak, Protesters_
 2. [Former Egyptian President Hosni Mubarak is acquitted of involvement in the deaths of hundreds of anti-government protesters during the 2011 Egyptian revolution. ](/news/2017/03/2/former-egyptian-president-hosni-mubarak-is-acquitted-of-involvement-in-the-deaths-of-hundreds-of-anti-government-protesters-during-the-2011.md) _Context: Egyptian President, Hosni Mubarak_
 3. [Former President of Egypt Hosni Mubarak and his two sons are sentenced to three years imprisonment and a fine for corruption. ](/news/2015/05/9/former-president-of-egypt-hosni-mubarak-and-his-two-sons-are-sentenced-to-three-years-imprisonment-and-a-fine-for-corruption.md) _Context: Egyptian President, Hosni Mubarak_
 4. [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md) _Context: Egyptian President, Hosni Mubarak_

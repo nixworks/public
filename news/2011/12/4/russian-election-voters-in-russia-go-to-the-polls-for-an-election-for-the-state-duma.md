@@ -1,6 +1,6 @@
 ### [2011-12-4](/news/2011/12/4/index.md)
 
-# Russian election:. Voters in Russia go to the polls for an election for the State Duma. 
+# Russian election:: Voters in Russia go to the polls for an election for the State Duma. 
 
 United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered surprisingly steep losses in parliamentary elections and was clinging to a 50 percent majority.
 

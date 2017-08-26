@@ -11,4 +11,4 @@ Malawian authorities have blocked a mass funeral for seven people killed during 
 
 ### Related:
 
-1. [2011 Malawian protests:. At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _Context: 2011 Malawian protests_
+1. [2011 Malawian protests:: At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md) _Context: 2011 Malawian protests_

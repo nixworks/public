@@ -1,6 +1,6 @@
 ## [2011-04-27](/news/2011/04/27/index.md)
 
-### [Arab Spring:. 2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md)
+### [Arab Spring:: 2011 Yemeni protests: Yemeni security forces kill at least 12 people and wound more than 100 others with bullets in Sana'a and elsewhere as protests against the Ali Abdullah Saleh regime continue. ](/news/2011/04/27/arab-spring-2011-yemeni-protests-yemeni-security-forces-kill-at-least-12-people-and-wound-more-than-100-others-with-bullets-in-sana-a-and.md)
 President Ali Abdullah Saleh said he supports &#034;peaceful&#034; change in line with Yemen&#039;s constitution as at least 12 more people were killed and more than 100 wounded on Wednesday with no let-up in protests.
 
 ### [Natural gas supplies to Jordan and Israel are hit by an explosion in the Arab Gas Pipeline in the town of Arish in North Sinai near Egypt's border with Israel with an armed group believed responsible. ](/news/2011/04/27/natural-gas-supplies-to-jordan-and-israel-are-hit-by-an-explosion-in-the-arab-gas-pipeline-in-the-town-of-arish-in-north-sinai-near-egypt-s.md)
@@ -45,10 +45,10 @@ _Context: Akihito, Emperor, Empress Michiko, an earthquake and tsunami_
 ### [A train overturns on the Alishan Forest Railway near the town of Alishan in Taiwan resulting in at least five deaths and forty injuries. ](/news/2011/04/27/a-train-overturns-on-the-alishan-forest-railway-near-the-town-of-alishan-in-taiwan-resulting-in-at-least-five-deaths-and-forty-injuries.md)
 _Context: Alishan, Alishan Forest Railway, Taiwan_
 
-### [Southeast US storms. Two tornadoes hit Tuscaloosa County in the US state of Alabama causing extensive damage, with the main strongest wedge tornado crossing over the state of Alabama and affecting the Gadsden Metropolitan Area. ](/news/2011/04/27/southeast-us-storms-two-tornadoes-hit-tuscaloosa-county-in-the-us-state-of-alabama-causing-extensive-damage-with-the-main-strongest-wedge.md)
+### [Southeast US storms: Two tornadoes hit Tuscaloosa County in the US state of Alabama causing extensive damage, with the main strongest wedge tornado crossing over the state of Alabama and affecting the Gadsden Metropolitan Area. ](/news/2011/04/27/southeast-us-storms-two-tornadoes-hit-tuscaloosa-county-in-the-us-state-of-alabama-causing-extensive-damage-with-the-main-strongest-wedge.md)
 Severe storms and tornadoes moving through the Southeast dealt a severe blow to the Tennessee Valley Authority on Wednesday, causing three nuclear reactors in Alabama to shut and knocking out 11 high-voltage power lines, the utility and regulators said.
 
-### [Israeli-Palestinian conflict:. Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thw.md)
+### [Israeli-Palestinian conflict:: Israeli prime minister Benjamin Netanyahu instructs his inner cabinet to continue diplomatic efforts to thwart an upcoming aid flotilla bound for the Gaza Strip. ](/news/2011/04/27/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-instructs-his-inner-cabinet-to-continue-diplomatic-efforts-to-thw.md)
 Rival Palestinian groups announce signing of initial agreement ending four-year-old rift. Deal calls for formation of interim government in coming days, preparations for elections year from now 
 
 ### [The Premier of China Wen Jiabao starts a four day tour of South East Asia to discuss economic issues. ](/news/2011/04/27/the-premier-of-china-wen-jiabao-starts-a-four-day-tour-of-south-east-asia-to-discuss-economic-issues.md)
@@ -64,7 +64,7 @@ _Context: Central Tibetan Administration, Lobsang Sangay, Prime Minister of the,
 _Context: People Action Party, Singapore, election_
 
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, birth certificate, nomination, president_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, President, birth certificate, nomination_
 
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)
 Republican Congressman Dean Heller is appointed to replace a Nevada senator who is resigning over an inquiry into his affair with an aide.

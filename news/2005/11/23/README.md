@@ -1,6 +1,6 @@
 ## [2005-11-23](/news/2005/11/23/index.md)
 
-### [ Iraq War:. A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md)
+### [ Iraq War:: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md)
 _Context: Iraq, Iraq War, Iraqi Police, Kirkuk, car bomb, suicide bombing_
 
 ### [ Israeli troops kill one Palestinian and Iyad Abu Rob, a suspected senior member of Islamic Jihad surrenders after a day-long siege, in the Palestinian refugee camp of Jenin. ](/news/2005/11/23/israeli-troops-kill-one-palestinian-and-iyad-abu-rob-a-suspected-senior-member-of-islamic-jihad-surrenders-after-a-day-long-siege-in-the.md)

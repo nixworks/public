@@ -1,6 +1,6 @@
 ### [2006-06-6](/news/2006/06/6/index.md)
 
-#  Chad-Sudan conflict. The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. 
+#  Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. 
 
 
 

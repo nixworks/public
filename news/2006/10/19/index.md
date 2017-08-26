@@ -33,7 +33,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 ### [ Ethiopia's prime minister Meles Zenawi tells the parliament that he had sent military trainers to help Somalia's struggling government, but had not deployed a fighting force. ](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.md)
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Somalia_
 
-### [ 2006 North Korean nuclear testing:. former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md)
+### [ 2006 North Korean nuclear testing:: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md)
 _Context: 2006, Kim Jong-il, Tang Jiaxuan_
 
 ## [Previous Day...](/news/2006/10/18/index.md)

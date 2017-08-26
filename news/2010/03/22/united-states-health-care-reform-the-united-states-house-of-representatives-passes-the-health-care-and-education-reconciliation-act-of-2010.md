@@ -1,6 +1,6 @@
 ### [2010-03-22](/news/2010/03/22/index.md)
 
-# United States health care reform. The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. 
+# United States health care reform: The United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. 
 
 
 

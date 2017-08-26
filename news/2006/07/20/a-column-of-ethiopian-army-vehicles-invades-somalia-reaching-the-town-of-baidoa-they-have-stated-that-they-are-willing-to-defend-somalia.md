@@ -11,9 +11,9 @@
 
 ### Related:
 
-1. [War in Somalia (2009-present). Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _Context: Ethiopia, Somalia_
-2. [War in Somalia (2009-present). Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _Context: Baidoa, Somalia_
-3. [Somali civil war. Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-civil-war-somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _Context: Baidoa, Somalia_
+1. [War in Somalia (2009-present): Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _Context: Ethiopia, Somalia_
+2. [War in Somalia (2009-present): Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _Context: Baidoa, Somalia_
+3. [Somali civil war: Somali al-Shabaab militants attack an army base on the outskirts of Baidoa, killing seven soldiers. ](/news/2015/01/2/somali-civil-war-somali-al-shabaab-militants-attack-an-army-base-on-the-outskirts-of-baidoa-killing-seven-soldiers.md) _Context: Baidoa, Somalia_
 4. [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md) _Context: Baidoa, Somalia_
 5. [Clashes take place in Somalia, where Al-Shabaab ambush Ethiopian troops. ](/news/2012/03/10/clashes-take-place-in-somalia-where-al-shabaab-ambush-ethiopian-troops.md) _Context: Ethiopia, Somalia_
 6. [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md) _Context: Ethiopia, Somalia_

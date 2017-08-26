@@ -1,6 +1,6 @@
 ## [2013-05-18](/news/2013/05/18/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/iraqi-insurgency-post-u-s-withdrawal-gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him.md)
 _Context: Baghdad, Iraqi Police, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Zahra Shahid Hussain, a senior vice-president of Imran Khan's Pakistan Tehreek-e-Insaf Party is shot dead by a gunman outside her home in Karachi. ](/news/2013/05/18/zahra-shahid-hussain-a-senior-vice-president-of-imran-khan-s-pakistan-tehreek-e-insaf-party-is-shot-dead-by-a-gunman-outside-her-home-in-ka.md)
@@ -24,7 +24,7 @@ A plane belonging to UTair has caught fire landing at Moscow airport.
 ### [A car drives into a crowd at a parade in Damascus, Virginia, injuring at least 50 people. ](/news/2013/05/18/a-car-drives-into-a-crowd-at-a-parade-in-damascus-virginia-injuring-at-least-50-people.md)
 _Context: Damascus, Virginia_
 
-### [2013 Korean crisis:. North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-o.md)
+### [2013 Korean crisis:: North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-o.md)
 _Context: 2013 Korean crisis, North Korea, Sea of Japan, launches_
 
 ## [Previous Day...](/news/2013/05/17/index.md)

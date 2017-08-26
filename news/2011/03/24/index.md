@@ -1,6 +1,6 @@
 ## [2011-03-24](/news/2011/03/24/index.md)
 
-### [Arab Spring. Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/arab-spring-protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-r.md)
+### [Arab Spring: Protest in Jordan sees 500 March in Jordan's capital Amman demanding the removal of prime minister Marouf al-Bakhit and other reforms. ](/news/2011/03/24/arab-spring-protest-in-jordan-sees-500-march-in-jordan-s-capital-amman-demanding-the-removal-of-prime-minister-marouf-al-bakhit-and-other-r.md)
 At least 10 people are killed after Syrian police open fire on people protesting against the deaths of anti-government demonstrators in Deraa, witnesses say.
 
 ### [The Israeli air force launches early morning airstrikes on smuggling tunnels along Gaza-Egypt border as well as a Hamas training camp in Gaza following Palestinian militants' rocket attacks against Beersheba and Ashkelon, Israel. ](/news/2011/03/24/the-israeli-air-force-launches-early-morning-airstrikes-on-smuggling-tunnels-along-gaza-egypt-border-as-well-as-a-hamas-training-camp-in-gaz.md)
@@ -33,7 +33,7 @@ A strong earthquake of magnitude 6.8 struck northeastern Myanmar Thursday evenin
 ### [Thousands of people are stranded by flash flooding in Tasmania, amid record falls of rain. Roads are closed, blackouts occur and people are flown away in helicopters. ](/news/2011/03/24/thousands-of-people-are-stranded-by-flash-flooding-in-tasmania-amid-record-falls-of-rain-roads-are-closed-blackouts-occur-and-people-are.md)
 Thousands of people in eastern Tasmania have been stranded by flash flooding, following record rainfalls in the past 24 hours.
 
-### [Japanese earthquake, tsunami and nuclear incidents. Several governments in the Asia-Pacific region including Australia, Hong Kong and Singapore ban the import of food from areas near the Fukushima I Nuclear Power Plant following the recent incidents. ](/news/2011/03/24/japanese-earthquake-tsunami-and-nuclear-incidents-several-governments-in-the-asia-pacific-region-including-australia-hong-kong-and-singap.md)
+### [Japanese earthquake, tsunami and nuclear incidents: Several governments in the Asia-Pacific region including Australia, Hong Kong and Singapore ban the import of food from areas near the Fukushima I Nuclear Power Plant following the recent incidents. ](/news/2011/03/24/japanese-earthquake-tsunami-and-nuclear-incidents-several-governments-in-the-asia-pacific-region-including-australia-hong-kong-and-singap.md)
 Singapore reports finding low levels of radioactivity in vegetables from Japan as more countries ban food imports.
 
 ### [The United Nations claims that six million North Koreans need international food assistance. ](/news/2011/03/24/the-united-nations-claims-that-six-million-north-koreans-need-international-food-assistance.md)
@@ -52,7 +52,7 @@ _Context: Oxfordshire, Sian O'Callaghan, Swindon, Wiltshire_
 _Context: Bavaria, Germany, Krailling, two girls_
 
 ### [European Council ](/news/2011/03/24/european-council.md)
-### [Moriarty Tribunal in Ireland:. Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/moriarty-tribunal-in-ireland-former-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-airean.md)
+### [Moriarty Tribunal in Ireland:: Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/moriarty-tribunal-in-ireland-former-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-airean.md)
 Irish billionaire businessman Denis O&#039;Brien and a former Irish government minister have been accused of being involved in a &#034;cynical and venal abuse of power&#034; in negotiations for a substantial mobile telephone licence.
 
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)

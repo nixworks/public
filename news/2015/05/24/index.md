@@ -1,12 +1,12 @@
 ## [2015-05-24](/news/2015/05/24/index.md)
 
-### [War in Afghanistan (2015-present). At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/war-in-afghanistan-2015-present-at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md)
+### [War in Afghanistan (2015-present): At least ten Afghan police officers are killed in a Taliban attack on checkpoints in Helmand Province. ](/news/2015/05/24/war-in-afghanistan-2015-present-at-least-ten-afghan-police-officers-are-killed-in-a-taliban-attack-on-checkpoints-in-helmand-province.md)
 Taliban insurgents attacked police checkpoints Sunday in volatile southern Afghanistan, killing at least 10 officers in the ongoing assault, authorities said.
 
-### [2015 Burundian unrest. The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md)
+### [2015 Burundian unrest: The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md)
 _Context: 2015 Burundian unrest, Burundi, Pierre Nkurunziza, Presidents, Union for Peace and Development, Zedi Feruzi_
 
-### [Syrian Civil War. A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/syrian-civil-war-a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
+### [Syrian Civil War: A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/syrian-civil-war-a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
 _Context: Syria, Syrian Civil War_
 
 ### ["Dheepan", a French film directed by Jacques Audiard, wins the Palme d'Or at the 2015 Cannes Film Festival. ](/news/2015/05/24/dheepan-a-french-film-directed-by-jacques-audiard-wins-the-palme-d-or-at-the-2015-cannes-film-festival.md)
@@ -21,10 +21,10 @@ _Context: Gloria Steinem, Korean Demilitarized Zone_
 ### [Authorities in Malaysia find mass graves in more than a dozen camps near the border with Thailand where Rohingya migrants are held. ](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.md)
 _Context: Malaysia, Rohingya, Thailand_
 
-### [Polish presidential election, 2015. Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-broni.md)
+### [Polish presidential election, 2015: Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-broni.md)
 WARSAW, Poland (AP) — Exit poll shows Andrzej Duda ahead of President Bronislaw Komorowski in Polish election.
 
-### [Ethiopian general election, 2015. Voters in Ethiopia go to the polls for a general election with the ruling Ethiopian Peoples' Revolutionary Democratic Front facing no viable opposition. ](/news/2015/05/24/ethiopian-general-election-2015-voters-in-ethiopia-go-to-the-polls-for-a-general-election-with-the-ruling-ethiopian-peoples-revolutionary.md)
+### [Ethiopian general election, 2015: Voters in Ethiopia go to the polls for a general election with the ruling Ethiopian Peoples' Revolutionary Democratic Front facing no viable opposition. ](/news/2015/05/24/ethiopian-general-election-2015-voters-in-ethiopia-go-to-the-polls-for-a-general-election-with-the-ruling-ethiopian-peoples-revolutionary.md)
 The international community must challenge Ethiopia’s oppressive regime by giving financial support to local human rights and democracy groups
 
 ### [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md)

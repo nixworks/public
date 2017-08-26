@@ -1,6 +1,6 @@
 ### [2016-06-2](/news/2016/06/2/index.md)
 
-# 2016 European floods. At least eleven people are killed in heavy flooding across Europe. 
+# 2016 European floods: At least eleven people are killed in heavy flooding across Europe. 
 
 At least five people are dead and dozens of towns are inundated by flooding across France and Germany, authorities say.
 
@@ -13,4 +13,4 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ### Related:
 
-1. [2016 European floods. The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/2016-european-floods-the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and.md) _Context: 2016 European floods_
+1. [2016 European floods: The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/2016-european-floods-the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and.md) _Context: 2016 European floods_

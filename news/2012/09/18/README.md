@@ -15,7 +15,7 @@ _Context: PEMEX, Reynosa, Tamaulipas_
 ### [U.S. presidential candidate Mitt Romney claims Palestinians are committed to the destruction of Israel. ](/news/2012/09/18/u-s-presidential-candidate-mitt-romney-claims-palestinians-are-committed-to-the-destruction-of-israel.md)
 _Context: Israel, Mitt Romney, Palestinian_
 
-### [Senkaku Islands dispute. People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/senkaku-islands-dispute-people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-th.md)
+### [Senkaku Islands dispute: People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/senkaku-islands-dispute-people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-th.md)
 _Context: China, Mukden Incident, Senkaku Islands dispute, protests_
 
 ### [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md)

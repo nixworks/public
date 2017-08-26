@@ -1,6 +1,6 @@
 ### [2010-11-7](/news/2010/11/7/index.md)
 
-# Burmese election. Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. 
+# Burmese election: Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. 
 
 Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first election in 20 years.
 
@@ -21,6 +21,6 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 5. [An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. ](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.md) _Context: Burma, general elections_
 6. [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. [http://edition.cnn.com/2010/WORLD/asiapcf/11/15/myanmar.suu.kyi/ (CNN)] [http://www.theaustralian.com.au/news/world/aung-san-suu-kyi-vows-to-probe-burmese-election-rorts/story-e6frg6so-1225954027125 ("The Australian") ]](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md) _Context: Burma, general elections_
 7. [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md) _Context: Burma, general elections_
-8. [Burma. Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md) _Context: Burma, general elections_
+8. [Burma: Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burma-burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md) _Context: Burma, general elections_
 9. [Burmese pro-democracy leader Aung San Suu Kyi announces that she will boycott next month's general election. ](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.md) _Context: Burma, general elections_
 10. [Burma bars several areas of the country from taking part in the upcoming general election where the vote would "not be free and fair". ](/news/2010/09/16/burma-bars-several-areas-of-the-country-from-taking-part-in-the-upcoming-general-election-where-the-vote-would-not-be-free-and-fair.md) _Context: Burma, general elections_

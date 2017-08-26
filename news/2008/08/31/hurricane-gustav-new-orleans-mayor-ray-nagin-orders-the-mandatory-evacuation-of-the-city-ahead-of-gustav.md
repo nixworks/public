@@ -1,6 +1,6 @@
 ### [2008-08-31](/news/2008/08/31/index.md)
 
-#  Hurricane Gustav:. New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. 
+#  Hurricane Gustav:: New Orleans mayor Ray Nagin orders the mandatory evacuation of the city ahead of Gustav. 
 
 Mayor C. Ray Nagin issued the city’s first mandatory evacuation order since Hurricane Katrina and said Gustav was larger and more dangerous.
 

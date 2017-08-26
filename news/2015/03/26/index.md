@@ -1,15 +1,15 @@
 ## [2015-03-26](/news/2015/03/26/index.md)
 
-### [Aftermath of the 2014-15 Yemeni coup d'etat. 2015 military intervention in Yemen. The Saudi Arabian Air Force launches airstrikes on Sana'a International Airport and Yemen's al Dulaimi military airport resulting in at least 17 deaths. ](/news/2015/03/26/aftermath-of-the-2014-15-yemeni-coup-d-a-c-tat-2015-military-intervention-in-yemen-the-saudi-arabian-air-force-launches-airstrikes-on-sana.md)
+### [Aftermath of the 2014-15 Yemeni coup d'etat: 2015 military intervention in Yemen: The Saudi Arabian Air Force launches airstrikes on Sana'a International Airport and Yemen's al Dulaimi military airport resulting in at least 17 deaths. ](/news/2015/03/26/aftermath-of-the-2014-15-yemeni-coup-d-a-c-tat-2015-military-intervention-in-yemen-the-saudi-arabian-air-force-launches-airstrikes-on-sana.md)
 _Context: Aftermath of the 2014-15 Yemeni coup d'etat, Royal Saudi Air Force, Sana'a International Airport, Saudi Arabia, Yemen, attacks_
 
-### [Exhumation of Richard III of England. Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/exhumation-of-richard-iii-of-england-leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md)
+### [Exhumation of Richard III of England: Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/exhumation-of-richard-iii-of-england-leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md)
 On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Battlefield, where he was killed 530 years ago.
 
 ### [A scaffolding collapses in Ha Tinh Province in Vietnam, killing at least fourteen people and leaving around thirty others injured. ](/news/2015/03/26/a-scaffolding-collapses-in-ha-ta-c-nh-province-in-vietnam-killing-at-least-fourteen-people-and-leaving-around-thirty-others-injured.md)
 - Vietnamese soldiers and policejoined a rescue mission on Thursday searching for survivorsafter a huge scaffolding collapsed, killing 14 workers andinjuring 30 in central Vietnam, the government and statetelevision said.
 
-### [Germanwings Flight 9525. French prosecutors claim that evidence supports the conclusion that the co-pilot, Andreas Lubitz, deliberately crashed the plane. ](/news/2015/03/26/germanwings-flight-9525-french-prosecutors-claim-that-evidence-supports-the-conclusion-that-the-co-pilot-andreas-lubitz-deliberately-cras.md)
+### [Germanwings Flight 9525: French prosecutors claim that evidence supports the conclusion that the co-pilot, Andreas Lubitz, deliberately crashed the plane. ](/news/2015/03/26/germanwings-flight-9525-french-prosecutors-claim-that-evidence-supports-the-conclusion-that-the-co-pilot-andreas-lubitz-deliberately-cras.md)
 Marseille public prosecutor says co-pilot of Airbus A320 deliberately forced the plane into a descent
 
 ### [A building explosion and pancake floor collapse in New York City's East Village causes at least two deaths and multiple injuries. ](/news/2015/03/26/a-building-explosion-and-pancake-floor-collapse-in-new-york-city-s-east-village-causes-at-least-two-deaths-and-multiple-injuries.md)

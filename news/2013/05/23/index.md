@@ -1,6 +1,6 @@
 ## [2013-05-23](/news/2013/05/23/index.md)
 
-### [Syrian Civil War:. Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md)
+### [Syrian Civil War:: Friends of Syria calls on Iran and its Lebanese ally Hezbollah to withdraw from Syrian territory. ](/news/2013/05/23/syrian-civil-war-friends-of-syria-calls-on-iran-and-its-lebanese-ally-hezbollah-to-withdraw-from-syrian-territory.md)
 After meeting in Amman, 11 Western and Arab nations also warn of &#39;severe consequences&#39; if use of chemical weapons by Assad forces is confirmed
 
 ### [Riots continue for a fourth night in suburbs of the Swedish capital Stockholm heavily populated by immigrants with unrest spreading. ](/news/2013/05/23/riots-continue-for-a-fourth-night-in-suburbs-of-the-swedish-capital-stockholm-heavily-populated-by-immigrants-with-unrest-spreading.md)

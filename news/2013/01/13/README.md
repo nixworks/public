@@ -1,6 +1,6 @@
 ## [2013-01-13](/news/2013/01/13/index.md)
 
-### [Kachin conflict:. President of Burma Thein Sein defends the army-s response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-president-of-burma-thein-sein-defends-the-army-s-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md)
+### [Kachin conflict:: President of Burma Thein Sein defends the army-s response to the ethnic Kachin rebellion, despite a recent escalation of violence that has further dimmed peace prospects. ](/news/2013/01/13/kachin-conflict-president-of-burma-thein-sein-defends-the-army-s-response-to-the-ethnic-kachin-rebellion-despite-a-recent-escalation-of.md)
 _Context: Kachin conflict, Kachin rebellion, President of Burma, Thein Sein_
 
 ### [Time Warner Inc. film "Argo" wins awards for best drama and best director at the 70th Golden Globe Awards. ](/news/2013/01/13/time-warner-inc-film-argo-wins-awards-for-best-drama-and-best-director-at-the-70th-golden-globe-awards.md)

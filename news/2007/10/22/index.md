@@ -7,7 +7,7 @@ _Context: France, Marrakech, Morocco, Tangiers, high-speed rail_
 _Context: Kurdistan Workers' Party, Turkey, ceasefire_
 
 ### [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md)
-_Context: Afghanistan's, George W. Bush, Iraq, US$, United States Congress, president_
+_Context: Afghanistan's, George W. Bush, Iraq, President, US$, United States Congress_
 
 ### [ Al-Jazeera broadcasts an audiotape purporting to be from Osama bin Laden calling on Al-Qaeda in Iraq and other Sunni militants to unite forces. ](/news/2007/10/22/al-jazeera-broadcasts-an-audiotape-purporting-to-be-from-osama-bin-laden-calling-on-al-qaeda-in-iraq-and-other-sunni-militants-to-unite-for.md)
 _Context: Al Jazeera, Osama bin Laden, Sunni, al-Qaeda in Iraq, audiotape_
@@ -15,7 +15,7 @@ _Context: Al Jazeera, Osama bin Laden, Sunni, al-Qaeda in Iraq, audiotape_
 ### [ An investigation concludes pilot error caused the crash of Garuda Indonesia Flight 200 on March 7, killing 21 people. ](/news/2007/10/22/an-investigation-concludes-pilot-error-caused-the-crash-of-garuda-indonesia-flight-200-on-march-7-killing-21-people.md)
 _Context: Marwoto Komar, Pilot error_
 
-### [ California wildfires of October 2007:. At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md)
+### [ California wildfires of October 2007:: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md)
 _Context: California wildfires, Southern California, evacuation centers, wildfires_
 
 ### [ Joaquim Chissano wins the inaugural Prize for Achievement in African Leadership for "his role in leading Mozambique from conflict to peace and democracy." ](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.md)

@@ -1,12 +1,12 @@
 ## [2013-09-28](/news/2013/09/28/index.md)
 
-### [Sudanese protests (2011-present):. Sudanese security forces fire live ammunition on a march that followed the funeral of a demonstrator killed the day before. ](/news/2013/09/28/sudanese-protests-2011-present-sudanese-security-forces-fire-live-ammunition-on-a-march-that-followed-the-funeral-of-a-demonstrator-ki.md)
+### [Sudanese protests (2011-present):: Sudanese security forces fire live ammunition on a march that followed the funeral of a demonstrator killed the day before. ](/news/2013/09/28/sudanese-protests-2011-present-sudanese-security-forces-fire-live-ammunition-on-a-march-that-followed-the-funeral-of-a-demonstrator-ki.md)
 _Context: Sudanese protests (2011-present)_
 
-### [Islamist insurgency in Nigeria:. Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md)
+### [Islamist insurgency in Nigeria:: Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-gunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria_
 
-### [Syrian civil war:. Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jo.md)
+### [Syrian civil war:: Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jo.md)
 _Context: Jordan, Syrian Civil War, Syrian rebels, military_
 
 ### [A 6.8-magnitude earthquake strikes the Pakistani province of Balochistan, four days after a 7.7-magnitude earthquake killed at least 515 people in the same region. ](/news/2013/09/28/a-6-8-magnitude-earthquake-strikes-the-pakistani-province-of-balochistan-four-days-after-a-7-7-magnitude-earthquake-killed-at-least-515-peo.md)

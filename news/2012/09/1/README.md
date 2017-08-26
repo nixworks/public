@@ -1,15 +1,15 @@
 ## [2012-09-1](/news/2012/09/1/index.md)
 
-### [Syrian civil war:. The Syrian government states that it has repelled a major attack on an air base near Aleppo; 341 detainees are released across the country. Rebels claim the capture of an airforce building in Deir ez-Zor. ](/news/2012/09/1/syrian-civil-war-the-syrian-government-states-that-it-has-repelled-a-major-attack-on-an-air-base-near-aleppo-341-detainees-are-released-a.md)
+### [Syrian civil war:: The Syrian government states that it has repelled a major attack on an air base near Aleppo; 341 detainees are released across the country. Rebels claim the capture of an airforce building in Deir ez-Zor. ](/news/2012/09/1/syrian-civil-war-the-syrian-government-states-that-it-has-repelled-a-major-attack-on-an-air-base-near-aleppo-341-detainees-are-released-a.md)
 _Context: Aleppo, Deir ez-Zor, Syria, Syrian Civil War_
 
-### [War in Afghanistan:. Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghani.md)
+### [War in Afghanistan:: Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghani.md)
 _Context: Afghanistan's, NATO, Sayed Abad district, War in Afghanistan (2001-present), Wardak province_
 
-### [Mexican Drug War:. Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/mexican-drug-war-eduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is.md)
+### [Mexican Drug War:: Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/mexican-drug-war-eduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is.md)
 _Context: Eduardo Arellano Felix, Mexican Drug War, Tijuana Cartel_
 
-### [2012 northern Mali conflict:. Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md)
+### [2012 northern Mali conflict:: Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md)
 _Context: 2012 Northern Mali conflict, Douentza, Islamist, Mali_
 
 ### [An unidentified man throws a grenade to spectators of a festival in Paquibato district near Davao City, Philippines, wounding 41 people. ](/news/2012/09/1/an-unidentified-man-throws-a-grenade-to-spectators-of-a-festival-in-paquibato-district-near-davao-city-philippines-wounding-41-people.md)
@@ -30,7 +30,7 @@ _Context: A nuclear reactor, Belgium, another, nuclear regulator, owner_
 ### [Now middle-aged victims of Thalidomide ("Softenon", "Contergan")'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-manuf.md)
 In its first apology for the scandal in 50 years, Grunenthal said on Friday it was “very sorry” for its silence towards victims of the drug, which caused thousands of babies to be born with disabilities
 
-### [16th Summit of the Non-Aligned Movement in Tehran:. The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". ](/news/2012/09/1/16th-summit-of-the-non-aligned-movement-in-tehran-the-summit-is-closed-with-accepting-a-600-page-final-document-that-mainly-focuses-on-the.md)
+### [16th Summit of the Non-Aligned Movement in Tehran:: The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". ](/news/2012/09/1/16th-summit-of-the-non-aligned-movement-in-tehran-the-summit-is-closed-with-accepting-a-600-page-final-document-that-mainly-focuses-on-the.md)
 _Context: 16th Summit of the Non-Aligned Movement, China, Iran, Palestinian, Syrian Civil War, Tehran, nuclear scientist_
 
 ### [The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. ](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.md)

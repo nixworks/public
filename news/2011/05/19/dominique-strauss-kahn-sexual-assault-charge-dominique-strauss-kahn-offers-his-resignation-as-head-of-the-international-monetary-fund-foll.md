@@ -1,6 +1,6 @@
 ### [2011-05-19](/news/2011/05/19/index.md)
 
-# Dominique Strauss-Kahn sexual assault charge:. Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. 
+# Dominique Strauss-Kahn sexual assault charge:: Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. 
 
 International Monetary Fund head Dominique Strauss-Kahn resigns following an alleged sexual assault of a hotel maid in New York.
 

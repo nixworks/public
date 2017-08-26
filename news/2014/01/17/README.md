@@ -1,18 +1,18 @@
 ## [2014-01-17](/news/2014/01/17/index.md)
 
-### [2013-14 Thai political crisis:. An explosion rocks the protests in Bangkok resulting in dozens of injuries. ](/news/2014/01/17/2013-14-thai-political-crisis-an-explosion-rocks-the-protests-in-bangkok-resulting-in-dozens-of-injuries.md)
+### [2013-14 Thai political crisis:: An explosion rocks the protests in Bangkok resulting in dozens of injuries. ](/news/2014/01/17/2013-14-thai-political-crisis-an-explosion-rocks-the-protests-in-bangkok-resulting-in-dozens-of-injuries.md)
 _Context: 2013-14 Thai political crisis, Bangkok_
 
 ### [At least three people are killed and fifteen are injured after an explosion in a passenger train travelling from Peshawar to Karachi. ](/news/2014/01/17/at-least-three-people-are-killed-and-fifteen-are-injured-after-an-explosion-in-a-passenger-train-travelling-from-peshawar-to-karachi.md)
 At least three persons were killed and 15 others injured today when a blast hit a passenger train, derailing its seven coaches in central Pakistan. The blast derailed coaches of the Khushhal Khan Khattak Express train, two of which were overturned,
 
-### [Syrian Civil War spillover in Lebanon:. A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md)
+### [Syrian Civil War spillover in Lebanon:: A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/syrian-civil-war-spillover-in-lebanon-a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md)
 _Context: Arsal, Lebanon, Syrian Civil War spillover in Lebanon_
 
-### [Taliban insurgency in Afghanistan:. Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md)
+### [Taliban insurgency in Afghanistan:: Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md)
 _Context: Afghanistan's, Kabul, Taliban insurgency, suicide bombing_
 
-### [Post-coup unrest in Egypt:. Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md)
+### [Post-coup unrest in Egypt:: Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-two-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md)
 At least four people were killed as clashes between Muslim Brotherhood supporters and police flared up across Egypt on Friday, security sources said.
 
 ### [One of the last Japanese soldiers to surrender from World War II, Hiroo Onoda, who surrendered in the Philippines in 1974, dies at the age of 91. ](/news/2014/01/17/one-of-the-last-japanese-soldiers-to-surrender-from-world-war-ii-hiroo-onoda-who-surrendered-in-the-philippines-in-1974-dies-at-the-age-o.md)

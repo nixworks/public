@@ -6,7 +6,7 @@ _Context: Mal, Maldives, explodes_
 ### [ President of Pakistan Muslim League (N) says former Pakistan President Nawaz Sharif will make a comeback to Pakistan after Ramadan. ](/news/2007/09/29/president-of-pakistan-muslim-league-n-says-former-pakistan-president-nawaz-sharif-will-make-a-comeback-to-pakistan-after-ramadan.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Ramadan_
 
-### [ 2007 Burmese anti-government protests:. Shortly after his scheduled arrival at Yangon, it was reported that Ibrahim Gambari, the UN Secretary-General's special adviser on Burma, had arrived in Naypyidaw to talk with the junta leaders. ](/news/2007/09/29/2007-burmese-anti-government-protests-shortly-after-his-scheduled-arrival-at-yangon-it-was-reported-that-ibrahim-gambari-the-un-secreta.md)
+### [ 2007 Burmese anti-government protests:: Shortly after his scheduled arrival at Yangon, it was reported that Ibrahim Gambari, the UN Secretary-General's special adviser on Burma, had arrived in Naypyidaw to talk with the junta leaders. ](/news/2007/09/29/2007-burmese-anti-government-protests-shortly-after-his-scheduled-arrival-at-yangon-it-was-reported-that-ibrahim-gambari-the-un-secreta.md)
 _Context: 2007 Burmese anti-government protests, Ibrahim Gambari, Naypyidaw, Yangon_
 
 ### [ Iran declares the US Army and CIA, "terrorist organisations", countering claims by America about their own armed forces. ](/news/2007/09/29/iran-declares-the-us-army-and-cia-terrorist-organisations-countering-claims-by-america-about-their-own-armed-forces.md)

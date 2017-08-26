@@ -27,8 +27,8 @@ _Context: Brazil, Colombia, FARC, Guaviare, Tomas Medina Caracas, anti-drug plan
 ### [ The Israeli Defense Forces announce plans for a force upgrade following problems in the 2006 Lebanon War and a perceived threat from Iran. ](/news/2007/09/3/the-israeli-defense-forces-announce-plans-for-a-force-upgrade-following-problems-in-the-2006-lebanon-war-and-a-perceived-threat-from-iran.md)
 _Context: Iran, Israeli Defense Forces, Israeli-Lebanese war of 2006_
 
-### [ War in Iraq:. U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md)
-_Context: George W. Bush, Iraq, Iraq War, Military of the United States, War in Iraq, president, troop cut_
+### [ War in Iraq:: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md)
+_Context: George W. Bush, Iraq, Iraq War, Military of the United States, President, War in Iraq, troop cut_
 
 ### [ The Rail Maritime and Transport Union threatens a three day strike on the London Underground with last minute talks between the union and Transport for London failing to prevent this outcome. ](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
@@ -57,7 +57,7 @@ _Context: Sun Zhengcai, chemical, food_
 ### [ The interim Government of Bangladesh arrests former Prime Minister of Bangladesh Khaleda Zia and her son on corruption charges. ](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.md)
 _Context: Bangladesh, Khaleda Zia, Prime Minister, anti-corruption_
 
-### [ APEC:. The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md)
+### [ APEC:: The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/apec-the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md)
 The Sydney Morning Herald 404 Page
 
 ### [ Jamaican voters go to the polls for the Jamaican general election, 2007. ](/news/2007/09/3/jamaican-voters-go-to-the-polls-for-the-jamaican-general-election-2007.md)
@@ -66,7 +66,7 @@ _Context: Jamaica, Jamaican general election, 2007_
 ### [ According to reports in Japanese media, Takehiko Endo resigns as the Japanese Agriculture Minister due to involvements in illegal dealings in 1999. ](/news/2007/09/3/according-to-reports-in-japanese-media-takehiko-endo-resigns-as-the-japanese-agriculture-minister-due-to-involvements-in-illegal-dealings.md)
 _Context: Japan, Takehiko Endo_
 
-### [ Hurricane Felix. Hurricane Felix reaches Category 5 strength as it heads towards (Wikinews). Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-hurricane-felix-reaches-category-5-strength-as-it-heads-towards-wikinews-honduras-issues-a-hurricane-warning-for-an-are.md)
+### [ Hurricane Felix: Hurricane Felix reaches Category 5 strength as it heads towards (Wikinews): Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-hurricane-felix-reaches-category-5-strength-as-it-heads-towards-wikinews-honduras-issues-a-hurricane-warning-for-an-are.md)
 _Context: (Wikinews), Atlantida, Bay Islands, Colon, Cortes, Gracias a Dios, Honduras, Hurricane Felix, Limon, Nicaragua, Olancho, Saffir-Simpson Hurricane Scale, Yoro_
 
 ## [Previous Day...](/news/2007/09/2/index.md)

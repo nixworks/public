@@ -1,6 +1,6 @@
 ### [2008-04-3](/news/2008/04/3/index.md)
 
-#  Zimbabwean presidential election, 2008:. Police in riot gear surround a hotel in Harare housing foreign journalists. New York Times correspondent Barry Bearak, Daily Telegraph correspondent Stephen Bevan, and two others are arrested. 
+#  Zimbabwean presidential election, 2008:: Police in riot gear surround a hotel in Harare housing foreign journalists. New York Times correspondent Barry Bearak, Daily Telegraph correspondent Stephen Bevan, and two others are arrested. 
 
 Intruders ransacked offices of the main opposition party and police detained foreign journalists Thursday in an ominous sign that President Robert Mugabe might fight to hold onto office.
 
@@ -12,9 +12,9 @@ Intruders ransacked offices of the main opposition party and police detained for
 
 ### Related:
 
-1. [2016 Zimbabwe protests. The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/2016-zimbabwe-protests-the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _Context: Harare_
-2. [2016 Zimbabwe protests. Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/2016-zimbabwe-protests-police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md) _Context: Harare_
-3. [2016 Zimbabwe protests. Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/2016-zimbabwe-protests-protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-m.md) _Context: Harare_
+1. [2016 Zimbabwe protests: The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/2016-zimbabwe-protests-the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _Context: Harare_
+2. [2016 Zimbabwe protests: Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/2016-zimbabwe-protests-police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md) _Context: Harare_
+3. [2016 Zimbabwe protests: Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/2016-zimbabwe-protests-protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-m.md) _Context: Harare_
 4. [Riots break out in Harare, the capital of Zimbabwe, after police attempt to disperse a protest by the city's taxi drivers. ](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabwe-after-police-attempt-to-disperse-a-protest-by-the-city-s-taxi-drivers.md) _Context: Harare_
 5. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Harare_
 6. [The "New York Times" reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-the.md) _Context: New York Times_

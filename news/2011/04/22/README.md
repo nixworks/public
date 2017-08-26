@@ -6,7 +6,7 @@ Thailand and Cambodia exchanged gunfire along their border on Friday, with each 
 ### [3 people are killed and 3 others are wounded as a result of a blast in a factory in the Gaza Strip. ](/news/2011/04/22/3-people-are-killed-and-3-others-are-wounded-as-a-result-of-a-blast-in-a-factory-in-the-gaza-strip.md)
 _Context: Gaza Strip_
 
-### [Arab Spring. 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md)
+### [Arab Spring: 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md)
 Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welcome to GCC plan to defuse crisis.
 
 ### [Amid a protest against the construction of a new Tesco superstore in the Stokes Croft area of the English city of Bristol, 9 people are arrested and 8 police officers are injured. ](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.md)

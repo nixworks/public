@@ -1,6 +1,6 @@
 ## [2009-04-12](/news/2009/04/12/index.md)
 
-### [ Thai political crisis:. Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md)
+### [ Thai political crisis:: Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/thai-political-crisis-prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md)
 _Context: Abhisit Vejjajiva, Bangkok, Prime Minister, Thailand, political crisis, state of emergency_
 
 ### [ Sri Lanka's Armed Forces temporarily suspend their offensive against the Tamil Tigers to allow civilians to find refuge. ](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.md)

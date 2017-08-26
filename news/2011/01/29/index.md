@@ -1,6 +1,6 @@
 ## [2011-01-29](/news/2011/01/29/index.md)
 
-### [2011 Egyptian protests:. The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md)
+### [2011 Egyptian protests:: The protests continue as Egyptian Army tanks surround Cairo's Tahrir Square. ](/news/2011/01/29/2011-egyptian-protests-the-protests-continue-as-egyptian-army-tanks-surround-cairo-s-tahrir-square.md)
 At least three people killed as protesters attempt to storm the interior ministry in Cairo.
 
 ### [2011 Yemeni protests: Clashes take place outside the Egyptian embassy between supporters of President Ali Abdullah Saleh's government and opposition supporters expressing sympathy with the situation in Egypt. ](/news/2011/01/29/2011-yemeni-protests-clashes-take-place-outside-the-egyptian-embassy-between-supporters-of-president-ali-abdullah-saleh-s-government-and-op.md)
@@ -12,7 +12,7 @@ _Context: Aaron Porter, England, Manchester, student leader_
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
 _Context: Domodedovo International Airport, Moscow, Russia, bombing_
 
-### [War in Afghanistan (2001-present):. Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001-present-abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-atta.md)
+### [War in Afghanistan (2001-present):: Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001-present-abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-atta.md)
 _Context: Afghanistan's, Kandahar Province, War in Afghanistan (2001-present)_
 
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)

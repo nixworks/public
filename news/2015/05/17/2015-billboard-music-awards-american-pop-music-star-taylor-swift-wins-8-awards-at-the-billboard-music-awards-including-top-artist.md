@@ -1,6 +1,6 @@
 ### [2015-05-17](/news/2015/05/17/index.md)
 
-# 2015 "Billboard" Music Awards. American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. 
+# 2015 "Billboard" Music Awards: American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. 
 
 Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, winning a massive eight gongs, mostly for her first pop album 1989.
 
@@ -12,7 +12,7 @@ Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, wi
 ### Related:
 
 1. [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md) _Context: pop_
-2. [2016 MTV Video Music Awards. Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/2016-mtv-video-music-awards-taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _Context: Taylor Swift_
+2. [2016 MTV Video Music Awards: Taylor Swift is snubbed while Adele and Beyonce lead in nominations. ](/news/2016/07/27/2016-mtv-video-music-awards-taylor-swift-is-snubbed-while-adele-and-beyonca-c-lead-in-nominations.md) _Context: Taylor Swift_
 3. [Grammy Award-winning pop music duo OutKast reunites. ](/news/2014/01/9/grammy-award-winning-pop-music-duo-outkast-reunites.md) _Context: pop_
 4. [Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. ](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.md) _Context: Taylor Swift_
 5. [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md) _Context: pop_

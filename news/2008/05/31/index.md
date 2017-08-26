@@ -6,7 +6,7 @@ _Context: 100 metres, Icahn Stadium, Jamaica, New York City, Reebok Grand Prix, 
 ### [ In rugby union, the Crusaders defeat the New South Wales Waratahs in the 2008 Super 14 Final. ](/news/2008/05/31/in-rugby-union-the-crusaders-defeat-the-new-south-wales-waratahs-in-the-2008-super-14-final.md)
 _Context: 2008 Super 14 Final, Crusaders, New South Wales Waratahs, rugby union_
 
-### [ China:. Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md)
+### [ China:: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md)
 Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 
 ### [ STS-124 is launched with a crew of seven and the main module of the Japanese laboratory Kibo. ](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.md)

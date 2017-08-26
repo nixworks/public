@@ -1,9 +1,9 @@
 ## [2015-07-8](/news/2015/07/8/index.md)
 
-### [Boko Haram insurgency. Timeline of Boko Haram insurgency. Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/boko-haram-insurgency-timeline-of-boko-haram-insurgency-suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-i.md)
+### [Boko Haram insurgency: Timeline of Boko Haram insurgency: Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. ](/news/2015/07/8/boko-haram-insurgency-timeline-of-boko-haram-insurgency-suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-i.md)
 Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, local authorities in Chad told Reuters
 
-### [Yemeni Crisis (2011-present). The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
+### [Yemeni Crisis (2011-present): The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
 _Context: Houthi, Yemen, Yemeni Crisis (2011-present), truce_
 
 ### [At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. ](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.md)
@@ -27,7 +27,7 @@ Tube staff go on strike across the entire London Underground network in a row ov
 ### [A ground stop of all U.S. airport-based United Airlines (UAL) mainline flights following a system-wide network connectivity issue is lifted after a 1 hour, 21 minute suspension of morning service. The Federal Aviation Administration (FAA), which is also investigating, says all of United Continental Holdings Inc. regional airlines are now unaffected. This follows a similar issue on June 2, 2015 due to automation problems. ](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.md)
 The grounding of hundreds of United Airlines flights because of a computer glitch marked the latest in a series of airline delays and cancellations in the last few years that experts blame on massive, interconnected computer systems that lack sufficient staff and financial backing.
 
-### [2015 Pacific typhoon season. Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/2015-pacific-typhoon-season-typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md)
+### [2015 Pacific typhoon season: Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/2015-pacific-typhoon-season-typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md)
 _Context: 2015 Pacific typhoon season, Philippines_
 
 ### [Russia vetoes a UN resolution that would have condemned the July 1995 Srebrenica massacre of more than 8,000 Bosniaks as a genocide. ](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.md)
@@ -36,13 +36,13 @@ Russia vetoed a United Nations Security Council resolution on Wednesday that wou
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
 _Context: Alberta, British Columbia, Canada, Saskatchewan, Wildfire_
 
-### [1Malaysia Development Berhad scandal. Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/1malaysia-development-berhad-scandal-malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a.md)
+### [1Malaysia Development Berhad scandal: Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/1malaysia-development-berhad-scandal-malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a.md)
 _Context: 1Malaysia Development Berhad scandal, Malaysian police_
 
 ### [Gunmen kill three, wound one, Tuesday evening near the University of Maryland, Baltimore campus in what police report was an apparently targeted shooting unrelated to the college. ](/news/2015/07/8/gunmen-kill-three-wound-one-tuesday-evening-near-the-university-of-maryland-baltimore-campus-in-what-police-report-was-an-apparently-targ.md)
 Officers found a woman and two men with gunshot wounds, police say
 
-### [2015 Baltimore protests. The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. ](/news/2015/07/8/2015-baltimore-protests-the-mayor-of-the-us-city-of-baltimore-maryland-stephanie-rawlings-blake-fires-the-commissioner-of-the-police-depar.md)
+### [2015 Baltimore protests: The Mayor of the US city of Baltimore, Maryland Stephanie Rawlings-Blake fires the Commissioner of the Police Department, Anthony Batts. ](/news/2015/07/8/2015-baltimore-protests-the-mayor-of-the-us-city-of-baltimore-maryland-stephanie-rawlings-blake-fires-the-commissioner-of-the-police-depar.md)
 Mayor Stephanie Rawlings-Blake announced Wednesday that she has fired Police Commissioner Anthony W. Batts.
 
 ## [Previous Day...](/news/2015/07/7/index.md)

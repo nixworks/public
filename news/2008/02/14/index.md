@@ -1,6 +1,6 @@
 ## [2008-02-14](/news/2008/02/14/index.md)
 
-### [ Kosovo:. Former Kosovo Prime Minister Bajram Rexhepi says the province will unilaterally declare independence within the next 4 days. ](/news/2008/02/14/kosovo-former-kosovo-prime-minister-bajram-rexhepi-says-the-province-will-unilaterally-declare-independence-within-the-next-4-days.md)
+### [ Kosovo:: Former Kosovo Prime Minister Bajram Rexhepi says the province will unilaterally declare independence within the next 4 days. ](/news/2008/02/14/kosovo-former-kosovo-prime-minister-bajram-rexhepi-says-the-province-will-unilaterally-declare-independence-within-the-next-4-days.md)
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [ The United States House of Representatives approves contempt of Congress citations against Harriet Miers and Joshua Bolten in the U.S. Attorneys controversy. ](/news/2008/02/14/the-united-states-house-of-representatives-approves-contempt-of-congress-citations-against-harriet-miers-and-joshua-bolten-in-the-u-s-atto.md)

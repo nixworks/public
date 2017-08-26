@@ -1,6 +1,6 @@
 ## [2011-03-15](/news/2011/03/15/index.md)
 
-### [Arab Spring:. The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-the-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md)
+### [Arab Spring:: The King of Bahrain Hamad ibn Isa Al Khalifa declares a three month state of emergency following the 2011 Bahraini protests. ](/news/2011/03/15/arab-spring-the-king-of-bahrain-hamad-ibn-isa-al-khalifa-declares-a-three-month-state-of-emergency-following-the-2011-bahraini-protests.md)
 Four men have been arrested for the murder of an Al Jazeera journalist, and rebel officials claim evidence has emerged that Muammar Gaddafi&#039;s regime is sending undercover squads to carry out assassinations.
 
 ### [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010-2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md)
@@ -15,7 +15,7 @@ Iran, Syria change usual smuggling route due to close surveillance by Israel, US
 ### [Nasdaq OMX Group is preparing a bid for NYSE Euronext. Such a bid would, at the least, complicate the planned merger between NYSE and Deutsche Boerse. Reuters reported the planned counter-bid citing "a source familiar with the situation." ](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-euronext-such-a-bid-would-at-the-least-complicate-the-planned-merger-between-nyse-and-deutsc.md)
 _Context: Deutsche Boerse, NYSE Euronext, Nasdaq OMX Group_
 
-### [2011 Tohoku earthquake and tsunami:. Dozens of workers at the Fukushima Daiichi nuclear power complex (also called "Fukushima I") have stayed behind to end the radiation leaks, known as the "Fukushima 50", risking fatal radiation exposure. ](/news/2011/03/15/2011-tahoku-earthquake-and-tsunami-dozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-stay.md)
+### [2011 Tohoku earthquake and tsunami:: Dozens of workers at the Fukushima Daiichi nuclear power complex (also called "Fukushima I") have stayed behind to end the radiation leaks, known as the "Fukushima 50", risking fatal radiation exposure. ](/news/2011/03/15/2011-tahoku-earthquake-and-tsunami-dozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-stay.md)
 Japan faced the likelihood of a catastrophic nuclear accident after an explosion further damaged one of the crippled reactors and a fire at another spewed large amounts of radioactive material into the air.
 
 ### [The passing of the United States generation that fought in World War I is marked by the funeral of "'Frank Buckles"', who died on 27 February 2011, aged 110, and was buried with full military honors at Arlington National Cemetery. ](/news/2011/03/15/the-passing-of-the-united-states-generation-that-fought-in-world-war-i-is-marked-by-the-funeral-of-frank-buckles-who-died-on-27-februar.md)

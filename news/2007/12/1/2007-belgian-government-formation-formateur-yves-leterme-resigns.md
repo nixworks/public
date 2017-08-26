@@ -1,6 +1,6 @@
 ### [2007-12-1](/news/2007/12/1/index.md)
 
-#  2007 Belgian government formation. Formateur Yves Leterme resigns. 
+#  2007 Belgian government formation: Formateur Yves Leterme resigns. 
 
 
 

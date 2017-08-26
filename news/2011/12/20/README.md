@@ -21,7 +21,7 @@ All the regional groupings on the UN Security Council condemn Israeli settlement
 ### [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md)
 Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not believe phone hacking took place at the paper while he was in charge.
 
-### [Death of Kim Jong-il:. The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md)
+### [Death of Kim Jong-il:: The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/death-of-kim-jong-il-the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md)
 Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolences, despite tensions.
 
 ### [Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. ](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-southern-china-say-they-will-hold-talks-with-the-government-and-demand-concessions-in-return-for.md)

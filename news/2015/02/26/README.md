@@ -1,9 +1,9 @@
 ## [2015-02-26](/news/2015/02/26/index.md)
 
-### [War in Afghanistan. A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/war-in-afghanistan-a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md)
+### [War in Afghanistan: A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/war-in-afghanistan-a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md)
 A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kills at least one, local officials say.
 
-### [Islamic State of Iraq and the Levant. "Jihadi John", an ISIL terrorist featured in many beheading videos, is identified as Mohammed Emwazi, a Kuwaiti-born man who lived in the United Kingdom and was on a terrorism watch list. ](/news/2015/02/26/islamic-state-of-iraq-and-the-levant-jihadi-john-an-isil-terrorist-featured-in-many-beheading-videos-is-identified-as-mohammed-emwazi.md)
+### [Islamic State of Iraq and the Levant: "Jihadi John", an ISIL terrorist featured in many beheading videos, is identified as Mohammed Emwazi, a Kuwaiti-born man who lived in the United Kingdom and was on a terrorism watch list. ](/news/2015/02/26/islamic-state-of-iraq-and-the-levant-jihadi-john-an-isil-terrorist-featured-in-many-beheading-videos-is-identified-as-mohammed-emwazi.md)
 Intelligence official confirms masked ISIS militant seen in many beheading videos identified as college grad from London
 
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)

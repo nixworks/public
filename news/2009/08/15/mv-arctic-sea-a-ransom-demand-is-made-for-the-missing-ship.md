@@ -1,6 +1,6 @@
 ### [2009-08-15](/news/2009/08/15/index.md)
 
-#  MV "Arctic Sea". A ransom demand is made for the missing ship. 
+#  MV "Arctic Sea": A ransom demand is made for the missing ship. 
 
 The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 

@@ -1,9 +1,9 @@
 ## [2015-02-28](/news/2015/02/28/index.md)
 
-### [Islamic State of Iraq and the Levant. A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/islamic-state-of-iraq-and-the-levant-a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md)
+### [Islamic State of Iraq and the Levant: A series of car bombs kill 19 people in Balad Ruz, east-central Iraq. ](/news/2015/02/28/islamic-state-of-iraq-and-the-levant-a-series-of-car-bombs-kill-19-people-in-balad-ruz-east-central-iraq.md)
 A series of car bombs has ripped through a crowded marketplace and a Shi’ite militia&#39;s checkpoint, killing a total of 19 people in separate attacks north of the Iraqi capital Baghdad.
 
-### [Lithuania-United States relations:. Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-united-states-relations-lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed.md)
+### [Lithuania-United States relations:: Lithuania signs a trade agreement to buy liquefied natural gas from the United States in a move aimed at reducing the EU Baltic state's heavy dependence on Russian gas deliveries. ](/news/2015/02/28/lithuania-united-states-relations-lithuania-signs-a-trade-agreement-to-buy-liquefied-natural-gas-from-the-united-states-in-a-move-aimed.md)
 _Context: Baltic state, EU, Lithuania, Lithuania-United States relations, Russia, United States, liquefied natural gas_
 
 ### [The municipal intermediate people-s court for the eastern city of Dongying convicts Ni Fake, former Vice-Governor of Anhui province in China, on charges of bribery and "amassing wealth of unclear origin", and sentences him to seventeen years in prison. ](/news/2015/02/28/the-municipal-intermediate-people-s-court-for-the-eastern-city-of-dongying-convicts-ni-fake-former-vice-governor-of-anhui-province-in-chi.md)

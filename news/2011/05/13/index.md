@@ -1,18 +1,18 @@
 ## [2011-05-13](/news/2011/05/13/index.md)
 
-### [2011 Bahraini uprising:. The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-c.md)
+### [2011 Bahraini uprising:: The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/2011-bahraini-uprising-the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-c.md)
 _Context: 2011 Bahraini uprising, Bahrain, King of Bahrain_
 
-### [2011 Yemeni uprising:. 3 people are killed and 18 others are wounded as troops shoot at medics, witnesses and people protesting against the Saleh regime in Ibb, Ta'izz and Sana'a, though Saleh remains defiant. Qatar withdraws from mediation efforts, saying Saleh has been full of "indecision and delays". ](/news/2011/05/13/2011-yemeni-uprising-3-people-are-killed-and-18-others-are-wounded-as-troops-shoot-at-medics-witnesses-and-people-protesting-against-the.md)
+### [2011 Yemeni uprising:: 3 people are killed and 18 others are wounded as troops shoot at medics, witnesses and people protesting against the Saleh regime in Ibb, Ta'izz and Sana'a, though Saleh remains defiant. Qatar withdraws from mediation efforts, saying Saleh has been full of "indecision and delays". ](/news/2011/05/13/2011-yemeni-uprising-3-people-are-killed-and-18-others-are-wounded-as-troops-shoot-at-medics-witnesses-and-people-protesting-against-the.md)
 _Context: 2011 Yemeni uprising, Ibb, Qatar, Saleh, Sanaa, Ta'izz_
 
-### [2011 Syrian uprising:. Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/2011-syrian-uprising-soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md)
+### [2011 Syrian uprising:: Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/2011-syrian-uprising-soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md)
 Syrian President Bashar al-Assad has ordered troops not to fire on pro-democracy demonstrators, a rights campaigner said, ahead of Friday prayers that have become a rallying point for protesters in an eight-week uprising.
 
-### [2011 Libyan civil war:. A video shows 11 dead imams and 45 wounded Muslim holy men, 5 of whom are in a coma, alleged to have been caused by a NATO airstrike. Those attacked were said to have been at rest and sleeping while participating in a long peace march; Muslims and Christians unite in condemnation of the attack. ](/news/2011/05/13/2011-libyan-civil-war-a-video-shows-11-dead-imams-and-45-wounded-muslim-holy-men-5-of-whom-are-in-a-coma-alleged-to-have-been-caused-by.md)
+### [2011 Libyan civil war:: A video shows 11 dead imams and 45 wounded Muslim holy men, 5 of whom are in a coma, alleged to have been caused by a NATO airstrike. Those attacked were said to have been at rest and sleeping while participating in a long peace march; Muslims and Christians unite in condemnation of the attack. ](/news/2011/05/13/2011-libyan-civil-war-a-video-shows-11-dead-imams-and-45-wounded-muslim-holy-men-5-of-whom-are-in-a-coma-alleged-to-have-been-caused-by.md)
 The Libyan leader responds to claims by the Italian foreign minister in an audio statement aired on state television.
 
-### [2011 Egyptian revolution:. Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popul.md)
+### [2011 Egyptian revolution:: Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/2011-egyptian-revolution-authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popul.md)
 Suzanne Mubarak, wife of the ousted Egyptian president, is detained for 15 days pending further investigations into corruption allegations.
 
 ### [Dozens of people are injured in a petrol bomb attack on a bank in Gansu, northwest China. ](/news/2011/05/13/dozens-of-people-are-injured-in-a-petrol-bomb-attack-on-a-bank-in-gansu-northwest-china.md)

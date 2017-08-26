@@ -6,7 +6,7 @@ Helen Thomas, a trailblazing journalist who covered the White House for nearly f
 ### [Two US marine harrier jets forced to drop several unarmed bombs on the world-heritage listed Great Barrier Reef due to an emergency during a training exercise. ](/news/2013/07/20/two-us-marine-harrier-jets-forced-to-drop-several-unarmed-bombs-on-the-world-heritage-listed-great-barrier-reef-due-to-an-emergency-during-a.md)
 TWO US Marine Corps jets have been forced to drop four unarmed bombs on the Great Barrier Reef.
 
-### [Bihar school meal poisoning incident:. Police say that a forensic report confirmed the cooking oil contained "very toxic" levels of monocrotophos, an agricultural pesticide. ](/news/2013/07/20/bihar-school-meal-poisoning-incident-police-say-that-a-forensic-report-confirmed-the-cooking-oil-contained-very-toxic-levels-of-monocrot.md)
+### [Bihar school meal poisoning incident:: Police say that a forensic report confirmed the cooking oil contained "very toxic" levels of monocrotophos, an agricultural pesticide. ](/news/2013/07/20/bihar-school-meal-poisoning-incident-police-say-that-a-forensic-report-confirmed-the-cooking-oil-contained-very-toxic-levels-of-monocrot.md)
 Tests confirm high levels of pesticide in samples of the school meal blamed for the deaths of 23 children in the north-eastern India state of Bihar.
 
 ### [Venezuela ends its rapprochement with the United States due to a statement by Samantha Power, nominated to become the United States Ambassador to the United Nations. ](/news/2013/07/20/venezuela-ends-its-rapprochement-with-the-united-states-due-to-a-statement-by-samantha-power-nominated-to-become-the-united-states-ambassad.md)

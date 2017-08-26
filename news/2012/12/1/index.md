@@ -1,9 +1,9 @@
 ## [2012-12-1](/news/2012/12/1/index.md)
 
-### [Syrian civil war:. Syrian jets bombard rebel positions in Damascus as a country-wide Internet and phone blackout enters a third day. Government officials announce the road to the airport in the capital has been secured, though rebels insist clashes are ongoing. ](/news/2012/12/1/syrian-civil-war-syrian-jets-bombard-rebel-positions-in-damascus-as-a-country-wide-internet-and-phone-blackout-enters-a-third-day-governm.md)
+### [Syrian civil war:: Syrian jets bombard rebel positions in Damascus as a country-wide Internet and phone blackout enters a third day. Government officials announce the road to the airport in the capital has been secured, though rebels insist clashes are ongoing. ](/news/2012/12/1/syrian-civil-war-syrian-jets-bombard-rebel-positions-in-damascus-as-a-country-wide-internet-and-phone-blackout-enters-a-third-day-governm.md)
 Syrian jets bombed rebel-held areas of Damascus on Saturday, residents said, as the opposition indicated it could accept an international peacekeeping force if President Bashar al-Assad is forced from power.
 
-### [2012 East D.R. Congo conflict:. M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earl.md)
+### [2012 East D.R. Congo conflict:: M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/2012-east-d-r-congo-conflict-m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earl.md)
 _Context: 2012 East D.R. Congo conflict, Goma, M23, Uganda_
 
 ### [Anastasiya Petryk from Ukraine wins the Junior Eurovision Song Contest 2012 with her song "Nebo" ("Sky") which got 138 points. ](/news/2012/12/1/anastasiya-petryk-from-ukraine-wins-the-junior-eurovision-song-contest-2012-with-her-song-nebo-sky-which-got-138-points.md)
@@ -27,7 +27,7 @@ _Context: Broken Tooth Koi, Macau_
 ### [Jovan Belcher, a linebacker for the Kansas City Chiefs American football team kills himself at Arrowhead Stadium in Kansas City, Missouri, USA, after reportedly killing his girlfriend. ](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.md)
 An American football player has shot himself at the Kansas City Chiefs&#039; stadium.
 
-### [Mexican inauguration:. Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashe.md)
+### [Mexican inauguration:: Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/mexican-inauguration-enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashe.md)
 _Context: Enrique Pena Nieto, Institutional Revolutionary Party, President_
 
 ### [President of Egypt Mohamed Morsi announces that the country's new draft constitution will be put to a constitutional referendum on December 15. ](/news/2012/12/1/president-of-egypt-mohamed-morsi-announces-that-the-country-s-new-draft-constitution-will-be-put-to-a-constitutional-referendum-on-december.md)

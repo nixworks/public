@@ -1,6 +1,6 @@
 ## [2012-09-20](/news/2012/09/20/index.md)
 
-### [Syrian civil war:. The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-i.md)
+### [Syrian civil war:: The Local Coordination Committees of Syria report that the Syrian army has bombed a gas station in the town of Ain Issa in northern Syria, killing at least 30 people and wounding dozens more. ](/news/2012/09/20/syrian-civil-war-the-local-coordination-committees-of-syria-report-that-the-syrian-army-has-bombed-a-gas-station-in-the-town-of-ain-issa-i.md)
 Syrian opposition activists say at least 30 people have been killed and dozens wounded.
 
 ### [A suicide bomber kills 14 people by detonating explosives at a cafe frequented by politicians and journalists in Mogadishu, Somalia. ](/news/2012/09/20/a-suicide-bomber-kills-14-people-by-detonating-explosives-at-a-cafe-frequented-by-politicians-and-journalists-in-mogadishu-somalia.md)

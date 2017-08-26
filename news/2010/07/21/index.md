@@ -1,6 +1,6 @@
 ## [2010-07-21](/news/2010/07/21/index.md)
 
-### [Turkey - Kurdistan Workers' Party conflict:. Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/turkey-kurdistan-workers-party-conflict-kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-s.md)
+### [Turkey - Kurdistan Workers' Party conflict:: Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/turkey-kurdistan-workers-party-conflict-kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-s.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [Unidentified gunmen on motorcycles fatally shoot Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md)

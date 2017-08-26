@@ -1,6 +1,6 @@
 ### [2015-11-12](/news/2015/11/12/index.md)
 
-# Human rights in Uzbekistan. Uzbek political prisoner Murod Juraev is finally released after being imprisoned for 21 years. 
+# Human rights in Uzbekistan: Uzbek political prisoner Murod Juraev is finally released after being imprisoned for 21 years. 
 
 
 

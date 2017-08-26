@@ -1,6 +1,6 @@
 ## [2011-08-8](/news/2011/08/8/index.md)
 
-### [2011 Syrian uprising. The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/2011-syrian-uprising-the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md)
+### [2011 Syrian uprising: The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/2011-syrian-uprising-the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md)
 Bahrain has recalled its ambassador from Syria for consultation Foreign Minister Shaikh Khalid Bin Ahmad Al Khalifa said on Monday
 
 ### [2011 Libyan civil war: Fighting continues on the eastern and western fronts. ](/news/2011/08/8/2011-libyan-civil-war-fighting-continues-on-the-eastern-and-western-fronts.md)
@@ -24,7 +24,7 @@ _Context: China, Shandong Province, Typhoon Muifa, tropical storm_
 ### [The High Court of Australia grants an injunction against the removal of asylum seekers to Malaysia until a full hearing later this month. ](/news/2011/08/8/the-high-court-of-australia-grants-an-injunction-against-the-removal-of-asylum-seekers-to-malaysia-until-a-full-hearing-later-this-month.md)
 The injunction preventing the removal of asylum seekers to Malaysia has been extended until there is a full hearing later this month.
 
-### [2011 London riots:. More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/2011-london-riots-more-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md)
+### [2011 London riots:: More than 215 people have been arrested in London, England since the riots began. ](/news/2011/08/8/2011-london-riots-more-than-215-people-have-been-arrested-in-london-england-since-the-riots-began.md)
 Rioting has spread across London with cars and buildings set alight on a third night of unrest, with trouble flaring in other English cities.
 
 ### [Mike Rann, the Premier of the Australian state of South Australia, announces that he will be resigning on October 20 to be replaced by Education Minister Jay Weatherill. ](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.md)

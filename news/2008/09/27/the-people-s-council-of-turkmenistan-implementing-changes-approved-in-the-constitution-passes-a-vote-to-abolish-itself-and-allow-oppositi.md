@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Turkmenistani presidential election, 2017. Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/turkmenistani-presidential-election-2017-voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimu.md) _Context: Turkmenistan_
+1. [Turkmenistani presidential election, 2017: Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/turkmenistani-presidential-election-2017-voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimu.md) _Context: Turkmenistan_
 2. [A Russian oil tanker catches fire in the Caspian Sea, killing at least one crew member. A total of 10 crew members were evacuated from the ship, which was in the territorial waters of Turkmenistan when the fire broke out. It was unclear what caused the blaze. ](/news/2016/04/23/a-russian-oil-tanker-catches-fire-in-the-caspian-sea-killing-at-least-one-crew-member-a-total-of-10-crew-members-were-evacuated-from-the-s.md) _Context: Turkmenistan_
 3. [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md) _Context: Turkmenistan_
 4. [A census of population and housing begins today in Turkmenistan. ](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.md) _Context: Turkmenistan_

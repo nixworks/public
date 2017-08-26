@@ -1,6 +1,6 @@
 ### [2017-06-17](/news/2017/06/17/index.md)
 
-# Politics of Vanuatu. Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. 
+# Politics of Vanuatu: Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. 
 
 Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.
 
@@ -12,7 +12,7 @@ Vanuatu was in a state of mourning on Saturday after its revered president, Bald
 
 ### Related:
 
-1. [Elections in Vanuatu. Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/elections-in-vanuatu-tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office.md) _Context: Baldwin Lonsdale, President of Vanuatu_
+1. [Elections in Vanuatu: Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/elections-in-vanuatu-tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office.md) _Context: Baldwin Lonsdale, President of Vanuatu_
 2. [The Vanuatuan Speaker of the Parliament, Marcellino Pipite, serving as acting President, pardons himself and 13 other MPs who had been found guilty of bribery on 9 October 2015. ](/news/2015/10/12/the-vanuatuan-speaker-of-the-parliament-marcellino-pipite-serving-as-acting-president-pardons-himself-and-13-other-mps-who-had-been-found.md) _Context: Parliament_
 3. [American actor James Gandolfini, best known for portraying Tony Soprano in "The Sopranos", dies of a heart attack at the age of 51. ](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.md) _Context: heart attack_
 4. [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md) _Context: heart attack_

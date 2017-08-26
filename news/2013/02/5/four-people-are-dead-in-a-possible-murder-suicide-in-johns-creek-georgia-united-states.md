@@ -11,7 +11,7 @@ Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
 
 ### Related:
 
-1. [January 21-22, 2017 tornado outbreak. Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
+1. [January 21-22, 2017 tornado outbreak: Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
 2. [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md) _Context: Georgia, United States_
 3. [A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. ](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake-city-united-states-causes-the-death-of-two-people.md) _Context: United States, murder-suicide_
 4. [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md) _Context: United States, murder-suicide_

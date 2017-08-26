@@ -1,6 +1,6 @@
 ### [2016-11-6](/news/2016/11/6/index.md)
 
-# Nicaraguan general election, 2016. Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.
+# Nicaraguan general election, 2016: Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.
 
 Nicaraguan leader Daniel Ortega wins a third consecutive term, but the opposition cries foul.
 
@@ -21,5 +21,5 @@ Nicaraguan leader Daniel Ortega wins a third consecutive term, but the oppositio
 6. [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md) _Context: Daniel Ortega, Nicaraguan President_
 7. [ Following the 2006 general election, Daniel Ortega becomes the new President of Nicaragua, replacing Enrique Bolanos. ](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.md) _Context: Daniel Ortega, Nicaraguan President_
 8. [ Daniel Ortega has an early lead over Eduardo Montealegre, according to partial results from the general elections in Nicaragua. ](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.md) _Context: Daniel Ortega, Nicaragua_
-9. [2016 Atlantic hurricane season. Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/2016-atlantic-hurricane-season-hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-ame.md) _Context: Nicaragua_
-10. [2016 Atlantic hurricane season. Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/2016-atlantic-hurricane-season-hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-s.md) _Context: Nicaragua_
+9. [2016 Atlantic hurricane season: Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/2016-atlantic-hurricane-season-hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-ame.md) _Context: Nicaragua_
+10. [2016 Atlantic hurricane season: Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/2016-atlantic-hurricane-season-hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-s.md) _Context: Nicaragua_

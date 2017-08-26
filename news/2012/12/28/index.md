@@ -1,6 +1,6 @@
 ## [2012-12-28](/news/2012/12/28/index.md)
 
-### [2012 Central African Republic rebellion:. The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-wee.md)
+### [2012 Central African Republic rebellion:: The government of the Central African Republic and a rebel coalition agree to hold talks after weeks of unrest. ](/news/2012/12/28/2012-central-african-republic-rebellion-the-government-of-the-central-african-republic-and-a-rebel-coalition-agree-to-hold-talks-after-wee.md)
 The government of the Central African Republic and a rebel coalition have agreed to hold talks after weeks of unrest.
 
 ### [Jiroemon Kimura of Japan becomes the world's oldest verified man ever. ](/news/2012/12/28/jiroemon-kimura-of-japan-becomes-the-world-s-oldest-verified-man-ever.md)

@@ -1,15 +1,15 @@
 ## [2012-12-25](/news/2012/12/25/index.md)
 
-### [Syrian civil war:. Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. ](/news/2012/12/25/syrian-civil-war-rebels-take-over-the-city-of-harem-in-idlib-governorate-on-the-border-with-turkey-about-55-kms-west-of-aleppo.md)
+### [Syrian civil war:: Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. ](/news/2012/12/25/syrian-civil-war-rebels-take-over-the-city-of-harem-in-idlib-governorate-on-the-border-with-turkey-about-55-kms-west-of-aleppo.md)
 The Pope calls for a political solution to the conflict in Syria during his Christmas message, delivered to thousands of pilgrims at the Vatican.
 
-### [Al-Qaeda insurgency in Yemen:. Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gov.md)
+### [Al-Qaeda insurgency in Yemen:: Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gov.md)
 At least five militants were killed and three soldiers wounded in Yemen on Tuesday in fighting near a damaged oil pipeline east of the capital Sanaa, a defense ministry official and residents said.
 
-### [Nigerian Sharia conflict:. Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md)
+### [Nigerian Sharia conflict:: Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/nigerian-sharia-conflict-suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md)
 _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
 
-### [2012 Central African Republic rebellion:. The Seleka rebel coalition captures Kaga-Bandoro, the fourth major city to fall since the return to hostilities on December 10. Meanwhile, President Francois Bozize meets with military advisors in the capital Bangui. ](/news/2012/12/25/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-captures-kaga-bandoro-the-fourth-major-city-to-fall-since-the-return-t.md)
+### [2012 Central African Republic rebellion:: The Seleka rebel coalition captures Kaga-Bandoro, the fourth major city to fall since the return to hostilities on December 10. Meanwhile, President Francois Bozize meets with military advisors in the capital Bangui. ](/news/2012/12/25/2012-central-african-republic-rebellion-the-seleka-rebel-coalition-captures-kaga-bandoro-the-fourth-major-city-to-fall-since-the-return-t.md)
 _Context: 2012 Central African Republic rebellion, Bangui's, Francois Bozize, Kaga-Bandoro, Seleka_
 
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-va.md)

@@ -12,7 +12,7 @@ _Context: Malaysia, Somali pirates, Somalia_
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.
 
-### [Irish financial crisis:. Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay -17 billion out of its own national pension fund. ](/news/2010/11/29/irish-financial-crisis-fine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-cen.md)
+### [Irish financial crisis:: Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay -17 billion out of its own national pension fund. ](/news/2010/11/29/irish-financial-crisis-fine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-cen.md)
 The euro and major European markets fall after ministers agree a 85bn euros bail-out for the Republic of Ireland.
 
 ### [Workers at the London Underground go on strike for 24 hours, causing widespread peak-hour disruption in the capital of the United Kingdom. ](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.md)
@@ -52,7 +52,7 @@ _Context: Constitutional Court of Thailand, Democrat Party, Thailand_
 _Context: Australia, John Brumby, Premier, Ted Baillieu, Victoria, Victorian election_
 
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
-_Context: Barack Obama, United States government, president, wage freeze_
+_Context: Barack Obama, President, United States government, wage freeze_
 
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
 _Context: Canadian  House of Commons, Canadian federal by-elections, Conservative Party's, Liberal Party's, Manitoba, Ontario, ridings_

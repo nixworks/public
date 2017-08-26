@@ -12,4 +12,4 @@ Jerrie Ann Sullivan says she is &#8220;not at all surprised&#8221; about the fin
 
 ### Related:
 
-1. [Garda phone tapping scandal:. Martin Callinan resigns as Commissioner of Ireland's Garda Siochana (national police) over his "disgusting" comment about whistleblowers made to a parliamentary committee. Callinan had also been involved in controversy over the recent surveillance/bugging of GSOC. ](/news/2014/03/25/garda-phone-tapping-scandal-martin-callinan-resigns-as-commissioner-of-ireland-s-garda-saocha-na-national-police-over-his-disgusting.md) _Context: GSOC_
+1. [Garda phone tapping scandal:: Martin Callinan resigns as Commissioner of Ireland's Garda Siochana (national police) over his "disgusting" comment about whistleblowers made to a parliamentary committee. Callinan had also been involved in controversy over the recent surveillance/bugging of GSOC. ](/news/2014/03/25/garda-phone-tapping-scandal-martin-callinan-resigns-as-commissioner-of-ireland-s-garda-saocha-na-national-police-over-his-disgusting.md) _Context: GSOC_

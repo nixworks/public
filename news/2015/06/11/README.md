@@ -1,15 +1,15 @@
 ## [2015-06-11](/news/2015/06/11/index.md)
 
-### [Military intervention against ISIL. A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/military-intervention-against-isil-a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action.md)
+### [Military intervention against ISIL: A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/military-intervention-against-isil-a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action.md)
 _Context: ISIL, Koban, Military intervention against ISIL, YPG_
 
-### [Syrian Civil War. Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/syrian-civil-war-al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-descr.md)
+### [Syrian Civil War: Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/syrian-civil-war-al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-descr.md)
 Jabhat al-Nusra, al-Qaeda&#039;s Syria branch, shot dead at least 20 members of the minority sect in the north of the country, where it has reportedly forced hundreds to convert to Sunni Islam
 
-### [Boko Haram. Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/boko-haram-residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attac.md)
+### [Boko Haram: Residents of northeast Nigeria claim that Boko Haram has killed at least 43 people and burnt down three villages in recent attacks. ](/news/2015/06/11/boko-haram-residents-of-northeast-nigeria-claim-that-boko-haram-has-killed-at-least-43-people-and-burnt-down-three-villages-in-recent-attac.md)
 Boko Haram gunmen killed at least 43 people and burnt down three villages in northeast Nigeria, residents told AFP Thursday, the latest in an upsurge of attacks by the Islamist militants. Dozens of rebels on motorcycles stormed Matangale, Buraltima and Dirmanti in restive Borno state on Tuesday, ope...
 
-### [Palestinian rocket attacks on Israel. A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/palestinian-rocket-attacks-on-israel-a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-w.md)
+### [Palestinian rocket attacks on Israel: A rocket fired from the Gaza Strip towards the Ashkelon region fell short and did not land in Israel with Palestinian sources indicating it may have hit a house. There were no immediate reports of injuries, or claims of responsibility. Journalists speculate that ISIL-affiliated groups are responsible. ](/news/2015/06/11/palestinian-rocket-attacks-on-israel-a-rocket-fired-from-the-gaza-strip-towards-the-ashkelon-region-fell-short-and-did-not-land-in-israel-w.md)
 Sirens heard in southern Israel as missile fire pierces calm for fourth time in recent weeks; IDF says missile may have hit house in Gaza
 
 ### [Spain gives the late writer Miguel de Cervantes, author of "Don Quixote", a formal burial at a Madrid convent nearly 400 years after his death in 1616. ](/news/2015/06/11/spain-gives-the-late-writer-miguel-de-cervantes-author-of-don-quixote-a-formal-burial-at-a-madrid-convent-nearly-400-years-after-his-dea.md)
@@ -30,16 +30,16 @@ At least 41 people were killed and eight injured on Thursday in a landslide trig
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
 _Context: Middle East respiratory syndrome, South Korea, United States_
 
-### [NGO Save the Children. Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO-s anti-Pakistan activities. ](/news/2015/06/11/ngo-save-the-children-federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-orde.md)
+### [NGO Save the Children: Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO-s anti-Pakistan activities. ](/news/2015/06/11/ngo-save-the-children-federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-orde.md)
 Save the children says it was served a notice, denies it has expatriate staff working in Pakistan
 
-### [Nuclear program of Iran:. A new version of the Israeli-linked malware Duqu is found at hotels hosting Iran nuclear talks by Kaspersky; Israel denies involvement. ](/news/2015/06/11/nuclear-program-of-iran-a-new-version-of-the-israeli-linked-malware-duqu-is-found-at-hotels-hosting-iran-nuclear-talks-by-kaspersky-israe.md)
+### [Nuclear program of Iran:: A new version of the Israeli-linked malware Duqu is found at hotels hosting Iran nuclear talks by Kaspersky; Israel denies involvement. ](/news/2015/06/11/nuclear-program-of-iran-a-new-version-of-the-israeli-linked-malware-duqu-is-found-at-hotels-hosting-iran-nuclear-talks-by-kaspersky-israe.md)
 Internet security company Kaspersky says software was used to infiltrate venues for international negotiations on Tehran’s nuclear programme
 
 ### [China's former security chief Zhou Yongkang is given a life sentence for bribery, leaking state secrets and abuse of power. ](/news/2015/06/11/china-s-former-security-chief-zhou-yongkang-is-given-a-life-sentence-for-bribery-leaking-state-secrets-and-abuse-of-power.md)
 China&#039;s former domestic security chief is sentenced to life in jail after being found guilty of bribery and corruption.
 
-### [Shooting of Tamir Rice. A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/shooting-of-tamir-rice-a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timot.md)
+### [Shooting of Tamir Rice: A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/shooting-of-tamir-rice-a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timot.md)
 The opinion was released Thursday after a group of local clergy and activists filed affidavits asking the municipal court to find probable cause to arrest Timothy Loehmann and Frank Garmback on aggravated murder and other charges.
 
 ### [King Felipe VI of Spain strips his sister Cristina of her titles after she is charged with tax evasion. ](/news/2015/06/11/king-felipe-vi-of-spain-strips-his-sister-cristina-of-her-titles-after-she-is-charged-with-tax-evasion.md)

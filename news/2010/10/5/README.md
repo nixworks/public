@@ -15,7 +15,7 @@ Dissident republican group the Real IRA says it carried out a car bomb attack in
 ### [A state of emergency in place in Ecuador after the 2010 Ecuador crisis is extended to Friday. ](/news/2010/10/5/a-state-of-emergency-in-place-in-ecuador-after-the-2010-ecuador-crisis-is-extended-to-friday.md)
 _Context: Ecuador, protested against being stripped of their bonuses, state of emergency_
 
-### [TVNZ "Breakfast" race row:. "Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/tvnz-breakfast-race-row-breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-in.md)
+### [TVNZ "Breakfast" race row:: "Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/tvnz-breakfast-race-row-breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-in.md)
 Paul Henry has been suspended by TVNZ for comments he made yesterday about the Governor-General Sir Anand Satyanand. - New Zealand Herald
 
 ### [Google lines up Internet TV programming partners like TBS, TNT, CNN, HBO, NBA, CNBC. ](/news/2010/10/5/google-lines-up-internet-tv-programming-partners-like-tbs-tnt-cnn-hbo-nba-cnbc.md)
@@ -46,7 +46,7 @@ Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoy
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
-_Context: Barack Obama, Mohamed Nasheed, President, Steven Chu, Sungevity, White House, president, solar panel_
+_Context: Barack Obama, Mohamed Nasheed, President, President, Steven Chu, Sungevity, White House, solar panel_
 
 ### [1976 Nobel Peace Prize laureate Mairead Maguire is deported by Israel ending her joint effort with other Nobel laureates to meet Israeli and Palestinian peace activists. ](/news/2010/10/5/1976-nobel-peace-prize-laureate-mairead-maguire-is-deported-by-israel-ending-her-joint-effort-with-other-nobel-laureates-to-meet-israeli-and.md)
 Israel deported Irish Nobel peace laureate Mairead Maguire on Tuesday, after the country’s highest court rejected her appeal against a deportation order. “The supreme court yesterday ruled that she mu

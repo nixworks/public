@@ -1,6 +1,6 @@
 ## [2012-05-18](/news/2012/05/18/index.md)
 
-### [Mexican Drug War:. Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md)
+### [Mexican Drug War:: Masked gunmen kidnap and kill Marcos Antonio Avila Garcia, a journalist who often wrote about organized crime. His corpse was found inside a plastic bag in the Mexican city of Empalme. ](/news/2012/05/18/mexican-drug-war-masked-gunmen-kidnap-and-kill-marcos-antonio-avila-garcia-a-journalist-who-often-wrote-about-organized-crime-his-corpse.md)
 _Context: Empalme, Mexican Drug War, Mexico_
 
 ### [Three roadside bombs explode at an outdoor pet market in Baghdad, Iraq, killing five people. ](/news/2012/05/18/three-roadside-bombs-explode-at-an-outdoor-pet-market-in-baghdad-iraq-killing-five-people.md)

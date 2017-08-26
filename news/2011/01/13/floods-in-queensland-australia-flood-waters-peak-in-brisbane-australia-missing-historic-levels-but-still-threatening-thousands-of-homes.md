@@ -1,6 +1,6 @@
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-# Floods in Queensland, Australia:. Flood waters peak in Brisbane, Australia, missing historic levels but still threatening thousands of homes. 
+# Floods in Queensland, Australia:: Flood waters peak in Brisbane, Australia, missing historic levels but still threatening thousands of homes. 
 
 Many Brisbane residents have taken the ongoing flood crisis in their stride, even though large parts of the city remain submerged and the death toll continues to rise.
 
@@ -14,7 +14,7 @@ Many Brisbane residents have taken the ongoing flood crisis in their stride, eve
 
 ### Related:
 
-1. [Australian floods. The floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floods-the-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md) _Context: Australia, Brisbane, floods_
+1. [Australian floods: The floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floods-the-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md) _Context: Australia, Brisbane, floods_
 2. [A man shoots to death a woman and a seven-year-old boy then himself in the Queensland town of Biddeston, west of Brisbane, Australia. ](/news/2015/03/2/a-man-shoots-to-death-a-woman-and-a-seven-year-old-boy-then-himself-in-the-queensland-town-of-biddeston-west-of-brisbane-australia.md) _Context: Australia, Brisbane_
 3. [Protestors in Brisbane burn Australian flags over indigenous rights. ](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.md) _Context: Australia, Brisbane_
 4. [The ninth G-20 summit gets underway in the Australian city of Brisbane. ](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.md) _Context: Australia, Brisbane_

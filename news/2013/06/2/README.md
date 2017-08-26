@@ -1,9 +1,9 @@
 ## [2013-06-2](/news/2013/06/2/index.md)
 
-### [Syrian Civil War:. A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/syrian-civil-war-a-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security.md)
+### [Syrian Civil War:: A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/syrian-civil-war-a-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security.md)
 _Context: Damascus, Jobar, Syrian Civil War, car bomb_
 
-### [War in Afghanistan (2001-present):. Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001-present-taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four.md)
+### [War in Afghanistan (2001-present):: Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001-present-taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Mandawuy Yunupingu, frontman of the Aboriginal band Yothu Yindi dies at 56. ](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.md)
@@ -12,7 +12,7 @@ _Context: Aboriginal Australians, Mandawuy Yunupingu, Yothu Yindi_
 ### [A 6.2-magnitude earthquake strikes central Taiwan, killing at least one person. ](/news/2013/06/2/a-6-2-magnitude-earthquake-strikes-central-taiwan-killing-at-least-one-person.md)
 _Context: Taiwan, earthquake_
 
-### [2013 European floods:. Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md)
+### [2013 European floods:: Austria, Germany, Switzerland and the Czech Republic are hit by floods after days of heavy rain. ](/news/2013/06/2/2013-european-floods-austria-germany-switzerland-and-the-czech-republic-are-hit-by-floods-after-days-of-heavy-rain.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [It is announced that three professional storm chasers who were members of TWISTEX were among those killed by tornadoes in Oklahoma, US, on May 31. ](/news/2013/06/2/it-is-announced-that-three-professional-storm-chasers-who-were-members-of-twistex-were-among-those-killed-by-tornadoes-in-oklahoma-us-on-m.md)

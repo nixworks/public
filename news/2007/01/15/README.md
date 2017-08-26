@@ -1,7 +1,7 @@
 ## [2007-01-15](/news/2007/01/15/index.md)
 
 ### [ The President of the United States George W. Bush declares a state of emergency in Oklahoma following the death of 11 people in a midwinter storm. Twenty-five people have died in the midwestern United States as a result of the storm. ](/news/2007/01/15/the-president-of-the-united-states-george-w-bush-declares-a-state-of-emergency-in-oklahoma-following-the-death-of-11-people-in-a-midwinter.md)
-_Context: George W. Bush, Oklahoma!, midwestern, president, state of emergency_
+_Context: George W. Bush, Oklahoma!, President, midwestern, state of emergency_
 
 ### [ Colombian police arrest Eugenio Montoya, also known as Don Hugo, suspected of being a leader of the Norte del Valle syndicate, which is described by the Federal Bureau of Investigation as the "most powerful and violent drug-trafficking organization in Colombia". ](/news/2007/01/15/colombian-police-arrest-eugenio-montoya-also-known-as-don-hugo-suspected-of-being-a-leader-of-the-norte-del-valle-syndicate-which-is-des.md)
 The Age 404 Page
@@ -18,7 +18,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Iran's nuclear program: An Iranian official says that Iran is continuing its nuclear program despite being sanctioned by the United Nations. ](/news/2007/01/15/iran-s-nuclear-program-an-iranian-official-says-that-iran-is-continuing-its-nuclear-program-despite-being-sanctioned-by-the-united-nations.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Global spread of bird flu:. A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. ](/news/2007/01/15/global-spread-of-bird-flu-a-new-cluster-of-bird-flu-infections-involving-at-least-two-members-of-a-family-in-indonesia-may-indicate-a-cha.md)
+### [ Global spread of bird flu:: A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. ](/news/2007/01/15/global-spread-of-bird-flu-a-new-cluster-of-bird-flu-infections-involving-at-least-two-members-of-a-family-in-indonesia-may-indicate-a-cha.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The trial of six men accused of the 21 July 2005 London bombings begins. ](/news/2007/01/15/the-trial-of-six-men-accused-of-the-21-july-2005-london-bombings-begins.md)

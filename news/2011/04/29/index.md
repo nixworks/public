@@ -1,18 +1,18 @@
 ## [2011-04-29](/news/2011/04/29/index.md)
 
-### [2011 Syrian uprising:. A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-a-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md)
+### [2011 Syrian uprising:: A "Day of Rage" is set to get underway in Syria as the popular uprising against Bashar al-Assad's regime continues. ](/news/2011/04/29/2011-syrian-uprising-a-day-of-rage-is-set-to-get-underway-in-syria-as-the-popular-uprising-against-bashar-al-assad-s-regime-continues.md)
 Water and power have been cut in Daraa, epicentre of pro-democracy protests, with at least 42 people killed since Syrian troops stormed in three days ago, says a rights activist. 
 
-### [2011 Yemeni protests:. 100,000 people march through central Sanaa in one of the largest protests yet to have taken place against the Saleh regime, with protesters demanding that he resign immediately rather than wait for the phased handover of power he has orchestrated. ](/news/2011/04/29/2011-yemeni-protests-100-000-people-march-through-central-sanaa-in-one-of-the-largest-protests-yet-to-have-taken-place-against-the-saleh-r.md)
+### [2011 Yemeni protests:: 100,000 people march through central Sanaa in one of the largest protests yet to have taken place against the Saleh regime, with protesters demanding that he resign immediately rather than wait for the phased handover of power he has orchestrated. ](/news/2011/04/29/2011-yemeni-protests-100-000-people-march-through-central-sanaa-in-one-of-the-largest-protests-yet-to-have-taken-place-against-the-saleh-r.md)
 _Context: 2011 Yemeni protests, Saleh, Sanaa_
 
-### [Protests in Bahrain, Pakistan and Saudi Arabia:. Thousands march across Bahrain, Pakistan and Saudi Arabia in defiance of yesterday's death sentences handed down to anti-government protesters by the ruling Bahraini regime, with people in Lahore (Pakistan) carrying symbolic coffins in solidarity. ](/news/2011/04/29/protests-in-bahrain-pakistan-and-saudi-arabia-thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death.md)
+### [Protests in Bahrain, Pakistan and Saudi Arabia:: Thousands march across Bahrain, Pakistan and Saudi Arabia in defiance of yesterday's death sentences handed down to anti-government protesters by the ruling Bahraini regime, with people in Lahore (Pakistan) carrying symbolic coffins in solidarity. ](/news/2011/04/29/protests-in-bahrain-pakistan-and-saudi-arabia-thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death.md)
 Thousands denounce death sentences for anti-government protesters, and solidarity protests in Saudi Arabia and Pakistan.
 
-### [2011 Libyan civil war in Tunisia:. Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-muammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from.md)
+### [2011 Libyan civil war in Tunisia:: Muammar Gaddafi brings the 2011 Libyan civil war over the border into Tunisia, prompting complaints from the Tunisian foreign ministry. ](/news/2011/04/29/2011-libyan-civil-war-in-tunisia-muammar-gaddafi-brings-the-2011-libyan-civil-war-over-the-border-into-tunisia-prompting-complaints-from.md)
 Tunisia condemns a violation of its territory after fighting between Libyan rebels and forces loyal to Colonel Gaddafi spills over the border.
 
-### [2011 Moroccan protests:. People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-people-gather-to-demonstrate-against-terrorism-in-marrakesh.md)
+### [2011 Moroccan protests:: People gather to demonstrate against terrorism in Marrakesh. ](/news/2011/04/29/2011-moroccan-protests-people-gather-to-demonstrate-against-terrorism-in-marrakesh.md)
 Minister says bomb attack in Marrakesh set off by remote-control device bearing hallmarks of al-Qaeda.
 
 ### [Riots take place in the Ugandan capital Kampala after opposition leader Kizza Besigye is attacked, leaving two people dead and dozens injured. ](/news/2011/04/29/riots-take-place-in-the-ugandan-capital-kampala-after-opposition-leader-kizza-besigye-is-attacked-leaving-two-people-dead-and-dozens-injure.md)

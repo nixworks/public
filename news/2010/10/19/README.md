@@ -27,7 +27,7 @@ _Context: ASEAN, China, Expo, Guangxi Zhuang Autonomous Region, Jia Qinglin, Nan
 ### [China raises deposit rate for 1st time since 2007, the People's Bank of China said in a statement. ](/news/2010/10/19/china-raises-deposit-rate-for-1st-time-since-2007-the-people-s-bank-of-china-said-in-a-statement.md)
 _Context: China, People's Bank of China_
 
-### [French unrest. French strikes against pension reform as the Government of France taps emergency reserves to meet a fuel shortage with more than four thousand petrol stations running out of fuel. ](/news/2010/10/19/french-unrest-french-strikes-against-pension-reform-as-the-government-of-france-taps-emergency-reserves-to-meet-a-fuel-shortage-with-more-t.md)
+### [French unrest: French strikes against pension reform as the Government of France taps emergency reserves to meet a fuel shortage with more than four thousand petrol stations running out of fuel. ](/news/2010/10/19/french-unrest-french-strikes-against-pension-reform-as-the-government-of-france-taps-emergency-reserves-to-meet-a-fuel-shortage-with-more-t.md)
 French&#x20;protesters&#x20;engaged&#x20;in&#x20;a&#x20;sixth&#x20;day&#x20;of&#x20;nationwide&#x20;demonstrations&#x20;and&#x20;continued&#x20;strikes&#x20;against&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x27;s&#x20;unpopular&#x20;pension&#x20;reform&#x20;as&#x20;the&#x20;government&#x20;tapped&#x...
 
 ### [The Crystal Cathedral Ministries, the California megachurch founded by televangelist Robert Schuller and best known for its weekly "The Hour of Power" television program, files for bankruptcy court protection. ](/news/2010/10/19/the-crystal-cathedral-ministries-the-california-megachurch-founded-by-televangelist-robert-schuller-and-best-known-for-its-weekly-the-hour.md)

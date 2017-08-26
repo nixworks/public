@@ -1,6 +1,6 @@
 ### [2015-05-12](/news/2015/05/12/index.md)
 
-# Shooting of Tony Robinson. Officer Matt Kenny of the Madison Police Department will not face charges in relation to the shooting of Tony Robinson in March 2015 in the American city of Madison, Wisconsin. 
+# Shooting of Tony Robinson: Officer Matt Kenny of the Madison Police Department will not face charges in relation to the shooting of Tony Robinson in March 2015 in the American city of Madison, Wisconsin. 
 
 
 

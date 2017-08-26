@@ -1,18 +1,18 @@
 ## [2013-06-8](/news/2013/06/8/index.md)
 
-### [War in Afghanistan (2001-present):. In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/war-in-afghanistan-2001-present-in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-w.md)
+### [War in Afghanistan (2001-present):: In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/war-in-afghanistan-2001-present-in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-w.md)
 _Context: Afghan military, Afghanistan's, International Security Assistance Force, Paktika Province, United States military, War in Afghanistan (2001-present)_
 
-### [Syrian civil war:. The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
+### [Syrian civil war:: The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
 _Context: Al-Buwaydah al-Sharqiyah, Syrian Civil War, military_
 
 ### [Clashes between protestors and militia members in Benghazi, Libya, leads to at least 27 deaths and 117 injuries. ](/news/2013/06/8/clashes-between-protestors-and-militia-members-in-benghazi-libya-leads-to-at-least-27-deaths-and-117-injuries.md)
 _Context: Benghazi_
 
-### [Nigerian Sharia conflict:. At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mil.md)
+### [Nigerian Sharia conflict:: At least 21 people are killed in Maiduguri, Nigeria, as the government continues its crack down on Boko Haram militants. ](/news/2013/06/8/nigerian-sharia-conflict-at-least-21-people-are-killed-in-maiduguri-nigeria-as-the-government-continues-its-crack-down-on-boko-haram-mil.md)
 _Context: Boko Haram, Maiduguri, Nigerian Sharia conflict_
 
-### [Northern Mali conflict (2012-present):. The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012-present-the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md)
+### [Northern Mali conflict (2012-present):: The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012-present-the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md)
 _Context: Mali, Northern Mali conflict (2012-present), Tuareg, ceasefire_
 
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
@@ -24,10 +24,10 @@ Swedish Princess Madeleine, the youngest of Carl XVI Gustaf and Queen Silvia&rsq
 ### [Flooding in Central Europe spreads to Hungary. ](/news/2013/06/8/flooding-in-central-europe-spreads-to-hungary.md)
 People in Hungary are building barriers along the Danube River as they prepare for a surge of water that swamped parts of northern Germany.
 
-### [US-China summit:. US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-us-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md)
+### [US-China summit:: US president Barack Obama and Chinese president Xi Jinping finish up their two day summit by discussing cyber espionage. ](/news/2013/06/8/us-china-summit-us-president-barack-obama-and-chinese-president-xi-jinping-finish-up-their-two-day-summit-by-discussing-cyber-espionage.md)
 ‘Hacking not to be confused with data collection’
 
-### [U.S. government surveillance programs (including PRISM):. The existence of Boundless Informant, an NSA tool used by the U.S. government to watch every country on planet Earth, is revealed. ](/news/2013/06/8/u-s-government-surveillance-programs-including-prism-the-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-w.md)
+### [U.S. government surveillance programs (including PRISM):: The existence of Boundless Informant, an NSA tool used by the U.S. government to watch every country on planet Earth, is revealed. ](/news/2013/06/8/u-s-government-surveillance-programs-including-prism-the-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-w.md)
 Does the NSA have any secrets left? First there was PRISM—the network that&amp;#39;s collecting real-time data on American&amp;#39;s everywhere—and now The Guardian has turned up &quot;Boundless Informant&quot; which is indexing surveillance and espionage metadata from the ENTIRE WORLD.
 
 ### [With governor Peter Shumlin signing the law, Vermont becomes the 17th state to decriminalize the possession of small amounts of cannabis. ](/news/2013/06/8/with-governor-peter-shumlin-signing-the-law-vermont-becomes-the-17th-state-to-decriminalize-the-possession-of-small-amounts-of-cannabis.md)

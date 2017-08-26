@@ -1,6 +1,6 @@
 ### [2013-01-21](/news/2013/01/21/index.md)
 
-# Piracy in the 21st century:. Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. 
+# Piracy in the 21st century:: Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. 
 
 
 

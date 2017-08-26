@@ -12,4 +12,4 @@ Barbara Weldens collapsed mid-concert and was apparently electrocuted.
 
 ### Related:
 
-1. [Akyazi electrocution incident. Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/akyaza-electrocution-incident-five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md) _Context: electrocuted_
+1. [Akyazi electrocution incident: Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/akyaza-electrocution-incident-five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md) _Context: electrocuted_

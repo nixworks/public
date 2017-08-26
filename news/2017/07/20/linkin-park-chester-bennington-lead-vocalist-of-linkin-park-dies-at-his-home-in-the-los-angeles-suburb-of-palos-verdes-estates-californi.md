@@ -1,6 +1,6 @@
 ### [2017-07-20](/news/2017/07/20/index.md)
 
-# Linkin Park. Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. 
+# Linkin Park: Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. 
 
 
 

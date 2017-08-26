@@ -1,6 +1,6 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# 2017 Congressional baseball shooting. A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. 
+# 2017 Congressional baseball shooting: A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. 
 
 House Majority Whip Steve Scalise&nbsp;was among five people injured during a shooting while Congress members and staffers were practicing at a baseball field in Alexandria Wednesday morning.&nbsp;
 

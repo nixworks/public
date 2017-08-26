@@ -6,7 +6,7 @@ _Context: A340-600, Abu Dhabi, Airbus, Etihad Airways, Toulouse Blagnac Internat
 ### [ Russia's deputy finance minister Sergei Storchak, one of Russia's top officials on international financial relations, is detained as part of a criminal investigation. ](/news/2007/11/16/russia-s-deputy-finance-minister-sergei-storchak-one-of-russia-s-top-officials-on-international-financial-relations-is-detained-as-part-o.md)
 _Context: Russia, Sergei Storchak_
 
-### [ 2007 Georgian demonstrations:. President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
+### [ 2007 Georgian demonstrations:: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
 _Context: 2007 Georgian demonstrations, President of Georgia, Saakashvili, state of emergency_
 
 ### [ The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.md)
@@ -33,7 +33,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)
 _Context: OSCE, parliamentary elections, visa-free travel_
 
-### [ 2007 Pakistani state of emergency:. United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/2007-pakistani-state-of-emergency-united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutt.md)
+### [ 2007 Pakistani state of emergency:: United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/2007-pakistani-state-of-emergency-united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutt.md)
 _Context: 2007 Pakistani state of emergency, Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, US Deputy Secretary of State, United States, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
@@ -43,7 +43,7 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, Prime Minister of Japan, United States, Yasuo Fukuda, president_
+_Context: George W. Bush, Japan, President, Prime Minister of Japan, United States, Yasuo Fukuda_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_

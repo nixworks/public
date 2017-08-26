@@ -1,12 +1,12 @@
 ## [2015-05-18](/news/2015/05/18/index.md)
 
-### [Saudi Arabian-led intervention in Yemen. The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/saudi-arabian-led-intervention-in-yemen-the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md)
+### [Saudi Arabian-led intervention in Yemen: The Saudi Arabia-led airstrikes against the Houthi rebels resume after a five-day ceasefire. ](/news/2015/05/18/saudi-arabian-led-intervention-in-yemen-the-saudi-arabia-led-airstrikes-against-the-houthi-rebels-resume-after-a-five-day-ceasefire.md)
 A Saudi-led coalition resumes air strikes against Houthi rebels in Yemen after a five-day humanitarian ceasefire expires.
 
 ### [Simultaneous explosions occur at local offices of the pro-Kurdish People's Democratic Party headquarters in the southern Turkish cities of Adana and Mersin. ](/news/2015/05/18/simultaneous-explosions-occur-at-local-offices-of-the-pro-kurdish-people-s-democratic-party-headquarters-in-the-southern-turkish-cities-of-a.md)
 Casualties have been reported after several explosions hit 2 leftwing pro-Kurdish party HQs in Turkey.
 
-### [Islamic State in Iraq and the Levant. The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/islamic-state-in-iraq-and-the-levant-the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-c.md)
+### [Islamic State in Iraq and the Levant: The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/islamic-state-in-iraq-and-the-levant-the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-c.md)
 _Context: Anbar Governorate, ISIL, ISIS, Iraq, Ramadi_
 
 ### [The Dow Jones Industrial Average and S&P 500 end at record levels. ](/news/2015/05/18/the-dow-jones-industrial-average-and-s-p-500-end-at-record-levels.md)
@@ -28,7 +28,7 @@ _Context: Indonesia, Philippines, Rohingya_
 _Context: Legislative Assembly, Queensland, Scott Driscoll, State_
 
 ### [President of the United States Barack Obama bans the provision of some military-type equipment to local police departments and restricts access to other types of equipment following recent tensions between police and minority communities. ](/news/2015/05/18/president-of-the-united-states-barack-obama-bans-the-provision-of-some-military-type-equipment-to-local-police-departments-and-restricts-acc.md)
-_Context: Barack Obama, police department, president_
+_Context: Barack Obama, President, police department_
 
 ### [Former Australian tennis player Bob Hewitt is jailed for six years in South Africa for raping underaged girls. ](/news/2015/05/18/former-australian-tennis-player-bob-hewitt-is-jailed-for-six-years-in-south-africa-for-raping-underaged-girls.md)
 _Context: Bob Hewitt, South Africa_
@@ -39,10 +39,10 @@ A hospital nurse who used insulin to tamper with medical supplies is found guilt
 ### [The District Attorney for Manhattan says he intends to retry a murder case in the disappearance of Etan Patz which ended in a mistrial. ](/news/2015/05/18/the-district-attorney-for-manhattan-says-he-intends-to-retry-a-murder-case-in-the-disappearance-of-etan-patz-which-ended-in-a-mistrial.md)
 _Context: District Attorney, Etan Patz, Manhattan_
 
-### [2015 Burundian unrest. After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/2015-burundian-unrest-after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister.md)
+### [2015 Burundian unrest: After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/2015-burundian-unrest-after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister.md)
 An official says Burundi&#8217;s president has fired his defense minister and two other Cabinet ministers after a failed coup attempt.
 
-### [2015 Macedonian protests. In the ongoing protests in Skopje, Republic of Macedonia, tens of thousands of people rally in support of Prime Minister Nikola Gruevski. ](/news/2015/05/18/2015-macedonian-protests-in-the-ongoing-protests-in-skopje-republic-of-macedonia-tens-of-thousands-of-people-rally-in-support-of-prime-mi.md)
+### [2015 Macedonian protests: In the ongoing protests in Skopje, Republic of Macedonia, tens of thousands of people rally in support of Prime Minister Nikola Gruevski. ](/news/2015/05/18/2015-macedonian-protests-in-the-ongoing-protests-in-skopje-republic-of-macedonia-tens-of-thousands-of-people-rally-in-support-of-prime-mi.md)
 Tens of thousands of Macedonians rally in support of PM Nikola Gruevski, a day after similar numbers demonstrated against his government.
 
 ## [Previous Day...](/news/2015/05/17/index.md)

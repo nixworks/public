@@ -1,6 +1,6 @@
 ## [2010-05-7](/news/2010/05/7/index.md)
 
-### [United Kingdom general election, 2010:. Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md)
+### [United Kingdom general election, 2010:: Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md)
  EAST BELFAST AND STRANGFORD: DEMOCRATIC UNIONIST Party leader and First Minister Peter Robinson sensationally lost the East &hellip;
 
 ### [4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. ](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.md)

@@ -1,6 +1,6 @@
 ### [2009-10-16](/news/2009/10/16/index.md)
 
-#  Zimbabwe:. The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. 
+#  Zimbabwe:: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. 
 
 
 

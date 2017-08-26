@@ -3,16 +3,16 @@
 ### [Australians fill out the 2011 Australian census. ](/news/2011/08/9/australians-fill-out-the-2011-australian-census.md)
 _Context: 2011 Australian census, Australian_
 
-### [August 2011 stock markets fall. The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/august-2011-stock-markets-fall-the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md)
+### [August 2011 stock markets fall: The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/august-2011-stock-markets-fall-the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md)
 Australian stocks staged a spectacular recovery today, reversing a massive slide to register a gain amid rumours that the US Federal Reserve is preparing another stimulus package.
 
 ### [The U.S. Federal Reserve announces it will keep interest rates at "exceptionally low levels" at least through mid 2013, though it makes no commitment for further quantitative easing. ](/news/2011/08/9/the-u-s-federal-reserve-announces-it-will-keep-interest-rates-at-exceptionally-low-levels-at-least-through-mid-2013-though-it-makes-no-c.md)
 The Federal Reserve on Tuesday took the unprecedented step of promising to keep interest rates near zero for at least two more years and said it would consider further steps to help growth, sparking a rebound in stocks.
 
-### [Tropical Storm Mufia. At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufia-at-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md)
+### [Tropical Storm Mufia: At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. ](/news/2011/08/9/tropical-storm-mufia-at-least-four-people-are-dead-and-two-missing-after-former-typhoon-muifa-hits-south-korea-600-homes-had-earlier-been.md)
 Typhoon Muifa, which traveled north along the West Sea on Monday carrying winds ..
 
-### [English riots:. Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bi.md)
+### [English riots:: Rioting continues in London with lawlessness spreading to other English cities such as Liverpool, Manchester, Bristol and Birmingham. ](/news/2011/08/9/english-riots-rioting-continues-in-london-with-lawlessness-spreading-to-other-english-cities-such-as-liverpool-manchester-bristol-and-bi.md)
 Rioting has spread across London with cars and buildings set alight on a third night of unrest, with trouble flaring in other English cities.
 
 ### [Warren Jeffs, former leader of the FLDS Church and formerly on the FBI Ten Most Wanted Fugitives list, is sentenced to life in prison plus 20 years for a conviction on child sexual assault charges. ](/news/2011/08/9/warren-jeffs-former-leader-of-the-flds-church-and-formerly-on-the-fbi-ten-most-wanted-fugitives-list-is-sentenced-to-life-in-prison-plus-2.md)

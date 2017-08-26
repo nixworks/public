@@ -1,9 +1,9 @@
 ## [2017-03-16](/news/2017/03/16/index.md)
 
-### [Piracy off the coast of Somalia. The Somali pirates that hijacked the "Aris 13", a United Arab Emirates-owned oil tanker, release it without condition. ](/news/2017/03/16/piracy-off-the-coast-of-somalia-the-somali-pirates-that-hijacked-the-aris-13-a-united-arab-emirates-owned-oil-tanker-release-it-without.md)
+### [Piracy off the coast of Somalia: The Somali pirates that hijacked the "Aris 13", a United Arab Emirates-owned oil tanker, release it without condition. ](/news/2017/03/16/piracy-off-the-coast-of-somalia-the-somali-pirates-that-hijacked-the-aris-13-a-united-arab-emirates-owned-oil-tanker-release-it-without.md)
 The hijackers let the ship go hours after exchanging gunfire with naval forces.
 
-### [Syrian Civil War. 2017 al-Jina mosque airstrike. An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/syrian-civil-war-2017-al-jina-mosque-airstrike-an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al.md)
+### [Syrian Civil War: 2017 al-Jina mosque airstrike: An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/syrian-civil-war-2017-al-jina-mosque-airstrike-an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al.md)
 The US investigates reports that it killed dozens of civilians but denies it hit a mosque.
 
 ### [An eruption at Mount Etna on the Italian island of Sicily injures at least ten people, including several in a BBC News crew. ](/news/2017/03/16/an-eruption-at-mount-etna-on-the-italian-island-of-sicily-injures-at-least-ten-people-including-several-in-a-bbc-news-crew.md)
@@ -18,13 +18,13 @@ A 17-year student is being detained for attempted murder after opening fire in a
 ### [A letter bomb explodes at the office of the International Monetary Fund (IMF) in Paris, injuring one person. ](/news/2017/03/16/a-letter-bomb-explodes-at-the-office-of-the-international-monetary-fund-imf-in-paris-injuring-one-person.md)
 Officials say it was sent in the name of a Greek conservative politician.
 
-### [Kidnapping of Elizabeth Thomas. The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/kidnapping-of-elizabeth-thomas-the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for.md)
+### [Kidnapping of Elizabeth Thomas: The Federal Bureau of Investigation becomes involved in the search for Elizabeth Thomas and the manhunt for her suspected kidnapper, Tad Cummins. ](/news/2017/03/16/kidnapping-of-elizabeth-thomas-the-federal-bureau-of-investigation-becomes-involved-in-the-search-for-elizabeth-thomas-and-the-manhunt-for.md)
 The Tennessee Bureau of Investigation has released new photos and information in the multi-state AMBER Alert of Elizabeth Thomas.Thomas, 15, is believed to be traveling with her former teacher, 50-year-old Tad Cummins. Cummins is believed to be armed with
 
-### [United States immigration ban. A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/united-states-immigration-ban-a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restr.md)
+### [United States immigration ban: A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/united-states-immigration-ban-a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restr.md)
 Judge Theodore D. Chuang in Maryland said there was a &ldquo;convincing case&rdquo; to view the order as a &ldquo;Muslim ban.&rdquo;
 
-### [List of Falcon 9 and Falcon Heavy launches. SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/list-of-falcon-9-and-falcon-heavy-launches-spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-se.md)
+### [List of Falcon 9 and Falcon Heavy launches: SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/list-of-falcon-9-and-falcon-heavy-launches-spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-se.md)
 _Context: Brazil, EchoStar 23, Falcon 9, List of Falcon 9 and Falcon Heavy launches, SpaceX, geostationary transfer orbit_
 
 ## [Previous Day...](/news/2017/03/15/index.md)

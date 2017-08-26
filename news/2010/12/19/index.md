@@ -42,7 +42,7 @@ _Context: 250,000 documents, Julian Assange, The Guardian, WikiLeaks, sexual ass
 ### [Venezuela once again expresses its disapproval of Larry Palmer, the man who may become the next US ambassador to the country, and says it will arrest and deport him upon arrival due to a months long disagreement following Palmer's comments on the Venezuelan military. ](/news/2010/12/19/venezuela-once-again-expresses-its-disapproval-of-larry-palmer-the-man-who-may-become-the-next-us-ambassador-to-the-country-and-says-it-wi.md)
 Venezuela reiterates its opposition to the man likely to become the next US ambassador and vows to send him home.
 
-### [Cote d'Ivoire:. The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-th.md)
+### [Cote d'Ivoire:: The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/ca-te-d-ivoire-the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-th.md)
 UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;President&#x20;Laurent&#x20;Gbagbo&#x27;s&#x20;demand&#x20;to&#x20;withdraw&#x20;peacekeepers&#x20;after&#x20;the&#x20;UN&#x20;backed&#x20;Gbagbo&#x27;s&#x20;rival&#x20;as&#x20;the&#x20;winner&#x20;of&#x20;a&#x20;Nov.&#x20;...
 
 ### [A United Nations Security Council meeting regarding the situation in the Korean Peninsula ends without agreement. ](/news/2010/12/19/a-united-nations-security-council-meeting-regarding-the-situation-in-the-korean-peninsula-ends-without-agreement.md)
@@ -51,7 +51,7 @@ The U.N. Security Council met in emergency session on Sunday to try to cool tens
 ### [Chinese Premier Wen Jiabao addresses a special joint session of Parliament in Islamabad, praising Pakistan for its efforts in combating terrorism. ](/news/2010/12/19/chinese-premier-wen-jiabao-addresses-a-special-joint-session-of-parliament-in-islamabad-praising-pakistan-for-its-efforts-in-combating-terr.md)
 Prime Minister Wen Jiabao lavishly praised Pakistan’s efforts to combat terrorism and promised to further economic cooperation between the two countries.
 
-### [Belarusian presidential election, 2010:. Belarus votes.. Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters.md)
+### [Belarusian presidential election, 2010:: Belarus votes.: Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-belarus-votes-thousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters.md)
 Thousands of opposition protesters in Belarus try to storm the main government building, as President Lukashenko is declared winner of disputed elections.
 
 ## [Previous Day...](/news/2010/12/18/index.md)

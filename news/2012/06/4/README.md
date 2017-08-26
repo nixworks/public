@@ -12,10 +12,10 @@ _Context: Baghdad, Government of Iraq, car bomb_
 ### [Buddhist vigilantes attack a bus in western Myanmar, killing nine Muslim passengers. ](/news/2012/06/4/buddhist-vigilantes-attack-a-bus-in-western-myanmar-killing-nine-muslim-passengers.md)
 Buddhist vigilantes in western Myanmar attacked a bus and killed nine Muslims, police said on Monday, the deadliest communal violence in the region since a reformist government took power a year ago.
 
-### [Aftermath of the Libyan civil war:. A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-a-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release.md)
+### [Aftermath of the Libyan civil war:: A heavily armed militia takes over a runway at the Tripoli International Airport, demanding the release of their leader who went missing. ](/news/2012/06/4/aftermath-of-the-libyan-civil-war-a-heavily-armed-militia-takes-over-a-runway-at-the-tripoli-international-airport-demanding-the-release.md)
 Libyan security forces regain control of the main airport in Tripoli, after a militia overran the runway demanding the release of one of their leaders.
 
-### [Diamond Jubilee of Elizabeth II:. Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md)
+### [Diamond Jubilee of Elizabeth II:: Prince Philip, Duke of Edinburgh, is taken to hospital with a bladder infection. ](/news/2012/06/4/diamond-jubilee-of-elizabeth-ii-prince-philip-duke-of-edinburgh-is-taken-to-hospital-with-a-bladder-infection.md)
 The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to hospital with a bladder infection.
 
 ### [Russian baritone singer Eduard Khil, made famous overseas by the "Trololo" internet meme, dies from complications of a stroke in St. Petersburg. ](/news/2012/06/4/russian-baritone-singer-eduard-khil-made-famous-overseas-by-the-trololo-internet-meme-dies-from-complications-of-a-stroke-in-st-petersb.md)

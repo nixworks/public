@@ -11,7 +11,7 @@ Sep. 3 - Thousands of young virgins perform annual reed dance in Swaziland. Jess
 
 ### Related:
 
-1. [Foreign relations of Taiwan. Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/foreign-relations-of-taiwan-burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-bei.md) _Context: Swaziland_
+1. [Foreign relations of Taiwan: Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/foreign-relations-of-taiwan-burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-bei.md) _Context: Swaziland_
 2. [An open truck smashes into the back of a van near Mbabane, Swaziland killing 65 girls and young women traveling to an annual dance festival. ](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.md) _Context: Swaziland_
 3. [Thirty-eight girls and young women die in a crash and twenty others on board the truck receive injuries while travelling to the traditional Umhlanga ceremony in Swaziland. ](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.md) _Context: Swaziland_
 4. [Swaziland, Africa's last absolute monarchy, announces that it will hold elections in September. ](/news/2013/06/4/swaziland-africa-s-last-absolute-monarchy-announces-that-it-will-hold-elections-in-september.md) _Context: Swaziland_

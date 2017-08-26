@@ -1,6 +1,6 @@
 ### [2007-12-1](/news/2007/12/1/index.md)
 
-#  Pakistani general election, 2008. Former Pakistani Prime Minister Benazir Bhutto begins her election campaign for the Pakistani general election, 2008. 
+#  Pakistani general election, 2008: Former Pakistani Prime Minister Benazir Bhutto begins her election campaign for the Pakistani general election, 2008. 
 
 
 
@@ -16,4 +16,4 @@
 7. [ The Supreme Court of Pakistan delays by-elections until it can handle the appeal of disqualified candidate Nawaz Sharif, former Prime Minister and leader of the Pakistan Muslim League (N). ](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.md) _Context: Pakistan, by-elections_
 8. [ Nawaz Sharif, former Prime Minister of Pakistan and leader of the Pakistan Muslim League (N), is found ineligible by a court to stand in upcoming by-elections. ](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.md) _Context: Pakistan, by-elections_
 9. [ Pakistan's Election Commission announces the completed results of parliamentary election. ](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.md) _Context: Pakistan, by-elections_
-10. [ Pakistan:. The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md) _Context: Pakistan, by-elections_
+10. [ Pakistan:: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md) _Context: Pakistan, by-elections_

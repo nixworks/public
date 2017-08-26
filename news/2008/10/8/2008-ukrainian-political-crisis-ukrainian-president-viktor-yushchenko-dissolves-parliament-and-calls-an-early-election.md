@@ -1,6 +1,6 @@
 ### [2008-10-8](/news/2008/10/8/index.md)
 
-#  2008 Ukrainian political crisis:. Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. 
+#  2008 Ukrainian political crisis:: Ukrainian President Viktor Yushchenko dissolves Parliament and calls an early election. 
 
 Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a coalition to take over from the current &quot;orange&quot; government, dissolved parliament and called an early election to the assembly.
 
@@ -20,4 +20,4 @@ Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a co
 7. [ Ukraine President Viktor Yushchenko fires Prime Minister Yulia Tymoshenko and most of his cabinet amid accusations of graft and serious infighting. [http://news.yahoo.com/s/nm/20050908/wl_nm/ukraine_dc (Yahoo! News)] (Link dead as of 00:43, 15 January 2007 (UTC))](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.md) _Context: Ukraine, Ukrainian President, Viktor Yushchenko_
 8. [ The President of Ukraine, Viktor Yushchenko, announces that suspected killers of a journalist Georgiy Gongadze have been arrested ](/news/2005/03/1/the-president-of-ukraine-viktor-yushchenko-announces-that-suspected-killers-of-a-journalist-georgiy-gongadze-have-been-arrested.md) _Context: Ukraine, Ukrainian President, Viktor Yushchenko_
 9. [ Yulia Tymoshenko is appointed Prime Minister of Ukraine as one of President Viktor Yushchenko's first official acts, before a state visit in Moscow. Her post still requires ratification by the Verkhovna Rada, Ukraine's parliament. ](/news/2005/01/24/yulia-tymoshenko-is-appointed-prime-minister-of-ukraine-as-one-of-president-viktor-yushchenko-s-first-official-acts-before-a-state-visit-i.md) _Context: Ukrainian President, Verkhovna Rada, Viktor Yushchenko_
-10. [Decommunization in Ukraine:. Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-r.md) _Context: Ukraine, Verkhovna Rada_
+10. [Decommunization in Ukraine:: Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-r.md) _Context: Ukraine, Verkhovna Rada_

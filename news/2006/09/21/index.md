@@ -33,7 +33,7 @@ _Context: Richard Hammond, Top Gear_
 ### [ The Space Shuttle "Atlantis" lands at Kennedy Space Center, ending STS-115. ](/news/2006/09/21/the-space-shuttle-atlantis-lands-at-kennedy-space-center-ending-sts-115.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Thailand coup d'tat:. The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md)
+### [ Thailand coup d'tat:: The leaders of Thailand's coup ban all meetings and other activities by political parties, two days after taking power. ](/news/2006/09/21/thailand-coup-d-etat-the-leaders-of-thailand-s-coup-ban-all-meetings-and-other-activities-by-political-parties-two-days-after-taking-pow.md)
 _Context: Thailand, coup_
 
 ### [ Turkish writer Elif Shafak is cleared of charge of "insulting Turkishness", under the controversial Article 301 of the Turkish Criminal Code, in an Istanbul Court. ](/news/2006/09/21/turkish-writer-elif-shafak-is-cleared-of-charge-of-insulting-turkishness-under-the-controversial-article-301-of-the-turkish-criminal-cod.md)

@@ -1,6 +1,6 @@
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-# Return of Hugo Chavez:. President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. 
+# Return of Hugo Chavez:: President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. 
 
 Venezuelan President Hugo Chavez returns home after a prolonged stay in Cuba for treatment for cancer.
 

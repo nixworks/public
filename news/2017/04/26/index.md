@@ -1,21 +1,21 @@
 ## [2017-04-26](/news/2017/04/26/index.md)
 
-### [Iraqi Civil War (2014-present). The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/iraqi-civil-war-2014-present-the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city.md)
+### [Iraqi Civil War (2014-present): The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/iraqi-civil-war-2014-present-the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city.md)
 The scale of the damage done by IS militants to the site - featured in The Exorcist - is not clear.
 
-### [Sistan and Baluchestan insurgency. At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/sistan-and-baluchestan-insurgency-at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-pro.md)
+### [Sistan and Baluchestan insurgency: At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/sistan-and-baluchestan-insurgency-at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-pro.md)
 Sunni militant group Jaish al-Adl claims responsibility for killing of guards in Sistan-Baluchestan province
 
-### [Kamwina Nsapu rebellion. The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/kamwina-nsapu-rebellion-the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua.md)
+### [Kamwina Nsapu rebellion: The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/kamwina-nsapu-rebellion-the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua.md)
 Latest violence between Lulua-Luba and Chow-Pende communities extends eight months of bloodshed.
 
 ### [American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications-f.md)
 _Context: Academy Award for Best Director, Jonathan Demme, The Silence of the Lambs, esophageal cancer_
 
-### [North Korea-South Korea relations. The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/north-korea-south-korea-relations-the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-t.md)
+### [North Korea-South Korea relations: The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/north-korea-south-korea-relations-the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-t.md)
 Thaad system being deployed despite protests from local residents and China, which says it threatens security balance
 
-### [United States' policy of deterrence. The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/united-states-policy-of-deterrence-the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md)
+### [United States' policy of deterrence: The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/united-states-policy-of-deterrence-the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md)
 An unarmed intercontinental ballistic missile was launched just after midnight Wednesday from Vandenberg Air Force Base as part of an operational test to show nuclear deterrent capability.
 
 ### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)

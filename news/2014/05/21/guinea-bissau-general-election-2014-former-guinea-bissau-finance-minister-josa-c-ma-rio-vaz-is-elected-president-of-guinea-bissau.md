@@ -1,6 +1,6 @@
 ### [2014-05-21](/news/2014/05/21/index.md)
 
-# Guinea-Bissau general election, 2014:. Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. 
+# Guinea-Bissau general election, 2014:: Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. 
 
 By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a high-stakes presidential run-off election in Guinea-Bissau meant to draw a line under a 2012 coup, the elections commission said on Tuesday, but the losing candidate rejected the result. The looming dispute over the outcome
 

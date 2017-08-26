@@ -1,6 +1,6 @@
 ### [2010-06-13](/news/2010/06/13/index.md)
 
-# Belgian general election, 2010:. The Belgian elections take place amid a possibility of partition. 
+# Belgian general election, 2010:: The Belgian elections take place amid a possibility of partition. 
 
 Initial results indicate that party advocating a split of Belgium wins general election.
 

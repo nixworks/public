@@ -1,6 +1,6 @@
 ### [2016-09-17](/news/2016/09/17/index.md)
 
-# 2016 New York and New Jersey bombings. A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. 
+# 2016 New York and New Jersey bombings: A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. 
 
 The FBI said it was &quot;unaware of any known threat&quot; to public safety
 
@@ -12,4 +12,4 @@ The FBI said it was &quot;unaware of any known threat&quot; to public safety
 
 ### Related:
 
-1. [2016 New York and New Jersey bombings. A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/2016-new-york-and-new-jersey-bombings-a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there.md) _Context: 2016 New York and New Jersey bombings_
+1. [2016 New York and New Jersey bombings: A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/2016-new-york-and-new-jersey-bombings-a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there.md) _Context: 2016 New York and New Jersey bombings_

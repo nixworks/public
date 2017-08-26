@@ -1,9 +1,9 @@
 ## [2014-02-21](/news/2014/02/21/index.md)
 
-### [Euromaidan:. The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md)
+### [Euromaidan:: The Ukrainian government and opposition agree to form a unity government and to hold early elections. ](/news/2014/02/21/euromaidan-the-ukrainian-government-and-opposition-agree-to-form-a-unity-government-and-to-hold-early-elections.md)
 Agreement reached to form a unity government and hold early elections, but questions remain as to whether it will be accepted by all within the disparate protest movement. All the developments as they happened.
 
-### [2014 Venezuelan protests:. 22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stud.md)
+### [2014 Venezuelan protests:: 22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stud.md)
 _Context: 2014 anti-Goverment protests, Genesis Carmona, Nicolas Maduro_
 
 ### [Venezuelan president Nicolas Maduro threatens to expel CNN from the country, alleging that they are helping the opposition. ](/news/2014/02/21/venezuelan-president-nicola-s-maduro-threatens-to-expel-cnn-from-the-country-alleging-that-they-are-helping-the-opposition.md)
@@ -18,7 +18,7 @@ _Context: Barnes & Noble, Nook, digital books_
 ### [11 people are killed when a Libyan Air Force plane crashes from a suspected engine fire in Nabeul Governorate, Tunisia. ](/news/2014/02/21/11-people-are-killed-when-a-libyan-air-force-plane-crashes-from-a-suspected-engine-fire-in-nabeul-governorate-tunisia.md)
 _Context: Libyan Air Force, Nabeul Governorate, Tunisia_
 
-### [Chinese-U.S. relations:. The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-t.md)
+### [Chinese-U.S. relations:: The President of the United States, Barack Obama, meets with the Dalai Lama despite warnings from China to cancel the meeting. ](/news/2014/02/21/chinese-u-s-relations-the-president-of-the-united-states-barack-obama-meets-with-the-dalai-lama-despite-warnings-from-china-to-cancel-t.md)
 US President Barack Obama hosts the exiled Tibetan spiritual leader the Dalai Lama, a move denounced by China as &quot;gross interference&quot;.
 
 ### [Sudan puts a married Ethiopian woman to trial after being gang-raped because she waited before she reported it. She faces the death penalty for adultery. ](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.md)

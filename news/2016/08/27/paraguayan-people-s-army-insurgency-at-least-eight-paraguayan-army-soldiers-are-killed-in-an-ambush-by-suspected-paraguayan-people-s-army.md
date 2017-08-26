@@ -1,6 +1,6 @@
 ### [2016-08-27](/news/2016/08/27/index.md)
 
-# Paraguayan People's Army insurgency. At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. 
+# Paraguayan People's Army insurgency: At least eight Paraguayan Army soldiers are killed in an ambush by suspected Paraguayan People's Army (EPP) insurgents, near the village of Arroyito, in northern Paraguay. 
 
 Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed on a Marxist rebel group.
 

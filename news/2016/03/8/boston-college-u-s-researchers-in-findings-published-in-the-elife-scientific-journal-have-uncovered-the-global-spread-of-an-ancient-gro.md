@@ -12,4 +12,4 @@ Scientists have learned a bit more about the history of ancient viruses that exi
 
 ### Related:
 
-1. ["Homo naledi". "Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/homo-naledi-elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo.md) _Context: eLife scientific journal_
+1. ["Homo naledi": "Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/homo-naledi-elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo.md) _Context: eLife scientific journal_

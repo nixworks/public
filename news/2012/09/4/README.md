@@ -1,18 +1,18 @@
 ## [2012-09-4](/news/2012/09/4/index.md)
 
-### [Mexican Drug War:. The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo.md)
+### [Mexican Drug War:: The Mexican authorities arrest Mario Cardenas Guillen, the second-in-command in the Gulf Cartel, leaving Jorge Eduardo Costilla Sanchez as the last standing man in the criminal organization. ](/news/2012/09/4/mexican-drug-war-the-mexican-authorities-arrest-mario-ca-rdenas-guilla-c-n-the-second-in-command-in-the-gulf-cartel-leaving-jorge-eduardo.md)
 _Context: Gulf Cartel, Jorge Eduardo Costilla Sanchez, Mario Cardenas Guillen, Mexican Drug War_
 
-### [Colombian conflict (1964-present):. The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964-present-the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-the.md)
+### [Colombian conflict (1964-present):: The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/colombian-conflict-1964-present-the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-the.md)
 _Context: Colombian conflict (1964-present), Cuba, FARC_
 
 ### [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md)
 Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in preparation for ground forces to capture town.
 
-### [War in Afghanistan:. A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md)
+### [War in Afghanistan:: A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/war-in-afghanistan-a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md)
 A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, killing at least 25 civilians including the son of a district governor, officials say.
 
-### [Syrian civil war:. The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mo.md)
+### [Syrian civil war:: The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mo.md)
 _Context: Syrian Civil War, United Nations Refugee Agency, refugees from Syria_
 
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
@@ -52,7 +52,7 @@ _Context: Arab Spring, Bahrain, Bahraini uprising (2011-present), Western-allied
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;
 
-### [Quebec general election, 2012:. The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md)
+### [Quebec general election, 2012:: The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md)
 Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female premier after her sovereigntist party won a minority government and ended nearly a decade of Liberal rule in a tense election. But as she delivered her victory speech late Tuesday night, Marois was suddenly whisked off sta...
 
 ### [David Cameron reshuffles the United Kingdom government for the first time since 2010. ](/news/2012/09/4/david-cameron-reshuffles-the-united-kingdom-government-for-the-first-time-since-2010.md)

@@ -1,9 +1,9 @@
 ## [2017-02-17](/news/2017/02/17/index.md)
 
-### [Boko Haram insurgency. Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/boko-haram-insurgency-up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near.md)
+### [Boko Haram insurgency: Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/boko-haram-insurgency-up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near.md)
 Officials say incident near camp for displaced people resulted in deaths of seven people who tried to attack Maiduguri.
 
-### [War in North-West Pakistan. In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/war-in-north-west-pakistan-in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-arm.md)
+### [War in North-West Pakistan: In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/war-in-north-west-pakistan-in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-arm.md)
 _Context: Pakistan army, Shrine of Lal Shahbaz Qalandar, War in North-West Pakistan, yesterday's bombing_
 
 ### [Mark Zuckerberg publishes a new mission statement for his website, Facebook, including the development of artificial intelligence to identify potential tragic events such as suicides before they occur. ](/news/2017/02/17/mark-zuckerberg-publishes-a-new-mission-statement-for-his-website-facebook-including-the-development-of-artificial-intelligence-to-identif.md)
@@ -21,7 +21,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [Authorities in the state of Pennsylvania discover the Seoul virus, a member of the Hantavirus family, in a contained scientific breeding-facility for rats. ](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.md)
 The remaining rats in the Pennsylvania facility were euthanized to prevent the spread of the disease.
 
-### [European migrant crisis. Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/european-migrant-crisis-nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
+### [European migrant crisis: Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/european-migrant-crisis-nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
 _Context: Africa, European migrant crisis, Morocco, Spain_
 
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)
@@ -30,7 +30,7 @@ _Context: Cristina, Spain, fraud_
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
 _Context: Leila de Lima, Philippines, Vitaliano Aguirre II, drug war_
 
-### [Political appointments of Donald Trump. With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/political-appointments-of-donald-trump-with-a-52-46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-admin.md)
+### [Political appointments of Donald Trump: With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/political-appointments-of-donald-trump-with-a-52-46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-admin.md)
 Scott Pruitt has attracted scorn from Democrats and environmentalists and praise from conservatives and the energy industry.
 
 ### [Zealandia comes closer to being recognized as a continent. ](/news/2017/02/17/zealandia-comes-closer-to-being-recognized-as-a-continent.md)

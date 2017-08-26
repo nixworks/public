@@ -1,6 +1,6 @@
 ### [2003-12-17](/news/2003/12/17/index.md)
 
-#  Capture of Saddam Hussein:. Mowaffaq al-Rubaie says that Saddam Hussein will be tried in Iraq by an Iraqi court. Mowaffaq, a member of the Iraqi Governing Council, denies reports that the prisoner has been taken out of Baghdad. 
+#  Capture of Saddam Hussein:: Mowaffaq al-Rubaie says that Saddam Hussein will be tried in Iraq by an Iraqi court. Mowaffaq, a member of the Iraqi Governing Council, denies reports that the prisoner has been taken out of Baghdad. 
 
 
 
@@ -8,7 +8,7 @@
 ### Related:
 
 1. [ Capture of Saddam Hussein: a Jordanian news source claims that Saddam Hussein was drugged and betrayed by his personal bodyguard, General Mohammed Ibrahim Omar al-Muslit, a member of his own family. [http://www.news24.com/News24/World/Iraq/0,6119,2-10-1460_1461125,00.html]](/news/2003/12/18/capture-of-saddam-hussein-a-jordanian-news-source-claims-that-saddam-hussein-was-drugged-and-betrayed-by-his-personal-bodyguard-general-m.md) _Context: Capture of Saddam Hussein, Saddam Hussein_
-2. [ Capture of Saddam Hussein:. Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-congressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _Context: Capture of Saddam Hussein, Saddam Hussein_
+2. [ Capture of Saddam Hussein:: Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-congressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md) _Context: Capture of Saddam Hussein, Saddam Hussein_
 3. [Newly declassified CIA documents show that top officials in the Reagan administration agreed to give Iraq information on the location of Iranian troops during the Iran-Iraq War despite awareness of Saddam Hussein's intention to use chemical weapons. ](/news/2013/08/26/newly-declassified-cia-documents-show-that-top-officials-in-the-reagan-administration-agreed-to-give-iraq-information-on-the-location-of-ira.md) _Context: Saddam Hussein_
 4. [The United Nations votes to lift sanctions imposed on Iraq during the Saddam Hussein era. ](/news/2010/12/15/the-united-nations-votes-to-lift-sanctions-imposed-on-iraq-during-the-saddam-hussein-era.md) _Context: Saddam Hussein_
 5. [Former Foreign Minister of Iraq Tariq Aziz is sentenced to death for persecuting members of the Islamic Dawa Party during Saddam Hussein's regime. ](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.md) _Context: Saddam Hussein_

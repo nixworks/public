@@ -1,6 +1,6 @@
 ## [2013-04-9](/news/2013/04/9/index.md)
 
-### [South Sudan internal conflict (2011-present):. Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011-present-gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-sout.md)
+### [South Sudan internal conflict (2011-present):: Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/south-sudan-internal-conflict-2011-present-gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-sout.md)
 Foreign ministry says rebel attack on UN convoy in Jonglei region killed five Indian nationals who were escorting it.
 
 ### [Haruki Murakami, Michel Houellebecq, Sjon and Andrew Miller go head-to-head on the shortlist for the 2013 International Dublin Literary Award. ](/news/2013/04/9/haruki-murakami-michel-houellebecq-sja3n-and-andrew-miller-go-head-to-head-on-the-shortlist-for-the-2013-international-dublin-literary-awa.md)
@@ -12,10 +12,10 @@ _Context: 2013 Bushehr earthquake, Bahrain, Bandar Deyr, Iran, Khvormuj, earthqu
 ### [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md)
 A helicopter crash in eastern Afghanistan killed two American members of the NATO-led force on Tuesday, spokesmen said.
 
-### [Kissinger cables:. Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk.md)
+### [Kissinger cables:: Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk.md)
 _Context: Kissinger cables, Margaret Thatcher, Richard Nixon, UK Prime Minister, WikiLeaks_
 
-### [2013 Korean crisis:. North Korea announces its plans to launch a missile tomorrow; an event on that day had been warned about before. ](/news/2013/04/9/2013-korean-crisis-north-korea-announces-its-plans-to-launch-a-missile-tomorrow-an-event-on-that-day-had-been-warned-about-before.md)
+### [2013 Korean crisis:: North Korea announces its plans to launch a missile tomorrow; an event on that day had been warned about before. ](/news/2013/04/9/2013-korean-crisis-north-korea-announces-its-plans-to-launch-a-missile-tomorrow-an-event-on-that-day-had-been-warned-about-before.md)
 NORTH Korea has completed preparations for up to three missile launches, sources in Seoul have revealed, while the South has appealed to China and Russia to intervene over the provocations.
 
 ### [Iran announces that a new uranium ore mine and an enrichment plant will be added to the country's nuclear policy, defying the U.N. resolutions. ](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.md)
@@ -27,7 +27,7 @@ A 60-year-old man went from house to house in his village near Belgrade, killing
 ### [At least 15 people are stabbed and wounded at Lone Star College-CyFair in Cypress, Texas, United States, with student Dylan Quick named as a suspect. ](/news/2013/04/9/at-least-15-people-are-stabbed-and-wounded-at-lone-star-college-cyfair-in-cypress-texas-united-states-with-student-dylan-quick-named-as.md)
 A stabbing spree at Lone Star Community College in Texas has left 14 people injured, two of which are in critical condition.
 
-### [Thatcher funeral events:. Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-downing-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-affor.md)
+### [Thatcher funeral events:: Downing Street announces the funeral for Margaret Thatcher is scheduled for Wednesday, 17 April. She will be afforded a ceremonial exit, ranking her alongside Diana Spencer and the Queen Mother. ](/news/2013/04/9/thatcher-funeral-events-downing-street-announces-the-funeral-for-margaret-thatcher-is-scheduled-for-wednesday-17-april-she-will-be-affor.md)
 Former Prime Minister Tony Blair criticises parties held to &quot;celebrate&quot; the death of Baroness Thatcher as being in &quot;pretty poor taste&quot;.
 
 ### [Kenya officially swears in their new president, Uhuru Kenyatta. ](/news/2013/04/9/kenya-officially-swears-in-their-new-president-uhuru-kenyatta.md)

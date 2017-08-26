@@ -1,6 +1,6 @@
 ### [2011-02-11](/news/2011/02/11/index.md)
 
-# Egyptian Revolution of 2011 / Downfall of Hosni Mubarak:. Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. 
+# Egyptian Revolution of 2011 / Downfall of Hosni Mubarak:: Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. 
 
 Egyptian president stands down and hands over power to the Supreme Council for the Armed Forces.
 

@@ -1,9 +1,9 @@
 ## [2013-08-8](/news/2013/08/8/index.md)
 
-### [Balochistan conflict:. A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-a-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md)
+### [Balochistan conflict:: A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. ](/news/2013/08/8/balochistan-conflict-a-suicide-bombing-at-a-funeral-in-the-pakistani-city-of-quetta-kills-at-least-28-people.md)
 A suicide bomber targets a funeral for a policeman in south-western Pakistan killing at least 28 people including a senior police officer.
 
-### [War in Afghanistan (2001-present):. A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md)
+### [War in Afghanistan (2001-present):: A bomb explodes at a cemetery in the Afghan province of Nangarhar, killing at least 14 people. ](/news/2013/08/8/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-cemetery-in-the-afghan-province-of-nangarhar-killing-at-least-14-people.md)
 A bomb kills 12 women and two children in eastern Afghanistan as they visit a grave on the Muslim holiday of Eid al-Fitr.
 
 ### [Three U.S. drone strikes in central and southern Yemen kill 12 suspected al-Qaida militants. ](/news/2013/08/8/three-u-s-drone-strikes-in-central-and-southern-yemen-kill-12-suspected-al-qaida-militants.md)

@@ -1,12 +1,12 @@
 ## [2016-11-27](/news/2016/11/27/index.md)
 
-### [Aleppo offensive (November 2016). Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. ](/news/2016/11/27/aleppo-offensive-november-2016-syrian-armed-forces-have-captured-the-entire-hanano-district-in-eastern-aleppo-and-are-working-on-removing.md)
+### [Aleppo offensive (November 2016): Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. ](/news/2016/11/27/aleppo-offensive-november-2016-syrian-armed-forces-have-captured-the-entire-hanano-district-in-eastern-aleppo-and-are-working-on-removing.md)
 The Syrian army said it had taken control of an important district in rebel-held eastern Aleppo on Saturday after fierce fighting, with rebels blaming intense air strikes and lack of hospitals for their collapsing frontline.
 
-### [Turkey-ISIL conflict. Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkey-isil-conflict-turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel.md)
+### [Turkey-ISIL conflict: Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkey-isil-conflict-turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel.md)
 _Context: Islamic State of Iraq and the Levant, Syria, Turkey-ISIL conflict, Turkish troops_
 
-### [Spillover of the Syrian Civil War. An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/spillover-of-the-syrian-civil-war-an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria.md)
+### [Spillover of the Syrian Civil War: An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/spillover-of-the-syrian-civil-war-an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [Fourteen police and 41 militants are killed in clashes in western Uganda, leading to the arrest of tribal Rwenzururu king Charles Mumbere. ](/news/2016/11/27/fourteen-police-and-41-militants-are-killed-in-clashes-in-western-uganda-leading-to-the-arrest-of-tribal-rwenzururu-king-charles-mumbere.md)
@@ -24,13 +24,13 @@ Five people on board an Iranian helicopter were killed when it crashed into the 
 ### [One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. ](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.md)
 _Context: Bayou Classic, French Quarter, New Orleans, mass shooting_
 
-### [The Republicans (France) presidential primary, 2016. A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/the-republicans-france-presidential-primary-2016-a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-t.md)
+### [The Republicans (France) presidential primary, 2016: A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/the-republicans-france-presidential-primary-2016-a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-t.md)
 Francois Fillon looks set to win the French Republican primaries.
 
-### [Swiss referendums, 2016. In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/swiss-referendums-2016-in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
+### [Swiss referendums, 2016: In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/swiss-referendums-2016-in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
 _Context: Swiss referendums, 2016, Switzerland, nuclear power_
 
-### [2016 United States presidential election recount and audit. The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-republican-president-elect-donald-trump-has-called-the-planned.md)
+### [2016 United States presidential election recount and audit: The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/2016-united-states-presidential-election-recount-and-audit-the-campaign-of-republican-president-elect-donald-trump-has-called-the-planned.md)
 Republican President-elect Donald Trump says an impending recount of votes in Wisconsin is a &quot;scam&quot;.
 
 ## [Previous Day...](/news/2016/11/26/index.md)

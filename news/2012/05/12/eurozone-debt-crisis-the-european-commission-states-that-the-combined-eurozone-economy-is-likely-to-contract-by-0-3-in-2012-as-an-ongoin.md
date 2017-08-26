@@ -1,6 +1,6 @@
 ### [2012-05-12](/news/2012/05/12/index.md)
 
-# Eurozone debt crisis:. The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. 
+# Eurozone debt crisis:: The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. 
 
 Police clear protesters from central Madrid, after nationwide protests by the &quot;Indignants&quot; movement, formed last year amid anger over austerity.
 

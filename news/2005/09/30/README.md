@@ -1,6 +1,6 @@
 ## [2005-09-30](/news/2005/09/30/index.md)
 
-### [ Israeli-Palestinian conflict. An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/israeli-palestinian-conflict-an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-i.md)
+### [ Israeli-Palestinian conflict: An unarmed Palestinian boy, 13 years old, is shot dead by Israel Defense Forces troops. Israel declares its intention to hold an inquiry into the event. ](/news/2005/09/30/israeli-palestinian-conflict-an-unarmed-palestinian-boy-13-years-old-is-shot-dead-by-israel-defense-forces-troops-israel-declares-its-i.md)
 _Context: Israel, Israel Defense Forces, Israeli-Palestinian conflict, Palestinian_
 
 ### [ Iraq War: 10 people die following a car bomb in Hillah, Iraq. ](/news/2005/09/30/iraq-war-10-people-die-following-a-car-bomb-in-hillah-iraq.md)

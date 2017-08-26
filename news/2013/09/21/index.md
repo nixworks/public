@@ -1,12 +1,12 @@
 ## [2013-09-21](/news/2013/09/21/index.md)
 
-### [Islamic insurgency in the Philippines:. Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md)
+### [Islamic insurgency in the Philippines:: Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md)
 _Context: Islamic insurgency in the Philippines, Moro National Liberation Front, Philippines, Zamboanga City, Zamboanga City crisis, army_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bomb.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bomb.md)
 At least 60 people have been killed and 120 injured at a funeral in the mainly Shia Sadr City district of the Iraqi capital, Baghdad.
 
-### [Aftermath of Operation Linda Nchi:. A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-a-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150.md)
+### [Aftermath of Operation Linda Nchi:: A gun battle breaks out in a shopping mall in the Kenyan capital Nairobi with "at least 39 dead and 150 wounded". A hostage situation is evolving. Al-Shabaab claims responsibility. ](/news/2013/09/21/aftermath-of-operation-linda-nchi-a-gun-battle-breaks-out-in-a-shopping-mall-in-the-kenyan-capital-nairobi-with-at-least-39-dead-and-150.md)
 At least 39 people have been killed after gunmen burst into a shopping centre in the Kenyan capital, Nairobi, and opened fire.
 
 ### [Exxon Mobil, BP and BG decline to take part in the upcoming international bidding for rights to explore Brazil's deep-water Libra oil field, one of the largest pre-salt fields yet to be explored in that country. ](/news/2013/09/21/exxon-mobil-bp-and-bg-decline-to-take-part-in-the-upcoming-international-bidding-for-rights-to-explore-brazil-s-deep-water-libra-oil-field.md)

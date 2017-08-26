@@ -1,6 +1,6 @@
 ### [2017-06-15](/news/2017/06/15/index.md)
 
-# 2017 Xuzhou kindergarten bombing. An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. 
+# 2017 Xuzhou kindergarten bombing: An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. 
 
 
 

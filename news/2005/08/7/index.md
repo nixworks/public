@@ -6,7 +6,7 @@ ABC News Anchor Peter Jennings died today at his home in New York City. He was 6
 ### [ Conflict in Iraq: 39 people have died, including at least two U.S. soldiers, following a series of insurgent attacks throughout Iraq. ](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Military of the United States_
 
-### [ Israeli-Palestinian Conflict:. A 10-year-old Israeli boy is severely wounded after being shot in the head when an Al-Aqsa Martyrs Brigades gunman opened fire on the vehicle he was travelling in outside the Israeli settlement of Ateret in the West Bank. ](/news/2005/08/7/israeli-palestinian-conflict-a-10-year-old-israeli-boy-is-severely-wounded-after-being-shot-in-the-head-when-an-al-aqsa-martyrs-brigades.md)
+### [ Israeli-Palestinian Conflict:: A 10-year-old Israeli boy is severely wounded after being shot in the head when an Al-Aqsa Martyrs Brigades gunman opened fire on the vehicle he was travelling in outside the Israeli settlement of Ateret in the West Bank. ](/news/2005/08/7/israeli-palestinian-conflict-a-10-year-old-israeli-boy-is-severely-wounded-after-being-shot-in-the-head-when-an-al-aqsa-martyrs-brigades.md)
 _Context: Al-Aqsa Martyrs' Brigades, Ateret, Israeli settlement, Israeli-Palestinian conflict, Israelis, West Bank_
 
 ### [ Russian Priz class mini-submarine AS-28 and its 7 crew members are saved at 03:25 UTC off the Pacific coast ](/news/2005/08/7/russian-priz-class-mini-submarine-as-28-and-its-7-crew-members-are-saved-at-03-25-utc-off-the-pacific-coast.md)

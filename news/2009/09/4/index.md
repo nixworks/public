@@ -6,7 +6,7 @@ The death toll from a powerful earthquake is continuing to rise as Indonesian re
 ### [ Ryan Tubridy takes over as host of "The Late Late Show", the world's longest running chat show. ](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.md)
 THE TAOISEACH Brian Cowen will be Ryan Tubridy&rsquo;s first guest when he presents The Late Late Show for the first time tonight&hellip;
 
-### [ Xinjiang. Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md)
+### [ Xinjiang: Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. ](/news/2009/09/4/xinjiang-another-day-of-protests-by-han-chinese-occur-over-a-series-of-hypodermic-needle-stabbings-in-urumqi-northwestern-china.md)
 Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions.
 
 ### [ Thousands of mourners from across southern India pay their respects to the dead chief minister of Andhra Pradesh, Y. S. Rajasekhara Reddy. ](/news/2009/09/4/thousands-of-mourners-from-across-southern-india-pay-their-respects-to-the-dead-chief-minister-of-andhra-pradesh-y-s-rajasekhara-reddy.md)

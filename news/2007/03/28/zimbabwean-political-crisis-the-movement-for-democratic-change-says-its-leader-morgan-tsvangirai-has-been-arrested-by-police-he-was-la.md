@@ -1,6 +1,6 @@
 ### [2007-03-28](/news/2007/03/28/index.md)
 
-#  Zimbabwean political crisis:. The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. 
+#  Zimbabwean political crisis:: The Movement for Democratic Change says its leader, Morgan Tsvangirai, has been arrested by police. He was later released but other activists remained in police custody. 
 
 
 

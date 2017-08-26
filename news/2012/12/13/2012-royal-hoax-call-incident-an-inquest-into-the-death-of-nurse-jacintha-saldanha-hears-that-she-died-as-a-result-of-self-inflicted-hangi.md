@@ -1,6 +1,6 @@
 ### [2012-12-13](/news/2012/12/13/index.md)
 
-# 2012 royal hoax call incident:. An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. 
+# 2012 royal hoax call incident:: An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. 
 
 The nurse duped by a prank call from an Australian Radio DJs while she was caring for the Duchess of Cambridge left three notes before she died, a coroner heard today.
 

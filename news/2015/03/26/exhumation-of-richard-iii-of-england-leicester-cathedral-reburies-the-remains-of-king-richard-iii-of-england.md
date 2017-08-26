@@ -1,6 +1,6 @@
 ### [2015-03-26](/news/2015/03/26/index.md)
 
-# Exhumation of Richard III of England. Leicester Cathedral reburies the remains of King Richard III of England. 
+# Exhumation of Richard III of England: Leicester Cathedral reburies the remains of King Richard III of England. 
 
 On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Battlefield, where he was killed 530 years ago.
 

@@ -1,6 +1,6 @@
 ## [2012-04-18](/news/2012/04/18/index.md)
 
-### [2011-2012 Bahraini uprising:. Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011-2012-bahraini-uprising-thousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chan.md)
+### [2011-2012 Bahraini uprising:: Thousands of pro-democracy demonstrators march through Tubli calling for the downfall of the regime and chanting against the Formula 1 Grand Prix, due to be held in Bahrain on Sunday. ](/news/2012/04/18/2011-2012-bahraini-uprising-thousands-of-pro-democracy-demonstrators-march-through-tubli-calling-for-the-downfall-of-the-regime-and-chan.md)
 Thousands march outside Manama while police use sound bombs to disperse a smaller protest in the capital.
 
 ### [The Casoria Contemporary Art Museum in Naples begins burning its artworks due to government budget cuts affecting cultural institutions. ](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.md)

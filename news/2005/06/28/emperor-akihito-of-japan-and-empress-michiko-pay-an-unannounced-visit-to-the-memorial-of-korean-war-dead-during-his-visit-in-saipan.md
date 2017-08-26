@@ -13,7 +13,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ### Related:
 
-1. [Politics of Japan. The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _Context: Akihito_
+1. [Politics of Japan: The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _Context: Akihito_
 2. [Emperor Akihito of Japan says he intends to lessen his official duties due to old age. ](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.md) _Context: Akihito_
 3. [North Korea's leader Kim Jong-un makes a rare New Year broadcast, calling for an improved economy and a reunified Korea. ](/news/2013/01/1/north-korea-s-leader-kim-jong-un-makes-a-rare-new-year-broadcast-calling-for-an-improved-economy-and-a-reunified-korea.md) _Context: Korea_
 4. [The Emperor of Japan Akihito successfully undergoes heart bypass surgery. ](/news/2012/02/18/the-emperor-of-japan-akihito-successfully-undergoes-heart-bypass-surgery.md) _Context: Akihito_

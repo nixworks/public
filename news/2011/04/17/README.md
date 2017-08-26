@@ -3,7 +3,7 @@
 ### [At least four people are shot dead by security forces during anti-government protests in Syria. ](/news/2011/04/17/at-least-four-people-are-shot-dead-by-security-forces-during-anti-government-protests-in-syria.md)
 Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot; took to the streets in southern Syria, a day after President Bashar Assad promised to end nearly 50 years of emergency rule.
 
-### [2011 Libyan civil war. Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
+### [2011 Libyan civil war: Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
 _Context: Ajdabiya, Libya, Libyan Civil War_
 
 ### [NATO announces that eight soldiers from member countries died in fighting in Afghanistan. ](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.md)

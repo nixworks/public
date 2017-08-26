@@ -1,6 +1,6 @@
 ### [2016-03-18](/news/2016/03/18/index.md)
 
-# 2016 United States Elizabethkingia outbreak. A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. 
+# 2016 United States Elizabethkingia outbreak: A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. 
 
 Officials are searching for the source of the Elizabethkingia anophelis bacteria linked to 18 deaths and 54 reported infections.
 

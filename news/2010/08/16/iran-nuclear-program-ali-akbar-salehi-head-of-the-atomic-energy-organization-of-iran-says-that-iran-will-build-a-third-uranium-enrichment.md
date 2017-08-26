@@ -1,6 +1,6 @@
 ### [2010-08-16](/news/2010/08/16/index.md)
 
-# Iran nuclear program. Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. 
+# Iran nuclear program: Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. 
 
 Nuke chief Salehi: New uranium enrichment site to open next year.
 
@@ -12,8 +12,8 @@ Nuke chief Salehi: New uranium enrichment site to open next year.
 
 ### Related:
 
-1. [Joint Comprehensive Plan of Action. Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/joint-comprehensive-plan-of-action-iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia.md) _Context: Ali Akbar Salehi, Iran, Iran nuclear chief, enriched uranium_
-2. [Joint Comprehensive Plan of Action. Eleven tons of enriched uranium are on a ship heading from Iran to Russia, per the July 14th international agreement. Iran delivers 200 tons of Russian yellowcake in return. The International Atomic Energy Agency will decide when Tehran has complied with its obligations which would make dismantling of economic sanctions possible. ](/news/2015/12/28/joint-comprehensive-plan-of-action-eleven-tons-of-enriched-uranium-are-on-a-ship-heading-from-iran-to-russia-per-the-july-14th-internation.md) _Context: Iran, enriched uranium_
+1. [Joint Comprehensive Plan of Action: Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/joint-comprehensive-plan-of-action-iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia.md) _Context: Ali Akbar Salehi, Iran, Iran nuclear chief, enriched uranium_
+2. [Joint Comprehensive Plan of Action: Eleven tons of enriched uranium are on a ship heading from Iran to Russia, per the July 14th international agreement. Iran delivers 200 tons of Russian yellowcake in return. The International Atomic Energy Agency will decide when Tehran has complied with its obligations which would make dismantling of economic sanctions possible. ](/news/2015/12/28/joint-comprehensive-plan-of-action-eleven-tons-of-enriched-uranium-are-on-a-ship-heading-from-iran-to-russia-per-the-july-14th-internation.md) _Context: Iran, enriched uranium_
 3. [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md) _Context: Ali Akbar Salehi, Iran nuclear chief_
 4. [Iran's negotiator Saeed Jalili defends the nation's controversial nuclear program that involves uranium enrichment, in a new round of talks with P5+1 countries in Kazakhstan. ](/news/2013/04/5/iran-s-negotiator-saeed-jalili-defends-the-nation-s-controversial-nuclear-program-that-involves-uranium-enrichment-in-a-new-round-of-talks.md) _Context: Iran, enriched uranium_
 5. [International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. ](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.md) _Context: Iran, nuclear program_

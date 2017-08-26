@@ -1,6 +1,6 @@
 ## [2011-09-19](/news/2011/09/19/index.md)
 
-### [Terrorism in Pakistan:. A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md)
+### [Terrorism in Pakistan:: A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md)
 _Context: Karachi, Pakistan, Pakistani police, Terrorism in Pakistan_
 
 ### [Syrian activists and residents claim that the Syrian military have shot dead eight people, including six civilians, north of the city of Homs. ](/news/2011/09/19/syrian-activists-and-residents-claim-that-the-syrian-military-have-shot-dead-eight-people-including-six-civilians-north-of-the-city-of-hom.md)
@@ -46,7 +46,7 @@ _Context: George Cadle Price, Prime Minister of Belize_
 _Context: John O'Dowd, Martin McGuinness, Sinn Fein, deputy First Minister of Northern Ireland_
 
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)
-_Context: Barack Obama, president_
+_Context: Barack Obama, President_
 
 ## [Previous Day...](/news/2011/09/18/index.md)
 

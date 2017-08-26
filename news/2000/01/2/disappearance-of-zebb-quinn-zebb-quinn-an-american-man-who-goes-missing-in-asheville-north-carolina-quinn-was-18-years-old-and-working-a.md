@@ -1,6 +1,6 @@
 ### [2000-01-2](/news/2000/01/2/index.md)
 
-# Disappearance of Zebb Quinn. Zebb Quinn, an American man who goes missing in Asheville, North Carolina. Quinn was 18 years old and working at a Walmart in Asheville when he disappeared. As of 2017, his case remains unsolved.
+# Disappearance of Zebb Quinn: Zebb Quinn, an American man who goes missing in Asheville, North Carolina. Quinn was 18 years old and working at a Walmart in Asheville when he disappeared. As of 2017, his case remains unsolved.
 
 
 

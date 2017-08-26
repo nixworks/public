@@ -3,10 +3,10 @@
 ### [Al-Qaeda in the Maghreb commander Mokhtar Belmokhtar claims responsibility for two suicide bombing attacks that killed 30 people in Niger on May 23. ](/news/2013/05/25/al-qaeda-in-the-maghreb-commander-mokhtar-belmokhtar-claims-responsibility-for-two-suicide-bombing-attacks-that-killed-30-people-in-niger-on.md)
 If true, Mokhtar Belmokhtar’s claim would put one of the Sahel’s most hardened militants, whom Chad’s military said it had killed, back at the center of jihad.
 
-### [Insurgency in the North Caucasus:. A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-mak.md)
+### [Insurgency in the North Caucasus:: A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/insurgency-in-the-north-caucasus-a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-mak.md)
 A female suicide bomber has injured at least 11 police officers and civilians, including two children, in the southern Russian region of Dagestan, police say. 
 
-### [Syrian civil war:. Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with.md)
+### [Syrian civil war:: Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with.md)
 _Context: Al-Qusayr, Hezbollah, Homs, Syrian Army, Syrian Civil War_
 
 ### [A bomb explodes near a bus north of Baghdad, Iraq, killing six Iranians, one Iraqi, and wounding fourteen people. ](/news/2013/05/25/a-bomb-explodes-near-a-bus-north-of-baghdad-iraq-killing-six-iranians-one-iraqi-and-wounding-fourteen-people.md)

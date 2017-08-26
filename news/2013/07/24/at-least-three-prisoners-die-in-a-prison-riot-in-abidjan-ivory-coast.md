@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Piracy in the 21st century:. Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _Context: Abidjan, Ivory Coast_
+1. [Piracy in the 21st century:: Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _Context: Abidjan, Ivory Coast_
 2. [2013 Houphouet-Boigny stampede: At least 60 people are killed and more than 200 injured in a stampede during a New Year's fireworks celebration near the Stade Felix Houphouet-Boigny in Abidjan, Ivory Coast. ](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.md) _Context: Abidjan, Ivory Coast_
 3. [An attack on an army base in Abidjan, Ivory Coast, kills six people. ](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.md) _Context: Abidjan, Ivory Coast_
 4. [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md) _Context: Abidjan, Ivory Coast_

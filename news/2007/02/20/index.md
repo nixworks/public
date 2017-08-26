@@ -9,7 +9,7 @@ _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 ### [ Felix Kulov, former Prime Minister of Kyrgyzstan, breaks his political alliance with President Kurmanbek Bakiyev. Kulov forms the United Front for a Worthy Future for Kyrgyzstan with Ar-Namys and other political parties. ](/news/2007/02/20/felix-kulov-former-prime-minister-of-kyrgyzstan-breaks-his-political-alliance-with-president-kurmanbek-bakiyev-kulov-forms-the-united-fr.md)
 _Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, President, Prime Minister, United Front For A Worthy Future For Kyrgyzstan_
 
-### [ Iran:. President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
+### [ Iran:: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, nuclear program_
 
 ### [ At least 35 people have died and up to 340,000 are affected by flooding after months of heavy rain in Bolivia. The eastern departments of Santa Cruz and Beni are the worst affected. ](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.md)

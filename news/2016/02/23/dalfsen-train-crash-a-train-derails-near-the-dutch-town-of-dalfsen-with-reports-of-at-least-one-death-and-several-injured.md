@@ -1,6 +1,6 @@
 ### [2016-02-23](/news/2016/02/23/index.md)
 
-# Dalfsen train crash. A train derails near the Dutch town of Dalfsen with reports of at least one death and several injured. 
+# Dalfsen train crash: A train derails near the Dutch town of Dalfsen with reports of at least one death and several injured. 
 
 A train driver was killed and several other people hurt when a train ran into a crane on a level crossing near the Dutch town of Dalfsen.
 

@@ -1,6 +1,6 @@
 ### [2007-10-29](/news/2007/10/29/index.md)
 
-#  People's Republic of China:. The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. 
+#  People's Republic of China:: The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. 
 
 Regulators hailed the arrests, made during a nationwide crackdown on tainted food, drugs and agricultural products, as a major step forward for consumer safety.
 

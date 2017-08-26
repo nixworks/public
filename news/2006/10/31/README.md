@@ -1,6 +1,6 @@
 ## [2006-10-31](/news/2006/10/31/index.md)
 
-### [ Esperanza Fire. California authorities arrest a man who is suspected of intentionally starting two wildfires this summer and is considered a person of interest in the Esperanza Fire.. A fifth firefighter dies as a result of injuries obtained fighting the Esperanza Fire near Palm Springs, California started by arson. ](/news/2006/10/31/esperanza-fire-california-authorities-arrest-a-man-who-is-suspected-of-intentionally-starting-two-wildfires-this-summer-and-is-considered.md)
+### [ Esperanza Fire: California authorities arrest a man who is suspected of intentionally starting two wildfires this summer and is considered a person of interest in the Esperanza Fire.: A fifth firefighter dies as a result of injuries obtained fighting the Esperanza Fire near Palm Springs, California started by arson. ](/news/2006/10/31/esperanza-fire-california-authorities-arrest-a-man-who-is-suspected-of-intentionally-starting-two-wildfires-this-summer-and-is-considered.md)
 _Context: California, Esperanza Fire, Palm Springs, California_
 
 ### [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md)

@@ -1,6 +1,6 @@
 ### [2015-08-22](/news/2015/08/22/index.md)
 
-# Shoreham Airport disaster. A Hawker Hunter aircraft crashes during an airshow after failing to pull out of dive at Shoreham Airport, West Sussex, United Kingdom, leaving seven people killed with 15 injured. 
+# Shoreham Airport disaster: A Hawker Hunter aircraft crashes during an airshow after failing to pull out of dive at Shoreham Airport, West Sussex, United Kingdom, leaving seven people killed with 15 injured. 
 
 Seven people die after a Hawker Hunter jet crashes into several vehicles on the A27 during Shoreham Airshow.
 

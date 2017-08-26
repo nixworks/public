@@ -1,12 +1,12 @@
 ## [2014-03-13](/news/2014/03/13/index.md)
 
-### [2014 Crimean crisis:. Leaders in the Ukrainian Kherson Oblast threaten to shut off all power and water to Crimea if the referendum goes forward. ](/news/2014/03/13/2014-crimean-crisis-leaders-in-the-ukrainian-kherson-oblast-threaten-to-shut-off-all-power-and-water-to-crimea-if-the-referendum-goes-forw.md)
+### [2014 Crimean crisis:: Leaders in the Ukrainian Kherson Oblast threaten to shut off all power and water to Crimea if the referendum goes forward. ](/news/2014/03/13/2014-crimean-crisis-leaders-in-the-ukrainian-kherson-oblast-threaten-to-shut-off-all-power-and-water-to-crimea-if-the-referendum-goes-forw.md)
 _Context: 2014 Crimean crisis, Kherson Oblast_
 
 ### [At least 100 rockets have been fired from Gaza into southern Israel over the last 3 days, with the Islamic Jihad Movement in Palestine claiming responsibility. The IDF responded by shelling two alleged PIJ targets. ](/news/2014/03/13/at-least-100-rockets-have-been-fired-from-gaza-into-southern-israel-over-the-last-3-days-with-the-islamic-jihad-movement-in-palestine-claim.md)
 Islamic Jihad takes responsibly for attack; no injuries reported; Iron Dome intercepts 3 rockets; Israeli tanks shell 2 terror infrastructure targets in response.
 
-### [Post-coup unrest in Egypt:. Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md)
+### [Post-coup unrest in Egypt:: Masked gunmen attack a bus carrying Egyptian Army soldiers in Cairo, killing one. ](/news/2014/03/13/post-coup-unrest-in-egypt-masked-gunmen-attack-a-bus-carrying-egyptian-army-soldiers-in-cairo-killing-one.md)
 Masked gunmen opened fire on an army bus in Cairo on Thursday, killing one soldier and wounding three in a rare attack on troops in the Egyptian capital, security officials and a military spokesman sa
 
 ### [An executive board member of the European Central Bank, Benoit Coeure, says that the ECB is determined to secure the continued decline in real interest rates in the months ahead. ](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.md)

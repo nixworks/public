@@ -1,6 +1,6 @@
 ### [2017-07-6](/news/2017/07/6/index.md)
 
-# Large Hadron Collider. Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. 
+# Large Hadron Collider: Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. 
 
 Scientists have detected a new particle at the Large Hadron Collider at Cern
 

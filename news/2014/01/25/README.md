@@ -1,15 +1,15 @@
 ## [2014-01-25](/news/2014/01/25/index.md)
 
-### [Civil conflict in the Philippines. The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
+### [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
 _Context: Civil conflict in the Philippines, Filipino Muslims, Philippines, peace deal_
 
-### [Post-civil war violence in Libya:. Five Egyptian embassy staff are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/post-civil-war-violence-in-libya-five-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
+### [Post-civil war violence in Libya:: Five Egyptian embassy staff are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/post-civil-war-violence-in-libya-five-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
 _Context: Egypt, Libya, Post-civil war violence in Libya, Tripoli_
 
-### [Post-coup unrest in Egypt:. 64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-64-people-are-killed-in-anti-government-marches.md)
+### [Post-coup unrest in Egypt:: 64 people are killed in anti-government marches. ](/news/2014/01/25/post-coup-unrest-in-egypt-64-people-are-killed-in-anti-government-marches.md)
 At least 49 people are killed in clashes in Egypt as rallies mark the anniversary of the 2011 uprising which overthrew President Hosni Mubarak.
 
-### [Iraqi insurgency (post-U.S. withdrawal). 17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/iraqi-insurgency-post-u-s-withdrawal-17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal): 17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/iraqi-insurgency-post-u-s-withdrawal-17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. ](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-ii-s-blood-is-stolen-from-the-church-of-san-pietro-della-ienca-in-abruzzo-italy.md)

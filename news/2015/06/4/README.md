@@ -12,7 +12,7 @@ _Context: Oxford University, St Benet's Hall_
 ### [Officials of the ruling Syriza party in Greece say that they cannot accept a last-minute deal proposed by the country's creditors: default deadline looms. ](/news/2015/06/4/officials-of-the-ruling-syriza-party-in-greece-say-that-they-cannot-accept-a-last-minute-deal-proposed-by-the-country-s-creditors-default-d.md)
 _Context: Greek, Syriza_
 
-### [Sinking of the "Dong Fang Zhi Xing". The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-m.md)
+### [Sinking of the "Dong Fang Zhi Xing": The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-m.md)
 Rescuers cut into upside-down hull of capsized Eastern Star in the Yangtze river, which a maritime agency found was cited for safety violations in 2013
 
 ### [An explosion at a gasoline station in Accra, Ghana, kills at least 78 people. ](/news/2015/06/4/an-explosion-at-a-gasoline-station-in-accra-ghana-kills-at-least-78-people.md)
@@ -21,7 +21,7 @@ At least 90 people killed after explosion in capital Accra, blamed on floodwater
 ### [Surgeons, led by Dr. Jesse Selber, working with the M.D. Anderson Cancer Center, in a 15-hour, 12-doctor operation, perform the world's first partial-skull and scalp transplant, at Houston Methodist Hospital, on 55-year-old Jim Boysten, a software developer from Austin, Texas suffering from a large head wound from cancer treatment; immediately afterward, he was finally able to receive a new kidney and pancreas, which replaced the previous transplants that were failing. ](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.md)
 _Context: Austin, Texas, Houston Methodist Hospital, Jesse Selber, Jim Boysten, M.D. Anderson Cancer Center, kidney, pancreas_
 
-### [ 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea. The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/2015-middle-east-respiratory-syndrome-coronavirus-outbreak-in-south-korea-the-number-of-people-with-middle-eastern-respiratory-syndrome-m.md)
+### [ 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea: The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/2015-middle-east-respiratory-syndrome-coronavirus-outbreak-in-south-korea-the-number-of-people-with-middle-eastern-respiratory-syndrome-m.md)
 _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, Middle Eastern Respiratory Syndrome, South Korea_
 
 ### [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18-6-to-improve-a-woman-s-libido.md)
@@ -30,10 +30,10 @@ _Context: Flibanserin, U.S. Food and Drug Administration_
 ### [Associated Press reports that there has been a massive hack from the American Office of Personnel Management and US Department of the Interior with the "Washington Post" claiming that Chinese hackers were responsible. The records of at least four million US Government workers are believed to have been compromised. ](/news/2015/06/4/associated-press-reports-that-there-has-been-a-massive-hack-from-the-american-office-of-personnel-management-and-us-department-of-the-interi.md)
 Up to four million US government personnel records compromised by an alleged China-based cyber attack, in fresh embarrassment for Obama administration
 
-### [United States presidential election, 2016. Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/united-states-presidential-election-2016-former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-part.md)
+### [United States presidential election, 2016: Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/united-states-presidential-election-2016-former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-part.md)
 _Context: 2016 U.S. presidential election, Governor of Texas, Republican, Rick Perry_
 
-### [USA Freedom Act. President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/usa-freedom-act-president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the.md)
+### [USA Freedom Act: President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/usa-freedom-act-president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the.md)
 The bill moves the storage of bulk telephone metadata used by the NSA to telecom companies.
 
 ## [Previous Day...](/news/2015/06/3/index.md)

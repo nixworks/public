@@ -16,7 +16,7 @@ _Context: Challenger Deep, Mariana Trench, Nereus, Pacific Ocean, remotely opera
 _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becomes_
 
 ### [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http://news.bbc.co.uk/2/hi/south_asia/8081828.stm (BBC)] [http://www.timesonline.co.uk/tol/news/world/middle_east/article6423668.ece "(The Times)"]](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette-http-news-bbc-co-uk-2-hi-south_as.md)
-_Context: Barack Obama, Osama bin Laden, United States, al-Qaeda, cassette, criticizes, president_
+_Context: Barack Obama, Osama bin Laden, President, United States, al-Qaeda, cassette, criticizes_
 
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
 _Context: 2009, Jacob Zuma, President, South Africa, State of the Nation Address_

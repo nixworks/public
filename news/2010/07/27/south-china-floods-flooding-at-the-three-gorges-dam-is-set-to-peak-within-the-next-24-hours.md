@@ -1,6 +1,6 @@
 ### [2010-07-27](/news/2010/07/27/index.md)
 
-# South China floods. Flooding at the Three Gorges Dam is set to peak within the next 24 hours. 
+# South China floods: Flooding at the Three Gorges Dam is set to peak within the next 24 hours. 
 
 Dozens more people are reported dead or missing as the worst torrential rain in decades continues to wreak havoc in China.
 

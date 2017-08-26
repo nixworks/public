@@ -1,6 +1,6 @@
 ### [2011-12-28](/news/2011/12/28/index.md)
 
-# 2011 Syrian uprising:. The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. 
+# 2011 Syrian uprising:: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. 
 
 Syria releases 755 people detained in the nine-month uprising against President Assad, state TV says, as Arab League monitors continue their visit amid ongoing violence.
 
@@ -21,4 +21,4 @@ Syria releases 755 people detained in the nine-month uprising against President 
 7. [Syria agrees to an Arab League plan to allow monitors into the country amid the uprising. ](/news/2011/12/19/syria-agrees-to-an-arab-league-plan-to-allow-monitors-into-the-country-amid-the-uprising.md) _Context: 2011 Syrian uprising, Arab League, Syria_
 8. [The Arab League threatens to take Syria to the United Nations within two weeks if the country does not accept its proposals to end the crackdown on the uprising. ](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.md) _Context: 2011 Syrian uprising, Arab League, Syria_
 9. [The Arab League approves sanctions against Syria amid the nation's ongoing violent uprising. The Syrian government calls the League's move "an unprecedented measure". ](/news/2011/11/27/the-arab-league-approves-sanctions-against-syria-amid-the-nation-s-ongoing-violent-uprising-the-syrian-government-calls-the-league-s-move.md) _Context: 2011 Syrian uprising, Arab League, Syria_
-10. [Syrian uprising:. The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urg.md) _Context: 2011 Syrian uprising, Arab League, Syria_
+10. [Syrian uprising:: The Arab League votes to suspend Syria over its violent suppression of the Syrian uprising, pledging new sanctions and urging member states to withdraw ambassadors from Damascus. ](/news/2011/11/12/syrian-uprising-the-arab-league-votes-to-suspend-syria-over-its-violent-suppression-of-the-syrian-uprising-pledging-new-sanctions-and-urg.md) _Context: 2011 Syrian uprising, Arab League, Syria_

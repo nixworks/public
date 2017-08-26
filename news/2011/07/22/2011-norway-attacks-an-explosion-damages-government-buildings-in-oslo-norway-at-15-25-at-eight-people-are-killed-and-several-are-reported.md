@@ -1,6 +1,6 @@
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-# 2011 Norway attacks. An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. 
+# 2011 Norway attacks: An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. 
 
 At least a dozen deaths reported after a massive bomb blast hits central Oslo and a youth camp is fired upon.
 

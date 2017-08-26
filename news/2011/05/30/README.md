@@ -6,13 +6,13 @@ _Context: Nigeria_
 ### [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md)
 _Context: Adolf Hitler, Britain, Rudolf Hess, Russia, Winston Churchill, World War II_
 
-### [War in Afghanistan (2001-present):. United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/war-in-afghanistan-2001-present-united-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-a.md)
+### [War in Afghanistan (2001-present):: United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/war-in-afghanistan-2001-present-united-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-a.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-### [Arab Spring:. 2011 Syrian uprising:. 11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md)
+### [Arab Spring:: 2011 Syrian uprising:: 11 people are killed and scores injured in a military crackdown on protests. ](/news/2011/05/30/arab-spring-2011-syrian-uprising-11-people-are-killed-and-scores-injured-in-a-military-crackdown-on-protests.md)
 Four Yemeni soldiers were killed and dozens injured in what appeared to be an ambush as they were traveling to the al Qaeda-held city of Zinjibar, a security official said.
 
-### [2011 Spanish protests:. Thousands of anti-government demonstrators vote to continue a mass sit-in against economic cuts in Madrid, following last Friday's targeting of civilians in Barcelona by police with batons and rubber bullets. ](/news/2011/05/30/2011-spanish-protests-thousands-of-anti-government-demonstrators-vote-to-continue-a-mass-sit-in-against-economic-cuts-in-madrid-following.md)
+### [2011 Spanish protests:: Thousands of anti-government demonstrators vote to continue a mass sit-in against economic cuts in Madrid, following last Friday's targeting of civilians in Barcelona by police with batons and rubber bullets. ](/news/2011/05/30/2011-spanish-protests-thousands-of-anti-government-demonstrators-vote-to-continue-a-mass-sit-in-against-economic-cuts-in-madrid-following.md)
 Thousands of Spaniards vow to remain camping in central Madrid, two weeks after launching their protest against austerity.
 
 ### [Germany's ruling coalition led by Chancellor Angela Merkel pledges to end all nuclear power by 2022. ](/news/2011/05/30/germany-s-ruling-coalition-led-by-chancellor-angela-merkel-pledges-to-end-all-nuclear-power-by-2022.md)

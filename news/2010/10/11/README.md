@@ -3,7 +3,7 @@
 ### [A Telugu Desam leader is murdered in broad daylight in a restaurant near Srikantam circle in Anantapur, India. ](/news/2010/10/11/a-telugu-desam-leader-is-murdered-in-broad-daylight-in-a-restaurant-near-srikantam-circle-in-anantapur-india.md)
 _Context: Anantapur, Srikantam, Telugu Desam_
 
-### [Afghanistan:. Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md)
+### [Afghanistan:: Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-ye.md)
 _Context: Afghanistan President, Afghanistan's, Hamid Karzai, Taliban, War in Afghanistan (2001-present)_
 
 ### [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md)
@@ -36,7 +36,7 @@ _Context: 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010),
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
 _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Palestinian_
 
-### [Liu Xiaobo:. China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/liu-xiaobo-china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-priz.md)
+### [Liu Xiaobo:: China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/liu-xiaobo-china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-priz.md)
 _Context: China, Lisbeth Berg-Hansen, Liu Xiaobo, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
@@ -57,7 +57,7 @@ _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, s
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
 _Context: Germany, Iran, Sakineh Mohammadi Ashtiani, journalist_
 
-### [Kyrgyzstani parliamentary election:. Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-five-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-re.md)
+### [Kyrgyzstani parliamentary election:: Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-five-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-re.md)
 _Context: Ar-Namys, Ata Meken, Ata-Zhurt, Kyrgyzstani parliamentary election, Respublika, Social Democratic Party of Kyrgyzstan_
 
 ### [The Bharatiya Janata Party government of India's Karnataka state wins a vote of no confidence after 16 members of the Karnataka Legislative Assembly are disqualified from voting. ](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.md)

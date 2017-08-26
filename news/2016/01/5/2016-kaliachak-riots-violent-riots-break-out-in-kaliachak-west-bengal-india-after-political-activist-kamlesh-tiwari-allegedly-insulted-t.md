@@ -1,6 +1,6 @@
 ### [2016-01-5](/news/2016/01/5/index.md)
 
-# 2016 Kaliachak riots. Violent riots break out in Kaliachak, West Bengal, India, after political activist Kamlesh Tiwari allegedly insulted the Muslim prophet Muhammad. 
+# 2016 Kaliachak riots: Violent riots break out in Kaliachak, West Bengal, India, after political activist Kamlesh Tiwari allegedly insulted the Muslim prophet Muhammad. 
 
 Infuriated by rumour that BSF personnel opened fire, a mob torched the Kaliachak police station, attacked officers there, damaged the BDO office, set ablaze nearly 20 vehicles stranded on NH-34 and squatted on the railway tracks for hours on Sunday . Police had to open fire and it took them six hours to bring the situation under control.
 

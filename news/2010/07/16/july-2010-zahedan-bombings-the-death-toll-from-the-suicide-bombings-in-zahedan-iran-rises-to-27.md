@@ -1,6 +1,6 @@
 ### [2010-07-16](/news/2010/07/16/index.md)
 
-# July 2010 Zahedan bombings. The death toll from the suicide bombings in Zahedan, Iran, rises to 27. 
+# July 2010 Zahedan bombings: The death toll from the suicide bombings in Zahedan, Iran, rises to 27. 
 
 
 

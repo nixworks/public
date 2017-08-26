@@ -1,6 +1,6 @@
 ## [2015-04-15](/news/2015/04/15/index.md)
 
-### [Islamic State of Iraq and the Levant. Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/islamic-state-of-iraq-and-the-levant-fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-c.md)
+### [Islamic State of Iraq and the Levant: Fierce clashes in Iraq's Anbar province as Islamic State captures three villages near the provincial capital Ramadi. ](/news/2015/04/15/islamic-state-of-iraq-and-the-levant-fierce-clashes-in-iraq-s-anbar-province-as-islamic-state-captures-three-villages-near-the-provincial-c.md)
 _Context: Anbar province, Iraq, Islamic State of Iraq and the Levant, Ramadi_
 
 ### [Nokia announces plans to buy telecommunications equipment maker Alcatel-Lucent for -15.6 billion (US$16.6 billion). ](/news/2015/04/15/nokia-announces-plans-to-buy-telecommunications-equipment-maker-alcatel-lucent-for-15-6-billion-us-16-6-billion.md)

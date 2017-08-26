@@ -1,6 +1,6 @@
 ### [2016-09-17](/news/2016/09/17/index.md)
 
-# 2016 Calgary machete attack. An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. 
+# 2016 Calgary machete attack: An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. 
 
 A member of the Calgary Police Service remained in hospital Sunday in serious but stable condition after he was severely injured in a machete attack at Marlborough Mall Saturday afternoon.
 
@@ -14,7 +14,7 @@ A member of the Calgary Police Service remained in hospital Sunday in serious bu
 
 1. [Twin brothers are killed and six others injured in a sledding accident on an Olympic bobsledding course at Canada Olympic Park in Calgary, Alberta. ](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.md) _Context: Calgary, Alberta_
 2. [2014 Calgary stabbing. Five people are stabbed to death and one person is in custody at a house party in Calgary, Alberta, Canada. ](/news/2014/04/15/2014-calgary-stabbing-five-people-are-stabbed-to-death-and-one-person-is-in-custody-at-a-house-party-in-calgary-alberta-canada.md) _Context: Calgary, Alberta_
-3. [Influenza A virus subtype H5N1:. Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _Context: Calgary, Alberta_
+3. [Influenza A virus subtype H5N1:: Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md) _Context: Calgary, Alberta_
 4. [75,000 people are evacuated from their homes during flooding in Calgary, Alberta, Canada. ](/news/2013/06/21/75-000-people-are-evacuated-from-their-homes-during-flooding-in-calgary-alberta-canada.md) _Context: Calgary, Alberta_
 5. [2013 Alberta floods: Extensive flooding begins throughout southern Alberta, Canada, leading to the evacuation of more than 100,000 people, notably in the City of Calgary and Town of High River. It would become the costliest natural disaster in Canadian history.](/news/2013/06/20/2013-alberta-floods-extensive-flooding-begins-throughout-southern-alberta-canada-leading-to-the-evacuation-of-more-than-100-000-people-n.md) _Context: Calgary, Alberta_
 6. [Former Premier of Alberta Ralph Klein dies in Calgary, Alberta, Canada, at the age of 70. ](/news/2013/03/29/former-premier-of-alberta-ralph-klein-dies-in-calgary-alberta-canada-at-the-age-of-70.md) _Context: Calgary, Alberta_

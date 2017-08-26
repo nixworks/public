@@ -1,6 +1,6 @@
 ## [2012-03-9](/news/2012/03/9/index.md)
 
-### [Arab Spring:. Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md)
+### [Arab Spring:: Tens of thousands of people in Bahrain join an anti-government protest outside the capital Manama. ](/news/2012/03/9/arab-spring-tens-of-thousands-of-people-in-bahrain-join-an-anti-government-protest-outside-the-capital-manama.md)
 Tens of thousands of protesters join an anti-government march outside the Bahraini capital, Manama.
 
 ### [Secretary-general of the Popular Resistance Committees Zohair al-Qaisi, a senior PRC member and two additional Palestinian militants are assassinated during a targeted killing carried out by Israeli forces in Gaza. ](/news/2012/03/9/secretary-general-of-the-popular-resistance-committees-zohair-al-qaisi-a-senior-prc-member-and-two-additional-palestinian-militants-are-ass.md)

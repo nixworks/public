@@ -3,13 +3,13 @@
 ### [2011 Syrian uprising: Over a thousand people flee Hama in fear of a government attack by the Syrian Army. ](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.md)
 About 1,000 people have fled the city fearing another crackdown on protests, rights group says.
 
-### [2011 Libyan civil war:. Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-russia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md)
+### [2011 Libyan civil war:: Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-russia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md)
 Nato forces have attacked Libya&#039;s oil facilities for the first time in this conflict in an attempt to starve Muammar Gaddafi&#039;s army of fuel, as rebels, following fierce clashes, moved to within 50 miles of the capital Tripoli.
 
 ### [2011 Yemeni uprising: Security forces clash with rebels near the town of Zinjibar with eight dead including one soldier. ](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.md)
 _Context: 2011 Yemeni uprising, Zinjibar_
 
-### [War in Afghanistan:. Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md)
+### [War in Afghanistan:: Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-canada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md)
 The United States took complete charge of Kandahar Thursday, formally ending over five years of Canadian involvement in southern Afghanistan.
 
 ### [Thirty-four people are killed in attacks on buses and houses in Karachi, Pakistan, with a total three-day death toll of 63. ](/news/2011/07/7/thirty-four-people-are-killed-in-attacks-on-buses-and-houses-in-karachi-pakistan-with-a-total-three-day-death-toll-of-63.md)
@@ -24,7 +24,7 @@ _Context: Australia, Civil Aviation Safety Authority, Tiger Airways_
 ### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
 _Context: Deutsche Boerse AG, NYSE Euronext, New York Stock Exchange_
 
-### ["News of the World" phone hacking affair:. News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-of-the-world-phone-hacking-affair-news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-pho.md)
+### ["News of the World" phone hacking affair:: News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-of-the-world-phone-hacking-affair-news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-pho.md)
 Police investigating allegations of phone hacking by the News of the World plead for patience, saying they are contacting almost 4,000 people whose names appear in seized documents.
 
 ### [A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. ](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.md)

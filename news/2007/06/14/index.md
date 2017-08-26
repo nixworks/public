@@ -3,7 +3,7 @@
 ### [ A U.S. federal jury convicts former Klansman James Ford Seale of kidnapping and conspiracy in connection with the 1964 deaths of two African-American teenagers in Mississippi. ](/news/2007/06/14/a-u-s-federal-jury-convicts-former-klansman-james-ford-seale-of-kidnapping-and-conspiracy-in-connection-with-the-1964-deaths-of-two-africa.md)
 _Context: 1964, African-American, James Seale, Ku Klux Klan, Mississippi, conspiracy, kidnapped_
 
-### [ "Fatah-Hamas conflict:". Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatah-hamas-conflict-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md)
+### [ "Fatah-Hamas conflict:": Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatah-hamas-conflict-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md)
 _Context: Fatah-Hamas conflict, Gaza Strip, Palestinian Authority_
 
 ### [ Golf's U.S. Open begins at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/14/golf-s-u-s-open-begins-at-oakmont-country-club-in-oakmont-pennsylvania.md)

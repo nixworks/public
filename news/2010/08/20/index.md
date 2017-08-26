@@ -36,7 +36,7 @@ An air traffic control problem delays hundreds of flights in northern Europe ove
 ### [For failure to deal with the recent wildfires the head of Russia's forestry agency is fired by Vladimir Putin and replaced with his deputy. ](/news/2010/08/20/for-failure-to-deal-with-the-recent-wildfires-the-head-of-russia-s-forestry-agency-is-fired-by-vladimir-putin-and-replaced-with-his-deputy.md)
 Russian Prime Minister Vladimir Putin sacks the head of the forestry agency for failing to deal adequately with recent wildfires.
 
-### [2010 Pakistan floods:. After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very.md)
+### [2010 Pakistan floods:: After initial hesitation, Pakistan ultimately accepts $5 million in aid from India; it subsequently calls it a "very welcome initiative". ](/news/2010/08/20/2010-pakistan-floods-after-initial-hesitation-pakistan-ultimately-accepts-5-million-in-aid-from-india-it-subsequently-calls-it-a-very.md)
 Pakistan has welcomed flood aid from its neighbour India, as the countries look to improve their tense relations.
 
 ### [Gas leak in a hardware store in Santa Cruz, Chile produces a massive evacuation in the surrounding area. ("Wikinews")](/news/2010/08/20/gas-leak-in-a-hardware-store-in-santa-cruz-chile-produces-a-massive-evacuation-in-the-surrounding-area-wikinews.md)
@@ -87,7 +87,7 @@ The last of the three inmates who escaped from an Arizona prison was captured wi
 ### [A man sues game-maker NCsoft, stating he would not have begun to play one of their games, Lineage II, if he had known it was addictive and claims it has left him unable to function. ](/news/2010/08/20/a-man-sues-game-maker-ncsoft-stating-he-would-not-have-begun-to-play-one-of-their-games-lineage-ii-if-he-had-known-it-was-addictive-and-c.md)
 _Context: Lineage II, NCsoft_
 
-### [Solomon Islands general election, 2010:. The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/solomon-islands-general-election-2010-the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands.md)
+### [Solomon Islands general election, 2010:: The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/solomon-islands-general-election-2010-the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands.md)
 _Context: 2010 general election, Danny Philip, Democratic Party, Foreign Minister, Prime Minister of the Solomon Islands, Solomon Islands, Steve Abana_
 
 ### [Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. ](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.md)

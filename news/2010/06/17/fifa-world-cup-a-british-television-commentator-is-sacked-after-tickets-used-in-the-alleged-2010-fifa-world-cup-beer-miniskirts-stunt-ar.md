@@ -1,6 +1,6 @@
 ### [2010-06-17](/news/2010/06/17/index.md)
 
-# FIFA World Cup:. A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. 
+# FIFA World Cup:: A British television commentator is sacked after tickets used in the alleged 2010 FIFA World Cup "beer miniskirts stunt" are traced to him. 
 
 
 
@@ -14,7 +14,7 @@
 
 ### Related:
 
-1. [2015 FIFA corruption case. FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/2015-fifa-corruption-case-fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-o.md) _Context: World Cup_
+1. [2015 FIFA corruption case: FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/2015-fifa-corruption-case-fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-o.md) _Context: World Cup_
 2. [Uruguay striker and 2010 FIFA World Cup player of the tournament Diego Forln is a popular attraction among the inhabitants of Kolkata as he participates in a talent search. ](/news/2010/08/5/uruguay-striker-and-2010-fifa-world-cup-player-of-the-tournament-diego-forlan-is-a-popular-attraction-among-the-inhabitants-of-kolkata-as-he.md) _Context: 2010 FIFA World Cup_
 3. [Human rights groups express dismay at Kenya for the secret sending to Uganda of four suspects after the 2010 FIFA World Cup attacks in Kampala. Federal Bureau of Investigation (FBI) agents are also said to have engaged in illegal interrogation of three of them. ](/news/2010/08/19/human-rights-groups-express-dismay-at-kenya-for-the-secret-sending-to-uganda-of-four-suspects-after-the-2010-fifa-world-cup-attacks-in-kampa.md) _Context: 2010 FIFA World Cup_
 4. [The Ghana national football team are to receive national awards after their success at the 2010 FIFA World Cup, while former UN Secretary-General Kofi Annan writes of his heartbreak. ](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.md) _Context: 2010 FIFA World Cup_

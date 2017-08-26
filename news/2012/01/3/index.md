@@ -3,7 +3,7 @@
 ### [Aftermath of 2011 Libyan civil war: elements of former anti-Gaddafi forces from Tripoli and Misrata clash in the center of Tripoli, with five people reportedly killed. ](/news/2012/01/3/aftermath-of-2011-libyan-civil-war-elements-of-former-anti-gaddafi-forces-from-tripoli-and-misrata-clash-in-the-center-of-tripoli-with-fiv.md)
 _Context: Libyan Civil War, Misrata, Tripoli, anti-Gaddafi forces_
 
-### [War in Afghanistan:. A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md)
+### [War in Afghanistan:: A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-a-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md)
 At least 12 people, including several children, have died in a series of bomb attacks in the south of Afghanistan, officials say.
 
 ### [Unemployment in Spain reaches a record high. ](/news/2012/01/3/unemployment-in-spain-reaches-a-record-high.md)

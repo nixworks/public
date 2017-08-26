@@ -1,6 +1,6 @@
 ### [2010-04-10](/news/2010/04/10/index.md)
 
-# 2010 Polish Air Force Tu-154 crash:. A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. 
+# 2010 Polish Air Force Tu-154 crash:: A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. 
 
 The aging jet was taking a delegation to a ceremony marking the 70th anniversary of the slaughter of thousands of Polish military officers by Soviet secret police when it went down.
 
@@ -32,7 +32,7 @@ The aging jet was taking a delegation to a ceremony marking the 70th anniversary
 
 ### Related:
 
-1. [2016 Russian Defence Ministry Tupolev Tu-154 crash. A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/2016-russian-defence-ministry-tupolev-tu-154-crash-a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov.md) _Context: Tu-154_
+1. [2016 Russian Defence Ministry Tupolev Tu-154 crash: A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/2016-russian-defence-ministry-tupolev-tu-154-crash-a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov.md) _Context: Tu-154_
 2. [A Polish report into the 2010 Polish Air Force Tu-154 crash that killed President Lech Kaczynski blames the Polish crew and Russian air traffic controllers for the accident. ](/news/2011/07/29/a-polish-report-into-the-2010-polish-air-force-tu-154-crash-that-killed-president-lech-kaczyaski-blames-the-polish-crew-and-russian-air-tra.md) _Context: 2010 Polish Air Force Tu-154 crash_
 3. [Bronislaw Komorowski is officially sworn in as President of Poland, following the death of President Lech Kaczynski in a plane crash in April. ](/news/2010/08/6/bronisaaw-komorowski-is-officially-sworn-in-as-president-of-poland-following-the-death-of-president-lech-kaczyaski-in-a-plane-crash-in-ap.md) _Context: 2010 Polish Air Force Tu-154 crash_
 4. [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this. ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md) _Context: 2010 Polish Air Force Tu-154 crash_

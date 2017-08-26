@@ -1,9 +1,9 @@
 ## [2013-03-11](/news/2013/03/11/index.md)
 
-### [War in Afghanistan (2001-present):. Two US and three Afghan soldiers are killed in Wardak Province in the latest insider attack against coalition forces. In a separate incident, two Afghan civilians are shot dead by American soldiers after failing to stop at a checkpoint near Kabul. ](/news/2013/03/11/war-in-afghanistan-2001-present-two-us-and-three-afghan-soldiers-are-killed-in-wardak-province-in-the-latest-insider-attack-against-co.md)
+### [War in Afghanistan (2001-present):: Two US and three Afghan soldiers are killed in Wardak Province in the latest insider attack against coalition forces. In a separate incident, two Afghan civilians are shot dead by American soldiers after failing to stop at a checkpoint near Kabul. ](/news/2013/03/11/war-in-afghanistan-2001-present-two-us-and-three-afghan-soldiers-are-killed-in-wardak-province-in-the-latest-insider-attack-against-co.md)
 Two US soldiers and a number of Afghan troops are shot dead in the latest &quot;insider attack&quot; by a member of the Afghan security forces.
 
-### [Akashat ambush:. The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-the-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md)
+### [Akashat ambush:: The insurgent group Islamic State of Iraq claims responsibility for ambushing a convoy of Syrian Army soldiers on March 4. ](/news/2013/03/11/akashat-ambush-the-insurgent-group-islamic-state-of-iraq-claims-responsibility-for-ambushing-a-convoy-of-syrian-army-soldiers-on-march-4.md)
 A militant umbrella group that includes al-Qaeda in Iraq says it was behind the killing of 48 Syrian soldiers and nine Iraqi guards in Iraq last week.
 
 ### [The European Union bans the sale of cosmetics developed through animal testing. ](/news/2013/03/11/the-european-union-bans-the-sale-of-cosmetics-developed-through-animal-testing.md)

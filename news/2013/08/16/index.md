@@ -1,6 +1,6 @@
 ## [2013-08-16](/news/2013/08/16/index.md)
 
-### [Aftermath of 2013 Egyptian coup d'etat:. Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md)
+### [Aftermath of 2013 Egyptian coup d'etat:: Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md)
 Security in Cairo tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide.
 
 ### [Yemen changes its weekend from Thursday and Friday to Friday and Saturday. ](/news/2013/08/16/yemen-changes-its-weekend-from-thursday-and-friday-to-friday-and-saturday.md)

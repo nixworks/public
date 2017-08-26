@@ -30,7 +30,7 @@ _Context: El Salvador, Ilobasco_
 ### [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarno-hatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md)
 _Context: Cathay Pacific, Indonesia, Jakarta, Qantas, Soekarno-Hatta International Airport, eruptions_
 
-### [2010 Haiti cholera outbreak:. Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md)
+### [2010 Haiti cholera outbreak:: Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md)
 Fears are growing in Haiti over the spread of cholera, as the death toll rises to 644 across the poverty-stricken nation.
 
 ### [An Israeli Air Force F-16I crashes in Makhtesh Ramon while on a training over the Negev desert in southern Israel, killing both the pilot and navigator of the plane. ](/news/2010/11/10/an-israeli-air-force-f-16i-crashes-in-makhtesh-ramon-while-on-a-training-over-the-negev-desert-in-southern-israel-killing-both-the-pilot-an.md)

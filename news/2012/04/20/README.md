@@ -1,6 +1,6 @@
 ## [2012-04-20](/news/2012/04/20/index.md)
 
-### [Arab Spring:. Bahraini uprising:. Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md)
+### [Arab Spring:: Bahraini uprising:: Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-re.md)
 _Context: 2011-2012 Bahraini uprising, 2012 Bahrain Grand Prix, Arab Spring, Bahrain_
 
 ### [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudan-sudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md)

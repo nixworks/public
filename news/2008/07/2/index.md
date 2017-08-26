@@ -6,7 +6,7 @@ _Context: Copa Libertadores 2008, Fluminense, LDU Quito, penalty shootout_
 ### [ 31 years after its launch, the Voyager 2 spacecraft sends a detailed view of the shock wave that marks the thinning of the solar wind, the charged particles streaming from the sun, confirming that the heliosphere is actually egg-shaped, possibly due to a tilted magnetic field in local interstellar space. ](/news/2008/07/2/31-years-after-its-launch-the-voyager-2-spacecraft-sends-a-detailed-view-of-the-shock-wave-that-marks-the-thinning-of-the-solar-wind-the.md)
 Voyagers 1 and 2 discover that key layer of solar system is flattened on one side, probably due to interstellar magnetic field.
 
-### [ Colombia. ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/colombia-ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md)
+### [ Colombia: ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. ](/news/2008/07/2/colombia-ingrid-betancourt-held-captive-by-the-farc-guerilla-for-six-years-is-rescued-in-an-operation-by-the-colombian-government.md)
 _Context: Colombia, Ingrid Betancourt, Revolutionary Armed Forces of Colombia_
 
 ### [ Admiral Michael Mullen, the current Chairman of the Joint Chiefs of Staff in the United States, warns Israel of the dangers of an attack on Iran. ](/news/2008/07/2/admiral-michael-mullen-the-current-chairman-of-the-joint-chiefs-of-staff-in-the-united-states-warns-israel-of-the-dangers-of-an-attack-on.md)

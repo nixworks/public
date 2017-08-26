@@ -1,9 +1,9 @@
 ## [2011-03-30](/news/2011/03/30/index.md)
 
-### [Arab Spring:. 2011 Syrian protests. Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md)
+### [Arab Spring:: 2011 Syrian protests: Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md)
 Syrian president delivers first public speech since security forces curbed anti-government protests across the country.
 
-### [2010-2011 Ivorian crisis. Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md)
+### [2010-2011 Ivorian crisis: Forces loyal to Alassane Ouattara enter Yamoussoukro, the capital of the Ivory Coast. ](/news/2011/03/30/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-enter-yamoussoukro-the-capital-of-the-ivory-coast.md)
 Security Council votes unanimously to impose a travel ban and assets freeze on incumbent leader Gbagbo.
 
 ### [45,000 Inca artefacts taken by Yale University from Machu Picchu almost a century ago, and described by the president as "the dignity and pride of Peru", arrive in Lima after a long campaign by Peruvians to have them returned. ](/news/2011/03/30/45-000-inca-artefacts-taken-by-yale-university-from-machu-picchu-almost-a-century-ago-and-described-by-the-president-as-the-dignity-and-pr.md)
@@ -33,7 +33,7 @@ _Context: Google, Kansas City, Kansas, broadband_
 ### [Obama Administration endorses Pickens plan for natural gas vehicles. ](/news/2011/03/30/obama-administration-endorses-pickens-plan-for-natural-gas-vehicles.md)
 President says natural gas could help cut oil imports. His support could boost chances for the legislation.
 
-### [Fukushima I Nuclear Power Plant. The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md)
+### [Fukushima I Nuclear Power Plant: The Tokyo Electric Power Co. says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. ](/news/2011/03/30/fukushima-i-nuclear-power-plant-the-tokyo-electric-power-co-says-that-it-will-scrap-at-least-four-units-at-the-fukushima-i-power-plant-and.md)
 Japan called on the world not to impose &quot;unjustifiable&quot; import curbs on its goods as French President Nicolas Sarkozy was due to arrive on Thursday, the first leader to visit since an earthquake and tsunami damaged a nuclear plant, sparking the worst nuclear crisis since Chernobyl in 1986.
 
 ### [Flooding across southern Thailand results in eleven deaths with thousands of people stranded. ](/news/2011/03/30/flooding-across-southern-thailand-results-in-eleven-deaths-with-thousands-of-people-stranded.md)

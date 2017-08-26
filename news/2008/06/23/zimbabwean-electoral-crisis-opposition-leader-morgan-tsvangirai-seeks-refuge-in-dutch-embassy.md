@@ -1,6 +1,6 @@
 ### [2008-06-23](/news/2008/06/23/index.md)
 
-#  Zimbabwean Electoral Crisis:. Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. 
+#  Zimbabwean Electoral Crisis:: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. 
 
 It will be impossible for Zimbabwe to hold a free and fair run-off election on Friday amid violent assaults on the opposition and such a poll will not legitimize the government of President Robert Mugabe, U.S. Secretary of State Condoleezza Rice said on Monday.
 

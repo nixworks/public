@@ -1,6 +1,6 @@
 ### [2008-02-24](/news/2008/02/24/index.md)
 
-#  80th Academy Awards:. Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". 
+#  80th Academy Awards:: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". 
 
 No Country For Old Men scoops four awards on the film industry&#039;s night of nights.
 

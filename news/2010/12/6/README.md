@@ -18,7 +18,7 @@ _Context: Haiti, worst epidemic of cholera_
 ### [Iran meets with six world powers in Geneva for talks concerning its nuclear program. ](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.md)
 _Context: Geneva, nuclear scientist_
 
-### [United States diplomatic cables leak:. Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/united-states-diplomatic-cables-leak-newly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-s.md)
+### [United States diplomatic cables leak:: Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/united-states-diplomatic-cables-leak-newly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-s.md)
 Saudi Arabia is the single biggest contributor to the funding of Islamic extremism and is unwilling to cut off the money supply, according to a leaked note from Hillary Clinton.
 
 ### [Senior officials from Turkey and Israel meet in Geneva to resolve their differences following the Gaza flotilla raid in May. ](/news/2010/12/6/senior-officials-from-turkey-and-israel-meet-in-geneva-to-resolve-their-differences-following-the-gaza-flotilla-raid-in-may.md)
@@ -28,7 +28,7 @@ Officials from Turkey and Israel meet in Geneva to try to heal the diplomatic ri
 US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#x20;responsible&#x20;for&#x20;the&#x20;fatal&#x20;2000&#x20;Concorde&#x20;crash.&#x20;The&#x20;crash&#x20;killed&#x20;113&#x20;people&#x20;and&#x20;bought&#x20;the&#x20;era&#x20;of&#x20;supersonic&#x20;passenger&#x20;fli...
 
 ### [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md)
-_Context: Barack Obama, George W. Bush, Republican, president_
+_Context: Barack Obama, George W. Bush, President, Republican_
 
 ## [Previous Day...](/news/2010/12/5/index.md)
 

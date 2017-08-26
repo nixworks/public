@@ -1,9 +1,9 @@
 ## [2013-09-3](/news/2013/09/3/index.md)
 
-### [Syrian civil war:. France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-france-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md)
+### [Syrian civil war:: France claims to possess documentation of the use of chemical weapons in the Syrian civil war. ](/news/2013/09/3/syrian-civil-war-france-claims-to-possess-documentation-of-the-use-of-chemical-weapons-in-the-syrian-civil-war.md)
 Israel carries out a joint missile test with the US in the Mediterranean, amid heightened tension over possible Western military strikes on Syria.
 
-### [Sinai insurgency:. An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-an-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md)
+### [Sinai insurgency:: An Egyptian army helicopter kills 15 militants in the Sinai Peninsula. ](/news/2013/09/3/sinai-insurgency-an-egyptian-army-helicopter-kills-15-militants-in-the-sinai-peninsula.md)
 Fifteen militants were killed in the Sinai Peninsula by rocket fire, Egyptian state TV reported on Tuesday, after witnesses said army helicopters had attacked militant strongholds in the area.
 
 ### [Microsoft purchases Nokia's mobile device division for $7.2 billion. ](/news/2013/09/3/microsoft-purchases-nokia-s-mobile-device-division-for-7-2-billion.md)

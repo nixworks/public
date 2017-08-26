@@ -1,6 +1,6 @@
 ## [2011-08-15](/news/2011/08/15/index.md)
 
-### [2011 Syrian uprising:. The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-r.md)
+### [2011 Syrian uprising:: The Syrian navy shells the city of Latakia, killing as many as 26 people, including Palestinian refugees from Ramel refugee camp in southern Latakia. ](/news/2011/08/15/2011-syrian-uprising-the-syrian-navy-shells-the-city-of-latakia-killing-as-many-as-26-people-including-palestinian-refugees-from-ramel-r.md)
 Activists say 25 people killed as warships and tanks reportedly shell the northern port in an ongoing assault.
 
 ### [Libyan leader Muammar Gaddafi gives a live address to the nation after rebels claim a number of victories in the 2011 Libyan civil war. ](/news/2011/08/15/libyan-leader-muammar-gaddafi-gives-a-live-address-to-the-nation-after-rebels-claim-a-number-of-victories-in-the-2011-libyan-civil-war.md)

@@ -15,7 +15,7 @@ _Context: Khyber Pakhtunkhwa, Pakistan, Swat, Pakistan, Taliban, sharia law, sui
 ### [ Crude oil prices rise above $130 a barrel for the first time. ](/news/2008/05/21/crude-oil-prices-rise-above-130-a-barrel-for-the-first-time.md)
 _Context: US$, crude oil_
 
-### [ Middle East. Israel and Syria reveal indirect peace negotiations in Turkey in hopes of direct talks leading to a border agreement. ](/news/2008/05/21/middle-east-israel-and-syria-reveal-indirect-peace-negotiations-in-turkey-in-hopes-of-direct-talks-leading-to-a-border-agreement.md)
+### [ Middle East: Israel and Syria reveal indirect peace negotiations in Turkey in hopes of direct talks leading to a border agreement. ](/news/2008/05/21/middle-east-israel-and-syria-reveal-indirect-peace-negotiations-in-turkey-in-hopes-of-direct-talks-leading-to-a-border-agreement.md)
 _Context: Golan Heights, Israel, Middle East, Syria, Turkey_
 
 ### [ Georgian voters go to the polls for the Georgian legislative election, 2008. ](/news/2008/05/21/georgian-voters-go-to-the-polls-for-the-georgian-legislative-election-2008.md)

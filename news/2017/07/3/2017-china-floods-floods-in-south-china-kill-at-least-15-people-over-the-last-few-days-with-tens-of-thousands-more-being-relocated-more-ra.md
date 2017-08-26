@@ -1,6 +1,6 @@
 ### [2017-07-3](/news/2017/07/3/index.md)
 
-# 2017 China floods. Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. 
+# 2017 China floods: Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. 
 
 Floods in southern China have killed at least 15 people over the past few days and forced the evacuation of tens of thousands more, state media said.
 

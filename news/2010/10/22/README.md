@@ -27,7 +27,7 @@ _Context: National Film Awards, New Delhi, Pratibha Patel_
 ### [Chilean writer and social critic Pablo Huneeus registers the copyright in "Estamos bien en el refugio los 33" on behalf of the man who wrote it. ](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.md)
 Chilean miner Jose Ojada obtains the copyright for the note he wrote which let the world know &quot;the 33&quot; men trapped in the San Jose mine were safe.
 
-### [2010 strikes in France:. French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-t.md)
+### [2010 strikes in France:: French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-t.md)
 Clashes break out outside a major oil refinery in France after riot police move in to clear strikers who blockaded the terminal for 10 days.
 
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)

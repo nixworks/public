@@ -1,6 +1,6 @@
 ### [2011-05-14](/news/2011/05/14/index.md)
 
-# Japanese earthquake, tsunami and nuclear crisis:. A worker at the Fukushima power plant dies while working on crisis-fighting operations. 
+# Japanese earthquake, tsunami and nuclear crisis:: A worker at the Fukushima power plant dies while working on crisis-fighting operations. 
 
 A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
 
@@ -13,7 +13,7 @@ A worker died after collapsing at a facility in the crippled Fukushima Daiichi n
 
 ### Related:
 
-1. [Fukushima Daiichi nuclear disaster. According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
+1. [Fukushima Daiichi nuclear disaster: According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/fukushima-daiichi-nuclear-disaster-according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-dai.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
 2. [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
 3. [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_
 4. [The Tokyo Electric Power Company (TEPCO) claims that three reactors at the Fukushima Daiichi Nuclear Power Plant suffered partial meltdowns following the 2011 Tohoku earthquake and tsunami; it had previously announced that only one reactor had suffered a meltdown. ](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.md) _Context: Fukushima Daiichi Nuclear Power Plant, an earthquake and tsunami_

@@ -1,6 +1,6 @@
 ### [2013-09-8](/news/2013/09/8/index.md)
 
-# Russian elections:. Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. 
+# Russian elections:: Results indicate that Sergei Sobyanin will be elected as Mayor of Moscow with over 50 per cent of the vote. 
 
 Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayoral election on Sunday, enough to secure victory without a second-round runoff, initial partial results showed.
 

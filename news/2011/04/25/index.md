@@ -3,10 +3,10 @@
 ### [Guantanamo Files: ](/news/2011/04/25/guantanamo-files.md)
 Top-secret files detailing the interrogations of more than 700 suspects at the Guantanamo Bay detention camp have been obtained by the whistle-blowing website WikiLeaks.
 
-### [Arab Spring. 2011 Libyan Civil War:. NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/arab-spring-2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knoc.md)
+### [Arab Spring: 2011 Libyan Civil War:: NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/arab-spring-2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knoc.md)
 Syrian security forces backed by tanks advance into the restive city of Deraa, in an apparent escalation of a crackdown on the protest movement.
 
-### [Violence in Nigeria:. A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presid.md)
+### [Violence in Nigeria:: A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/violence-in-nigeria-a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presid.md)
 The Civil Rights Congress of Nigeria, a Nigerian human rights group, has announced that at least 500 people were killed in post election violence that erupted in northern Nigeria after President Goodluck Jonathan was declared the winner of the presidential election. Supporters of Muhammadu Buhari , ...
 
 ### [Cambodian and Thai troops exchange fire for a fourth consecutive day. ](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.md)

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Commonwealth Heads of Government Meeting 2011:. The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-o.md) _Context: Perth, Western Australia_
+1. [Commonwealth Heads of Government Meeting 2011:: The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-o.md) _Context: Perth, Western Australia_
 2. [Claude Choules, the last person alive to have fought in World War I, is buried in the West Australian port of Fremantle, having died aged 110 on 5 May. ](/news/2011/05/20/claude-choules-the-last-person-alive-to-have-fought-in-world-war-i-is-buried-in-the-west-australian-port-of-fremantle-having-died-aged-11.md) _Context: Claude Choules, First World War_
 3. [A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md) _Context: Perth, Western Australia_
 4. [Bushfires in Perth, Western Australia continue to burn out of control after having destroyed up to 40 homes. ](/news/2011/02/7/bushfires-in-perth-western-australia-continue-to-burn-out-of-control-after-having-destroyed-up-to-40-homes.md) _Context: Perth, Western Australia_

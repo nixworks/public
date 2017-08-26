@@ -1,9 +1,9 @@
 ## [2015-03-19](/news/2015/03/19/index.md)
 
-### [2014-15 Australian region cyclone season. Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/2014-15-australian-region-cyclone-season-authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cycl.md)
+### [2014-15 Australian region cyclone season: Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/2014-15-australian-region-cyclone-season-authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cycl.md)
 Queensland Premier Annastacia Palaszczuk says preparations are well under way as the state&#039;s far north braces for the arrival of Cyclone Nathan.
 
-### [Cyclone Pam. Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/cyclone-pam-authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md)
+### [Cyclone Pam: Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/cyclone-pam-authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md)
 Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that struck the archipelago on Friday night.
 
 ### [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md)

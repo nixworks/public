@@ -1,6 +1,6 @@
 ### [2010-09-2](/news/2010/09/2/index.md)
 
-# 2010 Pacific typhoon season. Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. 
+# 2010 Pacific typhoon season: Severe Tropical Storm Lionrock lands in China's Fujian province with warnings of strong winds and torrential rains. 
 
 
 
@@ -21,4 +21,4 @@
 7. [At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. ](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.md) _Context: Fujian_
 8. [Yu Weiguo becomes the acting Governor of Fujian province, replacing Su Shulin, who had been detained on suspicion of corruption. ](/news/2015/11/27/yu-weiguo-becomes-the-acting-governor-of-fujian-province-replacing-su-shulin-who-had-been-detained-on-suspicion-of-corruption.md) _Context: Fujian_
 9. [China's Central Commission for Discipline Inspection announces their investigation of Fujian governor Su Shulin, the former chairman of China Petroleum and Chemical Corporation, on suspicion of serious disciplinary violations, the "euphemism for corruption." This follows the massive anti-corruption drive Communist Party general secretary Xi Jinping launched when he came to power more than three years ago. Su is the first sitting governor investigated since the campaign began. ](/news/2015/10/7/china-s-central-commission-for-discipline-inspection-announces-their-investigation-of-fujian-governor-su-shulin-the-former-chairman-of-chin.md) _Context: Fujian_
-10. [2015 Pacific typhoon season. Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/2015-pacific-typhoon-season-typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-inju.md) _Context: Fujian_
+10. [2015 Pacific typhoon season: Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/2015-pacific-typhoon-season-typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-inju.md) _Context: Fujian_

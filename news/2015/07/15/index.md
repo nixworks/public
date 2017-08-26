@@ -1,18 +1,18 @@
 ## [2015-07-15](/news/2015/07/15/index.md)
 
-### [Boko Haram. At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/boko-haram-at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md)
+### [Boko Haram: At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria. ](/news/2015/07/15/boko-haram-at-least-33-people-are-killed-in-boko-haram-attacks-in-recent-days-in-northeastern-nigeria.md)
 _Context: Boko Haram, Nigeria_
 
-### [Yemeni Crisis (2011-present). Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/yemeni-crisis-2011-present-loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of.md)
+### [Yemeni Crisis (2011-present): Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/yemeni-crisis-2011-present-loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of.md)
 _Context: Abd Rabbuh Mansur Hadi, Aden International Airport, Houthi, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. ](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.md)
 _Context: Dutch Safety Board, Malaysia Airlines Flight 17_
 
-### [Greek government-debt crisis. Greek government-debt crisis timeline. The Hellenic Parliament votes to approve the Greek bailout package despite many senior lawmakers from the ruling Syriza Party refusing to vote for the deal. ](/news/2015/07/15/greek-government-debt-crisis-greek-government-debt-crisis-timeline-the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-desp.md)
+### [Greek government-debt crisis: Greek government-debt crisis timeline: The Hellenic Parliament votes to approve the Greek bailout package despite many senior lawmakers from the ruling Syriza Party refusing to vote for the deal. ](/news/2015/07/15/greek-government-debt-crisis-greek-government-debt-crisis-timeline-the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-desp.md)
 Greek MPs approve tough economic measures required to enable an €86bn eurozone bailout deal to go ahead, amid clashes outside parliament in Athens.
 
-### [ Puerto Rico government debt crisis. Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/puerto-rico-government-debt-crisis-standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a.md)
+### [ Puerto Rico government debt crisis: Standard & Poor's cut the credit rating of Puerto Rico's Government Development Bank to 'CC', saying a near-term default is a virtual certainty. ](/news/2015/07/15/puerto-rico-government-debt-crisis-standard-poor-s-cut-the-credit-rating-of-puerto-rico-s-government-development-bank-to-cc-saying-a.md)
 _Context: Government Development Bank, Puerto Rico, Puerto Rico government-debt crisis, Standard & Poor's_
 
 ### [ Pabst Brewing Company announces plans to brew again at their historic brewery located in Milwaukee. ](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.md)

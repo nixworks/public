@@ -18,7 +18,7 @@ Mamata says blast led to accident in West Bengal; DGP points to sabotage on trac
 ### [Hundreds of corpses buried in a mudslide which swept away three villages on the slopes of Mount Elgon near Bududa, Uganda, three months ago are yet to be recovered. ](/news/2010/05/28/hundreds-of-corpses-buried-in-a-mudslide-which-swept-away-three-villages-on-the-slopes-of-mount-elgon-near-bududa-uganda-three-months-ago.md)
 Hundreds of bodies buried in a mudslide in Uganda three months ago have yet to be recovered, the rescue team says.
 
-### [Israeli-Palestinian conflict:. Five boats belonging to pro-Israel advocacy group StandWithUs leave Ashdod and Herzliya to demonstrate against the international flotilla by displaying -Free Gaza from Hamas- banners and wearing bloodstained T-shirts, representing Hamas- attacks. ](/news/2010/05/28/israeli-palestinian-conflict-five-boats-belonging-to-pro-israel-advocacy-group-standwithus-leave-ashdod-and-herzliya-to-demonstrate-agai.md)
+### [Israeli-Palestinian conflict:: Five boats belonging to pro-Israel advocacy group StandWithUs leave Ashdod and Herzliya to demonstrate against the international flotilla by displaying -Free Gaza from Hamas- banners and wearing bloodstained T-shirts, representing Hamas- attacks. ](/news/2010/05/28/israeli-palestinian-conflict-five-boats-belonging-to-pro-israel-advocacy-group-standwithus-leave-ashdod-and-herzliya-to-demonstrate-agai.md)
 Israel advocacy group StandWithUs to surprise the European convoy at sea.
 
 ### [Voters in the Czech Republic vote in legislative elections. ](/news/2010/05/28/voters-in-the-czech-republic-vote-in-legislative-elections.md)
@@ -27,7 +27,7 @@ Two-day general election aims to end more than a year of political limbo.
 ### [Nepal heads towards another political crisis. ](/news/2010/05/28/nepal-heads-towards-another-political-crisis.md)
 Dispute among parties over terms for extending parliament threatens new constitution.
 
-### [North Korea:. A leaked United Nations report states that North Korea is exporting nuclear technology to Burma, Iran and Syria. ](/news/2010/05/28/north-korea-a-leaked-united-nations-report-states-that-north-korea-is-exporting-nuclear-technology-to-burma-iran-and-syria.md)
+### [North Korea:: A leaked United Nations report states that North Korea is exporting nuclear technology to Burma, Iran and Syria. ](/news/2010/05/28/north-korea-a-leaked-united-nations-report-states-that-north-korea-is-exporting-nuclear-technology-to-burma-iran-and-syria.md)
 Chinese Premier Wen Jiabao says Beijing will not protect whoever was behind the sinking of a South Korean warship.
 
 ### [Peruvian AIDESEP indigenous leader Alberto Pizango, detained on Wednesday as he returned from almost a year in exile in Nicaragua and charged with objecting to oil digging in the rainforest, is released on bail. ](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.md)
@@ -42,7 +42,7 @@ The UK government refused to field a cabinet minister on the BBC&#39;s Question 
 ### [Foxconn increases the wages of the workers in its Shenzhen factory, where several employees have committed suicide, increases wages, by 20 per cent in an effort to boost morale. ](/news/2010/05/28/foxconn-increases-the-wages-of-the-workers-in-its-shenzhen-factory-where-several-employees-have-committed-suicide-increases-wages-by-20-p.md)
 The owner of a Chinese electronics factory where several employees have committed suicide is to increase wages by 20%.
 
-### [Gulf of Mexico oil spill:. BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md)
+### [Gulf of Mexico oil spill:: BP and other agencies report progress in halting the flow of oil using a "top kill" operation. ](/news/2010/05/28/gulf-of-mexico-oil-spill-bp-and-other-agencies-report-progress-in-halting-the-flow-of-oil-using-a-top-kill-operation.md)
 As BP continued its effort to gain control of its untamed deep-sea well, President Obama announced more restrictions on offshore oil drilling Thursday and insisted his administration is firmly in...
 
 ### [Australia promises to begin legal action against Japan due to disagreeing with its annual whaling hunt in the Southern Ocean. ](/news/2010/05/28/australia-promises-to-begin-legal-action-against-japan-due-to-disagreeing-with-its-annual-whaling-hunt-in-the-southern-ocean.md)

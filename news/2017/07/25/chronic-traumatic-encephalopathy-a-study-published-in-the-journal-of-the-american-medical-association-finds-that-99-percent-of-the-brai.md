@@ -1,6 +1,6 @@
 ### [2017-07-25](/news/2017/07/25/index.md)
 
-# Chronic traumatic encephalopathy. A study, published in the "Journal of the American Medical Association", finds that 99 percent of the brains donated for scientific research by deceased National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who have committed suicide, and the subject of the 2015 movie "Concussion". 
+# Chronic traumatic encephalopathy: A study, published in the "Journal of the American Medical Association", finds that 99 percent of the brains donated for scientific research by deceased National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who have committed suicide, and the subject of the 2015 movie "Concussion". 
 
 The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.
 

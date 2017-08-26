@@ -1,6 +1,6 @@
 ### [2010-03-13](/news/2010/03/13/index.md)
 
-# Sport:. Michael Schumacher makes his return to Formula One at the age of 41. 
+# Sport:: Michael Schumacher makes his return to Formula One at the age of 41. 
 
 On a day when the row over McLaren&#039;s new car simmered, sparked occasionally, but ultimately failed to ignite fully, it was the performance of Michael Schumacher that really set parched tongues wagging in the desert.
 

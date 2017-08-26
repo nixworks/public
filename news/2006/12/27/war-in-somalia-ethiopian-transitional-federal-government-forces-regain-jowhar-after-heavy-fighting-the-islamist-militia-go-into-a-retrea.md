@@ -1,6 +1,6 @@
 ### [2006-12-27](/news/2006/12/27/index.md)
 
-#  War in Somalia:. Ethiopian/Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. 
+#  War in Somalia:: Ethiopian/Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. 
 
 
 
@@ -21,4 +21,4 @@
 7. [Mohamed Abdullahi Mohamed, Prime Minister of the United Nations-backed Transitional Federal Government of Somalia, calls on UN agencies basing themselves in Kenya for safety reasons to move to Mogadishu within three months, citing the presence of UN agencies in "more dangerous" cities such as Kabul and Baghdad. ](/news/2011/04/5/mohamed-abdullahi-mohamed-prime-minister-of-the-united-nations-backed-transitional-federal-government-of-somalia-calls-on-un-agencies-basi.md) _Context: Mogadishu, Transitional Federal Government_
 8. [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md) _Context: Ethiopia, Islamist_
 9. [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md) _Context: Islamist, Mogadishu_
-10. [Battle of Mogadishu (2010):. At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _Context: Islamist, Mogadishu_
+10. [Battle of Mogadishu (2010):: At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _Context: Islamist, Mogadishu_

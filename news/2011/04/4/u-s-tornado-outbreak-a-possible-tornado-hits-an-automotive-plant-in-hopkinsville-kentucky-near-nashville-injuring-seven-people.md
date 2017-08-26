@@ -1,6 +1,6 @@
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-# U.S. tornado outbreak:. A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. 
+# U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. 
 
 Severe storms blowing across the Southeast killed at least five people in Georgia early on Tuesday, and also were to blame for deaths in two other states, authorities said.
 

@@ -1,12 +1,12 @@
 ## [2013-05-24](/news/2013/05/24/index.md)
 
-### [Afghanistan War:. Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-afghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous-i.md)
+### [Afghanistan War:: Afghan security forces battle Taliban insurgents in central Kabul. An Afghan policeman, a Nepalese soldier, and numerous insurgents are killed. ](/news/2013/05/24/afghanistan-war-afghan-security-forces-battle-taliban-insurgents-in-central-kabul-an-afghan-policeman-a-nepalese-soldier-and-numerous-i.md)
 Afghan security forces battle Taliban insurgents for hours in central Kabul, following an explosion that shook the capital.
 
-### [War in North-West Pakistan:. A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md)
+### [War in North-West Pakistan:: A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/war-in-north-west-pakistan-a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md)
 _Context: Pakistan, Peshawar, War in North-West Pakistan, suicide bombing_
 
-### [Al-Qaeda insurgency in Yemen:. Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
+### [Al-Qaeda insurgency in Yemen:: Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
 _Context: Al-Qaeda insurgency in Yemen, Yemen, crude oil, pipeline_
 
 ### [A collision between a hotel shuttle bus and a tractor-trailer occurs near the Atlanta airport, injuring eighteen people. ](/news/2013/05/24/a-collision-between-a-hotel-shuttle-bus-and-a-tractor-trailer-occurs-near-the-atlanta-airport-injuring-eighteen-people.md)

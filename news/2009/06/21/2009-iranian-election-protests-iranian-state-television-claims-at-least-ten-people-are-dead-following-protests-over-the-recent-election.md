@@ -1,6 +1,6 @@
 ### [2009-06-21](/news/2009/06/21/index.md)
 
-#  2009 Iranian election protests:. Iranian state television claims at least ten people are dead following protests over the recent election. 
+#  2009 Iranian election protests:: Iranian state television claims at least ten people are dead following protests over the recent election. 
 
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
 

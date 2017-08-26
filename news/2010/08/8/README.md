@@ -9,7 +9,7 @@ _Context: Ramadi_
 ### [The death toll of Saturday's explosion in Basra, Iraq, rises to 43, with the number of injured people being over 100. Police say the explosion was as a result of a power generator short-circuiting but other sources claim it was due to a car bomb. ](/news/2010/08/8/the-death-toll-of-saturday-s-explosion-in-basra-iraq-rises-to-43-with-the-number-of-injured-people-being-over-100-police-say-the-explosi.md)
 At least 20 dead as explosions rock marketplace in Basra, wounding scores.
 
-### [Adaisseh incident:. United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/adaisseh-incident-united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whe.md)
+### [Adaisseh incident:: United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/adaisseh-incident-united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whe.md)
 Florida congressman Ron Klein calls for US to stop military support.
 
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
@@ -36,10 +36,10 @@ At least 337 people are dead as rescuers search for up to 1148 others still miss
 ### [The death toll rises to 132 and injury toll is at least 400 as severe flash floods devastate Kashmir. ](/news/2010/08/8/the-death-toll-rises-to-132-and-injury-toll-is-at-least-400-as-severe-flash-floods-devastate-kashmir.md)
 _Context: Kashmir, severe flash floods_
 
-### [2010 Pakistan floods:. Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-res.md)
+### [2010 Pakistan floods:: Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/2010-pakistan-floods-torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-res.md)
 Prime minister visits flood-hit areas in Sindh as people take refuge in government buildings.
 
-### [Flash floods in the Baltic and Central Europe:. Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md)
+### [Flash floods in the Baltic and Central Europe:: Flash floods sweep across central Europe and the Baltic states, killing at least 15 people - 5 Czechs, 4 Lithuanians, 3 Germans, 3 Poles -, whilst 3 Czechs are also missing. ](/news/2010/08/8/flash-floods-in-the-baltic-and-central-europe-flash-floods-sweep-across-central-europe-and-the-baltic-states-killing-at-least-15-people.md)
 Flash floods brought on by torrential rains cause at least 15 deaths in central Europe and the Baltic, officials say.
 
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)

@@ -1,6 +1,6 @@
 ## [2013-08-20](/news/2013/08/20/index.md)
 
-### [Insurgency in the North Caucasus:. Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md)
+### [Insurgency in the North Caucasus:: Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/insurgency-in-the-north-caucasus-russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md)
 _Context: Insurgency in the North Caucasus, North Caucasus, Russia, police officers_
 
 ### [Narendra Dabholkar, a rationalist from India, is assassinated while out walking. ](/news/2013/08/20/narendra-dabholkar-a-rationalist-from-india-is-assassinated-while-out-walking.md)

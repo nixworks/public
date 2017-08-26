@@ -42,7 +42,7 @@ _Context: Chernobyl disaster, Russia, radiation, the recent wildfires_
 ### [Heavy rains threaten rescue efforts after a deadly mudslide in Gansu, China, as the death toll reaches 1,117. ](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.md)
 Heavy rain threatens the Chinese county devastated by landslides, as the death toll from the disaster rises to 1,117 people.
 
-### [2010 Pakistan floods:. Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punja.md)
+### [2010 Pakistan floods:: Food prices quadruple in Pakistan as conditions worsen and at least 1.4 million acres of crops are wiped out in Punjab by Pakistan's worst floods. ](/news/2010/08/11/2010-pakistan-floods-food-prices-quadruple-in-pakistan-as-conditions-worsen-and-at-least-1-4-million-acres-of-crops-are-wiped-out-in-punja.md)
 The United Nations on Wednesday warned of a second wave of deaths from floods in Pakistan unless help arrives soon.
 
 ### [National Transportation Safety Board investigators arrive at the scene of the 2010 Alaska plane crash near Aleknagik, Alaska. ](/news/2010/08/11/national-transportation-safety-board-investigators-arrive-at-the-scene-of-the-2010-alaska-plane-crash-near-aleknagik-alaska.md)
@@ -51,17 +51,17 @@ _Context: 2010 Alaska plane crash, Alaska, Aleknagik, National Transportation Sa
 ### [The Seychelles becomes the 112<sup>th</sup> country to ratify the Rome Statute of the International Criminal Court. ](/news/2010/08/11/the-seychelles-becomes-the-112th-country-to-ratify-the-rome-statute-of-the-international-criminal-court.md)
 _Context: International Criminal Court, Rome Statute, Seychelles_
 
-### [Colombia-Venezuela relations:. Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-preside.md)
+### [Colombia-Venezuela relations:: Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-preside.md)
 The leaders of Colombia and Venezuela met in an effort to repair relations that deteriorated over claims that Colombian guerrillas were operating from Venezuela.
 
-### [Investigation of the Gaza flotilla raid:. Lieutenant-General of Israel Gabi Ashkenazi testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. He says force used was "proportionate and correct" and that soldiers "shot those who they needed to shoot". ](/news/2010/08/11/investigation-of-the-gaza-flotilla-raid-lieutenant-general-of-israel-gabi-ashkenazi-testifies-before-israel-s-turkel-commission-investigat.md)
+### [Investigation of the Gaza flotilla raid:: Lieutenant-General of Israel Gabi Ashkenazi testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. He says force used was "proportionate and correct" and that soldiers "shot those who they needed to shoot". ](/news/2010/08/11/investigation-of-the-gaza-flotilla-raid-lieutenant-general-of-israel-gabi-ashkenazi-testifies-before-israel-s-turkel-commission-investigat.md)
 Israeli army offiocial tell inquiry that troops were right to use live ammunition.
 
 ### [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md)
 _Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, United States, diplomatic Quartet_
 
 ### [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md)
-_Context: Brazil, Brazilian President, Iran, Lula, United Nations_
+_Context: Brazil, Iran, Lula, President, United Nations_
 
 ### [Former Iranian presidential candidate Mehdi Karroubi suggests that American and British sanctions on Iran increase the power of Mahmoud Ahmadinejad's government. ](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.md)
 _Context: Iran, Mahmoud Ahmadinejad, Mehdi Karroubi_

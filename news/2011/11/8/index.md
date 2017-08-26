@@ -1,6 +1,6 @@
 ## [2011-11-8](/news/2011/11/8/index.md)
 
-### [2011 Syrian uprising:. The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-the-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md)
+### [2011 Syrian uprising:: The Syrian government continues its crackdown on protesters and army defectors in the city of Homs, killing dozens of civilians in the process. ](/news/2011/11/8/2011-syrian-uprising-the-syrian-government-continues-its-crackdown-on-protesters-and-army-defectors-in-the-city-of-homs-killing-dozens-of.md)
 The UN says at least 3,500 people have been killed in anti-government protests in Syria, as reports emerge of fresh violence in the city of Homs.
 
 ### [Russia starts commercial natural gas deliveries to Central Europe via the Nord Stream, the world's longest submerged pipeline. ](/news/2011/11/8/russia-starts-commercial-natural-gas-deliveries-to-central-europe-via-the-nord-stream-the-world-s-longest-submerged-pipeline.md)
@@ -30,13 +30,13 @@ _Context: Barack Obama, Benjamin Netanyahu, French President, G20 summit in Cann
 ### [The Australian Senate votes to introduce a controversial carbon tax, a form of carbon pricing. ](/news/2011/11/8/the-australian-senate-votes-to-introduce-a-controversial-carbon-tax-a-form-of-carbon-pricing.md)
 _Context: Senate of Australia, carbon pricing, carbon tax_
 
-### [Resignation of Silvio Berlusconi:. Prime Minister of Italy Silvio Berlusconi narrowly wins a key budget vote in the Italian Parliament, but loses his parliamentary absolute majority as both allied and opposition politicians call on him to resign. ](/news/2011/11/8/resignation-of-silvio-berlusconi-prime-minister-of-italy-silvio-berlusconi-narrowly-wins-a-key-budget-vote-in-the-italian-parliament-but.md)
+### [Resignation of Silvio Berlusconi:: Prime Minister of Italy Silvio Berlusconi narrowly wins a key budget vote in the Italian Parliament, but loses his parliamentary absolute majority as both allied and opposition politicians call on him to resign. ](/news/2011/11/8/resignation-of-silvio-berlusconi-prime-minister-of-italy-silvio-berlusconi-narrowly-wins-a-key-budget-vote-in-the-italian-parliament-but.md)
 Italian Prime Minister Silvio Berlusconi said on Tuesday he would resign after suffering a humiliating setback in parliament that showed a party revolt had stripped him of a majority.
 
 ### [Voters in Liberia go to the polls for the second round of a presidential election, with the incumbent President, Ellen Johnson Sirleaf, likely to be re-elected. ](/news/2011/11/8/voters-in-liberia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-the-incumbent-president-ellen-johnson-sirleaf-like.md)
 _Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, President of Liberia_
 
-### [Voters in the United States vote in state, municipal, and local elections.. Democratic Governor Steve Beshear is re-elected Governor of Kentucky. ](/news/2011/11/8/voters-in-the-united-states-vote-in-state-municipal-and-local-elections-democratic-governor-steve-beshear-is-re-elected-governor-of-kent.md)
+### [Voters in the United States vote in state, municipal, and local elections.: Democratic Governor Steve Beshear is re-elected Governor of Kentucky. ](/news/2011/11/8/voters-in-the-united-states-vote-in-state-municipal-and-local-elections-democratic-governor-steve-beshear-is-re-elected-governor-of-kent.md)
 After months of campaigning and talking to local residents, initial poll results show Greg Stanton as the new mayor of Phoenix.
 
 ### [Brodie Clark, head of the UK Border Agency, resigns after saying that comments made by Home Secretary Theresa May amounted to "constructive dismissal", and states that he will launch legal proceedings against the government. ](/news/2011/11/8/brodie-clark-head-of-the-uk-border-agency-resigns-after-saying-that-comments-made-by-home-secretary-theresa-may-amounted-to-constructive.md)

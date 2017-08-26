@@ -3,7 +3,7 @@
 ### [Chinese security forces shoot dead a young Tibetan man in Sichuan province, at least the third such killing this week. ](/news/2012/01/27/chinese-security-forces-shoot-dead-a-young-tibetan-man-in-sichuan-province-at-least-the-third-such-killing-this-week.md)
 Chinese security forces have shot dead a young Tibetan in Sichuan province, campaign groups say, in what would be the third such killing this week.
 
-### [Arab Spring:. 2011-2012 Syrian uprising:. Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-2011-2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nati.md)
+### [Arab Spring:: 2011-2012 Syrian uprising:: Activists say the Syrian Army has launched new attacks against Homs and Hama, as the United Nations Security Council prepares to discuss the conflict. ](/news/2012/01/27/arab-spring-2011-2012-syrian-uprising-activists-say-the-syrian-army-has-launched-new-attacks-against-homs-and-hama-as-the-united-nati.md)
 Amnesty International has called for an investigation into what it says is the misuse of tear gas by Bahraini security forces.
 
 ### [Insurgency in the North Caucasus: 13 people are killed in three separate clashes between the Russian forces and Islamist militants in the Russian republics of Ingushetia, Dagestan, and Kabardino-Balkariya. ](/news/2012/01/27/insurgency-in-the-north-caucasus-13-people-are-killed-in-three-separate-clashes-between-the-russian-forces-and-islamist-militants-in-the-ru.md)

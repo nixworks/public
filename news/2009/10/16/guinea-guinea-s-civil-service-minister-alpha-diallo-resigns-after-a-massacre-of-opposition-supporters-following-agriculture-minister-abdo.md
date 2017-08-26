@@ -1,6 +1,6 @@
 ### [2009-10-16](/news/2009/10/16/index.md)
 
-#  Guinea. Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. 
+#  Guinea: Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. 
 
 
 
@@ -21,4 +21,4 @@
 7. [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md) _Context: Guinea, massacre of opposition protesters_
 8. [ Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. ](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.md) _Context: Guinea, massacre of opposition protesters_
 9. [ At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. ](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.md) _Context: Guinea, massacre of opposition protesters_
-10. [2016-2017 Gambian constitutional crisis. Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/2016-2017-gambian-constitutional-crisis-former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _Context: Guinea_
+10. [2016-2017 Gambian constitutional crisis: Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/2016-2017-gambian-constitutional-crisis-former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md) _Context: Guinea_

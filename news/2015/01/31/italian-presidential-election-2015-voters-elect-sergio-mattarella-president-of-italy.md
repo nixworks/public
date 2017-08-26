@@ -1,6 +1,6 @@
 ### [2015-01-31](/news/2015/01/31/index.md)
 
-# Italian presidential election, 2015. Voters elect Sergio Mattarella President of Italy. 
+# Italian presidential election, 2015: Voters elect Sergio Mattarella President of Italy. 
 
 
 

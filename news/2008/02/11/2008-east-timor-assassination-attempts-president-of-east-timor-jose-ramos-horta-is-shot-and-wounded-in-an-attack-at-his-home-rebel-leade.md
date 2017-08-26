@@ -1,6 +1,6 @@
 ### [2008-02-11](/news/2008/02/11/index.md)
 
-#  2008 East Timor assassination attempts:. President of East Timor Jos Ramos-Horta is shot and wounded in an attack at his home. Rebel leader Alfredo Reinhado, who led the attack, is killed. [http://www.abc.net.au/news/stories/2008/02/11/2159179.htm (ABC News Australia)] [http://news.theage.com.au/ramoshorta-critical-on-arrival-in-nt/20080211-1rgx.html ("Melbourne Age")]. Prime Minister of East Timor Xanana Gusmo escapes unhurt from an attack on his motorcade.
+#  2008 East Timor assassination attempts:: President of East Timor Jos Ramos-Horta is shot and wounded in an attack at his home. Rebel leader Alfredo Reinhado, who led the attack, is killed. [http://www.abc.net.au/news/stories/2008/02/11/2159179.htm (ABC News Australia)] [http://news.theage.com.au/ramoshorta-critical-on-arrival-in-nt/20080211-1rgx.html ("Melbourne Age")]: Prime Minister of East Timor Xanana Gusmo escapes unhurt from an attack on his motorcade.
 
 
 

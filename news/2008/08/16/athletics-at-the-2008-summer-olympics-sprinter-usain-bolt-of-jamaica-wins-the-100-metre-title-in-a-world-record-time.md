@@ -1,6 +1,6 @@
 ### [2008-08-16](/news/2008/08/16/index.md)
 
-#  Athletics at the 2008 Summer Olympics:. Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. 
+#  Athletics at the 2008 Summer Olympics:: Sprinter Usain Bolt of Jamaica wins the 100 metre-title in a world record time. 
 
 Jamaican sprinter Usain Bolt crushed the world record in the 100 meters in theatrical fashion Saturday night at the Beijing Olympics with a time of 9.69 seconds.
 

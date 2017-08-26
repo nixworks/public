@@ -9,10 +9,10 @@ _Context: Getty Images, free use_
 ### [Two members of the protest band Pussy Riot are left with chemical burns and head injuries after being attacked by a group of people in a McDonald's. ](/news/2014/03/6/two-members-of-the-protest-band-pussy-riot-are-left-with-chemical-burns-and-head-injuries-after-being-attacked-by-a-group-of-people-in-a-mcd.md)
 _Context: McDonald's restaurants, Pussy Riot_
 
-### [War in Afghanistan (2001-present):. A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001-present-a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldier.md)
+### [War in Afghanistan (2001-present):: A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001-present-a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldier.md)
 The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-year history.
 
-### [2014 Crimean crisis:. The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of.md)
+### [2014 Crimean crisis:: The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-the-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of.md)
 LONDON -- The European Union has frozen the assets of former Ukrainian President Viktor Yanukovich , two of his sons and more than a dozen advisors who it says are responsible for stealing state funds.
 
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)

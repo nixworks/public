@@ -1,9 +1,9 @@
 ## [2016-08-20](/news/2016/08/20/index.md)
 
-### [Gaziantep bombing. A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/gaziantep-bombing-a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wo.md)
+### [Gaziantep bombing: A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/gaziantep-bombing-a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wo.md)
 Turkey vowed on Monday to &quot;completely cleanse&quot; Islamic State militants from its border region after a suicide bomber suspected of links to the group killed 54 people, including 22 children, at a Kurdish wedding.
 
-### [2016 Citronelle homicides. Six people, including an unborn baby, were killed in Citronelle, Alabama. A 27-year-old man was arrested as a suspect in the case. ](/news/2016/08/20/2016-citronelle-homicides-six-people-including-an-unborn-baby-were-killed-in-citronelle-alabama-a-27-year-old-man-was-arrested-as-a-sus.md)
+### [2016 Citronelle homicides: Six people, including an unborn baby, were killed in Citronelle, Alabama. A 27-year-old man was arrested as a suspect in the case. ](/news/2016/08/20/2016-citronelle-homicides-six-people-including-an-unborn-baby-were-killed-in-citronelle-alabama-a-27-year-old-man-was-arrested-as-a-sus.md)
 _Context: 2016 Citronelle homicides_
 
 ### [India announces the new governor of its central bank, the Reserve Bank of India, is Urjit Patel, formerly the RBI's deputy governor for monetary policy. ](/news/2016/08/20/india-announces-the-new-governor-of-its-central-bank-the-reserve-bank-of-india-is-urjit-patel-formerly-the-rbi-s-deputy-governor-for-mone.md)

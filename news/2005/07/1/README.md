@@ -4,7 +4,7 @@
 _Context: Al Anbar, Iraq, Samir Sumaidaie, UN_
 
 ### [ Following a public statement from the denomination president on the eve of the event, the Congregationalist United Church of Christ begins their 5-day General Synod 25 in Atlanta, Georgia to debate a number of controversial resolutions, including same-sex marriage. Some are concerned about denominational schism. ](/news/2005/07/1/following-a-public-statement-from-the-denomination-president-on-the-eve-of-the-event-the-congregationalist-united-church-of-christ-begins.md)
-_Context: Atlanta, Georgia, Congregationalist, General Synod, United Church of Christ, denomination, same-sex marriage, schism_
+The United Church of Christ - famous for setting precedent - considers backing same-sex marriage at its national synod.
 
 ### [ Indonesian police arrest 24 people suspected of involvement in the 2002 Bali bombings and a 2003 attack on the Marriott Hotel in Jakarta. ([http://news.bbc.co.uk/2/hi/asia-pacific/4640093.stm BBC])](/news/2005/07/1/indonesian-police-arrest-24-people-suspected-of-involvement-in-the-2002-bali-bombings-and-a-2003-attack-on-the-marriott-hotel-in-jakarta.md)
 _Context: Bali bomber, Indonesia, Jakarta_

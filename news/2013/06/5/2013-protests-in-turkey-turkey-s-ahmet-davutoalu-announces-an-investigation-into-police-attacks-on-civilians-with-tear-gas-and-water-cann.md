@@ -1,6 +1,6 @@
 ### [2013-06-5](/news/2013/06/5/index.md)
 
-# 2013 protests in Turkey:. Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. 
+# 2013 protests in Turkey:: Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. 
 
 In historic events involving tens of thousands, often hundreds of thousands, sometimes a single image of a single person can capture the spirit of the moment.
 
@@ -15,8 +15,8 @@ In historic events involving tens of thousands, often hundreds of thousands, som
 
 ### Related:
 
-1. [2013 protests in Turkey:. Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-squar.md) _Context: anti-government protests, tear gas, water cannon_
-2. [Soma mine disaster:. Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-t.md) _Context: tear gas, water cannon_
+1. [2013 protests in Turkey:: Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-squar.md) _Context: anti-government protests, tear gas, water cannon_
+2. [Soma mine disaster:: Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-t.md) _Context: tear gas, water cannon_
 3. [Police clash with Chilean fishermen opposed to a new law said to favour larger companies; Chilean police use tear gas and water cannon to break up demonstrations in Valparaiso. ](/news/2012/07/11/police-clash-with-chilean-fishermen-opposed-to-a-new-law-said-to-favour-larger-companies-chilean-police-use-tear-gas-and-water-cannon-to-br.md) _Context: tear gas, water cannon_
 4. [Malaysian police use tear gas and water cannon to disperse thousands of protesters gathered in Kuala Lumpur calling for free and fair elections. ](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.md) _Context: tear gas, water cannon_
 5. [Chilean police use water cannon and tear gas to break up a march by thousands of students in the capital Santiago. ](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.md) _Context: tear gas, water cannon_

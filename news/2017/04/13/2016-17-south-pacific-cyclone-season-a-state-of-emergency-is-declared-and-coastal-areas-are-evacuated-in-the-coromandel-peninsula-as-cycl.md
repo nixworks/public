@@ -1,6 +1,6 @@
 ### [2017-04-13](/news/2017/04/13/index.md)
 
-# 2016-17 South Pacific cyclone season. A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. 
+# 2016-17 South Pacific cyclone season: A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. 
 
 A storm forecast to be the worst in decades leaves floods, power cuts and downed trees in its wake.
 
@@ -11,7 +11,7 @@ A storm forecast to be the worst in decades leaves floods, power cuts and downed
 
 ### Related:
 
-1. [2016-17 South Pacific cyclone season. Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/2016-17-south-pacific-cyclone-season-category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md) _Context: 2016-17 South Pacific cyclone season, Cyclone Cook_
+1. [2016-17 South Pacific cyclone season: Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. ](/news/2017/04/10/2016-17-south-pacific-cyclone-season-category-3-cyclone-cook-hits-grand-terre-the-main-island-of-new-caledonia.md) _Context: 2016-17 South Pacific cyclone season, Cyclone Cook_
 2. [A 7.1 magnitude earthquake occurs off the north east coast of North Island, New Zealand. A tsunami warning was issued after the earthquake, and waves of 0.3m have been reported near Gisborne. ](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.md) _Context: New Zealand, North Island_
 3. [In New Zealand's North Island heavy rains cause flooding on the Kapiti Coast in the Wellington Region prompting evacuations and closing road and rail links. ](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.md) _Context: New Zealand, North Island_
 4. [A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. ](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.md) _Context: New Zealand, North Island_

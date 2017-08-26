@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Death of Linda Norgrove:. The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _Context: death of Linda Norgrove_
+1. [Death of Linda Norgrove:: The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md) _Context: death of Linda Norgrove_

@@ -1,6 +1,6 @@
 ### [2015-07-9](/news/2015/07/9/index.md)
 
-#  Chinese stock market crash. The China Securities Regulatory Commission (CSRC) imposes a six-month ban on stockholders owning more than 5 percent of a company's stock from selling those stocks, resulting in a 6 percent rise in stock markets. 
+#  Chinese stock market crash: The China Securities Regulatory Commission (CSRC) imposes a six-month ban on stockholders owning more than 5 percent of a company's stock from selling those stocks, resulting in a 6 percent rise in stock markets. 
 
 
 

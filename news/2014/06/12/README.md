@@ -1,12 +1,12 @@
 ## [2014-06-12](/news/2014/06/12/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal). The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/iraqi-insurgency-post-u-s-withdrawal-the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal): The United Nations Security Council meets to discuss the rapid progress of an Islamic State of Iraq and the Levant offensive towards Baghdad. ](/news/2014/06/12/iraqi-insurgency-post-u-s-withdrawal-the-united-nations-security-council-meets-to-discuss-the-rapid-progress-of-an-islamic-state-of-iraq.md)
 Stay up-to-date with the latest developments in the ongoing IS battle in Iraq and Syria.
 
-### [War in North-West Pakistan. At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md)
+### [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md)
 Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
 
-### [2014 pro-Russian conflict in Ukraine. Ukraine's Interior Minister Arsen Avakov claims that three Russian tanks crossed into eastern Ukraine and were attacked by the Ukrainian Army. ](/news/2014/06/12/2014-pro-russian-conflict-in-ukraine-ukraine-s-interior-minister-arsen-avakov-claims-that-three-russian-tanks-crossed-into-eastern-ukraine.md)
+### [2014 pro-Russian conflict in Ukraine: Ukraine's Interior Minister Arsen Avakov claims that three Russian tanks crossed into eastern Ukraine and were attacked by the Ukrainian Army. ](/news/2014/06/12/2014-pro-russian-conflict-in-ukraine-ukraine-s-interior-minister-arsen-avakov-claims-that-three-russian-tanks-crossed-into-eastern-ukraine.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Arsen Avakov, Ukraine's Minister of the Interior, Ukrainian military_
 
 ### [Three Israeli teenagers were kidnapped by Palestinian militants. The Israel Defense Forces and Shin-Bet deployed large forces through the West Bank in order to find and rescue them. ([http://www.jpost.com/Defense/Names-of-missing-teenage-yeshiva-students-released-359317 Jerusalem Post])](/news/2014/06/12/three-israeli-teenagers-were-kidnapped-by-palestinian-militants-the-israel-defense-forces-and-shin-bet-deployed-large-forces-through-the-we.md)
@@ -24,7 +24,7 @@ Six people including two Deputy General Managers are dead and over 30 sustained 
 ### [Ontario general election, 2014: The Liberal Party of Ontario wins a majority government; Kathleen Wynne will remain the Premier of the province. ](/news/2014/06/12/ontario-general-election-2014-the-liberal-party-of-ontario-wins-a-majority-government-kathleen-wynne-will-remain-the-premier-of-the-provi.md)
 _Context: Kathleen Wynne, Ontario, Ontario general election, 2014, Premier_
 
-### [Antigua and Barbuda general election, 2014. Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/antigua-and-barbuda-general-election-2014-voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by.md)
+### [Antigua and Barbuda general election, 2014: Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/antigua-and-barbuda-general-election-2014-voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by.md)
 _Context: Antigua Labour Party, Antigua and Barbuda, Antigua and Barbuda general election, 2014, Gaston Browne_
 
 ## [Previous Day...](/news/2014/06/11/index.md)

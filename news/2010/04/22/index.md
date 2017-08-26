@@ -1,12 +1,12 @@
 ## [2010-04-22](/news/2010/04/22/index.md)
 
-### [2010 Explosion on "Deepwater Horizon" drilling rig:. Transocean oil platform "Deepwater Horizon" sinks into the Gulf of Mexico off the coast of Louisiana after an explosion two days earlier that injured 7, with 11 still missing. ](/news/2010/04/22/2010-explosion-on-deepwater-horizon-drilling-rig-transocean-oil-platform-deepwater-horizon-sinks-into-the-gulf-of-mexico-off-the-coast.md)
+### [2010 Explosion on "Deepwater Horizon" drilling rig:: Transocean oil platform "Deepwater Horizon" sinks into the Gulf of Mexico off the coast of Louisiana after an explosion two days earlier that injured 7, with 11 still missing. ](/news/2010/04/22/2010-explosion-on-deepwater-horizon-drilling-rig-transocean-oil-platform-deepwater-horizon-sinks-into-the-gulf-of-mexico-off-the-coast.md)
 The deepwater oil rig burning off the coast of Louisiana sank into the Gulf of Mexico at 10:20 a.m. Thursday, according to a Coast Guard spokesman.
 
-### [Israeli-Palestinian conflict:. Ahmad Sabah, a Palestinian with a Gaza ID card, claims the new Israeli military order on deportations is behind his release to Gaza instead of the West Bank where he lived before his detainment in 2001. ](/news/2010/04/22/israeli-palestinian-conflict-ahmad-sabah-a-palestinian-with-a-gaza-id-card-claims-the-new-israeli-military-order-on-deportations-is-be.md)
+### [Israeli-Palestinian conflict:: Ahmad Sabah, a Palestinian with a Gaza ID card, claims the new Israeli military order on deportations is behind his release to Gaza instead of the West Bank where he lived before his detainment in 2001. ](/news/2010/04/22/israeli-palestinian-conflict-ahmad-sabah-a-palestinian-with-a-gaza-id-card-claims-the-new-israeli-military-order-on-deportations-is-be.md)
 Israeli move raises fears of more Palestinians being expelled from Israel and West Bank.
 
-### [Pope Benedict XVI and the child sexual abuse in the Roman Catholic Church:. The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. ](/news/2010/04/22/pope-benedict-xvi-and-the-child-sexual-abuse-in-the-roman-catholic-church-the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighl.md)
+### [Pope Benedict XVI and the child sexual abuse in the Roman Catholic Church:: The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. ](/news/2010/04/22/pope-benedict-xvi-and-the-child-sexual-abuse-in-the-roman-catholic-church-the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighl.md)
 Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leighlin Jim Moriarty.
 
 ### [Pro-Daniel Ortega protesters in Nicaragua injure three opposition politicians while blockading parliament to prevent the overturning of a presidential decree. ](/news/2010/04/22/pro-daniel-ortega-protesters-in-nicaragua-injure-three-opposition-politicians-while-blockading-parliament-to-prevent-the-overturning-of-a-pr.md)
@@ -52,7 +52,7 @@ _Context: EUR, Greek_
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Barack Obama, Manhattan, Wall Street, president_
+_Context: Barack Obama, Manhattan, President, Wall Street_
 
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_

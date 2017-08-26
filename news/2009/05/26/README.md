@@ -7,7 +7,7 @@ _Context: Beijing, China, Communist Party general secretary, Communist Party of 
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Sonia Sotomayor, U.S. Supreme Court, United States, United States federal judge, confirmed, president_
+_Context: Barack Obama, President, Sonia Sotomayor, U.S. Supreme Court, United States, United States federal judge, confirmed_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
@@ -18,7 +18,7 @@ _Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan, Supreme Court, ele
 ### [ North Korea tests two more missiles. ](/news/2009/05/26/north-korea-tests-two-more-missiles.md)
 _Context: North Korea, intercontinental ballistic, rocket attacks_
 
-### [ Trial of Aung San Suu Kyi:. The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md)
+### [ Trial of Aung San Suu Kyi:: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md)
 Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on Tuesday as the ruling generals tried to justify her trial, which has drawn condemnation from around the world.
 
 ### [ South Africa's economy contracted by 6.4% during the first fiscal quarter of 2009 and thus enters recession. ](/news/2009/05/26/south-africa-s-economy-contracted-by-6-4-during-the-first-fiscal-quarter-of-2009-and-thus-enters-recession.md)

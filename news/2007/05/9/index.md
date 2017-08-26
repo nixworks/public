@@ -21,7 +21,7 @@ _Context: 2007 Atlantic hurricane season, Southeastern United States, Subtropica
 ### [ Four people in the United Kingdom are arrested in connection with the 7 July 2005 London bombings. ](/news/2007/05/9/four-people-in-the-united-kingdom-are-arrested-in-connection-with-the-7-july-2005-london-bombings.md)
 _Context: 7 July, Britain_
 
-### [ Iraq War:. Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md)
+### [ Iraq War:: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. ](/news/2007/05/9/iraq-war-dick-cheney-the-vice-president-of-the-united-states-travels-to-baghdad-to-encourage-reconciliation-amongst-factions.md)
 _Context: Baghdad, Dick Cheney, Iraq War, U.S. Vice President_
 
 ### [ People in East Timor finish voting in the second round of the country's first presidential election since it gained independence from Indonesia in 2002. ](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.md)

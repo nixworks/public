@@ -1,6 +1,6 @@
 ### [2013-03-3](/news/2013/03/3/index.md)
 
-# 2013 Bangladesh protests:. At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. 
+# 2013 Bangladesh protests:: At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. 
 
 At least 16 people die in continuing violence in Bangladesh as a strike called over a death sentence given to an Islamist party leader starts.
 
@@ -20,5 +20,5 @@ At least 16 people die in continuing violence in Bangladesh as a strike called o
 6. [A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. ](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
 7. [A war crimes tribunal finds Bangladeshi ex-politician Ghulam Azam, former leader of the Bangladesh Jamaat-e-Islami, guilty of war crimes during the Bangladesh Liberation War in 1971. ](/news/2013/07/15/a-war-crimes-tribunal-finds-bangladeshi-ex-politician-ghulam-azam-former-leader-of-the-bangladesh-jamaat-e-islami-guilty-of-war-crimes-dur.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
 8. [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
-9. [2013 Bangladesh protests:. The death toll in Bangladesh rises to at least 50 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/2/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-at-least-50-as-protests-continue-following-the-sentencing-of-delwar-hossain.md) _Context: 2013 Bangladesh protests, Bangladesh_
-10. [2013 Bangladesh protests:. The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _Context: 2013 Bangladesh protests, Bangladesh_
+9. [2013 Bangladesh protests:: The death toll in Bangladesh rises to at least 50 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/2/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-at-least-50-as-protests-continue-following-the-sentencing-of-delwar-hossain.md) _Context: 2013 Bangladesh protests, Bangladesh_
+10. [2013 Bangladesh protests:: The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md) _Context: 2013 Bangladesh protests, Bangladesh_

@@ -3,10 +3,10 @@
 ### [A bomb blast in a market kills 26 people in the outskirts of the Pakistani capital Islamabad. ](/news/2014/04/9/a-bomb-blast-in-a-market-kills-26-people-in-the-outskirts-of-the-pakistani-capital-islamabad.md)
 _Context: Islamabad, Pakistan_
 
-### [Syrian Civil War:. 25 people are killed in car bombings in the central Syrian city of Homs. ](/news/2014/04/9/syrian-civil-war-25-people-are-killed-in-car-bombings-in-the-central-syrian-city-of-homs.md)
+### [Syrian Civil War:: 25 people are killed in car bombings in the central Syrian city of Homs. ](/news/2014/04/9/syrian-civil-war-25-people-are-killed-in-car-bombings-in-the-central-syrian-city-of-homs.md)
 Two car bombs kill at least 25 people in Homs, Syrian state media say, hours after government forces reportedly capture a key town.
 
-### [2014 pro-Russian protests in Ukraine:. Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md)
+### [2014 pro-Russian protests in Ukraine:: Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md)
 Pro-Russian separatists reinforced barricades around the state security building in the eastern Ukrainian city of Luhansk on Wednesday and called on President Vladimir Putin for help after the government warned it could use force to restore order.
 
 ### [Toyota announces that it will recall nearly 6.5 million vehicles due to steering and other faults. ](/news/2014/04/9/toyota-announces-that-it-will-recall-nearly-6-5-million-vehicles-due-to-steering-and-other-faults.md)
@@ -15,10 +15,10 @@ _Context: Toyota, recall_
 ### [Microsoft officially concludes Windows XP after 12 years of support. ](/news/2014/04/9/microsoft-officially-concludes-windows-xp-after-12-years-of-support.md)
 Windows XP still runs on millions of computers out there. Here&#039;s what to do if you own one of them.
 
-### [Oso, Washington mudslide:. The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-the-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md)
+### [Oso, Washington mudslide:: The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-the-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md)
 _Context: Oso, Washington mudslide_
 
-### [Franklin Regional High School stabbing.. A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-a-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md)
+### [Franklin Regional High School stabbing.: A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-a-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md)
 The stabbings were reported at Franklin Regional High School, in the suburb of Murrysville.
 
 ### [Four people are stabbed in an office in Toronto, Ontario, Canada. ](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.md)

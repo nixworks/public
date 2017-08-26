@@ -1,6 +1,6 @@
 ### [2010-06-22](/news/2010/06/22/index.md)
 
-# Red Sea oil spill disaster:. Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. 
+# Red Sea oil spill disaster:: Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. 
 
 
 
@@ -11,8 +11,8 @@
 
 ### Related:
 
-1. [Egypt-Saudi Arabia relations. King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/egypt-saudi-arabia-relations-king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossin.md) _Context: Egypt, Red Sea_
-2. [Metrojet Flight 9268. Tourism bookings in Egypt-s main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/metrojet-flight-9268-tourism-bookings-in-egypt-s-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-8.md) _Context: Egypt, Red Sea_
+1. [Egypt-Saudi Arabia relations: King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/egypt-saudi-arabia-relations-king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossin.md) _Context: Egypt, Red Sea_
+2. [Metrojet Flight 9268: Tourism bookings in Egypt-s main Red Sea resort of Sharm el-Sheikh plunge in the wake of the plane crash with some 80% of reservations cancelled and at least 40% of the tourists leaving the resort since the crash. ](/news/2015/11/11/metrojet-flight-9268-tourism-bookings-in-egypt-s-main-red-sea-resort-of-sharm-el-sheikh-plunge-in-the-wake-of-the-plane-crash-with-some-8.md) _Context: Egypt, Red Sea_
 3. [Sinai insurgency: Israel intercepts and destroys a Grad rocket fired by Mujahideen Shura Council al-Qaeda members from Egyptian territory at the Red Sea town of Eilat. ](/news/2013/08/13/sinai-insurgency-israel-intercepts-and-destroys-a-grad-rocket-fired-by-mujahideen-shura-council-al-qaeda-members-from-egyptian-territory-at.md) _Context: Egypt, Red Sea_
 4. [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md) _Context: Egypt, Hurghada_
 5. [An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. ](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.md) _Context: Egypt, Red Sea_

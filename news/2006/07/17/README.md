@@ -15,7 +15,7 @@ _Context: Baghdad, Iraq, Mahmoudiya_
 ### [ Kofi Annan states that he is working with the five permanent members of the United Nations Security Council to deploy an armed force in the Middle East to quell the escalation of conflict between Israel, Palestinian insurgents and Hezbollah. Tony Blair supports the plan. ](/news/2006/07/17/kofi-annan-states-that-he-is-working-with-the-five-permanent-members-of-the-united-nations-security-council-to-deploy-an-armed-force-in-the.md)
 _Context: Hezbollah, Israel, Kofi Annan, Middle East, Palestinian, Tony Blair, United Nations Security Council_
 
-### [ 2006 Israel-Lebanon crisis:. Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md)
+### [ 2006 Israel-Lebanon crisis:: Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/2006-israel-lebanon-crisis-israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued.md)
 _Context: 2006 Israel-Lebanon crisis, Israel, Lebanon, UN_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains)](/news/2006/07/17/israeli-palestinian-conflict-operation-summer-rains.md)

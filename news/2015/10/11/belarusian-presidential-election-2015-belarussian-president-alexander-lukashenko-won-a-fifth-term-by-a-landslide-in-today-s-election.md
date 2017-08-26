@@ -1,6 +1,6 @@
 ### [2015-10-11](/news/2015/10/11/index.md)
 
-# Belarusian presidential election, 2015. Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. 
+# Belarusian presidential election, 2015: Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. 
 
 
 

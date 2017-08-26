@@ -1,6 +1,6 @@
 ## [2013-07-24](/news/2013/07/24/index.md)
 
-### [Mexican Drug War:. Clashes between the Knights Templar Cartel and the Mexican federal police leave 22 dead in the state of Michoacn. According to government press reports, two of the dead were law enforcement officials, while the rest were cartel gunmen. ](/news/2013/07/24/mexican-drug-war-clashes-between-the-knights-templar-cartel-and-the-mexican-federal-police-leave-22-dead-in-the-state-of-michoacan-accord.md)
+### [Mexican Drug War:: Clashes between the Knights Templar Cartel and the Mexican federal police leave 22 dead in the state of Michoacn. According to government press reports, two of the dead were law enforcement officials, while the rest were cartel gunmen. ](/news/2013/07/24/mexican-drug-war-clashes-between-the-knights-templar-cartel-and-the-mexican-federal-police-leave-22-dead-in-the-state-of-michoacan-accord.md)
 _Context: Knights Templar Cartel, Mexican Drug War, Mexican Police, Michoacn_
 
 ### [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md)

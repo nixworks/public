@@ -1,6 +1,6 @@
 ### [2017-07-24](/news/2017/07/24/index.md)
 
-# HelloWallet. KeyCorp finalizes its purchase of financial app HelloWallet. 
+# HelloWallet: KeyCorp finalizes its purchase of financial app HelloWallet. 
 
 
 

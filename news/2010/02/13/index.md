@@ -15,10 +15,10 @@ _Context: Burma, National League for Democracy, Tin Oo_
 ### [The Cote d'Ivoire government is dissolved with President Laurent Gbagbo saying on state television that the peace process has broken down. ](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.md)
 President Gbagbo sacks the government and the electoral commission over vote fraud.
 
-### [2010 Winter Olympics in Vancouver:. The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md)
+### [2010 Winter Olympics in Vancouver:: The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. ](/news/2010/02/13/2010-winter-olympics-in-vancouver-the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event.md)
 Vancouvers Olympic troubles continued on Saturday as the mens downhill skiing event was postponed due to unsuitable weather.
 
-### [Year of the Tiger:. China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md)
+### [Year of the Tiger:: China prepares to celebrate New Year holidays with tens of millions of people travelling and fireworks anticipated. ](/news/2010/02/13/year-of-the-tiger-china-prepares-to-celebrate-new-year-holidays-with-tens-of-millions-of-people-travelling-and-fireworks-anticipated.md)
 Tens of millions of Chinese were marking the start of a lunar New Year.
 
 ### [Clashes erupt in Dresden 65 years after the city was bombed at the end of World War II. ](/news/2010/02/13/clashes-erupt-in-dresden-65-years-after-the-city-was-bombed-at-the-end-of-world-war-ii.md)

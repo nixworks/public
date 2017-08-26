@@ -1,6 +1,6 @@
 ## [2012-11-10](/news/2012/11/10/index.md)
 
-### [Syrian civil war:. Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md)
+### [Syrian civil war:: Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md)
 _Context: Daraa, Syrian Civil War_
 
 ### [At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo, the capital city of Sri Lanka. ](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.md)
@@ -27,8 +27,8 @@ The BBC&rsquo;s director-general has dramatically quit over the corporation&rsqu
 ### [Tim Davie, the BBC's head of audio and music will succeed Entwistle as Acting Director General from Sunday. ](/news/2012/11/10/tim-davie-the-bbc-s-head-of-audio-and-music-will-succeed-entwistle-as-acting-director-general-from-sunday.md)
 George Entwistle quits after he admits a Newsnight report has caused a crisis of public trust following the Jimmy Savile scandal.
 
-### [United States elections, 2012:. President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama-more than the 270 needed to ensure election-to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/united-states-elections-2012-president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes.md)
-_Context: Barack Obama, Electoral College, Florida, Mitt Romney, United States elections, 2012, president, presidential election_
+### [United States elections, 2012:: President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama-more than the 270 needed to ensure election-to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/united-states-elections-2012-president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes.md)
+_Context: Barack Obama, Electoral College, Florida, Mitt Romney, President, United States elections, 2012, presidential election_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

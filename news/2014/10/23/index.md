@@ -3,13 +3,13 @@
 ### [A Hamas member carries out a terrorist attack in Jerusalem by intentionally striking a group of pedestrians in a train station with his car killing a 3-month-old baby. ](/news/2014/10/23/a-hamas-member-carries-out-a-terrorist-attack-in-jerusalem-by-intentionally-striking-a-group-of-pedestrians-in-a-train-station-with-his-car.md)
 Silwan branch of PA leader&#8217;s party praises &#8216;hero who ran over settlers&#8217;; mother says her son was mentally unstable, it was an accident
 
-### [Islamist insurgency in Nigeria. Boko Haram abducts "dozens" of women and girls in Adamawa State, specifically in the villages of Wanga Mangoro and Garta. ](/news/2014/10/23/islamist-insurgency-in-nigeria-boko-haram-abducts-dozens-of-women-and-girls-in-adamawa-state-specifically-in-the-villages-of-wanga-mango.md)
+### [Islamist insurgency in Nigeria: Boko Haram abducts "dozens" of women and girls in Adamawa State, specifically in the villages of Wanga Mangoro and Garta. ](/news/2014/10/23/islamist-insurgency-in-nigeria-boko-haram-abducts-dozens-of-women-and-girls-in-adamawa-state-specifically-in-the-villages-of-wanga-mango.md)
 Dozens of women and girls have been abducted from two villages in north-eastern Nigeria by suspected militants despite a reported truce, residents say.
 
-### [Ebola virus disease in the United States. A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/ebola-virus-disease-in-the-united-states-a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-af.md)
+### [Ebola virus disease in the United States: A New York City physician tests positive for Ebola at the Bellevue Hospital Center in Manhattan after treating Ebola patients in Guinea. ](/news/2014/10/23/ebola-virus-disease-in-the-united-states-a-new-york-city-physician-tests-positive-for-ebola-at-the-bellevue-hospital-center-in-manhattan-af.md)
 The 5-year-old patient who is receiving care at HHC Bellevue Hospital Center has been fully cleared after a negative Ebola test. His fever was caused by a respiratory infection that was confirmed by a lab test. 
 
-### [Ebola virus epidemic in West Africa. Mali confirms that a 2-year-old girl has tested positive for Ebola, marking the country's first documented case. ](/news/2014/10/23/ebola-virus-epidemic-in-west-africa-mali-confirms-that-a-2-year-old-girl-has-tested-positive-for-ebola-marking-the-country-s-first-documen.md)
+### [Ebola virus epidemic in West Africa: Mali confirms that a 2-year-old girl has tested positive for Ebola, marking the country's first documented case. ](/news/2014/10/23/ebola-virus-epidemic-in-west-africa-mali-confirms-that-a-2-year-old-girl-has-tested-positive-for-ebola-marking-the-country-s-first-documen.md)
 _Context: Ebola virus epidemic in West Africa_
 
 ### [A man attacks a group of police officers in New York City with a hatchet, injuring 2 before being shot dead. Police suspect the attacker was motivated by radical Islamic ideals. ](/news/2014/10/23/a-man-attacks-a-group-of-police-officers-in-new-york-city-with-a-hatchet-injuring-2-before-being-shot-dead-police-suspect-the-attacker-was.md)

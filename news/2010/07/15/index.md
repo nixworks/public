@@ -27,7 +27,7 @@ _Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
 _Context: Robbie Williams, Take That_
 
-### [Shahram Amiri:. Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-retu.md)
+### [Shahram Amiri:: Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-retu.md)
 Shahram Amiri, back in Tehran, vows to reveal details of alleged kidnapping while on Hajj.
 
 ### [10 Russian agents of influence deported from the United States face three weeks of testing to eradicate potential double agents. ](/news/2010/07/15/10-russian-agents-of-influence-deported-from-the-united-states-face-three-weeks-of-testing-to-eradicate-potential-double-agents.md)
@@ -70,7 +70,7 @@ By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have r
 Dick Cheney, the former US Vice President, has undergone heart surgery, he has announced.
 
 ### [President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. ](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-sends-to-congress-a-bill-proposing-that-corporal-punishment-including-spanking-be-outlawed.md)
-_Context: Brazilian President, Lula, corporal punishment, spanking_
+_Context: Lula, President, corporal punishment, spanking_
 
 ### [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md)
 The bill aims at reigning in banks and protecting consumers from risky lending pratices.

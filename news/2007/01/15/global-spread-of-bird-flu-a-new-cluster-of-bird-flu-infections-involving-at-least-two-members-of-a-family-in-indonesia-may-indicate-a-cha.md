@@ -1,6 +1,6 @@
 ### [2007-01-15](/news/2007/01/15/index.md)
 
-#  Global spread of bird flu:. A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. 
+#  Global spread of bird flu:: A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

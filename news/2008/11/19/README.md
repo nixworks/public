@@ -12,7 +12,7 @@ _Context: Nepal, Supreme Court, same-sex marriage_
 ### [ Amnesty International's report on the 2008 South Ossetia war highlights Georgia's role as aggressor and notes evidence of "notoriously inaccurate" Georgian artillery fire resulting in "scores" of civilian deaths in South Ossetia, of aimed artillery fire at Russian peacekeepers base, and of Russian failure to provide defense to civilians during the conflict. ](/news/2008/11/19/amnesty-international-s-report-on-the-2008-south-ossetia-war-highlights-georgia-s-role-as-aggressor-and-notes-evidence-of-notoriously-inac.md)
 _Context: 2008 South Ossetia war, Amnesty International, Georgian, Russia_
 
-### [ Piracy in Somalia:. The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md)
+### [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md)
 _Context: INS ''Tabar'', India, Indian Navy, Somali pirates, Somalia, frigate_
 
 ### [ New Zealand and Australian researchers identify a new species of penguin, the Waitaha penguin ("Megadyptes waitaha"), which lived in New Zealand until its extinction 500 years ago. ](/news/2008/11/19/new-zealand-and-australian-researchers-identify-a-new-species-of-penguin-the-waitaha-penguin-megadyptes-waitaha-which-lived-in-new-ze.md)

@@ -24,7 +24,7 @@ Bad weather has resulted in flooding in parts of Dublin and Kildare and the Rive
 ### [ Voters in Switzerland approve a referendum to ban the construction of new minarets in the country. ](/news/2009/11/29/voters-in-switzerland-approve-a-referendum-to-ban-the-construction-of-new-minarets-in-the-country.md)
 To the great surprise of pollsters and the regret of the government, the Swiss on Sunday said yes to a ban on the construction of ...
 
-### [ Nuclear program of Iran:. The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
+### [ Nuclear program of Iran:: The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/nuclear-program-of-iran-the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
 _Context: International Atomic Energy Agency, Iran, Iran and weapons of mass destruction, government, nuclear scientist, parliament_
 
 ### [ Russian police issue an appeal for witnesses following the Nevsky Express bombing. ](/news/2009/11/29/russian-police-issue-an-appeal-for-witnesses-following-the-nevsky-express-bombing.md)

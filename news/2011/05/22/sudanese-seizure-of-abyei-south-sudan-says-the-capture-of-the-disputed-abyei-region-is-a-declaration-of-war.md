@@ -1,6 +1,6 @@
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-# Sudanese seizure of Abyei:. South Sudan says the capture of the disputed Abyei region is a "declaration of war". 
+# Sudanese seizure of Abyei:: South Sudan says the capture of the disputed Abyei region is a "declaration of war". 
 
 The United Nations Security Council called on the north Sudanese army to withdraw from positions it has taken in the disputed region of Abyei, it said in a statement on Sunday.
 

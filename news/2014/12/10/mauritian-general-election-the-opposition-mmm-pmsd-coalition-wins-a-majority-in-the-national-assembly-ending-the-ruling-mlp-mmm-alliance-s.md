@@ -1,6 +1,6 @@
 ### [2014-12-10](/news/2014/12/10/index.md)
 
-# Mauritian general election. The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. 
+# Mauritian general election: The opposition MMM-PMSD coalition wins a majority in the National Assembly, ending the ruling MLP-MMM alliance's plan to grant more powers to the office of the President. 
 
 Mauritius voters rejected plans to grant more powers to the president by handing an election victory to a coalition that opposed changing the constitution, electoral officials said on Thursday.
 

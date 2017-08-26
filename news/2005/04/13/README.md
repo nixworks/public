@@ -9,7 +9,7 @@ _Context: Lebanon, Omar Karami, Prime Minister, form of government_
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
 _Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 
-### [ Conflict in Iraq:. At least nine Iraqi police have been killed by insurgents in Kirkuk. The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-another.md)
+### [ Conflict in Iraq:: At least nine Iraqi police have been killed by insurgents in Kirkuk. The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-another.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)

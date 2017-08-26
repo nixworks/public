@@ -1,15 +1,15 @@
 ## [2011-05-2](/news/2011/05/2/index.md)
 
-### [Reactions to the death of Osama bin Laden:. Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md)
+### [Reactions to the death of Osama bin Laden:: Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md)
 The inability to find bin Laden has frustrated lawmakers throughout Washington for nearly a decade. While they almost uniformly responded with elation to the news, most also warned the terrorist threat is still very much alive.
 
-### [Syrian civil war:. Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozen.md)
+### [Syrian civil war:: Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/syrian-civil-war-hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozen.md)
 Al Jazeera demands information from Syria on whereabouts of journalist missing since arriving in Damascus on Friday.
 
 ### [Bahraini uprising (2011-present): Bahrain arrests two senior members of the Opposition Al Wefaq party, Jawad Ferooz and Mattar Ibrahim Mattar. ](/news/2011/05/2/bahraini-uprising-2011-present-bahrain-arrests-two-senior-members-of-the-opposition-al-wefaq-party-jawad-ferooz-and-mattar-ibrahim-mat.md)
 Two prominent members of the Al Wefaq party held after one of them criticised the government publically.
 
-### [Libyan Civil War:. Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
+### [Libyan Civil War:: Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/05/2/libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 
 ### [The Taliban sends a 12-year-old boy as a suicide bomber in a new wave of attacks that kills four civilians, in one of several attacks across Afghanistan that kills at least seven people. ](/news/2011/05/2/the-taliban-sends-a-12-year-old-boy-as-a-suicide-bomber-in-a-new-wave-of-attacks-that-kills-four-civilians-in-one-of-several-attacks-across.md)
@@ -45,11 +45,11 @@ The Egyptian foreign minister urges the US to support the declaration of an inde
 ### [As part of one of the four cases currently against him, Italian prime minister Silvio Berlusconi appears in court on charges of corruption and attacks his prosecutors again. ](/news/2011/05/2/as-part-of-one-of-the-four-cases-currently-against-him-italian-prime-minister-silvio-berlusconi-appears-in-court-on-charges-of-corruption-a.md)
 Italian Prime Minister Silvio Berlusconi appears in court, lambasting prosecutors and complaining that he has better things to do.
 
-### [Canadian federal election, 2011. Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/canadian-federal-election-2011-voters-in-canada-go-to-the-polls-for-a-federal-election.md)
+### [Canadian federal election, 2011: Voters in Canada go to the polls for a federal election. ](/news/2011/05/2/canadian-federal-election-2011-voters-in-canada-go-to-the-polls-for-a-federal-election.md)
 Stephen Harper has been re-elected and will head a majority Conservative government for the first time.
 
 ### [President of Brazil Dilma Rousseff is hospitalised with pneumonia in SGBPo Paulo. ](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalised-with-pneumonia-in-sagbpo-paulo.md)
-_Context: Brazilian President, Dilma Rousseff, SGBPo Paulo, pneumonia_
+_Context: Dilma Rousseff, President, SGBPo Paulo, pneumonia_
 
 ### [In Guatemala the country's electoral supreme court calls for general elections to be held on September 11 to elect President and Vice President, Mayors of the 333 municipal corporations, members for a new Congress and members for the Central American Parliament (PARLACEN). A second round of voting for President and Vice-President will be held on November 6 if needed.](/news/2011/05/2/in-guatemala-the-country-s-electoral-supreme-court-calls-for-general-elections-to-be-held-on-september-11-to-elect-president-and-vice-presid.md)
 _Context: Central American Parliament, Guatemala, Guatemala's Congress, Guatemalan President, Vice President, mayor_

@@ -12,19 +12,19 @@ _Context: Kim Il-sung, Kim Jong-il, North Korea_
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)
 _Context: G8, Italian, L'Aquila_
 
-### [ July 2009 Urumqi riots. Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md)
+### [ July 2009 Urumqi riots: Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md)
 _Context: Beijing, China, Chinese President, G8, Hu Jintao, Urumqi, ethnic riots_
 
 ### [ Debris and bodies from Yemenia Flight 626, which crashed off the Comoros in the Indian Ocean, wash up on Mafia Island, Tanzania. ](/news/2009/07/8/debris-and-bodies-from-yemenia-flight-626-which-crashed-off-the-comoros-in-the-indian-ocean-wash-up-on-mafia-island-tanzania.md)
 _Context: Comoros, Indian Ocean, Mafia Island, Tanzania, Yemenia Flight 626_
 
-### [ Indonesian presidential election, 2009. Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesian-presidential-election-2009-indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md)
+### [ Indonesian presidential election, 2009: Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesian-presidential-election-2009-indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md)
 Voting begins with more than 170 million registered voters and 500,000 polling stations.
 
 ### [ Malaysian opposition leader Anwar Ibrahim's trial on sodomy charges of engaging in sexual intercourse with a male aide is delayed after his main defence lawyer falls ill. ](/news/2009/07/8/malaysian-opposition-leader-anwar-ibrahim-s-trial-on-sodomy-charges-of-engaging-in-sexual-intercourse-with-a-male-aide-is-delayed-after-his.md)
 _Context: Anwar Ibrahim, Malaysia, sexual intercourse, sodomy_
 
-### [ July 2009 Mindanao bombings. The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md)
+### [ July 2009 Mindanao bombings: The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md)
 _Context: July 2009 Mindanao bombings, Mindanao, UN Development Program_
 
 ### [ Strikes by 70,000 workers in South Africa halt work on the World Cup 2010 stadiums. ](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.md)

@@ -1,6 +1,6 @@
 ## [2012-06-19](/news/2012/06/19/index.md)
 
-### [Arab Spring:. post-Mubarak Egypt:. Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md)
+### [Arab Spring:: post-Mubarak Egypt:: Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md)
 Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034;clinically dead&#034;, according to sources who have spoken to Reuters.
 
 ### [Palestinian militants fire a barrage of rockets into southern Israel following an Israel Air Force strike that killed two Islamic Jihad gunmen; IAF strikes at militant targets in Gaza have killed six Palestinians since yesterday. ](/news/2012/06/19/palestinian-militants-fire-a-barrage-of-rockets-into-southern-israel-following-an-israel-air-force-strike-that-killed-two-islamic-jihad-gunm.md)

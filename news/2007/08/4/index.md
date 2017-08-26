@@ -10,7 +10,7 @@ _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 _Context: United States Army, gang rape, plea deals_
 
 ### [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md)
-_Context: Pentagon officials, United States House of Representatives_
+_Context: U.S. military, United States House of Representatives_
 
 ### [ The United States House of Representatives passes an energy bill which aims to expand the use of renewable energy and reduce tax concessions to oil companies. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-an-energy-bill-which-aims-to-expand-the-use-of-renewable-energy-and-reduce-tax-concession.md)
 _Context: United States House of Representatives, energy, renewable energy_

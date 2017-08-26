@@ -1,9 +1,9 @@
 ## [2006-01-31](/news/2006/01/31/index.md)
 
-### [ U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate). (Wikinews). Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. ](/news/2006/01/31/u-s-president-george-w-bush-delivers-the-state-of-the-union-address-to-a-joint-session-of-the-u-s-congress-the-house-of-representatives.md)
-_Context: (Wikinews), Cindy Sheehan, George W. Bush, Iraq War, U.S. presence in Iraq, United States Capitol, United States House of Representatives, United States Senate, anti-war, joint session of the U.S. Congress, president, protester, the State of the Union Address_
+### [ U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate). (Wikinews): Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. ](/news/2006/01/31/u-s-president-george-w-bush-delivers-the-state-of-the-union-address-to-a-joint-session-of-the-u-s-congress-the-house-of-representatives.md)
+_Context: (Wikinews), Cindy Sheehan, George W. Bush, Iraq War, President, U.S. presence in Iraq, United States Capitol, United States House of Representatives, United States Senate, anti-war, joint session of the U.S. Congress, protester, the State of the Union Address_
 
-### [ Iran's nuclear program. Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-s-nuclear-program-iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md)
+### [ Iran's nuclear program: Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-s-nuclear-program-iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md)
 _Context: Iran, Iran's nuclear program, U.N. Security Council_
 
 ### [ In Iraq, the British Armed Forces records its 100th military death. ](/news/2006/01/31/in-iraq-the-british-armed-forces-records-its-100th-military-death.md)

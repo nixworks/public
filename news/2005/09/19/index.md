@@ -3,7 +3,7 @@
 ### [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week. Mayor Ray Nagin has ordered an evacuation of New Orleans. ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orlean.md)
 _Context: Gulf of Mexico, New Orleans, Ray Nagin, Rita_
 
-### [ Conflict in Iraq:. A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-nor.md)
+### [ Conflict in Iraq:: A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-nor.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Former president Bill Clinton under pressure from Democratic party leaders criticises President George W. Bush's policies on Iraq, Hurricane Katrina and budget deficits. [http://news.yahoo.com/s/afp/20050919/ts_alt_afp/usweatheriraqeconomy_050919063222 (Yahoo News)] (Link dead as of 21:23, 14 January 2007 (UTC))](/news/2005/09/19/former-president-bill-clinton-under-pressure-from-democratic-party-leaders-criticises-president-george-w-bush-s-policies-on-iraq-hurrican.md)

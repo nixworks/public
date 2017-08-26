@@ -6,19 +6,19 @@ _Context: Bahr el Ghazal, Northern, Sudan_
 ### [At least 15,000 people flee their homes in Yemen after a government offensive against rebels in the south in the country. ](/news/2010/09/21/at-least-15-000-people-flee-their-homes-in-yemen-after-a-government-offensive-against-rebels-in-the-south-in-the-country.md)
 _Context: Yemen_
 
-### [War in Afghanistan (2001-present). Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/war-in-afghanistan-2001-present-nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern.md)
+### [War in Afghanistan (2001-present): Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/war-in-afghanistan-2001-present-nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern.md)
 A helicopter crash Tuesday brought the number of NATO service members killed in Afghanistan in 2010 to 529.
 
 ### [Al-Qaeda in the Islamic Maghreb claims responsibility for kidnapping five French workers in Niger. ](/news/2010/09/21/al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-kidnapping-five-french-workers-in-niger.md)
 _Context: France, Niger, al-Qaeda, kidnapped_
 
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
-_Context: Barack Obama, Lawrence Summers, United States National Economic Council, president_
+_Context: Barack Obama, Lawrence Summers, President, United States National Economic Council_
 
 ### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
 Appeals court says there is sufficient credible evidence to put SEC case back on track.
 
-### [2010 Atlantic hurricane season. Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/2010-atlantic-hurricane-season-tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
+### [2010 Atlantic hurricane season: Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/2010-atlantic-hurricane-season-tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
 _Context: 2010 Atlantic hurricane season, Atlantic Ocean, Cape Verde Islands_
 
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)

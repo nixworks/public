@@ -21,7 +21,7 @@ _Context: EDT, GMT, New Jersey, U.S. state, casino_
 ### [ North Korea launches a 7th missile, despite earlier condemnation of its earlier tests. One of the missiles landed "near Russian territory." The U.N. Security Council has scheduled an emergency meeting for Wednesday, and Japan warns of economic sanctions against the country. ](/news/2006/07/5/north-korea-launches-a-7th-missile-despite-earlier-condemnation-of-its-earlier-tests-one-of-the-missiles-landed-near-russian-territory.md)
 Japan drafted a U.N. Security Council resolution condemning North Korea Wednesday after Pyongyang test-fired a long-range missile earlier in the day.
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains):. Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. ](/news/2006/07/5/israeli-palestinian-conflict-operation-summer-rains-israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-str.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):: Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. ](/news/2006/07/5/israeli-palestinian-conflict-operation-summer-rains-israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-str.md)
 Security forces nab terrorist, foil large-scale attack after deploying in great numbers across Samaria area. Meanwhile, IDF forces kill Fatah operative in Jericho 
 
 ## [Previous Day...](/news/2006/07/4/index.md)

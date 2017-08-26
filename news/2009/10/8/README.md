@@ -24,7 +24,7 @@ _Context: Guinea, massacre of opposition protesters_
 ### [ At least two people are killed and dozens injured as Typhoon Melor makes landfall in Japan. ](/news/2009/10/8/at-least-two-people-are-killed-and-dozens-injured-as-typhoon-melor-makes-landfall-in-japan.md)
 At least two killed and dozens injured as storm sweeps up Japanese island of Honshu.
 
-### [ Treaty of Lisbon:. Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/treaty-of-lisbon-polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing.md)
+### [ Treaty of Lisbon:: Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/treaty-of-lisbon-polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing.md)
 Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify document.
 
 ### [ DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. ](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.md)

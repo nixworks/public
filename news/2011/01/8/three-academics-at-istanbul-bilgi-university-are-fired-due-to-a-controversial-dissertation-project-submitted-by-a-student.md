@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Turkey-United Kingdom relations. Turkey deports British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance; there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-united-kingdom-relations-turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-ista.md) _Context: Bilgi University_
+1. [Turkey-United Kingdom relations: Turkey deports British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance; there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-united-kingdom-relations-turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-ista.md) _Context: Bilgi University_

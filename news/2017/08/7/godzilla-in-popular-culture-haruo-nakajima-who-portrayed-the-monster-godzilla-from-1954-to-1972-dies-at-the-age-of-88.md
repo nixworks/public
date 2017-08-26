@@ -1,6 +1,6 @@
 ### [2017-08-7](/news/2017/08/7/index.md)
 
-# Godzilla in popular culture. Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. 
+# Godzilla in popular culture: Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. 
 
 
 

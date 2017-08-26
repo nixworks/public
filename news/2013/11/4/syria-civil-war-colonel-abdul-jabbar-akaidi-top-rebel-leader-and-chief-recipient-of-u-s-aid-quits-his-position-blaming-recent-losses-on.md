@@ -1,6 +1,6 @@
 ### [2013-11-4](/news/2013/11/4/index.md)
 
-# Syria civil war:. Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. 
+# Syria civil war:: Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. 
 
 Rebel infighting jeopardizes their control even in their strongholds
 
@@ -11,4 +11,4 @@ Rebel infighting jeopardizes their control even in their strongholds
 
 ### Related:
 
-1. [Syria civil war:. Syrian army retakes strategically important Damascus suburb of Hujaira from the rebels. ](/news/2013/11/13/syria-civil-war-syrian-army-retakes-strategically-important-damascus-suburb-of-hujaira-from-the-rebels.md) _Context: Syria civil war_
+1. [Syria civil war:: Syrian army retakes strategically important Damascus suburb of Hujaira from the rebels. ](/news/2013/11/13/syria-civil-war-syrian-army-retakes-strategically-important-damascus-suburb-of-hujaira-from-the-rebels.md) _Context: Syria civil war_

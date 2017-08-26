@@ -21,7 +21,7 @@ _Context: Ali Mohamed Ghedi, Prime Minister of Somalia, Salim Aliyow Ibrow, Tran
 ### [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md)
 _Context: Azerbaijan, Baku, UK, embassies_
 
-### [ People's Republic of China:. The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/people-s-republic-of-china-the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-l.md)
+### [ People's Republic of China:: The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/people-s-republic-of-china-the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-l.md)
 Regulators hailed the arrests, made during a nationwide crackdown on tainted food, drugs and agricultural products, as a major step forward for consumer safety.
 
 ### [ An earthquake with magnitude of five on Richter scale shakes central Nepal.date=December 2007](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-date-december-2007.md)

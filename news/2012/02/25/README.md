@@ -1,12 +1,12 @@
 ## [2012-02-25](/news/2012/02/25/index.md)
 
-### [2012 Afghanistan Quran burning protests:. Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md)
+### [2012 Afghanistan Quran burning protests:: Two U.S. officers are killed inside the Ministry of Interior in the Afghan capital Kabul. ](/news/2012/02/25/2012-afghanistan-quran-burning-protests-two-u-s-officers-are-killed-inside-the-ministry-of-interior-in-the-afghan-capital-kabul.md)
 Two Nato officers are shot dead inside the interior ministry in Kabul, prompting Nato to withdraw all its staff from Afghan ministries.
 
-### [Syria:. Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md)
+### [Syria:: Over 100 civilians are killed by the Syrian army, primarily in the artillery shelling of the cities of Homs and Hama. ](/news/2012/02/25/syria-over-100-civilians-are-killed-by-the-syrian-army-primarily-in-the-artillery-shelling-of-the-cities-of-homs-and-hama.md)
 _Context: Hama, Homs, Syria_
 
-### [Yemen:. An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md)
+### [Yemen:: An Al Qaeda suicide bombing claims at least 26 people in the city of Mukalla. ](/news/2012/02/25/yemen-an-al-qaeda-suicide-bombing-claims-at-least-26-people-in-the-city-of-mukalla.md)
 A suicide bombing claimed by al Qaeda killed at least 26 people outside a presidential palace in southern Yemen on Saturday, hours after the newly-elected president was sworn in and said the battle against the Islamists was a &quot;national duty.&quot;
 
 ### [Bahrain's Opposition Al-Wefaq group claims that a woman has died from tear gas inhalation. ](/news/2012/02/25/bahrain-s-opposition-al-wefaq-group-claims-that-a-woman-has-died-from-tear-gas-inhalation.md)

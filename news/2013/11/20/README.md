@@ -1,12 +1,12 @@
 ## [2013-11-20](/news/2013/11/20/index.md)
 
-### [War in North-West Pakistan:. A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-a-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md)
+### [War in North-West Pakistan:: A Taliban suicide bomber kills two Pakistan Army soldiers in the North Waziristan tribal district. ](/news/2013/11/20/war-in-north-west-pakistan-a-taliban-suicide-bomber-kills-two-pakistan-army-soldiers-in-the-north-waziristan-tribal-district.md)
 Security checkpoints were targeted in the attacks.
 
-### [Sinai insurgency:. At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of.md)
+### [Sinai insurgency:: At least 11 Egyptian Army soldiers are reported killed and 37 are injured following a suicide bomb attack in the city of al-Arish. ](/news/2013/11/20/sinai-insurgency-at-least-11-egyptian-army-soldiers-are-reported-killed-and-37-are-injured-following-a-suicide-bomb-attack-in-the-city-of.md)
 Eleven Egyptian military personnel are killed and dozens more wounded in a car bomb attack near the North Sinai city of el-Arish.
 
-### [Typhoon Haiyan:. China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md)
+### [Typhoon Haiyan:: China sends a 'peace ark' loaded with aid to the Philippines after it was criticized for not giving enough. ](/news/2013/11/20/typhoon-haiyan-china-sends-a-peace-ark-loaded-with-aid-to-the-philippines-after-it-was-criticized-for-not-giving-enough.md)
 China says it will send medical teams and a naval hospital ship to the typhoon-hit Philippines, following criticism of its initial response.
 
 ### [U.S. Representative Trey Radel (R-FL) pleads guilty on all charges of cocaine possession following his arrest yesterday and faces 1 year supervised probation. ](/news/2013/11/20/u-s-representative-trey-radel-r-fl-pleads-guilty-on-all-charges-of-cocaine-possession-following-his-arrest-yesterday-and-faces-1-year-s.md)

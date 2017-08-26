@@ -1,6 +1,6 @@
 ### [2003-12-22](/news/2003/12/22/index.md)
 
-#  SCO v. IBM:. SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement 
+#  SCO v. IBM:: SCO claims in a press release to be sending DMCA notification letters alleging copyright infringement 
 
 
 

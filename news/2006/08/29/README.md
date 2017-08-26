@@ -3,7 +3,7 @@
 ### [ Iranian president Mahmoud Ahmadinejad challenges George W. Bush to a live television debate. U.S. government officials decline and criticize the suggestion.](/news/2006/08/29/iranian-president-mahmoud-ahmadinejad-challenges-george-w-bush-to-a-live-television-debate-u-s-government-officials-decline-and-criticiz.md)
 _Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad_
 
-### [ 2006 Israel-Lebanon conflict:. Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md)
+### [ 2006 Israel-Lebanon conflict:: Israel must lift its blockade of Lebanon soon, UN chief Kofi Annan tells Israel's defence minister.](/news/2006/08/29/2006-israel-lebanon-conflict-israel-must-lift-its-blockade-of-lebanon-soon-un-chief-kofi-annan-tells-israel-s-defence-minister.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Tropical Storm John becomes Hurricane John, the sixth hurricane of the 2006 Pacific hurricane season and threatens Mexico's Pacific Ocean coast, including the port city of Acapulco. ](/news/2006/08/29/tropical-storm-john-becomes-hurricane-john-the-sixth-hurricane-of-the-2006-pacific-hurricane-season-and-threatens-mexico-s-pacific-ocean-c.md)

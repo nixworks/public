@@ -1,6 +1,6 @@
 ### [2015-10-28](/news/2015/10/28/index.md)
 
-# Elections in Nepal. The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. 
+# Elections in Nepal: The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. 
 
 Bidhya Devi Bhandari is deputy leader of the ruling Communist party and campaigned to secure women’s rights under the new constitution
 

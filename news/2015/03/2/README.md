@@ -1,9 +1,9 @@
 ## [2015-03-2](/news/2015/03/2/index.md)
 
-### [ Islamic State of Iraq and the Levant:. A coalition of Iraqi Armed Forces and militia numbering around 30,000 launches an offensive against Islamic State positions in Tikrit. Troops seize control of the district of al-Tin and al-Abeid. ](/news/2015/03/2/islamic-state-of-iraq-and-the-levant-a-coalition-of-iraqi-armed-forces-and-militia-numbering-around-30-000-launches-an-offensive-against.md)
+### [ Islamic State of Iraq and the Levant:: A coalition of Iraqi Armed Forces and militia numbering around 30,000 launches an offensive against Islamic State positions in Tikrit. Troops seize control of the district of al-Tin and al-Abeid. ](/news/2015/03/2/islamic-state-of-iraq-and-the-levant-a-coalition-of-iraqi-armed-forces-and-militia-numbering-around-30-000-launches-an-offensive-against.md)
 Iraqi forces say they have retaken some districts around Tikrit in their fight to recapture the strategic city from Islamic State.
 
-### [Second Libyan Civil War (2014-present). Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/second-libyan-civil-war-2014-present-libya-s-council-of-deputies-agrees-to-resume-peace-talks.md)
+### [Second Libyan Civil War (2014-present): Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/second-libyan-civil-war-2014-present-libya-s-council-of-deputies-agrees-to-resume-peace-talks.md)
 _Context: Libya, Second Libyan Civil War (2014-present), internationally-recognized government_
 
 ### [Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. ](/news/2015/03/2/hewlett-packard-announces-that-it-will-buy-aruba-networks-a-california-based-manufacturer-of-wi-fi-equipment-for-approximately-2-7-billio.md)

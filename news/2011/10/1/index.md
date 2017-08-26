@@ -1,6 +1,6 @@
 ## [2011-10-1](/news/2011/10/1/index.md)
 
-### [2011 Libyan civil war:. In the heavily besieged city of Sirte, heavy fighting continues as aid workers from the International Committee of the Red Cross deliver desperately needed medical supplies. Due to growing fears of a humanitarian disaster, National Transitional Council (NTC) forces have granted safe passage to European aid workers' vehicles. ](/news/2011/10/1/2011-libyan-civil-war-in-the-heavily-besieged-city-of-sirte-heavy-fighting-continues-as-aid-workers-from-the-international-committee-of-t.md)
+### [2011 Libyan civil war:: In the heavily besieged city of Sirte, heavy fighting continues as aid workers from the International Committee of the Red Cross deliver desperately needed medical supplies. Due to growing fears of a humanitarian disaster, National Transitional Council (NTC) forces have granted safe passage to European aid workers' vehicles. ](/news/2011/10/1/2011-libyan-civil-war-in-the-heavily-besieged-city-of-sirte-heavy-fighting-continues-as-aid-workers-from-the-international-committee-of-t.md)
 _Context: International Committee of the Red Cross, Libyan Civil War, National Transitional Council, Sirte_
 
 ### [Malik Mumtaz Hussain Qadri, the self-confessed assassin of Pakistani politician Salmaan Taseer, is sentenced to death by a Pakistani court. ](/news/2011/10/1/malik-mumtaz-hussain-qadri-the-self-confessed-assassin-of-pakistani-politician-salmaan-taseer-is-sentenced-to-death-by-a-pakistani-court.md)

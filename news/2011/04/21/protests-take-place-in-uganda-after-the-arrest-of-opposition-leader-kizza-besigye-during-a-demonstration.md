@@ -13,7 +13,7 @@ Opposition leader Kizza Besigye held yet again for marching in a fourth round of
 
 ### Related:
 
-1. [Ugandan general election, 2016. Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/ugandan-general-election-2016-uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala.md) _Context: Kizza Besigye, Uganda_
+1. [Ugandan general election, 2016: Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/ugandan-general-election-2016-uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala.md) _Context: Kizza Besigye, Uganda_
 2. [Ugandan opposition leader Kizza Besigye and several others are arrested. ](/news/2012/01/19/ugandan-opposition-leader-kizza-besigye-and-several-others-are-arrested.md) _Context: Kizza Besigye, Uganda_
 3. [Kizza Besigye, the leader of Uganda's political opposition, is arrested while leading a "walk to work" protest. ](/news/2011/10/31/kizza-besigye-the-leader-of-uganda-s-political-opposition-is-arrested-while-leading-a-walk-to-work-protest.md) _Context: Kizza Besigye, Uganda_
 4. [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md) _Context: Kizza Besigye, Uganda_

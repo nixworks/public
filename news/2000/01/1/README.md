@@ -3,7 +3,7 @@
 ### [For popular culture, it was the first day of the new millennium and new century.](/news/2000/01/1/for-popular-culture-it-was-the-first-day-of-the-new-millennium-and-new-century.md)
 _Context: century, millennium_
 
-### [Year 2000 problem. Y2K passes without the serious, widespread computer failures and malfunctions that had been predicted.](/news/2000/01/1/year-2000-problem-y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.md)
+### [Year 2000 problem: Y2K passes without the serious, widespread computer failures and malfunctions that had been predicted.](/news/2000/01/1/year-2000-problem-y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.md)
 _Context: Year 2000 problem_
 
 ### [It is the first day of the 2000s decade.](/news/2000/01/1/it-is-the-first-day-of-the-2000s-decade.md)

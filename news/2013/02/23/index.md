@@ -1,12 +1,12 @@
 ## [2013-02-23](/news/2013/02/23/index.md)
 
-### [South Yemen insurgency:. Three people are killed and 14 injured in clashes between civilians and government security forces in Aden and Mukalla, as thousands turn up for a day of planned protests. In a separate attack, a senior Yemeni security chief and two of his bodyguards are injured in a shooting. ](/news/2013/02/23/south-yemen-insurgency-three-people-are-killed-and-14-injured-in-clashes-between-civilians-and-government-security-forces-in-aden-and-muka.md)
+### [South Yemen insurgency:: Three people are killed and 14 injured in clashes between civilians and government security forces in Aden and Mukalla, as thousands turn up for a day of planned protests. In a separate attack, a senior Yemeni security chief and two of his bodyguards are injured in a shooting. ](/news/2013/02/23/south-yemen-insurgency-three-people-are-killed-and-14-injured-in-clashes-between-civilians-and-government-security-forces-in-aden-and-muka.md)
 A Yemeni security chief survived an assassination attempt on Saturday in the south of the country, where three people were killed in clashes between his forces and separatists.
 
-### [Sudanese nomadic conflicts:. Fighting between rival Arab tribes in Sudan's Darfur region kills 51 people and injures 62 others. ](/news/2013/02/23/sudanese-nomadic-conflicts-fighting-between-rival-arab-tribes-in-sudan-s-darfur-region-kills-51-people-and-injures-62-others.md)
+### [Sudanese nomadic conflicts:: Fighting between rival Arab tribes in Sudan's Darfur region kills 51 people and injures 62 others. ](/news/2013/02/23/sudanese-nomadic-conflicts-fighting-between-rival-arab-tribes-in-sudan-s-darfur-region-kills-51-people-and-injures-62-others.md)
 _Context: Arab, Darfur, Sudan, Sudanese nomadic conflicts_
 
-### [Israeli-Palestinian conflict:. Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeli-palestinian-conflict-two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md)
+### [Israeli-Palestinian conflict:: Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/israeli-palestinian-conflict-two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md)
 Jewish settlers confronted Palestinian demonstrators in a West Bank village, according to villagers and an Israeli official.
 
 ### [The 33rd Golden Raspberry Awards are held with "The Twilight Saga: Breaking Dawn - Part 2" winning Worst Picture. ](/news/2013/02/23/the-33rd-golden-raspberry-awards-are-held-with-the-twilight-saga-breaking-dawn-part-2-winning-worst-picture.md)
@@ -30,7 +30,7 @@ _Context: Indonesia, Sukabumi, West Java, truck_
 ### [The Canadian Security Intelligence Service warns of possible attacks within Canada due to the presence of Al-Qaeda affiliated groups in the country. ](/news/2013/02/23/the-canadian-security-intelligence-service-warns-of-possible-attacks-within-canada-due-to-the-presence-of-al-qaeda-affiliated-groups-in-the.md)
 Richard Fadden, the head of the Canadian Security Intelligence Service, is warning that Canadians are involved in every al-Qaeda affiliate group and that these groups have mentioned Canada as a possible target. 
 
-### [Egyptian parliamentary election, 2013:. The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-the-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md)
+### [Egyptian parliamentary election, 2013:: The scheduled start date of the parliamentary elections Egypt is moved from April 29 to April 22. ](/news/2013/02/23/egyptian-parliamentary-election-2013-the-scheduled-start-date-of-the-parliamentary-elections-egypt-is-moved-from-april-29-to-april-22.md)
 _Context: Egypt, the upcoming parliamentary election_
 
 ### [Space tourist Dennis Tito founds Inspiration Mars Foundation and announces plans for a privately funded manned trip to Mars in 2018. ](/news/2013/02/23/space-tourist-dennis-tito-founds-inspiration-mars-foundation-and-announces-plans-for-a-privately-funded-manned-trip-to-mars-in-2018.md)

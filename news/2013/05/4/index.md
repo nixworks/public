@@ -1,9 +1,9 @@
 ## [2013-05-4](/news/2013/05/4/index.md)
 
-### [War in Afghanistan. Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md)
+### [War in Afghanistan: Five US soldiers are killed when a bomb detonates in Kandahar, Afghanistan. Additionally, three more are killed in separate incidents. ](/news/2013/05/4/war-in-afghanistan-five-us-soldiers-are-killed-when-a-bomb-detonates-in-kandahar-afghanistan-additionally-three-more-are-killed-in-separ.md)
 Eight soldiers from the American-led military coalition were killed in Afghanistan: five by a roadside bomb, two by an Afghan soldier who shot his trainers and one by small-arms fire.
 
-### [Syrian civil war:. Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being.md)
+### [Syrian civil war:: Israeli forces, in a second attack in as many days, bomb a weapons shipment of sophisticated missiles suspected as being transported from Syria to Hezbollah in Lebanon. ](/news/2013/05/4/syrian-civil-war-israeli-forces-in-a-second-attack-in-as-many-days-bomb-a-weapons-shipment-of-sophisticated-missiles-suspected-as-being.md)
 Hundreds of Syrians are fleeing coastal areas where activists say government forces have massacred dozens of people in recent days.
 
 ### [39 people are killed during religiously motivated clashes at a funeral in Wukari, Nigeria. ](/news/2013/05/4/39-people-are-killed-during-religiously-motivated-clashes-at-a-funeral-in-wukari-nigeria.md)

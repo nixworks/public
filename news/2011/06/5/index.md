@@ -1,9 +1,9 @@
 ## [2011-06-5](/news/2011/06/5/index.md)
 
-### [Arab Spring. 2011 Yemeni uprising:. Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/arab-spring-2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility.md)
+### [Arab Spring: 2011 Yemeni uprising:: Two people are killed and fifteen injured in a hand grenade attack on a pro-opposition military facility in Sana'a, Yemen. ](/news/2011/06/5/arab-spring-2011-yemeni-uprising-two-people-are-killed-and-fifteen-injured-in-a-hand-grenade-attack-on-a-pro-opposition-military-facility.md)
 A large protest in northwest Syria was the latest to turn deadly, as Syrian security forces killed 25 people, a human rights group said Sunday.
 
-### [Pakistan terrorism:. Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md)
+### [Pakistan terrorism:: Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/pakistan-terrorism-six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md)
 Six people were killed and 15 were injured from an explosion at a bus stand the northern Pakistani village of Matni, a police official said.
 
 ### [Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. ](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.md)

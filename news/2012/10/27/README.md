@@ -15,7 +15,7 @@ Low-lying areas in the Hawaiian islands have been evacuated following a 7.7-eart
 ### [The fifth Tibetan in a week sets himself on fire and dies in Tibet in a protest against Chinese rule. ](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fire-and-dies-in-tibet-in-a-protest-against-chinese-rule.md)
 _Context: Chinese rule, Tibet, protest_
 
-### [Jimmy Savile sexual abuse scandal:. The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-stateme.md)
+### [Jimmy Savile sexual abuse scandal:: The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-stateme.md)
 _Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
 
 ## [Previous Day...](/news/2012/10/26/index.md)

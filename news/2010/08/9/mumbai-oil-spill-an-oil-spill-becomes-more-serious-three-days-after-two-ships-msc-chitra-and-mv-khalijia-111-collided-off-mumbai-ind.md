@@ -1,6 +1,6 @@
 ### [2010-08-9](/news/2010/08/9/index.md)
 
-# Mumbai oil spill:. An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. 
+# Mumbai oil spill:: An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. 
 
 Panama ship MSC Chitra, which collided with MSC Khalijia off Mumbai harbour on Saturday, tilted further, spilling oil for the third day.
 
@@ -14,7 +14,7 @@ Panama ship MSC Chitra, which collided with MSC Khalijia off Mumbai harbour on S
 ### Related:
 
 1. [An oil spill stretching at least two miles long occurs in the Arabian Sea offshore Mumbai, India, after a vessel from Panama collides with another vessel from St. Kitts. The Panamanian ship was carrying 2,662 tons of oil, 283 tons of diesel and 88,040 liters of lube oil when it became grounded and started to leak. ](/news/2010/08/7/an-oil-spill-stretching-at-least-two-miles-long-occurs-in-the-arabian-sea-offshore-mumbai-india-after-a-vessel-from-panama-collides-with-a.md) _Context: An oil spill, India, Mumbai_
-2. [History of Mumbai. At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _Context: India, Mumbai_
+2. [History of Mumbai: At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _Context: India, Mumbai_
 3. [A court in the Indian city of Mumbai convicts and sentences Ankur Panwar to the death penalty for a fatal acid-throwing attack. ](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.md) _Context: India, Mumbai_
 4. [A three-storey building collapses in the Indian city of Mumbai, resulting in six deaths and trapping many others. ](/news/2016/04/30/a-three-storey-building-collapses-in-the-indian-city-of-mumbai-resulting-in-six-deaths-and-trapping-many-others.md) _Context: India, Mumbai_
 5. [Indian women's rights activists are barred by angry villagers and local authorities from entering Shani Shingnapur temple despite a court ruling guaranteeing access. Breaking with a centuries-old tradition, the high court in Mumbai ruled women have a fundamental right to enter Hindu temples across the state of Maharashtra, and the government has the responsibility to protect their rights. Bhumata Ranragini Brigade leader Trupti Desai and 25 other supporters were detained by police. All India Mahila Congress President Shobha Oza and Delhi Commission for Women chairwoman Swati Maliwal called the actions of locals and authorities "completely shameful." ](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.md) _Context: India, Mumbai_

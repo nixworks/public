@@ -9,7 +9,7 @@ Google on Thursday released the code for its upcoming Chrome OS, and plans to ha
 ### [ U.S. media mogul and talk show host Oprah Winfrey announces she will end her long running talk show in 2011. ](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.md)
 _Context: Oprah Winfrey, Oprah Winfrey Show_
 
-### [ European Union / Three new positions created by the Treaty of Lisbon:. The Prime Minister of Belgium, Herman Van Rompuy, is chosen as the first permanent President of the European Council by European Union leaders. ](/news/2009/11/19/european-union-three-new-positions-created-by-the-treaty-of-lisbon-the-prime-minister-of-belgium-herman-van-rompuy-is-chosen-as-the-f.md)
+### [ European Union / Three new positions created by the Treaty of Lisbon:: The Prime Minister of Belgium, Herman Van Rompuy, is chosen as the first permanent President of the European Council by European Union leaders. ](/news/2009/11/19/european-union-three-new-positions-created-by-the-treaty-of-lisbon-the-prime-minister-of-belgium-herman-van-rompuy-is-chosen-as-the-f.md)
 Gordon Brown insisted tonight that Britain would remain a powerful voice in Brussels after Labour peer Baroness Ashton was appointed as the European Union&#039;s first foreign minister.
 
 ### [ Yemeni government forces say they have killed a leader during fighting with Houthi rebels in the north of the country. ](/news/2009/11/19/yemeni-government-forces-say-they-have-killed-a-leader-during-fighting-with-houthi-rebels-in-the-north-of-the-country.md)

@@ -1,6 +1,6 @@
 ## [2012-07-14](/news/2012/07/14/index.md)
 
-### [Arab Spring:. Syrian uprising (2011-present):. A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians.md)
+### [Arab Spring:: Syrian uprising (2011-present):: A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A suicide bomber kills 22 people and injures 22 at a wedding reception in northern Afghanistan, including prominent lawmaker Ahmad Khan Samangani who was the father of the bride. ](/news/2012/07/14/a-suicide-bomber-kills-22-people-and-injures-22-at-a-wedding-reception-in-northern-afghanistan-including-prominent-lawmaker-ahmad-khan-sama.md)

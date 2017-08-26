@@ -1,6 +1,6 @@
 ### [2014-02-10](/news/2014/02/10/index.md)
 
-# India-United States relations:. The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. 
+# India-United States relations:: The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. 
 
 
 

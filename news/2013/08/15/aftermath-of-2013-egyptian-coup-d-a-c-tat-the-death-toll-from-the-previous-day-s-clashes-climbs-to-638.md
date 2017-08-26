@@ -1,6 +1,6 @@
 ### [2013-08-15](/news/2013/08/15/index.md)
 
-# Aftermath of 2013 Egyptian coup d'etat:. The death toll from the previous day's clashes climbs to 638. 
+# Aftermath of 2013 Egyptian coup d'etat:: The death toll from the previous day's clashes climbs to 638. 
 
 The number killed in Wednesday&#039;s violence grows to 525, as the US says its traditional co-operation with Egypt &quot;cannot continue&quot;.
 
@@ -14,4 +14,4 @@ The number killed in Wednesday&#039;s violence grows to 525, as the US says its 
 
 ### Related:
 
-1. [Aftermath of 2013 Egyptian coup d'etat:. Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md) _Context: Aftermath of 2013 Egyptian coup d'etat_
+1. [Aftermath of 2013 Egyptian coup d'etat:: Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-security-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brothe.md) _Context: Aftermath of 2013 Egyptian coup d'etat_

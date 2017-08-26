@@ -12,7 +12,7 @@ _Context: Suvarnabhumi Airport, Thai police, assemble, yellow shirt_
 ### [ 2008 Santa Catarina floods: The number of confirmed deaths rise to 105 people. ](/news/2008/11/29/2008-santa-catarina-floods-the-number-of-confirmed-deaths-rise-to-105-people.md)
 _Context: 2008 Santa Catarina floods_
 
-### [ November 2008 Mumbai attacks:. The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md)
+### [ November 2008 Mumbai attacks:: The death toll from the attacks rises to 160 with a further 327 people missing. ](/news/2008/11/29/november-2008-mumbai-attacks-the-death-toll-from-the-attacks-rises-to-160-with-a-further-327-people-missing.md)
 _Context: November terrorist attacks_
 
 ### [ The BlackSheeps win MGP Nordic 2008 held in Aarhus, Denmark. The BlackSheeps had a lead of 74 points at the end of voting. ](/news/2008/11/29/the-blacksheeps-win-mgp-nordic-2008-held-in-aarhus-denmark-the-blacksheeps-had-a-lead-of-74-points-at-the-end-of-voting.md)

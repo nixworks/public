@@ -9,7 +9,7 @@ Nato air strikes are said to have killed at least 25 Afghans, hours after US tro
 ### [At least 17 more people are killed during a third day of violence in Karachi, with police given orders to shoot on sight as buildings burn. Current death toll: At least 80. ](/news/2010/08/5/at-least-17-more-people-are-killed-during-a-third-day-of-violence-in-karachi-with-police-given-orders-to-shoot-on-sight-as-buildings-burn.md)
 _Context: Karachi, a third day of violence_
 
-### [Kyrgyzstan:. Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md)
+### [Kyrgyzstan:: Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md)
 Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting an opposition politician recently returned from overseas.
 
 ### [At least six Afghan policemen are killed during a suicide attack in Kunduz, by the Tajikistan border. ](/news/2010/08/5/at-least-six-afghan-policemen-are-killed-during-a-suicide-attack-in-kunduz-by-the-tajikistan-border.md)
@@ -96,10 +96,10 @@ Brazilian police investigating allegations of corruption at a prison in Rio find
 ### [The U.S. Government charges 14 people as participants in "a deadly pipeline" sending money and fighters from the United States to the Somalian insurgency group Al-Shabaab. ](/news/2010/08/5/the-u-s-government-charges-14-people-as-participants-in-a-deadly-pipeline-sending-money-and-fighters-from-the-united-states-to-the-somali.md)
 US officials charge 14 people with providing money, personnel and services to the Somali militant group al-Shabab.
 
-### [Kenyan constitutional referendum, 2010:. Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-p.md)
+### [Kenyan constitutional referendum, 2010:: Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. ](/news/2010/08/5/kenyan-constitutional-referendum-2010-preliminary-results-of-the-referendum-on-the-new-constitution-of-kenya-show-it-has-passed-with-67-p.md)
 _Context: Kenya, Kenyan constitutional referendum, 2010, the new constitution_
 
-### [Rwanda:. The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md)
+### [Rwanda:: The Rwandan government denies in a statement that it has been responsible for the deaths of any political opponents. ](/news/2010/08/5/rwanda-the-rwandan-government-denies-in-a-statement-that-it-has-been-responsible-for-the-deaths-of-any-political-opponents.md)
 _Context: Rwanda_
 
 ### [Former Prime Minister of Australia Kevin Rudd joins Julia Gillard's election campaign while recovering from gallbladder surgery by attacking the opposition leader Tony Abbott. ](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.md)

@@ -37,7 +37,7 @@ Toppled president is charged in absentia on various charges including incitement
 ### [U.S. federal prosecutors drop corruption charges against former Senator John Edwards following a mistrial. ](/news/2012/06/13/u-s-federal-prosecutors-drop-corruption-charges-against-former-senator-john-edwards-following-a-mistrial.md)
 _Context: John Edwards, Senator_
 
-### [Leveson Inquiry. At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md)
+### [Leveson Inquiry: At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/leveson-inquiry-at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-ba.md)
 Furious Conservative MPs threatened to derail Nick Clegg&#039;s plans for an elected House of Lords in a revenge attack after the Liberal Democrats failed to support Jeremy Hunt in a key Commons vote, it emerged last night.
 
 ### [Rebekah Brooks, the former CEO of News International, appears at Westminster Magistrates Court on phone hacking charges alongside her husband and four other News International employees. ](/news/2012/06/13/rebekah-brooks-the-former-ceo-of-news-international-appears-at-westminster-magistrates-court-on-phone-hacking-charges-alongside-her-husban.md)

@@ -3,16 +3,16 @@
 ### [Several Mozambican soldiers are killed following an attack on an armoury in Dondo, Mozambique. ](/news/2013/06/18/several-mozambican-soldiers-are-killed-following-an-attack-on-an-armoury-in-dondo-mozambique.md)
 Several soldiers are reported to have been killed when gunmen attacked an armoury in the central Mozambican region of Dondo.
 
-### [War in Afghanistan (2001-present):. A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001-present-a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md)
+### [War in Afghanistan (2001-present):: A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/war-in-afghanistan-2001-present-a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md)
 A bomb explodes in western Kabul on the day Nato formally handed over command of security responsibilities to Afghan forces.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/iraqi-insurgency-post-u-s-withdrawal-twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md)
 At least 31 people are killed in a double suicide bomb attack at a Shia mosque in the Iraqi capital, Baghdad.
 
-### [War in North-West Pakistan:. A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakis.md)
+### [War in North-West Pakistan:: A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/war-in-north-west-pakistan-a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakis.md)
 Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 people, including provincial legislator.
 
-### [Nigerian Sharia conflict:. Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-seven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-ni.md)
+### [Nigerian Sharia conflict:: Seven students and two teachers are killed in a suspected Boko Haram attack on a secondary school in Damaturu, Nigeria. ](/news/2013/06/18/nigerian-sharia-conflict-seven-students-and-two-teachers-are-killed-in-a-suspected-boko-haram-attack-on-a-secondary-school-in-damaturu-ni.md)
 Many students and teachers have reportedly been killed after gunmen suspected to be members of Boko Haram attacked a secondary school and a military check post in Damaturu.
 
 ### [The Malian government and Tuareg rebels sign a ceasefire agreement. ](/news/2013/06/18/the-malian-government-and-tuareg-rebels-sign-a-ceasefire-agreement.md)
@@ -33,10 +33,10 @@ Outcome of US Fed meet on quantitative easing eyed
 ### [Chrysler agrees to recall 1.56 million Jeeps in the United States. ](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.md)
 The government cut the number of Jeeps it wants recalled and in turn, Chrysler said Tuesday it&#39;ll agree to a recall it has fought for two weeks.
 
-### [2013 North India floods:. The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himach.md)
+### [2013 North India floods:: The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himach.md)
 The rains left 102 people dead in Uttarakhand, almost as many injured, and smashed several houses. The remaining deaths were reported from Himachal Pradesh.
 
-### [2013 NBA Finals:. The San Antonio Spurs lead by 5 points against the Miami Heat with 28 seconds remaining in game 6 of the NBA finals as a victory will secure a fifth NBA title for the Spurs. They fail to collect a defensive rebound, allow Miami to score back-to-back three-pointers and go 1 out of 2 on the free throw line. The game is sent to overtime where they eventually lose by three points. ](/news/2013/06/18/2013-nba-finals-the-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-v.md)
+### [2013 NBA Finals:: The San Antonio Spurs lead by 5 points against the Miami Heat with 28 seconds remaining in game 6 of the NBA finals as a victory will secure a fifth NBA title for the Spurs. They fail to collect a defensive rebound, allow Miami to score back-to-back three-pointers and go 1 out of 2 on the free throw line. The game is sent to overtime where they eventually lose by three points. ](/news/2013/06/18/2013-nba-finals-the-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-v.md)
 _Context: 2013 NBA Finals_
 
 ### [The Malian government announces it has reached an agreement with the National Movement for the Liberation of Azawad that allows the Malian Army to return to Kidal in anticipation of upcoming elections. ](/news/2013/06/18/the-malian-government-announces-it-has-reached-an-agreement-with-the-national-movement-for-the-liberation-of-azawad-that-allows-the-malian-a.md)
@@ -66,7 +66,7 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
 _Context: 2013 protests in Brazil, Brasilia, National Congress_
 
-### [U.S. government surveillance programs (including PRISM):. Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/u-s-government-surveillance-programs-including-prism-several-federal-officials-including-national-security-agency-nsa-director-keith.md)
+### [U.S. government surveillance programs (including PRISM):: Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/u-s-government-surveillance-programs-including-prism-several-federal-officials-including-national-security-agency-nsa-director-keith.md)
 _Context: House Intelligence Committee, Keith Alexander, National Security Agency, PRISM, United States House of Representatives_
 
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)

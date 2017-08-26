@@ -33,7 +33,7 @@ _Context: 2006 Immigration Policy Boycott in the United States, Latin America, U
 ### [ Asian Pacific American Heritage Month: The first day of Asian American and Pacific Islander Heritage Month in the United States.](/news/2006/05/1/asian-pacific-american-heritage-month-the-first-day-of-asian-american-and-pacific-islander-heritage-month-in-the-united-states.md)
 _Context: Asian Pacific American Heritage Month_
 
-### [ Sri Lankan Civil War:. Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md)
+### [ Sri Lankan Civil War:: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/sri-lankan-civil-war-over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)

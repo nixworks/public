@@ -1,6 +1,6 @@
 ### [2010-06-29](/news/2010/06/29/index.md)
 
-# United States. The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. 
+# United States: The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. 
 
 The US Supreme Court gives Nigerian families the green light to sue Pfizer over the use of a new antibiotic on their children.
 

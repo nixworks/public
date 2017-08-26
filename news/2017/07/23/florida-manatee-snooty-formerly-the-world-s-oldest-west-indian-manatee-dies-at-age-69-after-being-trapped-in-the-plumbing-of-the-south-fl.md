@@ -1,6 +1,6 @@
 ### [2017-07-23](/news/2017/07/23/index.md)
 
-# Florida manatee. Snooty, formerly the world's oldest West Indian manatee, dies at age 69 after being trapped in the plumbing of the South Florida Museum. 
+# Florida manatee: Snooty, formerly the world's oldest West Indian manatee, dies at age 69 after being trapped in the plumbing of the South Florida Museum. 
 
 
 

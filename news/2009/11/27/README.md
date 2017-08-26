@@ -24,7 +24,7 @@ Longtime governing party Swapo is expected to win poll contested by 14 parties.
 ### [ At the Khmer Rouge war crimes trial, Kaing Guek Eav, known as Duch, pleads to be released. ](/news/2009/11/27/at-the-khmer-rouge-war-crimes-trial-kaing-guek-eav-known-as-duch-pleads-to-be-released.md)
 _Context: Extraordinary Chambers in the Courts of Cambodia, Kaing Guek Eav, Khmer Rouge_
 
-### [ Great Britain and Ireland floods:. Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md)
+### [ Great Britain and Ireland floods:: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md)
 Farmers across the State are today increase efforts to help their colleagues affected by flooding.
 
 ### [ Multibillion-dollar debt problems of Emirati investment company Dubai World, including the possibility of default, upset markets worldwide. ](/news/2009/11/27/multibillion-dollar-debt-problems-of-emirati-investment-company-dubai-world-including-the-possibility-of-default-upset-markets-worldwide.md)

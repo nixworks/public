@@ -36,7 +36,7 @@ _Context: Chengdu, Chongqing, Gu Kailai, Neil Heywood, Wang Lijun, abuse of powe
 ### [Benjamin Netanyahu interrupts an Israeli cabinet meeting on defense and security, citing inside leaks. ](/news/2012/09/5/benjamin-netanyahu-interrupts-an-israeli-cabinet-meeting-on-defense-and-security-citing-inside-leaks.md)
 _Context: Benjamin Netanyahu, Israeli cabinet_
 
-### [2012 Democratic National Convention:. The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-the-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md)
+### [2012 Democratic National Convention:: The United States Democratic Party holds its national convention in Charlotte, North Carolina. ](/news/2012/09/5/2012-democratic-national-convention-the-united-states-democratic-party-holds-its-national-convention-in-charlotte-north-carolina.md)
 CHARLOTTE, N.C.—Facing unhappy pro-Israel groups amid a Republican-led outcry, Democrats gathered Wednesday at their presidential nominating convention made 11th-hour changes to the party platform to reinstate a reference to God and a declaration that &quot;undivided&quot; Jerusalem is Israel&#x27...
 
 ### [The Encyclopedia of DNA Elements is published. For the first time, a ](/news/2012/09/5/the-encyclopedia-of-dna-elements-is-published-for-the-first-time-a.md)

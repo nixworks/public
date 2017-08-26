@@ -1,6 +1,6 @@
 ### [2014-04-6](/news/2014/04/6/index.md)
 
-# Costa Rican general election, 2014:. Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. 
+# Costa Rican general election, 2014:: Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. 
 
 
 
@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Costa Rican general election, 2014:. Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/costa-rican-general-election-2014-voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _Context: Costa Rican general election, 2014_
+1. [Costa Rican general election, 2014:: Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/costa-rican-general-election-2014-voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _Context: Costa Rican general election, 2014_

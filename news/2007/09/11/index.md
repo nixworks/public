@@ -57,7 +57,7 @@ _Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Is
 ### [ The Prime Minister of Canada Stephen Harper rules out sending further troops to Afghanistan. ](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.md)
 Canadian Prime Minister Stephen Harper says his country will not be sending extra troops to Afghanistan to serve alongside Australian soldiers.
 
-### [ September 11, 2001 attacks commemoration. The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemoration-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md)
+### [ September 11, 2001 attacks commemoration: The United States commemorates the sixth anniversary of the attacks with ceremonies in New York City, Washington, DC and Shanksville, PA. ](/news/2007/09/11/september-11-2001-attacks-commemoration-the-united-states-commemorates-the-sixth-anniversary-of-the-attacks-with-ceremonies-in-new-york-c.md)
 Osama bin Laden defied the United States with a new tape praising the &quot;19 champions&quot; who carried out the Sept. 11 suicide hijackings, on the day America remembered the nearly 3,000 people who died.
 
 ## [Previous Day...](/news/2007/09/10/index.md)

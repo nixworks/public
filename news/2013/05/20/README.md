@@ -1,9 +1,9 @@
 ## [2013-05-20](/news/2013/05/20/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. ](/news/2013/05/20/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-continues-with-attacks-across-the-country-killing-133-and-leaving-283-others-i.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. ](/news/2013/05/20/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-continues-with-attacks-across-the-country-killing-133-and-leaving-283-others-i.md)
 More than 70 people are killed and many more wounded by car bombs and suicide attacks in one of the worst days of violence in Iraq in recent months.
 
-### [Insurgency in the North Caucasus:. Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/insurgency-in-the-north-caucasus-twin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injurin.md)
+### [Insurgency in the North Caucasus:: Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/insurgency-in-the-north-caucasus-twin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injurin.md)
 _Context: Dagestan, Insurgency in the North Caucasus, Makhachkala, Moscow, Republic_
 
 ### [North Korea launches short-ranged projectiles off its coast for the third day in a row. ](/news/2013/05/20/north-korea-launches-short-ranged-projectiles-off-its-coast-for-the-third-day-in-a-row.md)

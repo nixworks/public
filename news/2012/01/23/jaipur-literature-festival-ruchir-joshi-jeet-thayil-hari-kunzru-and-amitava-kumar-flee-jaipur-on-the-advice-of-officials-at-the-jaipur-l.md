@@ -1,6 +1,6 @@
 ### [2012-01-23](/news/2012/01/23/index.md)
 
-# Jaipur Literature Festival:. Ruchir Joshi, Jeet Thayil, Hari Kunzru and Amitava Kumar flee Jaipur on the advice of officials at the Jaipur Literature Festival after reading excerpts from Salman Rushdie's "The Satanic Verses", which is banned in India. Rushdie, himself banned from the event, is told that police are searching for the four fugitive writers. 
+# Jaipur Literature Festival:: Ruchir Joshi, Jeet Thayil, Hari Kunzru and Amitava Kumar flee Jaipur on the advice of officials at the Jaipur Literature Festival after reading excerpts from Salman Rushdie's "The Satanic Verses", which is banned in India. Rushdie, himself banned from the event, is told that police are searching for the four fugitive writers. 
 
 With Rajasthan govt coming up with &quot;intimidating&quot; riders, organizers have developed cold feet about hosting Salman Rushdie via video link.
 

@@ -1,6 +1,6 @@
 ### [2011-07-1](/news/2011/07/1/index.md)
 
-# Dominique Strauss-Kahn. "The New York Times" reports that the sexual assault case against former International Monetary Fund head Dominique Strauss-Kahn is on the verge of collapse due to concerns over the credibility of the alleged victim's testimony. 
+# Dominique Strauss-Kahn: "The New York Times" reports that the sexual assault case against former International Monetary Fund head Dominique Strauss-Kahn is on the verge of collapse due to concerns over the credibility of the alleged victim's testimony. 
 
 Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;released&#x20;from&#x20;house&#x20;arrest&#x20;on&#x20;Friday&#x20;after&#x20;prosecutors&#x20;said&#x20;the&#x20;hotel&#x20;maid&#x20;who&#x20;accused&#x20;him&#x20;of&#x20;attempted&#x20;rape&#x20;lied&#x20;about&#x20;her&#x20;actions&#x20;after&#x20;the&#x20;alleged&#x20;attack,&#x20;as&#x20;well&#x20;as&#x20;on&#x20;tax&#x20;and&#x20;immigration&#x20;documents.
 

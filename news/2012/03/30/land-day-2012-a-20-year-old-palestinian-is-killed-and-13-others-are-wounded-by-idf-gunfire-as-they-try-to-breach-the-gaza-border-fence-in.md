@@ -1,6 +1,6 @@
 ### [2012-03-30](/news/2012/03/30/index.md)
 
-# Land Day 2012:. A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.
+# Land Day 2012:: A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.
 
 A Palestinian man has been shot dead by Israeli security forces in the Gaza Strip after a day of protests to mark Land Day, Palestinian medics say.
 

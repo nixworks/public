@@ -1,6 +1,6 @@
 ### [2000-01-19](/news/2000/01/19/index.md)
 
-# Boland Hall fire. Three students died and 54 were injured in a dormitory fire at Seton Hall University. Two students were charged with murder and arson for allegedly setting the fire.
+# Boland Hall fire: Three students died and 54 were injured in a dormitory fire at Seton Hall University. Two students were charged with murder and arson for allegedly setting the fire.
 
 
 

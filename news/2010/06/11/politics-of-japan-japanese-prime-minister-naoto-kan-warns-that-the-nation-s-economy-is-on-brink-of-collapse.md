@@ -1,6 +1,6 @@
 ### [2010-06-11](/news/2010/06/11/index.md)
 
-# Politics of Japan:. Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". 
+# Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". 
 
 
 
@@ -21,5 +21,5 @@
 6. [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
 7. [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
 8. [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
-9. [Politics of Japan. Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/politics-of-japan-prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md) _Context: Politics of Japan, Prime Minister of Japan_
-10. [Politics of Japan. The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _Context: Japan, Politics of Japan_
+9. [Politics of Japan: Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/politics-of-japan-prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md) _Context: Politics of Japan, Prime Minister of Japan_
+10. [Politics of Japan: The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/politics-of-japan-the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-withi.md) _Context: Japan, Politics of Japan_

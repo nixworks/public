@@ -1,6 +1,6 @@
 ## [2012-08-25](/news/2012/08/25/index.md)
 
-### [Syrian civil war. At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/syrian-civil-war-at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposi.md)
+### [Syrian civil war: At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/syrian-civil-war-at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposi.md)
 The bodies of at least 200 people were found in a town close to Damascus on Saturday, according to activists who said most appeared to have been killed by Syrian troops &quot;execution style&quot;.
 
 ### [Libya: Unnamed organized assailants bulldoze a Sufi mosque with graves, in broad daylight in the centre of the Libyan capital Tripoli. It is the second such razing of a Sufi site in two days. De facto head of state Mohamed Yousef el-Magariaf tells reporters: "What is truly regrettable and suspicious is that some of those who took part in these destruction activities are supposed to be of the security forces and from the revolutionaries." ](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.md)

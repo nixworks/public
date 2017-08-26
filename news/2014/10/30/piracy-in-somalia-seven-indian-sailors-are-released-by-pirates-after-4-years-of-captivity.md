@@ -1,6 +1,6 @@
 ### [2014-10-30](/news/2014/10/30/index.md)
 
-# Piracy in Somalia. Seven Indian sailors are released by pirates after 4 years of captivity. 
+# Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. 
 
 
 
@@ -18,6 +18,6 @@
 5. [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md) _Context: India, Somali pirates_
 6. [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md) _Context: India, Somali pirates_
 7. [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md) _Context: India, Somali pirates_
-8. [ Piracy in Somalia:. The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _Context: India, Somali pirates_
+8. [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _Context: India, Somali pirates_
 9. [ The Indian Navy foils an attempt by Somali pirates to hijack a merchant ship in Gulf of Aden. ](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.md) _Context: India, Somali pirates_
-10. [2017 Khatauli train derailment. A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_
+10. [2017 Khatauli train derailment: A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_

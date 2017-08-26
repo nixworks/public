@@ -6,7 +6,7 @@ _Context: Flight 518, Santa Barbara Airlines, Venezuela_
 ### [ The European Broadcasting Union considers relocating the 2008 Eurovision Song Contest, scheduled to be held in Belgrade, due to security concerns. In the meantime, the Serbian National Final for the Eurovision Song Contest is postponed. ](/news/2008/02/21/the-european-broadcasting-union-considers-relocating-the-2008-eurovision-song-contest-scheduled-to-be-held-in-belgrade-due-to-security-co.md)
 _Context: Belgrade, European Broadcasting Union, Eurovision Song Contest 2008, Serbian National Final_
 
-### [ 2008 protests in Serbia:. At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md)
+### [ 2008 protests in Serbia:: At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/2008-protests-in-serbia-at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md)
 _Context: Belgrade, Kosovo, Serbian, rally_
 
 ### [ The United States Navy shoots down USA 193, a spy satellite in a decaying orbit, over the Pacific Ocean. ](/news/2008/02/21/the-united-states-navy-shoots-down-usa-193-a-spy-satellite-in-a-decaying-orbit-over-the-pacific-ocean.md)

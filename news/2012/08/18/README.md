@@ -1,9 +1,9 @@
 ## [2012-08-18](/news/2012/08/18/index.md)
 
-### [Syrian civil war:. Syrian opposition forces claim to have advanced close to the Aleppo International Airport in the course of the ongoing Battle of Aleppo. The Syrian state media claim the attacks were repulsed. Heavy fighting is ongoing in Aleppo and Damascus. ](/news/2012/08/18/syrian-civil-war-syrian-opposition-forces-claim-to-have-advanced-close-to-the-aleppo-international-airport-in-the-course-of-the-ongoing-ba.md)
+### [Syrian civil war:: Syrian opposition forces claim to have advanced close to the Aleppo International Airport in the course of the ongoing Battle of Aleppo. The Syrian state media claim the attacks were repulsed. Heavy fighting is ongoing in Aleppo and Damascus. ](/news/2012/08/18/syrian-civil-war-syrian-opposition-forces-claim-to-have-advanced-close-to-the-aleppo-international-airport-in-the-course-of-the-ongoing-ba.md)
 The insurgents’ seizure of areas near the airport comes as the United Nations and the Arab League announce that Lakhdar Brahimi, a veteran diplomat, will succeed Kofi Annan as the envoy to Syria.
 
-### [War on Terror:. Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md)
+### [War on Terror:: Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/war-on-terror-al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md)
 A top Taliban commander and his deputy are among dozens of insurgents killed in a Nato air strike in eastern Afghanistan, the alliance says.
 
 ### [Four Egyptian Army soldiers are injured in a raid on militants in the Sinai Peninsula. ](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.md)

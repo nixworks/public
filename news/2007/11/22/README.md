@@ -21,7 +21,7 @@ _Context: Croatia, England, Steve McClaren, Terry Venables, Wembley Stadium_
 ### [ Danish Prime Minister Anders Fogh Rasmussen says that Denmark will hold a new referendum on relinquishing its opt-outs, including an exemption from the European common currency, the euro, during the next four years. ](/news/2007/11/22/danish-prime-minister-anders-fogh-rasmussen-says-that-denmark-will-hold-a-new-referendum-on-relinquishing-its-opt-outs-including-an-exempt.md)
 _Context: Anders Fogh Rasmussen, Denmark, EUR, Europe, a new referendum on relinquishing its opt-outs, common currency_
 
-### [ 2007 Pakistani state of emergency. Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/2007-pakistani-state-of-emergency-pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergenc.md)
+### [ 2007 Pakistani state of emergency: Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/2007-pakistani-state-of-emergency-pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergenc.md)
 _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, state of emergency_
 
 ### [ The head of IAEA, Mohamed ElBaradei, says the agency cannot be sure "about the absence of undeclared nuclear material and activities" in Iran. ](/news/2007/11/22/the-head-of-iaea-mohamed-elbaradei-says-the-agency-cannot-be-sure-about-the-absence-of-undeclared-nuclear-material-and-activities-in-ir.md)
@@ -48,7 +48,7 @@ _Context: government, management, public-sector strikes, transport, worker_
 ### [ Tens of thousands of Venezuelan students march in Caracas in two different rallies, one to oppose Hugo Chvez and the other one to support him. ](/news/2007/11/22/tens-of-thousands-of-venezuelan-students-march-in-caracas-in-two-different-rallies-one-to-oppose-hugo-chavez-and-the-other-one-to-support.md)
 _Context: Caracas, Hugo Chvez, Venezuela, student_
 
-### [ United States presidential election, 2008:. New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md)
+### [ United States presidential election, 2008:: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md)
 _Context: 2008, New Hampshire, New Hampshire primary, tradition_
 
 ## [Previous Day...](/news/2007/11/21/index.md)

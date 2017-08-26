@@ -6,7 +6,7 @@ _Context: North Waziristan, Pakistan_
 ### [The New York Police Department evicts Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-evicts-occupy-wall-street-protesters-from-zuccotti-park.md)
 Occupy Wall Street protesters can no longer camp at their original protest site, after they were driven out in a surprise night-time raid.
 
-### [Syrian uprising:. After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-i.md)
+### [Syrian uprising:: After a meeting with Russian officials in Moscow, the opposition Syrian National Council calls for UN peacekeepers to be introduced into Syria. ](/news/2011/11/15/syrian-uprising-after-a-meeting-with-russian-officials-in-moscow-the-opposition-syrian-national-council-calls-for-un-peacekeepers-to-be-i.md)
 _Context: 2011 Syrian uprising, Syria, Syrian National Council, UN peacekeepers_
 
 ### [Following months of violent protests against his 33-year rule, Yemen's President Ali Abdullah Saleh says he will leave office "within 90 days" of an agreement regarding elections with the regional Gulf Cooperation Council.](/news/2011/11/15/following-months-of-violent-protests-against-his-33-year-rule-yemen-s-president-ali-abdullah-saleh-says-he-will-leave-office-within-90-day.md)

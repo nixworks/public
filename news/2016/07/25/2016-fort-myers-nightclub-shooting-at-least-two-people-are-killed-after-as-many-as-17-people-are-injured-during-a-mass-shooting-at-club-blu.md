@@ -1,6 +1,6 @@
 ### [2016-07-25](/news/2016/07/25/index.md)
 
-# 2016 Fort Myers nightclub shooting. At least two people are killed after as many as 17 people are injured during a mass shooting at Club Blu, a nightclub in Fort Myers, Florida, with most of the victims reportedly minors. Two suspects and a person of interest have been detained in connection with the shooting. 
+# 2016 Fort Myers nightclub shooting: At least two people are killed after as many as 17 people are injured during a mass shooting at Club Blu, a nightclub in Fort Myers, Florida, with most of the victims reportedly minors. Two suspects and a person of interest have been detained in connection with the shooting. 
 
 Two people are killed and up to 16 injured in a shooting at a nightclub in the city of Fort Myers in Florida, police say.
 

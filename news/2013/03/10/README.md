@@ -1,12 +1,12 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
-### [War in Afghanistan:. President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan.md)
+### [War in Afghanistan:: President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan.md)
 _Context: Afghan Taliban, Afghanistan President, Afghanistan's, Hamid Karzai, U.S. withdrawal, United States, United States military personnel, War in Afghanistan (2001-present)_
 
-### [2013 in Pakistan:. Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
+### [2013 in Pakistan:: Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: 2013 in Pakistan, Christian, Christian, Lahore, Pakistan_
 
-### [Nigerian Sharia conflict:. Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md)
+### [Nigerian Sharia conflict:: Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md)
 _Context: Ansaru, Britain, Greek, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria_
 
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)

@@ -1,6 +1,6 @@
 ## [2011-03-3](/news/2011/03/3/index.md)
 
-### [2011 Libyan civil war:. The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/2011-libyan-civil-war-the-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to.md)
+### [2011 Libyan civil war:: The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/2011-libyan-civil-war-the-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to.md)
 The son of a retired Libyan academic fears the worst for his father and three brothers after they are kidnapped by Moamar Gaddafi&#039;s forces in Tripoli.
 
 ### [Japanese jets scramble to react to Chinese military aircraft which flew close to the disputed Senkaku Islands. ](/news/2011/03/3/japanese-jets-scramble-to-react-to-chinese-military-aircraft-which-flew-close-to-the-disputed-senkaku-islands.md)
@@ -69,7 +69,7 @@ _Context: anti-corruption_
 ### [Ahmed Shafiq resigns as the Prime Minister of Egypt and is replaced by former transport minister Essam Sharaf. ](/news/2011/03/3/ahmed-shafiq-resigns-as-the-prime-minister-of-egypt-and-is-replaced-by-former-transport-minister-essam-sharaf.md)
 _Context: Ahmed Shafiq, Essam Sharaf, prime minister_
 
-### [2011 Wisconsin budget protests. The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/2011-wisconsin-budget-protests-the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
+### [2011 Wisconsin budget protests: The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/2011-wisconsin-budget-protests-the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
 Although the consitutionality of their proposal is questionable, Senate Republicans Thursday ordered the arrest of their 14 Democratic colleagues, who fled the state two weeks ago to avoid a vote
 
 ### [Harvard University welcomes the United States Reserve Officer Training Corps program back on campus following the lifting of the bans on gays in the military. ](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.md)

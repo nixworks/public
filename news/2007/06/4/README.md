@@ -30,7 +30,7 @@ _Context: Europe, Russia, Russian President Vladimir Putin, United States, Vladi
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
 _Context: China, National Action Plan on Climate Change, carbon emissions_
 
-### [ "Sri Lankan Civil War:". Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
+### [ "Sri Lankan Civil War:": Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
 _Context: Red Cross, Sri Lankan Civil War, aid workers are found dead_
 
 ### [ The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. ](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-liberia-charles-g-taylor-at-the-un-backed-special-court-for-sierra-leone-begins-at-the-hague.md)

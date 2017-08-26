@@ -1,6 +1,6 @@
 ### [2017-07-27](/news/2017/07/27/index.md)
 
-# Electronic cigarette. A new study, published in the "The BMJ" medical journal, finds that electronic cigarettes may help smokers stop their habit. The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. 
+# Electronic cigarette: A new study, published in the "The BMJ" medical journal, finds that electronic cigarettes may help smokers stop their habit. The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. 
 
 A new study suggest the devices may help smokers stub out the habit.
 

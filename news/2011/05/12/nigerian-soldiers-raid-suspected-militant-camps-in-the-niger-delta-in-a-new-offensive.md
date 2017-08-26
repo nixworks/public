@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Conflict in the Niger Delta:. 12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-de.md) _Context: Niger Delta, Nigeria_
+1. [Conflict in the Niger Delta:: 12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/conflict-in-the-niger-delta-12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-de.md) _Context: Niger Delta, Nigeria_
 2. [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md) _Context: Niger Delta, Nigeria_
 3. [Gunmen attack an oil barge off the Niger Delta in Nigeria, killing two navy sailors and kidnapping four foreigners. ](/news/2012/08/4/gunmen-attack-an-oil-barge-off-the-niger-delta-in-nigeria-killing-two-navy-sailors-and-kidnapping-four-foreigners.md) _Context: Niger Delta, Nigeria_
 4. [An armed group kidnaps at least two Americans, two Frenchmen and a Canadian from an Transocean oil rig in the Okoro Oilfield off the coast of Niger Delta, Nigeria, injuring two others. ](/news/2010/11/8/an-armed-group-kidnaps-at-least-two-americans-two-frenchmen-and-a-canadian-from-an-transocean-oil-rig-in-the-okoro-oilfield-off-the-coast-o.md) _Context: Niger Delta, Nigeria_

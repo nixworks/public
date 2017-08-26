@@ -1,9 +1,9 @@
 ## [2013-09-6](/news/2013/09/6/index.md)
 
-### [Syrian civil war:. UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-un-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md)
+### [Syrian civil war:: UN chief Ban Ki-moon says military action against Syria could worsen sectarian violence in the country. ](/news/2013/09/6/syrian-civil-war-un-chief-ban-ki-moon-says-military-action-against-syria-could-worsen-sectarian-violence-in-the-country.md)
 Ban Ki-moon says that military action against Syria could lead to a worsening of sectarian violence in the country.
 
-### [Nigerian Sharia conflict:. Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeri.md)
+### [Nigerian Sharia conflict:: Suspected Islamist militants armed with guns and machetes kill at least 20 people in villages in northeast Nigeria. ](/news/2013/09/6/nigerian-sharia-conflict-suspected-islamist-militants-armed-with-guns-and-machetes-kill-at-least-20-people-in-villages-in-northeast-nigeri.md)
 _Context: Nigeria, Nigerian Sharia conflict_
 
 ### [The elusive Australian Central Rock Rat, not seen since 1960, is rediscovered in Central Australia. ](/news/2013/09/6/the-elusive-australian-central-rock-rat-not-seen-since-1960-is-rediscovered-in-central-australia.md)

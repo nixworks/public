@@ -15,7 +15,7 @@ Ireland&#039;s banks suffered a string of credit downgrades Friday&mdash;one red
 ### [A third explosion within a week occurs at the Pike River Mine on the South Island of New Zealand, where 29 men are presumed dead. ](/news/2010/11/26/a-third-explosion-within-a-week-occurs-at-the-pike-river-mine-on-the-south-island-of-new-zealand-where-29-men-are-presumed-dead.md)
 There has been a third explosion at the Pike River coal mine in New Zealand, where 29 men are presumed dead underground.
 
-### [Korean peninsula:. North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md)
+### [Korean peninsula:: North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md)
 North Korea warns that US-South Korean plans for military maneuvers put peninsula on brink of war; S.Korean official says 20 blasts heard.
 
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)

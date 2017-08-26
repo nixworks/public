@@ -1,6 +1,6 @@
 ### [2014-05-7](/news/2014/05/7/index.md)
 
-# Dinosaurs. The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. 
+# Dinosaurs: The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. 
 
 
 

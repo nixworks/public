@@ -6,7 +6,7 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
 _Context: Ahmad Afzali, Najibullah Zazi, Saudi Arabia, United States, imam, subway_
 
-### [Somalia:. Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/somalia-anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capit.md)
+### [Somalia:: Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/somalia-anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capit.md)
 _Context: AK-47s, AMISOM, African Union, Mogadishu, Somalia, high-powered rifles, hijab_
 
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
@@ -21,16 +21,16 @@ _Context: Afghan police, Afghanistan's, Helmand, International Security Assistan
 ### [A nationwide strike takes place in India in protest at a recent rise in fuel prices. ](/news/2010/07/5/a-nationwide-strike-takes-place-in-india-in-protest-at-a-recent-rise-in-fuel-prices.md)
 Bharat bandh on Monday partially disrupted economic activities with commodity markets and the transport sector taking a hit in many parts of the country. Ficci has pegged the losses at up to Rs 13,000 crore. 
 
-### [Foreign relations of Israel:. Israel drops all restrictions on the free flow of consumer goods into the Gaza Strip, while still restricting a blacklist of weapons, construction materials and dual-use items. These materials will be allowed into the territory with the coordination of international agencies. ](/news/2010/07/5/foreign-relations-of-israel-israel-drops-all-restrictions-on-the-free-flow-of-consumer-goods-into-the-gaza-strip-while-still-restricting.md)
+### [Foreign relations of Israel:: Israel drops all restrictions on the free flow of consumer goods into the Gaza Strip, while still restricting a blacklist of weapons, construction materials and dual-use items. These materials will be allowed into the territory with the coordination of international agencies. ](/news/2010/07/5/foreign-relations-of-israel-israel-drops-all-restrictions-on-the-free-flow-of-consumer-goods-into-the-gaza-strip-while-still-restricting.md)
 Consumer goods allowed into enclave but tight limits remain on construction materials.
 
-### [Fate of Gilad Shalit. A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-gilad-shalit-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md)
+### [Fate of Gilad Shalit: A concert was held in the town of Sderot in support of captured Shalit. ](/news/2010/07/5/fate-of-gilad-shalit-a-concert-was-held-in-the-town-of-sderot-in-support-of-captured-shalit.md)
 A classical concert in support of captured Israeli soldier Gilad Shalit is held in Sderot on the border with Gaza.
 
 ### [At least 11 people died after a plane crash in Tuzla, Romania. ](/news/2010/07/5/at-least-11-people-died-after-a-plane-crash-in-tuzla-romania.md)
 _Context: Romania, Tuzla, plane crash_
 
-### [Deepwater Horizon oil spill:. Tar balls from the Gulf oil disaster reach Louisiana-s Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-tar-balls-from-the-gulf-oil-disaster-reach-louisiana-s-lake-pontchartrain-and-the-shores-of-texas-near-galve.md)
+### [Deepwater Horizon oil spill:: Tar balls from the Gulf oil disaster reach Louisiana-s Lake Pontchartrain and the shores of Texas near Galveston, on day 77 of the disaster. ](/news/2010/07/5/deepwater-horizon-oil-spill-tar-balls-from-the-gulf-oil-disaster-reach-louisiana-s-lake-pontchartrain-and-the-shores-of-texas-near-galve.md)
 Laboratory tests showed that the tar balls came from the BP Macondo well that blew out April 20, killing 11 crew members on the Deepwater Horizon drilling rig and spewing millions of gallons of oil into the Gulf, said Coast Guard Cpt. Landry’s has lost millions in sales and suffered from higher se...
 
 ### [Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. ](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.md)
@@ -54,10 +54,10 @@ _Context: Bobby Fischer, Iceland_
 ### [Japanese scientists believe the SELENE probe has spotted rocks that originated deep within the Moon on its surface. ](/news/2010/07/5/japanese-scientists-believe-the-selene-probe-has-spotted-rocks-that-originated-deep-within-the-moon-on-its-surface.md)
 Olivine rocks that may have originated deep within the Moon were spied on its surface by a Japanese probe, scientists report.
 
-### [Polish presidential election, 2010. Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md)
+### [Polish presidential election, 2010: Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md)
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.
 
-### [Local government elections in Mexico. The Institutional Revolutionary Party (PRI) did not achieve as big a win as exit polls indicated, with the National Action Party (PAN) running ahead in three states that are currently controlled by PRI. ](/news/2010/07/5/local-government-elections-in-mexico-the-institutional-revolutionary-party-pri-did-not-achieve-as-big-a-win-as-exit-polls-indicated-with.md)
+### [Local government elections in Mexico: The Institutional Revolutionary Party (PRI) did not achieve as big a win as exit polls indicated, with the National Action Party (PAN) running ahead in three states that are currently controlled by PRI. ](/news/2010/07/5/local-government-elections-in-mexico-the-institutional-revolutionary-party-pri-did-not-achieve-as-big-a-win-as-exit-polls-indicated-with.md)
 _Context: Institutional Revolutionary Party, Mexico, National Action Party (PAN)_
 
 ### [A local politician and provincial Bayan Muna party leader in Aklan, Fernando Baldomero, is shot dead bringing the total number of political and human rights activists killed in the Philippines since the return of democracy in 1986 to over 1,200. ](/news/2010/07/5/a-local-politician-and-provincial-bayan-muna-party-leader-in-aklan-fernando-baldomero-is-shot-dead-bringing-the-total-number-of-political.md)

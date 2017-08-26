@@ -1,6 +1,6 @@
 ## [2015-04-5](/news/2015/04/5/index.md)
 
-### [Garissa University College attack. Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/garissa-university-college-attack-kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university.md)
+### [Garissa University College attack: Kenyan Air Force planes bomb two al Shabaab bases in response to last week's attack on Garissa University College. ](/news/2015/04/5/garissa-university-college-attack-kenyan-air-force-planes-bomb-two-al-shabaab-bases-in-response-to-last-week-s-attack-on-garissa-university.md)
 The Kenyan air force has destroyed two al Shabaab camps in Somalia, it said on Monday, in the first major military response since the Islamist group massacred students at a Kenyan university last week.
 
 ### [Devastating floods in northern Chile leave at least 25 dead and more than 100 missing. ](/news/2015/04/5/devastating-floods-in-northern-chile-leave-at-least-25-dead-and-more-than-100-missing.md)

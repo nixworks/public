@@ -3,10 +3,10 @@
 ### [Blockade of the Gaza Strip: A United Nations report finds that the Gaza Strip will not be "a liveable place" by 2020 as basic infrastructure in water, health, education and sanitation "is struggling to keep pace with a growing population". ](/news/2012/08/27/blockade-of-the-gaza-strip-a-united-nations-report-finds-that-the-gaza-strip-will-not-be-a-liveable-place-by-2020-as-basic-infrastructure.md)
 Urgent action is needed to improve basic services in the Gaza Strip or it will not be &quot;liveable&quot; by 2020, according to a new UN report.
 
-### [Syrian civil war:. Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-heavy-combat-continues-in-damascus-and-aleppo.md)
+### [Syrian civil war:: Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/syrian-civil-war-heavy-combat-continues-in-damascus-and-aleppo.md)
 Syrian rebels shoot down an army helicopter as the UN demands answers over the massacre of more than 300 people.
 
-### [War on Terror:. ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md)
+### [War on Terror:: ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/war-on-terror-isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md)
 _Context: Afghan National Army, ISAF, NATO, War on Terror_
 
 ### [Kenyan Islamic cleric Aboud Rogo Mohammed is shot dead by unnamed organised assailants in Mombasa, triggering protests. ](/news/2012/08/27/kenyan-islamic-cleric-aboud-rogo-mohammed-is-shot-dead-by-unnamed-organised-assailants-in-mombasa-triggering-protests.md)

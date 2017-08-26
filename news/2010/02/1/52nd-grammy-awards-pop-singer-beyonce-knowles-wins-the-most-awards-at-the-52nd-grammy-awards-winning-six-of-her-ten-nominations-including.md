@@ -1,6 +1,6 @@
 ### [2010-02-1](/news/2010/02/1/index.md)
 
-# 52nd Grammy Awards:. Pop singer Beyonc Knowles wins the most awards at the 52nd Grammy Awards, winning six of her ten nominations including Song of the Year for "Single Ladies (Put a Ring on It)", and becoming the first woman to win six awards in the same night. 
+# 52nd Grammy Awards:: Pop singer Beyonc Knowles wins the most awards at the 52nd Grammy Awards, winning six of her ten nominations including Song of the Year for "Single Ladies (Put a Ring on It)", and becoming the first woman to win six awards in the same night. 
 
 The veteran Anglo-Australian rock group AC/DC won the first Grammy of its career on Sunday, ending a long-running snub by the American music industry awards.
 

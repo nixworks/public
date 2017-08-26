@@ -1,6 +1,6 @@
 ### [2011-08-9](/news/2011/08/9/index.md)
 
-# Tropical Storm Mufia. At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. 
+# Tropical Storm Mufia: At least four people are dead and two missing after former Typhoon Muifa hits South Korea - 600 homes had earlier been destroyed in the People's Republic of China. 
 
 Typhoon Muifa, which traveled north along the West Sea on Monday carrying winds ..
 
@@ -13,8 +13,8 @@ Typhoon Muifa, which traveled north along the West Sea on Monday carrying winds 
 
 ### Related:
 
-1. [2016 North Korean nuclear test. South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _Context: China, South Korea_
-2. [China-Japan-South Korea trilateral summit. The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/china-japan-south-korea-trilateral-summit-the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit.md) _Context: China, South Korea_
+1. [2016 North Korean nuclear test: South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _Context: China, South Korea_
+2. [China-Japan-South Korea trilateral summit: The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/china-japan-south-korea-trilateral-summit-the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit.md) _Context: China, South Korea_
 3. [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md) _Context: China, South Korea_
 4. [South Korea announces that it will expand its air defense zone in response to a recent move by the People's Republic of China. ](/news/2013/12/8/south-korea-announces-that-it-will-expand-its-air-defense-zone-in-response-to-a-recent-move-by-the-people-s-republic-of-china.md) _Context: China, South Korea_
 5. [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md) _Context: China, South Korea_

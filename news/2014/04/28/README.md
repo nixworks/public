@@ -1,12 +1,12 @@
 ## [2014-04-28](/news/2014/04/28/index.md)
 
-### [Post-coup unrest in Egypt:. An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-an-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-l.md)
+### [Post-coup unrest in Egypt:: An Egyptian court hands down a death sentence on 638 Muslim Brotherhood supporters, among them the group's top leader Mohamed Badie. ](/news/2014/04/28/post-coup-unrest-in-egypt-an-egyptian-court-hands-down-a-death-sentence-on-638-muslim-brotherhood-supporters-among-them-the-group-s-top-l.md)
 An Egyptian court sentenced the leader of the outlawed Muslim Brotherhood and 682 supporters to death on Monday, intensifying a crackdown on the movement that could trigger protests and political violence ahead of an election next month.
 
-### [2014 pro-Russian unrest in Ukraine:. Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukr.md)
+### [2014 pro-Russian unrest in Ukraine:: Pro-Russian gunmen seize the town of Kostyantynivka, the latest in a string of towns in the eastern Ukraine. ](/news/2014/04/28/2014-pro-russian-unrest-in-ukraine-pro-russian-gunmen-seize-the-town-of-kostyantynivka-the-latest-in-a-string-of-towns-in-the-eastern-ukr.md)
 The United States imposed new sanctions on allies of Russian President Vladimir Putin on Monday, prompting Moscow to denounce &quot;Cold War&quot; tactics amid more violence in eastern Ukraine.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-th.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/iraqi-insurgency-post-u-s-withdrawal-suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-th.md)
 At least 50 people killed in Iraq as suicide bombers attack ahead of a national election.
 
 ### [More than 50 royal mummies have been discovered by Egyptian and Swiss archeologists in the newly opened KV40 tomb in Egypt's Valley of the Kings. ](/news/2014/04/28/more-than-50-royal-mummies-have-been-discovered-by-egyptian-and-swiss-archeologists-in-the-newly-opened-kv40-tomb-in-egypt-s-valley-of-the-k.md)
@@ -18,10 +18,10 @@ The late-night landscape continues its upheaval. During Monday&#39;s taping of C
 ### [Microsoft announces a major vulnerability in Internet Explorer versions 6 to 11 that could enable hackers to gain access and user rights to its customers' computers. ](/news/2014/04/28/microsoft-announces-a-major-vulnerability-in-internet-explorer-versions-6-to-11-that-could-enable-hackers-to-gain-access-and-user-rights-to.md)
 Microsoft warns consumers that a vulnerability in its Internet Explorer browser could let hackers gain access and user rights to their computer.
 
-### [Malaysia Airlines Flight 370:. The search area for the missing aircraft in the southern Indian Ocean is expanded with any debris likely to be found on the ocean floor with the minimum time anticipated for the search eight months. ](/news/2014/04/28/malaysia-airlines-flight-370-the-search-area-for-the-missing-aircraft-in-the-southern-indian-ocean-is-expanded-with-any-debris-likely-to-b.md)
+### [Malaysia Airlines Flight 370:: The search area for the missing aircraft in the southern Indian Ocean is expanded with any debris likely to be found on the ocean floor with the minimum time anticipated for the search eight months. ](/news/2014/04/28/malaysia-airlines-flight-370-the-search-area-for-the-missing-aircraft-in-the-southern-indian-ocean-is-expanded-with-any-debris-likely-to-b.md)
 _Context: Indian Ocean, Malaysia Airlines Flight 370_
 
-### [April 2014 tornado outbreak:. Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unit.md)
+### [April 2014 tornado outbreak:: Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/april-2014-tornado-outbreak-seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unit.md)
 _Context: April 2014 tornado outbreak, Southern United States, central, tornado_
 
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)

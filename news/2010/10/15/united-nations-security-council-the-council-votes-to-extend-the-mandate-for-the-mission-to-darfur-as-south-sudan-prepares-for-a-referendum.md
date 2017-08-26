@@ -1,6 +1,6 @@
 ### [2010-10-15](/news/2010/10/15/index.md)
 
-# United Nations Security Council:. The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. 
+# United Nations Security Council:: The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. 
 
 The U.N. Security Council voted to extend the mandate for the mission to Darfur as South Sudan gets set for a January vote for self-determination.
 

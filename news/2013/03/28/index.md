@@ -1,15 +1,15 @@
 ## [2013-03-28](/news/2013/03/28/index.md)
 
-### [Terrorism in Kenya:. Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coa.md)
+### [Terrorism in Kenya:: Six gunmen (presumed to be of the Mombasa Republican Council) and one policeman die during an attack on a casino in coastal town of Malindi, Kenya. ](/news/2013/03/28/terrorism-in-kenya-six-gunmen-presumed-to-be-of-the-mombasa-republican-council-and-one-policeman-die-during-an-attack-on-a-casino-in-coa.md)
 Six gunmen and one policeman die in fierce gunbattles during raid by mob on casino in coastal town of Malindi.
 
-### [M23 rebellion:. The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-t.md)
+### [M23 rebellion:: The United Nations Security Council authorizes a new intervention force in the Democratic Republic of the Congo in attempt to end rebel attacks and bring peace to the region. ](/news/2013/03/28/m23-rebellion-the-united-nations-security-council-authorizes-a-new-intervention-force-in-the-democratic-republic-of-the-congo-in-attempt-t.md)
 _Context: Democratic Republic of the Congo, M23 rebellion, United Nations Security Council_
 
-### [South Sudan internal conflict (2011-present):. A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/south-sudan-internal-conflict-2011-present-a-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-reb.md)
+### [South Sudan internal conflict (2011-present):: A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/south-sudan-internal-conflict-2011-present-a-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-reb.md)
 _Context: David Yau Yau, Pibor County, South Sudan internal conflict (2011-present)_
 
-### [Syrian civil war:. Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md)
+### [Syrian civil war:: Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md)
 Mortar fire hits the University of Damascus, killing 15 students and wounding several others, Syrian state media say.
 
 ### [Barbara Walters, longtime newswoman and host of the American talk show "The View", announces plans to retire in May 2014. ](/news/2013/03/28/barbara-walters-longtime-newswoman-and-host-of-the-american-talk-show-the-view-announces-plans-to-retire-in-may-2014.md)

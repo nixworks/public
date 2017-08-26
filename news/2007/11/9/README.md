@@ -21,7 +21,7 @@ _Context: Iran, Iraq, Iraqi insurgency, United States Army_
 ### [ 2007 North Sea flood: The Environment Agency of England and Wales issues eight severe flood warnings for eastern England with residents ordered to evacuate from 7,500 homes in Great Yarmouth. ](/news/2007/11/9/2007-north-sea-flood-the-environment-agency-of-england-and-wales-issues-eight-severe-flood-warnings-for-eastern-england-with-residents-ord.md)
 _Context: 2007 North Sea flood, England, Environment Agency, Great Yarmouth, Wales, flood_
 
-### [ 2007 Pakistani state of emergency:. Benazir Bhutto is placed under house arrest hours before a proposed mass rally against the 2007 Pakistani state of emergency. Over 5000 supporters of Pakistan Peoples Party have been arrested to avert rally. ](/news/2007/11/9/2007-pakistani-state-of-emergency-benazir-bhutto-is-placed-under-house-arrest-hours-before-a-proposed-mass-rally-against-the-2007-pakista.md)
+### [ 2007 Pakistani state of emergency:: Benazir Bhutto is placed under house arrest hours before a proposed mass rally against the 2007 Pakistani state of emergency. Over 5000 supporters of Pakistan Peoples Party have been arrested to avert rally. ](/news/2007/11/9/2007-pakistani-state-of-emergency-benazir-bhutto-is-placed-under-house-arrest-hours-before-a-proposed-mass-rally-against-the-2007-pakista.md)
 _Context: 2007 Pakistani state of emergency, Benazir Bhutto, Pakistan Peoples Party_
 
 ### [ Protests break out in Srinagar, Jammu and Kashmir, India, over the caricatures of Grand Ayatollah Ali Khamenei in a local newspaper. ](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.md)

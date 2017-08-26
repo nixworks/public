@@ -1,6 +1,6 @@
 ### [2016-02-21](/news/2016/02/21/index.md)
 
-# 2016 Kalamazoo shootings. Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record, was taken into custody without a struggle. 
+# 2016 Kalamazoo shootings: Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record, was taken into custody without a struggle. 
 
 Jason Dalton, 45, is in custody following the string of apparently random shootings.
 
@@ -12,8 +12,8 @@ Jason Dalton, 45, is in custody following the string of apparently random shooti
 
 ### Related:
 
-1. [2016 Kalamazoo shootings. Jason Dalton is charged with six counts of murder in Kalamazoo County, Michigan. ](/news/2016/02/22/2016-kalamazoo-shootings-jason-dalton-is-charged-with-six-counts-of-murder-in-kalamazoo-county-michigan.md) _Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan_
-2. [2016 Kalamazoo shootings. Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan_
+1. [2016 Kalamazoo shootings: Jason Dalton is charged with six counts of murder in Kalamazoo County, Michigan. ](/news/2016/02/22/2016-kalamazoo-shootings-jason-dalton-is-charged-with-six-counts-of-murder-in-kalamazoo-county-michigan.md) _Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan_
+2. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan_
 3. [Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the costs of buying/leasing a car when recruiting new drivers. ](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.md) _Context: Uber_
 4. [Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. ](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in-san-francisco-california-after-the-california-department-of-motor-vehicles-revoked-the-reg.md) _Context: Uber_
 5. [Uber announces plans to merge its China operations with rival Didi Chuxing with the merge company valued at $35 billion. ](/news/2016/08/1/uber-announces-plans-to-merge-its-china-operations-with-rival-didi-chuxing-with-the-merge-company-valued-at-35-billion.md) _Context: Uber_

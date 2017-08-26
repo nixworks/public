@@ -1,6 +1,6 @@
 ### [2011-11-16](/news/2011/11/16/index.md)
 
-# 2011 Tibetan self-immolation protests:. Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. 
+# 2011 Tibetan self-immolation protests:: Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. 
 
 The spiritual leader of the Kirti monastery, the starting point for a spate of self-immolation protests, says Chinese authorities have imposed new repressive measures.
 

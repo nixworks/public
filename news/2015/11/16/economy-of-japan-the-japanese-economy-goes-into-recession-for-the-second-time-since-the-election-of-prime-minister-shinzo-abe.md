@@ -1,6 +1,6 @@
 ### [2015-11-16](/news/2015/11/16/index.md)
 
-# Economy of Japan. The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. 
+# Economy of Japan: The Japanese economy goes into recession for the second time since the election of Prime Minister Shinzo Abe. 
 
 The Japanese economy shrank 0.2 per cent in the July-September period, slipping once again into recession.
 

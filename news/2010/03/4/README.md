@@ -18,7 +18,7 @@ _Context: Baltic Sea_
 ### [Dozens of tourists are airlifted to safety following flash floods at the Samburu National Reserve in Kenya. ](/news/2010/03/4/dozens-of-tourists-are-airlifted-to-safety-following-flash-floods-at-the-samburu-national-reserve-in-kenya.md)
 _Context: Kenya, Samburu National Reserve_
 
-### [2010 Uganda landslide:. Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md)
+### [2010 Uganda landslide:: Uganda buries its dead from Monday night's mudslide which destroyed three villages near Bududa. ](/news/2010/03/4/2010-uganda-landslide-uganda-buries-its-dead-from-monday-night-s-mudslide-which-destroyed-three-villages-near-bududa.md)
 _Context: Bududa, Monday night's mudslide, Uganda_
 
 ### [Four German Islamists are imprisoned after being convicted of planning "a second 11 September 2001". ](/news/2010/03/4/four-german-islamists-are-imprisoned-after-being-convicted-of-planning-a-second-11-september-2001.md)

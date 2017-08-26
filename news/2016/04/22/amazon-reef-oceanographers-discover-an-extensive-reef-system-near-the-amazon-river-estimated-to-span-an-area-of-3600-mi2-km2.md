@@ -1,6 +1,6 @@
 ### [2016-04-22](/news/2016/04/22/index.md)
 
-# Amazon Reef. Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. 
+# Amazon Reef: Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. 
 
 It’s at the mouth of the Amazon River. 
 

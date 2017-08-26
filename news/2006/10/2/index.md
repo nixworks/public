@@ -12,7 +12,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [ Zeljko Komsic, Nebojsa Radmanovic and Haris Silajdzic are elected new members of the Presidency of Bosnia and Herzegovina, the country's collective head of state. ](/news/2006/10/2/a1-2eljko-koma-ia-neboja-a-radmanovia-and-haris-silajda3-4ia-are-elected-new-members-of-the-presidency-of-bosnia-and-herzegovina-the-count.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [ Georgia-Russia spying dispute:. Four Russian officers arrested as spies in Georgia leave for Moscow after being released. ](/news/2006/10/2/georgia-russia-spying-dispute-four-russian-officers-arrested-as-spies-in-georgia-leave-for-moscow-after-being-released.md)
+### [ Georgia-Russia spying dispute:: Four Russian officers arrested as spies in Georgia leave for Moscow after being released. ](/news/2006/10/2/georgia-russia-spying-dispute-four-russian-officers-arrested-as-spies-in-georgia-leave-for-moscow-after-being-released.md)
 Russia took its first significant retaliatory steps after Georgia’s arrests of four Russian military officers.
 
 ### [ Two schools in the Las Vegas Valley, Nevada, United States, are locked down, after a former student reportedly brought an AK-47 or other automatic weapons to school. (Wikinews) ](/news/2006/10/2/two-schools-in-the-las-vegas-valley-nevada-united-states-are-locked-down-after-a-former-student-reportedly-brought-an-ak-47-or-other-au.md)

@@ -1,6 +1,6 @@
 ## [2012-04-19](/news/2012/04/19/index.md)
 
-### [Arab Spring:. Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-syrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-o.md)
+### [Arab Spring:: Syrian uprising: United Nations Secretary-General Ban Ki-moon says Syria has failed in its obligation to pull its troops out of urban areas, according to a peace plan. ](/news/2012/04/19/arab-spring-syrian-uprising-united-nations-secretary-general-ban-ki-moon-says-syria-has-failed-in-its-obligation-to-pull-its-troops-out-o.md)
 UN Secretary General Ban Ki-moon says Syria has failed to comply with a peace plan obligation to pull forces from urban areas and urges more observers.
 
 ### [At least 33 people are killed and dozens more are injured in bombings in Baghdad, Kirkuk and Samarra in Iraq's worst violence in weeks. ](/news/2012/04/19/at-least-33-people-are-killed-and-dozens-more-are-injured-in-bombings-in-baghdad-kirkuk-and-samarra-in-iraq-s-worst-violence-in-weeks.md)

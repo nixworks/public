@@ -6,7 +6,7 @@ _Context: Sweden, moratorium, nuclear power_
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
 U.S. health officials on Friday approved the first drug made using genetically engineered animals despite lingering concerns over health and environmental implications.
 
-### [ Late 2000s recession:. U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md)
+### [ Late 2000s recession:: U.S. President Barack Obama creates the President's Economic Recovery Advisory Board. ](/news/2009/02/6/late-2000s-recession-u-s-president-barack-obama-creates-the-president-s-economic-recovery-advisory-board.md)
 The losses reinforced the picture of an economy contracting at its fastest pace in decades.
 
 ### [ A teething drug is withdrawn from circulation after killing 84 Nigerian children in three months. ](/news/2009/02/6/a-teething-drug-is-withdrawn-from-circulation-after-killing-84-nigerian-children-in-three-months.md)

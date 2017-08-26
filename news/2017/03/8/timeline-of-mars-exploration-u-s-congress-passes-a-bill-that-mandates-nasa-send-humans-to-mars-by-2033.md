@@ -1,6 +1,6 @@
 ### [2017-03-8](/news/2017/03/8/index.md)
 
-# Timeline of Mars exploration. U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. 
+# Timeline of Mars exploration: U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. 
 
 It also gives NASA a $19.5 billion budget, cancels a mission to capture an asteroid, and calls on the space agency to search for aliens.
 

@@ -1,6 +1,6 @@
 ### [2017-01-18](/news/2017/01/18/index.md)
 
-# Colegio Americano del Noreste 2017 shootings. A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. 
+# Colegio Americano del Noreste 2017 shootings: A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. 
 
 
 

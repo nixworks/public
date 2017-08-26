@@ -1,9 +1,9 @@
 ## [2013-05-11](/news/2013/05/11/index.md)
 
-### [War in North-West Pakistan:. A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md)
+### [War in North-West Pakistan:: A bomb explodes near the Awami National Party offices in Karachi killing 11 people. ](/news/2013/05/11/war-in-north-west-pakistan-a-bomb-explodes-near-the-awami-national-party-offices-in-karachi-killing-11-people.md)
 _Context: Awami National Party, Karachi, War in North-West Pakistan_
 
-### [Syrian civil war:. 43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. ](/news/2013/05/11/syrian-civil-war-43-killed-and-over-100-injured-in-two-car-bombings-in-reyhanla-turkey-near-the-syrian-border.md)
+### [Syrian civil war:: 43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. ](/news/2013/05/11/syrian-civil-war-43-killed-and-over-100-injured-in-two-car-bombings-in-reyhanla-turkey-near-the-syrian-border.md)
 _Context: Reyhanli, Syrian Civil War, Turkey, two car bombings_
 
 ### [A Ghanaian national goes on a spree attack with a pickaxe in Milan, Italy killing a passerby and wounding four others in an apparently random attack. ](/news/2013/05/11/a-ghanaian-national-goes-on-a-spree-attack-with-a-pickaxe-in-milan-italy-killing-a-passerby-and-wounding-four-others-in-an-apparently-rando.md)
@@ -24,7 +24,7 @@ A northern California region marked by towering redwood trees and mountains risi
 ### [A retrial of former President of Egypt Hosni Mubarak begins in Cairo for his alleged complicity in the deaths of protesters in the 2011 Egyptian revolution. ](/news/2013/05/11/a-retrial-of-former-president-of-egypt-hosni-mubarak-begins-in-cairo-for-his-alleged-complicity-in-the-deaths-of-protesters-in-the-2011-egyp.md)
 Judge to review evidence as former Egyptian president denies charges of complicity in deaths of revolution protesters.
 
-### [Pakistan elections:. Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-voters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-a.md)
+### [Pakistan elections:: Voters in Pakistan go to the polls for a general election with the Tehrik-e-Taliban Pakistan threatening to carry out attacks. There was a record turnout despite 24 people being killed. ](/news/2013/05/11/pakistan-elections-voters-in-pakistan-go-to-the-polls-for-a-general-election-with-the-tehrik-e-taliban-pakistan-threatening-to-carry-out-a.md)
 Nawaz Sharif tells his supporters that voters have handed him a landmark third term as Pakistan&#039;s PM.
 
 ### [Canadian Senator and former Conservative Party campaign director Doug Finley dies of cancer. ](/news/2013/05/11/canadian-senator-and-former-conservative-party-campaign-director-doug-finley-dies-of-cancer.md)

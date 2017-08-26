@@ -6,7 +6,7 @@ A UK helicopter has crashed in southern Afghanistan, killing all five British pe
 ### [The death toll from recent flooding in northern Afghanistan rises to 123. ](/news/2014/04/26/the-death-toll-from-recent-flooding-in-northern-afghanistan-rises-to-123.md)
 _Context: Afghanistan's_
 
-### [Afghan presidential election:. Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdull.md)
+### [Afghan presidential election:: Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-election-afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdull.md)
 _Context: Abdullah Abdullah, Afghan, Afghan presidential election, 2014, Ashraf Ghani_
 
 ### [Copies of "E.T. the Extra-Terrestrial" and other Atari games that were buried in 1983 are discovered in a New Mexican desert. ](/news/2014/04/26/copies-of-e-t-the-extra-terrestrial-and-other-atari-games-that-were-buried-in-1983-are-discovered-in-a-new-mexican-desert.md)

@@ -1,6 +1,6 @@
 ## [2007-04-19](/news/2007/04/19/index.md)
 
-### [ Virginia Tech massacre:. Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md)
+### [ Virginia Tech massacre:: Tim Kaine, the Governor of Virginia announces an inquiry into the massacre. ](/news/2007/04/19/virginia-tech-massacre-tim-kaine-the-governor-of-virginia-announces-an-inquiry-into-the-massacre.md)
 _Context: Governor of Virginia, Tim Kaine, massacre_
 
 ### [ The Norwegian prime minister announces that the government has agreed to unilaterally cut Norway's carbon emissions by 30% by 2020, and proposes carbon neutrallity for 2050. ](/news/2007/04/19/the-norwegian-prime-minister-announces-that-the-government-has-agreed-to-unilaterally-cut-norway-s-carbon-emissions-by-30-by-2020-and-pro.md)

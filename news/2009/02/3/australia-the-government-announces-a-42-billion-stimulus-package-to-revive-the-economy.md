@@ -1,6 +1,6 @@
 ### [2009-02-3](/news/2009/02/3/index.md)
 
-#  Australia:. The government announces a $42-billion stimulus package to revive the economy. 
+#  Australia:: The government announces a $42-billion stimulus package to revive the economy. 
 
 The Rudd Government will pour an extra $42b into the economy in its latest bid to head off a recession.
 

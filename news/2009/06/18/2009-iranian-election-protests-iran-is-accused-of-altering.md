@@ -1,6 +1,6 @@
 ### [2009-06-18](/news/2009/06/18/index.md)
 
-#  2009 Iranian election protests:. Iran is accused of altering 
+#  2009 Iranian election protests:: Iran is accused of altering 
 
 
 

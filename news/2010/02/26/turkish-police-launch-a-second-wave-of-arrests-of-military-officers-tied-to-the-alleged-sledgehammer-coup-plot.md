@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Syrian civil war:. Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-ref.md) _Context: Turkish police_
+1. [Syrian civil war:: Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-ref.md) _Context: Turkish police_
 2. [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md) _Context: Turkish police_

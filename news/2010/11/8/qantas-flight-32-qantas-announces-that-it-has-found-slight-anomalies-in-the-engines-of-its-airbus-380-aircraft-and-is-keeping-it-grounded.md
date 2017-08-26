@@ -11,7 +11,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 
 ### Related:
 
-1. [Qantas Flight 32:. Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md) _Context: Qantas, Qantas Flight 32_
+1. [Qantas Flight 32:: Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md) _Context: Qantas, Qantas Flight 32_
 2. [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md) _Context: Qantas_
 3. [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md) _Context: Qantas_
 4. [Airbus announces that it will inspect the wings of all Airbus 380 aircraft for cracks. ](/news/2012/02/8/airbus-announces-that-it-will-inspect-the-wings-of-all-airbus-380-aircraft-for-cracks.md) _Context: Airbus 380_

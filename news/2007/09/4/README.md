@@ -18,7 +18,7 @@ London band The Klaxons were the surprise winners of this year&#039;s Mercury Pr
 ### [ A week-long heat wave in Southern California results in the death of 13 people and 500,000 people losing power in outages. ](/news/2007/09/4/a-week-long-heat-wave-in-southern-california-results-in-the-death-of-13-people-and-500-000-people-losing-power-in-outages.md)
 The week-long heat wave in Southern California has claimed four lives and caused power outages to more than half a million customers, utility and local officials said on Tuesday.
 
-### [ Hurricane Felix:. Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md)
+### [ Hurricane Felix:: Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md)
 _Context: Hurricane Felix (2007), Miskito Coast, Nicaragua, hurricane_
 
 ### [ Adventurer Steve Fossett is reported missing over the Nevada desert. ](/news/2007/09/4/adventurer-steve-fossett-is-reported-missing-over-the-nevada-desert.md)
@@ -57,10 +57,10 @@ _Context: Denmark, arrests several people_
 ### [ The Iranian military bombs villages in northern Iraq, targeting PEJAK militants. ](/news/2007/09/4/the-iranian-military-bombs-villages-in-northern-iraq-targeting-pejak-militants.md)
 Hoshyar Zebari said the bombardment has driven as many as 3,000 Kurdish villagers from their homes and set orchards and fields ablaze.
 
-### [ Pakistan bombings:. A bomb explodes on a bus carrying employees of the Pakistan Atomic Energy Commission destroying the bus in Rawalpindi, Pakistan while a second bomb on a motorbike explodes in a bazaar. [http://www.reuters.com/article/worldNews/idUSISL3739620070904 (Reuters)]. The death toll from the two bombings reaches at least 24 with 66 injured. [http://www.abc.net.au/news/stories/2007/09/04/2023991.htm (ABC News Australia and Reuters)]. Security is raised in many areas of Pakistan. ](/news/2007/09/4/pakistan-bombings-a-bomb-explodes-on-a-bus-carrying-employees-of-the-pakistan-atomic-energy-commission-destroying-the-bus-in-rawalpindi.md)
+### [ Pakistan bombings:: A bomb explodes on a bus carrying employees of the Pakistan Atomic Energy Commission destroying the bus in Rawalpindi, Pakistan while a second bomb on a motorbike explodes in a bazaar. [http://www.reuters.com/article/worldNews/idUSISL3739620070904 (Reuters)]: The death toll from the two bombings reaches at least 24 with 66 injured. [http://www.abc.net.au/news/stories/2007/09/04/2023991.htm (ABC News Australia and Reuters)]: Security is raised in many areas of Pakistan. ](/news/2007/09/4/pakistan-bombings-a-bomb-explodes-on-a-bus-carrying-employees-of-the-pakistan-atomic-energy-commission-destroying-the-bus-in-rawalpindi.md)
 _Context: Pakistan, Pakistan Atomic Energy Commission, Rawalpindi, bazaar_
 
-### [ APEC summit meeting:. The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md)
+### [ APEC summit meeting:: The New South Wales Police Force arrests 11 climate-change activists who attach themselves to coal-loading equipment at Carrington in Newcastle, New South Wales. ](/news/2007/09/4/apec-summit-meeting-the-new-south-wales-police-force-arrests-11-climate-change-activists-who-attach-themselves-to-coal-loading-equipment.md)
 _Context: APEC, New South Wales Police Force, Newcastle, climate change_
 
 ### [ Jamaica election: With all the votes counted, the Jamaica Labour Party (JLP) is headed to victory with 31 seats compared to the incumbent People's National Party (PNP) with 29 seats. The current Prime Minister, Portia Simpson-Miller, is calling for a recount in marginal seats. ](/news/2007/09/4/jamaica-election-with-all-the-votes-counted-the-jamaica-labour-party-jlp-is-headed-to-victory-with-31-seats-compared-to-the-incumbent-p.md)

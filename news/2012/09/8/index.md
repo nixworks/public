@@ -1,6 +1,6 @@
 ## [2012-09-8](/news/2012/09/8/index.md)
 
-### [Bahraini uprising (2011-present):. The Interior Ministry moves to sue the Al Wefaq main opposition party. On Friday, police have fired tear gas at anti-government protesters in the capital Manama. The protestors allegedly have defied a ban on demonstrations. ](/news/2012/09/8/bahraini-uprising-2011-present-the-interior-ministry-moves-to-sue-the-al-wefaq-main-opposition-party-on-friday-police-have-fired-tea.md)
+### [Bahraini uprising (2011-present):: The Interior Ministry moves to sue the Al Wefaq main opposition party. On Friday, police have fired tear gas at anti-government protesters in the capital Manama. The protestors allegedly have defied a ban on demonstrations. ](/news/2012/09/8/bahraini-uprising-2011-present-the-interior-ministry-moves-to-sue-the-al-wefaq-main-opposition-party-on-friday-police-have-fired-tea.md)
 Dozens of anti-government protesters defied ban on unauthorised demonstrations to call for prisoner releases in Manama.
 
 ### [Afghanistan commemorates Ahmad Shah Massoud, assassinated today eleven years ago according to the Afghan calendar, with a ceremony in Kabul on the national holiday of "Haftai Shahid" (Martyr Week). ](/news/2012/09/8/afghanistan-commemorates-ahmad-shah-massoud-assassinated-today-eleven-years-ago-according-to-the-afghan-calendar-with-a-ceremony-in-kabul.md)

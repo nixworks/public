@@ -1,6 +1,6 @@
 ### [2017-08-11](/news/2017/08/11/index.md)
 
-# Hugo Award. The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. 
+# Hugo Award: The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. 
 
 The Obelisk is headline winner in a year marked by diminished presence of conservative Sad Puppy lobby and strong showing from women
 

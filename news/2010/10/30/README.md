@@ -9,7 +9,7 @@ _Context: Honduras_
 ### [NATO forces repel a Taliban attack on an outpost in Afghanistan's Paktika Province, killing at least 80 insurgents. ](/news/2010/10/30/nato-forces-repel-a-taliban-attack-on-an-outpost-in-afghanistan-s-paktika-province-killing-at-least-80-insurgents.md)
 At least 19 Taliban insurgents are killed after they launched an attack on a combat outpost in south-eastern Afghanistan, Nato forces say.
 
-### [2010 cargo plane bomb plot. The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/2010-cargo-plane-bomb-plot-the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogu.md)
+### [2010 cargo plane bomb plot: The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/2010-cargo-plane-bomb-plot-the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogu.md)
 The bomb found on a plane in the UK was designed to go off on the aircraft, the British PM says, as Yemen arrests a woman suspected of involvement.
 
 ### [President of Afghanistan Hamid Karzai reprimands Russia after its forces enter the country without permission and "violate Afghan sovereignty" in a joint mission with United States agents. Karzai orders an investigation. ](/news/2010/10/30/president-of-afghanistan-hamid-karzai-reprimands-russia-after-its-forces-enter-the-country-without-permission-and-violate-afghan-sovereignt.md)
@@ -40,7 +40,7 @@ A newly discovered oil-field off the coast of Brazil could contain up to 15 bill
 ### [At least 16 people drown and 70 are missing after an overcrowded ferry sinks in a river in West Bengal, eastern India. ](/news/2010/10/30/at-least-16-people-drown-and-70-are-missing-after-an-overcrowded-ferry-sinks-in-a-river-in-west-bengal-eastern-india.md)
 _Context: India, West Bengal_
 
-### [Aftermath of October 2010 Sumatra earthquake:. The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-i.md)
+### [Aftermath of October 2010 Sumatra earthquake:: The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/aftermath-of-october-2010-sumatra-earthquake-the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-i.md)
 Rescue workers in Indonesia find group hiding on higher ground, halving number of missing from 298 to 163.
 
 ### [Typhoon Chaba heads towards eastern Japan. ](/news/2010/10/30/typhoon-chaba-heads-towards-eastern-japan.md)

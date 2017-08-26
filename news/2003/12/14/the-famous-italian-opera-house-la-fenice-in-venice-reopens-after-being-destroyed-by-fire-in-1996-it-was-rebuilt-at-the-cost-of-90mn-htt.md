@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [Silvio Berlusconi prostitute trial. An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with -10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/silvio-berlusconi-prostitute-trial-an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of.md) _Context: EUR, Italian_
+1. [Silvio Berlusconi prostitute trial: An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with -10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/silvio-berlusconi-prostitute-trial-an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of.md) _Context: EUR, Italian_
 2. [Giorgio Orsoni, the mayor of Venice, Italy, resigns over corruption allegations related to the MOSE Project. ](/news/2014/06/13/giorgio-orsoni-the-mayor-of-venice-italy-resigns-over-corruption-allegations-related-to-the-mose-project.md) _Context: Italian, Venice_
 3. [Italy releases 2m euros to save the ancient city of Pompeii after flooding causes walls to collapse. ](/news/2014/03/4/italy-releases-2m-euros-to-save-the-ancient-city-of-pompeii-after-flooding-causes-walls-to-collapse.md) _Context: EUR, Italian_
 4. [The 68th Venice International Film Festival gets underway in Venice, Italy. ](/news/2011/08/31/the-68th-venice-international-film-festival-gets-underway-in-venice-italy.md) _Context: Italian, Venice_

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [European migrant crisis. Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/european-migrant-crisis-swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-abou.md) _Context: Anders Ygeman_
+1. [European migrant crisis: Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/european-migrant-crisis-swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-abou.md) _Context: Anders Ygeman_

@@ -1,15 +1,15 @@
 ## [2014-06-16](/news/2014/06/16/index.md)
 
-### [2014 Northern Iraq offensive:. ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-isil-takes-control-of-the-town-of-tal-afar-iraq.md)
+### [2014 Northern Iraq offensive:: ISIL takes control of the town of Tal Afar, Iraq. ](/news/2014/06/16/2014-northern-iraq-offensive-isil-takes-control-of-the-town-of-tal-afar-iraq.md)
 Officials said the addition of the USS Mesa Verde will give the White House &quot;additional options&quot; to protect Americans in Iraq if needed.
 
-### [War in North-West Pakistan:. The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-k.md)
+### [War in North-West Pakistan:: The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/war-in-north-west-pakistan-the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-k.md)
 _Context: North Waziristan, Pakistan Air Force, Tehrik-i-Taliban Pakistan, War in North-West Pakistan_
 
-### [Syrian Civil War:. A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)
+### [Syrian Civil War:: A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)
 _Context: Aleppo, Syria, Syrian Civil War, barrel bomb_
 
-### [2014 pro-Russian conflict in Ukraine:. Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md)
+### [2014 pro-Russian conflict in Ukraine:: Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-ukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Ukraine_
 
 ### [Violent riots between Muslims and Buddhists rage in the town of Welipitiya, Sri Lanka, leaving 3 dead, 78 injured, and multiple mosques and shops burned or vandalized. ](/news/2014/06/16/violent-riots-between-muslims-and-buddhists-rage-in-the-town-of-welipitiya-sri-lanka-leaving-3-dead-78-injured-and-multiple-mosques-and.md)

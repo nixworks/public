@@ -1,12 +1,12 @@
 ## [2014-07-27](/news/2014/07/27/index.md)
 
-### [2014 Israel-Gaza conflict:. Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israel-gaza-conflict-israel-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-i.md)
+### [2014 Israel-Gaza conflict:: Israel extends a humanitarian ceasefire on the Gaza Strip but Hamas refuses to do so unless Israel withdraws its tanks. Fighting has resumed. ](/news/2014/07/27/2014-israel-gaza-conflict-israel-extends-a-humanitarian-ceasefire-on-the-gaza-strip-but-hamas-refuses-to-do-so-unless-israel-withdraws-i.md)
 The new move came after a crisis meeting of Israeli cabinet late night
 
-### [Post-civil war violence in Libya:. Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-s.md)
+### [Post-civil war violence in Libya:: Intense fighting in Benghazi between the Libyan Army and local Islamist militias leaves 38 dead, mostly soldiers. ](/news/2014/07/27/post-civil-war-violence-in-libya-intense-fighting-in-benghazi-between-the-libyan-army-and-local-islamist-militias-leaves-38-dead-mostly-s.md)
 Two weeks of fighting between militias in Libya&#x27;s capital Tripoli have left 97 people dead, as Egypt and western foreign ministries Sunday urged their citizens to leave amid spiralling violence. Washington evacuated its embassy staff on Saturday, with Secretary of State John Kerry warning the m...
 
-### [Islamist insurgency in Nigeria:. Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md)
+### [Islamist insurgency in Nigeria:: Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/islamist-insurgency-in-nigeria-gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md)
 _Context: Amadou Ali, Boko Haram, Cameroon, Islamist insurgency in Nigeria_
 
 ### [Five family members are shot to death in a home in Saco, Maine, U.S. ](/news/2014/07/27/five-family-members-are-shot-to-death-in-a-home-in-saco-maine-u-s.md)

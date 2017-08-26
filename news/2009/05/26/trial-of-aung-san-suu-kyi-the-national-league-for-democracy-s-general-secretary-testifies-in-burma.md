@@ -1,6 +1,6 @@
 ### [2009-05-26](/news/2009/05/26/index.md)
 
-#  Trial of Aung San Suu Kyi:. The National League for Democracy's General Secretary testifies in Burma. 
+#  Trial of Aung San Suu Kyi:: The National League for Democracy's General Secretary testifies in Burma. 
 
 Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on Tuesday as the ruling generals tried to justify her trial, which has drawn condemnation from around the world.
 

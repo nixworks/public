@@ -3,7 +3,7 @@
 ### [North Korean propaganda videos show that they have developed a cruise missile similar to the Russian Kh-35 model. ](/news/2014/06/17/north-korean-propaganda-videos-show-that-they-have-developed-a-cruise-missile-similar-to-the-russian-kh-35-model.md)
 A North Korean propaganda film posted on the internet reveals footage of a newly developed cruise missile based on a Russian design, experts say.
 
-### [South Thailand insurgency. Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/south-thailand-insurgency-emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-month.md)
+### [South Thailand insurgency: Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/south-thailand-insurgency-emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-month.md)
 _Context: Narathiwat, Pattani, South Thailand insurgency, Thailand, Yala_
 
 ### [Al-Shabaab militants attack Poromoko village in Kenya, killing 15 people and burning multiple houses down. ](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.md)
@@ -12,13 +12,13 @@ _Context: Kenya, al-Shabaab militants_
 ### [275 United States Military personnel are deployed to Iraq to provide extra protection for the American embassy in Baghdad. ](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.md)
 _Context: Iraq, U.S. embassy in Baghdad, United States military personnel_
 
-### [Aftermath of the 2012 Benghazi attack. United States special operations forces, in coordination with the FBI, captured Ahmed Abu Khattala, one of the suspected leaders of the Benghazi attack, on the weekend of June 14 to June 15, 2014, in a covert mission in Libya. ](/news/2014/06/17/aftermath-of-the-2012-benghazi-attack-united-states-special-operations-forces-in-coordination-with-the-fbi-captured-ahmed-abu-khattala-o.md)
+### [Aftermath of the 2012 Benghazi attack: United States special operations forces, in coordination with the FBI, captured Ahmed Abu Khattala, one of the suspected leaders of the Benghazi attack, on the weekend of June 14 to June 15, 2014, in a covert mission in Libya. ](/news/2014/06/17/aftermath-of-the-2012-benghazi-attack-united-states-special-operations-forces-in-coordination-with-the-fbi-captured-ahmed-abu-khattala-o.md)
 Alleged ringleader in 2012 attack captured in operation in Libya involving Special Operations forces.
 
-### [War in North-West Pakistan. At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/war-in-north-west-pakistan-at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md)
+### [War in North-West Pakistan: At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/war-in-north-west-pakistan-at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md)
 _Context: North Waziristan, Pakistan Air Force, War in North-West Pakistan_
 
-### [Islamist insurgency in Nigeria. A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/islamist-insurgency-in-nigeria-a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-f.md)
+### [Islamist insurgency in Nigeria: A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/islamist-insurgency-in-nigeria-a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-f.md)
 _Context: 2014 FIFA World Cup, Damaturu, Islamist insurgency in Nigeria, Nigeria, suicide bomber_
 
 ### [A tornado hits southern in Ontario, Canada causing extensive damage in the corridor from Angus to Barrie. ](/news/2014/06/17/a-tornado-hits-southern-in-ontario-canada-causing-extensive-damage-in-the-corridor-from-angus-to-barrie.md)

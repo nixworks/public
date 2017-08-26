@@ -1,6 +1,6 @@
 ### [2011-03-20](/news/2011/03/20/index.md)
 
-# Demonstrations against the treatment of Bradley Manning:. A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. 
+# Demonstrations against the treatment of Bradley Manning:: A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. 
 
 Campaigners from Wales travel to London to protest over the alleged treatment of a US army private accused of leaking confidential papers.
 

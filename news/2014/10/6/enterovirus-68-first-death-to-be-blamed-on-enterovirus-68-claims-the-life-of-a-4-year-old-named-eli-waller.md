@@ -1,6 +1,6 @@
 ### [2014-10-6](/news/2014/10/6/index.md)
 
-# Enterovirus 68. First death to be blamed on Enterovirus 68. Claims the life of a 4 year old named Eli Waller. 
+# Enterovirus 68: First death to be blamed on Enterovirus 68. Claims the life of a 4 year old named Eli Waller. 
 
 A virus that has been causing severe respiratory illness a number of children is responsible for the death of a four-year-old boy, a New Jersey state medical examiner determined. 
 

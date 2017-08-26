@@ -1,6 +1,6 @@
 ### [2009-02-3](/news/2009/02/3/index.md)
 
-#  Sri Lankan Civil War:. The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. 
+#  Sri Lankan Civil War:: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. 
 
 
 

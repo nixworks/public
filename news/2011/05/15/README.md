@@ -1,24 +1,24 @@
 ## [2011-05-15](/news/2011/05/15/index.md)
 
-### [2011 Bahraini uprising:. Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/2011-bahraini-uprising-saudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-b.md)
+### [2011 Bahraini uprising:: Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/2011-bahraini-uprising-saudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-b.md)
 _Context: 2011 Bahraini uprising, Bahrain, Saudi Arabia, Sitra_
 
-### [2011 Egyptian revolution:. Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-te.md)
+### [2011 Egyptian revolution:: Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-te.md)
 At least seven people are injured after Christian protesters in central Cairo are attacked, amid an increase in sectarian violence in Egypt.
 
-### [Israeli-Palestinian conflict:. A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeli-palestinian-conflict-a-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injur.md)
+### [Israeli-Palestinian conflict:: A truck plows through traffic and pedestrians in the Israeli city of Tel Aviv, killing one person and injuring 16 in what is believed to be a terrorist attack, as Palestinians mark Nakba Day.](/news/2011/05/15/israeli-palestinian-conflict-a-truck-plows-through-traffic-and-pedestrians-in-the-israeli-city-of-tel-aviv-killing-one-person-and-injur.md)
 Police spokesman: Truck rampage &quot;looks deliberate,&quot; but probe ongoing; driver, a Kfar Qasm resident, says he hit cars by accident.
 
-### [2011 Libyan civil war:. The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-the-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mu.md)
+### [2011 Libyan civil war:: The United Nations envoy to Libya, Abdul Ilah Khatib, arrives in Tripoli to try to negotiate a cease-fire between Muammar Gaddafi's forces and rebel fighters.](/news/2011/05/15/2011-libyan-civil-war-the-united-nations-envoy-to-libya-abdul-ilah-khatib-arrives-in-tripoli-to-try-to-negotiate-a-cease-fire-between-mu.md)
 A U.N. envoy held talks in Libya on Sunday, as NATO warplanes kept up their bombardment of forces loyal to longtime strongman Moammar Gadhafi, Libyan government officials said. 
 
-### [2011 Moroccan protests:. Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md)
+### [2011 Moroccan protests:: Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/2011-moroccan-protests-police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md)
 _Context: 2011 Moroccan protests, Rabat_
 
-### [Syrian uprising:. Syrian forces shell villages near the Lebanese border, and heavy gunfire is heard in Talkalakh, with reports of 8 people having died, in the latest phase of a crackdown by Syrian forces on protesters demonstrating against the rule of President Bashar al-Assad. Lebanon tries to seal the border after hundreds flee from Syrian troops and a wounded Syrian woman dies of her injuries after entering Lebanon. ](/news/2011/05/15/syrian-uprising-syrian-forces-shell-villages-near-the-lebanese-border-and-heavy-gunfire-is-heard-in-talkalakh-with-reports-of-8-people-h.md)
+### [Syrian uprising:: Syrian forces shell villages near the Lebanese border, and heavy gunfire is heard in Talkalakh, with reports of 8 people having died, in the latest phase of a crackdown by Syrian forces on protesters demonstrating against the rule of President Bashar al-Assad. Lebanon tries to seal the border after hundreds flee from Syrian troops and a wounded Syrian woman dies of her injuries after entering Lebanon. ](/news/2011/05/15/syrian-uprising-syrian-forces-shell-villages-near-the-lebanese-border-and-heavy-gunfire-is-heard-in-talkalakh-with-reports-of-8-people-h.md)
 Lebanon tries to seal northern border with Syria to &quot;prevent illegal entry&quot;; four killed in Tel Kelakh during anti-Assad protest.
 
-### [2011 Yemeni protests:. Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-gunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md)
+### [2011 Yemeni protests:: Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-gunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md)
 _Context: 2011 Yemeni protests, Yemen_
 
 ### [Ugandan opposition leader Kizza Besigye says the government may fall amid ongoing protests, unless President Yoweri Museveni offers concessions. ](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.md)
@@ -33,7 +33,7 @@ _Context: Caserio La Bomba, Guatemala, Los Zetas Cartel, Peten_
 ### [Singer Bob Dylan denies censoring his shows while performing in China. ](/news/2011/05/15/singer-bob-dylan-denies-censoring-his-shows-while-performing-in-china.md)
 The voice of a generation isn’t easily silenced. Not according to Bob Dylan, who has issued a rare public statement denying speculation that he gave in to government censors by agreeing not to perform 60s-era protest songs during his recent tour of China.
 
-### [Dominique Strauss-Kahn sex, rape and imprisonment charges:. New York City police question International Monetary Fund head Dominique Strauss-Kahn, arrested yesterday, over allegations that he sexually attacked a hotel maid near Times Square. Strauss-Kahn's schedule is threatened with interruption, with a meeting over the bailouts of Portugal and Greece with European Union finance ministers due in Brussels tomorrow. ](/news/2011/05/15/dominique-strauss-kahn-sex-rape-and-imprisonment-charges-new-york-city-police-question-international-monetary-fund-head-dominique-strauss.md)
+### [Dominique Strauss-Kahn sex, rape and imprisonment charges:: New York City police question International Monetary Fund head Dominique Strauss-Kahn, arrested yesterday, over allegations that he sexually attacked a hotel maid near Times Square. Strauss-Kahn's schedule is threatened with interruption, with a meeting over the bailouts of Portugal and Greece with European Union finance ministers due in Brussels tomorrow. ](/news/2011/05/15/dominique-strauss-kahn-sex-rape-and-imprisonment-charges-new-york-city-police-question-international-monetary-fund-head-dominique-strauss.md)
 The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex assault charges over an alleged incident with a New York hotel maid.
 
 ### [Sony starts restoring its PlayStation Network following the recent PlayStation Network outage on a country-by-country basis, with all services to be restored by the end of May. ](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.md)
@@ -42,7 +42,7 @@ _Context: PlayStation Network, PlayStation Network outage, Sony_
 ### [Three de-miners are killed in an explosion during landmine detection and removal operations in Kampong Speu Province, western Cambodia. ](/news/2011/05/15/three-de-miners-are-killed-in-an-explosion-during-landmine-detection-and-removal-operations-in-kampong-speu-province-western-cambodia.md)
 _Context: Cambodia, Kampong Speu Province, deminer, landmine_
 
-### [Floods in North America:. The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/floods-in-north-america-the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-floodi.md)
+### [Floods in North America:: The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/floods-in-north-america-the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-floodi.md)
 Residents of towns along the swollen Mississippi River on Sunday packed up their valuables and made last-ditch efforts to place sandbags and makeshift levees outside their homes, trying to protect themselves and their homes from rising waters.
 
 ### [Six people are killed in an apartment fire in the city of Aurora in the US state of Illinois. ](/news/2011/05/15/six-people-are-killed-in-an-apartment-fire-in-the-city-of-aurora-in-the-us-state-of-illinois.md)
@@ -78,7 +78,7 @@ _Context: Cali Swag District, Inglewood, Los Angeles, California, M-Bone, drive-
 ### [The Iranian Supreme Leader, Ayatollah Ali Khamenei, publicly accuses President Mahmoud Ahmadinejad of being "under a spell", amid a deepening political crisis in the country. ](/news/2011/05/15/the-iranian-supreme-leader-ayatollah-ali-khamenei-publicly-accuses-president-mahmoud-ahmadinejad-of-being-under-a-spell-amid-a-deepenin.md)
 The former spiritual mentor to Iran&#039;s President Mahmoud Ahmadinejad has publicly accused his prot&eacute;g&eacute; of being &#034;under a spell&#034; as a constitutional crisis engulfs the country.
 
-### [Haitian general election, 2010-2011:. Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010-2011-michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md)
+### [Haitian general election, 2010-2011:: Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010-2011-michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md)
 _Context: Haiti, Haitian general election, 2010-2011, Michel Martelly, President of Haiti, democratically-elected_
 
 ### [In Switzerland, the people of Zurich vote to reject a ban on assisted suicide in the country, and also reject the restricting of assisted suicide to Zurich residents only. British pro-euthanasia group Dignity in Dying hails the result as a "brave decision". ](/news/2011/05/15/in-switzerland-the-people-of-zurich-vote-to-reject-a-ban-on-assisted-suicide-in-the-country-and-also-reject-the-restricting-of-assisted-su.md)

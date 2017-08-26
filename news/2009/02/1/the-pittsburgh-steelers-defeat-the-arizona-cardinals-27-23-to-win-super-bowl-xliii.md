@@ -11,6 +11,6 @@ Capping a remarkable fourth quarter, Santonio Holmes made a brilliant catch for 
 
 ### Related:
 
-1. [ 2008-09 National Football League playoffs (Super Bowl XLIII):. The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _Context: Arizona Cardinals, Super Bowl XLIII_
+1. [ 2008-09 National Football League playoffs (Super Bowl XLIII):: The Arizona Cardinals defeat the Philadelphia Eagles 32-25 in the NFC Championship Game. ](/news/2009/01/18/2008-09-national-football-league-playoffs-super-bowl-xliii-the-arizona-cardinals-defeat-the-philadelphia-eagles-32-25-in-the-nfc-champi.md) _Context: Arizona Cardinals, Super Bowl XLIII_
 2. [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md) _Context: Arizona Cardinals_
 3. [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21-10-in-super-bowl-nbsp-xl.md) _Context: Pittsburgh Steelers_

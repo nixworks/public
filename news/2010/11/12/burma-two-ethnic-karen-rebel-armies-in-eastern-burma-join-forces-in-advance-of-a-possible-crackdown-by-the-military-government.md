@@ -1,6 +1,6 @@
 ### [2010-11-12](/news/2010/11/12/index.md)
 
-# Burma. Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. 
+# Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. 
 
 Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 

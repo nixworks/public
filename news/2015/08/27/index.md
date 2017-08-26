@@ -1,15 +1,15 @@
 ## [2015-08-27](/news/2015/08/27/index.md)
 
-### [Iraq War (2014-present). Two generals of the Iraqi Army and three soldiers are killed and ten wounded when an Islamic State suicide bomber detonates in northern Ramadi. ](/news/2015/08/27/iraq-war-2014-present-two-generals-of-the-iraqi-army-and-three-soldiers-are-killed-and-ten-wounded-when-an-islamic-state-suicide-bomber.md)
+### [Iraq War (2014-present): Two generals of the Iraqi Army and three soldiers are killed and ten wounded when an Islamic State suicide bomber detonates in northern Ramadi. ](/news/2015/08/27/iraq-war-2014-present-two-generals-of-the-iraqi-army-and-three-soldiers-are-killed-and-ten-wounded-when-an-islamic-state-suicide-bomber.md)
 In a demoralizing blow to Iraq’s offensive against Islamic State , a suicide bomber from the militant group managed to kill two Iraqi army generals in a single strike on Thursday, according to military accounts.
 
-### [Gaza-Israel conflict. In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/gaza-israel-conflict-in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-fa.md)
+### [Gaza-Israel conflict: In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/gaza-israel-conflict-in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-fa.md)
 Hamas weapons factory targeted by Israel Air Force; rocket launched from Gaza explodes in open area, causing no damage.
 
 ### [The Government of India deploys the Army to the state of Gujarat after two days of caste-related violence results in seven deaths. ](/news/2015/08/27/the-government-of-india-deploys-the-army-to-the-state-of-gujarat-after-two-days-of-caste-related-violence-results-in-seven-deaths.md)
 _Context: Government of India, Gujarat, Indian Army, caste-related violence_
 
-### [War in Donbass. Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/war-in-donbass-seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md)
+### [War in Donbass: Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/war-in-donbass-seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md)
 Seven Ukrainian servicemen have been killed and 13 wounded in fighting with pro-Russian separatists in the past 24 hours, military spokesman Oleksander Motuzyanyk said on Thursday.
 
 ### [Walmart will stop selling the AR-15 and other semi-automatic rifles allegedly because of sluggish customer demand. ](/news/2015/08/27/walmart-will-stop-selling-the-ar-15-and-other-semi-automatic-rifles-allegedly-because-of-sluggish-customer-demand.md)
@@ -24,11 +24,11 @@ The fast-food industry was dealt a historic blow by the National Labor Relations
 ### [Oilfield services provider Schlumberger agrees to acquire construction company Cameron International in a $12.71 billion deal. ](/news/2015/08/27/oilfield-services-provider-schlumberger-agrees-to-acquire-construction-company-cameron-international-in-a-12-71-billion-deal.md)
 HOUSTON — Schlumberger is buying Cameron in a cash-and-stock deal valued at about $12.71 billion that would produce an oilfield equipment and service powerhouse. Cameron ...
 
-### [European migrant crisis. Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/european-migrant-crisis-two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md)
+### [European migrant crisis: Two boats carrying migrants capsize off of the coast of Zuwarah, Libya, with hundreds feared dead. ](/news/2015/08/27/european-migrant-crisis-two-boats-carrying-migrants-capsize-off-of-the-coast-of-zuwarah-libya-with-hundreds-feared-dead.md)
 Hundreds of people are feared dead after two boats carrying up to 500 migrants capsize off the Libyan coast near the city of Zuwara.
 
 ### [A sinkhole in China swallows five people. ](/news/2015/08/27/a-sinkhole-in-china-swallows-five-people.md)
-### [2015 Atlantic hurricane season. Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/2015-atlantic-hurricane-season-four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tr.md)
+### [2015 Atlantic hurricane season: Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/2015-atlantic-hurricane-season-four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tr.md)
 _Context: 2015 Atlantic hurricane season, Caribbean, Dominican, Tropical Storm Erika_
 
 ### [David H. Murdock, the CEO and chairman of Dole Food Company, along with a fellow confidant, are ordered to pay $148 million for misleading directors and shareholders. ](/news/2015/08/27/david-h-murdock-the-ceo-and-chairman-of-dole-food-company-along-with-a-fellow-confidant-are-ordered-to-pay-148-million-for-misleading-d.md)

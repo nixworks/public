@@ -1,9 +1,9 @@
 ## [2012-02-14](/news/2012/02/14/index.md)
 
-### [2011-2012 Syrian uprising:. The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011-2012-syrian-uprising-the-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would.md)
+### [2011-2012 Syrian uprising:: The Syrian army continues its bombardments of Homs, as Arab officials confirm that regional governments would be prepared to arm the opposition if the fighting does not cease. ](/news/2012/02/14/2011-2012-syrian-uprising-the-syrian-army-continues-its-bombardments-of-homs-as-arab-officials-confirm-that-regional-governments-would.md)
 Government forces and opponents of President Bashar al-Assad clashed in cities and countryside across Syria on Tuesday and Arab officials confirmed that regional governments would be ready to arm the resistance if the bloodshed did not cease.
 
-### [2011-2012 Bahraini uprising:. Security forces fire tear gas on anti-government demonstrators on the first anniversary of the start of protests calling for reforms in the nation. ](/news/2012/02/14/2011-2012-bahraini-uprising-security-forces-fire-tear-gas-on-anti-government-demonstrators-on-the-first-anniversary-of-the-start-of-prot.md)
+### [2011-2012 Bahraini uprising:: Security forces fire tear gas on anti-government demonstrators on the first anniversary of the start of protests calling for reforms in the nation. ](/news/2012/02/14/2011-2012-bahraini-uprising-security-forces-fire-tear-gas-on-anti-government-demonstrators-on-the-first-anniversary-of-the-start-of-prot.md)
 Security forces fire tear gas as activists attempt to march to landmark Pearl roundabout, one year since protests began.
 
 ### [The U.S. aircraft carrier Abraham Lincoln|CVN-72|2, accompanied by the cruiser Cape St. George|CG-71|2 and the destroyer Sterett|DDG-104|2, sails through the Strait of Hormuz, close to the coast of Iran, for the second time in recent weeks. ](/news/2012/02/14/the-u-s-aircraft-carrier-abraham-lincoln-cvn-72-2-accompanied-by-the-cruiser-cape-st-george-cg-71-2-and-the-destroyer-sterett-ddg-104-2.md)
@@ -43,7 +43,7 @@ _Context: Gaza Strip_
 _Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_
 
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: Barack Obama, United States, Vice President, Xi Jinping, president_
+_Context: Barack Obama, President, United States, Vice President, Xi Jinping_
 
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
 _Context: Islamabad, Pakistan, Peshawar, United States_

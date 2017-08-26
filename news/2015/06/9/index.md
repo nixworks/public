@@ -1,9 +1,9 @@
 ## [2015-06-9](/news/2015/06/9/index.md)
 
-### [Naxalite-Maoist insurgency. Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/naxalite-maoist-insurgency-indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
+### [Naxalite-Maoist insurgency: Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/naxalite-maoist-insurgency-indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
 _Context: Indian police, Jharkhand, Maoist, Naxalite, Naxalite-Maoist insurgency_
 
-### [Syrian Civil War. The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/syrian-civil-war-the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-g.md)
+### [Syrian Civil War: The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/syrian-civil-war-the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-g.md)
 Rebels in Syria say they have captured a major army base in the south of the country, the latest in a string of defeats suffered by the government.
 
 ### [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.md)

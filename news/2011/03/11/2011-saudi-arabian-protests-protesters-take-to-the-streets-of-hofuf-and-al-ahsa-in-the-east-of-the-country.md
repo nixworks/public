@@ -1,6 +1,6 @@
 ### [2011-03-11](/news/2011/03/11/index.md)
 
-# 2011 Saudi Arabian protests:. Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. 
+# 2011 Saudi Arabian protests:: Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. 
 
 
 
@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [2011 Saudi Arabian protests:. Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-saudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-c.md) _Context: 2011 Saudi Arabian protests_
+1. [2011 Saudi Arabian protests:: Saudi Arabia increases media restrictions, threatening fines and closure of publications that "threaten" the country's stability. ](/news/2011/05/1/2011-saudi-arabian-protests-saudi-arabia-increases-media-restrictions-threatening-fines-and-closure-of-publications-that-threaten-the-c.md) _Context: 2011 Saudi Arabian protests_

@@ -1,6 +1,6 @@
 ## [2006-08-24](/news/2006/08/24/index.md)
 
-### [ 2006 Israel-Lebanon conflict:. The Israeli reserve soldiers' protest, which calls for the resignation of Ehud Olmert and the establishment of a national commission of inquiry over failures in the conflict, grows in momentum to reach several hundred. ](/news/2006/08/24/2006-israel-lebanon-conflict-the-israeli-reserve-soldiers-protest-which-calls-for-the-resignation-of-ehud-olmert-and-the-establishment.md)
+### [ 2006 Israel-Lebanon conflict:: The Israeli reserve soldiers' protest, which calls for the resignation of Ehud Olmert and the establishment of a national commission of inquiry over failures in the conflict, grows in momentum to reach several hundred. ](/news/2006/08/24/2006-israel-lebanon-conflict-the-israeli-reserve-soldiers-protest-which-calls-for-the-resignation-of-ehud-olmert-and-the-establishment.md)
 Reservists hold rally outside PM’s Office in Jerusalem, call on Olmert, Peretz to resign. ‘The feeling was that we as soldiers on the ground could have acted but had our hands tied behind our backs,’ protest organizer says; former Etzel member: Now is the new generation’s time – you should...
 
 ### [ Israeli forces have killed three Palestinian Islamic Jihad militants and detained five militants, including a senior member of the governing Hamas movement in two separate incidents in southern Gaza. ](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.md)

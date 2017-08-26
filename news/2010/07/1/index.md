@@ -1,6 +1,6 @@
 ## [2010-07-1](/news/2010/07/1/index.md)
 
-### [Israeli-Palestinian conflict:. In response to a rocket attack on southern Israel, Israeli airforce jets strike several targets in Gaza overnight, including Yasser Arafat International Airport, a weapons manufacturing facility and an infiltration tunnel into Israel. ](/news/2010/07/1/israeli-palestinian-conflict-in-response-to-a-rocket-attack-on-southern-israel-israeli-airforce-jets-strike-several-targets-in-gaza-overn.md)
+### [Israeli-Palestinian conflict:: In response to a rocket attack on southern Israel, Israeli airforce jets strike several targets in Gaza overnight, including Yasser Arafat International Airport, a weapons manufacturing facility and an infiltration tunnel into Israel. ](/news/2010/07/1/israeli-palestinian-conflict-in-response-to-a-rocket-attack-on-southern-israel-israeli-airforce-jets-strike-several-targets-in-gaza-overn.md)
 Methodist Church rejects products from the West Bank.
 
 ### [11 Kurdish, a soldier and three members of a Kurdish militia, part of the security forces, are killed in clashes in southeast Turkey, reports Anatolia news agency. ](/news/2010/07/1/11-kurdish-a-soldier-and-three-members-of-a-kurdish-militia-part-of-the-security-forces-are-killed-in-clashes-in-southeast-turkey-report.md)
@@ -18,19 +18,19 @@ Hundreds of thousands of Senegalese are expected at ceremonies to mourn the lead
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday. ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)
 _Context: Canada Day, Ottawa_
 
-### [China. China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
+### [China: China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
 _Context: 24-hour English TV news channel, China, China, Xinhua_
 
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km/h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.
 
-### [Deepwater Horizon oil spill. According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/deepwater-horizon-oil-spill-according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-un.md)
+### [Deepwater Horizon oil spill: According to recent estimates, the Deepwater Horizon oil spill has overtaken Ixtoc I in volume to become the United States' worst oceanic oil spill in recorded history. ](/news/2010/07/1/deepwater-horizon-oil-spill-according-to-recent-estimates-the-deepwater-horizon-oil-spill-has-overtaken-ixtoc-i-in-volume-to-become-the-un.md)
 BP&#39;s massive oil spill became the largest ever in the Gulf of Mexico on Thursday, based on the highest of the federal government&#39;s estimates.
 
 ### [Six people are killed and ten others injured in Shenzhen after a space shuttle simulator ride plunged to the ground at a popular amusement park. ](/news/2010/07/1/six-people-are-killed-and-ten-others-injured-in-shenzhen-after-a-space-shuttle-simulator-ride-plunged-to-the-ground-at-a-popular-amusement-p.md)
 _Context: Shenzhen, Space Shuttle_
 
-### [Inter-Korean Relations. North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/inter-korean-relations-north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-sout.md)
+### [Inter-Korean Relations: North Korea asks the United Nations Security Council to investigate the sinking of the "Cheonan". Diplomats say South Korea wants the council to condemn North Korea. ](/news/2010/07/1/inter-korean-relations-north-korea-asks-the-united-nations-security-council-to-investigate-the-sinking-of-the-cheonan-diplomats-say-sout.md)
 Pyongyang wants new investigation into deadly sinking of South Korean frigate.
 
 ### [The Afghan government calls for an international inquiry amid what it sees as "unjust" claims made by Nita Lowey, current chair of the House Appropriations Committee in the United States, that suitcases of cash are being flown out of the country. The United States blocks billions of dollars of aid due to Lowey's claims. ](/news/2010/07/1/the-afghan-government-calls-for-an-international-inquiry-amid-what-it-sees-as-unjust-claims-made-by-nita-lowey-current-chair-of-the-house.md)

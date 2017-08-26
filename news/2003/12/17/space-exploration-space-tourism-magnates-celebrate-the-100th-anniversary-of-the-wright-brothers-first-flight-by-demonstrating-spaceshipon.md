@@ -1,6 +1,6 @@
 ### [2003-12-17](/news/2003/12/17/index.md)
 
-# Space exploration:. Space tourism magnates celebrate the 100th anniversary of the Wright Brothers' first flight by demonstrating SpaceShipOne, a privately-funded passenger-ferrying suborbital space plane, flying at supersonic speeds to an altitude of 68,000 feet. 
+# Space exploration:: Space tourism magnates celebrate the 100th anniversary of the Wright Brothers' first flight by demonstrating SpaceShipOne, a privately-funded passenger-ferrying suborbital space plane, flying at supersonic speeds to an altitude of 68,000 feet. 
 
 
 

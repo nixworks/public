@@ -1,15 +1,15 @@
 ## [2015-08-2](/news/2015/08/2/index.md)
 
-### [Saudi Arabian-led intervention in Yemen. A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/saudi-arabian-led-intervention-in-yemen-a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
+### [Saudi Arabian-led intervention in Yemen: A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/saudi-arabian-led-intervention-in-yemen-a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
 _Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
-### [Turkey-PKK conflict. A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/turkey-pkk-conflict-a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza.md)
+### [Turkey-PKK conflict: A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/turkey-pkk-conflict-a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza.md)
 Two Turkish soldiers are killed and dozens are wounded in a suicide attack near the border with Iran blamed on Kurdish PKK militants.
 
 ### [General Adolphe Nshimirimana, former chief of staff of the Burundi Army, is assassinated in Bujumbura. ](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.md)
 _Context: Bujumbura, Burundian Army_
 
-### [Boko Haram. Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/boko-haram-nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)
+### [Boko Haram: Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/boko-haram-nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)
 _Context: Boko Haram, Nigerian Army_
 
 ### [A court in Egypt postpones a verdict in the prominent trial of two journalists with Al-Jazeera, who have been charged with aiding the Muslim Brotherhood. ](/news/2015/08/2/a-court-in-egypt-postpones-a-verdict-in-the-prominent-trial-of-two-journalists-with-al-jazeera-who-have-been-charged-with-aiding-the-muslim.md)

@@ -6,7 +6,7 @@ A blast alongside a convoy of vehicles used by Yemen’s defense minister came o
 ### [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md)
 _Context: AMISOM, African Union, Kenyan army forces, Kismayo, Somali National Army, Somalia, al-Shabaab militants_
 
-### [War in Afghanistan (2001-present):. Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personn.md)
+### [War in Afghanistan (2001-present):: Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personn.md)
 Afghan insurgents bombarded a U.S. base and destroyed a NATO helicopter, killing three Afghan intelligence employees.
 
 ### [A suicide bombing in front of a police station in the western Istanbul suburb of Sultangazi kills a policeman, the bomber, and injures several others. The leftist group Dev Sol claims responsibility. ](/news/2012/09/11/a-suicide-bombing-in-front-of-a-police-station-in-the-western-istanbul-suburb-of-sultangazi-kills-a-policeman-the-bomber-and-injures-sever.md)
@@ -30,7 +30,7 @@ Japanese Banking MinisterTadahiro Matsushita was found hanged at his home on Mon
 ### [At least 29 people are killed and 11 injured after a bus runs off a mountain highway in western Nepal. ](/news/2012/09/11/at-least-29-people-are-killed-and-11-injured-after-a-bus-runs-off-a-mountain-highway-in-western-nepal.md)
 _Context: Nepal_
 
-### [Senkaku Islands dispute:. China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignt.md)
+### [Senkaku Islands dispute:: China dispatches two Chinese Marine Surveillance patrol boats to the islands in order to "safeguard its sovereignty" over the territory. ](/news/2012/09/11/senkaku-islands-dispute-china-dispatches-two-chinese-marine-surveillance-patrol-boats-to-the-islands-in-order-to-safeguard-its-sovereignt.md)
 China on Tuesday summoned the Japanese Ambassador here and warned it would take “necessary measures” to protect its interests after Japan announced it had purchased disputed East China Sea islands. He
 
 ### [Newly declassified documents confirm that the United States deliberately ignored Soviet involvement in the 1940 Katyn massacre, despite credible evidence to the contrary provided no later than 1943. While until 1945 this choice could be explained as World War II grand strategy, it is not known why the White House remained silent on the matter until now. ](/news/2012/09/11/newly-declassified-documents-confirm-that-the-united-states-deliberately-ignored-soviet-involvement-in-the-1940-katyn-massacre-despite-cred.md)

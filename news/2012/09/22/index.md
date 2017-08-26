@@ -1,9 +1,9 @@
 ## [2012-09-22](/news/2012/09/22/index.md)
 
-### [2012 diplomatic missions attacks:. Demanding the disbandment of armed groups, hundreds of demonstrators attack Ansar al-Sharia and Islamist militia compounds in Benghazi, Libya. Eleven people die in the clashes. Libyan authorities re-take control of deserted strongholds. ](/news/2012/09/22/2012-diplomatic-missions-attacks-demanding-the-disbandment-of-armed-groups-hundreds-of-demonstrators-attack-ansar-al-sharia-and-islamist.md)
+### [2012 diplomatic missions attacks:: Demanding the disbandment of armed groups, hundreds of demonstrators attack Ansar al-Sharia and Islamist militia compounds in Benghazi, Libya. Eleven people die in the clashes. Libyan authorities re-take control of deserted strongholds. ](/news/2012/09/22/2012-diplomatic-missions-attacks-demanding-the-disbandment-of-armed-groups-hundreds-of-demonstrators-attack-ansar-al-sharia-and-islamist.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Syrian civil war:. An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/syrian-civil-war-an-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside.md)
+### [Syrian civil war:: An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/syrian-civil-war-an-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside.md)
 The rebel Free Syrian Army announces it has moved its command centre from Turkey to &quot;liberated areas&quot; inside Syria.
 
 ### [Eight people die in clashes between Zaydi rebels and Salafis. The Zaidis oppose the nomination by Al-Islah of new provincial leaders in northern Yemen. ](/news/2012/09/22/eight-people-die-in-clashes-between-zaydi-rebels-and-salafis-the-zaidis-oppose-the-nomination-by-al-islah-of-new-provincial-leaders-in-nort.md)

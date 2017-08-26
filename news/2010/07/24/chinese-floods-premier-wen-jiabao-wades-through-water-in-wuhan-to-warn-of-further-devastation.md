@@ -1,6 +1,6 @@
 ### [2010-07-24](/news/2010/07/24/index.md)
 
-# Chinese floods:. Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. 
+# Chinese floods:: Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. 
 
 Large parts of south and central China, already been ravaged by floods, face even worse deluges, Premier Wen Jiabao warns.
 

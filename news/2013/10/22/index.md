@@ -1,9 +1,9 @@
 ## [2013-10-22](/news/2013/10/22/index.md)
 
-### [Islamist insurgency in Nigeria:. Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-nigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md)
+### [Islamist insurgency in Nigeria:: Nigerian troops kill 37 Boko Haram Islamist militants in air and ground strikes in their bases in the northeast. ](/news/2013/10/22/islamist-insurgency-in-nigeria-nigerian-troops-kill-37-boko-haram-islamist-militants-in-air-and-ground-strikes-in-their-bases-in-the-north.md)
 Nigerian troops killed 37 Boko Haram Islamist militants in combined air and ground strikes on one of their bases in the northeast, the military said on Tuesday.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Militants kill 22 security forces in police and military checkpoints in Anbar Province. ](/news/2013/10/22/iraqi-insurgency-post-u-s-withdrawal-militants-kill-22-security-forces-in-police-and-military-checkpoints-in-anbar-province.md)
 Militants killed at least 22 members of the security forces in Iraq on Tuesday, mostly in attacks on police and military checkpoints, with the western Anbar province bearing the brunt of the violence, sources said.
 
 ### [Apple announces the introduction of iPad Air and the availability of the newest version of OS X, Mavericks. ](/news/2013/10/22/apple-announces-the-introduction-of-ipad-air-and-the-availability-of-the-newest-version-of-os-x-mavericks.md)

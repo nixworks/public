@@ -1,6 +1,6 @@
 ### [2005-02-6](/news/2005/02/6/index.md)
 
-#  Togo succession:. The Togolese parliament tries to legalize the accession to power of Faure Gnassingb, son of Gnassingb Eyadma, by voting to change a constitutional amendment. 
+#  Togo succession:: The Togolese parliament tries to legalize the accession to power of Faure Gnassingb, son of Gnassingb Eyadma, by voting to change a constitutional amendment. 
 
 
 

@@ -42,7 +42,7 @@ Serbia&#039;s last major war crimes fugitive Goran Hadzic, indicted for crimes a
 ### [The Supreme Court of the US state of Georgia has agreed to the execution of Cobb County killer Andrew Grant DeYoung to be videotaped. ](/news/2011/07/20/the-supreme-court-of-the-us-state-of-georgia-has-agreed-to-the-execution-of-cobb-county-killer-andrew-grant-deyoung-to-be-videotaped.md)
 _Context: Andrew Grant DeYoung, Cobb County, Georgia, Supreme Court_
 
-### [News International phone hacking scandal:. The Prime Minister of the United Kingdom David Cameron faces questions in parliament over his decision to hire Andy Coulson, a former editor of the "News of the World" at the time of the phone hacking affair. ](/news/2011/07/20/news-international-phone-hacking-scandal-the-prime-minister-of-the-united-kingdom-david-cameron-faces-questions-in-parliament-over-his-dec.md)
+### [News International phone hacking scandal:: The Prime Minister of the United Kingdom David Cameron faces questions in parliament over his decision to hire Andy Coulson, a former editor of the "News of the World" at the time of the phone hacking affair. ](/news/2011/07/20/news-international-phone-hacking-scandal-the-prime-minister-of-the-united-kingdom-david-cameron-faces-questions-in-parliament-over-his-dec.md)
 MPs accuse the Met Police of a &quot;catalogue of failures&quot; over phone hacking, as the prime minister makes a statement to the Commons.
 
 ## [Previous Day...](/news/2011/07/19/index.md)

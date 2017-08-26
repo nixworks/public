@@ -1,12 +1,12 @@
 ## [2012-12-17](/news/2012/12/17/index.md)
 
-### [Syrian civil war:. Rebel forces take over the Yarmouk Palestinian refugee camp in Damascus, where at least 25 were killed by airstrikes the day before. Syrian troops and tanks, as well as a number of PFLP-GC fighters, gather outside the northern edge of the area. ](/news/2012/12/17/syrian-civil-war-rebel-forces-take-over-the-yarmouk-palestinian-refugee-camp-in-damascus-where-at-least-25-were-killed-by-airstrikes-the.md)
+### [Syrian civil war:: Rebel forces take over the Yarmouk Palestinian refugee camp in Damascus, where at least 25 were killed by airstrikes the day before. Syrian troops and tanks, as well as a number of PFLP-GC fighters, gather outside the northern edge of the area. ](/news/2012/12/17/syrian-civil-war-rebel-forces-take-over-the-yarmouk-palestinian-refugee-camp-in-damascus-where-at-least-25-were-killed-by-airstrikes-the.md)
 _Context: Damascus, PFLP-GC, Palestinian refugees, Syria, Syrian Civil War, Yarmouk Camp_
 
-### [War in North-West Pakistan:. A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md)
+### [War in North-West Pakistan:: A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-a-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md)
 At least 17 people are killed and dozens injured in a car bomb attack on a market in the Khyber tribal region of north-west Pakistan, officials say.
 
-### [War in Afghanistan (2001-present):. A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001-present-a-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md)
+### [War in Afghanistan (2001-present):: A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001-present-a-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md)
 _Context: Kabul, US$, War in Afghanistan (2001-present)_
 
 ### [Famous actor Gerard Depardieu decides to give up his French citizenship and move to Belgium for a permanent residence to avoid taxes. ](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.md)
@@ -30,7 +30,7 @@ _Context: Newtown, Connecticut, Sandy Hook Elementary School shooting_
 ### [North Korea commemorates the one-year anniversary of the death of former Leader Kim Jong-il. ](/news/2012/12/17/north-korea-commemorates-the-one-year-anniversary-of-the-death-of-former-leader-kim-jong-il.md)
 _Context: Kim Jong-il, North Korea, death, leader_
 
-### [Reproductive Health Bill:. The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13-8.md)
+### [Reproductive Health Bill:: The Senate of the Philippines passes its version of the measure by 13-8. ](/news/2012/12/17/reproductive-health-bill-the-senate-of-the-philippines-passes-its-version-of-the-measure-by-13-8.md)
 The next step is the bicameral conference committee, where both chambers of Congress will consolidate the two different versions of RH bill
 
 ### [Voters in the Indian state of Gujarat go to the polls for a state election. ](/news/2012/12/17/voters-in-the-indian-state-of-gujarat-go-to-the-polls-for-a-state-election.md)
@@ -42,7 +42,7 @@ The Rajya Sabha on Monday passed the constitution amendment bill to provide rese
 ### [The President of Romania nominates current Prime Minister Victor Ponta of the Social Liberal Union to form a new government after the parliamentary election held earlier this month. ](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.md)
 _Context: President, Prime Minister, Social Liberal Union, Victor Ponta, parliamentary election_
 
-### [US politics:. Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md)
+### [US politics:: Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-nikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md)
 Gov. Nikki Haley of South Carolina on Monday appointed GOP Congressman Tim Scott to fill the seat vacated by outgoing Senator Jim DeMint. Scott, who takes office Jan. 3, will become the first black Senator from the South since 1881, as well as the only African-American in the chamber.
 
 ### [Ephraim Mirvis is announced as the next Chief Rabbi of the United Kingdom, replacing Dr. Jonathan Sacks who will step down from the role in 2013. ](/news/2012/12/17/ephraim-mirvis-is-announced-as-the-next-chief-rabbi-of-the-united-kingdom-replacing-dr-jonathan-sacks-who-will-step-down-from-the-role-in.md)

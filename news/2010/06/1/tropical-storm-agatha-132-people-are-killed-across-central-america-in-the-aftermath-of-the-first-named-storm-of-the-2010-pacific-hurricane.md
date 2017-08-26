@@ -1,6 +1,6 @@
 ### [2010-06-1](/news/2010/06/1/index.md)
 
-# Tropical Storm Agatha. 132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. 
+# Tropical Storm Agatha: 132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. 
 
 Collapsed roads and highway bridges complicated rescue efforts in Guatemala on Tuesday after Tropical Storm Agatha drenched Central America, burying homes under mud and killing at least 178 people.
 

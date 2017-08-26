@@ -3,7 +3,7 @@
 ### [The Ugandan army announces it has killed Bok Abudema, a senior member of the Lord's Resistance Army, in the Central African Republic. ](/news/2010/01/2/the-ugandan-army-announces-it-has-killed-bok-abudema-a-senior-member-of-the-lord-s-resistance-army-in-the-central-african-republic.md)
 _Context: Bok Abudema, Central African Republic, Lord's Resistance Army, Uganda, Ugandan soldier_
 
-### [Piracy in Somalia. Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/piracy-in-somalia-somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars.md)
+### [Piracy in Somalia: Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/piracy-in-somalia-somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars.md)
 _Context: Britain, Gulf of Aden, Horn of Africa, Indonesia, Somali pirates, seize_
 
 ### [The Israeli Air Force launches an attack against tunnels leading from Gaza into Israel in response to missile attacks and mortar fire. ](/news/2010/01/2/the-israeli-air-force-launches-an-attack-against-tunnels-leading-from-gaza-into-israel-in-response-to-missile-attacks-and-mortar-fire.md)

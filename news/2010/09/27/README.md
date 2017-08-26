@@ -12,7 +12,7 @@ Nato-led forces have killed more than 50 insurgents on Pakistani soil after a ra
 ### [President of Colombia Juan Manuel Santos describes the killing of Mono Jojoy as the "beginning of the end" for the Farc organization. ](/news/2010/09/27/president-of-colombia-juan-manuel-santos-describes-the-killing-of-mono-jojoy-as-the-beginning-of-the-end-for-the-farc-organization.md)
 _Context: Colombian President, Juan Manuel Santos, Mono Jojoy, Revolutionary Armed Forces of Colombia_
 
-### [Afghanistan:. Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-i.md)
+### [Afghanistan:: Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. ](/news/2010/09/27/afghanistan-three-former-australian-soldiers-are-charged-with-offences-including-manslaughter-following-an-action-in-the-afghanistan-war-i.md)
 Taliban militants are holding the British woman kidnapped in Afghanistan and want to exchange her for a female Pakistani scientist jailed last week in America, it has been reported.
 
 ### [Three Palestinians said to be members of the Islamic Jihad group are killed in an Israeli air strike on the southern part of the Gaza Strip. ](/news/2010/09/27/three-palestinians-said-to-be-members-of-the-islamic-jihad-group-are-killed-in-an-israeli-air-strike-on-the-southern-part-of-the-gaza-strip.md)
@@ -51,7 +51,7 @@ _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavi
 ### [Brandon Joseph Rhode is executed at a prison in Jackson, Georgia in the southern United States. ](/news/2010/09/27/brandon-joseph-rhode-is-executed-at-a-prison-in-jackson-georgia-in-the-southern-united-states.md)
 _Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
 
-### [North Korea. Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-korea-delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md)
+### [North Korea: Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/north-korea-delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md)
 _Context: Korean Workers' Party, North Korea, Pyongyang_
 
 ### [The President of Venezuela Hugo Chavez's United Socialist Party of Venezuela wins a majority of seats in the parliamentary election held yesterday but lost a two-thirds majority needed to pass major legislation unaided. ](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.md)

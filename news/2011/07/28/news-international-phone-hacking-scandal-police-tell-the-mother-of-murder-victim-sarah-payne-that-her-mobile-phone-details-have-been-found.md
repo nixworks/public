@@ -1,6 +1,6 @@
 ### [2011-07-28](/news/2011/07/28/index.md)
 
-# News International phone hacking scandal:. Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. 
+# News International phone hacking scandal:: Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. 
 
 The mother of murder victim Sarah Payne has been told she may have been the victim of phone hacking, her charity has said.
 
@@ -12,8 +12,8 @@ The mother of murder victim Sarah Payne has been told she may have been the vict
 
 ### Related:
 
-1. [News International phone hacking scandal. The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/news-international-phone-hacking-scandal-the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-ph.md) _Context: Glenn Mulcaire, conspiracy to hack mobile phones_
-2. [R v Brooks, Coulson and six others. Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _Context: conspiracy to hack mobile phones_
+1. [News International phone hacking scandal: The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/news-international-phone-hacking-scandal-the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-ph.md) _Context: Glenn Mulcaire, conspiracy to hack mobile phones_
+2. [R v Brooks, Coulson and six others: Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/r-v-brooks-coulson-and-six-others-former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack.md) _Context: conspiracy to hack mobile phones_
 3. [Metropolitan Police detective April Casburn, who tried to sell information to the "News of the World", regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-phon.md) _Context: conspiracy to hack mobile phones_
 4. [Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. ](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-campaign-to-urge-british-prime-minister-david-cameron-to-fully-implement-the-recommendations-of.md) _Context: conspiracy to hack mobile phones_
 5. [Following an investigation in the wake of the News International phone hacking scandal, British media regulator Ofcom concludes that BSkyB is a "fit and proper" company to hold a broadcasting licence. ](/news/2012/09/20/following-an-investigation-in-the-wake-of-the-news-international-phone-hacking-scandal-british-media-regulator-ofcom-concludes-that-bskyb-i.md) _Context: conspiracy to hack mobile phones_

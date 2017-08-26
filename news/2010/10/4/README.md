@@ -3,13 +3,13 @@
 ### [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md)
 _Context: Jonglei, Pibor, Sudan_
 
-### [Afghanistan and Pakistan. Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md)
+### [Afghanistan and Pakistan: Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md)
 Three people were killed on Monday and up to eight others wounded when about 20 NATO oil tankers were attacked and set ablaze near the Pakistani capital, in the second mass torching in days.
 
 ### [Jewish settlers in the West Bank set fire to the Muslim Al-Anbiaa mosque in Beit Fajjar area near the Palestinian city of Bethlehem. Its rug ground and some parts of the Qur'an are burnt and anti-Islamic and anti-Palestinian slogans are written. ](/news/2010/10/4/jewish-settlers-in-the-west-bank-set-fire-to-the-muslim-al-anbiaa-mosque-in-beit-fajjar-area-near-the-palestinian-city-of-bethlehem-its-rug.md)
 Emotions run high after mosque in occupied territory is set ablaze by settlers in early morning attack in Beit Fajjar.
 
-### [War in Iraq. 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md)
+### [War in Iraq: 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md)
 BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on Monday, including a journalist for a US-funded television station, medical...
 
 ### [5 Tajik policemen are killed in a clash in East Tajikistan. ](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.md)
@@ -96,7 +96,7 @@ _Context: Gainesville, Florida_
 ### [Tens of thousands of people protest about tree-felling in Stuttgart and are confronted by police wielding water cannon and pepper spray. ](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.md)
 Clashes between police and protesters in Stuttgart hit a raw nerve in Germany as railway modernisation involves digging up a park.
 
-### [Brazilian elections:. The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
+### [Brazilian elections:: The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
 A Brazilian clown is elected to Congress with more votes than any other candidate, while ex-footballer Romario is also chosen to represent Rio de Janeiro.
 
 ### [A Japanese judicial panel calls for charges against top Democratic Party (DPJ) figure Ichiro Ozawa. ](/news/2010/10/4/a-japanese-judicial-panel-calls-for-charges-against-top-democratic-party-dpj-figure-ichira-ozawa.md)
@@ -108,7 +108,7 @@ _Context: Lima, Susana Villaran_
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)
 The Cuban government is considering another large-scale release of political prisoners, reports say.
 
-### [Nobel Prize in Physiology or Medicine:. Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md)
+### [Nobel Prize in Physiology or Medicine:: Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md)
 The man who devised the fertility treatment IVF is awarded the Nobel prize for medicine.
 
 ### [The first Census of Marine Life (CoML), a 10-year major international project described as the most comprehensive study of its kind, is completed, sparking celebration among scientists. ](/news/2010/10/4/the-first-census-of-marine-life-coml-a-10-year-major-international-project-described-as-the-most-comprehensive-study-of-its-kind-is-comp.md)

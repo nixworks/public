@@ -1,6 +1,6 @@
 ### [2012-08-16](/news/2012/08/16/index.md)
 
-# Stand-off between Ecuador and Britain over Julian Assange:. British police mass near the Ecuadorean embassy where WikiLeaks founder Julian Assange resides, after Britain threatens to use force to extract him. 
+# Stand-off between Ecuador and Britain over Julian Assange:: British police mass near the Ecuadorean embassy where WikiLeaks founder Julian Assange resides, after Britain threatens to use force to extract him. 
 
 Britain on Wednesday warned Ecuador that it could raid its London embassy if Quito does not hand over WikiLeaks founder Julian Assange, who has been taking refuge at the mission since mid-June.
 
@@ -26,4 +26,4 @@ Britain on Wednesday warned Ecuador that it could raid its London embassy if Qui
 7. [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md) _Context: Ecuador, Julian Assange, WikiLeaks_
 8. [Wikileaks editor-in-chief Julian Assange takes refuge in Ecuador's embassy in London to avoid extradition to Sweden on charges of sexual misconduct. ](/news/2012/06/19/wikileaks-editor-in-chief-julian-assange-takes-refuge-in-ecuador-s-embassy-in-london-to-avoid-extradition-to-sweden-on-charges-of-sexual-mis.md) _Context: Ecuador, Julian Assange, WikiLeaks_
 9. [Ecuador invites Julian Assange of WikiLeaks to speak publicly and offers him residency where he can make more revelations. Venezuelan President Hugo Chavez praises the website and calls for the resignation of U.S. secretary of state Hillary Clinton. ](/news/2010/11/30/ecuador-invites-julian-assange-of-wikileaks-to-speak-publicly-and-offers-him-residency-where-he-can-make-more-revelations-venezuelan-presid.md) _Context: Ecuador, Julian Assange, WikiLeaks_
-10. ["Assange v Swedish Prosecution Authority". Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Julian Assange, WikiLeaks_
+10. ["Assange v Swedish Prosecution Authority": Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Julian Assange, WikiLeaks_

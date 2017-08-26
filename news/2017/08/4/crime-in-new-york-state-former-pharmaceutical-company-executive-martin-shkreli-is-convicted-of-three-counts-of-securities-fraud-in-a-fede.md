@@ -1,6 +1,6 @@
 ### [2017-08-4](/news/2017/08/4/index.md)
 
-# Crime in New York (state). Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.
+# Crime in New York (state): Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.
 
 A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive, on Friday of defrauding investors in hedge funds he ran years before he gained fame for jacking up the price of a drug.
 
@@ -11,7 +11,7 @@ A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fu
 
 ### Related:
 
-1. [2017 Brooklyn train crash. A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/2017-brooklyn-train-crash-a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injur.md) _Context: Brooklyn_
+1. [2017 Brooklyn train crash: A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/2017-brooklyn-train-crash-a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injur.md) _Context: Brooklyn_
 2. [Pharmaceutical company Johnson & Johnson warns that one of its Wi-Fi enabled insulin pumps for diabetics (OneTouch Ping pump) is at risk of being hacked, causing an overdose. ](/news/2016/10/4/pharmaceutical-company-johnson-johnson-warns-that-one-of-its-wi-fi-enabled-insulin-pumps-for-diabetics-onetouch-ping-pump-is-at-risk-of.md) _Context: pharmaceutical_
 3. [In Brooklyn, New York 33 people are treated for a possible K2 overdose. The drug is illegal to sell or produce in the state. ](/news/2016/07/13/in-brooklyn-new-york-33-people-are-treated-for-a-possible-k2-overdose-the-drug-is-illegal-to-sell-or-produce-in-the-state.md) _Context: Brooklyn_
 4. [Valeant, a Canada based pharmaceutical company, says it has received new notices of default from its bondholders. ](/news/2016/04/22/valeant-a-canada-based-pharmaceutical-company-says-it-has-received-new-notices-of-default-from-its-bondholders.md) _Context: pharmaceutical_

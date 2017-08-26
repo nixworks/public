@@ -1,12 +1,12 @@
 ## [2011-02-15](/news/2011/02/15/index.md)
 
-### [2011 Yemeni protests:. Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md)
+### [2011 Yemeni protests:: Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md)
 Regime loyalists and plainclothes policemen attack protesters, mainly students, in Sanaa.
 
-### [2011 Bahraini protests:. Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md)
+### [2011 Bahraini protests:: Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md)
 The king of Bahrain has gone on television to announce an investigation into the deaths of two protesters killed in clashes with security forces on Monday.
 
-### [2011 Iranian protests:. Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-iranian-politicians-call-for-the-execution-of-opposition-leaders.md)
+### [2011 Iranian protests:: Iranian politicians call for the execution of opposition leaders. ](/news/2011/02/15/2011-iranian-protests-iranian-politicians-call-for-the-execution-of-opposition-leaders.md)
 _Context: 2011 Iranian protests, Iranian opposition_
 
 ### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)

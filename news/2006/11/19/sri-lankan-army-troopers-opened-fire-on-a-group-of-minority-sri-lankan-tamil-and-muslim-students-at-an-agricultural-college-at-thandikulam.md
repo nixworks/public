@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2017 Pulitzer Prize. The "New York Daily News" and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/2017-pulitzer-prize-the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement.md) _Context: minorities_
+1. [2017 Pulitzer Prize: The "New York Daily News" and ProPublica win the Pulitzer Prize for Public Service for reporting on nuisance abatement by police targeting minorities. ](/news/2017/04/10/2017-pulitzer-prize-the-new-york-daily-news-and-propublica-win-the-pulitzer-prize-for-public-service-for-reporting-on-nuisance-abatement.md) _Context: minorities_
 2. [Police in Colombo, Sri Lanka, arrest three Sinhalese Buddhist monks for torching a Muslim-owned clothing store, raising fears for safety among Muslims. ](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.md) _Context: Muslims_
 3. [A verdict is due in the trial of former Commander of the Sri Lankan Army, Sarath Fonseka, on charges of "spreading disaffection". ](/news/2011/11/18/a-verdict-is-due-in-the-trial-of-former-commander-of-the-sri-lankan-army-sarath-fonseka-on-charges-of-spreading-disaffection.md) _Context: Sri Lankan Army_
 4. [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md) _Context: minorities_

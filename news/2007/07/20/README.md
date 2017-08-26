@@ -1,7 +1,7 @@
 ## [2007-07-20](/news/2007/07/20/index.md)
 
 ### [ The President of Brazil Luiz Incio Lula da Silva orders an inquiry into the crash of TAM Linhas Areas Flight 3054. ](/news/2007/07/20/the-president-of-brazil-luiz-inacio-lula-da-silva-orders-an-inquiry-into-the-crash-of-tam-linhas-aereas-flight-3054.md)
-_Context: Brazilian President, Luiz Incio Lula da Silva, TAM Linhas Areas Flight 3054_
+_Context: Luiz Incio Lula da Silva, President, TAM Linhas Areas Flight 3054_
 
 ### [ The UK Crown Prosecution Service ends its inquiry into the "Cash for honours" claims with a finding that the evidence is not sufficient to warrant charges being laid. ](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.md)
 _Context: Cash for honours, Crown Prosecution Service, UK_

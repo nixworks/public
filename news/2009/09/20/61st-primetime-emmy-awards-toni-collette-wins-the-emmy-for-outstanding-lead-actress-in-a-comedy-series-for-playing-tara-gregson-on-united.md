@@ -1,6 +1,6 @@
 ### [2009-09-20](/news/2009/09/20/index.md)
 
-#  61st Primetime Emmy Awards. Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on "United States of Tara". 
+#  61st Primetime Emmy Awards: Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on "United States of Tara". 
 
 
 

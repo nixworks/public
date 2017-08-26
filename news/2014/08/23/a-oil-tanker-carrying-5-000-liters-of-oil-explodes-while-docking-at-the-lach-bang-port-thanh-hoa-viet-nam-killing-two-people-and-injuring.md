@@ -11,7 +11,7 @@ A oil tanker has exploded while docking at the northern port of Lach Bang, Thanh
 
 ### Related:
 
-1. [2015 Pacific typhoon season. Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/2015-pacific-typhoon-season-tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md) _Context: Viet Nam_
+1. [2015 Pacific typhoon season: Tropical Storm Vamco makes landfall south of Da Nang, Viet Nam, causing flooding in the region. ](/news/2015/09/14/2015-pacific-typhoon-season-tropical-storm-vamco-makes-landfall-south-of-da-nang-viet-nam-causing-flooding-in-the-region.md) _Context: Viet Nam_
 2. [Two buses crash head-on in Binh Thuan-s Ham Thuan Nam District, Viet Nam, killing 10 people and injuring 9 others. ](/news/2015/02/9/two-buses-crash-head-on-in-ba-nh-thuaon-s-ha-m-thuaon-nam-district-viet-nam-killing-10-people-and-injuring-9-others.md) _Context: Viet Nam_
 3. [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (QuGBPng Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaogbpng-tra-viet-nam-falls-into-a.md) _Context: Viet Nam_
 4. [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaocnyn-is-executed-in-hanoi.md) _Context: Viet Nam_

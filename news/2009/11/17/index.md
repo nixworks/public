@@ -15,7 +15,7 @@ _Context: Antarctic, Russia_
 ### [ Israel approves a further 900 settler homes in a settlement in East Jerusalem. ](/news/2009/11/17/israel-approves-a-further-900-settler-homes-in-a-settlement-in-east-jerusalem.md)
 Israel has risked angering its US allies by approving the construction of 900 more homes in a settlement in East Jerusalem, even as President Nicolas Sarkozy pushed for a peace summit.
 
-### [ Piracy in Somalia:. A chemical tanker, the Singapore-operated "MV Theresa VIII" with 28 North Koreans on board, is seized by Somali pirates northwest of the Seychelles. ](/news/2009/11/17/piracy-in-somalia-a-chemical-tanker-the-singapore-operated-mv-theresa-viii-with-28-north-koreans-on-board-is-seized-by-somali-pirates.md)
+### [ Piracy in Somalia:: A chemical tanker, the Singapore-operated "MV Theresa VIII" with 28 North Koreans on board, is seized by Somali pirates northwest of the Seychelles. ](/news/2009/11/17/piracy-in-somalia-a-chemical-tanker-the-singapore-operated-mv-theresa-viii-with-28-north-koreans-on-board-is-seized-by-somali-pirates.md)
 Tuna trawler and crew released amid reports of $3.5m ransom having been paid by Madrid.
 
 ### [ An inquiry into a scandal known as "Indonesia's Watergate" says a police case against two anti-corruption officials should be dropped. ](/news/2009/11/17/an-inquiry-into-a-scandal-known-as-indonesia-s-watergate-says-a-police-case-against-two-anti-corruption-officials-should-be-dropped.md)

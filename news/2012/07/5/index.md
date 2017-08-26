@@ -1,12 +1,12 @@
 ## [2012-07-5](/news/2012/07/5/index.md)
 
-### [Syrian uprising (2011-present). The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/syrian-uprising-2011-present-the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in.md)
+### [Syrian uprising (2011-present): The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/syrian-uprising-2011-present-the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in.md)
 _Context: F-4 Phantom, Mediterranean Sea, Syria, Syrian uprising (2011-present), Turkish_
 
 ### [The Shard, the tallest building in Europe and the tallest habitable free-standing structure in the UK at 309.6 metres (1,016 ft), is officially opened. ](/news/2012/07/5/the-shard-the-tallest-building-in-europe-and-the-tallest-habitable-free-standing-structure-in-the-uk-at-309-6-metres-1-016-ft-is-officia.md)
 The Duke of York and Sheikh Hamad Bin Jassim Bin Jabor Al Thani, prime minister of Qatar, will inaugurate the Shard skyscraper at London Bridge on Thursday 5 July. 
 
-### [Libor inter-bank lending rate. Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/libor-inter-bank-lending-rate-moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-li.md)
+### [Libor inter-bank lending rate: Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/libor-inter-bank-lending-rate-moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-li.md)
 The chancellor accepts that Ed Balls was not personally involved in the Libor rate-rigging scandal, as Labour agrees to co-operate with a parliamentary inquiry into the affair.
 
 ### [The central banks of the European Union, Great Britain, and the People's Republic of China, in what appears to be a co-ordinated action, each loosen their respective monetary systems. ](/news/2012/07/5/the-central-banks-of-the-european-union-great-britain-and-the-people-s-republic-of-china-in-what-appears-to-be-a-co-ordinated-action-eac.md)

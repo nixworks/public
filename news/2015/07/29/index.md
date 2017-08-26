@@ -1,15 +1,15 @@
 ## [2015-07-29](/news/2015/07/29/index.md)
 
-### [War in Afghanistan (2001-present). The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md)
+### [War in Afghanistan (2001-present): The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md)
 Afghanistan said on Wednesday that Mullah Omar, the elusive leader of the Taliban movement fighting to topple the government, died more than two years ago.
 
-### [War in North-West Pakistan. Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md)
+### [War in North-West Pakistan: Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md)
 _Context: Lashkar-e-Jhangvi, Malik Ishaq, War in North-West Pakistan_
 
 ### [The Wragg Fire in Northern California continues to burn at 80% containment with over 6,991 acres being destroyed and mandatory evacuations. ](/news/2015/07/29/the-wragg-fire-in-northern-california-continues-to-burn-at-80-containment-with-over-6-991-acres-being-destroyed-and-mandatory-evacuations.md)
 _Context: Wragg Fire_
 
-### [Malaysia Airlines Flight 370. Debris found near the Indian Ocean island of Reunion is consistent with material from a Boeing 777 and is being examined to confirm whether it is from Malaysia Airlines Flight 370. ](/news/2015/07/29/malaysia-airlines-flight-370-debris-found-near-the-indian-ocean-island-of-ra-c-union-is-consistent-with-material-from-a-boeing-777-and-is-bei.md)
+### [Malaysia Airlines Flight 370: Debris found near the Indian Ocean island of Reunion is consistent with material from a Boeing 777 and is being examined to confirm whether it is from Malaysia Airlines Flight 370. ](/news/2015/07/29/malaysia-airlines-flight-370-debris-found-near-the-indian-ocean-island-of-ra-c-union-is-consistent-with-material-from-a-boeing-777-and-is-bei.md)
 _Context: Boeing 777, Indian Ocean, Malaysia Airlines Flight 370, Reunion_
 
 ### [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md)

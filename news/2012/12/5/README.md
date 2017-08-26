@@ -1,15 +1,15 @@
 ## [2012-12-5](/news/2012/12/5/index.md)
 
-### [Syrian civil war:. Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/syrian-civil-war-hungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
+### [Syrian civil war:: Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/syrian-civil-war-hungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
 _Context: Damascus, Hungary, Syrian Civil War_
 
-### [2011-2012 conflict in Lebanon:. The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011-2012-conflict-in-lebanon-the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
+### [2011-2012 conflict in Lebanon:: The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011-2012-conflict-in-lebanon-the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
 _Context: 2011-2012 conflict in Lebanon, Tripoli, Lebanon_
 
-### [2012 terrorist attacks in Kenya:. A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-in.md)
+### [2012 terrorist attacks in Kenya:: A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-in.md)
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
 
-### [2012 Egyptian protests:. Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
+### [2012 Egyptian protests:: Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. ](/news/2012/12/5/2012-egyptian-protests-violent-clashes-occur-in-cairo-between-supporters-and-opponents-of-the-president-of-egypt-mohamed-morsi.md)
 The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitutio...
 
 ### [American jazz composer and pianist Dave Brubeck dies in Connecticut at the age of 91. ](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.md)

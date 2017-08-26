@@ -1,6 +1,6 @@
 ### [2017-02-12](/news/2017/02/12/index.md)
 
-# Turkmenistani presidential election, 2017. Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. 
+# Turkmenistani presidential election, 2017: Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. 
 
 
 

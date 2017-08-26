@@ -1,6 +1,6 @@
 ## [2010-04-29](/news/2010/04/29/index.md)
 
-### [Deepwater Horizon drilling rig explosion in the Gulf of Mexico. The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled.md)
+### [Deepwater Horizon drilling rig explosion in the Gulf of Mexico: The United States Coast Guard begins a controlled burn to remove oil spilled in the aftermath of the Deepwater Horizon disaster. ](/news/2010/04/29/deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-the-united-states-coast-guard-begins-a-controlled-burn-to-remove-oil-spilled.md)
 Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil giant BPPlc (BP.L) and owners of the drilling platform that exploded inthe Gulf of Mexico, as claims for economic losses anticipatedfrom the disaster began to mount.
 
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)

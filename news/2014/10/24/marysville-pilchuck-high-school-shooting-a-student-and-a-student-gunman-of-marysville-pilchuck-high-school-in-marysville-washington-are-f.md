@@ -1,6 +1,6 @@
 ### [2014-10-24](/news/2014/10/24/index.md)
 
-# Marysville Pilchuck High School shooting. A student and a student gunman of Marysville Pilchuck High School in Marysville, Washington, are fatally shot along with six others injured. 
+# Marysville Pilchuck High School shooting: A student and a student gunman of Marysville Pilchuck High School in Marysville, Washington, are fatally shot along with six others injured. 
 
 
 
@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Marysville Pilchuck High School shooting:. The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-the-death-toll-in-the-shooting-rises-to-five.md) _Context: Marysville Pilchuck High School shooting_
+1. [Marysville Pilchuck High School shooting:: The death toll in the shooting rises to five. ](/news/2014/11/7/marysville-pilchuck-high-school-shooting-the-death-toll-in-the-shooting-rises-to-five.md) _Context: Marysville Pilchuck High School shooting_

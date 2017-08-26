@@ -1,6 +1,6 @@
 ### [2015-04-29](/news/2015/04/29/index.md)
 
-# Succession to the Saudi Arabian throne. Crown Prince Muqrin is replaced by his nephew. 
+# Succession to the Saudi Arabian throne: Crown Prince Muqrin is replaced by his nephew. 
 
 
 

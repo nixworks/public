@@ -27,7 +27,7 @@ North Korea on Monday announced it is replacing its practically worthless curren
 ### [ Tony Abbott becomes the leader of the Federal Liberal Party of Australia and Leader of the Opposition defeating Malcolm Turnbull by 42 votes to 41 following a party revolt over its position on the Rudd government's Carbon Pollution Reduction Scheme. ](/news/2009/12/1/tony-abbott-becomes-the-leader-of-the-federal-liberal-party-of-australia-and-leader-of-the-opposition-defeating-malcolm-turnbull-by-42-vote.md)
 New Liberal leader Tony Abbott has promised to take the fight to the Government over emissions trading after wresting the leadership from Malcolm Turnbull by just one vote today.
 
-### [ The Treaty of Lisbon enters into force:. The European Union now has legal personality and has acquired the competences previously conferred on the European Community. Community law therefore becomes European Union law. ](/news/2009/12/1/the-treaty-of-lisbon-enters-into-force-the-european-union-now-has-legal-personality-and-has-acquired-the-competences-previously-conferred.md)
+### [ The Treaty of Lisbon enters into force:: The European Union now has legal personality and has acquired the competences previously conferred on the European Community. Community law therefore becomes European Union law. ](/news/2009/12/1/the-treaty-of-lisbon-enters-into-force-the-european-union-now-has-legal-personality-and-has-acquired-the-competences-previously-conferred.md)
 _Context: European Community, European Union, Treaty of Lisbon_
 
 ## [Previous Day...](/news/2009/11/30/index.md)

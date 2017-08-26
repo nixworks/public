@@ -1,6 +1,6 @@
 ## [2012-11-6](/news/2012/11/6/index.md)
 
-### [Syrian civil war:. The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md)
+### [Syrian civil war:: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-the-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md)
 Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives to work in the capital Damascus.
 
 ### [Charcoal shipments continue in the Somali port of Kismayo under the watch of African Union peacekeepers, despite a national and international ban on such shipments. ](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.md)
@@ -18,7 +18,7 @@ Malawi has suspended its anti-homosexual law ahead of a public debate and parlia
 ### [At least five people are reported shot at a workplace (Apple Valley Farms, a poultry and meat processing plant with about 50 employees) in central Fresno, California, according to the "Fresno Bee" newspaper. Initial reports have said that the gunman then shot himself nearby. ](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.md)
 _Context: Fresno Bee, Fresno, California_
 
-### [United States elections, 2012. Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/united-states-elections-2012-voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md)
+### [United States elections, 2012: Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/united-states-elections-2012-voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md)
 US President takes key states Pennsylvania and Wisconsin, though race with Mitt Romney remains close nationally.
 
 ### [Palauan presidential election, 2012: Voters in Palau go to the polls with incumbent President Johnson Toribiong and former President Tommy Remengesau both competing for the presidency. ](/news/2012/11/6/palauan-presidential-election-2012-voters-in-palau-go-to-the-polls-with-incumbent-president-johnson-toribiong-and-former-president-tommy-r.md)

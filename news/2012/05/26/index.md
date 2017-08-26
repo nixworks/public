@@ -1,6 +1,6 @@
 ## [2012-05-26](/news/2012/05/26/index.md)
 
-### [War in Afghanistan:. CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md)
+### [War in Afghanistan:: CNN estimates that the death toll of NATO forces reaches 3,000. ](/news/2012/05/26/war-in-afghanistan-cnn-estimates-that-the-death-toll-of-nato-forces-reaches-3-000.md)
 A sombre milestone has been reached in the Afghanistan war after an American sailor became the 3000th member of the Nato coalition to lose his life.
 
 ### [Two rebel groups in northern Mali, Ansar Dine and the National Movement for the Liberation of the Azawad join forces to form an independent Islamic state in the territory they occupy. ](/news/2012/05/26/two-rebel-groups-in-northern-mali-ansar-dine-and-the-national-movement-for-the-liberation-of-the-azawad-join-forces-to-form-an-independent.md)

@@ -1,6 +1,6 @@
 ## [2016-03-26](/news/2016/03/26/index.md)
 
-### [Syrian Civil War. Palmyra offensive (March 2016). Syrian troops advance into Palmyra on multiple fronts with the help of Russian airstrikes and take several neighbourhoods, according to the Syrian Observatory for Human Rights. However they were unable to encircle the city. ](/news/2016/03/26/syrian-civil-war-palmyra-offensive-march-2016-syrian-troops-advance-into-palmyra-on-multiple-fronts-with-the-help-of-russian-airstrikes.md)
+### [Syrian Civil War: Palmyra offensive (March 2016): Syrian troops advance into Palmyra on multiple fronts with the help of Russian airstrikes and take several neighbourhoods, according to the Syrian Observatory for Human Rights. However they were unable to encircle the city. ](/news/2016/03/26/syrian-civil-war-palmyra-offensive-march-2016-syrian-troops-advance-into-palmyra-on-multiple-fronts-with-the-help-of-russian-airstrikes.md)
 Syrian government forces backed by Russian air strikes seize several neighbourhoods in Palmyra, state TV says.
 
 ### [British rock band The Rolling Stones performs in Havana, Cuba, playing an open-air free concert in the country, in what has been called a "historic moment." Western music used to be banned in Cuba as being "ideologically divergent." ](/news/2016/03/26/british-rock-band-the-rolling-stones-performs-in-havana-cuba-playing-an-open-air-free-concert-in-the-country-in-what-has-been-called-a-h.md)
@@ -18,19 +18,19 @@ Microsoft Corp (MSFT.O) executives are in early talks with potential Yahoo Inc (
 ### [All four on board are killed when a medical services helicopter, transporting a patient from a car accident, crashes in a wooded area in Coffee County, Alabama. The helicopter pilot, a nurse, a medic, and the patient were killed. ](/news/2016/03/26/all-four-on-board-are-killed-when-a-medical-services-helicopter-transporting-a-patient-from-a-car-accident-crashes-in-a-wooded-area-in-cof.md)
 Four people, including a patient who was being airlifted from the scene of a car accident, were killed on Saturday when a medical services helicopter crashed in Alabama, authorities said.
 
-### [Zika virus outbreak. Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/zika-virus-outbreak-chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-w.md)
+### [Zika virus outbreak: Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/zika-virus-outbreak-chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-w.md)
 Chile has confirmed its first case of the Zika virus having been sexually transmitted, the health ministry said in a statement on its website on Saturday.
 
-### [Flint water crisis. The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/flint-water-crisis-the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deli.md)
+### [Flint water crisis: The U.S. Federal Emergency Management Agency extends the federal disaster declaration for Flint, Michigan, so water deliveries can continue through mid-August. ](/news/2016/03/26/flint-water-crisis-the-u-s-federal-emergency-management-agency-extends-the-federal-disaster-declaration-for-flint-michigan-so-water-deli.md)
 FEMA extended its federal disaster declaration in the wake of the Flint water crisis through mid-August so water deliveries can continue.
 
 ### [A study, published in "The American Journal of Sports Medicine", finds high school athletes who focus on a single sport may be at increased risk for knee and hip injuries. ](/news/2016/03/26/a-study-published-in-the-american-journal-of-sports-medicine-finds-high-school-athletes-who-focus-on-a-single-sport-may-be-at-increased.md)
 High school athletes who focus on a single sport may be at increased risk for knee and hip injuries, a new study suggests.
 
 ### [U.S. Chairman of the Joint Chiefs of Staff Joseph Dunford makes a proposal to President Barack Obama to increase the number of American troops in Iraq, so as to help the Iraqi Army with advisors closer to the front lines and to recapture Mosul, which fell to ISIL in June 2014. ](/news/2016/03/26/u-s-chairman-of-the-joint-chiefs-of-staff-joseph-dunford-makes-a-proposal-to-president-barack-obama-to-increase-the-number-of-american-troo.md)
-_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, Iraq, Iraqi Army, Islamic State of Iraq and the Levant, Joseph Dunford, Mosul, United States, United States military personnel, president_
+_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, Iraq, Iraqi Army, Islamic State of Iraq and the Levant, Joseph Dunford, Mosul, President, United States, United States military personnel_
 
-### [United States presidential election, 2016. Democratic Party presidential primaries, 2016. Voters in the U.S. states of Alaska, Hawaii, and Washington gather for Democratic Party caucuses. ](/news/2016/03/26/united-states-presidential-election-2016-democratic-party-presidential-primaries-2016-voters-in-the-u-s-states-of-alaska-hawaii-and-w.md)
+### [United States presidential election, 2016: Democratic Party presidential primaries, 2016: Voters in the U.S. states of Alaska, Hawaii, and Washington gather for Democratic Party caucuses. ](/news/2016/03/26/united-states-presidential-election-2016-democratic-party-presidential-primaries-2016-voters-in-the-u-s-states-of-alaska-hawaii-and-w.md)
 Bernie Sanders pushed for a trifecta of wins in Saturday&#8217;s Democratic presidential caucuses in Hawaii, Alaska and Washington state, hoping to stoke a spring comeback against the commanding front-runner, Hillary Clinton.
 
 ## [Previous Day...](/news/2016/03/25/index.md)

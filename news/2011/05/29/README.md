@@ -1,15 +1,15 @@
 ## [2011-05-29](/news/2011/05/29/index.md)
 
-### [NATO killing of civilians in Afghanistan:. NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md)
+### [NATO killing of civilians in Afghanistan:: NATO kills 14 civilians, 12 children and 2 women, with an airstrike on homes in Helmand Province. ](/news/2011/05/29/nato-killing-of-civilians-in-afghanistan-nato-kills-14-civilians-12-children-and-2-women-with-an-airstrike-on-homes-in-helmand-province.md)
 Deadly attack in volatile southwestern province followed small arms fire on US Marines.
 
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
 _Context: Lockheed, cyber-attack, defense contractor_
 
-### [2011 Yemeni uprising:. Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
+### [2011 Yemeni uprising:: Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
 Hundreds of suspected al-Qaeda gunmen have captured the southern Yemeni city of Zinjibar after heavy fighting with security forces.
 
-### [2011 Syrian uprising:. The regime's forces attack the towns of Rastan and Talbisa, located north of Damascus, storming houses and using tanks and helicopters to cut the towns off from the outside world. ](/news/2011/05/29/2011-syrian-uprising-the-regime-s-forces-attack-the-towns-of-rastan-and-talbisa-located-north-of-damascus-storming-houses-and-using-tank.md)
+### [2011 Syrian uprising:: The regime's forces attack the towns of Rastan and Talbisa, located north of Damascus, storming houses and using tanks and helicopters to cut the towns off from the outside world. ](/news/2011/05/29/2011-syrian-uprising-the-regime-s-forces-attack-the-towns-of-rastan-and-talbisa-located-north-of-damascus-storming-houses-and-using-tank.md)
 Security troops using tanks attack the towns of Rastan and Talbisa, north of the capital Damascus, killing five people and wounding many more, reports say.
 
 ### [A bomb blast in the Nigerian city of Bauchi kills 12 people and injures 25. ](/news/2011/05/29/a-bomb-blast-in-the-nigerian-city-of-bauchi-kills-12-people-and-injures-25.md)

@@ -1,6 +1,6 @@
 ### [2008-05-15](/news/2008/05/15/index.md)
 
-#  Burma. Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. 
+#  Burma: Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. 
 
 
 

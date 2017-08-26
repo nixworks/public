@@ -1,6 +1,6 @@
 ### [2010-10-30](/news/2010/10/30/index.md)
 
-# 2010 cargo plane bomb plot. The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. 
+# 2010 cargo plane bomb plot: The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. 
 
 The bomb found on a plane in the UK was designed to go off on the aircraft, the British PM says, as Yemen arrests a woman suspected of involvement.
 

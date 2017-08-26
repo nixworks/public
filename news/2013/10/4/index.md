@@ -1,6 +1,6 @@
 ## [2013-10-4](/news/2013/10/4/index.md)
 
-### [Islamist protests in Egypt (July 2013-present):. Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013-present-four-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-o.md)
+### [Islamist protests in Egypt (July 2013-present):: Four people are killed after supporters of ousted President Mohammed Morsi clashed with opponents and security forces. ](/news/2013/10/4/islamist-protests-in-egypt-july-2013-present-four-people-are-killed-after-supporters-of-ousted-president-mohammed-morsi-clashed-with-o.md)
 At least four people died in clashes on Friday as supporters of deposed President Mohamed Mursi mounted their boldest marches since troops crushed their protest camps demanding his reinstatement on August 14.
 
 ### [US forces initiate two major raids against terror in Africa. ](/news/2013/10/4/us-forces-initiate-two-major-raids-against-terror-in-africa.md)

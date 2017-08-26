@@ -1,9 +1,9 @@
 ## [2014-11-19](/news/2014/11/19/index.md)
 
-### [Islamist insurgency in Nigeria:. Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md)
+### [Islamist insurgency in Nigeria:: Boko Haram kill at least 45 in a reprisal attack on a village in northeastern Nigeria. ](/news/2014/11/19/islamist-insurgency-in-nigeria-boko-haram-kill-at-least-45-in-a-reprisal-attack-on-a-village-in-northeastern-nigeria.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
 
-### [Kachin conflict. The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/kachin-conflict-the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md)
+### [Kachin conflict: The Myanmar Army attacks a Kachin Independence Army headquarters near Laiza, killing at least 22 insurgents. ](/news/2014/11/19/kachin-conflict-the-myanmar-army-attacks-a-kachin-independence-army-headquarters-near-laiza-killing-at-least-22-insurgents.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A car bomb targets a government building in the Iraqi Kurdish capital Irbil, resulting in four deaths. ](/news/2014/11/19/a-car-bomb-targets-a-government-building-in-the-iraqi-kurdish-capital-irbil-resulting-in-four-deaths.md)

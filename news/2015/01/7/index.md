@@ -1,9 +1,9 @@
 ## [2015-01-7](/news/2015/01/7/index.md)
 
-### ["Charlie Hebdo" shooting. Gunmen attack the Paris office of the French satirical magazine "Charlie Hebdo", killing twelve people and injuring ten. Some witnesses report that the gunmen identified themselves as belonging to al-Qaeda in Yemen. A 2011 issue had depicted a cartoon of the Islamic prophet Muhammed. ](/news/2015/01/7/charlie-hebdo-shooting-gunmen-attack-the-paris-office-of-the-french-satirical-magazine-charlie-hebdo-killing-twelve-people-and-injurin.md)
+### ["Charlie Hebdo" shooting: Gunmen attack the Paris office of the French satirical magazine "Charlie Hebdo", killing twelve people and injuring ten. Some witnesses report that the gunmen identified themselves as belonging to al-Qaeda in Yemen. A 2011 issue had depicted a cartoon of the Islamic prophet Muhammed. ](/news/2015/01/7/charlie-hebdo-shooting-gunmen-attack-the-paris-office-of-the-french-satirical-magazine-charlie-hebdo-killing-twelve-people-and-injurin.md)
 A major manhunt is under way in Paris for three gunmen who shot dead 12 people at the office of the French satirical magazine Charlie Hebdo.
 
-### [al-Qaeda insurgency in Yemen. A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/al-qaeda-insurgency-in-yemen-a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dea.md)
+### [al-Qaeda insurgency in Yemen: A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/al-qaeda-insurgency-in-yemen-a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dea.md)
 At least 38 killed and dozen others injured in massive bomb blast near police academy in capital Sanaa.
 
 ### [Archaeologists in China uncover 2,800-year-old tombs (Eastern Zhou dynasty) in Hubei province. ](/news/2015/01/7/archaeologists-in-china-uncover-2-800-year-old-tombs-eastern-zhou-dynasty-in-hubei-province.md)

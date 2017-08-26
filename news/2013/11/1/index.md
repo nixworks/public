@@ -1,12 +1,12 @@
 ## [2013-11-1](/news/2013/11/1/index.md)
 
-### [Syrian civil war:. Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-israeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-miss.md)
+### [Syrian civil war:: Israeli aircraft carry out a strike near the Syrian coastal city of Latakia targeting Russian-made S-125 air defense missiles allegedly intended for use by the Lebanese militant group Hezbollah. ](/news/2013/11/1/syrian-civil-war-israeli-aircraft-carry-out-a-strike-near-the-syrian-coastal-city-of-latakia-targeting-russian-made-s-125-air-defense-miss.md)
 Israeli aircraft have carried out a strike near the Syrian coastal city of Latakia, apparently targeting Russian-made missiles, a US official says.
 
-### [War in North-West Pakistan:. A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-a-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a.md)
+### [War in North-West Pakistan:: A U.S. drone strike kills Hakimullah Mehsud, the leader of the Pakistani Taliban (whom the United States had a reward for $5 million) and five others. ](/news/2013/11/1/war-in-north-west-pakistan-a-u-s-drone-strike-kills-hakimullah-mehsud-the-leader-of-the-pakistani-taliban-whom-the-united-states-had-a.md)
 The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a drone strike, a high-ranking Taliban official tells the BBC.
 
-### [2013 Tiananmen Square attack:. China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-fiv.md)
+### [2013 Tiananmen Square attack:: China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-fiv.md)
 _Context: Beijing, China, East Turkestan Islamic Movement, Tiananmen Gate, last October_
 
 ### [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md)

@@ -1,6 +1,6 @@
 ### [2017-06-27](/news/2017/06/27/index.md)
 
-# European Union competition law. The European Commission imposes a record -2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. 
+# European Union competition law: The European Commission imposes a record -2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. 
 
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
 

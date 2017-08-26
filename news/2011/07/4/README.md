@@ -1,6 +1,6 @@
 ## [2011-07-4](/news/2011/07/4/index.md)
 
-### [Arab Spring:. 2011 Moroccan protests: Democracy campaigners dismiss as "unbelievable" government figures showing that 98 per cent of voters backed Morocco's constitutional referendum amid allegations of multiple voting, with people marching through Rabat, Casablanca and Tangier chanting "The interior minister is a liar". ](/news/2011/07/4/arab-spring-2011-moroccan-protests-democracy-campaigners-dismiss-as-unbelievable-government-figures-showing-that-98-per-cent-of-voters.md)
+### [Arab Spring:: 2011 Moroccan protests: Democracy campaigners dismiss as "unbelievable" government figures showing that 98 per cent of voters backed Morocco's constitutional referendum amid allegations of multiple voting, with people marching through Rabat, Casablanca and Tangier chanting "The interior minister is a liar". ](/news/2011/07/4/arab-spring-2011-moroccan-protests-democracy-campaigners-dismiss-as-unbelievable-government-figures-showing-that-98-per-cent-of-voters.md)
 At least 21 people have died in heavy fighting near the rebel-held southern Yemen city of Zinjibar, reports say.
 
 ### [Saboteurs bomb an Egyptian pipeline at Nagah in the Sinai Peninsula delivering gas to Israel and Jordan. ](/news/2011/07/4/saboteurs-bomb-an-egyptian-pipeline-at-nagah-in-the-sinai-peninsula-delivering-gas-to-israel-and-jordan.md)
@@ -36,7 +36,7 @@ Palestinian reports confirmed: PM Netanyahu approved handover of terrorist bodie
 ### [A statue of former President of the United States Ronald Reagan is unveiled at a ceremony outside the American embassy in Grosvenor Square, Central London, opposite a statue of Dwight D. Eisenhower. Those invited include Margaret Thatcher and Condoleezza Rice, while a piece of the Berlin Wall also features. ](/news/2011/07/4/a-statue-of-former-president-of-the-united-states-ronald-reagan-is-unveiled-at-a-ceremony-outside-the-american-embassy-in-grosvenor-square.md)
 A statue of the former US President, Ronald Reagan, is unveiled in central London at a ceremony outside the American embassy.
 
-### [Trial of Ratko Mladic in The Hague:. Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. ](/news/2011/07/4/trial-of-ratko-mladia-in-the-hague-former-bosnian-serb-colonel-general-ratko-mladia-is-scheduled-to-enter-a-plea-on-charges-of-genocide.md)
+### [Trial of Ratko Mladic in The Hague:: Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. ](/news/2011/07/4/trial-of-ratko-mladia-in-the-hague-former-bosnian-serb-colonel-general-ratko-mladia-is-scheduled-to-enter-a-plea-on-charges-of-genocide.md)
 Ex-Bosnian&#x20;Serb&#x20;army&#x20;chief&#x20;Ratko&#x20;Mladic&#x20;will&#x20;not&#x20;attend&#x20;his&#x20;second&#x20;plea&#x20;bargain&#x20;hearing&#x20;on&#x20;Monday&#x20;unless&#x20;he&#x20;is&#x20;forced&#x20;to,&#x20;his&#x20;lawyers&#x20;have&#x20;said.&#x20;Mladic&#x20;was&#x20;arrested&...
 
 ### [Sir Hugh Orde, President of the UK's Association of Chief Police Officers, announces that key policing services are being left "unfunded" as a result of cuts. ](/news/2011/07/4/sir-hugh-orde-president-of-the-uk-s-association-of-chief-police-officers-announces-that-key-policing-services-are-being-left-unfunded-as.md)
@@ -48,7 +48,7 @@ A Japanese man admits raping and killing British teacher Lindsay Ann Hawker whos
 ### [Lawyers for French novelist Tristane Banon say that she will file a criminal complaint accusing former International Monetary Fund head Dominique Strauss-Kahn of attempted rape. ](/news/2011/07/4/lawyers-for-french-novelist-tristane-banon-say-that-she-will-file-a-criminal-complaint-accusing-former-international-monetary-fund-head-domi.md)
 Dominique Strauss-Kahn faced a new sexual assault investigation on Tuesday when a young French writer filed a complaint alleging that he tried to rape her during a 2002 book interview.
 
-### [Thai general election:. Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a.md)
+### [Thai general election:: Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/thai-general-election-abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a.md)
 _Context: Abhisit Vejjajiva, Democrat Party, Prime Minister, Thailand, general election_
 
 ### [At least 88 lawmakers in the Indian state of Andhra Pradesh resign "en masse" in support of the creation of a new state called Telangana. ](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.md)
@@ -60,7 +60,7 @@ _Context: Abdoulaye Wade, Karim Wade, monarch_
 ### [President of the United States Barack Obama is falsely declared dead by the Twitter account of the U.S. broadcaster Fox News in a series of messages stating, "@BarackObama has just passed. The President is dead" and "BREAKING NEWS: @BarackObama assassinated, 2 gunshot wounds have proved too much". Hackers are blamed though the messages remain online several hours later. ](/news/2011/07/4/president-of-the-united-states-barack-obama-is-falsely-declared-dead-by-the-twitter-account-of-the-u-s-broadcaster-fox-news-in-a-series-of.md)
 Hackers have taken over a Twitter account belonging to US broadcaster Fox News and declared President Obama dead.
 
-### [Return of Hugo Chavez:. President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. ](/news/2011/07/4/return-of-hugo-cha-vez-president-hugo-cha-vez-returns-to-venezuela-after-undergoing-surgery-for-cancer-in-cuba.md)
+### [Return of Hugo Chavez:: President Hugo Chavez returns to Venezuela after undergoing surgery for cancer in Cuba. ](/news/2011/07/4/return-of-hugo-cha-vez-president-hugo-cha-vez-returns-to-venezuela-after-undergoing-surgery-for-cancer-in-cuba.md)
 Venezuelan President Hugo Chavez returns home after a prolonged stay in Cuba for treatment for cancer.
 
 ### [The UK government will introduce emergency legislation designed to reverse a controversial judgement on police bail for debate in the House of Commons on Thursday. ](/news/2011/07/4/the-uk-government-will-introduce-emergency-legislation-designed-to-reverse-a-controversial-judgement-on-police-bail-for-debate-in-the-house.md)

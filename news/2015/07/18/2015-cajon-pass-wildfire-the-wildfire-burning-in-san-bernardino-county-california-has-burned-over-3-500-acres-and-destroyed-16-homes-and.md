@@ -1,6 +1,6 @@
 ### [2015-07-18](/news/2015/07/18/index.md)
 
-# 2015 Cajon Pass wildfire. The wildfire burning in San Bernardino County, California has burned over 3,500 acres, and destroyed 16 homes and other buildings. The fire has also burned over 60 passenger vehicles and tractor-trailers. 
+# 2015 Cajon Pass wildfire: The wildfire burning in San Bernardino County, California has burned over 3,500 acres, and destroyed 16 homes and other buildings. The fire has also burned over 60 passenger vehicles and tractor-trailers. 
 
 The North Fire started at about 2:30 p.m. near Interstate 15 north of Highway 138, according to a joint statement from San Bernardino County Fire, CALFIRE and the San Bernardino County Sheriff&#039;s Department.
 

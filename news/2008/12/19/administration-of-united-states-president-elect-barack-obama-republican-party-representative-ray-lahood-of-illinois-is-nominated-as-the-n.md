@@ -1,6 +1,6 @@
 ### [2008-12-19](/news/2008/12/19/index.md)
 
-#  Administration of United States President-elect Barack Obama:. Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. 
+#  Administration of United States President-elect Barack Obama:: Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. 
 
 
 

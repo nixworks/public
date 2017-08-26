@@ -21,7 +21,7 @@ _Context: Cairo, Egyptian Army_
 ### [Russia joins the World Trade Organization. ](/news/2011/12/16/russia-joins-the-world-trade-organization.md)
 Russia finally joins the World Trade Organization at a ceremony in Geneva on Friday, after 18 years negotiating its membership.
 
-### [European credit ratings:. Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/european-credit-ratings-fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-inc.md)
+### [European credit ratings:: Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/european-credit-ratings-fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-inc.md)
 _Context: Europe, Fitch Ratings, France, Italian, Spain_
 
 ### [The stock price of Research in Motion, the maker of BlackBerry smart phones, falls after the release of disappointing quarterly numbers and news of the delay of expected product upgrades. ](/news/2011/12/16/the-stock-price-of-research-in-motion-the-maker-of-blackberry-smart-phones-falls-after-the-release-of-disappointing-quarterly-numbers-and.md)

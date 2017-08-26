@@ -1,6 +1,6 @@
 ## [2011-03-8](/news/2011/03/8/index.md)
 
-### [2011 Libyan civil war:. Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md)
+### [2011 Libyan civil war:: Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md)
 Opposition video said to show Gaddafi soldiers killed for refusing to fire on rebel targets west of the capital Tripoli.
 
 ### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010-2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)

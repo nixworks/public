@@ -15,7 +15,7 @@ _Context: China, drought, state of emergency_
 ### [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
 _Context: Faina, MV, Somali pirates, Somalia, US$, Ukraine, ransom_
 
-### [ Late 2000s recession:. The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
+### [ Late 2000s recession:: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
 _Context: Bank of England, base rate, interest, late 2000s recession_
 
 ### [ At least 10 people are killed in a Brazilian Federal Police raid in Rio de Janeiro. ](/news/2009/02/5/at-least-10-people-are-killed-in-a-brazilian-federal-police-raid-in-rio-de-janeiro.md)

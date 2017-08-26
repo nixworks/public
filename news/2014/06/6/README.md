@@ -1,15 +1,15 @@
 ## [2014-06-6](/news/2014/06/6/index.md)
 
-### [War in Afghanistan (2001-present):. Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001-present-abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-e.md)
+### [War in Afghanistan (2001-present):: Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001-present-abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-e.md)
 _Context: Abdullah Abdullah, Afghan presidential election, 2014, National Coalition of Afghanistan, War in Afghanistan (2001-present)_
 
-### [2014 pro-Russian conflict in Ukraine:. Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and.md)
+### [2014 pro-Russian conflict in Ukraine:: Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Eastern Ukraine, Petro Poroshenko, Russian President Vladimir Putin, Ukrainian President-elect, Vladimir Putin_
 
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
 _Context: Mehsud, North Waziristan, Pakistan, Tehreek-i-Taliban Pakistan, Urmuz_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Attacks across Iraq kill 27 people. ](/news/2014/06/6/iraqi-insurgency-post-u-s-withdrawal-attacks-across-iraq-kill-27-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Attacks across Iraq kill 27 people. ](/news/2014/06/6/iraqi-insurgency-post-u-s-withdrawal-attacks-across-iraq-kill-27-people.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)

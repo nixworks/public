@@ -3,7 +3,7 @@
 ### [Three muslim rebels are killed following a clash with government security forces in the Southern Philippines. ](/news/2011/01/26/three-muslim-rebels-are-killed-following-a-clash-with-government-security-forces-in-the-southern-philippines.md)
 _Context: Muslim, Southern Philippines_
 
-### [Egyptian Protests:. Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-three-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md)
+### [Egyptian Protests:: Three Egyptian protesters in Suez and one police officer in Cairo are killed in protests against president Hosni Mubarak. ](/news/2011/01/26/egyptian-protests-three-egyptian-protesters-in-suez-and-one-police-officer-in-cairo-are-killed-in-protests-against-president-hosni-mubarak.md)
 More than 500 demonstrators arrested as thousands return to streets in protest over poverty and political repression.
 
 ### [At least four people are killed and several injured in a car bombing in Dagestan in the North Caucasus. ](/news/2011/01/26/at-least-four-people-are-killed-and-several-injured-in-a-car-bombing-in-dagestan-in-the-north-caucasus.md)
@@ -60,7 +60,7 @@ The disgraced former MSP Tommy Sheridan is jailed for three years for committing
 ### [Scotland Yard launches a fresh inquiry into phone hacking by tabloid journalists after receiving "significant new information". ](/news/2011/01/26/scotland-yard-launches-a-fresh-inquiry-into-phone-hacking-by-tabloid-journalists-after-receiving-significant-new-information.md)
 Police launch a fresh investigation into phone hacking at the News of the World as it emerges its head of news, Ian Edmondson, has been sacked.
 
-### [Election of Micheal Martin:. Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-ireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian.md)
+### [Election of Micheal Martin:: Ireland's former foreign minister Micheal Martin is elected leader of the Fianna Fail party following Brian Cowen's resignation. ](/news/2011/01/26/election-of-michea-l-martin-ireland-s-former-foreign-minister-michea-l-martin-is-elected-leader-of-the-fianna-fa-il-party-following-brian.md)
 Ireland&#039;s ruling Fianna Fail party on Wednesday elected former foreign minister Micheal Martin to replace Prime Minister Brian Cowen as its leader, following Mr Cowen&#039;s resignation at the weekend.
 
 ### [U.S. President Barack Obama delivers the annual State of the Union address calling on the United States Congress to improve the nation's "crumbling" infrastructure, saying it will create jobs and help the nation compete in the global economy. ](/news/2011/01/26/u-s-president-barack-obama-delivers-the-annual-state-of-the-union-address-calling-on-the-united-states-congress-to-improve-the-nation-s-cr.md)

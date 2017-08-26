@@ -1,6 +1,6 @@
 ### [2017-08-15](/news/2017/08/15/index.md)
 
-# Libyan Civil War. The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. 
+# Libyan Civil War: The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. 
 
 Judges at the International Criminal Court (ICC) on Tuesday issued an arrest warrant for a Libyan National Army (LNA)commander accused over the alleged execution of dozens of prisoners.
 

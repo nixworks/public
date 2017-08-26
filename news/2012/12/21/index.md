@@ -1,12 +1,12 @@
 ## [2012-12-21](/news/2012/12/21/index.md)
 
-### [2012 Egyptian protests:. Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
+### [2012 Egyptian protests:: Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
 _Context: 2012 Egyptian protests, Alexandria, Egypt, constitutional referendum_
 
-### [2012 terrorist attacks in Kenya:. At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/2012-terrorist-attacks-in-kenya-at-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
+### [2012 terrorist attacks in Kenya:: At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/2012-terrorist-attacks-in-kenya-at-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
 At least 39 people have been killed in fresh clashes between rival communities in southern Kenya, police say, stoking fears of election violence.
 
-### [United Nations Flight 544 shootdown:. A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down.md)
+### [United Nations Flight 544 shootdown:: A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/united-nations-flight-544-shootdown-a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down.md)
 The UN says a helicopter from its peacekeeping mission has been shot down by the South Sudan army, killing all four crew, believed to be Russians.
 
 ### [The Mesoamerican Long Count calendar reaches the date 13.0.0.0.0, associated with various doomsday myths. ](/news/2012/12/21/the-mesoamerican-long-count-calendar-reaches-the-date-13-0-0-0-0-associated-with-various-doomsday-myths.md)

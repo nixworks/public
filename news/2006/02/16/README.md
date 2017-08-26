@@ -18,7 +18,7 @@ _Context: Chiapas, Kamel Nacif Borge, Lydia Cacho, Mario Marn, Pablo Salazar Men
 ### [ A United Nations report condemns the continued existence of Camp Delta, and multiple breaches of Human Rights by the US. ](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.md)
 _Context: Human rights, United Nations_
 
-### [ Abu Ghraib prison abuse:. US civil liberties groups have called for an inquiry into treatment of Iraqi detainees at Abu Ghraib after new images of apparent abuse were shown. ](/news/2006/02/16/abu-ghraib-prison-abuse-us-civil-liberties-groups-have-called-for-an-inquiry-into-treatment-of-iraqi-detainees-at-abu-ghraib-after-new-im.md)
+### [ Abu Ghraib prison abuse:: US civil liberties groups have called for an inquiry into treatment of Iraqi detainees at Abu Ghraib after new images of apparent abuse were shown. ](/news/2006/02/16/abu-ghraib-prison-abuse-us-civil-liberties-groups-have-called-for-an-inquiry-into-treatment-of-iraqi-detainees-at-abu-ghraib-after-new-im.md)
 _Context: Abu Ghraib prison_
 
 ### [ After allegations of fraud, officials in Haiti have reached an agreement to declare Ren Prval the winner of that country's election. ](/news/2006/02/16/after-allegations-of-fraud-officials-in-haiti-have-reached-an-agreement-to-declare-rene-preval-the-winner-of-that-country-s-election.md)

@@ -1,15 +1,15 @@
 ## [2013-01-1](/news/2013/01/1/index.md)
 
-### [Syrian civil war:. Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it.md)
+### [Syrian civil war:: Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-fierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it.md)
 _Context: Aleppo International Airport, Syria, Syrian Civil War, battle of Aleppo_
 
-### [War in North-West Pakistan:. Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jo.md)
+### [War in North-West Pakistan:: Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-gunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-jo.md)
 Seven charity workers, six of them women, are killed by gunmen in north-west Pakistan, police say.
 
-### [Colombian conflict:. 13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md)
+### [Colombian conflict:: 13 FARC members are killed in an airstrike by the Colombian military. ](/news/2013/01/1/colombian-conflict-13-farc-members-are-killed-in-an-airstrike-by-the-colombian-military.md)
 The Colombian Air Force says it has killed 13 Farc rebels in an attack on a camp in Antioquia province, as peace talks are due to resume in Cuba.
 
-### [Nigerian Sharia conflict:. Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md)
+### [Nigerian Sharia conflict:: Nigeria's military kill 13 members of the Islamist militant group Boko Haram and lose one soldier in a gun battle in Maiduguri. ](/news/2013/01/1/nigerian-sharia-conflict-nigeria-s-military-kill-13-members-of-the-islamist-militant-group-boko-haram-and-lose-one-soldier-in-a-gun-battle.md)
 _Context: Boko Haram, Islamist, Maiduguri, Nigeria, Nigerian Sharia conflict_
 
 ### [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md)
@@ -42,7 +42,7 @@ _Context: Celebratory gunfire, New Year, Philippines, firecracker_
 ### [Similar to numbers in previous years, 1193 empty parked cars are set on fire during New Year's Eve 'celebrations' across France. ](/news/2013/01/1/similar-to-numbers-in-previous-years-1193-empty-parked-cars-are-set-on-fire-during-new-year-s-eve-celebrations-across-france.md)
 PARIS (AP) — Hundreds of empty, parked cars go up in flames in France each New Year&#x27;s Eve, set afire by young revelers, a much lamented tradition that remained intact this year with 1,193 vehicles burned, Interior Minister Manuel Valls said Tuesday.
 
-### [United States "fiscal cliff" debate:. The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-the-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md)
+### [United States "fiscal cliff" debate:: The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-the-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md)
 The US Senate approves a deal to avert a combination of tax hikes and spending cuts known as the &quot;fiscal cliff&quot;, hours after missing a deadline.
 
 ### [North Korea's leader Kim Jong-un makes a rare New Year broadcast, calling for an improved economy and a reunified Korea. ](/news/2013/01/1/north-korea-s-leader-kim-jong-un-makes-a-rare-new-year-broadcast-calling-for-an-improved-economy-and-a-reunified-korea.md)

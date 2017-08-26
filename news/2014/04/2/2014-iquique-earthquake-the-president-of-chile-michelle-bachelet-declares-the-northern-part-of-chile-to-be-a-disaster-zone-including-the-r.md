@@ -1,6 +1,6 @@
 ### [2014-04-2](/news/2014/04/2/index.md)
 
-# 2014 Iquique earthquake:. The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. 
+# 2014 Iquique earthquake:: The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. 
 
 
 

@@ -11,8 +11,8 @@
 
 ### Related:
 
-1. [ Piracy in Somalia:. The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _Context: India, Indian Navy, Somali pirates_
-2. [Piracy in Somalia. Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
+1. [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _Context: India, Indian Navy, Somali pirates_
+2. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
 3. [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md) _Context: Indian Navy, Somali pirates_
 4. [Somali pirates hijack a Bangladeshi cargo ship off the coast of India. ](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.md) _Context: India, Somali pirates_
 5. [A Liberian owned cargo vessel with 24 Filipino crew is seized by Somali pirates 550 nautical miles from the coast of India. ](/news/2010/12/13/a-liberian-owned-cargo-vessel-with-24-filipino-crew-is-seized-by-somali-pirates-550-nautical-miles-from-the-coast-of-india.md) _Context: India, Somali pirates_

@@ -1,21 +1,21 @@
 ## [2015-07-4](/news/2015/07/4/index.md)
 
-### [ War in Donbass. A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/war-in-donbass-a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-rus.md)
+### [ War in Donbass: A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/war-in-donbass-a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-rus.md)
 _Context: Kiev, Minsk II, Russia, Ukraine, War in Donbass_
 
-### [ Saudi Arabian-led intervention in Yemen. Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/saudi-arabian-led-intervention-in-yemen-yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-sa.md)
+### [ Saudi Arabian-led intervention in Yemen: Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/saudi-arabian-led-intervention-in-yemen-yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-sa.md)
 Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.
 
-### [ Second Libyan Civil War. At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/second-libyan-civil-war-at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city.md)
+### [ Second Libyan Civil War: At least ten civilians are killed when three separate car bombs explode simultaneously in the eastern coastal city of Derna. ](/news/2015/07/4/second-libyan-civil-war-at-least-ten-civilians-are-killed-when-three-separate-car-bombs-explode-simultaneously-in-the-eastern-coastal-city.md)
 _Context: Derna, Second Libyan Civil War_
 
-### [ Sinai insurgency. A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/sinai-insurgency-a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-isl.md)
+### [ Sinai insurgency: A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/sinai-insurgency-a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-isl.md)
 _Context: Egyptian Army, Islamic State of Iraq and the Levant, Sinai, Sinai insurgency_
 
-### [ Syrian Civil War. A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/syrian-civil-war-a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
+### [ Syrian Civil War: A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/syrian-civil-war-a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
 _Context: Al Qaida's, Nusra Front, Syrian Civil War_
 
-### [ Nagorno-Karabakh conflict. The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md)
+### [ Nagorno-Karabakh conflict: The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md)
 _Context: Armenia, Azerbaijani military, Nagorno-Karabakh conflict_
 
 ### [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md)
@@ -36,7 +36,7 @@ _Context: South Korean navy_
 ### [ Abdul Gani Patail, the Attorney General of Malaysia, says that a probe of troubled state owned investment bank 1Malaysia Development Berhad has uncovered documents that show the transfer of money into private accounts of the Prime Minister Najib Razak. ](/news/2015/07/4/abdul-gani-patail-the-attorney-general-of-malaysia-says-that-a-probe-of-troubled-state-owned-investment-bank-1malaysia-development-berhad.md)
 KUALA LUMPUR, Malaysia—Malaysia’s attorney general said an official investigation into a troubled state investment fund has uncovered documents related to allegations that money was transferred into the personal bank accounts of Prime Minister Najib Razak.
 
-### [ 2015 Sousse attacks. Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/2015-sousse-attacks-tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md)
+### [ 2015 Sousse attacks: Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/2015-sousse-attacks-tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md)
 _Context: 2015 Sousse attacks, Beji Caid Essebsi, Tunisia, state of emergency_
 
 ### [ Tupou VI is officially crowned as the King of Tonga. ](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.md)

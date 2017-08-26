@@ -1,6 +1,6 @@
 ## [2009-09-26](/news/2009/09/26/index.md)
 
-### [ Second South America-Africa Summit (ASA) on Isla Margarita:. The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md)
+### [ Second South America-Africa Summit (ASA) on Isla Margarita:: The second South America-Africa Summit (ASA) begins on Isla Margarita. ](/news/2009/09/26/second-south-america-africa-summit-asa-on-isla-margarita-the-second-south-america-africa-summit-asa-begins-on-isla-margarita.md)
 The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Venezuela, signed on Saturday night an agreement establishing the South Bank with an initial capital of 20 billion U.S. dollars.
 
 ### [ More than 100 ministers and heads of state attend a United Nations meeting on the global hunger crisis. Bangladesh Prime Minister Sheikh Hasina tables a five-pronged set of recommendations to raise a hunger-free world. ](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.md)
@@ -13,7 +13,7 @@ _Context: Metro Manila, Philippines, Tropical Storm Ketsana_
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.
 
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Barack Obama, Kenya, Mwai Kibaki, president, president_
+_Context: Barack Obama, Kenya, Mwai Kibaki, President, president_
 
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.

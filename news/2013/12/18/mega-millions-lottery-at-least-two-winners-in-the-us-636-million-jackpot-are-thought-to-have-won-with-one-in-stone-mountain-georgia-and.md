@@ -1,6 +1,6 @@
 ### [2013-12-18](/news/2013/12/18/index.md)
 
-# Mega Millions lottery:. At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. 
+# Mega Millions lottery:: At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. 
 
 
 

@@ -1,9 +1,9 @@
 ## [2011-05-20](/news/2011/05/20/index.md)
 
-### [2011 Syrian protests:. Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md)
+### [2011 Syrian protests:: Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md)
 Thousands of Syrians took to the streets in what appeared to be a dangerous turn in the uprising. Rights groups said 26 people were killed by security forces.
 
-### [2011 Libyan civil war:. The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md)
+### [2011 Libyan civil war:: The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md)
 _Context: Anton Hammerl, Libya, Libyan Civil War, Muammar Gaddafi, South Africa_
 
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
@@ -46,7 +46,7 @@ _Context: Hague Convention on the Civil Aspects of International Child Abduction
 North Korean leader Kim Jong Il was visiting China on Friday, a South Korean official said, according to state-run Yonhap news agency.
 
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Six Day War, White House, president_
+_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, President, Six Day War, White House_
 
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
 Taiwan military prosecutors charge a senior general with spying for China - the highest-ranking officer involved in alleged espionage in decades.

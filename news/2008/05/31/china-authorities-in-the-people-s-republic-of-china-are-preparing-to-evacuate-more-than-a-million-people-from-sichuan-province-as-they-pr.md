@@ -1,6 +1,6 @@
 ### [2008-05-31](/news/2008/05/31/index.md)
 
-#  China:. Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. 
+#  China:: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. 
 
 Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 

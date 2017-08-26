@@ -1,6 +1,6 @@
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-# 2011 Horn of Africa famine. The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. 
+# 2011 Horn of Africa famine: The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. 
 
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.
 
@@ -20,5 +20,5 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 6. [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md) _Context: Islamist, Somalia, al-Shabaab militants_
 7. [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md) _Context: Islamist, Somalia, al-Shabaab militants_
 8. [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md) _Context: Islamist, Somalia, al-Shabaab militants_
-9. [Battle of Mogadishu (2010):. At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _Context: Islamist, Somalia, al-Shabaab militants_
+9. [Battle of Mogadishu (2010):: At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-t.md) _Context: Islamist, Somalia, al-Shabaab militants_
 10. [The African Union calls on the United Nations Security Council to impose an air and naval blockade of Somalia to counter an Islamist Al-Shabaab militant insurgency and piracy. ](/news/2010/10/21/the-african-union-calls-on-the-united-nations-security-council-to-impose-an-air-and-naval-blockade-of-somalia-to-counter-an-islamist-al-shab.md) _Context: Islamist, Somalia, al-Shabaab militants_

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [War in Afghanistan. The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/war-in-afghanistan-the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _Context: Vice President of Afghanistan_
+1. [War in Afghanistan: The Vice President of Afghanistan, Abdul Rashid Dostum, survives yet another assassination attempt. ](/news/2016/10/17/war-in-afghanistan-the-vice-president-of-afghanistan-abdul-rashid-dostum-survives-yet-another-assassination-attempt.md) _Context: Vice President of Afghanistan_

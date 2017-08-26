@@ -1,6 +1,6 @@
 ### [2017-06-21](/news/2017/06/21/index.md)
 
-# International Dublin Literary Award. Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel "A General Theory of Oblivion". (
+# International Dublin Literary Award: Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel "A General Theory of Oblivion". (
 
 
 

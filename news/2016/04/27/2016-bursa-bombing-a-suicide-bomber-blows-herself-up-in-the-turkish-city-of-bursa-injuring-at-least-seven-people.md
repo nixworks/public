@@ -1,6 +1,6 @@
 ### [2016-04-27](/news/2016/04/27/index.md)
 
-# 2016 Bursa bombing. A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. 
+# 2016 Bursa bombing: A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. 
 
 
 

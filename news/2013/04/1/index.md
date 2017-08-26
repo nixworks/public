@@ -1,9 +1,9 @@
 ## [2013-04-1](/news/2013/04/1/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. ](/news/2013/04/1/iraqi-insurgency-post-u-s-withdrawal-a-suicide-attacker-blows-up-a-tanker-lorry-at-the-police-headquarters-in-the-iraqi-city-of-tikrit.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. ](/news/2013/04/1/iraqi-insurgency-post-u-s-withdrawal-a-suicide-attacker-blows-up-a-tanker-lorry-at-the-police-headquarters-in-the-iraqi-city-of-tikrit.md)
 _Context: Baghdad, Iraq, Iraqi insurgency (post-U.S. withdrawal), Tikrit, suicide bombing_
 
-### [Syrian civil war:. Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md)
+### [Syrian civil war:: Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md)
 _Context: Alawite, Lebanon, Syria, Syrian Civil War_
 
 ### [Eli Reimer, aged sixteen, becomes the first teenager with Down syndrome to climb to Mount Everest's Base Camp. ](/news/2013/04/1/eli-reimer-aged-sixteen-becomes-the-first-teenager-with-down-syndrome-to-climb-to-mount-everest-s-base-camp.md)

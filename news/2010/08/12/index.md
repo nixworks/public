@@ -1,6 +1,6 @@
 ## [2010-08-12](/news/2010/08/12/index.md)
 
-### [War in Afghanistan:. The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-mass.md)
+### [War in Afghanistan:: The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-mass.md)
 _Context: 2010 Badakhshan massacre, Afghanistan's, International Assistance Mission, Taliban, War in Afghanistan (2001-present)_
 
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
@@ -45,7 +45,7 @@ _Context: Daniel Akerson, Edward Whitacre, Jr., General Motors, chief executive 
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
 _Context: Greek_
 
-### [2010 Pakistan floods:. The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakist.md)
+### [2010 Pakistan floods:: The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakist.md)
 Zardari meets flood victims after heavy criticism of decision to continue European tour.
 
 ### [Portuguese firefighters battle dozens of forest fires, with 2 dead so far. ](/news/2010/08/12/portuguese-firefighters-battle-dozens-of-forest-fires-with-2-dead-so-far.md)

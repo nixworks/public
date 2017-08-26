@@ -1,6 +1,6 @@
 ### [2014-05-22](/news/2014/05/22/index.md)
 
-# May 2014 Urumqi attack:. An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. 
+# May 2014 Urumqi attack:: An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. 
 
 At least 31 people have died in an explosion in the capital of China&#39;s western region of Xinjiang.
 
@@ -12,9 +12,9 @@ At least 31 people have died in an explosion in the capital of China&#39;s weste
 
 ### Related:
 
-1. [Political reshuffle in China. Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.. Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.. Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/political-reshuffle-in-china-li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-bec.md) _Context: Xinjiang Uyghur Autonomous Region_
+1. [Political reshuffle in China: Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.: Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.: Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/political-reshuffle-in-china-li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-bec.md) _Context: Xinjiang Uyghur Autonomous Region_
 2. [A Chinese scientist is reported missing on Xinjiang Uyghur Autonomous Region's Muztagh Ata glacier after conducting research on the Tibetan Plateau. ](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.md) _Context: Xinjiang Uyghur Autonomous Region_
 3. [Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. ](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-northwest-china-s-xinjiang-uyghur-autonomous-region-s-in-atus.md) _Context: Xinjiang Uyghur Autonomous Region_
 4. [In a major transfer of power in the Xinjiang Uyghur Autonomous Region of China, Zhang Chunxian replaces Wang Lequan as the region's Party Committee Secretary; Wang has served in the post since 1994. ](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.md) _Context: Xinjiang Uyghur Autonomous Region_
-5. [ July 2009 Urumqi riots. Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md) _Context: Urumqi_
+5. [ July 2009 Urumqi riots: Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/july-2009-ara1-4mqi-riots-chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-a.md) _Context: Urumqi_
 6. [ Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. ](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.md) _Context: Urumqi_

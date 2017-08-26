@@ -3,7 +3,7 @@
 ### [ Hurricane John lashes the Pacific coast of Mexico with the potential to cause flash floods and landslides. ](/news/2006/08/30/hurricane-john-lashes-the-pacific-coast-of-mexico-with-the-potential-to-cause-flash-floods-and-landslides.md)
 _Context: Flash flooding, Hurricane John, Mexico, landslide_
 
-### [ 2006 Israel-Lebanon conflict:. The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md)
+### [ 2006 Israel-Lebanon conflict:: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md)
 _Context: Jan Egeland, UN, cluster bombs, war_
 
 ### [ Multiple bomb attacks across Baghdad, Iraq kill at least 40 people while 12 more die after bomb explodes near an army recruiting office in Hilla. ](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.md)

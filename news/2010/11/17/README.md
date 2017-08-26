@@ -27,7 +27,7 @@ European finance ministers say they did not hold detailed discussions on a poten
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
 _Context: Bank of America, Lehman Brothers, US$, United States_
 
-### [Economy of the United States. New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/economy-of-the-united-states-new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
+### [Economy of the United States: New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/economy-of-the-united-states-new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, Economy of the United States_
 
 ### [Floods and gale-force winds cause widespread disruption and damage across the United Kingdom county of Cornwall. ](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.md)

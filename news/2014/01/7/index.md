@@ -1,6 +1,6 @@
 ## [2014-01-7](/news/2014/01/7/index.md)
 
-### [Syrian opposition-Islamic State of Iraq and the Levant conflict. Both belligerents mass execute dozens of their combatant prisoners. ](/news/2014/01/7/syrian-opposition-islamic-state-of-iraq-and-the-levant-conflict-both-belligerents-mass-execute-dozens-of-their-combatant-prisoners.md)
+### [Syrian opposition-Islamic State of Iraq and the Levant conflict: Both belligerents mass execute dozens of their combatant prisoners. ](/news/2014/01/7/syrian-opposition-islamic-state-of-iraq-and-the-levant-conflict-both-belligerents-mass-execute-dozens-of-their-combatant-prisoners.md)
 Rebels from rival groups in north-west Syria are reported to have carried out mass killings amid an ongoing inter-rebel war, activists say.
 
 ### [Four killed in US Air Force HH-60 Pave Hawk crash in England's Norfolk coast. ](/news/2014/01/7/four-killed-in-us-air-force-hh-60-pave-hawk-crash-in-england-s-norfolk-coast.md)

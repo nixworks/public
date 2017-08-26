@@ -9,7 +9,7 @@ _Context: Ancient Egypt, Saqqara, mummies, tomb_
 ### [ Bishop Richard Williamson is removed from a Roman Catholic seminary in Argentina after denying the Holocaust. ](/news/2009/02/9/bishop-richard-williamson-is-removed-from-a-roman-catholic-seminary-in-argentina-after-denying-the-holocaust.md)
 _Context: Argentina, Holocaust, Holocaust denial, Richard Williamson, Roman Catholic Church, bishop, seminary_
 
-### [ Automotive industry crisis of 2008-2009:. Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md)
+### [ Automotive industry crisis of 2008-2009:: Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/automotive-industry-crisis-of-2008-2009-japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md)
 _Context: Japan, Nissan Motors, late 2000s recession, struggling_
 
 ### [ Cecile Manorohanta resigns as Madagascar's Minister for Defense. ](/news/2009/02/9/ca-c-cile-manorohanta-resigns-as-madagascar-s-minister-for-defense.md)

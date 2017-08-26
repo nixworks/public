@@ -1,6 +1,6 @@
 ## [2011-03-27](/news/2011/03/27/index.md)
 
-### [Arab Spring:. 2011 Syrian protests. The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-2011-syrian-protests-the-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md)
+### [Arab Spring:: 2011 Syrian protests: The Syrian Army is deployed to the country's main port of Latakia. ](/news/2011/03/27/arab-spring-2011-syrian-protests-the-syrian-army-is-deployed-to-the-country-s-main-port-of-latakia.md)
 _Context: Arab Spring, Latakia, Syrian Army, Syrian uprising_
 
 ### [Rock group Arcade Fire wins four awards at the Juno Awards of 2011 honouring Canadian music. ](/news/2011/03/27/rock-group-arcade-fire-wins-four-awards-at-the-juno-awards-of-2011-honouring-canadian-music.md)

@@ -6,7 +6,7 @@ _Context: Communist Party of Nepal, Dolakha, Maoist, Nepal, Young Communist Leag
 ### [The death toll from the fighting in Kingston, Jamaica's capital, jumps to 27. ](/news/2010/05/25/the-death-toll-from-the-fighting-in-kingston-jamaica-s-capital-jumps-to-27.md)
 At least 27 people, mostly civilians, die in gun battles in Jamaica, as the hunt continues for a suspected drug lord.
 
-### [May 2010 Central European floods:. Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md)
+### [May 2010 Central European floods:: Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md)
 Poland has earmarked 2 billion zlotys ($590 million) from budget reserves to help victims of floods that have burst riverbanks and submerged homes, Prime Minister Donald Tusk said on Tuesday.
 
 ### [An international operation against a major drug trafficking gang deals "a major blow" as 26 people are arrested in Ireland, Spain and the United Kingdom, including a capo di tutti capi. ](/news/2010/05/25/an-international-operation-against-a-major-drug-trafficking-gang-deals-a-major-blow-as-26-people-are-arrested-in-ireland-spain-and-the-un.md)

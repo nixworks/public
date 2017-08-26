@@ -1,6 +1,6 @@
 ### [2017-07-17](/news/2017/07/17/index.md)
 
-# Foreign trade of the United States. Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. 
+# Foreign trade of the United States: Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. 
 
 The United States on Monday launched the first salvo in the renegotiation of the 23-year-old North American Free Trade Agreement (NAFTA), saying its top priority for the talks was shrinking the U.S. trade deficit with Canada and Mexico.
 
@@ -11,8 +11,8 @@ The United States on Monday launched the first salvo in the renegotiation of the
 
 ### Related:
 
-1. [Russian interference in the 2016 United States elections. Sally Yates testifies before the United States Senate Judiciary Subcommittee on Crime and Terrorism concerning investigations into Russia's role in the 2016 U.S. presidential election and in the Trump administration. ](/news/2017/05/8/russian-interference-in-the-2016-united-states-elections-sally-yates-testifies-before-the-united-states-senate-judiciary-subcommittee-on-cr.md) _Context: Trump Administration_
-2. [Presidential transition of Donald Trump. U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/presidential-transition-of-donald-trump-u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-neg.md) _Context: Robert Lighthizer_
+1. [Russian interference in the 2016 United States elections: Sally Yates testifies before the United States Senate Judiciary Subcommittee on Crime and Terrorism concerning investigations into Russia's role in the 2016 U.S. presidential election and in the Trump administration. ](/news/2017/05/8/russian-interference-in-the-2016-united-states-elections-sally-yates-testifies-before-the-united-states-senate-judiciary-subcommittee-on-cr.md) _Context: Trump Administration_
+2. [Presidential transition of Donald Trump: U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/presidential-transition-of-donald-trump-u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-neg.md) _Context: Robert Lighthizer_
 3. [A UBS whistle blower is assisting the government of Brazil in its investigation of currency manipulation by global banks, according to a Brazilian paper. ](/news/2015/07/3/a-ubs-whistle-blower-is-assisting-the-government-of-brazil-in-its-investigation-of-currency-manipulation-by-global-banks-according-to-a-bra.md) _Context: currency manipulation_
 4. [The United States trade deficit widens 8.5% during April as growth in imports outpaces growth in exports. ](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.md) _Context: trade deficit_
 5. [The People's Republic of China records its highest trade deficit in over a decade, indicating a slowing economy. ](/news/2012/03/12/the-people-s-republic-of-china-records-its-highest-trade-deficit-in-over-a-decade-indicating-a-slowing-economy.md) _Context: trade deficit_

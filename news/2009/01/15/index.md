@@ -4,7 +4,7 @@
 _Context: Britain, Hayes and Harlington, House of Commons of the United Kingdom, John McDonnell, MP, Parliament, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: Barack Obama, George W. Bush, United States, president, terrorism_
+_Context: Barack Obama, George W. Bush, President, United States, terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_
@@ -24,13 +24,13 @@ _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
 _Context: China, GDP, Germany, sixth-largest economy_
 
-### [ 2008-2009 Israel-Gaza conflict:. Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008-2009-israel-gaza-conflict-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
+### [ 2008-2009 Israel-Gaza conflict:: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008-2009-israel-gaza-conflict-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, United Nations, call, ceasefire, fire_
 
 ### [ Pakistan arrests 124 people in a crackdown on terrorism. ](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.md)
 _Context: 2008 Mumbai attacks, Pakistan, terrorism_
 
-### [ Late 2000s recession:. Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md)
+### [ Late 2000s recession:: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md)
 _Context: Japan, late 2000s recession, machine orders_
 
 ### [ Hawaii becomes the first U.S. state and the second media market after Wilmington, North Carolina, to convert to digital television. ](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.md)

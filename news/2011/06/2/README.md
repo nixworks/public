@@ -9,7 +9,7 @@ _Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkey_
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
 _Context: Afghan, Dir District, Pakistan army_
 
-### [2011 Yemeni uprising. A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/2011-yemeni-uprising-a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
+### [2011 Yemeni uprising: A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/2011-yemeni-uprising-a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
 _Context: 2011 Yemeni uprising, Sanaa, Yemen, sniper_
 
 ### [The FBI investigate claims that hackers in China attacked the Google email accounts of officials in the United States and Asian countries, as well as Chinese pro-democracy activists. ](/news/2011/06/2/the-fbi-investigate-claims-that-hackers-in-china-attacked-the-google-email-accounts-of-officials-in-the-united-states-and-asian-countries-a.md)
@@ -54,7 +54,7 @@ _Context: California, Kidnapping of Jaycee Lee Dugard_
 ### [Presidential elections in Latvia. Andris Berzins won the election. [http://www.google.com/hostednews/canadianpress/article/ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.md)
 _Context: Andris Berzins, Latvia, Presidential elections_
 
-### [Japanese politics. Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politics-prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)
+### [Japanese politics: Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politics-prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)
 Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vote in parliamentlater on Thursday, will resign in the autumn or later, privatebroadcaster TBS reported.
 
 ### [Mitt Romney announces plans to seek the Republican Party nomination as President of the United States. ](/news/2011/06/2/mitt-romney-announces-plans-to-seek-the-republican-party-nomination-as-president-of-the-united-states.md)

@@ -1,6 +1,6 @@
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-# John Bryson crashes:. Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. 
+# John Bryson crashes:: Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. 
 
 
 

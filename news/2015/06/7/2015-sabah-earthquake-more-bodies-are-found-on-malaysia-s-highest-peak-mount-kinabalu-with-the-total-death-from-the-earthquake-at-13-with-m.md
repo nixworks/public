@@ -1,6 +1,6 @@
 ### [2015-06-7](/news/2015/06/7/index.md)
 
-# 2015 Sabah earthquake. More bodies are found on Malaysia's highest peak Mount Kinabalu with the total death from the earthquake at 13 with most casualties from Malaysia and Singapore. 
+# 2015 Sabah earthquake: More bodies are found on Malaysia's highest peak Mount Kinabalu with the total death from the earthquake at 13 with most casualties from Malaysia and Singapore. 
 
 Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest peak Saturday, a day after it was struck by an earthquake.
 
@@ -12,9 +12,9 @@ Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest p
 
 ### Related:
 
-1. [2015 Sabah earthquake. The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/2015-sabah-earthquake-the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _Context: 2015 Sabah earthquake, Mount Kinabalu, Singapore_
-2. [2016 Southeast Asian haze. In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/2016-southeast-asian-haze-in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires.md) _Context: Malaysia, Singapore_
-3. [2015 Southeast Asian haze. The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/2015-southeast-asian-haze-the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-sm.md) _Context: Malaysia, Singapore_
+1. [2015 Sabah earthquake: The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/2015-sabah-earthquake-the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _Context: 2015 Sabah earthquake, Mount Kinabalu, Singapore_
+2. [2016 Southeast Asian haze: In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/2016-southeast-asian-haze-in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires.md) _Context: Malaysia, Singapore_
+3. [2015 Southeast Asian haze: The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/2015-southeast-asian-haze-the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-sm.md) _Context: Malaysia, Singapore_
 4. [Eleven bodies have been recovered from Mount Kinabalu and 8 people remain missing following yesterday's Sabah earthquake. ](/news/2015/06/6/eleven-bodies-have-been-recovered-from-mount-kinabalu-and-8-people-remain-missing-following-yesterday-s-sabah-earthquake.md) _Context: 2015 Sabah earthquake, Mount Kinabalu_
 5. [Two bodies have been removed from Borneo's Mount Kinabalu following the 6.1 magnitude earthquake that hit Malaysia's Sabah province Friday morning. Previously-stranded climbers, reported at 137, have descended to the Laban Rata resthouse. ](/news/2015/06/5/two-bodies-have-been-removed-from-borneo-s-mount-kinabalu-following-the-6-1-magnitude-earthquake-that-hit-malaysia-s-sabah-province-friday-m.md) _Context: Malaysia, Mount Kinabalu_
 6. [The United States Congress negotiates a deal to fast track the Trans-Pacific Partnership between the US and Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam. ](/news/2015/04/16/the-united-states-congress-negotiates-a-deal-to-fast-track-the-trans-pacific-partnership-between-the-us-and-australia-brunei-canada-chile.md) _Context: Malaysia, Singapore_

@@ -1,13 +1,13 @@
 ## [2015-03-18](/news/2015/03/18/index.md)
 
-### [Bardo National Museum attack. Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/bardo-national-museum-attack-gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-includi.md)
+### [Bardo National Museum attack: Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/bardo-national-museum-attack-gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-includi.md)
 Tourists from Poland and France among those killed, as Tunisian PM says one of gunmen was known to intelligence services before the attack
 
-### [2014-15 Australian region cyclone season. Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/2014-15-australian-region-cyclone-season-cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-t.md)
+### [2014-15 Australian region cyclone season: Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/2014-15-australian-region-cyclone-season-cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-t.md)
 _Context: 2014-15 Australian region cyclone season, Cooktown, Queensland, tropical cyclone_
 
 ### [The United States Department of Defense authorizes the U.S. Army to destroy a large U.S. stockpile of chemical weapons. ](/news/2015/03/18/the-united-states-department-of-defense-authorizes-the-u-s-army-to-destroy-a-large-u-s-stockpile-of-chemical-weapons.md)
-_Context: Pentagon officials, U.S. stockpile of chemical weapons, United States Army_
+_Context: U.S. military, U.S. stockpile of chemical weapons, United States Army_
 
 ### [Kraft Foods Group Inc. recalls more than 6.5 million 7.25-ounce (0.2-kilogram) boxes of its macaroni and cheese after customers reported finding small pieces of metal inside. The recalled products were shipped nationwide in the U.S. as well as to some countries in South America and the Caribbean. ](/news/2015/03/18/kraft-foods-group-inc-recalls-more-than-6-5-million-7-25-ounce-0-2-kilogram-boxes-of-its-macaroni-and-cheese-after-customers-reported-fin.md)
 _Context: Caribbean, Kraft Foods, South America, U.S._

@@ -1,6 +1,6 @@
 ### [2016-09-5](/news/2016/09/5/index.md)
 
-# 2016 Ethiopian protests. At least 23 inmates are killed in a fire and stampede at Kaliti Prison near Addis Ababa in Ethiopia during an attempted jailbreak. 
+# 2016 Ethiopian protests: At least 23 inmates are killed in a fire and stampede at Kaliti Prison near Addis Ababa in Ethiopia during an attempted jailbreak. 
 
 Ethiopia says 23 prisoners have died after a fire at a prison where prominent anti-government protesters are reportedly being held.
 
@@ -12,8 +12,8 @@ Ethiopia says 23 prisoners have died after a fire at a prison where prominent an
 ### Related:
 
 1. [A landslide at a rubbish dump on the outskirts of Addis Ababa, Ethiopia, kills at least 48 people. ](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-of-addis-ababa-ethiopia-kills-at-least-48-people.md) _Context: Addis Ababa, Ethiopia_
-2. [2016 Ethiopian protests. Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/2016-ethiopian-protests-ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-o.md) _Context: 2016 Ethiopian protests, Ethiopia_
-3. [2016 Ethiopian protests. Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/2016-ethiopian-protests-police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kil.md) _Context: 2016 Ethiopian protests, Ethiopia_
+2. [2016 Ethiopian protests: Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/2016-ethiopian-protests-ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-o.md) _Context: 2016 Ethiopian protests, Ethiopia_
+3. [2016 Ethiopian protests: Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/2016-ethiopian-protests-police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kil.md) _Context: 2016 Ethiopian protests, Ethiopia_
 4. [Police in Ethiopia arrest dozens of people outside the Saudi Arabian embassy in the capital Addis Ababa who were protesting against attacks on Ethiopians in Saudi Arabia. ](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.md) _Context: Addis Ababa, Ethiopia_
 5. [Ethiopian officials report that a plot by a group of Somali nationals to attack Sunday's 2014 FIFA World Cup qualification match in Addis Ababa failed when their explosives detonated inside their home, killing two of the would-be suicide bombers. ](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.md) _Context: Addis Ababa, Ethiopia_
 6. [State funeral of Ethiopia's long-serving Prime Minister Meles Zenawi is attended by thousands of people in Addis Ababa. ](/news/2012/09/2/state-funeral-of-ethiopia-s-long-serving-prime-minister-meles-zenawi-is-attended-by-thousands-of-people-in-addis-ababa.md) _Context: Addis Ababa, Ethiopia_

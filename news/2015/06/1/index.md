@@ -1,15 +1,15 @@
 ## [2015-06-1](/news/2015/06/1/index.md)
 
-### [Iraq War (2014-present):. An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014-present-an-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md)
+### [Iraq War (2014-present):: An Islamic State suicide bombing kills 37 at an Iraqi police base. ](/news/2015/06/1/iraq-war-2014-present-an-islamic-state-suicide-bombing-kills-37-at-an-iraqi-police-base.md)
 A huge suicide bomb attack on an Iraqi police base killed at least 37 people Monday, further slowing an operation to retake the city of Ramadi from Islamic State jihadists. The blast came as US-led coalition members carrying out air raids against IS and providing training and weapons to Iraqi forces
 
-### [War in Afghanistan (2001-present):. Nine Afghan employees of a Czech charity People In Need have been killed in an attack by unknown gunmen in Zari District in the north of the country. ](/news/2015/06/1/war-in-afghanistan-2001-present-nine-afghan-employees-of-a-czech-charity-people-in-need-have-been-killed-in-an-attack-by-unknown-gunme.md)
+### [War in Afghanistan (2001-present):: Nine Afghan employees of a Czech charity People In Need have been killed in an attack by unknown gunmen in Zari District in the north of the country. ](/news/2015/06/1/war-in-afghanistan-2001-present-nine-afghan-employees-of-a-czech-charity-people-in-need-have-been-killed-in-an-attack-by-unknown-gunme.md)
 Officials say at least nine killed, including a woman, in attack on NGO compound by unknown gunmen in Balkh province.
 
 ### [A ship carrying 458 people capsizes on Yangtze River in China's Hubei province. So far, just seven have been rescued. ](/news/2015/06/1/a-ship-carrying-458-people-capsizes-on-yangtze-river-in-china-s-hubei-province-so-far-just-seven-have-been-rescued.md)
 “A ship carrying more than 400 people capsized Monday night in the Hubei section of China&#39;s Yangtze River.”
 
-### [Illegal immigration from Africa to Europe. A European Union mission rescues more than 5,000 migrants over three days. ](/news/2015/06/1/illegal-immigration-from-africa-to-europe-a-european-union-mission-rescues-more-than-5-000-migrants-over-three-days.md)
+### [Illegal immigration from Africa to Europe: A European Union mission rescues more than 5,000 migrants over three days. ](/news/2015/06/1/illegal-immigration-from-africa-to-europe-a-european-union-mission-rescues-more-than-5-000-migrants-over-three-days.md)
 _Context: European Union, Illegal immigration from Africa to Europe_
 
 ### [Nigeria's anti-graft authority arrests six senior officials from the Central Bank of Nigeria and 16 people from commercial banks for fraud. ](/news/2015/06/1/nigeria-s-anti-graft-authority-arrests-six-senior-officials-from-the-central-bank-of-nigeria-and-16-people-from-commercial-banks-for-fraud.md)

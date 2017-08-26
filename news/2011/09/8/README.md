@@ -1,6 +1,6 @@
 ## [2011-09-8](/news/2011/09/8/index.md)
 
-### [North Caucasus insurgency/Ingushetia civil war:. Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md)
+### [North Caucasus insurgency/Ingushetia civil war:: Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md)
 _Context: Ingushetia civil war, Insurgency in the North Caucasus, North Caucasus, Russia_
 
 ### [United States counterterrorism officials investigate reports of a potential terrorist threat against either New York City or Washington DC, linked to the 10th anniversary of the September 11 attacks on Sunday. ](/news/2011/09/8/united-states-counterterrorism-officials-investigate-reports-of-a-potential-terrorist-threat-against-either-new-york-city-or-washington-dc.md)
@@ -9,7 +9,7 @@ The Department of Homeland Security said a new report of a threat of a car or tr
 ### [Unemployment in Australia is reported to have risen to 5.3% in August 2011. ](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.md)
 _Context: Australia, unemployment_
 
-### [2011 Northeastern United States floods following Tropical Storm Lee:. The National Weather Service issues flash flooding warnings for the states of New York, New Jersey, Pennsylvania, Connecticut, Maryland and Virginia. ](/news/2011/09/8/2011-northeastern-united-states-floods-following-tropical-storm-lee-the-national-weather-service-issues-flash-flooding-warnings-for-the-st.md)
+### [2011 Northeastern United States floods following Tropical Storm Lee:: The National Weather Service issues flash flooding warnings for the states of New York, New Jersey, Pennsylvania, Connecticut, Maryland and Virginia. ](/news/2011/09/8/2011-northeastern-united-states-floods-following-tropical-storm-lee-the-national-weather-service-issues-flash-flooding-warnings-for-the-st.md)
 * Region earlier socked by flooding from Hurricane Irene * Remnants of Tropical Storm Lee dump torrents of rain * Railways, commuter highw
 
 ### [The death toll in Japan from Typhoon Talas reaches 54, with 55 people still missing. ](/news/2011/09/8/the-death-toll-in-japan-from-typhoon-talas-reaches-54-with-55-people-still-missing.md)
@@ -28,7 +28,7 @@ _Context: Pacific Islands Forum, Tuiloma Neroni Slade_
 ROAD closures and public transport disruptions are set to plague Sydney today as police, firefighters, teachers and transport workers prepare for the biggest mass demonstration in two decades.
 
 ### [President of the United States Barack Obama delivers a speech to a joint session of both houses of Congress, putting forward a new job-creation plan entailing major spending initiatives and tax cuts. ](/news/2011/09/8/president-of-the-united-states-barack-obama-delivers-a-speech-to-a-joint-session-of-both-houses-of-congress-putting-forward-a-new-job-creat.md)
-_Context: Barack Obama, United States Congress, joint session of Congress, president_
+_Context: Barack Obama, President, United States Congress, joint session of Congress_
 
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
 _Context: Ho Chi Minh City, President of Vietnam, Vo Chi Cong_

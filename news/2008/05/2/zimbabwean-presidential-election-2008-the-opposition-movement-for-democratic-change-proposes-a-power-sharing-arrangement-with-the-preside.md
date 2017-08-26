@@ -1,6 +1,6 @@
 ### [2008-05-2](/news/2008/05/2/index.md)
 
-#  Zimbabwean presidential election, 2008. The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. 
+#  Zimbabwean presidential election, 2008: The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. 
 
 
 

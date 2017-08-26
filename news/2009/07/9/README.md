@@ -3,10 +3,10 @@
 ### [ A magnitude 5.7 earthquake strikes Yunnan province of China, killing one person and destroying over 10,000 homes. ](/news/2009/07/9/a-magnitude-5-7-earthquake-strikes-yunnan-province-of-china-killing-one-person-and-destroying-over-10-000-homes.md)
 _Context: China, Yunnan_
 
-### [ July 2009 rmqi riots. Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/july-2009-urumqi-riots-chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits.md)
+### [ July 2009 rmqi riots: Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/july-2009-urumqi-riots-chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits.md)
 _Context: Beijing, China, Chinese President, Hu Jintao, Politburo Standing Committee, Urumqi, riots_
 
-### [ 2009 Iranian election protests. Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/2009-iranian-election-protests-tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md)
+### [ 2009 Iranian election protests: Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/2009-iranian-election-protests-tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md)
 _Context: Tehran, protests against the regime_
 
 ### [ Sudan confirms negotiations are underway to free the kidnapped Irish and Ugandan aid workers Sharon Commins and Hilda Kawuki. ](/news/2009/07/9/sudan-confirms-negotiations-are-underway-to-free-the-kidnapped-irish-and-ugandan-aid-workers-sharon-commins-and-hilda-kawuki.md)
@@ -24,7 +24,7 @@ _Context: Ban Ki-moon, G8, Secretary General, climate change_
 ### [ Kul Bahadur Khadka, the Nepalese general appointed acting army chief by former Maoist Prime Minister Prachanda denies allegations of plans to stage a coup d'tat. ](/news/2009/07/9/kul-bahadur-khadka-the-nepalese-general-appointed-acting-army-chief-by-former-maoist-prime-minister-prachanda-denies-allegations-of-plans.md)
 _Context: Kul Bahadur Khadka, Maoist, Nepal, Prachanda, Prime Minister, coup d'tat_
 
-### [ British phone tapping controversy. David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/british-phone-tapping-controversy-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md)
+### [ British phone tapping controversy: David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned "News of the World" tabloid. ](/news/2009/07/9/british-phone-tapping-controversy-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md)
 British police investigating whether a News Corporation subsidiary hacked into cellphone messages concluded that a report in The Guardian newspaper on Wednesday contained no new information.
 
 ### [ A drone strike by the United States kills 50 Taliban militants in South Waziristan, Pakistan. ](/news/2009/07/9/a-drone-strike-by-the-united-states-kills-50-taliban-militants-in-south-waziristan-pakistan.md)

@@ -36,13 +36,13 @@ On International Day of the Disappeared, activists say fate of hundreds of missi
 ### [Alain "Spiderman" Robert climbs another building barehanded, this time in Sydney; he is later arrested. ](/news/2010/08/30/alain-spiderman-robert-climbs-another-building-barehanded-this-time-in-sydney-he-is-later-arrested.md)
 A French stuntman renowned for climbing skyscrapers has once again been arrested in Sydney after he scaled a building using his bare hands.
 
-### [2010 Pakistan floods. The historic city of Thatta is preserved by troops and volunteers fighting severe floodwaters in Pakistan; it had been thought of as being at great risk. ](/news/2010/08/30/2010-pakistan-floods-the-historic-city-of-thatta-is-preserved-by-troops-and-volunteers-fighting-severe-floodwaters-in-pakistan-it-had-been.md)
+### [2010 Pakistan floods: The historic city of Thatta is preserved by troops and volunteers fighting severe floodwaters in Pakistan; it had been thought of as being at great risk. ](/news/2010/08/30/2010-pakistan-floods-the-historic-city-of-thatta-is-preserved-by-troops-and-volunteers-fighting-severe-floodwaters-in-pakistan-it-had-been.md)
 People seek higher ground as troops and civilians struggle to protect city of Thatta from flood waters of the Indus.
 
-### [Chile mining accident. The 33 miners involved in the accident make telephone contact with their families for the first time in 3 weeks. ](/news/2010/08/30/chile-mining-accident-the-33-miners-involved-in-the-accident-make-telephone-contact-with-their-families-for-the-first-time-in-3-weeks.md)
+### [Chile mining accident: The 33 miners involved in the accident make telephone contact with their families for the first time in 3 weeks. ](/news/2010/08/30/chile-mining-accident-the-33-miners-involved-in-the-accident-make-telephone-contact-with-their-families-for-the-first-time-in-3-weeks.md)
 Miners trapped underground in Chile for more than three weeks have their first telephone contact with loved ones.
 
-### [2010 Atlantic hurricane season. Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km/h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md)
+### [2010 Atlantic hurricane season: Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km/h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md)
 Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in the dark of night, leaving residents and officials to wait for daybreak to assess the damage. 
 
 ### [Indonesia's Mount Sinabung continues to erupt with 21,000 people now evacuated from nearby areas of north Sumatra and two people dead. ](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.md)

@@ -11,7 +11,7 @@ The Lazarus Project team says they have been able to recover cell nuclei of the 
 
 ### Related:
 
-1. [Evolution. Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _Context: frog_
+1. [Evolution: Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _Context: frog_
 2. [The cave squeaker ("Arthroleptis troglodytes"), a critically endangered species of frog, is located and captured for the first time since 1962. Scientists announce plans to breed. ](/news/2017/02/4/the-cave-squeaker-arthroleptis-troglodytes-a-critically-endangered-species-of-frog-is-located-and-captured-for-the-first-time-since-19.md) _Context: frog_
 3. [Several new species of tiny frogs are discovered in India. ](/news/2017/02/21/several-new-species-of-tiny-frogs-are-discovered-in-india.md) _Context: frog_
 4. [ Scientists in Colombia discover new poisonous frog, dubbed the 'golden frog of Supat,' in a remote mountainous region. ](/news/2007/08/28/scientists-in-colombia-discover-new-poisonous-frog-dubbed-the-golden-frog-of-supata-in-a-remote-mountainous-region.md) _Context: frog_

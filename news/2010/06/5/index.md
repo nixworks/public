@@ -18,7 +18,7 @@ _Context: 11th Panchen Lama, Buddha, Jokhang Temple, Lhasa, Tibet Autonomous Reg
 ### [Francesca Schiavone of Italy wins the 2010 French Open defeating Samantha Stosur of Australia 6-4 7-6. ](/news/2010/06/5/francesca-schiavone-of-italy-wins-the-2010-french-open-defeating-samantha-stosur-of-australia-6-4-7-6.md)
 time grand slam winner since 1969
 
-### [Horse racing:. Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-workforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md)
+### [Horse racing:: Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-workforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md)
 _Context: Epsom Derby, Epsom Oaks, Horse racing, Ryan L. Moore, Workforce_
 
 ## [Previous Day...](/news/2010/06/4/index.md)

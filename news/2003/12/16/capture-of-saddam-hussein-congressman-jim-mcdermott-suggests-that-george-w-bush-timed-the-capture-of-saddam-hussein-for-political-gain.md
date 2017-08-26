@@ -1,6 +1,6 @@
 ### [2003-12-16](/news/2003/12/16/index.md)
 
-#  Capture of Saddam Hussein:. Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. 
+#  Capture of Saddam Hussein:: Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. 
 
 
 

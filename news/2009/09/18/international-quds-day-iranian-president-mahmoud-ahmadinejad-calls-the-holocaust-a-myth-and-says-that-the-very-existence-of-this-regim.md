@@ -1,6 +1,6 @@
 ### [2009-09-18](/news/2009/09/18/index.md)
 
-#  International Quds Day:. Iranian President Mahmoud Ahmadinejad calls The Holocaust a "myth" and says that "the very existence of this regime is an insult to the dignity of the people" in referring to Israel at a Quds Day rally in Tehran. 
+#  International Quds Day:: Iranian President Mahmoud Ahmadinejad calls The Holocaust a "myth" and says that "the very existence of this regime is an insult to the dignity of the people" in referring to Israel at a Quds Day rally in Tehran. 
 
 Iranian President Mahmoud Ahmadinejad has said the Holocaust was a &#39;myth&#39;, reiterating comments that sparked outrage around the world.
 

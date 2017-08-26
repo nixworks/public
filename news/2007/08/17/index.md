@@ -36,13 +36,13 @@ The renewal of regular, long-range patrols over the world’s oceans after a 15-
 ### [ Ashley Mote, a Member of the European Parliament for South East England, is convicted on 21 counts of fraud. ](/news/2007/08/17/ashley-mote-a-member-of-the-european-parliament-for-south-east-england-is-convicted-on-21-counts-of-fraud.md)
 _Context: Ashley Mote, Member of the European Parliament, South East England, fraud_
 
-### [ Hurricane Dean:. Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md)
+### [ Hurricane Dean:: Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. ](/news/2007/08/17/hurricane-dean-hurricane-dean-intensifies-into-a-category-4-hurricane-after-hitting-the-lesser-antilles.md)
 Hurricane Dean has intensified and developed into a category three hurricane, with winds reaching 200 kilometres per hour, the United States National Hurricane Centre has announced.
 
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
 _Context: Europe, Federal Reserve, United States, housing crisis_
 
-### [ 2007 Peru earthquake. The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/2007-peru-earthquake-the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affect.md)
+### [ 2007 Peru earthquake: The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/2007-peru-earthquake-the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affect.md)
 _Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
 
 ### [ The International Atomic Energy Agency and the United States Government advises that North Korea is co-operating with plans to shut down its nuclear program. ](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.md)

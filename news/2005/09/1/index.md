@@ -6,7 +6,7 @@ _Context: Aruba, Joran van der Sloot, Natalee Holloway_
 ### [ Al Jazeera broadcasts a video tape claimed to be supplied by Al-Qaeda which apparently shows suicide bomber Mohammad Sidique Khan prior to the 7 July 2005 London bombings stating that he would take part in the attacks. He warned Westerners that they would not be safe because of their "crimes against humanity." ](/news/2005/09/1/al-jazeera-broadcasts-a-video-tape-claimed-to-be-supplied-by-al-qaeda-which-apparently-shows-suicide-bomber-mohammad-sidique-khan-prior-to.md)
 _Context: 7 July, Al Jazeera, Mohammad Sidique Khan, al-Qaeda_
 
-### [ Hurricane Katrina:. U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md)
+### [ Hurricane Katrina:: U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/hurricane-katrina-u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-u.md)
 _Context: ABC, Diane Sawyer, George W. Bush, Hurricane Katrina, White House_
 
 ### [ Typhoon Talim passes over Taiwan, killing at least one person and injuring 24. ](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.md)

@@ -15,7 +15,7 @@ _Context: Bakassi, Cameroon, China_
 ### [Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. ](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.md)
 _Context: Goodluck Jonathan, Nigeria_
 
-### [Saint Patrick's Day. President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/saint-patrick-s-day-president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united.md)
+### [Saint Patrick's Day: President of the United States Barack Obama meets Taoiseach Brian Cowen at the White House in Washington, D.C., United States. ](/news/2010/03/17/saint-patrick-s-day-president-of-the-united-states-barack-obama-meets-taoiseach-brian-cowen-at-the-white-house-in-washington-d-c-united.md)
 US President Barack Obama has thanked the Irish Government for allowing US troops to stop off at Shannon Airport.
 
 ### [President of the United States Barack Obama announces that the United States will pursue aggressive sanctions to prevent Iran from getting a nuclear weapon that could potentially spark a nuclear arms race in the Middle East. ](/news/2010/03/17/president-of-the-united-states-barack-obama-announces-that-the-united-states-will-pursue-aggressive-sanctions-to-prevent-iran-from-getting-a.md)

@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [Presidency of Donald Trump. Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _Context: California, U.S. state_
+1. [Presidency of Donald Trump: Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _Context: California, U.S. state_
 2. [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md) _Context: California, U.S. state_
 3. [Police arrest 75 people outside Oakland City Hall in the U.S. state of California while clearing the campsite of the Occupy Oakland protest. ](/news/2011/10/25/police-arrest-75-people-outside-oakland-city-hall-in-the-u-s-state-of-california-while-clearing-the-campsite-of-the-occupy-oakland-protest.md) _Context: California, U.S. state_
 4. [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md) _Context: California, U.S. state_

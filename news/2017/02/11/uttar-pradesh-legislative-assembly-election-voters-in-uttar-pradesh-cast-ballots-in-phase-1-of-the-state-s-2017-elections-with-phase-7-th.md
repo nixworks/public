@@ -1,6 +1,6 @@
 ### [2017-02-11](/news/2017/02/11/index.md)
 
-# Uttar Pradesh Legislative Assembly election. Voters in Uttar Pradesh cast ballots in Phase 1 of the state's 2017 elections, with Phase 7, the final poll, to be held on 8 March. This will be an important test of India's November policy change that removed 86 percent of the cash then in circulation. 
+# Uttar Pradesh Legislative Assembly election: Voters in Uttar Pradesh cast ballots in Phase 1 of the state's 2017 elections, with Phase 7, the final poll, to be held on 8 March. This will be an important test of India's November policy change that removed 86 percent of the cash then in circulation. 
 
 More than 13 million Indians voted in the first stage of state assembly elections on Saturday, the biggest electoral test for Prime Minister Narendra Modi since coming to power in 2014.
 
@@ -11,7 +11,7 @@ More than 13 million Indians voted in the first stage of state assembly election
 
 ### Related:
 
-1. [2017 Khatauli train derailment. A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India, Uttar Pradesh_
+1. [2017 Khatauli train derailment: A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India, Uttar Pradesh_
 2. [Lightning strikes in the Indian states of Bihar and Uttar Pradesh kill at least 70 people, mostly farm labourers. ](/news/2016/06/22/lightning-strikes-in-the-indian-states-of-bihar-and-uttar-pradesh-kill-at-least-70-people-mostly-farm-labourers.md) _Context: India, Uttar Pradesh_
 3. [In India, about 2.3 million people respond to the state of Uttar Pradesh's announcement of 368 low-level government jobs openings that pay 16,000 rupees ($240) a month. At least 255 of the applicants had a doctorate and over 200,000 had master's degrees. ](/news/2015/09/18/in-india-about-2-3-million-people-respond-to-the-state-of-uttar-pradesh-s-announcement-of-368-low-level-government-jobs-openings-that-pay-1.md) _Context: India, Uttar Pradesh_
 4. [The Dehradun-Varanasi Janta Express derails near Bachhrawan Railway Station in Uttar Pradesh northern India resulting in at least 30 deaths and 150 people being injured. ](/news/2015/03/20/the-dehradun-varanasi-janta-express-derails-near-bachhrawan-railway-station-in-uttar-pradesh-northern-india-resulting-in-at-least-30-deaths.md) _Context: India, Uttar Pradesh_

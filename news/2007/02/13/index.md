@@ -3,7 +3,7 @@
 ### [ The TGV beats the record of the world's fastest conventional train with a speed of 553 &nbsp;km/h (344&nbsp;mph) reached during a test run on the LGV Est. ](/news/2007/02/13/the-tgv-beats-the-record-of-the-world-s-fastest-conventional-train-with-a-speed-of-553-nbsp-km-h-344-nbsp-mph-reached-during-a-test-run.md)
 _Context: LGV Est, TGV train, land speed record for railed vehicles_
 
-### [ Iraq War:. A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
+### [ Iraq War:: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
 _Context: Baghdad, Iraq War, car bomb, suicide bombing_
 
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
@@ -13,7 +13,7 @@ _Context: 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, USD, gov
 _Context: Iran, Iranian government, Mahmoud Ahmadinejad, President, nuclear scientist_
 
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
-_Context: 2008, Massachusetts governor, Mitt Romney, Republican, president_
+_Context: 2008, Massachusetts governor, Mitt Romney, President, Republican_
 
 ### [ A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. ](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving-one-dead-and-three-people-injured.md)
 _Context: Louisiana, New Orleans, tornado_

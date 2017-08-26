@@ -1,6 +1,6 @@
 ### [2017-04-9](/news/2017/04/9/index.md)
 
-# South Ossetian presidential election. Name change referendum, 2017. Voters in the breakaway state of South Ossetia go to the polls for an election and a referendum. The referendum will ask voters if the country's official name should be changed to "Republic of South Ossetia-the State of Alania". 
+# South Ossetian presidential election: Name change referendum, 2017: Voters in the breakaway state of South Ossetia go to the polls for an election and a referendum. The referendum will ask voters if the country's official name should be changed to "Republic of South Ossetia-the State of Alania". 
 
 
 

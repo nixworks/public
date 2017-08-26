@@ -1,6 +1,6 @@
 ## [2012-04-16](/news/2012/04/16/index.md)
 
-### [Syrian uprising:. UN Secretary-General Ban Ki-moon urges "maximum restraint" from the Syrian regime as the first UN military observers arrive in Damascus to monitor a fragile ceasefire. ](/news/2012/04/16/syrian-uprising-un-secretary-general-ban-ki-moon-urges-maximum-restraint-from-the-syrian-regime-as-the-first-un-military-observers-arriv.md)
+### [Syrian uprising:: UN Secretary-General Ban Ki-moon urges "maximum restraint" from the Syrian regime as the first UN military observers arrive in Damascus to monitor a fragile ceasefire. ](/news/2012/04/16/syrian-uprising-un-secretary-general-ban-ki-moon-urges-maximum-restraint-from-the-syrian-regime-as-the-first-un-military-observers-arriv.md)
 Ban Ki-moon, the UN secretary general, has urged &#034;maximum restraint&#034; from the Syrian regime and co-operation from the opposition as the first UN military observers arrived in Damascus to monitor a fragile ceasefire.
 
 ### [Military leaders and a group of political parties in Guinea-Bissau announce the formation of a Transitional National Council after the recent coup; the acting president and prime minister remain in detention. ](/news/2012/04/16/military-leaders-and-a-group-of-political-parties-in-guinea-bissau-announce-the-formation-of-a-transitional-national-council-after-the-recen.md)

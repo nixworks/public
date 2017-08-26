@@ -1,6 +1,6 @@
 ### [2017-07-24](/news/2017/07/24/index.md)
 
-# Lunar water. Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. 
+# Lunar water: Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. 
 
 Ancient volcanic deposits on the moon indicate the lunar interior has a substantial amount of water.
 

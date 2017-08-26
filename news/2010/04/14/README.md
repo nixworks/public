@@ -1,6 +1,6 @@
 ## [2010-04-14](/news/2010/04/14/index.md)
 
-### [2010 Yushu earthquake. Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/2010-yushu-earthquake-chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-sugges.md)
+### [2010 Yushu earthquake: Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.](/news/2010/04/14/2010-yushu-earthquake-chinese-media-say-589-people-have-died-after-a-6-9-magnitude-earthquake-hits-china-s-qinghai-province-reports-sugges.md)
 Chinese authorities raced against time, distance, altitude and wind in a remote corner of the Tibetan plateau as they tried to rescue victims of a magnitude 7.1 earthquake that killed at least 617...
 
 ### [At least 100 people are killed in India after a powerful storm demolished thousands of homes in West Bengal. ](/news/2010/04/14/at-least-100-people-are-killed-in-india-after-a-powerful-storm-demolished-thousands-of-homes-in-west-bengal.md)

@@ -1,15 +1,15 @@
 ## [2013-04-8](/news/2013/04/8/index.md)
 
-### [Syrian civil war:. A car bomb explodes in the center of the capital, Damascus, killing at least 15 people and wounding 53 others. ](/news/2013/04/8/syrian-civil-war-a-car-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-15-people-and-wounding-53-others.md)
+### [Syrian civil war:: A car bomb explodes in the center of the capital, Damascus, killing at least 15 people and wounding 53 others. ](/news/2013/04/8/syrian-civil-war-a-car-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-15-people-and-wounding-53-others.md)
 At least 15 people are killed and 53 wounded as a car bomb explodes in a busy part of the Syrian capital Damascus, state media report.
 
-### [War in Afghanistan (2001-present):. Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md)
+### [War in Afghanistan (2001-present):: Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md)
 President Hamid Karzai denounces reported death of 11 children by NATO forces in Kunar province and orders inquiry.
 
-### [South Yemen insurgency:. 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md)
+### [South Yemen insurgency:: 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/south-yemen-insurgency-4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md)
 Seven people were killed in clashes between army deserters and tribesmen in south Yemen on Monday, officials and residents said, in another sign of disorder in a country of multiple conflicts next to oil export giant Saudi Arabia.
 
-### [Sudanese nomadic conflicts:. Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md)
+### [Sudanese nomadic conflicts:: Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/sudanese-nomadic-conflicts-tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md)
 Sudanese President Omar Hassan al-Bashir said on Friday he wanted peace and normal relations with South Sudan in his first visit there since it split off from his country in 2011 after decades of civil war.
 
 ### [American actress Annette Funicello dies at the age of 70. ](/news/2013/04/8/american-actress-annette-funicello-dies-at-the-age-of-70.md)
@@ -27,7 +27,7 @@ _Context: A$, Australia, Australia-China relations, Australian Prime Minister, C
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
 _Context: Caribou Coffee, Chicago_
 
-### [2013 Korean crisis:. A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/2013-korean-crisis-a-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increa.md)
+### [2013 Korean crisis:: A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/2013-korean-crisis-a-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increa.md)
 North Korea may be preparing for a fourth nuclear test, with stepped up activity detected at its main test site, a senior South Korean government official said according to a report Monday.
 
 ### [Wikileaks announces the release of 1.7 million United States diplomatic and intelligence documents from 1973-1976 when Henry Kissinger was United States Secretary of State. ](/news/2013/04/8/wikileaks-announces-the-release-of-1-7-million-united-states-diplomatic-and-intelligence-documents-from-1973-1976-when-henry-kissinger-was.md)
@@ -51,7 +51,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
 _Context: Pakistan, Pervez Musharraf, President, Supreme Court, treason_
 
-### [Death of Margaret Thatcher:. Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/death-of-margaret-thatcher-margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
+### [Death of Margaret Thatcher:: Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/death-of-margaret-thatcher-margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
 The first woman to be UK prime minister, Baroness Thatcher, has died at the age of 87 following a stroke, her spokesman has said.
 
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)

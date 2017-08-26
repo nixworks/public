@@ -24,7 +24,7 @@ _Context: Kii Peninsula, Typhoon Talas, Wakayama Prefecture_
 ### [The 2011 Somalian famine, which has killed 30,000 children and tens of thousands more adults, spreads to the Bay Region of Somalia. ](/news/2011/09/5/the-2011-somalian-famine-which-has-killed-30-000-children-and-tens-of-thousands-more-adults-spreads-to-the-bay-region-of-somalia.md)
 The United Nations warned that Somalia’s famine had spread and that 750,000 people could die in the next few months unless aid efforts were scaled up.
 
-### [2011 Atlantic hurricane season:. Approximately 5,000 people are evacuated from their homes near the U.S. city of Austin, Texas, with wildfires caused in part by Tropical Storm Lee causing concerns in other parts of the state. ](/news/2011/09/5/2011-atlantic-hurricane-season-approximately-5-000-people-are-evacuated-from-their-homes-near-the-u-s-city-of-austin-texas-with-wildfir.md)
+### [2011 Atlantic hurricane season:: Approximately 5,000 people are evacuated from their homes near the U.S. city of Austin, Texas, with wildfires caused in part by Tropical Storm Lee causing concerns in other parts of the state. ](/news/2011/09/5/2011-atlantic-hurricane-season-approximately-5-000-people-are-evacuated-from-their-homes-near-the-u-s-city-of-austin-texas-with-wildfir.md)
 No longer a hurricane, Lee continued to drench the South and fuel wildfires in Texas.
 
 ### [South Korea announces that it will start sending emergency aid to North Korea next week after devastating floods. ](/news/2011/09/5/south-korea-announces-that-it-will-start-sending-emergency-aid-to-north-korea-next-week-after-devastating-floods.md)

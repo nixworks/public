@@ -27,10 +27,10 @@ _Context: bird flu_
 ### [ Ludwig Scotty's government wins a landslide victory in the Nauruan parliamentary election, 2007 with Rene Harris as the only member of the Opposition to win a seat. ](/news/2007/08/26/ludwig-scotty-s-government-wins-a-landslide-victory-in-the-nauruan-parliamentary-election-2007-with-rena-c-harris-as-the-only-member-of-the.md)
 _Context: Ludwig Scotty, Nauruan parliamentary election, 2007, Rene Harris_
 
-### [ 25 August 2007 Hyderabad bombings. Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md)
+### [ 25 August 2007 Hyderabad bombings: Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md)
 _Context: Hyderabad, Andhra Pradesh, India, bomb, bomb blasts_
 
-### [ 2007 Greek fires:. European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/2007-greek-fires-european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)
+### [ 2007 Greek fires:: European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/2007-greek-fires-european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)
 Several European Union countries are sending firefighters and equipment to Greece to help fight hundreds of forest fires that have killed at least 49 people.
 
 ## [Previous Day...](/news/2007/08/25/index.md)

@@ -12,4 +12,4 @@ One person was killed and at least 20 homes destroyed after a weekend tornado th
 
 ### Related:
 
-1. [U.S. tornado outbreak:. A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _Context: tornado_
+1. [U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md) _Context: tornado_

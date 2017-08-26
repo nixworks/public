@@ -3,7 +3,7 @@
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
 _Context: Austria, Belgium, Bulgaria, Denmark, Estonia, European Parliament, European Union, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, elections_
 
-### [ Air France Flight 447:. Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
+### [ Air France Flight 447:: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
 Search crews have spotted more bodies and found a large amount of debris from the Air France plane that plunged into the Atlantic ocean.
 
 ### [ Bolivia's government seeks two Irish passport-holders who are allegedly connected to the attempted assassination of President Evo Morales in April. ](/news/2009/06/7/bolivia-s-government-seeks-two-irish-passport-holders-who-are-allegedly-connected-to-the-attempted-assassination-of-president-evo-morales-i.md)

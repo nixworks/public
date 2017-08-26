@@ -33,7 +33,7 @@ _Context: Iran, Shane Bauer and Josh Fattal_
 ### [Turkey signs an accord with North Cyprus to explore for oil and gas in the Mediterranean in response to a decision by the Government of Cyprus to drill for oil. ](/news/2011/09/21/turkey-signs-an-accord-with-north-cyprus-to-explore-for-oil-and-gas-in-the-mediterranean-in-response-to-a-decision-by-the-government-of-cypr.md)
 _Context: Government of Cyprus, Mediterranean, North Cyprus, Turkey_
 
-### [Troy Davis case:. The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardo.md)
+### [Troy Davis case:: The United States Supreme Court decides to delay the execution of Troy Davis, superseding the Georgia State Board of Pardons and Paroles rejection of the request for death row clemency. ](/news/2011/09/21/troy-davis-case-the-united-states-supreme-court-decides-to-delay-the-execution-of-troy-davis-superseding-the-georgia-state-board-of-pardo.md)
 Convicted murderer Troy Davis was executed late Wednesday after the U.S. Supreme Court rejected a last-minute appeal.
 
 ## [Previous Day...](/news/2011/09/20/index.md)

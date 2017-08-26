@@ -1,6 +1,6 @@
 ### [2010-01-2](/news/2010/01/2/index.md)
 
-# Piracy in Somalia. Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. 
+# Piracy in Somalia: Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. 
 
 
 

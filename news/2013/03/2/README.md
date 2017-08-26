@@ -1,12 +1,12 @@
 ## [2013-03-2](/news/2013/03/2/index.md)
 
-### [2013 Bangladesh protests:. The death toll in Bangladesh rises to at least 50 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/2/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-at-least-50-as-protests-continue-following-the-sentencing-of-delwar-hossain.md)
+### [2013 Bangladesh protests:: The death toll in Bangladesh rises to at least 50 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/2/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-at-least-50-as-protests-continue-following-the-sentencing-of-delwar-hossain.md)
 _Context: 2013 Bangladesh protests, Bangladesh, Delwar Hossain Sayeedi_
 
-### [Northern Mali conflict:. Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at.md)
+### [Northern Mali conflict:: Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at.md)
 _Context: Africa, Algeria, Chad, Military, Mokhtar Belmokhtar, Northern Mali conflict (2012-present), al-Qaeda, mass hostage-taking_
 
-### [South Thailand insurgency:. Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-woundin.md)
+### [South Thailand insurgency:: Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-woundin.md)
 Suspected insurgents detonated a motorcycle bomb in southern Thailand on Saturday, killing two military rangers and wounding 11 people, the second serious attack in as many days after one of the Muslim rebel groups operating in the area agreed to hold peace talks.
 
 ### [A massive car crash on I-65 in Kentucky, United States, leaves 6 people from Wisconsin dead and 2 injured. ](/news/2013/03/2/a-massive-car-crash-on-i-65-in-kentucky-united-states-leaves-6-people-from-wisconsin-dead-and-2-injured.md)

@@ -1,9 +1,9 @@
 ## [2017-02-9](/news/2017/02/9/index.md)
 
-### [Syrian Civil War. Battle of al-Bab. At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/syrian-civil-war-battle-of-al-bab-at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near.md)
+### [Syrian Civil War: Battle of al-Bab: At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/syrian-civil-war-battle-of-al-bab-at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near.md)
 _Context: Battle of al-Bab, Russia, Syria, Syrian Civil War, Turkish troops, al-Bab_
 
-### [War in Afghanistan (2015-present). The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/war-in-afghanistan-2015-present-the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-opera.md)
+### [War in Afghanistan (2015-present): The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/war-in-afghanistan-2015-present-the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-opera.md)
 Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy in Jowzjan and killed six staff.
 
 ### [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md)
@@ -12,25 +12,25 @@ _Context: Egypt, Gaza Strip_
 ### [A fire at the Flamanville Nuclear Power Plant in northwest France caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause a radioactive leak. ](/news/2017/02/9/a-fire-at-the-flamanville-nuclear-power-plant-in-northwest-france-caused-an-explosion-in-a-non-nuclear-part-of-the-station-one-reactor-wa.md)
 A fire caused an explosion at the Flamanville nuclear power plant in northwest France on Thursday, leading the operator EDF to take a reactor offline, but there was no risk to the reactor, EDF and a local official said on Thursday.
 
-### [February 2017 North American blizzard. A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/february-2017-north-american-blizzard-a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md)
+### [February 2017 North American blizzard: A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/february-2017-north-american-blizzard-a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md)
 Here&#039;s the latest on this deadly winter storm.
 
 ### [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md)
 Pictures posted on social media show blacked-out streets, lit only by headlights and torches.
 
-### [China-United States relations. Donald Trump, the President of the United States, agrees to continue the One China Policy after a discussion with Chinese President Xi Jinping. ](/news/2017/02/9/china-united-states-relations-donald-trump-the-president-of-the-united-states-agrees-to-continue-the-one-china-policy-after-a-discussio.md)
+### [China-United States relations: Donald Trump, the President of the United States, agrees to continue the One China Policy after a discussion with Chinese President Xi Jinping. ](/news/2017/02/9/china-united-states-relations-donald-trump-the-president-of-the-united-states-agrees-to-continue-the-one-china-policy-after-a-discussio.md)
 The president had earlier called the policy on Taiwan into question, a red line for China.
 
-### [Russia-United States relations. When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump, raised the possibility of extending the 2010 New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump declined, stating that this treaty is a bad deal for the United States. ](/news/2017/02/9/russia-united-states-relations-when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-tru.md)
+### [Russia-United States relations: When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump, raised the possibility of extending the 2010 New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump declined, stating that this treaty is a bad deal for the United States. ](/news/2017/02/9/russia-united-states-relations-when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-tru.md)
 In his first call as president with Russian leader Vladimir Putin, Donald Trump denounced a treaty that caps U.S. and Russian deployment of nuclear warheads as a bad deal for the United States, according to two U.S. officials and one former U.S. official with knowledge of the call.
 
-### [U.S. immigration suspension. The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/u-s-immigration-suspension-the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block.md)
+### [U.S. immigration suspension: The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/u-s-immigration-suspension-the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block.md)
 _Context: U.S. immigration suspension, United States Court of Appeals for the Ninth Circuit_
 
 ### [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md)
 A Kenyan government order to forcibly repatriate 260,000 Somalis is ruled an act of persecution.
 
-### [2017 Romanian protests. Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/2017-romanian-protests-romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md)
+### [2017 Romanian protests: Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/2017-romanian-protests-romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md)
 _Context: 2017 Romanian protests, Florin Iordache, Justice Minister, Romania, Sorin Grindeanu_
 
 ### [Democrat Congressman Jerrold Nadler files a Resolution of Inquiry motion aimed at clarifying Donald Trump's relationship to Russia as well as potential conflicts of interest arising from his businesses. ](/news/2017/02/9/democrat-congressman-jerrold-nadler-files-a-resolution-of-inquiry-motion-aimed-at-clarifying-donald-trump-s-relationship-to-russia-as-well-a.md)

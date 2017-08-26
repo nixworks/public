@@ -1,9 +1,9 @@
 ## [2008-03-16](/news/2008/03/16/index.md)
 
-### [ 2008 unrest in Tibet:. The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md)
+### [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md)
 _Context: 2008 unrest in Tibet, Central Tibetan Administration, government in exile_
 
-### [ Subprime mortgage crisis:. JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md)
+### [ Subprime mortgage crisis:: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md)
 The Fed approved a $30 billion loan for the takeover of Bear Stearns and announced a new lending tool for investment firms.
 
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md)

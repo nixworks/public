@@ -1,6 +1,6 @@
 ### [2005-09-4](/news/2005/09/4/index.md)
 
-#  Hurricane Katrina:. Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" 
+#  Hurricane Katrina:: Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

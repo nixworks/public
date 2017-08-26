@@ -1,6 +1,6 @@
 ### [2017-08-8](/news/2017/08/8/index.md)
 
-# 2017 Jiuzhaigou earthquake. A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. 
+# 2017 Jiuzhaigou earthquake: A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. 
 
 At least five people have reportedly died and more than 60 wounded in the 6.5-magnitude quake.
 

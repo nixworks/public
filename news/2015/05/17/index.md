@@ -9,10 +9,10 @@ The Iraqi city of Ramadi falls to IS militants after troops abandoned their posi
 ### [Pope Francis of the Roman Catholic Church canonises two saints from Palestine, Sister Mariam Baouardy and Sister Marie Alphonsine Ghattas. ](/news/2015/05/17/pope-francis-of-the-roman-catholic-church-canonises-two-saints-from-palestine-sister-mariam-baouardy-and-sister-marie-alphonsine-ghattas.md)
 _Context: Catholic Church, Mariam Baouardy, Marie Alphonsine Ghattas, Palestine, Pope Francis, canonize, saints_
 
-### [2015 "Billboard" Music Awards. American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/2015-billboard-music-awards-american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md)
+### [2015 "Billboard" Music Awards: American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/2015-billboard-music-awards-american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md)
 Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, winning a massive eight gongs, mostly for her first pop album 1989.
 
-### [2015 Waco shootout. At least 9 people are killed and 18 injured, some by law enforcement and others in gunfire exchanges, in a shootout between rival biker gangs in Waco, Texas, at the Twin Peaks Restaurant. ](/news/2015/05/17/2015-waco-shootout-at-least-9-people-are-killed-and-18-injured-some-by-law-enforcement-and-others-in-gunfire-exchanges-in-a-shootout-betw.md)
+### [2015 Waco shootout: At least 9 people are killed and 18 injured, some by law enforcement and others in gunfire exchanges, in a shootout between rival biker gangs in Waco, Texas, at the Twin Peaks Restaurant. ](/news/2015/05/17/2015-waco-shootout-at-least-9-people-are-killed-and-18-injured-some-by-law-enforcement-and-others-in-gunfire-exchanges-in-a-shootout-betw.md)
 Eighteen people wounded as gunfire erupts near Interstate 35; local police sergeant says all the dead and injured were bikers
 
 ### [A 'groundbreaking' combination of lumacaftor and ivacaftor could improve the quality of life and life expectancy of cystic fibrosis sufferers is trialed. ](/news/2015/05/17/a-groundbreaking-combination-of-lumacaftor-and-ivacaftor-could-improve-the-quality-of-life-and-life-expectancy-of-cystic-fibrosis-sufferer.md)

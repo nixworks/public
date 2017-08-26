@@ -1,9 +1,9 @@
 ## [2016-06-18](/news/2016/06/18/index.md)
 
-### [Terrorism in the European Union. Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/terrorism-in-the-european-union-twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after.md)
+### [Terrorism in the European Union: Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/terrorism-in-the-european-union-twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after.md)
 Belgian officials charge three men arrested in overnight raids with terrorism offences, including trying to commit a terrorist murder.
 
-### [Spillover of the Syrian Civil War. The Syrian Observatory for Human Rights reports at least eight people, including four children, are shot and killed, and another eight wounded by Turkish border guards. The group was trying to cross from northwestern Syria into Turkey's Hatay Province. ](/news/2016/06/18/spillover-of-the-syrian-civil-war-the-syrian-observatory-for-human-rights-reports-at-least-eight-people-including-four-children-are-shot.md)
+### [Spillover of the Syrian Civil War: The Syrian Observatory for Human Rights reports at least eight people, including four children, are shot and killed, and another eight wounded by Turkish border guards. The group was trying to cross from northwestern Syria into Turkey's Hatay Province. ](/news/2016/06/18/spillover-of-the-syrian-civil-war-the-syrian-observatory-for-human-rights-reports-at-least-eight-people-including-four-children-are-shot.md)
 4 children among those reported killed attempting to cross border in northwestern Syria
 
 ### [A week of heavy rains and flooding in south China results in at least 25 deaths, six people missing and 33,000 people displaced. ](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.md)
@@ -12,7 +12,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [Six people are killed and 10 injured when a van crashes in the U.S. state of Virginia. ](/news/2016/06/18/six-people-are-killed-and-10-injured-when-a-van-crashes-in-the-u-s-state-of-virginia.md)
 Six people were killed in Virginia and 10 others hospitalized when the van in which they were riding hit another car and flipped over several times on a highway on Saturday, police said.
 
-### [Killing of Jo Cox. Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/killing-of-jo-cox-thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md)
+### [Killing of Jo Cox: Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/killing-of-jo-cox-thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md)
 Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot; as he appears in court charged with the murder of Labour MP Jo Cox.
 
 ### [A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. ](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-officer-and-seriously-wounds-another-before-shooting-himself-dead-in-vihti-finland-finnish-broa.md)
@@ -24,10 +24,10 @@ Death sentences upheld for six defendants, as ex-president and aides receive 25-
 ### [At least six people have been shot dead and 12 injured as a result of 18 shootings in the American city of Chicago, Illinois. ](/news/2016/06/18/at-least-six-people-have-been-shot-dead-and-12-injured-as-a-result-of-18-shootings-in-the-american-city-of-chicago-illinois.md)
 _Context: Chicago, Illinois_
 
-### [Sudanese conflict in South Kordofan and Blue Nile. Sudanese President Omar al-Bashir declares a four-month ceasefire in the states of Blue Nile and South Kordofan in order to give rebels of the Sudan People's Liberation Movement-North a chance to join the peace process and to lay down arms in order to end the conflict which has been ongoing since 2011. ](/news/2016/06/18/sudanese-conflict-in-south-kordofan-and-blue-nile-sudanese-president-omar-al-bashir-declares-a-four-month-ceasefire-in-the-states-of-blue-n.md)
+### [Sudanese conflict in South Kordofan and Blue Nile: Sudanese President Omar al-Bashir declares a four-month ceasefire in the states of Blue Nile and South Kordofan in order to give rebels of the Sudan People's Liberation Movement-North a chance to join the peace process and to lay down arms in order to end the conflict which has been ongoing since 2011. ](/news/2016/06/18/sudanese-conflict-in-south-kordofan-and-blue-nile-sudanese-president-omar-al-bashir-declares-a-four-month-ceasefire-in-the-states-of-blue-n.md)
 The truce announced in Khartoum is intended to give rebels a chance to surrender their arms and join peace process.
 
-### [United States presidential election, 2016. 2016 Republican National Convention. Apple Inc. notifies the GOP that this year it will not fund or provide other support for the party-s 2016 presidential convention, citing Donald Trump-s controversial comments about women, immigrants and minorities. ](/news/2016/06/18/united-states-presidential-election-2016-2016-republican-national-convention-apple-inc-notifies-the-gop-that-this-year-it-will-not-fund.md)
+### [United States presidential election, 2016: 2016 Republican National Convention: Apple Inc. notifies the GOP that this year it will not fund or provide other support for the party-s 2016 presidential convention, citing Donald Trump-s controversial comments about women, immigrants and minorities. ](/news/2016/06/18/united-states-presidential-election-2016-2016-republican-national-convention-apple-inc-notifies-the-gop-that-this-year-it-will-not-fund.md)
 It&#39;s unclear how the company plans to handle the Democratic convention in Philadelphia this summer.
 
 ### [Three astronauts return from a mission to the International Space Station, Briton Tim Peake of the European Space Agency, Timothy Kopra of NASA and Russian cosmonaut Yuri Malenchenko. ](/news/2016/06/18/three-astronauts-return-from-a-mission-to-the-international-space-station-briton-tim-peake-of-the-european-space-agency-timothy-kopra-of-n.md)

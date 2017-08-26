@@ -14,4 +14,4 @@
 
 ### Related:
 
-1. [Xynthia:. President of France Nicolas Sarkozy gives -3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-president-of-france-nicolas-sarkozy-gives-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the.md) _Context: Xynthia_
+1. [Xynthia:: President of France Nicolas Sarkozy gives -3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-president-of-france-nicolas-sarkozy-gives-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the.md) _Context: Xynthia_

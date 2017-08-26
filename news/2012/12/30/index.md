@@ -1,9 +1,9 @@
 ## [2012-12-30](/news/2012/12/30/index.md)
 
-### [War in North-West Pakistan:. A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-a-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md)
+### [War in North-West Pakistan:: A suicide bomber kills 19 in an attack on Shiites in Balochistan province. ](/news/2012/12/30/war-in-north-west-pakistan-a-suicide-bomber-kills-19-in-an-attack-on-shiites-in-balochistan-province.md)
 A suicide bomber driving a vehicle packed with explosives rammed into a bus.
 
-### [2012 Central African Republic rebellion:. Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-central-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels.md)
+### [2012 Central African Republic rebellion:: Central African Republic leader Francois Bozize promises a national unity government, as rebels advance to within 75 km of the capital Bangui. ](/news/2012/12/30/2012-central-african-republic-rebellion-central-african-republic-leader-franassois-boziza-c-promises-a-national-unity-government-as-rebels.md)
 Central African Republic leader Francois Bozize promises a national unity government, as rebels continue their advance towards the capital Bangui.
 
 ### [Guatemalan Congresswoman Catarina Castor dies in the crash of a private plane in the northwestern Guatemalan province of Quiche, which also killed the pilot and injured the Governor Quiche Department, Heber Cabrera. ](/news/2012/12/30/guatemalan-congresswoman-catarina-castor-dies-in-the-crash-of-a-private-plane-in-the-northwestern-guatemalan-province-of-quicha-c-which-also.md)

@@ -30,7 +30,7 @@ _Context: Facebook, Inc., Pakistan, Taliban, social network_
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
 _Context: Mexico, methamphetamine_
 
-### [ Typhoon Parma. Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
+### [ Typhoon Parma: Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/typhoon-parma-thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
 Philippine Islands President Gloria Arroyo has declared a &quot;state of calamity&quot; th..
 
 ### [ Thousands of people gather at a mosque in Guinea's capital, Conakry, to identify those killed in Monday's opposition rally against military rule. ](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.md)

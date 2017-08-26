@@ -1,6 +1,6 @@
 ### [2010-12-19](/news/2010/12/19/index.md)
 
-# Cote d'Ivoire:. The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. 
+# Cote d'Ivoire:: The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. 
 
 UN&#x20;chief&#x20;Ban&#x20;Ki-moon&#x20;has&#x20;rejected&#x20;Ivorian&#x20;President&#x20;Laurent&#x20;Gbagbo&#x27;s&#x20;demand&#x20;to&#x20;withdraw&#x20;peacekeepers&#x20;after&#x20;the&#x20;UN&#x20;backed&#x20;Gbagbo&#x27;s&#x20;rival&#x20;as&#x20;the&#x20;winner&#x20;of&#x20;a&#x20;Nov.&#x20;28&#x20;presidential&#x20;vote.
 

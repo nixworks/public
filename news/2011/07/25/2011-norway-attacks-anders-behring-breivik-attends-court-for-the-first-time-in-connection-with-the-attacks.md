@@ -1,6 +1,6 @@
 ### [2011-07-25](/news/2011/07/25/index.md)
 
-# 2011 Norway attacks. Anders Behring Breivik attends court for the first time in connection with the attacks. 
+# 2011 Norway attacks: Anders Behring Breivik attends court for the first time in connection with the attacks. 
 
 Norwegian police revised down the death toll from Friday&#039;s bomb and shooting attack to 76 people from a previous estimate of 93, citing difficulties in gathering information at Utoeya island, where the shooting spree occurred.
 

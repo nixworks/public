@@ -9,7 +9,7 @@ _Context: Cardinal Joseph Ratzinger, Crimen sollicitationis, Pope_
 ### [ The Social Democratic Party of Austria has won today's election in Austria. ](/news/2006/10/1/the-social-democratic-party-of-austria-has-won-today-s-election-in-austria.md)
 _Context: Austria, October 2006 Austrian elections, Social Democratic Party_
 
-### [ Georgia-Russia spying dispute:. Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md)
+### [ Georgia-Russia spying dispute:: Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/georgia-russia-spying-dispute-russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an.md)
 _Context: Russia, Vladimir Putin, hostage-taking, tensions, terrorism_
 
 ### [ General Elections 2006 in Brazil are taking place.](/news/2006/10/1/general-elections-2006-in-brazil-are-taking-place.md)

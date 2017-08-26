@@ -1,6 +1,6 @@
 ### [2017-04-22](/news/2017/04/22/index.md)
 
-# March for Science. People around the world gather during Earth Day to bring awareness to science. 
+# March for Science: People around the world gather during Earth Day to bring awareness to science. 
 
 When politicians smear science, real people get hurt. I’m marching because we must fight for communities who are harmed by bad science policy
 

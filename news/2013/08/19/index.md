@@ -1,6 +1,6 @@
 ## [2013-08-19](/news/2013/08/19/index.md)
 
-### [Sinai insurgency:. At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-at-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md)
+### [Sinai insurgency:: At least 24 Egyptian policemen are killed in an attack near Rafah in the Sinai peninsula. ](/news/2013/08/19/sinai-insurgency-at-least-24-egyptian-policemen-are-killed-in-an-attack-near-rafah-in-the-sinai-peninsula.md)
 At least 24 Egyptian policemen are killed in an attack in Sinai, amid the wider turmoil of a crackdown on Islamist protesters.
 
 ### [An agrarian strike is planned for today in Colombia to demand labor rights. ](/news/2013/08/19/an-agrarian-strike-is-planned-for-today-in-colombia-to-demand-labor-rights.md)

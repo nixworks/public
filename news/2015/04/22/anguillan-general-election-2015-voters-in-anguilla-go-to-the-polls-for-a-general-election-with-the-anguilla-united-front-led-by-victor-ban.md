@@ -1,6 +1,6 @@
 ### [2015-04-22](/news/2015/04/22/index.md)
 
-# Anguillan general election, 2015. Voters in Anguilla go to the polls for a general election with the Anguilla United Front led by Victor Banks elected to government. 
+# Anguillan general election, 2015: Voters in Anguilla go to the polls for a general election with the Anguilla United Front led by Victor Banks elected to government. 
 
 
 

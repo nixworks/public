@@ -1,10 +1,10 @@
 ## [2015-05-7](/news/2015/05/7/index.md)
 
-### [Boko Haram. At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/boko-haram-at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md)
+### [Boko Haram: At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/boko-haram-at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md)
 _Context: Boko Haram, Niger_
 
-### [Islamic State of Iraq and the Levant. The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/islamic-state-of-iraq-and-the-levant-the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-s.md)
-_Context: Garland, Texas, Islamic State of Iraq and the Levant, Pentagon officials, United States_
+### [Islamic State of Iraq and the Levant: The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/islamic-state-of-iraq-and-the-levant-the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-s.md)
+_Context: Garland, Texas, Islamic State of Iraq and the Levant, U.S. military, United States_
 
 ### [Archaeologists in Madagascar announce the partial discovery of Captain Kidd's treasure. A silver ingot was found in a wreck off the coast of le Sainte-Marie. ](/news/2015/05/7/archaeologists-in-madagascar-announce-the-partial-discovery-of-captain-kidd-s-treasure-a-silver-ingot-was-found-in-a-wreck-off-the-coast-of.md)
 Underwater explorers in Madagascar say they have found what is thought to be the treasure of notorious Scottish pirate Captain William Kidd.
@@ -24,7 +24,7 @@ _Context: Iran, United States Senate_
 ### [A three-judge panel of the U.S. Second Circuit Court of Appeals rules that the National Security Agency's mass surveillance of telephones metadata is illegal under the Patriot Act. ](/news/2015/05/7/a-three-judge-panel-of-the-u-s-second-circuit-court-of-appeals-rules-that-the-national-security-agency-s-mass-surveillance-of-telephones-me.md)
 Bulk collection of millions of Americans’ phone records is ruled unlawful, as opponents of program including Rand Paul share their delight
 
-### [United Kingdom general election, 2015. Voters in the United Kingdom go to the polls for a general election with the Conservative Party winning a narrow majority in the House of Commons after the election. ](/news/2015/05/7/united-kingdom-general-election-2015-voters-in-the-united-kingdom-go-to-the-polls-for-a-general-election-with-the-conservative-party-winni.md)
+### [United Kingdom general election, 2015: Voters in the United Kingdom go to the polls for a general election with the Conservative Party winning a narrow majority in the House of Commons after the election. ](/news/2015/05/7/united-kingdom-general-election-2015-voters-in-the-united-kingdom-go-to-the-polls-for-a-general-election-with-the-conservative-party-winni.md)
 Preliminary results of final Guardian/ICM campaign poll show Labour and Conservatives tied at 35% each
 
 ## [Previous Day...](/news/2015/05/6/index.md)

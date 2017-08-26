@@ -1,6 +1,6 @@
 ## [2013-02-27](/news/2013/02/27/index.md)
 
-### [War in Afghanistan:. Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-e.md)
+### [War in Afghanistan:: Taliban insurgents kill 17 Afghan government-affiliated militia personnel in an overnight attack in Andar District of eastern Ghazni Province. ](/news/2013/02/27/war-in-afghanistan-taliban-insurgents-kill-17-afghan-government-affiliated-militia-personnel-in-an-overnight-attack-in-andar-district-of-e.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [American classical pianist Van Cliburn dies in Fort Worth, Texas, United States, at the age of 78. ](/news/2013/02/27/american-classical-pianist-van-cliburn-dies-in-fort-worth-texas-united-states-at-the-age-of-78.md)

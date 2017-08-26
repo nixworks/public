@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# RAMSI. A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. 
+# RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. 
 
 Thousands turned up at Lawson Tama stadium in Honiara yesterday to farewell the Regional Assistance Mission to Solomon Islands which officially ends 14 years of peace and nation building work in the country today.
 

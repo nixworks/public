@@ -1,6 +1,6 @@
 ### [2015-04-25](/news/2015/04/25/index.md)
 
-# Togolese presidential election, 2015. Voters in Togo go to the polls amid political unrest. 
+# Togolese presidential election, 2015: Voters in Togo go to the polls amid political unrest. 
 
 
 

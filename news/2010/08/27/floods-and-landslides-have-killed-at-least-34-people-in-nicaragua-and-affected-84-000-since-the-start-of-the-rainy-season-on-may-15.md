@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2015 Pacific typhoon season. In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/2015-pacific-typhoon-season-in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau.md) _Context: flood, landslide_
+1. [2015 Pacific typhoon season: In Japan, tens of thousands are forced to evacuate due to flooding and landslides caused by Tropical Storm Etau. So far, one person is reported as missing. ](/news/2015/09/10/2015-pacific-typhoon-season-in-japan-tens-of-thousands-are-forced-to-evacuate-due-to-flooding-and-landslides-caused-by-tropical-storm-etau.md) _Context: flood, landslide_
 2. [Former Typhoon Bopha is again forecast to make landfall in the Philippines this time on the northern island of Luzon as a tropical storm bringing the possibility of more floods and landslides. ](/news/2012/12/9/former-typhoon-bopha-is-again-forecast-to-make-landfall-in-the-philippines-this-time-on-the-northern-island-of-luzon-as-a-tropical-storm-bri.md) _Context: flood, landslide_
 3. [Landslides and flooding caused by Typhoon Vicente kill seven people in northern Vietnam. ](/news/2012/07/27/landslides-and-flooding-caused-by-typhoon-vicente-kill-seven-people-in-northern-vietnam.md) _Context: flood, landslide_
 4. [Floods and landslides caused by a week of heavy rain in the People's Republic of China have killed at least 57 people and made as many as a million people homeless. ](/news/2011/09/20/floods-and-landslides-caused-by-a-week-of-heavy-rain-in-the-people-s-republic-of-china-have-killed-at-least-57-people-and-made-as-many-as-a.md) _Context: flood, landslide_

@@ -96,7 +96,7 @@ Papua New Guinea&#039;s government is facing another threat to its survival, thi
 ### [Queensland fossil hunters discover a cave of 15-million-year-old prehistoric marsupials. ](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.md)
 Fossil hunters in Australia have discovered a cave filled with the 15-million-year-old remains of prehistoric marsupials.
 
-### [Farnborough Airshow, Hampshire. England. An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
+### [Farnborough Airshow, Hampshire: England: An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
 US defence firm Raytheon unveils a solid state, anti-aircraft laser system at the Farnborough Airshow in Hampshire.
 
 ## [Previous Day...](/news/2010/07/18/index.md)

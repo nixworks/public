@@ -1,6 +1,6 @@
 ### [2010-05-24](/news/2010/05/24/index.md)
 
-# Israel:. President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. 
+# Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. 
 
 Australia expels an Israel diplomat after a probe blames Israel for the use of forged passports in the murder of a Hamas man.
 

@@ -1,6 +1,6 @@
 ## [2012-10-29](/news/2012/10/29/index.md)
 
-### [Syrian civil war:. Two deadly car bombings rock Damascus, according to Syrian state media. ](/news/2012/10/29/syrian-civil-war-two-deadly-car-bombings-rock-damascus-according-to-syrian-state-media.md)
+### [Syrian civil war:: Two deadly car bombings rock Damascus, according to Syrian state media. ](/news/2012/10/29/syrian-civil-war-two-deadly-car-bombings-rock-damascus-according-to-syrian-state-media.md)
 Two car bombings in the Syrian capital Damascus kill at least 10 people, state media report, as a supposed ceasefire draws to an end.
 
 ### [Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. ](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.md)

@@ -1,12 +1,12 @@
 ## [2013-03-23](/news/2013/03/23/index.md)
 
-### [War on Terror:. Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
+### [War on Terror:: Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
 _Context: Pakistan, Pervez Musharraf, President, Taliban, War on Terror_
 
-### [Northern Mali conflict (2012-present):. France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012-present-france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-th.md)
+### [Northern Mali conflict (2012-present):: France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012-present-france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-th.md)
 The French presidency confirms &quot;with certainty&quot; reports that Islamist commander Abdelhamid Abou Zeid was killed in fighting in Mali in late February.
 
-### [2012-13 Central African Republic conflict:. All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012-13-central-african-republic-conflict-all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-re.md)
+### [2012-13 Central African Republic conflict:: All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012-13-central-african-republic-conflict-all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-re.md)
 All non-essential UN staff said to be removed from Central African Republic, as Seleka rebels advance closer to Bangui.
 
 ### [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012-2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md)

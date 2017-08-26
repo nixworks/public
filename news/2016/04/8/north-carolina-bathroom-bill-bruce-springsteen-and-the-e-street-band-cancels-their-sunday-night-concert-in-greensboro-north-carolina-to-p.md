@@ -1,6 +1,6 @@
 ### [2016-04-8](/news/2016/04/8/index.md)
 
-# North Carolina bathroom bill. Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." 
+# North Carolina bathroom bill: Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." 
 
 
 

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [January 21-22, 2017 tornado outbreak. Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
+1. [January 21-22, 2017 tornado outbreak: Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/january-21-22-2017-tornado-outbreak-severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
 2. [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi-the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland-dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippi-the-woman-he-was-liv.md) _Context: United States, professor_
 3. [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md) _Context: Georgia, United States_
 4. [Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. ](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicide-in-johns-creek-georgia-united-states.md) _Context: Georgia, United States_

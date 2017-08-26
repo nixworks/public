@@ -1,9 +1,9 @@
 ## [2014-08-28](/news/2014/08/28/index.md)
 
-### [Syrian civil war:. A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md)
+### [Syrian civil war:: A Syrian tribe in Deir Ezzor province faces genocide from the Islamic State in Iraq and the Levant and appeals for the world to help. ](/news/2014/08/28/syrian-civil-war-a-syrian-tribe-in-deir-ezzor-province-faces-genocide-from-the-islamic-state-in-iraq-and-the-levant-and-appeals-for-the-wo.md)
 A Syrian tribe has appealed to the West to save it from extermination at the hands of Islamic State after hundreds of its members were murdered for refusing to submit to the terrorist group’s...
 
-### [War in Donbass:. The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-the-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md)
+### [War in Donbass:: The Armed Forces of Ukraine claim that pro-Russian separatists backed by Armed Forces of Russia tanks and armored personnel carriers are fighting its forces on two fronts. ](/news/2014/08/28/war-in-donbass-the-armed-forces-of-ukraine-claim-that-pro-russian-separatists-backed-by-armed-forces-of-russia-tanks-and-armored-personnel.md)
 The UN Security Council is preparing to meet in emergency session on the growing crisis in Ukraine. Diplomats said Thursday that the council will meet at 2 p.m. at the request of Lithuania.
 
 ### [American comedian Joan Rivers is rushed to the hospital after she stopped breathing during throat surgery. ](/news/2014/08/28/american-comedian-joan-rivers-is-rushed-to-the-hospital-after-she-stopped-breathing-during-throat-surgery.md)
@@ -12,10 +12,10 @@ The UN Security Council is preparing to meet in emergency session on the growing
 ### [The Philippines economy grows by 6.4% in Q2 showing signs of recovery after it was devastated by Typhoon Haiyan in 2013. ](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.md)
 _Context: Philippines, Typhoon Haiyan (Yolanda)_
 
-### [2014 West Africa Ebola virus outbreak:. Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/2014-west-africa-ebola-virus-outbreak-health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-dis.md)
+### [2014 West Africa Ebola virus outbreak:: Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/2014-west-africa-ebola-virus-outbreak-health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-dis.md)
 A top US public health official says the Ebola outbreak is set to get worse before it gets better, as West African health ministers meet in Ghana.
 
-### [Malaysia Airlines Flight 370:. Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/malaysia-airlines-flight-370-australia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-th.md)
+### [Malaysia Airlines Flight 370:: Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/malaysia-airlines-flight-370-australia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-th.md)
 _Context: Australia, China, Indian Ocean, Malaysia, Malaysia Airlines Flight 370, Western Australia_
 
 ### [Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. ](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.md)

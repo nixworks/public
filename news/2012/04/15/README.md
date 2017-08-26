@@ -1,6 +1,6 @@
 ## [2012-04-15](/news/2012/04/15/index.md)
 
-### [2011-2012 Syrian uprising:. Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-clashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md)
+### [2011-2012 Syrian uprising:: Clashes continue in Syria as United Nations observers are due to arrive in the country. ](/news/2012/04/15/2011-2012-syrian-uprising-clashes-continue-in-syria-as-united-nations-observers-are-due-to-arrive-in-the-country.md)
 Syrian government forces shelled the city of Homs, resident opposition activists and a rights activist said, as a six-person advance party of UN observers is due to arrive in Syria to monitor a ceasefire meant to start four days ago.
 
 ### [Heavily armed Taliban insurgents launch multiple coordinated militant attacks on the British, Russian and German embassies, NATO's headquarters, military bases and the Afghan parliament in central Kabul, Afghanistan, and other cities, including Jalalabad and Gardez. ](/news/2012/04/15/heavily-armed-taliban-insurgents-launch-multiple-coordinated-militant-attacks-on-the-british-russian-and-german-embassies-nato-s-headquart.md)
@@ -9,7 +9,7 @@ At least 17 insurgents and two Afghan security force members are killed as the T
 ### [Nearly 400 Islamist militants escape from a prison in northwestern Pakistan after an attack by insurgents. ](/news/2012/04/15/nearly-400-islamist-militants-escape-from-a-prison-in-northwestern-pakistan-after-an-attack-by-insurgents.md)
 Nearly 400 prisoners including militants escaped early Sunday from a jail in northwestern Pakistan after an attack by insurgents armed with guns, grenades and rockets, officials said.
 
-### [2012 South Sudan-Sudan border conflict:. Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudan-sudan-border-conflict-sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
+### [2012 South Sudan-Sudan border conflict:: Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudan-sudan-border-conflict-sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
 _Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan, Sudan_
 
 ### [Events and ceremonies are held around the world marking the 100th anniversary of the sinking of the RMS "Titanic". [http://www.guardian.co.uk/uk/2012/apr/15/titanic-memorial-service-balmoral?newsfeed=true "(The Observer)"]](/news/2012/04/15/events-and-ceremonies-are-held-around-the-world-marking-the-100th-anniversary-of-the-sinking-of-the-rms-titanic-http-www-guardian-co-u.md)

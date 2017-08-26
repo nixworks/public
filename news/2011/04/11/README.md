@@ -1,15 +1,15 @@
 ## [2011-04-11](/news/2011/04/11/index.md)
 
-### [2011 Syrian protests. Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md)
+### [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md)
 _Context: Damascus University, Syrian uprising_
 
-### [2011 Egyptian revolution:. Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md)
+### [2011 Egyptian revolution:: Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/2011-egyptian-revolution-demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md)
 Essam Sharaf apologises for violence against demonstrators in Tahrir Square and calls for judicial investigation.
 
 ### [At least 11 people are killed and dozens are injured in the blast at Oktyabrskaya metro station in Minsk. ](/news/2011/04/11/at-least-11-people-are-killed-and-dozens-are-injured-in-the-blast-at-oktyabrskaya-metro-station-in-minsk.md)
 Belarusian security forces confirmed that 12 people were killed when a blast ripped through Oktyabrskaya metro station in Minsk during the evening rush hour. At least 149 were injured.
 
-### [2010-2011 Ivorian crisis/Second Ivorian Civil War:. Laurent Gbagbo is captured and arrested in Abidjan. Gbagbo has been reportedly taken to the headquarters of Alassane Ouattara. French reports claim he was captured by Ouattara supporters while contradictory reports suggest he was captured by French special forces. ](/news/2011/04/11/2010-2011-ivorian-crisis-second-ivorian-civil-war-laurent-gbagbo-is-captured-and-arrested-in-abidjan-gbagbo-has-been-reportedly-taken-to.md)
+### [2010-2011 Ivorian crisis/Second Ivorian Civil War:: Laurent Gbagbo is captured and arrested in Abidjan. Gbagbo has been reportedly taken to the headquarters of Alassane Ouattara. French reports claim he was captured by Ouattara supporters while contradictory reports suggest he was captured by French special forces. ](/news/2011/04/11/2010-2011-ivorian-crisis-second-ivorian-civil-war-laurent-gbagbo-is-captured-and-arrested-in-abidjan-gbagbo-has-been-reportedly-taken-to.md)
 Ivory&#x20;Coast&#x20;strongman&#x20;Laurent&#x20;Gbagbo&#x20;has&#x20;been&#x20;captured&#x20;and&#x20;taken&#x20;to&#x20;the&#x20;Abidjan&#x20;headquarters&#x20;of&#x20;his&#x20;rival&#x20;for&#x20;the&#x20;presidency,&#x20;Alassane&#x20;Ouattara.&#x20;Look&#x20;back&#x20;on&#x20;Monday&#x27;s&#x2...
 
 ### [2011 Libyan civil war: Libyan rebels reject an African Union peace plan because it does not include the removal of Gaddafi from Libya. ](/news/2011/04/11/2011-libyan-civil-war-libyan-rebels-reject-an-african-union-peace-plan-because-it-does-not-include-the-removal-of-gaddafi-from-libya.md)

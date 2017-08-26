@@ -1,12 +1,12 @@
 ## [2012-12-6](/news/2012/12/6/index.md)
 
-### [2012 Egyptian protests:. At least 7 people are killed and more than 770 are injured during clashes between supporters and opponents of the President of Egypt Mohamed Morsi in front of the Presidential Palace in Cairo. The Egyptian Army deploys several tanks and armoured troop carriers to secure the building. ](/news/2012/12/6/2012-egyptian-protests-at-least-7-people-are-killed-and-more-than-770-are-injured-during-clashes-between-supporters-and-opponents-of-the-p.md)
+### [2012 Egyptian protests:: At least 7 people are killed and more than 770 are injured during clashes between supporters and opponents of the President of Egypt Mohamed Morsi in front of the Presidential Palace in Cairo. The Egyptian Army deploys several tanks and armoured troop carriers to secure the building. ](/news/2012/12/6/2012-egyptian-protests-at-least-7-people-are-killed-and-more-than-770-are-injured-during-clashes-between-supporters-and-opponents-of-the-p.md)
 At least four people killed and 300 others injured as supporters and opponents of President Morsi clash in Cairo.
 
-### [War in Afghanistan (2001-present):. The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001-present-the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-atte.md)
+### [War in Afghanistan (2001-present):: The chief of Afghanistan's intelligence service, Asadullah Khalid, is injured in an assassination attempt in the country's capital, Kabul. ](/news/2012/12/6/war-in-afghanistan-2001-present-the-chief-of-afghanistan-s-intelligence-service-asadullah-khalid-is-injured-in-an-assassination-atte.md)
 Head of intelligence Asadullah Khalid survives assassination attempt in the capital, in attack claimed by the Taliban.
 
-### [2011-2012 conflict in Lebanon:. At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011-2012-conflict-in-lebanon-at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebano.md)
+### [2011-2012 conflict in Lebanon:: At least 5 people are shot dead on the third day of clashes between Alawites and Sunnis in Tripoli, Lebanon. The casualty toll of the three days is at least 10 killed and 73 injured. ](/news/2012/12/6/2011-2012-conflict-in-lebanon-at-least-5-people-are-shot-dead-on-the-third-day-of-clashes-between-alawites-and-sunnis-in-tripoli-lebano.md)
 * Ten people killed since clashes started on Tuesday* Tensions high after Lebanese gunmen killed in Syria* Syrian FM says Lebanese go
 
 ### [The Duchess of Cambridge leaves hospital following treatment for severe morning sickness. ](/news/2012/12/6/the-duchess-of-cambridge-leaves-hospital-following-treatment-for-severe-morning-sickness.md)

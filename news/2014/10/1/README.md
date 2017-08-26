@@ -1,12 +1,12 @@
 ## [2014-10-1](/news/2014/10/1/index.md)
 
-### [War in Donbass:. At least 12 people are killed when shells hit a school and, in a separate shelling, a bus station in the separatist-controlled city of Donetsk. ](/news/2014/10/1/war-in-donbass-at-least-12-people-are-killed-when-shells-hit-a-school-and-in-a-separate-shelling-a-bus-station-in-the-separatist-control.md)
+### [War in Donbass:: At least 12 people are killed when shells hit a school and, in a separate shelling, a bus station in the separatist-controlled city of Donetsk. ](/news/2014/10/1/war-in-donbass-at-least-12-people-are-killed-when-shells-hit-a-school-and-in-a-separate-shelling-a-bus-station-in-the-separatist-control.md)
 _Context: War in Donbass_
 
-### [Taliban insurgency. Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-insurgency-taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md)
+### [Taliban insurgency: Taliban suicide bombers attack an Afghan National Army convoy in Kabul, killing at least 7 people and injuring 19. ](/news/2014/10/1/taliban-insurgency-taliban-suicide-bombers-attack-an-afghan-national-army-convoy-in-kabul-killing-at-least-7-people-and-injuring-19.md)
 _Context: Afghan National Army, Kabul, Taliban, Taliban insurgency_
 
-### [Syrian civil war:. At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al.md)
+### [Syrian civil war:: At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. ](/news/2014/10/1/syrian-civil-war-at-least-45-people-including-41-children-are-killed-and-56-injured-following-a-suicide-bomber-attack-on-the-akrameh-al.md)
 At least 30 Syrian children have been killed in a double bombing by a lone assailant at a school in the government-controlled city of Homs, a monitor has said.
 
 ### [The Philippines government confiscates art owned by Imelda Marcos, including a Michaelangelo, a Gauguin, and a Picasso, alleging that these were bought using embezzled funds. ](/news/2014/10/1/the-philippines-government-confiscates-art-owned-by-imelda-marcos-including-a-michaelangelo-a-gauguin-and-a-picasso-alleging-that-these.md)

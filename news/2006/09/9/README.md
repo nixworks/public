@@ -12,7 +12,7 @@ _Context: Florida, John F. Kennedy Space Center, STS-115, Space Shuttle Atlantis
 ### [ A 4.4 magnitude earthquake affects Israel and the West Bank. No injuries are reported. ](/news/2006/09/9/a-4-4-magnitude-earthquake-affects-israel-and-the-west-bank-no-injuries-are-reported.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Taliban insurgency (Operation Medusa):. NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md)
+### [ Taliban insurgency (Operation Medusa):: NATO-led forces in Afghanistan say they have killed 40 more Taliban rebels in the ongoing offensive in the south. ](/news/2006/09/9/taliban-insurgency-operation-medusa-nato-led-forces-in-afghanistan-say-they-have-killed-40-more-taliban-rebels-in-the-ongoing-offensive.md)
 _Context: Afghanistan's, NATO, Operation Medusa, Taliban insurgency_
 
 ### [ The Sri Lankan Army says that 28 soldiers were killed and 119 were wounded while battling the Tamil Tiger rebels in Jaffna. The deaths of nearly 150 Tamil Tigers were also reported. ](/news/2006/09/9/the-sri-lankan-army-says-that-28-soldiers-were-killed-and-119-were-wounded-while-battling-the-tamil-tiger-rebels-in-jaffna-the-deaths-of-n.md)

@@ -1,6 +1,6 @@
 ### [2017-04-6](/news/2017/04/6/index.md)
 
-# 2017 Saint Petersburg Metro bombing. Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. 
+# 2017 Saint Petersburg Metro bombing: Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. 
 
 A device is made safe as Russian police investigating the metro bombing make further arrests.
 

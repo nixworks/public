@@ -3,7 +3,7 @@
 ### [ The Platte Canyon High School killer is identified as Duane Morrison, who has no known connections with Bailey, Colorado. ](/news/2006/09/28/the-platte-canyon-high-school-killer-is-identified-as-duane-morrison-who-has-no-known-connections-with-bailey-colorado.md)
 Colorado Gunman Sexually Assaulted 6 Students Before Killing One And Committing Suicide
 
-### [ Georgia-Russia spying row:. Russia recalls its ambassador from Georgia over the detention there of several Russian army officers on spying charges and ordered a partial evacuation of Russian diplomatic staff from that country. ](/news/2006/09/28/georgia-russia-spying-row-russia-recalls-its-ambassador-from-georgia-over-the-detention-there-of-several-russian-army-officers-on-spying.md)
+### [ Georgia-Russia spying row:: Russia recalls its ambassador from Georgia over the detention there of several Russian army officers on spying charges and ordered a partial evacuation of Russian diplomatic staff from that country. ](/news/2006/09/28/georgia-russia-spying-row-russia-recalls-its-ambassador-from-georgia-over-the-detention-there-of-several-russian-army-officers-on-spying.md)
 _Context: Georgia-Russia spying row, Georgian, Russia, ambassador, spy_
 
 ### [ Abu Hamza al-Muhajir, the new leader of al-Qaida in Iraq, urges Muslims to make the month of Ramadan a "month of holy war" in an audiotape posted on an Islamic web site. ](/news/2006/09/28/abu-hamza-al-muhajir-the-new-leader-of-al-qaida-in-iraq-urges-muslims-to-make-the-month-of-ramadan-a-month-of-holy-war-in-an-audiotape.md)

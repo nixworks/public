@@ -1,6 +1,6 @@
 ## [2011-01-28](/news/2011/01/28/index.md)
 
-### [2011 Egyptian protests:. After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md)
+### [2011 Egyptian protests:: After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md)
 Egypt goes off the digital map as authorities unplug the country entirely from the internet ahead of protests.
 
 ### [Thousands of people take to the streets of Jordan for the third consecutive Friday of protests over inflation, unemployment and rising prices, amid demands for the resignation of Prime Minister Samir Rifai. ](/news/2011/01/28/thousands-of-people-take-to-the-streets-of-jordan-for-the-third-consecutive-friday-of-protests-over-inflation-unemployment-and-rising-price.md)
@@ -51,7 +51,7 @@ _Context: Cilegon, Kalianda Hospital, Krakatau Medika, Lampung, Lautan Teduh, Su
 ### [Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. ](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.md)
 _Context: Jeddah_
 
-### [Murder of David Kato:. The funeral is held in a village near Kampala for David Kato, a gay rights activist in Uganda. He was recently murdered after successfully suing "Rolling Stone" for naming him as gay on its front cover, and had been receiving death threats. A pastor causes controversy by preaching for homosexuals to repent but is swiftly taken away. ](/news/2011/01/28/murder-of-david-kato-the-funeral-is-held-in-a-village-near-kampala-for-david-kato-a-gay-rights-activist-in-uganda-he-was-recently-murder.md)
+### [Murder of David Kato:: The funeral is held in a village near Kampala for David Kato, a gay rights activist in Uganda. He was recently murdered after successfully suing "Rolling Stone" for naming him as gay on its front cover, and had been receiving death threats. A pastor causes controversy by preaching for homosexuals to repent but is swiftly taken away. ](/news/2011/01/28/murder-of-david-kato-the-funeral-is-held-in-a-village-near-kampala-for-david-kato-a-gay-rights-activist-in-uganda-he-was-recently-murder.md)
 A Ugandan priest is escorted away by police after telling homosexuals to repent at the funeral of gay rights activist David Kato, killed earlier this week.
 
 ### ["The Daily Telegraph" reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. ](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.md)

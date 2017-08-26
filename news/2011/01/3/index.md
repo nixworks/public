@@ -18,7 +18,7 @@ _Context: India, Kashmir, Line of Control, Pakistan army, Poonch district_
 ### [Investments in Facebook totaling US$500 million lead to speculation that its value could be as high as US$50 billion. ](/news/2011/01/3/investments-in-facebook-totaling-us-500-million-lead-to-speculation-that-its-value-could-be-as-high-as-us-50-billion.md)
 _Context: Facebook, Inc._
 
-### [Floods in Queensland, Australia:. The Australian government announces that it will make relief payments of hundreds of millions of dollars for flood victims.](/news/2011/01/3/floods-in-queensland-australia-the-australian-government-announces-that-it-will-make-relief-payments-of-hundreds-of-millions-of-dollars-f.md)
+### [Floods in Queensland, Australia:: The Australian government announces that it will make relief payments of hundreds of millions of dollars for flood victims.](/news/2011/01/3/floods-in-queensland-australia-the-australian-government-announces-that-it-will-make-relief-payments-of-hundreds-of-millions-of-dollars-f.md)
 _Context: Australian Government, floods_
 
 ### [7 people are missing after a fishing boat sank in the Xi River in south China. ](/news/2011/01/3/7-people-are-missing-after-a-fishing-boat-sank-in-the-xi-river-in-south-china.md)

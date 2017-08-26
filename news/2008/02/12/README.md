@@ -1,6 +1,6 @@
 ## [2008-02-12](/news/2008/02/12/index.md)
 
-### [ United States presidential election, 2008:. Illinois Senator Barack Obama wins the District of Columbia, Maryland and Virginia Democratic primaries. Obama now leads Sen. Hillary Clinton in the delegate count for the first time since early in the campaign. ](/news/2008/02/12/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-district-of-columbia-maryland-and-virginia-democratic-p.md)
+### [ United States presidential election, 2008:: Illinois Senator Barack Obama wins the District of Columbia, Maryland and Virginia Democratic primaries. Obama now leads Sen. Hillary Clinton in the delegate count for the first time since early in the campaign. ](/news/2008/02/12/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-district-of-columbia-maryland-and-virginia-democratic-p.md)
 Barack Obama extended his winning streak over Hillary Rodham Clinton, while John McCain succeeded in countering recent victories by Mike Huckabee.
 
 ### [ European Space Agency's Columbus module is attached to the International Space Station. ](/news/2008/02/12/european-space-agency-s-columbus-module-is-attached-to-the-international-space-station.md)

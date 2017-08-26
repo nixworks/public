@@ -1,6 +1,6 @@
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-# Floods in Rio de Janeiro, Brazil:. The death toll continues to rise, with over 500 confirmed casualties.
+# Floods in Rio de Janeiro, Brazil:: The death toll continues to rise, with over 500 confirmed casualties.
 
 More than 500 people have been confirmed dead in mudslides and floods near Rio de Janeiro this week, as officials classed it as the worst disaster in Brazil&#039;s history.
 
@@ -18,4 +18,4 @@ More than 500 people have been confirmed dead in mudslides and floods near Rio d
 4. [Brazil's military increases rescue and supply operations following the worst disaster in the country's history. ](/news/2011/01/18/brazil-s-military-increases-rescue-and-supply-operations-following-the-worst-disaster-in-the-country-s-history.md) _Context: the recent floods and landslides in Rio de Janeiro state_
 5. [Further landslides and more rain are feared in Brazil which is dealing with the worst disaster in its history. ](/news/2011/01/16/further-landslides-and-more-rain-are-feared-in-brazil-which-is-dealing-with-the-worst-disaster-in-its-history.md) _Context: the recent floods and landslides in Rio de Janeiro state_
 6. [Brazilian soldiers arrive in Teresopolis as the death toll from floods and mudslides during Brazil's deadliest disaster passes 600. ](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.md) _Context: the recent floods and landslides in Rio de Janeiro state_
-7. [January 2011 Rio de Janeiro floods and mudslides:. The disaster is declared Brazil's worst ever as the death toll exceeds 500, with additional people missing and more fatalities expected. ](/news/2011/01/14/january-2011-rio-de-janeiro-floods-and-mudslides-the-disaster-is-declared-brazil-s-worst-ever-as-the-death-toll-exceeds-500-with-addition.md) _Context: the recent floods and landslides in Rio de Janeiro state_
+7. [January 2011 Rio de Janeiro floods and mudslides:: The disaster is declared Brazil's worst ever as the death toll exceeds 500, with additional people missing and more fatalities expected. ](/news/2011/01/14/january-2011-rio-de-janeiro-floods-and-mudslides-the-disaster-is-declared-brazil-s-worst-ever-as-the-death-toll-exceeds-500-with-addition.md) _Context: the recent floods and landslides in Rio de Janeiro state_

@@ -1,6 +1,6 @@
 ## [2012-07-29](/news/2012/07/29/index.md)
 
-### [Syrian civil war:. Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md)
+### [Syrian civil war:: Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/syrian-civil-war-fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md)
 _Context: Aleppo, Syria, Syrian Civil War_
 
 ### [A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. ](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.md)

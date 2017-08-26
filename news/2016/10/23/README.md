@@ -1,9 +1,9 @@
 ## [2016-10-23](/news/2016/10/23/index.md)
 
-### [Yemeni Civil War (2015-present). Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/yemeni-civil-war-2015-present-saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md)
+### [Yemeni Civil War (2015-present): Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/yemeni-civil-war-2015-present-saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md)
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
 
-### [Naxalite-Maoist insurgency. Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/naxalite-maoist-insurgency-indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md)
+### [Naxalite-Maoist insurgency: Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/naxalite-maoist-insurgency-indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md)
 Police in India say they have killed at least 24 Maoist rebels in the eastern state of Orissa.
 
 ### [A gas explosion in the Russian city of Ryazan kills at least three people and injures 13 others. ](/news/2016/10/23/a-gas-explosion-in-the-russian-city-of-ryazan-kills-at-least-three-people-and-injures-13-others.md)
@@ -15,13 +15,13 @@ _Context: Desert Hot Springs, California_
 ### [Two explosions in a park in the Japanese city of Utsunomiya, Tochigi Prefecture, kill at least one person and injure three others. Local media report that a 72-year-old ex-military officer is responsible for the blasts. A fire the same day destroyed the suspect's house. ](/news/2016/10/23/two-explosions-in-a-park-in-the-japanese-city-of-utsunomiya-tochigi-prefecture-kill-at-least-one-person-and-injure-three-others-local-med.md)
 72-year-old may have blown himself up in Utsunomiya park, media reports suggest
 
-### [Aftermath of Brexit. UK Independence Party leadership election, November 2016. Suzanne Evans, former UK Independence Party (UKIP) deputy chairman, and Paul Nuttall, President of the Initiative for Direct Democracy in Europe and Member of the European Parliament, each announce their candidacy for the UKIP leadership position, now held on interim basis by Nigel Farage. Other confirmed candidates are Bill Etheridge, Raheem Kassam, and Peter Whittle. ](/news/2016/10/23/aftermath-of-brexit-uk-independence-party-leadership-election-november-2016-suzanne-evans-former-uk-independence-party-ukip-deputy-cha.md)
+### [Aftermath of Brexit: UK Independence Party leadership election, November 2016: Suzanne Evans, former UK Independence Party (UKIP) deputy chairman, and Paul Nuttall, President of the Initiative for Direct Democracy in Europe and Member of the European Parliament, each announce their candidacy for the UKIP leadership position, now held on interim basis by Nigel Farage. Other confirmed candidates are Bill Etheridge, Raheem Kassam, and Peter Whittle. ](/news/2016/10/23/aftermath-of-brexit-uk-independence-party-leadership-election-november-2016-suzanne-evans-former-uk-independence-party-ukip-deputy-cha.md)
 _Context: Aftermath of Brexit, Bill Etheridge, Member of the European Parliament, Nigel Farage, Paul Nuttall, Peter Whittle, Raheem Kassam, Suzanne Evans, UK Independence Party, UK Independence Party leadership election, November 2016_
 
-### [Lithuanian parliamentary election, 2016. Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md)
+### [Lithuanian parliamentary election, 2016: Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md)
 _Context: Lithuanian Peasant and Greens Union, Lithuanian parliamentary election, 2016, second round_
 
-### [2015-16 Spanish government formation. The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/2015-16-spanish-government-formation-the-socialist-workers-party-following-the-party-s-139-96-vote-approving-this-action-say-they-wi.md)
+### [2015-16 Spanish government formation: The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/2015-16-spanish-government-formation-the-socialist-workers-party-following-the-party-s-139-96-vote-approving-this-action-say-they-wi.md)
 _Context: Mariano Rajoy, People's Party, Prime Minister, Socialist Workers' Party, ten month interregnum_
 
 ## [Previous Day...](/news/2016/10/22/index.md)

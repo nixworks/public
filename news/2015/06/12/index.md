@@ -1,15 +1,15 @@
 ## [2015-06-12](/news/2015/06/12/index.md)
 
-### [Boko Haram insurgency. Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-insurgency-boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md)
+### [Boko Haram insurgency: Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-insurgency-boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md)
 _Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
 
-### [Saudi Arabian-led intervention in Yemen. The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/saudi-arabian-led-intervention-in-yemen-the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-hous.md)
+### [Saudi Arabian-led intervention in Yemen: The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/saudi-arabian-led-intervention-in-yemen-the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-hous.md)
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, World Heritage List_
 
-### [Libyan Civil War (2014-present). An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/libyan-civil-war-2014-present-an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
+### [Libyan Civil War (2014-present): An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/libyan-civil-war-2014-present-an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
 _Context: Libya, Libyan Civil War (2014-present), Tunisia_
 
-### [Operation Protective Edge. The Israel Defense Forces Advocate General has announced criminal investigations into three more incidents from Operation Protective Edge. Of the 190 incidents reported to the IDF, investigations have been completed on 105, with seven leading to criminal investigations. ](/news/2015/06/12/operation-protective-edge-the-israel-defense-forces-advocate-general-has-announced-criminal-investigations-into-three-more-incidents-from-o.md)
+### [Operation Protective Edge: The Israel Defense Forces Advocate General has announced criminal investigations into three more incidents from Operation Protective Edge. Of the 190 incidents reported to the IDF, investigations have been completed on 105, with seven leading to criminal investigations. ](/news/2015/06/12/operation-protective-edge-the-israel-defense-forces-advocate-general-has-announced-criminal-investigations-into-three-more-incidents-from-o.md)
 In light of the UN report to be submitted next week, IDF advocate general opens three more probes into alleged unsanctioned use of weapons by IDF soldiers during Gaza war last summer.
 
 ### [Residents of the Galapagos Islands conduct a strike and protest over decisions by the Ecuador National Assembly to axe cost of living subsidies causing cancellation of flights to and from the islands. ](/news/2015/06/12/residents-of-the-gala-pagos-islands-conduct-a-strike-and-protest-over-decisions-by-the-ecuador-national-assembly-to-axe-cost-of-living-subsi.md)
@@ -24,10 +24,10 @@ _Context: Fukushima Daiichi nuclear disaster, Japan_
 ### [Heavy rain hampers the search for dozens of missing people from the landslides in Nepal's Taplejung district which have resulted in at least 24 deaths in six villages. ](/news/2015/06/12/heavy-rain-hampers-the-search-for-dozens-of-missing-people-from-the-landslides-in-nepal-s-taplejung-district-which-have-resulted-in-at-least.md)
 _Context: Nepal, Taplejung district_
 
-### [2012-15 North American drought. California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/2012-15-north-american-drought-california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drough.md)
+### [2012-15 North American drought: California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/2012-15-north-american-drought-california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drough.md)
 _Context: 2012-15 North American drought, California_
 
-### [2015 Middle East respiratory syndrome outbreak in South Korea. The death toll from the South Korean MERS outbreak rises to 11 with 126 people now diagnosed with the disease but the number of people in quarantine falls slightly to 3,680. Two hospitals have closed as a result of the outbreak and the Bank of Korea has lowered interest rates due to concerns about effects of the outbreak on the economy. ](/news/2015/06/12/2015-middle-east-respiratory-syndrome-outbreak-in-south-korea-the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-peopl.md)
+### [2015 Middle East respiratory syndrome outbreak in South Korea: The death toll from the South Korean MERS outbreak rises to 11 with 126 people now diagnosed with the disease but the number of people in quarantine falls slightly to 3,680. Two hospitals have closed as a result of the outbreak and the Bank of Korea has lowered interest rates due to concerns about effects of the outbreak on the economy. ](/news/2015/06/12/2015-middle-east-respiratory-syndrome-outbreak-in-south-korea-the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-peopl.md)
  South Korea confirmed its 11th death from Middle East Respiratory Syndrome (MERS) on Friday, while reporting four new cases that brought the number of people diagnosed with the disease here to 126.
 
 ### [The Pacific Ocean nation of Palau burns four Vietnamese fishing boats caught poaching sea cucumbers and other marine life in its waters. ](/news/2015/06/12/the-pacific-ocean-nation-of-palau-burns-four-vietnamese-fishing-boats-caught-poaching-sea-cucumbers-and-other-marine-life-in-its-waters.md)

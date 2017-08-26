@@ -1,6 +1,6 @@
 ### [2017-06-2](/news/2017/06/2/index.md)
 
-# Rock am Ring. A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. 
+# Rock am Ring: A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. 
 
 Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena instead.
 

@@ -1,6 +1,6 @@
 ## [2013-11-27](/news/2013/11/27/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. 33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-33-people-are-killed-in-bombings-and-shootings-across-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: 33 people are killed in bombings and shootings across Iraq. ](/news/2013/11/27/iraqi-insurgency-post-u-s-withdrawal-33-people-are-killed-in-bombings-and-shootings-across-iraq.md)
 A series of shootings and bombings have left at least 33 people dead across Iraq, officials say, including nine in the western city of Ramadi.
 
 ### [Dubai wins the right to host Expo 2020 ](/news/2013/11/27/dubai-wins-the-right-to-host-expo-2020.md)
@@ -27,10 +27,10 @@ _Context: 2014 World Cup, Arena Corinthians, Brazil, SGBPo Paulo_
 ### [Three girls (two of whom eventually fled to a neighbor's house to escape their knife-wielding stepfather and notified police) held captive for several months or more in extremely dirty conditions (possibly up to two years), subjected to long barrages of loud music or static, fed only once a day and having gone up to four months without a bath, are rescued in Tucson, Arizona. ](/news/2013/11/27/three-girls-two-of-whom-eventually-fled-to-a-neighbor-s-house-to-escape-their-knife-wielding-stepfather-and-notified-police-held-captive-f.md)
 _Context: Tucson, Arizona_
 
-### [2013 Tunisian protests:. Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. ](/news/2013/11/27/2013-tunisian-protests-tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment.md)
+### [2013 Tunisian protests:: Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. ](/news/2013/11/27/2013-tunisian-protests-tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment.md)
 Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party in the neglected Gafsa region, as strikes are observed in areas amid rising discontent and political deadlock.
 
-### [2013 Thai protests:. As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-co.md)
+### [2013 Thai protests:: As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-co.md)
 _Context: 2013 Thai protests, Bangkok, Parliament, Prime Minister, Thailand, Yingluck Shinawatra_
 
 ### [The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. ](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.md)

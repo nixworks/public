@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Mega Millions lottery:. At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _Context: Mega Millions_
+1. [Mega Millions lottery:: At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in San Jose, California. ](/news/2013/12/18/mega-millions-lottery-at-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md) _Context: Mega Millions_
 2. [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md) _Context: Mega Millions_

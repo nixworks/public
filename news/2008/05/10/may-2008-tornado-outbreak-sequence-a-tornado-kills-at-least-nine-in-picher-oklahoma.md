@@ -1,6 +1,6 @@
 ### [2008-05-10](/news/2008/05/10/index.md)
 
-#  May 2008 tornado outbreak sequence:. A tornado kills at least nine in Picher, Oklahoma. 
+#  May 2008 tornado outbreak sequence:: A tornado kills at least nine in Picher, Oklahoma. 
 
 
 
@@ -23,5 +23,5 @@
 6. [ An EF4 tornado kills at least eight people and injures 50 in Lone Grove, Oklahoma, United States. ](/news/2009/02/10/an-ef4-tornado-kills-at-least-eight-people-and-injures-50-in-lone-grove-oklahoma-united-states.md) _Context: Oklahoma!, tornado_
 7. [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md) _Context: May 2008 tornado outbreak sequence, Oklahoma!_
 8. [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md) _Context: Oklahoma!, tornado_
-9. [Tornadoes of 2017. Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/tornadoes-of-2017-robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-torn.md) _Context: tornado_
-10. [Tornado outbreak and floods of April 28-30, 2017. The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/tornado-outbreak-and-floods-of-april-28-30-2017-the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-r.md) _Context: tornado_
+9. [Tornadoes of 2017: Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/tornadoes-of-2017-robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-torn.md) _Context: tornado_
+10. [Tornado outbreak and floods of April 28-30, 2017: The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/tornado-outbreak-and-floods-of-april-28-30-2017-the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-r.md) _Context: tornado_

@@ -1,9 +1,9 @@
 ## [2013-07-29](/news/2013/07/29/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), Shiite, car bomb_
 
-### [War in North-West Pakistan:. The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-f.md)
+### [War in North-West Pakistan:: The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/war-in-north-west-pakistan-the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-f.md)
 Pakistani Taliban attacked a prison in the country&rsquo;s northwestern town of Dera Ismail Khan, freeing more than 300 prisoners late last night.
 
 ### [2013 Pacific hurricane season: Tropical Storm Flossie is predicted to make a rare landfall in the US island state of Hawaii with warnings of heavy rain with the potential for flooding and landslides. ](/news/2013/07/29/2013-pacific-hurricane-season-tropical-storm-flossie-is-predicted-to-make-a-rare-landfall-in-the-us-island-state-of-hawaii-with-warnings-of.md)

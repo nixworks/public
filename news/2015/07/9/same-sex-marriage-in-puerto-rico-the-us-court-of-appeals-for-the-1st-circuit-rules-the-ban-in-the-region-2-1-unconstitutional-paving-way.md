@@ -1,6 +1,6 @@
 ### [2015-07-9](/news/2015/07/9/index.md)
 
-# Same-sex marriage in Puerto Rico. The US Court of Appeals for the 1st Circuit rules the ban in the region 2-1 unconstitutional, paving way for same-sex marriages. 
+# Same-sex marriage in Puerto Rico: The US Court of Appeals for the 1st Circuit rules the ban in the region 2-1 unconstitutional, paving way for same-sex marriages. 
 
 A federal appeals court on Wednesday ruled Puerto Rico&#039;s same-sex marriage ban is unconstitutional.
 

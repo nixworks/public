@@ -1,6 +1,6 @@
 ### [2017-08-25](/news/2017/08/25/index.md)
 
-# 2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm, now a Category 4 hurricane, will make landfall tonight as the strongest to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. 
+# 2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm, now a Category 4 hurricane, will make landfall near Corpus Christi, Texas, around 10 p.m. EDT as the strongest storm to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. 
 
 Hurricane Harvey intensified early on Friday, spinning into potentially the biggest hurricane to hit the U.S. mainland in more than a decade, with life-threatening floods expected along the Gulf Coast.
 

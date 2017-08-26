@@ -14,4 +14,4 @@ Call it the Chapter 11 inverted headlock.
 
 ### Related:
 
-1. [Bollea v. Gawker. A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/bollea-v-gawker-a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-profession.md) _Context: Hulk Hogan, lawsuit_
+1. [Bollea v. Gawker: A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/bollea-v-gawker-a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-profession.md) _Context: Hulk Hogan, lawsuit_

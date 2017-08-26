@@ -3,10 +3,10 @@
 ### [Bangladeshi police fire tear gas at Islamist activists trying to enforce a general strike in the town of Keraniganj with dozens hurt in the riots. ](/news/2011/07/10/bangladeshi-police-fire-tear-gas-at-islamist-activists-trying-to-enforce-a-general-strike-in-the-town-of-keraniganj-with-dozens-hurt-in-the.md)
 Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Islamist activists trying to enforce a nationwide strike over the removal of a Muslim phrase in the constitution, and witnesses said around 50 people were injured.
 
-### [War in Afghanistan (2001-present):. Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001-present-three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
+### [War in Afghanistan (2001-present):: Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001-present-three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
 _Context: Afghanistan's, NATO, War in Afghanistan (2001-present)_
 
-### [News International. The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/news-international-the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md)
+### [News International: The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/news-international-the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md)
 Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last night after proof emerged that executives at his British newspaper empire mounted a cover-up of the full scale of alleged criminal wrongdoing at the News of the World.
 
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)

@@ -1,6 +1,6 @@
 ### [2017-03-7](/news/2017/03/7/index.md)
 
-# Vault 7. WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. 
+# Vault 7: WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. 
 
 
 

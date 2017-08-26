@@ -9,7 +9,7 @@ _Context: Barack Obama, Texas, U.S. President, state of emergency, wildfires_
 ### [G8 nations pledge at least $40 billion to help Arab countries reconstruct and implement democracy following the turmoil of the Arab Spring. ](/news/2011/09/10/g8-nations-pledge-at-least-40-billion-to-help-arab-countries-reconstruct-and-implement-democracy-following-the-turmoil-of-the-arab-spring.md)
 _Context: Arab Spring, Arab countries, Group of Eight, democratic progress_
 
-### [Post-Mubarak transition in Egypt:. Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-protesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md)
+### [Post-Mubarak transition in Egypt:: Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-protesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md)
 _Context: Cairo, Egypt-Israel relations, Israel, post-Mubarak Egypt_
 
 ## [Previous Day...](/news/2011/09/9/index.md)

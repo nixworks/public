@@ -1,6 +1,6 @@
 ### [2006-02-16](/news/2006/02/16/index.md)
 
-#  Abu Ghraib prison abuse:. US civil liberties groups have called for an inquiry into treatment of Iraqi detainees at Abu Ghraib after new images of apparent abuse were shown. 
+#  Abu Ghraib prison abuse:: US civil liberties groups have called for an inquiry into treatment of Iraqi detainees at Abu Ghraib after new images of apparent abuse were shown. 
 
 
 

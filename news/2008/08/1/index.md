@@ -15,7 +15,7 @@ U.S. intelligence agencies have concluded that Pakistan’s spy service helped p
 ### [ At least 20 people are killed after a fire breaks out on a passenger train in Warangal, Andhra Pradesh, India. ](/news/2008/08/1/at-least-20-people-are-killed-after-a-fire-breaks-out-on-a-passenger-train-in-warangal-andhra-pradesh-india.md)
 _Context: Andhra Pradesh, India, Warangal_
 
-### [ 2008 Summer Olympics:. The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md)
+### [ 2008 Summer Olympics:: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md)
 _Context: 2008 Olympic Games, 2008 Summer Olympics, Beijing Organizing Committee, International Olympic Committee, Internet access_
 
 ### [ King Tupou V is crowned as the 23rd Monarch of Tonga. ](/news/2008/08/1/king-tupou-v-is-crowned-as-the-23rd-monarch-of-tonga.md)

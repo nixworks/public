@@ -1,6 +1,6 @@
 ### [2015-06-15](/news/2015/06/15/index.md)
 
-# The Vatican to hold first paedophilia trial. The Vatican announces that the first hearing in the trial of Jozef Wesolowski, a former papal ambassador to the Dominican Republic and a Polish former prelate of the Roman Catholic Church, is scheduled for July 11. 
+# The Vatican to hold first paedophilia trial: The Vatican announces that the first hearing in the trial of Jozef Wesolowski, a former papal ambassador to the Dominican Republic and a Polish former prelate of the Roman Catholic Church, is scheduled for July 11. 
 
 The Vatican orders the trial of a former archbishop over paedophilia charges.
 

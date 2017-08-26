@@ -30,7 +30,7 @@ _Context: Amanda Knox, Italian, Perugia, Raffaele Sollecito, killing Meredith Ke
 ### [ The North Atlantic Treaty Organisation announces that 25 member countries will contribute a further 7,000 troops to the International Security Assistance Force in Afghanistan in addition to 30,000 additional American and 500 British troops previously announced. ](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.md)
 _Context: Afghanistan's, International Security Assistance Force, North Atlantic Treaty Organisation_
 
-### [ 2010 FIFA World Cup draw:. The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md)
+### [ 2010 FIFA World Cup draw:: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md)
 The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Saturday (KST).
 
 ### [ Nepal's cabinet meets on Mount Everest to highlight the impact of climate change in the Himalayas. ](/news/2009/12/4/nepal-s-cabinet-meets-on-mount-everest-to-highlight-the-impact-of-climate-change-in-the-himalayas.md)

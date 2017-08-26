@@ -15,7 +15,7 @@ _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democrat, Howard Dean
 ### [The M6 Toll road, the United Kingdom's first toll motorway, partially opens in the West Midlands. It is due to open fully on December 13. [http://news.bbc.co.uk/1/hi/england/staffordshire/3298789.stm]](/news/2003/12/9/the-m6-toll-road-the-united-kingdom-s-first-toll-motorway-partially-opens-in-the-west-midlands-it-is-due-to-open-fully-on-december-13-h.md)
 _Context: Britain, December 13, M6 Toll, West Midlands_
 
-### [Occupation of Iraq:. Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md)
+### [Occupation of Iraq:: Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md)
 _Context: Iraq, Mosul, Occupation of Iraq, Tal Afar, United States, car bomb_
 
 ### [Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. ](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.md)

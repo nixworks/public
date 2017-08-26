@@ -1,6 +1,6 @@
 ### [2016-07-31](/news/2016/07/31/index.md)
 
-# 2016 Yerevan hostage crisis. A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. 
+# 2016 Yerevan hostage crisis: A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. 
 
 
 
@@ -20,4 +20,4 @@
 7. [ Caspian Airlines Flight 7908, flying from Tehran to Yerevan, Armenia with 153 passengers and 15 crew members on board, crashes in Iran shortly after takeoff. ](/news/2009/07/15/caspian-airlines-flight-7908-flying-from-tehran-to-yerevan-armenia-with-153-passengers-and-15-crew-members-on-board-crashes-in-iran-shor.md) _Context: Armenia, Yerevan_
 8. [ Eight people are killed in violent protests in Yerevan, Armenia, following protests over the outcome of the latest presidential election. ](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.md) _Context: Armenia, Yerevan_
 9. [ The President of Armenia Robert Kocharyan declares a state of emergency following anti-government protests in Yerevan. ](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.md) _Context: Armenia, Yerevan_
-10. [Armenian parliamentary election, 2017. Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _Context: Armenia_
+10. [Armenian parliamentary election, 2017: Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _Context: Armenia_

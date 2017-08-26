@@ -3,7 +3,7 @@
 ### [Saudi Arabia's Ministry of Health voices concerns that the novel coronavirus, similar to SARS and reported to have originated from the country, might affect the Hajj, the religious pilgrimage set to occur next month. The ministry suggests that travelers take the necessary precautions. ](/news/2012/09/27/saudi-arabia-s-ministry-of-health-voices-concerns-that-the-novel-coronavirus-similar-to-sars-and-reported-to-have-originated-from-the-count.md)
 _Context: Hajj, novel coronavirus_
 
-### [Senkaku Islands dispute:. Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". ](/news/2012/09/27/senkaku-islands-dispute-japanese-prime-minister-yoshihiko-noda-meets-with-un-general-secretary-ban-ki-moon-explaining-to-him-that-the-isl.md)
+### [Senkaku Islands dispute:: Japanese Prime Minister Yoshihiko Noda meets with UN General Secretary Ban Ki-moon, explaining to him that the islands are "Japan's inherent territory" and that "there is no territorial dispute as such". ](/news/2012/09/27/senkaku-islands-dispute-japanese-prime-minister-yoshihiko-noda-meets-with-un-general-secretary-ban-ki-moon-explaining-to-him-that-the-isl.md)
 Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AFP
 
 ### [The United States announces that it will seek to lift its ban on imported goods from Myanmar. ](/news/2012/09/27/the-united-states-announces-that-it-will-seek-to-lift-its-ban-on-imported-goods-from-myanmar.md)

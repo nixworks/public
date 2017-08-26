@@ -1,9 +1,9 @@
 ## [2015-03-16](/news/2015/03/16/index.md)
 
-### [Libyan Civil War. Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/libyan-civil-war-islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md)
+### [Libyan Civil War: Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/libyan-civil-war-islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md)
 _Context: Ibn Sina Hospital, Islamic State of Iraq and the Levant, Libya, Libyan Civil War, Sirte_
 
-### [Cyclone Pam. The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/cyclone-pam-the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md)
+### [Cyclone Pam: The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/cyclone-pam-the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md)
 ARE YOU AFFECTED BY THE STORM? SEND IN YOUR PHOTOS AND VIDEO HERE. - New Zealand Herald
 
 ### [A bus runs off the road in northwestern Nepal killing at least seventeen people. ](/news/2015/03/16/a-bus-runs-off-the-road-in-northwestern-nepal-killing-at-least-seventeen-people.md)

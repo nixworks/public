@@ -1,6 +1,6 @@
 ### [2015-10-9](/news/2015/10/9/index.md)
 
-# School shootings. One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. 
+# School shootings: One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. 
 
 NAU Police Chief G.T. Fowler says the shooting stems from a conflict that developed between two groups of students, saying that one of the students &quot;produced a handgun&quot; and opened fire.
 
@@ -21,4 +21,4 @@ NAU Police Chief G.T. Fowler says the shooting stems from a conflict that develo
 5. [ A school shooting in northern Norway leaves two people dead, including the gunman. ](/news/2009/01/23/a-school-shooting-in-northern-norway-leaves-two-people-dead-including-the-gunman.md) _Context: School shooting_
 6. [ Two medical helicopters collide in Flagstaff, Arizona, resulting in seven deaths and three people being critically injured. ](/news/2008/06/29/two-medical-helicopters-collide-in-flagstaff-arizona-resulting-in-seven-deaths-and-three-people-being-critically-injured.md) _Context: Flagstaff, Arizona_
 7. [ Red Lake shootings: In a U.S. school shooting, Jeff Weise opened fire at Red Lake High School in Minnesota, killing nine people and then himself. ](/news/2005/03/21/red-lake-shootings-in-a-u-s-school-shooting-jeff-weise-opened-fire-at-red-lake-high-school-in-minnesota-killing-nine-people-and-then-hi.md) _Context: School shooting_
-8. [Shooting of Kayla Rolland. Six-year-old Dedrick Owens shoots and kills Kayla Rolland, also six years old, at Theo J. Buell Elementary School in Mount Morris Township, Michigan. Rolland is currently the youngest victim of a school shooting. ](/news/2000/02/29/shooting-of-kayla-rolland-six-year-old-dedrick-owens-shoots-and-kills-kayla-rolland-also-six-years-old-at-theo-j-buell-elementary-school.md) _Context: School shooting_
+8. [Shooting of Kayla Rolland: Six-year-old Dedrick Owens shoots and kills Kayla Rolland, also six years old, at Theo J. Buell Elementary School in Mount Morris Township, Michigan. Rolland is currently the youngest victim of a school shooting. ](/news/2000/02/29/shooting-of-kayla-rolland-six-year-old-dedrick-owens-shoots-and-kills-kayla-rolland-also-six-years-old-at-theo-j-buell-elementary-school.md) _Context: School shooting_

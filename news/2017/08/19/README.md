@@ -28,7 +28,7 @@ _Context: 2017 Australian constitutional crisis, Nick Xenophon_
 Nigerian President Muhammadu Buhari returned home on Saturday from three months of medical leave in Britain where he received treatment for an unspecified ailment.
 
 ### [Political appointments by Donald Trump: Pastor A.R. Bernard becomes the first religious leader to resign from the president's evangelical advisory board. ](/news/2017/08/19/political-appointments-by-donald-trump-pastor-a-r-bernard-becomes-the-first-religious-leader-to-resign-from-the-president-s-evangelical-ad.md)
-_Context: A.R. Bernard, Political appointments by Donald Trump, president_
+_Context: A.R. Bernard, Political appointments by Donald Trump, President_
 
 ## [Previous Day...](/news/2017/08/18/index.md)
 

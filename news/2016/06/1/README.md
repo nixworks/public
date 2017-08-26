@@ -1,18 +1,18 @@
 ## [2016-06-1](/news/2016/06/1/index.md)
 
-### [Syrian Civil War. United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/syrian-civil-war-united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-gov.md)
+### [Syrian Civil War: United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/syrian-civil-war-united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-gov.md)
 MIDEAST-CRISIS/SYRIA-OFFENSIVE (EXCLUSIVE, URGENT):EXCLUSIVE-U.S.-backed Syria forces launch offensive for Manbij pocket -U.S. officials
 
-### [Northern Mali conflict. Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/northern-mali-conflict-four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md)
+### [Northern Mali conflict: Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/northern-mali-conflict-four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md)
 Al-Qaeda’s North Africa branch said it did battle with “crusader occupation forces” in northern Mali.
 
-### [War in Somalia (2009-present). At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/war-in-somalia-2009-present-at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-clai.md)
+### [War in Somalia (2009-present): At least 16 people are killed and 55 injured in an attack on a hotel in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2016/06/1/war-in-somalia-2009-present-at-least-16-people-are-killed-and-55-injured-in-an-attack-on-a-hotel-in-mogadishu-somalia-al-shabaab-clai.md)
 A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers in the center of the Somali capital of Mogadishu on Wednesday and the attack was followed by gunfire, killing 15 people, police said.
 
 ### [Suspected Neo-Nazis attack people at a vegan cafe with slabs of meat in Tbilisi, Georgia. ](/news/2016/06/1/suspected-neo-nazis-attack-people-at-a-vegan-cafe-with-slabs-of-meat-in-tbilisi-georgia.md)
 The group were also allegedly smoking in a no-smoking area.
 
-### [2016 Bangladesh Bank heist. A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/2016-bangladesh-bank-heist-a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-ne.md)
+### [2016 Bangladesh Bank heist: A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/2016-bangladesh-bank-heist-a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-ne.md)
 _Context: Bangladesh, February's attack on Bangladesh's central bank, Federal Reserve Bank of New York, United States House of Representatives_
 
 ### [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md)
@@ -21,10 +21,10 @@ _Context: Public Investment Fund, Saudi Arabia, Uber_
 ### [A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. ](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-near-the-south-korean-capital-seoul-kills-four-workers-and-injures-ten-more.md)
  Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 worke...
 
-### [EgyptAir Flight 804. A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/egyptair-flight-804-a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md)
+### [EgyptAir Flight 804: A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/egyptair-flight-804-a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md)
 _Context: EgyptAir Flight 804, French naval, black box_
 
-### [2016 Fort McMurray wildfire. Residents return to Fort McMurray for the first time since May 1. A couple thousand firefighters, from as far away as South Africa, continue to battle the 5,800 square kilometer (3,603 square mile) Canadian blaze that has crossed the Alberta border into Saskatchewan. ](/news/2016/06/1/2016-fort-mcmurray-wildfire-residents-return-to-fort-mcmurray-for-the-first-time-since-may-1-a-couple-thousand-firefighters-from-as-far-a.md)
+### [2016 Fort McMurray wildfire: Residents return to Fort McMurray for the first time since May 1. A couple thousand firefighters, from as far away as South Africa, continue to battle the 5,800 square kilometer (3,603 square mile) Canadian blaze that has crossed the Alberta border into Saskatchewan. ](/news/2016/06/1/2016-fort-mcmurray-wildfire-residents-return-to-fort-mcmurray-for-the-first-time-since-may-1-a-couple-thousand-firefighters-from-as-far-a.md)
 Waseem Amin has been making big plans for his return to Fort McMurray, the Canadian oil-sands town devastated by wildfires last month. He came home to a city smelling of smoke and surrounded by charred hills dotted with hulks of burned trees.
 
 ### [Greg Abbott, the Governor of the US state of Texas, declares a disaster in 31 counties due to floods which have claimed several lives in recent days. ](/news/2016/06/1/greg-abbott-the-governor-of-the-us-state-of-texas-declares-a-disaster-in-31-counties-due-to-floods-which-have-claimed-several-lives-in-rec.md)
@@ -39,13 +39,13 @@ _Context: Germany, President, Recep Tayyip Erdogan, Turkey, genocide of Armenian
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
 _Context: Jens Stoltenberg, Secretary General of NATO, membership_
 
-### [Humanitarian aid during the Syrian Civil War. A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/humanitarian-aid-during-the-syrian-civil-war-a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-t.md)
+### [Humanitarian aid during the Syrian Civil War: A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/humanitarian-aid-during-the-syrian-civil-war-a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-t.md)
 The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where President Bashar al-Assad has refused to allow aid to starving Syrians, got its first U.N. aid convoy since 2012 on Wednesday.
 
 ### [The United Nations Security Council condemns North Korea's failed ballistic missile test yesterday, as well as two other unsuccessful ones in April. ](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.md)
 The United Nations Security Council on Wednesday condemned three recent failed ballistic missile tests by North Korea and threatened to take further &quot;significant measures.&quot;
 
-### [ 2016 UCLA shooting. Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/2016-ucla-shooting-two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campu.md)
+### [ 2016 UCLA shooting: Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/2016-ucla-shooting-two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campu.md)
 Victim described as popular teacher, devoted family man.
 
 ### [A man in Plano, Texas, stabs his girlfriend and posts her dead body to Facebook; the social media website does not remove the photograph for 36 hours. ](/news/2016/06/1/a-man-in-plano-texas-stabs-his-girlfriend-and-posts-her-dead-body-to-facebook-the-social-media-website-does-not-remove-the-photograph-for.md)

@@ -1,6 +1,6 @@
 ### [2006-07-24](/news/2006/07/24/index.md)
 
-#  Iraq War:. Saddam Hussein, 69, the deposed former Iraqi President, has been force-fed in a Baghdad hospital through a tube after 16 days of hunger strike. 
+#  Iraq War:: Saddam Hussein, 69, the deposed former Iraqi President, has been force-fed in a Baghdad hospital through a tube after 16 days of hunger strike. 
 
 
 

@@ -21,7 +21,7 @@ _Context: Britain, Japan, Olympus Corp, Tsuyoshi Kikukawa, United States_
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
 _Context: Cancun, Hurricane Rina, Mexico_
 
-### [Turkish earthquake:. The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/turkish-earthquake-the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-ov.md)
+### [Turkish earthquake:: The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/turkish-earthquake-the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-ov.md)
 Turkey struggled to provide shelter on Wednesday to tens of thousands left homeless by an earthquake that killed nearly 500, and rescue teams began taking painful decisions to call off searches for those buried alive.
 
 ### [European Union leaders hold an emergency meeting to discuss the European sovereign debt crisis. ](/news/2011/10/26/european-union-leaders-hold-an-emergency-meeting-to-discuss-the-european-sovereign-debt-crisis.md)
@@ -36,7 +36,7 @@ Col Muammar Gaddafi&#039;s fugitive son and his intelligence chief are trying to
 ### [Twelve former officials in the military junta that ruled Argentina between 1976 and 1983 are given life sentences for their roles in the dirty war against political opponents, including Alfredo Astiz. ](/news/2011/10/26/twelve-former-officials-in-the-military-junta-that-ruled-argentina-between-1976-and-1983-are-given-life-sentences-for-their-roles-in-the-dir.md)
 Former naval officer Alfredo Astiz among 12 officials jailed for life over torture and murder during military rule.
 
-### [Occupy Wall Street movement:. In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md)
+### [Occupy Wall Street movement:: In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/occupy-wall-street-movement-in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making.md)
 Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served our country in Iraq twice and came home wounded, was shot in the head by a police projectile last ...
 
 ### [Brazilian Sports Minister Orlando Silva resigns following corruption allegations, but insists he is innocent. ](/news/2011/10/26/brazilian-sports-minister-orlando-silva-resigns-following-corruption-allegations-but-insists-he-is-innocent.md)

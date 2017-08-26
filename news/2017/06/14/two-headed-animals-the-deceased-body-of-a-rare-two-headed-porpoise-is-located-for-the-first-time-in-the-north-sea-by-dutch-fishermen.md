@@ -1,6 +1,6 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# Two-headed animals. The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. 
+# Two-headed animals: The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. 
 
 Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.
 
@@ -17,7 +17,7 @@ Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch 
 4. [A major winter storm called Bodil hits the United Kingdom, the Netherlands, Denmark and Germany, disrupting traffic and causing four people to be dead or missing and widespread damage amid fears of flooding along the North Sea coast. ](/news/2013/12/5/a-major-winter-storm-called-bodil-hits-the-united-kingdom-the-netherlands-denmark-and-germany-disrupting-traffic-and-causing-four-people.md) _Context: North Sea_
 5. [The passenger ferry "MS King Seaways", en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. ](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-from-newcastle-england-to-amsterdam-in-the-netherlands-catches-fire-in-the-north-sea-a-m.md) _Context: North Sea_
 6. [Vehicle carrier "Baltic Ace" sinks in the North Sea after collision with a container ship with at least four people dead and seven missing. ](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.md) _Context: North Sea_
-7. [Credit downgrades:. Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/credit-downgrades-moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md) _Context: Dutch_
+7. [Credit downgrades:: Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/credit-downgrades-moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md) _Context: Dutch_
 8. [A helicopter ditches in the North Sea off Aberdeen. ](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.md) _Context: North Sea_
 9. [Dutch baseball player Greg Halman of the Seattle Mariners is stabbed to death, with his brother as a suspect. ](/news/2011/11/21/dutch-baseball-player-greg-halman-of-the-seattle-mariners-is-stabbed-to-death-with-his-brother-as-a-suspect.md) _Context: Dutch_
 10. [A Dutch court acquits politician Geert Wilders of hate speech charges for statements against Islam in the Geert Wilders trial. ](/news/2011/06/23/a-dutch-court-acquits-politician-geert-wilders-of-hate-speech-charges-for-statements-against-islam-in-the-geert-wilders-trial.md) _Context: Dutch_

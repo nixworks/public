@@ -42,7 +42,7 @@ _Context: Costa Rica, mudslide_
 ### [Ongoing flooding in northern Colombia kills at least 102 people. ](/news/2010/11/4/ongoing-flooding-in-northern-colombia-kills-at-least-102-people.md)
 _Context: Colombia_
 
-### [Qantas Flight 32:. Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md)
+### [Qantas Flight 32:: Qantas Flight 32 from Singapore to Sydney makes an emergency landing at Changi Airport after debris suspected to be from the aircraft is found on Batam Island in Indonesia. ](/news/2010/11/4/qantas-flight-32-qantas-flight-32-from-singapore-to-sydney-makes-an-emergency-landing-at-changi-airport-after-debris-suspected-to-be-from.md)
 Qantas has grounded its Airbus A380s after a mid-air explosion forced an emergency landing in Singapore.
 
 ### [Aero Caribbean Flight 883 crashes in central Cuba, killing all 68 people on board.](/news/2010/11/4/aero-caribbean-flight-883-crashes-in-central-cuba-killing-all-68-people-on-board.md)

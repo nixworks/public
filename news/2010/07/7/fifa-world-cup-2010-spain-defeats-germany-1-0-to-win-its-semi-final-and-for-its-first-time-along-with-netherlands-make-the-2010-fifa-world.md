@@ -1,6 +1,6 @@
 ### [2010-07-7](/news/2010/07/7/index.md)
 
-# FIFA World Cup 2010. Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. 
+# FIFA World Cup 2010: Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. 
 
 
 

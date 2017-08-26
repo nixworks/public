@@ -18,7 +18,7 @@ _Context: Chofu, Japan, World War II_
 ### [ Gordon Brown, the UK Prime Minister, says that people should support a bill permitting the use of human-animal embryos. ](/news/2008/05/18/gordon-brown-the-uk-prime-minister-says-that-people-should-support-a-bill-permitting-the-use-of-human-animal-embryos.md)
 _Context: Gordon Brown, UK, human-animal embryos_
 
-### [ 2008 Sichuan earthquake:. The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md)
+### [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 32,477, with 14,000 still missing and 205,000 people evacuated. ](/news/2008/05/18/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-32-477-with-14-000-still-missing-and-205-000-people-evacuated.md)
 Hope drained out of this mountain valley Saturday as thousands of homeless residents came to realize a grim truth - there is precious little, if any, time remaining to find more survivors of the devastating earthquake. Rescue workers did manage to pull 33 survivors from the rubble of towns and villa...
 
 ## [Previous Day...](/news/2008/05/17/index.md)

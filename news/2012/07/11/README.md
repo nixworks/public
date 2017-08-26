@@ -3,7 +3,7 @@
 ### [Mexican Drug War: The Mexican newspaper "El Manana" from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-vio.md)
 _Context: El Manana, Mexican Drug War, Nuevo Laredo, second grenade attack_
 
-### [Syrian uprising (2011-present):. 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011-present-56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md)
+### [Syrian uprising (2011-present):: 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011-present-56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md)
 _Context: Red Crescent, Syrian Army, Syrian uprising (2011-present)_
 
 ### [United Nations peacekeepers are redeployed to the Congolese city of Goma to protect it from March 23 Movement rebels. ](/news/2012/07/11/united-nations-peacekeepers-are-redeployed-to-the-congolese-city-of-goma-to-protect-it-from-march-23-movement-rebels.md)

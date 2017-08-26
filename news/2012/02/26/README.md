@@ -9,7 +9,7 @@ France and Germany follow the US and Britain in withdrawing civilian staff from 
 ### [Colombia's Revolutionary Armed Forces of Colombia or FARC announces that it has abandoned kidnapping and will soon release its last remaining captives. ](/news/2012/02/26/colombia-s-revolutionary-armed-forces-of-colombia-or-farc-announces-that-it-has-abandoned-kidnapping-and-will-soon-release-its-last-remainin.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, kidnapped_
 
-### [84th Academy Awards:. The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md)
+### [84th Academy Awards:: The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/84th-academy-awards-the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-c.md)
 _Context: 84th Academy Awards, California, Hollywood, Hollywood and Highland Center Theatre (formerly Kodak Theatre)_
 
 ### [Chandra Bahadur Dangi is verified by Guinness World Records to be the world's shortest person ever, beating the record long held by Gul Mohammed. ](/news/2012/02/26/chandra-bahadur-dangi-is-verified-by-guinness-world-records-to-be-the-world-s-shortest-person-ever-beating-the-record-long-held-by-gul-moha.md)

@@ -1,6 +1,6 @@
 ### [2016-09-18](/news/2016/09/18/index.md)
 
-# The Church of Jesus Christ of Latter-day Saints in Japan. Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. 
+# The Church of Jesus Christ of Latter-day Saints in Japan: Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. 
 
 
 

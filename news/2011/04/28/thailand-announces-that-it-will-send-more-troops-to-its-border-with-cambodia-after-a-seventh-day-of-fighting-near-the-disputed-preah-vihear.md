@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Cambodian-Thai border stand-off. Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _Context: Cambodia, Preah Vihear Temple, Thailand_
+1. [Cambodian-Thai border stand-off: Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _Context: Cambodia, Preah Vihear Temple, Thailand_
 2. [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md) _Context: Cambodia, Preah Vihear Temple, Thailand_
 3. [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md) _Context: Cambodia, Preah Vihear Temple, Thailand_
 4. [ Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. ](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.md) _Context: Cambodia, Preah Vihear Temple, Thailand_

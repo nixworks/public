@@ -1,6 +1,6 @@
 ## [2012-08-4](/news/2012/08/4/index.md)
 
-### [Arab Spring:. Syrian civil war:. Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-syrian-civil-war-clashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md)
+### [Arab Spring:: Syrian civil war:: Clashes continue in Aleppo, with fighting near the city's television and radio station. ](/news/2012/08/4/arab-spring-syrian-civil-war-clashes-continue-in-aleppo-with-fighting-near-the-city-s-television-and-radio-station.md)
 Almost 50 Iranian pilgrims have been kidnapped near a Shia shrine in Syria, reports say, as fresh fighting hits the cities of Damascus and Aleppo.
 
 ### [A suicide bombing in the southern Yemeni province of Abyan kills at least 45 people. ](/news/2012/08/4/a-suicide-bombing-in-the-southern-yemeni-province-of-abyan-kills-at-least-45-people.md)

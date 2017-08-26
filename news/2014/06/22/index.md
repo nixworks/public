@@ -1,9 +1,9 @@
 ## [2014-06-22](/news/2014/06/22/index.md)
 
-### [2014 Northern Iraq offensive. Islamic State in Iraq and the Levant capture the al-Walid (al-Tanf) border crossing with Syria and the Turaibil (Karameh) border crossing with Jordan. ](/news/2014/06/22/2014-northern-iraq-offensive-islamic-state-in-iraq-and-the-levant-capture-the-al-walid-al-tanf-border-crossing-with-syria-and-the-turaibi.md)
+### [2014 Northern Iraq offensive: Islamic State in Iraq and the Levant capture the al-Walid (al-Tanf) border crossing with Syria and the Turaibil (Karameh) border crossing with Jordan. ](/news/2014/06/22/2014-northern-iraq-offensive-islamic-state-in-iraq-and-the-levant-capture-the-al-walid-al-tanf-border-crossing-with-syria-and-the-turaibi.md)
 Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki comes under growing pressure.
 
-### [Syrian civil war. A 15-year-old Israeli boy is killed and three Israelis wounded when their truck is hit by an unknown weapon in the Golan heights near the Quneitra border crossing; Israeli Defense Forces fire at Syrian government targets in response. ](/news/2014/06/22/syrian-civil-war-a-15-year-old-israeli-boy-is-killed-and-three-israelis-wounded-when-their-truck-is-hit-by-an-unknown-weapon-in-the-golan-h.md)
+### [Syrian civil war: A 15-year-old Israeli boy is killed and three Israelis wounded when their truck is hit by an unknown weapon in the Golan heights near the Quneitra border crossing; Israeli Defense Forces fire at Syrian government targets in response. ](/news/2014/06/22/syrian-civil-war-a-15-year-old-israeli-boy-is-killed-and-three-israelis-wounded-when-their-truck-is-hit-by-an-unknown-weapon-in-the-golan-h.md)
 A teenager becomes the first Israeli to be killed by firing from Syria in the occupied Golan Heights since the start of the Syria conflict, Israel says.
 
 ### [The Pyu ancient cities are added to the UNESCO World Heritage Site list, the first such site in Myanmar. ](/news/2014/06/22/the-pyu-ancient-cities-are-added-to-the-unesco-world-heritage-site-list-the-first-such-site-in-myanmar.md)

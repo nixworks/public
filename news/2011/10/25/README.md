@@ -3,7 +3,7 @@
 ### [A Philippine civil defence official estimates that approximately 10,000 people in the southern Philippines have fled their homes due to fighting between Abu Sayyaf rebels and government forces. ](/news/2011/10/25/a-philippine-civil-defence-official-estimates-that-approximately-10-000-people-in-the-southern-philippines-have-fled-their-homes-due-to-figh.md)
 ABOUT 10,000 people have fled their homes amid fighting between Muslim rebels and government forces in the southern Philippines, a civil defence official says.
 
-### [Aftermath of Libyan Civil War:. The bodies of ousted Libyan dictator Muammar Gaddafi, his son and advisor Mutassim Gaddafi, and former defence minister Abu-Bakr Yunis Jabr are buried in unmarked graves by the National Transitional Council. ](/news/2011/10/25/aftermath-of-libyan-civil-war-the-bodies-of-ousted-libyan-dictator-muammar-gaddafi-his-son-and-advisor-mutassim-gaddafi-and-former-defen.md)
+### [Aftermath of Libyan Civil War:: The bodies of ousted Libyan dictator Muammar Gaddafi, his son and advisor Mutassim Gaddafi, and former defence minister Abu-Bakr Yunis Jabr are buried in unmarked graves by the National Transitional Council. ](/news/2011/10/25/aftermath-of-libyan-civil-war-the-bodies-of-ousted-libyan-dictator-muammar-gaddafi-his-son-and-advisor-mutassim-gaddafi-and-former-defen.md)
 The bodies of former Libyan leader Muammar Gaddafi, his son and defence minister were buried in a secret location in the desert at dawn, officials say.
 
 ### [2011 Yemeni uprising: Fifteen people die in clashes in the Yemeni cities of Sana'a and Taiz. ](/news/2011/10/25/2011-yemeni-uprising-fifteen-people-die-in-clashes-in-the-yemeni-cities-of-sana-a-and-taiz.md)
@@ -12,7 +12,7 @@ A truce reached by Yemen’s government and dissidents, who have been locked in 
 ### [First-person shooter video game "Battlefield 3", developed by Electronic Arts, is released in North America. ](/news/2011/10/25/first-person-shooter-video-game-battlefield-3-developed-by-electronic-arts-is-released-in-north-america.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-### [Turkish earthquake:. The death toll of eastern Turkey's recent earthquake reaches 366, as emergency services continue to search the rubble of Van for survivors. ](/news/2011/10/25/turkish-earthquake-the-death-toll-of-eastern-turkey-s-recent-earthquake-reaches-366-as-emergency-services-continue-to-search-the-rubble-o.md)
+### [Turkish earthquake:: The death toll of eastern Turkey's recent earthquake reaches 366, as emergency services continue to search the rubble of Van for survivors. ](/news/2011/10/25/turkish-earthquake-the-death-toll-of-eastern-turkey-s-recent-earthquake-reaches-366-as-emergency-services-continue-to-search-the-rubble-o.md)
 Defense Ministry to send plane carrying 7 mobile homes to quake-devastated province, more aid to follow.
 
 ### [Floodwaters continue to rise on the outskirts of the Thai capital Bangkok, with floodwaters having reached Don Mueang International Airport, leading to the cancellation of many flights. ](/news/2011/10/25/floodwaters-continue-to-rise-on-the-outskirts-of-the-thai-capital-bangkok-with-floodwaters-having-reached-don-mueang-international-airport.md)

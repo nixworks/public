@@ -21,7 +21,7 @@ _Context: Madyan, Pakistan, Swat, Pakistan, Taliban, Waziristan_
 ### [ Four Albanian militants are killed in a Macedonian police operation. (Wikinews)](/news/2007/11/7/four-albanian-militants-are-killed-in-a-macedonian-police-operation-wikinews.md)
 _Context: (Wikinews), Albania, Macedonia_
 
-### [ 2007 Georgian demonstrations:. Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md)
+### [ 2007 Georgian demonstrations:: Georgian riot police use tear gas, water and sonic cannons to break up thousands of anti-government protesters calling for the resignation of President Mikhail Saakashvili in Tbilisi. ](/news/2007/11/7/2007-georgian-demonstrations-georgian-riot-police-use-tear-gas-water-and-sonic-cannons-to-break-up-thousands-of-anti-government-proteste.md)
 _Context: 2007 Georgian demonstrations, Mikhail Saakashvili, Tbilisi_
 
 ### [ At least eight people are killed and several injured in a school shooting in Tuusula (Tusby), north of Helsinki, Finland. ](/news/2007/11/7/at-least-eight-people-are-killed-and-several-injured-in-a-school-shooting-in-tuusula-tusby-north-of-helsinki-finland.md)

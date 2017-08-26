@@ -6,7 +6,7 @@ Opponents in the political standoff in Honduras appear to have reached a comprom
 ### [ Opposition politicians walk out of the Russian lower house of parliament, the State Duma, alleging vote rigging at the weekend's elections which saw the United Russia party winning nearly every poll. ](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.md)
 _Context: Russia, State Duma, United Russia, electoral fraud_
 
-### [ Philippines:. Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md)
+### [ Philippines:: Irish bishops and politicians request the release of 79-year-old Michael Sinnott, saying he needs urgent medical attention. ](/news/2009/10/14/philippines-irish-bishops-and-politicians-request-the-release-of-79-year-old-michael-sinnott-saying-he-needs-urgent-medical-attention.md)
 DUBLIN - Irish bishops and politicians called Wednesday for the release of an elderly priest abducted in the Philippines, saying he needed immediate medical attention.
 
 ### [ The United Nations warns that malnutrition is getting worse. ](/news/2009/10/14/the-united-nations-warns-that-malnutrition-is-getting-worse.md)

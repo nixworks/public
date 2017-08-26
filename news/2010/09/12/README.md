@@ -27,10 +27,10 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 ### [95 farm workers are rescued from difficult living conditions in two south-eastern states (Minas Gerais and Rio de Janeiro (state)) of Brazil. ](/news/2010/09/12/95-farm-workers-are-rescued-from-difficult-living-conditions-in-two-south-eastern-states-minas-gerais-and-rio-de-janeiro-state-of-brazil.md)
 The Brazilian authorities say they have rescued 95 farm workers who were being kept in slave-like conditions in two south-eastern states, reports say.
 
-### [2010 San Bruno pipeline explosion:. The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san.md)
+### [2010 San Bruno pipeline explosion:: The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/2010-san-bruno-pipeline-explosion-the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san.md)
 Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents wh...
 
-### [2010 Atlantic hurricane season:. Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-hurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md)
+### [2010 Atlantic hurricane season:: Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-hurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md)
 _Context: 2010 Atlantic hurricane season, Atlantic Ocean_
 
 ### [Prime Minister of Israel Benjamin Netanyahu states that 10-month restrictions on the building of Israeli settlements in the West Bank will no longer apply after they expire later this month. ](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.md)
@@ -60,7 +60,7 @@ Australia is investigating claims that an Indonesian counter-terrorism unit fund
 ### [Airplane cleaners in the Philippines locate a newborn male baby human which had been discarded in a toilet bin. ](/news/2010/09/12/airplane-cleaners-in-the-philippines-locate-a-newborn-male-baby-human-which-had-been-discarded-in-a-toilet-bin.md)
 Cleaners sweeping through a passenger jet that landed at the Philippines&#039; main international airport found a newborn baby dumped in a bin in a toilet on Sunday.
 
-### [Turkish constitutional referendum, 2010:. Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/turkish-constitutional-referendum-2010-voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
+### [Turkish constitutional referendum, 2010:: Voters in Turkey go to the polls for a referendum to amend the constitution. ](/news/2010/09/12/turkish-constitutional-referendum-2010-voters-in-turkey-go-to-the-polls-for-a-referendum-to-amend-the-constitution.md)
 With 99 per cent of votes counted, provisional results show referendum passing with 58 per cent support.
 
 ### [Nstor Kirchner, former President of Argentina and current Secretary-General of the Union of South American Nations (UNASUR), has surgery on a blocked coronary artery. ](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.md)

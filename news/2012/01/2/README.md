@@ -1,6 +1,6 @@
 ## [2012-01-2](/news/2012/01/2/index.md)
 
-### [Arab Spring:. 2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-2011-2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wi.md)
+### [Arab Spring:: 2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/arab-spring-2011-2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-wi.md)
 Bloc to discuss preliminary assessment from monitors following reports that Syrian forces are still killing protesters.
 
 ### [Up to 50,000 people flee their homes in a border area of South Sudan amid ethnic violence. ](/news/2012/01/2/up-to-50-000-people-flee-their-homes-in-a-border-area-of-south-sudan-amid-ethnic-violence.md)
@@ -24,7 +24,7 @@ _Context: Lee Myung-bak, North Korea, President of South Korea, its nuclear prog
 ### [The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. ](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.md)
 _Context: Baghdadi Mahmudi, Libyan Prime Minister, Moncef Marzouki, President of Tunisia, Tripoli, Tunisia, extradite_
 
-### [Iran:. Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md)
+### [Iran:: Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian.md)
 Iran said on Monday it had successfully test-fired what it described as two long-range missiles, flexing its military muscle in the face of mounting Western pressure over its nuclear program.
 
 ### [Mount Rainier National Park in the U.S. state of Washington is closed as police conduct a manhunt for a man who shot dead a park ranger on New Year's Day; the gunman, Benjamin Barnes, is eventually found dead. ](/news/2012/01/2/mount-rainier-national-park-in-the-u-s-state-of-washington-is-closed-as-police-conduct-a-manhunt-for-a-man-who-shot-dead-a-park-ranger-on-n.md)

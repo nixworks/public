@@ -3,7 +3,7 @@
 ### [ Winners of the 2006 Lasker Awards for medical research are announced. ](/news/2006/09/16/winners-of-the-2006-lasker-awards-for-medical-research-are-announced.md)
 laskerfoundation.org, Official website of the Lasker Foundation
 
-### [ Pope Benedict XVI Islam controversy:. Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md)
+### [ Pope Benedict XVI Islam controversy:: Pope Benedict XVI's security has increased due to the controversy. ](/news/2006/09/16/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-s-security-has-increased-due-to-the-controversy.md)
 Italian media report security around Benedict XVI tightened following harsh responses to his remarks on Islam; pope expected to deliver weekly sermon from his summer home on Sunday, but it remains unclear whether he will address international uproar 
 
 ### [ Hurricane Lane strengthens to a Category 3 hurricane with nearly 125 mph winds as it approaches Mexico's Pacific coast. ](/news/2006/09/16/hurricane-lane-strengthens-to-a-category-3-hurricane-with-nearly-125-mph-winds-as-it-approaches-mexico-s-pacific-coast.md)

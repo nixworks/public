@@ -1,6 +1,6 @@
 ### [2010-06-5](/news/2010/06/5/index.md)
 
-# Horse racing:. Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (
+# Horse racing:: Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (
 
 
 

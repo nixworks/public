@@ -1,6 +1,6 @@
 ### [2017-08-11](/news/2017/08/11/index.md)
 
-# Gorakhpur hospital deaths. Over the past two days, 30 children from Baba Raghav Das Medical College have died, allegedly due to lack of oxygen supply to the wards. 
+# Gorakhpur hospital deaths: Over the past two days, 30 children from Baba Raghav Das Medical College have died, allegedly due to lack of oxygen supply to the wards. 
 
 Officials admitted that the hospital owed its oxygen supplier more than $50,000, but denied that an oxygen shortage had caused the surge in fatalities.
 

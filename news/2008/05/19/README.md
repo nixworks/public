@@ -15,7 +15,7 @@ Campaigners against cluster bombs say the main manufacturers and stockpilers of 
 ### [ Some 6,000 people have fled a wave of attacks on foreigners in South Africa, which has left at least 13 dead, aid workers say. ](/news/2008/05/19/some-6-000-people-have-fled-a-wave-of-attacks-on-foreigners-in-south-africa-which-has-left-at-least-13-dead-aid-workers-say.md)
 _Context: South Africa, attacks on foreigners_
 
-### [ 2008 Sichuan earthquake. Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/2008-sichuan-earthquake-xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)
+### [ 2008 Sichuan earthquake: Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/2008-sichuan-earthquake-xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)
 _Context: Xinhua, deadly earthquake, earthquake, mudslide_
 
 ### [ A gunman kills eight people in Calamba City in the Philippines. ](/news/2008/05/19/a-gunman-kills-eight-people-in-calamba-city-in-the-philippines.md)

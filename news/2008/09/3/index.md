@@ -3,7 +3,7 @@
 ### [ The Republican Party officially endorses Arizona Senator John McCain as its candidate in the 2008 United States presidential election. ](/news/2008/09/3/the-republican-party-officially-endorses-arizona-senator-john-mccain-as-its-candidate-in-the-2008-united-states-presidential-election.md)
 Gov. Sarah Palin of Alaska sought to wrest back the narrative of her life as she introduced herself to a roaring crowd at the Republican National Convention.
 
-### [ 2008 Atlantic hurricane season:. Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md)
+### [ 2008 Atlantic hurricane season:: Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/2008-atlantic-hurricane-season-hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-ca.md)
 _Context: 2008 Atlantic hurricane season, Hurricane Ike, hurricane_
 
 ### [ United States Army troops cross the Pakistan border and launch a raid in the Angoor Ada region of Waziristan. Twenty civilians die. ](/news/2008/09/3/united-states-army-troops-cross-the-pakistan-border-and-launch-a-raid-in-the-angoor-ada-region-of-waziristan-twenty-civilians-die.md)

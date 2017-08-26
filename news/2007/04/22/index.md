@@ -12,7 +12,7 @@ _Context: 2007 presidential election, Francois Bayrou, Jean-Marie Le Pen, May 6,
 ### [ War in Iraq: Gunmen kill 21 members of northern Iraq's Yezidi community after dragging them from a bus. ](/news/2007/04/22/war-in-iraq-gunmen-kill-21-members-of-northern-iraq-s-yezidi-community-after-dragging-them-from-a-bus.md)
 _Context: Iraq, Iraq War, Yezidi_
 
-### [ War in Somalia (2006-present):. More than 60 people are killed in the fourth day of heavy fighting between Ethiopian troops and Islamist militia in Mogadishu. ](/news/2007/04/22/war-in-somalia-2006-present-more-than-60-people-are-killed-in-the-fourth-day-of-heavy-fighting-between-ethiopian-troops-and-islamist.md)
+### [ War in Somalia (2006-present):: More than 60 people are killed in the fourth day of heavy fighting between Ethiopian troops and Islamist militia in Mogadishu. ](/news/2007/04/22/war-in-somalia-2006-present-more-than-60-people-are-killed-in-the-fourth-day-of-heavy-fighting-between-ethiopian-troops-and-islamist.md)
 _Context: Ethiopia, Mogadishu, heavy clashes, two years of helping_
 
 ### [ Avraham Hirschson, the Finance Minister of Israel, stands down for three months while the Israeli police investigate a claim that he failed to report an embezzlement case when he was working for a trade union. ](/news/2007/04/22/avraham-hirschson-the-finance-minister-of-israel-stands-down-for-three-months-while-the-israeli-police-investigate-a-claim-that-he-failed.md)

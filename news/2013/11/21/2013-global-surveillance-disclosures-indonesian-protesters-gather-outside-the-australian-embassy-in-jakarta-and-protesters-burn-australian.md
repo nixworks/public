@@ -1,6 +1,6 @@
 ### [2013-11-21](/news/2013/11/21/index.md)
 
-# 2013 global surveillance disclosures:. Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. 
+# 2013 global surveillance disclosures:: Indonesian protesters gather outside the Australian embassy in Jakarta and protesters burn Australian flags to protest alleged bugging of President Susilo Bambang Yudhoyono's phone. 
 
 
 

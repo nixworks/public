@@ -18,7 +18,7 @@ North Korea has been hit by whatit describes as its worst drought in a century, 
 ### [Vietnam accuses China of attacking Vietnamese fishermen in three separate incidents in the South China Sea. ](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.md)
 _Context: South China Sea, Vietnam_
 
-### [Charleston church shooting. Nine people are dead following a mass shooting at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. ](/news/2015/06/17/charleston-church-shooting-nine-people-are-dead-following-a-mass-shooting-at-the-emanuel-african-methodist-episcopal-church-in-charleston.md)
+### [Charleston church shooting: Nine people are dead following a mass shooting at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. ](/news/2015/06/17/charleston-church-shooting-nine-people-are-dead-following-a-mass-shooting-at-the-emanuel-african-methodist-episcopal-church-in-charleston.md)
 The 21-year-old white man suspected of shooting dead nine people at a black church in Charleston is arrested, police say.
 
 ### [ A California model, Lauren Wasser, files a lawsuit against Kimberly-Clark Corporation for toxic shock syndrome, which resulted in losing her right leg, allegedly caused by the product, Kotex Natural Balance. ](/news/2015/06/17/a-california-model-lauren-wasser-files-a-lawsuit-against-kimberly-clark-corporation-for-toxic-shock-syndrome-which-resulted-in-losing-he.md)

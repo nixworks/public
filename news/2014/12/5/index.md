@@ -1,9 +1,9 @@
 ## [2014-12-5](/news/2014/12/5/index.md)
 
-### [Kashmir insurgency:. An attack on a military camp leaves 11 Indian soldiers and police dead near Uri. Eight militants and two civilians are killed in that and concurrent attacks in the state capital, Srinagar, and a part of southern Kashmir. ](/news/2014/12/5/kashmir-insurgency-an-attack-on-a-military-camp-leaves-11-indian-soldiers-and-police-dead-near-uri-eight-militants-and-two-civilians-are.md)
+### [Kashmir insurgency:: An attack on a military camp leaves 11 Indian soldiers and police dead near Uri. Eight militants and two civilians are killed in that and concurrent attacks in the state capital, Srinagar, and a part of southern Kashmir. ](/news/2014/12/5/kashmir-insurgency-an-attack-on-a-military-camp-leaves-11-indian-soldiers-and-police-dead-near-uri-eight-militants-and-two-civilians-are.md)
 Militants sneaked into an Indian military camp in Kashmir on Friday, killing 11 soldiers and police, the worst losses for security forces in six years in the Himalayan territory claimed by Pakistan.
 
-### [Terrorism in Somalia. A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/terrorism-in-somalia-a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md)
+### [Terrorism in Somalia: A suicide bomb attack kills at least 10 at a restaurant in Baidoa. ](/news/2014/12/5/terrorism-in-somalia-a-suicide-bomb-attack-kills-at-least-10-at-a-restaurant-in-baidoa.md)
 At least 10 people dead and many wounded in bombing of restaurant in Baidoa, just days after election of new leader.
 
 ### [A judge in the Netherlands declares Dutch clothing company Mexx bankrupt. The bankruptcy ruling affects over 300 stores worldwide, including 95 locations in Canada. ](/news/2014/12/5/a-judge-in-the-netherlands-declares-dutch-clothing-company-mexx-bankrupt-the-bankruptcy-ruling-affects-over-300-stores-worldwide-including.md)

@@ -1,6 +1,6 @@
 ## [2010-06-28](/news/2010/06/28/index.md)
 
-### [Captured Israeli soldier. Gilad Shalit. Hamas leader Khaled Mashal says Hamas plans to kidnap more IDF soldiers and increase the price for captive soldier Gilad Shalit if Israel does not meet its demands for a prisoner swap. ](/news/2010/06/28/captured-israeli-soldier-gilad-shalit-hamas-leader-khaled-mashal-says-hamas-plans-to-kidnap-more-idf-soldiers-and-increase-the-price-for-c.md)
+### [Captured Israeli soldier: Gilad Shalit: Hamas leader Khaled Mashal says Hamas plans to kidnap more IDF soldiers and increase the price for captive soldier Gilad Shalit if Israel does not meet its demands for a prisoner swap. ](/news/2010/06/28/captured-israeli-soldier-gilad-shalit-hamas-leader-khaled-mashal-says-hamas-plans-to-kidnap-more-idf-soldiers-and-increase-the-price-for-c.md)
 Second day of march for kidnapped soldier comes to end in northern town of Kiryat Motzkin
 
 ### [Five Muslim American students sentenced to serve 10 years in a Pakistani prison for conspiracy to commit attacks and raising funds for terrorism, appeal their conviction. ](/news/2010/06/28/five-muslim-american-students-sentenced-to-serve-10-years-in-a-pakistani-prison-for-conspiracy-to-commit-attacks-and-raising-funds-for-terro.md)
@@ -9,13 +9,13 @@ Five American men sentenced last week to serve 10 years in a Pakistani prison on
 ### [The European Union and United States sign a five-year agreement on sharing financial data in anti-terrorist investigations for accounts suspected of being used for terrorist financing, after agreeing on limits to protect customer privacy. ](/news/2010/06/28/the-european-union-and-united-states-sign-a-five-year-agreement-on-sharing-financial-data-in-anti-terrorist-investigations-for-accounts-susp.md)
 _Context: European Union, United States, counter-terrorism, customer privacy, terrorist financing_
 
-### [Gulf of Mexico oil disaster:. Tropical Storm Alex is expected to become a hurricane, with heavy winds, rain and rough seas in the Gulf of Mexico, driving the oil deeper inland and bringing much of the cleanup to a standstill. ](/news/2010/06/28/gulf-of-mexico-oil-disaster-tropical-storm-alex-is-expected-to-become-a-hurricane-with-heavy-winds-rain-and-rough-seas-in-the-gulf-of-me.md)
+### [Gulf of Mexico oil disaster:: Tropical Storm Alex is expected to become a hurricane, with heavy winds, rain and rough seas in the Gulf of Mexico, driving the oil deeper inland and bringing much of the cleanup to a standstill. ](/news/2010/06/28/gulf-of-mexico-oil-disaster-tropical-storm-alex-is-expected-to-become-a-hurricane-with-heavy-winds-rain-and-rough-seas-in-the-gulf-of-me.md)
 Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tuesday but remained on a track north of Mexican oil platforms and far southwest of U.S. fields, further easing crude market concerns over supply disruption.
 
-### [Assassination of Rodolfo Torre Cantu:. Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vic.md)
+### [Assassination of Rodolfo Torre Cantu:: Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-rodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vic.md)
 Front-running candidate for governor in border state shot dead with four aides.
 
-### [Death of oldest, longest serving United States Senator. Robert Byrd. Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-united-states-senator-robert-byrd-democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-u.md)
+### [Death of oldest, longest serving United States Senator: Robert Byrd: Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-united-states-senator-robert-byrd-democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-u.md)
 A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 
 ### [Iranian President Mahmoud Ahmadinejad postpones nuclear talks so as to -punish the West- for United Nations Security Council Resolution 1929 aimed at curbing the alleged development of Iranian nuclear weapons. ](/news/2010/06/28/iranian-president-mahmoud-ahmadinejad-postpones-nuclear-talks-so-as-to-punish-the-west-for-united-nations-security-council-resolution.md)

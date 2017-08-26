@@ -1,6 +1,6 @@
 ## [2010-04-30](/news/2010/04/30/index.md)
 
-### [Expo 2010:. Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md)
+### [Expo 2010:: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-hailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md)
 (Adds PM&#039;s, PN&#039;s and PL&#039;s get well wishes) President George Abela accidentally sustained an injury before leaving his hotel in China this morning and is recovering in hospital. The Department of Information said the President was admitted to Ruijin Hospital where he was diagnosed as s...
 
 ### [At least eight villagers die following a landslide in Kenya, with others hospitalised or missing and homes destroyed. ](/news/2010/04/30/at-least-eight-villagers-die-following-a-landslide-in-kenya-with-others-hospitalised-or-missing-and-homes-destroyed.md)
@@ -15,7 +15,7 @@ Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#
 ### [Tonga's Attorney-General suddenly resigns amidst allegations the government is trying to take over his judiciary. ](/news/2010/04/30/tonga-s-attorney-general-suddenly-resigns-amidst-allegations-the-government-is-trying-to-take-over-his-judiciary.md)
 _Context: Tonga, attorney general, government_
 
-### [Deepwater Horizon drilling rig explosion aftermath:. The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. ](/news/2010/04/30/deepwater-horizon-drilling-rig-explosion-aftermath-the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-t.md)
+### [Deepwater Horizon drilling rig explosion aftermath:: The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. ](/news/2010/04/30/deepwater-horizon-drilling-rig-explosion-aftermath-the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-t.md)
 _Context: Deepwater Horizon, Deepwater Horizon drilling rig explosion, Gulf of Mexico, Louisiana, oil spill_
 
 ### [Former Pakistani spy Khalid Khawaja is murdered; a previously unknown militant group - Asian Tigers - claims responsibility. ](/news/2010/04/30/former-pakistani-spy-khalid-khawaja-is-murdered-a-previously-unknown-militant-group-asian-tigers-claims-responsibility.md)

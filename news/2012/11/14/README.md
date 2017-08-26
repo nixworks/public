@@ -1,6 +1,6 @@
 ## [2012-11-14](/news/2012/11/14/index.md)
 
-### [Operation Pillar of Defense:. Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-hamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces.md)
+### [Operation Pillar of Defense:: Hamas military chief Ahmed Jabari is killed in a targeted air strike carried out by the Israel Defense Forces and the Shin Bet.](/news/2012/11/14/operation-pillar-of-defense-hamas-military-chief-ahmed-jabari-is-killed-in-a-targeted-air-strike-carried-out-by-the-israel-defense-forces.md)
 As part of Israeli operation against terrorists, Hamas military chief Jabari killed, long-range rockets destroyed; infantry units moved south, reservists called up 
 
 ### [The death of a pregnant woman from septicaemia in an Irish hospital prompts international outrage, protests and condemnation. University College Hospital Galway refused numerous requests from Savita Halappanavar and her family for an abortion on the grounds that "this is a Catholic country." ](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-in-an-irish-hospital-prompts-international-outrage-protests-and-condemnation-university-col.md)

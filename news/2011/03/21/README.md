@@ -3,7 +3,7 @@
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa claims that the 2011 Bahraini protests were a foreign plot defeated by the intervention of forces from neighbors Saudi Arabia and the UAE of the Cooperation Council for the Arab States of the Gulf's Peninsula Shield Force. ](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.md)
 _Context: 2011 Bahraini protests, Cooperation Council for the Arab States of the Gulf, Hamad ibn Isa Al Khalifa, King of Bahrain, Peninsula Shield Force, Saudi Arabia, UAE_
 
-### [2011 Libyan civil war:. The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-i.md)
+### [2011 Libyan civil war:: The Tripoli compound of Libyan leader Muammar Gaddafi is targeted for more bombing raids in the third night of the international intervention in Libya. ](/news/2011/03/21/2011-libyan-civil-war-the-tripoli-compound-of-libyan-leader-muammar-gaddafi-is-targeted-for-more-bombing-raids-in-the-third-night-of-the-i.md)
 The four journalists, freed by the Libyan government on Monday, provided harrowing details about their capture.
 
 ### [A top Yemeni commander and at least 18 other officers defect to the Opposition as the 2011 Yemeni protests continue. ](/news/2011/03/21/a-top-yemeni-commander-and-at-least-18-other-officers-defect-to-the-opposition-as-the-2011-yemeni-protests-continue.md)
@@ -36,7 +36,7 @@ _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 ### [The death toll for the Japanese earthquake and tsunami reaches 8,450, with 12,931 people missing. ](/news/2011/03/21/the-death-toll-for-the-japanese-earthquake-and-tsunami-reaches-8-450-with-12-931-people-missing.md)
 Japanese police say 15,000 people may have died in one prefecture alone, as efforts to tackle the Fukushima nuclear crisis go on.
 
-### [2011 Pointe-Noire Trans Air Congo An-12 crash. At least twenty-three people die after a cargo plane crashes into Pointe-Noire in the Republic of Congo. ](/news/2011/03/21/2011-pointe-noire-trans-air-congo-an-12-crash-at-least-twenty-three-people-die-after-a-cargo-plane-crashes-into-pointe-noire-in-the-republi.md)
+### [2011 Pointe-Noire Trans Air Congo An-12 crash: At least twenty-three people die after a cargo plane crashes into Pointe-Noire in the Republic of Congo. ](/news/2011/03/21/2011-pointe-noire-trans-air-congo-an-12-crash-at-least-twenty-three-people-die-after-a-cargo-plane-crashes-into-pointe-noire-in-the-republi.md)
 _Context: 2011 Pointe-Noire Trans Air Congo An-12 crash, Pointe Noire, Republic of Congo, cargo plane_
 
 ### [Russian President Dmitry Medvedev criticises Vladimir Putin's stance on United Nations Security Council Resolution 1973 concerning the situation in Libya as "unacceptable". Putin had said the resolution resembled a "medieval call for crusades". ](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.md)

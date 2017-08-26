@@ -1,6 +1,6 @@
 ### [2008-05-27](/news/2008/05/27/index.md)
 
-#  Aung San Suu Kyi. The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. 
+#  Aung San Suu Kyi: The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. 
 
 
 

@@ -1,6 +1,6 @@
 ### [2013-05-21](/news/2013/05/21/index.md)
 
-# Criminal investigation of Saab Automobile:. Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. 
+# Criminal investigation of Saab Automobile:: Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. 
 
 
 

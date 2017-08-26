@@ -1,0 +1,24 @@
+### [2017-08-26](/news/2017/08/26/index.md)
+
+# The Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. 
+
+North Korea fired several short-range missiles into the sea off its east coast early on Saturday, South Korea and the U.S. military said, as the two allies conducted annual joint military drills that the North denounces as preparation for war.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKCN1B52Q2?il=0)
+2. [Reuters²](http://www.reuters.com/article/us-northkorea-missiles-usa-military-idUSKCN1B52SI?il=0)
+
+### Related:
+
+1. [North Korea and weapons of mass destruction: The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/north-korea-and-weapons-of-mass-destruction-the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile.md) _Context: Korean military, North Korea_
+2. [North Korea and weapons of mass destruction: The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/north-korea-and-weapons-of-mass-destruction-the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-no.md) _Context: North Korea, U.S. military_
+3. [North Korea and weapons of mass destruction: The South Korean Joint Chiefs of Staff and a U.S. defense official report that North Korea fired two ballistic missiles from the South Pyongan Province. One flew 800 kilometers (497 miles) into the Sea of Japan. The other disappeared at an altitude of about 17 kilometers (10.5 miles). ](/news/2016/03/18/north-korea-and-weapons-of-mass-destruction-the-south-korean-joint-chiefs-of-staff-and-a-u-s-defense-official-report-that-north-korea-fire.md) _Context: North Korea, U.S. military_
+4. [North Korea and weapons of mass destruction: North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md) _Context: Korean military, North Korea_
+5. [The South Korean military states that it is prepared to respond if North Korea launches an attack as it threatened yesterday. ](/news/2013/03/6/the-south-korean-military-states-that-it-is-prepared-to-respond-if-north-korea-launches-an-attack-as-it-threatened-yesterday.md) _Context: Korean military, North Korea_
+6. [South Korean military officials say they will proceed with planned live-fire artillery drills from an island bombarded by North Korea last month, despite threats of retaliation. ](/news/2010/12/18/south-korean-military-officials-say-they-will-proceed-with-planned-live-fire-artillery-drills-from-an-island-bombarded-by-north-korea-last-m.md) _Context: Korean military, North Korea_
+7. [North Korea fires two shots at South Korean military units across the border at Kwacheon, South Korea. ](/news/2010/10/29/north-korea-fires-two-shots-at-south-korean-military-units-across-the-border-at-kwacheon-south-korea.md) _Context: Korean military, North Korea_
+8. [Tens of thousands of Republic of Korea Armed Forces and United States armed forces ignore warnings from North Korea, and start a new round of the Ulchi-Freedom Guardian drills in South Korea. ](/news/2010/08/16/tens-of-thousands-of-republic-of-korea-armed-forces-and-united-states-armed-forces-ignore-warnings-from-north-korea-and-start-a-new-round-o.md) _Context: Korean military, North Korea_
+9. [Sexual orientation and gender identity in the United States military: Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/sexual-orientation-and-gender-identity-in-the-united-states-military-five-transgender-united-states-military-personnel-sue-president-donald.md) _Context: U.S. military_
+10. [Crime in North Korea: North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/crime-in-north-korea-north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _Context: North Korea_

@@ -1,12 +1,12 @@
 ## [2015-05-15](/news/2015/05/15/index.md)
 
-### [2015 Burundian coup d'tat attempt. Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/2015-burundian-coup-d-etat-attempt-burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-aga.md)
+### [2015 Burundian coup d'tat attempt: Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/2015-burundian-coup-d-etat-attempt-burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-aga.md)
 _Context: Burundi, Godefroid Niyombare, Pierre Nkurunziza, failed coup_
 
 ### [Irish journalist and TV3 political editor Ursula Halligan comes out as lesbian ahead of the country's Marriage Equality referendum next week. ](/news/2015/05/15/irish-journalist-and-tv3-political-editor-ursula-halligan-comes-out-as-lesbian-ahead-of-the-country-s-marriage-equality-referendum-next-week.md)
 Ursula Halligan, political editor of commercial channel TV3, writes powerful column in Irish Times about torment of being secretly gay in Ireland
 
-### [ April 2015 Nepal earthquake. Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/april-2015-nepal-earthquake-wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occup.md)
+### [ April 2015 Nepal earthquake: Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. ](/news/2015/05/15/april-2015-nepal-earthquake-wreckage-from-the-american-helicopter-missing-since-tuesday-has-been-located-with-bodies-of-some-of-the-occup.md)
 _Context: suspicions_
 
 ### [Dzhokhar Tsarnaev is sentenced to death for his role in the Boston Marathon bombings. ](/news/2015/05/15/dzhokhar-tsarnaev-is-sentenced-to-death-for-his-role-in-the-boston-marathon-bombings.md)

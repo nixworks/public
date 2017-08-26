@@ -3,13 +3,13 @@
 ### [2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. ](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.md)
 _Context: 2011 Yemeni protests, Yemen_
 
-### [2011 Libyan civil war:. NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
+### [2011 Libyan civil war:: NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
 Military alliance says besieged town is now its top priority after rebels accuse bloc of failing to protect civilians.
 
-### [2011 Syrian protests:. Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md)
+### [2011 Syrian protests:: Syria reverses a ban on teachers wearing veils and closes the country's only casino ahead of anti-regime protests. ](/news/2011/04/6/2011-syrian-protests-syria-reverses-a-ban-on-teachers-wearing-veils-and-closes-the-country-s-only-casino-ahead-of-anti-regime-protests.md)
 _Context: Syrian uprising_
 
-### [2010-2011 Ivorian crisis:. Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md)
+### [2010-2011 Ivorian crisis:: Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md)
 Negotiations&#x20;over&#x20;Ivory&#x20;Coast&#x20;presidential&#x20;incumbent&#x20;Laurent&#x20;Gbagbo&#x2019;s&#x20;possible&#x20;surrender&#x20;continue&#x20;on&#x20;Wed.&#x20;night,&#x20;according&#x20;to&#x20;the&#x20;UN.
 
 ### [Civil partnerships for same-sex couples come into effect on the Isle of Man. ](/news/2011/04/6/civil-partnerships-for-same-sex-couples-come-into-effect-on-the-isle-of-man.md)

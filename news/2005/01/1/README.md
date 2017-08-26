@@ -1,6 +1,6 @@
 ## [2005-01-1](/news/2005/01/1/index.md)
 
-### [ Israeli-Palestinian conflict:. Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md)
+### [ Israeli-Palestinian conflict:: Israeli troops allegedly misfire a tank shell and kill a 9-year-old Palestinian girl; her 11-year-old sister was also injured. ](/news/2005/01/1/israeli-palestinian-conflict-israeli-troops-allegedly-misfire-a-tank-shell-and-kill-a-9-year-old-palestinian-girl-her-11-year-old-sister.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [ The world rings in 2005. Some nations observe a moment of silence with candles and white roses for the at least 150,000 dead and 5,000,000 left homeless after the 26 December tsunamis. In many countries flags are flown at half staff. ](/news/2005/01/1/the-world-rings-in-2005-some-nations-observe-a-moment-of-silence-with-candles-and-white-roses-for-the-at-least-150-000-dead-and-5-000-000.md)

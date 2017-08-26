@@ -1,6 +1,6 @@
 ### [2016-01-9](/news/2016/01/9/index.md)
 
-# Brussels Agreement (2013). Kosovo-Serbia relations. Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. 
+# Brussels Agreement (2013): Kosovo-Serbia relations: Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Kosovo-Serbia relations. Serbian President Tomislav Nikolic accuses Kosovo of "seeking a war" after a train, en route to the Serb-majority city of Mitrovica in North Kosovo, and decorated in Serbian national colors and the words ""Kosovo je Srbija"" (Kosovo is Serbia), was prevented from crossing the Kosovan border. The Prime Minister of Kosovo Isa Mustafa says the train had been stopped "to protect the country's sovereignty". ](/news/2017/01/15/kosovo-serbia-relations-serbian-president-tomislav-nikolia-accuses-kosovo-of-seeking-a-war-after-a-train-en-route-to-the-serb-majorit.md) _Context: Kosovo, Kosovo-Serbia relations, Serbia, Serbs_
+1. [Kosovo-Serbia relations: Serbian President Tomislav Nikolic accuses Kosovo of "seeking a war" after a train, en route to the Serb-majority city of Mitrovica in North Kosovo, and decorated in Serbian national colors and the words ""Kosovo je Srbija"" (Kosovo is Serbia), was prevented from crossing the Kosovan border. The Prime Minister of Kosovo Isa Mustafa says the train had been stopped "to protect the country's sovereignty". ](/news/2017/01/15/kosovo-serbia-relations-serbian-president-tomislav-nikolia-accuses-kosovo-of-seeking-a-war-after-a-train-en-route-to-the-serb-majorit.md) _Context: Kosovo, Kosovo-Serbia relations, Serbia, Serbs_
 2. [Kosovo Serbs block off two border crossings with Serbia as the Kosovo government seeks to take them over. ](/news/2011/09/16/kosovo-serbs-block-off-two-border-crossings-with-serbia-as-the-kosovo-government-seeks-to-take-them-over.md) _Context: Kosovo, Serbia, Serbs_
 3. [Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government-s resignation and snap elections. ](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.md) _Context: Kosovo, Serbs_
 4. [At least 3 dead and 13 injured are reported after an explosion at a coal-fired power station, Kosovo A Power Station, in Obilic, six miles outside Pristina, the capital of Kosovo. ](/news/2014/06/6/at-least-3-dead-and-13-injured-are-reported-after-an-explosion-at-a-coal-fired-power-station-kosovo-a-power-station-in-obilic-six-miles-o.md) _Context: Kosovo, Pristina_

@@ -1,9 +1,9 @@
 ## [2012-09-12](/news/2012/09/12/index.md)
 
-### [Syrian civil war. Rebels kill 18 soldiers in Idlib Governorate in a car bomb and ground attack on a military installation. ](/news/2012/09/12/syrian-civil-war-rebels-kill-18-soldiers-in-idlib-governorate-in-a-car-bomb-and-ground-attack-on-a-military-installation.md)
+### [Syrian civil war: Rebels kill 18 soldiers in Idlib Governorate in a car bomb and ground attack on a military installation. ](/news/2012/09/12/syrian-civil-war-rebels-kill-18-soldiers-in-idlib-governorate-in-a-car-bomb-and-ground-attack-on-a-military-installation.md)
 _Context: Idlib, Syrian Civil War_
 
-### [War in Afghanistan. President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/war-in-afghanistan-president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
+### [War in Afghanistan: President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/war-in-afghanistan-president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
 _Context: Afghanistan's, Hamid Karzai, War in Afghanistan, War on Terror_
 
 ### [A suicide bombing at a hotel in the Somali capital of Mogadishu where newly elected president Hassan Sheikh Mohamoud was holding a news conference kills at least four people. ](/news/2012/09/12/a-suicide-bombing-at-a-hotel-in-the-somali-capital-of-mogadishu-where-newly-elected-president-hassan-sheikh-mohamoud-was-holding-a-news-conf.md)
@@ -30,10 +30,10 @@ At least 314 people burnt to death as fire swept through factories in two cities
 ### [In his yearly State of the Union speech at the European Parliament, President of the European Commission Jose Manuel Barroso appeals for more European integration and a supervision mechanism for the 6,000 banks in Europe. ](/news/2012/09/12/in-his-yearly-state-of-the-union-speech-at-the-european-parliament-president-of-the-european-commission-josa-c-manuel-barroso-appeals-for-mo.md)
 A proposal to give the European Union more control over banking has stirred up dissent from countries that have doubts about the plan’s practicality.
 
-### [2012 diplomatic missions attacks. U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/2012-diplomatic-missions-attacks-u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-l.md)
+### [2012 diplomatic missions attacks: U.S. president Barack Obama strongly condemns the "outrageous attack" that killed the U.S. ambassador to Libya and three other U.S. citizens in Benghazi, Libya, saying that the United States rejects denigration of religious beliefs but also rejects the "senseless violence that killed the US diplomat". ](/news/2012/09/12/2012-diplomatic-missions-attacks-u-s-president-barack-obama-strongly-condemns-the-outrageous-attack-that-killed-the-u-s-ambassador-to-l.md)
 &quot;We are shocked that ... Governor Romney would choose to launch a political attack.&quot;
 
-### [Senkaku Islands dispute:. The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md)
+### [Senkaku Islands dispute:: The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-the-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md)
 _Context: Foreign Minister, Koichiro Gemba, Senkaku Islands dispute_
 
 ### [Police in Bosnia and Herzegovina arrest 25 people on suspicion of multiple murders, drug-trafficking and robbery in the biggest crackdown on organised crime since the Bosnian War. ](/news/2012/09/12/police-in-bosnia-and-herzegovina-arrest-25-people-on-suspicion-of-multiple-murders-drug-trafficking-and-robbery-in-the-biggest-crackdown-on.md)

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Piracy in Somalia. Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
+1. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
 2. [India gives Tanzania US$180 million in aid to support its development. ](/news/2011/05/27/india-gives-tanzania-us-180-million-in-aid-to-support-its-development.md) _Context: India, Tanzania_
 3. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Somali pirates, Tanzania_
 4. [Somali pirates hijack a Bangladeshi cargo ship off the coast of India. ](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.md) _Context: India, Somali pirates_

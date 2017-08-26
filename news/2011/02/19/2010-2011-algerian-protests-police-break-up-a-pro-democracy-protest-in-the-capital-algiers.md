@@ -1,6 +1,6 @@
 ### [2011-02-19](/news/2011/02/19/index.md)
 
-# 2010-2011 Algerian protests:. Police break up a pro-democracy protest in the capital Algiers. 
+# 2010-2011 Algerian protests:: Police break up a pro-democracy protest in the capital Algiers. 
 
 Several people are injured and others are arrested as police thwart pro-democracy rally in capital Algiers, reports say.
 

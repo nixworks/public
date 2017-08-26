@@ -1,6 +1,6 @@
 ### [2007-05-9](/news/2007/05/9/index.md)
 
-#  Iraq War:. Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. 
+#  Iraq War:: Dick Cheney, the Vice President of the United States, travels to Baghdad to encourage reconciliation amongst factions. 
 
 
 
@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [ War in Iraq:. United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md) _Context: Baghdad, Dick Cheney, U.S. Vice President_
+1. [ War in Iraq:: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md) _Context: Baghdad, Dick Cheney, U.S. Vice President_
 2. [ Vice-President of the United States Dick Cheney arrives in Australia to discuss issues including Iraq, Afghanistan and the detention of David Hicks with the Australian government. Upon arrival he is greeted by violent demonstrations. ](/news/2007/02/22/vice-president-of-the-united-states-dick-cheney-arrives-in-australia-to-discuss-issues-including-iraq-afghanistan-and-the-detention-of-dav.md) _Context: Dick Cheney, Iraq War, U.S. Vice President_
 3. [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md) _Context: Baghdad, Iraq War_
 4. [Former Vice President of the United States Dick Cheney admits he has received a small heart pump to combat "increasing congestive heart failure". ](/news/2010/07/15/former-vice-president-of-the-united-states-dick-cheney-admits-he-has-received-a-small-heart-pump-to-combat-increasing-congestive-heart-fail.md) _Context: Dick Cheney, U.S. Vice President_

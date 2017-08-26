@@ -1,15 +1,15 @@
 ## [2013-02-10](/news/2013/02/10/index.md)
 
-### [Northern Mali conflict (2012-present):. Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md)
+### [Northern Mali conflict (2012-present):: Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012-present-firefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md)
 Malian troops and suspected Islamist militants are exchanging heavy gunfire in Gao, a day after a suicide bomb attack in the northern town.
 
-### [South Thailand insurgency:. A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
+### [South Thailand insurgency:: A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/south-thailand-insurgency-a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
 _Context: South Thailand insurgency, Thailand, Yala_
 
-### [Nigerian Sharia conflict:. Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/nigerian-sharia-conflict-suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality.md)
+### [Nigerian Sharia conflict:: Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/nigerian-sharia-conflict-suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality.md)
 Three doctors - reportedly from North Korea - have been killed in an attack in the north-eastern Nigerian state of Yobe, officials say.
 
-### [War in Afghanistan (2001-present):. American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001-present-american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-jo.md)
+### [War in Afghanistan (2001-present):: American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/war-in-afghanistan-2001-present-american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-jo.md)
 NATO forces in Afghanistan get a new commander as the coalition prepares to pull out combat troops.
 
 ### [Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. ](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.md)

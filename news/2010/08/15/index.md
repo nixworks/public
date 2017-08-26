@@ -48,10 +48,10 @@ Flags fly at half mast and entertainment suspended on national day of mourning.
 ### [The Secretary-General of the United Nations Ban Ki-moon visits Pakistan to inspect the relief effort for the 2010 Pakistan floods. ](/news/2010/08/15/the-secretary-general-of-the-united-nations-ban-ki-moon-visits-pakistan-to-inspect-the-relief-effort-for-the-2010-pakistan-floods.md)
 Ban Ki-moon describes as &quot;heart-wrenching&quot; the destruction he has witnessed on a fact-finding visit to flood-hit Pakistan.
 
-### [2010 Russian wildfires:. Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-smog-from-the-2010-russian-wildfires-returns-to-moscow.md)
+### [2010 Russian wildfires:: Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/2010-russian-wildfires-smog-from-the-2010-russian-wildfires-returns-to-moscow.md)
 _Context: Moscow, smog, the recent wildfires_
 
-### [Romani evictions and deportations from illegal campsites by French authorities:. A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. ](/news/2010/08/15/romani-evictions-and-deportations-from-illegal-campsites-by-french-authorities-a-major-road-bridge-is-barricaded-near-bordeaux-during-a-ho.md)
+### [Romani evictions and deportations from illegal campsites by French authorities:: A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. ](/news/2010/08/15/romani-evictions-and-deportations-from-illegal-campsites-by-french-authorities-a-major-road-bridge-is-barricaded-near-bordeaux-during-a-ho.md)
 Roma (Gypsies) block a major road near Bordeaux in protest after hundreds of them were evicted from an illegal campsite.
 
 ### [Australia and Malaysia remember the 1945 Sandakan Death Marches on their 65th anniversary. ](/news/2010/08/15/australia-and-malaysia-remember-the-1945-sandakan-death-marches-on-their-65th-anniversary.md)

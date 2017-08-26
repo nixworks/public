@@ -1,7 +1,7 @@
 ## [2015-01-16](/news/2015/01/16/index.md)
 
-### [Syrian Civil War. The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/syrian-civil-war-the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spri.md)
-_Context: Free Syrian Army, Pentagon officials, Syrian Civil War_
+### [Syrian Civil War: The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/syrian-civil-war-the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spri.md)
+_Context: Free Syrian Army, Syrian Civil War, U.S. military_
 
 ### [A hostage crisis at a post office in Colombes, Paris, ends with the attacker releasing the hostages and surrendering himself to the police. ](/news/2015/01/16/a-hostage-crisis-at-a-post-office-in-colombes-paris-ends-with-the-attacker-releasing-the-hostages-and-surrendering-himself-to-the-police.md)
 _Context: Colombes, Paris_
@@ -18,7 +18,7 @@ American businesses could flood Cuba with their products under new White House r
 ### [An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. ](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.md)
 Check out this video of a volcanic eruption in Tonga that caused big travel problems.
 
-### [2015 Malawi floods:. Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-d.md)
+### [2015 Malawi floods:: Flash flooding continues since January 14 in the African nation of Malawi with at least 176 people killed and 110,000 displaced. ](/news/2015/01/16/2015-malawi-floods-flash-flooding-continues-since-january-14-in-the-african-nation-of-malawi-with-at-least-176-people-killed-and-110-000-d.md)
 At least 176 people die in flash floods and 110,000 people are displaced, Malawi authorities say.
 
 ### [Chinese officials impose an emergency ban on tourists approaching pandas subsequent to the death of two pandas from a canine distemper virus. ](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.md)

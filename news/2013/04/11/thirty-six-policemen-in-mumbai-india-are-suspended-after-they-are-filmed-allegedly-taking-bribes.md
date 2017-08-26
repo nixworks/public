@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [History of Mumbai. At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _Context: India, Mumbai_
+1. [History of Mumbai: At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/history-of-mumbai-at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-peo.md) _Context: India, Mumbai_
 2. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: India, bribes_
 3. [A court in the Indian city of Mumbai convicts and sentences Ankur Panwar to the death penalty for a fatal acid-throwing attack. ](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.md) _Context: India, Mumbai_
 4. [A three-storey building collapses in the Indian city of Mumbai, resulting in six deaths and trapping many others. ](/news/2016/04/30/a-three-storey-building-collapses-in-the-indian-city-of-mumbai-resulting-in-six-deaths-and-trapping-many-others.md) _Context: India, Mumbai_

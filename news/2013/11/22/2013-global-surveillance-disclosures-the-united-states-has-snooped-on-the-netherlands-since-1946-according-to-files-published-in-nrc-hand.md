@@ -1,6 +1,6 @@
 ### [2013-11-22](/news/2013/11/22/index.md)
 
-# 2013 global surveillance disclosures:. The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. 
+# 2013 global surveillance disclosures:: The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. 
 
 
 
@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [Women's rights. Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/women-s-rights-belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-ne.md) _Context: Netherlands, United States_
+1. [Women's rights: Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/women-s-rights-belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-ne.md) _Context: Netherlands, United States_
 2. [Myanmar tops the 2015 Charities Aid Foundation's World Giving Index which measures each country's charitable behavior. Individuals indicate whether they have donated money, volunteered, or helped a stranger in the past month. The United States, which tied with Myanmar last year, is second, followed by New Zealand, Canada, Australia, the United Kingdom, the Netherlands, Sri Lanka, Ireland, and Malaysia. ](/news/2015/11/10/myanmar-tops-the-2015-charities-aid-foundation-s-world-giving-index-which-measures-each-country-s-charitable-behavior-individuals-indicate.md) _Context: Netherlands, United States_
 3. [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md) _Context: Netherlands, United States_
 4. [A Soyuz space capsule containing Oleg Kononenko (Russia), Andr Kuipers (Netherlands) and Don Pettit (United States) lands safely in Kazakhstan. ](/news/2012/07/1/a-soyuz-space-capsule-containing-oleg-kononenko-russia-andre-kuipers-netherlands-and-don-pettit-united-states-lands-safely-in-kazakhs.md) _Context: Netherlands, United States_
@@ -21,5 +21,5 @@
 6. [ Hundreds of parachutists from the United States, the United Kingdom and the Netherlands commemorate the 65th anniversary of Operation Market Garden near Arnhem, the Netherlands. ](/news/2009/09/19/hundreds-of-parachutists-from-the-united-states-the-united-kingdom-and-the-netherlands-commemorate-the-65th-anniversary-of-operation-marke.md) _Context: Netherlands, United States_
 7. [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md) _Context: Netherlands, United States_
 8. [ A Human Rights Watch report states that the United States, Britain, the Netherlands and Canada rely on "flimsy" diplomacy in attempts to send foreign terror suspects back to countries that routinely use torture against their Prisoners. ](/news/2005/04/15/a-human-rights-watch-report-states-that-the-united-states-britain-the-netherlands-and-canada-rely-on-flimsy-diplomacy-in-attempts-to-se.md) _Context: Netherlands, United States_
-9. [115th United States Congress. U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _Context: United States_
-10. [Solar eclipse of August 21, 2017. Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/solar-eclipse-of-august-21-2017-millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-th.md) _Context: United States_
+9. [115th United States Congress: U.S. lawmakers break for summer recess. ](/news/2017/08/3/115th-united-states-congress-u-s-lawmakers-break-for-summer-recess.md) _Context: United States_
+10. [Solar eclipse of August 21, 2017: Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/solar-eclipse-of-august-21-2017-millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-th.md) _Context: United States_

@@ -1,12 +1,12 @@
 ## [2011-06-27](/news/2011/06/27/index.md)
 
-### [Arab Spring:. 2011 Syrian uprising:. Dozens of dissidents, some of whom were previously imprisoned by the regime, attend a conference in Damascus. It is the first such conference. ](/news/2011/06/27/arab-spring-2011-syrian-uprising-dozens-of-dissidents-some-of-whom-were-previously-imprisoned-by-the-regime-attend-a-conference-in-dam.md)
+### [Arab Spring:: 2011 Syrian uprising:: Dozens of dissidents, some of whom were previously imprisoned by the regime, attend a conference in Damascus. It is the first such conference. ](/news/2011/06/27/arab-spring-2011-syrian-uprising-dozens-of-dissidents-some-of-whom-were-previously-imprisoned-by-the-regime-attend-a-conference-in-dam.md)
 Government says framework for national dialogue to be set and constitutional changes will be on the agenda.
 
-### [War in Afghanistan:. Seven civilians, including children, are killed by two separate roadside mines in Afghanistan's eastern Ghazni Province; an 8-year-old girl was killed when militants gave her a remote-controlled explosive in a bag and told her to give it to police officers in Oruzgan Province. ](/news/2011/06/27/war-in-afghanistan-seven-civilians-including-children-are-killed-by-two-separate-roadside-mines-in-afghanistan-s-eastern-ghazni-province.md)
+### [War in Afghanistan:: Seven civilians, including children, are killed by two separate roadside mines in Afghanistan's eastern Ghazni Province; an 8-year-old girl was killed when militants gave her a remote-controlled explosive in a bag and told her to give it to police officers in Oruzgan Province. ](/news/2011/06/27/war-in-afghanistan-seven-civilians-including-children-are-killed-by-two-separate-roadside-mines-in-afghanistan-s-eastern-ghazni-province.md)
 Afghanistan says the Pakistani military is behind recent deadly rocket attacks, but Islamabad says it is not responsible.
 
-### [Conflicts in Pakistan:. The Pakistani Taliban said two of the three suicide bombers who killed 10 police officers Saturday in northwestern Pakistan were a married couple; 15 policemen were taken hostage by other miltants before security forces killed six of them. ](/news/2011/06/27/conflicts-in-pakistan-the-pakistani-taliban-said-two-of-the-three-suicide-bombers-who-killed-10-police-officers-saturday-in-northwestern-p.md)
+### [Conflicts in Pakistan:: The Pakistani Taliban said two of the three suicide bombers who killed 10 police officers Saturday in northwestern Pakistan were a married couple; 15 policemen were taken hostage by other miltants before security forces killed six of them. ](/news/2011/06/27/conflicts-in-pakistan-the-pakistani-taliban-said-two-of-the-three-suicide-bombers-who-killed-10-police-officers-saturday-in-northwestern-p.md)
 The Pakistani Taliban said two of the three suicide bombers who killed 10 police officers Saturday in northwestern Pakistan were a married Uzbek couple. 
 
 ### [One person is killed during an attack on a train in Sudan. ](/news/2011/06/27/one-person-is-killed-during-an-attack-on-a-train-in-sudan.md)
@@ -24,7 +24,7 @@ _Context: Alan Ayckbourn, University of York_
 ### [Old people are using Facebook in the United Kingdom more and more according to Nielsen. ](/news/2011/06/27/old-people-are-using-facebook-in-the-united-kingdom-more-and-more-according-to-nielsen.md)
 Facebook use among over-50s in the UK has risen faster than any other age group, according to market research.
 
-### [Greek economic crisis:. The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-the-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-th.md)
+### [Greek economic crisis:: The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-the-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-th.md)
 _Context: EUR, Greek economic crisis, Parliament of Greece_
 
 ### [The Los Angeles Dodgers file for Chapter 11 bankruptcy protection. ](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.md)
@@ -36,16 +36,16 @@ _Context: Gulf of Thailand, PTT Public Company Limited, Thailand, natural gas_
 ### [The Premier of China Wen Jiabao signals that the People's Republic of China will have trouble meeting its inflation target of 4 per cent in 2011. ](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.md)
 Chinese Premier Wen Jiabao signaled for the first time that China would struggle to meet its 4 percent inflation target this year, underlining expectations that interest rates will rise further even as economic growth slows down.
 
-### [Fukushima Daiichi nuclear disaster:. Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-t.md)
+### [Fukushima Daiichi nuclear disaster:: Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-t.md)
 Japanese researchers have found radiation in all 15 people tested last month from the area near the crippled Fukushima Daiichi nuclear power plant.
 
-### [2011 Pacific typhoon season:. Tropical Storm Meari leaves at least nine people dead and three missing as it strikes the west coast of South Korea, with heavy rains and strong winds causing flooding and the suspension of sea traffic around the Korean Peninsula.](/news/2011/06/27/2011-pacific-typhoon-season-tropical-storm-meari-leaves-at-least-nine-people-dead-and-three-missing-as-it-strikes-the-west-coast-of-south.md)
+### [2011 Pacific typhoon season:: Tropical Storm Meari leaves at least nine people dead and three missing as it strikes the west coast of South Korea, with heavy rains and strong winds causing flooding and the suspension of sea traffic around the Korean Peninsula.](/news/2011/06/27/2011-pacific-typhoon-season-tropical-storm-meari-leaves-at-least-nine-people-dead-and-three-missing-as-it-strikes-the-west-coast-of-south.md)
 Tropical Storm Meari raked the west coast of South Korea over the weekend, leaving at least nine people dead and three missing, the National Emergency Management Agency (NEMA) said Monday.
 
 ### [1 person is killed and 17 others are injured in a gas station explosion in Urfa, Turkey. ](/news/2011/06/27/1-person-is-killed-and-17-others-are-injured-in-a-gas-station-explosion-in-urfa-turkey.md)
 _Context: Turkey, Urfa_
 
-### [Las Conchas Wildfire. The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfire-the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nea.md)
+### [Las Conchas Wildfire: The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfire-the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nea.md)
 A raging wildfire near the Los Alamos National Laboratory in New Mexico has prompted the evacuation of more than 10,000 residents in the town as firefighters battle hot temperatures and high winds, authorities said Monday.
 
 ### [Trains in England are cancelled due to extreme heat. ](/news/2011/06/27/trains-in-england-are-cancelled-due-to-extreme-heat.md)
@@ -63,7 +63,7 @@ Philip Morris threatens to sue the Australian government over its plan to introd
 ### [Pakistan expels British military advisers following the United States Navy Seals raid that resulted in the death of Osama bin Laden. ](/news/2011/06/27/pakistan-expels-british-military-advisers-following-the-united-states-navy-seals-raid-that-resulted-in-the-death-of-osama-bin-laden.md)
 British military advisers sent to Pakistan to help in the fight against the Taliban and al-Qaeda have been expelled from the country, in the wake of the US Navy Seal raid that killed Osama bin Laden.
 
-### [Gaza Flotilla II:. Israel denies pressuring Greece to stop the ships participating in the flotilla from departing; Prime Minister of Israel Benjamin Netanyahu's inner cabinet instructs the Israel Defense Forces to stop it. ](/news/2011/06/27/gaza-flotilla-ii-israel-denies-pressuring-greece-to-stop-the-ships-participating-in-the-flotilla-from-departing-prime-minister-of-israel.md)
+### [Gaza Flotilla II:: Israel denies pressuring Greece to stop the ships participating in the flotilla from departing; Prime Minister of Israel Benjamin Netanyahu's inner cabinet instructs the Israel Defense Forces to stop it. ](/news/2011/06/27/gaza-flotilla-ii-israel-denies-pressuring-greece-to-stop-the-ships-participating-in-the-flotilla-from-departing-prime-minister-of-israel.md)
 The Israeli foreign ministry on Sunday rejected as &quot;ludicrous&quot; suggestions that Israel and the United States were using economic pressure to force fiscally strapped Greece into preventing boats from participating in an international flotilla to Gaza.
 
 ### ["Brown v. Entertainment Merchants Association": In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-law.md)

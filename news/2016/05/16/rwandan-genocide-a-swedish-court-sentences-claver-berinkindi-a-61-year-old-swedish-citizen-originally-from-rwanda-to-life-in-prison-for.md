@@ -1,6 +1,6 @@
 ### [2016-05-16](/news/2016/05/16/index.md)
 
-#  Rwandan genocide. A Swedish court sentences Claver Berinkindi, a 61-year-old Swedish citizen originally from Rwanda, to life in prison for participation in the Rwandan genocide in 1994. 
+#  Rwandan genocide: A Swedish court sentences Claver Berinkindi, a 61-year-old Swedish citizen originally from Rwanda, to life in prison for participation in the Rwandan genocide in 1994. 
 
 A Swedish court sentenced on Monday a 61-year-old man to life in prison for genocide in Rwanda in 1994, the second such case brought by the Nordic country over crimes during the conflict.
 

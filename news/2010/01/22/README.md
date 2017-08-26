@@ -6,7 +6,7 @@ Japanese Prime Minister Yukio Hatoyama said he will resign if proven guilty of r
 ### [Ten rhinoceros horns seized in recent weeks at Shannon Airport in Ireland are said to be "rare" and "of international significance". ](/news/2010/01/22/ten-rhinoceros-horns-seized-in-recent-weeks-at-shannon-airport-in-ireland-are-said-to-be-rare-and-of-international-significance.md)
 Ten rhino horns, with an estimated value of €500,000, have been seized by Customs officials at Shannon Airport.
 
-### [Operation Aurora:. China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-cou.md)
+### [Operation Aurora:: China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-china-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-cou.md)
 _Context: China, Sino-American relations, United States, blocks mentions, cyber attacks_
 
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
@@ -25,7 +25,7 @@ _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, United States, banking, president_
+_Context: Barack Obama, Europe, President, United States, banking_
 
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
 _Context: Nigeria, President, Supreme Court, Umaru Yar'Adua, government_

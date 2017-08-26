@@ -1,6 +1,6 @@
 ## [2012-11-26](/news/2012/11/26/index.md)
 
-### [Syrian civil war:. A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childr.md)
+### [Syrian civil war:: A Syrian government jet aircraft drops a cluster bomb on a playground in the village of Deir al-Asafir, leaving 10 children dead and 15 people wounded, activists say. ](/news/2012/11/26/syrian-civil-war-a-syrian-government-jet-aircraft-drops-a-cluster-bomb-on-a-playground-in-the-village-of-deir-al-asafir-leaving-10-childr.md)
 Activists in Syria say a government MiG fighter jet has dropped a cluster bomb on a playground east of Damascus, leaving 10 children dead.
 
 ### [Mark Carney, current Governor of the Bank of Canada, is named as the next Governor of the Bank of England. He will take up the position when current Governor Mervyn King steps down in June 2013. ](/news/2012/11/26/mark-carney-current-governor-of-the-bank-of-canada-is-named-as-the-next-governor-of-the-bank-of-england-he-will-take-up-the-position-when.md)

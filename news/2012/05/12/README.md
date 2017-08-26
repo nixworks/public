@@ -1,6 +1,6 @@
 ## [2012-05-12](/news/2012/05/12/index.md)
 
-### [Arab Spring:. Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-syrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-na.md)
+### [Arab Spring:: Syrian uprising: At least eight more people are killed in the ongoing violence in Syria, despite the presence of 145 United Nations ceasefire monitors. ](/news/2012/05/12/arab-spring-syrian-uprising-at-least-eight-more-people-are-killed-in-the-ongoing-violence-in-syria-despite-the-presence-of-145-united-na.md)
 Several people reported dead in latest clashes even as number of UN monitors charged with overseeing truce reaches 145.
 
 ### [The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. ](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in-southeastern-yemen-killing-11-suspected-al-qaeda-militants.md)
@@ -12,7 +12,7 @@ Nigerian police say they have arrested a senior commander of the Islamist milita
 ### [Four NATO soldiers die in separate incidents in southern Afghanistan &ndash; two in a gun attack by insurgents, one in a roadside bombing, and one of non-combat injuries. ](/news/2012/05/12/four-nato-soldiers-die-in-separate-incidents-in-southern-afghanistan-ndash-two-in-a-gun-attack-by-insurgents-one-in-a-roadside-bombing-a.md)
 _Context: Afghanistan's, NATO_
 
-### [Eurozone debt crisis:. The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoin.md)
+### [Eurozone debt crisis:: The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/eurozone-debt-crisis-the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoin.md)
 Police clear protesters from central Madrid, after nationwide protests by the &quot;Indignants&quot; movement, formed last year amid anger over austerity.
 
 ### [Three Boston University students are killed and another five are injured in a minivan crash during a trip to New Zealand. ](/news/2012/05/12/three-boston-university-students-are-killed-and-another-five-are-injured-in-a-minivan-crash-during-a-trip-to-new-zealand.md)

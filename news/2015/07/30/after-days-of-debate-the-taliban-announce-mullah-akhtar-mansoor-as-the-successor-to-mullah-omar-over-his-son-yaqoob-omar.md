@@ -11,4 +11,4 @@ The Taliban appoint a successor to Mullah Omar and confirm that the veteran lead
 
 ### Related:
 
-1. [War in Afghanistan (2001-present). The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md) _Context: Mullah Omar_
+1. [War in Afghanistan (2001-present): The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/war-in-afghanistan-2001-present-the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natura.md) _Context: Mullah Omar_

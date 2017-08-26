@@ -1,6 +1,6 @@
 ## [2009-08-6](/news/2009/08/6/index.md)
 
-### [ 64th anniversary of Hiroshima and Nagasaki atomic bombings. Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/64th-anniversary-of-hiroshima-and-nagasaki-atomic-bombings-japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshi.md)
+### [ 64th anniversary of Hiroshima and Nagasaki atomic bombings: Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/64th-anniversary-of-hiroshima-and-nagasaki-atomic-bombings-japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshi.md)
 Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomic bomb attack with a call for a nuclear-weapons-free world.
 
 ### [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md)

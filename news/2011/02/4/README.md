@@ -1,12 +1,12 @@
 ## [2011-02-4](/news/2011/02/4/index.md)
 
-### [2011 Egyptian protests:. Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md)
+### [2011 Egyptian protests:: Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md)
 _Context: Protesters_
 
 ### [Police beat with batons and shoot tear gas at student protesters in the Sudanese state of Sennar in demonstrations inspired by the uprisings in Tunisia and Egypt. ](/news/2011/02/4/police-beat-with-batons-and-shoot-tear-gas-at-student-protesters-in-the-sudanese-state-of-sennar-in-demonstrations-inspired-by-the-uprisings.md)
 _Context: Sennar, baton, state, tear gas_
 
-### [2011 Syrian protests:. Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
+### [2011 Syrian protests:: Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
 Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;anger&quot;&#x20;in&#x20;Syria,&#x20;demanding&#x20;an&#x20;end&#x20;to&#x20;&#x201C;corruption&#x20;and&#x20;tyranny&#x201D;.&#x20;The&#x20;action&#x20;is&#x20;scheduled&#x20;to&#x20;take&#x20;place&#x20;after&#x20;Friday&...
 
 ### [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodian-thai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md)

@@ -3,10 +3,10 @@
 ### [Midi-Pyrenees shootings suspected perpetrator Mohammed Merah dies and three French policemen are injured as a siege ends outside Merah's Toulouse flat. ](/news/2012/03/22/midi-pyra-c-na-c-es-shootings-suspected-perpetrator-mohammed-merah-dies-and-three-french-policemen-are-injured-as-a-siege-ends-outside-merah-s-t.md)
 A police sniper shot and killed the gunman who carried out a spate of murders in southern France, prosecutors say, after a 32-hour siege.
 
-### [Mali coup d'etat during the insurgency in northern Mali:. Soldiers storm the palace of the President Amadou Toumani Toure with heavy gunfire reported in Bamako as part of a coup d'etat. ](/news/2012/03/22/mali-coup-d-a-c-tat-during-the-insurgency-in-northern-mali-soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfi.md)
+### [Mali coup d'etat during the insurgency in northern Mali:: Soldiers storm the palace of the President Amadou Toumani Toure with heavy gunfire reported in Bamako as part of a coup d'etat. ](/news/2012/03/22/mali-coup-d-a-c-tat-during-the-insurgency-in-northern-mali-soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfi.md)
 Mutinous soldiers said they seized power in Mali on Thursday and ordered its borders closed, threatening to reignite conflict in a Saharan region shaken by the turmoil in Libya.
 
-### [Syrian uprising:. Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idli.md)
+### [Syrian uprising:: Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idli.md)
 _Context: 2011-2012 Syrian uprising, Aleppo, Damascus, Daraa, Hama, Homs, Idlib, Lattakia, military_
 
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)

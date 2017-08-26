@@ -18,7 +18,7 @@ A new and potentially fatal virus from the same family as SARS which was discove
 ### [Nigeria suspends flights to Saudi Arabia after hundreds of Nigerian women attending the Hajj pilgrimage in Mecca were deported for not traveling with a male escort. ](/news/2012/09/28/nigeria-suspends-flights-to-saudi-arabia-after-hundreds-of-nigerian-women-attending-the-hajj-pilgrimage-in-mecca-were-deported-for-not-trave.md)
 Flights to Saudi Arabia suspended after hundreds of Nigerian women were deported for not travelling with male escort.
 
-### [China:. The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md)
+### [China:: The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md)
 The official Xinhua News translation of a Communist Party statement expelling disgraced Chinese Politburo member Bo Xilai.
 
 ### [Social Democratic Party of Germany president Sigmar Gabriel proposes Peer Steinbrck as the party's Chancellor candidate for the next German federal election to be held in 2013. ](/news/2012/09/28/social-democratic-party-of-germany-president-sigmar-gabriel-proposes-peer-steinbruck-as-the-party-s-chancellor-candidate-for-the-next-german.md)

@@ -6,7 +6,7 @@ _Context: China, Nanjing_
 ### [Christians flee from their homes in Saeedabad, Karachi, following violence sparked by a Muslim-Christian marriage. ](/news/2010/11/27/christians-flee-from-their-homes-in-saeedabad-karachi-following-violence-sparked-by-a-muslim-christian-marriage.md)
 _Context: Saeedabad, Karachi_
 
-### [Shelling of Yeonpyeong:. North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md)
+### [Shelling of Yeonpyeong:: North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/shelling-of-yeonpyeong-north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md)
 _Context: North Korea, South Korea, human shield, shelling of Yeonpyeong_
 
 ### [A senior United Nations official, Vijay Nambiar, meets with Burmese opposition leader Aung San Suu Kyi in Yangon. ](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.md)

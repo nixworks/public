@@ -1,6 +1,6 @@
 ### [2015-10-1](/news/2015/10/1/index.md)
 
-# Umpqua Community College shooting. A mass shooting at Umpqua Community College in Roseburg, Oregon kills nine people and leaves seven wounded. The shooter commits suicide when confronted by the police. The man's motives are unknown. 
+# Umpqua Community College shooting: A mass shooting at Umpqua Community College in Roseburg, Oregon kills nine people and leaves seven wounded. The shooter commits suicide when confronted by the police. The man's motives are unknown. 
 
 A gunman opened fire at a community college in southern Oregon on Thursday, killing 13 people and wounding some 20 others before he was shot to death by police, state and county officials said, in the latest mass killing to rock a U.S. school.
 

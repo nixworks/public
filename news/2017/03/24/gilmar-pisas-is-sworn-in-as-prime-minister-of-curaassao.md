@@ -11,4 +11,4 @@ WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The p
 
 ### Related:
 
-1. [Curacao general election, 2016. The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/curaassao-general-election-2016-the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-oc.md) _Context: Prime Minister of Curacao_
+1. [Curacao general election, 2016: The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/curaassao-general-election-2016-the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-oc.md) _Context: Prime Minister of Curacao_

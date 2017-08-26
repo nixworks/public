@@ -1,6 +1,6 @@
 ## [2012-03-28](/news/2012/03/28/index.md)
 
-### [2012 Sabha conflict:. Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md)
+### [2012 Sabha conflict:: Renewed clashes in Sabha, Libya, raise the death toll to 50. ](/news/2012/03/28/2012-sabha-conflict-renewed-clashes-in-sabha-libya-raise-the-death-toll-to-50.md)
 _Context: 2012 Sabha conflict, Sabha, Libya_
 
 ### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudan-sudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)

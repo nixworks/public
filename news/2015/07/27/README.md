@@ -3,10 +3,10 @@
 ### [At least 7 people are killed and many injured after gunmen attack an Indian police station in Punjab. ](/news/2015/07/27/at-least-7-people-are-killed-and-many-injured-after-gunmen-attack-an-indian-police-station-in-punjab.md)
 _Context: Indian police, Punjab, gunmen attack_
 
-### [ Syrian Civil War. Battle of Sarrin (June-July 2015). YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/syrian-civil-war-battle-of-sarrin-june-july-2015-ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offens.md)
+### [ Syrian Civil War: Battle of Sarrin (June-July 2015): YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/syrian-civil-war-battle-of-sarrin-june-july-2015-ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offens.md)
 The Kurdish YPG militia on Monday captured a town from Islamic State fighters in northern Syria after a month-long offensive against the ultra hardline militants in the area to cut their supply lines, the Syrian Observatory for Human Rights said.
 
-### [2015 Chinese stock market crash. The Shanghai Composite Index drops 8.5%, the largest one-day decline in the index since 2007. ](/news/2015/07/27/2015-chinese-stock-market-crash-the-shanghai-composite-index-drops-8-5-the-largest-one-day-decline-in-the-index-since-2007.md)
+### [2015 Chinese stock market crash: The Shanghai Composite Index drops 8.5%, the largest one-day decline in the index since 2007. ](/news/2015/07/27/2015-chinese-stock-market-crash-the-shanghai-composite-index-drops-8-5-the-largest-one-day-decline-in-the-index-since-2007.md)
 China’s stocks tumbled, with the benchmark index falling the most since February 2007, amid concern a three-week rally sparked by unprecedented government intervention is unsustainable.
 
 ### [The Turkish National Police warns of possible bomb attacks on crowded places in central Istanbul, including metro stations and bus stops, following the escalation of Turkey-ISIL conflict. ](/news/2015/07/27/the-turkish-national-police-warns-of-possible-bomb-attacks-on-crowded-places-in-central-istanbul-including-metro-stations-and-bus-stops-fo.md)

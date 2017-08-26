@@ -18,7 +18,7 @@ _Context: Afghanistan's, Kabul, United States, car bomb, embassies, suicide_
 ### [ An Australian soldier is killed and several injured in fighting in Oruzgan Province, Afghanistan. ](/news/2008/11/27/an-australian-soldier-is-killed-and-several-injured-in-fighting-in-oruzgan-province-afghanistan.md)
 _Context: Oruzgan province_
 
-### [ 2008 Thai political crisis:. The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-the-government-declares-a-state-of-emergency-over-two-airports.md)
+### [ 2008 Thai political crisis:: The government declares a state of emergency over two airports. ](/news/2008/11/27/2008-thai-political-crisis-the-government-declares-a-state-of-emergency-over-two-airports.md)
 Thai anti-government protesters have blockaded and shut down a second Bangkok airport, an official said, just over a day after they forced the closure of the main international airport.
 
 ## [Previous Day...](/news/2008/11/26/index.md)

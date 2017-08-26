@@ -1,6 +1,6 @@
 ## [2008-04-29](/news/2008/04/29/index.md)
 
-### [ Economy of the United States. The S&P/Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/economy-of-the-united-states-the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-t.md)
+### [ Economy of the United States: The S&P/Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/economy-of-the-united-states-the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-t.md)
 _Context: Case-Shiller index, Economy of the United States, S&P, United States, real estate pricing_
 
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)

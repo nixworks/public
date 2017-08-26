@@ -1,15 +1,15 @@
 ## [2014-02-24](/news/2014/02/24/index.md)
 
-### [2014 Ukrainian Revolution:. The European Commission recognizes Oleksandr Turchynov as Ukraine-s legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-the-european-commission-recognizes-oleksandr-turchynov-as-ukraine-s-legitimate-interim-president.md)
+### [2014 Ukrainian Revolution:: The European Commission recognizes Oleksandr Turchynov as Ukraine-s legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-the-european-commission-recognizes-oleksandr-turchynov-as-ukraine-s-legitimate-interim-president.md)
 _Context: 2014 Ukrainian revolution, European Commission, Oleksandr Turchynov, Ukraine_
 
-### [War in Afghanistan:. Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
+### [War in Afghanistan:: Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-senior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
 _Context: Khyber Pakhtunkhwa, Taliban, War in Afghanistan (2001-present)_
 
-### [South China Sea dispute:. Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md)
+### [South China Sea dispute:: Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-chinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md)
 A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoal in the South China Sea, the top Philippine military chief says.
 
-### [Post-civil war violence in Libya. Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/post-civil-war-violence-in-libya-libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the.md)
+### [Post-civil war violence in Libya: Libyan police found the bodies of seven Egyptian Christians shot dead execution-style on a beach near the city of Benghazi. ](/news/2014/02/24/post-civil-war-violence-in-libya-libyan-police-found-the-bodies-of-seven-egyptian-christians-shot-dead-execution-style-on-a-beach-near-the.md)
 Seven Egyptian Christians were found shot dead on a beach in eastern Libya after they were abducted from their apartments, security officials and local residents said, in the second such execution-style killing this year.
 
 ### [Israeli Air Force planes reportedly bomb a weapons shipment of SS-21 missiles destined for Hezbollah near a Hezbollah stronghold on the Lebanon-Syria border. ](/news/2014/02/24/israeli-air-force-planes-reportedly-bomb-a-weapons-shipment-of-ss-21-missiles-destined-for-hezbollah-near-a-hezbollah-stronghold-on-the-leba.md)
@@ -39,14 +39,14 @@ _Context: Lai Chau Province, Vietnam_
 ### [Gary Melius, owner of Oheka Castle in Huntington, New York, the second largest private residence in the United States, is shot in the head in the castle parking lot. The gunman is still at large. ](/news/2014/02/24/gary-melius-owner-of-oheka-castle-in-huntington-new-york-the-second-largest-private-residence-in-the-united-states-is-shot-in-the-head-i.md)
 A prominent New York real estate developer and socialite told investigators he has no idea who shot him at his expansive Long Island estate, police said.
 
-### [2013-14 Thai political crisis:. Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
+### [2013-14 Thai political crisis:: Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013-14-thai-political-crisis-thai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
 _Context: 2013-14 Thai political crisis, Thailand, Yingluck Shinawatra_
 
 ### [The government of Egypt resign "en masse", allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
 _Context: Abdel Fattah al-Sisi, Egypt_
 
 ### [The Pentagon announces plans to reduce the size of the United States Army to pre-World War II levels. ](/news/2014/02/24/the-pentagon-announces-plans-to-reduce-the-size-of-the-united-states-army-to-pre-world-war-ii-levels.md)
-_Context: Pentagon officials, United States Army, World War II_
+_Context: U.S. military, United States Army, World War II_
 
 ### [In Russia, police arrested over 400 people in Manege Square hours after picking up some 200 people outside the court where the Bolotnaya square case defendants were being tried. ](/news/2014/02/24/in-russia-police-arrested-over-400-people-in-manege-square-hours-after-picking-up-some-200-people-outside-the-court-where-the-bolotnaya-squ.md)
 _Context: Bolotnaya square case, Manege Square, Russia_

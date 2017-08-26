@@ -1,6 +1,6 @@
 ### [2017-07-28](/news/2017/07/28/index.md)
 
-# Charlie Gard case. Charlie Gard, an infant with a rare genetic condition known as mitochondrial DNA depletion syndrome, dies at the age of 11 months. 
+# Charlie Gard case: Charlie Gard, an infant with a rare genetic condition known as mitochondrial DNA depletion syndrome, dies at the age of 11 months. 
 
 Charlie Gard has died following his near year-long battle with a rare genetic disease.
 
@@ -12,4 +12,4 @@ Charlie Gard has died following his near year-long battle with a rare genetic di
 
 ### Related:
 
-1. [Charlie Gard case. The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the United States. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/charlie-gard-case-the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-united-states-the-lat.md) _Context: Charlie Gard case_
+1. [Charlie Gard case: The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the United States. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/charlie-gard-case-the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-united-states-the-lat.md) _Context: Charlie Gard case_

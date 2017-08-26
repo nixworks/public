@@ -1,6 +1,6 @@
 ### [2002-10-11](/news/2002/10/11/index.md)
 
-#  U.S. plan to invade Iraq. The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.
+#  U.S. plan to invade Iraq: The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.
 
 
 
@@ -14,6 +14,6 @@
 5. [ In an interview, U.S. President George W. Bush names No Child Left Behind as one of his most significant achievements and hopes to be remembered for the current situation in Iraq ](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.md) _Context: George W. Bush, Iraq_
 6. [ US President George W. Bush pledges 4,500 troops to Afghanistan over the next few months and orders 8,000 troops currently stationed in Iraq to be home by February. ](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.md) _Context: George W. Bush, Iraq_
 7. [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md) _Context: George W. Bush, Iraq_
-8. [ War in Iraq:. U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _Context: George W. Bush, Iraq_
+8. [ War in Iraq:: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md) _Context: George W. Bush, Iraq_
 9. [ The United States Senate fails to pass a bill providing more home leave to United States troops in Iraq with the necessary 60 percent margin with 56 for and 44 against. ](/news/2007/09/19/the-united-states-senate-fails-to-pass-a-bill-providing-more-home-leave-to-united-states-troops-in-iraq-with-the-necessary-60-percent-margi.md) _Context: Iraq, United States Senate_
 10. [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md) _Context: George W. Bush, United States Senate_

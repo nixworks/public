@@ -1,6 +1,6 @@
 ### [2006-05-1](/news/2006/05/1/index.md)
 
-#  Sri Lankan Civil War:. Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. 
+#  Sri Lankan Civil War:: Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 

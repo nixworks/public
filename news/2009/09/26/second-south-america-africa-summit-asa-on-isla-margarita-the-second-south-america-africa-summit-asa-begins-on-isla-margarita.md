@@ -1,6 +1,6 @@
 ### [2009-09-26](/news/2009/09/26/index.md)
 
-#  Second South America-Africa Summit (ASA) on Isla Margarita:. The second South America-Africa Summit (ASA) begins on Isla Margarita. 
+#  Second South America-Africa Summit (ASA) on Isla Margarita:: The second South America-Africa Summit (ASA) begins on Isla Margarita. 
 
 The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Venezuela, signed on Saturday night an agreement establishing the South Bank with an initial capital of 20 billion U.S. dollars.
 
@@ -20,5 +20,5 @@ The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Ven
 
 ### Related:
 
-1. [ Second South America-Africa Summit (ASA) on Isla Margarita:. The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md) _Context: Isla Margarita, South America-Africa Summit_
-2. [Non-aligned Movement. Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/non-aligned-movement-around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-mora.md) _Context: Isla Margarita_
+1. [ Second South America-Africa Summit (ASA) on Isla Margarita:: The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md) _Context: Isla Margarita, South America-Africa Summit_
+2. [Non-aligned Movement: Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/non-aligned-movement-around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-mora.md) _Context: Isla Margarita_

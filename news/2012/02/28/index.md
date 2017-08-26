@@ -1,6 +1,6 @@
 ## [2012-02-28](/news/2012/02/28/index.md)
 
-### [2011-2012 Syrian uprising:. The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011-2012-syrian-uprising-the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-d.md)
+### [2011-2012 Syrian uprising:: The United Nations High Commissioner for Human Rights Navanethem Pillay calls for an immediate ceasefire and demands humanitarian access. ](/news/2012/02/28/2011-2012-syrian-uprising-the-united-nations-high-commissioner-for-human-rights-navanethem-pillay-calls-for-an-immediate-ceasefire-and-d.md)
 UN rights chief condemns attacks on civilians and demands humanitarian access, prompting walkout by Syrian envoy.
 
 ### [Pakistani gunmen open fire on a passenger bus in Kohistan, killing 18. ](/news/2012/02/28/pakistani-gunmen-open-fire-on-a-passenger-bus-in-kohistan-killing-18.md)

@@ -9,13 +9,13 @@ _Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fa
 ### [The FARC organisation in Colombia releases a fourth hostage in the past week. ](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia_
 
-### [2011 Iranian protests:. Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/2011-iranian-protests-anti-regime-protests-are-due-to-occur-in-iran.md)
+### [2011 Iranian protests:: Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/2011-iranian-protests-anti-regime-protests-are-due-to-occur-in-iran.md)
 Calls said to be made for anti-government rallies apparently inspired by events in Tunisia and Egypt.
 
-### [2011 Bahraini protests:. Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md)
+### [2011 Bahraini protests:: Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md)
 Opposition groups call for protests on Monday as riot police clash with youths in Shia village in the west.
 
-### [Other Arab Spring events:. New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md)
+### [Other Arab Spring events:: New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md)
 Unrest in Yemen turns ugly as protesters clash with police and government loyalists in Sanaa on a fourth day of rallies.
 
 ### [A British Army soldier from 2nd Battalion, The Parachute Regiment is killed in an explosion in Afghanistan. ](/news/2011/02/14/a-british-army-soldier-from-2nd-battalion-the-parachute-regiment-is-killed-in-an-explosion-in-afghanistan.md)
@@ -76,7 +76,7 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 _Context: Algeria, Mourad Medelci, state of emergency_
 
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, United States federal budget, budget deficits, president_
+_Context: Barack Obama, President, United States federal budget, budget deficits_
 
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)
 _Context: 10 Downing Street, David Cameron_

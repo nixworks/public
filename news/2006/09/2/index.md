@@ -12,10 +12,10 @@ Ben Stevens, a Republican who is the State Senate president and son of Senator T
 ### [ British police hold 14 men after anti-terrorism raids on locations in south and east London including one restaurant. ](/news/2006/09/2/british-police-hold-14-men-after-anti-terrorism-raids-on-locations-in-south-and-east-london-including-one-restaurant.md)
 _Context: London, anti-terrorism, restaurant_
 
-### [ 2006 Israel-Lebanon conflict:. Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md)
+### [ 2006 Israel-Lebanon conflict:: Hezbollah sets up armed militias of more than 2,000 children of shahids aged 10-15, training them to sacrifice their lives, an Egyptian weekly reports. ](/news/2006/09/2/2006-israel-lebanon-conflict-hezbollah-sets-up-armed-militias-of-more-than-2-000-children-of-shahids-aged-10-15-training-them-to-sacrifi.md)
 In the days following the war in Lebanon, newspapers from the Arab world report that Hizbullah is recruiting children to staff its armed militias; commentators fear a Shiite republic will rise in Lebanon; other slam Hizbullah’s ‘deterrence theory’
 
-### [ Israeli-Palestinian conflict:. Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md)
+### [ Israeli-Palestinian conflict:: Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/israeli-palestinian-conflict-donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-proce.md)
 _Context: Israeli-Palestinian conflict, Palestinian, UN_
 
 ## [Previous Day...](/news/2006/09/1/index.md)

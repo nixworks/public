@@ -12,7 +12,7 @@ _Context: Dutch population, Government of the Netherlands, Muslim, bill into law
 ### [ Dutch newspaper "de Volkskrant" reports that officers of the Military Intelligence and Security Service of the Netherlands have physically abused prisoners in the Iraqi governorate of Al Muthanna. ](/news/2006/11/17/dutch-newspaper-de-volkskrant-reports-that-officers-of-the-military-intelligence-and-security-service-of-the-netherlands-have-physically.md)
 _Context: Al Muthanna Governorate, Iraq, Military Intelligence and Security Service, Netherlands, de Volkskrant, governorate_
 
-### [ 2006 Tonga riots:. Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md)
+### [ 2006 Tonga riots:: Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md)
 _Context: 2006 riots, Australia, New Zealand, Nuku'alofa, Tonga, Tongan government, search warrant, state of emergency_
 
 ### [ Kazakh President Nursultan Nazarbayev calls on the Government to switch the alphabet used in the Kazakh language from Cyrillic letters to Latin. ](/news/2006/11/17/kazakh-president-nursultan-nazarbayev-calls-on-the-government-to-switch-the-alphabet-used-in-the-kazakh-language-from-cyrillic-letters-to-l.md)
@@ -22,7 +22,7 @@ Kazakhstan is contemplating a switch to the Latin alphabet. With the President N
 _Context: 1976, Juan Mara Bordaberry, Uruguay_
 
 ### [ President of the United States George W. Bush and Prime Minister of Australia John Howard discuss Iraq strategy over lunch. The two leaders are attending an Asia-Pacific Economic Cooperation meeting in Hanoi. ](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.md)
-_Context: Asia-Pacific Economic Cooperation, Australian Prime Minister, George W. Bush, Hanoi, Iraq War, John Howard, president_
+_Context: Asia-Pacific Economic Cooperation, Australian Prime Minister, George W. Bush, Hanoi, Iraq War, John Howard, President_
 
 ### [ The Government of the People's Republic of China blocks internet access to Wikipedia in China less than one week after a year-long ban was lifted. ](/news/2006/11/17/the-government-of-the-people-s-republic-of-china-blocks-internet-access-to-wikipedia-in-china-less-than-one-week-after-a-year-long-ban-was.md)
 _Context: Wikipedia in China, government_

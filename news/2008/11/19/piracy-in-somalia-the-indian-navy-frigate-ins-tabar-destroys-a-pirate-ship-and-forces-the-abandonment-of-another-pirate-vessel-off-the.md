@@ -1,6 +1,6 @@
 ### [2008-11-19](/news/2008/11/19/index.md)
 
-#  Piracy in Somalia:. The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. 
+#  Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. 
 
 
 
@@ -20,6 +20,6 @@
 5. [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md) _Context: India, Somali pirates, Somalia_
 6. [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md) _Context: India, Somali pirates, Somalia_
 7. [ The Indian Navy foils an attempt by Somali pirates to hijack a merchant ship in Gulf of Aden. ](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.md) _Context: India, Indian Navy, Somali pirates_
-8. [Piracy off the coast of Somalia. Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/piracy-off-the-coast-of-somalia-somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India, Somalia_
+8. [Piracy off the coast of Somalia: Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/piracy-off-the-coast-of-somalia-somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India, Somalia_
 9. [The Government of India approves the construction of seven stealth frigates and six nuclear submarines for the Indian Navy. ](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.md) _Context: Indian Navy, frigate_
-10. [Piracy in Somalia. Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
+10. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_

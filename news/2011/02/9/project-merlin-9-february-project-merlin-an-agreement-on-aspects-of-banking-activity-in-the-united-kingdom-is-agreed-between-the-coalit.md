@@ -1,6 +1,6 @@
 ### [2011-02-9](/news/2011/02/9/index.md)
 
-# Project Merlin. 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. 
+# Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. 
 
 A long-awaited agreement with the largest UK banks on lending and bonuses is announced by the government.
 

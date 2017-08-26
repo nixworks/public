@@ -1,6 +1,6 @@
 ## [2006-09-20](/news/2006/09/20/index.md)
 
-### [ Singapore 2006:. The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md)
+### [ Singapore 2006:: The 61st International Monetary Fund-World Bank annual meeting ends with an agreement on the need to revive stalled global trade talks, and to curb risks to global economic growth. ](/news/2006/09/20/singapore-2006-the-61st-international-monetary-fund-world-bank-annual-meeting-ends-with-an-agreement-on-the-need-to-revive-stalled-global.md)
 _Context: International Monetary Fund, Singapore 2006, World Bank Group, annual meeting_
 
 ### [ In Kazakhstan, 41 miners die in the nation's worst mining accident after a methane explosion in a coal mine. ](/news/2006/09/20/in-kazakhstan-41-miners-die-in-the-nation-s-worst-mining-accident-after-a-methane-explosion-in-a-coal-mine.md)
@@ -18,10 +18,10 @@ _Context: Ben Bernanke, Federal Reserve, United States, interest rate_
 ### [ Shinzo Abe is elected as party leader of the Liberal Democratic Party in Japan, replacing the current Prime Minister Junichiro Koizumi. He will likely be elected as the new prime minister on 30 September 2006. ](/news/2006/09/20/shinzo-abe-is-elected-as-party-leader-of-the-liberal-democratic-party-in-japan-replacing-the-current-prime-minister-junichiro-koizumi-he.md)
 _Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
-### [ Thailand coup d'tat:. The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md)
+### [ Thailand coup d'tat:: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md)
 _Context: General, Sonthi Boonyaratglin, Thailand, Thaksin, civilian, coup_
 
-### [ 2006 protests in Hungary:. A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md)
+### [ 2006 protests in Hungary:: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A public memorial service is held at Australia Zoo in Beerwah, Queensland, Australia, for "The Crocodile Hunter" Steve Irwin. ](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-zoo-in-beerwah-queensland-australia-for-the-crocodile-hunter-steve-irwin.md)

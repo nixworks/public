@@ -1,6 +1,6 @@
 ### [2005-03-25](/news/2005/03/25/index.md)
 
-#  Tulip Revolution in Kyrgyzstan:. Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted President Askar Akayev remains defiant. [http://www.alertnet.org/thenews/newsdesk/L25245723.htm (Reuters)]. Looters ransack the capital city of Bishkek following the protests. 
+#  Tulip Revolution in Kyrgyzstan:: Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted President Askar Akayev remains defiant. [http://www.alertnet.org/thenews/newsdesk/L25245723.htm (Reuters)]: Looters ransack the capital city of Bishkek following the protests. 
 
 
 

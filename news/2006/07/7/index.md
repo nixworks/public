@@ -39,7 +39,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ An explosion in the village of Dongzhai village in Shanxi province in north China kills 43 people. ](/news/2006/07/7/an-explosion-in-the-village-of-dongzhai-village-in-shanxi-province-in-north-china-kills-43-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains):. Three Israeli civilians are wounded when a Qassam rocket lands in a basketball court in Sderot. More than fifteen rockets land in Israeli towns on Friday, in spite of an Israeli raid in the northern Gaza Strip. ](/news/2006/07/7/israeli-palestinian-conflict-operation-summer-rains-three-israeli-civilians-are-wounded-when-a-qassam-rocket-lands-in-a-basketball-cour.md)
+### [ Israeli-Palestinian conflict (Operation Summer Rains):: Three Israeli civilians are wounded when a Qassam rocket lands in a basketball court in Sderot. More than fifteen rockets land in Israeli towns on Friday, in spite of an Israeli raid in the northern Gaza Strip. ](/news/2006/07/7/israeli-palestinian-conflict-operation-summer-rains-three-israeli-civilians-are-wounded-when-a-qassam-rocket-lands-in-a-basketball-cour.md)
 Day of panic in Gaza vicinity communities: In spite of IDF&#39;s presence inside Strip, Red Dawn alert system constantly activated. At least ten rockets hit southern town area since Friday morning; three residents wounded by shrapnel, rushed to hospital
 
 ## [Previous Day...](/news/2006/07/6/index.md)

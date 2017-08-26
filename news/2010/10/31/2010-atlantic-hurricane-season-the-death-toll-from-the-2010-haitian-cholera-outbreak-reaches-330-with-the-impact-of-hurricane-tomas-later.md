@@ -1,6 +1,6 @@
 ### [2010-10-31](/news/2010/10/31/index.md)
 
-# 2010 Atlantic hurricane season:. The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. 
+# 2010 Atlantic hurricane season:: The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. 
 
 
 
@@ -22,4 +22,4 @@
 7. [The death toll from the 2010 Haitian cholera outbreak reaches 300 as new cases are reported nearer the capital Port-au-Prince. ](/news/2010/10/29/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-300-as-new-cases-are-reported-nearer-the-capital-port-au-prince.md) _Context: Haiti cholera outbreak_
 8. [2010 Atlantic hurricane season: Tropical Storm Shary strengthens and nears Bermuda, while Tropical Storm Tomas forms and approaches the Caribbean Sea. ](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.md) _Context: 2010 Atlantic hurricane season_
 9. [Tropical Storm Richard lashes Honduras's Caribbean Coast with heavy rain before becoming a hurricane and making landfall in Belize. ](/news/2010/10/24/tropical-storm-richard-lashes-honduras-s-caribbean-coast-with-heavy-rain-before-becoming-a-hurricane-and-making-landfall-in-belize.md) _Context: 2010 Atlantic hurricane season_
-10. [2010 Haitian cholera outbreak:. Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _Context: Haiti cholera outbreak_
+10. [2010 Haitian cholera outbreak:: Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md) _Context: Haiti cholera outbreak_

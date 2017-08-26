@@ -1,6 +1,6 @@
 ### [2010-04-15](/news/2010/04/15/index.md)
 
-# Sudanese general election, 2010:. Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. 
+# Sudanese general election, 2010:: Sudanese newspapers report the death of 9 members of the National Congress during general elections in the country; the Sudan People's Liberation Army denies the incident. 
 
 SPLM denies ruling party claims that southern soldiers shot dead nine of its members.
 

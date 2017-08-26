@@ -1,6 +1,6 @@
 ### [2017-03-9](/news/2017/03/9/index.md)
 
-# 2017 Dsseldorf axe attack. An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. 
+# 2017 Dsseldorf axe attack: An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. 
 
 
 

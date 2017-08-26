@@ -1,9 +1,9 @@
 ## [2013-12-24](/news/2013/12/24/index.md)
 
-### [Islamist protests in Egypt (July 2013-present):. A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013-present-a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansour.md)
+### [Islamist protests in Egypt (July 2013-present):: A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013-present-a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansour.md)
 _Context: Dakahlia, Islamist protests in Egypt (July 2013-present), Mansoura, Nile delta, huge explosion_
 
-### [2013 South Sudanese political crisis:. The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-a.md)
+### [2013 South Sudanese political crisis:: The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-a.md)
 Leaders warned they may be held to account over deaths as fears of ethnic killings increase 
 
 ### [A Palestinian sniper kills a Bedouin laborer who was repairing the Israeli fence surrounding Gaza; following this, the Israeli Military attacked targets in Gaza with airstrikes and ground forces, killing at least one Palestinian three-year-old child and wounding several others.](/news/2013/12/24/a-palestinian-sniper-kills-a-bedouin-laborer-who-was-repairing-the-israeli-fence-surrounding-gaza-following-this-the-israeli-military-atta.md)

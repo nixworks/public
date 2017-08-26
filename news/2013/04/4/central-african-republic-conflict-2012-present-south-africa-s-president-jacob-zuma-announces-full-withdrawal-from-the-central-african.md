@@ -1,6 +1,6 @@
 ### [2013-04-4](/news/2013/04/4/index.md)
 
-# Central African Republic conflict (2012-present):. South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. 
+# Central African Republic conflict (2012-present):: South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. 
 
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 

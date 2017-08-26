@@ -1,18 +1,18 @@
 ## [2016-05-20](/news/2016/05/20/index.md)
 
-### [Iraqi civil war (2014-present). Ar-Rutbah offensive (2016). Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-civil-war-2014-present-ar-rutbah-offensive-2016-iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of.md)
+### [Iraqi civil war (2014-present): Ar-Rutbah offensive (2016): Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-civil-war-2014-present-ar-rutbah-offensive-2016-iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of.md)
 US military officials say the small town in the country&#39;s southwestern region retaken with little resistance from ISIL.
 
-### [Abkhaz-Georgian conflict. Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/abkhaz-georgian-conflict-georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-g.md)
+### [Abkhaz-Georgian conflict: Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/abkhaz-georgian-conflict-georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-g.md)
 _Context: Abkhaz-Georgian conflict, Abkhazia, Georgian, Ministry of Foreign Affairs, Russian Armed Forces_
 
-### [Shortages in Venezuela. Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/shortages-in-venezuela-coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md)
+### [Shortages in Venezuela: Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/shortages-in-venezuela-coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md)
 _Context: Coca-Cola FEMSA, Shortages in Venezuela, Venezuela_
 
-### [2016 Sri Lankan floods. Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/2016-sri-lankan-floods-two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worse.md)
+### [2016 Sri Lankan floods: Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. ](/news/2016/05/20/2016-sri-lankan-floods-two-hundred-thousand-people-flee-the-sri-lankan-capital-colombo-as-floods-caused-by-several-days-of-heavy-rain-worse.md)
 Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday to escape monster floods in the capital Colombo as officials said half a million people had fled their homes across the island. The heaviest rains in a quarter of a century have pounded Sri Lanka since last weekend, trig...
 
-### [EgyptAir Flight 804. Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptair-flight-804-egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-29.md)
+### [EgyptAir Flight 804: Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptair-flight-804-egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-29.md)
 _Context: Alexandria, EgyptAir Flight 804, Egyptian military, Mediterranean Sea_
 
 ### [Temperatures soar to a record 51|C|F in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md)
@@ -21,19 +21,19 @@ _Context: India, Rajasthan, heatwave_
 ### [At least four National Gendarmerie officers are killed in a helicopter crash in Hautes-Pyrenees, in southwestern France. ](/news/2016/05/20/at-least-four-national-gendarmerie-officers-are-killed-in-a-helicopter-crash-in-hautes-pyra-c-na-c-es-in-southwestern-france.md)
 The helicopter crashed in the Hautes-Pyrénées, the French army said on Friday. 
 
-### [List of earthquakes in Australia. The United States Geological Survey (USGS) reports a magnitude 5.9 earthquake strikes the southern part of the Northern Territory in central Australia. No damage or injuries are reported. ](/news/2016/05/20/list-of-earthquakes-in-australia-the-united-states-geological-survey-usgs-reports-a-magnitude-5-9-earthquake-strikes-the-southern-part-of.md)
+### [List of earthquakes in Australia: The United States Geological Survey (USGS) reports a magnitude 5.9 earthquake strikes the southern part of the Northern Territory in central Australia. No damage or injuries are reported. ](/news/2016/05/20/list-of-earthquakes-in-australia-the-united-states-geological-survey-usgs-reports-a-magnitude-5-9-earthquake-strikes-the-southern-part-of.md)
 A 5.9 magnitude earthquake struck central Australia early on Saturday, the U.S. Geological Survey said.
 
-### [Zika virus outbreak (2015 - present). The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united.md)
+### [Zika virus outbreak (2015 - present): The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/zika-virus-outbreak-2015-present-the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united.md)
 More than 270 pregnant women in the U.S. are also infected with the Zika virus, and are worrying about whether their babies will suffer birth defects.
 
-### [Accession of Montenegro to NATO. The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. ](/news/2016/05/20/accession-of-montenegro-to-nato-the-kremlin-condemns-nato-s-membership-invitation-to-montenegro-warning-the-step-risks-fueling-geopolitica.md)
+### [Accession of Montenegro to NATO: The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. ](/news/2016/05/20/accession-of-montenegro-to-nato-the-kremlin-condemns-nato-s-membership-invitation-to-montenegro-warning-the-step-risks-fueling-geopolitica.md)
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
 
-### [War in Afghanistan (2015-present). NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/war-in-afghanistan-2015-present-nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance.md)
+### [War in Afghanistan (2015-present): NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/war-in-afghanistan-2015-present-nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance.md)
 _Context: Afghanistan's, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
 
-### [Efforts to impeach Barack Obama. The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md)
+### [Efforts to impeach Barack Obama: The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md)
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, United States Congress_
 
 ### [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md)
@@ -51,7 +51,7 @@ _Context: Israel, Moshe Ya'alon_
 ### [ The Oklahoma legislature passes a bill that would make it a felony for doctors to perform abortions and revokes the medical license of assisting physicians. The governor then vetoes the bill. ](/news/2016/05/20/the-oklahoma-legislature-passes-a-bill-that-would-make-it-a-felony-for-doctors-to-perform-abortions-and-revokes-the-medical-license-of-assi.md)
 Gov. Mary Fallin (R) has not said if she plans to sign the bill.
 
-### [ 2015-16 Iraqi protests. Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/2015-16-iraqi-protests-iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad.md)
+### [ 2015-16 Iraqi protests: Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/2015-16-iraqi-protests-iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad.md)
 Iraqi security forces fired tear gas, water cannons and live ammunition as protesters stormed Baghdad’s center of government Friday, escalating weekly protests against the slow pace of change under Prime Minister Haidar al-Abadi.
 
 ## [Previous Day...](/news/2016/05/19/index.md)

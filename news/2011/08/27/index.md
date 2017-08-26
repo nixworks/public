@@ -3,7 +3,7 @@
 ### [Dozens of dead bodies are found at the Abu Salim Hospital in Tripoli which had been abandoned by medical staff earlier in the week when it came under heavy gunfire. ](/news/2011/08/27/dozens-of-dead-bodies-are-found-at-the-abu-salim-hospital-in-tripoli-which-had-been-abandoned-by-medical-staff-earlier-in-the-week-when-it-c.md)
 _Context: Abu Salim, Tripoli, heavy gunfire_
 
-### [Hurricane Irene:. At least 65 million people on the East Coast of the United States will be in the direct path of Hurricane Irene over the next few days. ](/news/2011/08/27/hurricane-irene-at-least-65-million-people-on-the-east-coast-of-the-united-states-will-be-in-the-direct-path-of-hurricane-irene-over-the-n.md)
+### [Hurricane Irene:: At least 65 million people on the East Coast of the United States will be in the direct path of Hurricane Irene over the next few days. ](/news/2011/08/27/hurricane-irene-at-least-65-million-people-on-the-east-coast-of-the-united-states-will-be-in-the-direct-path-of-hurricane-irene-over-the-n.md)
 AN elderly Bronx man whose body was found floating at a City Island marina just hours after Hurricane Irene tore through the area may be the only New York City fatality related to the monster storm, authorities said.
 
 ### [The Parliament of India debates the Jan Lokpal anti-corruption legislation, prompted in part by an ongoing hunger strike by social activist Anna Hazare. ](/news/2011/08/27/the-parliament-of-india-debates-the-jan-lokpal-anti-corruption-legislation-prompted-in-part-by-an-ongoing-hunger-strike-by-social-activist.md)

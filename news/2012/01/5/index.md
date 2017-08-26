@@ -1,9 +1,9 @@
 ## [2012-01-5](/news/2012/01/5/index.md)
 
-### [2011-2012 Syrian uprising:. 552 political detainees are released by the government. ](/news/2012/01/5/2011-2012-syrian-uprising-552-political-detainees-are-released-by-the-government.md)
+### [2011-2012 Syrian uprising:: 552 political detainees are released by the government. ](/news/2012/01/5/2011-2012-syrian-uprising-552-political-detainees-are-released-by-the-government.md)
 Syrian authorities have released 552 people detained during the 10-month revolt against the rule of President Bashar al-Assad, Syrian state television said on Thursday.
 
-### [Nigeria:. Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-bombs-explode-in-two-northern-nigerian-cities.md)
+### [Nigeria:: Bombs explode in two northern Nigerian cities. ](/news/2012/01/5/nigeria-bombs-explode-in-two-northern-nigerian-cities.md)
 A pastor in north-eastern Nigeria says gunmen have killed six people in an attack on his church, amid renewed sectarian violence in the country.
 
 ### [Iraqi insurgency: A series of explosions occur in mainly Shia Muslim neighbourhoods of Baghdad and in the city of Nasiriyah, with at least 73 killed and 149 wounded. ](/news/2012/01/5/iraqi-insurgency-a-series-of-explosions-occur-in-mainly-shia-muslim-neighbourhoods-of-baghdad-and-in-the-city-of-nasiriyah-with-at-least-7.md)

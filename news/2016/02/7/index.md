@@ -1,6 +1,6 @@
 ## [2016-02-7](/news/2016/02/7/index.md)
 
-### [2016 Taiwan earthquake. The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/2016-taiwan-earthquake-the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed.md)
+### [2016 Taiwan earthquake: The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/2016-taiwan-earthquake-the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed.md)
 The death toll from Saturday’s earthquake rose to 29 by press time last night as rescuers continued to comb the debris of a toppled building in Tainan’s Yongkang District (永康) for survivors and victims.
 
 ### [A man is killed and three other employees are injured following a suspected meteorite strike in a garden outside the Bharathidasan Engineering College in Tamil Nadu, India. Witnesses say they saw a mysterious object fall from the sky. If confirmed, this would be the first recorded fatality from a meteorite strike. ](/news/2016/02/7/a-man-is-killed-and-three-other-employees-are-injured-following-a-suspected-meteorite-strike-in-a-garden-outside-the-bharathidasan-engineeri.md)
@@ -9,10 +9,10 @@ The explosion created a small crater near the building complex.
 ### [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md)
 _Context: Atlanta, Georgia, explosion, feed mill_
 
-### [North Korea and weapons of mass destruction. North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md)
+### [North Korea and weapons of mass destruction: North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for.md)
 min Park and Louis Charbonneau
 
-### [Syrian Civil War. Foreign involvement in the Syrian Civil War. The United Arab Emirates (UAE) says it is ready to deploy ground troops to Syria as part of an international coalition to fight against the Islamic State of Iraq and the Levant, if said coalition was led by the United States. ](/news/2016/02/7/syrian-civil-war-foreign-involvement-in-the-syrian-civil-war-the-united-arab-emirates-uae-says-it-is-ready-to-deploy-ground-troops-to-sy.md)
+### [Syrian Civil War: Foreign involvement in the Syrian Civil War: The United Arab Emirates (UAE) says it is ready to deploy ground troops to Syria as part of an international coalition to fight against the Islamic State of Iraq and the Levant, if said coalition was led by the United States. ](/news/2016/02/7/syrian-civil-war-foreign-involvement-in-the-syrian-civil-war-the-united-arab-emirates-uae-says-it-is-ready-to-deploy-ground-troops-to-sy.md)
 Announcement comes after Syria issues threat, warning to send back any unwelcome foreign troops &quot;in coffins&quot;.
 
 ### [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md)

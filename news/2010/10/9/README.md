@@ -9,10 +9,10 @@ _Context: Chhattisgarh, Mahasamund, naxal_
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
 _Context: Afghanistan's, Farah Province_
 
-### [Violence in England:. Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/violence-in-england-riot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men.md)
+### [Violence in England:: Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/violence-in-england-riot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men.md)
 Thirteen men are arrested as demonstrators stage two protests in Leicester, sparking the biggest police operation in the county for 25 years.
 
-### [Death of Linda Norgrove:. The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md)
+### [Death of Linda Norgrove:: The death of Linda Norgrove occurs during a botched rescue attempt by the United States in Afghanistan. ](/news/2010/10/9/death-of-linda-norgrove-the-death-of-linda-norgrove-occurs-during-a-botched-rescue-attempt-by-the-united-states-in-afghanistan.md)
 David Cameron defends a failed rescue attempt by US forces in Afghanistan during which a British hostage was killed by her captors.
 
 ### [Gunmen in southwestern Pakistan near the town of Sibi set fire to more than 20 oil tanker trucks carrying fuel for NATO forces in Afghanistan. ](/news/2010/10/9/gunmen-in-southwestern-pakistan-near-the-town-of-sibi-set-fire-to-more-than-20-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanista.md)
@@ -30,10 +30,10 @@ Warner Bros Studios says it is cancelling the 3D conversion of the next Harry Po
 ### [Silicon Valley Bank (SVB) has signed a series of cooperative framework agreements with the Shanghai Financial Office. ](/news/2010/10/9/silicon-valley-bank-svb-has-signed-a-series-of-cooperative-framework-agreements-with-the-shanghai-financial-office.md)
 _Context: Financial Office, Shanghai, Silicon Valley Bank_
 
-### [Ajka alumina plant accident:. The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md)
+### [Ajka alumina plant accident:: The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/ajka-alumina-plant-accident-the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md)
 Hungarian authorities evacuate the village of Kolontar amid fears of a second wave of red toxic sludge.
 
-### [2010 Copiapo mining accident:. A drill reaches the underground chamber where the 33 trapped miners reside. Wild celebrations occur. Rescue efforts are scheduled to begin within days. ](/news/2010/10/9/2010-copiapa3-mining-accident-a-drill-reaches-the-underground-chamber-where-the-33-trapped-miners-reside-wild-celebrations-occur-rescue.md)
+### [2010 Copiapo mining accident:: A drill reaches the underground chamber where the 33 trapped miners reside. Wild celebrations occur. Rescue efforts are scheduled to begin within days. ](/news/2010/10/9/2010-copiapa3-mining-accident-a-drill-reaches-the-underground-chamber-where-the-33-trapped-miners-reside-wild-celebrations-occur-rescue.md)
 Rescuers drill right through to the underground chamber where 33 miners are trapped in Chile, sparking celebrations on the surface.
 
 ### [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry "Lisco Gloria", en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada-af.md)

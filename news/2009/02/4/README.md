@@ -1,12 +1,12 @@
 ## [2009-02-4](/news/2009/02/4/index.md)
 
-### [ 2008-2009 Israel-Gaza conflict:. An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md)
+### [ 2008-2009 Israel-Gaza conflict:: An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. ](/news/2009/02/4/2008-2009-israel-gaza-conflict-an-israel-defense-force-investigation-concludes-that-the-attack-on-izzeldin-abuelaish-was-reasonable.md)
 _Context: Izzeldin Abuelaish, an officer, negotiate_
 
-### [ Late 2000s recession. The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/late-2000s-recession-the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope.md)
+### [ Late 2000s recession: The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. ](/news/2009/02/4/late-2000s-recession-the-united-states-treasury-moves-to-broaden-its-debt-ranging-options-to-raise-the-trillions-of-dollars-needed-to-cope.md)
 The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to raise trillions of dollars needed to cope with a deepening recession and the worst financial crisis since the Great Depression.
 
-### [ Russian financial crisis of 2008-2009:. Fitch Ratings downgrades Russia's long-term foreign and local currency ratings to BBB and places its outlook on negative. ](/news/2009/02/4/russian-financial-crisis-of-2008-2009-fitch-ratings-downgrades-russia-s-long-term-foreign-and-local-currency-ratings-to-bbb-and-places-it.md)
+### [ Russian financial crisis of 2008-2009:: Fitch Ratings downgrades Russia's long-term foreign and local currency ratings to BBB and places its outlook on negative. ](/news/2009/02/4/russian-financial-crisis-of-2008-2009-fitch-ratings-downgrades-russia-s-long-term-foreign-and-local-currency-ratings-to-bbb-and-places-it.md)
 _Context: Fitch Ratings, Russia, Russian financial crisis of 2008-2009_
 
 ### [ Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. ](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more-than-80-suicide-bombers-is-arrested-in-iraq.md)

@@ -1,6 +1,6 @@
 ### [2008-11-17](/news/2008/11/17/index.md)
 
-#  Global financial crisis of 2008:. Citigroup will cut 75,000 jobs by early 2009. 
+#  Global financial crisis of 2008:: Citigroup will cut 75,000 jobs by early 2009. 
 
 
 
@@ -14,7 +14,7 @@
 
 ### Related:
 
-1. [ Global financial crisis of 2008:. Citigroup receives US$32 billion from the United States Emergency Economic Stabilization Act. ](/news/2008/11/24/global-financial-crisis-of-2008-citigroup-receives-us-32-billion-from-the-united-states-emergency-economic-stabilization-act.md) _Context: Citigroup, Global financial crisis of 2008_
+1. [ Global financial crisis of 2008:: Citigroup receives US$32 billion from the United States Emergency Economic Stabilization Act. ](/news/2008/11/24/global-financial-crisis-of-2008-citigroup-receives-us-32-billion-from-the-united-states-emergency-economic-stabilization-act.md) _Context: Citigroup, Global financial crisis of 2008_
 2. [German tax authorities are investigating Citigroup over its use of a "dividend stripping" strategy, which allowed both the buyer and seller of a stock to claim the tax credits. ](/news/2016/03/22/german-tax-authorities-are-investigating-citigroup-over-its-use-of-a-dividend-stripping-strategy-which-allowed-both-the-buyer-and-seller.md) _Context: Citigroup_
 3. [In New York City, U.S. district court judge Thomas Griesa expands the force of his existing remedial rulings in the ongoing litigation over the Argentine debt restructuring, blocking planned bond payments by Citigroup. The Citigroup processing of payments would violate a requirement that Argentina treat bondholders equally. ](/news/2015/03/12/in-new-york-city-u-s-district-court-judge-thomas-griesa-expands-the-force-of-his-existing-remedial-rulings-in-the-ongoing-litigation-over.md) _Context: Citigroup_
 4. [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md) _Context: Citigroup_

@@ -1,6 +1,6 @@
 ### [2009-09-12](/news/2009/09/12/index.md)
 
-#  2009 Sierra Leone shipwreck:. 120 of the dead are buried. 
+#  2009 Sierra Leone shipwreck:: 120 of the dead are buried. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 

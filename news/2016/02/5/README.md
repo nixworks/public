@@ -1,15 +1,15 @@
 ## [2016-02-5](/news/2016/02/5/index.md)
 
-### [Syrian Civil War. The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/syrian-civil-war-the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md)
+### [Syrian Civil War: The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/syrian-civil-war-the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md)
 Some 15,000 Syrians are massed at the Turkish border after fleeing a government offensive in Aleppo, the UN and Turkey say.
 
-### [Northern Mali conflict. The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md)
+### [Northern Mali conflict: The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md)
 Malian troops backed by U.N. helicopters stormed a U.N. police base in the city of Timbuktu and recaptured it from suspected Islamist militants who had seized it hours before Friday, the United Nations said
 
-### [War in Somalia. al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/war-in-somalia-al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
+### [War in Somalia: al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/war-in-somalia-al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
 _Context: African Union, Merca, Somali military, War in Somalia, al-Shabaab militants_
 
-### [Libyan Civil War (2014-present). Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/libyan-civil-war-2014-present-clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around.md)
+### [Libyan Civil War (2014-present): Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/libyan-civil-war-2014-present-clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around.md)
 Two days of clashes in southeastern Libya between a local armed faction and Sudanese fighters have left more than 30 people dead, a local mayor said on Friday.
 
 ### [The new president of Argentina, Mauricio Macri, makes a $6.5 billion cash offer to holdout creditors to settle liabilities arising out of a 2002 default. ](/news/2016/02/5/the-new-president-of-argentina-mauricio-macri-makes-a-6-5-billion-cash-offer-to-holdout-creditors-to-settle-liabilities-arising-out-of-a.md)
@@ -33,7 +33,7 @@ Scores of South African miners have been rescued and three workers missing in go
 ### [At least 13 killed in a hotel fire in Erbil, Iraq. All of the victims are Filipino workers. ](/news/2016/02/5/at-least-13-killed-in-a-hotel-fire-in-erbil-iraq-all-of-the-victims-are-filipino-workers.md)
 The Philippine Embassy in Baghdad, Iraq has identified all 13 overseas Filipino workers (OFWs) killed in a hotel fire in Erbil, Iraq on Friday (February 5). It said it will do everything it can to bring home the remains as soon as possible.
 
-### [Zika virus outbreak in the Americas (2015-present). Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. ](/news/2016/02/5/zika-virus-outbreak-in-the-americas-2015-present-three-people-die-in-colombia-after-contracting-the-zika-virus-and-developing-guillain.md)
+### [Zika virus outbreak in the Americas (2015-present): Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. ](/news/2016/02/5/zika-virus-outbreak-in-the-americas-2015-present-three-people-die-in-colombia-after-contracting-the-zika-virus-and-developing-guillain.md)
 Colombia said Friday that three people had died after contracting the Zika virus and developing a rare nerve disorder called Guillain-Barre, the first time health officials have directly blamed the mosquito-borne disease for causing deaths
 
 ### [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md)

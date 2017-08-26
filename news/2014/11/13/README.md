@@ -1,15 +1,15 @@
 ## [2014-11-13](/news/2014/11/13/index.md)
 
-### [Islamist insurgency in Nigeria:. The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-the-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md)
+### [Islamist insurgency in Nigeria:: The Nigerian-based militant group seizes control of the northeastern town of Chibok, Borno State. ](/news/2014/11/13/islamist-insurgency-in-nigeria-the-nigerian-based-militant-group-seizes-control-of-the-northeastern-town-of-chibok-borno-state.md)
 Boko Haram militants seize Chibok, the north-eastern Nigerian town from which they abducted more than 200 schoolgirls this year, residents say.
 
-### [Ebola virus epidemic in West Africa. The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/ebola-virus-epidemic-in-west-africa-the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west.md)
+### [Ebola virus epidemic in West Africa: The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/ebola-virus-epidemic-in-west-africa-the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west.md)
 _Context: Ebola virus epidemic in West Africa, Guinea, Liberia, Sierra Leone, West Africa, World Health Organization_
 
-### [Malaysia Airlines Flight 17. The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md)
+### [Malaysia Airlines Flight 17: The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md)
 _Context: Malaysia Airlines Flight 17_
 
-### [United Nations. Cuba defends North Korea by circulating an amendment to a European-Japanese draft resolution recommending the referral of North Korea to the International Criminal Court for crimes against humanity. ](/news/2014/11/13/united-nations-cuba-defends-north-korea-by-circulating-an-amendment-to-a-european-japanese-draft-resolution-recommending-the-referral-of-no.md)
+### [United Nations: Cuba defends North Korea by circulating an amendment to a European-Japanese draft resolution recommending the referral of North Korea to the International Criminal Court for crimes against humanity. ](/news/2014/11/13/united-nations-cuba-defends-north-korea-by-circulating-an-amendment-to-a-european-japanese-draft-resolution-recommending-the-referral-of-no.md)
 Cuba, which was involved in a violation of U.N. sanctions against North Korea last year, has come to the aid of Pyongyang to defend it against a Western-led push to bring its alleged human rights abuses to The Hague, envoys said on Wednesday.
 
 ### [A doctor is arrested, believed responsible for the deaths of 13 women in a state-run sterilization clinic in Chhattisgarh, India. ](/news/2014/11/13/a-doctor-is-arrested-believed-responsible-for-the-deaths-of-13-women-in-a-state-run-sterilization-clinic-in-chhattisgarh-india.md)
@@ -21,7 +21,7 @@ _Context: Switzerland_
 ### [A United States Secret Service report outlines numerous security failures that enabled Omar Gonzalez to enter the White House. ](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.md)
 Layer after layer of measures that were supposed to block an intruder all failed in stunning succession.
 
-### [Comet landing. The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P/Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landing-the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-picture.md)
+### [Comet landing: The Philae landing craft is now "stable" after bouncing hundreds of metres from its initial touchdown, and is sending pictures from the surface of the comet 67P/Churyumov-Gerasimenko. ](/news/2014/11/13/comet-landing-the-philae-landing-craft-is-now-stable-after-bouncing-hundreds-of-metres-from-its-initial-touchdown-and-is-sending-picture.md)
 After a historic but awkward comet landing, the robot probe Philae is now stable and sending pictures - but faces concerns about its battery life.
 
 ## [Previous Day...](/news/2014/11/12/index.md)

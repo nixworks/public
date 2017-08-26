@@ -1,6 +1,6 @@
 ### [2015-07-9](/news/2015/07/9/index.md)
 
-# 7th BRICS summit. The event is concluded. 
+# 7th BRICS summit: The event is concluded. 
 
 
 

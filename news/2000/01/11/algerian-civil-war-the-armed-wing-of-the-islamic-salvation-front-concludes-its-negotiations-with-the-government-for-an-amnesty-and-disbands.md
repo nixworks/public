@@ -1,6 +1,6 @@
 ### [2000-01-11](/news/2000/01/11/index.md)
 
-# Algerian Civil War. The armed wing of the Islamic Salvation Front concludes its negotiations with the government for an amnesty and disbands in Algeria.
+# Algerian Civil War: The armed wing of the Islamic Salvation Front concludes its negotiations with the government for an amnesty and disbands in Algeria.
 
 
 

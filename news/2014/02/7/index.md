@@ -1,6 +1,6 @@
 ## [2014-02-7](/news/2014/02/7/index.md)
 
-### [Syrian Civil War:. Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-civilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-bl.md)
+### [Syrian Civil War:: Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade. ](/news/2014/02/7/syrian-civil-war-civilians-are-evacuated-from-a-rebel-held-area-of-the-syrian-city-of-homs-after-more-than-18-months-under-a-government-bl.md)
 The evacuations raise hopes ahed of a second round of peace talks
 
 ### [The last speaker of the Native American language Klallam dies in the U.S. state of Washington. ](/news/2014/02/7/the-last-speaker-of-the-native-american-language-klallam-dies-in-the-u-s-state-of-washington.md)

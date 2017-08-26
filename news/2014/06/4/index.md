@@ -1,6 +1,6 @@
 ## [2014-06-4](/news/2014/06/4/index.md)
 
-### [2014 pro-Russian conflict in Ukraine:. Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-reb.md)
+### [2014 pro-Russian conflict in Ukraine:: Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-reb.md)
 Separatist rebels take Ukrainian military bases in the eastern region of Luhansk as fighting continues near the rebel-held town of Sloviansk.
 
 ### [A suicide car bomber detonates his vehicle at the residence of Khalifa Haftar in Benghazi, Libya, killing 4 of his guards and injuring another 3. ](/news/2014/06/4/a-suicide-car-bomber-detonates-his-vehicle-at-the-residence-of-khalifa-haftar-in-benghazi-libya-killing-4-of-his-guards-and-injuring-anoth.md)

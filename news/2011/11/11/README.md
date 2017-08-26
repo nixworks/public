@@ -1,6 +1,6 @@
 ## [2011-11-11](/news/2011/11/11/index.md)
 
-### [Arab Spring:. 2011 Syrian uprising: 250 Syrians, mostly civilians, have been killed so far this month, as the violence escalates in Syria's eight-month-old crackdown on pro-democracy protests and attacks on security forces increase. ](/news/2011/11/11/arab-spring-2011-syrian-uprising-250-syrians-mostly-civilians-have-been-killed-so-far-this-month-as-the-violence-escalates-in-syria-s.md)
+### [Arab Spring:: 2011 Syrian uprising: 250 Syrians, mostly civilians, have been killed so far this month, as the violence escalates in Syria's eight-month-old crackdown on pro-democracy protests and attacks on security forces increase. ](/news/2011/11/11/arab-spring-2011-syrian-uprising-250-syrians-mostly-civilians-have-been-killed-so-far-this-month-as-the-violence-escalates-in-syria-s.md)
 Activists say more than 250 Syrians have been killed so far this month as the political unrest escalates dramatically. 
 
 ### [An armed hijacker claiming to have a bomb takes control of a ferry on the Sea of Marmara near the Turkish port of Izmit but is later killed by the Turkish military. ](/news/2011/11/11/an-armed-hijacker-claiming-to-have-a-bomb-takes-control-of-a-ferry-on-the-sea-of-marmara-near-the-turkish-port-of-izmit-but-is-later-killed.md)

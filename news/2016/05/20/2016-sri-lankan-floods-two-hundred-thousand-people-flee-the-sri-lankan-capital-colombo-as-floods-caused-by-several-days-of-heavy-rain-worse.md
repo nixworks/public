@@ -1,6 +1,6 @@
 ### [2016-05-20](/news/2016/05/20/index.md)
 
-# 2016 Sri Lankan floods. Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. 
+# 2016 Sri Lankan floods: Two hundred thousand people flee the Sri Lankan capital Colombo as floods caused by several days of heavy rain worsen. 
 
 Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday to escape monster floods in the capital Colombo as officials said half a million people had fled their homes across the island. The heaviest rains in a quarter of a century have pounded Sri Lanka since last weekend, triggering
 

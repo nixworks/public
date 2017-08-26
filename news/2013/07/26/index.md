@@ -1,6 +1,6 @@
 ## [2013-07-26](/news/2013/07/26/index.md)
 
-### [Aftermath of the 2013 Egyptian coup d'tat:. Mass rival demonstrations are held across Egypt three weeks after Mohamed Morsi was deposed as president in a military coup d'tat. At least eight people die and hundreds are injured in violence during the rallies. ](/news/2013/07/26/aftermath-of-the-2013-egyptian-coup-d-etat-mass-rival-demonstrations-are-held-across-egypt-three-weeks-after-mohamed-morsi-was-deposed-as.md)
+### [Aftermath of the 2013 Egyptian coup d'tat:: Mass rival demonstrations are held across Egypt three weeks after Mohamed Morsi was deposed as president in a military coup d'tat. At least eight people die and hundreds are injured in violence during the rallies. ](/news/2013/07/26/aftermath-of-the-2013-egyptian-coup-d-etat-mass-rival-demonstrations-are-held-across-egypt-three-weeks-after-mohamed-morsi-was-deposed-as.md)
 Millions attend rival rallies; fighting begins after pro-military protesters burn pictures of ousted president Mohammed Morsi
 
 ### [At least 57 people are killed in a marketplace bombing in Parachinar, Pakistan. ](/news/2013/07/26/at-least-57-people-are-killed-in-a-marketplace-bombing-in-parachinar-pakistan.md)

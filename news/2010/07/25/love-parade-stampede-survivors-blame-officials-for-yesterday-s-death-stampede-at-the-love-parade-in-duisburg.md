@@ -1,6 +1,6 @@
 ### [2010-07-25](/news/2010/07/25/index.md)
 
-# Love Parade stampede:. Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. 
+# Love Parade stampede:: Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. 
 
 Survivors of a stampede at a dance music festival in Germany, in which 19 people were killed, blame organisers for the deaths.
 

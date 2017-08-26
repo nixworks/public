@@ -1,6 +1,6 @@
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-# Disappearance of Ai Weiwei:. Concern grows as Ai Weiwei, who has criticised his country's human rights record, fails to reappear more than 24 hours after his disappearance by guards at Beijing Airport. Police issue no comment, though they have since raided his studio. 
+# Disappearance of Ai Weiwei:: Concern grows as Ai Weiwei, who has criticised his country's human rights record, fails to reappear more than 24 hours after his disappearance by guards at Beijing Airport. Police issue no comment, though they have since raided his studio. 
 
 The Chinese authorities are refusing to comment on the whereabouts of artist Ai Weiwei a day after he was detained trying to board a flight to Hong Kong.
 

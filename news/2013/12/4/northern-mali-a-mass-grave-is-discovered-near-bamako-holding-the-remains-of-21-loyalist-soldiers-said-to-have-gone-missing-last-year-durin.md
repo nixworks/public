@@ -1,6 +1,6 @@
 ### [2013-12-4](/news/2013/12/4/index.md)
 
-# Northern Mali:. A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. 
+# Northern Mali:: A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. 
 
 Twenty-one skulls believed to be the remains of soldiers loyal to ousted former president Amadou Toumani Toure.
 

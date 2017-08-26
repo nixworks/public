@@ -1,6 +1,6 @@
 ## [2014-12-12](/news/2014/12/12/index.md)
 
-### [Sony Pictures Entertainment hack. Sony Pictures Entertainment reportedly shuts production on several sets because of computer network issues regarding employee disbursement of pay following a massive computer hack. ](/news/2014/12/12/sony-pictures-entertainment-hack-sony-pictures-entertainment-reportedly-shuts-production-on-several-sets-because-of-computer-network-issues.md)
+### [Sony Pictures Entertainment hack: Sony Pictures Entertainment reportedly shuts production on several sets because of computer network issues regarding employee disbursement of pay following a massive computer hack. ](/news/2014/12/12/sony-pictures-entertainment-hack-sony-pictures-entertainment-reportedly-shuts-production-on-several-sets-because-of-computer-network-issues.md)
 Sony Pictures has abandoned film shoots because hackers have crippled its computer network, The Times of London reported Saturday.
 
 ### [Thousands of Italians take to the streets in 50 cities as part of a general strike protesting new labour laws. ](/news/2014/12/12/thousands-of-italians-take-to-the-streets-in-50-cities-as-part-of-a-general-strike-protesting-new-labour-laws.md)

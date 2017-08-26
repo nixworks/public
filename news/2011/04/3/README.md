@@ -1,15 +1,15 @@
 ## [2011-04-3](/news/2011/04/3/index.md)
 
-### [2011 Bahraini protests:. Authorities ban the publication of the main opposition paper "Al Wasat". ](/news/2011/04/3/2011-bahraini-protests-authorities-ban-the-publication-of-the-main-opposition-paper-al-wasat.md)
+### [2011 Bahraini protests:: Authorities ban the publication of the main opposition paper "Al Wasat". ](/news/2011/04/3/2011-bahraini-protests-authorities-ban-the-publication-of-the-main-opposition-paper-al-wasat.md)
 _Context: 2011 Bahraini protests, Al Wasat_
 
-### [2011 Libyan civil war:. Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md)
+### [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md)
 Rebel forces fail to take oil town of Brega after a fourth straight day of fighting, despite overnight air strikes.
 
-### [2011 Syrian protests:. Syria tightens security to crack down on anti-government protests. ](/news/2011/04/3/2011-syrian-protests-syria-tightens-security-to-crack-down-on-anti-government-protests.md)
+### [2011 Syrian protests:: Syria tightens security to crack down on anti-government protests. ](/news/2011/04/3/2011-syrian-protests-syria-tightens-security-to-crack-down-on-anti-government-protests.md)
 President Bashar Assad issued a decree Sunday appointing Adel Safar, the agricultural minister in the resigned government, to form a new Cabinet. 
 
-### [2011 Yemeni protests:. Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md)
+### [2011 Yemeni protests:: Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md)
 _Context: 2011 Yemeni protests_
 
 ### [At least 40 people are dead and 100 injured following a Taliban suicide bomb on a Sufi Muslim shrine in Pakistan. ](/news/2011/04/3/at-least-40-people-are-dead-and-100-injured-following-a-taliban-suicide-bomb-on-a-sufi-muslim-shrine-in-pakistan.md)
@@ -43,7 +43,7 @@ Russian President DmitryMedvedev ordered Prime Minister Vladimir Putin to &quot;
 _Context: Foreign Minister of Germany, Free Democrats, Guido Westerwelle_
 
 ### [Among the rising concerns about the water quality in Hanoi's Hoan Kiem Lake, its giant sacred turtle is captured for study and (possibly) medical treatment. ](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.md)
-_Context: Hanoi, Hoan Kiem Lake, giant sacred turtle, water quality_
+Experts in Hanoi captured a legendary giant turtle for medical treatment on Sunday, a milestone in a case that has grabbed national attention and cast a spotlight on environmental degradation in Vietnam.
 
 ## [Previous Day...](/news/2011/04/2/index.md)
 

@@ -1,15 +1,15 @@
 ## [2015-07-3](/news/2015/07/3/index.md)
 
-### [Syrian Civil War. Turkey deploys additional troops along its border with Syria as fighting intensifies. ](/news/2015/07/3/syrian-civil-war-turkey-deploys-additional-troops-along-its-border-with-syria-as-fighting-intensifies.md)
+### [Syrian Civil War: Turkey deploys additional troops along its border with Syria as fighting intensifies. ](/news/2015/07/3/syrian-civil-war-turkey-deploys-additional-troops-along-its-border-with-syria-as-fighting-intensifies.md)
 Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipment&#x20;along&#x20;part&#x20;of&#x20;its&#x20;border&#x20;with&#x20;Syria&#x20;as&#x20;fighting&#x20;in&#x20;the&#x20;city&#x20;of&#x20;Aleppo&#x20;intensifies,&#x20;security&#x20;sources&#x20;said,&#x20;but&#x20;Prime&#x...
 
-### [Boko Haram insurgency. Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/boko-haram-insurgency-toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md)
+### [Boko Haram insurgency: Toll of Boko Haram massacre in northeastern Nigeria rises to nearly 170.](/news/2015/07/3/boko-haram-insurgency-toll-of-boko-haram-massacre-in-northeastern-nigeria-rises-to-nearly-170.md)
 Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nearly 170 people killed in a wave of attacks that President Muhammadu Buhari has blasted as &quot;inhuman and barbaric&quot;. 
 
-### [2015 Sousse attacks. The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/2015-sousse-attacks-the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in.md)
+### [2015 Sousse attacks: The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/2015-sousse-attacks-the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in.md)
 _Context: 2015 Sousse attacks, Britain, Tunisia_
 
-### [Yemeni Crisis (2011-present). A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/yemeni-crisis-2011-present-a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
+### [Yemeni Crisis (2011-present): A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/yemeni-crisis-2011-present-a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
 _Context: United States, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
@@ -24,13 +24,13 @@ _Context: Brazil, UBS, currency manipulation_
 ### [Six people are dead following an explosion at a chemical plant in Ulsan in South Korea. ](/news/2015/07/3/six-people-are-dead-following-an-explosion-at-a-chemical-plant-in-ulsan-in-south-korea.md)
  Four workers were killed and two remained missing Friday when an explosion occurred at a chemical plant in the southern coastal city of Ulsan, fire officials said.
 
-### [2015 Pacific typhoon season. Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/2015-pacific-typhoon-season-typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md)
+### [2015 Pacific typhoon season: Typhoon Chan-hom strengthens as it heads towards the Pacific island of Guam. ](/news/2015/07/3/2015-pacific-typhoon-season-typhoon-chan-hom-strengthens-as-it-heads-towards-the-pacific-island-of-guam.md)
 After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean Peninsula.
 
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
 _Context: China, Pishan County, Xinjiang, earthquake_
 
-### [Sinking of the Kim Nirvana. The death toll from yesterday's capsizing of the M/B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/sinking-of-the-kim-nirvana-the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murd.md)
+### [Sinking of the Kim Nirvana: The death toll from yesterday's capsizing of the M/B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/sinking-of-the-kim-nirvana-the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murd.md)
 At least three more bodies have been recovered from a ferry that capsized in choppy waters in the central Philippines
 
 ### [Research shows that during the Ebola virus epidemic in West Africa, the ReEBOV Antigen Rapid Test, developed by Corgenix, showed promise as a bedside rapid Ebola test, successfully detecting Ebolavirus. ](/news/2015/07/3/research-shows-that-during-the-ebola-virus-epidemic-in-west-africa-the-reebov-antigen-rapid-test-developed-by-corgenix-showed-promise-as.md)
@@ -48,13 +48,13 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 ### [Jeffrey Webb, a former Vice President of FIFA and President of CONCACAF, is reportedly charged with healthcare fraud in his native Cayman Islands. ](/news/2015/07/3/jeffrey-webb-a-former-vice-president-of-fifa-and-president-of-concacaf-is-reportedly-charged-with-healthcare-fraud-in-his-native-cayman-is.md)
 _Context: CONCACAF, Cayman Islands, FIFA, Jeffrey Webb_
 
-### [Danish general election, 2015. Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/danish-general-election-2015-pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
+### [Danish general election, 2015: Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/danish-general-election-2015-pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
 _Context: Danish general election, 2015, Folketing, Pia Kjaersgaard, speaker of the Danish parliament_
 
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
 _Context: Air Force, Mach, Mica Endsley, hypersonic_
 
-### [Solar Impulse project. The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-project-the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavig.md)
+### [Solar Impulse project: The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-project-the-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnavig.md)
 Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii after making a historic 7,200km flight across the Pacific from Japan.
 
 ## [Previous Day...](/news/2015/07/2/index.md)

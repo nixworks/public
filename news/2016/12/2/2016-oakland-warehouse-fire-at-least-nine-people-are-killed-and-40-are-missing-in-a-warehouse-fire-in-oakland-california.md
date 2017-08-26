@@ -1,6 +1,6 @@
 ### [2016-12-2](/news/2016/12/2/index.md)
 
-# 2016 Oakland warehouse fire. At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. 
+# 2016 Oakland warehouse fire: At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. 
 
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.
 
@@ -12,8 +12,8 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 
 ### Related:
 
-1. [2016 Oakland warehouse fire. The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/2016-oakland-warehouse-fire-the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-peopl.md) _Context: 2016 Oakland warehouse fire, Oakland, California_
-2. [2016 Oakland warehouse fire. Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/2016-oakland-warehouse-fire-recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-w.md) _Context: 2016 Oakland warehouse fire, Oakland, California_
+1. [2016 Oakland warehouse fire: The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. ](/news/2016/12/4/2016-oakland-warehouse-fire-the-confirmed-death-toll-in-friday-night-s-warehouse-fire-in-oakland-california-rises-to-33-with-several-peopl.md) _Context: 2016 Oakland warehouse fire, Oakland, California_
+2. [2016 Oakland warehouse fire: Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. ](/news/2016/12/3/2016-oakland-warehouse-fire-recovery-efforts-continue-in-the-us-city-of-oakland-california-after-a-fire-at-a-music-party-in-a-converted-w.md) _Context: 2016 Oakland warehouse fire, Oakland, California_
 3. [Asiana Airlines says they will sue Oakland, California television station KTVU for defamation after the station reported the wrong names of the pilots of Asiana Airlines Flight 214. ](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.md) _Context: California, Oakland, California_
 4. [A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. ](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.md) _Context: California, Oakland, California_
 5. [A mass shooting at Oikos University at Oakland, California leaves 7 people dead and three injured, according to a police spokesperson. ](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.md) _Context: California, Oakland, California_
@@ -21,4 +21,4 @@ Police say they are preparing for as many as 40 deaths after a fire breaks out a
 7. [Seven people, including a toddler, are shot while recording a music video in Oakland, California. ](/news/2011/11/29/seven-people-including-a-toddler-are-shot-while-recording-a-music-video-in-oakland-california.md) _Context: California, Oakland, California_
 8. [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md) _Context: California, Oakland, California_
 9. [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md) _Context: California, Oakland, California_
-10. [Sanctuary cities. California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/sanctuary-cities-california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California_
+10. [Sanctuary cities: California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/sanctuary-cities-california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California_

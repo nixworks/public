@@ -1,6 +1,6 @@
 ## [2011-06-4](/news/2011/06/4/index.md)
 
-### [Arab Spring:. NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md)
+### [Arab Spring:: NATO begins using attack helicopters for the first time in air operations over Libya. ](/news/2011/06/4/arab-spring-nato-begins-using-attack-helicopters-for-the-first-time-in-air-operations-over-libya.md)
 Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Arabia, amid uncertainty over whether he will return.
 
 ### [At least seven people are killed in an exchange of fire between pro-government forces and mutineering soldiers in Bobo-Dioulasso, Burkina Faso. ](/news/2011/06/4/at-least-seven-people-are-killed-in-an-exchange-of-fire-between-pro-government-forces-and-mutineering-soldiers-in-bobo-dioulasso-burkina-fa.md)

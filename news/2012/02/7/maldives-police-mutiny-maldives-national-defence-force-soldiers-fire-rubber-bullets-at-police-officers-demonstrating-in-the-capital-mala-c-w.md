@@ -1,6 +1,6 @@
 ### [2012-02-7](/news/2012/02/7/index.md)
 
-# Maldives police mutiny. Maldives National Defence Force soldiers fire rubber bullets at police officers demonstrating in the capital Male who are defying an order by President Mohamed Nasheed to crack down on protests. 
+# Maldives police mutiny: Maldives National Defence Force soldiers fire rubber bullets at police officers demonstrating in the capital Male who are defying an order by President Mohamed Nasheed to crack down on protests. 
 
 Maldives President Mohamed Nasheed resigns after weeks of demonstrations and a mutiny by some police officers.
 

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2017 Pacific typhoon season. At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/2017-pacific-typhoon-season-at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-fo.md) _Context: Macau_
+1. [2017 Pacific typhoon season: At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/2017-pacific-typhoon-season-at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-fo.md) _Context: Macau_
 2. [The Seoul Central District Court fines two South Korean baseball players Seung-hwan Oh and Lim Chang-yong for illegal gambling in Macau. ](/news/2016/01/15/the-seoul-central-district-court-fines-two-south-korean-baseball-players-seung-hwan-oh-and-lim-chang-yong-for-illegal-gambling-in-macau.md) _Context: Macau_
 3. [An Indian TV news anchor at public service broadcaster Doordarshan is fired after she referred to Chinese President Xi Jinping as 'Eleven' Jinping, apparently confusing Xi's name with the Roman numerals XI. ](/news/2014/09/20/an-indian-tv-news-anchor-at-public-service-broadcaster-doordarshan-is-fired-after-she-referred-to-chinese-president-xi-jinping-as-eleven-j.md) _Context: Chinese_
 4. [A high speed ferry in Macau hits a breakwater, injuring 58 people. ](/news/2014/06/13/a-high-speed-ferry-in-macau-hits-a-breakwater-injuring-58-people.md) _Context: Macau_

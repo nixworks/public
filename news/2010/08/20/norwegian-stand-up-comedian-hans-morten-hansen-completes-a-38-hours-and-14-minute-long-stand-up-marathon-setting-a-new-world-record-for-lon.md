@@ -11,6 +11,6 @@
 
 ### Related:
 
-1. [Islamic State of Iraq and the Levant. The Islamic State of Iraq and the Levant says that it has killed a Chinese hostage and a Norwegian hostage. ](/news/2015/11/18/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-says-that-it-has-killed-a-chinese-hostage-and-a-norwegian-hos.md) _Context: Norwegian_
-2. [Moro conflict. Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/moro-conflict-gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md) _Context: Norwegian_
+1. [Islamic State of Iraq and the Levant: The Islamic State of Iraq and the Levant says that it has killed a Chinese hostage and a Norwegian hostage. ](/news/2015/11/18/islamic-state-of-iraq-and-the-levant-the-islamic-state-of-iraq-and-the-levant-says-that-it-has-killed-a-chinese-hostage-and-a-norwegian-hos.md) _Context: Norwegian_
+2. [Moro conflict: Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/moro-conflict-gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md) _Context: Norwegian_
 3. [Five Norwegian soldiers are presumed dead in an aircraft accident in northern Sweden. ](/news/2012/03/15/five-norwegian-soldiers-are-presumed-dead-in-an-aircraft-accident-in-northern-sweden.md) _Context: Norwegian_

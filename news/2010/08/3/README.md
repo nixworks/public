@@ -1,9 +1,9 @@
 ## [2010-08-3](/news/2010/08/3/index.md)
 
-### [Adaisseh incident:. Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md)
+### [Adaisseh incident:: Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md)
 Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in the first serious clash since the 2006 Israel-Hezbollah conflict.
 
-### [Assassination of Raza Haider:. Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md)
+### [Assassination of Raza Haider:: Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md)
 _Context: Karachi, Raza Haider_
 
 ### [Twin explosions kill at least 3 people and injure at least 50 others in a crowded shopping area in Kut, Wasit; women and children are seen bleeding in the streets. ](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.md)
@@ -39,7 +39,7 @@ A letter which describes how Scottish poet Robert Burns was &quot;reduced and sh
 ### [Tokyo's "oldest woman" cannot be located, casting doubts upon her claim to the title. ](/news/2010/08/3/tokyo-s-oldest-woman-cannot-be-located-casting-doubts-upon-her-claim-to-the-title.md)
 _Context: Tokyo_
 
-### [2010 Khyber Pakhtunkhwa floods:. More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md)
+### [2010 Khyber Pakhtunkhwa floods:: More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md)
 Pakistani rescue teams try to reach tens of thousands of people cut off by devastating floods now estimated to have affected 3m people.
 
 ### [Russian wildfires worsen. ](/news/2010/08/3/russian-wildfires-worsen.md)

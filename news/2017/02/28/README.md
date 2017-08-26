@@ -1,9 +1,9 @@
 ## [2017-02-28](/news/2017/02/28/index.md)
 
-### [War in Afghanistan (2015-present). Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/war-in-afghanistan-2015-present-twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-he.md)
+### [War in Afghanistan (2015-present): Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/war-in-afghanistan-2015-present-twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-he.md)
 _Context: Afghan police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
-### [Gaza-Israel conflict. At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md)
+### [Gaza-Israel conflict: At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md)
 At least four Palestinians have reportedly been wounded in Gaza after the Israeli Air Force conducted a series of retaliatory strikes against Hamas after the group allegedly fired a rocket into southern Israel.
 
 ### [The Hershey Company announces it will cut about 15 percent of its global workforce (~2,700 jobs) to return its international businesses to profitability as quickly as possible. The layoffs will have a greater impact on the international workforce. ](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.md)
@@ -18,7 +18,7 @@ The shot was fired as a police sniper shifted position on a roof about 100m from
 ### [Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. ](/news/2017/02/28/twelve-people-are-injured-four-critically-after-an-suv-hits-the-gulf-shores-high-school-band-during-the-gulf-shores-alabama-mardi-gras-p.md)
 A vehicle struck members of a high school marching band during the Mardi Gras parade in Gulf Shores, Alabama. Four teenagers were critically injured, and the parade has been canceled.
 
-### [2016-17 Turkish purges. About 330 people with alleged links to last year's coup attempt stand trial at a prison outside Ankara on charges of murder and attempting to overthrow the government, the largest trial to date. ](/news/2017/02/28/2016-17-turkish-purges-about-330-people-with-alleged-links-to-last-year-s-coup-attempt-stand-trial-at-a-prison-outside-ankara-on-charges.md)
+### [2016-17 Turkish purges: About 330 people with alleged links to last year's coup attempt stand trial at a prison outside Ankara on charges of murder and attempting to overthrow the government, the largest trial to date. ](/news/2017/02/28/2016-17-turkish-purges-about-330-people-with-alleged-links-to-last-year-s-coup-attempt-stand-trial-at-a-prison-outside-ankara-on-charges.md)
 Charges for those allegedly involved in failed July military coup range from murder to trying to overthrow government.
 
 ### [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md)
@@ -30,7 +30,7 @@ Hundreds of right-wing activists gathered in the West Bank settlement of Ofra, a
 ### [The Royal Thai Government has fired Police General Jumpol Manmai for "extremely evil" misconduct and political interests which threatened national security. ](/news/2017/02/28/the-royal-thai-government-has-fired-police-general-jumpol-manmai-for-extremely-evil-misconduct-and-political-interests-which-threatened-na.md)
 _Context: Royal Thai Government_
 
-### [Presidency of Donald Trump. The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/presidency-of-donald-trump-the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md)
+### [Presidency of Donald Trump: The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/presidency-of-donald-trump-the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md)
 _Context: Presidency of Donald Trump, United States military personnel_
 
 ## [Previous Day...](/news/2017/02/27/index.md)

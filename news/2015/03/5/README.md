@@ -3,7 +3,7 @@
 ### [A knife-wielding assailant injures the American ambassador to South Korea, Mark Lippert, in the South Korean capital city of Seoul. Authorities report that the injuries on his face and wrist are not life-threatening. ](/news/2015/03/5/a-knife-wielding-assailant-injures-the-american-ambassador-to-south-korea-mark-lippert-in-the-south-korean-capital-city-of-seoul-authorit.md)
 A militant Korean nationalist slashes the face of the US ambassador to South Korea, with the North calling it a &quot;knife shower of justice&quot;.
 
-### [Iraqi insurgency (2011-present). Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/iraqi-insurgency-2011-present-separate-attacks-in-baghdad-kill-at-least-eight-people.md)
+### [Iraqi insurgency (2011-present): Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/iraqi-insurgency-2011-present-separate-attacks-in-baghdad-kill-at-least-eight-people.md)
 _Context: Baghdad, Iraqi insurgency (2011-present)_
 
 ### [Hong Kong-based luxury hotel chain Mandarin Oriental confirms that credit card data has been stolen in a hack attack on the company's network. ](/news/2015/03/5/hong-kong-based-luxury-hotel-chain-mandarin-oriental-confirms-that-credit-card-data-has-been-stolen-in-a-hack-attack-on-the-company-s-networ.md)
@@ -39,7 +39,7 @@ _Context: Delta Air Lines, LaGuardia Airport, McDonnell Douglas MD-88, New York 
 ### [American actor Harrison Ford is in stable condition after he crash-lands his 1942 Ryan Aeronautical ST3KR single-engine World War II-era training plane at the Penmar Golf Course, in Venice, Los Angeles, California, just west of the Santa Monica Airport. ](/news/2015/03/5/american-actor-harrison-ford-is-in-stable-condition-after-he-crash-lands-his-1942-ryan-aeronautical-st3kr-single-engine-world-war-ii-era-tra.md)
 _Context: California, Harrison Ford, Ryan Aeronautical, Santa Monica Airport, Venice, Los Angeles, World War II_
 
-### [Ebola virus epidemic in West Africa. Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/ebola-virus-epidemic-in-west-africa-liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-n.md)
+### [Ebola virus epidemic in West Africa: Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/ebola-virus-epidemic-in-west-africa-liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-n.md)
 _Context: Ebola, Ebola virus epidemic in West Africa, Liberia, Monrovia_
 
 ### [The manufacturer of a medical instrument for endoscopic procedures, Olympus Corp, lacked US FDA clearance to sell the current version when it caused an outbreak of infections, including two deaths, from an antibiotic-resistant strain of bacteria, "superbug" Carbapenem-resistant enterobacteriaceae, or CRE, at Ronald Reagan UCLA Medical Center between October 2014 and January 2015 (see February 19). ](/news/2015/03/5/the-manufacturer-of-a-medical-instrument-for-endoscopic-procedures-olympus-corp-lacked-us-fda-clearance-to-sell-the-current-version-when-i.md)

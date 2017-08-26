@@ -45,7 +45,7 @@ _Context: U.S. Appeals Court Judge, United States government, embryonic stem cel
 ### [Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. ](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.md)
 _Context: Boston, Massachusetts, Mattapan, shooting spree_
 
-### [43rd Australian Parliament:. The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md)
+### [43rd Australian Parliament:: The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md)
 A traditional smoking ceremony welcomed politicians to Canberra ahead of the official opening of Australia&#039;s 43rd Parliament.
 
 ### [The Workers' Party of Korea conference begins in Pyongyang, North Korea. ](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.md)

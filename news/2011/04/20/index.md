@@ -1,15 +1,15 @@
 ## [2011-04-20](/news/2011/04/20/index.md)
 
-### [2011 Libyan civil war:. Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-renowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md)
+### [2011 Libyan civil war:: Renowned photographers Tim Hetherington and Chris Hondros are killed and four others injured in Misrata. ](/news/2011/04/20/2011-libyan-civil-war-renowned-photographers-tim-hetherington-and-chris-hondros-are-killed-and-four-others-injured-in-misrata.md)
 The Oscar-nominated British filmmaker and photojournalist Tim Hetherington and American war photographer Chris Hondros are killed while covering the fighting in Misrata, Libya.
 
-### [2011 Syrian protests:. Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md)
+### [2011 Syrian protests:: Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md)
 Anti-government activists to continue rallies and strikes despite cabinet approval for bill to scrap emergency laws.
 
-### [2011 Yemeni protests:. The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-the-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss.md)
+### [2011 Yemeni protests:: The United Nations Security Council fails to come up with an agreed public statement at its first meeting to discuss the crisis in Yemen as violence continues. ](/news/2011/04/20/2011-yemeni-protests-the-united-nations-security-council-fails-to-come-up-with-an-agreed-public-statement-at-its-first-meeting-to-discuss.md)
 UN Security Council members call for restraint and dialogue between protesters and authorities in Yemen, but talks on the crisis end without agreement.
 
-### [Second Ivorian Civil War. Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/second-ivorian-civil-war-pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md)
+### [Second Ivorian Civil War: Pro-Ouattara forces attempt to remove remaining militia loyal to deposed President Laurent Gbagbo. ](/news/2011/04/20/second-ivorian-civil-war-pro-ouattara-forces-attempt-to-remove-remaining-militia-loyal-to-deposed-president-laurent-gbagbo.md)
 _Context: Alassane Ouattara, Laurent Gbagbo, Second Ivorian Civil War_
 
 ### [Two prominent Chinese human rights lawyers Jiang Tianyong and Liu Xiaoyuan are released. ](/news/2011/04/20/two-prominent-chinese-human-rights-lawyers-jiang-tianyong-and-liu-xiaoyuan-are-released.md)

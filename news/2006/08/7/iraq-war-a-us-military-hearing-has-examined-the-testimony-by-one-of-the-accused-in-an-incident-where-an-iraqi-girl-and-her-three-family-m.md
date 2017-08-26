@@ -1,6 +1,6 @@
 ### [2006-08-7](/news/2006/08/7/index.md)
 
-#  Iraq War:. A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. 
+#  Iraq War:: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. 
 
 
 

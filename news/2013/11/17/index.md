@@ -1,6 +1,6 @@
 ## [2013-11-17](/news/2013/11/17/index.md)
 
-### [Post-civil war violence in Libya:. Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md)
+### [Post-civil war violence in Libya:: Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/post-civil-war-violence-in-libya-libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md)
 _Context: Libya, Post-civil war violence in Libya, Tripoli International Airport_
 
 ### [British author Doris Lessing, winner of the Nobel Prize for Literature in 2007, dies at the age of 94. ](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.md)
@@ -9,7 +9,7 @@ Doris Lessing, the Nobel Laureate author of The Golden Notebook and The Grass is
 ### [Sony announces they sold one million PlayStation 4 units in the first day. ](/news/2013/11/17/sony-announces-they-sold-one-million-playstation-4-units-in-the-first-day.md)
 PlayStation 4 sales reached the 1 million mark within the console&#039;s first 24 hours at retail, Sony announced this morning. The PS4 launched in North America on...
 
-### [Typhoon Haiyan:. The number of people displaced reaches 1.9 million people. Numbers vary between 1,000-20,000 for estimates about missing people. ](/news/2013/11/17/typhoon-haiyan-the-number-of-people-displaced-reaches-1-9-million-people-numbers-vary-between-1-000-20-000-for-estimates-about-missing-pe.md)
+### [Typhoon Haiyan:: The number of people displaced reaches 1.9 million people. Numbers vary between 1,000-20,000 for estimates about missing people. ](/news/2013/11/17/typhoon-haiyan-the-number-of-people-displaced-reaches-1-9-million-people-numbers-vary-between-1-000-20-000-for-estimates-about-missing-pe.md)
 Flooding in Vietnam has killed at least 28 people since Friday, with nine others missing and nearly 80,000 displaced, state media and government reports said, after a tropical depression dumped heavy rains across central regions of the country.
 
 ### [Fifty people are killed after a passenger Boeing 737 crash lands in the city of Kazan in central Russia. ](/news/2013/11/17/fifty-people-are-killed-after-a-passenger-boeing-737-crash-lands-in-the-city-of-kazan-in-central-russia.md)

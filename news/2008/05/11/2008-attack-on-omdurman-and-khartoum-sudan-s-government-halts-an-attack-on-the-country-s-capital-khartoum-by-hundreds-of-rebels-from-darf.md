@@ -1,6 +1,6 @@
 ### [2008-05-11](/news/2008/05/11/index.md)
 
-#  2008 attack on Omdurman and Khartoum:. Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. 
+#  2008 attack on Omdurman and Khartoum:: Sudan's government halts an attack on the country's capital Khartoum by hundreds of rebels from Darfur. 
 
 
 
@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [ 2008 attack on Omdurman and Khartoum:. Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _Context: 2008 attack on Omdurman and Khartoum, Justice and Equality Movement, Khartoum, Sudan_
+1. [ 2008 attack on Omdurman and Khartoum:: Shootings are reported in Khartoum, Sudan, one day after the rebel attack. Islamist leader Hassan al-Turabi is released from custody after being interrogated by police. ](/news/2008/05/12/2008-attack-on-omdurman-and-khartoum-shootings-are-reported-in-khartoum-sudan-one-day-after-the-rebel-attack-islamist-leader-hassan-al.md) _Context: 2008 attack on Omdurman and Khartoum, Justice and Equality Movement, Khartoum, Sudan_
 2. [ 2008 attack on Omdurman and Khartoum: Hundreds of Darfur rebels from the Justice and Equality Movement reach the outskirts of Khartoum and engage in clashes with the Sudanese military. ](/news/2008/05/10/2008-attack-on-omdurman-and-khartoum-hundreds-of-darfur-rebels-from-the-justice-and-equality-movement-reach-the-outskirts-of-khartoum-and.md) _Context: 2008 attack on Omdurman and Khartoum, Darfur, Justice and Equality Movement, Khartoum_
 3. [Justice and Equality Movement rebels in Darfur release 49 UNAMID peacekeepers but retain three other people they accuse of being Sudanese security agents. ](/news/2012/02/20/justice-and-equality-movement-rebels-in-darfur-release-49-unamid-peacekeepers-but-retain-three-other-people-they-accuse-of-being-sudanese-se.md) _Context: Darfur, Justice and Equality Movement, Sudan_
 4. [The Sudanese People's Armed Forces claim that the leader of the Justice and Equality Movement in Darfur, Khalil Ibrahim, has been killed. ](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.md) _Context: Darfur, Justice and Equality Movement, Sudan_

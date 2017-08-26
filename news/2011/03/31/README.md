@@ -1,9 +1,9 @@
 ## [2011-03-31](/news/2011/03/31/index.md)
 
-### [Arab Spring:. 2011 Syrian protests:. Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-de.md)
+### [Arab Spring:: 2011 Syrian protests:: Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-de.md)
 Syrian president has set up committees to look into deaths of protesters and replacing decades-old emergency laws.
 
-### [2010-2011 Ivorian crisis:. Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010-2011-ivorian-crisis-disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s.md)
+### [2010-2011 Ivorian crisis:: Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010-2011-ivorian-crisis-disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan, Laurent Gbagbo, Phillippe Mangou, South Africa_
 
 ### ["'James Franco"' appears on the "Late Show with David Letterman", speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on-the.md)
@@ -39,7 +39,7 @@ _Context: Afghanistan's, Australia, Indonesia_
 ### [Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. ](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.md)
 _Context: China, Philippine_
 
-### [Moriarty Tribunal:. Taoiseach Enda Kenny confirms that disgraced former minister Michael Lowry is to be censured by Dail Eireann today without any discussion of the matter, following two days of debate on the tribunal's findings. ](/news/2011/03/31/moriarty-tribunal-taoiseach-enda-kenny-confirms-that-disgraced-former-minister-michael-lowry-is-to-be-censured-by-da-il-aireann-today-wit.md)
+### [Moriarty Tribunal:: Taoiseach Enda Kenny confirms that disgraced former minister Michael Lowry is to be censured by Dail Eireann today without any discussion of the matter, following two days of debate on the tribunal's findings. ](/news/2011/03/31/moriarty-tribunal-taoiseach-enda-kenny-confirms-that-disgraced-former-minister-michael-lowry-is-to-be-censured-by-da-il-aireann-today-wit.md)
 AN AGREED all-party motion of censure against former minister Michael Lowry will be put to the D&aacute;il today without any discussion&hellip;
 
 ### [Baidu deletes 2.8 million works from Baidu Wenku as part of a copyright dispute. ](/news/2011/03/31/baidu-deletes-2-8-million-works-from-baidu-wenku-as-part-of-a-copyright-dispute.md)

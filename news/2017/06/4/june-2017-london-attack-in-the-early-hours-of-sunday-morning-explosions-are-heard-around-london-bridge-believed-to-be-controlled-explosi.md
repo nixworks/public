@@ -1,6 +1,6 @@
 ### [2017-06-4](/news/2017/06/4/index.md)
 
-#  June 2017 London attack. In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. 
+#  June 2017 London attack: In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. 
 
 Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.
 
@@ -14,5 +14,5 @@ Three attackers killed seven people and injured 48 others near London Bridge. Th
 
 ### Related:
 
-1. [June 2017 London attack. A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/june-2017-london-attack-a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-a.md) _Context: June 2017 London attack, London Bridge_
+1. [June 2017 London attack: A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/june-2017-london-attack-a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-a.md) _Context: June 2017 London attack, London Bridge_
 2. [ Police conduct a controlled explosion of a suspicious car in a carpark of the Royal Alexandra Hospital in Paisley, where two suspects in the 2007 Glasgow International Airport attack are being held. ](/news/2007/07/1/police-conduct-a-controlled-explosion-of-a-suspicious-car-in-a-carpark-of-the-royal-alexandra-hospital-in-paisley-where-two-suspects-in-th.md) _Context: controlled explosion_

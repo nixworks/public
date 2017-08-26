@@ -1,6 +1,6 @@
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-# Other anti-government protests:. 2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. 
+# Other anti-government protests:: 2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. 
 
 
 

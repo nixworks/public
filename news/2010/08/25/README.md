@@ -1,6 +1,6 @@
 ## [2010-08-25](/news/2010/08/25/index.md)
 
-### [Battle of Mogadishu (2010):. Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
+### [Battle of Mogadishu (2010):: Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-clashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
 _Context: Battle of Mogadishu (2010), Mogadishu_
 
 ### [A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. ](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.md)
@@ -28,7 +28,7 @@ A plane crashes in the west of the Democratic Republic of Congo, killing 20 peop
 _Context: 2010 Atlantic hurricane season, Bermuda, Category 4, hurricane_
 
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)
-_Context: Aijalon Gomes, Jimmy Carter, North Korea, United States, president_
+_Context: Aijalon Gomes, Jimmy Carter, North Korea, President, United States_
 
 ### [Wikileaks publishes a CIA analysis claiming that the United States could be perceived as an "exporter of terrorism". ](/news/2010/08/25/wikileaks-publishes-a-cia-analysis-claiming-that-the-united-states-could-be-perceived-as-an-exporter-of-terrorism.md)
 _Context: CIA, United States, WikiLeaks, terrorism_

@@ -1,9 +1,9 @@
 ## [2010-01-23](/news/2010/01/23/index.md)
 
-### [Aftermath of the 2010 Haiti earthquake:. The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/aftermath-of-the-2010-haiti-earthquake-the-haitian-government-declares-earthquake-rescue-operations-over.md)
+### [Aftermath of the 2010 Haiti earthquake:: The Haitian government declares earthquake rescue operations over. ](/news/2010/01/23/aftermath-of-the-2010-haiti-earthquake-the-haitian-government-declares-earthquake-rescue-operations-over.md)
 _Context: 2010 Haiti earthquake, Government of Haiti, Haiti, rescue operations_
 
-### [Joe Biden's visit to Iraq:. U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md)
+### [Joe Biden's visit to Iraq:: U.S. Vice President Joe Biden holds talks with Iraqi political leaders ahead of the March parliamentary election. ](/news/2010/01/23/joe-biden-s-visit-to-iraq-u-s-vice-president-joe-biden-holds-talks-with-iraqi-political-leaders-ahead-of-the-march-parliamentary-election.md)
 _Context: Iraq, Joe Biden, U.S. Vice President, United States, elections, political leader_
 
 ### [Thousands of protesters demonstrate in Venezuela for and against the polices of President Hugo Chavez amid a currency revaluation and energy shortages in the country. ](/news/2010/01/23/thousands-of-protesters-demonstrate-in-venezuela-for-and-against-the-polices-of-president-hugo-cha-vez-amid-a-currency-revaluation-and-energ.md)

@@ -1,6 +1,6 @@
 ## [2012-11-5](/news/2012/11/5/index.md)
 
-### [Syrian civil war:. Heavy fighting is reported in the Palestinian neighborhoods of southern Damascus between rebels and government forces. ](/news/2012/11/5/syrian-civil-war-heavy-fighting-is-reported-in-the-palestinian-neighborhoods-of-southern-damascus-between-rebels-and-government-forces.md)
+### [Syrian civil war:: Heavy fighting is reported in the Palestinian neighborhoods of southern Damascus between rebels and government forces. ](/news/2012/11/5/syrian-civil-war-heavy-fighting-is-reported-in-the-palestinian-neighborhoods-of-southern-damascus-between-rebels-and-government-forces.md)
 Conflicting accounts emerged on the death toll from a car bomb near the central city of Hama, with rebels reporting dozens of soldiers dead and the government saying just two civilians were killed.
 
 ### [Five bombs go off in the neighborhoods of Gudaibiya and Adliya in Manama, Bahrain, killing two foreign workers and injuring another. ](/news/2012/11/5/five-bombs-go-off-in-the-neighborhoods-of-gudaibiya-and-adliya-in-manama-bahrain-killing-two-foreign-workers-and-injuring-another.md)

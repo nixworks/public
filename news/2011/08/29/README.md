@@ -1,6 +1,6 @@
 ## [2011-08-29](/news/2011/08/29/index.md)
 
-### [2011 Libyan civil war:. The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-g.md)
+### [2011 Libyan civil war:: The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/2011-libyan-civil-war-the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-g.md)
 As many as 50,000 political prisoners may still be trapped in underground jails in Libya, if they have not already been executed by elements of the crumbling Gaddafi regime. The National Transitional Council says it has already freed around 10,000 political prisoners but tens of thousands are still ...
 
 ### [Stock, bond and commodities markets open as usual in the United States despite the impact of Hurricane Irene on New York City. ](/news/2011/08/29/stock-bond-and-commodities-markets-open-as-usual-in-the-united-states-despite-the-impact-of-hurricane-irene-on-new-york-city.md)

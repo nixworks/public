@@ -12,10 +12,10 @@ At least four people are killed and 15 injured by a grenade thrown onto a bus in
 ### [British actor Peter O'Toole, best known for his role in "Lawrence of Arabia", dies at the age of 81 after a long illness. ](/news/2013/12/14/british-actor-peter-o-toole-best-known-for-his-role-in-lawrence-of-arabia-dies-at-the-age-of-81-after-a-long-illness.md)
 _Context: British people, Lawrence of Arabia, Peter O'Toole_
 
-### [Death and state funeral of Nelson Mandela. The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/death-and-state-funeral-of-nelson-mandela-the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-f.md)
+### [Death and state funeral of Nelson Mandela: The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/death-and-state-funeral-of-nelson-mandela-the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-f.md)
 _Context: Death and state funeral of Nelson Mandela, Eastern Cape, Nelson Mandela, Qunu, province_
 
-### [2013 Tunisian protests:. Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md)
+### [2013 Tunisian protests:: Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/2013-tunisian-protests-tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md)
 _Context: 2013 Tunisian protests, Mehdi Jomaa, Prime Minister of Tunisia, Tunisia_
 
 ### [A mass protest is held in Bogot, Colombia, in protest against the unseating of Mayor Gustavo Petro. ](/news/2013/12/14/a-mass-protest-is-held-in-bogota-colombia-in-protest-against-the-unseating-of-mayor-gustavo-petro.md)
@@ -24,7 +24,7 @@ Tens of thousands of people gather in Bogota to protest against the dismissal of
 ### [The Social Democratic Party of Germany agrees to join a coalition government led by Chancellor Angela Merkel. ](/news/2013/12/14/the-social-democratic-party-of-germany-agrees-to-join-a-coalition-government-led-by-chancellor-angela-merkel.md)
 _Context: Angela Merkel, German Chancellor, SPD_
 
-### [Chang'e 3:. China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-19.md)
+### [Chang'e 3:: China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/chang-e-3-china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-19.md)
 China landed an unmanned spacecraft on the moon on Saturday, state media reported, in the first such &quot;soft-landing&quot; since 1976, joining the United States and the former Soviet Union in managing to accomplish such a feat.
 
 ## [Previous Day...](/news/2013/12/13/index.md)

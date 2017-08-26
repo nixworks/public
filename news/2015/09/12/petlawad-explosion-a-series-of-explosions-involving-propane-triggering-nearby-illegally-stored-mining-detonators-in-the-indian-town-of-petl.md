@@ -1,6 +1,6 @@
 ### [2015-09-12](/news/2015/09/12/index.md)
 
-# Petlawad explosion. A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. 
+# Petlawad explosion: A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. 
 
 At least 85 people are killed in a gas explosion at a restaurant in the central Indian state of Madhya Pradesh.
 
@@ -22,4 +22,4 @@ At least 85 people are killed in a gas explosion at a restaurant in the central 
 7. [ A train derails and crashes in Datia, Madhya Pradesh in India, killing 16 people. ](/news/2005/10/3/a-train-derails-and-crashes-in-datia-madhya-pradesh-in-india-killing-16-people.md) _Context: India, Madhya Pradesh_
 8. [ Authorities in the Indian state of Madhya Pradesh investigate the attack of social worker Shakuntala Verma after she had investigated claims of illegal child marriages. One of her hands was severed and the other was badly wounded. ](/news/2005/05/11/authorities-in-the-indian-state-of-madhya-pradesh-investigate-the-attack-of-social-worker-shakuntala-verma-after-she-had-investigated-claim.md) _Context: India, Madhya Pradesh_
 9. [ At least 54 Hindu pilgrims have been killed when a dam in the Madhya Pradesh state in India is apparently opened by mistake. ](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.md) _Context: India, Madhya Pradesh_
-10. [2017 Khatauli train derailment. A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_
+10. [2017 Khatauli train derailment: A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries. ](/news/2017/08/19/2017-khatauli-train-derailment-a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_

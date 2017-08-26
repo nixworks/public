@@ -1,6 +1,6 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# Banking in the United States. The U.S. Federal Reserve raises the federal funds rate by a quarter percentage point to a level between the 1.0-to-1.25 percent range, and outlines a plan to trim its bond holdings and other securities. This is the fourth increase since December 2015. 
+# Banking in the United States: The U.S. Federal Reserve raises the federal funds rate by a quarter percentage point to a level between the 1.0-to-1.25 percent range, and outlines a plan to trim its bond holdings and other securities. This is the fourth increase since December 2015. 
 
 Short-term rates rise another quarter point, to 1.25 percent, as the economy logs modest but steady improvements
 

@@ -1,6 +1,6 @@
 ### [2008-11-20](/news/2008/11/20/index.md)
 
-#  Piracy in Somalia:. The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. 
+#  Piracy in Somalia:: The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. 
 
 
 

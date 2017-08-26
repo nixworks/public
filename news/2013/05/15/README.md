@@ -1,9 +1,9 @@
 ## [2013-05-15](/news/2013/05/15/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md)
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), alcoholic beverage, stores_
 
-### [Syrian civil war:. Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
+### [Syrian civil war:: Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
 Syrian rebel fighters launch an attack on Aleppo prison, and government forces respond with air raids and tank shells, reports say.
 
 ### [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md)

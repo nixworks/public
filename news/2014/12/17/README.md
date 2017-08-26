@@ -1,9 +1,9 @@
 ## [2014-12-17](/news/2014/12/17/index.md)
 
-### [War in North-West Pakistan. 2014 Peshawar school attack. Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/war-in-north-west-pakistan-2014-peshawar-school-attack-pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-followi.md)
+### [War in North-West Pakistan: 2014 Peshawar school attack: Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/war-in-north-west-pakistan-2014-peshawar-school-attack-pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-followi.md)
 Nawaz Sharif lifts moratorium in place since 2008 in response to Taliban atrocity that left 132 children and nine teachers dead
 
-### [Sony Pictures Entertainment hack. Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-pictures-entertainment-hack-sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-schedul.md)
+### [Sony Pictures Entertainment hack: Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-pictures-entertainment-hack-sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-schedul.md)
 The Sony hackers story has taken a serious turn. A message from the Guardians of Peace group warns of a 9/11-like attack on movie theaters that show &#39;The Interview.&#39;
 
 ### [Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. ](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.md)

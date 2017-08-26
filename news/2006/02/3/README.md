@@ -21,7 +21,7 @@ _Context: Baghdad, car bombs_
 ### [ A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. ](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.md)
 _Context: earthquake, tsunami_
 
-### [ Israeli-Palestinian Conflict:. Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/israeli-palestinian-conflict-hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an.md)
+### [ Israeli-Palestinian Conflict:: Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/israeli-palestinian-conflict-hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. ](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.md)

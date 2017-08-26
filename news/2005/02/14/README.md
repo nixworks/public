@@ -6,7 +6,7 @@ _Context: Iran, Tehran, kerosene, mosque_
 ### [ Researchers at the University of California, Los Angeles create a modified form of HIV which targets P-glycoproteins on cancer cells. ](/news/2005/02/14/researchers-at-the-university-of-california-los-angeles-create-a-modified-form-of-hiv-which-targets-p-glycoproteins-on-cancer-cells.md)
 _Context: HIV, P-glycoprotein, UCLA, cancer, cells_
 
-### [ Israeli-Palestinian conflict:. IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md)
+### [ Israeli-Palestinian conflict:: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md)
 _Context: Israel Defense Forces, Israeli-Palestinian conflict, stabbed_
 
 ### [ A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. ](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-killing-former-prime-minister-rafiq-hariri-and-at-least-22-others-approximately-100-further.md)
@@ -19,7 +19,7 @@ _Context: Democratic Republic of Congo, United Nations, peacekeepers, sexual abu
 _Context: Abdullahi Yusuf, African Union, Exile, Mogadishu, President of Somalia, Somalia, Somalian government_
 
 ### [ In Brazil, President Luiz Incio Lula da Silva meets Venezuelan president Hugo Chvez in Caracas. They start talks about an alliance, joint energy projects and the sale of Brazilian fighter aircraft. ](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.md)
-_Context: Brazilian President, Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President_
+_Context: Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President, President_
 
 ### [ In French Polynesia, people vote for a new local assembly for the two main islands. The poll is contested between the pro-independence party of Oscar Temaru and the party of pro-Paris conservative leader Gaston Flosse. The results of the last year's general election were cancelled and a new poll ordered to settle the dispute. ](/news/2005/02/14/in-french-polynesia-people-vote-for-a-new-local-assembly-for-the-two-main-islands-the-poll-is-contested-between-the-pro-independence-part.md)
 _Context: French Polynesia, Gaston Flosse, Oscar Temaru, Paris, independent_

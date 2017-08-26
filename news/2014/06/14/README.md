@@ -1,9 +1,9 @@
 ## [2014-06-14](/news/2014/06/14/index.md)
 
-### [2014 pro-Russian conflict in Ukraine. A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/2014-pro-russian-conflict-in-ukraine-a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md)
+### [2014 pro-Russian conflict in Ukraine: A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/2014-pro-russian-conflict-in-ukraine-a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Ilyushin Il-76, Ukrainian military, is shot down_
 
-### [Syrian Civil War. A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/syrian-civil-war-a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md)
+### [Syrian Civil War: A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/syrian-civil-war-a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md)
 At least eight people were killed on Saturday when a car bomb exploded in a market in eastern Syria near the border with Iraq, a monitoring group said.
 
 ### [The United Kingdom celebrates the Queen's Official Birthday with the Trooping of the Colour and the Birthday Honours. ](/news/2014/06/14/the-united-kingdom-celebrates-the-queen-s-official-birthday-with-the-trooping-of-the-colour-and-the-birthday-honours.md)
@@ -12,7 +12,7 @@ More than 1,000 soldiers have paraded in front of the Queen as she celebrated he
 ### [Alexander Stubb is elected new leader of the National Coalition Party and thus the new prime minister of Finland, the first Swedish-speaking Finn to hold the post since 1959. ](/news/2014/06/14/alexander-stubb-is-elected-new-leader-of-the-national-coalition-party-and-thus-the-new-prime-minister-of-finland-the-first-swedish-speaking.md)
 _Context: 1959, Alexander Stubb, National Coalition Party, Swedish-speaking Finn, prime minister of Finland_
 
-### [Afghan presidential election, 2014. Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/afghan-presidential-election-2014-voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-pollin.md)
+### [Afghan presidential election, 2014: Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/afghan-presidential-election-2014-voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-pollin.md)
 Afghans headed to the polls Saturday to elect a new president who will help manage the exit of American troops from the country and lead the nation&#39;s fight against a resurgent Taliban.
 
 ## [Previous Day...](/news/2014/06/13/index.md)

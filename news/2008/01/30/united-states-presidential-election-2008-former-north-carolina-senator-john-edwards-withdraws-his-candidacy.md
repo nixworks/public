@@ -1,6 +1,6 @@
 ### [2008-01-30](/news/2008/01/30/index.md)
 
-#  United States presidential election, 2008:. Former North Carolina Senator John Edwards withdraws his candidacy. 
+#  United States presidential election, 2008:: Former North Carolina Senator John Edwards withdraws his candidacy. 
 
 Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. Also Mr. McCain’s aides said he would be endorsed by Gov. Arnold Schwarzenegger.
 

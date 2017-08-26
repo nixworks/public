@@ -1,6 +1,6 @@
 ## [2016-10-19](/news/2016/10/19/index.md)
 
-### [2016 Pacific typhoon season. The Philippine government places more than two dozen provinces on alert before Typhoon Haima makes landfall over Luzon. Haima, downgraded by the Global Disaster Alert and Coordination System to a Category 4 storm, landfalls Cagayan province in the island's northeast. Weather forecasters expect the storm to impact up to 2.7 million people before veering northwest toward the Chinese coast on October 21. ](/news/2016/10/19/2016-pacific-typhoon-season-the-philippine-government-places-more-than-two-dozen-provinces-on-alert-before-typhoon-haima-makes-landfall-ove.md)
+### [2016 Pacific typhoon season: The Philippine government places more than two dozen provinces on alert before Typhoon Haima makes landfall over Luzon. Haima, downgraded by the Global Disaster Alert and Coordination System to a Category 4 storm, landfalls Cagayan province in the island's northeast. Weather forecasters expect the storm to impact up to 2.7 million people before veering northwest toward the Chinese coast on October 21. ](/news/2016/10/19/2016-pacific-typhoon-season-the-philippine-government-places-more-than-two-dozen-provinces-on-alert-before-typhoon-haima-makes-landfall-ove.md)
 MANILA — The Philippines cancelled flights, shut schools and stockpiled supplies before Super Typhoon Haima reaches land on Thursday morning (Oct 20). Haima is a Category 5 storm that is packing maximum winds of 145 knots (268.5kph) and gusts of up to 175 knots, according to the latest bulletin fr...
 
 ### [A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. ](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.md)
@@ -21,13 +21,13 @@ Mexico has ordered the arrest of an outgoing state governor in the ruling party 
 ### [Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. ](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.md)
 A Russian hacker suspected of targeting the U.S. is being held in Czech Republic. Czech police took the man into custody two weeks ago, but only announced the arrest Wednesday. He was reportedly surprised when he was detained at a Prague hotel. Jeff Pegues reports on what the arrest could mean for U...
 
-### [United States presidential election, 2016. Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/united-states-presidential-election-2016-hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election.md)
+### [United States presidential election, 2016: Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/united-states-presidential-election-2016-hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election.md)
 Hillary Clinton and Donald Trump will square off for the third and final time in Las Vegas tonight for what has been dubbed &quot;Fight Night&quot;.
 
 ### [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md)
 _Context: Hassan Rouhani, Iran, President, cabinet, parliament_
 
-### [Croatian parliamentary election, 2016. Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-parliamentary-election-2016-croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-ne.md)
+### [Croatian parliamentary election, 2016: Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-parliamentary-election-2016-croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-ne.md)
 ZAGREB, Croatia (AP) — Lawmakers in Croatia approved a new government on Wednesday as the prime minister promised to boost economic recovery and overcome political divisions in the European Union&#039;s newest member state.…
 
 ## [Previous Day...](/news/2016/10/18/index.md)

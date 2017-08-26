@@ -1,6 +1,6 @@
 ### [2017-07-5](/news/2017/07/5/index.md)
 
-# Crime in New York City. A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. 
+# Crime in New York City: A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. 
 
 Miosotis Familia, a 12-year veteran of the force, was shot in the head while sitting in a vehicle. The gunman was killed, the police said.
 

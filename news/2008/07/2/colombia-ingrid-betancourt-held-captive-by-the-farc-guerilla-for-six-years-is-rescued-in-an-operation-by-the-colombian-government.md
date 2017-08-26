@@ -1,6 +1,6 @@
 ### [2008-07-2](/news/2008/07/2/index.md)
 
-#  Colombia. ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. 
+#  Colombia: ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. 
 
 
 

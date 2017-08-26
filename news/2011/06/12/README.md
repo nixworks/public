@@ -1,15 +1,15 @@
 ## [2011-06-12](/news/2011/06/12/index.md)
 
-### [2011 Syrian uprising:. Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md)
+### [2011 Syrian uprising:: Syrian forces raid the town of Jisr al-Shugur where troops allegedly fought army defectors. ](/news/2011/06/12/2011-syrian-uprising-syrian-forces-raid-the-town-of-jisr-al-shugur-where-troops-allegedly-fought-army-defectors.md)
 _Context: 2011 Syrian uprising, Jisr al-Shugur_
 
-### [2011 Iranian protests:. Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-el.md)
+### [2011 Iranian protests:: Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/2011-iranian-protests-iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-el.md)
 _Context: 2011 Iranian protests, Iran, Mahmoud Ahmadinejad, Tehran, re-election_
 
-### [2011 Libyan civil war:. Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddaf.md)
+### [2011 Libyan civil war:: Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/2011-libyan-civil-war-fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddaf.md)
 Rebels battle troops loyal to Muammar Gaddafi as they attempt to seize town between Zintan and Yafran.
 
-### [2011 Yemeni uprising:. Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-talks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-t.md)
+### [2011 Yemeni uprising:: Talks to end the political crisis in the country fail as the deputy to wounded President Ali Abdullah Saleh refuses to speak to those demanding he cede power. ](/news/2011/06/12/2011-yemeni-uprising-talks-to-end-the-political-crisis-in-the-country-fail-as-the-deputy-to-wounded-president-ali-abdullah-saleh-refuses-t.md)
 Over in Yemen, At least 40 people have been killed in a battle between Yemeni soldiers and Islamic militants on Saturday, local time. According to the country ̔s defense ministry, the soldiers were trying to drive the militants from several southern towns. The Associated Press reported that the fig...
 
 ### [The International Monetary Fund is hit by a major cyber attack. ](/news/2011/06/12/the-international-monetary-fund-is-hit-by-a-major-cyber-attack.md)

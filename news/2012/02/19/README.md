@@ -1,12 +1,12 @@
 ## [2012-02-19](/news/2012/02/19/index.md)
 
-### [Mexican Drug War:. At least 44 people are killed in a prison brawl in Apodaca, Nuevo Leon. The brawl is believed to have been started after the Gulf Cartel and Los Zetas, two rival Mexican drug cartels, clashed inside the prison. ](/news/2012/02/19/mexican-drug-war-at-least-44-people-are-killed-in-a-prison-brawl-in-apodaca-nuevo-lea3n-the-brawl-is-believed-to-have-been-started-after.md)
+### [Mexican Drug War:: At least 44 people are killed in a prison brawl in Apodaca, Nuevo Leon. The brawl is believed to have been started after the Gulf Cartel and Los Zetas, two rival Mexican drug cartels, clashed inside the prison. ](/news/2012/02/19/mexican-drug-war-at-least-44-people-are-killed-in-a-prison-brawl-in-apodaca-nuevo-lea3n-the-brawl-is-believed-to-have-been-started-after.md)
 At least 44 inmates are killed and several more injured after a fight breaks out in a prison north of the Mexican city of Monterrey.
 
-### [2011-2012 Syrian uprising:. One of Syria's leading businessmen says sanctions against the country are crippling the economy and that the government is "disintegrating". ](/news/2012/02/19/2011-2012-syrian-uprising-one-of-syria-s-leading-businessmen-says-sanctions-against-the-country-are-crippling-the-economy-and-that-the-g.md)
+### [2011-2012 Syrian uprising:: One of Syria's leading businessmen says sanctions against the country are crippling the economy and that the government is "disintegrating". ](/news/2012/02/19/2011-2012-syrian-uprising-one-of-syria-s-leading-businessmen-says-sanctions-against-the-country-are-crippling-the-economy-and-that-the-g.md)
 Police and militia patrols fanned out in the Syrian capital&#39;s Mezze district to prevent a repeat of protests against President Bashar al-Assad that have threatened his grip on Damascus, opposition activists said.
 
-### [2012 Senegalese protests:. Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md)
+### [2012 Senegalese protests:: Police fire tear gas in a fifth day of anti-government protests in the capital Dakar. ](/news/2012/02/19/2012-senegalese-protests-police-fire-tear-gas-in-a-fifth-day-of-anti-government-protests-in-the-capital-dakar.md)
 _Context: 2012 Senegalese protests, Dakar_
 
 ### [Five people are injured in a bomb explosion near a church in Suleja, Nigeria. ](/news/2012/02/19/five-people-are-injured-in-a-bomb-explosion-near-a-church-in-suleja-nigeria.md)
@@ -60,7 +60,7 @@ North Korea today threatened to launch &quot;merciless&quot; strikes against Sou
 ### [Iranian warships dock at the Syrian port of Tartous, according to Iranian state media. ](/news/2012/02/19/iranian-warships-dock-at-the-syrian-port-of-tartous-according-to-iranian-state-media.md)
 Iran state media says two vessels have crossed Suez Canal and arrived in Syria, provoking angry response from Israel.
 
-### [Xi Jinping's visit to Ireland:. Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-xi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md)
+### [Xi Jinping's visit to Ireland:: Xi Jinping travels from the scenic city of Shannon to the capital Dublin as his visit continues. ](/news/2012/02/19/xi-jinping-s-visit-to-ireland-xi-jinping-travels-from-the-scenic-city-of-shannon-to-the-capital-dublin-as-his-visit-continues.md)
 On the second day of an Irish visit that focused on trade, Chinese Vice President Xi Jinping has invited the Taoiseach to visit China.
 
 ### [Burmese dissident monk U Gambira, released last month from prison, is to face trial on charges breaking into and squatting in monasteries. ](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.md)

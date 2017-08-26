@@ -1,6 +1,6 @@
 ### [2015-11-14](/news/2015/11/14/index.md)
 
-# Eckwersheim derailment. Ten people are dead and eleven injured after a high-speed TGV train catches fire and derails near the northeastern French city of Strasbourg. 
+# Eckwersheim derailment: Ten people are dead and eleven injured after a high-speed TGV train catches fire and derails near the northeastern French city of Strasbourg. 
 
 A high-speed TGV train derails on a test run near the French city of Strasbourg, killing at least 10 people and injuring several others, officials say.
 

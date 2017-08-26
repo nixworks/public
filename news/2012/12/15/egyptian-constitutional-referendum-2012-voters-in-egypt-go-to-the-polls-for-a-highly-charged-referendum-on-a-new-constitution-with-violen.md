@@ -1,6 +1,6 @@
 ### [2012-12-15](/news/2012/12/15/index.md)
 
-# Egyptian constitutional referendum, 2012:. Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. 
+# Egyptian constitutional referendum, 2012:: Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. 
 
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
@@ -13,10 +13,10 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Related:
 
-1. [2012 Egyptian protests:. Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _Context: 2012 Egyptian protests, Alexandria, Egypt, constitutional referendum_
-2. [Egyptian constitutional referendum, 2012:. A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md) _Context: Draft constitution, Egypt, constitutional referendum_
-3. [Alexandria train collision. Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/alexandria-train-collision-two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md) _Context: Alexandria, Egypt_
-4. [2017 Palm Sunday church bombings. At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/2017-palm-sunday-church-bombings-at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed.md) _Context: Alexandria, Egypt_
+1. [2012 Egyptian protests:: Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _Context: 2012 Egyptian protests, Alexandria, Egypt, constitutional referendum_
+2. [Egyptian constitutional referendum, 2012:: A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-a-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-re.md) _Context: Draft constitution, Egypt, constitutional referendum_
+3. [Alexandria train collision: Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/alexandria-train-collision-two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md) _Context: Alexandria, Egypt_
+4. [2017 Palm Sunday church bombings: At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/2017-palm-sunday-church-bombings-at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed.md) _Context: Alexandria, Egypt_
 5. [A bomb explodes outside French supermarket Carrefour in Alexandria, Egypt, killing one person and wounding six. ](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.md) _Context: Alexandria, Egypt_
 6. [An apartment block collapses in the Egyptian city of Alexandria, killing at least 25 people. ](/news/2013/01/16/an-apartment-block-collapses-in-the-egyptian-city-of-alexandria-killing-at-least-25-people.md) _Context: Alexandria, Egypt_
 7. [Egypt announces the ratification of a new Constitution adopted in constitutional referendum. ](/news/2012/12/25/egypt-announces-the-ratification-of-a-new-constitution-adopted-in-constitutional-referendum.md) _Context: Egypt, constitutional referendum_

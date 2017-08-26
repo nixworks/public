@@ -6,7 +6,7 @@ Arabian Al Qaeda confirms death of deputy leader Saeed al-Shehri by US drone str
 ### [Protests break out in Egypt when envoys from the European Union visit the country, protesting for Morsi to be brought back to power. ](/news/2013/07/17/protests-break-out-in-egypt-when-envoys-from-the-european-union-visit-the-country-protesting-for-morsi-to-be-brought-back-to-power.md)
 Crowds again fill Cairo after EU foreign policy chief calls for deposed president to be freed from custody.
 
-### [Syrian civil war:. 1 man and a 15-year-old boy are killed near the Turkish border town of Ceylanpinar after clashes erupted between Al-Nausra and female Kurds of the YPG. ](/news/2013/07/17/syrian-civil-war-1-man-and-a-15-year-old-boy-are-killed-near-the-turkish-border-town-of-ceylanpa-nar-after-clashes-erupted-between-al-naus.md)
+### [Syrian civil war:: 1 man and a 15-year-old boy are killed near the Turkish border town of Ceylanpinar after clashes erupted between Al-Nausra and female Kurds of the YPG. ](/news/2013/07/17/syrian-civil-war-1-man-and-a-15-year-old-boy-are-killed-near-the-turkish-border-town-of-ceylanpa-nar-after-clashes-erupted-between-al-naus.md)
 Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Turkish army fires on Syria after stray Syrian bullets claimed lives on Turkish soil
 
 ### [A bomb detonates inside a teahouse in Mosul, Iraq killing at least 10 people. ](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.md)

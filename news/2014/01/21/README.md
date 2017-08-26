@@ -1,12 +1,12 @@
 ## [2014-01-21](/news/2014/01/21/index.md)
 
-### [Euromaidan:. Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md)
+### [Euromaidan:: Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-violent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md)
 _Context: Euromaidan, Kiev, Ukraine_
 
-### [Syrian Civil War spillover in Lebanon:. A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md)
+### [Syrian Civil War spillover in Lebanon:: A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md)
 BEIRUT (AP) — A car bomb ripped through a Shiite neighborhood in south Beirut on Tuesday, killing four people and sending plumes of smoke over the area in the latest attack to target supporters of Lebanon&#39;s
 
-### [War in North-West Pakistan:. Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md)
+### [War in North-West Pakistan:: Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/war-in-north-west-pakistan-pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md)
 _Context: North Waziristan, Pakistan, Taliban, War in North-West Pakistan_
 
 ### [First time in the history of digital currency, two Las Vegas casinos begin to accept Bitcoin. ](/news/2014/01/21/first-time-in-the-history-of-digital-currency-two-las-vegas-casinos-begin-to-accept-bitcoin.md)

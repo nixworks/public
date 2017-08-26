@@ -1,21 +1,21 @@
 ## [2014-09-2](/news/2014/09/2/index.md)
 
-### [Islamist insurgency in Nigeria:. Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md)
+### [Islamist insurgency in Nigeria:: Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/islamist-insurgency-in-nigeria-dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md)
 _Context: Bama, Boko Haram, Islamist insurgency in Nigeria_
 
-### [War in Somalia (2009-present):. At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009-present-at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-car.md)
+### [War in Somalia (2009-present):: At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009-present-at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-car.md)
 _Context: War in Somalia (2009-present), al-Shabaab militants_
 
-### [Sinai insurgency:. Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md)
+### [Sinai insurgency:: Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-eleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md)
 Officials say bomb attack killed 11 soldiers in region, where attacks on army have been regular since 2013 coup.
 
-### [Terrorism in Saudi Arabia:. Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell.md)
+### [Terrorism in Saudi Arabia:: Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. ](/news/2014/09/2/terrorism-in-saudi-arabia-saudi-arabian-authorities-announce-they-have-arrested-88-people-on-suspicions-of-being-part-of-an-al-qaeda-cell.md)
 Government says 88 people, including Saudis and Yemenis, held on suspicion of plotting attacks in kingdom and abroad.
 
-### [Syrian Civil War. ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/syrian-civil-war-isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)
+### [Syrian Civil War: ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/syrian-civil-war-isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)
 _Context: Islamic State of Iraq and the Levant, Steven Sotloff, Syrian Civil War_
 
-### [Iraqi insurgency (2011-present). The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/iraqi-insurgency-2011-present-the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
+### [Iraqi insurgency (2011-present): The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/iraqi-insurgency-2011-present-the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
 _Context: Iraqi insurgency (2011-present), United States_
 
 ### [Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. ](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.md)

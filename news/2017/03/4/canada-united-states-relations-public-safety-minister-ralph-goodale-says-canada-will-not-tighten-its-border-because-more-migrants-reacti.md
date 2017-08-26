@@ -1,6 +1,6 @@
 ### [2017-03-4](/news/2017/03/4/index.md)
 
-# Canada-United States relations. Public Safety Minister Ralph Goodale says Canada will not tighten its border because more migrants, reacting to the United States immigration crackdown, are illegally crossing into Canada from the U.S. Goodale added the issue had not risen to a scale that required hindering the flow of goods and people moving across the world's longest undefended border. 
+# Canada-United States relations: Public Safety Minister Ralph Goodale says Canada will not tighten its border because more migrants, reacting to the United States immigration crackdown, are illegally crossing into Canada from the U.S. Goodale added the issue had not risen to a scale that required hindering the flow of goods and people moving across the world's longest undefended border. 
 
 Canada will not tighten its border to deter migrants crossing illegally from the United States in the wake of a U.S. immigration crackdown because the numbers are not big enough to cause alarm, a government minister said on Saturday.
 

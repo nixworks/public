@@ -18,7 +18,7 @@ _Context: China, Foshan, suicide_
 ### [Brazil, Iran and Turkey agree on a nuclear fuel swap aimed at easing concerns from the West that Iran might building a bomb. ](/news/2010/05/17/brazil-iran-and-turkey-agree-on-a-nuclear-fuel-swap-aimed-at-easing-concerns-from-the-west-that-iran-might-building-a-bomb.md)
 Brazil and Turkey reach deal with Iran over uranium stockpile, but details remain unclear.
 
-### [2010 Thai political protests:. Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-hospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-h.md)
+### [2010 Thai political protests:: Hospital officials confirm the death of Thai general, Khattiya Sawasdipol, after he was shot on Thursday as he backed protesters in Bangkok. ](/news/2010/05/17/2010-thai-political-protests-hospital-officials-confirm-the-death-of-thai-general-khattiya-sawasdipol-after-he-was-shot-on-thursday-as-h.md)
 Thai renegade general who was shot last week dies in hospital as Bangkok standoff continues.
 
 ### [Dublin Airport, Amsterdam Airport Schiphol and Britain's two busiest airports all close due to the latest round of Icelandic volcanic disruption. ](/news/2010/05/17/dublin-airport-amsterdam-airport-schiphol-and-britain-s-two-busiest-airports-all-close-due-to-the-latest-round-of-icelandic-volcanic-disrup.md)

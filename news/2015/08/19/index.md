@@ -1,21 +1,21 @@
 ## [2015-08-19](/news/2015/08/19/index.md)
 
-### [Boko Haram insurgency. A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/boko-haram-insurgency-a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-th.md)
+### [Boko Haram insurgency: A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/boko-haram-insurgency-a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-th.md)
 A Boko Haram attack in a northeast Nigerian village left at least 151 people dead last week, with many drowning as they attempted to flee across a river.
 
-### [ISIL beheading incidents, Destruction of cultural heritage by ISIL. Syrian Civil War. Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/isil-beheading-incidents-destruction-of-cultural-heritage-by-isil-syrian-civil-war-islamic-state-militants-behead-82-year-old-antiquities.md)
+### [ISIL beheading incidents, Destruction of cultural heritage by ISIL: Syrian Civil War: Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/isil-beheading-incidents-destruction-of-cultural-heritage-by-isil-syrian-civil-war-islamic-state-militants-behead-82-year-old-antiquities.md)
 The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 years is reported to have been murdered by Islamic State militants.
 
-### [Iraq War (2014-present). A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/iraq-war-2014-present-a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
+### [Iraq War (2014-present): A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/iraq-war-2014-present-a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
 _Context: Baiji, Iraq War (2014-present), Iraqi Army, suicide bomber_
 
-### [South Sudanese Civil War. Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/south-sudanese-civil-war-fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes.md)
+### [South Sudanese Civil War: Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/south-sudanese-civil-war-fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes.md)
 A military spokesman says fighting has resumed between South Sudanese troops and rebels two days after the president declined to sign a peace deal.
 
-### [Turkey-PKK Conflict. A bomb detonated by Kurdish militants kills at least eight soldiers. ](/news/2015/08/19/turkey-pkk-conflict-a-bomb-detonated-by-kurdish-militants-kills-at-least-eight-soldiers.md)
+### [Turkey-PKK Conflict: A bomb detonated by Kurdish militants kills at least eight soldiers. ](/news/2015/08/19/turkey-pkk-conflict-a-bomb-detonated-by-kurdish-militants-kills-at-least-eight-soldiers.md)
 Kurdish rebels have detonated a bomb on a road in south east Turkey, killing at least eight soldiers.
 
-### [Greek government-debt crisis. The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/greek-government-debt-crisis-the-bundestag-votes-to-approve-a-third-bailout-for-greece.md)
+### [Greek government-debt crisis: The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/greek-government-debt-crisis-the-bundestag-votes-to-approve-a-third-bailout-for-greece.md)
 The German Bundestag is expected to approve €86bn bailout, paving the way for Athens to meet debt deadlines
 
 ### [Samsung Bioepis Co., a drug development arm of global giant Samsung, picks four banks to manage an IPO it plans for the United States in 2016. ](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.md)
@@ -24,10 +24,10 @@ _Context: Samsung, Samsung Bioepis Co._
 ### [A brush fire burning near the American town of Twisp, Washington, kills three firefighters, injures as many as four others, and forces the evacuation of the towns of Twisp and Winthrop. ](/news/2015/08/19/a-brush-fire-burning-near-the-american-town-of-twisp-washington-kills-three-firefighters-injures-as-many-as-four-others-and-forces-the-e.md)
 DNR said there were reports of burn victims but it was unclear if those were firefighters or civilians.
 
-### [Estonian-Russian relations. A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/estonian-russian-relations-a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md)
+### [Estonian-Russian relations: A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for espionage. ](/news/2015/08/19/estonian-russian-relations-a-court-in-russia-sentences-estonian-security-official-eston-kohver-to-15-years-in-prison-for-espionage.md)
 A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for spying in a case that sparked a diplomatic row.
 
-### [South Sudan-United States relations. The United States announces that it is proposing sanctions against those connected to the South Sudan conflict, unless a ceasefire is reached promptly. ](/news/2015/08/19/south-sudan-united-states-relations-the-united-states-announces-that-it-is-proposing-sanctions-against-those-connected-to-the-south-sudan.md)
+### [South Sudan-United States relations: The United States announces that it is proposing sanctions against those connected to the South Sudan conflict, unless a ceasefire is reached promptly. ](/news/2015/08/19/south-sudan-united-states-relations-the-united-states-announces-that-it-is-proposing-sanctions-against-those-connected-to-the-south-sudan.md)
 US says it is consulting with other countries as it urges South Sudan government to sign deal within 15 days.
 
 ### [Following a July 15 hacking, user data of the infidelity-promoting dating website Ashley Madison is leaked with over 30 million users having their information compromised. ](/news/2015/08/19/following-a-july-15-hacking-user-data-of-the-infidelity-promoting-dating-website-ashley-madison-is-leaked-with-over-30-million-users-having.md)

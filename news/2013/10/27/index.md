@@ -3,10 +3,10 @@
 ### [8 bomb blasts rock the city of Patna in the Indian state of Bihar killing 5 and injuring over 70 people.](/news/2013/10/27/8-bomb-blasts-rock-the-city-of-patna-in-the-indian-state-of-bihar-killing-5-and-injuring-over-70-people.md)
 Eight blasts ripped through Patna on the day Narendra Modi held his Hunkar Rally. Three suspects have been arrested.
 
-### [Iraqi insurgency (post-U.S. withdrawal). A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md)
+### [Iraqi insurgency (post-U.S. withdrawal): A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md)
 Dozens of people are killed in car bombings in Baghdad and Mosul, security officials say, as Iraq endures its most violent period since 2008.
 
-### [War in Afghanistan (2001-present):. A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001-present-a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md)
+### [War in Afghanistan (2001-present):: A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001-present-a-roadside-bomb-in-eastern-afghanistan-kills-18-people.md)
 A roadside bomb in eastern Afghanistan killed 18 people, including at least five women, who were travelling to a wedding party by minibus, a local government official said on Sunday.
 
 ### [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. date=October 2013](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-date-october-2013.md)

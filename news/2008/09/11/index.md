@@ -6,7 +6,7 @@ _Context: Abu Ayyub al-Masri, Ayman al-Zawahiri, Islamic State of Iraq, al-Qaeda
 ### [ Prices for oil fall ](/news/2008/09/11/prices-for-oil-fall.md)
 _Context: crude oil_
 
-### [ 2008 unrest in Bolivia:. Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md)
+### [ 2008 unrest in Bolivia:: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md)
 _Context: Bolivia, Unrest in Bolivia, civil war_
 
 ### [ Morgan Tsvangirai, the leader of the Movement for Democratic Change, claims that a power sharing agreement has been reached with the President of Zimbabwe Robert Mugabe. ](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.md)
@@ -16,7 +16,7 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, President of Zimbab
 _Context: Galveston Island, Hurricane Ike, Texas, evacuation_
 
 ### [ President George W. Bush is reported to have authorized United States special forces to conduct operations against insurgents inside Pakistan without seeking approval from the Government of Pakistan. ](/news/2008/09/11/president-george-w-bush-is-reported-to-have-authorized-united-states-special-forces-to-conduct-operations-against-insurgents-inside-pakist.md)
-_Context: George W. Bush, United States, government, president_
+_Context: George W. Bush, President, United States, government_
 
 ### [ A new survey of residents of 17 countries by WorldPublicOpinion.org indicates that an average of 46 percent believe that Al-Qaeda was behind the 9/11 attacks of 2001. ](/news/2008/09/11/a-new-survey-of-residents-of-17-countries-by-worldpublicopinion-org-indicates-that-an-average-of-46-percent-believe-that-al-qaeda-was-behin.md)
 Seven years after the Sept. 11 attacks, there is no consensus outside the United States that Islamist militants from al Qaeda were responsible, according to an international poll published on Wednesday.

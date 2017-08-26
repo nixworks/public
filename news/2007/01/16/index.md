@@ -9,7 +9,7 @@ _Context: 2006 coup, Bangkok, Prime Minister, S Jayakumar, Singapore, Thailand, 
 ### [ The world's first genetically modified chickens have been bred by scientists in Edinburgh. The birds supposedly lay eggs that can help fight cancer. ](/news/2007/01/16/the-world-s-first-genetically-modified-chickens-have-been-bred-by-scientists-in-edinburgh-the-birds-supposedly-lay-eggs-that-can-help-figh.md)
 News and opinion from The Times &amp; The Sunday Times
 
-### [ 2004-2006 Waziristan conflict:. Pakistani cobra helicopter gunships destroy three suspected terrorist compounds in South Waziristan reportedly killing 8 people and wounding 10. ](/news/2007/01/16/2004-2006-waziristan-conflict-pakistani-cobra-helicopter-gunships-destroy-three-suspected-terrorist-compounds-in-south-waziristan-reporte.md)
+### [ 2004-2006 Waziristan conflict:: Pakistani cobra helicopter gunships destroy three suspected terrorist compounds in South Waziristan reportedly killing 8 people and wounding 10. ](/news/2007/01/16/2004-2006-waziristan-conflict-pakistani-cobra-helicopter-gunships-destroy-three-suspected-terrorist-compounds-in-south-waziristan-reporte.md)
 _Context: War in North-West Pakistan_
 
 ### [ Two bombs at Mustansiriya University in Baghdad kill at least 70 people and wound 170 more. ](/news/2007/01/16/two-bombs-at-mustansiriya-university-in-baghdad-kill-at-least-70-people-and-wound-170-more.md)

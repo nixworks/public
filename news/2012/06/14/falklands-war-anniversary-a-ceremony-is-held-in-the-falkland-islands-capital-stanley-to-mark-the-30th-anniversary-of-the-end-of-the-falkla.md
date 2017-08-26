@@ -1,6 +1,6 @@
 ### [2012-06-14](/news/2012/06/14/index.md)
 
-# Falklands War anniversary:. A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. 
+# Falklands War anniversary:: A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. 
 
 Falkland Islanders mark 30 years since the end of the war with Argentina with a service at Liberation Monument, Port Stanley.
 
@@ -12,7 +12,7 @@ Falkland Islanders mark 30 years since the end of the war with Argentina with a 
 
 ### Related:
 
-1. [Falkland Islands sovereignty dispute. A United Nations commission rules in favour of Argentina to expand its maritime territory in the South Atlantic Ocean by 35% to include the Falkland Islands and beyond despite Argentina and the United Kingdom still having an unresolved dispute over the islands. ](/news/2016/03/29/falkland-islands-sovereignty-dispute-a-united-nations-commission-rules-in-favour-of-argentina-to-expand-its-maritime-territory-in-the-south.md) _Context: Falkland Islands, dispute_
+1. [Falkland Islands sovereignty dispute: A United Nations commission rules in favour of Argentina to expand its maritime territory in the South Atlantic Ocean by 35% to include the Falkland Islands and beyond despite Argentina and the United Kingdom still having an unresolved dispute over the islands. ](/news/2016/03/29/falkland-islands-sovereignty-dispute-a-united-nations-commission-rules-in-favour-of-argentina-to-expand-its-maritime-territory-in-the-south.md) _Context: Falkland Islands, dispute_
 2. [Voters in the Falkland Islands go to the polls in their general election to elect members of the Legislative Assembly. ](/news/2013/11/7/voters-in-the-falkland-islands-go-to-the-polls-in-their-general-election-to-elect-members-of-the-legislative-assembly.md) _Context: Falkland Islands_
 3. [The results of the Falkland Islands sovereignty referendum are announced with 99.8% of voters supporting the Islands staying as an Overseas Territory of the United Kingdom. ](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.md) _Context: Falkland Islands_
 4. [Residents of the Falkland Islands begin voting in a two day sovereignty referendum on whether the islands should remain a British overseas territory. ](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.md) _Context: Falkland Islands_

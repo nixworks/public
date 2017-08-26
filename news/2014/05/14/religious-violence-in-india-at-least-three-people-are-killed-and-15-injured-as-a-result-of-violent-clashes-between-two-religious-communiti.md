@@ -1,6 +1,6 @@
 ### [2014-05-14](/news/2014/05/14/index.md)
 
-# Religious violence in India:. At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. 
+# Religious violence in India:: At least three people are killed and 15 injured as a result of violent clashes between two religious communities in the Indian city of Hyderabad. 
 
 
 

@@ -1,18 +1,18 @@
 ## [2015-08-16](/news/2015/08/16/index.md)
 
-### [2015 Douma market air strikes. Syrian Civil War. According to the Syrian Observatory for Human Rights, a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma kills at least 110 people and leaves hundreds injured. ](/news/2015/08/16/2015-douma-market-air-strikes-syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-a-series-of-air-raids-by-the-syrian-a.md)
+### [2015 Douma market air strikes: Syrian Civil War: According to the Syrian Observatory for Human Rights, a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma kills at least 110 people and leaves hundreds injured. ](/news/2015/08/16/2015-douma-market-air-strikes-syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-a-series-of-air-raids-by-the-syrian-a.md)
 At least 80 people have died after government air strikes on a marketplace in the rebel-held town of Douma, near Damascus, activists say.
 
-### [2014-15 India-Pakistan border skirmishes. Kashmir conflict. India and Pakistan trade gunfire over the border in the disputed area of Kashmir leaving eight people killed in the past week. ](/news/2015/08/16/2014-15-india-pakistan-border-skirmishes-kashmir-conflict-india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kas.md)
+### [2014-15 India-Pakistan border skirmishes: Kashmir conflict: India and Pakistan trade gunfire over the border in the disputed area of Kashmir leaving eight people killed in the past week. ](/news/2015/08/16/2014-15-india-pakistan-border-skirmishes-kashmir-conflict-india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kas.md)
 Indian and Pakistani troops are continuing to trade heavy gunfire and mortar rounds along the highly militarized line of control dividing the disputed Himalayan region of Kashmir between the two archrivals.
 
-### [Turkey-PKK conflict. A clash in Turkey's Kars Province kills a Turkish Army soldier and three PKK militants. ](/news/2015/08/16/turkey-pkk-conflict-a-clash-in-turkey-s-kars-province-kills-a-turkish-army-soldier-and-three-pkk-militants.md)
+### [Turkey-PKK conflict: A clash in Turkey's Kars Province kills a Turkish Army soldier and three PKK militants. ](/news/2015/08/16/turkey-pkk-conflict-a-clash-in-turkey-s-kars-province-kills-a-turkish-army-soldier-and-three-pkk-militants.md)
 A Turkish soldier and three Kurdish militants were killed in a clash in eastern Turkey on Sunday, security sources say
 
-### [Islamic State of Iraq and the Levant. ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/islamic-state-of-iraq-and-the-levant-isil-militants-execute-15-women-in-mosul.md)
+### [Islamic State of Iraq and the Levant: ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/islamic-state-of-iraq-and-the-levant-isil-militants-execute-15-women-in-mosul.md)
 The former prime minister could face charges over his role in allowing the city to be seized by militants.
 
-### [2015 Tianjin explosions. The death toll from the explosions rises to 112 with 95 people missing including 85 fire fighters. ](/news/2015/08/16/2015-tianjin-explosions-the-death-toll-from-the-explosions-rises-to-112-with-95-people-missing-including-85-fire-fighters.md)
+### [2015 Tianjin explosions: The death toll from the explosions rises to 112 with 95 people missing including 85 fire fighters. ](/news/2015/08/16/2015-tianjin-explosions-the-death-toll-from-the-explosions-rises-to-112-with-95-people-missing-including-85-fire-fighters.md)
 Nearly 100 people missing from Tianjin blasts, including 85 firefighters, officials say, as death toll rises to 112.
 
 ### [An Indonesian plane (Trigana Air Service Flight 257) with 54 people on board goes missing in Papua. There are later reports that the remains of the aircraft have been found in the Oksibil district. ](/news/2015/08/16/an-indonesian-plane-trigana-air-service-flight-257-with-54-people-on-board-goes-missing-in-papua-there-are-later-reports-that-the-remains.md)
@@ -21,7 +21,7 @@ An Indonesian plane with 54 people on board is missing in Papua region, official
 ### [Ecuador declares a state of emergency over increased activity at the Cotopaxi volcano near the capital of Quito. Its last major eruption was in 1877. ](/news/2015/08/16/ecuador-declares-a-state-of-emergency-over-increased-activity-at-the-cotopaxi-volcano-near-the-capital-of-quito-its-last-major-eruption-was.md)
 Officials evacuate several hundred people amid increasing activity in Cotopaxi volcano, near the capital Quito.
 
-### [North Korea-South Korea relations. South Korea establishes a surveillance center on its northernmost island of Baengnyeongdo to better deter North Korean threats. ](/news/2015/08/16/north-korea-south-korea-relations-south-korea-establishes-a-surveillance-center-on-its-northernmost-island-of-baengnyeongdo-to-better-det.md)
+### [North Korea-South Korea relations: South Korea establishes a surveillance center on its northernmost island of Baengnyeongdo to better deter North Korean threats. ](/news/2015/08/16/north-korea-south-korea-relations-south-korea-establishes-a-surveillance-center-on-its-northernmost-island-of-baengnyeongdo-to-better-det.md)
 A surveillance center dedicated to monitoring possible military provocations from North Korea will open on the South’s northernmost island, officials said Sunday. 
 
 ### [Crowds gather throughout Brazil to demand the impeachment of President Dilma Rousseff due to a bribery and corruption scandal involving senior members of the governing Workers' Party. Recent polls show her approval ratings below 10%. ](/news/2015/08/16/crowds-gather-throughout-brazil-to-demand-the-impeachment-of-president-dilma-rousseff-due-to-a-bribery-and-corruption-scandal-involving-seni.md)

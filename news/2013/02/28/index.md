@@ -1,18 +1,18 @@
 ## [2013-02-28](/news/2013/02/28/index.md)
 
-### [South Thailand insurgency:. Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-thailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md)
+### [South Thailand insurgency:: Thailand agrees to peace talks with Muslim rebels for the first time after 20 years of conflict. ](/news/2013/02/28/south-thailand-insurgency-thailand-agrees-to-peace-talks-with-muslim-rebels-for-the-first-time-after-20-years-of-conflict.md)
 Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin talks on ending a decades-long conflict in the south.
 
-### [Israeli-Palestinian conflict:. 2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeli-palestinian-conflict-2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-avi.md)
+### [Israeli-Palestinian conflict:: 2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeli-palestinian-conflict-2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-avi.md)
 _Context: 2013 Rishon LeZion car bombing, Israel, Israeli-Palestinian conflict, Rishon LeZion, Tel Aviv, car bombing_
 
-### [Syrian civil war:. The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
+### [Syrian civil war:: The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
 Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; support to Syrian rebels for the first time, as well as extra aid to the opposition.
 
-### [2013 Bangladesh protests:. At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-d.md)
+### [2013 Bangladesh protests:: At least 35 people are killed across Bangladesh in violent demonstrations sparked when Islamic political leader Delwar Hossain Sayeedi was sentenced to death for war crimes. ](/news/2013/02/28/2013-bangladesh-protests-at-least-35-people-are-killed-across-bangladesh-in-violent-demonstrations-sparked-when-islamic-political-leader-d.md)
 Delawar Hossain Sayedee, a top leader of a fundamentalist Islamic political party, was convicted of committing crimes against humanity.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-at-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: At least 23 people are killed and 60 others injured in a series of bombings in Shiite districts of Baghdad and surrounding suburbs. ](/news/2013/02/28/iraqi-insurgency-post-u-s-withdrawal-at-least-23-people-are-killed-and-60-others-injured-in-a-series-of-bombings-in-shiite-districts-of.md)
 Bombings target predominantly Shia Muslim areas in and around Baghdad against a backdrop of rising sectarian tensions.
 
 ### [The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. ](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.md)

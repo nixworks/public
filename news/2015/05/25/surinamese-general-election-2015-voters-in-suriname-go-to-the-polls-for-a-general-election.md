@@ -1,6 +1,6 @@
 ### [2015-05-25](/news/2015/05/25/index.md)
 
-# Surinamese general election, 2015. Voters in Suriname go to the polls for a general election. 
+# Surinamese general election, 2015: Voters in Suriname go to the polls for a general election. 
 
 Suriname goes to the polls in general elections on Monday with its convicted drug trafficker president striving to tighten his controversial grip on the reins of power. The colorful Desi Bouterse, who has ruled the small South American country on and off since 1980, is seeking to dispense with his alliance
 

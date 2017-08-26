@@ -1,12 +1,12 @@
 ## [2014-06-18](/news/2014/06/18/index.md)
 
-### [2014 Northern Iraq offensive. 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
+### [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
 _Context: 2014 Northern Iraq offensive, Indians, Mosul, Turkish_
 
-### [War in North-West Pakistan. US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http://www.thenews.com.pk/article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/war-in-north-west-pakistan-us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md)
+### [War in North-West Pakistan: US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. [http://www.thenews.com.pk/article-151102-US-drones-kill-four-in-North-Waziristan- ("The News (Pakistan)")]](/news/2014/06/18/war-in-north-west-pakistan-us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md)
 _Context: North Waziristan, War in North-West Pakistan, drones launch_
 
-### [Syrian Civil War. Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/syrian-civil-war-opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at.md)
+### [Syrian Civil War: Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/syrian-civil-war-opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at.md)
 Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 people, mostly children and women
 
 ### [Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. ](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.md)
@@ -24,7 +24,7 @@ Luxembourg has become the latest country to vote in favour of equalising same-se
 ### [The New Flemish Alliance decides to opt for membership in the moderately euroskeptic European Conservatives and Reformists group in the European Parliament, meaning this group will surpass the liberal ALDE group as the third-largest. ](/news/2014/06/18/the-new-flemish-alliance-decides-to-opt-for-membership-in-the-moderately-euroskeptic-european-conservatives-and-reformists-group-in-the-euro.md)
 A last-minute decision by Flemish separatists to join the ECR group instead of Alde will mean more speaking time and better choice of committee seats for the anti-federalists.
 
-### [2014 West Africa Ebola outbreak. Seven people are reported to have died from the latest outbreak of Ebola virus in Monrovia, Liberia. ](/news/2014/06/18/2014-west-africa-ebola-outbreak-seven-people-are-reported-to-have-died-from-the-latest-outbreak-of-ebola-virus-in-monrovia-liberia.md)
+### [2014 West Africa Ebola outbreak: Seven people are reported to have died from the latest outbreak of Ebola virus in Monrovia, Liberia. ](/news/2014/06/18/2014-west-africa-ebola-outbreak-seven-people-are-reported-to-have-died-from-the-latest-outbreak-of-ebola-virus-in-monrovia-liberia.md)
 Seven people are reported dead from the Ebola virus in Monrovia, the first deaths from the outbreak in the Liberian capital.
 
 ### [Former President of Turkey Kenan Evren, 96, is given a life sentence for his role in the 1980 Turkish coup d'etat. ](/news/2014/06/18/former-president-of-turkey-kenan-evren-96-is-given-a-life-sentence-for-his-role-in-the-1980-turkish-coup-d-a-c-tat.md)

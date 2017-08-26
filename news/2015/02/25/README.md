@@ -1,6 +1,6 @@
 ## [2015-02-25](/news/2015/02/25/index.md)
 
-### [2015 Brit Awards. American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md)
+### [2015 Brit Awards: American entertainer Madonna falls off stage while performing "Living for Love" at the 2015 Brit Awards. ](/news/2015/02/25/2015-brit-awards-american-entertainer-madonna-falls-off-stage-while-performing-living-for-love-at-the-2015-brit-awards.md)
 Madonna has suffered an embarrassing fall at the Brit Awards.
 
 ### [At least 187 people are killed in avalanches in northeastern Afghanistan ](/news/2015/02/25/at-least-187-people-are-killed-in-avalanches-in-northeastern-afghanistan.md)

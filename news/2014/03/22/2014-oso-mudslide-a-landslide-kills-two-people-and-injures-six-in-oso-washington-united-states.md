@@ -1,6 +1,6 @@
 ### [2014-03-22](/news/2014/03/22/index.md)
 
-# 2014 Oso mudslide:. A landslide kills two people, and injures six in Oso, Washington, United States. 
+# 2014 Oso mudslide:: A landslide kills two people, and injures six in Oso, Washington, United States. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2014 Oso mudslide:. Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-eighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-tha.md) _Context: Oso, Oso, Washington mudslide, Washington_
+1. [2014 Oso mudslide:: Eighteen people are still missing after a landslide Saturday in Oso, Snohomish County, in America's Washington state that has claimed at least three lives. ](/news/2014/03/23/2014-oso-mudslide-eighteen-people-are-still-missing-after-a-landslide-saturday-in-oso-snohomish-county-in-america-s-washington-state-tha.md) _Context: Oso, Oso, Washington mudslide, Washington_
 2. [The Seattle City Council unanimously votes to give Uber, Lyft, and other contract drivers the power to unionize. The Washington city becomes the first in the United States to do so. Seattle Mayor Ed Murray opposes the bill which can still become law without his signature. Court challenges are expected. ](/news/2015/12/14/the-seattle-city-council-unanimously-votes-to-give-uber-lyft-and-other-contract-drivers-the-power-to-unionize-the-washington-city-becomes.md) _Context: United States, Washington_
 3. [U.S. federal health officials are investigating an outbreak of deadly E. coli bacteria that has sickened 19 people in California, Colorado, Missouri, Montana, Utah, Virginia, and Washington. Preliminary evidence suggests that rotisserie chicken salad made and sold in Costco Wholesale stores is the likely source. This follows a totally unrelated outbreak earlier this month connected to Chipotle Mexican Grill restaurants. Those restaurants have been cleaned, new ingredients ordered, and have been reopened. The Costco E. coli 157 strain, which has caused five people to be hospitalized- two of which developed hemolytic uremic syndrome (HUS; which can readily lead to acute renal failure and sepsis), is more dangerous than the Chipotle E. coli 026 strain, though there have been no deaths yet. ](/news/2015/11/24/u-s-federal-health-officials-are-investigating-an-outbreak-of-deadly-e-coli-bacteria-that-has-sickened-19-people-in-california-colorado.md) _Context: United States, Washington_
 4. [Xi Jinping begins his first visit to the United States as President of the People's Republic of China, meeting with technology company leaders and representatives in Seattle, Washington. ](/news/2015/09/22/xi-jinping-begins-his-first-visit-to-the-united-states-as-president-of-the-people-s-republic-of-china-meeting-with-technology-company-leade.md) _Context: United States, Washington_

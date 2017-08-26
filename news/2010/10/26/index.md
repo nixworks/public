@@ -30,13 +30,13 @@ The Independent newspaper launches a new daily title, called i, aimed at attract
 ### [BMW is recalling 150,000 vehicles in the U.S. due to potential fuel pump failure.](/news/2010/10/26/bmw-is-recalling-150-000-vehicles-in-the-u-s-due-to-potential-fuel-pump-failure.md)
 _Context: BMW, fuel pump_
 
-### [Economy of the United Kingdom. The UK economy grew by 0.8% in the third quarter, higher than expectations, but lower than second quarter's growth rate of 1.2%. ](/news/2010/10/26/economy-of-the-united-kingdom-the-uk-economy-grew-by-0-8-in-the-third-quarter-higher-than-expectations-but-lower-than-second-quarter-s-g.md)
+### [Economy of the United Kingdom: The UK economy grew by 0.8% in the third quarter, higher than expectations, but lower than second quarter's growth rate of 1.2%. ](/news/2010/10/26/economy-of-the-united-kingdom-the-uk-economy-grew-by-0-8-in-the-third-quarter-higher-than-expectations-but-lower-than-second-quarter-s-g.md)
 George Osborne says better-than-expected economic figures show the recovery is &quot;steady&quot;, but Labour warns that spending cuts will damage performance.
 
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
 _Context: Morton, United States, Washington_
 
-### [Sumatra earthquake, tsunami and Merapi volcanic eruption:. After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/sumatra-earthquake-tsunami-and-merapi-volcanic-eruption-after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his.md)
+### [Sumatra earthquake, tsunami and Merapi volcanic eruption:: After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/sumatra-earthquake-tsunami-and-merapi-volcanic-eruption-after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his.md)
 A tsunami that pounded remote islands in western Indonesia following an earthquake off the coast of Sumatra killed more than 100 people, officials said on Tuesday, and hundreds more were missing.
 
 ### [A cholera outbreak kills 559 in Cameroon. ](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.md)

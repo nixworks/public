@@ -1,6 +1,6 @@
 ## [2011-01-25](/news/2011/01/25/index.md)
 
-### [War in North-West Pakistan:. At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an.md)
+### [War in North-West Pakistan:: At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an.md)
 At least 10 people killed near Shia Muslim procession in Pakistan city, while four others die in attack in Karachi.
 
 ### [At least three people are killed in a clash between the Sudanese army and rebels in Darfur. ](/news/2011/01/25/at-least-three-people-are-killed-in-a-clash-between-the-sudanese-army-and-rebels-in-darfur.md)
@@ -61,13 +61,13 @@ _Context: Albania, Edi Rama, international community_
 ### [Sarath Fonseka, Sri Lanka's jailed former army chief, loses an appeal to retain his parliamentary seat. ](/news/2011/01/25/sarath-fonseka-sri-lanka-s-jailed-former-army-chief-loses-an-appeal-to-retain-his-parliamentary-seat.md)
 A court martial is part of the legal system, and a conviction by it will attract disqualification like any other court, the Sri Lankan Supreme Court ruled on Tuesday, upholding the disqualification fr
 
-### [2011 Egyptian protests:. Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md)
+### [2011 Egyptian protests:: Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md)
 Police fire tear gas at anti-government demonstrators in Cairo as thousands call for ouster of president Hosni Mubarak.
 
-### [2010-2011 Tunisian protests:. Thousands of protesters defy curfew and march in Tunis, camping outside the government's main office complex and demanding that the Prime Minister and the old guard that served under former President Zine El Abidine Ben Ali, step down. ](/news/2011/01/25/2010-2011-tunisian-protests-thousands-of-protesters-defy-curfew-and-march-in-tunis-camping-outside-the-government-s-main-office-complex.md)
+### [2010-2011 Tunisian protests:: Thousands of protesters defy curfew and march in Tunis, camping outside the government's main office complex and demanding that the Prime Minister and the old guard that served under former President Zine El Abidine Ben Ali, step down. ](/news/2011/01/25/2010-2011-tunisian-protests-thousands-of-protesters-defy-curfew-and-march-in-tunis-camping-outside-the-government-s-main-office-complex.md)
 _Context: President of Tunisia, Prime Minister, Tunis, Zine El Abidine Ben Ali, demonstrations that toppled his regime_
 
-### [Political crisis in Lebanon:. Supporters of Lebanese caretaker Prime Minister Saad Hariri call for a day of protests following Hezbollah's support for Najib Mikati as Prime Minister a new coalition government to replace that of Hariri, and igniting the possibility of clashes in the latest development in the crisis over a United Nations-backed tribunal investigating the 2005 assassination of former Prime Minister Rafic Hariri, Saad Hariri's father. ](/news/2011/01/25/political-crisis-in-lebanon-supporters-of-lebanese-caretaker-prime-minister-saad-hariri-call-for-a-day-of-protests-following-hezbollah-s-s.md)
+### [Political crisis in Lebanon:: Supporters of Lebanese caretaker Prime Minister Saad Hariri call for a day of protests following Hezbollah's support for Najib Mikati as Prime Minister a new coalition government to replace that of Hariri, and igniting the possibility of clashes in the latest development in the crisis over a United Nations-backed tribunal investigating the 2005 assassination of former Prime Minister Rafic Hariri, Saad Hariri's father. ](/news/2011/01/25/political-crisis-in-lebanon-supporters-of-lebanese-caretaker-prime-minister-saad-hariri-call-for-a-day-of-protests-following-hezbollah-s-s.md)
 _Context: Hariri's assassination, Hezbollah, Lebanon, Najib Mikati, Prime Minister, Saad Hariri, Special Tribunal for Lebanon_
 
 ## [Previous Day...](/news/2011/01/24/index.md)

@@ -1,6 +1,6 @@
 ### [2010-12-9](/news/2010/12/9/index.md)
 
-# Protests in London:. Thousands of British students demonstrate as MPs vote to triple university tuition fees. 
+# Protests in London:: Thousands of British students demonstrate as MPs vote to triple university tuition fees. 
 
 Parliamentary coalition votes to triple university fees as students clash with police in massive, violent protests.
 

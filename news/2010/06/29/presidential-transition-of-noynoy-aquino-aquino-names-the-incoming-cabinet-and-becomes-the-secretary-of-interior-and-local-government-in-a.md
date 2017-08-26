@@ -1,6 +1,6 @@
 ### [2010-06-29](/news/2010/06/29/index.md)
 
-# Presidential transition of Noynoy Aquino:. Aquino names the incoming cabinet and becomes the Secretary of Interior and Local Government in acting capacity. 
+# Presidential transition of Noynoy Aquino:: Aquino names the incoming cabinet and becomes the Secretary of Interior and Local Government in acting capacity. 
 
 
 

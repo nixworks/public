@@ -9,7 +9,7 @@ _Context: Hans-Gert Pottering, Jerzy Buzek, President of the European Parliament
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)
 _Context: H1N1, World Health Organization, vaccine, virus_
 
-### [ July 2009 Urumqi riots. China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/july-2009-ara1-4mqi-riots-china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
+### [ July 2009 Urumqi riots: China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/july-2009-ara1-4mqi-riots-china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
 _Context: China, Tayyip Erdogan, Turkey, Turkish Prime Minister, Xinjiang, ethnic riots_
 
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)

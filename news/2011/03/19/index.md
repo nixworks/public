@@ -1,15 +1,15 @@
 ## [2011-03-19](/news/2011/03/19/index.md)
 
-### [2011 Libyan civil war:. The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-the-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zon.md)
+### [2011 Libyan civil war:: The Libyan opposition stronghold of Benghazi is bombed by pro-Gaddafi forces despite the declaration of a no-fly zone by the United Nations. ](/news/2011/03/19/2011-libyan-civil-war-the-libyan-opposition-stronghold-of-benghazi-is-bombed-by-pro-gaddafi-forces-despite-the-declaration-of-a-no-fly-zon.md)
 A French plane has fired the first shots on a military vehicle in Libya, as the UK and US also join enforcement of the UN-mandated no-fly zone.
 
 ### [Tens of thousands of people from Cote d'Ivoire flee to Liberia due to ongoing violence in the country. ](/news/2011/03/19/tens-of-thousands-of-people-from-ca-te-d-ivoire-flee-to-liberia-due-to-ongoing-violence-in-the-country.md)
 Tens of thousands of people have been forced to flee to Liberia due to fresh unrest in the West African country.
 
-### [Arab Spring. Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md)
+### [Arab Spring: Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md)
 * Security tight across capital, checkpoints established * Yemen news agency chief, others leave ruling party * Opposition vows to resist,
 
-### [Israeli-Palestinian conflict:. More than 50 mortar rounds are fired from the Gaza Strip at an area in the Western Negev, Israel, injuring two Israeli civilians in response to Israeli airstrikes earlier in the week, which was itself a response to a previous Palestinian mortar attack from Gaza. Israel counterresponds with artillery and airstrikes killing two Palestinian militants. ](/news/2011/03/19/israeli-palestinian-conflict-more-than-50-mortar-rounds-are-fired-from-the-gaza-strip-at-an-area-in-the-western-negev-israel-injuring.md)
+### [Israeli-Palestinian conflict:: More than 50 mortar rounds are fired from the Gaza Strip at an area in the Western Negev, Israel, injuring two Israeli civilians in response to Israeli airstrikes earlier in the week, which was itself a response to a previous Palestinian mortar attack from Gaza. Israel counterresponds with artillery and airstrikes killing two Palestinian militants. ](/news/2011/03/19/israeli-palestinian-conflict-more-than-50-mortar-rounds-are-fired-from-the-gaza-strip-at-an-area-in-the-western-negev-israel-injuring.md)
 Hamas military wing claims responsibility for more than 50 mortar shells fired at western Negev communities. Two people lightly hurt; building sustains heavy damage. IDF bombs Gaza targets in response; injuries reported 
 
 ### [The polar bear Knut dies at the Berlin Zoo. ](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.md)
@@ -24,7 +24,7 @@ Jakarta: At least 600 people have been evacuated to temporary shelters a day aft
 ### [Construction of temporary housing begins in the Japanese town of Rikuzentakata severely damaged in the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.md)
 _Context: Japan, Rikuzentakata, an earthquake and tsunami_
 
-### [Fukushima I nuclear accidents:. The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-eve.md)
+### [Fukushima I nuclear accidents:: The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/fukushima-i-nuclear-accidents-the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-eve.md)
 Repercussions of Japan&#39;s triple disaster came into clearer focus Monday after the World Bank said the earthquake and tsunami caused up to $235 billion in damage and health officials reported more cases of radiation-tainted vegetables and tap water.
 
 ### [The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. ](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.md)

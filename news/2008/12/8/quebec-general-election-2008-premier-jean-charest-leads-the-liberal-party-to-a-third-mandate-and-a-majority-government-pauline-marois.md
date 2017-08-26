@@ -1,6 +1,6 @@
 ### [2008-12-8](/news/2008/12/8/index.md)
 
-#  Quebec general election, 2008:. Premier Jean Charest leads the Liberal Party to a third mandate and a majority government.. Pauline Marois's Parti Qubcois recovers and becomes the Official Opposition.. Support for the ADQ collapses: it loses more than 30 seats and leader Mario Dumont announces his resignation.. Qubec Solidaire scores its first election victory, electing party co-leader Amir Khadir. 
+#  Quebec general election, 2008:: Premier Jean Charest leads the Liberal Party to a third mandate and a majority government.: Pauline Marois's Parti Qubcois recovers and becomes the Official Opposition.: Support for the ADQ collapses: it loses more than 30 seats and leader Mario Dumont announces his resignation.: Qubec Solidaire scores its first election victory, electing party co-leader Amir Khadir. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Quebec general election, 2012:. The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md) _Context: Pauline Marois, premier of Quebec_
+1. [Quebec general election, 2012:: The Parti Quebecois is elected to a minority government, defeating the Liberal Party of Quebec, with Pauline Marois becoming the first female premier of Quebec. ](/news/2012/09/4/quebec-general-election-2012-the-parti-qua-c-ba-c-cois-is-elected-to-a-minority-government-defeating-the-liberal-party-of-quebec-with-pauli.md) _Context: Pauline Marois, premier of Quebec_
 2. [ Premier of Quebec, Canada, Jean Charest, calls a general election for March 26. ](/news/2007/02/21/premier-of-quebec-canada-jean-charest-calls-a-general-election-for-march-26.md) _Context: Jean Charest, premier of Quebec_
 3. [A masked gunman kills one person and wounds another at a Quebec rally for the new premier Pauline Marois. ](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.md) _Context: Pauline Marois_
 4. [Quebec premier Jean Charest calls a general election for September 2012 amidst student protests against tuition fee increases. ](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.md) _Context: Jean Charest_

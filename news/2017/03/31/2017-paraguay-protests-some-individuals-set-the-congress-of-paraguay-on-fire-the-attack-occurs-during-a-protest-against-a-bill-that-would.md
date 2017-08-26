@@ -1,6 +1,6 @@
 ### [2017-03-31](/news/2017/03/31/index.md)
 
-# 2017 Paraguay protests. Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. 
+# 2017 Paraguay protests: Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. 
 
 Violence broke out amid street protests against a bill allowing the president to run for re-election.
 

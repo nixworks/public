@@ -1,6 +1,6 @@
 ### [2016-04-22](/news/2016/04/22/index.md)
 
-# 2016 Pike County, Ohio, shootings. Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. 
+# 2016 Pike County, Ohio, shootings: Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. 
 
 One or more shooters are believed to be on the loose, armed and dangerous, after a brutal string of shootings in four homes killed a total of eight family members in southern Ohio Friday, investigators said.
 

@@ -1,6 +1,6 @@
 ## [2013-08-4](/news/2013/08/4/index.md)
 
-### [Worldwide embassy closings. The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closings-the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-att.md)
+### [Worldwide embassy closings: The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/worldwide-embassy-closings-the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-att.md)
 The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday for security reasons, the Department of Foreign Affairs, Trade and Development said on its site.
 
 ### [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia|fr neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-fr-neighbourhood.md)

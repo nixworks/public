@@ -1,6 +1,6 @@
 ### [2015-05-20](/news/2015/05/20/index.md)
 
-# 2015 Colombian landslide. The death toll from Monday's landslide in the town of Salgar rises to 80. 
+# 2015 Colombian landslide: The death toll from Monday's landslide in the town of Salgar rises to 80. 
 
 
 

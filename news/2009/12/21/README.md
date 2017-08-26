@@ -7,7 +7,7 @@ _Context: Washington, D.C._
 _Context: Legislative Assembly, Mexico City, adoption of children by same-sex couples, same-sex marriage_
 
 ### [ Remains of the first dwelling in Nazareth that can be dated back to the time of Jesus have been found by Israeli archaeologists. ](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.md)
-_Context: Archaeologists in Israel, Jesus, Nazareth_
+_Context: Archaeology of Israel, Jesus, Nazareth_
 
 ### [ At least 29 people freeze to death in Poland. ](/news/2009/12/21/at-least-29-people-freeze-to-death-in-poland.md)
 _Context: Polish_

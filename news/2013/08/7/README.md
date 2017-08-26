@@ -1,6 +1,6 @@
 ## [2013-08-7](/news/2013/08/7/index.md)
 
-### [Syrian civil war:. The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestini.md)
+### [Syrian civil war:: The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestini.md)
 _Context: Damascus, Palestinian, Syrian Army, Syrian Civil War, Yarmouk Camp_
 
 ### [Six suspect Al-Qaeda militants are killed in a drone strike in Southern Yemen. ](/news/2013/08/7/six-suspect-al-qaeda-militants-are-killed-in-a-drone-strike-in-southern-yemen.md)

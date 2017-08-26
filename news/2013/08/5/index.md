@@ -1,9 +1,9 @@
 ## [2013-08-5](/news/2013/08/5/index.md)
 
-### [War in Afghanistan (2001-present):. A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md)
+### [War in Afghanistan (2001-present):: A bomb explodes at a market in the Afghan city of Kandahar, killing at least four people. ](/news/2013/08/5/war-in-afghanistan-2001-present-a-bomb-explodes-at-a-market-in-the-afghan-city-of-kandahar-killing-at-least-four-people.md)
 Afghan officials say at least four people have been killed and more than 20 wounded in an explosion at a market in the city of Kandahar.
 
-### [Nigerian Sharia conflict:. 35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md)
+### [Nigerian Sharia conflict:: 35 people - mostly Boko Haram militants - are killed in separate attacks on security forces in Borno State. ](/news/2013/08/5/nigerian-sharia-conflict-35-people-mostly-boko-haram-militants-are-killed-in-separate-attacks-on-security-forces-in-borno-state.md)
 At least 35 peoplehave been killed in two separate gun battles between Nigeriansecurity forces and Islamist sect Boko Haram in northeast Bornostate, the army said on Monday.
 
 ### [A bomb rigged to a vehicle kills eight people in Cotabato, Philippines. ](/news/2013/08/5/a-bomb-rigged-to-a-vehicle-kills-eight-people-in-cotabato-philippines.md)

@@ -3,7 +3,7 @@
 ### [ European leaders remember the victims of World War II at ceremonies marking the start of the conflict 70 years ago. ](/news/2009/09/1/european-leaders-remember-the-victims-of-world-war-ii-at-ceremonies-marking-the-start-of-the-conflict-70-years-ago.md)
 Germany&#39;s 1939 invasion of Poland opened the &#39;most tragic chapter&#39; in European history, German Chancellor Angela Merkel has said.
 
-### [ Muammar al-Gaddafi:. Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md)
+### [ Muammar al-Gaddafi:: Libyan leader Muammar al-Gaddafi celebrates the 40th anniversary of the coup d'etat which brought him to power. ](/news/2009/09/1/muammar-al-gaddafi-libyan-leader-muammar-al-gaddafi-celebrates-the-40th-anniversary-of-the-coup-d-a-c-tat-which-brought-him-to-power.md)
 Libyan leader Muammar Gaddafi is celebrating the 40th anniversary of the coup that brought him to power.
 
 ### [ President Tabare Vazquez of Uruguay shuffles his cabinet, with Gonzalo Fernandez, drafter of all major legislation, moving from Foreign Affairs to Defence. ](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.md)

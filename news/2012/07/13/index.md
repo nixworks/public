@@ -9,10 +9,10 @@ _Context: Bedouin, Egypt, Sinai, United States_
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_
 
-### [Nigerian Sharia conflict:. A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)
+### [Nigerian Sharia conflict:: A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/nigerian-sharia-conflict-a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)
 _Context: Maiduguri, Nigeria, Nigerian Sharia conflict, mosque, suicide bomber_
 
-### [War in Afghanistan (2001-present):. A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001-present-a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
+### [War in Afghanistan (2001-present):: A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001-present-a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
 _Context: Afghanistan's, Hanifa Safi, War in Afghanistan (2001-present)_
 
 ### [Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN/Pinter Prize. ](/news/2012/07/13/carol-ann-duffy-the-poet-laureate-of-the-united-kingdom-is-announced-as-the-winner-of-the-2012-pen-pinter-prize.md)

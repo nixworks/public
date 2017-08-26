@@ -1,6 +1,6 @@
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-# 2011 Wisconsin protests in US. The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. 
+# 2011 Wisconsin protests in US: The Wisconsin State Capitol is placed on lockdown to prevent protesters gaining access. 
 
 Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane County DA, charging that the Joint Conference Committee that convened Wednesday and passed an amended version of Gov.
 

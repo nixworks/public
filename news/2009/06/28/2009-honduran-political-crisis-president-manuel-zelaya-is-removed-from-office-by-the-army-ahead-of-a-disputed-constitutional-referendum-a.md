@@ -1,6 +1,6 @@
 ### [2009-06-28](/news/2009/06/28/index.md)
 
-#  2009 Honduran political crisis:. President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. 
+#  2009 Honduran political crisis:: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. 
 
 
 

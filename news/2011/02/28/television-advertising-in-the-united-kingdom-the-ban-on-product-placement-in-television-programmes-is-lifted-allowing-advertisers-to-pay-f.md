@@ -1,6 +1,6 @@
 ### [2011-02-28](/news/2011/02/28/index.md)
 
-# Television advertising in the United Kingdom. The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". 
+# Television advertising in the United Kingdom: The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". 
 
 A ban on product placement is lifted, allowing advertisers to pay for their goods to be seen on British TV for the first time.
 

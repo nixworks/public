@@ -1,6 +1,6 @@
 ### [2005-07-27](/news/2005/07/27/index.md)
 
-#  British "Shoot to Kill" Police Policy:. The British Police member who shot an innocent Brazilian man seven times in the head and once in the shoulder has been given a free holiday, paid for by Scotland Yard.[http://news.bbc.co.uk/1/hi/uk/4720979.stm (BBC)]. Sir Ian Blair, Commissioner of the Metropolitan Police has told Channel 4 news that on seven separate occasions British police have come close to killing suspected Suicide Bombers who it transpired were not Suicide Bombers. [http://www.timesonline.co.uk/article/0,,22989-1710202,00.html (The Times)], [http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html (Financial Times)]
+#  British "Shoot to Kill" Police Policy:: The British Police member who shot an innocent Brazilian man seven times in the head and once in the shoulder has been given a free holiday, paid for by Scotland Yard.[http://news.bbc.co.uk/1/hi/uk/4720979.stm (BBC)]: Sir Ian Blair, Commissioner of the Metropolitan Police has told Channel 4 news that on seven separate occasions British police have come close to killing suspected Suicide Bombers who it transpired were not Suicide Bombers. [http://www.timesonline.co.uk/article/0,,22989-1710202,00.html (The Times)], [http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html (Financial Times)]
 
 
 

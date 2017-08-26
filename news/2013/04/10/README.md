@@ -6,10 +6,10 @@ PC sales during the first quarter were the lowest since IDC began keeping track.
 ### [Costa Cruises is fined US$1.3 million in lieu of criminal charges relating to the "Costa Concordia" cruise ship disaster last year. ](/news/2013/04/10/costa-cruises-is-fined-us-1-3-million-in-lieu-of-criminal-charges-relating-to-the-costa-concordia-cruise-ship-disaster-last-year.md)
 ROME -- The operator of the Costa Concordia cruise ship, which struck rocks and partially sank off Italy last year, killing 32 people, agreed&nbsp; Wednesday to pay a $1.3-million fine to avoid a...
 
-### [2013 Korean crisis:. North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md)
+### [2013 Korean crisis:: North Korea shuts down tourism from China as nuclear tensions mount, but business travel is allowed to continue. ](/news/2013/04/10/2013-korean-crisis-north-korea-shuts-down-tourism-from-china-as-nuclear-tensions-mount-but-business-travel-is-allowed-to-continue.md)
 The biggest border crossing between North Korea and China has been closed to tourist groups, a Chinese official says, as nuclear tensions mounted, but business travel was allowed to continue.
 
-### [Senkaku Islands dispute:. Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md)
+### [Senkaku Islands dispute:: Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md)
 _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, Taiwan, fishing_
 
 ### [An Arabian camel gifted to President of France Francois Hollande for liberating Mali is killed and stewed by a family in Timbuktu, in whose care Hollande had left it. ](/news/2013/04/10/an-arabian-camel-gifted-to-president-of-france-franassois-hollande-for-liberating-mali-is-killed-and-stewed-by-a-family-in-timbuktu-in-whose.md)

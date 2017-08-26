@@ -1,6 +1,6 @@
 ### [2015-01-9](/news/2015/01/9/index.md)
 
-# Sri Lankan presidential election, 2015. Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. 
+# Sri Lankan presidential election, 2015: Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. 
 
 Shock as authoritarian president’s office reports that he has left official residence
 
@@ -11,10 +11,10 @@ Shock as authoritarian president’s office reports that he has left official re
 
 ### Related:
 
-1. [Sri Lankan presidential election, 2015. Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/sri-lankan-presidential-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-betwe.md) _Context: Mahinda Rajapaksa, Maithripala Sirisena, Sri Lankan presidential election, 2015_
+1. [Sri Lankan presidential election, 2015: Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/sri-lankan-presidential-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-betwe.md) _Context: Mahinda Rajapaksa, Maithripala Sirisena, Sri Lankan presidential election, 2015_
 2. [The President of Sri Lanka Maithripala Sirisena reinstates former Chief Justice Shirani Bandaranayake who had been sacked by former President Mahinda Rajapaksa. ](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.md) _Context: Mahinda Rajapaksa, Maithripala Sirisena_
-3. [Sri Lankan presidential election, 2015. The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/sri-lankan-presidential-election-2015-the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-ma.md) _Context: Mahinda Rajapaksa, Sri Lankan presidential election, 2015_
-4. [ Sri Lankan parliamentary election, 2015. Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-parliamentary-election-2015-sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcomin.md) _Context: Maithripala Sirisena_
+3. [Sri Lankan presidential election, 2015: The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/sri-lankan-presidential-election-2015-the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-ma.md) _Context: Mahinda Rajapaksa, Sri Lankan presidential election, 2015_
+4. [ Sri Lankan parliamentary election, 2015: Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-parliamentary-election-2015-sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcomin.md) _Context: Maithripala Sirisena_
 5. [The President of Sri Lanka Mahinda Rajapaksa calls an early election. ](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.md) _Context: Mahinda Rajapaksa_
 6. [Sri Lankan Chief Justice Shirani Bandaranayake is removed from office by President Mahinda Rajapaksa after being impeached. ](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.md) _Context: Mahinda Rajapaksa_
 7. [Sri Lanka's former army chief Sarath Fonseka is freed from prison with a pardon from President Mahinda Rajapaksa. ](/news/2012/05/21/sri-lanka-s-former-army-chief-sarath-fonseka-is-freed-from-prison-with-a-pardon-from-president-mahinda-rajapaksa.md) _Context: Mahinda Rajapaksa_

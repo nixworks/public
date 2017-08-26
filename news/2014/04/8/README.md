@@ -3,16 +3,16 @@
 ### [A bomb detonates on a rail car in Sibi, Pakistan, killing 13 people and injuring another 35. ](/news/2014/04/8/a-bomb-detonates-on-a-rail-car-in-sibi-pakistan-killing-13-people-and-injuring-another-35.md)
 _Context: Pakistan, Sibi_
 
-### [South Thailand insurgency:. The southern town of Yala is hit by a series of explosions that have killed one and injured others. ](/news/2014/04/8/south-thailand-insurgency-the-southern-town-of-yala-is-hit-by-a-series-of-explosions-that-have-killed-one-and-injured-others.md)
+### [South Thailand insurgency:: The southern town of Yala is hit by a series of explosions that have killed one and injured others. ](/news/2014/04/8/south-thailand-insurgency-the-southern-town-of-yala-is-hit-by-a-series-of-explosions-that-have-killed-one-and-injured-others.md)
 Thailand&#039;s deep south has been rocked by a string of bomb attacks and brutal killings of Thai Buddhist women.
 
 ### [Ford Motor Company recalls nearly 435,000 vehicles, citing rust and seat issues. ](/news/2014/04/8/ford-motor-company-recalls-nearly-435-000-vehicles-citing-rust-and-seat-issues.md)
 _Context: Ford Motor Company_
 
-### [2014 pro-Russian protests in Ukraine:. Ukrainian police detain about 70 people in Kharkiv in an "anti-terrorist" operation that clear government buildings seized by pro-Russian protesters in Kharkiv.](/news/2014/04/8/2014-pro-russian-protests-in-ukraine-ukrainian-police-detain-about-70-people-in-kharkiv-in-an-anti-terrorist-operation-that-clear-govern.md)
+### [2014 pro-Russian protests in Ukraine:: Ukrainian police detain about 70 people in Kharkiv in an "anti-terrorist" operation that clear government buildings seized by pro-Russian protesters in Kharkiv.](/news/2014/04/8/2014-pro-russian-protests-in-ukraine-ukrainian-police-detain-about-70-people-in-kharkiv-in-an-anti-terrorist-operation-that-clear-govern.md)
 U.S. Secretary of State John Kerry accused Russian agents and special forces on Tuesday of stirring separatist unrest in eastern Ukraine, saying Moscow could be trying to prepare for military action as it had in Crimea.
 
-### [Senkaku Islands dispute:. United States Secretary of Defense Chuck Hagel voices the U.S. government-s continued support of Japan-s claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-government-s-continued-support-of-japan-s-claim.md)
+### [Senkaku Islands dispute:: United States Secretary of Defense Chuck Hagel voices the U.S. government-s continued support of Japan-s claims to the disputed territory. ](/news/2014/04/8/senkaku-islands-dispute-united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-government-s-continued-support-of-japan-s-claim.md)
 _Context: Chuck Hagel, Secretary of Defense, Senkaku Islands dispute_
 
 ### [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md)

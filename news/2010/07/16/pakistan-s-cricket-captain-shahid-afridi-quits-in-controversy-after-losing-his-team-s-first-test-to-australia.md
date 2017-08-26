@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2013 in Pakistan:. Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the.md) _Context: cricketer_
+1. [2013 in Pakistan:: Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/2013-in-pakistan-tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the.md) _Context: cricketer_
 2. [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworth-lewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md) _Context: cricketer_
 3. [Salman Butt captains Pakistan for the rest of their tour after Shahid Afridi's retirement from Tests. ](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.md) _Context: Shahid Afridi_
 4. [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md) _Context: cricketer_

@@ -6,7 +6,7 @@ Denmark raised its terror attack preparedness on Saturday, the ninth anniversary
 ### [U.S. Army Staff Sergeant Salvatore Giunta is awarded the Medal of Honor for his actions during the ongoing War in Afghanistan, the first living recipient to be so honored since the Vietnam War. ](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.md)
 _Context: Medal of Honor, Salvatore Giunta, Staff Sergeant, U.S. Army, Vietnam War, War in Afghanistan (2001-present)_
 
-### [Eid al-Fitr:. Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md)
+### [Eid al-Fitr:: Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/eid-al-fitr-muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md)
 Tens of thousands of people across Indian-administered Kashmir join protests against Indian rule, following prayers to celebrate the end of Ramadan.
 
 ### [U.S. film director Sofia Coppola wins the Golden Lion at the 67th Venice International Film Festival for her film "Somewhere". ](/news/2010/09/11/u-s-film-director-sofia-coppola-wins-the-golden-lion-at-the-67th-venice-international-film-festival-for-her-film-somewhere.md)
@@ -15,7 +15,7 @@ Director Sofia Coppola has taken the top prize at the Venice Film Festival for h
 ### [US actor Kevin McCarthy best known for his roles in "Invasion of the Body Snatchers" and "Death of a Salesman" dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
 _Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, United States_
 
-### [Greek protests against austerity:. Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/greek-protests-against-austerity-police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-geor.md)
+### [Greek protests against austerity:: Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/greek-protests-against-austerity-police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-geor.md)
 Greek unions stage mass protests in Thessaloniki but Prime Minister George Papandreou says he will not scale back his austerity plans.
 
 ### [Air Zimbabwe fires pilots on strike for better pay. ](/news/2010/09/11/air-zimbabwe-fires-pilots-on-strike-for-better-pay.md)
@@ -75,7 +75,7 @@ Prime Minister Julia Gillard has announced her new-look Cabinet after earlier co
 ### [The United States commemorates the anniversary of the September 11 attacks with events in New York City, the Pentagon Memorial in Washington D.C. and in Shanksville, Pennsylvania, near where United Airlines Flight 93 crashed. ](/news/2010/09/11/the-united-states-commemorates-the-anniversary-of-the-september-11-attacks-with-events-in-new-york-city-the-pentagon-memorial-in-washington.md)
 Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn the Koran, will take place on the ninth anniversary of the 9/11 attacks.
 
-### [2010 Qur'an-burning controversy:. Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md)
+### [2010 Qur'an-burning controversy:: Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-thousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md)
 E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces on Saturday, as thousands of Afghans demonstrated for a second day, despite a U.S. pastor suspending plans to burn copies of the Koran, officials said.
 
 ## [Previous Day...](/news/2010/09/10/index.md)

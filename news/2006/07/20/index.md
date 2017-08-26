@@ -1,6 +1,6 @@
 ## [2006-07-20](/news/2006/07/20/index.md)
 
-### [ 2006 Israel-Lebanon conflict:. Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/20/2006-israel-lebanon-conflict-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md)
+### [ 2006 Israel-Lebanon conflict:: Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/20/2006-israel-lebanon-conflict-hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-ko.md)
 _Context: Hezbollah, Israel, Kofi Annan, Lebanon, UN, war_
 
 ### [ Iran states that it is determined to produce nuclear fuel on its territory. It will respond officially to a Western incentive package on August 22, 2006. ](/news/2006/07/20/iran-states-that-it-is-determined-to-produce-nuclear-fuel-on-its-territory-it-will-respond-officially-to-a-western-incentive-package-on-au.md)

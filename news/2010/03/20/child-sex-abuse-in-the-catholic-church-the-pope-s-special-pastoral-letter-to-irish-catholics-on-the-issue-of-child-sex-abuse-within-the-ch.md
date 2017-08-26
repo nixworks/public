@@ -1,6 +1,6 @@
 ### [2010-03-20](/news/2010/03/20/index.md)
 
-# Child sex abuse in the Catholic Church:. The Pope's special pastoral letter to Irish Catholics on the issue of child sex abuse within the Church is published by the Vatican but fails to impress some survivors organisations. 
+# Child sex abuse in the Catholic Church:: The Pope's special pastoral letter to Irish Catholics on the issue of child sex abuse within the Church is published by the Vatican but fails to impress some survivors organisations. 
 
 Pope Benedict XVI has described the abuse of children by Irish clergy and religious as &#39;sinful and criminal&#39;.
 

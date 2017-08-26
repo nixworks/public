@@ -30,7 +30,7 @@ _Context: 2007 Pacific typhoon season, South Korea_
 ### [ A new species of bat, the Mindoro Stripe-Faced Fruit bat, is discovered on Mindoro Island in the Philippines. ](/news/2007/09/17/a-new-species-of-bat-the-mindoro-stripe-faced-fruit-bat-is-discovered-on-mindoro-island-in-the-philippines.md)
 _Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippines, bat_
 
-### [ Flight OG 269 crash:. Fifty-five foreigners are among the 88 people who died in the crash of Flight OG 269 in Phuket. ](/news/2007/09/17/flight-og-269-crash-fifty-five-foreigners-are-among-the-88-people-who-died-in-the-crash-of-flight-og-269-in-phuket.md)
+### [ Flight OG 269 crash:: Fifty-five foreigners are among the 88 people who died in the crash of Flight OG 269 in Phuket. ](/news/2007/09/17/flight-og-269-crash-fifty-five-foreigners-are-among-the-88-people-who-died-in-the-crash-of-flight-og-269-in-phuket.md)
 A total of 55 foreigners, including one Australian, have been confirmed among the 88 people killed after a budget Thai airliner crashed whilst attempting to land on the resort island of Phuket yesterday.
 
 ### [ Greek conservative Prime Minister Costas Karamanlis early Monday declared victory in Sunday's general elections after early results gave his ruling New Democracy party a lead of over four percent over the opposition Pasok socialists. ](/news/2007/09/17/greek-conservative-prime-minister-costas-karamanlis-early-monday-declared-victory-in-sunday-s-general-elections-after-early-results-gave-hi.md)

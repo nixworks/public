@@ -15,4 +15,4 @@ Two more people died and one was missing Monday following flooding in the southe
 
 ### Related:
 
-1. [Campinas massacre. A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/campinas-massacre-a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murder-suicide-at-a-new-year.md) _Context: southeast Brazilian_
+1. [Campinas massacre: A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/campinas-massacre-a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murder-suicide-at-a-new-year.md) _Context: southeast Brazilian_

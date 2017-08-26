@@ -1,6 +1,6 @@
 ### [2006-08-25](/news/2006/08/25/index.md)
 
-#  2006 Israel-Lebanon conflict:. French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". 
+#  2006 Israel-Lebanon conflict:: French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". 
 
 
 

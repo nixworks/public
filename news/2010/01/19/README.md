@@ -1,9 +1,9 @@
 ## [2010-01-19](/news/2010/01/19/index.md)
 
-### [2010 Haiti earthquake:. The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md)
+### [2010 Haiti earthquake:: The United Nations Security Council increases the size of the United Nations Stabilization Mission in Haiti by 3,500. ](/news/2010/01/19/2010-haiti-earthquake-the-united-nations-security-council-increases-the-size-of-the-united-nations-stabilization-mission-in-haiti-by-3-500.md)
 _Context: 2010 Haiti earthquake, United Nations Security Council, United Nations Stabilization Mission in Haiti, increases the size_
 
-### [Cadbury acquisition:. British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence.md)
+### [Cadbury acquisition:: British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/cadbury-acquisition-british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence.md)
 _Context: Cadbury, Cadbury acquisition, Great Britain, Kraft Foods, United States, confectionery_
 
 ### [Iran rejects a deal offered by the International Atomic Energy Agency to exchange low-enriched uranium for nuclear fuel. ](/news/2010/01/19/iran-rejects-a-deal-offered-by-the-international-atomic-energy-agency-to-exchange-low-enriched-uranium-for-nuclear-fuel.md)

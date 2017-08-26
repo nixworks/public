@@ -9,7 +9,7 @@ _Context: Baidu, China, Iran_
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
 _Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
-### [Mexican Drug War:. Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a.md)
+### [Mexican Drug War:: Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a.md)
 _Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
 
 ### [U.S. talk show host Conan O'Brien announces his intention to quit "The Tonight Show" if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of "The Jay Leno Show". ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show-fr.md)

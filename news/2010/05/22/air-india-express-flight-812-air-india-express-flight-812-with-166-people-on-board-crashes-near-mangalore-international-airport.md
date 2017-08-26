@@ -1,6 +1,6 @@
 ### [2010-05-22](/news/2010/05/22/index.md)
 
-# Air India Express Flight 812:. Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. 
+# Air India Express Flight 812:: Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. 
 
 A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a landing accident at Mangalore-Bajpe Airport (IXE), India. There were 160 passengers and six crew members on board. The airplane operated on a flight from Dubai Airport (DXB) to Mangalore-Bajpe Airport (IXE).
 

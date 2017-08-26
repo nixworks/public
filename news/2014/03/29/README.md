@@ -3,10 +3,10 @@
 ### [Italian architect Pier Carlo Bontempi wins the Driehaus Prize. ](/news/2014/03/29/italian-architect-pier-carlo-bontempi-wins-the-driehaus-prize.md)
 Italian architect Pier Carlo Bontempi has been selected as the 12th recipient of the Richard H. Driehaus Prize at the...
 
-### [Syrian Civil War spillover in Lebanon:. A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-clos.md)
+### [Syrian Civil War spillover in Lebanon:: A suicide bomber kills three soldiers at a Lebanese army checkpoint in the border town of Arsal close to the Syrian border. ](/news/2014/03/29/syrian-civil-war-spillover-in-lebanon-a-suicide-bomber-kills-three-soldiers-at-a-lebanese-army-checkpoint-in-the-border-town-of-arsal-clos.md)
 A suicide bomber killed himself and three soldiers when he detonated a car bomb at a Lebanese army checkpoint in the border town of Arsal on Saturday, Lebane
 
-### [2014 Crimean crisis:. Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md)
+### [2014 Crimean crisis:: Sergey Lavrov, the Foreign Minister of Russia, says that Russia has no intention of invading Ukraine. ](/news/2014/03/29/2014-crimean-crisis-sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-has-no-intention-of-invading-ukraine.md)
 * Lavrov, Kerry to meet in Paris, following Obama-Putinphone call* West worried by Russian troop buildup near Ukraine* NATO chief says Crime
 
 ### [The Republic of the Philippines ship was blocked by Chinese Coast Guard ship near the Philippine held territory Ayungin Shoal.date=April 2014](/news/2014/03/29/the-republic-of-the-philippines-ship-was-blocked-by-chinese-coast-guard-ship-near-the-philippine-held-territory-ayungin-shoal-date-april-201.md)

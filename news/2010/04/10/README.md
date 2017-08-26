@@ -1,6 +1,6 @@
 ## [2010-04-10](/news/2010/04/10/index.md)
 
-### [2010 Polish Air Force Tu-154 crash:. A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. ](/news/2010/04/10/2010-polish-air-force-tu-154-crash-a-tu-154-from-the-36th-special-aviation-regiment-crashes-while-landing-at-military-airport-severny-in-s.md)
+### [2010 Polish Air Force Tu-154 crash:: A Tu-154 from the 36th Special Aviation Regiment crashes while landing at military airport Severny in Smolensk Oblast, Russia; 96 persons onboard are reported dead. Pilot error is seen as a possible cause of the crash. ](/news/2010/04/10/2010-polish-air-force-tu-154-crash-a-tu-154-from-the-36th-special-aviation-regiment-crashes-while-landing-at-military-airport-severny-in-s.md)
 The aging jet was taking a delegation to a ceremony marking the 70th anniversary of the slaughter of thousands of Polish military officers by Soviet secret police when it went down.
 
 ### [Nineteen people die after violence breaks out between government forces and protesters in Thailand. ](/news/2010/04/10/nineteen-people-die-after-violence-breaks-out-between-government-forces-and-protesters-in-thailand.md)

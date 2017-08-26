@@ -1,6 +1,6 @@
 ## [2013-09-30](/news/2013/09/30/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-fourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Fourteen car bombs targeting Shi'ite neighborhoods in Baghdad leave 54 people dead. ](/news/2013/09/30/iraqi-insurgency-post-u-s-withdrawal-fourteen-car-bombs-targeting-shi-ite-neighborhoods-in-baghdad-leave-54-people-dead.md)
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), Shi'ite_
 
 ### [Pharmaceutical giant GlaxoSmithKline agrees to sell its thrombosis drug brands to Aspen Pharmacare. ](/news/2013/09/30/pharmaceutical-giant-glaxosmithkline-agrees-to-sell-its-thrombosis-drug-brands-to-aspen-pharmacare.md)

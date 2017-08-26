@@ -1,6 +1,6 @@
 ### [2010-04-19](/news/2010/04/19/index.md)
 
-# Kyrgyzstan unrest:. Several hundred people armed with sticks and stones clashed with ethnic Russians and Meskhetian Turk landowners in the village of Maevka, before moving toward the capital Bishkek and demanding talks with officials. 
+# Kyrgyzstan unrest:: Several hundred people armed with sticks and stones clashed with ethnic Russians and Meskhetian Turk landowners in the village of Maevka, before moving toward the capital Bishkek and demanding talks with officials. 
 
 
 
@@ -13,8 +13,8 @@
 ### Related:
 
 1. [An explosion occurs outside a stadium in Bishkek, Kyrgyzstan, injuring four people. ](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.md) _Context: Bishkek_
-2. [Kyrgyzstan:. Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md) _Context: Bishkek_
-3. [2010 Kyrgyzstan crisis:. Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/2010-kyrgyzstan-crisis-riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes.md) _Context: Bishkek_
+2. [Kyrgyzstan:: Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. ](/news/2010/08/5/kyrgyzstan-troops-in-bishkek-fire-shots-as-protesters-travel-to-support-urmat-baryktabasov-an-opposition-politician-who-arrived-back-in-k.md) _Context: Bishkek_
+3. [2010 Kyrgyzstan crisis:: Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/2010-kyrgyzstan-crisis-riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes.md) _Context: Bishkek_
 4. [Kyrgyz Revolution of 2010: Hundreds of protesters seize a government office in Bishkek to request the resignition of Kurmanbek Bakiyev after battling flashbangs and lachrymators. A local governor is taken hostage by protesters. Hundreds surround police HQ. Almazbek Atambayev is seized by police. There are riots in Talas. ](/news/2010/04/6/kyrgyz-revolution-of-2010-hundreds-of-protesters-seize-a-government-office-in-bishkek-to-request-the-resignition-of-kurmanbek-bakiyev-after.md) _Context: Bishkek_
 5. [President of Belarus Alexander Lukashenko announces the ousted President of Kyrgyzstan Kurmanbek Bakiyev, who is wanted by his successors in connection with the recent unrest, is in Minsk. ](/news/2010/04/20/president-of-belarus-alexander-lukashenko-announces-the-ousted-president-of-kyrgyzstan-kurmanbek-bakiyev-who-is-wanted-by-his-successors-in.md) _Context: the recent unrest_
 6. [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md) _Context: the recent unrest_

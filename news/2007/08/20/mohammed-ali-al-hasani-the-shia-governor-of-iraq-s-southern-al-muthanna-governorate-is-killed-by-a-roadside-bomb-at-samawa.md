@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Syrian Civil War. Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/syrian-civil-war-twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascu.md) _Context: Iraq, Shia_
+1. [Syrian Civil War: Twin bombings kill at least 40 people, mostly Shia Iraqi pilgrims, and wound over 100 in the Bab al-Saghir area of Damascus. ](/news/2017/03/11/syrian-civil-war-twin-bombings-kill-at-least-40-people-mostly-shia-iraqi-pilgrims-and-wound-over-100-in-the-bab-al-saghir-area-of-damascu.md) _Context: Iraq, Shia_
 2. [A series of bombings over the three-day Shia pilgrimage to the mausoleum of Musa Kadhim in Iraq kill at least 70 and wound 300.](/news/2010/07/8/a-series-of-bombings-over-the-three-day-shia-pilgrimage-to-the-mausoleum-of-musa-kadhim-in-iraq-kill-at-least-70-and-wound-300.md) _Context: Iraq, Shia_
 3. [A suicide bomber attacks a Shia pilgrimage in Baghdad, Iraq killing at least 41 and wounding 174. ](/news/2010/07/7/a-suicide-bomber-attacks-a-shia-pilgrimage-in-baghdad-iraq-killing-at-least-41-and-wounding-174.md) _Context: Iraq, Shia_
 4. [ Bomb attacks on a Shia mosque and pilgrims at Shreikhan village near Mosul kill at least 36 people as Iraq's largest Muslim community marks one of its biggest feasts, gathering in Karbala to mark the birth of Muhammad al-Mahdi. ](/news/2009/08/7/bomb-attacks-on-a-shia-mosque-and-pilgrims-at-shreikhan-village-near-mosul-kill-at-least-36-people-as-iraq-s-largest-muslim-community-marks.md) _Context: Iraq, Shia_

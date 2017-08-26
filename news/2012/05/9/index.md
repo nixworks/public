@@ -1,6 +1,6 @@
 ## [2012-05-9](/news/2012/05/9/index.md)
 
-### [Mexican Drug War:. 15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. "El Chapo"), Mexico's most-wanted drug lord. ](/news/2012/05/9/mexican-drug-war-15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-l.md)
+### [Mexican Drug War:: 15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. "El Chapo"), Mexico's most-wanted drug lord. ](/news/2012/05/9/mexican-drug-war-15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-l.md)
 Police in western Mexico try to identify the remains of 18 people found dismembered and dumped in two cars in Jalisco state.
 
 ### [A bomb explodes in Daraa, Syria, near a convoy carrying several United Nations observers in the country. ](/news/2012/05/9/a-bomb-explodes-in-daraa-syria-near-a-convoy-carrying-several-united-nations-observers-in-the-country.md)
@@ -46,7 +46,7 @@ A journalist with a top Honduran radio station was kidnapped Wednesday on his wa
 _Context: Ukraine, Yulia Tymoshenko_
 
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
-_Context: Barack Obama, president, same-sex marriage_
+_Context: Barack Obama, President, same-sex marriage_
 
 ## [Previous Day...](/news/2012/05/8/index.md)
 

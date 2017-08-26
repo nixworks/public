@@ -1,9 +1,9 @@
 ## [2012-07-8](/news/2012/07/8/index.md)
 
-### [Syrian uprising (2011-present):. United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011-present-united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md)
+### [Syrian uprising (2011-present):: United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/syrian-uprising-2011-present-united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md)
 Peace envoy Kofi Annan arrives for talks with President Bashar al-Assad amid escalating combat and no negotiations.
 
-### [Nigeria violence:. Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md)
+### [Nigeria violence:: Gunmen attack Christian villages in northern Nigeria, killing dozens of people. ](/news/2012/07/8/nigeria-violence-gunmen-attack-christian-villages-in-northern-nigeria-killing-dozens-of-people.md)
 Two Nigerian politicians die during an attack by gunmen on a funeral for victims of communal violence that has flared around Jos in Plateau state.
 
 ### [Rebels from the March 23 Movement seize three more towns in eastern Democratic Republic of the Congo. ](/news/2012/07/8/rebels-from-the-march-23-movement-seize-three-more-towns-in-eastern-democratic-republic-of-the-congo.md)

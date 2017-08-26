@@ -1,6 +1,6 @@
 ### [2010-03-3](/news/2010/03/3/index.md)
 
-# "The Hurt Locker":. Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. 
+# "The Hurt Locker":: Nicolas Chartier, producer of "The Hurt Locker", is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. 
 
 
 

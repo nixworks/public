@@ -1,15 +1,15 @@
 ## [2013-05-16](/news/2013/05/16/index.md)
 
-### [War in Afghanistan (2001-present):. Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/war-in-afghanistan-2001-present-many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in.md)
+### [War in Afghanistan (2001-present):: Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/war-in-afghanistan-2001-present-many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in.md)
 _Context: Afghanistan's, Hizb-i-Islami, Kabul, War in Afghanistan (2001-present), suicide bombing_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
 Spike in violence comes amid tensions between the Shiite-led government and Sunni minority.
 
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
 _Context: Egypt, Sinai_
 
-### [Nigerian Sharia conflict:. The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
+### [Nigerian Sharia conflict:: The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
 _Context: Adamawa State, Nigerian Sharia conflict_
 
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)

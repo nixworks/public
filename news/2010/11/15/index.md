@@ -24,7 +24,7 @@ _Context: Aung San Suu Kyi, Burma, Myanmar government, general elections, human 
 ### [A. Raja resigns as the Indian Telecommunications Minister over claims that licenses had been improperly given to mobile phone companies. ](/news/2010/11/15/a-raja-resigns-as-the-indian-telecommunications-minister-over-claims-that-licenses-had-been-improperly-given-to-mobile-phone-companies.md)
 _Context: A. Raja, India, Telecommunications Minister, mobile phone_
 
-### [Guinea election. Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-election-violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)
+### [Guinea election: Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/guinea-election-violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)
 Deadly violence flares in Guinea hours ahead of results of its first democratic presidential election since independence from France over 50 years ago.
 
 ### [Scientists exhume the remains of 16th century astronomer Tycho Brahe in Prague to try to solve the mystery of his sudden death. ](/news/2010/11/15/scientists-exhume-the-remains-of-16th-century-astronomer-tycho-brahe-in-prague-to-try-to-solve-the-mystery-of-his-sudden-death.md)

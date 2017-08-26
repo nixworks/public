@@ -9,7 +9,7 @@ A United Nations report accuses Eritrea of planning to set off a car bomb at a s
 ### [Assassins kill the military commander of Libya's National Transitional Council General Abdul Fatah Younis and two other officers. ](/news/2011/07/28/assassins-kill-the-military-commander-of-libya-s-national-transitional-council-general-abdul-fatah-younis-and-two-other-officers.md)
 Assassins killed Libya’s top rebel military commander, stirring fears that a tribal feud could divide the forces.
 
-### [War in Afghanistan (2001-present):. A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001-present-a-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md)
+### [War in Afghanistan (2001-present):: A Taliban attack in Afghanistan's Uruzgan province kills 21 people including a BBC reporter Ahmed Omed Khpulwak. ](/news/2011/07/28/war-in-afghanistan-2001-present-a-taliban-attack-in-afghanistan-s-uruzgan-province-kills-21-people-including-a-bbc-reporter-ahmed-omed.md)
 Taliban bomb and gun attacks on an official&#039;s compound and a militia base in the southern Afghan province of Uruzgan have killed 21 people, including a local BBC reporter.
 
 ### [Swiss bank Credit Suisse announces plans to cut 2,000 jobs due to poor profit results. ](/news/2011/07/28/swiss-bank-credit-suisse-announces-plans-to-cut-2-000-jobs-due-to-poor-profit-results.md)
@@ -36,7 +36,7 @@ _Context: Democratic Republic of the Congo, Tshuapa River_
 ### [South Korea resumes sending food aid to North Korea to assist with chronic food shortages. ](/news/2011/07/28/south-korea-resumes-sending-food-aid-to-north-korea-to-assist-with-chronic-food-shortages.md)
 _Context: North Korea, South Korea_
 
-### [News International phone hacking scandal:. Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/news-international-phone-hacking-scandal-police-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found.md)
+### [News International phone hacking scandal:: Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/news-international-phone-hacking-scandal-police-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found.md)
 The mother of murder victim Sarah Payne has been told she may have been the victim of phone hacking, her charity has said.
 
 ### [In a legal milestone, the High Court of England and Wales rules that BT Group must block access to Newzbin 2, a members-only website providing links to pirated movies. ](/news/2011/07/28/in-a-legal-milestone-the-high-court-of-england-and-wales-rules-that-bt-group-must-block-access-to-newzbin-2-a-members-only-website-providi.md)

@@ -3,7 +3,7 @@
 ### [Unknown assailants kill 2 Hungarians, 2 Germans and an Austrian in northeastern Ethiopia. ](/news/2012/01/17/unknown-assailants-kill-2-hungarians-2-germans-and-an-austrian-in-northeastern-ethiopia.md)
 Unknown assailants kill at least five European tourists, and wound and kidnap several others in remote Afar region.
 
-### [2011-2012 Syrian uprising:. Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011-2012-syrian-uprising-syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md)
+### [2011-2012 Syrian uprising:: Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011-2012-syrian-uprising-syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md)
 _Context: 2011-2012 Syrian uprising, Syria_
 
 ### [Officials in Burma order the military to stop offensives in ethnic minority areas. ](/news/2012/01/17/officials-in-burma-order-the-military-to-stop-offensives-in-ethnic-minority-areas.md)

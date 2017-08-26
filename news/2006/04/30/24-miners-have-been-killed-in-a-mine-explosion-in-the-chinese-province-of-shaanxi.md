@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Road incidents in China. At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _Context: Shaanxi_
+1. [Road incidents in China: At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/road-incidents-in-china-at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoya.md) _Context: Shaanxi_
 2. [Illegally stored explosives cause an explosion in a house in northwestern China that kills at least 14 people and injures 147 others in the town of Xinmin in Shaanxi province. ](/news/2016/10/25/illegally-stored-explosives-cause-an-explosion-in-a-house-in-northwestern-china-that-kills-at-least-14-people-and-injures-147-others-in-the.md) _Context: Shaanxi_
 3. [19 miners, who were trapped underground, are rescued from the Rudna mine after a small earthquake hits the heavily industrialized region of Silesia, Poland. ](/news/2013/03/20/19-miners-who-were-trapped-underground-are-rescued-from-the-rudna-mine-after-a-small-earthquake-hits-the-heavily-industrialized-region-of.md) _Context: miners_
 4. [A four-story residential building under construction collapsed Saturday morning in Chang'an District of Xi'an City, northwest China's Shaanxi Province, killing eight workers and injuring three. ](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.md) _Context: Shaanxi_

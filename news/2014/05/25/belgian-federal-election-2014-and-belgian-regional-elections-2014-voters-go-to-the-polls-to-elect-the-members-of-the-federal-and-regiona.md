@@ -1,6 +1,6 @@
 ### [2014-05-25](/news/2014/05/25/index.md)
 
-# Belgian federal election, 2014 and Belgian regional elections, 2014:. Voters go to the polls to elect the members of the federal and regional parliaments, simultaneously with the European election. The country faces protracted negotiations on forming a federal government as Flemish nationalist N-VA wins in Flanders while the Socialist Party of Prime Minister Di Rupo remains the largest in Wallonia.
+# Belgian federal election, 2014 and Belgian regional elections, 2014:: Voters go to the polls to elect the members of the federal and regional parliaments, simultaneously with the European election. The country faces protracted negotiations on forming a federal government as Flemish nationalist N-VA wins in Flanders while the Socialist Party of Prime Minister Di Rupo remains the largest in Wallonia.
 
 On May 25 Belgium will hold its regional, federal and European elections. Like in 2010, the centre-right and Flemish nationalist New Flemish Alliance (Nieuw-Vlaamse Alliantie or N-VA) is expected to be…
 

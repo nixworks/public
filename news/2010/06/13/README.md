@@ -12,7 +12,7 @@ _Context: International Whaling Commission , Japan, The Sunday Times, hunt_
 ### [A plane carrying 16 Al Jazeera Sports broadcast staff to the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane made an emergency landing at Lanseria International Airport following the jamming of the aircraft's landing gear. Lanseria International Airport is shut down. ](/news/2010/06/13/a-plane-carrying-16-al-jazeera-sports-broadcast-staff-to-the-2010-fifa-world-cup-game-between-algeria-and-slovenia-in-polokwane-made-an-emer.md)
 _Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria International Airport, Polokwane, Slovenia_
 
-### [2010 Kyrgyzstan crisis:. Tensions remain high in Kyrgyzstan, with police patrolling the streets and special forces standing guard in the city of Osh and Jalal-Abad, after ethnic clashes left more than 100 people dead and about 1,400 others injured since fighting broke out Thursday night. ](/news/2010/06/13/2010-kyrgyzstan-crisis-tensions-remain-high-in-kyrgyzstan-with-police-patrolling-the-streets-and-special-forces-standing-guard-in-the-cit.md)
+### [2010 Kyrgyzstan crisis:: Tensions remain high in Kyrgyzstan, with police patrolling the streets and special forces standing guard in the city of Osh and Jalal-Abad, after ethnic clashes left more than 100 people dead and about 1,400 others injured since fighting broke out Thursday night. ](/news/2010/06/13/2010-kyrgyzstan-crisis-tensions-remain-high-in-kyrgyzstan-with-police-patrolling-the-streets-and-special-forces-standing-guard-in-the-cit.md)
 Authorities struggling to restore order in southern region where ethnic violence has left at least 100 dead.
 
 ### [5 people have died and dozens been injured in a stampede at a rally in the Kenyan capital, Nairobi. ](/news/2010/06/13/5-people-have-died-and-dozens-been-injured-in-a-stampede-at-a-rally-in-the-kenyan-capital-nairobi.md)
@@ -27,13 +27,13 @@ Police in Durban fire tear gas to disperse hundreds of World Cup stewards protes
 ### [Hezbollah warns Israel on gas fields being claimed by both Israel and Lebanon. ](/news/2010/06/13/hezbollah-warns-israel-on-gas-fields-being-claimed-by-both-israel-and-lebanon.md)
 As-Safir analyst says newly discovered Leviathan gas site extends into Lebanese territorial waters, believes Lebanon will defend its rights at site, meaning affair could lead to new conflict between Israel, its northern neighbor
 
-### [Israeli-Palestinian conflict:. Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeli-palestinian-conflict-arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-a.md)
+### [Israeli-Palestinian conflict:: Arriving in the Gaza Strip for the first time since Israel blockaded it in 2006, Secretary-General of the Arab League, Amr Moussa, calls for the blockade to be ended. ](/news/2010/06/13/israeli-palestinian-conflict-arriving-in-the-gaza-strip-for-the-first-time-since-israel-blockaded-it-in-2006-secretary-general-of-the-a.md)
 Defense Ministry reports that Barak will remain in Israel until team of experts investigating flotilla raid announced. Over weekend, sail participants declared intention to sue defense minister
 
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
 _Context: Ivan Gasparovic, President, Prime Minister, Robert Fico's, Slovakia's_
 
-### [Belgian general election, 2010:. The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-the-belgian-elections-take-place-amid-a-possibility-of-partition.md)
+### [Belgian general election, 2010:: The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-the-belgian-elections-take-place-amid-a-possibility-of-partition.md)
 Initial results indicate that party advocating a split of Belgium wins general election.
 
 ### [Venezuelan authorities issue an arrest warrant for the head of Globovision, the country's only remaining independent television station which criticises President of Venezuela Hugo Chavez. ](/news/2010/06/13/venezuelan-authorities-issue-an-arrest-warrant-for-the-head-of-globovisia3n-the-country-s-only-remaining-independent-television-station-whi.md)

@@ -1,15 +1,15 @@
 ## [2014-07-17](/news/2014/07/17/index.md)
 
-### [2014 insurgency in Donbass:. Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-malaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-ob.md)
+### [2014 insurgency in Donbass:: Malaysia Airlines Flight 17 carrying 298 people from multiple countries is shot down near Hrabove in Donetsk Oblast, on a flight from Amsterdam to Kuala Lumpur. ](/news/2014/07/17/2014-insurgency-in-donbass-malaysia-airlines-flight-17-carrying-298-people-from-multiple-countries-is-shot-down-near-hrabove-in-donetsk-ob.md)
 A Malaysian airliner was shot down over eastern Ukraine by militants on Thursday, killing all 295 people aboard, a Ukrainian interior ministry official was quoted as saying by Interfax-Ukraine news agency.
 
-### [Operation Protective Edge:. Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-stri.md)
+### [Operation Protective Edge:: Israel and Hamas agree to a brief UN humanitarian ceasefire Thursday morning to allow aid to enter the Gaza Strip. ](/news/2014/07/17/operation-protective-edge-israel-and-hamas-agree-to-a-brief-un-humanitarian-ceasefire-thursday-morning-to-allow-aid-to-enter-the-gaza-stri.md)
 Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to enter the Gaza Strip.
 
-### [Taliban insurgency:. Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a.md)
+### [Taliban insurgency:: Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a.md)
 _Context: Afghanistan's, Kabul International Airport, Taliban insurgency_
 
-### [Insurgency in the Maghreb (2002-present):. At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/insurgency-in-the-maghreb-2002-present-at-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two.md)
+### [Insurgency in the Maghreb (2002-present):: At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/insurgency-in-the-maghreb-2002-present-at-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two.md)
 _Context: Algeria, Insurgency in the Maghreb (2002-present), Tunisian soldiers, attacks_
 
 ### [The United States Holocaust Memorial Museum obtains a full copy of the archives of the United Nations War Crimes Commission from World War II and makes it available online. ](/news/2014/07/17/the-united-states-holocaust-memorial-museum-obtains-a-full-copy-of-the-archives-of-the-united-nations-war-crimes-commission-from-world-war-i.md)
@@ -18,7 +18,7 @@ _Context: United Nations War Crimes Commission, United States Holocaust Memorial
 ### [Microsoft announces deeper-than-expected job cuts as part of its cloud-oriented restructuring, almost halving the newly-purchased Nokia phone business. ](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.md)
 Microsoft Chief Executive Officer Satya Nadella kicked off one of the largest layoffs in tech history on Thursday, hoping to reshape the aging PC industry titan into a nimbler rival to Apple and Google, and jolt a culture at the company that is used to protecting its existing Windows and Office fran...
 
-### [2014 Pacific typhoon season:. Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-th.md)
+### [2014 Pacific typhoon season:: Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/2014-pacific-typhoon-season-typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-th.md)
 The Philippines set to work clearing debris, reconnecting power and rebuilding flattened houses on Thursday after a typhoon swept across the country killing 38 people, with at least eight missing, rescue officials said.
 
 ### [A firefighting helicopter searching for missing people from the sinking of the MV "Sewol" in April crashes in the South Korean city of Gwangju with five people aboard. ](/news/2014/07/17/a-firefighting-helicopter-searching-for-missing-people-from-the-sinking-of-the-mv-sewol-in-april-crashes-in-the-south-korean-city-of-gwang.md)
@@ -39,7 +39,7 @@ A federal judge in Orange County ruled Wednesday that California’s death penal
 ### [The Parliament of Australia votes to abolish a carbon tax and emissions trading scheme. ](/news/2014/07/17/the-parliament-of-australia-votes-to-abolish-a-carbon-tax-and-emissions-trading-scheme.md)
 _Context: Parliament, carbon tax, emissions trading scheme_
 
-### [2013-14 Thai political crisis:. The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013-14-thai-political-crisis-the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-fo.md)
+### [2013-14 Thai political crisis:: The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013-14-thai-political-crisis-the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-fo.md)
 _Context: 2013-14 Thai political crisis, Prime Minister, Yingluck Shinawatra_
 
 ### [Scientists report a video footage of a mysterious giant hole and crater that have suddenly appeared in the Yamal Peninsula, Russia. ](/news/2014/07/17/scientists-report-a-video-footage-of-a-mysterious-giant-hole-and-crater-that-have-suddenly-appeared-in-the-yamal-peninsula-russia.md)

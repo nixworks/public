@@ -1,6 +1,6 @@
 ### [2015-02-22](/news/2015/02/22/index.md)
 
-# 87th Academy Awards. Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for "Birdman". "Birdman" then wins the Academy Award for Best Picture. 
+# 87th Academy Awards: Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for "Birdman". "Birdman" then wins the Academy Award for Best Picture. 
 
 The full list of winners at the 2015 Oscars
 

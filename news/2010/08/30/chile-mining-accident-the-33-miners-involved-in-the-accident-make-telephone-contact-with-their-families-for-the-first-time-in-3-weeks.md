@@ -1,6 +1,6 @@
 ### [2010-08-30](/news/2010/08/30/index.md)
 
-# Chile mining accident. The 33 miners involved in the accident make telephone contact with their families for the first time in 3 weeks. 
+# Chile mining accident: The 33 miners involved in the accident make telephone contact with their families for the first time in 3 weeks. 
 
 Miners trapped underground in Chile for more than three weeks have their first telephone contact with loved ones.
 

@@ -15,13 +15,13 @@ A number of people were injured outside the Dáil tonight after a disturbance br
 ### [U.S. missiles kill 24 suspected insurgents in North Waziristan, Pakistan, in the latest two of three strikes since an attempted car bombing in New York linked to the Taliban. The identities of most of those killed are not known. [http://www.chicagotribune.com/news/nationworld/la-fgw-pakistan-missiles-20100511,0,278402.story ("Chicago Tribune")] [http://www.usatoday.com/news/world/2010-05-11-pakistan-strikes_N.htm ("USA Today") ]](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.md)
 _Context: North Waziristan, Pakistan, Times Square bomber_
 
-### [Pope Benedict XVI and child sexual abuse in the Catholic Church:. Tens of thousands of people line the streets as Pope Benedict XVI begins his four-day trip to Portugal. ](/news/2010/05/11/pope-benedict-xvi-and-child-sexual-abuse-in-the-catholic-church-tens-of-thousands-of-people-line-the-streets-as-pope-benedict-xvi-begins-h.md)
+### [Pope Benedict XVI and child sexual abuse in the Catholic Church:: Tens of thousands of people line the streets as Pope Benedict XVI begins his four-day trip to Portugal. ](/news/2010/05/11/pope-benedict-xvi-and-child-sexual-abuse-in-the-catholic-church-tens-of-thousands-of-people-line-the-streets-as-pope-benedict-xvi-begins-h.md)
 Pope Benedict XVI has begun a four-day trip to Portugal, during which he is likely to call for solidarity across Europe&#39;s struggling economies and urge people to uphold Christian values.
 
-### [Gulf of Mexico oil spill:. United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-resp.md)
-_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, United States Coast Guard, admiral, president_
+### [Gulf of Mexico oil spill:: United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-united-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-resp.md)
+_Context: Barack Obama, Deepwater Horizon oil spill, President, Thad Allen, United States Coast Guard, admiral_
 
-### [Air travel disruption after the 2010 Eyjafjallajkull eruption:. Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed.md)
+### [Air travel disruption after the 2010 Eyjafjallajkull eruption:: Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed.md)
 _Context: Aena, Air travel disruption after the 2010 Eyjafjallajkull eruption, Canary Islands', Spain_
 
 ### [9 trapped miners found dead in coal gas leak in northwest China's Gansu Province Tuesday. ](/news/2010/05/11/9-trapped-miners-found-dead-in-coal-gas-leak-in-northwest-china-s-gansu-province-tuesday.md)

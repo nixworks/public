@@ -1,12 +1,12 @@
 ## [2008-09-16](/news/2008/09/16/index.md)
 
-### [ Unrest in Bolivia:. Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md)
+### [ Unrest in Bolivia:: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md)
 _Context: Leopoldo Fernandez, Pando, Unrest in Bolivia, gubernatorial elections_
 
 ### [ Fighting in Somalia has killed 838 people since June, according to local rights activists, bringing the total to have died in an insurgency that began early last year to 9,474. ](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.md)
 _Context: two years of helping_
 
-### [ 2008 Russian financial crisis:. Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md)
+### [ 2008 Russian financial crisis:: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md)
 _Context: 2008 Russian financial crisis, Alexei Kudrin, MICEX, RTS, Russia_
 
 ### [ Subprime mortgage crisis: The United States Federal Reserve agrees to lend the American International Group $85 billion in return for a 79.9% stake. ](/news/2008/09/16/subprime-mortgage-crisis-the-united-states-federal-reserve-agrees-to-lend-the-american-international-group-85-billion-in-return-for-a-79.md)

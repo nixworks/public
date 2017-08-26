@@ -1,6 +1,6 @@
 ### [2015-04-25](/news/2015/04/25/index.md)
 
-# Gallipoli Landing 100th anniversary. Attendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. 
+# Gallipoli Landing 100th anniversary: Attendances at services to commemorate Anzac Day break attendance records in Australia and New Zealand. 
 
 The number was far in excess of expectations and more than three times the 37,000 who attended last year.
 

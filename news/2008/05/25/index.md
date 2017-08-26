@@ -3,7 +3,7 @@
 ### [ The opposition Bharatiya Janata Party wins the most seats in elections for the Karnataka legislature, India. ](/news/2008/05/25/the-opposition-bharatiya-janata-party-wins-the-most-seats-in-elections-for-the-karnataka-legislature-india.md)
 _Context: Bharatiya Janata Party, India, Karnataka legislature, elections_
 
-### [ USA Tornadoes of 2008. A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-tornadoes-of-2008-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md)
+### [ USA Tornadoes of 2008: A severe storm in Hugo, Minnesota kills one person with another 20 missing with unconfirmed reports of a tornado. ](/news/2008/05/25/usa-tornadoes-of-2008-a-severe-storm-in-hugo-minnesota-kills-one-person-with-another-20-missing-with-unconfirmed-reports-of-a-tornado.md)
 _Context: Hugo, Minnesota, Tornadoes of 2008, storm, tornado_
 
 ### [ The "Phoenix" lander arrives at Mars, landing successfully in the "Green Valley" region of Vastitas Borealis. ](/news/2008/05/25/the-phoenix-lander-arrives-at-mars-landing-successfully-in-the-green-valley-region-of-vastitas-borealis.md)
@@ -21,7 +21,7 @@ Former Malawian president Bakili Muluzi was arrested in connection with an alleg
 ### [ Michel Suleiman is elected as President of the Republic of Lebanon. ](/news/2008/05/25/michel-suleiman-is-elected-as-president-of-the-republic-of-lebanon.md)
 _Context: Lebanon, Michel Suleiman, President_
 
-### [ 2008 Sichuan earthquake. China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/2008-sichuan-earthquake-china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md)
+### [ 2008 Sichuan earthquake: China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/2008-sichuan-earthquake-china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md)
 The official death toll rose to more than 65,000, Chinese state media said, as rescuers prepared to dynamite and drain a lake caused by landslides.
 
 ### [ The Secretary-General of the United Nations Ban Ki-moon hosts a conference in Myanmar with representatives of 50 nations on how to aid in recovery from Cyclone Nargis. ](/news/2008/05/25/the-secretary-general-of-the-united-nations-ban-ki-moon-hosts-a-conference-in-myanmar-with-representatives-of-50-nations-on-how-to-aid-in-r.md)

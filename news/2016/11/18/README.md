@@ -1,12 +1,12 @@
 ## [2016-11-18](/news/2016/11/18/index.md)
 
-### [ Moro conflict. At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/moro-conflict-at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
+### [ Moro conflict: At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/moro-conflict-at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
 _Context: Abu Sayyaf, Moro conflict, Philippines, Sulu_
 
-### [Syrian Civil War. Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. ](/news/2016/11/18/syrian-civil-war-syrian-government-air-raid-hits-a-children-s-hospital-in-rebel-held-east-aleppo-forcing-medical-staff-to-evacuate-patient.md)
+### [Syrian Civil War: Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. ](/news/2016/11/18/syrian-civil-war-syrian-government-air-raid-hits-a-children-s-hospital-in-rebel-held-east-aleppo-forcing-medical-staff-to-evacuate-patient.md)
 Al Jazeera crew captures dramatic footage of attack as babies are rescued from incubators by panicked staff.
 
-### [Zika virus outbreak. The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/zika-virus-outbreak-the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-b.md)
+### [Zika virus outbreak: The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/zika-virus-outbreak-the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-b.md)
 _Context: World Health Organization, Zika virus, Zika virus outbreak, malaria, mosquito-borne disease, yellow fever_
 
 ### [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series "Making a Murderer". ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mur.md)
@@ -21,10 +21,10 @@ Victoria&#039;s Premier Daniel Andrews says an arson attack in which a man set h
 ### [ At a South Minneapolis in-home daycare, owner Nataliia Karia told a parent she "couldn't take it anymore" after hanging a child from a noose. She fled in a vehicle rampage ran over and dragged a pedestrian, hit a bicycle rider and several vehicles before attemping to jump from a bridge when she was arrested. 3 were injured. ](/news/2016/11/18/at-a-south-minneapolis-in-home-daycare-owner-nataliia-karia-told-a-parent-she-couldn-t-take-it-anymore-after-hanging-a-child-from-a-noos.md)
 Nataliia Karia is accused of intentionally hanging a baby boy at the in-home daycare facility that she owned. Karia fled&hellip;
 
-### [Presidential transition of Donald Trump. Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/presidential-transition-of-donald-trump-officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-leve.md)
+### [Presidential transition of Donald Trump: Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. ](/news/2016/11/18/presidential-transition-of-donald-trump-officials-serving-on-president-elect-donald-trump-s-transition-team-reveal-selections-for-high-leve.md)
 Sen. Jeff Sessions has been offered the post of attorney general, while Rep. Mike Pompeo and Michael Flynn have been offered the respective positions of CIA chief and national security adviser.
 
-### [Shenzhou program. China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/shenzhou-program-china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md)
+### [Shenzhou program: China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/shenzhou-program-china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md)
 China&#x27;s Shenzhou 11 space capsule landed safely in the northern region of Inner Mongolia on Friday with two astronauts aboard, state media said, completing the country&#x27;s longest manned space mission to date. China Central Television showed images of the craft - whose name translates as &qu...
 
 ## [Previous Day...](/news/2016/11/17/index.md)

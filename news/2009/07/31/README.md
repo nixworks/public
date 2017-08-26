@@ -1,12 +1,12 @@
 ## [2009-07-31](/news/2009/07/31/index.md)
 
-### [ Nigerian battles. The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md)
+### [ Nigerian battles: The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md)
 Rights group urges investigation into death of Boko Haram leader blamed for attacks.
 
-### [ Spain. Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
+### [ Spain: Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 
-### [ Venezuela. A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md)
+### [ Venezuela: A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md)
 _Context: National Assembly, Venezuela, freedom of speech_
 
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)

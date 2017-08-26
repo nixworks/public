@@ -1,6 +1,6 @@
 ### [2017-04-12](/news/2017/04/12/index.md)
 
-# Protests in South Africa. Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. 
+# Protests in South Africa: Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. 
 
 PRETORIA, April 12 (ANA) – Economic Freedom Fighters (EFF) leader Julius Malema on Wednesday urged activists from several opposition parties to observe strict discipline in the anti-Zuma march to Union Buildings in Pretoria. “You follow the road that has been given to us. You follow leaders. If you go and use other routes, and they &hellip;
 

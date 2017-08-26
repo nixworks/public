@@ -1,6 +1,6 @@
 ## [2008-01-31](/news/2008/01/31/index.md)
 
-### [ War in Afghanistan:. A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md)
+### [ War in Afghanistan:: A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. ](/news/2008/01/31/war-in-afghanistan-a-suicide-bomber-at-a-mosque-in-lashkar-gah-afghanistan-kills-the-deputy-governor-of-helmand-province-pir-mohammad.md)
 _Context: Afghanistan's, Helmand Province, Lashkar Gah, War in Afghanistan (2001-present), mosque, suicide bomber_
 
 ### [ Internet failure affects parts of Asia and Africa after two undersea cables, SEA-ME-WE 4 and FLAG, are damaged. ](/news/2008/01/31/internet-failure-affects-parts-of-asia-and-africa-after-two-undersea-cables-sea-me-we-4-and-flag-are-damaged.md)

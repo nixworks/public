@@ -1,15 +1,15 @@
 ## [2011-03-20](/news/2011/03/20/index.md)
 
-### [Arab Spring. 2011 Libyan civil war:. Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/arab-spring-2011-libyan-civil-war-prime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces.md)
+### [Arab Spring: 2011 Libyan civil war:: Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani says Qatar will join the anti-Gaddafi forces, making it the first Arab country to commit military forces. ](/news/2011/03/20/arab-spring-2011-libyan-civil-war-prime-minister-sheikh-hamad-bin-jassim-bin-jaber-al-thani-says-qatar-will-join-the-anti-gaddafi-forces.md)
 Arab League secretary-general Amr Moussa is now questioning whether US and European military action against Libya has gone too far.
 
-### [Israeli-Palestinian conflict:. Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeli-palestinian-conflict-palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-t.md)
+### [Israeli-Palestinian conflict:: Palestinian militants fire a Grad-type rocket from Gaza into southern Ashkelon, Israel; two residents are taken to a clinic for medical treatment. ](/news/2011/03/20/israeli-palestinian-conflict-palestinian-militants-fire-a-grad-type-rocket-from-gaza-into-southern-ashkelon-israel-two-residents-are-t.md)
 Rocket alert system rings out across Ashkelon as rocket from Gaza slams into southern part of the city; no physical injuries or damages reported.
 
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
 _Context: Somalia, Transitional Federal Government, al-Shabaab militants_
 
-### [Demonstrations against the treatment of Bradley Manning:. A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/demonstrations-against-the-treatment-of-bradley-manning-a-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradle.md)
+### [Demonstrations against the treatment of Bradley Manning:: A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/demonstrations-against-the-treatment-of-bradley-manning-a-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradle.md)
 Campaigners from Wales travel to London to protest over the alleged treatment of a US army private accused of leaking confidential papers.
 
 ### [Musician Wyclef Jean is shot in the hand near Port-au-Prince. Mr Jean supports Michel Martelly in the unfolding Haitian election. ](/news/2011/03/20/musician-wyclef-jean-is-shot-in-the-hand-near-port-au-prince-mr-jean-supports-michel-martelly-in-the-unfolding-haitian-election.md)
@@ -24,7 +24,7 @@ _Context: BBC World Service, China, Iran, State Department_
 ### [AT&T and Deutsche Telekom reach an agreement for AT&T to purchase T-Mobile USA for $39 billion in cash and stock. ](/news/2011/03/20/at-t-and-deutsche-telekom-reach-an-agreement-for-at-t-to-purchase-t-mobile-usa-for-39-billion-in-cash-and-stock.md)
 AT&amp;amp;T Inc. (NYSE: T) and Deutsche Telekom AG (FWB: DTE) today announced that they have entered into a definitive agreement under which AT&amp;a
 
-### [2011 Tohoku earthquake and tsunami and Fukushima I nuclear accidents:. A small amount of radiation is found on vegetables exported from Japan to Taiwan but the amount is too small to harm human health. ](/news/2011/03/20/2011-tahoku-earthquake-and-tsunami-and-fukushima-i-nuclear-accidents-a-small-amount-of-radiation-is-found-on-vegetables-exported-from-jap.md)
+### [2011 Tohoku earthquake and tsunami and Fukushima I nuclear accidents:: A small amount of radiation is found on vegetables exported from Japan to Taiwan but the amount is too small to harm human health. ](/news/2011/03/20/2011-tahoku-earthquake-and-tsunami-and-fukushima-i-nuclear-accidents-a-small-amount-of-radiation-is-found-on-vegetables-exported-from-jap.md)
 _Context: Fukushima I nuclear accidents, Japan, Taiwan, an earthquake and tsunami, radiation, vegetables_
 
 ### [A possible oil slick appears and spreads near the Mississippi Delta off the coast of Grand Isle, Louisiana, suspected to be an oil spill from the Matterhorn Seastar oil rig near the Deepwater Horizon oil spill location or silt contamination from a nearby dredging operation. ](/news/2011/03/20/a-possible-oil-slick-appears-and-spreads-near-the-mississippi-delta-off-the-coast-of-grand-isle-louisiana-suspected-to-be-an-oil-spill-fro.md)
@@ -34,7 +34,7 @@ The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf
 State says 42-year old Palestinian engineer abducted in Ukraine being interrogated in prison
 
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
-_Context: Barack Obama, Rio de Janeiro, favela, president_
+_Context: Barack Obama, President, Rio de Janeiro, favela_
 
 ### [Police are growing concerned for the safety of Sian O'Callaghan, a 22-year-old woman who went missing while walking home from a nightclub in the English city of Swindon in the early hours of Saturday 19 March. ](/news/2011/03/20/police-are-growing-concerned-for-the-safety-of-sian-o-callaghan-a-22-year-old-woman-who-went-missing-while-walking-home-from-a-nightclub-in.md)
 Police are concerned for the safety of a 22-year-old woman who went missing after leaving a Swindon nightclub in the early hours of Saturday.
@@ -45,7 +45,7 @@ _Context: Taipei, Taiwan_
 ### [Tibetan exiles vote for a new Prime Minister. ](/news/2011/03/20/tibetan-exiles-vote-for-a-new-prime-minister.md)
 Dharamsala, March 20 (IANS) Even as Tibetan spiritual leader the Dalai Lama rejected appeals to reconsider his decision to hang his boots, voting to elect...
 
-### [Haitian general election, 2010-2011:. Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010-2011-voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)
+### [Haitian general election, 2010-2011:: Voters in Haiti go to the polls for the second round of voting in the presidential election. ](/news/2011/03/20/haitian-general-election-2010-2011-voters-in-haiti-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)
 UN official describes vote as peaceful but several polling sites delayed opening because they lacked voting materials.
 
 ### [More than 80 per cent of votes in the Egyptian constitutional referendum support liberal reforms. ](/news/2011/03/20/more-than-80-per-cent-of-votes-in-the-egyptian-constitutional-referendum-support-liberal-reforms.md)

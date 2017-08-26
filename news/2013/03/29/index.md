@@ -1,9 +1,9 @@
 ## [2013-03-29](/news/2013/03/29/index.md)
 
-### [Terrorism in Pakistan:. A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
+### [Terrorism in Pakistan:: A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
 _Context: Pakistan, Peshawar, Terrorism in Pakistan, United States, consulate_
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)

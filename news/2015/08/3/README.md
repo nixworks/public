@@ -1,6 +1,6 @@
 ## [2015-08-3](/news/2015/08/3/index.md)
 
-### [Syrian Civil War. A Syrian fighter jet crashes into a marketplace in the town of Ariha leaving at least 31 people dead and dozens injured. ](/news/2015/08/3/syrian-civil-war-a-syrian-fighter-jet-crashes-into-a-marketplace-in-the-town-of-ariha-leaving-at-least-31-people-dead-and-dozens-injured.md)
+### [Syrian Civil War: A Syrian fighter jet crashes into a marketplace in the town of Ariha leaving at least 31 people dead and dozens injured. ](/news/2015/08/3/syrian-civil-war-a-syrian-fighter-jet-crashes-into-a-marketplace-in-the-town-of-ariha-leaving-at-least-31-people-dead-and-dozens-injured.md)
 At least 31 people are killed and dozens injured after a Syrian military aircraft crashes on a bombing run over Ariha, a monitoring group says.
 
 ### [British bank HSBC agrees to sell its Brazilian banking business to Banco Bradesco for $5.2 billion. ](/news/2015/08/3/british-bank-hsbc-agrees-to-sell-its-brazilian-banking-business-to-banco-bradesco-for-5-2-billion.md)
@@ -24,7 +24,7 @@ Two cranes restoring a bridge in the central Dutch town of Alphen aan den Rijn c
 ### [After days of heavy rain, a fifty-year-old building collapses in the Indian city of Thane killing at least twelve people with many more feared trapped in the rubble. ](/news/2015/08/3/after-days-of-heavy-rain-a-fifty-year-old-building-collapses-in-the-indian-city-of-thane-killing-at-least-twelve-people-with-many-more-fear.md)
 Eleven people died after a 50-year-old building collapsed in Thane late on Monday night. Many others are feared trapped under the debris.
 
-### [2012 Aurora shooting. In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/2012-aurora-shooting-in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-st.md)
+### [2012 Aurora shooting: In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/2012-aurora-shooting-in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-st.md)
 _Context: 2012 Aurora shooting, Capital punishment in the United States, James Eagan Holmes_
 
 ## [Previous Day...](/news/2015/08/2/index.md)

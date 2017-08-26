@@ -9,7 +9,7 @@ _Context: North Korea_
 ### [ 14 Indian soldiers die following an insurgent attack in the eastern state of Manipur. ](/news/2005/09/20/14-indian-soldiers-die-following-an-insurgent-attack-in-the-eastern-state-of-manipur.md)
 _Context: India, Manipur, insurgency_
 
-### [ Federal elections in Germany:. There is still no clear course for coalition building, with deadlocks for all possible coalitions.. Angela Merkel (CDU) and Franz Mntefering (SPD) were elected chairpersons of their respective Parliamentary parties.. German green politician Joschka Fischer announced his retirement from leading the Green party in the newly elected Parliament, retiring to become an "elder statesman" in the back benches. ](/news/2005/09/20/federal-elections-in-germany-there-is-still-no-clear-course-for-coalition-building-with-deadlocks-for-all-possible-coalitions-angela-m.md)
+### [ Federal elections in Germany:: There is still no clear course for coalition building, with deadlocks for all possible coalitions.: Angela Merkel (CDU) and Franz Mntefering (SPD) were elected chairpersons of their respective Parliamentary parties.: German green politician Joschka Fischer announced his retirement from leading the Green party in the newly elected Parliament, retiring to become an "elder statesman" in the back benches. ](/news/2005/09/20/federal-elections-in-germany-there-is-still-no-clear-course-for-coalition-building-with-deadlocks-for-all-possible-coalitions-angela-m.md)
 _Context: Angela Merkel, Franz Mntefering, German federal election, 2005, Joschka Fischer_
 
 ## [Previous Day...](/news/2005/09/19/index.md)

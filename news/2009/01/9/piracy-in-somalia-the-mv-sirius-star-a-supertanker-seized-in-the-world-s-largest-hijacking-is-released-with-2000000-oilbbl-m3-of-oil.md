@@ -1,6 +1,6 @@
 ### [2009-01-9](/news/2009/01/9/index.md)
 
-#  Piracy in Somalia:. The MV "Sirius Star", a supertanker seized in the world's largest hijacking, is released with 2000000|oilbbl|m3 of oil and all 25 crew members unharmed after a US$3 million ransom is paid. 
+#  Piracy in Somalia:: The MV "Sirius Star", a supertanker seized in the world's largest hijacking, is released with 2000000|oilbbl|m3 of oil and all 25 crew members unharmed after a US$3 million ransom is paid. 
 
 
 

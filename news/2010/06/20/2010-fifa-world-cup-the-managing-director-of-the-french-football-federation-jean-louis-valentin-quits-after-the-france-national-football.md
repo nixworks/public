@@ -1,6 +1,6 @@
 ### [2010-06-20](/news/2010/06/20/index.md)
 
-# 2010 FIFA World Cup. The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. 
+# 2010 FIFA World Cup: The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. 
 
 Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail after his sending-off in the 2-1 Group B defeat to Greece.
 
@@ -28,4 +28,4 @@ Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail 
 7. [FIFA receives a complaint about its security after a football fan breaks into the dressing room of the England national football team during a 2010 FIFA World Cup game in which the team were booed in South Africa. ](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.md) _Context: 2010 FIFA World Cup, South Africa_
 8. [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md) _Context: 2010 FIFA World Cup, South Africa_
 9. [South African police shoot a lachrymatory agent at hundreds of 2010 FIFA World Cup stewards at pay cut protests in Durban. ](/news/2010/06/13/south-african-police-shoot-a-lachrymatory-agent-at-hundreds-of-2010-fifa-world-cup-stewards-at-pay-cut-protests-in-durban.md) _Context: 2010 FIFA World Cup, South Africa_
-10. [2010 FIFA World Cup:. The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _Context: 2010 FIFA World Cup, South Africa_
+10. [2010 FIFA World Cup:: The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md) _Context: 2010 FIFA World Cup, South Africa_

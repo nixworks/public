@@ -4,18 +4,18 @@
 _Context: Nicolas Sarkozy, UMP, regional elections_
 
 ### [Tens of thousands of people gather on the National Mall in Washington, D.C., United States to support President Barack Obama in his bid to overhaul the country's immigration laws. ](/news/2010/03/21/tens-of-thousands-of-people-gather-on-the-national-mall-in-washington-d-c-united-states-to-support-president-barack-obama-in-his-bid-to-o.md)
-_Context: Barack Obama, National Mall, United States, Washington, D.C., president_
+_Context: Barack Obama, National Mall, President, United States, Washington, D.C._
 
 ### [A new earthquake in Haiti kills two in Cap-Hatien. ](/news/2010/03/21/a-new-earthquake-in-haiti-kills-two-in-cap-haitien.md)
 _Context: Cap-Hatien, Haiti_
 
-### [Middle East:. Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-secretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pale.md)
+### [Middle East:: Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-secretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pale.md)
 UN Secretary General Ban Ki-moon has condemned Israel&#39;s blockade of Gaza saying it caused &#39;unacceptable sufferings&#39;.
 
-### [Afghanistan:. At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md)
+### [Afghanistan:: At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. ](/news/2010/03/21/afghanistan-at-least-ten-people-die-and-seven-are-injured-in-a-suicide-bomb-attack-in-geresh-helmand-province.md)
 At least ten people were killed and seven injured in a suicide bomb attack that targeted an army convoy in southern Afghanistan.
 
-### [Child sex abuse in the Catholic Church:. It is alleged that the Pope (then a German archbishop) ignored advice from a psychiatrist in 1979 stating Father Peter "Hulli" Hullermann was "untreatable" and "must never be allowed to work with children again". ](/news/2010/03/21/child-sex-abuse-in-the-catholic-church-it-is-alleged-that-the-pope-then-a-german-archbishop-ignored-advice-from-a-psychiatrist-in-1979-s.md)
+### [Child sex abuse in the Catholic Church:: It is alleged that the Pope (then a German archbishop) ignored advice from a psychiatrist in 1979 stating Father Peter "Hulli" Hullermann was "untreatable" and "must never be allowed to work with children again". ](/news/2010/03/21/child-sex-abuse-in-the-catholic-church-it-is-alleged-that-the-pope-then-a-german-archbishop-ignored-advice-from-a-psychiatrist-in-1979-s.md)
 An Australian victims group says the Pope should apologise to abuse victims in Australia, as well as people who were abused by priests in Ireland.
 
 ### [The corpses of two archbishops are stolen from a cemetery in Nicosia. ](/news/2010/03/21/the-corpses-of-two-archbishops-are-stolen-from-a-cemetery-in-nicosia.md)

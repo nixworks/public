@@ -1,6 +1,6 @@
 ### [2010-03-6](/news/2010/03/6/index.md)
 
-# Hosni Mubarak:. Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. 
+# Hosni Mubarak:: Egyptian President Hosni Mubarak temporarily hands over power, due to surgery on his gallbladder. 
 
 Hosni Mubarak had temporarily handed over power to PM before his gallbladder operation.
 

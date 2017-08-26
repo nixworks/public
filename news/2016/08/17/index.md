@@ -21,7 +21,7 @@ _Context: India, kiting, leaves three people dead_
 ### [The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. ](/news/2016/08/17/the-governments-of-papua-new-guinea-and-australia-confirm-that-the-manus-regional-processing-centre-will-close-following-a-ruling-by-the-sup.md)
 Immigration Minister Peter Dutton confirms Australia will work with Papua New Guinea to close the Manus Island detention centre.
 
-### [North Korean defectors. North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korean-defectors-north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
+### [North Korean defectors: North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korean-defectors-north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
 _Context: Britain, North Korea, North Korean defectors, South Korea, Thae Yong-ho_
 
 ### [A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-nea.md)

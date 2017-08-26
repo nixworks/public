@@ -12,10 +12,10 @@ _Context: France, French National Assembly, burqa_
 ### [ Ukraine sets 17 January 2010 as the date for the next presidential election said to be crucial for its future direction. ](/news/2009/06/23/ukraine-sets-17-january-2010-as-the-date-for-the-next-presidential-election-said-to-be-crucial-for-its-future-direction.md)
 Ukraine has set 17 January as the date for a presidential election crucial for its future direction.
 
-### [ 2009 Iranian election protests:. The Guardian Council rules out a re-run of the presidential election saying that there was no sign of serious electoral fraud in the June 12 vote. ](/news/2009/06/23/2009-iranian-election-protests-the-guardian-council-rules-out-a-re-run-of-the-presidential-election-saying-that-there-was-no-sign-of-seri.md)
+### [ 2009 Iranian election protests:: The Guardian Council rules out a re-run of the presidential election saying that there was no sign of serious electoral fraud in the June 12 vote. ](/news/2009/06/23/2009-iranian-election-protests-the-guardian-council-rules-out-a-re-run-of-the-presidential-election-saying-that-there-was-no-sign-of-seri.md)
 UK expels two Iranian diplomats after similar expulsions by Tehran in spat over post-poll protests.
 
-### [ Attacks on Romanians in Northern Ireland. One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-northern-ireland-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md)
+### [ Attacks on Romanians in Northern Ireland: One hundred Romanians flee Northern Ireland and return to Romania. ](/news/2009/06/23/attacks-on-romanians-in-northern-ireland-one-hundred-romanians-flee-northern-ireland-and-return-to-romania.md)
 President McAleese has described recent racist attacks in Belfast as distressing and sickening.
 
 ### [ In the New York State legislative deadlock, Senate Democrats lock themselves into the Senate chamber due to a refusal to accept Pedro Espada as Senate President. ](/news/2009/06/23/in-the-new-york-state-legislative-deadlock-senate-democrats-lock-themselves-into-the-senate-chamber-due-to-a-refusal-to-accept-pedro-espad.md)

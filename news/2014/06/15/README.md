@@ -1,15 +1,15 @@
 ## [2014-06-15](/news/2014/06/15/index.md)
 
-### [Syrian Civil War. The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/syrian-civil-war-the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md)
+### [Syrian Civil War: The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/syrian-civil-war-the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md)
 _Context: Kessab, Syria, Syrian Civil War, Syrian Military_
 
-### [War in North-West Pakistan. Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/war-in-north-west-pakistan-airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md)
+### [War in North-West Pakistan: Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/war-in-north-west-pakistan-airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md)
 A comprehensive operation against terrorists is being launched upon direction of govt.
 
 ### [7 people are killed in Aden, Yemen, after a gunman opens fire on a minibus. ](/news/2014/06/15/7-people-are-killed-in-aden-yemen-after-a-gunman-opens-fire-on-a-minibus.md)
 _Context: Aden, Yemen_
 
-### [2014 Northern Iraq offensive:. The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nea.md)
+### [2014 Northern Iraq offensive:: The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nea.md)
 _Context: 2014 Northern Iraq offensive, Baghdad, ISIL, United States_
 
 ### [Islamist militants kill dozens of people in the Kenyan town of Mpeketoni in the Lamu Archipelago in a four hour series of attacks on hotels. ](/news/2014/06/15/islamist-militants-kill-dozens-of-people-in-the-kenyan-town-of-mpeketoni-in-the-lamu-archipelago-in-a-four-hour-series-of-attacks-on-hotels.md)

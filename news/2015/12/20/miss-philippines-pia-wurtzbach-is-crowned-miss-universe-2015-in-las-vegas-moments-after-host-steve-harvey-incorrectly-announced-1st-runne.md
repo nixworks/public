@@ -11,7 +11,7 @@ The host of the Miss Universe pageant mistakenly announced the wrong winner on S
 
 ### Related:
 
-1. [Deaths in August 2017. American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/deaths-in-august-2017-american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _Context: Las Vegas_
+1. [Deaths in August 2017: American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/deaths-in-august-2017-american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md) _Context: Las Vegas_
 2. [In the second police officer shooting in the city in three days, a man ambushed a marked police SUV stopped at a traffic light in Las Vegas by walking up and firing multiple rounds, striking one officer in the hand. The shooter was arrested. ](/news/2015/09/6/in-the-second-police-officer-shooting-in-the-city-in-three-days-a-man-ambushed-a-marked-police-suv-stopped-at-a-traffic-light-in-las-vegas.md) _Context: Las Vegas_
 3. [The Miss Universe pageant crowns Miss Colombia Paulina Vega in Miami, Florida. ](/news/2015/01/25/the-miss-universe-pageant-crowns-miss-colombia-paulina-vega-in-miami-florida.md) _Context: Miss Colombia_
 4. [A woman is arrested after she throws a shoe at the head of former United States Secretary of State Hillary Clinton as she was giving a speech in Las Vegas, Nevada. ](/news/2014/04/11/a-woman-is-arrested-after-she-throws-a-shoe-at-the-head-of-former-united-states-secretary-of-state-hillary-clinton-as-she-was-giving-a-speec.md) _Context: Las Vegas_

@@ -1,6 +1,6 @@
 ## [2013-07-19](/news/2013/07/19/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twe.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twe.md)
 A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 people, police say, in the latest of a recent surge of attacks on mosques.
 
 ### [Colombian FARC offer to release Kevin Scott Sutay, an American soldier captured last month. ](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.md)

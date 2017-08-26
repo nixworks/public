@@ -12,7 +12,7 @@ U.S. President George W. Bush on Wednesday signed into law a sweeping rescue pac
 ### [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md)
 _Context: Appellate Committee of the House of Lords, Britain, Gary McKinnon, NASA, United States, United States military, computer, extradited, hackers_
 
-### [ Australia. Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/australia-air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion.md)
+### [ Australia: Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/australia-air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion.md)
 _Context: Australia, Australian Transport Safety Bureau, Qantas Flight 30, oxygen cylinder, safety_
 
 ### [ Bosnian Serb leader Radovan Karadzic is flown to The Hague to face a trial in the International Criminal Tribunal for the former Yugoslavia. ](/news/2008/07/30/bosnian-serb-leader-radovan-karada3-4ia-is-flown-to-the-hague-to-face-a-trial-in-the-international-criminal-tribunal-for-the-former-yugoslav.md)

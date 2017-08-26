@@ -1,6 +1,6 @@
 ## [2014-05-6](/news/2014/05/6/index.md)
 
-### [2014 pro-Russian unrest in Ukraine. Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/2014-pro-russian-unrest-in-ukraine-russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-p.md)
+### [2014 pro-Russian unrest in Ukraine: Russian foreign minister Sergey Lavrov rules out any fresh talks in Geneva to defuse the crisis unless pro-Russian groups are also involved. ](/news/2014/05/6/2014-pro-russian-unrest-in-ukraine-russian-foreign-minister-sergey-lavrov-rules-out-any-fresh-talks-in-geneva-to-defuse-the-crisis-unless-p.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Geneva, Sergey Lavrov_
 
 ### [German art collector Cornelius Gurlitt dies at the age of 81. More than 1400 works, suspected of being looted by the Nazis around World War II, were found in his possession in 2012, including pieces by Picasso and Matisse. ](/news/2014/05/6/german-art-collector-cornelius-gurlitt-dies-at-the-age-of-81-more-than-1400-works-suspected-of-being-looted-by-the-nazis-around-world-war.md)

@@ -1,6 +1,6 @@
 ### [2009-12-27](/news/2009/12/27/index.md)
 
-#  Iran anti-government protest:. The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. 
+#  Iran anti-government protest:: The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. 
 
 
 

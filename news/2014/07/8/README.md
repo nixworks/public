@@ -1,15 +1,15 @@
 ## [2014-07-8](/news/2014/07/8/index.md)
 
-### [Gaza-Israel conflict. The Israeli cabinet approves the call up of 40,000 reserve soldiers as Prime Minister Benjamin Netanyahu warns of a ground operation against Palestinian rockets attacks and infiltration attempts into Israel. ](/news/2014/07/8/gaza-israel-conflict-the-israeli-cabinet-approves-the-call-up-of-40-000-reserve-soldiers-as-prime-minister-benjamin-netanyahu-warns-of-a.md)
+### [Gaza-Israel conflict: The Israeli cabinet approves the call up of 40,000 reserve soldiers as Prime Minister Benjamin Netanyahu warns of a ground operation against Palestinian rockets attacks and infiltration attempts into Israel. ](/news/2014/07/8/gaza-israel-conflict-the-israeli-cabinet-approves-the-call-up-of-40-000-reserve-soldiers-as-prime-minister-benjamin-netanyahu-warns-of-a.md)
 No injuries or major damage after massive barrage targets north, Jerusalem, and south; PM vows to widen Gaza operation, after cabinet okays call-up of 40,000 troops; terrorists killed in firefight near Zikim; Gazan death toll in double digits
 
-### [Taliban insurgency. The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/taliban-insurgency-the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech.md)
+### [Taliban insurgency: The Taliban claims responsibility for an attack in central Afghanistan that claims the lives of 10 civilians, four Czech members of the International Security Assistance Force and two Afghan police officers. ](/news/2014/07/8/taliban-insurgency-the-taliban-claims-responsibility-for-an-attack-in-central-afghanistan-that-claims-the-lives-of-10-civilians-four-czech.md)
 The Taliban claimed responsibility for a suicide attack Tuesday in central Afghanistan that claimed the lives of 10 civilians, four coalition service members and two Afghan police officers, local and military officials said.
 
-### [War in Somalia (2009-present). Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/war-in-somalia-2009-present-al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-tr.md)
+### [War in Somalia (2009-present): Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/war-in-somalia-2009-present-al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-tr.md)
 _Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al-Shabaab militants_
 
-### [Typhoon Neoguri (2014). Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-2014-typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-island.md)
+### [Typhoon Neoguri (2014): Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-2014-typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-island.md)
 _Context: Japan, Okinawa, Typhoon Neoguri_
 
 ### [More than 50 people are injured after two trains collide near the South African city of Durban. ](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.md)

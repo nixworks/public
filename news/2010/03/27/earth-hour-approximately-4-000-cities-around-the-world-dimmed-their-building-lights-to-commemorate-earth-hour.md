@@ -1,6 +1,6 @@
 ### [2010-03-27](/news/2010/03/27/index.md)
 
-# Earth Hour. Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (
+# Earth Hour: Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (
 
 Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera House and Beijing&#39;s Forbidden City in joining a global climate change protest.
 

@@ -1,6 +1,6 @@
 ### [2010-12-18](/news/2010/12/18/index.md)
 
-# Ivory Coast crisis:. Kenya calls on African nations to oust Ivory Coast incumbent President Laurent Gbagbo from office, by force if necessary, if he does not step down. 
+# Ivory Coast crisis:: Kenya calls on African nations to oust Ivory Coast incumbent President Laurent Gbagbo from office, by force if necessary, if he does not step down. 
 
 Kenyan PM calls on African nations to oust Ivorian incumbent president Gbagbo if he refuses to step down.
 
@@ -21,4 +21,4 @@ Kenyan PM calls on African nations to oust Ivorian incumbent president Gbagbo if
 7. [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md) _Context: Africa, Laurent Gbagbo, President_
 8. [The Ivory Coast presidential election will go to a second round with President Laurent Gbagbo facing opposition leader Alassane Ouattara. ](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.md) _Context: Ivory Coast, Laurent Gbagbo, President_
 9. [ Ethiopia officially opens the Omo River Gibe III hydroelectric dam, one of the biggest in Africa, that is predicted to double the country-s electricity output. Critics are concerned about this dam's impact on locals, on the environment, including Kenya's Lake Turkana, and on neighboring countries. ](/news/2016/12/17/ethiopia-officially-opens-the-omo-river-gibe-iii-hydroelectric-dam-one-of-the-biggest-in-africa-that-is-predicted-to-double-the-country.md) _Context: Africa, Kenya_
-10. [2010-2011 Ivorian crisis:. Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md) _Context: Ivory Coast, Laurent Gbagbo_
+10. [2010-2011 Ivorian crisis:: Forces loyal to internationally-recognised Ivory Coast President Alassane Ouattara storm the bunker of Laurent Gbagbo in a "final assault". ](/news/2011/04/6/2010-2011-ivorian-crisis-forces-loyal-to-internationally-recognised-ivory-coast-president-alassane-ouattara-storm-the-bunker-of-laurent.md) _Context: Ivory Coast, Laurent Gbagbo_

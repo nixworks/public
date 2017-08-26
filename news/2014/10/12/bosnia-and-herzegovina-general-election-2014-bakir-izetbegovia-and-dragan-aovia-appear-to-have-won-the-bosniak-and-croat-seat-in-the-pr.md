@@ -1,6 +1,6 @@
 ### [2014-10-12](/news/2014/10/12/index.md)
 
-# Bosnia and Herzegovina general election, 2014. Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. 
+# Bosnia and Herzegovina general election, 2014: Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. 
 
 
 

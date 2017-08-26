@@ -27,7 +27,7 @@ _Context: Academy Award, Kevin Macdonald, Life in a Day, Ridley Scott_
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
 The Peruvian government declares a state of emergency in more than half the country due to unusually cold weather.
 
-### [Chinese floods:. Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. ](/news/2010/07/24/chinese-floods-premier-wen-jiabao-wades-through-water-in-wuhan-to-warn-of-further-devastation.md)
+### [Chinese floods:: Premier Wen Jiabao wades through water in Wuhan to warn of further devastation. ](/news/2010/07/24/chinese-floods-premier-wen-jiabao-wades-through-water-in-wuhan-to-warn-of-further-devastation.md)
 Large parts of south and central China, already been ravaged by floods, face even worse deluges, Premier Wen Jiabao warns.
 
 ### [BP announces it is to start drilling for oil off Libya. ](/news/2010/07/24/bp-announces-it-is-to-start-drilling-for-oil-off-libya.md)
@@ -40,7 +40,7 @@ Residents Flee as Rising Floodwater Eats 30-Foot-Wide Hole in the Earthen Dam
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 
 ### [An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. ](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.md)
-_Context: Pentagon officials, child pornography_
+_Context: U.S. military, child pornography_
 
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
 _Context: Iran, Israel, United States, United States House of Representatives_
@@ -48,7 +48,7 @@ _Context: Iran, Israel, United States, United States House of Representatives_
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)
 Russian PM Vladimir Putin meets the Russian agents deported from the US and says they had &quot;tough lives&quot; and were &quot;betrayed&quot;.
 
-### [15th African Union summit in Kampala:. African heads of state meet. ](/news/2010/07/24/15th-african-union-summit-in-kampala-african-heads-of-state-meet.md)
+### [15th African Union summit in Kampala:: African heads of state meet. ](/news/2010/07/24/15th-african-union-summit-in-kampala-african-heads-of-state-meet.md)
 African Union leaders meeting in Uganda agree to reinforce their peacekeeping force in Somalia to counter al-Shabab militants.
 
 ### [Iran begins researching the development of an, as yet, non-existent nuclear fusion reactor. ](/news/2010/07/24/iran-begins-researching-the-development-of-an-as-yet-non-existent-nuclear-fusion-reactor.md)

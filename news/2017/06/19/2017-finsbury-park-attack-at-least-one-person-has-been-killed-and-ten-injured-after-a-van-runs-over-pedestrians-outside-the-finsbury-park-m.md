@@ -1,6 +1,6 @@
 ### [2017-06-19](/news/2017/06/19/index.md)
 
-# 2017 Finsbury Park attack. At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. 
+# 2017 Finsbury Park attack: At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. 
 
 
 

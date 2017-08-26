@@ -9,13 +9,13 @@ THE DEATH toll from Poland&rsquo;s worst flooding in a century rose to 15 yester
 ### [Hamas announces that it will boycott Palestinian municipal elections, saying said that the elections were being held under the supervision of Prime Minister Salam Fayyad-s -unconstitutional government- and would lack fairness and credibility. ](/news/2010/05/24/hamas-announces-that-it-will-boycott-palestinian-municipal-elections-saying-said-that-the-elections-were-being-held-under-the-supervision-o.md)
 Islamist movements say elections &quot;illegal,&quot; designed to favor Fatah.
 
-### [Israel:. President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md)
+### [Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md)
 Australia expels an Israel diplomat after a probe blames Israel for the use of forged passports in the murder of a Hamas man.
 
-### [Operation Herrick:. Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about.md)
+### [Operation Herrick:: Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about.md)
 Colonel Bob Seddon, Britain&rsquo;s senior bomb disposal officer, has resigned his post after raising concerns for the welfare of his men.
 
-### [Sinking of the ROKS "Cheonan":. South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md)
+### [Sinking of the ROKS "Cheonan":: South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md)
 The US announces joint naval exercises with Seoul after a report blamed N Korea for the sinking of a Southern warship.
 
 ### [Two police officers are killed and six others are wounded by gunmen during unrest in Jamaica's capital, Kingston. ](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.md)

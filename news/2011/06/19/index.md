@@ -1,6 +1,6 @@
 ## [2011-06-19](/news/2011/06/19/index.md)
 
-### [2011 Libyan civil war:. NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md)
+### [2011 Libyan civil war:: NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/2011-libyan-civil-war-nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses.md)
 BENGHAZI, Libya — Nine people were killed and 51 were wounded Sunday as rebel and pro-Gaddafi forces tried to break a month-long military stalemate aro...
 
 ### [2011 Spanish protests: More than 100,000 people, the "indignant", march on Madrid and other Spanish cities to protest government cuts, unemployment and the policies of the European Commission. ](/news/2011/06/19/2011-spanish-protests-more-than-100-000-people-the-indignant-march-on-madrid-and-other-spanish-cities-to-protest-government-cuts-unemp.md)

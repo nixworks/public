@@ -11,5 +11,5 @@ Federal government to take a fresh look at oil shale development in the West
 
 ### Related:
 
-1. [Bundy standoff. Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/bundy-standoff-amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md) _Context: Bureau of Land Management_
+1. [Bundy standoff: Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/bundy-standoff-amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md) _Context: Bureau of Land Management_
 2. [Suncor and Total SA sign a deal to develop in the Alberta tar sands for bitumen extraction, while a procedure to clean up tailings ponds by multiple companies is approved by an energy watchdog. ](/news/2010/12/17/suncor-and-total-sa-sign-a-deal-to-develop-in-the-alberta-tar-sands-for-bitumen-extraction-while-a-procedure-to-clean-up-tailings-ponds-by.md) _Context: tar sands_

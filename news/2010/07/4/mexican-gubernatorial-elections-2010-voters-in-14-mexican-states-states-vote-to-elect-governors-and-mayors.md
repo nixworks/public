@@ -1,6 +1,6 @@
 ### [2010-07-4](/news/2010/07/4/index.md)
 
-# Mexican gubernatorial elections, 2010. Voters in 14 Mexican states states vote to elect governors and mayors. 
+# Mexican gubernatorial elections, 2010: Voters in 14 Mexican states states vote to elect governors and mayors. 
 
 Opposition party set to gain from frustration over drug violence and weak economy.
 

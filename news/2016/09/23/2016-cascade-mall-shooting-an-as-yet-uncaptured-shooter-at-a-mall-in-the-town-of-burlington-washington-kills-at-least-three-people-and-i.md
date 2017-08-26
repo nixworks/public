@@ -1,6 +1,6 @@
 ### [2016-09-23](/news/2016/09/23/index.md)
 
-# 2016 Cascade Mall shooting. An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. 
+# 2016 Cascade Mall shooting: An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. 
 
 
 
@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [2016 Cascade Mall shooting. The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/2016-cascade-mall-shooting-the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _Context: 2016 Cascade Mall shooting_
+1. [2016 Cascade Mall shooting: The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/2016-cascade-mall-shooting-the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md) _Context: 2016 Cascade Mall shooting_

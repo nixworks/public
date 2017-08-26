@@ -3,13 +3,13 @@
 ### [A gunman kills eight people in a bar in the Colombian city of Cali. ](/news/2013/11/9/a-gunman-kills-eight-people-in-a-bar-in-the-colombian-city-of-cali.md)
 A gunman opened fire in a bar on Friday night in the Colombian city of Cali, killing eight people and wounding five in what police said appeared to have been a settling of scores between rival criminal gangs.
 
-### [Islamist insurgency in Nigeria:. Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md)
+### [Islamist insurgency in Nigeria:: Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md)
 Five members of theNigerian Islamist sect Boko Haram and two soldiers were killedin gun battles in Kano on Saturday, the army said, the firstviolence in months linked to insurgents in the largest northerncity.
 
 ### [Venezuelan television presenter Mara Gabriela Isler is crowned Miss Universe 2013 in Moscow, Russia. ](/news/2013/11/9/venezuelan-television-presenter-maria-gabriela-isler-is-crowned-miss-universe-2013-in-moscow-russia.md)
 _Context: Mara Gabriela Isler, Miss Universe 2013, Moscow, Russia, Venezuelan_
 
-### [Typhoon Haiyan:. Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-t.md)
+### [Typhoon Haiyan:: Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-t.md)
 The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one of the most powerful-ever tropical typhoons, blows through the Philippines. Local authorities earlier put the death toll at nearer 100.
 
 ### [British foreign secretary William Hague urged negotiatiors to "seize the moment" on talks about Iran's nuclear program. ](/news/2013/11/9/british-foreign-secretary-william-hague-urged-negotiatiors-to-seize-the-moment-on-talks-about-iran-s-nuclear-program.md)

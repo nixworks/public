@@ -1,6 +1,6 @@
 ## [2010-08-1](/news/2010/08/1/index.md)
 
-### [War in Afghanistan (2001-present). Netherlands pulls out of Afghanistan. ](/news/2010/08/1/war-in-afghanistan-2001-present-netherlands-pulls-out-of-afghanistan.md)
+### [War in Afghanistan (2001-present): Netherlands pulls out of Afghanistan. ](/news/2010/08/1/war-in-afghanistan-2001-present-netherlands-pulls-out-of-afghanistan.md)
 Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20;Afghanistan&#x20;Sunday&#x20;thanks&#x20;to&#x20;a&#x20;row&#x20;which&#x20;led&#x20;to&#x20;the&#x20;collapse&#x20;of&#x20;the&#x20;government&#x20;in&#x20;February.&#x20;A&#x20;change&#x20;of&#x20;command&#x20;ceremon...
 
 ### [Wooden box mines, suspected to come from North Korea, wash ashore on a South Korean beach killing one man and injuring another. ](/news/2010/08/1/wooden-box-mines-suspected-to-come-from-north-korea-wash-ashore-on-a-south-korean-beach-killing-one-man-and-injuring-another.md)
@@ -15,7 +15,7 @@ _Context: Allied Democratic Forces-National Army for the Liberation of Uganda, D
 ### [Six people die in the Indian province of Jammu and Kashmir after a third day of clashes between security forces and Muslim separatists. ](/news/2010/08/1/six-people-die-in-the-indian-province-of-jammu-and-kashmir-after-a-third-day-of-clashes-between-security-forces-and-muslim-separatists.md)
 _Context: India, Indian Armed Forces, Jammu and Kashmir_
 
-### [World Heritage List. Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/world-heritage-list-hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds.md)
+### [World Heritage List: Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/world-heritage-list-hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds.md)
 _Context: Hawaii, Monk seal, Papahanaumokuakea Marine National Monument, Sri Lanka, World Heritage List_
 
 ### [Philippine Airlines tells 25 airline pilots to return to work after quitting without notice forcing the airline to cancel flights. ](/news/2010/08/1/philippine-airlines-tells-25-airline-pilots-to-return-to-work-after-quitting-without-notice-forcing-the-airline-to-cancel-flights.md)
@@ -33,7 +33,7 @@ _Context: Russia, forest fire_
 ### [Floods in northeastern China kill more than 100 people and sweep 3,000 chemical-filled barrels into the Songhua River. ](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.md)
 More deaths and destruction after northeastern region hit by worst flood in a decade.
 
-### [Pakistan floods. The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md)
+### [Pakistan floods: The death toll from floods in northwestern Pakistan exceeds 1,000. ](/news/2010/08/1/pakistan-floods-the-death-toll-from-floods-in-northwestern-pakistan-exceeds-1-000.md)
 The number of people known to have been killed by floods in north-west Pakistan passes 1,100, officials say.
 
 ### [The Convention on Cluster Munitions banning the use, production and transfer of cluster bombs in some countries, comes into effect. ](/news/2010/08/1/the-convention-on-cluster-munitions-banning-the-use-production-and-transfer-of-cluster-bombs-in-some-countries-comes-into-effect.md)

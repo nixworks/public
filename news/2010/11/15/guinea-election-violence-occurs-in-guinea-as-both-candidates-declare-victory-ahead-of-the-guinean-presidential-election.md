@@ -1,6 +1,6 @@
 ### [2010-11-15](/news/2010/11/15/index.md)
 
-# Guinea election. Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. 
+# Guinea election: Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. 
 
 Deadly violence flares in Guinea hours ahead of results of its first democratic presidential election since independence from France over 50 years ago.
 

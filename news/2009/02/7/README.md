@@ -1,12 +1,12 @@
 ## [2009-02-7](/news/2009/02/7/index.md)
 
-### [ 2009 Southeastern Australia heat wave continues:. Bushfires in Victoria kill at 173 people. ](/news/2009/02/7/2009-southeastern-australia-heat-wave-continues-bushfires-in-victoria-kill-at-173-people.md)
+### [ 2009 Southeastern Australia heat wave continues:: Bushfires in Victoria kill at 173 people. ](/news/2009/02/7/2009-southeastern-australia-heat-wave-continues-bushfires-in-victoria-kill-at-173-people.md)
 More than 100,000 Victorians may be without power as scores of fires across the state threaten power lines.
 
 ### [ Bolivia's new constitution enters into force. ](/news/2009/02/7/bolivia-s-new-constitution-enters-into-force.md)
 _Context: Bolivia, constitution_
 
-### [ Pakistan:. Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md)
+### [ Pakistan:: Seven Pakistani police officers are killed in Mianwali, Punjab. ](/news/2009/02/7/pakistan-seven-pakistani-police-officers-are-killed-in-mianwali-punjab.md)
 _Context: Mianwali, Pakistan, Pakistani police, Punjab_
 
 ### [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md)

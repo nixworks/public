@@ -3,13 +3,13 @@
 ### [Gunmen ambush a bus killing nine people and wounding six others in western Ethiopia near the Sudanese border. ](/news/2014/04/16/gunmen-ambush-a-bus-killing-nine-people-and-wounding-six-others-in-western-ethiopia-near-the-sudanese-border.md)
 Gunmen ambushed a bus carrying dozens of people in western Ethiopia near the Sudanese border, killing nine and wounding six others, state-run media said on Wednesday.
 
-### [Syrian Civil War. More chemical attacks are reported, this time in the Damascus suburbs. ](/news/2014/04/16/syrian-civil-war-more-chemical-attacks-are-reported-this-time-in-the-damascus-suburbs.md)
+### [Syrian Civil War: More chemical attacks are reported, this time in the Damascus suburbs. ](/news/2014/04/16/syrian-civil-war-more-chemical-attacks-are-reported-this-time-in-the-damascus-suburbs.md)
 Jordanian warplanes have targeted and destroyed several vehicles trying to cross the border from Syria, the Jordanian military says.
 
-### [2014 pro-Russian unrest in Ukraine:. Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-proteste.md)
+### [2014 pro-Russian unrest in Ukraine:: Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/2014-pro-russian-unrest-in-ukraine-six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-proteste.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Ukrainian military, armored personnel carriers_
 
-### [2014 South Korean ferry capsizing:. Yonhap news agency reports that the Republic of Korea Coast Guard has been dispatched to rescue a ferry with 476 passengers sinking off the southeastern coast of South Korea with claims that at least four passengers have died and scores are injured. Approximately 280 people remain unaccounted for. ](/news/2014/04/16/2014-south-korean-ferry-capsizing-yonhap-news-agency-reports-that-the-republic-of-korea-coast-guard-has-been-dispatched-to-rescue-a-ferry.md)
+### [2014 South Korean ferry capsizing:: Yonhap news agency reports that the Republic of Korea Coast Guard has been dispatched to rescue a ferry with 476 passengers sinking off the southeastern coast of South Korea with claims that at least four passengers have died and scores are injured. Approximately 280 people remain unaccounted for. ](/news/2014/04/16/2014-south-korean-ferry-capsizing-yonhap-news-agency-reports-that-the-republic-of-korea-coast-guard-has-been-dispatched-to-rescue-a-ferry.md)
 Almost 300 people remain unaccounted for after a ferry carrying 459 people capsized and sank off South Korea, officials say.
 
 ### [Barry O'Farrell resigns as Premier of the Australian state of New South Wales after giving misleading evidence to the Independent Commission against Corruption. ](/news/2014/04/16/barry-o-farrell-resigns-as-premier-of-the-australian-state-of-new-south-wales-after-giving-misleading-evidence-to-the-independent-commission.md)

@@ -1,6 +1,6 @@
 ### [2013-12-19](/news/2013/12/19/index.md)
 
-# Phone hacking scandal:. A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". 
+# Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". 
 
 
 

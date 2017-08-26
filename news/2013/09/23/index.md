@@ -1,9 +1,9 @@
 ## [2013-09-23](/news/2013/09/23/index.md)
 
-### [Westgate shopping mall shooting:. Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-explosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md)
+### [Westgate shopping mall shooting:: Explosions and gunfire are reported from the Westgate shopping mall in Nairobi where Al-Shabaab gunmen are still holed up. ](/news/2013/09/23/westgate-shopping-mall-shooting-explosions-and-gunfire-are-reported-from-the-westgate-shopping-mall-in-nairobi-where-al-shabaab-gunmen-are.md)
 Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capital, Nairobi, where suspected al-Shabab militants are holding hostages.
 
-### [Syrian civil war:. President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md)
+### [Syrian civil war:: President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md)
 _Context: Bashar al-Assad, President, Syrian Civil War, chemical weapons facilities_
 
 ### [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md)

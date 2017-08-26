@@ -3,7 +3,7 @@
 ### [Violence in the Xinjiang region of China leaves 20 people dead. ](/news/2012/02/29/violence-in-the-xinjiang-region-of-china-leaves-20-people-dead.md)
 _Context: China, Xinjiang_
 
-### [Syria:. A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md)
+### [Syria:: A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md)
 Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troops attacked the rebel-held bastion that has endured 25 days of siege and fierce bombardment, activists said.
 
 ### [Davy Jones of The Monkees dies in Florida of a heart attack. ](/news/2012/02/29/davy-jones-of-the-monkees-dies-in-florida-of-a-heart-attack.md)

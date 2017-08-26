@@ -1,6 +1,6 @@
 ### [2015-10-17](/news/2015/10/17/index.md)
 
-# Egyptian parliamentary election, 2015. Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. 
+# Egyptian parliamentary election, 2015: Egyptians residing abroad begin casting votes in the country's first parliamentary election since the 2013 military overthrow of President Mohamed Morsi. Embassies and consulates in 139 countries will be open for two days of voting. 
 
 Voters express the hope that Egypt will some day become a land of opportunity like the UAE
 

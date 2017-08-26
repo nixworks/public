@@ -1,6 +1,6 @@
 ## [2009-06-15](/news/2009/06/15/index.md)
 
-### [ Iran. Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/iran-presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md)
+### [ Iran: Presidential candidate Mir Hossein Mousavi calls for the presidential election results to be annulled. ](/news/2009/06/15/iran-presidential-candidate-mir-hossein-mousavi-calls-for-the-presidential-election-results-to-be-annulled.md)
 Mousavi tells tens of thousands of supporters he will stand if new polls are called.
 
 ### [ Lee Myung-bak, South Korea's president, meets U.S. President Barack Obama in Washington to talk about North Korea. ](/news/2009/06/15/lee-myung-bak-south-korea-s-president-meets-u-s-president-barack-obama-in-washington-to-talk-about-north-korea.md)

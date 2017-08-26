@@ -63,7 +63,7 @@ _Context: Iran, Mehdi Karroubi_
 ### [A man accused by witnesses of domestic violence informs a New Zealand court that he and his wife were performing the Turkish kolbasti traditional dance at the time of the alleged incident in Hawera. ](/news/2010/08/7/a-man-accused-by-witnesses-of-domestic-violence-informs-a-new-zealand-court-that-he-and-his-wife-were-performing-the-turkish-kolbasti-tradit.md)
 A man accused of beating his wife tells a New Zealand court they were performing a traditional dance, not fighting.
 
-### [Saudi Arabia BlackBerry ban:. Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-f.md)
+### [Saudi Arabia BlackBerry ban:: Saudi Arabia decides it will not ban BlackBerry instant messaging after agreeing a deal to iron out security fears. ](/news/2010/08/7/saudi-arabia-blackberry-ban-saudi-arabia-decides-it-will-not-ban-blackberry-instant-messaging-after-agreeing-a-deal-to-iron-out-security-f.md)
 Saudi Arabia and the makers of the BlackBerry smartphone have reached a deal to prevent a ban on the phone&#039;s messenger service.
 
 ### [President of Paraguay Fernando Lugo is diagnosed with lymphoma. ](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.md)

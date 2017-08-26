@@ -1,6 +1,6 @@
 ### [2006-08-13](/news/2006/08/13/index.md)
 
-#  Yasukuni Shrine controversy:. Jiji Press reports that Japan Ground Self-Defense Force uniform officers examined enshrining troops in Yasukuni Shrine in the event of their death during their non-combat mission in Iraq. Critics accuse the examination of being against Japanese constitutional separation of state and religion. 
+#  Yasukuni Shrine controversy:: Jiji Press reports that Japan Ground Self-Defense Force uniform officers examined enshrining troops in Yasukuni Shrine in the event of their death during their non-combat mission in Iraq. Critics accuse the examination of being against Japanese constitutional separation of state and religion. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 

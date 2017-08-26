@@ -1,6 +1,6 @@
 ### [2015-06-20](/news/2015/06/20/index.md)
 
-# Anti-austerity movement. Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. 
+# Anti-austerity movement: Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. 
 
 
 

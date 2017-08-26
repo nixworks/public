@@ -1,6 +1,6 @@
 ## [2011-01-30](/news/2011/01/30/index.md)
 
-### [2011 Egyptian protests:. Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md)
+### [2011 Egyptian protests:: Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md)
 Al Jazeera English is available free-to-air through satellite and cable providers around the world.
 
 ### [2011 Sudan protests: Anti-government demonstrators face off against riot police who fire tear gas and beat up students in Khartoum during protests inspired by those in Egypt and Tunisia. ](/news/2011/01/30/2011-sudan-protests-anti-government-demonstrators-face-off-against-riot-police-who-fire-tear-gas-and-beat-up-students-in-khartoum-during-pr.md)
@@ -15,7 +15,7 @@ Thousands of people took part in what is expected to be the final march in Derry
 ### [A fire in an arms depot of the Anonymous Venezuelan Campaign of Military Industries (CAVIM) in Maracy city of Aragua state killed at least one person and forced authorities to evacuate about 10,000 people. ](/news/2011/01/30/a-fire-in-an-arms-depot-of-the-anonymous-venezuelan-campaign-of-military-industries-cavim-in-maracy-city-of-aragua-state-killed-at-least-o.md)
 _Context: Aragua state, CAVIM, Maracy, Venezuela_
 
-### [Screen Actors Guild Awards. The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/screen-actors-guild-awards-the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the.md)
+### [Screen Actors Guild Awards: The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/screen-actors-guild-awards-the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the.md)
 _Context: 17th Screen Actors Guild Awards, Screen Actors Guild Awards, The King's Speech_
 
 ### [Alpha Natural Resources buys out Massey Energy for $7.1billion, making Alpha the second largest U.S. coal mining company by market value.](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.md)

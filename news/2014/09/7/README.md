@@ -1,6 +1,6 @@
 ## [2014-09-7](/news/2014/09/7/index.md)
 
-### [2014 Iraq conflict:. The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md)
+### [2014 Iraq conflict:: The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/2014-iraq-conflict-the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md)
 _Context: 2014 Iraq conflict, Haditha Dam, Islamic State of Iraq and the Levant, United States_
 
 ### [A small plane carrying ten people from Araraquara Airport crashes in the Amazon jungle, with "little chance of finding survivors". ](/news/2014/09/7/a-small-plane-carrying-ten-people-from-araraquara-airport-crashes-in-the-amazon-jungle-with-little-chance-of-finding-survivors.md)

@@ -1,12 +1,12 @@
 ## [2012-07-18](/news/2012/07/18/index.md)
 
-### [2012 Burgas bus bombing:. At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-o.md)
+### [2012 Burgas bus bombing:: At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. ](/news/2012/07/18/2012-burgas-bus-bombing-at-least-6-israeli-tourists-men-and-women-are-killed-and-more-than-25-others-are-injured-after-a-bomb-explodes-o.md)
 Over 30 wounded in explosion on bus carrying Israelis inside Burgas airport; Netanyahu says, &#8216;All signs point to Iran&#8217;; Israeli medical teams fly to the scene
 
 ### [A bomb explodes in Pakistan's Orakzai Agency, killing at least 14 people. ](/news/2012/07/18/a-bomb-explodes-in-pakistan-s-orakzai-agency-killing-at-least-14-people.md)
 _Context: Orakzai Tribal Area, Pakistan_
 
-### [Syrian uprising (2011-present):. 97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011-present-97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md)
+### [Syrian uprising (2011-present):: 97 people are reportedly killed across Syria by the Syrian army. ](/news/2012/07/18/syrian-uprising-2011-present-97-people-are-reportedly-killed-across-syria-by-the-syrian-army.md)
 Nearly 100 people were killed on Wednesday in violence across Syria, including 16 in Damascus, said the Syrian Observatory for Human Rights.
 
 ### [The US city of San Bernardino, California, declares that it has an "immediate and severe" fiscal emergency allowing it to declare bankruptcy without negotiating with creditors. ](/news/2012/07/18/the-us-city-of-san-bernardino-california-declares-that-it-has-an-immediate-and-severe-fiscal-emergency-allowing-it-to-declare-bankruptcy.md)

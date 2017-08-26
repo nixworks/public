@@ -1,12 +1,12 @@
 ## [2013-12-4](/news/2013/12/4/index.md)
 
-### [Northern Mali:. A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-durin.md)
+### [Northern Mali:: A mass grave is discovered near Bamako holding the remains of 21 loyalist soldiers said to have gone missing last year during Mali's coup. ](/news/2013/12/4/northern-mali-a-mass-grave-is-discovered-near-bamako-holding-the-remains-of-21-loyalist-soldiers-said-to-have-gone-missing-last-year-durin.md)
 Twenty-one skulls believed to be the remains of soldiers loyal to ousted former president Amadou Toumani Toure.
 
-### [War in Afghanistan (2001-present):. The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001-present-the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-a.md)
+### [War in Afghanistan (2001-present):: The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001-present-the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-a.md)
 _Context: Afghanistan's, Pakistan, United States, War in Afghanistan (2001-present), drones launch_
 
-### [Sectarianism in Pakistan:. Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
+### [Sectarianism in Pakistan:: Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
 Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in targeted shootings including five suspected Taliban activists, a Shia scholar and two Moroccan students at a religious seminary.
 
 ### [A train derails in the Bangladesh district of Gaibandha as a result of sabotage resulting in at least 3 deaths. Over 60 people have been killed since an opposition Bangladesh Nationalist Party announced a campaign against next months election. ](/news/2013/12/4/a-train-derails-in-the-bangladesh-district-of-gaibandha-as-a-result-of-sabotage-resulting-in-at-least-3-deaths-over-60-people-have-been-kil.md)
@@ -15,10 +15,10 @@ Opposition activists derailed a train in Bangladesh, killing three people, as pa
 ### [A Hezbollah official Hassan al-Lakkis is assassinated outside his home in Hadath, south of the Lebanese capital Beirut with Hezbollah blaming Israel. ](/news/2013/12/4/a-hezbollah-official-hassan-al-lakkis-is-assassinated-outside-his-home-in-hadath-south-of-the-lebanese-capital-beirut-with-hezbollah-blamin.md)
 A Hezbollah commander was gunned down overnight outside his home south of Beirut, in an assassination the Lebanese group said Israel would bear full responsibility for.
 
-### [Syrian civil war:. A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-a-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md)
+### [Syrian civil war:: A rocket attack on government-held areas of the Syrian city of Aleppo kills 18 people including a number of civilians. ](/news/2013/12/4/syrian-civil-war-a-rocket-attack-on-government-held-areas-of-the-syrian-city-of-aleppo-kills-18-people-including-a-number-of-civilians.md)
 At least 18 people have been killed in a rocket attack on government-held areas in the Syrian city of Aleppo, activists say.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Iraqi security forces storm the Jawahir Mall in Kirkuk after armed gunmen seize hostages. ](/news/2013/12/4/iraqi-insurgency-post-u-s-withdrawal-iraqi-security-forces-storm-the-jawahir-mall-in-kirkuk-after-armed-gunmen-seize-hostages.md)
 Brazen attack on Kirkuk mall by gunmen and suicide bombers leaves many dead as violence escalates in Iraq.
 
 ### [The European Commission fines six banks $2.3 billion for forming illegal cartels to rig interest rates. ](/news/2013/12/4/the-european-commission-fines-six-banks-2-3-billion-for-forming-illegal-cartels-to-rig-interest-rates.md)

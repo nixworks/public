@@ -12,7 +12,7 @@ White and Silvia Aloisi
 ### [ Israeli President and Nobel Laureate Shimon Peres is hospitalised after a collapse in Tel Aviv. ](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.md)
 The Israeli president briefly fainted on stage while speaking at an event in Tel Aviv.
 
-### [ 2009 Sierra Leone shipwreck:. 120 of the dead are buried. ](/news/2009/09/12/2009-sierra-leone-shipwreck-120-of-the-dead-are-buried.md)
+### [ 2009 Sierra Leone shipwreck:: 120 of the dead are buried. ](/news/2009/09/12/2009-sierra-leone-shipwreck-120-of-the-dead-are-buried.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Ireland's Taoiseach Brian Cowen denies Libertas founder Declan Ganley's claim that the second Irish referendum on the Treaty of Lisbon is "profoundly undemocratic". ](/news/2009/09/12/ireland-s-taoiseach-brian-cowen-denies-libertas-founder-declan-ganley-s-claim-that-the-second-irish-referendum-on-the-treaty-of-lisbon-is.md)

@@ -1,6 +1,6 @@
 ### [2016-03-31](/news/2016/03/31/index.md)
 
-# Yugoslav Wars. Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. 
+# Yugoslav Wars: Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. 
 
 Former Serbian deputy PM was charged by ICTY with crimes against humanity and war crimes in Croatia and Bosnia in 1990s
 

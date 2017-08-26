@@ -1,6 +1,6 @@
 ## [2013-06-5](/news/2013/06/5/index.md)
 
-### [2013 protests in Turkey:. Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-turkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-cann.md)
+### [2013 protests in Turkey:: Turkey's Ahmet Davutoglu announces an investigation into police attacks on civilians with tear gas and water cannon in cities nationwide. ](/news/2013/06/5/2013-protests-in-turkey-turkey-s-ahmet-davutoalu-announces-an-investigation-into-police-attacks-on-civilians-with-tear-gas-and-water-cann.md)
 In historic events involving tens of thousands, often hundreds of thousands, sometimes a single image of a single person can capture the spirit of the moment.
 
 ### [Kandahar massacre: U.S. staff sergeant Robert Bales avoids the death penalty by pleading guilty to the murder of 16 Afghan civilians, including 9 children. ](/news/2013/06/5/kandahar-massacre-u-s-staff-sergeant-robert-bales-avoids-the-death-penalty-by-pleading-guilty-to-the-murder-of-16-afghan-civilians-includ.md)
@@ -9,10 +9,10 @@ Staff Sgt. Robert Bales, the figure at the center of the worst American war crim
 ### [After a long-running battle, Britain announces a compensation fund of GBP2,600 each for more than 5,000 survivors of the prison camps it operated across Kenya in the 1950s. ](/news/2013/06/5/after-a-long-running-battle-britain-announces-a-compensation-fund-of-agbp2-600-each-for-more-than-5-000-survivors-of-the-prison-camps-it-op.md)
 _Context: Kenya_
 
-### [Syrian civil war:. The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-the-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md)
+### [Syrian civil war:: The Syrian Army regains control of the strategic town of Al-Qusayr, as rebels pull out. ](/news/2013/06/5/syrian-civil-war-the-syrian-army-regains-control-of-the-strategic-town-of-al-qusayr-as-rebels-pull-out.md)
 Syrian government forces and their Lebanese Hezbollah allies seized control of the border town of Qusair on Wednesday, a severe setback to rebel fighters battling to overthrow President Bashar al-Assad.
 
-### [Iraqi insurgency (post-U.S. withdrawal):. Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed at a fake security checkpoint manned by gunmen in western Iraq. ](/news/2013/06/5/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-at-a-fake-security-checkpoint-manned-by-gunmen-in-western-iraq.md)
 At least 14 people have been killed at a fake security checkpoint manned by gunmen in western Iraq, officials say.
 
 ### [Actor Stephen Fry reveals that he nearly died after taking a cocktail of drugs and alcohol last year. ](/news/2013/06/5/actor-stephen-fry-reveals-that-he-nearly-died-after-taking-a-cocktail-of-drugs-and-alcohol-last-year.md)
@@ -60,7 +60,7 @@ _Context: Jilin Baoyuanfeng Poultry Plant fire_
 ### [A second case of Legionnaires' Disease in less than a week is confirmed in Australia, leading to fears of a possible outbreak of the rare disease. ](/news/2013/06/5/a-second-case-of-legionnaires-disease-in-less-than-a-week-is-confirmed-in-australia-leading-to-fears-of-a-possible-outbreak-of-the-rare-di.md)
 _Context: Legionnaires' disease_
 
-### ["United States v. Bradley Manning":. The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileak.md)
+### ["United States v. Bradley Manning":: The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileak.md)
 _Context: Bradley Manning, United States v Bradley Manning, WikiLeaks_
 
 ### [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid "The Sun" about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-abo.md)

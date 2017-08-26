@@ -1,6 +1,6 @@
 ### [2010-07-4](/news/2010/07/4/index.md)
 
-# Polish presidential election, 2010. Polish voters head to the polls for the second round of presidential voting.. Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. 
+# Polish presidential election, 2010: Polish voters head to the polls for the second round of presidential voting.: Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. 
 
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.
 
@@ -11,7 +11,7 @@ Bronislaw Komorowski is declared the winner in a dramatic race for the Polish pr
 
 ### Related:
 
-1. [Polish presidential election, 2010. Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md) _Context: Polish presidential election, 2010_
+1. [Polish presidential election, 2010: Bronislaw Komorowski has won the election having received 53.01% of the vote. Opponent Jaroslaw Kaczynski has 46.99% of the vote. ](/news/2010/07/5/polish-presidential-election-2010-bronisaaw-komorowski-has-won-the-election-having-received-53-01-of-the-vote-opponent-jarosaaw-kaczya.md) _Context: Polish presidential election, 2010_
 2. [Bronislaw Komorowski and Jaroslaw Kaczynski face each other on 4 July after Sunday's inconclusive vote in Polish presidential election, 2010. ](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.md) _Context: Polish presidential election, 2010_
 3. [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md) _Context: Polish presidential election, 2010_
 4. [The Polish presidential election is being held earlier, following the death of Polish President Lech Kaczynski in a plane crash on 10 April 2010 near Smolensk. The two front-runners are Bronislaw Komorowski from the ruling center-right Civic Platform (Platforma Obywatelska) party and Jaroslaw Kaczynski from the right-wing Law and Justice (Prawo i Sprawiedliwosc) party. ](/news/2010/06/18/the-polish-presidential-election-is-being-held-earlier-following-the-death-of-polish-president-lech-kaczyaski-in-a-plane-crash-on-10-april.md) _Context: Polish presidential election, 2010_

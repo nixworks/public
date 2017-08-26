@@ -1,6 +1,6 @@
 ### [2010-05-5](/news/2010/05/5/index.md)
 
-# 2010 Greek riots. One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. 
+# 2010 Greek riots: One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. 
 
 Protests against proposed spending cuts by the Greek government have turned violent, as protesters clashed with riot police and torched buildings, killing at least three people.
 
@@ -15,7 +15,7 @@ Protests against proposed spending cuts by the Greek government have turned viol
 
 ### Related:
 
-1. [Irish financial crisis:. European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/irish-financial-crisis-european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agr.md) _Context: economically troubled euro-zone nations_
+1. [Irish financial crisis:: European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/irish-financial-crisis-european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agr.md) _Context: economically troubled euro-zone nations_
 2. [A parcel bomb delivered to the public order ministry in Athens, addressed to counter-terrorism minister Michalis Chrysohoidis, is opened by an aide, instantly killing him; Chrysohoidis is unhurt. Prime Minister George Papandreou labels it a terrorist attack. ](/news/2010/06/24/a-parcel-bomb-delivered-to-the-public-order-ministry-in-athens-addressed-to-counter-terrorism-minister-michalis-chrysohoidis-is-opened-by.md) _Context: George Papandreou_
 3. [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately -120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-120-billion.md) _Context: economically troubled euro-zone nations_
 4. [A nearly $1 trillion rescue package to prevent the Greek sovereign debt crisis spreading in Europe will impact various facets of the Chinese economy. ](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.md) _Context: economically troubled euro-zone nations_

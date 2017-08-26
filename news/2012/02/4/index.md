@@ -1,6 +1,6 @@
 ## [2012-02-4](/news/2012/02/4/index.md)
 
-### [Arab Spring:. 2011-2012 Syrian uprising:. The United Nations Security Council votes on an Arab League proposal to resolve problems in Syria with reports of hundreds of people dead in the past couple of days as a result of shelling in Homs - the People's Republic of China and Russia veto the resolution. ](/news/2012/02/4/arab-spring-2011-2012-syrian-uprising-the-united-nations-security-council-votes-on-an-arab-league-proposal-to-resolve-problems-in-syri.md)
+### [Arab Spring:: 2011-2012 Syrian uprising:: The United Nations Security Council votes on an Arab League proposal to resolve problems in Syria with reports of hundreds of people dead in the past couple of days as a result of shelling in Homs - the People's Republic of China and Russia veto the resolution. ](/news/2012/02/4/arab-spring-2011-2012-syrian-uprising-the-united-nations-security-council-votes-on-an-arab-league-proposal-to-resolve-problems-in-syri.md)
 Syrian forces are accused of killing scores of people in Homs in one of the bloodiest nights in months, but the government denies it as the UN Security Council meets.
 
 ### [The United Nations Assistance Mission in Afghanistan estimates that civilian deaths in the war in Afghanistan rose to a record level in 2011 of 3021 with insurgents responsible for most of the deaths. ](/news/2012/02/4/the-united-nations-assistance-mission-in-afghanistan-estimates-that-civilian-deaths-in-the-war-in-afghanistan-rose-to-a-record-level-in-2011.md)
@@ -33,7 +33,7 @@ _Context: Moscow, Russia, Vladimir Putin, rally_
 ### [Julius Malema, formerly of the African National Congress Youth League, loses an appeal against a decision by South Africa's ruling African National Congress party to suspend him. ](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.md)
 _Context: ANC Youth League, African National Congress, Julius Malema, South Africa_
 
-### [2012 United States presidential election:. Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md)
+### [2012 United States presidential election:: Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md)
 _Context: 2012 United States presidential election, Mitt Romney, Nevada, Republican, party caucuses_
 
 ## [Previous Day...](/news/2012/02/3/index.md)

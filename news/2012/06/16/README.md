@@ -1,6 +1,6 @@
 ## [2012-06-16](/news/2012/06/16/index.md)
 
-### [Syrian uprising (2011-present):. The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
+### [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
 UN observers in Syria suspend their activities because of the escalating violence, the head of the UN Stabilisation Mission in Syria says.
 
 ### [At least 32 people are killed in a car bomb attack targeting Shia Muslims in the Iraqi capital, Baghdad. ](/news/2012/06/16/at-least-32-people-are-killed-in-a-car-bomb-attack-targeting-shia-muslims-in-the-iraqi-capital-baghdad.md)

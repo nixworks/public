@@ -1,6 +1,6 @@
 ### [2011-02-16](/news/2011/02/16/index.md)
 
-# Piracy. South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. 
+# Piracy: South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. 
 
 
 

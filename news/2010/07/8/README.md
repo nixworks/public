@@ -42,10 +42,10 @@ _Context: Grim Sleeper, Los Angeles Police_
 ### [BT Group and TalkTalk Group announce they are seeking a judicial review of the Digital Economy Act 2010. ](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.md)
 BT and TalkTalk seek a judicial review of the Digital Economy Act, saying it was rushed and could curb basic rights.
 
-### [Russian Spy Ring in the United States. 10 people uncovered by the FBI as Russian spies plead guilty in court to conspiracy to act as foreign agents. ](/news/2010/07/8/russian-spy-ring-in-the-united-states-10-people-uncovered-by-the-fbi-as-russian-spies-plead-guilty-in-court-to-conspiracy-to-act-as-foreign.md)
+### [Russian Spy Ring in the United States: 10 people uncovered by the FBI as Russian spies plead guilty in court to conspiracy to act as foreign agents. ](/news/2010/07/8/russian-spy-ring-in-the-united-states-10-people-uncovered-by-the-fbi-as-russian-spies-plead-guilty-in-court-to-conspiracy-to-act-as-foreign.md)
 Ten people plead guilty in a US court to spying for Russia, as the judge orders their expulsion in an apparent swap with Moscow.
 
-### [BART Police shooting of Oscar Grant. Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/bart-police-shooting-of-oscar-grant-johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md)
+### [BART Police shooting of Oscar Grant: Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/bart-police-shooting-of-oscar-grant-johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md)
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 
 
 ### [Greece heads for a general strike after legislators raise the retirement age from 60 to 65. ](/news/2010/07/8/greece-heads-for-a-general-strike-after-legislators-raise-the-retirement-age-from-60-to-65.md)

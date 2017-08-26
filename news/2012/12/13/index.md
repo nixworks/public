@@ -1,12 +1,12 @@
 ## [2012-12-13](/news/2012/12/13/index.md)
 
-### [Syrian civil war:. Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/syrian-civil-war-russia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-c.md)
+### [Syrian civil war:: Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/syrian-civil-war-russia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-c.md)
 _Context: Foreign Ministry, Russia, Syria, Syrian Civil War, Syrian National Coalition, Syrian government_
 
-### [Israeli-Palestinian conflict:. Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/israeli-palestinian-conflict-five-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-force.md)
+### [Israeli-Palestinian conflict:: Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/israeli-palestinian-conflict-five-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-force.md)
 Five injured in West Bank clashes between Palestinian youths and Israeli soldiers ahead of funeral of killed teenager.
 
-### [Senkaku Islands dispute:. Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/senkaku-islands-dispute-japan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-fi.md)
+### [Senkaku Islands dispute:: Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/senkaku-islands-dispute-japan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-fi.md)
 _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, aircraft, fighter jets_
 
 ### ["The Tallow Candle", an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
@@ -36,7 +36,7 @@ European Court of Human Rights rules that German citizen was an innocent victim 
 ### [Millions of assets belonging to the former Egyptian dictator Hosni Mubarak are located, including Marbella beach properties and luxury cars. ](/news/2012/12/13/millions-of-assets-belonging-to-the-former-egyptian-dictator-hosni-mubarak-are-located-including-marbella-beach-properties-and-luxury-cars.md)
 Millions of assets of ex-Egyptian president and associates located, including Marbella beach properties and luxury cars.
 
-### [2012 royal hoax call incident:. An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangi.md)
+### [2012 royal hoax call incident:: An inquest into the death of nurse Jacintha Saldanha hears that she died as a result of self-inflicted hanging. ](/news/2012/12/13/2012-royal-hoax-call-incident-an-inquest-into-the-death-of-nurse-jacintha-saldanha-hears-that-she-died-as-a-result-of-self-inflicted-hangi.md)
 The nurse duped by a prank call from an Australian Radio DJs while she was caring for the Duchess of Cambridge left three notes before she died, a coroner heard today.
 
 ### [A worker at the chief clerk's office (making reference to a will) at the Hugo Black U.S. Federal Courthouse in Birmingham, Alabama shoots himself in the head. ](/news/2012/12/13/a-worker-at-the-chief-clerk-s-office-making-reference-to-a-will-at-the-hugo-black-u-s-federal-courthouse-in-birmingham-alabama-shoots-hi.md)

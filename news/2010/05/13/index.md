@@ -1,6 +1,6 @@
 ## [2010-05-13](/news/2010/05/13/index.md)
 
-### [2010 Thai political protests:. A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/2010-thai-political-protests-a-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-i.md)
+### [2010 Thai political protests:: A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/2010-thai-political-protests-a-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-i.md)
 A rogue Thai general leading a militant wing of anti-government protesters was shot in the head and critically wounded on Thursday, and a man was killed when the army used force to blockade a five-week street rally.
 
 ### [5 people are killed and a further 19 injured in two bombings in Baghdad. ](/news/2010/05/13/5-people-are-killed-and-a-further-19-injured-in-two-bombings-in-baghdad.md)
@@ -49,7 +49,7 @@ Sudan has asked Interpol to arrest Khalil Ibrahim, chief of JEM wherever he migh
 New York Daily NewsThe scene at the corner of W 45th St. and Broadway in the heart of Times Square New York, NY, where a car was found last month that contained cans of flammable liquid and other explosive devices.BOSTON...
 
 ### [The U.S. state of Hawaii enacts a law permitting officials to ignore multiple attempts by the same person to view the birth certificate of President of the United States Barack Obama. ](/news/2010/05/13/the-u-s-state-of-hawaii-enacts-a-law-permitting-officials-to-ignore-multiple-attempts-by-the-same-person-to-view-the-birth-certificate-of-p.md)
-_Context: Barack Obama, Hawaii, U.S. state, president_
+_Context: Barack Obama, Hawaii, President, U.S. state_
 
 ## [Previous Day...](/news/2010/05/12/index.md)
 

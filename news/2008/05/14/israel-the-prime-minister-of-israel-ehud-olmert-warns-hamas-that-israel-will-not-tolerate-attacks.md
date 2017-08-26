@@ -1,6 +1,6 @@
 ### [2008-05-14](/news/2008/05/14/index.md)
 
-#  Israel. The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. 
+#  Israel: The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. 
 
 
 

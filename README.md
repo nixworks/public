@@ -1,4 +1,15 @@
-## [News](/news/2017/08/25/index.md)
+## [News](/news/2017/08/26/index.md)
+
+### [The Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. ](/news/2017/08/26/the-korean-military-reports-north-korea-has-fired-several-short-range-projectiles-into-the-sea-from-its-eastern-kangwon-province-the-u-s-m.md)
+North Korea fired several short-range missiles into the sea off its east coast early on Saturday, South Korea and the U.S. military said, as the two allies conducted annual joint military drills that the North denounces as preparation for war.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/25/index.md)
 
 ### [War in Afghanistan (2001-present): New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-2001-present-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosti.md)
 Just days after the United States said it would increase troop numbers in Afghanistan and ask its allies to do the same, New Zealand on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13.
@@ -12,7 +23,7 @@ Violence in Panchkula and Sirsa in Haryana. Punjab and Delhi too hit; HC orders 
 ### [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md)
 Brazilian president has dissolved Renca to attract investment in region thought to contain gold with critics warning of irreversible damage
 
-### [2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm, now a Category 4 hurricane, will make landfall tonight as the strongest to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. ](/news/2017/08/25/2017-atlantic-hurricane-season-in-anticipation-of-hurricane-harvey-residents-from-corpus-christi-to-galveston-texas-and-workers-from-gul.md)
+### [2017 Atlantic hurricane season: In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm, now a Category 4 hurricane, will make landfall near Corpus Christi, Texas, around 10 p.m. EDT as the strongest storm to hit the United States mainland since 2005. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much 35|in|cm of rain on some parts of the state. ](/news/2017/08/25/2017-atlantic-hurricane-season-in-anticipation-of-hurricane-harvey-residents-from-corpus-christi-to-galveston-texas-and-workers-from-gul.md)
 Hurricane Harvey intensified early on Friday, spinning into potentially the biggest hurricane to hit the U.S. mainland in more than a decade, with life-threatening floods expected along the Gulf Coast.
 
 ### [Trial of Yingluck Shinawatra: Thailand's Supreme Court issues an arrest warrant for former Prime Minister Yingluck Shinawatra, who didn't appear in court for the verdict in her negligence trial regarding a rice subsidy program for farmers. The court also issued a statement questioning her attorney's report that she is unwell and a potential flight risk, citing the lack of a physician's certificate. The reading of the verdict has been rescheduled to September 27. Sources within Shinawatra's party Pheu Thai Party have said that she has allegedly fled the country, though not saying where to, in response current prime minister Prayuth Chan-ocha has ordered the border checkpoints to be closely monitored to prevent Shinawatra leaving the country if she has not already. ](/news/2017/08/25/trial-of-yingluck-shinawatra-thailand-s-supreme-court-issues-an-arrest-warrant-for-former-prime-minister-yingluck-shinawatra-who-didn-t-ap.md)
@@ -21,16 +32,18 @@ Ousted Thai prime minister Yingluck Shinawatra has fled the country ahead of a v
 ### [2016 South Korean political scandal: Lee Jae-yong (Jay Y. Lee), the vice-chairman of the Samsung Group is sentenced to five years for graft for his involvement in the 2016 South Korean political scandal that led to the impeachment of President of South Korea Park Geun-hye. ](/news/2017/08/25/2016-south-korean-political-scandal-lee-jae-yong-jay-y-lee-the-vice-chairman-of-the-samsung-group-is-sentenced-to-five-years-for-graft.md)
 Jay Y. Lee is set to spend the next five years in prison, one of the harshest sentences handed to a South Korean chaebol executive, after a court convicted him of bribing his way to greater control of the Samsung empire his family founded.
 
+### [U.S. President Donald Trump pardons former sheriff of Maricopa County, Arizona, Joe Arpaio. ](/news/2017/08/25/u-s-president-donald-trump-pardons-former-sheriff-of-maricopa-county-arizona-joe-arpaio.md)
+President Trump grants pardon to former Sheriff Joe Arpaio of Arizona.
+
+### [Political appointments by Donald Trump: Deputy Assistant to the President Sebastian Gorka resigns expressing unhappiness with the direction of the Trump administration-s foreign policy. ](/news/2017/08/25/political-appointments-by-donald-trump-deputy-assistant-to-the-president-sebastian-gorka-resigns-expressing-unhappiness-with-the-direction.md)
+_Context: Political appointments by Donald Trump, Sebastian Gorka_
+
 ### [2017 in spaceflight: FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/2017-in-spaceflight-formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbi.md)
 _Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization, SpaceX, Taiwan_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/24/index.md)
+## [Day Before Yesterday](/news/2017/08/24/index.md)
 
 ### [Archaeology of Israel: A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/archaeology-of-israel-a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusa.md)
 An almost entirely intact mosaic dating to AD 550/551 is uncovered by construction workers in one of the most archaeologically rich areas of Jerusalem.
@@ -55,35 +68,7 @@ Watch the hearing live on Rappler on Thursday, August 24, at 2 pm
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/23/index.md)
-
-### [Saudi Arabian-led intervention in Yemen: At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/saudi-arabian-led-intervention-in-yemen-at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north.md)
-At least 35 people were killed in air strikes that hit a small hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa on Wednesday, a local medic and Houthi&#039;s television station.
-
-### [Nuclear weapons and the United States: The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. ](/news/2017/08/23/nuclear-weapons-and-the-united-states-the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weap.md)
-The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $900 million contracts to continue work on a replacement for the AGM-86B air-launched nuclear cruise missile, the Pentagon said on Wednesday.
-
-### [Aftermath of the USS "John S. McCain" collision: The United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following four collisions in Asia this year that claimed the lives of 17 sailors. ](/news/2017/08/23/aftermath-of-the-uss-john-s-mccain-collision-the-united-states-navy-relieves-vice-admiral-joseph-aucoin-as-commander-of-the-united-state.md)
-Divers found the remains of missing sailors in a search of the Navy destroyer John S. McCain that collided with an oil tanker on Monday near Singapore.
-
-### [Auraiya train derailment: A passenger train collided with a dump truck on the line at Auraiya, India, and was derailed. Twenty-five people were injured. ](/news/2017/08/23/auraiya-train-derailment-a-passenger-train-collided-with-a-dump-truck-on-the-line-at-auraiya-india-and-was-derailed-twenty-five-people-w.md)
-At least one out of 10 derailed coaches capsized causing injuries to passengers
-
-### [Earthquakes in 2017: Two people die in an earthquake in Leyte, Philippines. ](/news/2017/08/23/earthquakes-in-2017-two-people-die-in-an-earthquake-in-leyte-philippines.md)
-Aftershocks are expected from the quake; no injuries or damage yet reported.
-
-### [2017 Atlantic hurricane season: Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/2017-atlantic-hurricane-season-hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthe.md)
-The Gulf Coast landfall will only be part of the danger.
-
-### [Disappearence of Kim Wall: A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated and had metal attached to it so that it would not float. ](/news/2017/08/23/disappearence-of-kim-wall-a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according.md)
-A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
-
-### [Angolan legislative election, 2017: Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/angolan-legislative-election-2017-voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party.md)
-Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
-
----
-
-## [Previous Day...](/news/2017/08/22/index.md)
+## [Previous Day...](/news/2017/08/23/index.md)
 
 ---
 

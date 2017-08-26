@@ -1,6 +1,6 @@
 ### [2016-04-7](/news/2016/04/7/index.md)
 
-# "American Idol" (season 15). Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. 
+# "American Idol" (season 15): Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. 
 
 La&#39;Porsha Renae and Trent Harmon competed for the season 15 title
 

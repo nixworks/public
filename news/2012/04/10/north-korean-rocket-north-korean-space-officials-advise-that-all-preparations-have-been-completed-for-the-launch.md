@@ -1,6 +1,6 @@
 ### [2012-04-10](/news/2012/04/10/index.md)
 
-# North Korean rocket:. North Korean space officials advise that all preparations have been completed for the launch. 
+# North Korean rocket:: North Korean space officials advise that all preparations have been completed for the launch. 
 
 North Korea says the rocket built to carry a satellite into space is ready for liftoff this week.
 

@@ -1,6 +1,6 @@
 ### [2016-11-25](/news/2016/11/25/index.md)
 
-# Legality of cannabis. Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. 
+# Legality of cannabis: Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. 
 
 Even the mayor was there. On Wednesday night, Rainforest Farms made the first legal sale of marijuana in Juneau and the first in Alaska off the state&#039;s road system.
 
@@ -11,9 +11,9 @@ Even the mayor was there. On Wednesday night, Rainforest Farms made the first le
 
 ### Related:
 
-1. [Legality of cannabis. Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Legality of cannabis, marijuana_
-2. [Crime in Alaska. A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/crime-in-alaska-a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passe.md) _Context: Juneau, Alaska_
-3. [Unruly aircraft passengers. Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengers-alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _Context: Juneau, Alaska_
+1. [Legality of cannabis: Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Legality of cannabis, marijuana_
+2. [Crime in Alaska: A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/crime-in-alaska-a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passe.md) _Context: Juneau, Alaska_
+3. [Unruly aircraft passengers: Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengers-alaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md) _Context: Juneau, Alaska_
 4. [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md) _Context: Legality of cannabis_
 5. [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md) _Context: marijuana_
 6. [Colorado says it has collected $2 million in taxes from marijuana sales in the month of January. ](/news/2014/03/11/colorado-says-it-has-collected-2-million-in-taxes-from-marijuana-sales-in-the-month-of-january.md) _Context: marijuana_

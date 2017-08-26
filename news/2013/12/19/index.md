@@ -1,18 +1,18 @@
 ## [2013-12-19](/news/2013/12/19/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: A series of attacks across Iraq kills 22 Shiite pilgrims. ](/news/2013/12/19/iraqi-insurgency-post-u-s-withdrawal-a-series-of-attacks-across-iraq-kills-22-shiite-pilgrims.md)
 Three suicide bombers detonate explosives belts among Shiite pilgrims in Iraq, killing at least 36 people, while militants shoot dead a family of five, officials say.
 
-### [2013 South Sudanese political crisis:. At least 500 people have been killed in fighting since 14 December 2013, according to the United Nations. [http://www.usatoday.com/story/news/world/2013/12/18/united-nations-south-sudan/4093345/ "(USA Today)"]](/news/2013/12/19/2013-south-sudanese-political-crisis-at-least-500-people-have-been-killed-in-fighting-since-14-december-2013-according-to-the-united-nati.md)
+### [2013 South Sudanese political crisis:: At least 500 people have been killed in fighting since 14 December 2013, according to the United Nations. [http://www.usatoday.com/story/news/world/2013/12/18/united-nations-south-sudan/4093345/ "(USA Today)"]](/news/2013/12/19/2013-south-sudanese-political-crisis-at-least-500-people-have-been-killed-in-fighting-since-14-december-2013-according-to-the-united-nati.md)
 _Context: 2013 South Sudanese political crisis, United Nations_
 
 ### [Phil Robertson, featured on the reality show "Duck Dynasty", is suspended by A&E in response to controversial statements about homosexuality made during an interview with "GQ" magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuality.md)
 _Context: ''GQ'' magazine, A&E, Duck Dynasty, Phil Robertson, homosexuality_
 
-### ["R v Grillo and Grillo:. British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md)
+### ["R v Grillo and Grillo:: British food writer Nigella Lawson's alleged drug use can be included in the lawsuit, the high court says. ](/news/2013/12/19/r-v-grillo-and-grillo-british-food-writer-nigella-lawson-s-alleged-drug-use-can-be-included-in-the-lawsuit-the-high-court-says.md)
 Closing statements were heard today in the fraud trial of the celebrity chef&#39;s former assistants
 
-### [Phone hacking scandal:. A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md)
+### [Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md)
 _Context: Catherine, Duchess of Cambridge, Duke of Cambridge, London, News of the World, Phone hacking scandal_
 
 ### [Target Corporation and the United States Secret Service say that more than 40 million credit and debit cards used in Target stores may have been compromised due to a data breach. ](/news/2013/12/19/target-corporation-and-the-united-states-secret-service-say-that-more-than-40-million-credit-and-debit-cards-used-in-target-stores-may-have.md)

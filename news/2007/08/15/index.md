@@ -13,7 +13,7 @@ _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane
 _Context: Gaza Strip, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, president_
+_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, President, Security and Prosperity Partnership of North America, Stephen Harper_
 
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
@@ -60,7 +60,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 ### [ Charles Murigande, the foreign minister of Rwanda, criticizes the Democratic Republic of Congo for stopping military operations against the Democratic Forces for the Liberation of Rwanda. ](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.md)
 _Context: Charles Murigande, Democratic Forces for the Liberation of Rwanda, Democratic Republic of Congo, Rwanda_
 
-### [ War in Afghanistan:. Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
+### [ War in Afghanistan:: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
 _Context: Germany, Kabul, War in Afghanistan (2001-present)_
 
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
@@ -84,7 +84,7 @@ _Context: Myanmar, compressed natural gas, petrol_
 ### [ The Secretary-General of the United Nations Ban Ki-moon orders a full evaluation of the needs of North Korea after severe floods hit the country. Up to 300,000 people may have been left homeless. ](/news/2007/08/15/the-secretary-general-of-the-united-nations-ban-ki-moon-orders-a-full-evaluation-of-the-needs-of-north-korea-after-severe-floods-hit-the-co.md)
 North Korean authorities have indicated flooding may have left up to 300,000 people homeless, a U.N. aid agency spokesman said on Wednesday, while the communist state warned of a poor harvest this year due to the heavy rain.
 
-### [ 60th anniversary of the Partition of India:. India marks the 60th anniversary of its independence from British rule. ](/news/2007/08/15/60th-anniversary-of-the-partition-of-india-india-marks-the-60th-anniversary-of-its-independence-from-british-rule.md)
+### [ 60th anniversary of the Partition of India:: India marks the 60th anniversary of its independence from British rule. ](/news/2007/08/15/60th-anniversary-of-the-partition-of-india-india-marks-the-60th-anniversary-of-its-independence-from-british-rule.md)
 Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated India on the 60th anniversary of its independence from Britain.
 
 ### [ Bangladesh marks the 32nd anniversary of the assassination of Sheikh Mujibur Rahman, a pioneer of Bengali independence from Pakistan and their first President. ](/news/2007/08/15/bangladesh-marks-the-32nd-anniversary-of-the-assassination-of-sheikh-mujibur-rahman-a-pioneer-of-bengali-independence-from-pakistan-and-th.md)

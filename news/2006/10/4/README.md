@@ -15,7 +15,7 @@ _Context: Chinese, European Union, Vietnam_
 ### [ American Roger Kornberg wins the 2006 Nobel Prize in Chemistry for describing the essential process of gene copying in cells, research that can give insight into illnesses such as cancer and heart disease. ](/news/2006/10/4/american-roger-kornberg-wins-the-2006-nobel-prize-in-chemistry-for-describing-the-essential-process-of-gene-copying-in-cells-research-that.md)
 _Context: Nobel Prize in Chemistry, Roger Kornberg, cancer, cells, gene, heart disease_
 
-### [ Mark Foley scandal:. The "Drudge Report" alleges that one teen with whom Mark Foley engaged in cybersex during a House vote was 18 years old at the time of the communications. ](/news/2006/10/4/mark-foley-scandal-the-drudge-report-alleges-that-one-teen-with-whom-mark-foley-engaged-in-cybersex-during-a-house-vote-was-18-years-ol.md)
+### [ Mark Foley scandal:: The "Drudge Report" alleges that one teen with whom Mark Foley engaged in cybersex during a House vote was 18 years old at the time of the communications. ](/news/2006/10/4/mark-foley-scandal-the-drudge-report-alleges-that-one-teen-with-whom-mark-foley-engaged-in-cybersex-during-a-house-vote-was-18-years-ol.md)
 _Context: Drudge Report, come-ons to former male pages_
 
 ## [Previous Day...](/news/2006/10/3/index.md)

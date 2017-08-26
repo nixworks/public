@@ -1,6 +1,6 @@
 ### [2008-05-13](/news/2008/05/13/index.md)
 
-#  Cyclone Nargis:. The State Peace and Development Council continues to block foreign aid workers from entering Burma. 
+#  Cyclone Nargis:: The State Peace and Development Council continues to block foreign aid workers from entering Burma. 
 
 
 

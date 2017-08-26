@@ -1,12 +1,12 @@
 ## [2010-04-11](/news/2010/04/11/index.md)
 
-### [Aftermath of 2010 Polish Air Force Tu-154 crash:. The body of President Lech Kaczynski, who was killed in yesterday's plane crash just north of Smolensk, Russia, is flown back to Poland. ](/news/2010/04/11/aftermath-of-2010-polish-air-force-tu-154-crash-the-body-of-president-lech-kaczyaski-who-was-killed-in-yesterday-s-plane-crash-just-nort.md)
+### [Aftermath of 2010 Polish Air Force Tu-154 crash:: The body of President Lech Kaczynski, who was killed in yesterday's plane crash just north of Smolensk, Russia, is flown back to Poland. ](/news/2010/04/11/aftermath-of-2010-polish-air-force-tu-154-crash-the-body-of-president-lech-kaczyaski-who-was-killed-in-yesterday-s-plane-crash-just-nort.md)
 WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was ceremoniously returned to Warsaw, as millions turned out to mourn the head of state and 95 other victims - New Zealand Herald
 
-### [Pakistan:. Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters.md)
+### [Pakistan:: Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/pakistan-airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters.md)
 _Context: Pakistan, airstrike_
 
-### [Iran:. President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
+### [Iran:: President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
 _Context: Mahmoud Ahmadinejad, President, Tehran_
 
 ### [Iraq's election seeks a recount in five provinces after up to 750,000 votes are "tainted by fraud". ](/news/2010/04/11/iraq-s-election-seeks-a-recount-in-five-provinces-after-up-to-750-000-votes-are-tainted-by-fraud.md)

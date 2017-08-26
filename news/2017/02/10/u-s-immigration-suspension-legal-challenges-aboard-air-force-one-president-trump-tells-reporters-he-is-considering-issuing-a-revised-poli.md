@@ -1,6 +1,6 @@
 ### [2017-02-10](/news/2017/02/10/index.md)
 
-# U.S. immigration suspension legal challenges. Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. 
+# U.S. immigration suspension legal challenges: Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. 
 
 U.S. President Donald Trump is considering issuing a new executive order banning citizens of certain countries traveling to the United States after his initial attempt to clamp down on immigration and refugees snarled to a halt amid political and judicial chaos.
 

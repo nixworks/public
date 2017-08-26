@@ -1,18 +1,18 @@
 ## [2015-02-24](/news/2015/02/24/index.md)
 
-### [Military intervention against ISIL. John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md)
+### [Military intervention against ISIL: John Key, the Prime Minister of New Zealand, announces plans to deploy up to 143 New Zealand Defence Force personnel to Iraq on a training mission to last no more than two years. ](/news/2015/02/24/military-intervention-against-isil-john-key-the-prime-minister-of-new-zealand-announces-plans-to-deploy-up-to-143-new-zealand-defence-for.md)
 MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 people
 
-### [Islamic State of Iraq and the Levant. The Syrian Observatory for Human Rights estimates that ISIL kidnapped at least 150 people from Assyrian Christian villages in Syria in a series of February 23 raids. ](/news/2015/02/24/islamic-state-of-iraq-and-the-levant-the-syrian-observatory-for-human-rights-estimates-that-isil-kidnapped-at-least-150-people-from-assyria.md)
+### [Islamic State of Iraq and the Levant: The Syrian Observatory for Human Rights estimates that ISIL kidnapped at least 150 people from Assyrian Christian villages in Syria in a series of February 23 raids. ](/news/2015/02/24/islamic-state-of-iraq-and-the-levant-the-syrian-observatory-for-human-rights-estimates-that-isil-kidnapped-at-least-150-people-from-assyria.md)
 _Context: Chaldean, Christian, Islamic State of Iraq and the Levant, Syria, Syrian Observatory for Human Rights_
 
 ### [The Congolese Army launches an offensive against FDLR rebels in South Kivu. ](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [War in Donbass. Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/war-in-donbass-up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md)
+### [War in Donbass: Up to 75 British Armed Forces personnel will be sent as military advisors to the Ukrainian Army. ](/news/2015/02/24/war-in-donbass-up-to-75-british-armed-forces-personnel-will-be-sent-as-military-advisors-to-the-ukrainian-army.md)
 Up to 75 British military personnel will deploy to Ukraine next month to provide advice and training to government forces, Prime Minister David… 
 
-### [Boko Haram. Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/boko-haram-chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon.md)
+### [Boko Haram: Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/boko-haram-chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon.md)
 _Context: Boko Haram, Cameroon, Chad, Chad Army, Nigeria_
 
 ### [Greece submits a list of eleven reforms it will proceed with to secure a loan extension. ](/news/2015/02/24/greece-submits-a-list-of-eleven-reforms-it-will-proceed-with-to-secure-a-loan-extension.md)
@@ -21,7 +21,7 @@ The European Commission says reforms proposed by Greece in a bid to get further 
 ### [Barack Obama, the President of the United States, vetoes a bill approving the TransCanada Keystone XL pipeline between Canadian oil sands and refineries on the Gulf of Mexico. ](/news/2015/02/24/barack-obama-the-president-of-the-united-states-vetoes-a-bill-approving-the-transcanada-keystone-xl-pipeline-between-canadian-oil-sands-an.md)
 President Obama rejected a bill Tuesday that would have approved construction of the controversial Keystone XL pipeline, the first veto of a year that seems likely to feature repeated such moves as the Democratic president confronts the Republican-led Congress.
 
-### [2015 Oxnard train derailment. A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/2015-oxnard-train-derailment-a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injur.md)
+### [2015 Oxnard train derailment: A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/2015-oxnard-train-derailment-a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injur.md)
 California Metrolink train derails, injuring 28, including the engineer, officials say. A triage area is set up at the scene.
 
 ### [Dr Rajendra Pachauri resigns as head of the Intergovernmental Panel on Climate Change due to involvement in a sexting scandal. ](/news/2015/02/24/dr-rajendra-pachauri-resigns-as-head-of-the-intergovernmental-panel-on-climate-change-due-to-involvement-in-a-sexting-scandal.md)
@@ -42,10 +42,10 @@ _Context: British Parliament, House of Commons of the United Kingdom, House of L
 ### [Eddie Ray Routh is found guilty of the 2013 murder of United States Navy SEALs' sniper Chris Kyle and Kyle's friend Chad Littlefield in Texas. Routh is automatically sentenced to life imprisonment without parole. ](/news/2015/02/24/eddie-ray-routh-is-found-guilty-of-the-2013-murder-of-united-states-navy-seals-sniper-chris-kyle-and-kyle-s-friend-chad-littlefield-in-texa.md)
 _Context: Chris Kyle, Texas, United States Navy SEAL, life imprisonment, parole, sniper_
 
-### [Chicago aldermanic elections, 2015. Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/chicago-aldermanic-elections-2015-voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-t.md)
+### [Chicago aldermanic elections, 2015: Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia. ](/news/2015/02/24/chicago-aldermanic-elections-2015-voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-t.md)
 Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majority and quickly wins a second term or faces a runoff.
 
-### [Yemeni Crisis (2011-present). Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/yemeni-crisis-2011-present-abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-th.md)
+### [Yemeni Crisis (2011-present): Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/yemeni-crisis-2011-present-abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-th.md)
 _Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won-t run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-won-t-run-for-re-e.md)

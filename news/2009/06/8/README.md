@@ -30,7 +30,7 @@ _Context: North Korea, Sea of Japan, Wonsan, intercontinental ballistic_
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
 _Context: China, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
 
-### [ European Union's parliamentary elections:. The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md)
+### [ European Union's parliamentary elections:: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-the-centre-right-european-people-s-party-increases-its-plurality.md)
 _Context: European Parliament, European People's Party, European Union, centre-right, elections, plurality_
 
 ### [ In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. ](/news/2009/06/8/in-a-referendum-held-alongside-european-parliament-elections-voters-in-denmark-agreed-to-change-their-acts-of-succession-to-eliminate-male.md)

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [War in Somalia (2009-present). Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _Context: Ethiopia, Somalia_
+1. [War in Somalia (2009-present): Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/war-in-somalia-2009-present-al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somal.md) _Context: Ethiopia, Somalia_
 2. [Clashes take place in Somalia, where Al-Shabaab ambush Ethiopian troops. ](/news/2012/03/10/clashes-take-place-in-somalia-where-al-shabaab-ambush-ethiopian-troops.md) _Context: Ethiopia, Somalia_
 3. [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md) _Context: Ethiopia, Somalia_
 4. [The United Nations reports the worst drought in six decades is affecting more than 10 million people and forced people in Somalia to flee to Kenya and Ethiopia as they starve to death. ](/news/2011/06/28/the-united-nations-reports-the-worst-drought-in-six-decades-is-affecting-more-than-10-million-people-and-forced-people-in-somalia-to-flee-to.md) _Context: Ethiopia, Somalia_

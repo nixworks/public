@@ -33,7 +33,7 @@ _Context: Democratic Republic of the Congo, Grgoire Ndahimana, Rwanda, genocide_
 ### [ An estimated 20,000 people march through Noumea, New Caledonia, to denounce violent clashes by USTKE trade unionists against police. ](/news/2009/08/12/an-estimated-20-000-people-march-through-noumea-new-caledonia-to-denounce-violent-clashes-by-ustke-trade-unionists-against-police.md)
 _Context: New Caledonia, Noumea, police, trade unionists_
 
-### [ Princess Ashika. New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/princess-ashika-new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
+### [ Princess Ashika: New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/princess-ashika-new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)

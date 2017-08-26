@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2014 Pacific typhoon season:. Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provin.md) _Context: Hainan_
+1. [2014 Pacific typhoon season:: Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/2014-pacific-typhoon-season-typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provin.md) _Context: Hainan_
 2. [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md) _Context: Hainan_
 3. [Floods leave 1 dead, 3 missing, 33,000 evacuated in the Chinese province of Hainan. ](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.md) _Context: Hainan_
 4. [Tropical Storm Meranti is forecast to bring heavy rains to Fujian, Guangdong, Guangxi and Hainan provinces in the People's Republic of China, as well as in Taiwan. ](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.md) _Context: Hainan_

@@ -1,6 +1,6 @@
 ### [2010-05-31](/news/2010/05/31/index.md)
 
-# Pope Benedict XVI and child sexual abuse in the Roman Catholic Church:. The Vatican announces details of the Apostolic Visitation, a special inquiry into sexual abuse in the Catholic Church in Ireland. 
+# Pope Benedict XVI and child sexual abuse in the Roman Catholic Church:: The Vatican announces details of the Apostolic Visitation, a special inquiry into sexual abuse in the Catholic Church in Ireland. 
 
 The Vatican is to launch an investigation in the autumn into clerical child sex abuse in Ireland.
 

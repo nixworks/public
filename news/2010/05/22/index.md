@@ -1,6 +1,6 @@
 ## [2010-05-22](/news/2010/05/22/index.md)
 
-### [Air India Express Flight 812:. Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md)
+### [Air India Express Flight 812:: Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md)
 A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a landing accident at Mangalore-Bajpe Airport (IXE), India. There were 160 passengers and six crew members on board. The airplane operated on a flight from Dubai Airport (DXB) to Mangalore-Bajpe Airport (IXE).
 
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)

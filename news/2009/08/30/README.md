@@ -1,6 +1,6 @@
 ## [2009-08-30](/news/2009/08/30/index.md)
 
-### [ Japanese general election, 2009:. Japanese voters go to the polls. ](/news/2009/08/30/japanese-general-election-2009-japanese-voters-go-to-the-polls.md)
+### [ Japanese general election, 2009:: Japanese voters go to the polls. ](/news/2009/08/30/japanese-general-election-2009-japanese-voters-go-to-the-polls.md)
 The Democratic Party of Japan has promised to reverse the economic decline and redefine Tokyo’s relationship with the U.S.
 
 ### [ A presidential election takes place in Gabon. ](/news/2009/08/30/a-presidential-election-takes-place-in-gabon.md)

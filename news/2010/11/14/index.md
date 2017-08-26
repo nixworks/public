@@ -25,7 +25,7 @@ Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands
 _Context: Peru, Yines_
 
 ### [The UK is to become one of the first countries to officially monitor happiness in a government scheme designed to measure psychological and environmental wellbeing. ](/news/2010/11/14/the-uk-is-to-become-one-of-the-first-countries-to-officially-monitor-happiness-in-a-government-scheme-designed-to-measure-psychological-and.md)
-### [2010 Haiti cholera outbreak:. The death toll rises to 917. ](/news/2010/11/14/2010-haiti-cholera-outbreak-the-death-toll-rises-to-917.md)
+### [2010 Haiti cholera outbreak:: The death toll rises to 917. ](/news/2010/11/14/2010-haiti-cholera-outbreak-the-death-toll-rises-to-917.md)
 Death toll jumps to 917 as international organisations appeal for funds to fight epidemic.
 
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)

@@ -1,6 +1,6 @@
 ### [2013-11-25](/news/2013/11/25/index.md)
 
-# Sandy Hook Elementary School shooting:. The official intermediate report on the shooting is released online, totaling 48 pages, and detailing no clear motive for the shooting. It states that perpetrator Adam Lanza had had an obsession with shootings like Columbine, had a strained and non-communicative relationship with his murdered mother Nancy, and had planned the shooting and the details in advance. It does say he had mental health issues, but does not indicate they were causative factors. 
+# Sandy Hook Elementary School shooting:: The official intermediate report on the shooting is released online, totaling 48 pages, and detailing no clear motive for the shooting. It states that perpetrator Adam Lanza had had an obsession with shootings like Columbine, had a strained and non-communicative relationship with his murdered mother Nancy, and had planned the shooting and the details in advance. It does say he had mental health issues, but does not indicate they were causative factors. 
 
 A 40-plus page document based on hundreds of pages of research into the shooting at Sandy Hook Elementary School in Newtown last year reveals that 
 

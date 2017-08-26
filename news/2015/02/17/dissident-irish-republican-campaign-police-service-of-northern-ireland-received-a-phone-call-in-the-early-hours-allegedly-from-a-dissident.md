@@ -1,6 +1,6 @@
 ### [2015-02-17](/news/2015/02/17/index.md)
 
-# Dissident Irish Republican campaign. Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".
+# Dissident Irish Republican campaign: Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Dissident Irish Republican campaign. MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/dissident-irish-republican-campaign-mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial.md) _Context: Dissident Irish Republican campaign, Northern Ireland_
+1. [ Dissident Irish Republican campaign: MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/dissident-irish-republican-campaign-mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial.md) _Context: Dissident Irish Republican campaign, Northern Ireland_
 2. [A bomb explodes in a bank in the city centre of Derry, Northern Ireland; no damage is done. ](/news/2011/05/21/a-bomb-explodes-in-a-bank-in-the-city-centre-of-derry-northern-ireland-no-damage-is-done.md) _Context: Derry, Northern Ireland_
 3. [Irish republican dissidents have issued a bomb threat for London, the first coded warning outside Northern Ireland in 10 years, officials have said. ](/news/2011/05/16/irish-republican-dissidents-have-issued-a-bomb-threat-for-london-the-first-coded-warning-outside-northern-ireland-in-10-years-officials-ha.md) _Context: Dissident republican, Northern Ireland_
 4. [Northern Ireland Police have charged Marian Price with encouraging support for an illegal organisation following a recent dissident republican rally in Derry. Price, who is secretary of the 32 County Sovereignty Movement, was jailed for her part in the bombing of the Old Bailey in the 1970s. ](/news/2011/05/15/northern-ireland-police-have-charged-marian-price-with-encouraging-support-for-an-illegal-organisation-following-a-recent-dissident-republic.md) _Context: Derry, Police Service of Northern Ireland_

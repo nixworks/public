@@ -15,7 +15,7 @@ Taylor took entertainer of the year. Jason Aldean and The Band Perry won multipl
 ### [Italy's cost of borrowing reaches a record high, with interest rates on 10-year loans rising to 7%, as fears grow of an escalating economic crisis. ](/news/2011/11/9/italy-s-cost-of-borrowing-reaches-a-record-high-with-interest-rates-on-10-year-loans-rising-to-7-as-fears-grow-of-an-escalating-economic.md)
 _Context: Italian, escalating economic crisis, interest rate_
 
-### [2011 Thailand floods:. The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
+### [2011 Thailand floods:: The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
 _Context: Thailand, floods_
 
 ### [The British Ministry of Defence suspends training flights in aircraft with ejector seats similar to that which killed a Red Arrows pilot on Tuesday. ](/news/2011/11/9/the-british-ministry-of-defence-suspends-training-flights-in-aircraft-with-ejector-seats-similar-to-that-which-killed-a-red-arrows-pilot-on.md)
@@ -24,7 +24,7 @@ The MoD suspends training flights in aircraft with ejector seats like the one in
 ### [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md)
 A deadly earthquake topples a hotel and other buildings in eastern Turkey, leaving dozens trapped in an area hit by a huge tremor last month.
 
-### [Response to IAEA report on Iran's nuclear program:. Iranian President Mahmoud Ahmadinejad says the International Atomic Energy Agency report is based on "empty claims" and that Iran would not budge from its nuclear program despite allegations it may be trying to develop nuclear weapons; European countries and the US say they will consider fresh sanctions against Iran. ](/news/2011/11/9/response-to-iaea-report-on-iran-s-nuclear-program-iranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report.md)
+### [Response to IAEA report on Iran's nuclear program:: Iranian President Mahmoud Ahmadinejad says the International Atomic Energy Agency report is based on "empty claims" and that Iran would not budge from its nuclear program despite allegations it may be trying to develop nuclear weapons; European countries and the US say they will consider fresh sanctions against Iran. ](/news/2011/11/9/response-to-iaea-report-on-iran-s-nuclear-program-iranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report.md)
 President Mahmoud Ahmadinejad says Iran &quot;will not budge&quot; from its nuclear programme, despite a new UN report suggesting it may have a military aim.
 
 ### [Thousands of students march in central London over a rise in university tuition fees. ](/news/2011/11/9/thousands-of-students-march-in-central-london-over-a-rise-in-university-tuition-fees.md)

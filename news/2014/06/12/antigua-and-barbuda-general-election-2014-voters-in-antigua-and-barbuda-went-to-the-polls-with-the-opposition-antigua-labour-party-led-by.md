@@ -1,6 +1,6 @@
 ### [2014-06-12](/news/2014/06/12/index.md)
 
-# Antigua and Barbuda general election, 2014. Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. 
+# Antigua and Barbuda general election, 2014: Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. 
 
 
 

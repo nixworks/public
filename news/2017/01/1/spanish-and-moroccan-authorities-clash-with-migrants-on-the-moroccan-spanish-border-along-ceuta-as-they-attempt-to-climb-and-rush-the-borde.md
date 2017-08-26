@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [NATO-Russia relations. Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, "Admiral Kuznetsov", en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/nato-russia-relations-russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-ku.md) _Context: Ceuta_
+1. [NATO-Russia relations: Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, "Admiral Kuznetsov", en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/nato-russia-relations-russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-ku.md) _Context: Ceuta_

@@ -12,7 +12,7 @@ Archaeologists said a bone flute and two fragments of ivory flutes discovered la
 ### [ Mark Sanford, Governor of the U.S. state of South Carolina, admits to adultery with an Argentine woman and resigns as Chairman of the Republican Governors Association. ](/news/2009/06/24/mark-sanford-governor-of-the-u-s-state-of-south-carolina-admits-to-adultery-with-an-argentine-woman-and-resigns-as-chairman-of-the-repub.md)
 _Context: Argentina, Mark Sanford, Republican Governors Association, South Carolina, South Carolina governor, U.S. state, admits, adultery_
 
-### [ Iran. Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/iran-supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
+### [ Iran: Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/iran-supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
 Ayatollah Ali Khamenei has declared that the disputed Iran election result will stand, despite violent street protests in recent days.
 
 ### [ At least 43 people are killed by United States aircraft in South Waziristan, Pakistan. ](/news/2009/06/24/at-least-43-people-are-killed-by-united-states-aircraft-in-south-waziristan-pakistan.md)

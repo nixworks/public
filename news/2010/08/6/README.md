@@ -64,7 +64,7 @@ _Context: Indonesia, Karangetang, Siau, volcanic activity_
 The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb attack, with the US attending for the first time.
 
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Brazilian President, Colombia, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos, Lula, Venezuela_
+_Context: Colombia, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos, Lula, President, Venezuela_
 
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
 South Africa recalls its ambassador to Rwanda in a diplomatic row over the shooting of an exiled Rwandan general in Johannesburg.
@@ -75,10 +75,10 @@ Professor Karol Sikora, who examined Abdelbaset al-Megrahi in jail, insists the 
 ### [Britain's High Commission in Colombo lifts travel advice restrictions on Sri Lanka for the first time in approximately 30 years. ](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.md)
 A security assessment carried out by the UK in Sri Lanka concludes that the whole country is now safe for travellers.
 
-### [Asif Ali Zardari and David Cameron meeting:. After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/asif-ali-zardari-and-david-cameron-meeting-after-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-u.md)
+### [Asif Ali Zardari and David Cameron meeting:: After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/asif-ali-zardari-and-david-cameron-meeting-after-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-u.md)
 David Cameron hails the &quot;unbreakable&quot; friendship between Britain and Pakistan after talks with President Asif Ali Zardari.
 
-### [Saudi Arabia Blackberry ban:. Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
+### [Saudi Arabia Blackberry ban:: Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)

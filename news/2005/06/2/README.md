@@ -6,7 +6,7 @@ _Context: Amazon rainforest, Brazil, illegal logging_
 ### [ In Western Australia, large number of volunteers have helped 74 beached False Killer Whales return to sea. Only one dies on the ground ](/news/2005/06/2/in-western-australia-large-number-of-volunteers-have-helped-74-beached-false-killer-whales-return-to-sea-only-one-dies-on-the-ground.md)
 _Context: False Killer Whale, Western Australia, mass beaching_
 
-### [ Cedar Revolution:. In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md)
+### [ Cedar Revolution:: In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/cedar-revolution-in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md)
 _Context: Cedar Revolution, Lebanon, Samir Qasir, Syria_
 
 ### [ In Niger, 200 protesters march in the capital Niamey to demand that government alleviate the food shortage ](/news/2005/06/2/in-niger-200-protesters-march-in-the-capital-niamey-to-demand-that-government-alleviate-the-food-shortage.md)
@@ -42,7 +42,7 @@ _Context: Joseph Stephanides, Kofi Annan, United Nations Secretary-General, oil-
 ### [ Protests in European cities of Brussels and Helsinki against software patents occur. ](/news/2005/06/2/protests-in-european-cities-of-brussels-and-helsinki-against-software-patents-occur.md)
 _Context: Brussels, Europe, Helsinki, software patent_
 
-### [ Israeli-Palestinian Conflict:. Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md)
+### [ Israeli-Palestinian Conflict:: Two alleged Islamic Jihad members, involved in a twin suicide bombing attempt on Jerusalem were arrested by IDF forces. ](/news/2005/06/2/israeli-palestinian-conflict-two-alleged-islamic-jihad-members-involved-in-a-twin-suicide-bombing-attempt-on-jerusalem-were-arrested-by.md)
 _Context: Islamic Jihad Movement in Palestine, Israeli-Palestinian conflict, Jerusalem, suicide bombing_
 
 ## [Previous Day...](/news/2005/06/1/index.md)

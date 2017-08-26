@@ -1,6 +1,6 @@
 ### [2006-09-20](/news/2006/09/20/index.md)
 
-#  Thailand coup d'tat:. The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. 
+#  Thailand coup d'tat:: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Thailand coup d'tat:. A coup d'tat occurs in Thailand, with tanks seen moving into place around government buildings in Bangkok. Prime Minister Thaksin Shinawatra declares a state of emergency in a TV broadcast from the United States, where he went for the United Nations General Assembly, but the transmission is reported to have been cut off.. An announcement on Thai television declared that a "Council of Administrative Reform" with King Bhumibol Adulyadej as head of state had seized power in Bangkok and nearby provinces without any resistance. State TV stations are broadcasting messages of loyalty to the King, while international broadcast channels were blocked. ](/news/2006/09/19/thailand-coup-d-etat-a-coup-d-etat-occurs-in-thailand-with-tanks-seen-moving-into-place-around-government-buildings-in-bangkok-prime-mi.md) _Context: Thailand, Thaksin, coup_
+1. [ Thailand coup d'tat:: A coup d'tat occurs in Thailand, with tanks seen moving into place around government buildings in Bangkok. Prime Minister Thaksin Shinawatra declares a state of emergency in a TV broadcast from the United States, where he went for the United Nations General Assembly, but the transmission is reported to have been cut off.: An announcement on Thai television declared that a "Council of Administrative Reform" with King Bhumibol Adulyadej as head of state had seized power in Bangkok and nearby provinces without any resistance. State TV stations are broadcasting messages of loyalty to the King, while international broadcast channels were blocked. ](/news/2006/09/19/thailand-coup-d-etat-a-coup-d-etat-occurs-in-thailand-with-tanks-seen-moving-into-place-around-government-buildings-in-bangkok-prime-mi.md) _Context: Thailand, Thaksin, coup_
 2. [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md) _Context: Thailand, Thaksin_
 3. [Former Thai prime minister Thaksin Shinawatra plans an early return from exile. ](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.md) _Context: Thailand, Thaksin_
 4. [Thailand reissues a passport for Thaksin Shinawatra, saying he is no longer a "threat". ](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.md) _Context: Thailand, Thaksin_

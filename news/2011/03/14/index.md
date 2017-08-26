@@ -1,6 +1,6 @@
 ## [2011-03-14](/news/2011/03/14/index.md)
 
-### [Arab Spring. Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/arab-spring-rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md)
+### [Arab Spring: Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/arab-spring-rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md)
 Forces loyal to Muammar Gaddafi launched air strikes on Monday on the rebel-held Libyan town of Ajdabiyah after sweeping east, rebels said.
 
 ### [The Indian Navy captures 61 pirates on a Mozambiquan fishing vessel in the Arabian Sea. ](/news/2011/03/14/the-indian-navy-captures-61-pirates-on-a-mozambiquan-fishing-vessel-in-the-arabian-sea.md)
@@ -33,7 +33,7 @@ _Context: new 5-year plan_
 ### [The French carmaker Renault apologises to three executives accused of industrial espionage after no credible evidence was found to substantiate the claims. ](/news/2011/03/14/the-french-carmaker-renault-apologises-to-three-executives-accused-of-industrial-espionage-after-no-credible-evidence-was-found-to-substanti.md)
 Carmaker pledges compensation to executives accused in espionage case as prosecutor says company may be victim of fraud.
 
-### [2011 Tohoku earthquake and tsunami. The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/2011-tahoku-earthquake-and-tsunami-the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and.md)
+### [2011 Tohoku earthquake and tsunami: The Tokyo Electric Power Company announces rolling blackouts caused by the 2011 Tohoku earthquake and tsunami in northern Japan. ](/news/2011/03/14/2011-tahoku-earthquake-and-tsunami-the-tokyo-electric-power-company-announces-rolling-blackouts-caused-by-the-2011-tahoku-earthquake-and.md)
 Tokyo Electric Power Co embarked on planned power outages in areas near Tokyo on Monday to avoid massive blackouts in…
 
 ### [Chinese Premier Wen Jiabao says the country needs to carry out political reforms in order to support achievements made in its economic restructuring, contradicting statements by other Politburo members. ](/news/2011/03/14/chinese-premier-wen-jiabao-says-the-country-needs-to-carry-out-political-reforms-in-order-to-support-achievements-made-in-its-economic-restr.md)

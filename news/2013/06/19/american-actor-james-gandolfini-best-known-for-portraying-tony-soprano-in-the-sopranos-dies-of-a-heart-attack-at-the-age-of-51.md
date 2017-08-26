@@ -11,7 +11,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 
 ### Related:
 
-1. [Politics of Vanuatu. Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/politics-of-vanuatu-baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon.md) _Context: heart attack_
+1. [Politics of Vanuatu: Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/politics-of-vanuatu-baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon.md) _Context: heart attack_
 2. [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md) _Context: heart attack_
 3. [ Gabonese President Omar Bongo dies of a heart attack at age 73. ](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.md) _Context: heart attack_
 4. [ "The Sopranos" wins the Primetime Emmy Award for Outstanding Drama Series in the Primetime Emmy Awards. ](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.md) _Context: The Sopranos_

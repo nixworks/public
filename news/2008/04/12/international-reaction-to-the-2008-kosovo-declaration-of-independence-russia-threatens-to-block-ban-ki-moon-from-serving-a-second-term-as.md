@@ -1,6 +1,6 @@
 ### [2008-04-12](/news/2008/04/12/index.md)
 
-#  International reaction to the 2008 Kosovo declaration of independence:. Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. 
+#  International reaction to the 2008 Kosovo declaration of independence:: Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [United Nations Secretary-General selection, 2016. Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/united-nations-secretary-general-selection-2016-portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacin.md) _Context: Ban Ki-moon, United Nations Secretary-General_
+1. [United Nations Secretary-General selection, 2016: Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/united-nations-secretary-general-selection-2016-portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacin.md) _Context: Ban Ki-moon, United Nations Secretary-General_
 2. [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md) _Context: Ban Ki-moon, Russia_
 3. [United Nations Secretary-General Ban Ki-moon outlines seven priorities for 2010 and urges a renewed focus on sustainable development, ending poverty, disease and hunger. ](/news/2010/01/11/united-nations-secretary-general-ban-ki-moon-outlines-seven-priorities-for-2010-and-urges-a-renewed-focus-on-sustainable-development-ending.md) _Context: Ban Ki-moon, United Nations Secretary-General_
 4. [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md) _Context: Ban Ki-moon, United Nations Secretary-General_

@@ -1,6 +1,6 @@
 ### [2017-06-5](/news/2017/06/5/index.md)
 
-# Apple Worldwide Developers Conference. Apple announces iOS 11 in WWDC 2017. 
+# Apple Worldwide Developers Conference: Apple announces iOS 11 in WWDC 2017. 
 
 
 

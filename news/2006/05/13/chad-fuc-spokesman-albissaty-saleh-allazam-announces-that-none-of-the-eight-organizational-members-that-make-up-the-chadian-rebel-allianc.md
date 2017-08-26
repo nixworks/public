@@ -1,6 +1,6 @@
 ### [2006-05-13](/news/2006/05/13/index.md)
 
-#  Chad:. FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. 
+#  Chad:: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. 
 
 
 

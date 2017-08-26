@@ -1,6 +1,6 @@
 ### [2017-01-28](/news/2017/01/28/index.md)
 
-# Silvio Berlusconi prostitute trial. An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with -10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. 
+# Silvio Berlusconi prostitute trial: An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with -10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. 
 
 An Italian court on Saturday ordered ex-prime minister Silvio Berlusconi to stand trial on charges he bribed witnesses to silence them over accusations he paid for sex with young women.
 

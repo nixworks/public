@@ -1,6 +1,6 @@
 ## [2013-11-4](/news/2013/11/4/index.md)
 
-### [Syria civil war:. Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. ](/news/2013/11/4/syria-civil-war-colonel-abdul-jabbar-akaidi-top-rebel-leader-and-chief-recipient-of-u-s-aid-quits-his-position-blaming-recent-losses-on.md)
+### [Syria civil war:: Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. ](/news/2013/11/4/syria-civil-war-colonel-abdul-jabbar-akaidi-top-rebel-leader-and-chief-recipient-of-u-s-aid-quits-his-position-blaming-recent-losses-on.md)
 Rebel infighting jeopardizes their control even in their strongholds
 
 ### [A truck carrying four people hits a land mine on a road leading to Menaka in Mali, killing all of the occupants. ](/news/2013/11/4/a-truck-carrying-four-people-hits-a-land-mine-on-a-road-leading-to-menaka-in-mali-killing-all-of-the-occupants.md)

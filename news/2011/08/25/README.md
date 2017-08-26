@@ -21,7 +21,7 @@ _Context: Zimbabwe_
 ### [The RAF gives the Red Arrows clearance to fly again following Saturday's fatal crash at the Bournemouth Air Festival, but cannot confirm if they will fly at similar events this year. ](/news/2011/08/25/the-raf-gives-the-red-arrows-clearance-to-fly-again-following-saturday-s-fatal-crash-at-the-bournemouth-air-festival-but-cannot-confirm-if.md)
 The Red Arrows are cleared to fly again following a fatal crash, but the RAF is unable to confirm if they will perform at airshows again this year.
 
-### [Hurricane Irene:. New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md)
+### [Hurricane Irene:: New York City announces its plans to shut down subways, buses and commuter trains ahead of the likely arrival of Hurricane Irene. ](/news/2011/08/25/hurricane-irene-new-york-city-announces-its-plans-to-shut-down-subways-buses-and-commuter-trains-ahead-of-the-likely-arrival-of-hurricane.md)
 With Hurricane Irene bearing down on New York City, subways, buses and commuter trains will likely be suspended starting Saturday and nursing homes and hospitals are being ordered out of primary evacuation...
 
 ### [2011 Pacific typhoon season: At least one person in the Philippines is missing and several towns are flooded as a result of Typhoon Nanmadol which is now heading for Taiwan. ](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.md)

@@ -1,6 +1,6 @@
 ## [2014-02-17](/news/2014/02/17/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-at-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-ex.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: At least 25 people are killed and dozens wounded in bombing attacks across Baghdad; three bombs exploded in public markets and a fourth outside a Shiite mosque. ](/news/2014/02/17/iraqi-insurgency-post-u-s-withdrawal-at-least-25-people-are-killed-and-dozens-wounded-in-bombing-attacks-across-baghdad-three-bombs-ex.md)
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), Shiite_
 
 ### [Taliban militants in Pakistan say they have killed 23 captured Pakistani security force members, in a setback to peace talks aimed at ending the Islamist insurgency. ](/news/2014/02/17/taliban-militants-in-pakistan-say-they-have-killed-23-captured-pakistani-security-force-members-in-a-setback-to-peace-talks-aimed-at-ending.md)
@@ -12,7 +12,7 @@ _Context: Addis Ababa, Ethiopian Airlines Flight 702, Geneva, Rome_
 ### [American late-night show "The Tonight Show Starring Jimmy Fallon" premieres on the National Broadcasting Company, with Jimmy Fallon succeeding Jay Leno as host. ](/news/2014/02/17/american-late-night-show-the-tonight-show-starring-jimmy-fallon-premieres-on-the-national-broadcasting-company-with-jimmy-fallon-succeedi.md)
 _Context: Jay Leno, Jimmy Fallon, NBC, The Tonight Show Starring Jimmy Fallon_
 
-### [Winter storms of 2013-14 in the United Kingdom:. Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013-14-in-the-united-kingdom-floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weat.md)
+### [Winter storms of 2013-14 in the United Kingdom:: Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013-14-in-the-united-kingdom-floods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weat.md)
 The government urges the insurance industry to deal with flood-related claims as quickly as possible, as more rain hits ground already saturated with water.
 
 ### [Nepalese police find the wreckage of a missing Nepal Airlines plane in the mountainous West with all 18 passengers and crew dead. ](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.md)

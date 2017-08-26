@@ -1,9 +1,9 @@
 ## [2012-08-15](/news/2012/08/15/index.md)
 
-### [Mexican Drug War:. Mexican authorities confirm that the Jalisco New Generation Cartel is responsible for murdering five journalists in the state of Veracruz. This information was confirmed after the arrest of some of the members in the criminal organization. ](/news/2012/08/15/mexican-drug-war-mexican-authorities-confirm-that-the-jalisco-new-generation-cartel-is-responsible-for-murdering-five-journalists-in-the-s.md)
+### [Mexican Drug War:: Mexican authorities confirm that the Jalisco New Generation Cartel is responsible for murdering five journalists in the state of Veracruz. This information was confirmed after the arrest of some of the members in the criminal organization. ](/news/2012/08/15/mexican-drug-war-mexican-authorities-confirm-that-the-jalisco-new-generation-cartel-is-responsible-for-murdering-five-journalists-in-the-s.md)
 _Context: Jalisco New Generation Cartel, Mexican Drug War, Veracruz, more than 80 have been killed_
 
-### [Syrian civil war:. In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian.md)
+### [Syrian civil war:: In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/syrian-civil-war-in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian.md)
 Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Jazeera they targeted military, not UN.
 
 ### [Prince Philip, Duke of Edinburgh is taken to hospital as a "precautionary measure" after a recurrence of a bladder infection that affected him earlier in the year. ](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.md)

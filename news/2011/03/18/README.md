@@ -1,12 +1,12 @@
 ## [2011-03-18](/news/2011/03/18/index.md)
 
-### [Response to Datta Khel airstrike:. Tribal leaders in Pakistan issue a statement vowing action against the United States after yesterday's botched U.S. drone attack which killed more than 40 civilians, mainly elders and police at an open-air meeting, the deadliest such attack by the United States on Pakistan since 2006. ](/news/2011/03/18/response-to-datta-khel-airstrike-tribal-leaders-in-pakistan-issue-a-statement-vowing-action-against-the-united-states-after-yesterday-s-bo.md)
+### [Response to Datta Khel airstrike:: Tribal leaders in Pakistan issue a statement vowing action against the United States after yesterday's botched U.S. drone attack which killed more than 40 civilians, mainly elders and police at an open-air meeting, the deadliest such attack by the United States on Pakistan since 2006. ](/news/2011/03/18/response-to-datta-khel-airstrike-tribal-leaders-in-pakistan-issue-a-statement-vowing-action-against-the-united-states-after-yesterday-s-bo.md)
 Tribal leaders in the Pakistani region of North Waziristan vow revenge against the US after drones killed more than 40 people near the Afghan border.
 
-### [Arab Spring. At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/arab-spring-at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md)
+### [Arab Spring: At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/arab-spring-at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md)
 Yemen&#39;s president has declared a state of emergency after at least 25 protesters were killed at an anti-government rally.
 
-### [2010-2011 Ivorian crisis:. Disputed Cote d'Ivoire President Laurent Gbagbo calls on civilians to join in the fighting to "neutralise" supporters of Alassane Ouattara. ](/news/2011/03/18/2010-2011-ivorian-crisis-disputed-ca-te-d-ivoire-president-laurent-gbagbo-calls-on-civilians-to-join-in-the-fighting-to-neutralise-sup.md)
+### [2010-2011 Ivorian crisis:: Disputed Cote d'Ivoire President Laurent Gbagbo calls on civilians to join in the fighting to "neutralise" supporters of Alassane Ouattara. ](/news/2011/03/18/2010-2011-ivorian-crisis-disputed-ca-te-d-ivoire-president-laurent-gbagbo-calls-on-civilians-to-join-in-the-fighting-to-neutralise-sup.md)
 The shelling of an Abidjan market by Ivory Coast security forces which killed at least 25 people may be a crime against humanity, the UN says.
 
 ### [Clashes between the Sudan People's Liberation Army/Movement and rebel forces led by George Athor kill 70 people in South Sudan. ](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.md)
@@ -21,7 +21,7 @@ Leading central banks carry out the first co-ordinated currency intervention for
 ### [A memorial service is held in Christchurch, New Zealand, for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.md)
 At a memorial service for those killed in the Christchurch earthquake, Prince William has paid tribute to the courage and determination of New Zealanders.
 
-### [Fukushima I nuclear accidents. Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/fukushima-i-nuclear-accidents-japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-c.md)
+### [Fukushima I nuclear accidents: Japan attempts to restore electric power to two crippled reactors at the Fukushima I Nuclear Power Plant to combat ongoing problems. ](/news/2011/03/18/fukushima-i-nuclear-accidents-japan-attempts-to-restore-electric-power-to-two-crippled-reactors-at-the-fukushima-i-nuclear-power-plant-to-c.md)
 * Work not progressing as fast as hoped * Japan nuclear agency says aware of &quot;Chernobyl solution&quot;,to bury reactor * G7 agrees rare concer
 
 ### [The total number of deaths and missing persons from the 2011 Tohoku earthquake and tsunami passes 16,600 with 6,405 confirmed dead. ](/news/2011/03/18/the-total-number-of-deaths-and-missing-persons-from-the-2011-tahoku-earthquake-and-tsunami-passes-16-600-with-6-405-confirmed-dead.md)

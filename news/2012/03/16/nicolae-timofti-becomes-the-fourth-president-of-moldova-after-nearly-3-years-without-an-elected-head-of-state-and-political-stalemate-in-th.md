@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Moldova-European Union relations. Moldovan President Igor Dodon, during his first state visit to Russia, says Moldova could scrap the 2014 Moldova-European Union Association Agreement after the country's next parliamentary election. ](/news/2017/01/17/moldova-european-union-relations-moldovan-president-igor-dodon-during-his-first-state-visit-to-russia-says-moldova-could-scrap-the-2014.md) _Context: Moldovan President_
+1. [Moldova-European Union relations: Moldovan President Igor Dodon, during his first state visit to Russia, says Moldova could scrap the 2014 Moldova-European Union Association Agreement after the country's next parliamentary election. ](/news/2017/01/17/moldova-european-union-relations-moldovan-president-igor-dodon-during-his-first-state-visit-to-russia-says-moldova-could-scrap-the-2014.md) _Context: Moldovan President_
 2. [Vlad Filat, the Prime Minister of Moldova, concedes defeat on a referendum proposal for direct election of the President of Moldova. ](/news/2010/09/6/vlad-filat-the-prime-minister-of-moldova-concedes-defeat-on-a-referendum-proposal-for-direct-election-of-the-president-of-moldova.md) _Context: Moldovan President_
 3. [Voters in Moldova go to the polls in a referendum on whether the country's President should be directly elected. ](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.md) _Context: Moldovan President_
 4. [ President Vladimir Voronin of Moldova resigns. ](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.md) _Context: Moldovan President_

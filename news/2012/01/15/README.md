@@ -12,7 +12,7 @@ There have been clashes between demonstrators and riot police in Romania, after 
 ### [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011-2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md)
 _Context: 2011-2012 Bahraini uprising, Hamad bin Isa Al Khalifa, King of Bahrain_
 
-### [2011-2012 Syrian uprising:. United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". ](/news/2012/01/15/2011-2012-syrian-uprising-united-nations-secretary-general-ban-ki-moon-calls-on-the-syrian-regime-to-stop-killing-its-own-people.md)
+### [2011-2012 Syrian uprising:: United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". ](/news/2012/01/15/2011-2012-syrian-uprising-united-nations-secretary-general-ban-ki-moon-calls-on-the-syrian-regime-to-stop-killing-its-own-people.md)
 United Nations Secretary-General Ban Ki-Moon Sunday called on Syria’s President Bashar Assad to stop killing his own people.
 
 ### [The Russian tanker "Renda", accompanied by the US Coast Guard icebreaker Healy, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall-storm-had-b.md)

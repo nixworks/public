@@ -1,9 +1,9 @@
 ## [2012-11-28](/news/2012/11/28/index.md)
 
-### [Syrian civil war:. At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascu.md)
+### [Syrian civil war:: At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascu.md)
 _Context: Damascus, Syria, Syrian Civil War_
 
-### [2012 East D.R. Congo conflict:. M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md)
+### [2012 East D.R. Congo conflict:: M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md)
 M23 spokesman says the group is doing a phased pullout from territory they have captured, starting south of Goma.
 
 ### [More than 200 people are wounded in a second day of clashes between Tunisian security forces and thousands of protesters in Siliana, Tunisia. ](/news/2012/11/28/more-than-200-people-are-wounded-in-a-second-day-of-clashes-between-tunisian-security-forces-and-thousands-of-protesters-in-siliana-tunisia.md)

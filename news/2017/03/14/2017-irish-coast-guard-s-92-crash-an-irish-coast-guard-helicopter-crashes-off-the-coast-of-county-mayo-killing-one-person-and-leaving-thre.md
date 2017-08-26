@@ -1,6 +1,6 @@
 ### [2017-03-14](/news/2017/03/14/index.md)
 
-# 2017 Irish Coast Guard S-92 crash. An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. 
+# 2017 Irish Coast Guard S-92 crash: An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. 
 
 A search operation for three missing Irish Coast Guard crew members will continue overnight following a helicopter crash off the coast of Co Mayo early this morning, in which Captain Dara Fitzpatrick died.
 

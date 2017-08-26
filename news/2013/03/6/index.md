@@ -1,9 +1,9 @@
 ## [2013-03-6](/news/2013/03/6/index.md)
 
-### [Syrian civil war:. Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil.md)
+### [Syrian civil war:: Battle of Ar-Raqqah: Syrian rebels capture Ar-Raqqah, the first major city to be under rebel control in the Syrian civil war. ](/news/2013/03/6/syrian-civil-war-battle-of-ar-raqqah-syrian-rebels-capture-ar-raqqah-the-first-major-city-to-be-under-rebel-control-in-the-syrian-civil.md)
 Syrian activists say rebels have seized key security buildings in the northern city of Raqqa where opposition fighters had been battling the last pockets of resistance by government troops.
 
-### [War in Somalia:. The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. ](/news/2013/03/6/war-in-somalia-the-united-nations-security-council-adopts-resolution-2093-that-partially-lifts-a-decades-old-arms-embargo-on-somalia-for-o.md)
+### [War in Somalia:: The United Nations Security Council adopts Resolution 2093 that partially lifts a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy weapons to strengthen its security forces to fight al-Qaeda linked Islamists. ](/news/2013/03/6/war-in-somalia-the-united-nations-security-council-adopts-resolution-2093-that-partially-lifts-a-decades-old-arms-embargo-on-somalia-for-o.md)
 The U.N. Security Council agreed on Wednesday to partially lift a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy light weapons to strengthen its security forces to fight al Qaeda-linked Islamists.
 
 ### [The European Commission fines Microsoft -561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md)
@@ -16,7 +16,7 @@ _Context: Office of Fair Trading, UK, payday loans_
 All nine people on board an airplane chartered by a small Peruvian mining company died after the plane became ensnared in power lines and crashed to the ground in northern Peru on Wednesday, authorities and the company said.
 
 ### [The South Korean military states that it is prepared to respond if North Korea launches an attack as it threatened yesterday. ](/news/2013/03/6/the-south-korean-military-states-that-it-is-prepared-to-respond-if-north-korea-launches-an-attack-as-it-threatened-yesterday.md)
-_Context: North Korea, South Korea, South Korean defense officials_
+_Context: Korean military, North Korea, South Korea_
 
 ### [Bob Carr, the Australian Minister for Foreign Affairs, releases a report into the handling of the case of Ben Zygier who died in Israeli custody in December 2010 and was believed to be a Mossad agent. ](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.md)
 _Context: Australian, Australian Foreign Minister, Ben Zygier, Bob Carr, Israel, Mossad_

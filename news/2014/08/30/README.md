@@ -3,13 +3,13 @@
 ### [Prime Minister Tom Thabane of Lesotho flees to South Africa as the army allegedly stages a coup. ](/news/2014/08/30/prime-minister-tom-thabane-of-lesotho-flees-to-south-africa-as-the-army-allegedly-stages-a-coup.md)
 _Context: Lesotho, Prime Minister of Lesotho, Tom Thabane, allegedly stages a coup, army_
 
-### [Taliban insurgency. Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md)
+### [Taliban insurgency: Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md)
 _Context: Jalalabad, National Directorate of Security, Taliban, Taliban insurgency_
 
 ### [At least 230 people have been injured in clashes between opponents of Prime Minister of Pakistan Nawaz Sharif and police in Islamabad. ](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.md)
 At least three people have been killed in clashes between police and anti-government protesters in Pakistan.
 
-### [Somali Civil War:. Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-somali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md)
+### [Somali Civil War:: Somali government and African Union troops oust al-Shabab Islamic militants from a southern town of Bulo Marer. ](/news/2014/08/30/somali-civil-war-somali-government-and-african-union-troops-oust-al-shabab-islamic-militants-from-a-southern-town-of-bulo-marer.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Twenty gold miners are rescued from a collapsed mine in Nicaragua but five are still missing. ](/news/2014/08/30/twenty-gold-miners-are-rescued-from-a-collapsed-mine-in-nicaragua-but-five-are-still-missing.md)
@@ -30,10 +30,10 @@ Poland&amp;#39;s prime minister Donald Tusk has been chosen by European Union le
 ### [Judith Collins resigns from the New Zealand Cabinet following allegations that she undermined the head of the Serious Fraud Office in 2011 when she had ministerial responsibility. ](/news/2014/08/30/judith-collins-resigns-from-the-new-zealand-cabinet-following-allegations-that-she-undermined-the-head-of-the-serious-fraud-office-in-2011-w.md)
 Judith Collins has confirmed she is resigning as a Minister from Cabinet, with the emergence of an email that suggests that she was undermining the then-head of the Serious Fraud Office - New Zealand Herald
 
-### [United States Senate election in Kentucky, 2014. United States Senate Minority Leader Mitch McConnell's campaign manager Jesse Benton resigns after being involved in an alleged bribery scandal involving Iowa state Senator Kent Sorenson switching his support from Michele Bachmann to Ron Paul in the United States presidential election, 2012. ](/news/2014/08/30/united-states-senate-election-in-kentucky-2014-united-states-senate-minority-leader-mitch-mcconnell-s-campaign-manager-jesse-benton-resign.md)
+### [United States Senate election in Kentucky, 2014: United States Senate Minority Leader Mitch McConnell's campaign manager Jesse Benton resigns after being involved in an alleged bribery scandal involving Iowa state Senator Kent Sorenson switching his support from Michele Bachmann to Ron Paul in the United States presidential election, 2012. ](/news/2014/08/30/united-states-senate-election-in-kentucky-2014-united-states-senate-minority-leader-mitch-mcconnell-s-campaign-manager-jesse-benton-resign.md)
 _Context: Iowa, Jesse Benton, Kent Sorenson, Michele Bachmann, Mitch McConnell, Ron Paul, United States Senate Minority Leader, United States Senate election in Kentucky, 2014, United States presidential election, 2012, bribes_
 
-### [Brazilian general election, 2014. Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/brazilian-general-election-2014-environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff.md)
+### [Brazilian general election, 2014: Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/brazilian-general-election-2014-environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff.md)
 _Context: 2014, Dilma Rousseff, Marina Silva_
 
 ## [Previous Day...](/news/2014/08/29/index.md)

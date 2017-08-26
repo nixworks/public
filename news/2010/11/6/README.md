@@ -33,7 +33,7 @@ _Context: Haiti cholera outbreak_
 ### [At least 19 people are killed in a fire at a shopping mall in northeast China's Jilin City. ](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.md)
 A fire in a shopping centre in northern China kills at least 19 people and leaves 27 more injured, state media reports.
 
-### [2010 eruption of Mount Merapi. Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md)
+### [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md)
 _Context: Indonesia, Java, Mount Merapi volcanic eruption, Mounts Merapi_
 
 ### [Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. ](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.md)

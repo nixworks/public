@@ -1,6 +1,6 @@
 ## [2012-06-27](/news/2012/06/27/index.md)
 
-### [Syrian uprising:. President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md)
+### [Syrian uprising:: President Bashar al-Assad declares that a state of war exists in Syria as fighting spills into Damascus. ](/news/2012/06/27/syrian-uprising-president-bashar-al-assad-declares-that-a-state-of-war-exists-in-syria-as-fighting-spills-into-damascus.md)
 Seven people have been killed at a Syrian pro-government TV channel, state media report, as the UN calls a key meeting for Saturday.
 
 ### [Police in Bolivia end their violent rebellion after a pay deal is reached ](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.md)

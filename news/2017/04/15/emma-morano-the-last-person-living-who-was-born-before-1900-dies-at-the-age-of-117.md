@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Longevity claims. A 120-year old woman is found living in the Astrakhan Oblast of Russia, which would make her the world's oldest living person. However, her birth year remains internationally unverified. Thus, 116-year old Italian Emma Morano is still listed as the oldest verified living person. ](/news/2016/05/12/longevity-claims-a-120-year-old-woman-is-found-living-in-the-astrakhan-oblast-of-russia-which-would-make-her-the-world-s-oldest-living-per.md) _Context: Emma Morano_
+1. [Longevity claims: A 120-year old woman is found living in the Astrakhan Oblast of Russia, which would make her the world's oldest living person. However, her birth year remains internationally unverified. Thus, 116-year old Italian Emma Morano is still listed as the oldest verified living person. ](/news/2016/05/12/longevity-claims-a-120-year-old-woman-is-found-living-in-the-astrakhan-oblast-of-russia-which-would-make-her-the-world-s-oldest-living-per.md) _Context: Emma Morano_

@@ -1,6 +1,6 @@
 ### [2016-04-29](/news/2016/04/29/index.md)
 
-# 2016 Turoy helicopter crash. Thirteen people were killed when a helicopter carrying offshore workers from Gullfaks B crash landed off the western coast of Norway. 
+# 2016 Turoy helicopter crash: Thirteen people were killed when a helicopter carrying offshore workers from Gullfaks B crash landed off the western coast of Norway. 
 
 Norwegian rescue officials said the search operation after a helicopter crash is over and that all 13 people on board the aircraft are presumed dead.
 

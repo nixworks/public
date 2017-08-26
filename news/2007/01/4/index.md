@@ -15,7 +15,7 @@ _Context: Freehold Township, New Jersey, Quadrantids, golf ball, meteor shower_
 ### [ Nancy Pelosi is elected speaker of the United States House of Representatives, and becomes the first woman to hold that post. ](/news/2007/01/4/nancy-pelosi-is-elected-speaker-of-the-united-states-house-of-representatives-and-becomes-the-first-woman-to-hold-that-post.md)
 _Context: Nancy Pelosi, Speaker of the United States House of Representatives, United States House of Representatives_
 
-### [ The New Way Forward in Iraq War leadership:. U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md)
+### [ The New Way Forward in Iraq War leadership:: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md)
 _Context: George W. Bush, Iraq War, John Negroponte, U.S. National Intelligence Director, US Deputy Secretary of State, his strategy change in response to Iraq Study Group criticisms_
 
 ### [ NASA announces '](/news/2007/01/4/nasa-announces.md)

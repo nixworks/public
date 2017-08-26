@@ -1,6 +1,6 @@
 ## [2012-08-21](/news/2012/08/21/index.md)
 
-### [Syrian civil war:. Russia sends a warning in reaction to what it perceives as threats by the United States, made yesterday. Russia still proposes to help negotiate a deadline to stop violence. ](/news/2012/08/21/syrian-civil-war-russia-sends-a-warning-in-reaction-to-what-it-perceives-as-threats-by-the-united-states-made-yesterday-russia-still-pro.md)
+### [Syrian civil war:: Russia sends a warning in reaction to what it perceives as threats by the United States, made yesterday. Russia still proposes to help negotiate a deadline to stop violence. ](/news/2012/08/21/syrian-civil-war-russia-sends-a-warning-in-reaction-to-what-it-perceives-as-threats-by-the-united-states-made-yesterday-russia-still-pro.md)
 Russia warned the West on Tuesday against unilateral action on Syria, a day after U.S. President Barack Obama threatened &quot;enormous consequences&quot; if his Syrian counterpart used chemical or biological arms or even moved them in a menacing way.
 
 ### [Ireland's Army Bomb Disposal Team receives four calls in the capital Dublin: among them is a false alarm, dealt with at the Israeli embassy in Ballsbridge. ](/news/2012/08/21/ireland-s-army-bomb-disposal-team-receives-four-calls-in-the-capital-dublin-among-them-is-a-false-alarm-dealt-with-at-the-israeli-embassy.md)
@@ -9,7 +9,7 @@ The Army Bomb Disposal Team has been called out on four separate occasions in Du
 ### [Oil imports to China from Iran fall 28 percent in July and 30 percent in 2012. ](/news/2012/08/21/oil-imports-to-china-from-iran-fall-28-percent-in-july-and-30-percent-in-2012.md)
 _Context: China, Iran, Oil imports_
 
-### [2012 Philippine Piper Seneca crash:. A search and rescue team recovers the body of former Philippines Interior and Local Government Secretary Jesse Robredo after a crash that claimed his life and two others on Saturday off Masbate. ](/news/2012/08/21/2012-philippine-piper-seneca-crash-a-search-and-rescue-team-recovers-the-body-of-former-philippines-interior-and-local-government-secretar.md)
+### [2012 Philippine Piper Seneca crash:: A search and rescue team recovers the body of former Philippines Interior and Local Government Secretary Jesse Robredo after a crash that claimed his life and two others on Saturday off Masbate. ](/news/2012/08/21/2012-philippine-piper-seneca-crash-a-search-and-rescue-team-recovers-the-body-of-former-philippines-interior-and-local-government-secretar.md)
 _Context: Jesse Robredo, Masbate, Philippines, crash_
 
 ### [At least 20 people in the Democratic Republic of the Congo die from the Ebola virus disease. ](/news/2012/08/21/at-least-20-people-in-the-democratic-republic-of-the-congo-die-from-the-ebola-virus-disease.md)

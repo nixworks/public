@@ -1,6 +1,6 @@
 ### [2015-08-24](/news/2015/08/24/index.md)
 
-# La Linea corruption case. Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. 
+# La Linea corruption case: Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. 
 
 Roxana Baldetti, a former vice-president of Guatemala, appears in court accused of accepting bribes in a customs scam.
 

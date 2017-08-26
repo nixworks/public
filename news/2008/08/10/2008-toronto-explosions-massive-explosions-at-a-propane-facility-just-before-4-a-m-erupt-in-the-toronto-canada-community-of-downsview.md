@@ -1,6 +1,6 @@
 ### [2008-08-10](/news/2008/08/10/index.md)
 
-#  2008 Toronto explosions:. Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. 
+#  2008 Toronto explosions:: Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. 
 
 
 

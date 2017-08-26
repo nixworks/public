@@ -1,6 +1,6 @@
 ### [2015-06-27](/news/2015/06/27/index.md)
 
-# 2015 Taiwan water park explosion. A midair explosion from flammable powder at a recreational water park in Taiwan injures at least 510 people with about 183 in serious condition in intensive care. 
+# 2015 Taiwan water park explosion: A midair explosion from flammable powder at a recreational water park in Taiwan injures at least 510 people with about 183 in serious condition in intensive care. 
 
 
 

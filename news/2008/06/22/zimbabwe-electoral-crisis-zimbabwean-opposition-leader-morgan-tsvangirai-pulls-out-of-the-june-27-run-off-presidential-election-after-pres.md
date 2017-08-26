@@ -1,6 +1,6 @@
 ### [2008-06-22](/news/2008/06/22/index.md)
 
-#  Zimbabwe Electoral Crisis. Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. 
+#  Zimbabwe Electoral Crisis: Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. 
 
 Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election against President Robert Mugabe on Sunday, saying his supporters would be risking their lives if they voted.
 

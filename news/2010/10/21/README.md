@@ -9,7 +9,7 @@ _Context: Afghan police, Afghanistan's, International Security Assistance Force,
 ### [Biochemist Nick Lane wins the Royal Society Science Book Prize for "Life Ascending: The Ten Great Inventions of Evolution". ](/news/2010/10/21/biochemist-nick-lane-wins-the-royal-society-science-book-prize-for-life-ascending-the-ten-great-inventions-of-evolution.md)
 _Context: Biochemist, Life Ascending: The Ten Great Inventions of Evolution, Nick Lane, Royal Society Science Book Prize_
 
-### [French protests. France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protests-france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md)
+### [French protests: France faces another day of strikes with a quarter of petrol stations not having any fuel. ](/news/2010/10/21/french-protests-france-faces-another-day-of-strikes-with-a-quarter-of-petrol-stations-not-having-any-fuel.md)
 _Context: petrol station, recent strikes and demonstrations_
 
 ### [Toyota orders a recall of 1.5 million vehicles, including various Lexus models and Toyota Avalon models, due to brake fluid and fuel pump problems. ](/news/2010/10/21/toyota-orders-a-recall-of-1-5-million-vehicles-including-various-lexus-models-and-toyota-avalon-models-due-to-brake-fluid-and-fuel-pump-pr.md)

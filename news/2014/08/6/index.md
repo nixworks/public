@@ -1,9 +1,9 @@
 ## [2014-08-6](/news/2014/08/6/index.md)
 
-### [Syrian Civil War. Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/syrian-civil-war-saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-b.md)
+### [Syrian Civil War: Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/syrian-civil-war-saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-b.md)
 _Context: Lebanon, Saudi Arabia, Syria, Syrian Civil War_
 
-### [Iraqi insurgency (2011-present). Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/iraqi-insurgency-2011-present-fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the.md)
+### [Iraqi insurgency (2011-present): Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/iraqi-insurgency-2011-present-fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the.md)
 _Context: Iraq, Iraqi insurgency (2011-present), Islamic State of Iraq and Syria, Kurdish_
 
 ### [Russia bans all United States agricultural products, European Union fruit and vegetable imports in response to Western sanctions imposed on Russia over the Ukrainian crisis. ](/news/2014/08/6/russia-bans-all-united-states-agricultural-products-european-union-fruit-and-vegetable-imports-in-response-to-western-sanctions-imposed-on.md)
@@ -12,13 +12,13 @@ Moscow plans to ban all US agricultural products, including poultry, as well as 
 ### [American electronics company Apple Inc. and Korean company Samsung Electronics agree to end their patent litigation outside the United States. ](/news/2014/08/6/american-electronics-company-apple-inc-and-korean-company-samsung-electronics-agree-to-end-their-patent-litigation-outside-the-united-state.md)
 The two rivals will continue to pursue existing patent lawsuits in the U.S.
 
-### [2014 Ludian earthquake. The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/2014-ludian-earthquake-the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md)
+### [2014 Ludian earthquake: The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/2014-ludian-earthquake-the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md)
 _Context: 2014 Ludian earthquake, China, Yunnan_
 
-### [2014 Pacific hurricane season. The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/2014-pacific-hurricane-season-the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical.md)
+### [2014 Pacific hurricane season: The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/2014-pacific-hurricane-season-the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical.md)
 _Context: 2014 Pacific hurricane season, Hawaii_
 
-### [2014 West Africa Ebola outbreak. The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/2014-west-africa-ebola-outbreak-the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a.md)
+### [2014 West Africa Ebola outbreak: The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/2014-west-africa-ebola-outbreak-the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a.md)
 _Context: 2014 West Africa Ebola outbreak, Jeddah, Saudi Arabia, Sierra Leone, World Health Organisation, ebola virus_
 
 ### [Officials in Karamay in Xinjiang, western China, places a temporary ban on Islamic headscarves, clothing and those with beards from using public transport, following violence in the region. ](/news/2014/08/6/officials-in-karamay-in-xinjiang-western-china-places-a-temporary-ban-on-islamic-headscarves-clothing-and-those-with-beards-from-using-pu.md)

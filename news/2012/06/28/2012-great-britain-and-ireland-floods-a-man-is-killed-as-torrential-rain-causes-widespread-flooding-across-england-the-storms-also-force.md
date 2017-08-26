@@ -1,6 +1,6 @@
 ### [2012-06-28](/news/2012/06/28/index.md)
 
-# 2012 Great Britain and Ireland floods:. A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. 
+# 2012 Great Britain and Ireland floods:: A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. 
 
 A man dies, thousands are without power and roads and rail lines blocked as heavy downpours bring chaos to parts of the UK.
 

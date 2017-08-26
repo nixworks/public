@@ -1,6 +1,6 @@
 ### [2015-09-11](/news/2015/09/11/index.md)
 
-# 2014 Chicago Air Route Traffic Control Center fire. U.S. District Judge Gary Feinerman sentences a Federal Aviation Administration contractor, Brian Howard, to 12 years in prison for willfully destroying a Chicago-area air navigation facility using a September 26, 2014, fire which caused $100 million in damage. 
+# 2014 Chicago Air Route Traffic Control Center fire: U.S. District Judge Gary Feinerman sentences a Federal Aviation Administration contractor, Brian Howard, to 12 years in prison for willfully destroying a Chicago-area air navigation facility using a September 26, 2014, fire which caused $100 million in damage. 
 
 
 

@@ -1,12 +1,12 @@
 ## [2015-08-1](/news/2015/08/1/index.md)
 
-### [Operation Martyr Yalcin. Turkey has killed around 260 members of the Kurdistan Workers Party in recent bombing campaigns in Turkey and northern Iraq. Officially the operation was started to attack ISIL but over 90% of attacks were against the PKK. ](/news/2015/08/1/operation-martyr-yalassa-n-turkey-has-killed-around-260-members-of-the-kurdistan-workers-party-in-recent-bombing-campaigns-in-turkey-and-nor.md)
+### [Operation Martyr Yalcin: Turkey has killed around 260 members of the Kurdistan Workers Party in recent bombing campaigns in Turkey and northern Iraq. Officially the operation was started to attack ISIL but over 90% of attacks were against the PKK. ](/news/2015/08/1/operation-martyr-yalassa-n-turkey-has-killed-around-260-members-of-the-kurdistan-workers-party-in-recent-bombing-campaigns-in-turkey-and-nor.md)
 Around 260 members of the outlawed Kurdistan Workers Party (PKK) have been killed and hundreds more wounded in Ankara&#x27;s week-long campaign of air strikes against targets of the group inside Turkey and in northern Iraq, the official Anatolia news agency said Saturday.
 
-### [Arab-Israeli conflict. Israeli forces in separate incidents in violent riots protesting an arson attack that burned an infant to death result in the death of two 17-year-old Palestinians. ](/news/2015/08/1/arab-israeli-conflict-israeli-forces-in-separate-incidents-in-violent-riots-protesting-an-arson-attack-that-burned-an-infant-to-death-res.md)
+### [Arab-Israeli conflict: Israeli forces in separate incidents in violent riots protesting an arson attack that burned an infant to death result in the death of two 17-year-old Palestinians. ](/news/2015/08/1/arab-israeli-conflict-israeli-forces-in-separate-incidents-in-violent-riots-protesting-an-arson-attack-that-burned-an-infant-to-death-res.md)
 A Palestinian youth died on Saturday at a West Bank hospital following a clash with Israeli troops near Ramallah, Palestinian hospital officials said.
 
-### [Internal conflict in Peru. The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/internal-conflict-in-peru-the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md)
+### [Internal conflict in Peru: The Peruvian Army rescues 15 people from Shining Path guerillas. ](/news/2015/08/1/internal-conflict-in-peru-the-peruvian-army-rescues-15-people-from-shining-path-guerillas.md)
 _Context: Internal conflict in Peru, Peruvian Army, Shining Path_
 
 ### [The speech by Japanese Emperor Hirohito announcing the unconditional surrender of Japan is released in digital form. ](/news/2015/08/1/the-speech-by-japanese-emperor-hirohito-announcing-the-unconditional-surrender-of-japan-is-released-in-digital-form.md)
@@ -18,7 +18,7 @@ _Context: Chersonesus, Russian Government, Russian President Vladimir Putin, Vla
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)
 _Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_
 
-### [Malaysia Airlines Flight 370. Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/malaysia-airlines-flight-370-debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-inve.md)
+### [Malaysia Airlines Flight 370: Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/malaysia-airlines-flight-370-debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-inve.md)
 _Context: France, Malaysia Airlines Flight 370, Toulouse_
 
 ### [The President of Myanmar Thein Sein declares a state of emergency in four regions, Chin State, Magwe Region, Sagaing Region and Rakhine State, after floods kill at least 27 people. ](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.md)

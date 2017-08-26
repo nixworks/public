@@ -9,10 +9,10 @@ _Context: United States, Yemen, al-Qaeda_
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
 The head of an outlawed Pakistan-based militant group blamed for the 2008 attack on the Indian commercial capital of Mumbai urged supporters on Tuesday to wage holy war against &quot;oppressors&quot;.
 
-### [Middle East:. Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-te.md)
+### [Middle East:: Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-te.md)
 The man was shot by fellow soldiers along the Gaza border in an operation aimed at stopping three Palestinians who were thought to be trying to infiltrate the border fence, an army spokesman said.
 
-### [Irish cabinet reshuffle:. Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-taoiseach-brian-cowen-reshuffles-his-cabinet.md)
+### [Irish cabinet reshuffle:: Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-taoiseach-brian-cowen-reshuffles-his-cabinet.md)
 The Taoiseach has promoted two TDs to senior positions and moved four ministers to different portfolios as part of the Cabinet reshuffle.
 
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)

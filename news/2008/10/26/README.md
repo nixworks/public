@@ -12,7 +12,7 @@ Air accident investigators are trying to establish what caused a light aircraft 
 ### [ Kadima Party leader and Acting Prime Minister of Israel Tzipi Livni abandons efforts to form a coalition government and calls for early elections. ](/news/2008/10/26/kadima-party-leader-and-acting-prime-minister-of-israel-tzipi-livni-abandons-efforts-to-form-a-coalition-government-and-calls-for-early-ele.md)
 _Context: Acting Prime Minister, Israel, Kadima party, Next Israeli legislative election, Tzipi Livni, governing coalition_
 
-### [ Georgian-Abkhazian conflict:. President of Abkhazia, Sergei Bagapsh, accused Georgia of 'massive provocations with the use of armed force' after Georgians opened 'heavy fire' on Abkhazian border guards on Inguri river, part of the Georgian-Abkhazian border. ](/news/2008/10/26/georgian-abkhazian-conflict-president-of-abkhazia-sergei-bagapsh-accused-georgia-of-massive-provocations-with-the-use-of-armed-force.md)
+### [ Georgian-Abkhazian conflict:: President of Abkhazia, Sergei Bagapsh, accused Georgia of 'massive provocations with the use of armed force' after Georgians opened 'heavy fire' on Abkhazian border guards on Inguri river, part of the Georgian-Abkhazian border. ](/news/2008/10/26/georgian-abkhazian-conflict-president-of-abkhazia-sergei-bagapsh-accused-georgia-of-massive-provocations-with-the-use-of-armed-force.md)
 _Context: Abkhazia, Abkhazian, Georgian, Georgian-Abkhazian conflict, Inguri, soldiers_
 
 ### [ Oscar Tulio Lizcano, a Conservative congressman kidnapped by the FARC in August 2000, is freed by the military in Choco Department, Colombia. ](/news/2008/10/26/ascar-tulio-lizcano-a-conservative-congressman-kidnapped-by-the-farc-in-august-2000-is-freed-by-the-military-in-choca3-department-colom.md)

@@ -12,7 +12,7 @@ Pirates on Sunday struck a ship that had just dropped off more than 1,800 tons o
 ### [ Israeli forces carry out a raid across parts of the West Bank town of Nablus. ](/news/2007/02/25/israeli-forces-carry-out-a-raid-across-parts-of-the-west-bank-town-of-nablus.md)
 _Context: Israel, Israel Defense Forces, Nablus, West Bank, raid_
 
-### [ Iraq:. President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md)
+### [ Iraq:: President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/iraq-president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md)
 A female suicide bomber blew herself up at a university and Moktada al-Sadr condemned the security plan for Baghdad.
 
 ### [ Prime Minister of East Timor Jos Ramos-Horta announces he is running for president. ](/news/2007/02/25/prime-minister-of-east-timor-jose-ramos-horta-announces-he-is-running-for-president.md)

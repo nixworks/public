@@ -1,6 +1,6 @@
 ## [2013-08-31](/news/2013/08/31/index.md)
 
-### [Syrian civil war:. American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md)
+### [Syrian civil war:: American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/syrian-civil-war-american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md)
 BEIRUT - A United Nations chemical inspection team left Syria on Saturday as U.S. officials were said to be preparing a retaliatory strike against the Syrian government for its alleged use of...
 
 ### [Veteran British broadcaster Sir David Frost - who famously interviewed former U.S. President Richard Nixon - dies on board the Queen Elizabeth of a heart attack, aged 74. ](/news/2013/08/31/veteran-british-broadcaster-sir-david-frost-who-famously-interviewed-former-u-s-president-richard-nixon-dies-on-board-the-queen-eli.md)

@@ -1,6 +1,6 @@
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-# Trial of Ratko Mladic in The Hague:. Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. 
+# Trial of Ratko Mladic in The Hague:: Former Bosnian Serb Colonel General Ratko Mladic is scheduled to enter a plea on charges of genocide in the Srebrenica massacre during the Bosnian war at a United Nations war crimes court. 
 
 Ex-Bosnian&#x20;Serb&#x20;army&#x20;chief&#x20;Ratko&#x20;Mladic&#x20;will&#x20;not&#x20;attend&#x20;his&#x20;second&#x20;plea&#x20;bargain&#x20;hearing&#x20;on&#x20;Monday&#x20;unless&#x20;he&#x20;is&#x20;forced&#x20;to,&#x20;his&#x20;lawyers&#x20;have&#x20;said.&#x20;Mladic&#x20;was&#x20;arrested&#x20;in&#x20;May&#x20;for&#x20;his&#x20;role&#x20;in&#x20;the&#x20;Srebrenica&#x20;massacre&#x20;during&#x20;the&#x20;Bosnian&#x20;war.
 

@@ -1,6 +1,6 @@
 ### [2014-04-12](/news/2014/04/12/index.md)
 
-# Palestinian-Israeli conflict. The Palestinian Authority signs 15 UN/Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. 
+# Palestinian-Israeli conflict: The Palestinian Authority signs 15 UN/Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. 
 
 Israel sets a tax sanction on the Palestinian Authority in the latest retaliatory step for its signing up to join international treaties.
 

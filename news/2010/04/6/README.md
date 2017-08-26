@@ -1,6 +1,6 @@
 ## [2010-04-6](/news/2010/04/6/index.md)
 
-### [Israeli-Palestinian conflict:. Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md)
+### [Israeli-Palestinian conflict:: Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md)
 Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
 
 ### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxalite-maoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)

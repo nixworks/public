@@ -1,6 +1,6 @@
 ## [2011-08-21](/news/2011/08/21/index.md)
 
-### [2011 Libyan civil war:. Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-wit.md)
+### [2011 Libyan civil war:: Abdul Hafiz Ghoga, the Vice Chairman of the National Transitional Council, says that "the zero hour has started" with fighting continuing in Tripoli. ](/news/2011/08/21/2011-libyan-civil-war-abdul-hafiz-ghoga-the-vice-chairman-of-the-national-transitional-council-says-that-the-zero-hour-has-started-wit.md)
 _Context: Abdul Hafiz Ghoga, Libyan Civil War, National Transitional Council, Tripoli, fighting_
 
 ### [Rockets fired from Gaza, reportedly aiming for Israel, land in the Sinai Peninsula of Egypt during the Palestinian-Israeli conflict. ](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.md)

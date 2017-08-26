@@ -18,7 +18,7 @@ _Context: Arun Sarin, CEO, India, US$, Vodafone Group Plc_
 ### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
 _Context: Canada, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
 
-### [ Iraq War:. Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/iraq-war-operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-week.md)
+### [ Iraq War:: Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/iraq-war-operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-week.md)
 French police arrested 11 people suspected of having links to Al Qaeda in a pre-dawn sweep on Wednesday.
 
 ### [ The European parliament has approved a report on secret CIA flights which condemns member states that allowed the operations. ](/news/2007/02/14/the-european-parliament-has-approved-a-report-on-secret-cia-flights-which-condemns-member-states-that-allowed-the-operations.md)

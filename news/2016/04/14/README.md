@@ -1,21 +1,21 @@
 ## [2016-04-14](/news/2016/04/14/index.md)
 
-### [War in Afghanistan (2015-present). Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/war-in-afghanistan-2015-present-taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
+### [War in Afghanistan (2015-present): Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/war-in-afghanistan-2015-present-taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
 _Context: Afghan police, Afghanistan's, Taliban, War in Afghanistan (2015-present)_
 
-### [Israeli-Palestinian conflict. A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/israeli-palestinian-conflict-a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-p.md)
+### [Israeli-Palestinian conflict: A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/israeli-palestinian-conflict-a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-p.md)
 In separate incident, two 12-year-old Palestinian kids arrested with knives in Jerusalem, are suspected of planning an attack
 
 ### [Authorities in Ukraine recover four Dutch Golden Age paintings stolen from a museum in the Netherlands a decade ago. ](/news/2016/04/14/authorities-in-ukraine-recover-four-dutch-golden-age-paintings-stolen-from-a-museum-in-the-netherlands-a-decade-ago.md)
 KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four paintings from a trove of Dutch Golden Age art that was stolen from a Dutch museum more than a decade ago. At a Thursday briefing showing the four...
 
-### [2016 Kumamoto earthquake. A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md)
+### [2016 Kumamoto earthquake: A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md)
 A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but the nuclear regulator reported no problems at power plants.
 
 ### [At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. ](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-crane-collapses-on-a-temporary-structure-during-a-thunderstorm-in-the-city-of-dongguan-china.md)
 _Context: China, Dongguan, thunderstorm_
 
-### [North Korea and weapons of mass destruction. North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country-s founder Kim Il-sung, according to South Korea-s Yonhap news agency. ](/news/2016/04/14/north-korea-and-weapons-of-mass-destruction-north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibl.md)
+### [North Korea and weapons of mass destruction: North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country-s founder Kim Il-sung, according to South Korea-s Yonhap news agency. ](/news/2016/04/14/north-korea-and-weapons-of-mass-destruction-north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibl.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 ### [The People's Republic of China announces that it will prosecute 357 people for the illegal sale of vaccines. ](/news/2016/04/14/the-people-s-republic-of-china-announces-that-it-will-prosecute-357-people-for-the-illegal-sale-of-vaccines.md)

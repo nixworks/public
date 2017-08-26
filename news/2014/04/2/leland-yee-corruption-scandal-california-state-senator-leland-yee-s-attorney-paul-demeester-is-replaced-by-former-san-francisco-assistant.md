@@ -1,6 +1,6 @@
 ### [2014-04-2](/news/2014/04/2/index.md)
 
-# Leland Yee corruption scandal:. California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. 
+# Leland Yee corruption scandal:: California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. 
 
 State Sen. Leland Yee picks new lawyer in gun, corruption case
 

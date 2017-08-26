@@ -1,6 +1,6 @@
 ### [2016-01-30](/news/2016/01/30/index.md)
 
-# 2015-16 Australian region cyclone season. Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. 
+# 2015-16 Australian region cyclone season: Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. 
 
 WA residents in the north-west Pilbara region are bracing for strong wind gusts and heavy rain as tropical Cyclone Stan makes landfall on Sunday morning.
 
@@ -11,8 +11,8 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 
 ### Related:
 
-1. [2015-16 Australian region cyclone season. Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of.md) _Context: 2015-16 Australian region cyclone season, Pilbara, Western Australia_
-2. [2014-15 Australian region cyclone season. Tropical Cyclone Olwyn intensifies with the potential to reach Category 3 on the Saffir-Simpson scale before making landfall in Western Australia's Pilbara region on March 13. ](/news/2015/03/12/2014-15-australian-region-cyclone-season-tropical-cyclone-olwyn-intensifies-with-the-potential-to-reach-category-3-on-the-saffir-simpson.md) _Context: Pilbara, Western Australia_
+1. [2015-16 Australian region cyclone season: Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/2015-16-australian-region-cyclone-season-tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of.md) _Context: 2015-16 Australian region cyclone season, Pilbara, Western Australia_
+2. [2014-15 Australian region cyclone season: Tropical Cyclone Olwyn intensifies with the potential to reach Category 3 on the Saffir-Simpson scale before making landfall in Western Australia's Pilbara region on March 13. ](/news/2015/03/12/2014-15-australian-region-cyclone-season-tropical-cyclone-olwyn-intensifies-with-the-potential-to-reach-category-3-on-the-saffir-simpson.md) _Context: Pilbara, Western Australia_
 3. [Cyclone Christine makes landfall in the Pilbara region of Western Australia, causing evacuations in Port Hedland and winds over 170 km/h in Roebourne ](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.md) _Context: Pilbara, Western Australia_
 4. [A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. ](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-western-australia-s-pilbara-and-kimberly-regions-as-cyclone-lua-approaches-at-category-3-strength.md) _Context: Pilbara, Western Australia_
 5. [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md) _Context: Pilbara, Western Australia_

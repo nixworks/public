@@ -39,7 +39,7 @@ The United States Government has filed its application to have Megaupload founde
 ### [The trial of former Prime Minister of Iceland Geir Haarde on charges of negligence in relation to the financial crisis begins in Reykjavik. ](/news/2012/03/5/the-trial-of-former-prime-minister-of-iceland-geir-haarde-on-charges-of-negligence-in-relation-to-the-financial-crisis-begins-in-reykjavak.md)
 The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligence over the 2008 financial crisis, begins in Reykjavik.
 
-### [Russian election aftermath:. International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pre.md)
+### [Russian election aftermath:: International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/russian-election-aftermath-international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-pre.md)
 _Context: OSCE, Vladimir Putin, last week's election_
 
 ### [A study finds a correlation between snoring as a toddler and behavior problems later in childhood. ](/news/2012/03/5/a-study-finds-a-correlation-between-snoring-as-a-toddler-and-behavior-problems-later-in-childhood.md)

@@ -1,18 +1,18 @@
 ## [2013-12-6](/news/2013/12/6/index.md)
 
-### [Al-Qaeda insurgency in Yemen:. The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md)
+### [Al-Qaeda insurgency in Yemen:: The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md)
 _Context: Al-Qaeda insurgency in Yemen, Sanaa, Yemen_
 
-### [Central African Republic conflict under the Djotodia administration:. The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/central-african-republic-conflict-under-the-djotodia-administration-the-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of.md)
+### [Central African Republic conflict under the Djotodia administration:: The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/central-african-republic-conflict-under-the-djotodia-administration-the-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of.md)
 At least 300 people have been killed in two days of violence in the Central African Republic capital, Bangui, the Red Cross says.
 
-### [2013 North American cold wave:. Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-with.md)
+### [2013 North American cold wave:: Record snowfall occurs over the United States killing at least eleven and leaving hundreds of thousands without power. ](/news/2013/12/6/2013-north-american-cold-wave-record-snowfall-occurs-over-the-united-states-killing-at-least-eleven-and-leaving-hundreds-of-thousands-with.md)
 The cold snap is forecast to continue causing problems and trekking northeast.
 
-### [Pollution in China:. A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md)
+### [Pollution in China:: A record level of smog is reported in Shanghai causing officials to issue the highest level health warning and delaying of hundreds of flights.](/news/2013/12/6/pollution-in-china-a-record-level-of-smog-is-reported-in-shanghai-causing-officials-to-issue-the-highest-level-health-warning-and-delaying.md)
 _Context: Pollution in China, Shanghai_
 
-### [War in Afghanistan:. Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-royal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insur.md)
+### [War in Afghanistan:: Royal Marine Sergeant Alexander Blackman is given a life sentence by a court martial for the murder of an unarmed insurgent. ](/news/2013/12/6/war-in-afghanistan-royal-marine-sergeant-alexander-blackman-is-given-a-life-sentence-by-a-court-martial-for-the-murder-of-an-unarmed-insur.md)
 Royal Marine Sergeant Alexander Blackman has been sentenced to life in prison by a court martial for murdering an insurgent in Afghanistan.
 
 ### [The U.S. Supreme Court agrees to decide whether software can be patented. ](/news/2013/12/6/the-u-s-supreme-court-agrees-to-decide-whether-software-can-be-patented.md)

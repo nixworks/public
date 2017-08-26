@@ -1,6 +1,6 @@
 ### [2009-03-19](/news/2009/03/19/index.md)
 
-#  Malagasy political crisis:. President Andry Rajoelina dissolves Parliament. 
+#  Malagasy political crisis:: President Andry Rajoelina dissolves Parliament. 
 
 
 

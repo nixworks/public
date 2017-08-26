@@ -1,6 +1,6 @@
 ### [2017-03-31](/news/2017/03/31/index.md)
 
-# Interstate 85 bridge collapse. Officials state that repairs will take months following a fire that collapsed a bridge on Interstate 85 in Atlanta, Georgia. Police arrest three individuals in connection with the disaster, charging two with criminal trespass and one with first degree criminal damage. 
+# Interstate 85 bridge collapse: Officials state that repairs will take months following a fire that collapsed a bridge on Interstate 85 in Atlanta, Georgia. Police arrest three individuals in connection with the disaster, charging two with criminal trespass and one with first degree criminal damage. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Interstate 85 bridge collapse. A fire results in the collapse of a bridge on Interstate 85 in Atlanta, Georgia, during rush hour, stranding motorists and resulting in a state of emergency. Atlanta mayor Kasim Reed calls the situation a "transportation crisis" that could close the affected stretch of highway for days or weeks. A 2015 report stated that the highway carried nearly a quarter-million vehicles a day. ](/news/2017/03/30/interstate-85-bridge-collapse-a-fire-results-in-the-collapse-of-a-bridge-on-interstate-85-in-atlanta-georgia-during-rush-hour-stranding.md) _Context: Interstate 85, Interstate 85 bridge collapse_
+1. [Interstate 85 bridge collapse: A fire results in the collapse of a bridge on Interstate 85 in Atlanta, Georgia, during rush hour, stranding motorists and resulting in a state of emergency. Atlanta mayor Kasim Reed calls the situation a "transportation crisis" that could close the affected stretch of highway for days or weeks. A 2015 report stated that the highway carried nearly a quarter-million vehicles a day. ](/news/2017/03/30/interstate-85-bridge-collapse-a-fire-results-in-the-collapse-of-a-bridge-on-interstate-85-in-atlanta-georgia-during-rush-hour-stranding.md) _Context: Interstate 85, Interstate 85 bridge collapse_
 2. [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md) _Context: Atlanta, Georgia_
 3. [Four students and another person are injured during a shooting near Therrell High School's campus in Atlanta, Georgia, U.S. A 17-year-old suspect is arrested. ](/news/2014/05/13/four-students-and-another-person-are-injured-during-a-shooting-near-therrell-high-school-s-campus-in-atlanta-georgia-u-s-a-17-year-old-su.md) _Context: Atlanta, Georgia_
 4. [American actress Reese Witherspoon is arrested in Atlanta, Georgia, on charges of disorderly conduct. ](/news/2013/04/21/american-actress-reese-witherspoon-is-arrested-in-atlanta-georgia-on-charges-of-disorderly-conduct.md) _Context: Atlanta, Georgia_

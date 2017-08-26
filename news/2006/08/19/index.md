@@ -1,6 +1,6 @@
 ## [2006-08-19](/news/2006/08/19/index.md)
 
-### [ 2006 Israel-Lebanon conflict:. Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md)
+### [ 2006 Israel-Lebanon conflict:: Lebanese PM Fouad Siniora has accused Israel of a "naked violation" of the five-day-old ceasefire, after a raid by Israeli commandos deep inside Lebanon. ](/news/2006/08/19/2006-israel-lebanon-conflict-lebanese-pm-fouad-siniora-has-accused-israel-of-a-naked-violation-of-the-five-day-old-ceasefire-after-a-r.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Israeli forces detain Palestinian Deputy Prime Minister Nasser al-Shaer in a raid on his home in the West Bank town of Ramallah. ](/news/2006/08/19/israeli-forces-detain-palestinian-deputy-prime-minister-nasser-al-shaer-in-a-raid-on-his-home-in-the-west-bank-town-of-ramallah.md)

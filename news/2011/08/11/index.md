@@ -6,7 +6,7 @@ A man armed with guns, grenades and even a small bomb occupied the Estonian Defe
 ### [At least five people including four police officers are killed after a bomb explodes near a police van in the Pakistani city of Peshawar. ](/news/2011/08/11/at-least-five-people-including-four-police-officers-are-killed-after-a-bomb-explodes-near-a-police-van-in-the-pakistani-city-of-peshawar.md)
 At least seven people are killed in twin bombings in the north-western Pakistani city of Peshawar, police say.
 
-### [August 2011 stock markets fall and rebound. Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-rebound-stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-o.md)
+### [August 2011 stock markets fall and rebound: Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/august-2011-stock-markets-fall-and-rebound-stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-o.md)
 _Context: Asia, Australia, New York Stock Exchange, stock market, trend_
 
 ### [The City Council in the New Zealand city of Christchurch announces plans to rebuild its central business district after the recent earthquake. ](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.md)

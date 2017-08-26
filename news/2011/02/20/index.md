@@ -1,18 +1,18 @@
 ## [2011-02-20](/news/2011/02/20/index.md)
 
-### [Arab Spring:. 2011 Libyan civil war:. More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-2011-libyan-civil-war-more-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-liby.md)
+### [Arab Spring:: 2011 Libyan civil war:: More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.](/news/2011/02/20/arab-spring-2011-libyan-civil-war-more-than-200-people-are-killed-and-900-other-are-injured-as-military-troops-attack-protestors-in-liby.md)
 Details emerge of massive casualties in the Libyan city of Benghazi, where doctors say more than 200 people have been killed in anti-government protests.
 
-### [Protests in other parts of the world:. 2011 Chinese protests:. Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md)
+### [Protests in other parts of the world:: 2011 Chinese protests:: Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md)
 Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities of Beijing and Shanghai but were dispersed by police in both places. In...
 
 ### [NATO pledges to investigate itself amid reports of its recent killing of dozens of civilians in eastern Afghanistan. ](/news/2011/02/20/nato-pledges-to-investigate-itself-amid-reports-of-its-recent-killing-of-dozens-of-civilians-in-eastern-afghanistan.md)
 Nato says it will investigate allegations that its forces have killed dozens of civilians in recent days in air and ground strikes in eastern Afghanistan.
 
-### [War in Pakistan:. The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md)
+### [War in Pakistan:: The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-the-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md)
 _Context: Mohmand Agency, Pakistan army_
 
-### [War in Afghanistan:. Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fightin.md)
+### [War in Afghanistan:: Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fightin.md)
 _Context: 1st Combat Engineer Regiment (Australia), Afghanistan's, Jamie Larkham, sapping_
 
 ### [The death is announced of slain LTTE leader Velupillai Prabhakaran's mother Vallipuram Parvathi. ](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.md)
@@ -30,7 +30,7 @@ _Context: Minneapolis-Saint Paul International Airport, Minnesota, U.S. state_
 ### ["The Guardian" reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-centra.md)
 An American official held in Pakistan after shooting dead two men is a CIA agent who was on assignment at the time of the incident, according to reports.
 
-### [German-Iranian relations:. Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/german-iranian-relations-following-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-esp.md)
+### [German-Iranian relations:: Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/german-iranian-relations-following-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-esp.md)
 _Context: German Foreign Minister, German journalist, German-Iranian relations, Germany, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
 
 ### [North Korea has been observed digging tunnels at a nuclear test site in Punggye-ri in North Hamgyong Province raising concerns about another test. ](/news/2011/02/20/north-korea-has-been-observed-digging-tunnels-at-a-nuclear-test-site-in-punggye-ri-in-north-hamgyong-province-raising-concerns-about-another.md)

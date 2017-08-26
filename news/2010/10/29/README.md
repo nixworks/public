@@ -39,7 +39,7 @@ Nato says it will halve its force in Kosovo to 5,000 soldiers over the next few 
 ### [The death toll from the suicide bombing of a cafe in the Diyala Governorate near Baghdad, Iraq reaches 22. ](/news/2010/10/29/the-death-toll-from-the-suicide-bombing-of-a-cafe-in-the-diyala-governorate-near-baghdad-iraq-reaches-22.md)
 The number of people killed whena suicide bomber attacked an Iraqi cafe northeast of Baghdad onFriday reached 22, with more than 45 injured, a provincialofficial said.
 
-### [Security alert in the United Kingdom and United States:. Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/security-alert-in-the-united-kingdom-and-united-states-law-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious.md)
+### [Security alert in the United Kingdom and United States:: Law enforcement authorities in the UK and the US are on high alert after suspicious packages are found on flights arriving from Yemen. A similar package is discovered in Dubai. ](/news/2010/10/29/security-alert-in-the-united-kingdom-and-united-states-law-enforcement-authorities-in-the-uk-and-the-us-are-on-high-alert-after-suspicious.md)
 A &quot;suspicious object&quot; found to contain explosives at East Midlands Airport was on a plane flying from Yemen to Chicago.
 
 ### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of "The Hobbit" film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
@@ -66,7 +66,7 @@ _Context: Channel Tunnel, DB Fernverkehr, Germany, Intercity-Express_
 ### [A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. ](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.md)
 Conrad Black faces the prospect of heading back to jail after a U.S. appeal court upheld two of four criminal charges against him.
 
-### [Indonesian tsunami. The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md)
+### [Indonesian tsunami: The death toll from the Indonesian tsunami climbs to 394 with 312 still missing. ](/news/2010/10/29/indonesian-tsunami-the-death-toll-from-the-indonesian-tsunami-climbs-to-394-with-312-still-missing.md)
 Bad weather is again obstructing efforts to get aid to the survivors of the Indonesian tsunami as the death toll tops 400.
 
 ### [The death toll from the 2010 Haitian cholera outbreak reaches 300 as new cases are reported nearer the capital Port-au-Prince. ](/news/2010/10/29/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-300-as-new-cases-are-reported-nearer-the-capital-port-au-prince.md)

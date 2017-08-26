@@ -1,6 +1,6 @@
 ### [2010-07-2](/news/2010/07/2/index.md)
 
-# Somaliland presidential election, 2010. Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. 
+# Somaliland presidential election, 2010: Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. 
 
 
 

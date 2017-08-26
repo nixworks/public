@@ -1,6 +1,6 @@
 ### [2010-07-5](/news/2010/07/5/index.md)
 
-# Somalia:. Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. 
+# Somalia:: Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. 
 
 
 
@@ -16,7 +16,7 @@
 
 1. [The African Union says its forces have captured 40% of the Somali capital Mogadishu from Islamist militants in a recent offensive. ](/news/2010/10/7/the-african-union-says-its-forces-have-captured-40-of-the-somali-capital-mogadishu-from-islamist-militants-in-a-recent-offensive.md) _Context: AMISOM, African Union, Mogadishu, Somalia_
 2. [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md) _Context: AMISOM, African Union, Mogadishu, Somalia_
-3. [War in Somalia (2009-present). AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/war-in-somalia-2009-present-amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-missi.md) _Context: AMISOM, Mogadishu, Somalia_
+3. [War in Somalia (2009-present): AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. ](/news/2016/04/16/war-in-somalia-2009-present-amisom-soldiers-kill-four-somali-civilians-in-the-town-of-bulla-marer-southwest-of-mogadishu-the-au-missi.md) _Context: AMISOM, Mogadishu, Somalia_
 4. [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md) _Context: AMISOM, African Union, Somalia_
 5. [Somali and African Union forces make gains against al-Shabaab rebels in Mogadishu. ](/news/2011/07/2/somali-and-african-union-forces-make-gains-against-al-shabaab-rebels-in-mogadishu.md) _Context: African Union, Mogadishu, Somalia_
 6. [Somali government forces and African Union troops expel al Qaeda-linked militants from their last outpost in the western part of Mogadishu, opening up a main road in the city. ](/news/2011/06/3/somali-government-forces-and-african-union-troops-expel-al-qaeda-linked-militants-from-their-last-outpost-in-the-western-part-of-mogadishu.md) _Context: African Union, Mogadishu, Somalia_

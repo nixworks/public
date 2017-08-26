@@ -3,16 +3,16 @@
 ### [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, SGBPo Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md)
 _Context: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, Lisboa, Live Earth, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York City, Rio de Janeiro, SGBPo Paulo, Singapore, Stockholm, Toronto, Washington, D.C._
 
-### [The Tehran International Conference on Disarmament and Non-Proliferation, 2010 concludes.. President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/the-tehran-international-conference-on-disarmament-and-non-proliferation-2010-concludes-president-of-iran-mahmoud-ahmadinejad-says-iran-w.md)
+### [The Tehran International Conference on Disarmament and Non-Proliferation, 2010 concludes.: President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/the-tehran-international-conference-on-disarmament-and-non-proliferation-2010-concludes-president-of-iran-mahmoud-ahmadinejad-says-iran-w.md)
 Ahmadinejad says US troops in the region and Afghanistan are stoking more insecurity.
 
-### [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:. Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md)
+### [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:: Thousands of European flights do not occur for a fourth straight day. ](/news/2010/04/18/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-thousands-of-european-flights-do-not-occur-for-a-fourth-straight-day.md)
 Tens of thousands of people gathered in the city of Krakow on Sunday for the state funeral of Polish President Lech Kaczynski and his wife, Maria.
 
-### [Benedict and child sexual abuse in the Roman Catholic Church:. Pope Benedict XVI concludes his visit to Malta. Reports suggest he is trying to avoid discussing the recent child sex abuse scandal, on his first trip since the scandal broke. ](/news/2010/04/18/benedict-and-child-sexual-abuse-in-the-roman-catholic-church-pope-benedict-xvi-concludes-his-visit-to-malta-reports-suggest-he-is-trying.md)
+### [Benedict and child sexual abuse in the Roman Catholic Church:: Pope Benedict XVI concludes his visit to Malta. Reports suggest he is trying to avoid discussing the recent child sex abuse scandal, on his first trip since the scandal broke. ](/news/2010/04/18/benedict-and-child-sexual-abuse-in-the-roman-catholic-church-pope-benedict-xvi-concludes-his-visit-to-malta-reports-suggest-he-is-trying.md)
 Pope Benedict XVI met with a group of victims and expressed “shame and sorrow” at their plight.
 
-### [Independence Day in Zimbabwe:. Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-zimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md)
+### [Independence Day in Zimbabwe:: Zimbabwe marks 30 years of independence from British-backed minority white rule. ](/news/2010/04/18/independence-day-in-zimbabwe-zimbabwe-marks-30-years-of-independence-from-british-backed-minority-white-rule.md)
 Celebrations likely to be subdued as country faces tough economic challenges.
 
 ### [President of China Hu Jintao visits survivors in the earthquake zone as the death toll climbs to more than 1,700 people. ](/news/2010/04/18/president-of-china-hu-jintao-visits-survivors-in-the-earthquake-zone-as-the-death-toll-climbs-to-more-than-1-700-people.md)
@@ -40,7 +40,7 @@ _Context: Abdullah, Al-Sakhir Palace, Bahrain, Imam Turki bin Abdullah, Sheikh I
 _Context: King Oyo, Rukidi IV of Toro, Uganda_
 
 ### [Former President of the United States George Washington owes $300,000 for overdue library books he borrowed from New York Society Library five months into his presidency and which he failed to return. ](/news/2010/04/18/former-president-of-the-united-states-george-washington-owes-300-000-for-overdue-library-books-he-borrowed-from-new-york-society-library-fi.md)
-_Context: George Washington, New York Society Library, president_
+_Context: George Washington, New York Society Library, President_
 
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
 _Context: Milan, Placido Domingo, Spain, Teatro alla Scala, colorectal cancer_

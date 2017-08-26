@@ -1,6 +1,6 @@
 ## [2012-03-3](/news/2012/03/3/index.md)
 
-### [Syria:. The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md)
+### [Syria:: The United Nations demands that Syria allow in humanitarian aid after a Red Cross relief mission was denied access to Homs yesterday. ](/news/2012/03/3/syria-the-united-nations-demands-that-syria-allow-in-humanitarian-aid-after-a-red-cross-relief-mission-was-denied-access-to-homs-yesterday.md)
 A suicide bomber killed two people and wounded several others in the southern Syrian town of Deraa on Saturday, the Syrian state news agency Sana said.
 
 ### [At least three people are killed in a bombing that targeted a Republican Guard building in Badya, Yemen. ](/news/2012/03/3/at-least-three-people-are-killed-in-a-bombing-that-targeted-a-republican-guard-building-in-badya-yemen.md)

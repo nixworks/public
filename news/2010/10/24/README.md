@@ -51,7 +51,7 @@ _Context: Bangladesh, China, Hasan Mahmud, National Development and Reform Commi
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
 _Context: Nwoya, Uganda_
 
-### [2010 Haitian cholera outbreak:. Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md)
+### [2010 Haitian cholera outbreak:: Cholera is detected in Port-au-Prince, Haiti, for the first time since the post-earthquake outbreak began. ](/news/2010/10/24/2010-haitian-cholera-outbreak-cholera-is-detected-in-port-au-prince-haiti-for-the-first-time-since-the-post-earthquake-outbreak-began.md)
 At least five cases of the disease discovered in Port-au-Prince, but UN official believes fatality rate is slowing.
 
 ### [Leading Nepalese Sherpa Chhewang Nima, known for climbing Mount Everest 19 times, disappears during an avalanche. ](/news/2010/10/24/leading-nepalese-sherpa-chhewang-nima-known-for-climbing-mount-everest-19-times-disappears-during-an-avalanche.md)

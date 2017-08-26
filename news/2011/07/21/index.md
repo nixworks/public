@@ -6,7 +6,7 @@ _Context: 2011 Syrian uprising, Homs, Syria_
 ### [2011 Libyan civil war: Rebels report "fierce" counter-attacks on the eastern front. ](/news/2011/07/21/2011-libyan-civil-war-rebels-report-fierce-counter-attacks-on-the-eastern-front.md)
 Libyan leader Muammar Gaddafi ruled out on Thursday talks with the rebels seeking to end his 41-year-rule, casting doubt on a flurry of Western efforts to negotiate an end to a deepening civil conflict.
 
-### [2011 Malawian protests:. At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md)
+### [2011 Malawian protests:: At least eighteen people are killed during mass protests in Malawi. ](/news/2011/07/21/2011-malawian-protests-at-least-eighteen-people-are-killed-during-mass-protests-in-malawi.md)
 The army is deployed in three Malawian cities on a second day of anti-government protests in which at least 18 people have been killed.
 
 ### [Senegal bans demonstrations in the capital Dakar ahead of planned opposition protests against the regime of President Abdoulaye Wade. ](/news/2011/07/21/senegal-bans-demonstrations-in-the-capital-dakar-ahead-of-planned-opposition-protests-against-the-regime-of-president-abdoulaye-wade.md)
@@ -36,7 +36,7 @@ _Context: Australia, Christmas Island Immigration Reception and Processing Centr
 ### [A Japanese court sentences Tatsuya Ichihashi to life imprisonment for the murder of British teacher Lindsay Hawker. ](/news/2011/07/21/a-japanese-court-sentences-tatsuya-ichihashi-to-life-imprisonment-for-the-murder-of-british-teacher-lindsay-hawker.md)
 _Context: Japanese, murder of British teacher Lindsay Hawker_
 
-### [News International phone hacking scandal. MSNBC reports that the United States Department of Justice is investigating claims that News Corporation's advertising arm repeatedly hacked into the computers of competitors. ](/news/2011/07/21/news-international-phone-hacking-scandal-msnbc-reports-that-the-united-states-department-of-justice-is-investigating-claims-that-news-corpo.md)
+### [News International phone hacking scandal: MSNBC reports that the United States Department of Justice is investigating claims that News Corporation's advertising arm repeatedly hacked into the computers of competitors. ](/news/2011/07/21/news-international-phone-hacking-scandal-msnbc-reports-that-the-united-states-department-of-justice-is-investigating-claims-that-news-corpo.md)
 Justice Department prosecutors are reviewing allegations that News Corp.&#8217;s advertising arm repeatedly hacked into the computers of a competitor in the United States as part of an effort to steal the rival firm&#8217;s business, according to a lawyer for the company. 
 
 ### [The Central Bank of Iran launches a ](/news/2011/07/21/the-central-bank-of-iran-launches-a.md)

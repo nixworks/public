@@ -1,6 +1,6 @@
 ## [2010-06-15](/news/2010/06/15/index.md)
 
-### [Human rights in Iran:. A leader of the Iranian opposition, Mir Hussein Moussavi, demands the prosecution of those he accuses of fraud in the disputed presidential election of 2009 and of human rights abuses against opposition demonstrators over the past year in Iran. ](/news/2010/06/15/human-rights-in-iran-a-leader-of-the-iranian-opposition-mir-hussein-moussavi-demands-the-prosecution-of-those-he-accuses-of-fraud-in-the.md)
+### [Human rights in Iran:: A leader of the Iranian opposition, Mir Hussein Moussavi, demands the prosecution of those he accuses of fraud in the disputed presidential election of 2009 and of human rights abuses against opposition demonstrators over the past year in Iran. ](/news/2010/06/15/human-rights-in-iran-a-leader-of-the-iranian-opposition-mir-hussein-moussavi-demands-the-prosecution-of-those-he-accuses-of-fraud-in-the.md)
 Mir Hussein Moussavi issued a defiant statement but urged his supporters to avoid confrontation in Tehran around the one-year anniversary of election protests.
 
 ### [A US marine convicted in the Hamdania incident, one of the worst war crimes from the Iraq War, and sentenced to eleven years in prison in 2006 is released from prison after a military appeals court in Washington decides he did not receive a fair trial. The Navy is appealing that court's decision.](/news/2010/06/15/a-us-marine-convicted-in-the-hamdania-incident-one-of-the-worst-war-crimes-from-the-iraq-war-and-sentenced-to-eleven-years-in-prison-in-20.md)
@@ -18,7 +18,7 @@ Court tries suspects of alleged plan to attack non-Muslims in bid to topple gove
 ### [Two trains collide in the northern Mexican state of Sinaloa resulting in the death of at least 13 people. ](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.md)
 _Context: Mexico, Sinaloa_
 
-### [Saville Inquiry:. The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-r.md)
+### [Saville Inquiry:: The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-the-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-r.md)
 The Bloody Sunday killings were unjustified and unjustifiable, the Prime Minister has said, announcing the findings of the Saville Report.
 
 ### [North Korea threatens a military response if the United Nations Security Council questions or condemns it for the ROKS Cheonan sinking. North Korean UN Permanent Representative Sin Son Ho demands that a North Korean investigation team be allowed to travel to the site of the sinking. ](/news/2010/06/15/north-korea-threatens-a-military-response-if-the-united-nations-security-council-questions-or-condemns-it-for-the-roks-cheonan-sinking-nort.md)
@@ -33,10 +33,10 @@ Nine members of the Fine Gael frontbench have said they do not have confidence i
 ### [An American claiming to be hunting Osama bin Laden is arrested with a sword, a pistol and night-vision goggles in northwestern Pakistan.](/news/2010/06/15/an-american-claiming-to-be-hunting-osama-bin-laden-is-arrested-with-a-sword-a-pistol-and-night-vision-goggles-in-northwestern-pakistan.md)
 Pakistan detains US armed man for trying to cross into Afghanistan to hunt al-Qaeda leader.
 
-### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:. Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md)
+### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. ](/news/2010/06/15/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.md)
 Ethnic Uzbeks say the military has killed civilians in southern Kyrgyzstan.
 
-### [Israeli-Palestinian conflict:. More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and -global jihad networks-. ](/news/2010/06/15/israeli-palestinian-conflict-more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-i.md)
+### [Israeli-Palestinian conflict:: More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and -global jihad networks-. ](/news/2010/06/15/israeli-palestinian-conflict-more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-i.md)
 Turkish IHH activist, Viva Palestina organizer set to speak in New York at event organized by Palestinian Right to Return Coalition.
 
 ## [Previous Day...](/news/2010/06/14/index.md)

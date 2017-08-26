@@ -12,5 +12,5 @@ Fifty years after he started his creative journey, Sampooran Singh Kalra, better
 
 ### Related:
 
-1. [The 61st National Film Awards are presented by the President of India to honour the best films of 2013 in Indian cinema.. Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/the-61st-national-film-awards-are-presented-by-the-president-of-india-to-honour-the-best-films-of-2013-in-indian-cinema-gulzar-receives-da.md) _Context: Dadasaheb Phalke Award, Gulzar, Indian cinema_
+1. [The 61st National Film Awards are presented by the President of India to honour the best films of 2013 in Indian cinema.: Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/the-61st-national-film-awards-are-presented-by-the-president-of-india-to-honour-the-best-films-of-2013-in-indian-cinema-gulzar-receives-da.md) _Context: Dadasaheb Phalke Award, Gulzar, Indian cinema_
 2. [Veteran Bollywood actor Pran is announced as the winner of the 2012 Dadasaheb Phalke Award. ](/news/2013/04/12/veteran-bollywood-actor-pran-is-announced-as-the-winner-of-the-2012-dadasaheb-phalke-award.md) _Context: Dadasaheb Phalke Award_

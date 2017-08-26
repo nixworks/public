@@ -18,7 +18,7 @@ _Context: Jimena Navarrete, Mexico, Miss Universe 2010_
 ### [Australia's stock market and currency lose value because of the country's hung parliament. ](/news/2010/08/23/australia-s-stock-market-and-currency-lose-value-because-of-the-country-s-hung-parliament.md)
 _Context: Australia, hung parliament_
 
-### [Flooding in China and North Korea:. More than 250,000 people are evacuated due to floods across China and North Korea. ](/news/2010/08/23/flooding-in-china-and-north-korea-more-than-250-000-people-are-evacuated-due-to-floods-across-china-and-north-korea.md)
+### [Flooding in China and North Korea:: More than 250,000 people are evacuated due to floods across China and North Korea. ](/news/2010/08/23/flooding-in-china-and-north-korea-more-than-250-000-people-are-evacuated-due-to-floods-across-china-and-north-korea.md)
 Hundreds of thousands of people displaced after border river bursts its banks.
 
 ### [It is expected to take 120 days (4 months) to free the 33 miners trapped underground near Copiap in the Atacama Desert after it is confirmed that they are all currently alive. ](/news/2010/08/23/it-is-expected-to-take-120-days-4-months-to-free-the-33-miners-trapped-underground-near-copiapo-in-the-atacama-desert-after-it-is-confirme.md)
@@ -43,7 +43,7 @@ Twenty-five prisoners, including several Islamic militants, have escaped from a 
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 ### [Judge Royce C. Lamberth of the United States District Court for the District of Columbia rules against a decision by President Barack Obama allowing the expansion of embryonic stem cell research claiming it breaks US law. ](/news/2010/08/23/judge-royce-c-lamberth-of-the-united-states-district-court-for-the-district-of-columbia-rules-against-a-decision-by-president-barack-obama.md)
-_Context: Barack Obama, Royce C. Lamberth, U.S. District Court for the District of Columbia, embryonic stem cell, president_
+_Context: Barack Obama, President, Royce C. Lamberth, U.S. District Court for the District of Columbia, embryonic stem cell_
 
 ## [Previous Day...](/news/2010/08/22/index.md)
 

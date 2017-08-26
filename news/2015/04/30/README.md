@@ -18,7 +18,7 @@ Germany’s 10-year bonds suffered their deepest two-day loss in more than three
 ### [April 2015 Nepal earthquake: A teenager is pulled alive out of the wreckage of a guesthouse on the outskirts of Kathmandu after five days. ](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulled-alive-out-of-the-wreckage-of-a-guesthouse-on-the-outskirts-of-kathmandu-after-five-days.md)
 Rescuers on Thursday pulled a teenage boy out alive from under the wreckage of a guesthouse in Nepal five days after it collapsed in a massive weekend earthquake.
 
-### [Seizure of "Maersk Tigris". Iran claims that the seizure of the "Maersk Tigris" in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-iran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md)
+### [Seizure of "Maersk Tigris": Iran claims that the seizure of the "Maersk Tigris" in the Strait of Hormuz was related to an unpaid debt. ](/news/2015/04/30/seizure-of-maersk-tigris-iran-claims-that-the-seizure-of-the-maersk-tigris-in-the-strait-of-hormuz-was-related-to-an-unpaid-debt.md)
 In a statement, the Iranian foreign ministry said that Iran was &quot;hoping it will be released once debts have been settled.&quot;
 
 ### [The Chinese city of Helong reports three recent deaths along the border with North Korea with North Korean border guards accused of recent murders and thefts. ](/news/2015/04/30/the-chinese-city-of-helong-reports-three-recent-deaths-along-the-border-with-north-korea-with-north-korean-border-guards-accused-of-recent-m.md)

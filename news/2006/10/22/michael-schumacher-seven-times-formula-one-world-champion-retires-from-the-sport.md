@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Sport:. Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _Context: Formula One, Michael Schumacher_
+1. [Sport:: Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md) _Context: Formula One, Michael Schumacher_
 2. [ The most successful driver in Formula One history, German Michael Schumacher, announces his retirement from the sport at the end of the 2006 season. ](/news/2006/09/10/the-most-successful-driver-in-formula-one-history-german-michael-schumacher-announces-his-retirement-from-the-sport-at-the-end-of-the-200.md) _Context: Formula One, Michael Schumacher_
 3. [Liberty Media confirms it is buying Formula One for US$4.4 billion; however, Bernie Ecclestone will remain as chief executive. ](/news/2016/09/7/liberty-media-confirms-it-is-buying-formula-one-for-us-4-4-billion-however-bernie-ecclestone-will-remain-as-chief-executive.md) _Context: Formula One_
 4. [A German court in Munich rules that Formula One boss Bernie Ecclestone should face bribery charges. ](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.md) _Context: Formula One_

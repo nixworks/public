@@ -12,7 +12,7 @@ _Context: Army, Bosnian Serb, Colonel General, International Criminal Tribunal f
 ### [Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. ](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.md)
 Hundreds of police have broken up an Aboriginal tent embassy in Brisbane, escorting and sometimes dragging away about 80 protesters.
 
-### [Greek politics:. Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalit.md)
+### [Greek politics:: Greece is to hold a second round of elections on June 17, after final talks by the major political parties to form a coalition government were unsuccessful. ](/news/2012/05/16/greek-politics-greece-is-to-hold-a-second-round-of-elections-on-june-17-after-final-talks-by-the-major-political-parties-to-form-a-coalit.md)
 Greece will hold fresh elections on 17 June and a judge is appointed to head an interim government.
 
 ### [Jean-Marc Ayrault is sworn in as the Prime Minister of France. ](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.md)

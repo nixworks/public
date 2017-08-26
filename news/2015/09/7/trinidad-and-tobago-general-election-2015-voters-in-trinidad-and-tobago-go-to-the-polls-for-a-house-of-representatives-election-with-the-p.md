@@ -1,6 +1,6 @@
 ### [2015-09-7](/news/2015/09/7/index.md)
 
-# Trinidad and Tobago general election, 2015. Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. 
+# Trinidad and Tobago general election, 2015: Voters in Trinidad and Tobago go to the polls for a House of Representatives election with the People's National Movement led by Keith Rowley returning to power. 
 
 After becoming the first female to lead oil-rich Trinidad and Tobago, Kamla Persad-Bissessar&rsquo;s People&rsquo;s Partnership was ousted from power in Monday&rsquo;s general elections, the latest of several governments ousted in the Caribbean this year.
 

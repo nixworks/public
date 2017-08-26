@@ -1,6 +1,6 @@
 ### [2008-03-20](/news/2008/03/20/index.md)
 
-#  2008 unrest in Tibet:. The Xinhua news agency reports for the first time that protests have spread to neighbouring provinces of Sichuan and Gansu as the Chinese authorities attempt to regain control. 
+#  2008 unrest in Tibet:: The Xinhua news agency reports for the first time that protests have spread to neighbouring provinces of Sichuan and Gansu as the Chinese authorities attempt to regain control. 
 
 
 

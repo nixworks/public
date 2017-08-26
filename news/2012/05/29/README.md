@@ -1,6 +1,6 @@
 ## [2012-05-29](/news/2012/05/29/index.md)
 
-### [Syrian uprising:. Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md)
+### [Syrian uprising:: Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md)
 Japan and Turkey join 11 countries in concerted move over massacre as Annan says country has reached tipping point.
 
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
@@ -33,7 +33,7 @@ _Context: North Korea, drought_
 ### [Aung San Suu Kyi, the leader of the National League for Democracy opposition party in Burma and MP for Kawhmu, leaves Yangon for Bangkok, Thailand on her first overseas trip in 22 years. ](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.md)
 Myanmar opposition leader arrives in Thailand, leaving country where she was long imprisoned for first time since 1988.
 
-### ["Assange v The Swedish Judicial Authority":. WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-swe.md)
+### ["Assange v The Swedish Judicial Authority":: WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-swe.md)
 _Context: Assange v The Swedish Judicial Authority, Julian Assange, WikiLeaks_
 
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)

@@ -1,6 +1,6 @@
 ## [2014-06-5](/news/2014/06/5/index.md)
 
-### [Islamist insurgency in Nigeria:. Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidug.md)
+### [Islamist insurgency in Nigeria:: Suspected Boko Haram militants launch an attack in a village near the north-eastern Nigerian city of Maiduguri, killing approximately 45 people. ](/news/2014/06/5/islamist-insurgency-in-nigeria-suspected-boko-haram-militants-launch-an-attack-in-a-village-near-the-north-eastern-nigerian-city-of-maidug.md)
 Suspected Boko Haram militants in Nigeria opened fire on villagers who had gathered to hear them preach, killing dozens of people, survivors tell the BBC.
 
 ### [An attack on a Yemeni military checkpoint by suspected al-Qaeda militants in Shabwah Governorate, Yemen, leaves 14 people dead. ](/news/2014/06/5/an-attack-on-a-yemeni-military-checkpoint-by-suspected-al-qaeda-militants-in-shabwah-governorate-yemen-leaves-14-people-dead.md)
@@ -15,7 +15,7 @@ A US military Harrier jet crashes into homes in Imperial, southern California, w
 ### [A study published in "The New England Journal of Medicine" links MERS to several infected camels. ](/news/2014/06/5/a-study-published-in-the-new-england-journal-of-medicine-links-mers-to-several-infected-camels.md)
 Doctors believe they have found the first evidence that a new deadly virus in the Middle East has been transmitted from a camel to people.
 
-### [Tuam mass grave:. An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-t.md)
+### [Tuam mass grave:: An Irish archbishop claims the Catholic Church has no records on the burial of 796 children in a disused concrete septic tank at a building it runs in Tuam. ](/news/2014/06/5/tuam-mass-grave-an-irish-archbishop-claims-the-catholic-church-has-no-records-on-the-burial-of-796-children-in-a-disused-concrete-septic-t.md)
 The Archbishop of Tuam in County Galway says the Catholic church has no records about the burial of nearly 800 children in a concrete septic tank at a mother and baby home.
 
 ### [The People's Republic of China claims to have arrested 29 people following recent terrorist attacks in the Xinjiang region. ](/news/2014/06/5/the-people-s-republic-of-china-claims-to-have-arrested-29-people-following-recent-terrorist-attacks-in-the-xinjiang-region.md)

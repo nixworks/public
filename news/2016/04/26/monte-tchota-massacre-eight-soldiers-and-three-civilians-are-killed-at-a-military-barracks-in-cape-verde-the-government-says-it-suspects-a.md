@@ -1,6 +1,6 @@
 ### [2016-04-26](/news/2016/04/26/index.md)
 
-# Monte Tchota massacre. Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. 
+# Monte Tchota massacre: Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. 
 
 Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a local civilian and two Spanish citizens, the minister of Internal Administration for the archipelago off the African coast said in a statement.
 
@@ -12,10 +12,10 @@ Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a 
 
 ### Related:
 
-1. [ 2015-16 Zika virus epidemic. The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/2015-16-zika-virus-epidemic-the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-o.md) _Context: Cape Verde_
-2. [Monte Tchota massacre. Cape Verdean police capture a suspect in the murder of eight soldiers and three civilians. ](/news/2016/04/27/monte-tchota-massacre-cape-verdean-police-capture-a-suspect-in-the-murder-of-eight-soldiers-and-three-civilians.md) _Context: Monte Tchota massacre_
-3. [Cape Verdean parliamentary election, 2016. Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/cape-verdean-parliamentary-election-2016-voters-in-cape-verde-go-to-the-polls-for-an-election.md) _Context: Cape Verde_
-4. [2015 Atlantic hurricane season. Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _Context: Cape Verde_
+1. [ 2015-16 Zika virus epidemic: The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. ](/news/2016/05/21/2015-16-zika-virus-epidemic-the-world-health-organization-confirms-that-the-zika-virus-strain-spreading-in-cape-verde-is-the-same-as-the-o.md) _Context: Cape Verde_
+2. [Monte Tchota massacre: Cape Verdean police capture a suspect in the murder of eight soldiers and three civilians. ](/news/2016/04/27/monte-tchota-massacre-cape-verdean-police-capture-a-suspect-in-the-murder-of-eight-soldiers-and-three-civilians.md) _Context: Monte Tchota massacre_
+3. [Cape Verdean parliamentary election, 2016: Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/cape-verdean-parliamentary-election-2016-voters-in-cape-verde-go-to-the-polls-for-an-election.md) _Context: Cape Verde_
+4. [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _Context: Cape Verde_
 5. [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md) _Context: Cape Verde_
 6. [The first President of Cape Verde, Aristides Pereira, dies in Portugal at the age of 87. ](/news/2011/09/22/the-first-president-of-cape-verde-aristides-pereira-dies-in-portugal-at-the-age-of-87.md) _Context: Cape Verde_
 7. [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md) _Context: Cape Verde_

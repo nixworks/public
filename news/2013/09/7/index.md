@@ -1,9 +1,9 @@
 ## [2013-09-7](/news/2013/09/7/index.md)
 
-### [Syrian civil war:. Heavy government shelling of rebel positions near the Syrian capital kills 14 rebels and two civilians in the south of Damascus. ](/news/2013/09/7/syrian-civil-war-heavy-government-shelling-of-rebel-positions-near-the-syrian-capital-kills-14-rebels-and-two-civilians-in-the-south-of-da.md)
+### [Syrian civil war:: Heavy government shelling of rebel positions near the Syrian capital kills 14 rebels and two civilians in the south of Damascus. ](/news/2013/09/7/syrian-civil-war-heavy-government-shelling-of-rebel-positions-near-the-syrian-capital-kills-14-rebels-and-two-civilians-in-the-south-of-da.md)
 Heavy government shelling of rebel positions near the Syrian capital killed 16 people on Saturday, activists said.
 
-### [Sinai insurgency:. The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-the-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md)
+### [Sinai insurgency:: The Egyptian army launches a major operation against Islamist militants in North Sinai killing at least 30 people. ](/news/2013/09/7/sinai-insurgency-the-egyptian-army-launches-a-major-operation-against-islamist-militants-in-north-sinai-killing-at-least-30-people.md)
 The Egyptian army mounted a major operation against Islamist militants in North Sinai on Saturday, killing or wounding at least 30 people, security officials said.
 
 ### [A car bomb and suicide bomber kills 15 at a restaurant in Mogadishu, Somalia. Al-Shabaab claims responsibility. ](/news/2013/09/7/a-car-bomb-and-suicide-bomber-kills-15-at-a-restaurant-in-mogadishu-somalia-al-shabaab-claims-responsibility.md)
@@ -15,7 +15,7 @@ _Context: 70th Venice International Film Festival, Golden Lion, Sacro GRA_
 ### [A man is arrested on suspicion of burglary, trespass and criminal damage after scaling a fence to get into Buckingham Palace. ](/news/2013/09/7/a-man-is-arrested-on-suspicion-of-burglary-trespass-and-criminal-damage-after-scaling-a-fence-to-get-into-buckingham-palace.md)
 A man is arrested on suspicion of burglary, trespass and criminal damage after scaling a fence to get into Buckingham Palace, police say.
 
-### [Australian federal election, 2013:. Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-voters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-oppositio.md)
+### [Australian federal election, 2013:: Voters in Australia go to the polls for a federal election with the Liberal-National Coalition Opposition led by Opposition Leader Tony Abbott winning government. ](/news/2013/09/7/australian-federal-election-2013-voters-in-australia-go-to-the-polls-for-a-federal-election-with-the-liberal-national-coalition-oppositio.md)
 Follow all the election day action live from the first votes to the moment the winner is announced.
 
 ### [Former SNP politician Bill Walker resigns as a Member of the Scottish Parliament following conviction for a series of domestic abuse offences. ](/news/2013/09/7/former-snp-politician-bill-walker-resigns-as-a-member-of-the-scottish-parliament-following-conviction-for-a-series-of-domestic-abuse-offence.md)

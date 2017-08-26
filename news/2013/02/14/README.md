@@ -1,9 +1,9 @@
 ## [2013-02-14](/news/2013/02/14/index.md)
 
-### [Bahraini uprising (2011-present):. A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011-present-a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md)
+### [Bahraini uprising (2011-present):: A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/bahraini-uprising-2011-present-a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md)
 Teenager and policeman killed during rallies to mark two years of anti-government protests, activists and officials say.
 
-### [Insurgency in the North Caucasus:. Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dages.md)
+### [Insurgency in the North Caucasus:: Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/insurgency-in-the-north-caucasus-four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dages.md)
 Four police officers have been killed and five others were injured when a vehicle exploded at a road police post in Russia’s Republic of Dagestan. The explosion happened during a routine road inspection.
 
 ### [The eurozone slides into deeper recession, making 2012 the first year with no growth in any quarter since tracking began in 1995. Economic experts, who had not expected this, say that 2013's "early indicators are all pointing upwards". ](/news/2013/02/14/the-eurozone-slides-into-deeper-recession-making-2012-the-first-year-with-no-growth-in-any-quarter-since-tracking-began-in-1995-economic-e.md)
@@ -21,7 +21,7 @@ Warren Buffett and Brazilian financier Jorge Paulo Lemann are teaming up to buy 
 ### [Two people are killed and a third injured following an avalanche in the Scottish Highlands. ](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.md)
 A man and a woman die and a man is critically injured after being caught in an avalanche in the Highlands of Scotland.
 
-### [2013 meat adulteration scandal:. German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md)
+### [2013 meat adulteration scandal:: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md)
 Germany is the latest country to report horsemeat DNA in processed beef, as authorities across the EU are told to conduct tests.
 
 ### [South African amputee sprint runner Oscar Pistorius, who competed in the 2012 Summer Olympics, is charged with the murder of his girlfriend, Reeva Steenkamp, who was shot dead at Pistorius's home in Pretoria. ](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.md)

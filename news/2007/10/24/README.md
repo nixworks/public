@@ -18,7 +18,7 @@ _Context: Blackwater, Blackwater Baghdad shootings, Bureau of Diplomatic Securit
 ### [ The United Kingdom announces a unilateral end to the Common Travel Area with the Republic of Ireland. From 2009, passports will be required for the first time, bringing to an end centuries of unimpeded travel between the two countries. ](/news/2007/10/24/the-united-kingdom-announces-a-unilateral-end-to-the-common-travel-area-with-the-republic-of-ireland-from-2009-passports-will-be-required.md)
 _Context: Britain, Common Travel Area, Ireland_
 
-### [ Turkey-PKK conflict. Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/turkey-pkk-conflict-reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-ear.md)
+### [ Turkey-PKK conflict: Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/turkey-pkk-conflict-reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-ear.md)
 Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kurdish security official said, but Turkey said it wanted to hold back from a major incursion to give diplomacy a chance.
 
 ### [ China launches its first lunar orbiter, Chang'e 1, on an exploration mission to the moon. ](/news/2007/10/24/china-launches-its-first-lunar-orbiter-chang-e-1-on-an-exploration-mission-to-the-moon.md)

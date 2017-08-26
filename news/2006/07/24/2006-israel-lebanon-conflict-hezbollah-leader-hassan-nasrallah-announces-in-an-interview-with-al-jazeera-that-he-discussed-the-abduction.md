@@ -1,6 +1,6 @@
 ### [2006-07-24](/news/2006/07/24/index.md)
 
-#  2006 Israel-Lebanon conflict:. Hezbollah leader Hassan Nasrallah announces in an interview with Al-Jazeera that he discussed the abduction of the two Israeli soldiers with Lebanese political leaders before the attack occurred. 
+#  2006 Israel-Lebanon conflict:: Hezbollah leader Hassan Nasrallah announces in an interview with Al-Jazeera that he discussed the abduction of the two Israeli soldiers with Lebanese political leaders before the attack occurred. 
 
 
 
@@ -15,7 +15,7 @@
 
 ### Related:
 
-1. [Syrian Civil War:. Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _Context: Hassan Nasrallah, Hezbollah_
+1. [Syrian Civil War:: Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _Context: Hassan Nasrallah, Hezbollah_
 2. [Hezbollah leader Hassan Nasrallah confirms that the drone aircraft shot down over Israel's Negev Desert on 6 October belonged to the organization and was supplied by Iran. ](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.md) _Context: Hassan Nasrallah, Hezbollah_
 3. [Hezbollah leader Hassan Nasrallah appears in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange, and announces that Hezbollah are willing to mediate between the Syrian government and the opposition. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-appears-in-his-first-interview-with-the-west-in-six-years-in-the-first-episode-of-a-new-interview-show-t.md) _Context: Hassan Nasrallah, Hezbollah_
 4. [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md) _Context: Hassan Nasrallah, Hezbollah_

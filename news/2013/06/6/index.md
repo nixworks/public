@@ -27,7 +27,7 @@ South Korea uses hotline to counterpropose talks at Panmunjom truce village afte
 ### [The Guardian obtains a copy of a court order signed on April 25 by Judge Roger Vinson of the secret Foreign Intelligence Surveillance Court (FISC). The order permits the FBI, and thereby the Obama administration, to indiscriminately collect phone records of millions of Verizon Communications customers on an "ongoing, daily basis", with all domestic and international calls affected. The permit is similar to one issued to the Bush administration. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-court-order-signed-on-april-25-by-judge-roger-vinson-of-the-secret-foreign-intelligence-surveillance-court.md)
 _Context: Bush Administration, FBI, Obama Administration, Roger Vinson, The Guardian, United States Foreign Intelligence Surveillance Court, Verizon Communications_
 
-### [PRISM (U.S. government surveillance program):. The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md)
+### [PRISM (U.S. government surveillance program):: The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/prism-u-s-government-surveillance-program-the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data.md)
 The National Security Agency and the FBI are siphoning personal data from the main computer servers of nine major U.S. Internet firms, The Washington Post and the London-based Guardian reported Thursday night.
 
 ### [The Obama administration defends its secret surveillance policies. ](/news/2013/06/6/the-obama-administration-defends-its-secret-surveillance-policies.md)
@@ -43,7 +43,7 @@ FRENCH Prime Minister Jean-Marc Ayrault has ordered the &quot;dissolution&quot; 
 New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsquo;s Republican attorney general Jeffrey Chiesa to serve as an interim senator to succeed the late Sen. Frank Lautenberg. Chiesa, a longtime Christie aide and former feder
 
 ### [The President of Brazil, Dilma Rousseff, approves a bill to modernize the infrastructure of all national ports in her country. She vetoes 13 contradictory sections. ](/news/2013/06/6/the-president-of-brazil-dilma-rousseff-approves-a-bill-to-modernize-the-infrastructure-of-all-national-ports-in-her-country-she-vetoes-13.md)
-_Context: Brazil, Brazilian President, Dilma Rousseff, infrastructure, modernize, port_
+_Context: Brazil, Dilma Rousseff, President, infrastructure, modernize, port_
 
 ## [Previous Day...](/news/2013/06/5/index.md)
 

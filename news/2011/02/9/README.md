@@ -9,7 +9,7 @@ At least seven dead and dozens injured as three explosions target security force
 ### [Serial blasts rock Russia's Grozny, at least five people are wounded. ](/news/2011/02/9/serial-blasts-rock-russia-s-grozny-at-least-five-people-are-wounded.md)
 _Context: Grozny, Russia_
 
-### [2011 Egyptian protests:. Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md)
+### [2011 Egyptian protests:: Nationwide protests against President Hosni Mubarak and his regime continue for a sixteenth day. ](/news/2011/02/9/2011-egyptian-protests-nationwide-protests-against-president-hosni-mubarak-and-his-regime-continue-for-a-sixteenth-day.md)
 CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday as massive protests demanding its overthrow spilled out across the country ...
 
 ### ["The Guardian" publishes WikiLeaks cables claiming that Saudi Arabia had exaggerated its crude oil reserves by nearly 40% and will have trouble keeping a cap on oil prices. ](/news/2011/02/9/the-guardian-publishes-wikileaks-cables-claiming-that-saudi-arabia-had-exaggerated-its-crude-oil-reserves-by-nearly-40-and-will-have-trou.md)
@@ -24,7 +24,7 @@ Activision will disband its Guitar Hero business unit and cancel True Crime: Hon
 ### [ConocoPhillips and Marathon Oil announce plans to shut down a liquefied natural gas plant in Kenai, Alaska, United States. ](/news/2011/02/9/conocophillips-and-marathon-oil-announce-plans-to-shut-down-a-liquefied-natural-gas-plant-in-kenai-alaska-united-states.md)
 _Context: Alaska, ConocoPhillips, Kenai, Marathon Oil, liquefied natural gas_
 
-### [Project Merlin. 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md)
+### [Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md)
 A long-awaited agreement with the largest UK banks on lending and bonuses is announced by the government.
 
 ### [A major fire breaks out in Bombay House, a historic building in Mumbai, India, which serves as the headquarters of the Tata Group, resulting in at least three deaths. ](/news/2011/02/9/a-major-fire-breaks-out-in-bombay-house-a-historic-building-in-mumbai-india-which-serves-as-the-headquarters-of-the-tata-group-resulting.md)
@@ -42,7 +42,7 @@ Five people -- including a 4-month-old boy -- have died in Allentown&apos;s mass
 ### [President of France Nicolas Sarkozy calls for an end to government ministers holidaying abroad after it emerges they went to countries such as Egypt and Tunisia while anti-regime protests were underway. The controversy has led to calls for resignations. ](/news/2011/02/9/president-of-france-nicolas-sarkozy-calls-for-an-end-to-government-ministers-holidaying-abroad-after-it-emerges-they-went-to-countries-such.md)
 _Context: Egypt, Nicolas Sarkozy, President of France, Tunisia, anti-regime protests were underway_
 
-### [Korean talks. South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talks-south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sep.md)
+### [Korean talks: South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talks-south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sep.md)
 Military talks aimed at easing tensions between North and South Korea have broken down, officials in Seoul say.
 
 ### [U.S. Homeland Security Secretary Janet Napolitano claims the possibility of terrorism being carried out against the country "has evolved significantly" and, she claims, is "at its most heightened state" since the 9/11 attacks". ](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.md)

@@ -1,9 +1,9 @@
 ## [2012-12-10](/news/2012/12/10/index.md)
 
-### [Syrian civil war:. Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-conti.md)
+### [Syrian civil war:: Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-conti.md)
 Opposition fighters enter Sheikh Suleiman base near city of Aleppo after weeks of fighting, Syrian Observatory says.
 
-### [War in Afghanistan:. Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning.md)
+### [War in Afghanistan:: Mohammad Musa Rasouli, the police chief of Afghanistan's Nimroz Province, is killed by a roadside bomb while returning home from Herat Province. ](/news/2012/12/10/war-in-afghanistan-mohammad-musa-rasouli-the-police-chief-of-afghanistan-s-nimroz-province-is-killed-by-a-roadside-bomb-while-returning.md)
 Afghan police say a roadside bombing has killed the police chief of a southern province.
 
 ### [Google begins selling basic laptop computers for $99, meeting the $100 price point set out as a challenge by a prominent professor at the Massachusetts Institute of Technology (Nicholas Negroponte) eight years ago. ](/news/2012/12/10/google-begins-selling-basic-laptop-computers-for-99-meeting-the-100-price-point-set-out-as-a-challenge-by-a-prominent-professor-at-the-ma.md)

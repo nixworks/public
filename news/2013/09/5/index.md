@@ -1,9 +1,9 @@
 ## [2013-09-5](/news/2013/09/5/index.md)
 
-### [Syrian civil war:. According to Turkey, almost all G20 summit leaders support operations against Syria. ](/news/2013/09/5/syrian-civil-war-according-to-turkey-almost-all-g20-summit-leaders-support-operations-against-syria.md)
+### [Syrian civil war:: According to Turkey, almost all G20 summit leaders support operations against Syria. ](/news/2013/09/5/syrian-civil-war-according-to-turkey-almost-all-g20-summit-leaders-support-operations-against-syria.md)
 Turkish Prime Minister Tayyip Erdogan said on Friday almost all leaders at the G20 summit accepted the need for intervention in Syria and repeated that a small coalition could be formed for a joint operation even outside the auspices of the U.N.
 
-### [Political violence in Egypt (July 2013-present):. Egyptian interior minister Mohamed Ibrahim Moustafa survives an assassination attempt as his convoy traveled through the Nasr City district in Cairo. ](/news/2013/09/5/political-violence-in-egypt-july-2013-present-egyptian-interior-minister-mohamed-ibrahim-moustafa-survives-an-assassination-attempt-as.md)
+### [Political violence in Egypt (July 2013-present):: Egyptian interior minister Mohamed Ibrahim Moustafa survives an assassination attempt as his convoy traveled through the Nasr City district in Cairo. ](/news/2013/09/5/political-violence-in-egypt-july-2013-present-egyptian-interior-minister-mohamed-ibrahim-moustafa-survives-an-assassination-attempt-as.md)
 Mohammed Ibrahim, who is charge of the country&#x27;s police force, targeted as his convoy travelled through Nasr City in Cairo
 
 ### [Bengali writer and Social Worker Sushmita Banerjee, whose book about her escape from Taliban-ruled Afghanistan was made into the Bollywood movie "Escape from Taliban", is shot by suspected Taliban militants. ](/news/2013/09/5/bengali-writer-and-social-worker-sushmita-banerjee-whose-book-about-her-escape-from-taliban-ruled-afghanistan-was-made-into-the-bollywood-m.md)

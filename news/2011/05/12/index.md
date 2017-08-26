@@ -6,7 +6,7 @@ _Context: 2011 Syrian uprising, Aleppo, Syria_
 ### [Two anti-government protesters are killed by Yemeni security forces. ](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.md)
 _Context: 2011 Yemeni protests, Yemen_
 
-### [2011 Libyan civil war:. Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md)
+### [2011 Libyan civil war:: Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/2011-libyan-civil-war-libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi_
 
 ### [Nigerian soldiers raid suspected militant camps in the Niger Delta in a new offensive. ](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.md)

@@ -1,9 +1,9 @@
 ## [2011-05-5](/news/2011/05/5/index.md)
 
-### [2011 Libyan civil war. Members of the multi-state coalition conducting the military campaign in Libya hold talks in Rome, Italy, and agree to set up a new fund to aid Libyan rebels, with US Secretary of State Hillary Clinton promising to use frozen assets of Muammar Gaddafi's regime. ](/news/2011/05/5/2011-libyan-civil-war-members-of-the-multi-state-coalition-conducting-the-military-campaign-in-libya-hold-talks-in-rome-italy-and-agree-t.md)
+### [2011 Libyan civil war: Members of the multi-state coalition conducting the military campaign in Libya hold talks in Rome, Italy, and agree to set up a new fund to aid Libyan rebels, with US Secretary of State Hillary Clinton promising to use frozen assets of Muammar Gaddafi's regime. ](/news/2011/05/5/2011-libyan-civil-war-members-of-the-multi-state-coalition-conducting-the-military-campaign-in-libya-hold-talks-in-rome-italy-and-agree-t.md)
 The Obama administration intends to use some of the billions of dollars in frozen assets belonging to Libyan leader Moammar Gaddafi and his government to provide humanitarian and other assistance to Libyans affected by the ongoing civil war.
 
-### [2011 Syrian protests:. Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md)
+### [2011 Syrian protests:: Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/2011-syrian-protests-dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md)
 Syrian troops storm a Damascus suburb as part of a wider crackdown on protests against the rule of President Bashar al-Assad.
 
 ### [A car bomb explodes in the southern Iraqi city of Hilla, killing at least 21 police officers and injuring 65; in northern Iraq and in Baghdad, four people are killed in other attacks. ](/news/2011/05/5/a-car-bomb-explodes-in-the-southern-iraqi-city-of-hilla-killing-at-least-21-police-officers-and-injuring-65-in-northern-iraq-and-in-baghda.md)
@@ -63,11 +63,11 @@ _Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silv
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
 _Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_
 
-### [British elections. Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/british-elections-voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for.md)
+### [British elections: Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/british-elections-voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for.md)
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
-_Context: Barack Obama, Ground Zero, New York City, September 11 attacks, father's killing, president_
+_Context: Barack Obama, Ground Zero, New York City, President, September 11 attacks, father's killing_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
 _Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_

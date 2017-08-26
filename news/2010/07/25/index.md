@@ -9,7 +9,7 @@ Al-Qaeda in the Islamic Maghreb says it has killed a French hostage being held i
 ### [There are reports that an airstrike on a village in Helmand Province has killed 45 civilians, including children, who were sheltering from violence. ](/news/2010/07/25/there-are-reports-that-an-airstrike-on-a-village-in-helmand-province-has-killed-45-civilians-including-children-who-were-sheltering-from-v.md)
 _Context: Helmand Province_
 
-### [Love Parade stampede:. Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md)
+### [Love Parade stampede:: Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/love-parade-stampede-survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md)
 Survivors of a stampede at a dance music festival in Germany, in which 19 people were killed, blame organisers for the deaths.
 
 ### [It is revealed that BP chief executive Tony Hayward is negotiating his terms of exit after being negatively criticised by politicians in the United States over his handling of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/25/it-is-revealed-that-bp-chief-executive-tony-hayward-is-negotiating-his-terms-of-exit-after-being-negatively-criticised-by-politicians-in-the.md)
@@ -24,7 +24,7 @@ _Context: Carne Ross, Iraq Inquiry_
 ### [Burmese military ruler General Than Shwe begins a five-day visit to India. ](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.md)
 _Context: Burma, India, Than Shwe_
 
-### [African Union summit:. At the African Union summit in Kampala, attended by 53 countries, its president, the President of Malawi Bingu wa Mutharika, states International Criminal Court indictments against the Sudanese president undermine African peace and security and calls for the issue to be solved in a different way. ](/news/2010/07/25/african-union-summit-at-the-african-union-summit-in-kampala-attended-by-53-countries-its-president-the-president-of-malawi-bingu-wa-mut.md)
+### [African Union summit:: At the African Union summit in Kampala, attended by 53 countries, its president, the President of Malawi Bingu wa Mutharika, states International Criminal Court indictments against the Sudanese president undermine African peace and security and calls for the issue to be solved in a different way. ](/news/2010/07/25/african-union-summit-at-the-african-union-summit-in-kampala-attended-by-53-countries-its-president-the-president-of-malawi-bingu-wa-mut.md)
 AU leaders also pledge to beef up an African force fighting al-Shabaab group in Somalia.
 
 ### [Former President of Cuba Fidel Castro visits a mausoleum in Artemisa, his first reported appearance outside Havana since leaving office in 2006. ](/news/2010/07/25/former-president-of-cuba-fidel-castro-visits-a-mausoleum-in-artemisa-his-first-reported-appearance-outside-havana-since-leaving-office-in-2.md)

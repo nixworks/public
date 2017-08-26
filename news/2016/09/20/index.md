@@ -6,7 +6,7 @@ _Context: Democratic Republic of the Congo, Joseph Kabila, Kinshasa, President, 
 ### [Citing irreconcilable differences, Angelina Jolie files for divorce from Brad Pitt and seeks full custody of their six children. The couple married in 2014 and had been in a relationship since 2005. ](/news/2016/09/20/citing-irreconcilable-differences-angelina-jolie-files-for-divorce-from-brad-pitt-and-seeks-full-custody-of-their-six-children-the-couple.md)
 _Context: Angelina Jolie, Brad Pitt_
 
-### [2016 Pacific typhoon season. Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. ](/news/2016/09/20/2016-pacific-typhoon-season-typhoon-malakas-makes-landfall-on-the-southern-japanese-island-of-kyushu-dumping-heavy-rain-and-causing-flight.md)
+### [2016 Pacific typhoon season: Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. ](/news/2016/09/20/2016-pacific-typhoon-season-typhoon-malakas-makes-landfall-on-the-southern-japanese-island-of-kyushu-dumping-heavy-rain-and-causing-flight.md)
 _Context: 2016 Pacific typhoon season, Japan, Kyushu_
 
 ### [An Mi-8 transport helicopter crashes near the eastern Libyan city of Tobruk, killing at least six people. ](/news/2016/09/20/an-mi-8-transport-helicopter-crashes-near-the-eastern-libyan-city-of-tobruk-killing-at-least-six-people.md)
@@ -15,14 +15,14 @@ Libyan medics say a helicopter crashed near the eastern city where the internati
 ### [A United States Air Force U-2 reconnaissance aircraft crashes in Northern California, shortly after takeoff from Beale Air Force Base, killing one pilot and injuring another. ](/news/2016/09/20/a-united-states-air-force-u-2-reconnaissance-aircraft-crashes-in-northern-california-shortly-after-takeoff-from-beale-air-force-base-killi.md)
 Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just north of Sacramento, according to the U.S. Air Force.
 
-### [2015-16 Zika virus epidemic. Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md)
+### [2015-16 Zika virus epidemic: Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/2015-16-zika-virus-epidemic-authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and.md)
 _Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Manila, Philippines, Visayas, Zika virus_
 
-### [Accession of Bosnia and Herzegovina to the European Union. The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/accession-of-bosnia-and-herzegovina-to-the-european-union-the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-me.md)
+### [Accession of Bosnia and Herzegovina to the European Union: The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/accession-of-bosnia-and-herzegovina-to-the-european-union-the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-me.md)
 EU members states have accepted Bosnia&#39;s membership application, starting a long process to decide on its candidacy. Bosnia&#39;s membership process is particularly complicated given the country&#39;s governance structure.
 
 ### [In his final speech as President of the United States to the United Nations General Assembly, Barack Obama calls for a renewed commitment to collaborative efforts in facing many of the challenges confronting -an integrated world- community. ](/news/2016/09/20/in-his-final-speech-as-president-of-the-united-states-to-the-united-nations-general-assembly-barack-obama-calls-for-a-renewed-commitment-to.md)
-_Context: Barack Obama, United Nations General Assembly, president_
+_Context: Barack Obama, President, United Nations General Assembly_
 
 ### [A court sentences five members of the Cuba men's national volleyball team to prison for a gang rape of a Finnish woman that took place in Tampere, Finland, in July 2016 during the FIVB Volleyball World League. ](/news/2016/09/20/a-court-sentences-five-members-of-the-cuba-men-s-national-volleyball-team-to-prison-for-a-gang-rape-of-a-finnish-woman-that-took-place-in-ta.md)
 _Context: Cuba men's national volleyball team, FIVB Volleyball World League, Finland, Tampere, five members_

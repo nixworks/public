@@ -1,6 +1,6 @@
 ## [2016-12-31](/news/2016/12/31/index.md)
 
-### [Iraqi Civil War (2014-present). December 2016 Baghdad bombings. A pair of bomb blasts targeting a market in central Baghdad kills at least 27 people and injures over 50. ](/news/2016/12/31/iraqi-civil-war-2014-present-december-2016-baghdad-bombings-a-pair-of-bomb-blasts-targeting-a-market-in-central-baghdad-kills-at-least.md)
+### [Iraqi Civil War (2014-present): December 2016 Baghdad bombings: A pair of bomb blasts targeting a market in central Baghdad kills at least 27 people and injures over 50. ](/news/2016/12/31/iraqi-civil-war-2014-present-december-2016-baghdad-bombings-a-pair-of-bomb-blasts-targeting-a-market-in-central-baghdad-kills-at-least.md)
 Two suicide bombers ripped through a busy market area in central Baghdad Saturday, shattering a relative lull in attacks in the capital and dampening preparations for New Year celebrations.
 
 ### [China, with their largest television network China Central Television, announces a new launch of a global media platform extending globally and renaming the network China Global Television Network. ](/news/2016/12/31/china-with-their-largest-television-network-china-central-television-announces-a-new-launch-of-a-global-media-platform-extending-globally.md)

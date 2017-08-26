@@ -19,7 +19,7 @@ Female suicide bomber kills at least four people in western province of Anbar.
 _Context: Gaza Strip, Hamas, Mahmoud al-Zahar_
 
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
-_Context: Africa, Brazilian President, Lula_
+_Context: Africa, Lula, President_
 
 ### [David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. ](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.md)
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.
@@ -30,10 +30,10 @@ _Context: CIA, Iran, Shahram Amiri, Switzerland, Tehran, United States_
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
 _Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, United States, competitive eating_
 
-### [Polish presidential election, 2010. Polish voters head to the polls for the second round of presidential voting.. Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-presidential-election-2010-polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initial.md)
+### [Polish presidential election, 2010: Polish voters head to the polls for the second round of presidential voting.: Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-presidential-election-2010-polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initial.md)
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.
 
-### [Mexican gubernatorial elections, 2010. Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/mexican-gubernatorial-elections-2010-voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md)
+### [Mexican gubernatorial elections, 2010: Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/mexican-gubernatorial-elections-2010-voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md)
 Opposition party set to gain from frustration over drug violence and weak economy.
 
 ### [In a referendum, voters in the German state of Bavaria vote to ban smoking at all pubs and restaurants. ](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.md)

@@ -1,6 +1,6 @@
 ### [2015-01-18](/news/2015/01/18/index.md)
 
-# Libyan Civil War (2014&ndash;present). State-sponsored army and Islamist-sponsored opposition declare a ceasefire. 
+# Libyan Civil War (2014&ndash;present): State-sponsored army and Islamist-sponsored opposition declare a ceasefire. 
 
 
 

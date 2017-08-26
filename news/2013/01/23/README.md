@@ -1,9 +1,9 @@
 ## [2013-01-23](/news/2013/01/23/index.md)
 
-### [Iraqi insurgency:. A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md)
+### [Iraqi insurgency:: A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. ](/news/2013/01/23/iraqi-insurgency-a-suicide-bombing-at-a-mosque-in-the-iraqi-town-of-tuz-khormato-kills-at-least-23-people.md)
 At least 23 people are killed by a suicide bomber targeting a funeral being held at a Shia mosque in the Iraqi village of Tuz Khurmato, police say.
 
-### [Nigerian Sharia conflict:. Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md)
+### [Nigerian Sharia conflict:: Gunmen from the Islamist extremist group Boko Haram open fire at a market in Damboa, Nigeria, killing 18 people. ](/news/2013/01/23/nigerian-sharia-conflict-gunmen-from-the-islamist-extremist-group-boko-haram-open-fire-at-a-market-in-damboa-nigeria-killing-18-people.md)
 Five people were hacked to death on Wednesday in Maiduguri in northeastern Nigeria, police said, the latest attack in the stronghold of Islamist sect Boko Haram.
 
 ### [The 2013 World Economic Forum begins in Davos, Switzerland. ](/news/2013/01/23/the-2013-world-economic-forum-begins-in-davos-switzerland.md)

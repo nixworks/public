@@ -6,13 +6,13 @@ _Context: Chicago, Chicago Tribune_
 ### [Graeme McDowell of Northern Ireland wins the 2010 U.S. Open at Pebble Beach Golf Links in California. ](/news/2010/06/20/graeme-mcdowell-of-northern-ireland-wins-the-2010-u-s-open-at-pebble-beach-golf-links-in-california.md)
 _Context: 2010 U.S. Open, California, Graeme McDowell, Northern Ireland, Pebble Beach Golf Links_
 
-### [Israeli-Palestinian conflict:. Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeli-palestinian-conflict-israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuat.md)
+### [Israeli-Palestinian conflict:: Israel says it will move to loosen its land blockade against the Gaza Strip, while indicating the continuation of its naval blockade against the region. ](/news/2010/06/20/israeli-palestinian-conflict-israel-says-it-will-move-to-loosen-its-land-blockade-against-the-gaza-strip-while-indicating-the-continuat.md)
 Germany sharply criticized Israel on Sunday for denying its development minister entry to the Gaza Strip to visit a humanitarian project co-funded by Berlin.
 
 ### [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md)
 _Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Polish, Polish presidential election, 2010, President, the death_
 
-### [Colombian presidential election, 2010:. In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u.md)
+### [Colombian presidential election, 2010:: In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-in-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u.md)
 _Context: Antanas Mockus, Colombian presidential election, Green Party, Juan Manuel Santos, Party of the U_
 
 ### [Jundallah's leader Abdolmalek Rigi is executed in Tehran. ](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.md)
@@ -36,7 +36,7 @@ A plane carrying several Australian mining executives goes missing on a flight b
 ### [Celia becomes the first hurricane of the 2010 Pacific hurricane season. ](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.md)
 _Context: 2010 Pacific hurricane season, hurricane_
 
-### [2010 FIFA World Cup. The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/2010-fifa-world-cup-the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football.md)
+### [2010 FIFA World Cup: The managing director of the French Football Federation, Jean-Louis Valentin, quits after the France national football team participates in a public row with him and then a boycott during the 2010 FIFA World Cup in South Africa. ](/news/2010/06/20/2010-fifa-world-cup-the-managing-director-of-the-french-football-federation-jean-louis-valentin-quits-after-the-france-national-football.md)
 Nigeria midfielder Sani Kaita has revealed he received death threats via e-mail after his sending-off in the 2-1 Group B defeat to Greece.
 
 ### [South Sudan's 7ft 7in basketball legend and humanitarian, Manute Bol, dies. ](/news/2010/06/20/south-sudan-s-7ft-7in-basketball-legend-and-humanitarian-manute-bol-dies.md)

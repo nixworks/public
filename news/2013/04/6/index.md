@@ -1,15 +1,15 @@
 ## [2013-04-6](/news/2013/04/6/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):. At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/iraqi-insurgency-post-u-s-withdrawal-at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself.md)
 A suicide bomber killed 22 people and wounded 60 in a crowded election campaign tent in the Iraqi city of Baquba on Saturday, police and medics said.
 
-### [Nigerian Sharia conflict:. 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)
+### [Nigerian Sharia conflict:: 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. ](/news/2013/04/6/nigerian-sharia-conflict-11-people-are-killed-in-a-gun-and-machete-attack-in-a-village-of-midlu-in-northern-nigeria.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [War in Afghanistan (2001-present):. A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/war-in-afghanistan-2001-present-a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civ.md)
+### [War in Afghanistan (2001-present):: A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/war-in-afghanistan-2001-present-a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civ.md)
 _Context: Afghanistan's, Qalat, U.S., War in Afghanistan (2001-present), Zabul province_
 
-### [Northern Mali conflict:. Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-a.md)
+### [Northern Mali conflict:: Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-a.md)
 A Mali government spokesman says clashes between national soldiers and armed police have killed one soldier and injured a policeman.
 
 ### [Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. ](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.md)

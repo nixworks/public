@@ -1,33 +1,33 @@
 ## [2015-09-26](/news/2015/09/26/index.md)
 
-### [Saudi Arabian-led intervention in Yemen. Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/saudi-arabian-led-intervention-in-yemen-two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-f.md)
+### [Saudi Arabian-led intervention in Yemen: Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/saudi-arabian-led-intervention-in-yemen-two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-f.md)
 _Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
-### [Nagorno-Karabakh conflict. At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/nagorno-karabakh-conflict-at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-y.md)
+### [Nagorno-Karabakh conflict: At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/nagorno-karabakh-conflict-at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-y.md)
 _Context: Armenia, Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 
 ### [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md)
 Libyan militia leader and alleged human smuggler reportedly killed by Italian special forces but relatives claim he is still alive and has nothing to do with smuggling
 
-### [Turkey-PKK conflict. Fighting in the south-eastern Sirnak Province kills thirty-four PKK militants, four civilians, and two Turkish soldiers. Also, the Turkish military conducts airstrikes on PKK camps in Iraq's northern Dohuk Governorate. ](/news/2015/09/26/turkey-pkk-conflict-fighting-in-the-south-eastern-aa-rnak-province-kills-thirty-four-pkk-militants-four-civilians-and-two-turkish-sold.md)
+### [Turkey-PKK conflict: Fighting in the south-eastern Sirnak Province kills thirty-four PKK militants, four civilians, and two Turkish soldiers. Also, the Turkish military conducts airstrikes on PKK camps in Iraq's northern Dohuk Governorate. ](/news/2015/09/26/turkey-pkk-conflict-fighting-in-the-south-eastern-aa-rnak-province-kills-thirty-four-pkk-militants-four-civilians-and-two-turkish-sold.md)
 Kurdish rebels, civilians and soldiers killed after PKK launches attacks on security forces, authorities say.
 
-### [Iraqi Civil War (2014-present). Iraq says that Iran, Russia and Syria are assisting it in its fight with the Islamic State in Iraq and the Levant. ](/news/2015/09/26/iraqi-civil-war-2014-present-iraq-says-that-iran-russia-and-syria-are-assisting-it-in-its-fight-with-the-islamic-state-in-iraq-and-the.md)
+### [Iraqi Civil War (2014-present): Iraq says that Iran, Russia and Syria are assisting it in its fight with the Islamic State in Iraq and the Levant. ](/news/2015/09/26/iraqi-civil-war-2014-present-iraq-says-that-iran-russia-and-syria-are-assisting-it-in-its-fight-with-the-islamic-state-in-iraq-and-the.md)
 Iraq said on Saturday that its military officials were engaged in intelligence and security cooperation in Baghdad with Russia, Iran and Syria to counter the threat from the Islamic State militant group, a pact that could raise concerns in Washington.
 
-### [Volkswagen emissions violations. Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/volkswagen-emissions-violations-porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md)
+### [Volkswagen emissions violations: Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/volkswagen-emissions-violations-porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md)
 Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as the new head of the Volkswagen AG unit that makes the 911 sports car, according to a person familiar with the matter.
 
-### [2015 Pacific hurricane season. Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/2015-pacific-hurricane-season-tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-isl.md)
+### [2015 Pacific hurricane season: Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/2015-pacific-hurricane-season-tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-isl.md)
 _Context: 2015 Pacific hurricane season, Hawaiian islands, island of Hawaii_
 
 ### [A fire severely damages the Baitul Futuh Mosque, London, United Kingdom. ](/news/2015/09/26/a-fire-severely-damages-the-baitul-futuh-mosque-london-united-kingdom.md)
 A fire breaks out at a mosque complex in south London - which describes itself as the largest mosque in western Europe.
 
-### [2015 Hajj stampede. The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/2015-hajj-stampede-the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md)
+### [2015 Hajj stampede: The death toll from the stampede near Mecca rises to 769, with 934 injuries. ](/news/2015/09/26/2015-hajj-stampede-the-death-toll-from-the-stampede-near-mecca-rises-to-769-with-934-injuries.md)
 The death toll following a crush at the annual Hajj pilgrimage in Saudi Arabia has risen to 769. 
 
-### [Russia-Estonia relations. Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-estonia-relations-russia-and-estonia-exchange-two-convicted-spies.md)
+### [Russia-Estonia relations: Russia and Estonia exchange two convicted spies. ](/news/2015/09/26/russia-estonia-relations-russia-and-estonia-exchange-two-convicted-spies.md)
 Russia and Estonia exchange two men convicted of spying over a bridge separating the countries.
 
 ### [Ahmad al-Faqi is transferred to the International Criminal Court to face trial for the war crime of directing the destruction of cultural sites in Timbuktu, Mali when the city was under the control of Islamist groups in 2012. ](/news/2015/09/26/ahmad-al-faqi-is-transferred-to-the-international-criminal-court-to-face-trial-for-the-war-crime-of-directing-the-destruction-of-cultural-si.md)

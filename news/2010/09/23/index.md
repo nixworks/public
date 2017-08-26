@@ -1,6 +1,6 @@
 ## [2010-09-23](/news/2010/09/23/index.md)
 
-### [War in Somalia:. Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md)
+### [War in Somalia:: Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md)
 Somali journalists refuse to obey the editorial orders of an Islamist group which seized their radio station, amid heavy fighting in the capital, Mogadishu.
 
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
@@ -34,7 +34,7 @@ _Context: International Atomic Energy Agency, Iran_
 _Context: 9/11 attacks, Australia, Belgium, Britain, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, United Nations General Assembly, United States, Uruguay_
 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: Barack Obama, Premier of the People's Republic of China, Wen Jiabao, president, yuan_
+_Context: Barack Obama, Premier of the People's Republic of China, President, Wen Jiabao, yuan_
 
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
 China is investigating four Japanese who allegedly entered and filmed a Chinese military area, Chinese state media report.

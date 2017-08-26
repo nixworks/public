@@ -6,7 +6,7 @@ _Context: Bangladesh, Ilyas Ali_
 ### [Iran's oil ministry and its National Iranian Oil Company suffers a malware attack by a computer virus. ](/news/2012/04/23/iran-s-oil-ministry-and-its-national-iranian-oil-company-suffers-a-malware-attack-by-a-computer-virus.md)
 Iran has been forced to disconnect key oil facilities after suffering a malware attack on Sunday, say reports.
 
-### [Arab Spring:. Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-bahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-str.md)
+### [Arab Spring:: Bahraini uprising: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker Abdulhadi al-Khawaja and 20 other democracy activists. ](/news/2012/04/23/arab-spring-bahraini-uprising-bahrain-s-highest-appeals-court-postpones-for-a-week-the-final-verdict-in-the-case-of-imprisoned-hunger-str.md)
 Shells and gunfire from Syrian security forces have killed 33 people in the city of Hama, activists say, as the EU imposes a new round of sanctions.
 
 ### [A festival of William Shakespeare's 37 plays performed polyglotically, from Swahili to sign language, begins as part of the World Shakespeare Festival on the anniversary of the Bard of Avon's birth. ](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.md)
@@ -36,7 +36,7 @@ Former Icelandic PM Geir Haarde is cleared of the main charge of negligence over
 ### [The sister of MI6 officer Gareth Williams, found dead in his flat, tells his inquest that he had been a "scrupulous risk-assessor" and only let "vetted" people into his home. ](/news/2012/04/23/the-sister-of-mi6-officer-gareth-williams-found-dead-in-his-flat-tells-his-inquest-that-he-had-been-a-scrupulous-risk-assessor-and-only.md)
 The sister of an MI6 officer - whose body was found in a padlocked bag - tells the inquest into his death her brother only allowed &quot;vetted&quot; people into his home.
 
-### [Sky News email hacking:. The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sk.md)
+### [Sky News email hacking:: The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/sky-news-email-hacking-the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sk.md)
 Ofcom launches an investigation into email hacking by Sky News after the broadcaster admitted accessing the private accounts of &quot;canoe man&quot; John Darwin and his wife.
 
 ### [Officials in Florida refuse to allow Bill Lee, the police chief who did not arrest George Zimmerman after he shot and killed unarmed black teenager Trayvon Martin, to resign. George Zimmerman, now facing a murder charge, is released on bail and taken to a secret location. ](/news/2012/04/23/officials-in-florida-refuse-to-allow-bill-lee-the-police-chief-who-did-not-arrest-george-zimmerman-after-he-shot-and-killed-unarmed-black-t.md)

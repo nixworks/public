@@ -1,6 +1,6 @@
 ### [2014-10-9](/news/2014/10/9/index.md)
 
-# 2014 Nobel Prize in Literature. The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. 
+# 2014 Nobel Prize in Literature: The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. 
 
 Patrick Modiano, author of Lacombe Lucien, wins the The Swedish Academy award for the Nobel Prize in literature 2014
 

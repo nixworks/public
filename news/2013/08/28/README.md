@@ -1,9 +1,9 @@
 ## [2013-08-28](/news/2013/08/28/index.md)
 
-### [Syrian civil war:. Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-moscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-alleg.md)
+### [Syrian civil war:: Moscow evacuates nationals; Iran dismisses "ridiculous" reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack. ](/news/2013/08/28/syrian-civil-war-moscow-evacuates-nationals-iran-dismisses-ridiculous-reports-of-assad-in-tehran-un-inspectors-return-to-site-of-alleg.md)
 Moscow evacuates nationals; Iran dismisses &#8216;ridiculous&#8217; reports of Assad in Tehran; UN inspectors return to site of alleged chemical attack
 
-### [Iraqi insurgency (post-U.S. withdrawal):. At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md)
+### [Iraqi insurgency (post-U.S. withdrawal):: At least 51 people are killed and dozens wounded in a series of bombings and attacks in and around Baghdad. ](/news/2013/08/28/iraqi-insurgency-post-u-s-withdrawal-at-least-51-people-are-killed-and-dozens-wounded-in-a-series-of-bombings-and-attacks-in-and-around.md)
 Coordinated bombings rip through mostly Shiite neighbourhoods in the Baghdad area during rush hour.
 
 ### [The eastern span of the San Francisco Bay Bridge closes forever as construction crews finish the replacement. The new span is scheduled to open Tuesday. ](/news/2013/08/28/the-eastern-span-of-the-san-francisco-bay-bridge-closes-forever-as-construction-crews-finish-the-replacement-the-new-span-is-scheduled-to-o.md)

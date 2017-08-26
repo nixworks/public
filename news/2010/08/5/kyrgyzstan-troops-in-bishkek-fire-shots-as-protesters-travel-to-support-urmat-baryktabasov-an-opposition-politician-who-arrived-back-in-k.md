@@ -1,6 +1,6 @@
 ### [2010-08-5](/news/2010/08/5/index.md)
 
-# Kyrgyzstan:. Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. 
+# Kyrgyzstan:: Troops in Bishkek fire shots as protesters travel to support Urmat Baryktabasov, an opposition politician who arrived back in Kyrgyzstan from overseas. 
 
 Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting an opposition politician recently returned from overseas.
 
@@ -21,6 +21,6 @@ Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting
 5. [ Protestors gather in Bishkek, Kyrgyzstan, to call for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.md) _Context: Bishkek, Kyrgyzstan_
 6. [ Missing United States Air Force officer Major Jill Metzger who disappeared in Bishkek, Kyrgyzstan earlier this week is found in good health. Metzger says she was kidnapped by three men and a woman. ](/news/2006/09/8/missing-united-states-air-force-officer-major-jill-metzger-who-disappeared-in-bishkek-kyrgyzstan-earlier-this-week-is-found-in-good-health.md) _Context: Bishkek, Kyrgyzstan_
 7. [ In Kyrgyzstan, hundreds of protesters seize a government building in the capital of Bishkek. They support presidential candidate Urmat Baryaktadasov, who was denied registration because the government says he is also a citizen of Kazakhstan. Police later seized the building. ](/news/2005/06/17/in-kyrgyzstan-hundreds-of-protesters-seize-a-government-building-in-the-capital-of-bishkek-they-support-presidential-candidate-urmat-bary.md) _Context: Bishkek, Kyrgyzstan_
-8. [ Tulip Revolution in Kyrgyzstan:. Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted President Askar Akayev remains defiant. [http://www.alertnet.org/thenews/newsdesk/L25245723.htm (Reuters)]. Looters ransack the capital city of Bishkek following the protests. ](/news/2005/03/25/tulip-revolution-in-kyrgyzstan-kyrgyz-opposition-leader-kurmanbek-bakiyev-is-named-interim-president-of-kyrgyzstan-while-ousted-presiden.md) _Context: Bishkek, Kyrgyzstan_
+8. [ Tulip Revolution in Kyrgyzstan:: Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted President Askar Akayev remains defiant. [http://www.alertnet.org/thenews/newsdesk/L25245723.htm (Reuters)]: Looters ransack the capital city of Bishkek following the protests. ](/news/2005/03/25/tulip-revolution-in-kyrgyzstan-kyrgyz-opposition-leader-kurmanbek-bakiyev-is-named-interim-president-of-kyrgyzstan-while-ousted-presiden.md) _Context: Bishkek, Kyrgyzstan_
 9. [ In Kyrgyzstan, protesters and riot police clash in the capital, Bishkek. ](/news/2005/03/24/in-kyrgyzstan-protesters-and-riot-police-clash-in-the-capital-bishkek.md) _Context: Bishkek, Kyrgyzstan_
 10. [ In Kyrgyzstan, riot police break up a protest in the capital Bishkek. ](/news/2005/03/23/in-kyrgyzstan-riot-police-break-up-a-protest-in-the-capital-bishkek.md) _Context: Bishkek, Kyrgyzstan_

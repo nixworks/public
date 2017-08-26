@@ -1,6 +1,6 @@
 ### [2010-02-22](/news/2010/02/22/index.md)
 
-# Falkland Islands sovereignty dispute:. Desire Petroleum, a British-listed firm, begins drilling for oil at an offshore platform within the territory of the Falkland Islands, amid mounting criticism from Argentina and Venezuela. 
+# Falkland Islands sovereignty dispute:: Desire Petroleum, a British-listed firm, begins drilling for oil at an offshore platform within the territory of the Falkland Islands, amid mounting criticism from Argentina and Venezuela. 
 
 President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand Venezuelan leader demanded Britain return the Falkland Islands to Argentina.
 
@@ -13,7 +13,7 @@ President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand
 
 ### Related:
 
-1. [Falkland Islands sovereignty dispute. A United Nations commission rules in favour of Argentina to expand its maritime territory in the South Atlantic Ocean by 35% to include the Falkland Islands and beyond despite Argentina and the United Kingdom still having an unresolved dispute over the islands. ](/news/2016/03/29/falkland-islands-sovereignty-dispute-a-united-nations-commission-rules-in-favour-of-argentina-to-expand-its-maritime-territory-in-the-south.md) _Context: Argentina, Britain, Falkland Islands, Falkland Islands sovereignty dispute_
+1. [Falkland Islands sovereignty dispute: A United Nations commission rules in favour of Argentina to expand its maritime territory in the South Atlantic Ocean by 35% to include the Falkland Islands and beyond despite Argentina and the United Kingdom still having an unresolved dispute over the islands. ](/news/2016/03/29/falkland-islands-sovereignty-dispute-a-united-nations-commission-rules-in-favour-of-argentina-to-expand-its-maritime-territory-in-the-south.md) _Context: Argentina, Britain, Falkland Islands, Falkland Islands sovereignty dispute_
 2. [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md) _Context: Argentina, Britain, Falkland Islands sovereignty dispute_
 3. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md) _Context: Argentina, Falkland Islands, Falkland Islands sovereignty dispute_
 4. [Cristina Fernandez de Kirchner, the President of Argentina, states that Argentina will lodge a complaint with the United Nations Security Council and the United Nations General Assembly about the alleged "militarisation" of the area around the Falkland Islands by the United Kingdom. ](/news/2012/02/7/cristina-ferna-ndez-de-kirchner-the-president-of-argentina-states-that-argentina-will-lodge-a-complaint-with-the-united-nations-security-c.md) _Context: Argentina, Britain, Falkland Islands_

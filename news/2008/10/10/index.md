@@ -25,7 +25,7 @@ _Context: Ethiopia, Oxfam_
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
 _Context: France, Germany, Italian, NATO_
 
-### [ Nobel Prize:. The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/nobel-prize-the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-internation.md)
+### [ Nobel Prize:: The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/nobel-prize-the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-internation.md)
 _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize, Nobel Prize, UN_
 
 ### [ Former Russian cross country ski champion Alexey Prokurorov dies after he is hit by a car while crossing a road in Vladimir.](/news/2008/10/10/former-russian-cross-country-ski-champion-alexey-prokurorov-dies-after-he-is-hit-by-a-car-while-crossing-a-road-in-vladimir.md)
@@ -37,7 +37,7 @@ _Context: Chile, Ernesto "Tito" Beltran, Sweden, appeals court, nanny, opera, te
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
 _Context: North Korea, Washington, D.C., state sponsor of terrorism_
 
-### [ Global financial crisis of September-October 2008:. European markets fall steeply upon opening. ](/news/2008/10/10/global-financial-crisis-of-september-october-2008-european-markets-fall-steeply-upon-opening.md)
+### [ Global financial crisis of September-October 2008:: European markets fall steeply upon opening. ](/news/2008/10/10/global-financial-crisis-of-september-october-2008-european-markets-fall-steeply-upon-opening.md)
 _Context: Global financial crisis of September-October 2008_
 
 ### [ Leaders of the anti-government protests in Thailand surrender to thepolice. ](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thailand-surrender-to-thepolice.md)

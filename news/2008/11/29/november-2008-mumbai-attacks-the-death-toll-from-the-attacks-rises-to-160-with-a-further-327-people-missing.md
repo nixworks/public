@@ -1,6 +1,6 @@
 ### [2008-11-29](/news/2008/11/29/index.md)
 
-#  November 2008 Mumbai attacks:. The death toll from the attacks rises to 160 with a further 327 people missing. 
+#  November 2008 Mumbai attacks:: The death toll from the attacks rises to 160 with a further 327 people missing. 
 
 
 

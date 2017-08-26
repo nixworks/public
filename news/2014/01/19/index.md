@@ -1,15 +1,15 @@
 ## [2014-01-19](/news/2014/01/19/index.md)
 
-### [War in North-West Pakistan:. A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-a-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md)
+### [War in North-West Pakistan:: A bomb attack on an army convoy in the city of Bannu kills at least 20 soldiers. ](/news/2014/01/19/war-in-north-west-pakistan-a-bomb-attack-on-an-army-convoy-in-the-city-of-bannu-kills-at-least-20-soldiers.md)
 At least 20 soldiers are killed and 24 injured in a bomb attack on an army convoy in north-western Pakistan, which the Taliban say they carried out.
 
-### [2013-14 Thai political crisis:. A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013-14-thai-political-crisis-a-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them.md)
+### [2013-14 Thai political crisis:: A blast at an anti-government protest at Victory Monument in Bangkok injures 28 protesters, seven of them seriously. ](/news/2014/01/19/2013-14-thai-political-crisis-a-blast-at-an-anti-government-protest-at-victory-monument-in-bangkok-injures-28-protesters-seven-of-them.md)
 Twenty-eight people were wounded, seven of them seriously, in a blast at an anti-government protest on Sunday afternoon, the second daylight attack using explosives in 48 hours in the Thai capital.
 
-### [Gaza-Israel conflict:. The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gaza-israel-conflict-the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-g.md)
+### [Gaza-Israel conflict:: The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gaza-israel-conflict-the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-g.md)
 _Context: Gaza Strip, Gaza-Israel conflict, Islamic Jihad Movement in Palestine, Israeli Air Force_
 
-### [Euromaidan:. New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/euromaidan-new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
+### [Euromaidan:: New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/euromaidan-new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
 _Context: Euromaidan_
 
 ### [Residents of the historic Norwegian village of Laerdalsoyri are evacuated due to a fire that has destroyed at least 10 homes. ](/news/2014/01/19/residents-of-the-historic-norwegian-village-of-la-rdalsa-yri-are-evacuated-due-to-a-fire-that-has-destroyed-at-least-10-homes.md)

@@ -6,7 +6,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Judge Katherine B. Forrest of the U.S. District Court in Manhattan, orders Fabrice "Fabulous Fab" Tourre to pay more than $825,000 for defrauding investors while a trader at Goldman Sachs. ](/news/2014/03/12/judge-katherine-b-forrest-of-the-u-s-district-court-in-manhattan-orders-fabrice-fabulous-fab-tourre-to-pay-more-than-825-000-for-defra.md)
 A U.S. judge on Wednesday ordered former Goldman Sachs Group Inc trader Fabrice Tourre to pay more than $825,000 after a jury found him liable for defrauding investors in a subprime mortgage product that failed during the financial crisis.
 
-### [Malaysia Airlines Flight 370:. China requests activation of the International Charter on Space and Major Disasters meaning international space agencies join an "unprecedented" search for the Malaysian airliner which disappeared over an ocean Saturday. ](/news/2014/03/12/malaysia-airlines-flight-370-china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-spa.md)
+### [Malaysia Airlines Flight 370:: China requests activation of the International Charter on Space and Major Disasters meaning international space agencies join an "unprecedented" search for the Malaysian airliner which disappeared over an ocean Saturday. ](/news/2014/03/12/malaysia-airlines-flight-370-china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-spa.md)
 _Context: International Charter on Space and Major Disasters, Malaysia Airlines Flight 370_
 
 ### [An explosion in the New York City neighbourhood of East Harlem kills 8 and injures over 70. ](/news/2014/03/12/an-explosion-in-the-new-york-city-neighbourhood-of-east-harlem-kills-8-and-injures-over-70.md)
@@ -18,7 +18,7 @@ _Context: Mission Bay, San Francisco_
 ### [Fiji's Health Department confirms that eleven people have died and over 10,000 people have been infected in an outbreak of the type three strain of dengue fever. ](/news/2014/03/12/fiji-s-health-department-confirms-that-eleven-people-have-died-and-over-10-000-people-have-been-infected-in-an-outbreak-of-the-type-three-st.md)
 Fiji says 11 people have died and over 10,000 others have been infected during a dengue fever outbreak.
 
-### [2014 Crimean crisis. Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/2014-crimean-crisis-russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md)
+### [2014 Crimean crisis: Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/2014-crimean-crisis-russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md)
 _Context: 2014 Crimean crisis, Russia, Ukraine, United States_
 
 ### [A new law levying criminal penalties on yeshiva students who dodge military service in the Israeli Defence Forces passes the Knesset with near unanimous support as the entire opposition boycotts the vote; Yoni Chetboun from Jewish Home is the lone no-voter. ](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.md)

@@ -9,7 +9,7 @@ _Context: General Motors, Hummer, Sichuan Tengzhong Heavy Industrial Machinery C
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
 _Context: LCROSS, Lunar water, Moon, NASA_
 
-### [ Treaty of Lisbon:. A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md)
+### [ Treaty of Lisbon:: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md)
 Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Rights attached to the Lisbon Treaty as a condition to his signing it.
 
 ### [ Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. ](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.md)

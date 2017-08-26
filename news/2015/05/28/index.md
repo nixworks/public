@@ -6,10 +6,10 @@ The dispute between Google and Oracle revolves around whether Java APIs can be c
 ### [The United States Air Force says that as many as 22 people have been inadvertently exposed to anthrax during a laboratory training exercise at Osan Air Base in South Korea. ](/news/2015/05/28/the-united-states-air-force-says-that-as-many-as-22-people-have-been-inadvertently-exposed-to-anthrax-during-a-laboratory-training-exercise.md)
 As many as 22 personnel may have been exposed to anthrax during a laboratory training exercise at a US military base in South Korea, a military statement said Thursday.
 
-### [Tornadoes of 2015 and 2015 Texas-Oklahoma flood and tornado outbreak. The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/tornadoes-of-2015-and-2015-texas-oklahoma-flood-and-tornado-outbreak-the-death-toll-from-the-recent-storms-in-the-american-states-of-texa.md)
+### [Tornadoes of 2015 and 2015 Texas-Oklahoma flood and tornado outbreak: The death toll from the recent storms in the American states of Texas and Oklahoma rises to 21 with 11 people missing. Fourteen more people have been killed in northern Mexico. ](/news/2015/05/28/tornadoes-of-2015-and-2015-texas-oklahoma-flood-and-tornado-outbreak-the-death-toll-from-the-recent-storms-in-the-american-states-of-texa.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [2015 Indian heat wave. The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/2015-indian-heat-wave-the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md)
+### [2015 Indian heat wave: The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/2015-indian-heat-wave-the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md)
 _Context: 2015 Indian heat wave, Andhra Pradesh_
 
 ### [Seventeen students are killed and five injured when a truck carrying them to school overturns on the Indonesian island of Sumatra. ](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.md)
@@ -24,7 +24,7 @@ Dennis Hastert was charged with structuring cash withdrawals to evade currency t
 ### [Independent lawmaker Catherine Murphy raises fresh allegations in Ireland's Dail against billionaire Denis O'Brien, prompting criticism over the silence of the country's media (much of it owned by O'Brien). ](/news/2015/05/28/independent-lawmaker-catherine-murphy-raises-fresh-allegations-in-ireland-s-da-il-against-billionaire-denis-o-brien-prompting-criticism-ove.md)
 Independent TD Catherine Murphy has spoken in the Dáil about the business relationship between Denis O&#39;Brien and the Irish Bank Resolution Corporation (IBRC) - the former Anglo Irish Bank - including alleged details of his loans.
 
-### [Republican Party presidential primaries, 2016. Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/republican-party-presidential-primaries-2016-former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party.md)
+### [Republican Party presidential primaries, 2016: Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/republican-party-presidential-primaries-2016-former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party.md)
 _Context: 2016 U.S. presidential election, George Pataki, New York Governor, Republican, presidential primaries_
 
 ### [NASA awards Boeing a commercial contract to build and fly the next passenger spacecraft, the CST-100. ](/news/2015/05/28/nasa-awards-boeing-a-commercial-contract-to-build-and-fly-the-next-passenger-spacecraft-the-cst-100.md)

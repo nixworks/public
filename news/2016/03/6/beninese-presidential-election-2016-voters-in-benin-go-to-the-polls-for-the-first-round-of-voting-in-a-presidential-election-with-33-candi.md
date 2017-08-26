@@ -1,6 +1,6 @@
 ### [2016-03-6](/news/2016/03/6/index.md)
 
-# Beninese presidential election, 2016. Voters in Benin go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current President Thomas Yayi Boni. 
+# Beninese presidential election, 2016: Voters in Benin go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current President Thomas Yayi Boni. 
 
 Voters in Benin went to the polls on Sunday in an election with a record number of independent candidates as outgoing President Thomas Yayi Boni is set to hand over power after two terms in office.
 
@@ -11,7 +11,7 @@ Voters in Benin went to the polls on Sunday in an election with a record number 
 
 ### Related:
 
-1. [Beninese presidential election, 2016. Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/beninese-presidential-election-2016-voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-steppin.md) _Context: Beninese, Beninese presidential election, 2016_
+1. [Beninese presidential election, 2016: Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/beninese-presidential-election-2016-voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-steppin.md) _Context: Beninese, Beninese presidential election, 2016_
 2. [President Boni Yayi of Benin dismisses his entire Cabinet. ](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.md) _Context: Beninese, President_
 3. [Beninese businessman Patrice Talon is sworn in as the new President of Benin. ](/news/2016/04/6/beninese-businessman-patrice-talon-is-sworn-in-as-the-new-president-of-benin.md) _Context: Beninese_
 4. [Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. ](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.md) _Context: Beninese_
