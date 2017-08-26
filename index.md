@@ -44,6 +44,9 @@ A Somali man is shot dead after injuring a soldier with a machete in the centre 
 ### [Culture in Toronto: Toronto's Sheraton Cadwell Orchestras closes and its management resigns following public backlash to a fat-shaming email that said only "physically fit and slim" singers would be featured in shows. ](/news/2017/08/25/culture-in-toronto-toronto-s-sheraton-cadwell-orchestras-closes-and-its-management-resigns-following-public-backlash-to-a-fat-shaming-email.md)
 It was over before the ladies who weren’t “physically fit” could sing
 
+### [2017 &ndash; Lil Uzi Vert releases his long awaited fifth album Luv is Rage 2](/news/2017/08/25/2017-ndash-lil-uzi-vert-releases-his-long-awaited-fifth-album-luv-is-rage-2.md)
+_Context: 2017, Lil Uzi Vert, Luv is Rage 2, album_
+
 ### [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md)
 Brazilian president has dissolved Renca to attract investment in region thought to contain gold with critics warning of irreversible damage
 
