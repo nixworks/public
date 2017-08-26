@@ -1,6 +1,6 @@
 ### [2017-08-24](/news/2017/08/24/index.md)
 
-# Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats homes. 
+# Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. 
 
 Mysterious &quot;incidents&quot; caused physical symptoms in at least 16 Americans linked to the U.S. embassy in Cuba, the State Department said on Thursday, in what media reports have described as an &quot;acoustic attack.&quot;
 

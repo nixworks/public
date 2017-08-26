@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-thailand-politics-yingluck-idUSKCN1B603U?il=0)
+1. [Reuters](http://www.reuters.com/article/us-thailand-politics-yingluck-idUSKCN1B603U)
 
 ### Related:
 

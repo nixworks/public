@@ -8,7 +8,7 @@ North Korea fired several short-range missiles into the sea off its east coast e
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKCN1B52Q2?il=0)
-2. [Reuters²](http://www.reuters.com/article/us-northkorea-missiles-usa-military-idUSKCN1B52SI?il=0)
+2. [Reuters²](http://www.reuters.com/article/us-northkorea-missiles-usa-military-idUSKCN1B52SI)
 
 ### Related:
 
