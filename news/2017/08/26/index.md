@@ -6,5 +6,8 @@ North Korea fired several short-range missiles into the sea off its east coast e
 ### [Trial of Yingluck Shinawatra: Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/trial-of-yingluck-shinawatra-senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week.md)
 _Context: Dubai, Pheu Thai Party, Prime Minister, Thailand, Thaksin Shinawatra, Trial of Yingluck Shinawatra, Yingluck Shinawatra_
 
+### [Philippine Drug War: Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/philippine-drug-war-hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in.md)
+Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he knelt face down in a dark and dirty alleyway, sparking public outrage over President Rodrigo Duterte’s bloody war on drugs, was buried at 2pm on Saturday (Aug 25).. Read more at straitstimes.com.
+
 ## [Previous Day...](/news/2017/08/25/index.md)
 
