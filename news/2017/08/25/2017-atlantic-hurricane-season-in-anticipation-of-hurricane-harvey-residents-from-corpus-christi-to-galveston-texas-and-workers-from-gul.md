@@ -9,9 +9,8 @@ Hurricane Harvey intensified early on Friday, spinning into potentially the bigg
 
 1. [CNN](http://www.cnn.com/2017/08/25/us/hurricane-harvey/index.html)
 2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/250235.shtml)
-3. [National Hurricane Center²](http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/252055.shtml?)
-4. [Reuters](https://www.reuters.com/article/us-global-oil-idUSKCN1B503E?il=0)
-5. [Reuters](https://www.reuters.com/article/us-storm-harvey-nhc-idUSKCN1B409K)
+3. [Reuters](https://www.reuters.com/article/us-global-oil-idUSKCN1B503E?il=0)
+4. [Reuters](https://www.reuters.com/article/us-storm-harvey-nhc-idUSKCN1B409K)
 
 ### Related:
 
