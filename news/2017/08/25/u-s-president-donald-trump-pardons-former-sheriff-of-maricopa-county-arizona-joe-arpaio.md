@@ -7,7 +7,8 @@ President Trump grants pardon to former Sheriff Joe Arpaio of Arizona.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/president-trump-grants-pardon-to-former-sheriff-joe-arpaio-of-arizona/2017/08/25/84878658-89f2-11e7-96a7-d178cf3524eb_story.html?utm_term=.1c74ba3f5374)
+1. [Reason](http://reason.com/blog/2017/08/25/trumps-pardon-of-former-sheriff-joe-arpa)
+2. [The Washington Post](https://www.washingtonpost.com/politics/president-trump-grants-pardon-to-former-sheriff-joe-arpaio-of-arizona/2017/08/25/84878658-89f2-11e7-96a7-d178cf3524eb_story.html?utm_term=.1c74ba3f5374)
 
 ### Related:
 
