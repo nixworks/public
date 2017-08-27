@@ -9,7 +9,7 @@ _Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution i
 ### [As many as 13 people, including both Afghan army soldiers and civilians, are killed and 18 others wounded by a car bomb in the southern province of Helmand, according to officials. ](/news/2017/08/27/as-many-as-13-people-including-both-afghan-army-soldiers-and-civilians-are-killed-and-18-others-wounded-by-a-car-bomb-in-the-southern-prov.md)
 As many as 13 people, including both Afghan army soldiers and civilians, were killed and 18 wounded by a car bomb in the southern province of Helmand on Sunday, officials said.
 
-### [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md)
+### [The death toll from Hurricane Harvey in the American city of Houston, Texas rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-cat.md)
 The Houston region is being pummeled Saturday by bands of heavy rain and some possible tornadoes as Hurricane Harvey continues its devastation even after moving ashore Friday night as a Category 4 storm.
 
 ### [A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md)
@@ -21,8 +21,14 @@ Five people were killed and one seriously injured after a mountain accident on S
 ### [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h (65 mph) and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-65-mph-and-heavy-rain-four-days-after-deadly-typhoon-hato.md)
 Tropical storm Pakhar brought strong winds and heavy rain to Hong Kong and Macau on Sunday, just four days after one of the strongest typhoons on record, Hato, caused serious flooding and damage in the territories and killed at least 10 people in the gaming hub.
 
+### [Police issued a warning on Sunday after chemical "haze" left up to 50 people on Britain's south coast, between the towns of Eastbourne and Birling Gap, suffering irritation to their eyes and throats. ](/news/2017/08/27/police-issued-a-warning-on-sunday-after-chemical-ahazea-left-up-to-50-people-on-britainas-south-coast-between-the-towns-of-eastbourne.md)
+_Context: Birling Gap, Eastbourne_
+
 ### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-that-is-investigating-th.md)
 _Context: Jimmy Morales, Politics of Guatemala, President of Guatemala_
+
+### [Pakistan postponed a visit by a U.S. acting Assistant Secretary of State Alice Wells, officials said, as small protests broke out against President Donald Trump's accusations that Islamabad was prolonging the war in Afghanistan. ](/news/2017/08/27/pakistan-postponed-a-visit-by-a-u-s-acting-assistant-secretary-of-state-alice-wells-officials-said-as-small-protests-broke-out-against-pr.md)
+_Context: Islamabad, Pakistan, Pakistan-United States relations, President Donald Trump_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

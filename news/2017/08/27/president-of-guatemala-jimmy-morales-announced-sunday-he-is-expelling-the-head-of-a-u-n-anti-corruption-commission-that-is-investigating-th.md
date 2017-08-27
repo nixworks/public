@@ -8,6 +8,8 @@
 ### Source:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT)
+2. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT_THE_LATEST?)
+3. [Reuters](http://www.reuters.com/article/us-guatemala-corruption-idUSKCN1B70PT?il=0)
 
 ### Related:
 
