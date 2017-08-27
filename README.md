@@ -1,4 +1,18 @@
-## [News](/news/2017/08/26/index.md)
+## [News](/news/2017/08/27/index.md)
+
+### [Rohingya insurgency in Western Myanmar: At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. ](/news/2017/08/27/rohingya-insurgency-in-western-myanmar-at-least-92-rohingya-insurgents-have-died-in-heavy-fighting-with-myanmar-state-security-forces-in-ra.md)
+_Context: Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
+
+### [2017 Atlantic hurricane season: The death toll from [[Hurricane Harvey in the American city of Houston, Texas rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/2017-atlantic-hurricane-season-the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-mo.md)
+The Houston region is being pummeled Saturday by bands of heavy rain and some possible tornadoes as Hurricane Harvey continues its devastation even after moving ashore Friday night as a Category 4 storm.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/26/index.md)
 
 ### [2017 M1 motorway crash: Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. ](/news/2017/08/26/2017-m1-motorway-crash-several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-town-of-newport-pagnell.md)
 Several people have died after a motorway crash involving two lorries and a minibus in England.
@@ -15,13 +29,9 @@ _Context: Dubai, Pheu Thai Party, Prime Minister, Thailand, Thaksin Shinawatra, 
 ### [Philippine Drug War: Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/philippine-drug-war-hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in.md)
 Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he knelt face down in a dark and dirty alleyway, sparking public outrage over President Rodrigo Duterte’s bloody war on drugs, was buried at 2pm on Saturday (Aug 25).. Read more at straitstimes.com.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/25/index.md)
+## [Day Before Yesterday](/news/2017/08/25/index.md)
 
 ### [War in Afghanistan: New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-c.md)
 Just days after the United States said it would increase troop numbers in Afghanistan and ask its allies to do the same, New Zealand on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13.
@@ -29,7 +39,7 @@ Just days after the United States said it would increase troop numbers in Afghan
 ### [Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: Government officials in Myanmar report that 12 security personnel (ten policemen, one soldier and one immigration officer) and 59 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. ](/news/2017/08/25/rohingya-insurgency-in-western-myanmar-2016-17-northern-rakhine-state-clashes-government-officials-in-myanmar-report-that-12-security-pe.md)
 Twelve security personnel and 59 Muslim militants die in attacks on police posts, the army says.
 
-### [2017 Haryana riots: Riots erupt in Panchkula and later spread to other parts of the northern Indian state of Haryana, as well as the state of Punjab and the Indian capital of New Delhi, after a special CBI court found the Dera Sacha Sauda chief Gurmeet Ram Rahim Singh guilty of rape. At least 28 people have been killed and 250 others injured. ](/news/2017/08/25/2017-haryana-riots-riots-erupt-in-panchkula-and-later-spread-to-other-parts-of-the-northern-indian-state-of-haryana-as-well-as-the-state-o.md)
+### [2017 Haryana riots: Riots erupt in Panchkula and later spread to other parts of the Northern Indian state of Haryana, as well as the state of Punjab and the Indian capital of New Delhi, after a special CBI court found the Dera Sacha Sauda chief Gurmeet Ram Rahim Singh guilty of rape. At least 28 people have been killed and 250 others injured. ](/news/2017/08/25/2017-haryana-riots-riots-erupt-in-panchkula-and-later-spread-to-other-parts-of-the-northern-indian-state-of-haryana-as-well-as-the-state-o.md)
 Violence in Panchkula and Sirsa in Haryana. Punjab and Delhi too hit; HC orders recovery of losses from Dera.
 
 ### [American involvement in the Somali Civil War: United States-supported Somali forces shoot and kill 10 Somalis, including three children, in Lower Shebelle's Bariire village near Mogadishu. While the Somalia government reports the other dead were members of the al Shabaab militia, Lower Shabelle deputy governor Ali Nur Mohamed says the victims were all civilians, farm owners, workers and their children. The U.S. Africa Command says they are investigating these civilian casualties reports. ](/news/2017/08/25/american-involvement-in-the-somali-civil-war-united-states-supported-somali-forces-shoot-and-kill-10-somalis-including-three-children-in.md)
@@ -79,32 +89,7 @@ _Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/24/index.md)
-
-### [Archaeology of Israel: A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/archaeology-of-israel-a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusa.md)
-An almost entirely intact mosaic dating to AD 550/551 is uncovered by construction workers in one of the most archaeologically rich areas of Jerusalem.
-
-### [2017 Pacific typhoon season: At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/2017-pacific-typhoon-season-at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-fo.md)
- HONG KONG (AP) — The most powerful typhoon to hit the southern Chinese region in more than half a century left at least 12 dead as a sudden deluge swamped the gambling hub of Maca
-
-### [2017 Atlantic hurricane season: Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/2017-atlantic-hurricane-season-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threat.md)
-Devastating rainfall flooding, dangerous storm surge and high winds are expected.
-
-### [Iran-Qatar relations: Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/iran-qatar-relations-qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md)
-_Context: Iran, Iran-Qatar relations, Qatar_
-
-### [Colombia-Venezuela relations: Censorship in Venezuela: Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/colombia-venezuela-relations-censorship-in-venezuela-venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-tel.md)
-Colombian TV channels Caracol and RCN are the latest foreign media to be pulled from the airwaves.
-
-### [Cuba-United States relations: The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. ](/news/2017/08/24/cuba-united-states-relations-the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cu.md)
-Mysterious &quot;incidents&quot; caused physical symptoms in at least 16 Americans linked to the U.S. embassy in Cuba, the State Department said on Thursday, in what media reports have described as an &quot;acoustic attack.&quot;
-
-### [Philippine Drug War: The Philippine senate investigates the shooting of a 17-year old male student seemingly connected to the ongoing drug war. ](/news/2017/08/24/philippine-drug-war-the-philippine-senate-investigates-the-shooting-of-a-17-year-old-male-student-seemingly-connected-to-the-ongoing-drug-w.md)
-Watch the hearing live on Rappler on Thursday, August 24, at 2 pm
-
----
-
-## [Previous Day...](/news/2017/08/23/index.md)
+## [Previous Day...](/news/2017/08/24/index.md)
 
 ---
 
