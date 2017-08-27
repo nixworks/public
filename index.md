@@ -3,6 +3,9 @@
 ### [Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. ](/news/2017/08/27/rohingya-insurgency-in-western-myanmar-2016-17-northern-rakhine-state-clashes-at-least-92-rohingya-insurgents-have-died-in-heavy-fightin.md)
 _Context: 2016-17 Northern Rakhine State clashes, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
 
+### [Iraqi Civil War (2014-present): Battle of Tal Afar (2017): The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/iraqi-civil-war-2014-present-battle-of-tal-afar-2017-the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal.md)
+ &nbsp; TAL AFAR, Iraq &ndash; The Iraqi army has announced that their forces are now in full control of the city of Tal Afar, just eight days after the launch of the operation against ISIS militants. &nbsp; Lt. Gen. Abdulamir Rashid Yaralla, commander of the Tal Afar operation, stated that the...
+
 ### [2017 Atlantic hurricane season: The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/2017-atlantic-hurricane-season-the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-mor.md)
 The Houston region is being pummeled Saturday by bands of heavy rain and some possible tornadoes as Hurricane Harvey continues its devastation even after moving ashore Friday night as a Category 4 storm.
 
