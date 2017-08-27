@@ -3,14 +3,17 @@
 ### [Rohingya insurgency in Western Myanmar: At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. ](/news/2017/08/27/rohingya-insurgency-in-western-myanmar-at-least-92-rohingya-insurgents-have-died-in-heavy-fighting-with-myanmar-state-security-forces-in-ra.md)
 _Context: Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
 
-### [2017 Atlantic hurricane season: The death toll from Hurricane Harvey in the American city of Houston, Texas rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/2017-atlantic-hurricane-season-the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more.md)
+### [2017 Atlantic hurricane season: The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/2017-atlantic-hurricane-season-the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-mor.md)
 The Houston region is being pummeled Saturday by bands of heavy rain and some possible tornadoes as Hurricane Harvey continues its devastation even after moving ashore Friday night as a Category 4 storm.
 
-### [A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md)
-_Context: Black Sea, Mongolia_
+### [Maritime incidents in 2017: A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/maritime-incidents-in-2017-a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early.md)
+_Context: Black Sea, Maritime incidents in 2017, Mongolia_
 
-### [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg.](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md)
-_Context: Austrian, Salzburg_
+### [Mountaineering deaths in Austria: Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/mountaineering-deaths-in-austria-five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-stat.md)
+Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg, the Austrian Press Agency reported.
+
+### [2017 Pacific typhoon season: Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h (65 mph) and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/2017-pacific-typhoon-season-tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-65-mph-and-heavy-rain-four-d.md)
+Tropical storm Pakhar brought strong winds and heavy rain to Hong Kong and Macau on Sunday, just four days after one of the strongest typhoons on record, Hato, caused serious flooding and damage in the territories and killed at least 10 people in the gaming hub.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [2017 M1 motorway crash: Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. ](/news/2017/08/26/2017-m1-motorway-crash-several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-town-of-newport-pagnell.md)
 Several people have died after a motorway crash involving two lorries and a minibus in England.
 
-### [2017 Atlantic hurricane season: Hurricane Harvey: Hurricane Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. ](/news/2017/08/26/2017-atlantic-hurricane-season-hurricane-harvey-hurricane-harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made.md)
+### [2017 Atlantic hurricane season: Hurricane Harvey: Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. ](/news/2017/08/26/2017-atlantic-hurricane-season-hurricane-harvey-harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall.md)
 Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into Texas late Friday. There were reports of power loss and heavy damage to buildings.
 
 ### [2017 North Korea crisis: The South Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. ](/news/2017/08/26/2017-north-korea-crisis-the-south-korean-military-reports-north-korea-has-fired-several-short-range-projectiles-into-the-sea-from-its-easte.md)
