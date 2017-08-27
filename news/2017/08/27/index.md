@@ -1,13 +1,16 @@
 ## [2017-08-27](/news/2017/08/27/index.md)
 
-### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempted to cross the border from Myanmar to Bangladesh. Many of those detained were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempte.md)
+### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
 _Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Burmese, Kutupalong Refugee Camp, Muslims, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
 
 ### [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md)
  &nbsp; TAL AFAR, Iraq &ndash; The Iraqi army has announced that their forces are now in full control of the city of Tal Afar, just eight days after the launch of the operation against ISIS militants. &nbsp; Lt. Gen. Abdulamir Rashid Yaralla, commander of the Tal Afar operation, stated that the...
 
-### [As many as 13 people, including both Afghan army soldiers and civilians, are killed and 18 others wounded by a car bomb in the southern province of Helmand, according to officials. ](/news/2017/08/27/as-many-as-13-people-including-both-afghan-army-soldiers-and-civilians-are-killed-and-18-others-wounded-by-a-car-bomb-in-the-southern-prov.md)
+### [A car bomb in Helmand Province kills up to 13 people, including Afghan army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md)
 As many as 13 people, including both Afghan army soldiers and civilians, were killed and 18 wounded by a car bomb in the southern province of Helmand on Sunday, officials said.
+
+### [Trump supporters and thousands of counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/trump-supporters-and-thousands-of-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-people.md)
+All eyes turned to Berkeley after a day of large-scale protests, and relative peace, in San Francisco
 
 ### [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md)
 The Houston region is being pummeled Saturday by bands of heavy rain and some possible tornadoes as Hurricane Harvey continues its devastation even after moving ashore Friday night as a Category 4 storm.
@@ -27,8 +30,8 @@ _Context: Birling Gap, Eastbourne_
 ### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md)
 _Context: International Commission against Impunity in Guatemala, Jimmy Morales, Politics of Guatemala, President of Guatemala_
 
-### [Pakistan postponed a visit by a U.S. acting Assistant Secretary of State Alice Wells, officials said, as small protests broke out against President Donald Trump's accusations that Islamabad was prolonging the war in Afghanistan. ](/news/2017/08/27/pakistan-postponed-a-visit-by-a-u-s-acting-assistant-secretary-of-state-alice-wells-officials-said-as-small-protests-broke-out-against-pr.md)
-_Context: Islamabad, Pakistan, Pakistan-United States relations, President Donald Trump_
+### [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md)
+_Context: Donald Trump, Pakistan, Pakistan-United States relations, foreign ministry_
 
 ## [Previous Day...](/news/2017/08/26/index.md)
 
