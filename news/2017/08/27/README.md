@@ -1,12 +1,12 @@
 ## [2017-08-27](/news/2017/08/27/index.md)
 
-### [At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. ](/news/2017/08/27/at-least-92-rohingya-insurgents-have-died-in-heavy-fighting-with-myanmar-state-security-forces-in-rakhine-state.md)
-_Context: 2016-17 Northern Rakhine State clashes, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
+### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempted to cross the border from Myanmar to Bangladesh. Many of those detained were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempte.md)
+_Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Burmese, Kutupalong Refugee Camp, Muslims, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
 
 ### [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md)
  &nbsp; TAL AFAR, Iraq &ndash; The Iraqi army has announced that their forces are now in full control of the city of Tal Afar, just eight days after the launch of the operation against ISIS militants. &nbsp; Lt. Gen. Abdulamir Rashid Yaralla, commander of the Tal Afar operation, stated that the...
 
-### [As many as 13 people, including both Afghan army soldiers and civilians, were killed and 18 wounded by a car bomb in the southern province of Helmand on Sunday, officials said. ](/news/2017/08/27/as-many-as-13-people-including-both-afghan-army-soldiers-and-civilians-were-killed-and-18-wounded-by-a-car-bomb-in-the-southern-province-o.md)
+### [As many as 13 people, including both Afghan army soldiers and civilians, are killed and 18 others wounded by a car bomb in the southern province of Helmand, according to officials. ](/news/2017/08/27/as-many-as-13-people-including-both-afghan-army-soldiers-and-civilians-are-killed-and-18-others-wounded-by-a-car-bomb-in-the-southern-prov.md)
 As many as 13 people, including both Afghan army soldiers and civilians, were killed and 18 wounded by a car bomb in the southern province of Helmand on Sunday, officials said.
 
 ### [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md)
