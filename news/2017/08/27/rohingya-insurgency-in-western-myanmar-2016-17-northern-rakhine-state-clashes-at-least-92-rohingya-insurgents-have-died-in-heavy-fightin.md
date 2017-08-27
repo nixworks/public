@@ -1,18 +1,17 @@
-### [2017-08-25](/news/2017/08/25/index.md)
+### [2017-08-27](/news/2017/08/27/index.md)
 
-# Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: Government officials in Myanmar report that 12 security personnel (ten policemen, one soldier and one immigration officer) and 59 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. 
+# Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. 
 
-Twelve security personnel and 59 Muslim militants die in attacks on police posts, the army says.
+
 
 
 ### Source:
 
-1. [AP](https://apnews.com/37103be49dd249af8f2e7297b599fb41/Myanmar:-25-dead-in-militant-attacks-on-police,-border-posts)
-2. [BBC](http://www.bbc.com/news/world-asia-41046729)
+1. [AFP via ''South China Morning Post](http://www.scmp.com/news/asia/southeast-asia/article/2108458/harrowing-accounts-myanmar-security-forces-firing-terrified)
 
 ### Related:
 
-1. [Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: At least 92 Rohingya insurgents have died in heavy fighting with Myanmar state security forces in Rakhine State. ](/news/2017/08/27/rohingya-insurgency-in-western-myanmar-2016-17-northern-rakhine-state-clashes-at-least-92-rohingya-insurgents-have-died-in-heavy-fightin.md) _Context: 2016-17 Northern Rakhine State clashes, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
+1. [Rohingya insurgency in Western Myanmar: 2016-17 Northern Rakhine State clashes: Government officials in Myanmar report that 12 security personnel (ten policemen, one soldier and one immigration officer) and 59 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. ](/news/2017/08/25/rohingya-insurgency-in-western-myanmar-2016-17-northern-rakhine-state-clashes-government-officials-in-myanmar-report-that-12-security-pe.md) _Context: 2016-17 Northern Rakhine State clashes, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar_
 2. [2016-17 Rohingya persecution in Myanmar: A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/2016-17-rohingya-persecution-in-myanmar-a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-roh.md) _Context: Myanmar, Rakhine State, Rohingya_
 3. [The United Nations calls for action to end renewed hostilities between ethnic Buddhists and Muslim Rohingya in Myanmar's western Rakhine State that have killed dozens and displaced more than 22,500. ](/news/2012/10/28/the-united-nations-calls-for-action-to-end-renewed-hostilities-between-ethnic-buddhists-and-muslim-rohingya-in-myanmar-s-western-rakhine-sta.md) _Context: Myanmar, Rakhine State, Rohingya_
 4. [2016-17 Rohingya persecution in Myanmar: The United Nations Human Rights Council releases a report detailing mass atrocities by the military and police forces against Myanmar's Rohingya minority, including gang-rapes, mass killings, and possible ethnic cleansing, which could amount to crimes against humanity. ](/news/2017/02/3/2016-17-rohingya-persecution-in-myanmar-the-united-nations-human-rights-council-releases-a-report-detailing-mass-atrocities-by-the-milita.md) _Context: Myanmar, Rohingya_
