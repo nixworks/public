@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT?)
+1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_GUATEMALA_UN_PRESIDENT)
 
 ### Related:
 
-1. [Belizean-Guatemalan territorial dispute: Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belizean-guatemalan-territorial-dispute-belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belize-guatemala-border-following.md) _Context: Jimmy Morales, President of Guatemala_
+1. [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md) _Context: Jimmy Morales, President of Guatemala_
 2. [Guatemalan Gustavo Alejos Cambara, once private secretary to former President Alvaro Colom, turns himself in to authorities on charges related to government medicine procurement corruption. ](/news/2015/12/28/guatemalan-gustavo-alejos-cambara-once-private-secretary-to-former-president-alvaro-colom-turns-himself-in-to-authorities-on-charges-rela.md) _Context: President of Guatemala_
 3. [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md) _Context: President of Guatemala_
 4. [The President of Guatemala, Otto Prez Molina, resigns after being charged in a corruption scandal; Vice President Alejandro Maldonado is sworn in as interim head of state. ](/news/2015/09/3/the-president-of-guatemala-otto-perez-molina-resigns-after-being-charged-in-a-corruption-scandal-vice-president-alejandro-maldonado-is-sw.md) _Context: President of Guatemala_
