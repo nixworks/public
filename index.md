@@ -35,7 +35,7 @@ Violence in Panchkula and Sirsa in Haryana. Punjab and Delhi too hit; HC orders 
 ### [American involvement in the Somali Civil War: United States-supported Somali forces shoot and kill 10 Somalis, including three children, in Lower Shebelle's Bariire village near Mogadishu. While the Somalia government reports the other dead were members of the al Shabaab militia, Lower Shabelle deputy governor Ali Nur Mohamed says the victims were all civilians, farm owners, workers and their children. The U.S. Africa Command says they are investigating these civilian casualties reports. ](/news/2017/08/25/american-involvement-in-the-somali-civil-war-united-states-supported-somali-forces-shoot-and-kill-10-somalis-including-three-children-in.md)
 Somali forces supported by U.S. troops shot dead 10 Somalis, including three children, in a village near the capital Mogadishu on Friday, a witness and local officials told Reuters.
 
-### [2017 Buckingham Palace incident: Two British police officers were assaulted with a machette while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-machette-while-trying-to-arrest-a-man-outside-buckingham.md)
+### [2017 Buckingham Palace incident: Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-pal.md)
 A man with a &quot;large knife&quot; who assaulted two police officers outside Buckingham Palace on Friday night has been arrested, British police said.
 
 ### [2017 stabbing of Brussels police officers: A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/2017-stabbing-of-brussels-police-officers-a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-pros.md)
@@ -43,9 +43,6 @@ A Somali man is shot dead after injuring a soldier with a machete in the centre 
 
 ### [Culture in Toronto: Toronto's Sheraton Cadwell Orchestras closes and its management resigns following public backlash to a fat-shaming email that said only "physically fit and slim" singers would be featured in shows. ](/news/2017/08/25/culture-in-toronto-toronto-s-sheraton-cadwell-orchestras-closes-and-its-management-resigns-following-public-backlash-to-a-fat-shaming-email.md)
 It was over before the ladies who weren’t “physically fit” could sing
-
-### [2017 &ndash; Lil Uzi Vert releases his long awaited fifth album Luv is Rage 2](/news/2017/08/25/2017-ndash-lil-uzi-vert-releases-his-long-awaited-fifth-album-luv-is-rage-2.md)
-_Context: 2017, Lil Uzi Vert, Luv is Rage 2, album_
 
 ### [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md)
 Brazilian president has dissolved Renca to attract investment in region thought to contain gold with critics warning of irreversible damage

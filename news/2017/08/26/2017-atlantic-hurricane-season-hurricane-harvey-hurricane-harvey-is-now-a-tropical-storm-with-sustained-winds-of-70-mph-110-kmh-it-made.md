@@ -14,6 +14,7 @@ Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into 
 5. [The Dallas Morning News](https://www.dallasnews.com/news/weather/2017/08/26/harvey-downgraded-tropical-storm-danger-far)
 6. [The New York Times](https://www.nytimes.com/2017/08/25/us/hurricane-harvey-texas.html)
 7. [The New York Times](https://www.nytimes.com/2017/08/26/us/hurricane-harvey-texas.html)
+8. [Yahoo! com](https://www.yahoo.com/news/damaging-hurricane-harvey-settles-over-southeast-texas-082259260.html?soc_trk=gcm&soc_src=90ec6248-c094-11e5-afaa-fa163e2c24a6&.tsrc=notification-brknews)
 
 ### Related:
 
