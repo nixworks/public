@@ -18,8 +18,8 @@ Five people were killed and one seriously injured after a mountain accident on S
 ### [2017 Pacific typhoon season: Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h (65 mph) and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/2017-pacific-typhoon-season-tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-65-mph-and-heavy-rain-four-d.md)
 Tropical storm Pakhar brought strong winds and heavy rain to Hong Kong and Macau on Sunday, just four days after one of the strongest typhoons on record, Hato, caused serious flooding and damage in the territories and killed at least 10 people in the gaming hub.
 
-### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-that-is-investigating-th.md)
-_Context: Jimmy Morales, President of Guatemala_
+### [Politics of Guatemala: President of Guatemala Jimmy Morales announced Sunday he is expelling the head of a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/politics-of-guatemala-president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-a-u-n-anti-corruption-commission-t.md)
+_Context: Jimmy Morales, Politics of Guatemala, President of Guatemala_
 
 ## [Previous Day...](/news/2017/08/26/index.md)
 
