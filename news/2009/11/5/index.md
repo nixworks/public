@@ -28,7 +28,7 @@ Radovan Karadzic will have a defence lawyer imposed on him after United Nations 
 _Context: Morgan Tsvangirai, Prime Minister, Zimbabwe_
 
 ### [ Thailand and Cambodia recall their ambassadors over the Cambodian government appointment of former Thai Prime Minister Thaksin Shinawatra. ](/news/2009/11/5/thailand-and-cambodia-recall-their-ambassadors-over-the-cambodian-government-appointment-of-former-thai-prime-minister-thaksin-shinawatra.md)
-_Context: Cambodia, Thailand, Thaksin_
+_Context: Cambodia, Thailand, Thaksin Shinawatra_
 
 ### [ Hurricane Ida makes landfall in Nicaragua. ](/news/2009/11/5/hurricane-ida-makes-landfall-in-nicaragua.md)
 * Ida becomes a depression but rains are dangerous * Persistent rain could affect coffee farms further inland * Storm could move into oil-rich G

@@ -19,7 +19,7 @@ The Aloha State is poised to allow gay couples to get married beginning Dec. 2.
 _Context: Jon Corzine, MF Global, New Jersey Governor, U.S. district court, Victor Marrero_
 
 ### [The Senate of Thailand rejects an asylum bill that could have seen the return of former Prime Minister Thaksin Shinawatra. ](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.md)
-_Context: Prime Minister, Thai Senate, Thaksin_
+_Context: Prime Minister, Thai Senate, Thaksin Shinawatra_
 
 ## [Previous Day...](/news/2013/11/11/index.md)
 

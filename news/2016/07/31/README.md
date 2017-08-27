@@ -4,7 +4,7 @@
 _Context: Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant, Kirkuk, explosive belt_
 
 ### [War in Somalia (2009-present): An Al-Shabaab attack on the Central Investigations Department kills at least nine people. ](/news/2016/07/31/war-in-somalia-2009-present-an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md)
-_Context: War in Somalia (2009-present), al-Shabaab militants_
+_Context: War in Somalia (2009-present), al Shabaab militia_
 
 ### [2016 Yerevan hostage crisis: A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/2016-yerevan-hostage-crisis-a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-statio.md)
 _Context: 2016 Yerevan hostage crisis, Armenia, National Security Service, Yerevan, police_

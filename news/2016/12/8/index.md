@@ -7,7 +7,7 @@ _Context: United Nations, War in Donbass_
 _Context: 2016 Aceh earthquake, Aceh, Indonesia_
 
 ### [Philippine Drug War: A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/philippine-drug-war-a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-nationa.md)
-_Context: Oplan Tokhang, Philippine National Police, Philippine senate, Philippines, constitutional constraints, drug war_
+_Context: Oplan Tokhang, Philippine Drug War, Philippine National Police, Philippine senate, Philippines, constitutional constraints_
 
 ### [New Zealand National Party leadership election, 2016: Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/new-zealand-national-party-leadership-election-2016-australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-maj.md)
 NZ Finance Minister Bill English is set to be appointed prime minister after two challengers withdrew.

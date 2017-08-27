@@ -10,7 +10,7 @@ _Context: 2007 U.S. Open Golf Championship, Angel Cabrera, Oakmont Country Club,
 _Context: Italian, Linate Airport, Milan, hare, radar_
 
 ### [ Audi wins their seventh 24 Hours of Le Mans in eight years, including their second straight win with a diesel R10 prototype. ](/news/2007/06/17/audi-wins-their-seventh-24-hours-of-le-mans-in-eight-years-including-their-second-straight-win-with-a-diesel-r10-prototype.md)
-_Context: 24 Hours of Le Mans, Audi, R10, diesel, prototype_
+_Context: 24 Hours of Le Mans, Audi, R10, diesel-powered, prototype_
 
 ### [ A Canadian pilot and five British passengers die in a plane crash in Malawi. ](/news/2007/06/17/a-canadian-pilot-and-five-british-passengers-die-in-a-plane-crash-in-malawi.md)
 _Context: Britain, Canadian, Malawi, plane crash_

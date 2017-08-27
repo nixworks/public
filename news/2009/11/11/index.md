@@ -28,7 +28,7 @@ The case of an Egyptian woman who had been stabbed to death in front of her husb
 _Context: Aardonyx celestae, South Africa, dinosaur_
 
 ### [ Cambodia rejects a request by Thailand to extradite ousted Thai Prime Minister Thaksin Shinawatra. ](/news/2009/11/11/cambodia-rejects-a-request-by-thailand-to-extradite-ousted-thai-prime-minister-thaksin-shinawatra.md)
-_Context: Cambodia, Prime Minister, Thailand, Thaksin, extradited_
+_Context: Cambodia, Prime Minister, Thailand, Thaksin Shinawatra, extradited_
 
 ### [ South Korean troops are put on high alert for possible retaliation after a naval clash with North Korea yesterday. ](/news/2009/11/11/south-korean-troops-are-put-on-high-alert-for-possible-retaliation-after-a-naval-clash-with-north-korea-yesterday.md)
 South Korean boats patrol disputed sea border after naval clash with North Korea.

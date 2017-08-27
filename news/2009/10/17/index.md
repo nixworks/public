@@ -34,7 +34,7 @@ The funeral of Boyzone singer Stephen Gately has taken place.
 _Context: Pakistan army, South Waziristan, Taliban, ongoing offensive_
 
 ### [ The government of the Maldives, including President Mohamed Nasheed, holds the world's first underwater Cabinet meeting, to highlight the threat of global warming. ](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.md)
-_Context: Global warming, Maldives, Mohamed Nasheed, his party_
+_Context: Maldives, Mohamed Nasheed, global warming, his party_
 
 ### [ 32 people are killed in a fire at a fireworks warehouse in southern India, during the Diwali celebrations. ](/news/2009/10/17/32-people-are-killed-in-a-fire-at-a-fireworks-warehouse-in-southern-india-during-the-diwali-celebrations.md)
 _Context: Diwali, India_

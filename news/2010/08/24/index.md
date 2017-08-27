@@ -7,7 +7,7 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 * Back in Barcelona, pair say they were treated well * EU to draft U.N. resolution on aid worker safety * Al Qaeda welcomes Spain cooperation, c
 
 ### [Battle of Mogadishu (2010):: Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md)
-_Context: Battle of Mogadishu (2010), MPs, President, Villa Somalia, al-Shabaab militants, storm the Hotel Muna_
+_Context: Battle of Mogadishu (2010), MPs, President, Villa Somalia, al Shabaab militia, storm the Hotel Muna_
 
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.
@@ -40,7 +40,7 @@ _Context: Agni Air Flight 101, Makwanpur District, Nepal_
 Rescue workers established phone contact with the 33 trapped Chilean miners for an hour today, revealing new details on just how the men survived 17 days with no help. The miners were just days away from running out of their meager food supply. Engineers say that the men almost escaped; they were...
 
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Barack Obama, President, Royce C. Lamberth, U.S. Department of Justice, United States federal judge, embryonic stem cell, executive order_
+_Context: Barack Obama, President, Royce C. Lamberth, U.S. Department of Justice, U.S. District Court Judge, embryonic stem cell, executive order_
 
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
 David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha gave birth to a girl, their fourth child, during a family holiday in Cornwall.

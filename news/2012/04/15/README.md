@@ -40,7 +40,7 @@ _Context: Manzini, Swaziland, democratic progress_
 An opposition leader in Belarus was released from prison after serving two years for his role in post-election rioting, his wife said Sunday.
 
 ### [Former Thai prime minister Thaksin Shinawatra plans an early return from exile. ](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.md)
-_Context: Thailand, Thaksin_
+_Context: Thailand, Thaksin Shinawatra_
 
 ## [Previous Day...](/news/2012/04/14/index.md)
 

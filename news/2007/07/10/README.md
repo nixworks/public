@@ -43,7 +43,7 @@ _Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, United States_
 _Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, United States, Washington, D.C., communism, self-determination_
 
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
-_Context: Prime Minister, Thailand, Thaksin_
+_Context: Prime Minister, Thailand, Thaksin Shinawatra_
 
 ### [ China executes the former head of the State Food and Drug Association Zheng Xiaoyu for corruption. ](/news/2007/07/10/china-executes-the-former-head-of-the-state-food-and-drug-association-zheng-xiaoyu-for-corruption.md)
 China executed the former head of its State Food and Drug Administration on Tuesday, the official Xinhua News Agency reported.

@@ -7,7 +7,7 @@ Some 15,000 Syrians are massed at the Turkish border after fleeing a government 
 Malian troops backed by U.N. helicopters stormed a U.N. police base in the city of Timbuktu and recaptured it from suspected Islamist militants who had seized it hours before Friday, the United Nations said
 
 ### [War in Somalia: al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/war-in-somalia-al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
-_Context: African Union, Merca, Somali military, War in Somalia, al-Shabaab militants_
+_Context: African Union, Merca, Somali forces, War in Somalia, al Shabaab militia_
 
 ### [Libyan Civil War (2014-present): Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/libyan-civil-war-2014-present-clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around.md)
 Two days of clashes in southeastern Libya between a local armed faction and Sudanese fighters have left more than 30 people dead, a local mayor said on Friday.

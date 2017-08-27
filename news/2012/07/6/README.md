@@ -28,7 +28,7 @@ Persistent rain continues to fall over much of the country, with very heavy rain
 Two former military leaders in Argentina have been found guilty of overseeing the systematic theft of babies from political prisoners.
 
 ### [British police arrest six men from the West Midlands and one from South Yorkshire on suspicion of terrorist offences. ](/news/2012/07/6/british-police-arrest-six-men-from-the-west-midlands-and-one-from-south-yorkshire-on-suspicion-of-terrorist-offences.md)
-_Context: British police, South Yorkshire, West Midlands_
+_Context: British police officers, South Yorkshire, West Midlands_
 
 ### [Gunmen kill 18 people and injure another two in an attack on a roadside restaurant in the Pakistani town of Turbat in Balochistan province. ](/news/2012/07/6/gunmen-kill-18-people-and-injure-another-two-in-an-attack-on-a-roadside-restaurant-in-the-pakistani-town-of-turbat-in-balochistan-province.md)
 _Context: Balochistan, Pakistan, Turbat_

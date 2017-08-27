@@ -19,7 +19,7 @@ _Context: Somalia, flood_
 _Context: Iraq, United Nations_
 
 ### [ United States district judge for the Eastern District of Louisiana Eldon Fallon rules that over seven thousand federal lawsuits against pharmaceutical company Merck claiming that its drug Vioxx caused heart problems could not be combined into one class action suit. ](/news/2006/11/22/united-states-district-judge-for-the-eastern-district-of-louisiana-eldon-fallon-rules-that-over-seven-thousand-federal-lawsuits-against-pha.md)
-_Context: Eastern District of Louisiana, Eldon Fallon, Merck & Co., United States federal judge, Vioxx, class action_
+_Context: Eastern District of Louisiana, Eldon Fallon, Merck & Co., U.S. District Court Judge, Vioxx, class action_
 
 ### [ Seven foreign oil workers are taken hostage in Nigeria. Four people die in a rescue effort including one hostage, a soldier and two of the kidnappers. ](/news/2006/11/22/seven-foreign-oil-workers-are-taken-hostage-in-nigeria-four-people-die-in-a-rescue-effort-including-one-hostage-a-soldier-and-two-of-the.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

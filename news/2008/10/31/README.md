@@ -7,7 +7,7 @@ The United States said it has received $US1.5 billion ($2.25 billion) from Libya
 _Context: Tibet_
 
 ### [ A new study by the University of East Anglia's Climatic Research Unit shows that the warming of Earth's polar regions is caused by humans. ](/news/2008/10/31/a-new-study-by-the-university-of-east-anglia-s-climatic-research-unit-shows-that-the-warming-of-earth-s-polar-regions-is-caused-by-humans.md)
-_Context: A new study, Climatic Research Unit, Earth, Global warming, University of East Anglia, caused by humans, polar region_
+_Context: A new study, Climatic Research Unit, Earth, University of East Anglia, caused by humans, global warming, polar region_
 
 ### [ The third pipeline bombing in the month of October targets an EnCana-operated gas pipeline near the town of Dawson Creek, British Columbia in Canada. ](/news/2008/10/31/the-third-pipeline-bombing-in-the-month-of-october-targets-an-encana-operated-gas-pipeline-near-the-town-of-dawson-creek-british-columbia.md)
 _Context: British Columbia, Canada, Dawson Creek, EnCana Corporation, third pipeline bombing_

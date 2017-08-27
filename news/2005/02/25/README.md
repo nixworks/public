@@ -10,7 +10,7 @@ _Context: Amsterdam, EUR, Hoofddorp, Schiphol airport_
 _Context: Britain, Iraq_
 
 ### [ Human Rights Watch states that tough methods of Thai leader Thaksin Shinawatra in the south of the country may serve to invite more trouble ](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.md)
-_Context: Human Rights Watch, Thailand, Thaksin_
+_Context: Human Rights Watch, Thailand, Thaksin Shinawatra_
 
 ### [ Vice President of Indonesia, Jusuf Kalla, states that he was pleased with the progress of talks with Free Aceh Movement in Finland. Government still opposes independence ](/news/2005/02/25/vice-president-of-indonesia-jusuf-kalla-states-that-he-was-pleased-with-the-progress-of-talks-with-free-aceh-movement-in-finland-governm.md)
 _Context: Finland, GAM, Indonesia, Jusuf Kalla, independent_

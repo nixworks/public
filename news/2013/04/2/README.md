@@ -67,7 +67,7 @@ _Context: 2013 New York City mayoral election, fraud, rig_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Top NASA scientist James Hansen retires in order to concentrate on global warming activism. ](/news/2013/04/2/top-nasa-scientist-james-hansen-retires-in-order-to-concentrate-on-global-warming-activism.md)
-_Context: Global warming, James Hansen, NASA_
+_Context: James Hansen, NASA, global warming_
 
 ## [Previous Day...](/news/2013/04/1/index.md)
 

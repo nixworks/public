@@ -7,7 +7,7 @@ _Context: New England Patriots, Philadelphia Eagles, Super Bowl_
 _Context: Ariel Sharon, Condoleezza Rice, Israel, Israeli Prime Minister, Mahmoud Abbas, President of the Palestinian Authority, United States Secretary of State_
 
 ### [ Thai Prime Minister Thaksin Shinawatra wins an unprecedented second term as prime minister, in the greatest electoral sweep in the nation's history. ](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.md)
-_Context: Prime Minister, Thaksin, greatest electoral sweep_
+_Context: Prime Minister, Thaksin Shinawatra, greatest electoral sweep_
 
 ### [ Togo succession:: The Togolese parliament tries to legalize the accession to power of Faure Gnassingb, son of Gnassingb Eyadma, by voting to change a constitutional amendment. ](/news/2005/02/6/togo-succession-the-togolese-parliament-tries-to-legalize-the-accession-to-power-of-faure-gnassingbe-son-of-gnassingbe-eyadema-by-votin.md)
 _Context: Faure Gnassingb, Gnassingb Eyadma, Togo_

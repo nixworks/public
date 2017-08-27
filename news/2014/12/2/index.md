@@ -1,7 +1,7 @@
 ## [2014-12-2](/news/2014/12/2/index.md)
 
 ### [War in Somalia: The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/war-in-somalia-the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shaba.md)
-_Context: Kenya, Mandera County, Red Cross, War in Somalia, al-Shabaab militants_
+_Context: Kenya, Mandera County, Red Cross, War in Somalia, al Shabaab militia_
 
 ### [Syrian Civil War spillover in Lebanon: Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/syrian-civil-war-spillover-in-lebanon-unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md)
 At least six soldiers killed and one wounded as fighters ambush an army patrol, security official says.

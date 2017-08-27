@@ -16,7 +16,7 @@ _Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North America
 _Context: Aftershock, Honshu Island, Japan, earthquake_
 
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Cambodia, Government of Cambodia, Preah Vihear Temple, Prime Minister, Thaksin_
+_Context: Cambodia, Government of Cambodia, Preah Vihear Temple, Prime Minister, Thaksin Shinawatra_
 
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
 Finnish authorities were holding a man and a woman on Saturday for alleged involvement in international terrorist activities.

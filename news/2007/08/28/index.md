@@ -19,7 +19,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science news. Headlines from the worlds of biology, astronomy, chemistry and physics.
 
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)
-_Context: France, Manuel Noriega, Panamanian President, United States federal judge, extradited, in absentia, money laundering_
+_Context: France, Manuel Noriega, Panamanian President, U.S. District Court Judge, extradited, in absentia, money laundering_
 
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
 _Context: Abdullah Gl, President, ruling party_

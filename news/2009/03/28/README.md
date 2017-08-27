@@ -7,7 +7,7 @@ Millions of people across the world have marked Earth Hour by switching off ligh
 _Context: England, G-20, London, announces, climate change, demonstration, poverty, unemployment_
 
 ### [ Police and fans of Northern Ireland and Poland battle after a 2010 FIFA World Cup qualifying match in Belfast. ](/news/2009/03/28/police-and-fans-of-northern-ireland-and-poland-battle-after-a-2010-fifa-world-cup-qualifying-match-in-belfast.md)
-_Context: 2010 FIFA World Cup, Belfast, British police, Northern Ireland, Poland, fans, qualifying match_
+_Context: 2010 FIFA World Cup, Belfast, British police officers, Northern Ireland, Poland, fans, qualifying match_
 
 ### [ Space Shuttle "Discovery" lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md)
 _Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, United States, lands_

@@ -14,7 +14,7 @@ _Context: Japan, Nagasaki, dropped_
 Baghdad traffic police are reportedly being given Kalashnikov assault rifles to defend themselves after a series of attacks.
 
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: Korean Peninsula, North Korea, Sea of Japan, South Korea_
+_Context: Korean Peninsula, North Korea, South Korea, the sea_
 
 ### [The International Assistance Mission suspends medical expeditions in Afghanistan following loss of personnel in the 2010 Badakhshan massacre. ](/news/2010/08/9/the-international-assistance-mission-suspends-medical-expeditions-in-afghanistan-following-loss-of-personnel-in-the-2010-badakhshan-massacre.md)
 The head of a relief group whose workers were killed had been worried there were too many foreigners on the trip.

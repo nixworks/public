@@ -7,7 +7,7 @@ The Pakistani military says it has killed at least 15 militants in air strikes i
 _Context: Jinnah International Airport_
 
 ### [Gunmen in Kenya's port city of Mombasa kill Mohamed Idris, chairman of the Council of Imams and Preachers of Kenya, who opposed the radical preachings of Somalia-s Al-Qaeda-linked Al-Shabaab insurgents. ](/news/2014/06/10/gunmen-in-kenya-s-port-city-of-mombasa-kill-mohamed-idris-chairman-of-the-council-of-imams-and-preachers-of-kenya-who-opposed-the-radical.md)
-_Context: Kenya, Mombasa, Somalia, al-Qaeda, al-Shabaab militants_
+_Context: Kenya, Mombasa, Somalia, al Shabaab militia, al-Qaeda_
 
 ### [Iraqi insurgency (post-U.S. withdrawal): Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/iraqi-insurgency-post-u-s-withdrawal-militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-mil.md)
 The important northern city was seized by an Al Qaeda offshoot after Iraqi troops fled

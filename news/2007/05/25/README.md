@@ -13,7 +13,7 @@ _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, widow_
 _Context: Britain, South African, United States_
 
 ### [ Japanese sources tell the Kyodo news agency that North Korea has test-fired several missiles towards the Sea of Japan. ](/news/2007/05/25/japanese-sources-tell-the-kyodo-news-agency-that-north-korea-has-test-fired-several-missiles-towards-the-sea-of-japan.md)
-_Context: Japan, Kyodo, North Korea, Sea of Japan, fires seven more missiles_
+_Context: Japan, Kyodo, North Korea, fires seven more missiles, the sea_
 
 ### [ Ukraine's political crisis worsens after the President of Ukraine Viktor Yushchenko fires the prosecutor general Svyatoslav Piskun. Piskun has defied the order and his supporters have occupied government buildings. ](/news/2007/05/25/ukraine-s-political-crisis-worsens-after-the-president-of-ukraine-viktor-yushchenko-fires-the-prosecutor-general-svyatoslav-piskun-piskun.md)
 _Context: Svyatoslav Piskun, Ukraine, Ukrainian President, Viktor Yushchenko_

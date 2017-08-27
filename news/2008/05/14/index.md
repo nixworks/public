@@ -13,7 +13,7 @@ _Context: Attorney General, Marc Dann, sexual harassment_
 _Context: 2008, Barack Obama, Democratic, John Edwards_
 
 ### [ The United States Department of the Interior declares that the polar bear is a threatened species due to declining levels of Arctic Ocean ice as a result of global warming. ](/news/2008/05/14/the-united-states-department-of-the-interior-declares-that-the-polar-bear-is-a-threatened-species-due-to-declining-levels-of-arctic-ocean-i.md)
-_Context: Arctic Ocean, Global warming, United States Department of the Interior, polar bear, threatened species_
+_Context: Arctic Ocean, United States Department of the Interior, global warming, polar bear, threatened species_
 
 ### [ A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. ](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.md)
 _Context: Baghdad, funeral, suicide bomber_

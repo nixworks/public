@@ -10,7 +10,7 @@ _Context: Denis Sassou Nguesso, Gabon, Omar Bongo Ondimba, Republic of the Congo
 Mayor Michael R. Bloomberg of New York, a former Democrat, is changing his affiliation to independent.
 
 ### [ North Korea is reported to have test-fired a short-range missile towards the Sea of Japan. ](/news/2007/06/19/north-korea-is-reported-to-have-test-fired-a-short-range-missile-towards-the-sea-of-japan.md)
-_Context: North Korea, Sea of Japan, test-fired a short-range missile_
+_Context: North Korea, test-fired a short-range missile, the sea_
 
 ### [ Two armed robbers are holding several people hostage in a Crdit Lyonnais bank in Paris. ](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.md)
 _Context: Crdit Lyonnais, hostage_

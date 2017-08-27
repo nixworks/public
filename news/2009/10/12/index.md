@@ -37,7 +37,7 @@ _Context: India, Orissa State, Prithvi II_
 _Context: Guinea, massacre of opposition protesters_
 
 ### [ North Korea fires five short range missiles into the Sea of Japan, after issuing a "no sail zone" for waters off its east and west coasts until October 20. ](/news/2009/10/12/north-korea-fires-five-short-range-missiles-into-the-sea-of-japan-after-issuing-a-no-sail-zone-for-waters-off-its-east-and-west-coasts-u.md)
-_Context: North Korea, Sea of Japan_
+_Context: North Korea, the sea_
 
 ### [ The body of two-year-old Aisling Symes, who disappeared last week in New Zealand, is located in a drain in Henderson, Auckland, near the place where she was last sighted. ](/news/2009/10/12/the-body-of-two-year-old-aisling-symes-who-disappeared-last-week-in-new-zealand-is-located-in-a-drain-in-henderson-auckland-near-the-pl.md)
 A body has been discovered in New Zealand close to where two-year-old Aisling Symes was last seen.

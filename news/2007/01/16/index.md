@@ -4,7 +4,7 @@
 _Context: Felix Kulov, Kurmanbek Bakiyev, Kyrgyz President, Prime Minister, Supreme Council_
 
 ### [ Thailand summons the Singaporean ambassador to Bangkok to protest about a visit made by former Prime Minister of Thailand Thaksin Shinawatra, deposed in the 2006 Thai coup d'tat, to Singapore. Thaksin was able to meet the Singaporean Deputy Prime Minister, S Jayakumar, but Singapore played down the meeting as "purely social and private". ](/news/2007/01/16/thailand-summons-the-singaporean-ambassador-to-bangkok-to-protest-about-a-visit-made-by-former-prime-minister-of-thailand-thaksin-shinawatr.md)
-_Context: 2006 coup, Bangkok, Prime Minister, S Jayakumar, Singapore, Thailand, Thaksin_
+_Context: 2006 coup, Bangkok, Prime Minister, S Jayakumar, Singapore, Thailand, Thaksin Shinawatra_
 
 ### [ The world's first genetically modified chickens have been bred by scientists in Edinburgh. The birds supposedly lay eggs that can help fight cancer. ](/news/2007/01/16/the-world-s-first-genetically-modified-chickens-have-been-bred-by-scientists-in-edinburgh-the-birds-supposedly-lay-eggs-that-can-help-figh.md)
 News and opinion from The Times &amp; The Sunday Times

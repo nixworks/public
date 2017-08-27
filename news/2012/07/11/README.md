@@ -43,7 +43,7 @@ Documents reveal ex-Fifa president Joao Havelange was paid huge sums in bribes b
 _Context: Lee Myung-bak, Lee Sang-deuk, Seoul_
 
 ### [British police widen their phone-hacking inquiry with new arrests of journalists from newspapers not owned by News Corporation, which previously has been the focus of the investigation. ](/news/2012/07/11/british-police-widen-their-phone-hacking-inquiry-with-new-arrests-of-journalists-from-newspapers-not-owned-by-news-corporation-which-previo.md)
-_Context: British police, News Corporation, conspiracy to hack mobile phones_
+_Context: British police officers, News Corporation, conspiracy to hack mobile phones_
 
 ### [Russia's lower parliament approves a bill creating a list of blacklisted websites, amid fears of censorship. ](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.md)
 Russia&#039;s lower house of parliament has passed the bill in its third and final reading, despite criticism of censorship from the country&#039;s most popular websites.

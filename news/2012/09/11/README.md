@@ -4,7 +4,7 @@
 A blast alongside a convoy of vehicles used by Yemen’s defense minister came one day after a top operative for Al Qaeda in the country was killed.
 
 ### [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md)
-_Context: AMISOM, African Union, Kenyan army forces, Kismayo, Somali National Army, Somalia, al-Shabaab militants_
+_Context: AMISOM, African Union, Kenyan army forces, Kismayo, Somali National Army, Somalia, al Shabaab militia_
 
 ### [War in Afghanistan (2001-present):: Taliban bombard Bagram Air Base. They kill three people and destroy a helicopter, wounding three personnel on board. ](/news/2012/09/11/war-in-afghanistan-2001-present-taliban-bombard-bagram-air-base-they-kill-three-people-and-destroy-a-helicopter-wounding-three-personn.md)
 Afghan insurgents bombarded a U.S. base and destroyed a NATO helicopter, killing three Afghan intelligence employees.

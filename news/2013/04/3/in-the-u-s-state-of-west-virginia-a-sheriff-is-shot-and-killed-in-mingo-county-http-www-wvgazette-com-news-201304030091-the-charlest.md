@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [U.S. President Donald Trump pardons former sheriff of Maricopa County, Arizona, Joe Arpaio. ](/news/2017/08/25/u-s-president-donald-trump-pardons-former-sheriff-of-maricopa-county-arizona-joe-arpaio.md) _Context: sheriff_
+1. [Presidency of Donald Trump: U.S. President Donald Trump pardons former sheriff of Maricopa County, Arizona, Joe Arpaio. ](/news/2017/08/25/presidency-of-donald-trump-u-s-president-donald-trump-pardons-former-sheriff-of-maricopa-county-arizona-joe-arpaio.md) _Context: sheriff_
 2. [Presidency of Donald Trump: Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _Context: U.S. state_
 3. [Georgia's 6th congressional district special election, 2017: Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/georgia-s-6th-congressional-district-special-election-2017-campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state.md) _Context: U.S. state_
 4. [Puerto Rican status referendum, 2017: With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/puerto-rican-status-referendum-2017-with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become.md) _Context: U.S. state_

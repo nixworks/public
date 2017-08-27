@@ -40,7 +40,7 @@ _Context: 2005 Indian Ocean earthquake, Gautam Goswami, judicial custody_
 _Context: CIA, Matthew Cooper, Time, Valerie Plame_
 
 ### [ The EPA says that a chemical used to make Teflon is "likely" to cause cancer. The compound is used in the creation of cookware and clothing.](/news/2005/06/30/the-epa-says-that-a-chemical-used-to-make-teflon-is-likely-to-cause-cancer-the-compound-is-used-in-the-creation-of-cookware-and-clothing.md)
-_Context: Teflon, the agency_
+_Context: Teflon, U.S. Environmental Protection Agency_
 
 ### [ Survivors of the 1979 Iran hostage crisis claim that Iran's president-elect, Mahmoud Ahmadinejad, was among their captors. The United States is looking into the matter.](/news/2005/06/30/survivors-of-the-1979-iran-hostage-crisis-claim-that-iran-s-president-elect-mahmoud-ahmadinejad-was-among-their-captors-the-united-state.md)
 _Context: Iran hostage crisis, Mahmoud Ahmadinejad_

@@ -70,7 +70,7 @@ _Context: Solar Impulse project, Solar-powered, Switzerland, aircraft_
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.
 
 ### [A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. [http://www.msnbc.msn.com/id/38154121/ns/us_news-environment/ (MSNBC)] See Climate change mitigation scenarios.](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.md)
-_Context: Climate change mitigation scenarios, Global warming, Stanford University, climate change, heat waves_
+_Context: Climate change mitigation scenarios, Stanford University, climate change, global warming, heat waves_
 
 ### [Scientists discover antibodies that may eventually lead to the development of a vaccine against AIDS. ](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.md)
 Researchers have discovered antibodies that can protect against a wide range of AIDS viruses and said they may be able to use them to design a vaccine against the fatal and incurable virus.

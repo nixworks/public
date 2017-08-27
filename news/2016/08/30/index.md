@@ -7,7 +7,7 @@ _Context: Sinjar massacre, Yazidi_
 _Context: China, Kyrgyzstan, car bomb_
 
 ### [War in Somalia (2009-present): A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/war-in-somalia-2009-present-a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s.md)
-_Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al-Shabaab militants, car bomb_
+_Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al Shabaab militia, car bomb_
 
 ### [Syrian civil war: The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/syrian-civil-war-the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-a.md)
 Islamic State said on Tuesday one of its most prominent and longest-serving leaders was killed in what appeared to be an American air strike in Syria, depriving the militant group of the man in charge of directing attacks overseas.

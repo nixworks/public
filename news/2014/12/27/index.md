@@ -1,7 +1,7 @@
 ## [2014-12-27](/news/2014/12/27/index.md)
 
 ### [Somali civil war: A top level Somali al-Shabab militant with a $3m US bounty, Zakariya Ahmed Ismail Hersi, surrenders to police. ](/news/2014/12/27/somali-civil-war-a-top-level-somali-al-shabab-militant-with-a-3m-us-bounty-zakariya-ahmed-ismail-hersi-surrenders-to-police.md)
-_Context: Somali Civil War, Somalia, US$, Zakariya Ahmed Ismail Hersi, al-Shabaab militants_
+_Context: Somali Civil War, Somalia, US$, Zakariya Ahmed Ismail Hersi, al Shabaab militia_
 
 ### [North Korea experiences another Internet and cell phone outage and holds the United States responsible. ](/news/2014/12/27/north-korea-experiences-another-internet-and-cell-phone-outage-and-holds-the-united-states-responsible.md)
 _Context: Internet_

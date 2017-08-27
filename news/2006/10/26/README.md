@@ -19,7 +19,7 @@ _Context: Esperanza Fire, Palm Springs, California, United States, arsonist_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Governments of Kiribati and Tuvalu say the citizens of their countries will need to be permanently relocated over the next ten years due to rising sea levels caused by global warming. ](/news/2006/10/26/the-governments-of-kiribati-and-tuvalu-say-the-citizens-of-their-countries-will-need-to-be-permanently-relocated-over-the-next-ten-years-du.md)
-_Context: Global warming, Governments of Kiribati, Tuvalu, rising sea levels_
+_Context: Governments of Kiribati, Tuvalu, global warming, rising sea levels_
 
 ### [ ExxonMobil Corp., the world's largest petroleum extracting company, says its third-quarter net income rose to USD $10.5 billion from $9.92 billion as crude prices rise to an all-time high. This is the second highest quarterly profit figure for a United States company. ](/news/2006/10/26/exxonmobil-corp-the-world-s-largest-petroleum-extracting-company-says-its-third-quarter-net-income-rose-to-usd-10-5-billion-from-9-92.md)
 _Context: ExxonMobil Corporation, USD, United States, crude oil, profit_

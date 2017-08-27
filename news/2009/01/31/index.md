@@ -19,7 +19,7 @@ _Context: Russia, Russian Government, Russian financial crisis of 2008-2009_
 _Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United States, women's singles_
 
 ### [ More than 5,000 Royal Police are deployed to Bangkok, Thailand, as supporters of deposed Prime Minister Thaksin Shinawatra protest. ](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.md)
-_Context: Bangkok, Prime Minister, Thai police, Thailand, Thaksin_
+_Context: Bangkok, Prime Minister, Thai police, Thailand, Thaksin Shinawatra_
 
 ### [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above 45|C in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-45-c-in-adelaide-and-melbourne.md)
 _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_

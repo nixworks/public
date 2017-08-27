@@ -19,7 +19,7 @@ _Context: Ben Bernanke, Federal Reserve, United States, interest rate_
 _Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ### [ Thailand coup d'tat:: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md)
-_Context: General, Sonthi Boonyaratglin, Thailand, Thaksin, civilian, coup_
+_Context: General, Sonthi Boonyaratglin, Thailand, Thaksin Shinawatra, civilian, coup_
 
 ### [ 2006 protests in Hungary:: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

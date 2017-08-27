@@ -40,7 +40,7 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 _Context: Patient Protection and Affordable Care Act, U.S. Supreme Court, appeals court_
 
 ### [2013 Thai protests:: Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-b.md)
-_Context: 2013 Thai protests, Prime Minister, Thaksin, Yingluck Shinawatra_
+_Context: 2013 Thai protests, Prime Minister, Thaksin Shinawatra, Yingluck Shinawatra_
 
 ### [Scottish independence referendum:: A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)
 First Minister Alex Salmond says &#034;it would cost the UK &pound;500m&#034; not to have an independent Scotland in the sterling currency, and would leave a &#034;massive hole in the UK balance of payments&#034;

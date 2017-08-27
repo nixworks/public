@@ -16,7 +16,7 @@ At 6pm on Saturday the five-and-a-half-year countdown for Euro 2008 ends and the
 _Context: Hashim Thai, Kosovo, Prime Minister_
 
 ### [ Cuba offers free sex reassignment surgery. ](/news/2008/06/7/cuba-offers-free-sex-reassignment-surgery.md)
-_Context: Cuba, gender reassignment surgery_
+_Context: Cuba, sex reassignment_
 
 ### [ In tennis, Ana Ivanovic defeats Dinara Safina to win the French Open. ](/news/2008/06/7/in-tennis-ana-ivanovic-defeats-dinara-safina-to-win-the-french-open.md)
 _Context: Ana Ivanovic, Dinara Safina, French Open, tennis_

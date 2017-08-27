@@ -61,7 +61,7 @@ Four Belarus opposition figures are charged with organising riots after the re-e
 _Context: Arbeit macht frei, Auschwitz, Sweden_
 
 ### [Minnesota sues 3M claiming they pumped PFCs, a very toxic chemical according to the United States Environmental Protection Agency, into local waterways.](/news/2010/12/30/minnesota-sues-3m-claiming-they-pumped-pfcs-a-very-toxic-chemical-according-to-the-united-states-environmental-protection-agency-into-loca.md)
-_Context: 3M, Minnesota, PFC, the agency, toxic_
+_Context: 3M, Minnesota, PFC, U.S. Environmental Protection Agency, toxic_
 
 ### [Mississippi Governor Haley Barbour frees two sisters 16 years into double life terms received for armed robbery of two men for $11, citing one of the sister's "medical condition creates a substantial cost to the state of Mississippi." ](/news/2010/12/30/mississippi-governor-haley-barbour-frees-two-sisters-16-years-into-double-life-terms-received-for-armed-robbery-of-two-men-for-11-citing-o.md)
 _Context: Haley Barbour, Mississippi, double life terms_

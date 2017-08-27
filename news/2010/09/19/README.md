@@ -70,7 +70,7 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 _Context: Fredrik Reinfeldt, Sweden, Swedish general election, The Alliance, prime minister_
 
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
-_Context: Prime Minister, Thaksin, United Front for Democracy Against Dictatorship_
+_Context: Prime Minister, Thaksin Shinawatra, United Front for Democracy Against Dictatorship_
 
 ### [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md)
 _Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Vera_

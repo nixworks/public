@@ -1,6 +1,6 @@
 ## [2017-08-26](/news/2017/08/26/index.md)
 
-### [2017 M1 motorway crash: Several people are dead after two trucks collide with a minibus on the M1 motorway near the English town of Newport Pagnell. ](/news/2017/08/26/2017-m1-motorway-crash-several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-english-town-of-newport.md)
+### [2017 M1 motorway crash: Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. ](/news/2017/08/26/2017-m1-motorway-crash-several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-town-of-newport-pagnell.md)
 Several people have died after a motorway crash involving two lorries and a minibus in England.
 
 ### [2017 Atlantic hurricane season: Hurricane Harvey: Hurricane Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. ](/news/2017/08/26/2017-atlantic-hurricane-season-hurricane-harvey-hurricane-harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made.md)

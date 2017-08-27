@@ -1,7 +1,7 @@
 ## [2006-03-16](/news/2006/03/16/index.md)
 
 ### [ Tens of thousands of Thai anti-government protesters continue their rally against the country's current Thai Prime Minister Thaksin Shinawatra today. They also demand his resignation from the post. The opposition leader, Sondhi Limthongkul, declared he and his party would not stop protesting all day and night until the PM resigns. ](/news/2006/03/16/tens-of-thousands-of-thai-anti-government-protesters-continue-their-rally-against-the-country-s-current-thai-prime-minister-thaksin-shinawa.md)
-_Context: Sondhi Limthongkul, Thailand, Thaksin_
+_Context: Sondhi Limthongkul, Thailand, Thaksin Shinawatra_
 
 ### [ U.S. President George W. Bush nominates Idaho Governor Dirk Kempthorne as United States Secretary of the Interior. ](/news/2006/03/16/u-s-president-george-w-bush-nominates-idaho-governor-dirk-kempthorne-as-united-states-secretary-of-the-interior.md)
 _Context: Dirk Kempthorne, George W. Bush, Idaho Governor, Secretary of the Interior_

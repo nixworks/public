@@ -13,7 +13,7 @@ _Context: Lagos, Nigeria_
 _Context: 100 media workers killed, Sinaloa_
 
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Bangkok, Prime Minister, Thailand, Thaksin_
+_Context: Bangkok, Prime Minister, Thailand, Thaksin Shinawatra_
 
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.

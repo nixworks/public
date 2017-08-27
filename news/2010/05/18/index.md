@@ -16,7 +16,7 @@ _Context: Dera Ismail Khan, Pakistan_
 _Context: India, Maoist, Raipur_
 
 ### [Secretary-General Ban Ki-moon appoints Christiana Figueres of Costa Rica to lead United Nations efforts to combat climate change and global warming. ](/news/2010/05/18/secretary-general-ban-ki-moon-appoints-christiana-figueres-of-costa-rica-to-lead-united-nations-efforts-to-combat-climate-change-and-global.md)
-_Context: Ban Ki-moon, Christiana Figueres, Costa Rica, Global warming, United Nations, climate change_
+_Context: Ban Ki-moon, Christiana Figueres, Costa Rica, United Nations, climate change, global warming_
 
 ## [Previous Day...](/news/2010/05/17/index.md)
 

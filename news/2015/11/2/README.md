@@ -4,7 +4,7 @@
 _Context: 2015 Nepal fuel crisis, India, Nepal, relations_
 
 ### [War in Somalia (2009-present): At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/war-in-somalia-2009-present-at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lowe.md)
-_Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present), al Shabaab militia_
 
 ### [A Palestinian terrorist stabs an 80-year-old woman and two men in the Israeli town of Rishon Letzion, and another Palestinian attacks an 71-year-old man and critically wounds him in Netanya.](/news/2015/11/2/a-palestinian-terrorist-stabs-an-80-year-old-woman-and-two-men-in-the-israeli-town-of-rishon-letzion-and-another-palestinian-attacks-an-71.md)
 _Context: Netanya, Palestinian terrorist, Rishon Letzion_
@@ -22,7 +22,7 @@ _Context: Airbus, Boeing, China, Comac, Comac C919_
 The two companies have more than 2.9 billion cards issued on its combined network.
 
 ### [Volkswagen emissions scandal: The U.S. Environmental Protection Agency (EPA) and California's CARB are widening the Volkswagen investigation into several more expensive VW, Porsche, and Audi automobiles with 3.0-liter diesel engines in model years 2014 through 2016. Volkswagen says it installed no defeat device software on its 3.0 litre V6 diesel cars and is cooperating with the agency to fully investigate the matter. ](/news/2015/11/2/volkswagen-emissions-scandal-the-u-s-environmental-protection-agency-epa-and-california-s-carb-are-widening-the-volkswagen-investigation.md)
-_Context: Audi, CARB, California, Porsche, Volkswagen, Volkswagen emissions scandal, diesel, the agency_
+_Context: Audi, CARB, California, Porsche, U.S. Environmental Protection Agency, Volkswagen, Volkswagen emissions scandal, diesel-powered_
 
 ### [TransCanada Corp asks the United States Department of State to suspend its review of the Keystone XL pipeline while it negotiates with the US state of Nebraska about the route. If granted, the delay (according to Reuters) would almost certainly mean the decision on the project will be made by a future president. ](/news/2015/11/2/transcanada-corp-asks-the-united-states-department-of-state-to-suspend-its-review-of-the-keystone-xl-pipeline-while-it-negotiates-with-the-u.md)
 Faced with dimming prospects for approval, the Canadian company behind the proposed Keystone XL pipeline chose to plead with the U.S. government for a delay on its fate, signaling that prolonged uncertainty is preferable to rejection of the $8 billion project.

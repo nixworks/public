@@ -28,7 +28,7 @@ _Context: 2016 Warsaw summit, Georgian, John Kerry, Kiev, Ukraine, Ukraine-Unite
 The United States has tentatively approved flights on eight U.S. airlines to Havana as early as this autumn, with American Airlines Group Inc (AAL.O) receiving the largest share of the limited routes, the Transportation Department said on Thursday.
 
 ### [Human rights in the Philippines; Philippine Drug War: The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-philippine-drug-war-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-su.md)
-_Context: House of Representatives, deaths, decades-old problem, drug war, human rights violations_
+_Context: House of Representatives, Philippine Drug War, deaths, decades-old problem, human rights violations_
 
 ### [Rape in Germany: Germany's parliament passes a new law saying that it is rape to have sex with a person who says "No" to the sex. Under the previous law, sex was not considered rape unless the victim fought back. The new law also classifies groping as a sex crime, makes it easier to deport migrants who commit sex offences, and makes it easier to prosecute assaults committed by a large group. ](/news/2016/07/7/rape-in-germany-germany-s-parliament-passes-a-new-law-saying-that-it-is-rape-to-have-sex-with-a-person-who-says-no-to-the-sex-under-the.md)
 _Context: Rape in Germany_

@@ -1,7 +1,7 @@
 ## [2011-09-2](/news/2011/09/2/index.md)
 
 ### [The South Korean military resumes building a naval base on the island of Jeju-do after police clear the site of protesters. ](/news/2011/09/2/the-south-korean-military-resumes-building-a-naval-base-on-the-island-of-jeju-do-after-police-clear-the-site-of-protesters.md)
-_Context: Jeju-do, Korean military, South Korea, South Korean_
+_Context: Jeju-do, South Korea, South Korean, South Korean military_
 
 ### [A court in Dusseldorf orders Samsung to stop selling its new tablet computer, Galaxy Tab, acting on a lawsuit brought by Apple. ](/news/2011/09/2/a-court-in-da1-4sseldorf-orders-samsung-to-stop-selling-its-new-tablet-computer-galaxy-tab-acting-on-a-lawsuit-brought-by-apple.md)
 _Context: Apple Inc., Dusseldorf, Galaxy Tab, Samsung_

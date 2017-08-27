@@ -4,7 +4,7 @@
 _Context: India, Jammu and Kashmir_
 
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)
-_Context: Somalia, al-Shabaab militants_
+_Context: Somalia, al Shabaab militia_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
 _Context: Pakistan, United States_

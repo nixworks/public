@@ -7,7 +7,7 @@ Children born to fathers older than 30 are more likely to develop bipolar disord
 _Context: Alger, Washington, United States, shooting spree_
 
 ### [ The United States Environmental Protection Agency vetoes plans by the Army Corps of Engineers to build the world's largest water pump on the Mississippi River Delta raising concerns about the impact on wetlands. ](/news/2008/09/2/the-united-states-environmental-protection-agency-vetoes-plans-by-the-army-corps-of-engineers-to-build-the-world-s-largest-water-pump-on-th.md)
-_Context: Delta, Mississippi River, United States, United States Army Corps of Engineers, the agency_
+_Context: Delta, Mississippi River, U.S. Environmental Protection Agency, United States, United States Army Corps of Engineers_
 
 ### [ 2008 Atlantic hurricane season:: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-hurricane-gustav-weakens-to-a-tropical-depression.md)
 _Context: 2008 Atlantic hurricane season, Hurricane Gustav_

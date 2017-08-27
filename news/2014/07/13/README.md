@@ -10,7 +10,7 @@ Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20
 _Context: Hezbollah, Lebanon, Syria, Syrian Civil War_
 
 ### [Japan's Defence Ministry claims that North Korea has fired two ballistic missiles into the Sea of Japan. ](/news/2014/07/13/japan-s-defence-ministry-claims-that-north-korea-has-fired-two-ballistic-missiles-into-the-sea-of-japan.md)
-_Context: Japan, North Korea, Sea of Japan, ballistic missile_
+_Context: Japan, North Korea, ballistic missile, the sea_
 
 ### [Argentinian police arrest at least 30 people in downtown Buenos Aires after Argentina loses the 2014 World Cup final in Brazil. ](/news/2014/07/13/argentinian-police-arrest-at-least-30-people-in-downtown-buenos-aires-after-argentina-loses-the-2014-world-cup-final-in-brazil.md)
 _Context: Argentinian police, Buenos Aires_

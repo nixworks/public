@@ -13,7 +13,7 @@ _Context: Anne Frank, Jew, Nazi, Nazi concentration camp, Netherlands, fire_
 _Context: British Embassy, Iran, Mahmoud Ahmadinejad, protests against the regime_
 
 ### [ Giant jellyfish wreak havoc around the Sea of Japan. ](/news/2009/07/19/giant-jellyfish-wreak-havoc-around-the-sea-of-japan.md)
-_Context: Giant jellyfish, Sea of Japan_
+_Context: Giant jellyfish, the sea_
 
 ### [ Henry Surtees, son of former Formula One world champion John Surtees, is killed by a flying wheel from a crash at the Brands Hatch round of the FIA Formula Two Championship supporting the WTCC.](/news/2009/07/19/henry-surtees-son-of-former-formula-one-world-champion-john-surtees-is-killed-by-a-flying-wheel-from-a-crash-at-the-brands-hatch-round-of.md)
 _Context: 2009, Brands Hatch, FIA Formula Two Championship, Formula One, Henry Surtees, John Surtees_

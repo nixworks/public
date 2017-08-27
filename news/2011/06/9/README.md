@@ -4,7 +4,7 @@
 Video emerges appearing to show body of Syrian boy killed in crackdown, as Russia rejects Security Council resolution.
 
 ### [The Government of Somalia claims to have killed a Canadian member of the al-Shabab terrorist organization. ](/news/2011/06/9/the-government-of-somalia-claims-to-have-killed-a-canadian-member-of-the-al-shabab-terrorist-organization.md)
-_Context: Canadian, Government of Somalia, al-Shabaab militants, terrorism_
+_Context: Canadian, Government of Somalia, al Shabaab militia, terrorism_
 
 ### [The United States intensifies air raids against suspected Al-Qaeda members in Yemen amid anti-government protests. ](/news/2011/06/9/the-united-states-intensifies-air-raids-against-suspected-al-qaeda-members-in-yemen-amid-anti-government-protests.md)
 US newspaper says the move is aimed at preventing suspected fighters from consolidating power in strife-torn nation.

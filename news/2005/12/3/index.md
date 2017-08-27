@@ -13,7 +13,7 @@ _Context: Abu Hamza Rabia, Afghanistan's, Pakistan_
 _Context: Baghdad, improvised explosive device_
 
 ### [ Some 40,000 protest inaction on global warming in Montreal. The demonstration, held as part of the United Nations Climate Change Conference, is one of the largest environmental protests ever and is accompanied by marches worldwide, including one in hurricane-devastated New Orleans. ](/news/2005/12/3/some-40-000-protest-inaction-on-global-warming-in-montreal-the-demonstration-held-as-part-of-the-united-nations-climate-change-conference.md)
-_Context: Global warming, Montreal, New Orleans, UN Climate Change Conference_
+_Context: Montreal, New Orleans, UN Climate Change Conference, global warming_
 
 ### [ Marilyn Manson marries Dita Von Teese in a lavish ceremony.](/news/2005/12/3/marilyn-manson-marries-dita-von-teese-in-a-lavish-ceremony.md)
 _Context: Dita Von Teese, Marilyn Manson_

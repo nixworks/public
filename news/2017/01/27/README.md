@@ -1,7 +1,7 @@
 ## [2017-01-27](/news/2017/01/27/index.md)
 
 ### [War in Somalia (2009-present): Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/war-in-somalia-2009-present-al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-ken.md)
-_Context: AMISOM, Kenya, Somalia, War in Somalia (2009-present), al-Shabaab militants_
+_Context: AMISOM, Kenya, Somalia, War in Somalia (2009-present), al Shabaab militia_
 
 ### [British actor Sir John Hurt dies at the age of 77. ](/news/2017/01/27/british-actor-sir-john-hurt-dies-at-the-age-of-77.md)
 The British actor of stage and screen also received an Academy Award nom for &#039;Midnight Express&#039; and was memorable in &#039;Alien,&#039; three Harry Potter films and &#039;Doctor Who.&#039;

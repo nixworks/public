@@ -1,7 +1,7 @@
 ## [2009-11-29](/news/2009/11/29/index.md)
 
 ### [ Nepal announces it will hold a cabinet meeting on Mount Everest to highlight the effect of global warming on glaciers. ](/news/2009/11/29/nepal-announces-it-will-hold-a-cabinet-meeting-on-mount-everest-to-highlight-the-effect-of-global-warming-on-glaciers.md)
-_Context: Global warming, Mount Everest, Nepal, Retreat of glaciers since 1850_
+_Context: Mount Everest, Nepal, Retreat of glaciers since 1850, global warming_
 
 ### [ Somali pirates capture the Greek owned oil tanker "Maran Centaurus" 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
 _Context: Greek, Somali pirates, Somalia, oil tanker_

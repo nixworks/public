@@ -4,7 +4,7 @@
 Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town when it was attacked by assailants.
 
 ### [War in Somalia (2009-present): A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/war-in-somalia-2009-present-a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md)
-_Context: Lower Shabelle, Somali military, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Lower Shabelle, Somali forces, War in Somalia (2009-present), al Shabaab militia_
 
 ### [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md)
 The FTSE 100 share index comes close to an all-time high after rising above 7,000 points as the pound plunges to a new 31-year low against the dollar.

@@ -4,7 +4,7 @@
 _Context: 2011 Syrian uprising, Damascus, Syria_
 
 ### [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md)
-_Context: Kenya, Nairobi, Operation Linda Nchi, Somalia, Uganda, al-Qaeda, al-Shabaab militants_
+_Context: Kenya, Nairobi, Operation Linda Nchi, Somalia, Uganda, al Shabaab militia, al-Qaeda_
 
 ### [Swedish divers find the wreckage of the warship "Svardet", sunk in 1676 during the Battle of Oland. ](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.md)
 Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have discovered the wreck of one of the largest 17th century warships.Found off the coast of the Baltic island of Öland at a depth of between 160 and 320 feet, the wooden wreck is believed to be that of the royal warship Svä...

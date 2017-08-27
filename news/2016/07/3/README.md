@@ -16,7 +16,7 @@ At least eight people have died after a Russian plane on a fire-fighting mission
 Swiss-EU talks reveal determination of EU to make no concessions to UK over Brexit terms
 
 ### [Human rights in the Philippines; Philippine Drug War: Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/human-rights-in-the-philippines-philippine-drug-war-ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-du.md)
-_Context: Philippine National Police, Rodrigo Duterte, addicts, drug war, human rights violations, illegal drug_
+_Context: Philippine Drug War, Philippine National Police, Rodrigo Duterte, addicts, human rights violations, illegal drug_
 
 ### [French presidential election, 2017: Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/french-presidential-election-2017-former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-can.md)
 Leader of conservative Les Republicains party announces he will step down as its head, paving the way to enter primaries ahead of 2017 contest

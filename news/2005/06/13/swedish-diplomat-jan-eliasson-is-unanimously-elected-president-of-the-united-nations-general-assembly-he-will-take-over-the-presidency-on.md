@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966-1968-and-president-jimmy-carter-s-national-s.md) _Context: diplomat_
+1. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966-1968-and-president-jimmy-carter-s-national-s.md) _Context: diplomat_
 2. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Sweden_
 3. ["Assange v Swedish Prosecution Authority": Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Sweden_
 4. [2017 Stockholm attack: A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/2017-stockholm-attack-a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_

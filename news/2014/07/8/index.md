@@ -7,7 +7,7 @@ No injuries or major damage after massive barrage targets north, Jerusalem, and 
 The Taliban claimed responsibility for a suicide attack Tuesday in central Afghanistan that claimed the lives of 10 civilians, four coalition service members and two Afghan police officers, local and military officials said.
 
 ### [War in Somalia (2009-present): Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/war-in-somalia-2009-present-al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-tr.md)
-_Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al Shabaab militia_
 
 ### [Typhoon Neoguri (2014): Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-2014-typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-island.md)
 _Context: Japan, Okinawa, Typhoon Neoguri_

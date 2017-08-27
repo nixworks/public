@@ -25,7 +25,7 @@ A plane belonging to UTair has caught fire landing at Moscow airport.
 _Context: Damascus, Virginia_
 
 ### [2013 Korean crisis:: North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/2013-korean-crisis-north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-o.md)
-_Context: 2013 Korean crisis, North Korea, Sea of Japan, launches_
+_Context: 2013 Korean crisis, North Korea, launches, the sea_
 
 ## [Previous Day...](/news/2013/05/17/index.md)
 

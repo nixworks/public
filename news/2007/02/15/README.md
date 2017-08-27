@@ -10,7 +10,7 @@ _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
 _Context: Colombia, Mara Consuelo Arajo, lvaro Arajo, paramilitary_
 
 ### [ Former U. S. Vice President Al Gore announces plans for Live Earth concerts across seven continents in July 2007 to raise awareness of global warming. ](/news/2007/02/15/former-u-s-vice-president-al-gore-announces-plans-for-live-earth-concerts-across-seven-continents-in-july-2007-to-raise-awareness-of-glob.md)
-_Context: Al Gore, Global warming, Live Earth, continents_
+_Context: Al Gore, Live Earth, continents, global warming_
 
 ### [ The Secretary-General of the United Nations Ban Ki-moon ;clams that the Sudanese government had broken a promise to allow a human rights mission into Darfur. ](/news/2007/02/15/the-secretary-general-of-the-united-nations-ban-ki-moon-clams-that-the-sudanese-government-had-broken-a-promise-to-allow-a-human-rights-mi.md)
 _Context: Ban Ki-moon, Darfur, Secretary General, Sudan_

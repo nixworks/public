@@ -7,7 +7,7 @@ _Context: North Waziristan, Pakistan, Spalga, drones launch_
 Activists in the Syrian city of Homs say they feel like they are waiting to die as regime troops step up a relentless assault on rebel-held suburbs.
 
 ### [The Islamist group Al-Shabab claims responsibility for a car bombing in the Somalian capital Mogadishu which claims at least ten people and injures at least 20. ](/news/2012/02/8/the-islamist-group-al-shabab-claims-responsibility-for-a-car-bombing-in-the-somalian-capital-mogadishu-which-claims-at-least-ten-people-and.md)
-_Context: Islamist, Mogadishu, Somalia, al-Shabaab militants_
+_Context: Islamist, Mogadishu, Somalia, al Shabaab militia_
 
 ### [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md)
 _Context: Ben Gurion Airport, Histadrut, Israel, strike, unionize_

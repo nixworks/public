@@ -1,7 +1,7 @@
 ## [2016-05-9](/news/2016/05/9/index.md)
 
 ### [ War in Somalia (2009-present): A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/war-in-somalia-2009-present-a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claim.md)
-_Context: Mogadishu, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Mogadishu, War in Somalia (2009-present), al Shabaab militia_
 
 ### [ Yemeni Civil War (2015-present): Saudi Arabian-led intervention in Yemen: Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/yemeni-civil-war-2015-present-saudi-arabian-led-intervention-in-yemen-airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
 _Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_

@@ -19,7 +19,7 @@ The death toll from flash floods that swept away entire villages in the southern
 _Context: Australia, Katherine, Northern Territory, Severe Tropical Cyclone Lua, derailment_
 
 ### [Indian anti-corruption activist Anna Hazare begins a three day fast in protest as legislation creating an anti-corruption watchdog excluding the Central Bureau of Investigation goes before the Parliament of India. ](/news/2011/12/27/indian-anti-corruption-activist-anna-hazare-begins-a-three-day-fast-in-protest-as-legislation-creating-an-anti-corruption-watchdog-excluding.md)
-_Context: Anna Hazare, Central Bureau of Investigation, India, Parliament of India_
+_Context: Anna Hazare, CBI, India, Parliament of India_
 
 ### [The government of Argentina announces that President Cristina Fernandez de Kirchner has cancer in her thyroid gland, and will have an operation on 4 January and step aside as president for 20 days until 24 January. ](/news/2011/12/27/the-government-of-argentina-announces-that-president-cristina-ferna-ndez-de-kirchner-has-cancer-in-her-thyroid-gland-and-will-have-an-opera.md)
 Argentine President Cristina Fernandez de Kirchner is to have an operation for thyroid cancer on 4 January, government officials announce.

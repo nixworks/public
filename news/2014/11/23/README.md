@@ -7,7 +7,7 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 _Context: Boko Haram, Chad, Islamist insurgency in Nigeria_
 
 ### [War in Somalia (2009-present): Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/war-in-somalia-2009-present-kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-g.md)
-_Context: Kenyan army forces, Somalia, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Kenyan army forces, Somalia, War in Somalia (2009-present), al Shabaab militia_
 
 ### [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md)
 A strong earthquake that hit a sparsely populated, mountainous area of western China killed at least five people and injured 54 others, officials said Sunday. The injured included schoolchildren in a stampede.

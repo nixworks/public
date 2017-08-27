@@ -7,7 +7,7 @@ _Context: 2006 labor protests in France, general strike, youth employment law_
 _Context: County Donegal, Denis Donaldson, Glenties, Ireland, Sinn Fin_
 
 ### [ Thailand legislative election, April 2006: Thaksin Shinawatra resigns as Prime Minister of Thailand despite his ruling Thai Rak Thai party winning an overwhelming majority in the House of Representatives. ](/news/2006/04/4/thailand-legislative-election-april-2006-thaksin-shinawatra-resigns-as-prime-minister-of-thailand-despite-his-ruling-thai-rak-thai-party.md)
-_Context: House of Representatives, Prime Minister, Thai Rak Thai, Thailand, Thailand legislative election, April 2006, Thaksin, party_
+_Context: House of Representatives, Prime Minister, Thai Rak Thai, Thailand, Thailand legislative election, April 2006, Thaksin Shinawatra, party_
 
 ### [ A security expert testifies to an inquest that film director James Miller was shot intentionally by an Israeli soldier while making a film in a Palestinian refugee camp in the Gaza Strip. ](/news/2006/04/4/a-security-expert-testifies-to-an-inquest-that-film-director-james-miller-was-shot-intentionally-by-an-israeli-soldier-while-making-a-film.md)
 _Context: Film director, Gaza Strip, Israel, James Miller, Palestinian refugee_

@@ -17,7 +17,7 @@ A Virginia man is arrested in the abduction of a British-born student who disapp
 India&#039;s low-cost mission to Mars enters the red planet&#039;s orbit on its first attempt, a world first for space exploration.
 
 ### [After 32 years of service, the last operational HU-25 Falcon, the only jet to ever be a part of the US Coast Guard's air fleet, was retired in Corpus Christi, Texas. The Falcon played a significant role in search and rescue as well as counter drug missions and was a critical asset during the Gulf War. ](/news/2014/09/24/after-32-years-of-service-the-last-operational-hu-25-falcon-the-only-jet-to-ever-be-a-part-of-the-us-coast-guard-s-air-fleet-was-retired.md)
-_Context: Corpus Christi, Texas, Gulf War, HU-25 Falcon, US Coast Guard_
+_Context: Corpus Christi, Gulf War, HU-25 Falcon, US Coast Guard_
 
 ## [Previous Day...](/news/2014/09/23/index.md)
 

@@ -43,7 +43,7 @@ A fight breaks out between rival Nigerian lawmakers in the National Assembly, le
 _Context: American Samoa, Constitutional Convention, Pago Pago_
 
 ### [United States federal judge Martin Leach-Cross Feldman issues a preliminary injunction blocking a six month moratorium on deep water offshore drilling. ](/news/2010/06/22/united-states-federal-judge-martin-leach-cross-feldman-issues-a-preliminary-injunction-blocking-a-six-month-moratorium-on-deep-water-offshor.md)
-_Context: Martin Leach-Cross Feldman, United States federal judge, injunction, moratorium, offshore_
+_Context: Martin Leach-Cross Feldman, U.S. District Court Judge, injunction, moratorium, offshore_
 
 ### [In the United Kingdom, Chancellor George Osborne presents the coalition government's emergency budget statement to the House of Commons. ](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.md)
 _Context: George Osborne, emergency budget statement_

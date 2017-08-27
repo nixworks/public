@@ -13,7 +13,7 @@ SYDNEY (Reuters Life!) - Samoa is about to become the first nation in nearly 40 
 _Context: Israel, West Bank_
 
 ### [ The Indian Central Bureau of Investigation is to investigate the helicopter crash which killed the Chief Minister of Andhra Pradesh Y. S. Rajasekhara Reddy and four others. ](/news/2009/09/7/the-indian-central-bureau-of-investigation-is-to-investigate-the-helicopter-crash-which-killed-the-chief-minister-of-andhra-pradesh-y-s-r.md)
-_Context: Andhra Pradesh, Central Bureau of Investigation, India, Y. S. Rajasekhara Reddy, helicopter_
+_Context: Andhra Pradesh, CBI, India, Y. S. Rajasekhara Reddy, helicopter_
 
 ### [ Scientists working in Papua New Guinea announce the discovery of over forty new species, including a giant rat weighing approximately 1.5kg. ](/news/2009/09/7/scientists-working-in-papua-new-guinea-announce-the-discovery-of-over-forty-new-species-including-a-giant-rat-weighing-approximately-1-5kg.md)
 _Context: Papua New Guinea, giant rat_

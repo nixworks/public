@@ -4,7 +4,7 @@
 _Context: Bannu District, Pakistan, War in North-West Pakistan, suicide bombing_
 
 ### [War in Somalia (2009-present):: Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/war-in-somalia-2009-present-nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md)
-_Context: Mogadishu, Somali military, Somalia, War in Somalia (2009-present), al-Shabaab militants_
+_Context: Mogadishu, Somali forces, Somalia, War in Somalia (2009-present), al Shabaab militia_
 
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
 Tens of thousands of students in Chile resume their protests for free education as riot police say they have been attacked with petrol bombs.
