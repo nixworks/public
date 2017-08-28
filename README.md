@@ -18,10 +18,10 @@ _Context: Black Sea, Maritime incidents in 2017, Mongolia_
 ### [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md)
 Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg, the Austrian Press Agency reported.
 
-### [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h (65 mph) and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-65-mph-and-heavy-rain-four-days-after-deadly-typhoon-hato.md)
+### [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100|km/h|mph|abbr=on and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-mph-abbr-on-and-heavy-rain-four-days-after-deadly-typhoon-h.md)
 Tropical storm Pakhar brought strong winds and heavy rain to Hong Kong and Macau on Sunday, just four days after one of the strongest typhoons on record, Hato, caused serious flooding and damage in the territories and killed at least 10 people in the gaming hub.
 
-### [Police issued a warning and evacuation orders after a unknown chemical "haze" leaves over 200 people on Britain's south coast, between the towns of Eastbourne and Birling Gap, suffering irritation to their eyes and throats. ](/news/2017/08/27/police-issued-a-warning-and-evacuation-orders-after-a-unknown-chemical-ahazea-leaves-over-200-people-on-britainas-south-coast-between.md)
+### [Police issued a warning and evacuation orders after a unknown chemical "haze" leaves over 200 people on Britain's south coast, between the towns of Eastbourne and Birling Gap, suffering irritation to their eyes and throats. ](/news/2017/08/27/police-issued-a-warning-and-evacuation-orders-after-a-unknown-chemical-haze-leaves-over-200-people-on-britainas-south-coast-between-the.md)
 More than 100 people are treated in hospital after a suspected chemical leak along the Sussex coast.
 
 ### [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md)
@@ -30,7 +30,7 @@ _Context: Donald Trump, Pakistan, Pakistan-United States relations, foreign mini
 ### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md)
 _Context: International Commission against Impunity in Guatemala, Jimmy Morales, Politics of Guatemala, President of Guatemala_
 
-### [Donald Trump supporters and thousands of counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/donald-trump-supporters-and-thousands-of-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-people.md)
+### [Right-wing protesters and thousands of counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/right-wing-protesters-and-thousands-of-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-people.md)
 All eyes turned to Berkeley after a day of large-scale protests, and relative peace, in San Francisco
 
 ## Opinion
