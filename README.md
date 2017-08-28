@@ -1,4 +1,15 @@
-## [News](/news/2017/08/28/index.md)
+## [News](/news/2017/08/29/index.md)
+
+### [North Korea fires several projectiles, including a missile which passes over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-several-projectiles-including-a-missile-which-passes-over-hokkaido-northern-japan-prompting-the-activation-of-the-natio.md)
+North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/28/index.md)
 
 ### [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md)
 A convoy of Islamic State fighters and their families began to depart the Lebanon-Syria border zone on Monday under Syrian military escort, surrendering their enclave and leaving for eastern Syria after a week-long battle.
@@ -9,16 +20,12 @@ Authorities in Houston expect 30,000 people to be housed in shelters as Tropical
 ### [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md)
 _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, same-sex marriage_
 
-### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while being in his care is in actuality way higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
+### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2017/08/27/index.md)
+## [Day Before Yesterday](/news/2017/08/27/index.md)
 
 ### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
 _Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Burmese, Kutupalong Refugee Camp, Muslims, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
@@ -55,26 +62,7 @@ All eyes turned to Berkeley after a day of large-scale protests, and relative pe
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/26/index.md)
-
-### [Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. ](/news/2017/08/26/several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-town-of-newport-pagnell-in-the-english-county-of.md)
-Several people have died after a motorway crash involving two lorries and a minibus in England.
-
-### [Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. ](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall-on-texas-s-eastern-coast-the-eye-striking-the-tow.md)
-Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into Texas late Friday. There were reports of power loss and heavy damage to buildings.
-
-### [The South Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. ](/news/2017/08/26/the-south-korean-military-reports-north-korea-has-fired-several-short-range-projectiles-into-the-sea-from-its-eastern-kangwon-province-the.md)
-North Korea fired several short-range missiles into the sea off its east coast early on Saturday, South Korea and the U.S. military said, as the two allies conducted annual joint military drills that the North denounces as preparation for war.
-
-### [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md)
-_Context: Dubai, Pheu Thai Party, Prime Minister, Thailand, Thaksin Shinawatra, Trial of Yingluck Shinawatra, Yingluck Shinawatra_
-
-### [Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in-the-philippines.md)
-Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he knelt face down in a dark and dirty alleyway, sparking public outrage over President Rodrigo Duterte’s bloody war on drugs, was buried at 2pm on Saturday (Aug 25).. Read more at straitstimes.com.
-
----
-
-## [Previous Day...](/news/2017/08/25/index.md)
+## [Previous Day...](/news/2017/08/26/index.md)
 
 ---
 
