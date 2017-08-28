@@ -6,8 +6,11 @@ A convoy of Islamic State fighters and their families began to depart the Lebano
 ### [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md)
 Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.
 
-### [ Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-and-adoption-by-same-sex-couples-tw.md)
-_Context: Chile, Michelle Bachelet, civil union, same-sex marriage_
+### [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md)
+_Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, same-sex marriage_
+
+### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while being in his care is in actuality way higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
+Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
 ## [Previous Day...](/news/2017/08/27/index.md)
 
