@@ -60,8 +60,8 @@ Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he k
 
 ## [Day Before Yesterday](/news/2017/08/25/index.md)
 
-### [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md)
-Just days after the United States said it would increase troop numbers in Afghanistan and ask its allies to do the same, New Zealand on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13.
+### [Four gunmen attack a Shiite mosque in Kabul, Afghanistan, killing at least 20 people. ](/news/2017/08/25/four-gunmen-attack-a-shiite-mosque-in-kabul-afghanistan-killing-at-least-20-people.md)
+_Context: Afghanistan, Kabul, War in Afghanistan_
 
 ### [Government officials in Myanmar report that 12 security personnel (ten policemen, one soldier and one immigration officer) and 59 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. ](/news/2017/08/25/government-officials-in-myanmar-report-that-12-security-personnel-ten-policemen-one-soldier-and-one-immigration-officer-and-59-rohingya-i.md)
 Twelve security personnel and 59 Muslim militants die in attacks on police posts, the army says.
