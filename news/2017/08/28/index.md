@@ -3,5 +3,11 @@
 ### [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md)
 A convoy of Islamic State fighters and their families began to depart the Lebanon-Syria border zone on Monday under Syrian military escort, surrendering their enclave and leaving for eastern Syria after a week-long battle.
 
+### [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md)
+Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.
+
+### [ Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-and-adoption-by-same-sex-couples-tw.md)
+_Context: Chile, Michelle Bachelet, civil union, same-sex marriage_
+
 ## [Previous Day...](/news/2017/08/27/index.md)
 
